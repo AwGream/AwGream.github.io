@@ -1,0 +1,593 @@
+2021. évi CXLVI. törvény végső előterjesztői indokolása
+
+az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program 1. prioritásához („Az adminisztrációs terhek csökkentése”) illeszkedve az „E-ingatlan-nyilvántartás” című projekt keretében megvalósul az ingatlan-nyilvántartás elektronizálása, a műszaki fejlesztéssel párhuzamosan azonban az ehhez igazodó jogi szabályozási alapok megteremtése is szükséges. Első lépésként az Országgyűlés már elfogadta az ingatlan-nyilvántartásról szóló 2021. évi C. törvényt (a továbbiakban: Inytv.), melynek az elektronikus ingatlan-nyilvántartás működéséhez elengedhetetlen rendelkezései 2023. február 1-jén lépnek hatályba. Tekintettel arra, hogy az ingatlan- nyilvántartásról szóló 1997. évi CXLI. törvény és az Inytv. egyes anyagi jogi és eljárásjogi rendelkezései jelentősen eltérnek egymástól, rendelkezni szükséges arról, hogy az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény hatálya alatt induló és az Inytv. hatálybalépésekor folyamatban lévő eljárásokat mely szabályok alkalmazásával kell lefolytatni, valamint az ágazati jogszabályok és az Inytv. összhangját is szükséges megteremteni.
+
+A törvényjavaslat célja a fentieken túl a köziratok védelmének erősítése, az egyes eljárások és illetékességi szabályok jogértelmezésének egyszerűsítéséhez szükséges pontosítás, valamint a köziratokról vezetett nyilvántartások adatkörének és a nyilvántartásba veendő iratok körének egyértelmű törvényi meghatározása. A törvényjavaslat ezért a köziratok védelmének elősegítése mellett implementálja a jogrendszerbe a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) alkalmazása során összegyűlt tapasztalatokat, amelyek iratkezelési, adatkezelési, fogalmi és levéltári illetékességi kérdéseket érintenek. A törvényjavaslat a nemzetiségi önkormányzati levéltár alapítására vonatkozóan is tartalmaz rendelkezéseket, és kiegészíti a megszűnő közlevéltár levéltári anyagának elhelyezésére vonatkozó szabályokat.
+
+A törvényjavaslat harmadik nagy tárgyköre a területrendezéssel, településrendezéssel és a kulturális örökség védelmével összefüggő törvények módosítása. Ennek eredményeként erősödik a termőföldvédelmi követelmények érvényesítése a területrendezési hatósági eljárásokban, a rendelkezések elősegítik az új településtervek hatékony elkészítését és eredményes alkalmazását, továbbá a kulturális javak vonatkozásában a gyakorlati tapasztalatokból fakadó kisebb módosítások, szövegpontosítások is történnek. A törvényjavaslat emellett kitér a világörökségekkel kapcsolatosan 2022 januárjában létrejövő új javaslattevő, véleményező és döntés-előkészítő testülethez kapcsolódó szabályokra is, továbbá módosítja a településkép védelméről szóló 2016. évi LXXIV. törvény (a továbbiakban: Tktv.) településkép-érvényesítési eszközök készítésére, elfogadására vonatkozó szabályait. A törvényjavaslat az egyre terjedő naperőművek területfoglalásának anomáliáira válaszolva szabályozza a telepítés területi feltételeit a jó minőségű termőföldek, kertek, szőlők, továbbá az ökológiailag értékes területek védelme érdekében.
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. § (2) bekezdés a) pontja alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az 1. § meghatározza az Inytv. időbeli hatályát, kimondva, hogy az első, második, harmadik és negyedik részének rendelkezéseit a 2023. február 1-jén és az azt követően indult ingatlan-nyilvántartási eljárásokban kell alkalmazni. A már folyamatban lévő eljárásokat - főszabály szerint - a megindulásukkor hatályban lévő jogszabályi rendelkezések szerint kell lefolytatni. A törvény meghatározza az Inytv. hatálybalépésekor folyamatban lévő eljárásokra vonatkozó kivételszabályokat is, amikor úgy rendelkezik, hogy a megismételt eljárásban az Inytv. első és második részének rendelkezéseit, a hatálybalépésüket követően, az ingatlanügyi hatóság eljárási cselekményeire kell alkalmazni, valamint a 2023. február 1-jén folyamatban lévő, 2023. február 1-jét megelőzően több fővárosi és megyei kormányhivatal illetékességébe tartozó eljárásokat a 2023. február 1-jén hatályos illetékességi szabályok szerint kell lefolytatni. Az előbbi kivételszabály alapján a megismételt eljárásokban az ingatlanügyi hatóság már az elektronikus ingatlan-nyilvántartási rendszer használatával folytatja le az eljárást, azonban a beadványok alaki és tartalmi elemeire, valamint az ügyfelek eljárási kötelezettségeire még a 2023. február 1-jét megelőzően hatályos jogszabályi rendelkezéseket kell alkalmazni. A 2023. február 1-jét megelőzően több fővárosi és megyei kormányhivatal illetékességébe tartozó még lezáratlan ügyeket - tekintettel arra, hogy az ingatlanügyi hatóságok 2023. február 1-jétől országos illetékességgel járnak el -, már a 2023. február 1-jétől hatályos illetékességi szabály szerint kell lefolytatni.
+
+A 2. §-hoz
+
+Az Inytv. fogalomhasználatában bekövetkező változások miatt indokolt rendelkezés.
+
+A 3. §-hoz
+
+Átmeneti rendelkezést tartalmaz azokra a mező- és erdőhasznosítású föld ingatlanokra megkötött jóváhagyás- köteles szerződésekre, amelyek 2023. február 1-jét megelőzően kifüggesztésre kerülnek, vagy amelyeket 2023. február 1-jét megelőzően jóváhagyás céljából megküldenek a mezőgazdasági igazgatási szerv számára, ingatlan-nyilvántartási bejegyzés céljából viszont csak 2023. január 31-ét követően nyújtanak be az ingatlanügyi hatósághoz.
+
+-----STARTING---POINT---VEGE---
+
+A 4. §-hoz
+
+Hatályba léptető rendelkezések.
+
+Az 5. §-hoz
+
+Sarkalatossági záradék.
+
+A 6-7. §-hoz
+
+A magánút közforgalom elől történő elzárásának bejegyzését a hatályos szabályozás alapján az ingatlan tulajdonosának (kezelőjének) kell kezdeményeznie. E feladatnak az ügyben egyébként is eljáró közlekedési hatósághoz telepítése csökkenti az ingatlantulajdonosok bürokratikus terheit, valamint biztosítja, hogy a bejegyzés valóban megtörténjen.
+
+Az Inytv. új földkönyvi adatszolgáltatás lehetősége kifejezetten hasznos lehet a közlekedési beruházások előkészítéséhez, így szükséges az építtetői adatkezelésre a felhatalmazást a közúti közlekedésről szóló 1988. évi I. törvényben megadni.
+
+Az Inytv. fogalomhasználatában bekövetkező változások miatt indokolt módosítások.
+
+A 8. §-hoz
+
+Ingatlan-nyilvántartást érintő ügyben az ingatlan-nyilvántartási bejegyzéshez arra is szükség van, hogy a jog vagy tény bejegyzésével közvetlenül érintett valamennyi személy az ingatlan-nyilvántartásról szóló törvény végrehajtási rendeletében meghatározott tartalommal és módon az ingatlanügyi hatóság informatikai rendszerében rögzített egybehangzó nyilatkozattal felhatalmazza a közjegyzőt a bejegyzés iránti kérelem benyújtására. A felhatalmazás alapján a közokiratot szerkesztő közjegyző kérelmet nyújt be az ingatlanügyi hatósághoz, amelyhez a közokiratot csatolja.
+
+A 9. §-hoz
+
+A most hatályos szabályozás szerint a felszámolás jogerős elrendelését követően a bíróság a felszámoló által beszerzett tulajdoni lapok adatai alapján megkeresi az illetékes ingatlanügyi hatóságokat a felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése, továbbá az adós nevére vonatkozó adatváltozás átvezetése iránt. A megkeresést a Kormány által kijelölt ingatlanügyi hatóság útján kell megküldeni, és a megkereséshez mellékelni kell az érintett ingatlanok pontos megjelölését (település neve, helyrajzi szám) és a bejegyzéssel érintett tulajdoni hányadot, valamint a felszámolási eljárásra vonatkozó tény megjelölését.
+
+Az Inytv. hatálybalépését követően a bekezdés úgy változik, hogy a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 38. § (1) bekezdéséből ide kerül át az a rendelkezés, hogy az adós ingatlanán és egyéb vagyontárgyain fennálló elidegenítési és terhelési tilalom és végrehajtási jog a felszámolás kezdő időpontjában megszűnik. Az Inytv. alapjául szolgáló informatikai fejlesztés eredményeképpen ez a nyilvántartás összekapcsolhatóvá válik az állam más közhiteles nyilvántartásaival, tehát a bíróságnak nem kell az illetékes ingatlanügyi hatóságot megkeresnie. A bíróság a felszámolási eljárásra vonatkozó adat bejegyzése iránt úgy intézkedik, hogy ennek az adatnak az ingatlan-nyilvántartásba történő bejegyzését végzéssel elrendeli.
+
+Az új ingatlan-nyilvántartás és a más állami közhiteles nyilvántartások elektronikus adatcseréje lehetővé teszi, hogy az ingatlan-nyilvántartásnak azok az adatai, amelyeket elsődlegesen más állami nyilvántartásba jegyeztek be, onnan automatikusan frissüljenek. A civil szervezetek nyilvántartásának informatikai rendszere tekintetében technikailag még nem valósítható meg az ingatlan-nyilvántartással az összekapcsolódás, ezért a civil szervezet esetén az adós nevében az „f. a.” toldat átvezetéséről a bíróság végzésének külön rendelkeznie kell.
+
+A jelenleg hatályos szabályozás szerint a felszámolás jogerős elrendelését követően a bíróság a felszámoló által beszerzett tulajdoni lapok adatai alapján megkeresi az illetékes ingatlanügyi hatóságokat a felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése, továbbá az adós nevére vonatkozó adatváltozás átvezetése iránt. Az ingatlanügyi hatósághoz címzett megkeresést a bíróság a Kormány által kijelölt ingatlanügyi hatóság útján küldi meg minden érintett illetékes ingatlanügyi hatósághoz, és a megkereséséhez mellékelnie kell az érintett ingatlanok pontos megjelölését (település neve, helyrajzi szám) és a bejegyzéssel érintett tulajdoni hányadot, valamint közölnie kell a felszámolási eljárásra vonatkozó tény megjelölését.
+
+Az Inytv. hatálybalépését követően a bekezdés úgy változik, hogy a Cstv. 38. § (1) bekezdéséből ide kerül át az a rendelkezés, hogy az adós ingatlanán és egyéb vagyontárgyain fennálló elidegenítési és terhelési tilalom és végrehajtási jog a felszámolás kezdő időpontjában megszűnik.
+
+Az Inytv. hatálybalépését követően a felszámolási eljárást megindító bíróság rendeli el végzésben, hogy az ingatlanügyi hatóság a felszámolási eljárásra vonatkozó adatot az ingatlan-nyilvántartásba bejegyezze, az ingatlanra vonatkozó elidegenítési és terhelési tilalmat és végrehajtási jogot pedig törölje.
+
+Az Inytv. alapjául szolgáló informatikai fejlesztés eredményeképpen az ingatlan-nyilvántartás összekapcsolhatóvá válik az állam más közhiteles nyilvántartásaival, ezáltal az ingatlan-nyilvántartásnak azok az adatai, amelyek elsődlegesen más állami nyilvántartásban vannak bejegyezve, onnan automatikusan frissülni tudnak. A civil szervezetek nyilvántartásának informatikai rendszere tekintetében azonban technikailag még nem valósítható meg az ingatlan-nyilvántartással az összekapcsolódás, ezért a civil szervezet esetén az adós nevében az „f. a.” toldat átvezetéséről a bíróság végzésének külön rendelkeznie kell.
+
+A Cstv. 38. § (4) bekezdéséből a Cstv. 29. §-ába kerül át az a rendelkezés, hogy az adós ingatlanán és egyéb vagyontárgyain fennálló elidegenítési és terhelési tilalom a felszámolás kezdő időpontjában megszűnik.
+
+Az Inytv. hatálybalépését követően a felszámolási eljárást egyezséggel befejezetté nyilvánító bíróság rendeli el végzésben, hogy az ingatlanügyi hatóság a felszámolási eljárásra vonatkozó adatot az ingatlan-nyilvántartásból törölje.
+
+Az Inytv. alapjául szolgáló informatikai fejlesztés eredményeképpen az ingatlan-nyilvántartás összekapcsolódhatóvá válik az állam más közhiteles nyilvántartásaival, ezáltal az ingatlan-nyilvántartásnak azok az adatai, amelyek elsődlegesen más állami nyilvántartásban vannak bejegyezve, onnan automatikusan frissülni tudnak. A civil szervezetek nyilvántartásának informatikai rendszere tekintetében azonban technikailag még nem valósítható meg az ingatlan-nyilvántartással az informatikai rendszerek együttműködését biztosító összekapcsolódás, ezért a civil szervezet esetén az adós nevében az „f. a.” toldat törléséről a bíróság végzésének külön rendelkeznie kell.
+
+Az Inytv. hatálybalépését követően a felszámolási eljárás megszüntetéséről döntést hozó bíróság rendeli el végzésben, hogy az ingatlanügyi hatóság a felszámolási eljárásra vonatkozó adatot az ingatlan-nyilvántartásból törölje.
+
+Az Inytv. alapjául szolgáló informatikai fejlesztés eredményeképpen az ingatlan-nyilvántartás összekapcsolódhatóvá válik az állam más közhiteles nyilvántartásaival, ezáltal az ingatlan-nyilvántartásnak azok az adatai, amelyek elsődlegesen más állami nyilvántartásban vannak bejegyezve, onnan automatikusan frissülni tudnak. A civil szervezetek nyilvántartásának informatikai rendszere tekintetében azonban technikailag még nem valósítható meg az ingatlan-nyilvántartással az informatikai rendszerek együttműködését biztosító összekapcsolódás, ezért a civil szervezet esetén az adós nevében az „f. a.” toldat törléséről a bíróság végzésének külön rendelkeznie kell.
+
+Az Inytv. hatálybalépését követően a felszámolási eljárást - az adós jogutód nélküli megszüntetésével - lezáró döntést hozó bíróság rendeli el végzésben, hogy az ingatlanügyi hatóság az ingatlan-nyilvántartásból törölje azokat a jogokat és tényeket az egyes ingatlanoknál, ahol az adós jogosultként van bejegyezve.
+
+A Cstv. 60. § (3) bekezdésében kimondásra kerül, hogy a bíróság a felszámolási eljárásban az általa jóváhagyott vagyonfelosztásnak megfelelően rendeli el az ingatlan-nyilvántartásba jog vagy adat keletkezésének, változásának vagy megszűnésének bejegyzését, ezek kérelmezése iránt tehát nem a felszámolónak kell intézkednie.
+
+A felszámolónak csak a közhiteles jármű-nyilvántartásoknál kell eljárnia a felszámolással jogutód nélkül megszüntetett adósra vonatkozó adatok törlésének kérelmezése érdekében Ingatlan-nyilvántartás esetén minderről a bíróság rendelkezik, a Cstv.-nek a jelen tervezet által beiktatott 60. § új (1a) bekezdése, illetve egyszerűsített felszámolás esetén a Cstv. 63/B. § új (5a) bekezdése szerint.
+
+Ha az adós felszámolási eljárással történt jogutód nélküli megszüntetését követően derül ki, hogy a felszámolást lefolytató bíróság nem rendelkezett a jogutód nélkül megszűnt gazdálkodó szervezetet megillető jog vagy őt érintő adat más javára történő átengedéséről vagy a jog vagy adat megszűnéséről, akkor ennek megállapítása iránt egy sajátos bírósági nemperes eljárás lefolytatásának van helye. A jelen törvény szerinti módosítás kiegészíti a szabályozást, azt is kimondja, hogy ha ezen eljárás során nem nyert bizonyítást, hogy felszámolással megszűnt szervezetet megillető jog vagy az ingatlan-nyilvántartásba bejegyzett adat más javára bejegyezhető lehetne, akkor a bíróság elrendeli annak törlését is.
+
+A 10-15. §, 31-33. §, 52. §, 56. §, 60-65. §, 69-71. §, 73. §, 75-76. §, 78. §, 86. §, 94. §, 110. §, 121-122. §-hoz
+
+A fenti szakaszokkal érintett ágazati jogszabályok módosítását leginkább az Inytv. által bevezetett, a jelenleg hatályban lévő, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvénytől részben eltérő fogalomhasználat indokolja. Az új rendelkezések hatályba lépését követően ugyanis megszűnik a jog bejegyzése, tény feljegyzése és adat átvezetése közötti különbségtétel, az egységes fogalom a bejegyzés lesz, akár jogról, akár tényről, akár adatról beszélünk. Bejegyzés alatt a módosítást, törlést is érteni kell.
+
+Fontos különbség továbbá, hogy jelenleg az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben főszabály, hogy az ingatlan-nyilvántartási eljárás ügyfél kérelmére vagy hatóság megkeresésére indul, hivatalból csak a törvényben meghatározott viszonylag szűk körben indul ingatlan-nyilvántartási eljárás. Az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) a megkeresés fogalmát azonban nem abban az értelemben használja, ahogy azt az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény. Ezt a kettősséget az egyértelműség érdekében meg kellett szüntetni. A jövőben az ingatlan-nyilvántartási eljárás - az Ákr.-nek megfelelően - vagy kérelemre, vagy hivatalból indul. Mivel a bíróság vagy valamely hatóság nem lehet kérelmező, a jövőben hivatalból indul az eljárás akkor is, ha az ingatlanügyi hatóság bíróság vagy valamely hatóság beadványa alapján jár el. A megkeresés fogalom megszűnik, azt csak az Ákr. szerinti értelemben használja az Inytv. A bíróság elrendeli a bejegyzést, a különböző hatóságok pedig felhívják az ingatlanügyi hatóságot a bejegyzés teljesítésére.
+
+A 16. §-hoz
+
+A törvényjavaslat kiegészíti, és a jogértelmezés elősegítése érdekében pontosítja a közfeladatot ellátó szerv fogalmát.
+
+A közfeladatot ellátó szervnél vagy személynél maradó iratok kiemelt védelmet élveznek, mivel azok ügyviteli célú használatának biztosítása, és a maradandó értékkel bírók levéltári megőrzése kiemelten közérdeknek tekinthető. Az Alaptörvény P) cikke alapján ezek az iratok kiemelt védelmet élveznek. A köziratok védelme - a Nemzeti Hitvallásban foglaltak szerint Magyarország alkotmányos folytonosságából adódóan - a közfeladat ellátás fogalma kiterjesztőleg értelmezendő. A közirat fogalma vonatkozik a Magyarország története során az állami vagy önkormányzati feladatellátás, vagy általában véve közhatalom gyakorlására, illetve ennek keretében keletkezett iratokra.
+
+A közfeladatot ellátó szerv hatályos fogalma a közfeladatot részben a közfeladat kataszterben történő szerepeltetéshez köti, amely ugyanakkor deklaratív, normatív módon az államháztartási törvényre vezethető vissza. A Magyarország történelme során keletkezett, a mindenkori államszervezet működését tanúsító iratok teljes körére történő egyértelmű alkalmazása ás azzal való azonosítása érdekében indokolt a közfeladat ellátó szerv fogalmának pontosítása.
+
+Ugyanakkor meg kell jegyezni, hogy a közfeladatot ellátó szerv fogalmának módosítása nem eredményez abban változást, hogy a közfeladatot ellátó szerv fogalma nem terjed ki a közfeladatot ellátó közérdekű vagyonkezelő alapítványokra, de kiterjed a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által fenntartott felsőoktatási intézményekre.
+
+A törvényjavaslat rendelkezik továbbá a metaadat fogalmának a meghatározásáról a közfeladatot ellátó szervnek a szerv működése szempontjából lényeges iratairól vezetett nyilvántartás adattartalmához kapcsolódóan. A metaadat az adatokra vonatkozó adat, iratkezelési megközelítésben, az egyes iratokra, ügyiratokra vonatkozóan nyilvántartott információk teljes köre, ide értve a nyilvántartásba vételre, az irat tartalmára, annak átvételére, továbbítására, az ügyintéző szervezeti egységre, vagy személyre, irattárazásra, megőrzésre stb. vonatkozó információkat, amely az iratkezelési szoftverben, papír alapú iktatókönyvben, mutatókönyvben, kézbesítőkönyvben, vagy más iratkezelési segédletben kerülnek rögzítésre.
+
+A törvényjavaslat a „közlevéltár illetékessége” fogalom helyett bevezeti az „illetékes közlevéltár” fogalmát az egységes fogalomhasználat megteremtése érdekében, összefüggésben a közlevéltári illetékességre vonatkozó szabályoknak a jogértelmezés elősegítése miatti pontosításával.
+
+A 17. §-hoz
+
+A köziratok esetében az ügyviteli érdek érvényesítése megköveteli az egyes iratok nyomon követhetőségét és folyamatos rendelkezésre állását. Természetes személyekkel történő kapcsolattartás esetén ez megköveteli egyes személyes adatok rögzítését is. Az iratokról rögzített metaadatok között, tehát személyes adatnak minősülő információk rögzítése is szükséges. A nyilvántartásba vétel - érkeztetés, illetve iktatás - során rögzítendő adattartalmat a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet tartalmazza, az Ltv. hatályos szövegében foglalt általános rendelkezés alapján. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvénnyel való összhang megteremtéséhez indokolt a személyes adatok nyilvántartására vonatkozó felhatalmazás törvényben történő pontos meghatározása. A rendelkezés nem jelent új adatkezelési kötelezettséget.
+
+Az irat tárgyának rögzítése a nyilvántartó rendszeren belül azért szükséges, hogy az egyedi ügy beazonosítható legyen. Ez alapfeltétele az irat későbbi használatának, mivel elsődlegesen ez teszi lehetővé annak utólagos visszakeresését. Tekintettel arra, hogy az azonosított vagy azonosítható természetes személyre vonatkozó bármely információ személyes adatnak minősül, a közfeladatok ellátása során ez az adatkör rendkívül széles, ugyanakkor az ügyirat azonosításához szükséges minimális információ rögzítése elengedhetetlen.
+
+A törvényjavaslat lehetővé teszi, hogy a konkrét ügyek beazonosításához szükséges adatokat rögzítsék, ugyanakkor előírja, hogy csak az ehhez feltétlenül szükséges adatkört szabad az irat tárgyaként a nyilvántartásban rögzíteni, a kiemelten védendő különleges adatok körébe tartozó személyes adat ilyen célú rögzítésére ugyanakkor nem ad lehetőséget.
+
+A módosítás az Ltv. hatályos előírásaihoz illeszkedően továbbra is érvényre juttatja a személyes adatok megfelelő szintű védelmét, az ügyviteli érdek és a maradandó értékű iratok közérdekű archiválásának biztosításával. Az Ltv. előírásaiból következően a maradandó értékű iratok megőrzése érdekében eltérő szabályok következnek egyes törlési kötelezettségek, például a közérdekű adatok igénylők személyes adatai tekintetében. Ezen iratok esetében a szerv ugyanakkor az irattári terve megalkotásánál köteles figyelembe venni ezen előírásokat. Abban az esetben, ha törlési kötelezettség alá eső irat maradandó értékű irattá minősítésre kerül, akkor a szerv azt köteles megőrizni, azt a szerv működésével kapcsolatosan semmilyen módon nem szabad felhasználni. Az anyag levéltárba kerülését követően annak megismerése az Ltv.-ben a személyes adatok védelmére vonatkozó garanciák szerint történhet, vagyis az érintett halálát követően 30 évvel válnak megismerhetővé.
+
+A közfeladatot ellátó szervnek iratairól vezetett nyilvántartásából (iktatókönyvéből) egyes adatok nem törölhetőek. Egy adott évre vonatkozó iktatókönyv mint adategyüttes önmagában is iratnak minősül az Ltv. fogalommeghatározása alapján. A köziratok védelmére vonatkozó szabályok alapján az abban szereplő adatok egy részének törlése is tilos. Az iktatókönyvhöz történő hozzáférést a szerv ugyanakkor köteles iratkezelési szabályzatában olyan módon meghatározni, hogy az abban szereplő adatokhoz ellenőrizhető módon, az ügyviteli érdek kiszolgálása mellett a személyes adatok védelme is érvényesüljön. Az iktatókönyvben rögzített személyes adatokra is kiterjednek az Ltv. megismerésrési szabályiból fakadó garanciái.
+
+A 18. §-hoz
+
+Jogtechnikai, koherenciát biztosító rendelkezés.
+
+A 19. §-hoz
+
+A levéltárak a közfeladatot ellátó szervek ellenőrzése során találkozhatnak a köziratok fennmaradását súlyosan veszélyeztető körülményekkel. Ez nem csupán a maradandó értékű iratok fennmaradását, de az ügyviteli értékű iratok rövidtávú megőrzését is veszélyeztetheti. A Magyar Nemzeti Levéltár (a továbbiakban: MNL) hatósági feladatkörre történő kijelölésével országos hatáskörű hatósági eljárási jogkör jöhet létre, amellyel a köziratok megőrzését súlyosan veszélyeztető esetben elrendelhetővé válik azok kijelölt központi szolgáltatónál történő elhelyezése.
+
+A hatósági eljárás szabályaira figyelemmel indokolt a hatósági eljárásra vonatkozó utalás beemelése a köziratok kezelésének levéltári ellenőrzésére vonatkozó rendelkezések közé, amely alapján az Ltv. 11. § b) pontja szerinti határidő lejárta után az MNL hatósági eljárást indít.
+
+A 20. §-hoz
+
+A törvényjavaslat a köziratok védelmében rögzíti a köziratok védelmére irányuló hatósági eljárás szabályait, valamint kijelöli közigazgatási hatósági hatáskör gyakorlására az MNL-t. A hatósági eljárással biztosítható a közfeladatot ellátó szervek irattárában őrzött köziratok biztonságos, szakszerű megőrzése, amely a maradandó értékű köziratok fennmaradása szempontjából kiemelkedően fontos.
+
+A levéltárak, a közfeladatot ellátó szervek ellenőrzése során, számos esetben találkoznak a köziratok fennmaradását súlyosan veszélyeztető körülményekkel. Ezek nem csupán a maradandó értékű iratok fennmaradását, de az ügyviteli értékű iratok rövidtávú megőrzését is veszélyeztetik, amely súlyos kockázatot jelent mind a közigazgatás hatékony működtetése, mind az állampolgári jogok érvényesítése szempontjából. A hatályos szabályok szerint az észlelt hiányosságokat az illetékes közlevéltár jegyzőkönyvbe foglalja, megszüntetésükre határidőt állapít meg, de további szankcionálási jogköre nincs. Az MNL hatósági feladatkörre történő kijelölésével, országos hatáskörű hatósági eljárási jogkör alakítható ki, amellyel a köziratok megőrzését súlyosan veszélyeztető esetben elrendelhetővé válik azok kijelölt, központi szolgáltatónál történő elhelyezése, a köziratok megőrzését veszélyeztető szerv költségére. Az új hatósági feladatkör az MNL már meglévő a közirati minőségének megállapításával összefüggő hatósági eljárással kapcsolatosan meglévő kapacitásokon alapul.
+
+A 21. §-hoz
+
+A közfeladatot ellátó szerv fogalmának módosításának átvezetése. Az Ltv. a közlevéltárak feladatai között jelenleg a különösen jelentős levéltári anyagáról történő biztonsági másolatot készítéséről rendelkezik. Az iratanyag minél könnyebb - lehetőleg online - elérésére vonatkozó társadalmi elvárások és a levéltárak tényleges gyakorlata révén jelentős mennyiségű használati célú digitális másolat készül. Ezen használati célú digitalizálási tevékenység közlevéltárai alapfeladatként történő meghatározása indokolt.
+
+A 22. §-hoz
+
+A törvényjavaslat az Ltv. 3. § r) pontja szerinti, a közlevéltár illetékességét meghatározó rendelkezést, tekintettel annak normatív tartalmára, a törvény normatív rendelkezései között szabályozza újra, egyúttal pontosítja annak érdekében, hogy jogértelmezés egyértelmű legyen.
+
+A 23. §-hoz
+
+A törvényjavaslat pontosítja az MNL illetékességi körét. Magyarországon jelenleg négy települési önkormányzati levéltár működik, Vácott, Tatabányán, Győrben és Székesfehérváron, amelyek illetékessége a fenntartó önkormányzatra, illetve annak testületére, hivatalára és intézményeire terjed ki.
+
+A 24. §-hoz
+
+A rendelkezés a felsőoktatási levéltárak illetékességére vonatkozó szabályok jogtechnikai pontosítását tartalmazza.
+
+A 25. §-hoz
+
+A nemzetiségek jogairól szóló 2011. évi CLXXXIX. törvény 2. § 5. pontja a nemzetiségi feladatot ellátó közgyűjtemények között ismeri el a levéltárat. A törvényjavaslat rögzíti a nemzetiségi önkormányzati levéltár alapításának feltételeit.
+
+A 26. §-hoz
+
+A törvényjavaslat lehetővé teszi a levéltári anyagot kiállítási célból - az iratanyag épségét nem veszélyeztető - kikölcsönözését nem közgyűjteménynek minősülő kölcsönvevő esetében is. Emellett a törvényjavaslat rögzíti az állományvédelmi célú és ügyviteli célú kölcsönzés lehetőségét, és meghatározza a felügyeleti szervre vonatkozó szabályokat is.
+
+A 27. §-hoz
+
+A törvényjavaslat egyértelműsíti, hogy ha egy vallási közösség által fenntartott nyilvános magánlevéltár át kívánja venni a vallási közösség által fenntartott közfeladatot ellátó szerv iratait, akkor egyúttal a szervre vonatkozóan a közlevéltár illetékességébe tartozó feladatokat, így a szervnyilvántartás vezetését, az iratkezelés ellenőrzését, az iratkezelési szabályzatok és iratselejtezések jóváhagyását is gyakorolja. Az átláthatóság és nyomon követhetőség érdekében erről a szerv szempontjából illetékes közlevéltárat értesíteni kell, amely az átvett feladatokat nyilvántartja.
+
+A 28. §-hoz
+
+A törvényjavaslat iratkezelési, fogalmi és levéltári illetékességi vonatkozású szövegcserés módosításokat tartalmaz a jogalkalmazás tapasztalatai alapján.
+
+A levéltári anyag csereszerződés útján történő átadása nem csak múzeumok, hanem más muzeális intézmények esetében is indokolt. Szükséges továbbá a nemzetiségekről szóló 2011. évi CLXXIX. törvény 2. § 5. pont b) alpontja szerinti nemzetiségi önkormányzati levéltárra, különösen annak alapítására vonatkozó rendelkezések pontosítása is. Emellett a nemzeti történelmünk szempontjából kiemelt fontossággal bíró eseményekkel kapcsolatos levéltári iratok kutathatóságát biztosító rendelkezést tartalmaz a javaslat. A törvényjavaslat pontosítja az általános levéltárak illetékességi körét, mivel a levéltárral nem rendelkező közfeladatot ellátó szerv tartozhat más közlevéltár illetékességébe, így e szervek esetében nem az általános levéltárak az illetékesek. A törvényjavaslat egységes fogalomhasználatot vezet be a közlevéltárak illetékességi körére vonatkozóan.
+
+A 29. §-hoz
+
+Hatályvesztésről szóló, jogtechnikai rendelkezéseket tartalmaz.
+
+A 30. §-hoz
+
+Az utóbbi időben fokozott igény mutatkozik naperőművek telepítésére illetve a térségi jelentőségű egyedi építmény megyei területrendezési tervbe történő beillesztésére irányuló területrendezési hatósági eljárás lefolytatására, amennyiben a megvalósítani kívánt erőművet a területrendezési terv nem tartalmazza. A megújuló energiaforrások elterjedését messzemenőkig támogatjuk. Ugyanakkor a környezet elért védettségi szintjének fennmaradását is garantálni szükséges.
+
+A területrendezési hatósági eljárás során indokolt szakkérdésként vizsgálni a termőföld minőségi védelmére vonatkozó kérdéskört is, amely a tapasztalatok szerint nem egységes módon valósul meg a gyakorlatban. A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/D. § (4) bekezdésének pontosítása az Alaptörvény P) cikkében foglalt termőföldvédelmi követelménynek és a termőföld védelméről szóló törvényi előírásoknak a területrendezési hatósági eljárásokban való markánsabb képviseletét szolgálja.
+
+A 34. §-hoz
+
+A nagyobb települések esetében a tervezési jogosultsággal rendelkező településmérnök szakemberek nem tudják elkészíteni a fejlesztési terveket, abba be kell vonniuk közgazdasági és szociológiai végzettségű személyeket is, akik nem rendelkeznek tervezői jogosultsággal. Mivel az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 16. § (2) bekezdése szerint településtervezési - és ennek részeként fejlesztési - tervet csak tervezési jogosultsággal rendelkező személy készíthet és az egyes munkarészek tekintetében való bevonásról az Étv. nem rendelkezik, így a gyakorlatban nehézséget jelent a nem tervező szakértők bevonása a fejlesztési tervek előkészítésébe.
+
+Az Étv. 16. §-ának kiegészítése ezt kívánja orvosolni azzal, hogy lehetőséget biztosít más szakirányú végzettségűek tervkészítésbe történő bevonására. A fejlesztési tervet tehát tervezési jogosultsággal rendelkező és tervezési jogosultsággal nem rendelkező, minden esetben szakirányú végzettséggel bíró személyek készítik elő, akik saját munkarészükért vállalnak felelősséget.
+
+A településrendezési tervek vonatkozásában is ismert a tervkészítésbe történő bevonás, azonban a rendezési terv jellege alapján ott olyan egyéb személyek vesznek részt a tervkészítésben, akik maguk is rendelkeznek tervezési jogosultsággal, azaz ott a fenti problémakör nem jelentkezik.
+
+A 35. §-hoz
+
+A módosítást a településrendezési illeszkedés fogalmának 2021. július 1-jétől bevezetett definíciója és az azzal kapcsolatos normaszöveg-változás teszi szükségessé.
+
+Az egyedi ügyben, jellemzően egy határozat részeként megjelenő településrendezési illeszkedési követelményekhez (például a telektömbben lévő többi épülethez akkor illeszkedik, ha az előkert 5 méter, az épületmagasság maximum 6 méter és csak lakó rendeltetést tartalmaz) nem társulnak eljárásjogi garanciák és a tervkészítésnél különben véleményezésre jogosult állami főépítész szerepe sem érvényesül az önkormányzat határozatának meghozatalánál. A törvényjavaslatban ezért rögzítésre kerül, hogy a helyi építési szabályzat egyértelmű előírásai nem helyezhetők hatályon kívül, hiszen ezáltal minden ügyben egyedileg lenne szükséges az irányadó beépítési szabályt megállapítani (mikor illeszkedik az épület a környezetéhez).
+
+Összességében a településrendezési illeszkedés követelménye egy kisegítő eszköz arra az időszakra, amikor még nincs helyi építési szabályzat, vagy az egyes kérdésekről nem rendelkezik. A helyi építési szabályzattól független településrendezési illeszkedési követelmény meghatározásával egyidejűleg az önkormányzatnak meg kell kezdenie a helyi építési szabályzat vagy a szabályzatból hiányzó kötelező szabályozási elem megalkotását. A településrendezési illeszkedés követelménye a helyi építési szabályzat hatálybalépésével hatályát veszti.
+
+Amennyiben a helyi építési szabályzat - jellemzően annak szabályozási tervi melléklete - mondja ki, hogy az építkezéseknél az illeszkedés szabályai az irányadók, akkor azzal egyidejűleg konkretizálni szükséges azt is, hogy minek mihez kell illeszkednie, mi az illeszkedési szabály területi hatálya. A szomszéd épületekhez, a telektömbhöz, az adott építési övezet egészéhez kell illeszkedni - ezt egyértelműen meg kell határozni, különben az építési tevékenységet végző számára bizonytalan jogi helyzet alakul ki. Szintén rögzíteni kell az önkormányzatnak a helyi építési szabályzatában, hogy az illeszkedés a beépítési szabályokra (például a beépítési magasságra) vonatkozik-e, vagy magában foglalja a rendeltetési illeszkedést is, és így például kizárja a lakóövezetben a kereskedelmi, szolgáltató rendeltetésű építmények elhelyezését. Összességében tehát fel kell számolni azt a szabályozási gyakorlatot, amely olyan követelményt („illeszkedés”) támaszt, amelynek konkrét tartalma ismeretlen, vagy más-más személy számára mást-mást jelent.
+
+Az Étv. 18. § (6) bekezdése azon gyakorlatot kívánja jogszabályi szinten kezelni, amikor a helyi építési szabályzat folyamatos módosítás alatt áll és az egyes, - sokszor egymáshoz kapcsolódó módosításokat - külön-külön eljárásban indítja meg az önkormányzat. Ez ugyanis ahhoz vezet, hogy a rendelet elfogadásakor már előkészítés alatt állnak a rendeletek újabb módosításai, amely a jogalkalmazók számára nem biztosít kiszámítható és követhető szabályozási környezetet. Ezért törvényi szintén indokolt kimondani, hogy a rendeleti módosítások elaprózása helyett törekedni kell - több igény felmerülése esetén - az átfogó módosításokra.
+
+A 36. §-hoz
+
+A telekalakítási eljárást érintően indokolt az Alaptörvény P) cikkének rendelkezéseiből fakadóan egyes - a telekalakítási eljárás során a szakkérdések vizsgálatával összefüggő, valamint természetvédelemmel kapcsolatos jogi jelleg továbbvezetésére vonatkozó - kormányrendeleti szabályok törvényi szintre történő emelése.
+
+A 37. §-hoz
+
+Szövegpontosítás az építésügyi és építésfelügyeleti hatósági eljárások eljárási szabályaival kapcsolatban.
+
+A 38. §-hoz
+
+Az építésügyi hatósági eljárások kapcsán indokolt az Alaptörvény P) cikkének rendelkezéseiből fakadóan egyes - az építésügyi hatósági eljárások során a szakkérdések vizsgálatával összefüggő - kormányrendeleti szabályok törvényi szintre történő emelése.
+
+A 39. §-hoz
+
+Az Étv. 47. §-ának kiegészítése tartalmazza, hogy az építésügyi, építésfelügyeleti hatóság hivatalból intézkedik az általa az ingatlan-nyilvántartásba bejegyeztetett, már teljesített kötelezettség törlése céljából. Ezzel az ügyfelek terhei csökkennek, az ingatlan-nyilvántartás adatai pedig naprakészebbek lesznek.
+
+A 40. §-hoz
+
+Az Étv. 53/G. §-ának kiegészítése kizárja a fennmaradási engedélyezési eljárás szünetelését. Építésrendészeti eljárásban hozott felhívás alapján indult fennmaradási engedélyezési eljárásokban jelenleg problémát okoz, hogyha az ügyfél az eljárás szünetelését kéri, majd az eljárás folytatását nem, ezáltal az eljárás megszűnik. A fennmaradási engedélyezési eljárás hivatalból történő folytatására nincs lehetőség, és a jogvesztő határidők elteltével a szabálytalan építménnyel kapcsolatos intézkedésre a hatóságnak már nincs lehetősége. A problémát az Étv. új rendelkezése orvosolja.
+
+A 41. §-hoz
+
+A településrendezési eszközök átfogó módosítása esetében fennállhat, hogy új szerkezeti tervet vagy helyi építési szabályzatot kell elfogadni. Ez nem jelenti az új településterv elfogadását, így erre a korábbi tartalmi követelmény szabályok vonatkoznak.
+
+A 42. §-hoz
+
+A gyakorlati tapasztalatok indokolják a tetőtér-beépítéssel kapcsolatosan az Étv.-be a 60/K. § beiktatását. Ugyan az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 1. melléklete meghatározza a tetőtér-beépítés fogalmát (tetőtérben új helyiség, helyiségek, építményszint kialakítása), az építési gyakorlat azonban a tetőtér bővítését és a tetőtérnek bővítése nélküli átalakítását is tetőtér-beépítésnek nevezi. Az Étv. a bővítés nélküli tetőtér-beépítésről rendelkezik, és ezt a jelenlegi szövegpontosítás - a jövőre nézve - egyértelművé teszi. A 60/H. § c) pontjában szereplő műtárgyak elhelyezése természetesen együtt járhat az épület térfogatának növekedésével.
+
+Az Étv. új 60/L. §-a átmeneti rendelkezéseket tartalmaz a településfejlesztési tervek készítése, a helyi építési szabályzatok módosítása, valamint a korábban elrendelt változtatási tilalmak tekintetében. Egyben rögzíti, hogy az illeszkedési előírásokat 2022. év végéig az önkormányzatoknak felül kell vizsgálniuk, mivel a bizonytalan jogi helyzet az ingatlantulajdonosok tulajdonhoz fűzött jogait veszélyezteti.
+
+A 43. §-hoz
+
+Az Étv. 16. § (4) bekezdésével összhangban álló kiegészítés, felhatalmazó rendelkezés kormányrendeleti szabályozás megalkotására.
+
+A 44. §-hoz
+
+Az 1. ponthoz: A településfejlesztés és a településrendezés együttesen a településtervezés, ezért az Étv. 1. § (1) bekezdés b) pontosításra szorul.
+
+A 2., 3., 4. és 11. ponthoz: Az Étv. 32. §-a részletezi az építészeti-műszaki tervezéssel kapcsolatos szabályokat. Az építészeti-műszaki tervezés magában foglalja az építmények mellett a táj- és kertépítészeti alkotások megtervezését is, amelyre vonatkozóan az OTÉK és a helyi építési szabályzat is állapíthat meg követelményeket. Az építésügyi hatóság eljárásának egyértelműsítését szolgálja ez a rendelkezés, miszerint eljárása kiterjed a táj- és kertépítészeti alkotások vizsgálatára is.
+
+Az 5. ponthoz: A korszerű településtervezésben az elsődleges szempont a víz helyben tartása, az elvezetés csak ennek korlátai esetén javasolt. Szükséges ezért - a környezetvédelmi követelményekkel összhangban - a hangsúly eltolása a vízmegtartás irányába. A „részbeni” elhagyása indokolt, mivel akár a teljes mennyiség helyben tartása is elvárt, ha az adottságok és lehetőségek adottak.
+
+A 6. ponthoz: A módosítás pontosítja, hogy mikor van szükség az országos főépítész véleményének kikérésére. 
+
+A 7. ponthoz: A településrendezési előírások érvényesülését elősegítő módosítás.
+
+A 8. ponthoz: Az önkormányzatok barnamezős területeiket továbbra is lehatárolhatják, azonban ez számukra nem kötelező. A rozsdaövezeti akcióterületek meghatározását a Kormány végzi, ebben az önkormányzatok a kormányzat segítségére lehetnek, azonban a helyi építési szabályzat szabályozási tervlapján nem kötelező a barnamezős területeket feltüntetniük.
+
+A 9. és 10. ponthoz: A fejlesztési terv egy integrált és egyben stratégiai jellegű dokumentum, amely törvényi szinten is megjelenik.
+
+A 11. ponthoz: Egyértelműsítést szolgáló módosítás, miszerint településenként, fővárosi kerületenként csak egy településfejlesztési terv lehetséges.
+
+A 12. ponthoz: A településfejlesztési terv és a településrendezési típusú terv közötti összhangot tartalmazó kiegészítés.
+
+A 13. ponthoz: Az Étv. 13. § (6) bekezdése szerinti feladatkör pontosítását tartalmazza, miszerint a polgármester feladata az elfogadott helyi építési szabályzatnak (ideértve a módosításokkal egységes szerkezetbe foglalt szabályzat feltöltését is) az E-TÉR-be való feltöltése.
+
+A 14. ponthoz: A településtervek közös készítésénél az E-TÉR rendszer működésére tekintettel szükséges módosítani az Étv. 15. § (2) bekezdését: az egyes települések vonatkozásában külön-külön egyeztetési eljárás folyik és az elfogadott terveket is külön-külön kell feltölteni. Maga a településtervezés, azaz a tervek előkészítése természetesen a több település vonatkozásában együttesen is történhet.
+
+A 15., 17., 19., 20., 28. ponthoz: Ezen módosításokat az Inytv. által bevezetett, a jelenleg hatályban lévő, az ingatlan- nyilvántartásról szóló 1997. évi CXLI. törvénytől részben eltérő fogalomhasználat indokolja. Az új rendelkezések hatályba lépését követően ugyanis megszűnik a jog bejegyzése, tény feljegyzése és adat átvezetése közötti különbségtétel, az egységes fogalom a bejegyzés lesz, akár jogról, akár tényről, akár adatról beszélünk. Bejegyzés alatt a módosítást, törlést is érteni kell.
+
+Fontos különbség továbbá, hogy jelenleg az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben főszabály, hogy az ingatlan-nyilvántartási eljárás ügyfél kérelmére vagy hatóság megkeresésére indul, hivatalból csak a törvényben meghatározott viszonylag szűk körben indul ingatlan-nyilvántartási eljárás. Az Ákr. a megkeresés fogalmát azonban nem abban az értelemben használja, ahogy azt az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény. Ezt a kettősséget az egyértelműség érdekében meg kellett szüntetni. A jövőben az ingatlan- nyilvántartási eljárás - az Ákr.-nek megfelelően - vagy kérelemre, vagy hivatalból indul. Mivel a bíróság vagy valamely hatóság nem lehet kérelmező, a jövőben hivatalból indul az eljárás akkor is, ha az ingatlanügyi hatóság bíróság vagy valamely hatóság beadványa alapján jár el. A megkeresés fogalom megszűnik, azt csak az Ákr. szerinti értelemben használja az Inytv. A bíróság elrendeli a bejegyzést, a különböző hatóságok pedig felhívják az ingatlanügyi hatóságot a bejegyzés teljesítésére.
+
+A 16. és 18. ponthoz: A településtervezési szabályozás változása miatt szükséges pontosítást tartalmaz.
+
+A 21-26. pontokhoz: A tudomásulvételi eljárással és a fennmaradási engedélyezéssel kapcsolatos pontosítást tartalmaz, koherenciazavart szüntet meg.
+
+A 27. ponthoz: a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény (a továbbiakban Szankciótv.) 6. § (3) bekezdése szerint figyelmeztetés alkalmazásának akkor van helye, ha közigazgatási szabályszegés elkövetése miatt más szankció nem alkalmazható, vagy ha a közigazgatási szabályszegés az elkövetés körülményeire tekintettel csekély súlyú és a figyelmeztetéstől kellő visszatartó hatás várható. Az építésrendészeti eljárás során vagy olyan döntés születik, amelyre fogalmilag kizárt a figyelmeztetés alkalmazása (például felhívás fennmaradási engedély benyújtására), a többi esetben pedig biztosan nincs szó csekély súlyú szabályszegésről. Mivel ez utóbbi esetekben anyagilag a szankció végrehajtása megterhelő, valószínűleg a kellő visszatartó hatás sem várható a figyelmeztetéstől. A figyelmeztetéssel ráadásul a legjobb esetben is ugyanazt a hatást éri el a hatóság, mintha azonnal kötelezést bocsát ki. A Szankciótv. 6. § (5) bekezdése alapján így lehetőség van a figyelmeztetés kizárására ezekben az esetekben.
+
+A 29. és 30. ponthoz: A településtervezési szabályozás változása miatt szükséges pontosítást tartalmaz.
+
+A 31. ponthoz: Szövegpontosítást tartalmaz, továbbá a folyamatban lévő tervkészítések lezárásának határidejét 6 hónappal kitolja.
+
+A 32. ponthoz: Szövegpontosító javaslat, az egységes jogértelmezés és jogalkalmazás érdekében.
+
+A 45. §-hoz
+
+Az a) ponthoz: Az Étv. szükségtelenül ír elő viszonylag hosszú, 30 napos várakozási időt a településrendezési terv hatályba léptetésére az elfogadást követően. Ahogyan a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet [a továbbiakban: 419/2021. (VII. 15.) Korm. rendelet] nem szabályozza a helyi építési szabályzatok hatálybalépésének (a kihirdetés és a hatálybalépés közötti időtartam) kérdését, úgy indokolt a rendelkezés hatályon kívül helyezése [Étv. 8. § (3) bekezdése].
+
+A b)-f) ponthoz: Az Étv. pontosításokat igényel a megszűnt igazgatási szolgáltatási díjakkal, illetve az építésügyi és építésfelügyeleti hatósági eljárások eljárási szabályaival kapcsolatosan. A 2020. március 1-jei hatásköri átalakítás miatt köztisztviselők már nem látnak el építésügyi, építésfelügyeleti hatósági feladatot, továbbá a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság nevének pontosítása szükséges.
+
+A g) ponthoz: Az Étv. 60. § (9) bekezdésében foglaltakkal teremti meg az összhangot a fővárosi kerületekre vonatkozó szabályozás tekintetében.
+
+A 46. §-hoz
+
+A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) módosításával a törvényjavaslat lehetővé teszi a „Minősített Közművelődési Intézmény Cím” és a „Közművelődési Minőség Díj” adományozását a közösségi színterek részére.
+
+A törvényjavaslat új felhatalmazó rendelkezést állapít meg az Országos Idegennyelvű Könyvtár (a továbbiakban. OIK) jogállásának meghatározására vonatkozóan, figyelemmel arra, hogy az OIK törvény alapján a magyarországi nemzetiségek anyanyelvű könyvtári ellátását koordináló kulturális bázisintézmény.
+
+A 47. §-hoz
+
+Hatályon kívül helyező rendelkezések. A Kultv. 38/D. §-a és a vonatkozó felhatalmazó rendelkezés hatályon kívül helyezése deregulációs, jogtechnikai jellegű, figyelemmel arra, hogy a vonatkozó törvényi és a kapcsolódó végrehajtási szabályozás elavulttá, szükségtelenné vált.
+
+A 48. §-hoz
+
+Az Inytv.-ben bevezetésre kerül a perfeljegyzés egy új formája, a közigazgatási perben elrendelt perfeljegyzés. A nem ingatlan-nyilvántartási döntés felülvizsgálata iránt indult közigazgatási perben eljáró bíróság az ingatlan- nyilvántartásba bejegyzett jogot, feljegyzett tényt és az ingatlan-nyilvántartásban szereplő adatot érintő perben a felperes kérésére előzetesen végrehajtható végzésével elrendeli az ingatlant érintő közigazgatási per megindítása tényének feljegyzését az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartásba bejegyzett jogot, feljegyzett tényt és az ingatlan-nyilvántartásban szereplő adatot érintő per alatt olyan közigazgatási pert kell érteni, amelyben a meghozott ítélet kihatással lehet az ingatlan-nyilvántartás tartalmára, mert például az ítéletben foglaltak végrehajtása nyomán megváltozhat a bejegyzett tulajdonos személye. Tipikusan ilyen a mezőgazdasági igazgatási szerv földforgalmi ügyben hozott határozata elleni közigazgatási per.
+
+A javaslat megállapítja a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog ingatlan-nyilvántartási bejegyzéséhez szükséges módosításokat.
+
+A módosítás alapján továbbá a közös tulajdonban álló ingatlanok esetén a bányavállalkozónak számos esetben nem sikerül minden tulajdonossal megállapodást kötnie bányaszolgalmi jog alapítására, ezért a hiányzó tulajdonosi hozzájárulások hatósági határozattal kerülnek pótlásra. A tulajdonosok egy részével kötött megállapodás alapján a bányavállalkozó jellemzően kezdeményezi a bejegyzésre irányuló eljárás megindítását. Addig azonban, amíg a hiányzó tulajdonosi hozzájárulások hatósági határozattal történő pótlására nem kerül sor, a bányaszolgalmi jog nem jegyezhető be. Szükséges ezért a törvényben - a kisajátítási eljárásban érvényesülő eljárásrendhez hasonlóan - arról rendelkezni, hogy közös tulajdonban álló ingatlanok esetében a tulajdonostársak egy részével kötött - bányaszolgalmi jogot alapító - szerződés alapján történő bányaszolgalmi jog bejegyzésére irányuló eljárást fel kell függeszteni mindaddig, míg a megállapodásban nem részes tulajdonostársak vonatkozásában a bányaszolgalmi jog alapítását elrendelő végleges hatósági határozat, vagy a bányaszolgalmi jog alapítására irányuló hatósági eljárás más módon történő lezárásáról szóló végleges döntés benyújtásra nem kerül.
+
+A 49. §-hoz
+
+A javaslat megállapítja a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog ingatlan-nyilvántartási bejegyzéséhez szükséges módosításokat.
+
+A 50. §-hoz
+
+A telekalakítási eljárási szabályokkal való összhang megteremtése érdekében szükséges a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben (a továbbiakban: Kötv.) is meghatározni a telekalakítás során követendő elveket. Műemlékvédelmi követelmény a kastélyparkok, egyházi ingatlan-együttesek, ipari műegyüttesek, népi vagy más épületegyüttesek fizikai valójában és az együttes elemek érvényesülését elősegítő módon történő, egy telekegységben való fenntartása. Az örökségvédelmi hatóság jelenleg a földügyi igazgatási jogkörben eljáró ingatlanügyi hatóságnak a telekalakítási eljárásában vizsgálja a feltételek gyakorlati érvényesülését: történetileg összetartozó ingatlanok, ingatlanrészek és az azokon elhelyezkedő már felismert elemek (melyeket az örökségvédelmi hatósági nyilvántartás térképi kiterjedéssel jelöl) összetartozó voltára, jelenlegi értékelhetőségére terjed ki a szakkérdése.
+
+A 51. §-hoz
+
+A módosítás kiterjeszti a védetté nyilvánított kulturális javak kereskedelmi forgalomban történő átruházásával kapcsolatos kereskedőt terhelő bejelentési kötelezettséget. Ennek eredményeképpen a kereskedelmi forgalomban történő értékesítés céljából átadott, védetté nyilvánított kulturális javakra vonatkozó, a Kötv. 52. § (3) bekezdése szerinti bejelentésre a kereskedő akkor is köteles, ha az értékesítés meghiúsul, és nem történik átruházás.
+
+A rendelkezés alapján a védetté nyilvánított kulturális javak tulajdonosa (birtokosa) a személyazonosságát hitelt érdemlően köteles közölni a javakat értékesítés céljából átvevő kereskedővel, tekintettel arra, hogy az ilyen célból átvett védetté nyilvánított kulturális javak esetén a kereskedőt bejelentési kötelezettség terheli a hatóság felé.
+
+A 53. §-hoz
+
+A rendelkezés szűkíti a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontja alapján a hatóság által nyilvántartott kulturális javak körét. A módosítás eredményeként az Európai Unió valamely tagállama területéről jogellenesen kivitt, nemzeti kincsnek minősülő kulturális javak helyett kifejezetten a Magyarország területéről jogtalanul kivitt vagy ilyen módon behozott kulturális javak nyilvántartásának kötelezettségét írja elő.
+
+A 54. §-hoz
+
+A módosítás technikai jellegű, a jogszabályi környezetnek és a kialakult gyakorlatnak megfelelően állapítja meg, hogy a kulturális javakra vonatkozó adatszolgáltatás esetén a hatóságot a hatósági igazgatási szolgáltatási díj nem illeti meg.
+
+A 55. §-hoz
+
+Az építésügyi hatósági eljárásokhoz hasonlóan az örökségvédelmi hatósági eljárások esetében is kialakításra kerül olyan elektronikus ügyintézési felület, amely a kor elvárásainak megfelelő gyors, megbízható, egyszerű és biztonságos ügyintézést tesz lehetővé azzal, hogy az építésügyi dokumentum támogató rendszerhez hasonlóan, abba integráltan támogatja az örökségvédelmi eljárások dokumentumainak kezelését, tárolását, továbbítását.
+
+2022. január 1-jétől az örökségvédelmi eljárásokban a rendszer alkalmazásának lehetőségével egyben kötelezővé tehető az elektronikus ügyintézés, ezt rögzíti a rendelkezés.
+
+A 57. §-hoz
+
+Szövegpontosító rendelkezés. A Kötv. 86. § (4) bekezdése kimondja az 1998. január 1-je előtt műemlék, műemlék jellegű, városképi jelentőségű kategóriában védettséget szerző védett műemlék ingatlanok esetében a Magyar Állam elővásárlási jogát, ezt a rendelkezést az elővásárlási jogot megállapító általános szabályok közé emeljük.
+
+A Kötv. 86. § (4) bekezdése nem áll összhangban a 86. § (1a) bekezdésével, ezért az elővásárlási jog gyakorlásának egyértelművé tétele érdekében a (4) bekezdés módosításra, a 18. §-ban az (1a) bekezdés hatályon kívül helyezésre kerül.
+
+A 58. §-hoz
+
+Szövegpontosító módosítások, valamint az Inytv. által bevezetett, a jelenleg hatályos, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvénytől részben eltérő fogalomhasználatból adódó módosítások.
+
+A 59. §-hoz
+
+Hatályon kívül helyező rendelkezések.
+
+A 66-68. §-hoz
+
+Az új ingatlan-nyilvántartás és a más állami közhiteles nyilvántartások elektronikus adatcseréje lehetővé teszi, hogy az ingatlan-nyilvántartásnak azok az adatai, amelyeket elsődlegesen más állami nyilvántartásba jegyeztek be, onnan automatikusan frissüljenek. Erre tekintettel a cégnyilvántartás és az ingatlan-nyilvántartás közötti adatátadásról a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) módosításával nem kell rendelkezni. Fontos újdonság lesz azonban, hogy ha a cégbíróság érdemi végzése (bejegyző végzés vagy egyéb eljárásban hozott érdemi végzés) közvetlen következménye, hogy az ingatlan-nyilvántartásba bejegyzett jog vagy tény változik (keletkezik, módosul vagy törlésre kell, hogy kerüljön), akkor a cégbíróság ezt végzésével elrendeli, és biztosítani kell az új informatikai rendszer segítségével, hogy ezek a változások gördülékenyen átvezetésre is kerüljenek. Ilyen eset lehet a jövőben az átalakulás, egyesülés, szétválás cégjegyzékben történő bejegyzése. A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 3:39. § (1) bekezdése szerint „[j]ogi személy más típusú jogi személlyé történő alakulása esetén az átalakuló jogutód megszűnik, jogai és kötelezettségei az átalakulással keletkező jogi személyre mint általános jogutódra szállnak át.” A Ptk. 3:47. §-a értelmében „[a] jogi személy egyesülésére és szétválására az átalakulásra vonatkozó szabályokat megfelelően alkalmazni kell.”
+
+A gyakorlatban sokszor okoz gondot, hogy például beolvadás bejegyzése után az ingatlanügyi hatóság olyan jognyilatkozat benyújtását kéri hiánypótlás keretében a kérelmező jogutódtól, amelyet a már a cégnyilvántartásból törölt cég volt vezető tisztségviselőjének kellene megtennie. Ilyen jognyilatkozat tételére azonban már nincs mód, hiszen a céget törölték a cégnyilvántartásból - még ha jogutóddal is. A Ptk. általános jogutódlást kimondó szabályából az következik, hogy a törvény erejénél fogva szállnak át a jogok és kötelezettségek. Ha tehát a példaként említett esetben az egyesülési szerződésből aggály nélkül megállapítható, hogy a beolvadó jogelőd ingatlan vagyona az egyesüléssel létrejövő jogutódhoz kerül, akkor biztosítani kell, hogy ez a jogkövetkezmény fennakadás nélkül megjelenjen az ingatlan-nyilvántartásban is. A törvénymódosítás azt célozza, hogy ha ez a változás átvezethető, akkor ez iránt a cégbíróság intézkedjen.
+
+Az átalakulás, egyesülés és szétválás mellett egyéb esetekben is felmerül annak igénye, hogy minél gyorsabban és egyszerűbben kerüljenek a változások átvezetésre. Ennek kiemelt esetköre, amikor ingatlan apporttal történik - egészben vagy részben - a cégalapítás vagy a tőkeemelés. Azt, hogy milyen feltétekkel és milyen módon kerül sor az intézkedésre, külön jogszabály fogja meghatározni.
+
+Fontos jelezni, hogy az Inytv. fogalomrendszerében a normaszövegben használt a „jog vagy tény keletkezése, változása vagy megszűnése” fordulat az ingatlan tulajdonosa vagy más jog jogosultja személyében történő változást is magában hordozza.
+
+A rendelkezés megállapítja azokat a garanciális szabályokat, amelyek biztosítják, hogy ha a cég ügyében hozott cégbírósági vagy nemperes vagyonrendezési ügyben hozott bírósági végzés miatt az ingatlan-nyilvántartásban változást kell átvezetni, akkor annak lebonyolítása gördülékenyen történjen. Az új ingatlan-nyilvántartási rendszerrel elkerülhetővé válik, hogy például az ingatlan apporttal történő cégalapítás vagy tőkeemelés esetén párhuzamosan folyjanak az eljárások a cégbíróság, illetve az ingatlanügyi hatóság előtt. Elkerülhetővé válik továbbá az is, hogy az átalakulás, szétválás, egyesülés bejegyzését követően az ügyfélnek (a cégnek) kelljen az ingatlan-nyilvántartáshoz fordulnia a változások átvezetése érdekében, hiszen a szükséges változások átvezetéséről a nemperes eljárásban eljáró (cég)bíróság fog gondoskodni. Az ingatlan-nyilvántartásban a változások átvezetése iránt csak az ingatlan- nyilvántartási bejegyzésről rendelkező döntés meghozatala után lehet intézkedni. E folyamat összetett, és jelentős részben informatikai kérdéseket is érint, így a részletes szabályokat az új ingatlan-nyilvántartási rendszer felállításáig megalkotásra kerülő végrehajtási szabályok fogják megállapítani.
+
+A rendelkezések pontosítják a végelszámolás befejezésére vonatkozó rendelkezéseket annak érdekében, hogy egyértelműsítésre kerüljön, hogy a cégbíróság a végelszámolási záródokumentumok elfogadása után akkor tud intézkedni az ingatlan-nyilvántartás felé, ha a vagyonfelosztási javaslatból aggály nélkül, pontosan meghatározhatóak a vagyonfelosztás részletei.
+
+A vagyonrendezési eljárásba is beillesztésre kerül a Ctv. 1. § (1a) bekezdését tartalmában lefedő rendelkezés. Mivel a vagyonrendezési eljárásban nem a cégbíróság jár el, külön rendelkezésben kell a szükséges normatív elemeket rögzíteni. Fontos utalni itt is arra, hogy a részletszabályokat végrehajtási rendelet fogja megállapítani.
+
+Az alcím átmeneti rendelkezést is tartalmaz, amely biztosítja, hogy már az Inytv. hatálybalépésekor folyamatban lévő eljárásokban is sor kerülhessen az új szabályok alkalmazására, emellett az alcímben szövegpontosító rendelkezések is helyet kaptak, figyelemmel az Inytv. terminológiájára.
+
+Az új ingatlan-nyilvántartási rendszer indulásától az ingatlan apport tekintetében tulajdoni lap csatolására már nem lesz szükség, mert a tulajdoni lapot a cégbíróság az informatikai rendszer útján ellenőrzi. Jelezhető, hogy az új megoldások miatt a cégbejegyzési (változásbejegyzési) kérelmek formanyomtatványa is felülvizsgálatra kerül, tehát a cégnek bár nem kell tulajdoni lapot csatolnia, azonban az ingatlan adatait pontosan meg kell majd jelölnie a nyomtatványon.
+
+A 72. §-hoz
+
+A javaslat meghatározza a Kstv. új, az országos közúttal érintett ingatlan tulajdonjogi viszonyainak rendezésére irányuló eljárás szabályait megállapító alcímét.
+
+A Kstv. új 40/H. §-a határozza meg az eljárás tárgyi hatályát, az eljárás alá vonható, országos közúttal terhelt, magántulajdonában álló ingatlanok körét. A rendelkezésben lényeges fogalmi elemként szerepel, hogy az eljárás kizárólag e törvény hatályba lépését megelőzően forgalomba helyezett országos közúttal érintett ingatlanra indítható meg. A jogalkotó ezzel a szabályozást egyértelműen a jelenleg fennálló és jogi rendezést igénylő tényhelyzet megszüntetéséhez rendeli, a jövőben létesítendő, vagy akár az építés alatt álló országos közutakra vonatkozóan kizárja.
+
+Ugyanebben a §-ban kerül sor az eljárás kezdeményezésére jogosult kijelölésére is (érintett országos közúthálózat felett tulajdonosi jogokat gyakorló szerv vagy az érintett országos közúthálózat vagyonkezelője).
+
+A 40/I. § állapítja meg azt a közérdekű célt, illetve azon feltételeket, amelyek együttes fennállása esetén az eljárás megindításának helye lehet. A kisajátítási hatóság eljárása során a 40/I. §-ban foglaltak fennállását vizsgálja az eljárás alkalmazhatósága kérdésében.
+
+A 40/J. § biztosítja az ingatlan tulajdonosa részére az eljárás megindítására jogosult kötelezését az eljárás megindítására, ha az adásvételi, vagy csereszerződés a Kstv.-ben előírt határidőben nem jött létre.
+
+A 40/K. § az eljárással érintett ingatlanra vonatkozó további szabályokat állapít meg. Azon ingatlanok esetében, amelyek területét csak részben érinti országos közút, az eljárás az érintett területrészre is lefolytatható. A visszamaradó földrészlet tekintetében a részleges kisajátítás szabályai megfelelően alkalmazhatóak, hiszen a kialakítható telek nagyságát a helyi építési szabályzatok tartalmazzák. Az ingatlan tulajdonosa emellett kérheti a visszamaradó földrészlet megváltását is, ha az ingatlan visszamaradó része eredeti céljára használhatatlanná válik, vagy az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné vagy számottevően költségesebbé válik, illetve ha a visszamaradó rész gazdaságos értékesítése nem lehetséges.
+
+A 40/L. § tartalmazza a kártalanításra vonatkozó rendelkezéseket. Tekintettel arra, hogy a kártalanításra jogosultság az Alaptörvény XIII. cikk (2) bekezdésén alapul, az eljárásban a kisajátítási eljárásra vonatkozó kártalanítási szabályok érvényesítése szükséges. Lényeges különbség azonban, hogy az eljárásban rendezni kívánt, az eljárást megelőzően kialakult tényhelyzetre tekintettel a kártalanítás nem a kisajátítási hatóság határozatának véglegessé válásától lesz esedékes, hanem az esedékességet maga a tényhelyzet teremti meg, ezért időpontjának a létrejöttének idejét, az országos közút megépülésével az ingatlant korlátozó állami tulajdon keletkezésének idejét kell tekinteni.
+
+A 40/M. § az eljárás alapvető szabályait - így az eljárásban ügyfélnek tekintendő személyek, vagy szervek megjelölését - határozza meg.
+
+A 40/N. § az eljárás megindításához szükséges kérelem benyújtására vonatkozó szabályokat állapítja meg. Lényeges kiemelni, hogy a törvény objektív, 6 éves határidőt állapít meg a kérelem előterjesztésére. Amennyiben az eljárást kérő a határidőt elmulasztja, a továbbiakban csak a polgári bíróságok előtt megindított peres eljárás keretében kezdeményezheti az ingatlan tulajdonjogi viszonyainak rendezését. A 40/N. § emellett felsorolja az eljárás iránti kérelem kötelező mellékleteit is. Az utóbbiak közé tartozik az ingatlanról készített változási vázrajz, amely az ingatlan megoszthatóságát teszi lehetővé, amennyiben az országos közút az ingatlannak csak egy részét érinti és az önálló ingatlanok kialakíthatóak.
+
+A 40/O. § a kisajátítási hatóság eljárási cselekményeiről, a szakértő kirendelésének szabályairól, illetve a tárgyalás tartásáról rendelkezik.
+
+A 40/P. § a kisajátítási hatóság határozatával, annak tartalmával, a kártalanításról történő rendelkezésével és a kártalanítás megfizetésével kapcsolatos szabályokat állapítja meg. A 40/Q. § lehetőséget biztosít az eljárást kérő és a többi ügyfél részére a kártalanítás tárgyában egyezség megkötésére és hatósági határozatba foglalására.
+
+A 40/T. § a kisajátítási hatóság által az eljárásban meghozott határozatával szembeni közigazgatási perre vonatkozó rendelkezéseket tartalmazza.
+
+A 40/U. § a véglegessé vált határozat joghatását, a földrészlet (vagy annak egy része) az állam tulajdonába kerülését állapítja meg, illetve rendelkezik, az ingatlanban bekövetkezett változás ingatlan-nyilvántartási átvezetéséről.
+
+A 40/V. § Az ingatlan adásvételével, illetve az eljárás alapján megfizetett kártalanítás egyes adójogi kérdéseit rendezi.
+
+Jelen módosítás a benyújtott törvényjavaslathoz szorosan kapcsolódik, arra a jogrendszeri koherencia fenntartása érdekében kerül sor.
+
+A 74. §-hoz
+
+A termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tfvt.) 2. § 1. pontja az átlagos minőségű termőföld meghatározása körében utal az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény szerinti törzskönyvben szereplő adatra. Az Inytv. nem ismeri a törzskönyv fogalmát, továbbá kikerült belőle a kerületekre történő utalás is, ezért a Tfvt. 2. § 1. pontjának módosítása szükséges.
+
+Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. §-a, valamint az Inytv. 35. §-a határozza meg az ingatlan-nyilvántartási bejegyzés alapjául szolgáló okirat tartalmi elemeit. Ezen rendelkezésektől eltérően a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 2. §-a szerinti szőlő termőhelyi kataszterbe sorolás jogi jelleg, valamint Tfvt. 58/A. §-a szerinti gyümölcs termőhelyi kataszterbe sorolás jogi jelleg feltüntetéséhez elegendő megadni a kataszterbe sorolással vagy a kataszterből történő törléssel érintett földterület fekvése szerinti település nevét és a földterület helyrajzi számát, valamint, ha az adott helyrajzi számmal megjelölt földterületnek csak egy része sorolható be a kataszterbe, a kataszterbe sorolt földterület nagyságát, továbbá ebben az esetben mellékelni kell a földterületről földmérő által készített változási vázrajzot.
+
+A 77. §-hoz
+
+Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása szükséges az ingatlan- nyilvántartási eljárás új szabályai alapján a közjegyzőkre háruló feladatok eljárási szabályainak megteremtése érdekében.
+
+A 79-80. §-hoz
+
+A módosítás szükségességét az Inytv. által bevezetett fogalomhasználat indokolja. Az Inytv. értelmében ugyanis a közjegyzői eljárással kapcsolatos ingatlan-nyilvántartási eljárás már nem a közjegyző megkeresése, hanem hatósági felhívása, és az annak mellékleteként csatolt - az adott eljárás eredményeként létrejött - okirat alapján indul. E körben fontos hangsúlyozni, hogy a felhíváshoz csatolt végzések esetében a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 18. § (1) bekezdésében foglaltakat - amely szerint, ha a bekezdésben meghatározott körülmények fennállnak, úgy a közjegyző a végzésnek csak az adott személyre és vagyontárgyra vonatkozó kivonatát küldi meg, amely az intézkedés foganatosításához szükséges - alkalmazni kell.
+
+A rendelkezés az Inytv. által módosított fogalomhasználat következtében szükségessé vált szövegcserés módosításokat tartalmazza.
+
+A 81. §-hoz
+
+2022. január 1-jétől hatályba lép az UNESCO Magyar Nemzeti Bizottságról szóló 299/2021. (VI. 1.) Korm. rendelet [a továbbiakban: 299/2021. (VI. 1.) Korm. rendelet], amely egyidejűleg hatályon kívül helyezi az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendeletet.
+
+A 299/2021. (VI. 1.) Korm. rendelet szabályozási körében már nem szerepel a Világörökség Szakbizottság, amely korábban a világörökségről szóló 2011. évi LXXVII. törvény (a továbbiakban: Vötv.) 6. §-a szerinti javaslattevő, véleményező és döntés-előkészítő testület feladatait látta el. A Vötv. 6. §-a szerinti testület a 299/2021. (VI. 1.) Korm. rendelet hatályba lépését követően egy új, operatív világörökségi testület formájában kezdi meg működését. Az új világörökségi testületbe tag delegálására jogosultak köre, a testület részletes feladatai és működése a Vötv. 14. § (1) bekezdés b) pontja szerinti felhatalmazás alapján, a világörökségi területté jelölés hazai eljárásrendjéről, a világörökségi kezelési tervek tartalmi követelményeiről és elkészítésük rendjéről, a gondnokságokról, valamint a világörökségi területen az államot megillető elővásárlási jogról szóló 335/2019. (XII. 23.) Korm. rendeletben kerül szabályozásra.
+
+Fentiek alapján, a jogalkotásról szóló 2010. évi CXXX. törvény 22. § (1) bekezdés e) pontjában foglaltakkal összhangban, az indokolatlanul párhuzamos vagy többszintű szabályozás elkerülése teszi szükségessé a Vötv. 6. §-ának fentiek szerinti módosítását.
+
+A 82. §-hoz
+
+Fontos újdonsága lesz az új ingatlan-nyilvántartási rendszernek, hogy ha a nyilvántartó bíróság érdemi végzése (nyilvántartásba vételt elrendelő végzés vagy egyéb eljárásban hozott érdemi végzés) közvetlen következménye, hogy az ingatlan-nyilvántartásba bejegyzett jog vagy tény változik (keletkezik, módosul vagy törlésre kell, hogy kerüljön), akkor biztosítani kell az új informatikai rendszer segítségével, hogy ezek a változások gördülékenyen átvezetésre kerüljenek. Ilyen eset lehet a jövőben az átalakulás, egyesülés, szétválás nyilvántartásba történő bejegyzése. A Ptk. 3:39. § (1) bekezdése szerint „[j]ogi személy más típusú jogi személlyé történő alakulása esetén az átalakuló jogutód megszűnik, jogai és kötelezettségei az átalakulással keletkező jogi személyre mint általános jogutódra szállnak át.” A Ptk. 3:47. §-a értelmében „[a] jogi személy egyesülésére és szétválására az átalakulásra vonatkozó szabályokat megfelelően alkalmazni kell.”
+
+A gyakorlatban sokszor okoz gondot, hogy például beolvadás bejegyzése után az ingatlanügyi hatóság olyan jognyilatkozat benyújtását kéri hiánypótlás keretében a kérelmező jogutódtól, amelyet a már a cégnyilvántartásból törölt szervezet volt vezető tisztségviselőjének kellene megtennie. Ilyen jognyilatkozat tételére azonban már nincs mód, hiszen a szervezetet törölték a nyilvántartásból - még ha jogutóddal is. A Ptk. általános jogutódlást kimondó szabályából az következik, hogy a törvény erejénél fogva szállnak át a jogok és kötelezettségek. Ha tehát a példaként említett esetben az egyesülési szerződésből aggály nélkül megállapítható, hogy a beolvadó jogelőd ingatlan vagyona az egyesüléssel létrejövő jogutódhoz kerül, akkor biztosítani kell, hogy ez a jogkövetkezmény fennakadás nélkül megjelenjen az ingatlan-nyilvántartásban is. A törvénymódosítás azt célozza, hogy ha ez a változás átvezethető, akkor ez iránt a nyilvántartó bíróság intézkedjen.
+
+Az átalakulás, egyesülés és szétválás mellett egyéb esetekben is felmerül annak igénye, hogy minél gyorsabban és egyszerűbben kerüljenek a változások átvezetésre. Azt, hogy milyen feltétekkel és milyen módon kerül sor az intézkedésre, külön jogszabály fogja meghatározni. Fontos jelezni, hogy az Inytv. fogalomrendszerében a normaszövegben használt a „jog vagy tény keletkezése, változása vagy megszűnése” fordulat az ingatlan tulajdonosa vagy más jog jogosultja személyében történő változást is magában hordozza.
+
+A 83-85. §-hoz
+
+Az Inytv. megváltozott fogalmi rendszeréhez való alkalmazkodás érdekében szükséges módosítások, továbbá felkészülés a víziközművek ingatlanként történő nyilvántartására azzal, hogy a közhitelesség kérdésében - az ingatlan-nyilvántartás primátusát elismerve - kivezeti az ágazati nyilvántartások esetében a közhiteles minősítést.
+
+A 87. §-hoz
+
+A módosítás a gyakorlati tapasztalat alapján az egységes jogértelmezés érdekében szükséges, kiegészítve a Kötv. 71. §-ára történő hivatkozások jogtechnikai pontosításaival.
+
+A 88. §-hoz
+
+Részben az Inytv. megváltozott fogalomrendszeréhez való alkalmazkodás, részben gyakorlati alkalmazás céljából a soron kívüli ügyintézés esetén rendelkezésre álló ügyintézési határidő egyértelműsítése céljából indokolt módosítás. Az egységes jogalkalmazás érdekében szükséges meghatározni a soron kívüli ügyintézés határidejét, mely reálisan a rendelkezésre álló ügyintézési idő fele. Az ügyintézési határidők rögzítve lesznek az E-ING rendszerben, ezért a rendszer működésének megbízhatóságát, az ügyintézés kiszámíthatóságát is támogatja, ha a soron kívüli ügyintézés határidejét pontosan meg lehet adni.
+
+A 89-90. §-hoz
+
+A Ptk. 5:164. § (1) bekezdésének pontosítását az teszi szükségessé, hogy az ágazati törvények többsége értelmében lehetőség van közérdekű használati jognak a felek megállapodásával történő alapítására. Továbbá az Inytv. fogalomhasználatához kapcsolódó módosítások.
+
+A 91-93. §-hoz
+
+Kodifikációs, technikai jellegű módosítások, amelyek a Ptk., illetve a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény (a továbbiakban: Ptké.) terminológiája és az Inytv. fogalomhasználata közötti összhangot biztosítják. Az Inytv. alapján a függőben tartás jogintézményét más eljárási eszközök, például az eljárások felfüggesztése vették át. Erre tekintettel a Ptké. 53/A. § (5) bekezdésének módosítása arról rendelkezik, hogy az ügyész kérelmére az eljáró bíróság végzésben dönt az érintett beadványok intézésére irányuló eljárások felfüggesztéséről.
+
+Különböző jogszabályok ugyanazon dologra nézve különböző személyek javára állapítanak meg elővásárlási jogot, adott esetben meghatározzák azok gyakorlásának rangsorát is, nem egyszer más jogszabályok által biztosított elővásárlási jogok viszonyában is. Előfordul azonban, hogy ugyanazon dolog - az esetek többségében ingatlan - tekintetében mégsem állapítható meg egyértelműen, hogy az elővásárlási joggal érintettek közül milyen sorrendben gyakorolhatják a jogszabályon alapuló elővásárlási jogukat. Az ebből adódó jogalkalmazási bizonytalanság eloszlatása, illetve elkerülése érdekében ezért e módosítás általános szabályokat állapít meg a joggyakorlás sorrendjére vonatkozóan. Ha több személy közül az államot, a helyi önkormányzatot vagy más személyt is megillet az elővásárlási jog, úgy e jogot mindenekelőtt az állam, azt követően a helyi önkormányzat, végül pedig a jogszabályban meghatározott más személy gyakorolhatja. Ha az elővásárlási jog gyakorlásának rangsorára vonatkozóan ez a rendelkezés nem adna kellő eligazítást, akkor a sorrend megállapításánál kisegítő szabályként azt kell figyelembe venni, hogy az egyes személyek számára elővásárlási jogot biztosító jogszabályok közül melyik lépett korábban hatályba. Értelemszerűen ezek a szabályok irányadók a visszavásárlási, a vételi és az eladási jog esetében is, bár ez utóbbi jogok gyakorlása körében a rangsor kérdésének felmerülése nem tekinthető jellemzőnek.
+
+A 95. §-hoz
+
+Az Inytv.-nek megfelelően a Családi Csődvédelmi Szolgálat nem kérelmet nyújt be az ingatlanügyi hatósághoz az adósságrendezési eljárása vonatkozó adatnak az ingatlan-nyilvántartásba történő bejegyzése és törlése iránt, hanem azt hatósági felhívással rendeli el.
+
+A 96. §-hoz
+
+A partnerségi egyeztetésre vonatkozó helyi szabályok megalkotása nem kötelezettsége, hanem lehetősége az önkormányzatnak. Az E-TÉR felületen történő kötelező partnerségi elektronikus egyeztetés mellett (amelyet kormányrendelet szabályoz) fontos, de kiegészítő szerepet tölt be a helyi rendelet szerinti egyeztetés. Ezért az önkormányzati felhatalmazó rendelkezés módosul.
+
+A településkép védelme a település vagy településrész jellegzetes, értékes, illetve hagyományt őrző építészeti arculatának és szerkezetének - az építészeti, táji érték és az örökségvédelem figyelembevételével történő - megőrzését vagy kialakítását jelenti.
+
+Ha az adott településen évszázadok óta él őshonos magyarországi nemzetiségi közösség és működik is nemzetiségi önkormányzat, úgy elengedhetetlen, hogy a településkép-védelem elemei sorában megjelenjen a nemzetiségi közösségek sajátos hagyományokon nyugvó épített környezete, az adott településre jellemző sajátos nemzetiségi építészeti arculat. A nemzetiség által lakott településen a településkép integráns része a nemzetiségi építészeti sajátosság.
+
+A nemzetiségek építészeti hagyományai megőrzése érdekében fontos, ha az adott települési önkormányzat a helyi rendelet megalkotása érdekében a partnerségi egyeztetések sorába bevonja a közigazgatási területén működő nemzetiségi önkormányzatot. A nemzetiségi önkormányzat nevesítése a felsorolásban indokolt, településképi szempontból csak így biztosított a nemzetiségi helyi adottság, mint érték megőrzése, fennmaradása.
+
+A 97. §-hoz
+
+Az a) és b) ponthoz: A jellemzően több településre irányadó és a Kormány által kiadásra kerülő településképi arculati kézikönyvek megnevezése („egyedi településképi arculati kézikönyv”) félrevezető, ezért a Tktv. 2/A. §-ának többi jogintézményével összhangban az ilyen kézikönyveket „kiemelt településképi arculati kézikönyveknek” indokolt nevezni. A szóhasználat kerül pontosításra, a tartalom nem változik.
+
+A c) ponthoz: A Tktv. felhatalmazást ad az önkormányzat képviselő-testületének a településképi véleményezési, a településképi bejelentési és a településképi kötelezési eljárás részletszabályainak megállapítására. Az önkormányzat településkép-érvényesítési eszközei közül ugyanakkor a szakmai konzultáció részletszabályainak megalkotására nem szerepel felhatalmazó rendelkezés a Tktv.-ben, ezt a hiányt pótolja a módosítás.
+
+A d) ponthoz: A 8. § (2) bekezdés a) pontjánál a hatáskör átruházásáról a 419/2021. (VII. 15.) Korm. rendelet rendelkezik, így a szabályozás nem egységes: a törvény a 8. § (2) bekezdés b)-d) pontja szerinti esetekben önkormányzatról, a 8. § (2) bekezdés a) pontja szerinti esetben a 419/2021. (VII. 15.) Korm. rendelet főépítészről és polgármesterről szól. Célszerűbb a szabályozás kialakítása úgy, hogy a hatáskör-módosításról egységesen az önkormányzat képviselő-testülete döntsön a szervezeti és működési szabályzatban (a továbbiakban: SZMSZ). A 8. § (2) bekezdés e) pontja, a végrehajtási eljárás kimaradt a Tktv. hatályos felsorolásából, ez most pótlásra kerül olyan módon, hogy a b)-d) pontokra történő utalás hatályon kívül helyezésre kerül. Így a képviselőtestület valamennyi településkép-érvényesítési eszköz átruházásáról együttesen dönthet.
+
+A 98. §-hoz
+
+A Tktv. módosítása a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 53. § (1) bekezdés b) pontjával teremti meg az összhangot, miszerint az átruházott hatáskörökről az SZMSZ-ben kell rendelkezni. Ha az SZMSZ a településkép-érvényesítési eszközök érvényesítését átruházza (például polgármesterre, jegyzőre, bizottságra), akkor a településképi rendeletben már az átruházás címzettje, az eljáró személy jelenik meg.
+
+A 99-100. §-hoz
+
+Az Inytv. 58. § (1) bekezdése értelmében az eljáró bíróság bejegyezhető jogra, tényre, illetve az ingatlan- nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, feltételt nem tartalmazó, végrehajtható határozata alapján elrendeli az ingatlan-nyilvántartási bejegyzést.
+
+Az Inytv. alapján a bírósági elrendelés alapján az ingatlanügyi hatóság hivatalból folytat eljárást a bejegyzés iránt. Bejegyzésre alkalmas beadvány benyújtása esetén főszabály szerint automatikus döntéshozatalnak van helye, ezért is rendelkezik úgy az Inytv., hogy a bírósági elrendelés nem tartalmazhat a bejegyzéshez további feltételt, a bejegyzés alapjául szolgáló bírósági határozatnak önmagában bejegyzésre alkalmasnak kell lennie. Minderre tekintettel rögzíti a módosítás a polgári perrendtartásról szóló 2016. évi CXXX. törvényben (a továbbiakban: Pp.), hogy a bíróság kizárólag biztosítékadás mellett hozhat olyan ítéletet, amellyel az ingatlanon fennálló közös tulajdont úgy szünteti meg, hogy az ingatlant megfelelő ellenérték fejében egy vagy több tulajdonostárs tulajdonába adja. Ez a rendelkezés és a biztosítékadás részletszabályai biztosítják, hogy a közös tulajdon megszüntetéséről rendelkező ítélet ne tartalmazzon feltételt, hanem az a bejegyzésre alkalmas legyen. Az Inytv.-hez fűzött indokolás kimondta, hogy „amennyiben a felperes kéri a magához váltást, a kereseti kérelem szerinti ítélet meghozatala előtt a megváltási összeg előzetes megfizetésére (letétbe helyezésére) kötelezhető, míg a közös tulajdonnak másik fél általi megváltását kimondó bírósági ítélet esetén a megváltási összeg megfizetésére kötelezés mint pénzbeli marasztalás teljesítendő, illetve végrehajtandó, az nem lehet feltétele a tulajdonjog változás bejegyzésének”. Tekintettel a Pp. új 347/A. §-ában foglaltakra, az Inytv.-hez fűzött idézett indokolás már nem vehető figyelembe.
+
+A Pp. 414. § (2) bekezdése szerint az elsőfokú bíróság a fél kérelmére értesíti az ingatlanügyi hatóságot a felülvizsgálati kérelem benyújtásáról. Az Inytv. szerint azonban a bíróság nem értesíti az ingatlanügyi hatóságot, hanem elrendeli a bejegyzést, kizárva annak lehetőségét, hogy a bíróságot és a különböző hatóságokat ügyfélnek, beadványaikat pedig kérelemnek lehessen tekinteni az eljárás során.
+
+A fentiekre tekintettel a Javaslat a Pp. 414. § (2) bekezdésének rendelkezését hozzáigazítja az Inytv. előírásához és rögzíti, hogy a bíróság elrendeli a felülvizsgálati kérelem benyújtása tényének bejegyzését az ingatlan- nyilvántartásba. Mivel e tény bejegyzését a bíróság rendeli el a jövőben, arról is rendelkezni szükséges, hogy amennyiben a felülvizsgálati eljárás befejeződik, a bíróságnak rendelkeznie kell a felülvizsgálati kérelem benyújtása tényének törléséről. Figyelemmel arra, hogy a tény bejegyzését az elsőfokú bíróság rendeli el, továbbá arra is, hogy a felülvizsgálati eljárásban a Pp. 405. § (1) bekezdésének utaló szabálya alapján alkalmazandó Pp. 387. §-a alapján az elsőfokú bíróság közli a felekkel a felülvizsgálati eljárást befejező határozatot, indokolt a felülvizsgálati kérelem benyújtása tényének törléséről való rendelkezést is az elsőfokú bíróság hatáskörébe utalni.
+
+A Javaslat a Pp. 446. § (3) bekezdésén átvezeti azokat a módosításokat, amelyek az Inytv. fogalomhasználatának változása miatt a törvények közötti összhang megteremtése érdekében szükségesek.
+
+A Pp. 543. § (2) bekezdése szerint a bíróság az ingatlanigényperről az ingatlanügyi hatóságot is haladéktalanul értesíti. A 46. § (1) bekezdéséhez fűzött indokolásban rögzített okokból az ingatlanügyi hatóság értesítése helyett a bíróságnak a halasztó hatályú ingatlanigényper indítása tényének az ingatlan-nyilvántartásba történő bejegyzését kell elrendelnie, továbbá a pert befejező határozatában a bíróságnak e tény törléséről is rendelkeznie kell.
+
+A Pp. 544. § (3) bekezdése szerint az ingatlanigényperben hozott jogerős határozatot nemcsak a végrehajtó részére, hanem az ingatlanügyi hatóság részére is kézbesíteni kell. Ugyanakkor az Inytv. 58. § (1) bekezdése rendelkezik arról, hogy az eljáró bíróság bejegyezhető jogra, tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, feltételt nem tartalmazó, végrehajtható határozata alapján elrendeli az ingatlan-nyilvántartási bejegyzést. Ha a bíróságnak az ingatlanigényperben hozott határozata érinti az ingatlan-nyilvántartást a fentiek szerint, úgy az Inytv. 58. § (1) bekezdése szerint kell eljárnia. Erre figyelemmel a határozat ingatlanügyi hatóság részére való megküldésre vonatkozó rendelkezést indokolt elhagyni a Pp.-ből.
+
+A 101-102. §-hoz
+
+A módosítás értelmében az ügyfél rendelkezési joga korlátozásra kerül annak érdekében, hogy a hatóság közlés alatt álló döntését ne legyen szükséges utóbb módosítani vagy visszavonni amiatt, mert az ügyfél „meggondolja” magát. E szabályozás a rosszhiszemű ügyféli eljárásvitel megelőzését célozza.
+
+Tekintettel arra, hogy az Inytv. szakít azzal a korábbi megoldással, amely szerint bizonyos esetekben a széljegyzett beadványok intézését függőben kellett tartani, és így a korábbi függőben tartási okok felfüggesztési oknak minősülnek, szükséges az Ákr. 43. § (1) bekezdés b) pontjának módosítása.
+
+A 103. §-hoz
+
+A választottbíróság jogerős és végrehajtható határozata alapján az ingatlan-nyilvántartási bejegyzés iránt az arra illetékes közjegyző intézkedik. A választottbíróság a Magyar Országos Közjegyzői Kamarát keresi meg hatósági felhívásra irányuló nemperes eljárás lefolytatására illetékes közjegyző kijelölése érdekében.
+
+A 104-109. §-hoz
+
+Tekintettel arra, hogy az Inytv. alapján az ingatlan-nyilvántartási ügyekben már nem minden ügyvédi tevékenységet gyakorló járhat el, az ügyvédi megbízások egy részének speciális jogi feltételei kerültek meghatározásra. Ha az ügyvéd vagy ügyvédi iroda nem rendelkezik legalább egy arra jogosult taggal vagy alkalmazottal, vagy nem tagja ilyen személlyel kapcsolatban álló ügyvédi társulásnak sem, akkor a megbízást nem vállalhatja el. A feltételek fennállását a teljesítéskor kell vizsgálni. A megbízások elvállalására vonatkozó korlátozás csak az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységek esetében és csak a jogszabályban meghatározott jogi és technikai feltételek esetén érvényesül.
+
+Ingatlanra vonatkozó vagy ingatlannal kapcsolatos jog vagy tény közhiteles nyilvántartásba való bejegyzésére irányuló eljárásban (a továbbiakban: ingatlan-nyilvántartási ügy) jogi képviselet ellátására nem minden ügyvédi kamarai tag vagy nyilvántartásba vett személy jogosult. Az ingatlan-nyilvántartási ügyben való eljárási jogosultság a törvényben meghatározott feltételekhez kötött, amelyek alapján a kamara által a közhiteles ügyvédi kamarai nyilvántartásba bejegyzett jogosultsággal rendelkező ügyvédek, alkalmazott ügyvédek és kamarai jogtanácsosok láthatnak el ilyen tevékenységet az Inytv. 42. § (1) bekezdésével összhangban.
+
+Az ingatlan-nyilvántartási ügyben való jogi képviselet ellátásához az ügyvédi meghatalmazás általános szabályaitól eltérően elektronikus úton kell létrehozni a meghatalmazást, amelyet valamennyi jog vagy tény bejegyzésével közvetlenül érintett személynek meg kell adnia, és elektronikus űrlapon, az ingatlan-nyilvántartásról szóló törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott tartalommal és módon kell megszerkeszteni és hitelesíteni.
+
+Az ingatlan-nyilvántartási ügyben eljárásra jogosult kizárólagos jogi képviseleti joggal rendelkezik az ingatlan- nyilvántartási ügyekben, azonban a bejegyzés alapjául szolgáló okiratok előkészítésében az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) fogalomhasználata szerinti okiratszerkesztésben a vele szorosan együtt dolgozó vagy együttműködő, de ilyen jogosultsággal nem rendelkező ügyvédi tevékenységet gyakorlók, valamint az Üttv. 42. § (3) bekezdésével összhangban az ingatlan-nyilvántartási ügyben eljárásra jogosult kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalói is részt vehetnek.
+
+Az ingatlan-nyilvántartási ügyekben való eljárási jogosultsághoz kapcsolódó magasabb szintű felelősséggel összhangban a módosítás új fegyelmi büntetésként határozza meg az ingatlan-nyilvántartási ügyektől való eltiltást.
+
+Az ingatlan-nyilvántartási ügyektől való eltiltás fegyelmi büntetés határozott időre, legalább egy, legfeljebb öt évre szabható ki. A büntetés hatálya alatt az ügyvédi tevékenység gyakorlója nem jogosult ingatlan-nyilvántartási ügyben jogi képviselet ellátására, illetve az ingatlan-nyilvántartásba való bejegyzés alapjául szolgáló okirat tekintetében okiratszerkesztésre és ellenjegyzésre, jogosultságát a kamarai nyilvántartásból törölni kell, illetve a büntetés kitöltéséig az egyéb feltételek teljesítése esetén sem vehető nyilvántartásba. A kizárás fegyelmi büntetéssel együttesen alkalmazott ingatlan-nyilvántartási ügyektől való eltiltás tartamába a kizárás fegyelmi büntetés végrehajtásának az időtartama nem számít bele. Az ingatlan-nyilvántartási ügyben való eljárási jogosultságtól való eltiltás fegyelmi büntetés esetében is alkalmazhatóak a hátrányos következmények alóli mentesítésre vonatkozó szabályok.
+
+A hatályos Üttv. 130. §-a alapján a fegyelmi eljárás folyamatban léte alatt az elsőfokú fegyelmi tanács dönthet az ügyvédi tevékenység felfüggesztéséről. A módosítás megteremti az ingatlan-nyilvántartási ügyben való eljárással összefüggő jogsértések esetére megállapított új felfüggesztési szabályok és az ügyvédi tevékenység gyakorlásához való jog felfüggesztésének hatályos, az Üttv. 130. § (1) bekezdésében meghatározott szabályainak összhangját.
+
+Az olyan ügyekben, amelyek tárgya legalább részben az eljárás alá vont személynek az ingatlan-nyilvántartásban való eljárási jogosultságán alapuló tevékenységével függ össze, elsődlegesen azt kell vizsgálni, hogy indokolt-e az ügyvédi tevékenység gyakorlásához való jog teljes felfüggesztése az Üttv. 130. § (1) bekezdése alapján. Ha ennek feltételei nem állnak fenn, de az érintett ingatlan-nyilvántartásban való eljárása az ügyfelek jogai, jogos érdekei vagy az ügyvédségbe vetett közbizalom olyan mértékű sérelmével vagy veszélyeztetésével járna, amely meghaladja az ingatlan-nyilvántartási ügyben való eljárási jogosultság felfüggesztéséből fakadó egyéni érdeksérelmet, akkor a fegyelmi tanács az ingatlan-nyilvántartási ügyben való eljárási jogosultság felfüggesztéséről dönthet.
+
+Az új elektronikus ingatlan-nyilvántartás az ügyvédi tevékenység gyakorlására jogosultak jogi képviselőként való eljárási jogosultságát az ügyvédi kamarai nyilvántartásból való valós idejű adatkéréssel ellenőrzi. A területi kamarák ezért hatósági eljárás keretében veszik nyilvántartásba a törvényi feltételeknek megfelelő ügyvédek, alkalmazott ügyvédek és kamarai jogtanácsosok esetében az ingatlan-nyilvántartási ügyben való eljárási jogosultságot. A nyilvántartásba való bejegyzés alapvető feltétele a kamarai szabályzatban előírt speciális továbbképzésben való részvétel és a megszerzett tudást igazoló számonkérés teljesítése. Ezen felül az ingatlan- nyilvántartási eljárás Inytv.-ben meghatározott sajátosságaira tekintettel, a megnövekedett felelősség és kockázatok a tevékenységgyakorlók és az ügyfelek érdekeit is leginkább szolgáló kezelése érdekében kiegészítő felelősségbiztosítás fenntartását írja elő a jogosultság megszerzéséhez és fenntartásához. Az ingatlan-nyilvántartási ügyben való eljárással összefüggő ügyvédi tevékenységgel okozott károk megtérítésének, illetve sérelemdíj megfizetésének a fedezetétül olyan kiegészítő felelősségbiztosítás szolgálhat, amelynek káreseményenként számított legalacsonyabb összege ötvenmillió forint. Kamarai jogtanácsosok esetében a kötelező felelősségbiztosítással azonos elvek alapján kiegészítő felelősségbiztosítás előírása sem szükséges. A jogosultság ezen felül ahhoz is kötött, hogy az ügyvéd vagy alkalmazott ügyvéd számára az ingatlan-nyilvántartási ügyek ellátásnak infrastrukturális, elsősorban informatikai feltételei a rendelkezésére álljanak, kamarai jogtanácsos esetében pedig a feltételek biztosítását a munkáltató nyilatkozatban igazolja. Nem szerezhet ingatlan-nyilvántartási ügyben való eljárási jogosultságot, illetve elveszíti azt, aki az ingatlan-nyilvántartási ügyektől való eltiltás fegyelmi büntetés hatálya alatt áll, vagy akinek az ingatlan-nyilvántartási ügyben való eljárási jogosultságát felfüggesztették. A nyilvántartásba vétel iránti hatósági eljárásban a kérelmezőnek a közhiteles nyilvántartásból nem ellenőrizhető feltételek teljesítését például a felelősségbiztosítás meglétét igazolnia kell. Az ingatlan-nyilvántartási ügyben való eljárási jogosultságot kérelemre a kamara törli a nyilvántartásból, ha azonban a jogosult valamelyik feltételnek utóbb már nem felel meg a törlés azonnal, végrehajtható határozattal, hivatalból történik.
+
+Átmeneti rendelkezésben szükséges szabályozni, hogy az ingatlan-nyilvántartási ügyben való eljárási jogosultság nyilvántartásba vétele iránti kérelem 2022. szeptember 1-jétől terjeszthető elő. Ha a területi kamara elnöke a kérelemnek helyt ad, legkorábban 2023. február 1-jével, vagyis az új ingatlan-nyilvántartásról szóló törvény hatálybalépésével egy időben kerül bejegyzésre a jogosultság.
+
+Az ügyvédi kamarai nyilvántartás közhitelesen tartalmazza az ügyvéd, az alkalmazott ügyvéd és a kamarai jogtanácsos esetében az ingatlan-nyilvántartási ügyben való eljárási jogosultság fennállását. A módosítás ezért új sorral egészíti ki a mellékletben foglalt, a nyilvántartás közhiteles adattartalmát meghatározó táblázatot.
+
+Az alcím szövegcserés módosításokat is tartalmaz, amelyek a Magyar Ügyvédi Kamara és a területi kamarák továbbképzési feladatait határozzák meg, kiegészítve a hatályos rendelkezéseket az ingatlan-nyilvántartási ügyben való eljárási jogosultság megszerzéséhez előírt továbbképzéshez és számonkéréshez kapcsolódó feladatokkal. A módosítás ezen felül kiegészíti a kiemelt szabályzatnak minősülő továbbképzési szabályzat megalkotására vonatkozó felhatalmazást az ingatlan-nyilvántartási ügyben való eljárási jogosultság megszerzéséhez előírt továbbképzésre és számonkérésre való utalással. Szükséges ezen felül az Üttv. 158. § (7) bekezdésében egyértelművé tenni, hogy a főszabálytól eltérően az ingatlan-nyilvántartási ügyben való eljárási jogosultság megszerzéséhez előírt továbbképzéshez számonkérés is kapcsolódik.
+
+A Magyar Ügyvédi Kamara továbbképzéssel kapcsolatos feladatait egységesen az Üttv. 155. § (2) bekezdésében szükséges meghatározni, ezért indokolt a rendelkezés hatályon kívül helyezése.
+
+A 111. §-hoz
+
+Szövegpontosítás. Mivel a törvény csak definícióként rögzíti, hogy 5 ha-t meghaladó területi kiterjedésű külfejtéses művelésű bányaterületet, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területet, egészségügyi, sportolási, rekreációs, közlekedési és honvédelmi területet sajátos területfelhasználású térségként ki kell jelölni, a jogalkotói célt indokolt normaként rögzíteni a jogértelmezést elősegítése érdekében.
+
+A 112-114. §-hoz
+
+Az alternatív energiák előállítása - különösen a naperőművek elhelyezése - jelentős területfoglalással jár együtt. A naperőművek erőteljes ütemű előretörése miatt a termőföld és az ökológiailag értékes területek védelmében szükséges a telepítés területi feltételeit rögzíteni a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvényben (a továbbiakban: Trtv.), amely az elért védettségi szint megtartását biztosítja.
+
+A 115-116. §-hoz
+
+A módosítást a településrendezési szabályokban 2021 júliusával bekövetkezett változások, és így a területrendezési és a településrendezési előírások közötti összhang megteremtése indokolja.
+
+A 117. §-hoz
+
+Az (1) bekezdés szerinti módosítást a településrendezési szabályokban 2021 júliusával bekövetkezett változások, és így a területrendezési és a településrendezési előírások közötti összhang megteremtése indokolja.
+
+A módosítás értelmében az új településrendezési övezettípus, a tájgazdálkodási mezőgazdasági terület is kijelölhető lesz kertes mezőgazdasági terület övezetében, valamint védett természeti területen a mezőgazdasági övezetek közül csak tájgazdálkodásit lehet kijelölni.
+
+A (2) bekezdés szerint a borszőlő termőhelyi kataszteri terület, a tájképvédelmi szempontból kiemelten kezelendő terület, az erdők, a kiváló termőhelyi adottságú szántók vagy az ökológiai hálózat ökológiai folyosójának övezetéhez hasonlóan a kertes mezőgazdasági területen is indokolt korlátozni az erőművek elhelyezését. Mindezek a rendelkezések az elért védettségi szint megtartását biztosítják.
+
+A 118. §-hoz
+
+A kertes mezőgazdasági terület, a tájképvédelmi szempontból kiemelten kezelendő terület, az erdők, a kiváló termőhelyi adottságú szántók vagy az ökológiai hálózat ökológiai folyosójának övezetéhez hasonlóan a borszőlő termőhelyi kataszteri területein is indokolt korlátozni az erőművek elhelyezését.
+
+A 119. §-hoz
+
+Szövegcserés módosító rendelkezések.
+
+Az 1., 2. és 5. pontokhoz: Értelmezést segítő szövegpontosítások.
+
+A 3., 4., 6-17. pontokhoz: Az új településrendezési követelményekkel történő összhangot biztosító szövegpontosítások. A 4. pontban szereplő módosítás egyben a mezőgazdasági terület övezetek kijelölését, illetve az ebbe az övezetbe való visszasorolást teszi lehetővé abban az esetben, ha a megyei területrendezési terv - így különösen naperőmű elhelyezése céljából - sajátos területfelhasználású térséget jelölt. A tervezett naperőmű meghiúsulása esetén indokolt a mezőgazdasági terület kijelölési lehetőségének a megteremtése. A 8. pont szerinti módosítás egyben a természet védelméről szóló 1996. évi LIII. törvénnyel történő összhangot biztosítja.
+
+A 18-21. pontokhoz: Építésügyi hatósági jogalkalmazást elősegíti módosítások.
+
+A 120. §-hoz
+
+Az a), g) és h) ponthoz: A módosítás alapján a naperőművet a területrendezési tervben elegendő térségi jelentőségű egyedi építményként feltüntetni, sajátos területfelhasználású térségként történő kijelölése a jövőben már nem szükséges. A sajátos területfelhasználású térségként történő kijelölés követelményének feloldása mindazonáltal azért nem jelenti a védelmi szint csökkenését, mivel a sajátos területfelhasználású térség kijelölésének célja egyrészt az 5 ha feletti (tehát az Országos Területrendezési Tervben meg nem jeleníthető) különleges területek (így bányaterületek, hulladékártalmatlanítók, egészségügyi, sportolási, rekreációs, közlekedési és honvédelmi területek) megyei területrendezési tervben való megjelenítése, másrészt az erdőgazdálkodási, mezőgazdasági és települési térségre vonatkozó %-os szabályok alkalmazásának megkönnyítése annak rögzítésével, hogy a sajátos területfelhasználású térség területét a %-os számításoknál figyelmen kívül kell hagyni.
+
+A b) ponthoz: A kormányrendeleti szóhasználat változása miatt szükséges technikai pontosítás.
+
+A c), d) és f) ponthoz: A természet védelméről szóló 1996. évi LIII. törvénnyel történő összhangot biztosítja, mivel a természetes és természetközeli élőhely védelmének a települési térségben is érvényesülnie kell.
+
+Az e) ponthoz: a Trtv. 25. § (4) bekezdésével összhangban álló módosítás.
+
+A 123. §-hoz
+
+Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. §-a, valamint az Inytv. 35. §-a határozza meg az ingatlan-nyilvántartási bejegyzés alapjául szolgáló okirat tartalmi elemeit. Ezen rendelkezésektől eltérően a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 2. §-a szerinti szőlő termőhelyi kataszterbe sorolás jogi jelleg, valamint a termőföld védelméről szóló 2007. évi CXXIX. törvény 58/A. §-a szerinti gyümölcs termőhelyi kataszterbe sorolás jogi jelleg feltüntetéséhez elegendő megadni a kataszterbe sorolással vagy a kataszterből történő törléssel érintett földterület fekvése szerinti település nevét és a földterület helyrajzi számát, valamint ha az adott helyrajzi számmal megjelölt földterületnek csak egy része sorolható be a kataszterbe, a kataszterbe sorolt földterület nagyságát, továbbá ebben az esetben mellékelni kell a földterületről földmérő által készített változási vázrajzot.
+
+A 124-128. §-hoz
+
+Az ingatlan-nyilvántartás újraszabályozása során kiemelt célként fogalmazódott meg, hogy az ingatlan- nyilvántartásból a lehető legteljesebb körben megismerhető legyen az adott ingatlannal összefüggésben fennálló összes jog és kötelezettség. Az Inytv. általános indokolása kimondta, hogy a szabályozás nem vonja el az egyes ágazatoktól az ingatlanra vonatkozó szakmai szempontú nyilvántartás vezetését, azonban kötelezővé teszi, hogy az ágazati adatok az egységes ingatlan-nyilvántartásban is megjelenjenek, valamint ehhez kapcsoltan az ingatlan- nyilvántartási adat elsőbbségét, közhitelességét mondja ki. Ez az ingatlan-nyilvántartás primátusa, melynek érvényesüléséhez pontosítani szükséges az Inytv. közhitelességre vonatkozó rendelkezéseit, egyértelműsítve, hogy ha az ingatlan-nyilvántartás és más közhiteles nyilvántartás között eltérés van az Inytv. felhatalmazása alapján kiadott kormányrendeletben meghatározott ingatlanadat tekintetében, az ingatlan-nyilvántartásba bejegyzett adatot kell irányadónak tekinteni.
+
+Pontosítani szükséges az Inytv.-ben az ügyleti meghatalmazás létrehozására, valamint a külföldön kiállított ügyleti meghatalmazás felhasználhatóságára vonatkozó szabályokat. Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, az ügyleti meghatalmazást az ingatlan-nyilvántartás elektronikus rendszerében biztosított űrlap használatával kell megszerkeszteni és hitelesíteni. Ha az ügyleti meghatalmazást külföldön állították ki, akkor az űrlapon való rögzítést magyarországi közjegyző végezheti el, akinek az eljárása a felek elektronikus hitelesítését helyettesíti.
+
+Az Inytv. 48. § (1) bekezdés a) pontja úgy rendelkezne, hogy az ingatlanra vonatkozó jogok, tények bejegyzése iránti eljárást az ingatlanügyi hatóság felfüggeszti az Inytv. eltérő rendelkezése hiányában, a rangsorban előrébb álló beadvány elintézéséig. Ez a rendelkezés nem lép hatályba, mert az eljárás felfüggesztése nem szolgálná megfelelően a gördülékeny eljárásfolytatást. Helyette az Inytv. a 47/A. §-ban úgy rendelkezik, hogy ha a beadványt a rangsorban előrébb álló beadvány előzi, az ügyintézési határidő a rangsorban előrébb álló beadvány elintézését követő munkanapon kezdődik. A 48. §-t érintő további módosítások pontosító jellegűek, céljuk, hogy az ingatlan- nyilvántartásról szóló 1997. évi CXLI. törvényben meghatározott eljárás-felfüggesztési okok a jövőben is hasonló tartalommal legyenek szabályozva.
+
+A közös tulajdonban álló ingatlanok esetén a bányavállalkozónak számos esetben nem sikerül minden tulajdonossal megállapodást kötnie bányaszolgalmi jog alapítására, ezért a hiányzó tulajdonosi hozzájárulások hatósági határozattal kerülnek pótlásra. A tulajdonosok egy részével kötött megállapodás alapján a bányavállalkozó jellemzően kezdeményezi a bejegyzésre irányuló eljárás megindítását. Addig azonban, amíg a hiányzó tulajdonosi hozzájárulások hatósági határozattal történő pótlására nem kerül sor, a bányaszolgalmi jog nem jegyezhető be. Szükséges ezért a törvényben - a kisajátítási eljárásban érvényesülő eljárásrendhez hasonlóan - arról rendelkezni, hogy közös tulajdonban álló ingatlanok esetében a tulajdonostársak egy részével kötött - bányaszolgalmi jogot alapító - szerződés alapján történő bányaszolgalmi jog bejegyzésére irányuló eljárást fel kell függeszteni mindaddig, míg a megállapodásban nem részes tulajdonostársak vonatkozásában a bányaszolgalmi jog alapítását elrendelő végleges hatósági határozat, vagy a bányaszolgalmi jog alapítására irányuló hatósági eljárás más módon történő lezárásáról szóló végleges döntés benyújtásra nem kerül.
+
+Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben bevezetett jogintézményt átveszi az Inytv. azzal, hogy a perbejegyzést a bíróság nem a felperes kérelmére, hanem hivatalból rendeli el. A felperes azonnali jogvédelem iránti kérelmére a bíróság ideiglenes intézkedésként elrendelheti az ingatlant érintő közigazgatási per megindítása tényének bejegyzését követően érkezett beadványok intézésének felfüggesztését. Az új szabályozás lehetővé teszi, hogy harmadik személyek az ingatlan-nyilvántartásból értesüljenek az ingatlant érintő közigazgatási per folyamatban létéről, valamint hatékony jogvédelmet biztosít a felperes számára.
+
+A törvényben az új alcím bevezetése az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvénynek az Inytv. elfogadását követően hatályba lépett rendelkezése átvételét szolgálja.
+
+Az új rendelkezés felhatalmazza a Kormányt, hogy az elektronikus ingatlan-nyilvántartáshoz kapcsolódó, az Inytv. rendelkezéseinek érvényesülését szolgáló E-ING rendszeren kívüli informatikai rendszerek kötelező kiépítéséről és azoknak az E-ingatlan-nyilvántartási rendszerrel történő összekapcsolásáról döntsön.
+
+Az Inytv. 2. § (2) bekezdése a törvényen belül bevezeti a hatósági felhívás fogalmát, amely a közjegyzők, bírósági végrehajtók és más hatóságok megkeresésére indult eljárásokat foglalja össze. A megkeresés az ágazati jogszabályokban, így többek között a Pp.-ben, a közjegyzőkről szóló 1991. évi XLI. törvényben és a bírósági végrehajtásról szóló 1994. évi LIII. törvényben is használt fogalom, amely azonban nem csak az ingatlanügyi hatóság eljárása iránti eljárási cselekményeket foglalja össze. Az Inytv. fogalomhasználatát a hatósági eljárásokban alkalmazandó az Ákr. 25. §-a szerinti megkereséssel való fogalmi ütközés elkerülése indokolja, amikor a hatósági felhívás fogalmát alkalmazza. Mind az Inytv.-ben, mind az ágazati törvényekben indokolt a megkeresés kifejezés következetes lecserélése felhívásra, többek között az alapul szolgáló határozatok egységes szövegezése miatt is.
+
+Az Inytv. 59. § (1) bekezdése értelmében hatósági felhívás esetén a bejegyzés nemcsak végrehajtható határozaton, hanem jogszabály rendelkezésén is alapulhat, feltéve, hogy egyértelműen meghatározza az érintett ingatlant, valamint a bejegyzendő jogot, tényt vagy adatot.
+
+A módosítás célja a terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv törvényben meghatározott feladatainak ellátásához szükséges feltételek biztosítása.

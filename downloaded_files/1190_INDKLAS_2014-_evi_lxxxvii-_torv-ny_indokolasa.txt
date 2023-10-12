@@ -1,0 +1,117 @@
+2014. évi LXXXVII. törvény indokolása
+
+az Országos Környezetvédelmi Információs Rendszer továbbfejlesztésével összefüggésben egyes törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvény elsődleges célja a KEOP-6.3.0/2F/11-2012-0002. azonosító számú „OKIR Környezet- és természetvédelmi alapinfrastruktúra fejlesztés, alrendszerek továbbfejlesztése” nevű projekt megvalósításához kapcsolódóan a környezeti adatgyűjtési rendszer és ezzel párhuzamosan a környezettel kapcsolatos adatok, információk publikálásának korszerű, az elektronikus közigazgatási szolgáltatások rendszerébe illeszkedő átalakítása.
+
+A Földművelésügyi Minisztérium által működtetett, az Országos Környezetvédelmi Információs Rendszer (a továbbiakban: OKIR) végzi a környezet állapotának és használatának figyelemmel kísérését, igénybevételi és terhelési adatainak gyűjtését, feldolgozását, nyilvántartását, az érintett felhasználók ‒ beleértve a nyilvánosságot is ‒ környezetre vonatkozó információkkal történő ellátását.
+
+Az OKIR moduláris felépítésű, a különböző környezetvédelmi szakterületek (természetvédelem, hulladékgazdálkodás, levegőtisztaság-védelem, felszín alatti és felszíni vizek védelme) adatai relatív önállósággal rendelkező szakterületi adatbázisokba kerülnek. A szakrendszerek egymással összefüggő és egymás között átjárható adatbázist alkotnak. Az OKIR informatikai rendszere valójában ezeknek a környezetvédelmi szakrendszereknek az összessége.
+
+Az OKIR az elmúlt években kevéssé tudott lépést tartani a dinamikusan változó jogszabályi környezettel, a műszaki-informatikai fejlődéssel, továbbá az olcsó állami feladatellátás megteremtésének kihívásaival. A rendszer jelenleg széttagolt, több funkció tekintetében hiányos. A fejlesztés megvalósításához elengedhetetlenül szükséges az OKIR-ral és az adatszolgáltatással összefüggő érintett szakterületi jogszabályok oly módon történő módosítása, hogy az új informatikai rendszer működése jogi szempontból is biztosítva legyen.
+
+A törvény elfogadásával a környezethasználók adatszolgáltatásának elektronikus alapokra helyezése valósul meg, vagyis a jelenlegi, döntően papíralapú adatszolgáltatás felváltása az ügyfélkapus adatszolgáltatási rendszerrel. A jogi szabályozás ezért főszabályként elektronikus adatszolgáltatási kötelezettséget ír elő. Kivételes esetekben, kifejezett jogszabályi rendelkezés esetén marad csak meg a papíralapú adatszolgáltatás.
+
+A rendszerfejlesztés eredményeképpen létrejön az OKIR nyilvánosság tájékoztatásához szükséges publikus, internetes felülete. Az internetes honlapon megjelenő környezeti információk tekintetében deklarálni szükséges, hogy azok a továbbiakban ún. nyilvánosságra hozandó közérdekű adatok, így a lakosságnak nem kell a kiadásukat egyedileg kérelmezni, hanem mindenki számára korlátozásmentesen és ingyenesen hozzáférhetővé válnak.
+
+A törvény biztosítja az egyes szakrendszerek közötti erősebb informatikai kapcsolatot. Az egyes szakterületi adatok felvitelénél a bejegyzés automatikusan meg fog jelenni a másik szakrendszerben is, ahol ez szükséges, elkerülve az adatbázisok tekintetében a kettőződést. A változás folytán az OKIR egyes szakrendszerei a mainál hatékonyabban és nyitottabban fognak együttműködni egymással. Fentieken túl az OKIR a mainál hatékonyabban fog együttműködni az OKIR-on kívüli rendszerekkel, környezeti információkat tartalmazó adatbázisokkal.
+
+A rendszer fejlesztése révén a környezetvédelmi azonosító adatok kiadása a mainál gyorsabbá válik, a hatóságnak 3 napon belül ki kell adnia az eljárás-kezdeményezéshez és adatszolgáltatás teljesítéséhez szükséges azonosítókat.
+
+Jelenleg az adatszolgáltatások döntő többsége papír alapon érkezik a hatóságokhoz, az elektronikus adatszolgáltatás technikai feltételei ezidáig korlátozottak voltak. Tekintettel a több tízezres számú éves adatszolgáltatásra, az adatok felvitele, feldolgozása, összevetése, szakmai ellenőrzése és érvényessége a környezetvédelmi hatóságok számára jelentős munkaidő-ráfordítást igénylő manuális feladatot jelentett.
+
+Az OKIR egyes szakrendszereinek integrációja, az elektronikus adatszolgáltatás egységes bevezetése, valamint külső szakrendszerekkel való átjárhatóvá tétele a különböző adatszolgáltatások összevetésével, keresztellenőrzésével a hatósági munkavégzést is nagymértékben segíti, hatékonyabbá teszi majd.
+
+A törvény néhány ponton olyan módosításokat is tartalmaz, amelyek nem közvetlenül illeszkednek az OKIR fejlesztéséhez, ugyanakkor célszerű a törvényben elhelyezni. Itt kell megemlíteni a környezetvédelmi hatóságnál kezdeményezhető ún. szakmai konzultáció jogintézményét, valamint a kormányzati szerkezetátalakításhoz kapcsolódó, egyes szakágazati jogszabályok megalkotásához szükséges felhatalmazó rendelkezések pontosítását.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény a környezethasználók adatszolgáltatását elektronikus alapokra helyezi, vagyis a jelenlegi, döntően papíralapú adatszolgáltatást felváltja az ügyfélkapus adatszolgáltatási rendszer. A jogi szabályozás ezért főszabályként elektronikus adatszolgáltatási kötelezettséget ír elő. Kivételes esetekben, kifejezett jogszabályi rendelkezés esetén marad csak meg a papíralapú adatszolgáltatás.
+
+A törvény biztosítja, hogy az elektronikus adatszolgáltatás rendjét meghatározó tájékoztatót, valamint a teljesítéséhez szükséges űrlapokat a nyilvánosság a rendszer publikus felületén megismerhesse.
+
+A 2. §-hoz
+
+A törvény megállapítja, hogy az OKIR a nyilvánosság tájékoztatásához szükséges publikus, internetes felülettel rendelkezik. A publikus felületen megjelenő környezeti információk tekintetében a törvény deklarálja, hogy azok a továbbiakban ún. nyilvánosságra hozandó közérdekű adatok, így a lakosságnak nem kell a kiadásukat egyénileg kérelmezni, hanem mindenki számára korlátozásmentesen és ingyenesen hozzáférhetővé válnak.
+
+A törvény megállapítja a publikálandó adatköröket, továbbá a már ma is létező publikációs kötelezettségeket integrálja az újonnan létrejövő publikus felületbe. Annak érdekében, hogy a technikai fejlődéssel a jogi szabályozás rugalmasan lépést tarthasson, a törvény előírásai biztosítják annak lehetőségét, hogy az OKIR publikus felületének kötelezően nyilvánosságra hozandó adattartalmát kormányrendeleti szintű szabályozás határozza meg.
+
+A törvény a közérdekű információkhoz való, minél szélesebb körű hozzáférés érdekében biztosítja annak lehetőségét, hogy a nyilvános felületen kötelezően publikálandó adatokon túl a nyilvánosság számára releváns környezeti információk, vagy más közérdekű adatokat és információkat is elérhetővé lehessen tenni.
+
+A 3. §-hoz
+
+Bevezeti a környezetvédelmi hatóságnál a szakmai konzultáció jogintézményét.
+
+Az ügyfeleknél az elmúlt években egyre erősebb igény jelentkezett, hogy az ügyek jobb előkészítettsége miatt közvetlenül az ügyeikre illetékességgel és hatáskörrel rendelkező eljáró hatóságtól különböző ügytípusok tekintetében hasznos információkat, gyakorlati tanácsokat kapjanak. A konzultáció intézményével nem kerül átfedésbe a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben (a továbbiakban: Ket.) - így különösen az 5. §-ban ‒ foglaltak szerinti közigazgatási szervek tájékoztatási kötelezettsége. A környezetvédelmi hatóság továbbra is teljeskörűen eleget tesz a hivatkozott jogszabályi rendelkezésekben foglalt tájékoztatási kötelezettségnek, viszont a konzultáció keretében lehetőség nyílik olyan kérdések tisztázására, tanácsadásra is, melyek a Ket. rendelkezéseiben foglaltak alapján meghaladják a közigazgatási szervek tájékoztatási kötelezettségét, ezért elutasítható lenne az arra vonatkozó konzultációs igény.
+
+További előnye a most bevezetésre kerülő konzultációs intézménynek, hogy lehetőséget nyújt nem csak az ügyfelek, hanem a közigazgatási eljárásban érintett személyen kívüli személy számára is, akik vonatkozásában a hatóság részére a Ket. nem ír elő tájékoztatási kötelezettséget. A konzultációs lehetőség biztosítása mindkét fél (ügyfél - hatóság) munkájának a jobb megszervezését segíti elő, és így egybevág a közigazgatásban 2011-ben elindult egyszerűsítési és hatékonyság-növelési folyamatokkal.
+
+A konzultációs rendszer bevezetése tehát az ügyfélközpontúság és a hatékony ügyintézés céljait szolgálja. A konzultációs rendszer további jellemzője, hogy segíti az egységes joggyakorlat kialakítását, a nyilvánosság, ellenőrizhetőség és az egyenlő elbírálás elvének jogszabályi keretek közötti érvényesülését.
+
+A 4. §-hoz
+
+Az OKIR projekt megvalósításának egyik alapvető célkitűzése, hogy biztosítsa az informatikai rendszerek közötti nagyobb átjárhatóságot, valamint azt, hogy az OKIR adatok az ágazaton belül is széles körben elérhetővé váljanak a szakmai munka megalapozása és a hatósági feladatok végrehajtása érdekében. E célkitűzés megvalósítását szolgálja, hogy a releváns adatok az állami hulladékgazdálkodást koordináló szerv számára is hozzáférhetőek lesznek.
+
+A törvénymódosítás ugyanakkor megteremti annak a lehetőségét is, hogy az állami hulladékgazdálkodást koordináló szerv informatikai rendszerében tárolt hulladékgazdálkodási adatok is megjelenhessenek az OKIR-ban. Az OKIR rendszer ezzel is nyitottabbá válik, és integrált módon tölti be funkcióját. A két rendszer összekapcsolásához szükséges informatikai fejlesztés a projekt végrehajtásával egy időben megvalósul.
+
+Az 5. §-hoz
+
+A törvény felhatalmazást ad a Kormány részére, hogy a publikus felületen kötelezően nyilvánosságra hozandó adatköröket rendeletben meghatározza.
+
+A kormányzati szerkezetátalakítás miatt szükségessé vált továbbá az egyes szakágazati jogszabályok megalkotásához szükséges felhatalmazó rendelkezések pontosítása is. Ennek keretében a törvény az „érdekelt” miniszter kifejezés használata helyett meghatározza, hogy adott szabályozási tárgykör tekintetében mely kormányzati felelősségi kör vonja magával az érintettséget.
+
+A 6. §-hoz
+
+A hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 34. § (9) bekezdése szerint „a lakosság tájékoztatása érdekében a hulladékgazdálkodási közszolgáltatási szerződés közzétételéről az állami hulladékgazdálkodást koordináló szervezet, a települési önkormányzat a helyben szokásos módon gondoskodik.” A Ht. 34. § (9) bekezdése azonban nem nevezi meg a kötelezettet, aki köteles megküldeni az állami hulladékgazdálkodást koordináló szervezet részére a hulladékgazdálkodási közszolgáltatási szerződést.
+
+A törvény előírja, hogy a közszolgáltató a hulladékgazdálkodási közszolgáltatási szerződést az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáférhetővé teszi, ezáltal a dokumentumok az állami hulladékgazdálkodást koordináló szervezet számára is hozzáférhetőek, és a saját honlapján a szerződések szövegének vagy a közszolgáltatók honlapjai elérhetőségének hozzáférhetővé tételével a Ht. által előírt kötelezettségét teljesíti. A szabály a tájékoztatási kötelezettség pontosításán túl adminisztratív tehercsökkentést is megvalósít, mivel a közszolgáltatóknak a szerződéseket és azok módosításait nem kell az állami hulladékgazdálkodást koordináló szervezet részére papír alapon megküldeni. Ez a szabály ugyanakkor elősegíti a közérdekű adatokhoz és a közérdekből nyilvános adatokhoz való hozzáférést is.
+
+A 7. §-hoz
+
+Az OKIR projekt Egységes Hulladékgazdálkodási Információs Rendszer (EHIR) funkcionalitásának kialakítása során alapvető cél volt, hogy a hulladékgazdálkodással kapcsolatos összesített adatok - mind a hulladékgazdálkodási engedély, mind a nyilvántartásba vétel, mind pedig az egyes adatszolgáltatás tekintetében - publikálásra kerüljenek. Ennek érdekében az OKIR elektronikus felületén az illetékes szaktárca létrehozta az EHIR-hez kapcsolódó adatokat és információkat tartalmazó publikus felületet. Az internetes honlapon megjelenő hulladékgazdálkodással kapcsolatos információk tekintetében törvényi szinten is meg kell határozni azoknak az adatoknak a körét, amelyek mindenki számára ingyenesen hozzáférhetők.
+
+Az elkülönített gyűjtésre vonatkozó szabályok pontosítása azért szükséges, hogy a közszolgáltatók az elektronikus adatszolgáltatás bevezetésével az adatszolgáltatási kötelezettségüket könnyebben tudják teljesíteni.
+
+A 8. §-hoz
+
+A törvény e módosítása a Ht. kereskedőkkel kapcsolatos adatszolgáltatás gyakorlati alkalmazhatóságához szükséges. A törvénnyel a kereskedő által - előkezelésre vonatkozó hulladékgazdálkodási engedéllyel - végzett előkezeléssel kapcsolatos adatszolgáltatás válik egyszerűbbé.
+
+A törvény lehetővé teszi, hogy kormányrendelet határozza meg azt pontosan, hogy kik azok a hulladékbirtokosok, akiknek kötelezően nyilvántartást kell vezetniük és a nyilvántartott adatokról adatot kell szolgáltatniuk a környezetvédelmi hatóság felé. A hulladékbirtokos ugyanis olyan tág fogalom, hogy abba minden olyan személy beletartozik, aki a birtokában hulladékot tart. Ebből következik, hogy csak egy speciális kört, illetve speciális esetcsoportot kell meghatározni, amelybe a nyilvántartás vezetésére és az adatszolgáltatás teljesítésére kötelezettek tartoznak. A kört, illetve esetcsoportot kormányrendeleti szinten kell meghatározni, a Ht.-ben ugyanakkor az erre történő felhatalmazást kell megadni.
+
+A 9. §-hoz
+
+A Ht. 80. § (3) bekezdése alapján a környezetvédelmi hatóság a hulladékgazdálkodási engedéllyel rendelkezők, valamint a nyilvántartásba vett gazdálkodó szervezetek adatait honlapján ingyenesen és naprakész állapotban közzéteszi. Az OKIR fejlesztés keretében megvalósuló OKIR elektronikus felületen a hulladékgazdálkodási engedéllyel rendelkezők, valamint a nyilvántartásba vett gazdálkodó szervezetek adatait a fejlesztett rendszer publikálja. Így a hulladékgazdálkodással kapcsolatos információk publikus felületén közzétett adattartalomra vonatkozó előírást a Ht. 83/A. §-a fogja tartalmazni.
+
+A 10. §-hoz
+
+Az informatikai háttér fejlesztésére tekintettel a Ht. 95. § (6) bekezdésében foglaltak hatálybaléptetése nem szükséges.
+
+A 11. §-hoz
+
+A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény (a továbbiakban: Mtv.) 4. § (3) bekezdése tartalmazza azokat a dokumentumokat, amelyeket a kérelmező köteles csatolni a minősítési kérelemhez. Annak érdekében, hogy a hatóság a kérelmező adatait ellenőrizhesse, szükséges, hogy hozzáférjen a 15 napnál nem régebbi, hiteles cégkivonathoz.
+
+A 12. §-hoz
+
+A módosítás célja annak előírása, hogy a minősítő hatóság a folyamatosan fennálló jogellenes állapot esetében is bírságot szabhasson ki.
+
+A 13. §-hoz
+
+Az Mtv. 15. §-a a minősítő hatóság számára bírságkiszabási jogosultságot biztosít, ha az ügyfél az Mtv. 11. §-a szerinti adatváltozás bejelentési kötelezettségének határidőben nem tesz eleget. A törvény célja annak előírása, hogy a minősítő hatóság által beszedett bírság, késedelmi kamat és késedelmi pótlék a központi költségvetés bevételét képezze.
+
+A 14. §-hoz
+
+A törvény ‒ miután az bírságolásra vonatkozó szabályokat is tartalmaz ‒ arról rendelkezik, hogy az e törvénnyel hatályba lépő rendelkezéseket csak a hatálybalépést követően indult ügyekben és megismételt eljárásokban lehet alkalmazni.
+
+A 15. §-hoz
+
+Tekintettel arra, hogy a háztartásban képződő veszélyes hulladékot az elkülönített gyűjtés hatékonyabbá tétele érdekében 2015. január 1-jétől nemcsak a közszolgáltató, hanem más, hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezet is összegyűjtheti, illetve elszállíthatja, nem indokolt hatályba léptetni azt a rendelkezést, amely ezt a feladatot kizárólag a közszolgáltatók kötelezettségévé teszi. Ezzel a közszolgáltatók adatszolgáltatási kötelezettségei is egyszerűsödnek. Ezzel összefüggésben arról is rendelkezni kell, hogy az a rendelkezés, amelyet a 7. § (2) bekezdés módosít, nem lép hatályba.
+
+-----STARTING---POINT---VEGE---
+
+A 16. §-hoz
+
+A törvény hatálybalépéséről szóló rendelkezéseket tartalmazza.

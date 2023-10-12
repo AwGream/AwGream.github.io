@@ -1,0 +1,445 @@
+2018. évi LXXXIII. törvény indokolása
+
+a közbeszerzésekről szóló 2015. évi CXLIII. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az elektronikus kommunikációt a közbeszerzésekben - összhangban Magyarországnak az Európai Unió felé tett vállalásaival - a 2014 februárjában elfogadott uniós irányelvek által meghatározott, 2018. október 18-i határidőnél hamarabb, 2018. április 15-től kell alkalmazni, ettől az időponttól kezdődően a közbeszerzési és koncessziós beszerzési eljárásokat elektronikus úton, a Miniszterelnökség által üzemeltetett elektronikus közbeszerzési rendszer (a továbbiakban: EKR) igénybevételével kell lebonyolítani.
+
+A Kbt. szabályaitól való eltérésre lehetőséget adó törvényi felhatalmazás alapján jelenleg az elektronikus közbeszerzés részletes szabályairól szóló 424/2017. (XII. 19.) Korm. rendelet (a továbbiakban: 424/2017. Korm. rendelet) határozza meg az elektronikus közbeszerzéshez fűződő eljárási szabályokat.
+
+Az EKR bevezetésével összefüggésben potenciálisan felmerülő gyakorlati kérdések rugalmas szabályozási környezetet igényeltek, ezért a jogalkotó döntése alapján a kezdeti időszakban a Kbt. helyett a 424/2017. Korm. rendeletben kerültek rendezésre az elektronikus közbeszerzéssel összefüggő legfontosabb eljárási szabályok. Tekintettel arra, hogy a 2018. április 15. óta eltelt időszakban az EKR használatával és a jogalkalmazási környezettel kapcsolatban mindössze technikai - nem koncepcionális - visszajelzések érkeztek, ezért az egyértelműbb szabályozási környezet megteremtése, valamint a Kbt. mint a leglényegesebb garanciális és eljárási rendelkezéseket tartalmazó keretjogszabály elsőbbségének megerősítése érdekében a 424/2017. Korm. rendelet Kbt.-től eltérő szabályai beépítésre kerülnek a törvénybe.
+
+Az EKR felállításának és alkalmazásának kiemelt célja a közbeszerzési eljárások átláthatóságának fokozása, az eljárások gyorsabb lefolytatása, az eljárási cselekmények egyszerűbb véghezvitele, az adminisztrációs terhek csökkentése, valamint a közbeszerzési eljárások ellenőrzésének támogatása.
+
+Az EKR-ben minden eljárási cselekmény pontosan dokumentálható, az adott eljáráshoz tartozó valamennyi közbeszerzési dokumentum egy helyről, közvetlenül elérhető, a rendszer ezáltal segíti a hazai közbeszerzések monitoringját, amellyel a piac változásainak és a jogszabály-módosításoknak a közbeszerzésekre gyakorolt hatása is felmérhető.
+
+Az EKR bevezetésével összefüggő főbb módosítások:
+
+A közbeszerzési eljárásokban kötelező az elektronikus kommunikáció azzal, hogy a törvény - az irányelvi rendelkezések átvételével - tételesen rendelkezik azokról az esetekről, amikor az elektronikus úton történő kapcsolattartástól el lehet térni.
+
+A rendszer bevezetéséhez számos, az adminisztratív terhek csökkentését jelentő változás társul, például míg korábban az ajánlatkérő volt köteles a Közbeszerzési Hatóság vagy jogszabályban feljogosított más szerv kérésére a közbeszerzéssel kapcsolatos iratokat megküldeni, addig a jövőben a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal és a jogszabályban az adott eljárás ellenőrzésére feljogosított szervek a közbeszerzési eljárás iratait az EKR-ben megtekinthetik. A jogorvoslati eljárás során is ugyanígy elektronikus hozzáférést szükséges engedni a Közbeszerzési Döntőbizottság részére az iratanyaghoz, nem szükséges azon igazolások csatolása az ajánlattevők részéről, amelyeket az adott ajánlatkérő számára egy korábbi, elektronikus eljárásban már benyújtottak.
+
+Egyes nyilatkozati kötelezettségek (pl. kkv-nyilatkozat) megszűnnek, tekintettel arra, hogy a gazdasági szereplők a regisztráció során rögzítik a releváns adatot, a bontást az EKR automatikusan elvégzi az ajánlattételi vagy részvételi jelentkezési határidő lejáratát követően és a bontási jegyzőkönyvet is automatikusan generálja.
+
+A dinamikus beszerzési rendszer és elektronikus katalógus szabályainak kiigazítása hozzájárulhat ezen hatékony közbeszerzési technikák szélesebb körű hazai elterjedéséhez.
+
+Az elektronikus kommunikáció hozzájárul az eljárások gyorsabb lebonyolításához is, tekintettel arra, hogy az uniós irányelvek az elektronikus kommunikáció esetén az ajánlattételi határidők rövidítését teszik lehetővé.
+
+A fentiek mellett az elektronikus kommunikáció az eljárások integritását és transzparenciáját is erősíti. Az EKR biztosítja az adatok sérthetetlenségét, az ajánlatok titkosságát azok bontásáig, és biztosítja az egyes eljárási cselekmények elvégzésének később visszakövethető naplózását.
+
+A jogalkalmazást érintő gyakorlati megoldások közül az egyik legfontosabb, az a jogalkalmazók segítése érdekében bevezetésre kerülő módosítás, amely lehetőséget biztosít az ajánlatkérő számára - a közbeszerzések ellenőrzését végző szerv megállapítása alapján - arra, hogy az összegezés megküldését követően észlelt jogsértés esetén, az összegezés módosítása előtt bizonyos bírálati cselekményeket végrehajthasson.
+
+Adminisztratív teher csökkentést jelent, hogy az ajánlatkérők által évente készítendő éves statisztikai összegezés intézménye kivezetésre kerül, tekintettel arra, hogy az EKR statisztikai funkciói révén a jogalkalmazó gyakorlattal összefüggő legszükségesebb adatok rendelkezésre állnak.
+
+A törvény az EKR-hez kapcsolódóan számos rendelkezést tartalmaz, ugyanakkor a rendszer működésének, valamint igénybe vételének részletes feltételeiről, az ajánlatkérők által az EKR használatáért fizetendő díjról, a díjfizetés elmulasztása esetén a rendszer üzemeltetője általalkalmazható intézkedésekről a 424/2017. Korm. rendeletben foglaltak irányadóak.
+
+A módosítás további célja a Közbeszerzési Hatóság, illetve a Döntőbizottság feladatainak és hatásköreinek pontosítása, kiegészítése.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A rendelkezés törvényi szinten adja meg az elektronikus közbeszerzési rendszer (továbbiakban: EKR) definícióját, e tekintetben kiegészíti a Kbt. értelmező rendelkezéseit.
+
+A 2. §-hoz
+
+A módosítás célja az uniós és hazai forrásból származó támogatások kedvezményezettjeire vonatkozó adminisztratív terhek enyhítése a Kbt. 5. § (3) bekezdése alapján fennálló közbeszerzési kötelezettség szűkítésével. A Kbt. 5. § (3) bekezdése az uniós jogi előírásoknál jelentősen szélesebb körben írja elő közbeszerzési eljárás lefolytatásának kötelezettségét, amely különösen a kedvezményezett kkv-k számára jelent adminisztratív nehézséget.
+
+A módosítással felemelésre kerül a közbeszerzési kötelezettséget megalapozó támogatási összeghatár, így közbeszerzési eljárás lefolytatására már csak nagy értékű támogatási összegek felhasználása esetén válnak kötelezetté a támogatott szervezetek. Ezen felül a módosítás a jogalkotói szándék tisztázására is irányul, egyfelől azzal, hogy az egyházi jogi személyekre a közbeszerzési kötelezettség nem irányadó.
+
+Az egyházi jogi személy fogalmát a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 10. §-a határozza meg. Esetükben nehézséget jelent a közbeszerzési joggal érintett, állam által finanszírozott ajánlatkérő szervezetekhez képest, hogy az egyházi jogi személyek szervezeti struktúrája eltérő, ugyanakkor az egyházi jogi személyek részére nyújtott állami támogatások kedvezményezettjei rendszerint maguk az egyházi jogi személyek és nem azok belső egyházi szabálya szerint jogi személyiséggel rendelkező egységei. Ennek eredményeként olyan alapvető közbeszerzési szabályok alkalmazhatósága is kérdéses, mint például a részekre bontás tilalma, vagy, hogy pontosan mely belső egyházi jogi személy jár el ajánlatkérőként egyes beszerzések esetén.
+
+Ily módon a támogatások hatékony felhasználhatóságának céljával ellentétes eredményre vezet a közbeszerzési kötelezettség előírása az egyházi jogi személyek számára. Másfelől a jogalkalmazás során gyakori problémát jelent a jelenleg hatályos rendelkezés alapján annak pontos meghatározása, hogy mikor mentesül a Kbt. 5. § (3) bekezdés a) pontja alapján a gazdasági szereplő a közbeszerzési kötelezettség alól. A Kbt. 5. § (3) bekezdés a) pontja szerinti kivétel a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendeletre utal, azonban a jelenlegi megfogalmazás ennél tágabb értelmezésre is lehetőséget teremt. Az eredeti jogalkotói szándék érdekében szükséges a kivételi kör pontosítása.
+
+A 3. §-hoz
+
+A módosítás célja azon jogalkotói nehézségek felszámolására törekszik, amely abból a gyakorlatból fakad, hogy az Európai Bizottság rendszerint a megelőző évek végén, az Országgyűlés őszi ülésszakának olyan időszakában teszi közzé a legújabb uniós közbeszerzési értékhatárokat, amely már nem teszi lehetővé a költségvetési törvény időben történő módosítását (a legutóbbi uniós értékhatárok az Európai Unió Hivatalos Lapjának 2017. december 19-i számában kerültek közzétételre). Tekintettel arra, hogy az uniós közbeszerzési értékhatárok meghatározására a vonatkozó uniós irányelvek felhatalmazása alapján a nemzeti jogban közvetlenül alkalmazható rendelet formájában kerül sor, továbbá arra, hogy ezek közvetlen alkalmazhatóságát a Kbt. 15. § (2) bekezdése külön is megerősíti, valamint arra, hogy Közbeszerzési Hatóság elnöke az uniós értékhatárok közzétételéről rendszerint gondoskodik a Kbt. 15. § (5) bekezdése alapján, a jogalkalmazás szempontjából szükségtelen az uniós értékhatárok külön jogszabályban történő kihirdetése. E módosítás - tekintettel arra, hogy az uniós értékhatárok felülvizsgálatára rendszerint kétévente kerül sor, így az újabb értékhatárok várható közzététele 2019. év vége - 2020. január 1-jétől lép hatályba.
+
+A 4. §-hoz
+
+A módosítások a 424/2017. Korm. rendelet rendelkezéseit emelik törvényi szintre. A Kbt. 41. § (6) bekezdése arról rendelkezik, hogy a közbeszerzési eljárásban az eljárási cselekmények elektronikusan is gyakorolhatók. Az eljárási cselekmények elektronikus gyakorlásának szabályait a 424/2017. Korm. rendelet tartalmazza, amely a törvény rendelkezéseitől az eljárási cselekmények elektronikus gyakorlása miatt szükséges mértékben eltérhet. A 424/2017. Korm. rendelet hatályba lépése óta eltelt idő tapasztalatai alapján indokolt az eljárási cselekmények elektronikus gyakorlásához kapcsolódó főbb rendelkezések törvényben való rögzítése.
+
+Korábban az ajánlatkérők a Kbt. 26. § (1) bekezdése szerinti bejelentkezési és adatváltozásbejelentési kötelezettséget a Közbeszerzési Hatóság által üzemeltett és 2012. június 18-tól elérhető Központi Bejelentkezési Rendszeren (KBEJ) keresztül teljesítették. Az adminisztratív terhek csökkentése érdekében a Kbt. 26. § (1) bekezdése szerinti kötelezettségek teljesülését jelenti az EKR-ben történő regisztráció vagy adatmódosítás, továbbá az ajánlatkérők nyilvántartására az EKR-ben kerül sor.
+
+Az 5. §-hoz
+
+Tekintettel arra, hogy az EKR alkalmazásához szükséges az ajánlatkérő szervezetek regisztrációja, valamint az EKR-ben megvalósuló eljárási cselekmények megtételére jogosult felhasználók körének meghatározása, ezért indokolt - a felelősségi körökhöz hasonlóan - az ajánlatkérő képviseletében eljáró személyek körének meghatározása a közbeszerzési szabályzatban.
+
+Az EKR jogosultsági rendszere jogosultsági szerepkörökön alapul, melyek hozzárendelhetők a rendszer felhasználóihoz, akik a szerepkörnek megfelelő felületekhez, funkciókhoz férnek hozzá.
+
+A módosítás továbbá érinti a felelős akkreditált közbeszerzési szaktanácsadók bevonásának kötelezettségét, így a jövőben szűkebb körben és a keretmegállapodásból történő beszerzések esetében is egyértelművé válik a szabályozás. A módosítás célja az ajánlatkérők adminisztratív terheinek csökkentése, megőrizve ugyanakkor azt a célt, hogy a nagy értékű, potenciálisan összetettebb beszerzések esetén fokozott szakértelem biztosítása indokolt az eljárások lebonyolítása során.
+
+A 6. §-hoz
+
+A módosítás a Kbt. ajánlatkérőkre irányadó általános szabályainak kiegészítését tartalmazza, figyelemmel az elektronikus számlázás közbeszerzésben történő alkalmazásáról szóló 2014/55/EU irányelv rendelkezéseire, amely előírja az Európai Bizottság megbízásából készített európai szabvány szerint kiállított elektronikus számlák fogadását és feldolgozását a tagállamok ajánlatkérői részéről.
+
+Az irányelv uniós tagállamokra vonatkozó átültetési határidejét az irányelv akként határozza meg, hogy azt az európai szabvány elkészültéhez, majd annak közzétételéhez kötötte. A szabvány elfogadására és közzétételére végül a Bizottság (EU) 2017/1870 végrehajtási határozatában, az Európai Unió Hivatalos Lapjának 2017. október 17-i kiadásában került sor, amely az átültetés határidejét az irányelvvel összhangban a közzétételtől számított 18 hónapon belül, 2019. április 18-ban határozta meg. Az irányelv alapján ekkortól kötelesek az ajánlatkérők az e szabvány szerinti elektronikus számlákat fogadni és feldolgozni. Ez tehát azt jelenti, hogy a már megkötött szerződések esetében is biztosítani kell a nyertes ajánlattevők számára a szabványnak megfelelő elektronikus számla benyújtásának a lehetőségét.
+
+A 7. §-hoz
+
+A központi beszerző szervekre vonatkozó kivételt a 424/2017. Korm. rendelet tartalmazta, jelen módosítással ez is törvényi szintre kerül. Az EKR alkalmazása a központi beszerző szerv által működtetett dinamikus beszerzési rendszerben az egyedi beszerzések megvalósításakor, vagy a központi beszerző szerv által kötött keretmegállapodás alapján - a verseny újbóli megnyitásával vagy anélkül - történő beszerzés megvalósításakor nem kötelező, az EKR azonban képes ezeket a folyamatokat is támogatni, ha ajánlatkérő mégis az EKR használata mellett dönt. A kivétel indoka az, hogy a központi beszerző szervek által kezelt keretmegállapodások (vagy várhatóan a jövőben dinamikus beszerzési rendszerek) esetében olyan sajátos igények jelentkeznek a keretmegállapodások, az azokhoz kapcsolódó termékkatalógusok elektronikus kezelése tekintetében, amelyek indokolják, hogy a keretmegállapodások alapján történő beszerzésekre kifejlesztett speciális rendszerek továbbra is alkalmazhatóak legyenek, amennyiben azok megfelelnek az e rendszerekre külön végrehajtási rendeletben előírt követelményeknek. A központi beszerző szervek már 2017. február 1-től kötelesek az elektronikus kommunikáció alkalmazására, az EKR bevezetésével azonban a keretmegállapodás megkötéséig a közbeszerzési eljárás megvalósítására a központi beszerző szervek is az EKR-ben kötelesek. Amennyiben az ajánlatkérők - választásuk szerint - ezekben az esetekben az EKR helyett saját rendszereiket (illetve a keretmegállapodásban részes ajánlatkérők a központi beszerző szerv rendszerét) használják, a közbeszerzési adatok központi rendszerben történő rendelkezésre állása érdekében kötelesek az EKR-ben is megadni az eljáráshoz kapcsolódó adatokat.
+
+A 8. §-hoz
+
+Közös ajánlattétel esetén az ajánlattevők egymás közötti, a képviseletre jogosultat kijelölő megállapodásnak az elektronikus út használatára tekintettel az EKR-ben történő nyilatkozattételre és eljárási cselekmények megtételére való jogosultságra is ki kell térnie.
+
+A 9. §-hoz
+
+A módosítás orvosolja azt a gyakorlatban felmerült problémát, ha részekre történő ajánlattétel esetén az eljárás eredményéről szóló tájékoztató közzétételére vonatkozó határidő nem volt minden rész esetében tartható, mert valamely rész tekintetében például jogorvoslati eljárásra került sor. A módosítás egyértelműsíti, hogy részekre történő ajánlattétel esetén a közzétételre megküldés határideje valamennyi rész tekintetében az utolsó szerződés megkötésétől, a teljes eljárás eredménytelensége esetén valamennyi rész tekintetében az utolsóként meghozott, az eljárás eredménytelenné nyilvánításáról szóló ajánlatkérői döntéstől kezdődik.
+
+A 10. §-hoz
+
+Az EKR használatához kapcsolódó pontosítás a közbeszerzési dokumentumok hozzáférése vonatkozásában, ha a törvényben foglalt okokból kifolyólag [Kbt. 41/C. § (1) bekezdés] az elektronikus kommunikáció nem kötelező.
+
+A 11. §-hoz
+
+Ugyan az illetékekről szóló 1990. évi XCIII. törvény 100. § (2) bekezdése általános felhatalmazást ad a miniszterek részére igazgatási szolgáltatási díj meghatározására, a jogalkotói gyakorlat emellett rendszerint külön törvényekben állapít meg egy további felhatalmazó rendelkezést az igazgatási szolgáltatási díjakkal kapcsolatban. E jogalkotói gyakorlat, valamint a rendszerhasználati díj jogi megítélésének megerősítése céljából rögzítésre kerül, hogy a rendszerhasználati díj igazgatási szolgáltatási díjnak minősül, és ennek megfelelően került sor annak megfizetésére a 424/2017. Korm. rendelet alapján is.
+
+A módosítás annak érdekében, hogy a fenti megerősítésre mielőbb sor kerüljön az EKR-re tekintettel történő törvénymódosításoknál előbb lép hatályba, így a Kbt. 40. § módosítására az EKR-re vonatkozó többi rendelkezéssel egyidejűleg, későbbi hatályba lépéssel ismételten sor kerül a módosítás 12. §-ában.
+
+A 12. §-hoz
+
+A módosítások a 424/2017. Korm. rendelet rendelkezéseit emelik törvényi szintre. Jelentőségükre tekintettel Kbt.-be kerülnek az EKR-rel szemben támasztott általános követelményekre vonatkozó szabályok, az EKR-ben továbbított dokumentumokkal, az EKR-ben elektronikus úton megtett nyilatkozatokkal szemben támasztott követelmények, továbbá a képviseletre vonatkozó speciális rendelkezések.
+
+Az EKR a közbeszerzésekért felelős miniszter által üzemeltetett központi közbeszerzési nyilvántartás és a közbeszerzési eljárások elektronikus lebonyolítását támogató informatikai rendszer, amelynek alkalmazása 2018. április 15-től kötelező a közbeszerzési eljárásokban.
+
+A módosítás értelmében a közbeszerzési eljárásokban kötelező az elektronikus kommunikáció azzal, hogy a törvény tételesen rendelkezik azokról az esetekről is, amikor az elektronikus úton történő kapcsolattartástól el lehet térni.
+
+A 2014/24/EU irányelv általános célkitűzései az elektronikus közbeszerzés vonatkozásában rögzítik, hogy az elektronikus tájékoztatási és kommunikációs eszközöknek általánosan használt eszközzé kell válniuk, mivel azok egyszerűsíthetik a szerződések közzétételét, növelhetik a közbeszerzési folyamatok hatékonyságát és átláthatóságát, növelik a gazdasági szereplők esélyeit arra, hogy az egész belső piacon részt vegyenek a közbeszerzési eljárásokban. Mindezekre tekintettel a közbeszerzési eljárásokban kötelező a teljes körű elektronikus kommunikáció. A teljes körű elektronikus kommunikáció azt jelenti, hogy az eljárás minden szakaszában elektronikus úton kell folytatni a kommunikációt, beleértve a részvételi jelentkezések továbbítását és különösen az ajánlatok benyújtását, ugyanakkor az elektronikus kommunikációs eszközöknek az irányelv szerinti kötelező használata nem jelent olyan kötelezettséget, amelynek értelmében a közbeszerzési eljárásnak a szerződés odaítélését követő bármely részében - a módosítás eredményeként hatályba lépő 41. § (2) bekezdés c) pontjában felsoroltak kivételével - vagy az ajánlatkérő szerv szervezetén belüli belső kommunikáció, vagy az értékelés céljából elektronikus kommunikációs eszközöket kellene alkalmazni.
+
+A módosítás alapján a Kbt. 41. § (3)-(5) bekezdései azokról az esetekről rendelkeznek, amikor az elektronikus kommunikáció kötelező, az azonban az EKR-től eltérő informatikai rendszerben is történhet, amennyiben az megfelel külön a jogszabályban foglalt követelményeknek. Ezt a lehetőséget a rendelet szűk körben, olyan eljárás (tervpályázat) és olyan beszerzési megoldások alkalmazása esetén teszi lehetővé, amelyek az EKR által biztosítottakhoz képest speciális igényekkel rendelkeznek. Fontos hangsúlyozni, hogy az eltérés csak lehetőség, de ajánlatkérő a hivatkozott bekezdésekben felsorolt esetekben is dönthet az EKR használata mellett. Az EKR funkciója az eljárások folyamatmenedzsmentje mellett közbeszerzési eljárások átláthatóságának és nyilvánosságának fokozása érdekében statisztikai adatok nyilvántartására is kiterjed, ezért a jogszabályban meghatározott adatok EKR-ben való rögzítése még abban az esetben is kötelező, amikor magának a közbeszerzési eljárásnak a bonyolítása a rendszeren kívül történik.
+
+Ezek közül is kiemelendő a Kbt. 98. § (2) bekezdés e) pontja alapján induló hirdetmény nélküli tárgyalásos eljárás esetköre. A jogalkotó a formális eljárási lépések életszerűségét nélkülöző sürgősségű vis maior helyzetekhez alkalmazkodva úgy rendelkezik, hogy az ilyen eljárások a tárgyalások megkezdésével is megindíthatók [ld. 99. § (1) bekezdésének és 103. § (2) bekezdésének módosítását]. Fokozottan kell azonban ügyelni arra, hogy az ajánlatkérők megfelelően mérlegeljék a sürgősség által előidézett helyzetet, mert az átláthatóság alapelvének jobban megfelel az a megoldás, ha a gazdasági szereplők részére felhívás vagy tárgyalási meghívó előzetes kiküldésére, és a Közbeszerzési Hatóság egyidejű értesítésére kerül sor a törvényességi ellenőrzés lefolytathatósága érdekében. A módosítás alapján amennyiben - a rendkívüli sürgősséget előidéző helyzet miatt - mégis arra kényszerül az ajánlatkérő, hogy a tárgyalások megkezdésével indítja meg az eljárást, úgy az átláthatóság alapelvének érvényesülése érdekében utólag kell rögzítenie az EKR-ben az eljárás előkészítése (pl. gazdasági szereplők körében végzett, a helyzet megoldására vagy elhárítására leginkább alkalmas beszerzési igényekre vonatkozó felmérés), valamint az eljárás során, különösen a tárgyalásokról készített dokumentumokat. A jogalkotó a megtett intézkedésekről és döntésekről készített dokumentumok keletkezésével kapcsolatban szándékosan nem rendelkezik arról, hogy azokat az eljárás során, vagy utóbb kell-e elkészítenie az ajánlatkérőnek, mivel azt alapvetően a rendkívüli sürgősséget előidéző helyzet, illetve ajánlatkérő kapacitásai határozzák meg (életszerűek lehetnek az eljárás folyamatában készített dokumentumok, a csak utóbb készítettek, vagy a részben folyamatában, részben utóbb készített dokumentumok is).
+
+A Kbt. mint a legfontosabb garanciális eljárási szabályokat tartalmazó keretjogszabály szerepének megőrzése érdekében a módosítás rendelkezik továbbá arról is, hogy az eljárási cselekmények elektronikus gyakorlásának módjáról külön kormányrendelet rendelkezik, amely továbbra is biztosítja meghatározott, elektronikus úthoz kötött eljárási szabályoknak a törvény szabályaitól való eltérés lehetőségét (például elektronikus árlejtés esetén).
+
+A 13. §-hoz
+
+Az új 41/A. §-hoz fűződő indokolás:
+
+Az EKR-ben jelentősen egyszerűsödött az ajánlat összeállítása azzal, hogy a rendszer a különféle nyilatkozatok megtételére elektronikus űrlapok segítéségével ad lehetőséget. Abban az esetben, ha a jogszabályok szerint egy nyilatkozatot alkalmazni kell az eljárásban, az űrlapok használata fő szabály szerint kötelező. Tekintettel arra, hogy az elektronikus rendszer számos adatot az űrlapok kitöltése révén tud feldolgozni, így az nem tudna megfelelően működni, amennyiben az ajánlattevők az elektronikus űrlap alkalmazása helyett a papír alapon aláírt nyilatkozat elektronikus másolatát csatolnák. Azokban az esetekben, amikor nem áll elektronikus űrlap rendelkezésre a nyilatkozat megtételéhez, főszabály szerint a nem elektronikusan megtett nyilatkozat egyszerű másolatának csatolása is elegendő.
+
+A fent kifejtett okból az elektronikus űrlap kitöltését a törvény akkor is megköveteli, ha az ajánlatkérő a magyartól eltérő nyelvű ajánlattételt is lehetővé tette. Az EKR magyar és angol nyelven elérhető, az ajánlatkérő azonban lehetővé teheti más nyelven is az ajánlattételt, így amennyiben az adott dokumentumra a nyilatkozattétel nyelvén elektronikus űrlap nem áll rendelkezésre, a papír alapú dokumentum egyszerű elektronikus másolata is csatolható. Ebben az esetben a magyar nyelven kitöltött elektronikus űrlapot a csatolt nyilatkozat fordításának kell tekinteni.
+
+A kis- és középvállalkozások könnyebb hozzáférését segíti elő, hogy az EKR alkalmazása és az elektronikus kommunikációra vonatkozó követelmények nem követelik meg a vállalkozások részéről elektronikus aláírás használatát és azt - a következő, jellemzően a bankok vagy biztosítók garanciavállaló nyilatkozatára, valamint a kezességvállalásról szóló nyilatkozatra vonatkozó kivétellel - az ajánlatkérő sem követelheti meg.
+
+Az olyan nyilatkozatokhoz fűződő követelmények, amelyek közvetlenül valamely követelés érvényesítésének alapjául szolgálnak, elsősorban az ajánlati biztosítékhoz kapcsolódóan merülnek fel. Fontos követelmény, hogy az ajánlatkérő egyértelműen meg tudjon győződni arról, hogy a biztosítékot szükség esetén le tudja hívni, érvényesíteni tudja. Ezen követelményeknek az EKR-ben bonyolított eljárások esetén is meg kell felelni, ami azt jelenti, hogy az igényérvényesítés alapjául szolgáló dokumentumot a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szerinti teljes bizonyító erejű elektronikus dokumentumként kell az ajánlathoz csatolni. A Pp. 325. § (1) bekezdés f) pontja alapján teljes bizonyító erejű a magánokirat, ha az elektronikus okiraton az aláíró a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását vagy bélyegzőjét helyezte el, és - amennyiben jogszabály úgy rendelkezik - azon időbélyegzőt helyez el.
+
+A módosítás a 424/2017. Korm. rendelet egyik legfontosabb szabályának átvétele útján a képviseleti jogosultságra vonatkozóan vélelmet állít fel: az EKR-ben elektronikus úton tett nyilatkozat tekintetében az ajánlatkérő szervezet vagy - az ajánlatot vagy részvételi jelentkezést a rendszerben benyújtó gazdasági szereplő esetében - a gazdasági szereplő képviselőjének kell tekinteni azt a személyt, aki az EKR-ben az ajánlatkérő szervezet vagy gazdasági szereplő részéről a nyilatkozattételhez szükséges hozzáféréssel és jogosultsággal rendelkezik. Míg a papír alapon megtett nyilatkozatok kapcsán a gyakorlat szerint az ajánlatkérők a cégjegyzékben szereplő adatok alapján és aláírási címpéldány bekérésével ellenőrzik, hogy a benyújtott nyilatkozatot valóban a képviseletre jogosult tette-e meg, az EKR-ben elektronikusan megtett nyilatkozatok tekintetében (ahol pl. az ajánlat benyújtására jogosultsággal rendelkező egy gombnyomással küldi el az ajánlatot), ez nem lenne kivitelezhető, illetve aránytalan nehézségekbe ütközne. Az EKR-t használó szervezetnek kell azt biztosítania, hogy aki az adott cselekmény megtételére a rendszerben jogosultsággal rendelkezik, az ahhoz szükséges felhatalmazással rendelkezzen, illetve annak kereteit ne lépje túl - ennek kockázatát az érintett szervezetnek kell viselnie.
+
+Az EKR-ben olyan nyilatkozatokra is rendelkezésre áll elektronikus űrlap, amelyeket adott esetben a közös ajánlattevők vagy részvételre jelentkezők, valamint az alkalmasság igazolásában részt vevő más szervezetnek is meg kell tennie [ilyen különösen az Egységes Európai Közbeszerzési Dokumentum (EEKD) űrlap]. Az elektronikus rendszer működéséből adódóan ezeket a nyilatkozatokat a közös ajánlattevők vagy részvételre jelentkezők, valamint az alkalmasság igazolásában részt vevő más szervezetek képviseletében az ajánlatot vagy részvételi jelentkezést benyújtó gazdasági szereplő teszi meg. A hamis nyilatkozattétel kapcsán releváns, hogy a szabályozás kimondja: a más nevében tett nyilatkozatok megtételére meghatalmazott gazdasági szereplő kizárólag azért felel, hogy a meghatalmazásnak és a számára rendelkezésre bocsátott nyilatkozatoknak, adatoknak az általa elektronikusan megtett nyilatkozatok megfelelnek.
+
+Az új 41/B. §-hoz fűződő indokolás:
+
+Az új § az irányelvi rendelkezésekkel összhangban szabályozza az EKR használatával szemben támasztott alapvető követelményeket. A szabályozás a benyújtandó dokumentumokkal, az azokra vonatkozó ajánlatkérői előírásokkal kapcsolatosan fogalmaz meg általános elvárásokat. Az ajánlatkérő szerveknek - bizonyos konkrét helyzetek kivételével - olyan elektronikus kommunikációs eszközöket kell használniuk, amelyek nem eredményeznek megkülönböztetést, általánosan hozzáférhetőek és kompatibilisek az általánosan használt termékekkel, valamint nem korlátozzák a gazdasági szereplőknek a közbeszerzési eljárásban való részvételi lehetőségét.
+
+Az új 41/C. §-hoz fűződő indokolás:
+
+A rendelkezés a 424/2017. Korm. rendeletben írtak törvényi szinten történő rendezésével - a 2014/24/EU irányelvben foglaltakkal összhangban - tételesen meghatározza azokat az eseteket is, amikor nem kötelező az elektronikus úton történő kommunikáció és az EKR alkalmazása, a rendszertől való eltérés azonban minden esetben indoklási kötelezettséget von maga után. Fontos hangsúlyozni, hogy az eltérési lehetőség csak az adott eljárási cselekményre, vagy adott dokumentumra vonatkozik, nem jelenti azonban azt, hogy a teljes eljárás az EKR-en kívül kerüljön lefolytatásra. Amennyiben tehát például az ajánlat egy része nem nyújtható be elektronikus úton, akkor az ajánlatnak kizárólag ezen része kerülhet papír alapon benyújtásra, az eljárás egyéb része azonban az EKR-ben folytatandó le.
+
+A 41/C. § (1) bekezdés d) pontja arról az esetről rendelkezik, amikor az ajánlatkérő olyan fizikai vagy méretarányos modellek benyújtását írja elő, amelyek elektronikus úton nem továbbíthatók. A módosítás szándékosan használ eltérő megfogalmazást, mint a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendeletben szereplő mintapéldány, mivel nem csak az alkalmasság igazolása körében benyújtandó mintapéldány csatolása fordulhat elő, hanem például elképzelhető a szakmai ajánlat körében olyan modell benyújtására vonatkozó előírás is, amely indokolttá teszi a törvényben használt megfogalmazást, továbbá az jobban illeszkedik a tervpályázati eljárásokhoz is, mintha csupán a mintapéldányra szűkítené a jogszabály az EKR-től való eltérés lehetőségét.
+
+A jogszabály-módosítás mindössze két esetben enged teljes eltérést az elektronikus út alól:
+
+- ha az EKR üzemeltetője által a honlapján közzétett tájékoztatás alapján az EKR részben (pl. egyes eljárástípusok vagy eljárási cselekmények vonatkozásában) vagy egészben tartósan nem tudja biztosítani a Kbt.-nek és végrehajtási rendeleteinek megfelelő eljárást; vagy
+
+- ha az EKR több napon keresztül fennálló üzemzavara miatt a Kbt. 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárás a rendkívüli helyzet által megkívánt idő alatt nem lenne megvalósítható.
+
+A módosítás 41/C. § (6) bekezdése azonban ez utóbbi két esetre is előírja bizonyos adatok EKR-ben történő rögzítésének kötelezettségét. A Kbt. 37. § (1) bekezdés h) pontja szerinti eljárás eredményéről szóló tájékoztató EKR-ben rögzített űrlapon való kitöltésének fontos szerepe van (és ezáltal ez a lépés elengedhetetlen akkor is, ha egyébként üzemzavar miatt a hirdetmény feladása nem lehetséges, és az űrlapot ajánlatkérő csak utólag tölti ki), mivel a statisztikai célú lekérdezésekhez az adatok egy jelentős részét az eljárás eredményéről szóló tájékoztatóból nyeri a rendszer. Annak érdekében tehát, hogy a hazai közbeszerzési eljárásokról a lehető legpontosabb képet kapjuk, és a statisztikák ne torzítsanak, a módosítás 41/C. § (1) bekezdés e)-f) pontja szerinti kivételek esetén is szükséges a megfelelő adatrögzítés.
+
+Az eljárás iratanyagának utólagos rögzítési kötelezettsége kapcsán fontos hangsúlyozni, hogy az EKR egy központi és egységes rendszer, így a cél, hogy a magyarországi közbeszerzések teljes egészében nyomon követhetőek legyenek a rendszeren keresztül. Mindezekkel együtt az utólagos rögzítési kötelezettség nem kíván indokolatlan adminisztrációs terhet róni az ajánlatkérőkre, így azokat nem eljárási cselekményenként, hanem az eljárás végén (eredménytájékoztató feladása) kell a rendszer erre szolgáló felületére feltölteni.
+
+A 14. §-hoz
+
+A közbeszerzési terv minimális adattartalmára a 424/2017. Korm. rendelet jelenleg is tartalmaz előírást, a rendelkezés ennek törvényi felhatalmazását teremti meg.
+
+Az előírás mögött az a jogalkotói szándék húzódik meg, hogy az ajánlatkérők - összhangban az európai uniós elvárásokkal is - nagyobb figyelmet fordítsanak beszerzési igényeik megfogalmazására, nagyobb hangsúlyt kapjon az előre tervezés. Az előírás és a 424/2017. Korm. rendeletben meghatározott, közbeszerzési tervre irányadó minimális adattartalom elősegíti a Kbt. 28. § (1) bekezdésében megfogalmazott követelmény érvényesülését is, miszerint ajánlatkérő köteles a közbeszerzési eljárást - a beszerzés tárgyára és becsült értékére tekintettel - megfelelő alapossággal előkészíteni. Amennyiben ajánlatkérők már a közbeszerzési terv elkészítésekor fokozottabb előrelátást tanúsítanak, az egyes eljárásaik előkészítése is meggyorsulhat. A rendelkezés továbbá - az előre tervezés hangsúlyosabbá tétele okán - a hatékony és felelős gazdálkodás elvét is visszatükrözi, mindezek mellett ugyanakkor hangsúlyozandó az is, hogy a Kbt. 42. §-ában foglaltak továbbra is irányadóak, tehát a közbeszerzési tervben szereplő eljárás lefolytatására ezután sem kötelesek ajánlatkérők, illetve az előzetesen rögzítettektől eltérhetnek.
+
+A 15. §-hoz
+
+A módosítás célja kettős: egyrészről a Közbeszerzési Hatóság által működtetett nyilvános elektronikus szerződéstár (a továbbiakban: CoRe) és az EKR jövőbeni összekapcsolására tekintettel rendelkezik a szerződések nyilvántartásáról. Másrészről a 424/2017. Korm. rendeletből törvényi szintre emeli a közbeszerzési eljárások meghatározott dokumentumainak EKR útján történő közzétételi kötelezettségét.
+
+A Közbeszerzési Hatóság által működtetett Közbeszerzési Adatbázis funkcióit az EKR-ben lefolytatott eljárásokhoz kapcsolódó adatközzétételi kötelezettségek körében átveszi az EKR és a CoRe. A nyilvánosság biztosítása érdekében tehát a Kbt. 43. § (1) bekezdés a)-c) pontjai és 43. § (2) bekezdés a)-c) pontjai szerinti adatokat az EKR-ben, illetve a CoRe-ban szükséges közzétenni. A 2018. április 15-ét megelőzően, az EKR-en kívül indult közbeszerzési eljárások nyilvános adatai a Közbeszerzési Adatbázisban továbbra is elérhetőek maradnak, azonban a Kbt. 43. § (1) bekezdés g) pontja szerinti éves statisztikai összegzést az EKR-ből kinyerhető statisztikai adatok a továbbiakban szükségtelenné teszik.
+
+A 16. §-hoz
+
+Az eljárások dokumentálására, illetve a Közbeszerzési Hatóság, vagy jogszabályban feljogosított más szerv (például Gazdasági Versenyhivatal) dokumentumokhoz történő hozzáférésére vonatkozó szabályok pontosításra és kiegészítésre kerülnek az EKR használatára tekintettel. A rendelkezés továbbá törvényi szintű felhatalmazást keletkeztet arra, hogy statisztikai célokból kormányrendeletben kerüljön meghatározásra a törvényben előírtakon kívül bizonyos, az EKR-ben rögzítendő közbeszerzésekre vonatkozó adatok köre.
+
+A 17. §-hoz
+
+Az elektronikus kapcsolattartásra tekintettel történő kiigazítás. Figyelemmel arra, hogy a dokumentumok elektronikusan, elektronikus űrlapként, illetve elektronikus másolati formában kerülnek benyújtásra - amelynek szabályait az e módosítással bevezetendő, Kbt. 41/A. §-a tartalmazza - az eredeti, illetve másolati példányú dokumentumokra vonatkozó előírások relevanciájukat vesztik.
+
+A 18. §-hoz
+
+Az EKR használatához kötődő pontosítás. Tekintettel arra, hogy az eljáráshoz kapcsolódó közbeszerzési dokumentumok az elektronikus rendszerben férhetőek hozzá, így az azok elérésére vonatkozó információ is az EKR-en belül értelmezendő.
+
+A 19. §-hoz
+
+A rendelkezéssel az EKR üzemeltetéséhez kapcsolódó részletszabályok külön jogszabályban történő szabályozására vonatkozó utalások kerülnek beiktatásra.
+
+A 20. §-hoz
+
+A jelenlegi szabályozás gyakorlati tapasztalatok szerint nehezen kezelhető helyzetet teremtett abban az esetben, ha az ajánlatkérő a Kbt. 87. § (6) bekezdése alapján úgy döntött, hogy nem tart tárgyalást, ugyanis az ajánlati kötöttség az erről szóló értesítéssel automatikusan beáll. Ilyen esetben, valamint ajánlati biztosíték adásához kötött ajánlattétel egyidejű előírásával előfordulhatott olyan helyzet - amennyiben az ilyen helyzetre irányadó feltételeket az ajánlatkérő nem határozta meg előre -, hogy akár az összes ajánlattevő ajánlatát érvénytelenné nyilvánította az ajánlatkérő. A módosítás az e körben fennálló joghézagot tisztázza, és teszi egyértelművé, hogy miként kell eljárnia az ajánlatkérőnek és ajánlattevőknek ilyen esetekben.
+
+A módosítás továbbá a fenti logika és rendelkezés alkalmazásával kizárja, hogy amennyiben az ajánlatkérő az egyetlen beérkező ajánlatra tekintettel, nem kíván elektronikus árlejtést lefolytatni, azt a biztosíték hiánya miatt érvénytelenné kelljen nyilvánítania.
+
+A 21. §-hoz
+
+Az EKR üzemzavarára tekintettel a 424/2017. Korm. rendelet rendelkezéseinek törvényi szintre emelése. Informatikai rendszerek használata során szükséges felkészülni arra az eshetőségre is, hogy a rendszerben valamilyen oknál fogva üzemzavar keletkezik, amely alatt akár az ajánlattételi, vagy részvételi határidő is lejárhat. Erre az esetre szükséges rendelkezni arról, hogy a módosító hirdetmény az üzemzavar elhárulása után haladéktalanul feladható.
+
+A hirdetmény ajánlattételi, vagy a részvételi határidő lejárta után történő feladásának az üzemzavar elhárulása után haladéktalanul, de legkésőbb a következő munkanapon meg kell történnie. A rendelkezés nem kíván indokolatlan többletterhet róni ajánlatkérőkre, a „haladéktalanul” kitétel mindig a konkrét eljárás és az üzemzavar tényleges elhárulása tükrében értelmezhető. Így például megfelel a jogalkotói szándéknak az aznapi hirdetményfeladás, ha az üzemzavar munkanapon hárul el, azonban olyan esetekben, amikor ez nem teljesíthető - munkaidő végén, éjszaka, hétvégén, vagy munkaszüneti napon ér véget az üzemzavar -, a következő munkanapon történő feladás is jogszerűnek minősül.
+
+A 22. §-hoz
+
+A 424/2017. Korm. rendelet rendelkezésének törvényi szintre emelése. Az EKR-ben az űrlapok használata fő szabály szerint kötelező, tekintettel arra, hogy az elektronikus rendszer számos adatot ezek kitöltése révén tud feldolgozni, így az nem lenne képes megfelelően működni, amennyiben az ajánlattevők az elektronikus űrlap alkalmazása helyett a papír alapon aláírt nyilatkozat elektronikus másolatát csatolnák. Az űrlapok használata ezzel együtt a gazdasági szereplők adminisztrációs terheit is csökkenti.
+
+A 23. §-hoz
+
+A Kbt. 62. § (1) bekezdés j) pontja szerinti jogtalan befolyásolás nem tartalmazza a Kbt. 62. § (1) bekezdés h) pontjában megtalálható jogorvoslatra vonatkozó rendelkezést. A rendelkezés egyértelműsítése és pontosítása érdekében szükséges a jogorvoslat esetkörére kitérni a Kbt. 62. § (1) bekezdés j) pontja vonatkozásában is.
+
+A 24-25. §-hoz
+
+Az elektronikus út használatából következik a képviseletre vonatkozó kiegészítés az alkalmasság igazolásához igénybe vett szervezetek tekintetében annak előírásával, hogy az ajánlatnak vagy részvételi jelentkezéseknek a tőlük származó meghatalmazást is tartalmaznia kell. A kiegészítés a 424/2017. Korm. rendelet rendelkezésének törvényi szintre emelése.
+
+A bontást az EKR automatikusan végzi, és ennek időpontjától az ajánlatok vagy részvételi jelentkezések az ajánlatkérők számára is rendelkezésre állnak. A rendszer automatikusan megjeleníti az ajánlattevők számára a felolvasólapon szereplő adatokat és elkészíti a bontási jegyzőkönyvet, amely tartalmazza az ajánlattevőnként, illetve részvételre jelentkezőnként az ajánlattevő nevét, székhelyét, a cím adatait, és a felolvasólap adattartalmát. A bontási jegyzőkönyvet az ajánlattevők, illetve részvételre jelentkezők, az eljárás megnyitásakor a bontási adatokat tartalmazó felületen megtekinthetik, amennyiben ajánlatkérő a bontási jegyzőkönyv megküldéséről gondoskodott.
+
+A bontási jegyzőkönyv automatikusan generált részei nem szerkeszthetőek, azonban az ajánlatkérőnek lehetősége van a jegyzőkönyvet szabad szövegesen kiegészíteni, így például, ha az elektronikusan benyújtott részvételi jelentkezés vagy ajánlat mellé mintapéldányt nyújt be az ajánlattevő, az ajánlatkérő kiegészítheti a bontási jegyzőkönyvet ennek dokumentálásával, továbbá a rendszer lehetőséget biztosít a mintapéldány átvételéről szóló jegyzőkönyv és az arról készült fénykép feltöltésére is az eljárás iratai közé.
+
+A bontást megelőzően a rendszer biztosítja az ajánlatok titkosságát, azokhoz a bontást megelőzően senki nem tud hozzáférni.
+
+A 26. §-hoz
+
+A jelenlegi szabályozás nem egyértelmű a tekintetben, hogy miként jár el helyesen ajánlatkérő abban az esetben, ha az ajánlattevő a Kbt. 69. § (4) bekezdése szerinti igazolásait egyáltalán nem, határidőn túl, vagy nem megfelelően nyújtotta be. Az egyenlő bánásmód alapelvéből is fakadóan kialakult azon jogértelmezési gyakorlat, miszerint ajánlatkérőt abban az esetben is hiánypótlási illetve felvilágosítás kérési kötelezettség terhelte, ha az ajánlattevő a Kbt. 69. § (4) bekezdése szerinti felhívás ellenére egyáltalán nem nyújtott be dokumentumot. A közbeszerzési eljárások lefolytatásához szükséges időigény csökkentéséhez fűződő érdek, valamint a joggal való visszaélés tilalmának érvényesülése ugyanakkor indokolja, hogy az ajánlatkérő - az erre irányuló felhívás ellenére - a Kbt. 69. § (4) bekezdése szerinti dokumentumok benyújtásának teljes körű elmulasztását automatikusan akként értékelhesse, hogy az érintett ajánlattevőnek a továbbiakban nem célja a közbeszerzési eljárásban való sikeres részvétel.
+
+A törvény továbbá az igazolások benyújtásával kapcsolatos megengedőbb rendelkezéseket ír elő a gazdasági szereplők adminisztrációs terheinek csökkentése érdekében. A közbeszerzési eljárások iratainak elektronikus rendelkezésre állására tekintettel lehetővé válik, hogy az ugyanazon ajánlatkérő számára korábban már a gazdasági szereplő által benyújtott igazolást (amennyiben az az érintett új eljárásban is tartalmilag megfelelő) ne kelljen ismételten csatolni.
+
+A 27. §-hoz
+
+A módosítás a jelenleg a 424/2017. Korm. rendeletben a hatályos törvényi rendelkezésektől eltérő, EKR-hez kötődő fontos szabályt emel törvényi szintre. Eszerint, ha az ajánlatkérő az ajánlatban az értékelésre kiható számítási hibát észlel, - a hiba és a javítandó érték, valamint a javítás eredményeként meghatározott érték megjelölésével - felhívja az ajánlattevőt annak javítására.
+
+Több tekintetben is aggályos lenne, ha az elektronikus rendszerben az ajánlatkérő hozzáférést kapna az ajánlattevő ajánlatának szerkesztéséhez, ilyen szerkesztési jogosultság nélkül ugyanakkor a számítási hiba javítását nem tudja elvégezni.
+
+A számítási hiba javításának az eredményét az ajánlatkérő akként állapítja meg, hogy a közbeszerzés tárgya elemeinek tételesen meghatározott értékeit (az alapadatokat) alapul véve kiszámítja az összesített ellenértéket vagy más - az ajánlatban megtalálható számításon alapuló - adatot. Ha a számítási hiba javítását nem, vagy nem az előírt határidőben teljesítették, az ajánlat érvénytelen. E nélkül előállhatna az a helyzet, hogy az ajánlattevő szándékosan nem javítja ki a hibát, ha az ajánlatban eredetileg rögzített ajánlati elem figyelembevétele kedvezőbb helyzetbe hozná az értékelés során. Az új szabály bevezetése tehát azt a célt szolgálja, hogy az ajánlattevő az eljárás eredményét ne tudja visszaélésszerű magatartásával befolyásolni.
+
+A rendszer átláthatósága érdekében szükséges, hogy a rendszerben változatlan formában is megjelenjen az eredeti ajánlat, ugyanakkor mivel a rendszer az ajánlat egyes adatait (így az értékelésre kerülő elemeket) használja az eljárás további szakaszaiban, illetve az EKR-ből kinyerhető statisztikai adatok alapját jelentik, ezért elengedhetetlen az is, hogy a számítási hiba a rendszerben - a papír alapú gyakorlattól eltérően - valóban javításra kerüljön.
+
+A 28. §-hoz
+
+A törvény a 424/2017. Korm. rendelet azon rendelkezését veszi át, amely a Kbt. eredménytelenségi okainak sorát egészítette ki azzal a technikai okra visszavezethető körülménnyel, ha az EKR működési hibája olyan jogsértést eredményez, amely a Kbt.-ben meghatározott alapelvek érvényesülését biztosító módon nem orvosolható.
+
+Az elektronikus kommunikáció bevezetése a közbeszerzésekben olyan jelentős technikai eredmény, amely számos előnyt biztosít a hagyományos papír alapú kommunikációval szemben, így például csökkenti az adminisztratív terheket, egyszerűsödnek, gyorsulnak az eljárások és megteremti azok jobb átláthatóságát. Napjaink informatikai megoldásai lehetővé teszik olyan komplex rendszerek létrehozását, amelyek megbízhatósága minimális szintre szorítja az azok működésében potenciálisan felmerülő hibákat. Ez az állítás természetesen magában hordozza azt is, hogy a működési hibák nem zárhatók ki teljesen, miként az sem, hogy szervezett informatikai támadások eredményezik egy adott rendszer leállását, vagy működésének korlátozottságát - ezek a hibák azonban csak a legritkább esetekben fordulhatnak elő. Az ilyen jogbizonytalanságot okozó esetek elkerülése érdekében - noha az a Kbt. alapelveiből levezethető - a kiegészítés tételes jogi rendelkezéssel biztosítja az EKR működési hibájából (amely tehát objektív kategória és jelentheti a külső beavatkozásból előálló hibát is) eredő, jogszerűtlen és nem orvosolható helyzetet eredményező eljárásoknak az eredménytelenné nyilvánítását.
+
+A módosítás emellett rendelkezik arról is, hogy a fedezet összegét az EKR-ben, illetve azon kívül milyen módon szükséges a bontásig rögzíteni, amely a 75. § (2) bekezdés b) pontja szerinti eredménytelenségi ok alkalmazásához kapcsolódó szabály.
+
+A 29. §-hoz
+
+A jogalkalmazók segítése érdekében szükséges az ajánlatkérő számára lehetőség biztosítása arra, hogy a közbeszerzések ellenőrzését végző szerv megállapítása alapján az összegezés megküldését követően, annak módosítása előtt bizonyos bírálati cselekményeket végrehajthasson. Ennek megfelelően a rendelkezés immár legfeljebb két alkalommal biztosít lehetőséget az ajánlatkérő számára az összegezés módosítására: erre az ajánlatkérő saját kezdeményezésére, és az ellenőrző szervek megállapítása alapján is kerülhet sor. Fel kell azonban hívni a figyelmet arra, hogy kizárólag az ellenőrző szervek megállapítása alapján van lehetőség újabb bírálati cselekmények elvégzésére, illetve a rendelkezés szövege nem határoz meg sorrendet az összegezés két alkalommal történő módosítását illetően (az ajánlatkérő általi módosítást megelőzheti az ellenőrző szervek megállapítása alapján történő módosítás is).
+
+Fontos továbbá kiemelni, hogy a bírálati cselekményekre és az összegezés módosítására vonatkozó korlát nemcsak a jogsértés orvosolhatóságának terjedelmére vonatkozik, hanem a módosításra nyitva álló határidőre is: az a fenti rendelkezésekkel együttesen is csak az összegezés megküldésétől számítottan húsz nap, vagy a részvételi szakaszról készült összegezés esetén az ajánlattételi határidő lejártáig tartó időtartam. A megtett bírálati cselekményekre és az összegezés egy vagy legfeljebb két alkalommal történő módosítására tehát kizárólag ezen határidők betartásával kerülhet sor.
+
+A 30-31. §-hoz
+
+A rendelkezések az EKR használatára tekintettel a Kbt. terminológiáját pontosítják, értelmezését az elektronikus úthoz igazítják, mivel a közbeszerzési dokumentumok elérhetősége is az EKR-en belül értelmezhető.
+
+A 32. §-hoz
+
+Az EKR-hez kapcsolódó fontos szabály - amit informatikai szempontok tesznek indokolttá -, hogy tárgyalásos eljárásban - beleértve a hirdetmény nélküli tárgyalásos eljárásokat is - minden esetben kötelező végleges ajánlat írásbeli benyújtása, amit értelemszerűen az EKR-ben kell megtenni. Erre azért van szükség, mert a rendszer egy meghatározott eljárási cselekmény sorrendben kezeli az eljárásokat, az algoritmusok nem tudják kezelni azt a - papír alapon korábban működő - gyakorlatot, hogy az ajánlattevő végleges ajánlat benyújtása nélkül fenntartja ajánlatát, hanem szükség van az új, írásbeli ajánlat benyújtására a további eljárási lépések megtételéhez.
+
+A 33-34. §-hoz
+
+Ld. a 30-31. §-hoz fűzött indokolást.
+
+A 35. §-hoz
+
+A hirdetmény nélküli tárgyalásos eljárás jogalapjának és feltételeinek a beszerzés egészére, annak teljes időtartama alatt fenn kell állnia. A feltételek fennállását a Közbeszerzési Hatóság szigorúan ellenőrzi.
+
+A rendkívüli sürgősségre alapozott hirdetmény nélküli tárgyalásos eljárás feltételrendszerének nem feleltethető meg a keretmegállapodás, mivel az tipikusan egy olyan beszerzési igény kielégítésének eszköze, amelynek esetében az ajánlatkérő nem ismeri előre a beszerzés pontos feltételeit és körülményeit, amely helyzet nem összeegyeztethető egy vis maior körülmény miatt bekövetkezett, pontosan azonosítható beszerzési igénnyel, amely az ajánlatkérő oldalán azonnali reakciót igényel.
+
+A kiegészítés megerősíti a Közbeszerzési Hatóság törvényességi ellenőrzését és hozzájárul a versenyt nélkülöző hirdetmény nélküli tárgyalásos eljárások magas arányának visszaszorításához.
+
+A 36-37. §-hoz
+
+A módosítás egyértelműsíti, hogy hirdetmény nélküli tárgyalásos eljárások során minden esetben kötelező végleges ajánlat megtétele.
+
+Hirdetmény nélküli tárgyalásos eljárások esetében fontos körülmény, hogy a rendkívüli sürgősségre alapított eljárások esetén a tárgyaláson szóban tett ajánlatot az EKR - értelemszerűen - nem tudja kezelni, ezért minden esetben szükséges írásbeli ajánlat benyújtása.
+
+A módosítás továbbá megerősíti, hogy azokban a hirdetmény nélküli tárgyalásos eljárásokban, ahol az ajánlattevők közötti verseny az eljárás jogalapjánál fogva lehetséges, az ajánlatkérőknek minden körülményt figyelembe kell vennie annak érdekében, hogy a hatékony közpénzfelhasználást biztosító egyik legfontosabb eszközként - legalább három ajánlattevő felhívásával -, versenyhelyzetet teremtsenek.
+
+A 38. §-hoz
+
+Részben pontosításokat tartalmaz, tekintettel arra, hogy a hirdetmény nélküli tárgyalásos eljárásokhoz kapcsolódó, a Közbeszerzési Hatóság által végzett ellenőrzési cselekmények tekintetében is az EKR használandó.
+
+Emellett a hirdetmény nélküli tárgyalásos eljárások számának csökkentése, illetve a megfelelő jogalappal kapcsolatos, előzetes ajánlatkérői mérlegelés ellenére megindított eljárások visszaszorítása érdekében igazgatási-szolgáltatási díj kerül bevezetésre a Közbeszerzési Hatóság törvényességi ellenőrzéseinek vonatkozásában. Ezen felül a törvény további pontosító rendelkezéseket tartalmaz a Hatóság általi ellenőrzésekkel kapcsolatos eljárási szabályok tisztázása érdekében.
+
+A Kbt. 3. § 23. pontja szerint a Kbt. alkalmazásában a közbeszerzés megkezdésének minősül a tárgyalás megkezdésének időpontja is. A Kbt. hirdetmény nélküli tárgyalásos eljárásokra vonatkozó részében, a 102. § (2) bekezdése lehetőséget biztosít - ha a körülmények által megkövetelt rendkívüli sürgősség nem teszi lehetővé ajánlattételi felhívás elkészítését - a közbeszerzési eljárás tárgyalási meghívóval való megkezdésére. Rendkívüli sürgősség esetén előállhat olyan helyzet, amikor ajánlatkérőnek azonnal meg kell kezdenie a tárgyalást a beszerzési igénye kielégítése érdekében. A módosítás a Kbt. 3. § 23. pontjában szereplő értelmező rendelkezés gyakorlati alkalmazhatóságát teszi lehetővé, és a rendkívüli sürgősség miatt indított hirdetmény nélküli tárgyalásos eljárás megkezdésére vonatkozó szabályokat kiegészíti a tárgyalások megkezdésével.
+
+A Kbt. 98. § (2) bekezdés e) pontja alapján a tárgyalások megkezdésével induló eljárások esetén a módosítás a rendkívüli sürgősséget előidéző helyzetben - az életszerűbb szabályozás érdekében - elsődlegesen az eljárás megindulására vonatkozó, Közbeszerzési Hatóság részére történő tájékoztatási kötelezettséget határoz meg az ajánlatkérőkkel szemben. Lehetnek ugyanis olyan vis maior helyzetek, amelyekben a törvényességi ellenőrzéshez szükséges igazgatási szolgáltatási díjnak az eljárás megkezdésével történő egyidejű befizetése nem lenne életszerű, így azt legkésőbb az eljárás lezárását követően kell az ajánlatkérőknek megtenniük, az erről szóló igazolást benyújtaniuk. Ehelyütt is felhívjuk azonban a figyelmet a tárgyalások megkezdésével induló eljárások esetén az átláthatóság alapelvének fokozott figyelembe vételére és az ajánlatkérő felelős eljárásának szükségességére (ld. Kbt. 41. §-ának módosítására vonatkozó rendelkezéshez fűzött indokolást).
+
+A 39. §-hoz
+
+Az EKR alkalmazására, az elektronikus kapcsolattartásra tekintettel tett pontosítás.
+
+A 40. §-hoz
+
+A dinamikus beszerzési rendszerek létrehozására és az azokhoz történő csatlakozásra a módosítás értelmében kizárólag az EKR keretein belül van lehetőség (a dinamikus beszerzési rendszerből történő beszerzés megvalósítása során ugyanakkor van lehetőség más rendszer alkalmazására is), és az EKR honlapján elérhető információk megfelelnek a még hatályos törvényben, irányelvi alapokon nyugvó tájékoztatási kötelezettségnek. A módosítás erre tekintettel csökkenti az ajánlatkérők adminisztratív terheit: a dinamikus beszerzési rendszer használatával kapcsolatos technikai információkat nem szükséges a közbeszerzési dokumentumokban közölniük.
+
+A 41. §-hoz
+
+A 424/2017. Korm. rendeletből törvényi szintre emelt hiánypótló rendelkezés, mely szerint, ha egy olyan eljárásban, amelyben az ajánlatkérő e-árlejtés alkalmazását írta elő, nem érkezik legalább két ajánlat, az ajánlatkérő dönthet úgy, hogy nem tart elektronikus árlejtést, hanem a benyújtott ajánlat bírálatával és értékelésével befejezi az eljárást. Ebben az esetben döntéséről haladéktalanul értesíti az ajánlattevőt, és az ajánlattevő ajánlati kötöttsége az értesítés ajánlatkérő általi megküldésével beáll.
+
+A 42. §-hoz
+
+Az EKR bevezetésével nemcsak a korábban papír alapon is folytatható eljárási fajták egyszerűsítése valósult meg, hanem lehetőség nyílt a kizárólag elektronikusan megvalósítható eljárási fajták szélesebb körben történő elterjedésére az EKR támogatása révén. Az e körben kialakult hazai és uniós tagállami gyakorlatban felmerült tapasztalatok alapján több pontosítást is tartalmaz a módosítás. Ilyen többek között, hogy elektronikus katalógus létrehozására értelemszerűen van lehetőség részajánlattétel biztosítása esetén egy adott rész tekintetében is, vagy, hogy az ajánlatkérő a keretmegállapodás keretében alkalmazott elektronikus katalógus esetén a verseny újranyitás módszereként a meglévő katalógusokból való választás során az ajánlatok létrehozásához szükséges információgyűjtést az erről szóló értesítést követően is elhalaszthatja vagy visszavonhatja.
+
+Fontos, az elektronikus katalógusok rugalmas rendszerét biztosító kiegészítés, hogy a frissített katalógusok útján megvalósított verseny újranyitás esetén lehetőség nyílik a korábbi katalógusban szereplő termék helyett új termék feltöltésére. E szabály a keretmegállapodások keretében alkalmazott elektronikus katalógusok egy már elterjedt gyakorlatát jeleníti meg jogszabályi szinten, és a jogintézmény lényegének megfelelően biztosítja a hosszú távra kötött keretmegállapodások esetén is a gyorsan „elavuló” termékkörök rugalmas beszerzésének lehetőségét. Ez nem jelenti azonban, hogy az új termékek feltöltése keretében az eredeti közbeszerzéstől eltérő új beszerzési tárgyakra is kiterjeszthető az elektronikus katalógus, ezt ugyanis a Kbt. alapelvei mellett a keretmegállapodásra irányadó szabályok is kifejezetten tiltják [Kbt. 104. § (9) bekezdés] - új termékkörök vagy a korábbiaktól eltérő termékek (pl. laptop helyett nyomtató) beszerzésére irányuló szándék esetén ugyanis értelemszerűen új közbeszerzési eljárás lefolytatása szükséges.
+
+További egyszerűsítés a keretmegállapodások keretében alkalmazott elektronikus katalógusok esetében, hogy a már meglévő katalógusokból történő információgyűjtés körében a módosítás újraszabályozza az előzetes értesítés és az információgyűjtés közötti minimális időtartam hosszát. A módosítás a korábbi, legalább öt munkanapos időtartam helyett az ajánlatkérő döntési kompetenciájába utalja annak megítélését, hogy mennyi időre lehet szüksége az ajánlattevőknek a beszerzéssel érintett termékeik áttekintésére, és annak eldöntésére, hogy elutasítják-e az információgyűjtést. A Kbt. alapelveinek megfelelően természetesen ezt a jogát sem gyakorolhatja ajánlatkérő visszaélésszerűen, és általában nem tekinthető megfelelőnek 1-3 napos határidők biztosítása egy több terméket érintő beszerzés esetén. A megfelelő idő mérlegelése során tehát nem az ajánlatkérő által megállapított - adott esetben saját mulasztásából eredő - sürgősség a meghatározó, hanem, hogy az ajánlattevőknek mi lehet az a - felülvizsgálandó termékek számára és összetettségére figyelemmel - szükséges idő, amely alatt felülvizsgálhatják katalógusaikat.
+
+Jelentősen kiegészül a törvény a dinamikus beszerzési rendszer keretében alkalmazott elektronikus katalógusokra vonatkozó szabályok tekintetében, mely még a keretmegállapodásoknál is rugalmasabb, gyorsabb, ugyanakkor potenciálisan nagyobb árversenyt eredményező, hatékonyabb beszerzési módszert jelent.
+
+A dinamikus beszerzési rendszer fennállása során - a keretmegállapodásoktól eltérően - a rendszerhez bármely gazdasági szereplő azonos feltételeknek történő megfelelés esetén csatlakozhat utóbb. A módosítás a jogintézmény ezen sajátosságát hasznosítja tovább amikor arról rendelkezik, hogy az ajánlattevők által folyamatosan frissíthető, karbantartható elektronikus katalógusok voltaképpen lehetővé teszik az értesítés és az információgyűjtés közötti határidők minimalizálását - vagyis az ajánlatkérők által meghatározható megfelelő idő általában rövidebb lehet, mint keretmegállapodások esetén. A katalógusok folyamatos frissítése, karbantartása érdekében a módosítás továbbá kifejezetten lehetővé teszi az ajánlatkérők számára az ajánlattevők felszólítását a katalógusuk frissítésére, mely alapján - az információgyűjtés visszautasításához hasonlóan - azonban ajánlattevő nem köteles a frissítés elvégzésére.
+
+A folyamatos karbantartás továbbá azt jelenti, hogy a dinamikus beszerzési rendszer - mint az ajánlatkérő gyakran felmerülő beszerzéseit támogató módszer - keretében a rendszeres ajánlatkérésekről történő megfelelő előzetes tájékoztatást követően nincs szükség az ajánlattevőknek a katalógusaik felülvizsgálatához külön időre. Ilyen esetben ugyanis előre tudják mennyi idő áll rendelkezésükre az egyes rendszeres ajánlatkérések között.
+
+A módosítás szerint azon körülményt, hogy az ajánlatkérő dinamikus beszerzési rendszer keretében alkalmazott elektronikus katalógusok útján rendszeres ajánlatkérést kíván megvalósítani, már a közbeszerzési dokumentumokban, vagyis a rendszer létrehozása során meg kell jelölnie, annak indokaival együtt. Ekkor még ajánlatkérőnek nem kell feltétlenül rendelkeznie a rendszeres ajánlatkérés részleteiről, így különösen arról, hogy milyen időközönként (pl. hetente, havonta) kerül sor rendszeres ajánlatkérésre. E tájékoztatást elég csupán az első ilyen beszerzés megvalósítását megelőzően megadnia az ajánlattevők részére.
+
+Végül a dinamikus beszerzési rendszer esetében - mely a keretmegállapodásokhoz hasonlóan hosszabb időre jön létre - ugyancsak felmerülhet a termékek „elévülése”. Ezt a módosítás akként kívánja kezelni, hogy a rendszer keretében alkalmazott elektronikus katalógus karbantartása révén a termékek cseréjére is legyen lehetőség. Ezt természetesen a keretmegállapodásoknál leírtakhoz hasonlóan kizárólag műszakilag egyenértékű, vagy a meghatározó műszaki paramétereiben kedvezőbb termékkel teheti meg ajánlattevő és kizárólag az ajánlatkérő megfelelő tájékoztatása mellett. A termékcsere lehetősége ebben az esetben sem eredményezheti a dinamikus beszerzési rendszeren belül az eredetitől eltérő, új beszerzési tárgyak elérhetőségét (pl. laptop helyett nyomtató) az ajánlatkérő részéről, ugyanakkor nem kizárt, hogy az ajánlatkérő a dinamikus beszerzési rendszer létrehozására vonatkozó szabályok alkalmazásával újabb résszel (beszerzési tárggyal) bővítse a rendszert.
+
+A 43. §-hoz
+
+A törvény adminisztratív terheket csökkentő céljával összhangban - hivatkozással az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 42. §-ára - a közbeszerzésekről szóló 2015. évi CXLIII. törvény uniós értékhatárok alatti közbeszerzésekre vonatkozó kivételi körét bővíti rendkívül korlátozott körben, két új jogintézmény tekintetében. A start szövetkezetek tekintetében módosítás indoka, hogy a Kormány támogatja a szociális szövetkezetek működését és fejlődését, ugyanis e szövetkezetek biztosítják a hátrányos helyzetű emberek közösségbe történő integrációjának lehetőségét, a leszakadó térségek gazdaság fejlesztését és nem utolsósorban az erős helyi közösségek megteremtésével a vidéki népesség elvándorlási arányának mérséklését, a demográfiai mutatók kedvező alakulását. A szociális szövetkezetek (start szövetkezetek) által megtermelt áruk, valamint szolgáltatások beszerzésének kivételi körben való szerepeltetése a helyi kis közösségekben létrejövő vállalkozások fenntartását segítik elő. Továbbá a települési intézmények számára biztosítják a helyben előállított jó minőségű áruhoz való hozzájutást.
+
+A kivételi körben való szerepeltetés ösztönzi a hátrányos helyzetű személyek foglalkoztatását felvállaló, az éves nettó 10 millió forintot meg nem haladó árbevételű szociális szövetkezetek (start szövetkezetek) piaci helyzetének megerősítését. A kivételi körbe csak az évi nettó 10 millió forintot meg nem haladó árbevételű start szövetkezetek tartoznának bele, így biztosítható, hogy a start szövetkezetek csak a megfelelő gazdasági teljesítőképesség eléréséig részesüljenek kedvezményben. A magasabb árbevételű start szövetkezetek már megfelelő ár-érték arányú szolgáltatást tudnak nyújtani, ezért az általános közbeszerzési szabályok hatálya alá tartoznának.
+
+A Nemzeti Adó- és Vámhivatal társas vállalkozásokra vonatkozó 2016. évi adatbázisában a Fókusz Támogatási Program keretében támogatott 200 szociális szövetkezetből 74 szervezetre vonatkozóan állnak rendelkezésre részletes adatok, amelyek alapján a szervezetek pénzügyi teljesítményéről a következő megállapításokat lehet tenni. Az értékesítés átlagos nettó árbevétele az árbevétellel rendelkező és az árbevétellel nem rendelkező szövetkezetek körében 3 097 ezer forint volt, míg csak az árbevétellel rendelkező szövetkezetek átlagos nettó árbevétele 5 456 ezer forint volt.
+
+A 10 millió forintos határ úgy került meghatározásra, hogy az átlagos nettó árbevétellel rendelkező start szövetkezetek élhessenek a törvény szerinti kedvező szabályokkal, azonban az árbevételük növekedésével és gazdasági helyzetük megerősödésével együtt kikerülnek a kedvezményezettek köréből. Az állami kitüntetések, valamint az 1990. évi XII. törvény alapján a köztársasági elnök által adományozott Kossuth-díj és Széchenyi-díj tervezése, gyártása, javítása minden esetben speciális körültekintést igénylő, szorosan az állami feladatellátáshoz kapcsolódó beszerzési igényt jelent, amelyek jellege indokolja a nemzeti eljárásrendben a kivételi körök között történő szerepeltetését.
+
+A 44. §-hoz
+
+A módosítás az elektronikus eljárásra, és az EKR kötelező használatára tekintettel pontosítja a nemzeti eljárásrendben, összefoglaló tájékoztatással induló közbeszerzési eljárás szabályait. Az összefoglaló tájékoztatások megküldése ennek értelmében nem a Közbeszerzési Hatóságon keresztül történik, hanem közvetlenül az EKR-ben, illetve az előzetesen kiválasztott három gazdasági szereplő rögzítésére is itt kerül sor. Ehhez kapcsolódóan az összefoglaló tájékoztatás visszavonásával kapcsolatos cselekmények is közvetlenül az EKR-ben tehetőek meg.
+
+A módosítás továbbá egyértelművé teszi, hogy az ajánlatkérők választásuk szerint hirdetmény közzétételével is megindíthatják a nemzeti eljárásrend szerinti eljárásaikat, és nem kötelező minden esetben összefoglaló tájékoztatás előzetes közzététele, majd a felhívás megküldésével lefolytatott, 113. § szerinti eljárás alkalmazása. Ebben az esetben is - miként a 113. § (5) bekezdése szerinti felsorolás más elemei vonatkozásában - figyelemmel kell lenni a Harmadik Rész - Második Résztől eltérő - szabályainak alkalmazására, így különösen a 114. §-ban meghatározottakra.
+
+A 45. §-hoz
+
+A rendelkezés arra a nemzeti eljárásrendben előforduló helyzetre határoz meg egyértelmű szabályokat, amikor az - uniós eljárásrendnél rövidebb ajánlattételi és részvételi határidők esetén - az ajánlattételi vagy részvételi határidőt a Kbt. 52. §-ára tekintettel kellett meghosszabbítani. A kiegészítés az 52. § (5) bekezdésében meghatározott garanciális határidőktől eltérő minimális határidőket vezet be a nemzeti eljárásrendben, a 114. § (4) bekezdés szerinti ajánlattételi határidőkre figyelemmel. A rendelkezés alkalmazása során azonban ajánlatkérőnek figyelemmel kell lennie az 52. §-ban rögzített arányossági elvekre, különösen arra, hogy a határidő meghosszabbítás mértékének arányban kell állnia a kiegészítő tájékoztatásban közölt információk vagy a változtatás jelentőségével, valamint arra, hogy az ajánlatok és a részvételi jelentkezések beérkezésére vonatkozó határidőt az ajánlatkérőnek úgy kell meghatároznia, hogy - figyelembe véve a szerződés összetettségét és a törvényben előírt minimális határidőket - elegendő idő álljon rendelkezésre az ajánlatok, illetve részvételi jelentkezések elkészítéséhez.
+
+A 46. §-hoz
+
+Az EKR használatából eredő kiigazítás. Koncessziós beszerzési eljárások esetén is a gazdasági szereplők adminisztratív terheit csökkenti, hogy az EKR-ben űrlapként rendelkezésre álló nyilatkozatokat elegendő a rendszeren belül kitölteniük.
+
+A 47. §-hoz
+
+A kötelező elektronikus kommunikációra tekintettel megváltozik a szabályozás logikája, melynek értelmében a főszabályhoz, vagyis az elektronikus ajánlattételhez igazodik az ajánlattételi határidő irányelvi rendelkezéseknek megfelelő meghatározása.
+
+A 48. §-hoz
+
+A módosítás értelmében építési beruházások esetén kivezetésre kerül a szabályozásból az alvállalkozói teljesítés korlátozására vonatkozó rendelkezés, melynek célja a szerződések teljesítésében ténylegesen részt nem vevő, ún. „táskás cégek” visszaszorítása volt. A kivezetés háttere kettős. Egyrészről az uniós bírósági joggyakorlat és az irányelvek értelmezése alapján vitatott a rendelkezés uniós joggal való teljes összhangja. Az ehhez potenciálisan kapcsolódó kockázatok elkerülése érdekében a rendelkezés hatályon kívül helyezésre kerül. Másrészről az ajánlattevők az építőipar kapacitásainak telítettsége miatt egyre nehezebben tudnak megfelelni a törvényben rögzített követelménynek, amely több egy ajánlatos eljáráshoz, vagy ajánlattétel nélküli eljáráshoz vezethet, melynek elkerülését elősegíti a korlátozás kivezetése.
+
+A 49. §-hoz
+
+A módosítás alapján a Kbt. 63. § (1) bekezdés c) pontjában foglalt, súlyos szerződésszegés esetén alkalmazható kizáró ok fennállása már abban az esetben is megállapítható, ha az ajánlatkérővel szerződő fél a súlyos szerződésszegés tényét nem vitatja. A törvény alapján tehát nincs szükség a gazdasági szereplő részéről a szerződésszegés kifejezett elismerésére, amelyre - a gazdasági szereplők jól felfogott érdekének megfelelően - csak a legritkább esetben kerül sor. Ezzel szemben a törvény a közpénzből megvalósuló beszerzéseket elnyerő gazdasági szereplőkkel szemben támasztott megbízhatósági követelményeket azzal szigorítja, hogy súlyos szerződésszegés esetén elegendő az ajánlatkérőnek dokumentumokkal alátámasztania, hogy az ilyen szerződésszegést a gazdasági szereplő nem vitatja.
+
+Természetesen ez a jogalkotói megoldás több gyakorlati kérdést is felvet, mint például, hogy mennyi időt kell biztosítania az ajánlatkérőnek arra, hogy a súlyos szerződésszegés tényét vitathassa a nyertes ajánlattevő, vagy, hogy miként kell igazolni egy meg nem történt eseményt, ti. hogy az ajánlattevőtől nem érkezett válasz az ajánlatkérő azon kérdésére, hogy vitatja-e a szerződésszegést.
+
+Elkerülve a túlzottan kazuisztikus szabályozás azon csapdáját, hogy azt valamilyen különös, de életszerű esetben ne lehessen megfelelően alkalmazni, a jogalkotó a joghézag meghagyásával - a törvény alapelveinek figyelembe vétele mellett - az ajánlatkérő és a Közbeszerzési Hatóság esetről esetre történő mérlegelésébe utalja a fenti kérdések eldöntését. Általánosságban azonban elmondható, hogy annak megítélésére egy gazdasági szereplő részéről, hogy vitatja-e egy súlyos szerződésszegés tényét - és ezzel együtt felmérje, hogy az potenciálisan bírósági jogvitához vezet - nem szükséges hosszú idő, de indokolt lehet legalább néhány munkanap biztosítása, amely a szerződés és a szerződésszegéshez vezető tényállás bonyolultsága függvényében tovább növelendő. A kizáró ok jogkövetkezményeinek súlyossága és a közbeszerzési törvény alapelveinek figyelembe vételével továbbá a nem vitatottság tényének elfogadása érdekében indokolt lehet az ajánlatkérőnek a nyertes ajánlattevőhöz intézett megkeresésében felhívnia a figyelmet a nem vitatottság jogkövetkezményeire, ti. a Közbeszerzési Hatóság nyilvántartásába történő felvételére és az alapján a kizáró ok fennállására.
+
+Az 50. §-hoz
+
+A módosítás értelmében az európai uniós források felhasználásáért felelős miniszter is kezdeményezheti a Közbeszerzési Döntőbizottság hivatalból indított eljárását.
+
+Támogatásból megvalósuló közbeszerzések esetén a közbeszerzéshez támogatást nyújtó, illetve a támogatás felhasználásában jogszabály alapján közreműködő szervezet tudomásra jutás időpontjának meghatározása növeli az ellenőrzés hatékonyságát, egyfajta kiemelt ellenőrzési lehetőséget biztosít, valamint egy hosszabb ellenőrzés esetén is lehetőséget biztosít az érdemi jogorvoslati kérelem elbírálására, illetve ezáltal leszűkíthető annak lehetősége is, hogy a szerződés teljesítésével, módosításával kapcsolatban feltáratlan jogsértés maradjon.
+
+Az 51. §-hoz
+
+A módosítás törvényi vélelmet állít fel a Közbeszerzési Hatóság számára, amellyel garantálható, hogy a Hatóság a közbeszerzési szerződések hatósági ellenőrzése során feltárt közbeszerzési jogsértések esetén a számára rögzített törvényi határidőben minden esetben meg tudja indítani a jogorvoslati eljárást a Közbeszerzési Döntőbizottság előtt.
+
+Az 52. §-hoz
+
+A módosítás célszerűségi okból rögzíti, hogy az érintettek, mielőtt jelzik részvételi szándékukat a jogorvoslati eljárásban, megismerhessék a jogorvoslati kérelmet, hivatalbóli kezdeményezést.
+
+Az 53. §-hoz
+
+A Közbeszerzési Döntőbizottság jogorvoslati eljárása keretében érvényesülő rövid ügyintézési határidő megtartása vonatkozásában gyakorlati problémát okoz, hogy az érdemi vizsgálatnak akadálya az iratok megküldésének hiánya. Így gyakran az ügyintézési határidő meghosszabbítása pusztán csak azért vált szükségessé az eljárások során, mert a felek a Kbt. 154. § (2) bekezdése szerinti kötelezettségüknek késve tettek eleget. A megalapozott döntéshozatalhoz szükséges idő biztosítása érdekében a módosítás az Ákr. főszabályától eltérően határozza meg az ügyintézési határidő kezdetét, amely a módosítás eredményeként a szükséges iratok Döntőbizottság rendelkezésére állásakor kezdődik.
+
+Az 54. §-hoz
+
+2017. január 1-jével a Kbt. új kizáró okkal bővült a Közbeszerzési Hatóság szerződések ellenőrzésével összefüggő jogköreinek megerősítése érdekében. A 62. § (1) bekezdés q) pontja szerinti kizáró ok tekintetében jogértelmezési bizonytalanságot okoz az, hogy nem egyértelmű, hogy kinek kell a jogsértés súlya szerinti minősítést elvégezni.
+
+A rendelkezés kizárólag pontosításra irányul, és megerősíti, hogy a Közbeszerzési Döntőbizottság csak a Kbt. szabályainak megsértését mérlegelheti azok súlyossága szerint, továbbra sem dönthet azonban polgári jogi, polgári peres bírósági útra tartozó kérdésekben, arra feladat- és hatásköre nem terjed ki.
+
+Az 55. §-hoz
+
+Az Európai Parlament és a Tanács 89/665/EGK és a 92/13/EGK tanácsi irányelvnek a közbeszerzési szerződések odaítélésére vonatkozó jogorvoslati eljárások hatékonyságának javítása tekintetében történő módosításáról szóló 2007/66/EK irányelve (a továbbiakban: Jogorvoslati irányelv) 2. cikke rendelkezik a jogorvoslati eljárások alkalmazási köréről és rendelkezésre állásáról. A Jogorvoslati irányelvvel való összhang megteremtése érdekében indokolt annak a rendelkezésnek a hatályon kívül helyezése, amely közbeszerzési jogsértéssel összefüggő vagyoni igény érvényesítéséhez nem teszi szükségessé az előzetes jogorvoslati út igénybe vételét.
+
+Az 56-57. §-hoz
+
+A rendelkezés a Közbeszerzési Hatóság személyügyi kérdéseit érinti, megteremti a törvényi alapját a Hatóság dolgozóinak jogviszonyában a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvénytől való eltérésnek, illetve a Hatóság elnökének szabadságolásához fűződő szabályokat határoz meg.
+
+Az 58. §-hoz
+
+A módosítás a Hatóság keretében működő Tanács tagjainak körét bővíti ki.
+
+Az 59. §-hoz
+
+A rendelkezés a Közbeszerzési Hatóság személyügyi kérdéseit érinti, megteremti a törvényi alapját a Hatóságnál munkaviszony keretében történő foglalkoztatásnak, valamint a Hatóság főtitkárának illetményével és szabadságolásával összefüggő szabályokat állapít meg.
+
+A 60. §-hoz
+
+Részben pontosítja és részben új feladatokkal egészíti ki a Közbeszerzési Hatóság feladat- és hatáskörét.
+
+A Kbt. 3. § 41. pontja alapján védett munkahely az akkreditált munkáltató általi foglalkoztatás, ha a munkáltató biztosít tranzit- vagy tartós foglalkoztatást, és a munkavállalóinak legalább a 30%-a a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 22. §-a szerinti megváltozott munkaképességű személynek minősül, valamint az olyan munkáltató, amely működésének fő célja hátrányos helyzetű munkavállalók foglalkoztatása.
+
+A Közbeszerzési Hatóság honlapján jelenleg elérhető lista a Budapest Főváros Kormányhivatalának Rehabilitációs Főosztályától (a továbbiakban: BFKH) származik, azonban a BFKH a Közbeszerzési Hatóság részére korábban azt a tájékoztatást adta, hogy az általuk vezetett lista nem egyenértékű a Kbt. 187. § (2) bekezdésének a) pontjának ag) alpontjában meghatározott védett munkahelyek listájával, mivel a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet 1/A. §-a a BFKH hatáskörébe csupán a megváltozott munkaképességű munkavállalókat foglalkoztatók akkreditációjával, az akkreditált munkáltatók nyilvántartásával, és azok ellenőrzésével összefüggő hatósági feladatokat utalja. A BFKH így kizárólag az akkreditált munkáltatók személyét illetően tud teljes biztonsággal adatot szolgáltatni a KH számára. A BFKH szintén nem tud tájékoztatást nyújtani a védett munkahelyek által gyártott vagy forgalmazott termékekről, valamint a részükről nyújtott szolgáltatásokról sem.
+
+Ennek eredményeként bizonytalanság alakult ki a jogalkalmazásban, mivel az ajánlatkérők részére nem áll rendelkezésre minden információ a gazdasági szereplő védett munkahely minőségéről, továbbá egy részletesebb nyilvántartással jobban elő lehetne segíteni a védett munkahelyek közbeszerzési eljárásokon való részvételét, és a szociális szempontok fokozottabb érvényesülését.
+
+Mivel a Közbeszerzési Hatóság nem rendelkezik olyan jogszabály általi felhatalmazással, amely által a jogszabályhelyen szereplő adatok, gazdasági szereplőktől való közvetlen, és naprakész elérhetőségét biztosítaná, ezért indokolt a Kbt. 187. § (2) bekezdés a) pontjának ag) alpontját kiegészíteni a fentiek szerint.
+
+Pontosításra kerül a közbeszerzési eljárás eredményeként kötött szerződések ellenőrzésére vonatkozó hatósági ellenőrzés, mint feladat meghatározása, melynek értelmében az ellenőrzés kiterjeszthető a szintén a Kbt.-ben, illetve az ahhoz kapcsolódó végrehajtási rendeletekben szabályozott koncessziós beszerzési eljárásokra, valamint tervpályázati eljárásokra.
+
+Továbbá a Hatóság új feladataként jelenik meg a törvényben a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékének vezetése. Mivel a Hatóság a közbeszerzésekért felelős miniszterhez hasonlóan országos hatáskörrel eljáró szerv, ezért a jogorvoslati rendszerhez fűződő szabályok azonos módon kerültek meghatározásra.
+
+A 61-62. §-hoz
+
+A törvény a Közbeszerzési Hatóság köztisztviselőinek bérezését a Gazdasági Versenyhivatalhoz hasonló feltételek mentén határozza meg, valamint a Közbeszerzési Döntőbizottság elnökének illetményével és szabadságolásával összefüggő szabályokat állapít meg.
+
+A 63. §-hoz
+
+A módosítás megteremti a törvényi jogalapját a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzésekkel kapcsolatban folytatott tevékenység során történő adatkezelésnek, melyre eddig csak az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 5. § (1) bekezdés a) pontja alapján történő hozzájárulás útján került sor.
+
+A közbeszerzésekért felelős miniszternek a képzéseken résztvevők és a tanulmányi pontok nyilvántartásával kapcsolatos joga - a megfelelő végrehajtási rendeletek előkészítésével és módosításával egyidejűleg - adminisztratív tehercsökkentést jelent a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzése vagy a névjegyzékbe vétel megújítása folyamatában, mivel a jövőben az ügyfelek nem lesznek kötelesek a képzéseken való részvétel igazolásának benyújtására. A képzéseken való részvétel igazolására az ezen nyilvántartásban rögzítettek szolgálnak majd oly módon, hogy a névjegyzékbe vételt a jövőben ellátó Közbeszerzési Hatóság adatigényléssel fordul a közbeszerzésekért felelős miniszterhez.
+
+A 64. §-hoz
+
+Átmeneti rendelkezések.
+
+A 65. §-hoz
+
+A Kbt. felhatalmazó rendelkezéseit módosítja.
+
+A felelős akkreditált közbeszerzési szaktanácsadói tevékenységet szabályozó miniszteri rendelet az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 2019. január 1-jétől hatályos 8. § (3) bekezdésével való összhang megteremtése érdekében - amely arról rendelkezik, hogy miniszteri rendelet nem állapíthat meg a törvény szabályaival összhangban álló, kiegészítő eljárási rendelkezéseket - hatályon kívül helyezésre kerül és a jogintézmény tekintetében kormányrendelet megalkotására van szükség.
+
+A kormányrendelet megalkotásának szükségességére tekintettel a felhatalmazást a továbbiakban a Kormány részére kell biztosítani. Ugyanakkor a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 29. § (2) bekezdése szerint az igazgatási szolgáltatási díjat továbbra is miniszteri rendeletben kell megállapítani.
+
+A Kbt. 198. § (2) bekezdés a) pontja szerinti felhatalmazó rendelkezés módosítása lehetőséget teremt arra, hogy az - Európai Bizottság által rendszeresen kifogásolt, és a tagállami országjelentésekben szisztematikusan magas arányszámúnak minősített - hirdetmény nélküli tárgyalásos közbeszerzési eljárások arányának csökkentése érdekében ellenőrzési díj kerüljön bevezetésre.
+
+A 66. §-hoz
+
+Szövegcserés módosítások.
+
+A 67. §-hoz
+
+Hatályukat vesztő rendelkezések.
+
+-----STARTING---POINT---VEGE---
+
+A 68. §-hoz
+
+Hatályba léptető rendelkezések.
+
+A 69. §-hoz
+
+Jogharmonizációs záradék.

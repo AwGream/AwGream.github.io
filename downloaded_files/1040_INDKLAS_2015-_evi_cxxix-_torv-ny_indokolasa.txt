@@ -1,0 +1,163 @@
+2015. évi CXXIX. törvény indokolása
+
+az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény, továbbá egyes más törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvény célja, hogy az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) hatálybalépését követő jogalkalmazási tapasztalatokra, valamint Magyarországnak az európai uniós tagságából fakadó kötelezettségeire figyelemmel a személyes adatok védelmére, valamint a közérdekű és a közérdekből nyilvános adatok megismerésére vonatkozó törvényi szabályokat továbbfejlessze és olyan módosításokat hajtson végre, amelyek amellett, hogy az alapjogok védelmének garanciáit erősítik, az adatkezelők érdekeit is megfelelően figyelembe veszik.
+
+A törvény emellett egyes további törvények kisebb terjedelmű, jogtechnikai, illetve egyértelműsítő jellegű módosítását is tartalmazza.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény a magyar jogban is megteremti az Európai Unió több országában is alkalmazott és az Európai Unió tagállamai adatvédelmi felügyelő hatóságait tömörítő, ún. 29. cikk szerinti munkacsoport által részleteiben is kidolgozott jogintézmény, a kötelező szervezeti szabályozás (binding corporate rules, BCR) alapjait.
+
+A kötelező szervezeti szabályozás az azt alkalmazó adatkezelők és adatfeldolgozók által folytatott adatkezelésre és adatfeldolgozásra kötelezően alkalmazandó jogi eszköz. E jogi eszköz célja, hogy a személyes adatok védelmének feltételeit az azt alkalmazó adatkezelő minden szervezeti egysége tekintetében - az adatkezelés vagy adatfeldolgozás helyétől függetlenül - azonos módon biztosítsa, így lehetővé tegye a személyes adatoknak harmadik országba történő továbbítását is.
+
+A törvény az Infotv.-t kiegészíti a kötelező szervezeti szabályozás fogalmának meghatározásával.
+
+A törvény megállapítja továbbá az adatvédelmi incidens fogalmát, amelynek körébe tartozik minden olyan adatkezelési vagy adatfeldolgozási művelet, amely jogellenes (nem felel meg az Infotv. rendelkezéseinek), függetlenül attól, hogy a jogellenesség szándékosság, gondatlan magatartás vagy technikai hiba, esetlegesen külső behatás következménye-e.
+
+A 2. §-hoz
+
+Az Infotv. hatályos 8. §-a értelmében személyes adat harmadik országban adatkezelést folytató adatkezelő vagy adatfeldolgozást végző adatfeldolgozó részére akkor adható át, ha biztosított a személyes adatok megfelelő szintű védelme. Tekintettel arra, hogy a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: Hatóság) által jóváhagyott kötelező szervezeti szabályozást alkalmazó adatkezelők egyoldalú kötelezettségvállalásukkal olyan szabályok kötelező hatályát ismerik el magukra nézve, amelyek a magyar és az európai adatvédelmi elvek és követelmények tiszteletben tartásával megfelelő szinten tudják biztosítani az érintettek információs önrendelkezési jogának védelmét, a törvény lehetővé teszi, hogy az ilyen adatkezelések esetében - az Európai Bizottság aktusa vagy a szükséges garanciákat tartalmazó nemzetközi szerződés hiányában is - személyes adatok a harmadik országban adatkezelést folytató adatkezelő vagy adatfeldolgozást végző adatfeldolgozó részére átadhatóak legyenek.
+
+A 3. §-hoz
+
+A törvény előírja az adatkezelő részére, hogy az adatvédelmi incidensekkel kapcsolatban nyilvántartást vezessen, annak érdekében, hogy ezekről kérelemre az érintettnek tájékoztatást adhasson (amely érintetti joggal ugyancsak a törvény egészíti ki az Infotv.-t), illetve hogy az adatkezelőnek az adatvédelmi incidensekkel kapcsolatos tevékenységét - annak jogszerűségére kiterjedően - a Hatóság ellenőrizhesse, és szükség esetén a további adatvédelmi incidensek megelőzése érdekében javaslatokkal élhessen. Hasonlóképpen az adattovábbítási nyilvántartáshoz, ezen nyilvántartás sem az adatvédelmi incidenssel érintett személyes adatokat és az érintett természetes személyek azonosító adatait tartalmazza, hanem az adatok és személyek körére vonatkozó információt.
+
+Az adatvédelmi incidensekkel kapcsolatos nyilvántartás adatkezelési időtartamára vonatkozó előírásokat a törvény az adattovábbítási nyilvántartásra vonatkozó hatályos szabályokkal egyezően állapítja meg.
+
+Az adatkezelő által vezetett nyilvántartásnak az adatvédelmi incidens definíciójából fakadóan az általa igénybevett adatfeldolgozó adatfeldolgozási tevékenysége során bekövetkezett adatvédelmi incidensekről is számot kell adnia. Ennek teljesítése érdekében az adatfeldolgozó részéről szükséges információátadást az adatkezelő és az adatfeldolgozó közötti adatfeldolgozási szerződés rögzítheti.
+
+Figyelemmel arra, hogy hasonló tartalmú kötelezettséget az elektronikus hírközlésről szóló törvény jelenleg is előír (szűkebb kötelezetti körben), a teljesítendő feladatok szükségtelen megkettőzésének elkerülése érdekében a törvény ezen kötelezettség teljesítését az adatvédelmi incidensekről vezetett, az Infotv. szerinti nyilvántartással egyenértékűnek tekinti.
+
+A 4. §-hoz
+
+A törvény egyértelművé teszi, hogy a jogszabály vagy állami, illetőleg helyi önkormányzati szervvel kötött szerződés alapján kötelezően igénybe veendő vagy más módon ki nem elégíthető szolgáltatást nyújtó szervek vagy személyek a kezelésükben lévő közérdekből nyilvános adatok megismerhetővé tételével kapcsolatos - az Infotv.-ben előírt - kötelezettségüket a közfeladatot ellátó szervekre vonatkozó szabályok alapján kötelesek teljesíteni.
+
+Az 5. §-hoz
+
+A közérdekű és a közérdekből nyilvános adatok megismeréséhez és terjesztéséhez fűződő, az Alaptörvény VI. cikk (2) bekezdésében biztosított alapvető jog gyakorlásának egyik - de nem kizárólagos - eszköze a közérdekű adat megismerése iránti igény benyújtásának lehetősége. Az Infotv. hatályos rendelkezései részletesen tartalmazzák ezen igény benyújtásának és teljesítésének feltételeit. A jogalkalmazási tapasztalatok azonban rámutattak, hogy egyes esetekben az Infotv. rendelkezései nem kellően rugalmasak, és így az adatkezelők számára egyes esetekben olyan többletterheket rónak, amelyek mind alapfeladataik ellátását, mind a közérdekű adatok megismerése iránti igények maradéktalan teljesítését akadályozhatják.
+
+A törvény ezért - az alapvető jog érdemi érvényesülését nem érintve - a közérdekű adatok megismerése iránti igényekhez kapcsolódó eljárási szabályokat, így különösen - az igény teljesítésére rendelkezésre álló határidő hatályos szabályok szerint történő fenntartása mellett - az igénylés meghosszabbításának és megtagadásának feltételeit, valamint az igény teljesítéséért megállapítható költségtérítésre vonatkozó rendelkezéseket módosítja.
+
+A közérdekűadat-igénylések egyes esetekben olyan adatokra vonatkoznak, amelyek vitathatatlanul közérdekű vagy közérdekből nyilvános adatnak minősülnek, azok az adatkezelő kezelésében vannak, azonban az igény teljesítése túlmutat egy egyszerű műveleten (pl. az adatokat tartalmazó adathordozóról történő másolat elkészítésén). Ide sorolhatók azon igénylések, amelyek során pusztán annak megállapítása is az adatkezelő részéről érdemi munkaerőforrás ráfordítását igényli, hogy az igényelt adatok rendelkezésre állnak-e és azok közérdekű vagy közérdekből nyilvános adatként megismerhetőek-e, de azon igénylések is ide tartoznak, amelyek megfelelő teljesítéséhez nagy számú adathordozó vagy adatbázis áttekintése és a kért adatok leválogatása szükséges. A szabályozás ezen kiegészítése nem érinti azon adatvédelmi jogalkalmazási gyakorlat helytállóságát, amely szerint a közfeladatot ellátó szerv nem köteles - kizárólag az adatigény teljesítése érdekében - új, minőségileg más adatot előállítani, hanem az e körbe nem eső, tehát teljesíthető, de jelentős munkaerő-ráfordítással járó adatigénylésekre vonatkozik.
+
+Mindezekre tekintettel a törvény a hatályos szabályokat kiegészítve jogkövetkezményeket fűz azon esetekhez is, amelyek során az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár. Ezen jogkövetkezmények egyrészt az adatigénylés teljesítésére vonatkozó határidő (egy alkalommal 15 nappal) történő meghosszabbításának lehetőségét biztosítják az adatkezelő részére, másrészt lehetővé teszik, hogy az adatigénylés teljesítését az azzal kapcsolatban felmerült költségek előzetes megtérítésének feltételéhez kösse. Az utóbbi lehetőséget - a jelentősebb összegű költségtérítés megfizetésének esetleges elmaradásából eredő pénzügyi és adminisztratív következmények, jogviták elkerülése érdekében - a törvény azon esetre nézve is biztosítja, ha az adatigénylésért fizetendő költségtérítés mértéke a Kormány rendeletében meghatározandó összeget meghaladja.
+
+A költségtérítés mértékéről az adatigénylőt - akár annak előzetes, akár utólagos megfizetésére kerül sor - a hatályos szabályokkal egyezően előre tájékoztatni kell. E tájékoztatás ismeretében a törvény szerint az adatigénylő választása szerint fenntarthatja igénylését vagy attól eltekinthet, emellett nyilvánvalóan új - módosított - tartalmú adatigénylést is benyújthat. Abban az esetben, ha a költségekről való tájékoztatást követően a törvényben meghatározott határidőn belül az adatigénylő nem nyilatkozik, az adatkezelő az igény teljesítésére nem köteles, az adatigénylő határidőn túli, az adatigénylés fenntartására vonatkozó nyilatkozatát új adatigénylésnek kell tekinteni.
+
+A törvény továbbá az adatkezelők szükségtelen többletterheit megelőzendő lehetővé teszi - a panaszokra és közérdekű bejelentésekre vonatkozó törvényi előírásokkal analóg módon -, hogy az adatkezelő az azonos adatigénylőtől származó, azonos adatkörre vonatkozó ismételt, egy éven belüli adatigénylés teljesítésének kötelezettsége alól mentesüljön. E rendelkezés érdemben nem érinti az információszabadság érvényesülését, hiszen az első adatigénylésre az adatkezelőnek minden esetben érdemben választ kell adnia, és a jogorvoslati út az adatigénylés megtagadása vagy a válaszadás elmulasztása esetén a továbbiakban is nyitva áll. A törvény azt is egyértelművé teszi továbbá, hogy az azonos adatkörbe tartozó adatok időközbeni megváltozása esetén e kivételi szabály nem alkalmazható. Az ismételt, szükségképpen azonos tartalmú válasz elkészítésével járó adminisztratív terhek elkerülésével az adatkezelő az alaptevékenységét képező közfeladat hatékonyabb ellátására, illetve a közérdekűadat-igénylések gyors és megalapozott teljesítésére fordíthatja a törvényben foglalt előírás eredményeként felszabaduló kapacitásait. Az adatkezelő ezen lehetőséggel addig élhet, amíg a korábbi adatigényléssel összefüggésben az adatalany által megadott személyes adatokat jogszerűen kezeli.
+
+Az Infotv. 28. § (2) bekezdésének hatályos szövege is feltételezi annak szükségességét, hogy az adatigénylő egyes adatait az adatkezelő megismerje és kezelje annak érdekében, hogy az adatigénylés teljesíthető, az esetlegesen megállapított költségtérítés pedig érvényesíthető legyen. A törvény ezzel összhangban rögzíti, hogy ha az adatigénylés a szükséges minimális adatokat sem tartalmazza, annak a közfeladatot ellátó szerv nem köteles eleget tenni. Az adatigénylő nevének (szervezet esetén megnevezésének), illetve (postai vagy elektronikus) elérhetőségének ismerete hiányában az adatigényléssel kapcsolatos eljárási cselekmények (pontosításra való esetleges felhívás, a határidő esetleges meghosszabbításáról, illetve a költségtérítés összegéről való tájékoztatás, az adatigénylés esetleges megtagadása) nem lennének teljesíthetők, de magának az igényelt és rendelkezésre bocsátható közérdekű adatnak az igénylő részére való eljuttatása, illetve az azonos tárgyú, de eltérő személyektől származó adatigénylések elkülönítése sem lenne megoldható. Az ekként szükségképpen megismert adatok kezelésére a törvény által további rendelkezéseiben rögzített keretek között kerülhet csak sor. Ezen adatok hiányában ugyanakkor az adatigénylés formális elutasítására sincs lehetőség az erre vonatkozó, jogorvoslattal támadható döntés közlésének lehetetlensége folytán, így a törvény az adatok megadásának hiánya esetére az adatigénylés teljesítésének kötelezettsége alól mentesíti az adatkezelőt.
+
+Az Európai Parlament, a Tanács és a Bizottság dokumentumaihoz való nyilvános hozzáférésről szóló, 2001. május 30-i 1049/2001/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) - amely teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban - 5. cikkében előírja a konzultációs kötelezettséget abban az esetben, ha valamely tagállamhoz a birtokában lévő, valamely intézménytől származó dokumentum iránti kérelem érkezik. A törvény megteremti ezen kötelezettség teljesítésének a közérdekűadat-igénylés keretébe illeszkedő részletszabályait. A konzultációs kötelezettség teljesítéséhez ugyanakkor az adatigénylés teljesítésére nyitva álló általános határidő elégtelennek bizonyulhat, ezért a törvény akként rendelkezik, hogy az az időtartam, amely nem a magyar szerv vizsgálatának részét képezi, hanem az uniós intézmény bevonásából fakad, az adatigénylés teljesítésének határidejébe nem számít bele. A törvény a szabályozást kiterjeszti továbbá az Európai Unió tagállamai által előállított adatokra is, azok tekintetében ugyanis a tagállamok közti együttműködés ugyancsak az egyeztetés lehetőségének biztosítását indokolja, különösen az uniós jog területére tartozó adatigénylések esetén.
+
+Ez a szabályozás az uniós intézmények esetében nem érinti a Rendelet 5. cikkében foglalt azon, közvetlenül alkalmazandó szabályt, amely szerint ilyen esetben a tagállam a kérelmet átirányíthatja az uniós intézményhez. Az utóbbi esetben értelemszerűen a Rendelet anyagi jogi és eljárási szabályai érvényesülnek, ideértve a határidő kérdését is.
+
+A törvény az egyértelmű és egységes jogalkalmazás érdekében törvényi szinten határozza meg a közérdekű vagy közérdekből nyilvános adatok igénylésével összefüggésben megállapítható költségtérítés alapjaként figyelembe vehető költségelemeket. A törvény ezen elemek közé csak olyan költségeket sorol, amelyek az igényelt adat rendelkezésre bocsátásával közvetlen kapcsolatban állnak, és ténylegesen felmerülnek az adatigénylés teljesítése során. Az adathordozó anyagköltségén és a kézbesítés postai költségén túl a törvény a munkaerő-ráfordítást csak abban az esetben teszi érvényesíthetővé, ha az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár. Ennek megfelelően a kis terjedelmű, könnyen hozzáférhető, elektronikus úton szolgáltatható adatok tekintetében e költségelem nem vehető figyelembe.
+
+A törvény a fentiek megállapításával tekintettel van a Kúriának a 16/2013. számú polgári elvi határozatban közzétett joggyakorlatára is, amely szerint a közérdekű vagy közérdekből nyilvános adat kiadására irányuló, illetve a költségtérítés mértékével kapcsolatos perben a Polgári Törvénykönyv alapelvi rendelkezései - így különösen a joggal való visszaélés tilalma - általános jelleggel alkalmazandók. A törvényben foglalt szabályok azt célozzák, hogy ezen alapelvek alkalmazására az Infotv.-nek az Alaptörvényből fakadó céljával és a jogviszony jellegzetességeivel összhangban, egyértelmű részletszabályok révén kerüljön sor.
+
+A 6. §-hoz
+
+A törvény a 4/2015. (II. 13.) AB határozatban megállapított mulasztásban megnyilvánuló alaptörvény-ellenesség megszüntetése érdekében a közérdekű adat kiadására irányuló per szabályait akként egészíti ki, hogy ha az adatigénylő valamely közérdekű vagy közérdekből nyilvános adathoz azon okból nem kapott hozzáférést, mert azt a vonatkozó törvényi szabályoknak megfelelően minősítették, az adat kiadása iránti per megindítása útján, az eljáró bíróság által elérhesse az adatminősítés tartalmi felülvizsgálatát jelentő eljárás, a Hatóság titokfelügyeleti hatósági eljárása kötelező megindulását.
+
+A 7-8. §-hoz
+
+A bejelentő által állított jogsértés kapcsán az időmúlás mind a körülmények feltárását nehézzé teszi, mind az esetleges jogsértés orvoslására irányuló intézkedések hatékonyságát ronthatja, emellett bizonytalan, függő jogi helyzetet is eredményezhet. A törvény ezért az alapvető jogok biztosáról szóló törvényben meghatározottakhoz hasonló módon egy éves határidőt állapít meg a Hatóság vizsgálatának kezdeményezésére a közérdekűadat-igényléssel kapcsolatos egyedi ügyekben, ahol a jogsérelem bekövetkeztének időpontja kellő egyértelműséggel meghatározható, és ahol az adatigénylő számára önálló, közvetlen bírósági jogorvoslat is biztosított.
+
+A 9. §-hoz
+
+A törvény rendezi, hogy a Hatóság vizsgálatára irányadó ügyintézési határidőbe mely időtartamok nem számítanak bele.
+
+A 10. §-hoz
+
+A törvény egyértelművé teszi, hogy a Hatóság hivatalból bármely esetben jogosult adatvédelmi hatósági eljárást indítani, azon esetekben azonban, amikor valószínűsíthető a személyes adatok jogellenes kezelése, és a jogellenes adatkezelés személyek széles körét érinti, vagy nagy érdeksérelmet vagy kárveszélyt idézhet elő, az eljárás megindítása kötelező.
+
+A törvény az adatvédelmi hatósági eljárások gyakorlati tapasztalataira, a vizsgált ügyek egy részének összetettségére tekintettel a közigazgatási hatósági eljárás általános szabályaiban foglaltaknál hosszabb, egy hónapos időtartamban maximálja az eljárási határidő meghosszabbításának lehetőségét.
+
+A 11. §-hoz
+
+A Hatóság által indított hatósági eljárások során előfordult, hogy az adatkezelő az eljárás során vagy még annak megindítását megelőzően megszüntette a jogsértő adatkezelést, ami nem tette szükségessé, hogy a Hatóság az eljárás eredményeként az Infotv.-ben megállapított szankciókat alkalmazza. Indokolt ugyanakkor, hogy a Hatóság az ilyen eljárásokban legalább a jogsértés tényét megállapíthassa, a törvény rendelkezése e lehetőség megteremtésére irányul.
+
+A törvény emellett bővíti azon esetek körét, amelyekben a Hatóság határozatát nyilvánosságra hozhatja, annak érdekében, hogy ezen eszköz hatékonyabban, kellő preventív erővel érvényesülhessen.
+
+A 12-13. §-hoz
+
+A 4/2015. (II. 13.) AB határozatban előírt, a minősítés tartalmi felülvizsgálatát eredményező eljárást a közérdekű adat megismerése iránti perben eljáró bíróság kezdeményezése alapján az ilyen jogkörrel jelenleg is rendelkező, az ahhoz szükséges kellő jogi garanciákkal és szakmai kompetenciával ellátott Hatóság köteles lefolytatni, titokfelügyeleti hatósági eljárás formájában. Noha ez esetben a Hatóságnak a titokfelügyeleti hatósági eljárást kötelezően le kell folytatnia, az továbbra is hivatalbólinak minősül, abban az adatigénylő ügyfélként nem járhat el. Ennek oka az, hogy az ügyféli jogok érvényesítése az eljárás sajátos tartalmára tekintettel nem lehetséges, mivel az a minősítéssel védett információk felfedése nélkül nem lenne biztosítható. Ügyféli pozícióban járhat el ugyanakkor természetszerűleg a minősítő, akire nézve az eljárás eredményeként meghozandó határozat kötelezést tartalmazhat.
+
+A Hatóság eljárása, illetve az annak bírósági felülvizsgálatára irányuló per szabályozása tekintetében a törvény lényegében a titokfelügyeleti eljárás hatályos szabályait őrzi meg, így a két (a bíróság kezdeményezése alapján kötelezően induló, illetve a Hatóság mérlegelésén alapuló) eljárástípus garanciális elemei azonosak, továbbá a Hatóság ugyanazon jogkörökkel és döntési lehetőségekkel rendelkezik mindkét esetben a minősítés jogszerűségének kellő alaposságú vizsgálata és a megfelelő jogkövetkezmények alkalmazása érdekében.
+
+A minősítés jogszerűségének vizsgálata során ha az információval rendelkező személy nem kapja meg a felmentést a vizsgált nemzeti minősített adatra vonatkozó titoktartási kötelezettség alól, azzal jelentősen megnehezülhet, esetenként el is lehetetlenülhet a Hatóság eljárása, amelynek célja, hogy tisztázza a minősítés jogszerűségét. Emiatt szükséges a tervezett rendelkezésben foglalt kivételes szabály megállapítása.
+
+A 14. §-hoz
+
+A törvény az Infotv. szabályai közé illeszti a kötelező szervezeti szabályozás jóváhagyására irányuló eljárással kapcsolatos rendelkezéseket.
+
+Ennek indoka, hogy a törvény garanciális elemként rögzíti, hogy - annak alkalmazására irányuló szándék esetén - kötelező szervezeti szabályozás alapján harmadik országba személyes adat kizárólag abban az esetben továbbítható, ha a kötelező szervezeti szabályozást a Hatóság jóváhagyta.
+
+A kötelező szervezeti szabályozás alapján történő adattovábbítás a közszféra tekintetében a végzett adatkezelés jellegéből, az azt meghatározó törvényi szabályrendszerből fakadóan általánosságban az elvi lehetőség ellenére sem tekinthető alkalmazható megoldásnak, a törvény ugyanakkor ezt kifejezett tilalom megállapításával szövegszerűen is egyértelművé teszi az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó adatkezelők vonatkozásában.
+
+A kötelező szervezeti szabályozás jóváhagyása iránti eljárás hatósági eljárás, amelyre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit kell alkalmazni, valamint annak lefolytatásáért miniszteri rendeletben megállapított igazgatási szolgáltatási díjat kell fizetni. Annak megállapításához, hogy a kötelező szervezeti szabályozás megfelelő garanciákat tartalmaz-e - többek között az adatkezelés elveinek, az adatbiztonsági követelményeknek, valamint az érintettet a személyes adatainak kezelésével összefüggésben megillető jogok érvényesülésének tiszteletben tartása érdekében - a Hatóságnak széleskörű vizsgálatot kell lefolytatnia. A kérelemmel kapcsolatban megállapított adattartalom, valamint a Ket.-ben megállapított általános eljárási határidőnél hosszabb eljárási határidő előírása ennek érvényesülését szolgálja. A jóváhagyott kötelező szervezeti szabályozást alkalmazó adatkezelő nevének közzétételére irányuló előírás célja pedig az adatalanyok tájékozódásának elősegítése.
+
+A 15. §-hoz
+
+A törvény a Hatóság adatmegismerési lehetőségei tekintetében differenciált szabályozást vezet be aszerint, hogy az érintett adatok Hatóság általi közvetlen megismerése milyen mértékben járhat más alapvető jogok sérelmének veszélyével, illetve milyen mértékű az adat közvetlen megismeréséhez fűződő jogvédelmi igény. A törvény egyértelművé teszi továbbá, hogy azon adatok tekintetében, amelyek közvetlen megismerésére a Hatóság jogosult, a többféle adatot tartalmazó iratok esetén a megismerés lehetőségét a közvetlen megismerés lehetősége alá nem tartozó adatok felismerhetetlenné tétele (kitakarása) útján biztosítani kell.
+
+A 16. §-hoz
+
+A törvény megteremti a kötelező szervezeti szabályozás jóváhagyása iránti eljárásért fizetendő igazgatási szolgáltatási díj miniszteri rendeleti szintű szabályozásához szükséges jogalkotási felhatalmazást.
+
+A 17. §-hoz
+
+A módosító rendelkezések túlnyomórészt technikai, nyelvhelyességi pontosításokat és a bevezetett új rendelkezésekkel összefüggő - a törvény ezen elemei kapcsán részletezett tartalmú - módosításokat tartalmaznak.
+
+A törvény tisztázza, hogy abban az esetben, ha a közfeladatot ellátó szerv feladat- és hatáskörébe tartozó döntés meghozatalára irányuló eljárás során készített vagy rögzített, a döntés megalapozását szolgáló adat olyan adatösszesség része, amelynek egyes elemei tekintetében döntés született, de más elemei még további döntés tárgyai lesznek, ez utóbbi adatok tekintetében az első döntés meghozatala nem jár az Infotv. 27. § (6) bekezdésében foglaltak alkalmazásával. Így a további döntést megalapozó adatokra az Infotv. 27. § (5) bekezdésének szabályai alkalmazandók az abban meghatározott időtartamon belül. A törvény nem érinti azon hatályos előírást, amely szerint a döntés meghozatalát követően is jogosult az adatkezelő az adatigénylés elutasítására, ha annak teljesítése a közfeladatot ellátó szerv törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását veszélyeztetné. Ennek egyik, de nem kizárólagos esete továbbra is az, ha az adatigénylés teljesítése az adatot keletkeztető álláspontjának a döntések előkészítése során történő szabad kifejtését veszélyeztetné. Ugyancsak nem érinti a törvény azt, az Infotv. 27. § (5) bekezdésében foglalt lehetőséget, hogy az adatot kezelő szerv vezetője a további döntés alapjául szolgáló adatot ezen további döntés meghozatala előtt is megismerhetővé tegye, a megismeréshez és az annak kizárásához fűződő érdek mérlegelésével.
+
+Az Infotv. az Alaptörvénnyel összhangban az információszabadságot a közérdekű és közérdekből nyilvános adatok és nem az ezeket hordozó iratok alapulvételével szabályozza és biztosítja. Ennek, továbbá a Hatóság az Infotv. 30. § (7) bekezdésének értelmezése tárgyában kiadott ajánlásának alapulvételével a törvény egyértelművé teszi, hogy a számlák és más bizonylatok másolataira irányuló adatigénylés mely, ezen iratokban foglalt adatok rendelkezésre bocsátásával teljesíthető jogszerűen. A Hatóság megállapításaival összhangban e szabályozás az információszabadság érvényesülését nem csorbítja. A hatályos rendelkezésből a Hatóság vizsgálatának lehetőségére vonatkozó kifejezett utalás egyidejűleg elhagyásra kerül, mivel ez az Infotv.-nek a vizsgálatra vonatkozó általános szabályaiból fakadóan az adatigénylő részére biztosított jogosultság.
+
+Emellett a törvény a vizsgálat hatékonysága érdekében a Hatóság részére lehetővé teszi, hogy a vizsgált üggyel összefüggésbe hozható szervezettől vagy személytől a felvilágosítás kérése mellett az ügyhöz kapcsolódó irat másolatának megküldését is kérhesse.
+
+A törvény a jogalkalmazási tapasztalatokra figyelemmel megnöveli továbbá a Hatóság által kiszabható bírság legmagasabb mértékét.
+
+A 18. §-hoz
+
+A hatályon kívül helyező rendelkezések jogtechnikai módosításokat tartalmaznak.
+
+A törvény emellett hatályon kívül helyezi az adatvédelmi hatósági eljárás kötelező megindításának egyik esetét, mivel a jogalkalmazási tapasztalatok alapján önmagában a különleges adatok érintettsége nem minden esetben indokolja a Hatóság adatvédelmi hatósági eljárásban alkalmazható eszköztárának alkalmazását, a jogsértés orvoslására a vizsgálati eszközök számos esetben elegendőek.
+
+A törvény továbbá a titokfelügyeleti hatósági eljárás felülvizsgálatára irányuló bírósági eljárásban a polgári perrendtartás közigazgatási perekre vonatkozó általános szabályaihoz visszatérve a bíróság jogkörét a Hatóság határozatának hatályon kívül helyezésében és új eljárásra való kötelezésében állapítja meg.
+
+A 19-22. §-hoz
+
+A panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény (a továbbiakban: Panasztv.) hatályos rendelkezései az érintett szervhez közvetlenül benyújtott névtelen panaszok vagy közérdekű bejelentések esetében a következő szabályozást alkalmazzák: az érintett szervhez közvetlenül benyújtott névtelen bejelentéseket az érintett szerv jogszerűen visszautasíthatja, hiszen a Panasztv. 2. § (6) bekezdése alapján „az azonosíthatatlan személy által tett panasz vagy közérdekű bejelentés vizsgálata mellőzhető”.
+
+A gyakorlatban ugyanakkor számos olyan eltérő jogalkalmazási gyakorlat merült fel, amely a panaszkezelések eljárásában jogalkotással megoldandó ellentmondássá vált.
+
+A jogalkalmazói gyakorlat egységesítése és a szabályozás egyértelmű és határozott kialakítása érdekében - figyelemmel az ezzel kapcsolatos korábbi szabályozási irányokra is - a törvény az alábbi szabályozási modellt alakítja ki:
+
+- az azonosíthatatlan személy által tett panasz vagy közérdekű bejelentés vizsgálatát el kell utasítani,
+
+- az eljárásra jogosult szerv ugyanakkor dönthet arról, hogy - ha ezt a panasz vagy a közérdekű bejelentés tartalma (például súlyos jog- vagy érdeksérelemre vonatkozó hivatkozás) indokolja - a panaszt vagy a közérdekű bejelentést érdemben megvizsgálja.
+
+A 23. §-hoz
+
+A törvény az Infotv. 27. § (2) bekezdés h) pontjában szabályozottaknak megfelelően, a szerzői jogi védelem alatt álló mű szerzője személyhez fűződő jogai (a mű nyilvánosságra hozataláról való döntés, a mű egységének megőrzése, a szerzői minőséghez kapcsolódó jogok) védelme érdekében lehetővé teszi, hogy az adatkezelő az adatigénylő által kívánt forma és mód (pl. papíralapú vagy elektronikus másolat rendelkezésre bocsátása) helyett olyan formában teljesíthesse az adatigénylést, hogy az adatigénylő számára az adatkezelő hivatali helyiségében a szerzői jogi védelem alatt álló mű közérdekű adatnak vagy közérdekből nyilvános adatnak minősülő részeinek megtekintését (ideértve a jegyzetek készítésének lehetőségét) biztosítja. A szabályozás a közérdekű adat megismerése iránti igény tartalmát, az erre vonatkozó anyagi jogi jogosultságot nem érintve határozza meg az igény teljesítésének végrehajtására vonatkozó eljárási szabályokat a törvény által érintett speciális esetben. Az adatigénylés teljesítésére ugyanakkor ez esetben is az általános határidők vonatkoznak, azaz főszabályként a törvényben meghatározott, ha az adatigénylésre bíróság kötelezte az adatkezelőt, abban az esetben pedig a bíróság által megszabott határidőn belül kell a megtekintés lehetőségét a törvényben megállapított szabályok szerint biztosítani.
+
+A 24. §-hoz
+
+A törvény a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvényt a területszervezési döntésekkel való összhang megteremtése érdekében, jogtechnikai okból módosítja.
+
+-----STARTING---POINT---VEGE---
+
+A 25. §-hoz
+
+A törvény hatályba lépésének időpontját differenciáltan, a kellő felkészülési idő biztosítására, illetve az Alkotmánybíróság határozatából fakadó jogalkotási kötelezettség teljesítésének szükségességére figyelemmel állapítja meg.
+
+A 26. §-hoz
+
+A rendelkezés a jogharmonizációs záradékot tartalmazza.

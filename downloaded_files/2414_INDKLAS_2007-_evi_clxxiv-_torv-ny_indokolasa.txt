@@ -1,0 +1,231 @@
+2007. évi CLXXIV. törvény indokolása
+
+az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az Európai Parlament és az Európai Unió Tanácsa 2006. március 15-én elfogadta a nyilvánosan elérhető elektronikus hírközlési szolgáltatások nyújtása, illetve a nyilvános hírközlő hálózatok szolgáltatása keretében előállított vagy feldolgozott adatok megőrzéséről és a 2002/58/EK irányelv módosításáról szóló 2006/24/EK irányelvet (a továbbiakban: Irányelv). A 2006. május 3-án hatályba lépett Irányelv 15. Cikke alapján a benne foglalt rendelkezések tagállami megfeleltethetőségét 2007. szeptember 15-e előtt biztosítani kell.
+
+Az adatmegőrzési kötelezettség bevezetését először az 1997. december 15-én elfogadott, a személyes adatoknak a távközlési ágazatban történő kezeléséről és magánjellegének védelméről szóló 97/66/EK irányelv, majd a hasonló címmel elfogadott 2002/58/EK irányelv tette lehetővé az Európai Unió tagállamaiban avégett, hogy a közlemények továbbítása során keletkező forgalmi adatok rendelkezésre álljanak a nemzetbiztonság, a közbiztonság és a haza védelme, továbbá a bűncselekmények, valamint az elektronikus hírközlő rendszer jogosulatlan használatának kivizsgálása és üldözése céljából, feltéve, hogy a személyes adatok védelméhez fűződő jogok gyakorlásának bármely ilyen korlátozása szükséges, megfelelő és arányos intézkedésnek minősül egy demokratikus társadalomban.
+
+Mivel az irányelvek a szabályozást nemzeti hatáskörbe utalták, az Unió tagállamai eltérő gyakorlatot alakítottak ki. Ennek megfelelően az Irányelv célja, hogy az egymástól eltérő szabályozásokat EU-szinten harmonizálja azzal, hogy előírja mely adatokat és milyen időtartamban kell minden tagállamnak megőriznie.
+
+Az Irányelv a nyilvánosan hozzáférhető elektronikus hírközlési szolgáltatások nyújtói, illetőleg a nyilvános elektronikus hírközlő hálózatok szolgáltatói számára rendel el adatmegőrzési kötelezettséget a helyhez kötött és a mobil telefonálás, az internet hozzáférés, valamint az internetes telefonálás és levelezés során a szolgáltató rendszerében keletkező, illetve feldolgozott, szolgáltatásonként meghatározott forgalmi adatok vonatkozásában. Az adatmegőrzési kötelezettség bizonyos korlátozásokkal a sikertelen hívási kísérletekkel kapcsolatos forgalmi adatokra is kiterjed. A forgalmi adatok megőrzésének időtartama legalább hat hónap, de legfeljebb kettő év, ezen belül szolgáltatásonként lehet akár különböző. A tagállamok nemzeti szabályozásának kell biztosítania, hogy az így megőrzött adatokhoz kizárólag csak az erre felhatalmazott szervek férhessenek hozzá. A megőrzött adatokhoz a szükségesség és arányosság követelményeinek megfelelő hozzáférés érdekében követendő eljárást és teljesítendő feltételeket a tagállamok határozzák meg - az uniós normákra és a nemzetközi közjogi rendelkezésekre tekintettel. Az Irányelv ezen felül rendelkezik a megőrzött adatokkal kapcsolatos adatvédelmi és adatbiztonsági elvárásokról, ezek független felügyelő hatóság általi ellenőrzéséről, a jogorvoslatról, a felelősségekről és szankciókról, valamint arról, hogy a megőrzött adatokból való adatigénylésekről évente statisztikai jelentést kell eljuttatni a Bizottságnak.
+
+A 2002/58/EK irányelv módosításával az Irányelv azt mondja ki, hogy az Irányelv szerinti adatmegőrzés tekintetében a tagállamoknak nem kell vizsgálniuk, hogy ez az intézkedés megfelel-e a szükségesség, megfelelőség és arányosság hármas követelményének.
+
+Az irányelvben megfogalmazott alapvető döntések meghozatalára a Bizottság által készíttetett SEC(2005) 1131 hivatkozási számú hatástanulmány szolgáltatott alapot. A hatástanulmány a bűnüldözés számára nyújtott hozzáadott érték, a magánélethez fűződő jogoknak a társadalom érdekében történő korlátozása, valamint az adatmegőrzéssel járó költségek között egyensúlyt keresve határozta meg azt a megőrzésre javasolt adatkört, illetve adatmegőrzési időtartamot, amely megjelenik az Irányelvben.
+
+Az uniós tagállamok adatvédelmi biztosainak részvételével működő adatvédelmi munkacsoport 3/2006 hivatkozási számú véleményében adatvédelmi szempontokat tett közzé az Irányelv implementációjához. E szempontok kitérnek az adatkezelési cél pontos meghatározására, a hozzáférés korlátozására és a jogosult hozzáférések független ellenőrzésére, a megőrzendő adatmennyiség minimalizálására, az adatmegőrzési rendszernek az egyéb célú adatkezelésektől való elkülönítésére, az adatbányászat tilalmára, valamint az adatkezelés műszaki és szervezeti biztonságára és védelmére.
+
+Hazai jogi háttér
+
+A bűnüldöző szervek, nyomozó hatóságok, nemzetbiztonsági szolgálatok, valamint az ügyészség által igénybe vehető adatszolgáltatásra vonatkozó felhatalmazást az egyes szervezetekre vonatkozó külön ágazati jogszabályok, így
+
+- a Rendőrségről szóló 1994. évi XXXIV. törvény,
+
+- a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény,
+
+- a határőrizetről és a Határőrségről szóló 1997. évi XXXII. törvény, valamint
+
+- a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény,
+
+- a Magyar Köztársaság Ügyészségéről szóló 1972. évi V. törvény
+
+tartalmazzák.
+
+E jogszabályok alapján a feljogosított szervezetek titkos információgyűjtés keretében, az egyes törvényekben pontosan meghatározott esetekben és feltételekkel igényelhetnek forgalmi adatokat a hírközlési szolgáltatóktól.
+
+A büntetőeljárásról szóló 1998. évi XIX. törvény alapján az ügyész, illetve a nyomozó hatóságok nyílt nyomozati cselekményként igényelhetik adatok szolgáltatását a hírközlési szolgáltatást nyújtó szervezettől.
+
+A fenti adatszolgáltatási kötelezettség - az általuk számlázási és más jogszerű céllal kezelt adatok vonatkozásában - a távközlésről szóló 1992. évi LXXII. törvény hatálybalépése óta terheli a hírközlési szolgáltatókat. Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) hatálybalépése óta az elektronikus hírközlési szolgáltatókat védelmi és bűnüldözési céllal már adatmegőrzési kötelezettség is terheli. E szerint a fenti adatszolgáltatási kötelezettség biztosítása érdekében a szolgáltatónak 3 évig meg kell őriznie minden olyan forgalmi adatot, amelynek kezelésére a számlázás, a kapcsolódó díjak beszedése és az előfizetői szerződések figyelemmel kísérése céljával felhatalmazást kapott.
+
+Ezzel párhuzamosan számos garanciális szabály biztosítja az elektronikus hírközlési szolgáltató adatkezelésének célhoz kötöttségét, biztonságosságát, ellenőrizhetőségét, továbbá a kezelt adatok és azok bizalmasságának védelmét.
+
+Az erre vonatkozó általános szabályok a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben, a sajátos ágazati szabályok pedig az Eht.-ban, továbbá a végrehajtására kiadott, az elektronikus hírközlési szolgáltató adatkezelésének különös feltételeiről, az elektronikus hírközlési szolgáltatások adatbiztonságáról, valamint az azonosítókijelzés és hívásátirányítás szabályairól szóló 226/2003. (XII. 13.) Korm. rendeletben, illetőleg az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtésre, illetve titkos adatszerzésre felhatalmazott szervezetek együttműködésének rendjéről szóló 180/2004. (V. 26.) Korm. rendeletben jelennek meg. Az adatkezelési szabályok sérelméért a Btk. rendel el szankciókat.
+
+A fentiekben vázolt hatályos nemzeti szabályozásunk - a megőrzendő adatmennyiség minimalizálását kivéve - alapvetően megfelel az uniós adatvédelmi munkacsoport korábban hivatkozott véleményében kifejtett iránymutatásnak.
+
+Az Eht. rendelkezései már a jelenlegi módosítást megelőzően is nagymértékben megfeleltek az Irányelvnek, azonban azokat a jogharmonizáció megvalósítása érdekében szükséges pontosítani, módosítani. Az Irányelv előírásai eredményeként tartalmazza a törvény például a sikertelen hívások során keletkező forgalmi adatok gyűjtésére és megőrzésére vonatkozó kötelezettséget, valamint az adatmegőrzési idő három évről egy évre - a sikertelen hívások esetében 6 hónapra - történő csökkentését.
+
+A törvénymódosítás egyéb célkitűzései
+
+Az irányelv harmonizációján túl a tervezet néhány további olyan rendelkezést is tartalmaz, amely az Európai Unió jogának való megfelelést szolgálja azzal, hogy az ágazatra vonatkozóan rendezi a nemzeti jogba való átültetést nem igénylő uniós normák - az Európai Unió közvetlenül alkalmazandó kötelező jogi aktusai, továbbá az Európai Bizottság ajánlásai - érvényesítését, illetőleg amelyek megalkotására kötelezettségszegési eljárás keretében vállaltunk kötelezettséget.
+
+A fentiek mellett a törvény a harmonizációs kötelezettségen túlmutató, a titkos információgyűjtéssel, a személyes adatokkal, azok kezelésével, továbbá a személyes adatok és a magánélethez fűződő jogok védelmével közvetlenül összefüggő egyéb módosításokat is tartalmaz, amelyeket az Eht. hatálybalépése óta eltelt időszak gyakorlati tapasztalatai indokolnak.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény a hatósági eljárás háttérszabályait egészíti ki azzal, hogy a hatóság az eljárása során köteles a lehető legnagyobb mértékig figyelembe venni az Európai Bizottság ajánlásait, és amennyiben a vonatkozó ajánlást nem követi, erről az indokaival együtt tájékoztatnia kell a Bizottságot. (Az ajánlás olyan - a tagállamok nemzeti jogába való átültetést nem igénylő - uniós jogi norma, amelyet a Bizottság ad ki az uniós irányelvek rendelkezéseinek összehangolt, egységes alkalmazása érdekében.)
+
+Ez a rendelkezés az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK európai parlamenti és tanácsi irányelv 19. cikke (1) bekezdésének való megfelelést szolgálja.
+
+A 2. §-hoz
+
+A módosítás - az elektronikus hírközlésre vonatkozó szabály fogalmának a törvény 13. §-ának (2) bekezdése szerinti meghatározására figyelemmel, a 717/2007/EK rendelet 9. cikkével összhangban - egyértelműen lehetővé teszi, hogy a hatóság az uniós rendeletben előírt kötelezettségek megszegése esetén megtegye a szükséges intézkedéséket és az Eht. 33. § (2) bekezdésének a) pontja szerint szankciót állapítson meg.
+
+A 3. §-hoz
+
+A törvény az Eht. 76. §-a (8) bekezdésének módosításával egyszerűsíti a hírközlési szolgáltatók jelenlegi - a Nemzeti Hírközlési Hatóság (NHH) és a Nemzetbiztonsági Szakszolgálat (NBSZ) felé - párhuzamosan fennálló bejelentési kötelezettségét. Ennek értelmében az elektronikus hírközlési szolgáltatók a jövőben kizárólag az NHH felé teszik meg bejelentéseiket. Ez vonatkozik mind az elektronikus hírközlési szolgáltatásra irányuló szándék bejelentésére, mind pedig az ebben közölt adatokban bekövetkezett változás, valamint a szolgáltatás megszüntetésére vonatkozó szándék bejelentésére. E bejelentéseket az NHH továbbítja az NBSZ irányába, amely a szolgáltatás műszaki jellemzőivel kapcsolatosan a bejelentőtől további információt kérhet.
+
+A 4. §-hoz
+
+Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetésekor, illetve az elektronikus hírközlési szolgáltató megszűnésekor rendezni szükséges azoknak a forgalmi adatoknak a sorsát, amelyeket az elektronikus hírközlési szolgáltató a törvény 13. §-ával beiktatott 159/A. §-ban foglaltak alapján megőrizni, és azokból az arra illetékes szervek kérelmére adatszolgáltatást nyújtani köteles. Ezt a kérdést a törvény egy új 78/A. § beiktatásával oldja meg.
+
+A törvény szerint a szolgáltatást megszüntetni szándékozó szolgáltató köteles gondoskodni a megőrzött adatállomány új adatkezelőjéről. Ha e kötelezettségének nem tesz eleget, vagy nem tud megállapodást kötni a szolgáltatásnyújtás földrajzi területén azonos elektronikus hírközlési szolgáltatást nyújtó más szolgáltatóval az adatok átvételéről, illetőleg természetes személy elektronikus hírközlési szolgáltató elhalálozása esetén a hatóságnak kell intézkednie új adatkezelő kijelöléséről. A törvény meghatározza azoknak az elektronikus hírközlési szolgáltatóknak a körét, amelyből az új adatkezelőt a hatóság kijelölheti.
+
+Az adatok átadásával összefüggésben felmerült költségek viselésének kötelezettségét a törvény a szolgáltatást megszüntető elektronikus hírközlési szolgáltatóra terheli. A törvény az adatokat átadó, illetve átvevő elektronikus hírközlési szolgáltató felelősség-megosztását is rendezi.
+
+Az 5. §-hoz
+
+A szakasz az Eht. 92. §-a jelenleg hatályos (1) bekezdésének kiegészítésével megtiltja az elektronikus hírközléssel összefüggő olyan tevékenységet, amely a titkos információgyűjtést, illetve titkos adatszerzést kizárja, vagy ellehetetleníti.
+
+Az Eht. 92. §-ának új (2) bekezdése az Eht. jelenlegi 76. §-ának (8) bekezdésében szereplő kötelezettséget átemelve és pontosítva meghatározza, hogy a hírközlési szolgáltató az NBSZ írásbeli kezdeményezése esetén köteles megállapodni a titkos információgyűjtés, illetve a titkos adatszerzés eszközei és módszerei alkalmazásának feltételeiről.
+
+Az új (3) bekezdés értelmében a szolgáltató az NBSZ-t minden olyan tevékenységéről, szolgáltatásáról, termékéről, illetve azok változásáról köteles tájékoztatni, amely érinti vagy rendeltetésszerű működésében befolyásolja a titkos információgyűjtés, illetve titkos adatszerzés érdekében az elektronikus hírközlési szolgáltató által biztosított vagy biztosítandó feltételeket, eszközöket, módszereket, eljárásokat. E rendelkezés célja, hogy az NBSZ - mint a titkos információgyűjtést, illetve titkos adatszerzést technikai eszközökkel végrehajtó szervezet - naprakész információkkal rendelkezzen tevékenységének zavaroktól mentes ellátása érdekében.
+
+Az (5) és (6) bekezdés az elmúlt évek tapasztalatai alapján pontosítva tartalmazza az Eht. 92. §-ának jelenleg hatályos (3) és (4) bekezdésében foglalt, a szolgáltatót terhelő kötelezettségeket a titkos információgyűjtés, illetve titkos adatszerzés feltételei biztosításának tekintetében.
+
+Az irányelv szerinti adatszolgáltatást közvetlen elektronikus adatkapcsolat útján biztosító felület egységesítését a költségek csökkentése és a műszaki-technikai homogenizáció indokolja. Az adatszolgáltatást biztosító elektronikus adatkapcsolat felületét az NBSZ által meghatározott műszaki követelmények szerint kell kiépítenie a szolgáltatónak.
+
+Az elektronikus adatkapcsolat útján az adatszolgáltatás egyedi kérelemre történik. Ez azt jelenti, hogy nem lehet egy általános, nem pontosan meghatározott adatokra vonatkozó kérelem alapján hozzáférni az adatokhoz. Annak viszont nincsen akadálya, hogy egy kérelemben több, meghatározott adatra vonatkozó kérés is szerepeljen.
+
+A rendelkezések a szolgáltatók számára nem jelentenek újdonságot, hiszen ezen követelményeket az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtésre, illetve titkos adatszerzésre felhatalmazott szervezetek együttműködésének rendjéről szóló 180/2004. (V. 26.) Korm. rendelet már most is tartalmazza, az irányelv által megkövetelt harmonizáció azonban törvényi szintű szabályozást indokol.
+
+Az Eht. 92. §-ának jelenleg hatályos (2), illetve (5)-(8) bekezdései megváltozott számozással, de változatlan tartalommal kerültek átvezetésre.
+
+A 6-7. §-hoz
+
+Az Európai Bizottság hivatalos felszólítást küldött Magyarország részére az egyetemes szolgáltatási irányelv (2002/22/EK) nemzeti jogba történő átültetésével kapcsolatban, amelyben az Eht. 117. §-ának, és az irányelv 8. cikk (2) bekezdésének, a 12. és 13. cikkeinek, valamint a IV. melléklet rendelkezéseinek összeegyeztethetőségét vitatta, mert piaci torzulásokhoz vezet, ha az egyetemes szolgáltatás egyes elemeit nem nyújthatják más-más szolgáltatók. A kötelezettségszegési eljárás során képviselt magyar álláspont szerint az egyetemes szolgáltatásra vonatkozó hatályos szabályozás összhangban van az uniós irányelvvel, mindazonáltal Magyarország vállalta a vonatkozó rendelkezések pontosítását, és e célból az egyetemes elektronikus hírközlési szolgáltató kijelölésére vonatkozó szabályokról szóló 3/2004. (III. 4.) IHM rendelet és az Eht. kapcsolódó szakaszainak módosítását. Ennek teljesítése jelenik meg a törvény 6-7. §-ában, valamint a 16. § (2) bekezdésében.
+
+A 8. §-hoz
+
+A kormányzati szervezetalakítással összefüggő törvénymódosításokról szóló 2006. évi CIX. törvény 93. §-ának (1) bekezdése hatályon kívül helyezte az Eht. 129. §-a (6) bekezdésének c) pontját, amely a természetes személlyel írásban megkötött egyedi előfizetői szerződések minimális adattartalmát határozta meg.
+
+A c) pontban foglalt adatok hiányában az elektronikus hírközlési szolgáltató nem képes adott természetes személy előfizető kilétét kétséget kizáróan megállapítani, amely megnehezíti az előfizetői szerződésből eredő esetleges igények érvényesítését.
+
+A hatályon kívül helyezés a fentieken túl súlyosan veszélyezteti a Magyar Köztársaság bűnüldözési és nemzetbiztonsági érdekei érvényesítését, illetve ezen érdekek érvényesítésére felhatalmazott szervek törvényben meghatározott feladatai ellátását is.
+
+Ezen adatok rögzítése, illetve megőrzése biztosítja a fenti szervek eljárása során esetlegesen érintett természetes személy kétséget kizáró azonosíthatóságát.
+
+A fent kifejtett okokból szükséges ezen személyes adatok rögzítési kötelezettségét az elektronikus hírközlési szolgáltatók részére ismételten előírni.
+
+Az Eht. 129. §-át kiegészítő új bekezdés - a törvény 13. §-ával beiktatott 159/A. § szerinti adatszolgáltatás biztosítása céljából - kötelezővé teszi a releváns előfizetői adatok rögzítését abban az esetben is, ha az előfizetői szerződést nem írásban - azaz szóban vagy ráutaló magatartással - kötik meg. Ezzel elkerülhetővé válnak az olyan helyzetek, amikor az elektronikus hírközlési szolgáltatók könnyített értékesítési akciók keretén belül nyújtják szolgáltatásaikat anélkül, hogy az előfizetők releváns adatait rögzítenék, holott erre lehetőségük lenne.
+
+Mivel az Eht. 129. §-a eddig csak az írásban megkötött szerződésekre tartalmazott szabályozást, e kiegészítés nélkül az Irányelvben foglalt kötelezettségeknek Magyarország csak részben tudna eleget tenni.
+
+A 9. §-hoz
+
+A segélyt hívó előfizető helymeghatározási adatának a hívott segélyhívó szolgálat részére történő átadása kapcsán a Bizottság által indított kötelezettségszegési eljárás rávilágított arra, hogy az Európai Unióban átmenetileg fogadható csak el a kérésre történő adatátadás, annak - az uniós célkitűzések szerint - a műszaki megvalósíthatóság megnyílását követően automatikusan kell megtörténnie. Az Eht. 145. §-a (2) bekezdésének jelenleg hatályos megfogalmazása ezt az automatikus adatátadást nem teszi lehetővé. A törvény ezt a korlátozást szünteti meg.
+
+A 10. §-hoz
+
+Az Eht. 156. § (3) bekezdés második mondatának elhagyását a hírközlési szolgáltatók gyakorlati tapasztalatai indokolják. A hírközlési szolgáltatók nem rendelkeznek olyan kiterjedt adminisztratív képességekkel, amivel nyomon tudnák követni azoknak a piacon hozzáférhető eszközöknek (tűzfalak, vírusirtó szoftverek stb.) a technikai fejlődését, amelyeket az előfizetők, felhasználók igénybe tudnak venni az általuk használt végberendezések által továbbított közlések bizalmasságának megóvása érdekében. Amellett, hogy a szolgáltató a saját rendszereiben, hálózatában megtesz minden olyan szükséges intézkedést, amely a közlés bizalmasságának, titkosságának megóvását biztosítja, az előfizető, illetve felhasználó elemi érdeke, hogy a saját tulajdonában, vagy használatában levő végberendezés védelméről gondoskodjon.
+
+A 11. §-hoz
+
+Az Eht. jelenleg hatályos 157. §-ában a forgalmi és számlázási adatok különféle célú kezelésével, kezelési határidejével, hozzáférésével, illetve törlésével kapcsolatos szabályok áttekinthetetlenül, és ellentmondásosan szerepelnek. Ebben kíván rendet tenni a törvény azzal, hogy az Eht.-nak az e § által újrafogalmazott 157. §-a keretében rendezi a szolgáltató saját jogszerű üzleti célú adatkezeléseit, élesen elválasztva azt a törvény 13. §-ával elrendelt bűnüldözési, nemzetbiztonsági és honvédelmi célú adatmegőrzési kötelezettségtől, illetve az elektronikus hírközlési szolgáltató részére más törvények - például a számviteli törvény - által elrendelt adatkezelési feladatoktól.
+
+Általános az a szabály, hogy az elektronikus hírközlési szolgáltató a szolgáltatás teljesítése után törölni vagy anonimizálni köteles mindazokat az adatokat, amelyeket saját jogszerű üzleti céllal nem kezelhet vagy nem kíván kezelni, továbbá bűnüldözési, nemzetbiztonsági és honvédelmi célú adatmegőrzési kötelezettségből sem kell kezelnie.
+
+A (2) szakasz szinte változatlan formában tartalmazza a 157. § jelenleg hatályos (2) bekezdésének rendelkezéseit arról, hogy a szolgáltató mely adatokat kezelheti számlázás, a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése céljából a törvény felhatalmazása alapján. A kezelhető adatok köre kiegészült az előfizetői szolgáltatás igénybevételéhez jogellenesen alkalmazott - így különösen a tulajdonosa által letiltott - előfizetői végberendezések használatára, illetve annak kísérletére vonatkozóan a szolgáltató elektronikus hírközlő hálózatában keletkező adatokkal, amelyeket a hatályos rendelkezések szerint eddig csak a védelmi, illetőleg bűnüldözési célú adatszolgáltatás biztosítása végett kezelhetett.
+
+A (3) szakasz a szolgáltatásnyújtási célból lehetővé tett adatkezelést - a jelenleg hatályos rendelkezéstől eltérően - szigorúan az előfizetői szerződésből az adattal összefüggésben eredő igények elévülési idejére korlátozza.
+
+A (4) szakasz továbbra is lehetővé teszi, hogy a szolgáltató a fenti adatokat az előfizető előzetes hozzájárulásával saját üzletszerzési céllal is kezelhesse. Kiegészítésül a rendelkezés deklarálja az előfizetőnek azt a jogát, hogy e hozzájárulását bármikor visszavonhatja.
+
+Az új (5) bekezdés nyit lehetőséget arra, hogy az adatkezelési cél, a kezelhető adatkör és az adatkezelési határidő meghatározásával más törvény az elektronikus hírközlési szolgáltató más adatkezelését is lehetővé tegye vagy elrendelje, ez azonban az Eht. szerinti adatkezelésekre nincs, illetve nem lehet kihatással.
+
+Az új (6) bekezdés rendelkezik arról, hogy a szolgáltató milyen feltételek fennállása esetén köteles törölni a tárolt adatokat abban az esetben, amikor az adatok tárolása a kezelési céltól függően fizikailag elkülönül.
+
+Az új (7) bekezdés lehetővé teszi a különféle céllal kezelhető adatok közös rendszerben történő tárolását is, feltéve, hogy az adatokhoz való hozzáférések logikailag úgy különülnek el egymástól, hogy célhoz kötötten érvényesítik a kezelhető adatok körére és adatkezelési határidőre vonatkozó korlátokat. A bekezdés arról is rendelkezik, hogy milyen feltételek fennállása esetén köteles adatot törölni a rendszerből a szolgáltató.
+
+A (8)-(10) bekezdések arról rendelkeznek, hogy milyen esetekben, illetve célra jogosult vagy köteles a szolgáltató adatot átadni más részére a (2) bekezdésben megjelölt céllal általa tárolt adatokból. E rendelkezések alapvetően az Eht. 157. §-a hatályos (5)-(6) bekezdésének logikáját követik. A PSZÁF részére történő adatátadás szabálya - a Pénzügyminisztérium igényére - annyiban módosult, amennyiben az szükséges a tőkepiacról szóló, illetve a pénzpiacot szabályozó más törvényekkel való összhang megteremtéséhez.
+
+A 12. §-hoz
+
+A törvény az Eht. 159. §-át pontosítja azzal, hogy az előfizetői szerződés megkötésekor az igénylő részére az adatai kezelésével kapcsolatban biztosítandó tájékoztatásnak ki kell terjednie a lehetővé tett összes adatkezelésre.
+
+A 13. §-hoz
+
+A 159/A. § megalkotásának indoka az Irányelv implementációjából eredő kötelező jogalkotási feladat elvégzése, a magyar és az uniós szabályozás harmonizációjának megteremtése.
+
+Az Eht. 157. §-a tartalmazza a számlázási és a kapcsolódó díjak beszedése, valamint a szerződések figyelemmel kísérése céljából történő adatkezelést, illetve a kezelhető adatok körét. Az elektronikus hírközlési szolgáltató az e szakaszban foglalt célból történő adatkezelés vonatkozásában szabadon döntheti el, hogy mely adatokat kívánja kezelni.
+
+Az Eht. 159/A. §-a tartalmazza az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából történő adatkezelési (tárolási) szabályokat. E § tekintetében - mivel ezen adatok megőrzésére az elektronikus hírközlési szolgáltató a fent említett érdekből köteles - a szolgáltató mérlegelési lehetősége ki van zárva.
+
+Az Irányelv előírja, hogy a forgalmi adatokat a hírközlési szolgáltatók a súlyos bűncselekmények felderítése, nyomozása, illetve ilyen bűncselekmények bizonyítása érdekében tárolják.
+
+A hírközlési szolgáltatók természetesen nem végezhetnek bűnüldözési tevékenységet, azonban kötelesek az arra hatáskörrel rendelkező szervek ilyen irányú igényeinek kielégítését biztosítani. Erre tekintettel az Eht. szabályozásának sem lehet tárgya a konkrét esetkörök, feltételek meghatározása (pl.: súlyos bűncselekmények felderítése).
+
+Fentiek alapján indokolt, hogy az adatkezelési cél úgy jelenjen meg a törvényben, hogy az olyan konkrét jogszabályokra utal vissza, amelyek egyértelműen meghatározzák az arra feljogosított szervezetek bűnüldözési, illetve nemzetbiztonsági célú adatkezelésének szigorú feltételeit és eseteit.
+
+Az Eht. 159/A. § (1) bekezdése ennek megfelelően az adatkérésre felhatalmazott szervekre vonatkozó ágazati jogszabályokra utal vissza. E jogszabályok alapján a feljogosított szervek ezen adatokat titkos információgyűjtés keretében, illetve a nyomozás során nyomozati cselekmény révén ismerhetik meg. Az ágazati jogszabályok, illetve a Be. szigorú előírásai meghatározzák, hogy mely bűncselekmények felderítése és nyomozása, illetve nemzetbiztonsági szolgálatok törvényben meghatározott feladatainak végrehajtása esetén lehetséges ezen adatok megismerése, továbbá meghatározza az adatigénylés törvényi feltételeit, valamint az így szerzett információk bizonyítékként történő felhasználásának szabályait.
+
+Az Irányelv 5 konkrét szolgáltatásra vonatkoztatva rendeli el a forgalmi adatok megőrzését. A 2002/58/EK irányelv (az adatvédelemről és az elektronikus hírközlésről szóló) 15. cikkének (1) bekezdése lehetővé teszi ennek túllépését, feltéve, hogy ez szükséges, megfelelő és arányos intézkedésnek minősül egy demokratikus társadalomban a nemzetbiztonság (vagyis az állam biztonsága), a nemzetvédelem és a közbiztonság védelme érdekében, valamint a bűncselekmények, illetve az elektronikus hírközlő rendszer jogosulatlan használata megelőzésének, kivizsgálásának, felderítésének és üldözésének a biztosítása érdekében.
+
+A törvény az uniós norma és a szükséges és elégséges mérték figyelembevételével kizárólag az adatok egy bizonyos, ám releváns köre tekintetében ír elő adatmegőrzési kötelezettséget, így harmonizálni kívánja az elektronikus hírközlési szolgáltatók és a titkos információgyűjtésre, illetve titkos adatszerzésre felhatalmazott szervek kapcsolatát. E racionalizációval nem sérülnek az állam bűnüldözési, nemzetbiztonsági és honvédelmi érdekei, ugyanakkor az elektronikus hírközlési szolgáltatók adatmegőrzési, adatszolgáltatási kötelezettségének köre csökken, amely az ezzel járó kiadások csökkenését vonhatja maga után.
+
+Az adatok megőrzésének előfeltétele, hogy a szolgáltató az érintett hírközlési szolgáltatással összefüggésben azokat előállítsa vagy kezelje.
+
+Az adatok körének meghatározásakor a törvény nyomon követi az Irányelvben megfogalmazottakat, valamint az Eht. hatálybalépése óta eltelt időben végbemenő robbanásszerű műszaki-technikai fejlődést. Az adatköröket e szakasz nem az Irányelv szerint meghatározott csoportosításban rögzíti, de azok tartalmilag megegyeznek az Irányelvben foglaltakkal. A törvényben megjelenő adatkörök a jelenleg hatályos Eht. adatköreire támaszkodnak annak érdekében, hogy az implementáció során a szolgáltatók a lehető legkevesebb értelmezési nehézséggel találkozzanak. Új elemként határozza meg e szakasz a hálózati címfordításokkal (Network Address Translation, vagyis „NAT”-logok) kapcsolatos adatmegőrzési kötelezettséget. Ez az adat azért bír kiemelt jelentőséggel, mert e logok nélkül az előfizető, illetve felhasználó aktivitásának forrása nem azonosítható, nem kereshető vissza.
+
+A sikertelen hívásokra vonatkozó adattárolási kötelezettség elrendelését az állam bűnüldözési, nemzetbiztonsági és honvédelmi érdekei teszik szükségessé.
+
+A sikertelen hívások megítélése - bűnfelderítési, nemzetbiztonsági szempontból - nem különbözik a sikeres hívásoktól, ezen adatoknak sok esetben ugyanolyan, vagy nagyobb jelentősége van, mint a sikeres hívások során előállt adatoknak.
+
+A törvény ezért a sikertelen hívásokkal összefüggésben ugyanazon adatkezelési célt határozza meg, mint a sikeres hívások kapcsán. Az azonos cél meghatározása mellett azonban az adatkezelési (tárolási) határidő elválik a két adatkör tekintetében, amelynek indoka a hírközlési szolgáltatók adattárolással összefüggő költségeinek további csökkentése, a szükségesség-arányosság kritériumának fenntartása.
+
+Az Irányelv legalább hat hónap és legfeljebb kettő év időkorláttal állapítja meg az adatmegőrzés idejét, a tagállamok ezen belül úgy is dönthetnek, hogy a megőrzési idő szolgáltatásonként, illetőleg adatfajtánként akár különböző. A törvény a hatályos szabályozás szerint is megőrzendő adatok vonatkozásában a korábbi három év helyett egy éves, a sikertelen hívások során keletkező adatok megőrzésére vonatkozó új kötelezettség esetében pedig az Irányelv szerinti minimális megőrzési idő alkalmazását rendeli el.
+
+A törvény meghatározza a megőrzött adatokból adatot igénylő szervek, valamint az adatmegőrzésre, illetve adatszolgáltatásra kötelezett szolgáltatók felelősségét.
+
+A törvény előírja, hogy a kötelezően megőrzendő adatokat az elektronikus hírközlési szolgáltató kizárólag abban az esetben tárolhatja az Európai Gazdasági Térség más tagállamában, ha a megőrzött adatokhoz való hozzáférés tekintetében az adatfeldolgozóval kötött adatmegőrzési szerződés tartalmazza a hazai titokvédelmi szabályoknak megfelelő biztonsági és hozzáférési követelményeket.
+
+Mivel a megőrzendő forgalmi adatok körének meghatározása során különös szerepe van a használt „kommunikáció” fogalomnak, ezért pontos megfogalmazásra kerül e §-ra kiterjedő hatókörrel.
+
+A 14. §-hoz
+
+Az Eht. 145. §-ának (2) bekezdése „külön jogszabályra” utalja a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatok segélyhívó szolgálatok rendelkezésére bocsátása módjának megállapítását, azonban ennek megalkotására az Eht. nem adott explicit felhatalmazást a felhatalmazó rendelkezések között. Ezt pótolja a törvény, a miniszter hatáskörébe utalva a kérdés rendezését.
+
+A 15. §-hoz
+
+A törvény az Eht. jogharmonizációs záradékának technikai kiigazítását végzi. Az uniós jogi aktusok között viszont már értelemszerűen megjelenik a 2006/24/EK irányelv is, amelynek hazai jogrendbe történő átültetésére a törvény révén kerül sor, valamint a 717/2002/EK rendelet, amelynek végrehajtása érdekében szükséges intézkedést szintén a törvény rendeli el.
+
+A 16. §-hoz
+
+E szakasz az Eht. 188. §-a egyes értelmező rendelkezéseinek pontosítását, illetve kiegészítését tartalmazza.
+
+Az alapkiépítésű monitoring alrendszer fogalmának pontosításával a szolgáltatókra háruló terhek csökkentése is megvalósul. A hatályos megfogalmazás még 1995-ben készült, amikor a legnagyobb szolgáltató is csak 1-2 millió előfizetéssel rendelkezett. Az előfizetők, felhasználók számának jelentős növekedése miatt a definíció változatlanul hagyása esetén az alapkiépítésű monitoring alrendszerek olyan számú előfizető egyidejű monitorozhatóságát biztosítanák, amelyre már nincs szükség. Erre tekintettel az alapkiépítésű monitoring alrendszer meghatározása tekintetbe veszi az előfizetők, felhasználók számát, és ehhez mérve arányosan a korábbinál alacsonyabb szinten állapítja meg a szolgáltatók által finanszírozandó alapkiépítésű monitoring alrendszer követelményeit.
+
+Az egyetemes elektronikus hírközlési szolgáltatás fogalmának pontosítását a törvény 6-7. §-ában foglalt módosítások teszik szükségessé.
+
+Az elektronikus hírközlésre vonatkozó szabály fogalomkörének kiterjesztése az Európai Unió jogának való megfelelést szolgálja. Az Európai Uniónak az elektronikus hírközlésre vonatkozóan is születnek olyan kötelező jogi aktusai - pl. az Európai Parlament és a Tanács rendeletei -, amelyek közvetlenül alkalmazandók a tagállamokban. Ezeket a rendelkezéseket épp úgy be kell tartaniuk a piac szereplőinek, mint az ágazati jogszabályokat és a hatóság határozatait.
+
+Az Európai Gazdasági Térség tagállama fogalom bevezetését Románia helyzete indokolja, amely ugyan még nem részese az EGT-megállapodásnak, de ez évtől már tagja az EU-nak.
+
+A helymeghatározási adat tekintetében a módosítás technikai jellegű (információ helyett adat).
+
+A kilépési pont vonatkozásában annak helye, míg a titkos információgyűjtés, illetve titkos adatszerzés kapcsán az azt végzők meghatározása tekintetében vált szükségessé a módosítás.
+
+A sikertelen hívás definiálása az irányelvben foglaltak átvétele miatt szükséges.
+
+-----STARTING---POINT---VEGE---
+
+A 17. §-hoz
+
+Ez a szakasz a záró és átmeneti rendelkezéseket tartalmazza.
+
+Az Eht.-nak a törvény szerinti módosítása 2008. január 1-jén lép hatályba.
+
+A törvény azon rendelkezései, melyek a nyilvánosan elérhető elektronikus hírközlési szolgáltatások nyújtása, illetve a nyilvános hírközlő hálózatok szolgáltatása keretében előállított vagy feldolgozott adatok megőrzéséről és a 2002/58/EK irányelv módosításáról szóló 2006/24/EK irányelv átültetését célozzák, vagy azzal vannak összefüggésben, 2008. március 15-én lépnek hatályba, annak érdekében, hogy a szolgáltatóknak elegendő idejük legyen a bevezetendő többletkötelezettségek végrehajtására való felkészülésre.
+
+Mivel a törvény szinte kizárólag módosító és hatályon kívül helyező rendelkezéseket tartalmaz, az Alkotmánybíróság 4/2006. (II. 15.) AB határozatában foglaltaknak megfelelően - önálló normatartalommal nem rendelkező jogszabályként - jogi hatását hatálybalépésével váltja ki, hatálybalépése napján végrehajtottá válik, ezáltal ezt követően hatályon kívül helyezhető. Mindezek alapján - a Kormány ügyrendjéről szóló 1088/1994. (IX. 20.) Korm. határozat 15. pontjában foglalt követelménynek is megfelelően - a törvény a hatálybalépést követő időpontot megjelölve önmaga rendelkezik a módosító és hatályon kívül helyező rendelkezéseket tartalmazó részeinek hatályon kívül helyezéséről, szükségtelenné téve ezáltal az utólagos technikai deregulációt.
+
+A törvény a hatályos Eht. 157. §-ának (8) bekezdése alapján őrzött adatállomány sorsáról is rendelkezik, akként, hogy abból törlésre kerüljenek az új 159/A. § szerint nem releváns, illetve lejárt őrzési idejű adatok, a fennmaradókat pedig a 159/A. § szabályai szerint kelljen kezelni a továbbiakban.
+
+A 18. §-hoz
+
+Ez a szakasz az Európai Unió jogának való megfelelést mondja ki.

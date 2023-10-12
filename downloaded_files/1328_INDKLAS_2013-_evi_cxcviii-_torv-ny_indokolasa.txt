@@ -1,0 +1,237 @@
+2013. évi CXCVIII. törvény indokolása
+
+a nemzeti utasadat-információs rendszer létrehozása érdekében szükséges, valamint a rendőrséget érintő és egyes további törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+I. A nemzeti utasadat-információs rendszer
+
+Előzmények és az Európai Bizottság által kiírt pályázat
+
+1. 2013. április 10-én, az Európai Bizottság célzott felhívására, az abban meghatározott határidőben és a formai elvárásoknak megfelelően, a Belügyminisztérium benyújtott egy uniós pályázatot [HOME/2012/ISEC/AG/PNR/Targeted Call ’PNR’ (célzott támogatás PNR) a magyar pályázat nyilvántartási száma: 4000004451], amelynek célja Magyarország utasadat-információs egységének (nemzeti utasadat-információs rendszer) felállítása. A felhívásra Magyarország mellett további 15 uniós tagállam nyújtott be pályázatot.
+
+Az Európai Bizottság 2013. szeptember 9-én kelt levelében hivatalosan tájékoztatta a Belügyminisztériumot arról, hogy Magyarország pályázatát nyertesnek ítélte, és a teljes kért összeget, azaz a projekt összköltségvetésének (a hazai projekt összköltségvetése 5.582.970 euró) 90%-át kitevő 5.024.673 eurós támogatásban részesül. Várhatóan október közepére a Bizottság levélben küldi el a támogatási szerződés eredeti, a Bizottság által már aláírt példányát Magyarország számára, amelyet november közepéig a szerződésben meghatározott, aláírásra jogosult hazai képviselő által aláírva kell visszajuttatni a Bizottságnak. A Bizottság ezt követően intézkedik a támogatásként megítélt összeg első részletének - amely az összes támogatás 40%-a - folyósításáról.
+
+Jelenleg is folyamatban van az ilyen utasadat-információs rendszerek európai rendszerének létrehozására irányuló irányelv tervezet tárgyalása, amelyet első olvasatban a Bel- és Igazságügyi Tanács elfogadott, és jelenleg az Európai Parlament vizsgálja. A projekt megvalósítása nem függ a vonatkozó uniós irányelv-tervezet elfogadásától, ugyanakkor annak hiánya miatt a felállításra kerülő nemzeti egységekre vonatkozó szabályozásnak a 2011-ben - az Európai Bizottság által a Tanács és a Parlament részére - benyújtott eredeti javaslattal kell összhangban lennie, hiszen a pályázati kiírás is annak szellemében készült. Ezért csak a légi közlekedési ágazatra vonatkozik, csak EU külső járatokra és minden egyéb olyan feltételnek meg kell felelnie, amelyre a kiírás utal. A magyar pályázatba az utasadat-információs egység feladatainak ellátására a Szervezett Bűnözés Elleni Koordinációs Központ (a továbbiakban: Központ) került megjelölésre. A nemzeti utasadat-információs rendszer kialakítását a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvényben (a továbbiakban: Szbtv.) indokolt szabályozni, itt kell meghatározni az új feladatot, és az utas-adatok (a továbbiakban: PNR adatok) kezelésére, felhasználására és megőrzésére vonatkozó szabályokat. Az Szbtv. mellett indokolt több más törvény módosítása is. A jogszabályi háttér megteremtése a támogatási szerződés várható aláírásáig kívánatos.
+
+A Központ új feladatává válik utasadat-információs egységként a légitársaságok által továbbított utas-nyilvántartási és előzetes utas-adatok kezelése, valamint értékelése és elemzése, összhangban az uniós adatvédelmi előírásokkal. A hazánk területére érkező vagy onnan induló EU külső légi járatok utas-adatainak kezelése az adatvédelmi előírások alkalmazása mellett eredményesebbé teszi az együttműködő szervek megelőző, felderítő, nyomozó tevékenységét, fokozza hazánk és az Európai Unió biztonságát.
+
+A nemzetközi és európai uniós helyzet
+
+2. A szervezett bűnözésben és terrorizmusban érintett személyek utazási szokásai alapján bizonyos minták azonosíthatóak, amelyeknek a PNR adatokkal való összevetése révén rendkívül hasznos, elsősorban a határon átnyúló jelleget öltő vagy az elkövetők mobilitását jellemzőként magukban hordozó terrorizmushoz és súlyos bűncselekményekhez köthető operatív információk nyerhetők ki, elkövetők vagy előkészületi cselekmények deríthetők fel, sőt, akár a levegőben megvalósuló terrortámadások is megelőzhetők. Ezért egyre nagyobb globális szinten is az érdeklődés az ilyen kereskedelmi célból gyűjtött utas-adatok rendészeti célú felhasználására.
+
+Néhány harmadik ország - például az Egyesült Államok, Kanada, Ausztrália, Új-Zéland és Dél-Korea - már jelenleg is használja a PNR adatokat bűnüldözési célból. Más harmadik országok - például Oroszország, Japán, Szaúd-Arábia, Dél-Afrika és Szingapúr - életbe léptették a vonatkozó jogszabályaikat, és/vagy jelenleg tesztelik a PNR adatok felhasználását. Ezenkívül több további harmadik ország is fontolóra vette a PNR adatok bűnüldözési, valamint nemzetbiztonsági célú használatát, de még nem léptette életbe a megfelelő jogszabályokat. Az EU-n belül az Egyesült Királyságban már működik a PNR rendszer. Franciaország, Dánia, Belgium, Svédország és Hollandia elfogadta a vonatkozó jogszabályokat és/vagy jelenleg teszteli a PNR adatok felhasználását. Több másik tagállam szintén fontolóra vette PNR rendszer létrehozását. Fontos megjegyezni, hogy az Európai Unió nevében megkötött PNR megállapodás van hatályban az Egyesült Államokkal és Ausztráliával, továbbá Kanadával is hamarosan lezárulnak a korábbi megállapodások felülvizsgálatát szolgáló tárgyalások. Ezek az államok az Unióba induló vagy onnan érkező, illetve annak területét érintő járatok kapcsán megkapják elemzésre az uniós polgárok PNR adatait is. Jelentős érdeklődést mutat még az EU-val való megállapodás kötésére Oroszország, Dél-Korea, Japán, Katar, Mexikó, az Egyesült Arab Emirátusok, Brazília, Szaúd-Arábia.
+
+A PNR rendszer működésének lényege, hogy a kereskedelmi személyszállítással foglalkozó légi fuvarozók továbbítják a foglalási rendszerükben meglévő adatokat - többnyire közvetítő útján - a nemzeti utasadat-információs egységnek, amely adatbázisában az adatokat kezeli, megőrzi. Az utasadat-információs egység automatizált kockázatelemzést követően a gyanús adatok manuális elemzése révén kiszűri az utasok közül azokat, akiknek adatai arra utalnak, hogy érintettek lehetnek a meghatározott bűnözési formákban. A PNR adatokból akár az utasok személyes adatainak ismerete hiányában is azonosítani lehet a gyanús személyeket és a velük együtt utazókat.
+
+A PNR adatok rendészeti célú felhasználását (melynek célja a terrorizmus és a szervezett bűnözés megelőzése és a vele szemben folytatott küzdelem hatékonyságának növelése) uniós szinten már a Hágai Program is előirányozta, azonban közös jogi alapot teremtő uniós jogi eszköz még nem került elfogadásra. Jelenleg a légi fuvarozók kötelezettsége csak az előzetes utas-adatok - API (Advance Passenger Information) adatok - továbbítására terjed ki a 2004/82/EK tanácsi irányelv alapján. Az API adatok úti okmányokban rögzített személyes adatok lehívása alapján kerülnek rögzítésre, ezek alapján az utas beazonosítható. Ez lehetőséget biztosít a határellenőrző hatóságok számára, hogy hatékonyabban vegyék fel a harcot az illegális migrációval szemben. Az API adatok olyan személyes adatokat tartalmaznak, amelyek segítik az ismert terroristák és bűnözők azonosítását. Ehhez elegendő, hogy az érintett személyek neveit lefuttatják egy figyelmeztető rendszerben, mint amilyen például a Schengeni Információs Rendszer (SIS). Az első kísérlet a PNR adatokat érintő közös uniós jogi eszköz létrehozására 2007-ben indult egy kerethatározat-javaslattal, majd a Lisszaboni Szerződés hatálybalépése miatt félbeszakított tárgyalások a magyar elnökség idején indultak újra az Európai Bizottság által előterjesztett új irányelv-javaslattal (továbbiakban: EU PNR irányelv), amelynek tárgyalása jelenleg is zajlik. Az EU PNR irányelv tervezetéről az általános megközelítést a Tanács még a tavalyi évben elfogadta, most az Európai Parlament vizsgálja a dossziét. Az illetékes szakbizottság (a LIBE) egyszer már elutasította a javaslatot, az Európai Parlament plenáris ülése azonban újbóli megfontolásra visszaküldte a dossziét a LIBE-nek.
+
+Magyarországon mindenképpen létre kell hozni egy utasadat-információs egységet, vagy más tagállammal összefogva közös hatóságot kell fenntartani. Egy ilyen hatóság felállítása rendkívül költséges, ezért a tárgyalások során mindvégig erős nyomást helyeztünk a Bizottságra annak érdekében, hogy a lehető legnagyobb arányban finanszírozza a nemzeti rendszerek felállításának költségét. Ennek biztosítására az Európai Bizottság két lehetőséget ajánlott, egyrészt az úgynevezett „Bűnmegelőzés és bűnözés elleni küzdelem” egyedi program (ISEC program keretében) még az idén kiírt célzott felhívást nemzeti PNR rendszerek felállítására, másrészt a következő több éves pénzügyi keretben működését megkezdő Belső Biztonsági Alapot. Utóbbi kapcsán ugyanakkor a PNR rendszer felállítását a 7 éves nemzeti programunkba kellene betervezni, amely a 2014 és 2020 között a Belső Biztonsági Alapból Magyarországnak jutó összeg közel 1/3-át elvonná. Ezért döntött a Belügyminisztérium amellett, hogy az ISEC program keretében kiírt pályázaton mindenképpen elindul.
+
+Az Egyesült Királyságban (UKBA) és az Egyesült Államokban működő (NTC of CBP) PNR Központokban történt látogatás tapasztalatai megerősítették az utas-adatokat kezelő magyarországi ún. PNR Központ létrehozására vonatkozó szabályozás indokoltságát is. Mindkét PNR Központ szervezeti felépítése, a szolgálatellátás, az adatok fogadásának, feldolgozásának rendje, az intézkedési jogkörrel felruházott együttműködők tájékoztatásának módja kisebb eltérésekkel megegyezik a törvényben megfogalmazott rendelkezésekkel.
+
+A PNR Központok irányítása az Egyesült Királyságban a belügyminiszterhez, az Egyesült Államokban a belbiztonsági miniszterhez tartozik. Természetesen a magyarországi PNR Központ létrehozásakor egyrészt figyelembe kell venni az utasforgalmi adatok nagyságát, másrészt az eltérő európai uniós adatvédelmi normákat.
+
+A Központ utas-adatkezelése
+
+3. A Központ a légifuvarozóktól, vagy azok elektronikus foglalási vagy azzal ekvivalens rendszereiből az utas-adatot vagy közvetlenül veszi át, vagy ebből a célból adatfeldolgozási szerződést köt. Az utas-adatok nem képeznek egységes adathalmazt, azokat egyes légitársaságok, valamint a repülőjegy online értékesítésével foglalkozó cégek különböző formátumban tartják nyilván. A nemzetközi gyakorlat alapján egyes utas-adat elemző-értékelő programot fejlesztő cégek a programjukat használó PNR Központok számára átveszik és homogén (a szoftver által érthető, feldolgozható) adatállománnyá alakítják a különböző formátumú utas-adatokat.
+
+Az átvett utas-adatokat a központ összevetheti saját adataival, illetve kockázat-elemző tevékenységet végez, amelynek eredménye az együttműködő szervek számára adatszolgáltatás, valamint nyilvántartja az utas-adatokat, amelyeket a meghatározott szervek szigorú célhoz kötöttség alapján érhetnek el.
+
+A beérkező személyes adatokat tartalmazó utas-adatokat a Központ feldolgozza, azaz a rendelkezésére álló programmal kockázat-elemzést végez. A Központ kifejezetten az utasadat-információs feladatának ellátása céljából megkapja a legfontosabb személyes adatokat tartalmazó nyilvántartásokhoz való hozzáférési, lekérdezési jogosultságot. Amennyiben kockázat-elemzés alapján bűncselekmény elkövetésére, avagy előkészületére utaló vagy a nemzetbiztonságot veszélyeztető adatot talál, abban az esetben az adat átadásával értesíti a hatáskörrel rendelkező szervet.
+
+Az utas-adatot a Központ az átvételt követő 5 évig tartja nyilván, azonban az adatokat a személyes jellegtől 30 nappal az átvételt követően meg kell fosztani, és a személyes jelleg csak bűncselekmény vagy nemzetbiztonsági kockázat gyanúja esetén állítható vissza. Az utas-adat nyilvántartásból származó adatokból - célhoz kötötten - adatszolgáltatást kérhet az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szolgálat és a Katonai Nemzetbiztonsági Szolgálat is. Ezen adatszolgáltatás célja az, hogy e szervek azonnali intézkedést igényelő esetekben az utas-adat információkkal is rendelkezzenek, amennyiben súlyos bűncselekményre, terrorcselekmény előkészületére, avagy a nemzetbiztonságot fenyegető kockázatra (például a levegőben lévő repülőgépen tartózkodó terroristák) utaló információval rendelkeznek.
+
+Az adatkezeléssel kapcsolatos alapjogi kérdések
+
+4. Az információs önrendelkezési jog - mint minden alapjog - korlátozása akkor tekinthető alkotmányosnak, ha e korlátozás megfelel a szükségesség-arányosság követelményének. Az Alkotmánybíróság a 20/1990. (X. 4.) AB határozatában az alapjog-korlátozás arányossági követelményével kapcsolatban kifejtette, hogy az „megköveteli, hogy az elérni kívánt cél fontossága és az ennek érdekében okozott alapjogsérelem súlya összhangban legyen egymással. A törvényhozó a korlátozás során köteles az adott cél elérésére alkalmas legenyhébb eszközt kiválasztani”.
+
+Az Alkotmánybíróság az információs önrendelkezési jog legalapvetőbb alkotmányossági kereteit kialakító, az Alkotmánybíróság gyakorlatában máig precedensjelleggel érvényesülő 15/1991. (IV. 13.) AB határozatában (a továbbiakban: Abh.) elvi éllel állapította meg, hogy e követelmény az adatkezelés célhoz kötöttsége szempontjából vizsgálandó, az adatkezelés célhoz kötöttségének pedig „az adat felvételétől kezdve az adat törléséig érvényesülnie kell”. Az Alkotmánybíróság továbbá rögzítette, hogy a „célhozkötöttségből következik, hogy a meghatározott cél nélküli, „készletre”, előre nem meghatározott jövőbeni felhasználásra való adatgyűjtés és tárolás alkotmányellenes”.
+
+Az Abh. a vizsgált szabályozás célmeghatározásával kapcsolatban az alábbiakat rögzítette:
+
+„[A] célmeghatározás [...] „az állampolgár jogai érvényesítésének és kötelezettségei teljesítésének előmozdítása, az állami szervek, a gazdálkodó és társadalmi szervezetek, egyesületek, valamint magánszemélyek társulásai (a továbbiakban együtt: szervezetek) munkájának segítése” teljesen inadekvát ahhoz képest, hogy az ország teljes lakosságát érintő adatfeldolgozó rendszer felállításáról van szó, sőt, olyan rendszerről, amely a személyes adatok és a velük kapcsolatos jogok sorsát alapvetően meghatározzák [...]. A semmitmondó szöveg alkalmatlan arra, hogy az adatfeldolgozásnak bármiféle irányt vagy határt szabjon, azaz hogy célhoz kötöttségről egyáltalán beszélni lehessen. Az 1. § (2) bekezdésének az a kitétele, hogy „az állami népességnyilvántartás feladata az egységes személyi alapnyilvántartáshoz szükséges adatok gyűjtése”, megerősíti, hogy meghatározatlan célú, készletre történő adatgyűjtésről van szó, amely [...] „eseti adatigényeket” elégít majd ki, az állami szerveknek szóló rendszeres [...] adatszolgáltatás mellett”.
+
+Az Alkotmánybíróság a 144/2008. (XI. 26.) AB határozatában - korábbi határozatára is utalva - megállapította, hogy „a személyes adatokat vagy a különleges személyes adatokat tartalmazó nyilvántartás szükségképpen érinti az Alkotmány 59. § (1) bekezdése szerinti személyes adatok védelméhez és információs önrendelkezéshez való jogot. Az Alkotmánybíróság a 37/2005. (X. 5.) AB határozatban elvi éllel rámutatott, hogy a személyes adatok védelméhez való jog korlátozásához azonban „a puszta információs érdek önmagában nem elég”, a későbbi jogsértés potenciális veszélye, annak megelőzése nem kellő súlyú indok”.
+
+Amint azt az Alkotmánybíróság a 2/2007. (I. 24.) AB határozatában megállapította, a bírói engedélyhez kötött titkos információgyűjtés esetei kellően konkrétan meghatározottak, valamint adatkezelési szempontból is megfelelnek a célhoz kötöttség elvének.
+
+Az utas-adatok átvételével és kezelésével kapcsolatos jelen előterjesztésben foglaltak megfelelnek az Alkotmánybíróság által megkövetelt, előbbiekben felsorolt feltételeknek.
+
+Az adatkezelés célhoz kötöttsége következik abból, hogy a Központ az utasadat-információs feladatai során a bűncselekmény megelőzése, megszakítása, felderítése, a bűncselekményt elkövető személy kilétének megállapítása, továbbá a nemzetbiztonságot veszélyeztető törekvés, tevékenység elhárítása céljából kezelheti az utas-adatokat. Amennyiben bűncselekmény elkövetésének gyanúját, avagy a nemzet biztonságát veszélyeztető kockázatot állapít meg, a bűncselekmény felderítésére, vagy nyomozására, avagy a nemzetbiztonságot veszélyeztető törekvés, tevékenység elhárítására hatáskörrel rendelkező szervet értesíti és adja át számukra az utas-adatot.
+
+A Központ az adatokat törvényben meghatározott határidőn belül kezelheti, ez a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 27/C. §-ában meghatározott utas-adat (PNR adat) esetében legfeljebb öt év.
+
+Garanciális szabály, hogy a PNR adatot a Központhoz érkezést követő 30 nap elteltével személyazonosításra alkalmatlanná kell tenni. A személyazonosításra való újbóli alkalmassá tételt kizárólag a szervezett bűnözés elleni koordinációs központ főigazgatója rendelheti el, abban az esetben, ha a nemzetbiztonságot vagy az ország függetlenségét súlyosan veszélyeztető esemény, illetve ötévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett bűntett elkövetésére, kísérletére vagy ilyen bűntett előkészületére utaló gyanú ezt szükségessé teszi.
+
+A PNR adatok nyilvántartásából a Központon kívül kizárólag az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szolgálat és a Katonai Nemzetbiztonsági Szolgálat igényelhet adatot, rendkívül szigorú célhoz kötöttségi szabályok alapján.
+
+A PNR adatkategóriák
+
+5. A törvény a PNR adatok körét, az adatkezelés célját és határidejét pontosan tartalmazza. A PNR adatok körét az Lt. 27/C. §-a határozza meg. Az adatkörök meghatározásának másik módja lehetett volna, ha az eredeti Bizottsági javaslatban szereplő adatkategóriát tartalmazó lista átvételére kerülne sor, azonban a korábbi egyezményeken alapuló kategóriákat a jogalkalmazás átvette, értelmezte és azok lefedik a Bizottság javaslatában szereplő fogalmi kört.
+
+II. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
+
+Az Alkotmánybíróság a 20/2013. (VII. 19.) AB határozatával alaptörvény-ellenességre hivatkozással megsemmisítette a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: Szvmt.) 6. § (3) bekezdésének b) pontját, valamint a 6. § (4) bekezdését.
+
+Az Alkotmánybíróság kifejtette, hogy a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység gyakorlása elé szabott korlát esetében, az időtartam indokolatlan és súlyosan aránytalan hosszából fakadóan lényegében nem másról van szó, mint hogy a jogalkotó az adott foglalkozást gyakorolni kívánó, és ahhoz megfelelő képesítéssel rendelkező személyi kört érintően egyfajta másodlagos szankciót alkalmaz. Tartósan eltiltja az érintetteket adott hivatás gyakorlásától, holott ilyen szankciót a bíróság esetükben nem szabott ki. Álláspontja szerint nem felel meg az arányosság követelményének az a jogalkotói megoldás, amely a korlátozás idejét túlzottan hosszú, a foglalkozás szabad megválasztásához való jogot aránytalanul korlátozó, ennek a jognak a sérelmét megvalósító időtartamban határozza meg. Az Alkotmánybíróság szerint a vitatott rendelkezések sértik az Alaptörvény XII. cikkében rögzített, a foglalkozás szabad megválasztásához fűződő alapvető jogot.
+
+A fokozatosság és az arányosság elvének a szem előtt tartásával egy két lépcsős rendszer alakítható ki. A két lépcső kialakítása során elsőként a rendező elveket kell meghatározni, amelyek mentén az egyes jogszabályi rendelkezéseket besorolni és adott esetben módosítani kell. A rendezőelvek között elsődleges szempont az ellátott feladat és ahhoz kapcsolódó eszközrendszer (intézkedések és kényszerítő eszközök rendszere).
+
+A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.), a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény (a továbbiakban: Fbőtv.) és az Szvmt. megsemmisített rendelkezése állapítja meg a legszigorúbb feltételeket.
+
+A Hszt. és az Fbőtv. esetében alkotmányossági oldalról a szigorú szabályozás védhető és az arányosság követelményének is megfeleltethető, tekintettel a fegyveres biztonsági őrök és a hivatásos állományúak által alkalmazható intézkedések és kényszerítő eszközök rendszerére. Ennek megfelelően az új rendszer első lépcsőjébe tartozna a Hszt. és az Fbőtv. előírása.
+
+Az első lépcsőhöz képest jóval enyhébb szabályokat és feltételeket határoz meg a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.), a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény (a továbbiakban: Ftv.) és az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: Rendészeti törvény), így ezek a törvények alkotják a második lépcsőt.
+
+Figyelemmel arra, hogy a Rendészeti törvény is meghatároz rendelkezéseket a személy- és vagyonőrök esetében, így az Szvmt. rendelkezései között sem indokolt olyan rendelkezés előírása, amely a fegyveres biztonsági őrökkel és a hivatásos állományúakkal szemben támasztott követelményekkel azonos szintű.
+
+III. Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény módosítása
+
+A Nemzetközi Bűnügyi Együttműködési Központ jogállásáról, részletes feladat- és hatásköréről, valamint a magyar bűnüldöző hatóságok és az Európai Rendőrségi Hivatal közötti nemzetközi együttműködésről szóló 4/2002. (I. 30.) BM-PM együttes rendelet (a továbbiakban: ER.) deregulációja indokolt, mivel annak rendelkezései időközben részben törvényi szinten rögzítésre kerültek, illetve azokat az ORFK belső normái rendezik, továbbá, tekintettel arra, hogy az ER. megalkotására még az Uniós csatlakozás előtt került sor, számos rendelkezés már túlhaladottá vált.
+
+IV. Jogharmonizációs módosítások
+
+2013. július 19-én lépett hatályba az Európai Parlament és a Tanács 610/2013/EU rendelete (2013. június 26.) a személyek határátlépésére irányadó szabályok közösségi kódexének (továbbiakban: Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról.
+
+Az uniós jogalkotási csomag elsősorban a 2006. október 13-án hatályba lépett a Schengeni határ-ellenőrzési kódex korlátozott jellegű technikai módosítását célozta, mivel a gyakorlati végrehajtás során felmerült ennek szükségessége.
+
+A jogalkotási csomag egyrészt olyan módosításokat tartalmaz, amelyek a meglévő szöveg jobb áttekinthetőségét és az eltérő értelmezések körének szűkítését szolgálják, másrészt a Schengeni határ-ellenőrzési kódex első évei során felmerült gyakorlati problémákra adnak választ. Emellett kifejezett jogi keretet teremt például a közös közúti határellenőrzésekre vonatkozó kétoldalú megállapodások számára.
+
+Az uniós jogalkotási csomag rendeleti szabályozás szintjén történt, a rendeleti szabályozás pedig közvetlenül hatályos és alkalmazandó, ugyanakkor a hazai jogalkotásban vizsgálni kell a releváns magyar joganyagok összhangját az uniós rendeletekkel.
+
+Mivel a Schengeni határ-ellenőrzési kódex módosítása miatt megváltozott a rövid távú tartózkodás számításának módja a Közösségi Vízumkódex létrehozásáról szóló 810/2009/EK európai parlamenti és tanácsi rendelettel összhangban (6 hónapon belül 3 hónapot meg nem haladó tartózkodás helyett bármely 180 napos időszakban 90 napot meg nem haladó tervezett tartózkodás), ezért szükségessé vált a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben a 6 hónapon belül 3 hónapot meg nem haladó tartózkodás helyett a 180 napon belül 90 napot meg nem haladó tartózkodás kifejezés átültetése.
+
+V. Független Rendészeti Panasztestület
+
+Tekintettel az Országgyűlésről szóló 2012. évi XXXVI. törvény képviselői összeférhetetlenségről szóló rendelkezéseire, országgyűlési képviselő nem lehet a testület tagja, ezért ennek az Rtv.-ben való rögzítése szükségtelen. A törvény megteremti az összhangot az Országgyűlésről szóló és a Rendőrségről szóló törvény között.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A Központ utasadat-információs feladatai ellátásához elengedhetetlen a meghatározott közhiteles nyilvántartásokhoz való hozzáférésének törvényi biztosítása. A Központ jogosult adatokat lekérni a polgárok személyi adatainak és lakcímének nyilvántartásából.
+
+A 2. §-hoz
+
+A Korm. rendelet megalkotása során rendelkezni szükséges a közmű üzemeltető és - a készenléti szerveken kívüli - hatóság vagy hivatalos szerv, valamint a hívásfogadó központ vagy a készenléti szerv közötti együttműködésről, tekintettel arra, hogy egyes segélyhívások esetén szükség lehet a készenléti szerveken kívül egyéb szerv, szervezet bevonására is. Tevékenységüknél fogva bizonyos veszélyhelyzetnél sor kerülhet e szervezetek azonnali intézkedésére, vagy az általuk ismert információ átadására is azok részére, akik a mentésben részt vesznek.
+
+Tekintettel az Országgyűlésről szóló 2012. évi XXXVI. törvény képviselői összeférhetetlenségről szóló rendelkezéseire, országgyűlési képviselő nem lehet a Független Rendészeti Panasztestület tagja, ezért ennek az Rtv.-ben való rögzítése szükségtelen. A törvény megteremti az összhangot az Országgyűlésről szóló és a Rendőrségről szóló törvény között.
+
+A 3. § hoz
+
+Az utas-adatok szolgáltatóit, ahogyan magukat az utas-adatokat is, az Lt. módosításával állapítja meg a törvény. A rendelkezés meghatározza az utas-adatok pontos körét, valamint az adatszolgáltatást a Központ felé.
+
+A rendelkezés garanciális elemként pontos szabályokat határoz meg az utas-adatok kezelésének a rendjére, amelyet a légifuvarozó kezelhet, a (3) bekezdésben meghatározott ideig. A légifuvarozó az általa kezelt adatokat továbbítja a Központ felé.
+
+A légifuvarozó az utas-adatok átvételével egyidejűleg tájékoztatja az utazót, hogy az adatai mely szervhez és milyen célból kerülnek továbbításra.
+
+A 4. §-hoz
+
+A rendelkezés garanciális jelleggel meghatározza annak kötelezettségét, hogy a halaszthatatlan bűnüldözési érdekből történő közvetlen kapcsolatfelvétel esetén a Nemzetközi Bűnügyi Együttműködési Központot utólagosan tájékoztatni kell.
+
+A törvény az együttműködő szerv vonatkozásában tájékoztatási, adatszolgáltatási, továbbá bűnügyi elemzések és statisztikák készítésében történő közreműködési kötelezettséget ír elő.
+
+Tekintettel arra, hogy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 2011. január 1-jével - a Vám- és Pénzügyőrség valamint az Adó- és Pénzügyi Ellenőrzési Hivatal összevonásával - létrehozta a Nemzeti Adó- és Vámhivatalt, ezért a megváltozott jogszabályi környezet miatt szükséges a Vám- és Pénzügyőrség helyett a Nemzeti Adó- és Vámhivatal megnevezés.
+
+Az 5. §-hoz
+
+A Nemzetközi Bűnügyi Együttműködési Központ jogállásáról, részletes feladat- és hatásköréről, valamint a magyar bűnüldöző hatóságok és az Európai Rendőrségi Hivatal közötti nemzetközi együttműködésről szóló 4/2002. (I. 30.) BM-PM együttes rendelet (a továbbiakban: ER.) deregulációja indokolt, mivel annak rendelkezései időközben részben törvényi szinten rögzítésre kerültek, illetve azokat az ORFK belső normái rendezik, továbbá, tekintettel arra, hogy az ER. megalkotására még az Uniós csatlakozás előtt került sor, számos rendelkezés már túlhaladottá vált.
+
+A dereguláció érdekében a felhatalmazó rendelkezés hatályon kívül helyezése is indokolt. A jogalkotásról szóló 2010. évi CXXX. törvény (a továbbiakban: Jat.) 13. §-a kimondja, hogy a felhatalmazó rendelkezés hatályon kívül helyezése esetén - kivéve, ha egyidejűleg a tárgykör szabályozására azonos tartalommal új felhatalmazó rendelkezést alkottak - a hatályon kívül helyezésről rendelkező jogszabályban intézkedni kell a végrehajtási jogszabály hatályon kívül helyezéséről. Amennyiben a felhatalmazó rendelkezés - anélkül hogy a tárgykör szabályozására egy új jogszabály ismételten felhatalmazást adna - hatályon kívül helyezésre kerül, a végrehajtási rendelet sem maradhat a jogrendszerben. Ezért ebben az esetben a Jat. 10. §-a alapján a törvény kormányrendeletet és a Kormány tagjának rendeletét hatályon kívül helyezheti.
+
+A 6-10. §-hoz
+
+Az értelmező rendelkezések kibővülnek az utas-adat és az utas-adat szolgáltatója fogalmával, valamint meghatározásra kerül a Központ utasadat-információs feladata. A Központ az uniós és hazai adatvédelmi szabályokkal összhangban átveszi és kezeli a légiközlekedésről szóló törvényben meghatározott adatokat.
+
+Az utasadat-információs egység a 9. §-ban meghatározott tevékenységeket látja el, az adatokat egyrészt a rendelkezésére álló információkkal összeveti, másrészt kockázat-elemzést végez, harmadrészt az adatokat megőrzi.
+
+Az utas-adatokat legfeljebb öt évig kezeli, azokat a Központhoz érkezést követő 30 nap elteltével személyazonosításra alkalmatlanná kell tennie. A személyazonosításra való újbóli alkalmassá tételt kizárólag a Központ főigazgatója engedélyezheti, kizárólag a törvényben meghatározott feltételek esetében.
+
+A Központ az utas-adatokat az együttműködő szervek részére átadhatja abban az esetben, ha az adatkezelési célként meghatározott bűncselekmény megelőzése vagy felderítése az adott együttműködő szerv hatáskörébe tartozik. Ebben a körben azonban fontos korlátozás, hogy az utas-adatok csak a súlyos bűncselekmények megelőzése és üldözése céljából adhatóak át az együttműködő szerveknek. Ezáltal az előterjesztés igazodik az Alkotmánybíróság 2/2007. (I. 24.) AB határozatában megállapított kívánalomhoz.
+
+Az utas-adatok kezelésével kapcsolatban fontos tény, hogy az Európai Bizottság Jogi Szolgálata, valamint az Európai Unió Tanácsának Jogi Szolgálata is véleményt dolgozott ki a schengeni belső járatokról származó passenger name record (PNR) adatok kezelésének jogszerűségével kapcsolatban. Mindkét jogi szolgálat véleménye az volt, hogy a PNR rendszernek a tagállamok közötti belső légi járatokra részben vagy egészben történő kiterjesztése összeegyeztethető a személyek szabad mozgásának elvével és a Schengeni Határ-ellenőrzési Kódexszel.
+
+Az európai tapasztalatok is azt mutatják, hogy a nemzeti PNR Központot létrehozó tagállamok többsége a belső járatokról származó PNR adatok elemzését is elvégzi, éppen arra való tekintettel, hogy a reptereikre érkező vagy onnan induló járatok többsége belső járat és jelentős biztonsági hiánynak tekintik, ha az ilyen járatokat nem ellenőrzik. Az arányosságot egyes tagállamok úgy biztosítják, hogy nem szisztematikus és automatikus adatelemzést végeznek, hanem a kockázatos útvonalakra kérik be az adatokat a légitársaságoktól, és/vagy manuálisan elemzik azokat. A versenytorzító hatással kapcsolatban kevés konkrét információ áll rendelkezésünkre, előfordulhat, hogy az adattovábbítás költségét a légitársaságok az utasokra terhelik. A versenytorzító hatást a légitársaságok elsősorban a többi közlekedési ágazat vonatkozásában szokták hangsúlyozni.
+
+Fontos tény, hogy éppen a magyar elnökség időszakában, az uniós szintű PNR rendszer kialakítását célzó irányelv tárgyalása során a tagállamok többségi álláspontja az volt, hogy ki kell terjeszteni az irányelv tervezet hatályát az Unión belül közlekedő járatokra is.
+
+A törvény a légitársaságokat csak azon adatok továbbítására kötelezi, amelyek a kereskedelmi célból történő adatgyűjtés okán egyébként is rendelkezésükre állnak, ezek közül is csak azokéra, amelyeket az Lt. felsorol. A törvény tehát nem kötelezi a légitársaságokat többletadatgyűjtésre, így tulajdonképpen új feladatot sem ír elő számukra, elegendő azokat az adatokat továbbítani, amelyek a törvényben felsoroltak közül, egy adott járat vonatkozásában éppen rendelkezésükre állnak. Adatkezeléssel kapcsolatos többletfeladatként azonban szükségszerű előírni a törvényben meghatározott adatkategóriák közül az adott járat vonatkozásában rendelkezésükre álló adatok továbbítását.
+
+Mint arról az általános indokolás szólt, az utas-adatok nem képeznek egységes adathalmazt, azokat egyes légitársaságok, valamint a repülőjegy online értékesítésével foglalkozó cégek különböző formátumban tartják nyilván. A nemzetközi gyakorlat alapján egyes utas-adat elemző-értékelő programot fejlesztő cégek a programjukat használó PNR Központok számára átveszik és homogén (a szoftver által érthető, feldolgozható) adatállománnyá alakítják a különböző formátumú utas-adatokat.
+
+Az információs önrendelkezési jogról és az információszabadságról szóló törvény (a továbbiakban: Infotv.) 15. §-a alapján, ha a külön törvény nem korlátozza az adattovábbítási nyilvántartásban való kezelés időtartamát, akkor elvileg az örökkévalóságig kell kezelni az adattovábbítási nyilvántartást. Az Szbtv. 4/F. §-ában rögzíteni kell általánosan, hogy az adattovábbítási nyilvántartásban meddig kell kezelni az adatokat (az Infotv. alapján ez minimum 5 év).
+
+A 11. §-hoz
+
+Az Alkotmánybíróság határozatában foglaltaknak megfelelően módosításra kerül az Szvmt. vonatkozó része. Az Szvmt. 6. § (3) bekezdés b) pontja tekintetében újra megállapításra kerül azon bűncselekmények köre, amelyek elkövetése esetén az adott személy személy- és vagyonvédelmi tevékenységet nem folytathat.
+
+Az Szvmt. 6. § (4) bekezdésének a módosítása is az Alkotmánybíróság döntéséhez kapcsolódik, mivel a 6. § (3) bekezdés b) pontjával egyidejűleg a 6. § (4) bekezdését is megsemmisítette az Alkotmánybíróság. A 6. § (4) bekezdése tekintetében az új szabályozás egy két lépcsős rendszer elemeként került kialakításra. Erre tekintettel az Szvmt. új rendelkezései a második lépcsőben foglaltaknak megfelelően alakulnak.
+
+Az Szvmt. 8. § (1) bekezdése értelmében a rendőrség a kiadott működési engedélyekről és igazolványokról, a kiadásuk alapjául szolgáló feltételek igazolásához szükséges adatokról, az adatváltozásról, a tervező-szerelő vagy magánnyomozói tevékenység folytatására jogosultakról, a működési engedély visszavonásáról, a vállalkozás tevékenységének megtiltásáról, és az igazolvány visszavonásáról, bevonásáról - a működési engedély és az igazolvány hitelességének, valamint a tevékenység ellenőrzésének céljából - nyilvántartást vezet.
+
+A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) ellenőrzési tevékenységének eredményes és hatékony ellátásához nélkülözhetetlen a rendőrség hivatkozott nyilvántartásában szereplő adatok beszerzése. Ennek legfőbb indoka, hogy a NAV csak így tud eleget tenni az adóigazgatási eljárásban - amely közigazgatási eljárás - megkövetelt, a tényállás teljes körű feltárására vonatkozó kötelezettségének.
+
+A törvény a rögzített felvétel tárolására három napot biztosít, mely határidő 30, illetve 60 napra emelkedhet abban az esetben, ha a felvételt az Szvmt. 31. § (3) vagy (4) bekezdésben meghatározott okból rögzítik.
+
+Az Szvmt. 31. § (3) bekezdése nem tartalmazza a veszélyes anyagok őrzésére vonatkozó rendelkezéseket, ezért a módosítás kiegészíti a hatályos szabályozást.
+
+A 12-20. §-hoz
+
+Az utas-adatok kezelésének célja a bűncselekmény elkövetésére irányuló gyanú esetén, valamint a nemzet biztonságát veszélyeztető kockázatok esetén a megfelelő szerv azonnali értesítése. Külön nevesített feladat terrorcselekmény közvetlen veszélyére, előkészületére, terrorista csoportra, vagy terrorszervezetre vonatkozó adat észlelése esetén a Terrorelhárítási Központ riasztása. Önmagában az utas-adat alapján a fenti kockázatokra nem lehet következtetést levonni, szükséges ezért, hogy az utas-adatokat a feldolgozás során - konkrét bűncselekmény gyanúja esetén - a legfontosabb nyilvántartások adataival össze lehessen vetni. A Központ az alábbi nyilvántartásokból jogosult adatokat lekérni:
+
+- a körözött személyek és a körözött dolgok nyilvántartása,
+
+- az idegenrendészeti résznyilvántartások,
+
+- a menekültek nyilvántartása,
+
+- a bűnügyi nyilvántartási rendszer nyilvántartásai,
+
+- a Nemzeti Adó- és Vámhivatal bűnüldözési feladataihoz kapcsolódó nyilvántartások,
+
+- a pénzmosás és terrorizmus finanszírozásának megakadályozásáról szóló törvény alapján vezetett nyilvántartások,
+
+- a lajstromozott és nem lajstromozott légi járművek nyilvántartása.
+
+A menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) 2014. január 1-jén hatályba lépő - az egyes rendészeti tárgyú törvények módosításáról szóló 2013. évi XCIII. törvényben foglalt - módosításának eredményeként a menekült és az oltalmazott jogállású személyek esetében a korábbi támogatási formákat felváltják az ún. integrációs szerződés és az integrációs támogatás, amelyekre vonatkozó szabályokat a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet rögzíti tételesen.
+
+A Met. fent hivatkozott módosítása a menekült és az oltalmazott jogállású személyeket megillető egyes pénzbeni támogatások folyósítására eredetileg a családsegítő szolgálatot jelölte ki, amely intézmény ugyanakkor e feladatot nem lenne képes ellátni, figyelemmel arra, hogy nem kezel pénzt, nem rendelkezik önálló bankszámlával, továbbá a magyar állampolgárok számára sem nyújt pénzbeni támogatást.
+
+Erre tekintettel célszerű az integrációs támogatás folyósításának feladatát is a menekültügyi hatósághoz telepíteni.
+
+A módosítás többletköltséggel nem jár, figyelemmel arra, hogy
+
+- az Szt. hatálya kiterjed a menekültekre és oltalmazottakra egyaránt, így a családsegítést az eddigiek során is jogosultak voltak igénybe venni;
+
+- az integrációval kapcsolatos konkrét költségek fedezete az integrációs támogatás folyósítása útján biztosított;
+
+- a családsegítést kötelezően biztosító települési önkormányzat e feladata ellátása alapján állami normatívában részesül.
+
+A vonatkozó uniós joganyagban bekövetkezett változásoknak megfelelően a rövid távú tartózkodás számításának új módja szerint a törvény gondoskodik a 6 hónapon belül 3 hónapot meg nem haladó tartózkodás, illetve a 3 hónapot meghaladó tartózkodás helyett a 180 napon belül 90 napot meg nem haladó, illetve 180 napon belül 90 napot meghaladó tartózkodás kifejezések használatáról a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben.
+
+-----STARTING---POINT---VEGE---
+
+A 21. §-hoz
+
+A törvény négy hatálybalépési időpontot tartalmaz.
+
+Az (1) bekezdés a jogharmonizációs kötelezettség teljesítéséhez igazodik, ezért a lehető leghamarabb lépteti hatályba a módosító rendelkezéseket.
+
+A (2) bekezdés az Szvmt. módosításának a hatálybalépését tartalmazza, amely az Alkotmánybíróság határozatában foglaltaknak megfelelő.
+
+A (3) bekezdés szerint lépnek hatályba azok a módosuló rendelkezések, amik a 2013. október 17-én indult kötelezettségszegési eljárás során megfogalmazott hiányosságokat pótolják.
+
+A (4) bekezdés a PNR-ral összefüggő rendelkezések hatálybalépéséről rendelkezik.
+
+A 22. §-hoz
+
+Sarkalatossági záradékot tartalmaz.
+
+A 23. §-hoz
+
+A jogharmonizációs záradékot tartalmazza, amely meghatározza, hogy mely rendelkezések szolgálják a személyek határátlépésére irányadó szabályok közösségi kódexének (továbbiakban: Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet végrehajtását.
+
+A 24. §-hoz
+
+A Met. érintett klauzuláiban hivatkozott európai uniós jogi aktusok hivatalos számozásának ismertté válását követően gondoskodni kell a pontos hivatkozásoknak a törvény szövegén történő megfelelő átvezetéséről.

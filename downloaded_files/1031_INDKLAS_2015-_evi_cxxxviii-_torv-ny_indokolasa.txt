@@ -1,0 +1,157 @@
+2015. évi CXXXVIII. törvény indokolása
+
+az elektronikus hírközlési szolgáltatások és infrastruktúra fejlesztésének, kiépítésének ösztönzéséről, a jogszabályi háttér akadálymentesítéséről szóló törvénymódosításokról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A magyarországi infokommunikációs szektor fejlesztésének 2014-2020-as uniós tervezési ciklussal egybeeső időtávra vonatkozó stratégiai irányait, fejlesztési súlypontjait a Kormány által 2014. február 5-én elfogadott, az európai uniós elvárás rendszerrel is összehangolt Nemzeti Infokommunikációs Stratégia [Magyarország Nemzeti Infokommunikációs Stratégiájáról szóló 1069/2014. (II. 19.) Korm. határozat] jelöli ki.
+
+A „Digitális Nemzet Fejlesztési Program” megvalósításáról szóló 1631/2014. (XI. 6.) Korm. határozat (a továbbiakban: DNFP Korm. hat.) a Digitális Nemzet Fejlesztési Programról szóló 1162/2014. (III. 25.) Korm. határozatban foglaltaknak eleget téve és a Nemzeti Infokommunikációs Stratégiával összhangban rögzíti a Digitális Nemzet Fejlesztési Program (a továbbiakban: DNFP) célrendszerét, melynek egyik stratégiai pillérre az egész országot lefedő, legalább 30 Mbps átviteli sebességet biztosító infrastruktúrának az elérhetővé tétele, amelyre az Új Generációs Hálózatok (NGN) kiépítésével nyílik lehetőség.
+
+Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításához
+
+Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény előremutató jogintézményként szabályozza a településrendezési szerződés intézményét, amely rugalmas kereteket teremt annak érdekében, hogy a településrendezési eszközöknek a településen megvalósítani kívánt beruházásokhoz szükséges módosításában az érintett közjogi és magánjogi jogalanyok együttműködjenek. A jogintézmény hatékonyabb működése, ennek megfelelően a szélessávú internetkapcsolat biztosításához szükséges beruházások felgyorsulása várható, ha - anélkül, hogy a törvény bármilyen formában elvonná az önkormányzatok döntési szabadságát e kérdésekben - a szerződéskötéshez vezető eljárást a felek számára előre tervezhető módon időbeli korlátok közé szorítja. A módosítás ennek megfelelően vezet be - az önkormányzatok és a kivitelezők számára is tartható - határidőket, melyek a jelenlegi szabályozásból teljes mértékben hiányoznak.
+
+Az elektronikus hírközlésről szóló 2003. évi C. törvény módosításához
+
+A módosítások általános célja a megfelelő átviteli sebességet biztosító NGA-hálózatok engedélyeztetési szabályozásának egyszerűsítése, a kivitelezéseket jelenleg gátló akadályok elhárítása, a vonatkozó jogszabályoknak a Digitális Nemzet Fejlesztési Programnak a legalább 30 Mbps átviteli sebességet biztosító infrastruktúra kiépítésével kapcsolatos célját figyelembe vevő felülvizsgálatával.
+
+Tulajdonosi hozzájárulás megszerzésének nehézségeivel kapcsolatos problémák orvoslása:
+
+Az internet-szolgáltatások nyújtását biztosító infrastruktúra engedélyeztetési eljárása az elektronikus hírközlésre vonatkozó szabályozás hatálya alá tartozik, az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.), valamint az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 14/2013. (IX. 25.) NMHH rendelet [a továbbiakban: 14/2013. (IX. 25.) NMHH rendelet] szabályozza.
+
+A jelenlegi szabályozás alapján a hálózatépítés jellemzően idegen ingatlanon, elsősorban közterületen vagy meglévő hálózatokon valósulhat meg. Ha e célra állami tulajdonban lévő közterület nem áll rendelkezésre, vagy ez utóbbin műszaki okból, illetőleg jogszabály tiltó rendelkezése miatt az elhelyezés nem lehetséges, akkor az elektronikus hírközlési építmény helyi önkormányzat tulajdonában lévő közterületen helyezhető el, ilyen esetben a helyi önkormányzat a szükséges tulajdonosi hozzájárulás és területhasználati engedély megadását csak kivételes esetben tagadhatja meg. Ha az elektronikus hírközlési építmény elhelyezésére közterületen, vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával nincs lehetőség, és a közüzemi szolgáltató, vagy a magántulajdonban álló ingatlan tulajdonosa (kezelője, használója) és a szolgáltató között megállapodás nem jött létre, az elektronikus hírközlési építmény az Eht. 95. §-a szerinti eljárásban elsősorban a közüzemi szolgáltató létesítményén, illetve másodsorban magántulajdonban álló ingatlanon (érintett ingatlan) is elhelyezhető.
+
+A hálózatépítést tehát megelőzi az idegen ingatlan tulajdonosának az építési munkához való hozzájárulása vagy területhasználati engedély megszerzése.
+
+A Polgári Törvénykönyv 5:27. §-a alapján az ingatlan tulajdonosa tűrni köteles, hogy az erre jogszabályban feljogosított személyek - a feladataik ellátásához szükséges mértékben - az ingatlant időlegesen használják, arra használati jogot szerezzenek, vagy az azon fennálló tulajdonjogot egyébként korlátozzák. Ebben az esetben az ingatlan tulajdonosát a korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás az ingatlan rendeltetésszerű használatát lehetetlenné teszi, vagy jelentős mértékben akadályozza, a tulajdonos az ingatlan kisajátítását kérheti.
+
+Az Eht. 95. §-a alapján a Nemzeti Média és Hírközlési Hatóság (a továbbiakban: NMHH) a szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát - az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből - a jogszabályokban meghatározott feltételekkel korlátozhatja az ingatlan használatában.
+
+A 14/2013. (IX. 25.) NMHH rendelet alapján idegen tulajdonban lévő ingatlanon történő építés esetén egyebekben az építtető az építési jogosultságát a vonatkozó jogszabályi előírások szerinti hozzájárulással, határozattal vagy ezt pótló jogerős hatósági döntéssel vagy jogerős bírósági határozattal köteles igazolni. A kérelemhez csatolni kell az építéssel érintett ingatlanok használati jogosultságát igazoló okiratot és az érintett ingatlanokról készített rendszerezett kimutatást a Hatóság által közzétett kérelem-adatlap szerinti tartalommal.
+
+A hálózatépítések azonban a tulajdonosi hozzájárulásokkal kapcsolatos problémák miatt sok esetben elhúzódnak, rosszabb esetben meghiúsulnak a hozzájárulások lassú megadása, megtagadása, vagy a tulajdonosok által támasztott többletkövetelmények miatt, amely miatt a hozzájárulások megadására vonatkozó szabályozások felülvizsgálata vált indokolttá.
+
+A módosítások figyelemmel vannak a vonatkozó alkotmányos elvekre, előírásokra. Az ingatlan használatához, illetve a tulajdonjog más részjogosítványához fűződő tulajdonosi jogok az Alaptörvényben írt tulajdonhoz való jog védelme alatt állnak. E tulajdonhoz való jog, és annak részjogosítványaként a polgári jogi tulajdonjog korlátozása csak a törvényben írt valamennyi szigorú feltétel teljesülése esetén következhet be.
+
+A tulajdonba való beavatkozás csak akkor minősülhet alkotmányosnak, ha a szükségesség-arányosság követelménye megvalósul, vagyis a tulajdonkorlátozás súlya arányban van a közérdekkel, illetve a korlátozás nem sért alapjogot.
+
+Az Alaptörvény a tulajdonhoz való jog esetében a közhatalmi beavatkozásnak nagyobb teret enged, és a tulajdonhoz való jogot ezért lehet megfogalmazni az egyik „legkorlátozhatóbb” alapvető jogként. A közhatalmi beavatkozás lehetősége azonban a tulajdonhoz való jog esetében sem korlátlan, amire a törvény tekintettel van.
+
+A szabályozáskor a tulajdoni formák egyenrangúságának elve is figyelembevételre került. E szerint az állami tulajdont nem lehet előnyben részesíteni, de az állami tulajdon hátrányosan sem különböztethető meg. Azonban az alkotmányos keretek között is lehetőség van az állami tulajdon esetében arra, hogy az elektronikus hírközlési szolgáltatónak az idegen tulajdonú ingatlanra történő építkezés miatti megkeresésre való válaszadás tekintetében jogszabály határidőt tűzzön, vagy a Kormány határozatban előírja az érintett minisztereknek, hogy gondoskodjanak a megkeresésre való válaszadás megfelelő időben való megtörténtéről.
+
+A módosítások figyelembe veszik a tulajdon közérdekű használatával kapcsolatban a bírósági gyakorlatot is. A bíróságok több esetben is a tulajdonosok érdekeit szem előtt tartó, a rendeltetésszerű joggyakorlás kereteit biztosító döntésekben jelölték ki a hatóság jogalakító tevékenységének határait, valamint a jogalakítást megelőző feltételek megfelelő érvényesülésének garanciáit.
+
+A gyakorlat rámutatott, hogy fokozottabb felelősség terheli az elektronikus hírközlési szolgáltatót az Eht. 95. § (2) bekezdés a) pontja alapján, amikor a jóhiszeműség és tisztesség követelményeinek megfelelő kölcsönös együttműködés mellett, minden tőle telhetőt meg kell tennie azért, hogy a megállapodás létrejöjjön. Ennek alapvető feltétele, hogy minden releváns információ birtokában legyen az érintett tulajdonos, akivel a szolgáltató megállapodást kíván kötni. Egy ilyen megállapodásnak lényeges eleme például az ár megítéléséhez szükséges azon tartalom is, hogy a szolgalmi jog alapítása konkrétan milyen korlátozásokat jelent a tulajdonos számára. Ezen túl az elektronikus hírközlési szolgáltatónak mindent meg kell tennie a szolgalmi, vagy más használati jogot alapító megállapodás létrejötte érdekében és ezt az NMHH előtt bizonyítania is kell. Fontos követelmény, hogy legalább a hatósági jogalapítás érdekében benyújtott kérelmében foglaltakkal egyező tartalmú megkeresést kell intézni az ingatlan tulajdonosához, valamint nem elfogadható, ha a hatósági jogalapítás keretében az elektronikus hírközlési szolgáltató túlzott mértékben kéri a tulajdonjog korlátozását.
+
+Mindezek alapján olyan módosítások kerültek kialakításra, amelyek továbbra is a tulajdonjog korlátozhatóságának arányosságát veszik figyelembe, azonban a szabályozás megfogalmazott a tulajdonosokat általánosan kötelező olyan eljárási kötelezettségeket, amelyek a hozzájárulások megfelelő határidőn belüli megszerzését szolgálják.
+
+Közműegyeztetések hatékonyságának javítása:
+
+Az elektronikus hírközlő hálózatok kiépítését nagyban megkönnyítené, ha a szolgáltatók a hálózataikat a már meglévő, különböző hálózatos közművek nyomvonalain és infrastruktúráján tudnák kiépíteni (pl.: vasút, közút, villamosenergia-hálózatok (közvilágítás), oszlopok, ideértve más nyilvános elektronikus hírközlési hálózatokat is). Már meglévő közműhálózati fizikai infrastruktúra felhasználása a széles sávú hálózatok építéséhez nemcsak gyorsabbá, hatékonyabbá teszi a fejlesztéseket, de javítja a versenyképességet, ill. hozzájárul a környezetkárosítások, szennyezések csökkentéséhez.
+
+A nagy sebességű elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről szóló 2014/61/EU irányelv (a továbbiakban: Irányelv) átültetése:
+
+A törvénymódosítás részben az Irányelv átültetésével kapcsolatos szabályokat is tartalmazza.
+
+Az Irányelv célja, hogy megállapítsa az Európai Unió egész területén alkalmazandó minimális jogokat és kötelezettségeket a nagy sebességű elektronikus hírközlő hálózatok kiépítésének és az ágazatközi koordinációnak az elősegítése érdekében.
+
+Az Irányelv értelmében az Európai Unió célja egy olyan digitális gazdaság létrehozása, amely - a modern online szolgáltatások és a gyors internetkapcsolatok által biztosított alapra építve - fenntartható gazdasági és társadalmi előnyöket kínál. A kiváló minőségű digitális infrastruktúra a modern és innovatív gazdaságnak gyakorlatilag minden ágazatát támogatja, a társadalmi és a területi kohézió szempontjából pedig stratégiai jelentőségű. Ezért minden polgárnak, valamint a magán- és az állami szektornak egyaránt lehetőséget kell kapniuk arra, hogy a digitális gazdaság részévé váljanak.
+
+Az Európai Digitális Menetrend - európai növekedés digitális alapokon című bizottsági közlemény célul tűzte ki, hogy csökkenteni kell az egész Európai Unió területén a széles sávú technológiák kiépítésének költségeit, ideértve a megfelelő tervezést és koordinációt, valamint az adminisztratív terhek mérséklését is.
+
+A nagy sebességű elektronikus hírközlő hálózatok kiépítésével járó költségek csökkentése hozzájárulna a közszféra teljes körű digitalizálásához is, ami a közigazgatás költségeinek mérséklésén és a polgároknak nyújtott szolgáltatások hatékonyságának javulásán túl egyfajta multiplikátor-hatást fejtene ki a gazdaság valamennyi ágazatára.
+
+Az Irányelv megállapítása szerint a költségek túlnyomó része a fejlesztési folyamat olyan hatékonyságbeli hiányosságainak tulajdonítható be, amelyek a meglévő passzív infrastruktúra (például alépítmények, kábelcsatornák, ellenőrzőaknák, szekrények, tartóoszlopok, antennatornyok, antennaszerkezetek, más tornyok) felhasználásával, az építési munkák összehangolásával kapcsolatos szűk keresztmetszetekkel, a megterhelő közigazgatási engedélyezési eljárásokkal, valamint az épületeken belüli hálózatkiépítéssel kapcsolatos akadályokkal állnak összefüggésben, melyek - különösen a vidéki térségekben - jelentős pénzügyi akadályokat eredményezhetnek.
+
+Az Irányelv szerint az elektronikus hírközlő hálózatok üzemeltetői számára, különösen az új belépők esetében jóval hatékonyabb lehet, ha az elektronikus hírközlő hálózatok fejlesztése céljára újra felhasználják a meglévő fizikai infrastruktúrákat, akár más közüzemek infrastruktúráit is, különösen az olyan területeken, ahol nem áll rendelkezésre megfelelő elektronikus hírközlő hálózat, vagy ahol egy új fizikai infrastruktúra kiépítése esetleg nem valósítható meg gazdaságosan. Ezen túlmenően az ágazatközi szinergiák jelentősen csökkenthetik annak szükségességét, hogy az elektronikus hírközlő hálózatok kiépítése miatt építési munkákra kerüljön sor, és ennél fogva mérsékelhetik az azokhoz kapcsolódó társadalmi és környezeti költségeket is, mint amilyen a szennyezés, a zavaró hatások és a forgalomtorlódás. Az Irányelv ezért nemcsak a nyilvános hírközlő hálózatok szolgáltatóira alkalmazandó, hanem az elektronikus hírközlő hálózati elemek fogadására alkalmas, széles körben kiterjedt és mindenütt megtalálható fizikai infrastruktúrák - például a villamos energia (ideértve a közvilágítás rendszerét is) -, a gáz- és a vízellátást biztosító, illetve a víz- és szennyvízelvezetési, a fűtési és a közlekedési szolgáltatások biztosítására szolgáló fizikai hálózatok - tulajdonosaira vagy az azok használatára jogosult személyekre is, utóbbiak esetében a harmadik felek tulajdonjogának sérelme nélkül.
+
+Az Irányelv ezen elvek mentén határozza meg a részletes szabályokat, amelyek átültetésével kapcsolatos kötelezettségnek jelen törvény tesz részben eleget.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 30/A. §-a módosításának célja, hogy megfelelő időbeli keretek közé szorítsa a településrendezési szerződés megkötésére irányuló eljárást, anélkül, hogy az önkormányzati autonómiát e kérdésben bármilyen módon korlátozná.
+
+A módosítás ezt két határidő bevezetésével oldja meg. Egyrészt megteremti a cél megvalósítójának a jogát arra, hogy az általa előterjesztett telepítési tanulmánytervről belátható, de önkormányzati szinten is tervezhető időn belül döntés szülessen, másrészt pedig előírja, hogy ha egyszer már megszületett a döntés a telepítési látványtervről, akkor az ennek megvalósítását biztosító településrendezési szerződés is ésszerű időkorlátok között jöjjön létre.
+
+A 2. §-hoz
+
+Az Eht. 22/A. §-sal való kiegészítése az NMHH és az elektronikus hírközlésért felelős miniszter közötti együttműködésre vonatkozó keretszabályokat határozza meg. Az együttműködést, illetve ennek keretében az adatátadást az indokolja, hogy a miniszter a hírközlési piachoz kapcsolódó fejlesztéspolitikai és szabályozási intézkedések kellő előkészítéséhez, megalapozásához rendelkezhessen a szükséges piaci információkkal, adatokkal.
+
+Az Eht. 94. §-ának (2) bekezdésének módosítása a beruházásokhoz szükséges tulajdonosi hozzájárulások kérdését rendezi, azzal hogy az állami tulajdonban lévő ingatlanok vonatkozásában általánosan rögzíti, hogy a nemzetgazdasági szempontból kiemelt jelentőségűnek minősített állami beruházásoknál nem szükséges tulajdonosi hozzájárulás kiadása, figyelemmel arra, hogy ezen projektek megvalósításáról a Kormány döntött, így a tulajdonosi joggyakorlónak tényleges döntési hatásköre nincs. Ingatlanszakmai és biztonsági okok miatt ez a rendelkezés ugyanakkor nem mentesíti az igénybevevőt attól, hogy ha van az adott ingatlannak ingatlan-nyilvántartásba bejegyzett vagyonkezelője, annak hozzájárulását megkérje.
+
+Az Európai Parlament és Tanács nagy sebességű elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről szóló, 2014. május 15-i, 2014/61/EU irányelv (a továbbiakban: Irányelv) 3. cikke a meglévő fizikai infrastruktúrához való hozzáférés körében a jelenleg hatályos szabályozásnál szélesebb körben teszi lehetővé, hogy az elektronikus hírközlési hálózatok üzemeltetői az elektronikus hírközlési hálózat kiépítése céljából más infrastruktúrákhoz hozzáférjenek. Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 94. § (2) bekezdésének új bekezdésekkel való kiegészítése ezt a kiterjesztést szolgálja. Szorosan összefügg az Eht. 188. § 27/a. pontjába illesztett értelmező rendelkezéssel, amely a nagy sebességű elektronikus hálózat fogalmát határozza meg.
+
+Az Irányelv 3. cikkének (2) és (3) bekezdései alapján csak objektív, átlátható és arányos kritériumokon alapuló indokok esetén tagadhatja meg a fizikai infrastruktúra üzemeltetője a tulajdonosi hozzájárulást a nagy sebességű elektronikus hírközlési létesítmény létesítéséhez. Az Eht. 94. §-ának új, (2a)-(2e) bekezdései ennek megfelelően olyan együttműködést írnak elő a hálózatüzemeltetővel szemben, amely főszabályként a tulajdonosi hozzájárulás megadásának a kötelezettségét tartalmazza, és amelyet csak a törvényben meghatározott esetekben tagadhat meg a fizikai infrastruktúra felett rendelkezési jogot gyakorló jogalany.
+
+Az Eht. 94. § (2c) bekezdése azt kívánja biztosítani, hogy ha a megkeresés pillanatában fenn is áll valamilyen objektív műszaki ok, ami miatt a meglévő fizikai infrastruktúra felhasználása nem lehetséges, a hálózatüzemeltetőnek akkor is legyen kötelessége közölni, hogy milyen átalakításokkal, beruházásokkal tehető az infrastruktúra a széles sávú infrastruktúra fogadására alkalmassá.
+
+Az Eht. 94. § (2d) bekezdése szerinti megtagadási okok úgy kerültek megfogalmazásra, hogy azokból egyértelmű legyen, hogy egy esetleges hatósági vagy bírósági eljárásban kire esik a bizonyítás terhe.
+
+Az Eht. 94. § (2b) bekezdése törvényerőre emeli a tulajdonosi hozzájárulás kérésének a bírósági gyakorlatban kimunkált követelményeit. A szabályozás lényege, hogy a megkeresett tulajdonos abba a helyzetbe kerüljön, hogy rendelkezzen azokkal az információkkal (ideértve a használati jog hatósági eljárás útján való kikényszerítése lehetőségét is), amelyek alapján meg tudja hozni tulajdonosi döntését, és a megkeresés legyen olyan mértékben egyértelmű, hogy annak az elfogadásával akár létre is jöhessen a szerződés (tehát fűződjön hozzá ajánlati kötöttség).
+
+Az Irányelv 3. cikk (3) és (4) bekezdése alapján, ha a felek között két hónapon belül nem jön létre a megállapodás, biztosítani kell, hogy bármely fél jogosult legyen az ügyet nemzeti vitarendezési testület elé tárni. Az Eht. 94. § (2f) bekezdésének megállapítására irányuló módosítás ennél rövidebb, 45 napos sikertelen egyeztetés (vagy egyeztetési kísérlet) esetén is lehetővé teszi már a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) eljárásának a kezdeményezését.
+
+Az NMHH kijelölését indokolja, hogy az Irányelv 3. cikk (5) bekezdése alapján amennyiben a jogvita valamely elektronikus hírközlő hálózat szolgáltatójának infrastruktúrájával kapcsolatos, és a hatáskörrel rendelkező vitarendezési testület a nemzeti szabályozó hatóság, akkor e hatóságnak adott esetben figyelembe kell vennie az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv 8. cikkében meghatározott célokat. Az NMHH kijelölése tehát erősíti a hivatkozott irányelvben megfogalmazott ágazatpolitikai célok érvényesülését.
+
+Az Eht. 94. § (2g)-(2l) bekezdései az eljárás részletes szabályait tartalmazzák, amelynek kereteit az NMHH jogvitás eljárásaira vonatkozó általános szabályok adják meg. Főszabály szerint az NMHH Eht. szerinti jogvitás eljárásának a szabályai az irányadók meghatározott eltérésekkel. Az Irányelv 3. cikk (4) bekezdéséből egyértelmű, hogy a vitarendezésre egy hatóság rendelkezhet illetékességgel és hatáskörrel, azaz a hatáskör megosztása nem lehetséges, azonban a különböző hálózati infrastruktúrák jellegéből adódhatnak olyan szakkérdések, amelyekben az illetékes és hatáskörrel rendelkező ágazati infrastruktúra-engedélyező hatóság szakhatósági bevonása szükséges. Az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv („Keretirányelv”) 2009-ben módosított 20. cikke kifejezetten kimondja, hogy a hírközlési irányelvek és egyéb egyedi irányelvek alapján előírt hozzáférési kötelezettséggel kapcsolatos jogviták esetében a nemzeti hírközlési szabályozó hatóság járhat el akkor is, ha az egyik fél nem hírközlési szolgáltató. A fentiek alapján az Irányelv szerinti vitarendezési hatóságként az NMHH kerül kijelölésre. A hírközlésitől eltérő közmű-infrastruktúra felhasználása esetén ugyanakkor felmerülhetnek olyan kérdések, amikor az NMHH nem rendelkezik kellő szakértelemmel ahhoz, hogy minden - az adott hálózatüzemeltetőt érintő szakkérdésben állást foglalhasson (pl. az adott közmű-infrastruktúra jellemző sajátossága miatt). Ezért ezen eljárásokban szükséges biztosítani az adott infrastruktúrát engedélyező ágazati hatóságok szakhatósági közreműködését. Az eljárásában egykapus hatóságként járhat el, azaz, ha szükséges a hatóság maga keresi meg a szakhatóságokat. A szakhatóságok eljárására az általános hatósági eljárási szabályok az irányadók.
+
+A fizikai infrastruktúrák felhasználásával kapcsolatos vitarendezést az Irányelv céljainak és az Irányelv 3. cikk (2) bekezdésének megfelelően a fizikai infrastruktúra felhasználásban érdekelt hírközlési szolgáltatók kezdeményezhetik. Az eljárásban a bizonyítási teherrel összhangban a szolgáltatónak kell igazolnia, hogy mindent megtett a megállapodás létrehozása érdekében, és annak elmaradása tekintetében mulasztás nem terheli.
+
+Az Irányelv 3. cikk (3) bekezdésének utolsó mondata alapján gondoskodni kell arról, hogy a hálózatüzemeltető legfeljebb két hónapos határidőn belül legalább az elutasítás indokait kötelezően megjelölje. A bizonyítási teher előírása és erre vonatkozóan jogvesztő határidő tűzése az eljárást racionális időkeretbe szorítja.
+
+Az Eht. 94. § (2i) bekezdése szerinti határozatnak pótolnia kell a szolgáltató és a tulajdonosi jogok gyakorlója közötti szerződést. Ennek megfelelően ki kell terjednie minden olyan lényeges kérdésre, amelyre megállapodás esetén a szerződés is kiterjedne.
+
+Az Eht. 94. § (2k) bekezdése szerint az eljárások gyorsítása érdekében lehetséges a 95. § szerinti eljáráshoz hasonlóan ezen eljárást is - a kérelmező döntése és kockázatelemzése szerint - az elektronikus hírközlési építmény engedélyezési eljárásába integrálni, azaz azok egyidejűleg is előterjeszthetők.
+
+Az Eht. 95. § (1) bekezdésének módosítását elsősorban az indokolja, hogy csak a meglévő fizikai infrastruktúra felhasználásának alkalmatlansága esetén legyen lehetőség nem állami vagy szolgáltatói tulajdonban álló ingatlanok felhasználására a szélessávú hírközlési infrastruktúra kiépítése érdekében.
+
+A módosítás másodsorban a harmadik személy tulajdonában álló ingatlanok tekintetében is bevezeti a 45 napos határidőt a tulajdonosi hozzájárulást tartalmazó megállapodás létrehozására, illetve az egyeztetésekre. Ezt követően lehet azt hatósági eljárásban a hatóság határozatával pótolni.
+
+Az Eht. 95. § (2) bekezdés b) pontjának módosítása egyértelművé teszi, hogy akkor sincs helye harmadik személy ingatlanjának közhatalmi eszközök útján történő felhasználásának szélessávú internetkapcsolat biztosítása céljából létesítendő elektronikus hírközlési létesítmény megvalósításához, ha az fizikai infrastruktúra felhasználásával egyébként biztosítható lenne.
+
+Az Eht. 95. § (4) bekezdése a bírói gyakorlatot törvényerőre emelve meghatározza azokat a követelményeket, amelyek teljesítése esetén vélelmezni kell, hogy a szolgáltató a megállapodás létrehozása érdekében a harmadik személy ingatlantulajdonossal való egyeztetése során mindent megtett a megállapodás tető alá hozása érdekében.
+
+Az Eht. 95. § (4a) bekezdése a (4) bekezdés szerint értékeli azt a helyzetet is, ha az ingatlan tulajdonosa nem működik együtt a megállapodás megkötése érdekében, attól kifejezetten vagy hallgatólagosan elzárkózik.
+
+Az Eht. 95. § (5) bekezdés e) és f) pontjai egyértelművé teszik az az alkotmányossági követelményt, hogy a hatósági határozatnak ki kell terjednie a környezet eredeti állapotának helyreállítására (mint természetbeni kárenyhítésre), valamint a kártalanítás összegére is.
+
+Az Eht. 96. § (1) bekezdésének módosításával a kiemelt állami beruházások egyszerűbbé és költséghatékonyabbá tétele érdekében általános jelleggel rögzítésre kerül, hogy az állami tulajdonban lévő ingatlanokon a használatba vétel ingyenes, azaz nincs kártalanítás.
+
+Az Eht. 96. § (1) bekezdésének utolsó mondata egyrészt már hatálytalan jogszabályra hivatkozik, másrészt a Polgári Törvénykönyvhöz képest önálló normatartalommal nem is rendelkezik.
+
+Az Eht. 96. § (2) bekezdésének utolsó mondata önálló normatartalommal azért nem rendelkezik, mert mind a szolgáltatót, mind az ingatlantulajdonost megilleti a szerződési szabadság, így - amíg az jogszabályba nem ütközik - szabadon állapodhatnak meg bármiben. A rendelkezés ugyanakkor azt a téves látszatot kelti, mintha az eredetinél jobb minőségű helyreállítás jogalkotói elvárás lenne. Ezért az „eredetinél jobb minőségben való helyreállításra” vonatkozó kifejezett rendelkezés törlésre kerül.
+
+Az Eht. 188. § 27/a. pontja az Irányelv 2. cikk 1. és 2. pontjaival összhangban állapítja meg a fizikai infrastruktúra fogalmát, amely nem azonos a közműhálózat fogalmával, amelyet közvetetten az Eht. 188. § 33/a. pontja definiál.
+
+Az Eht. 188. § 33/a. pontja az Irányelv 2. cikkének 1. pontjával összhangban állapítja meg a hálózatüzemeltető fogalmát.
+
+Az Eht. 188. § 80/a. pontja az Irányelv 2. cikkének 3. pontjával összhangban állapítja meg a nagysebességű elektronikus hírközlő hálózat fogalmát, és egyben az Eht. 94. §-a új rendelkezéseinek a hatályát.
+
+A 3. §hoz
+
+Az Eht. 94. § (3) bekezdésének módosítását az indokolja, hogy a helyi önkormányzat is lehet a fizikai infrastruktúra tulajdonosa. Ebben az esetben rá is e minőségében indokolt alkalmazni az Eht. szabályait, míg ha egyébként ingatlantulajdonosként válik érintetté a szélessávú internetkapcsolatot biztosító infrastruktúrához szükséges beruházásban, úgy a tulajdoni formák egyenrangúsága elve alapján rá az Eht. 95. §-a szerinti eljárás szabályait indokolt alkalmazni.
+
+Az Eht. 94. § (5) bekezdésének módosítása technikai pontosítást szolgál.
+
+Az Eht. 95. § (3) bekezdésének módosítása lehetővé teszi, hogy a tulajdonosi hozzájárulás pótlására irányuló hatósági döntés iránti kérelem a már megindult létesítési engedélyezési eljárásokban is előterjeszthető, illetve elbírálható legyen.
+
+A 4. §-hoz
+
+A rendelkezés az uniós jogi aktusoknak való megfelelést szolgálja.
+
+Az 5. §-hoz
+
+Az Eht. 94. § (3) bekezdés módosításának a célja, hogy az Eht. 95. § (2) bekezdésében deklarált nyilvános elektronikus hírközlési szolgáltatásokban megtestesülő közérdek érvényesülését még jobban elősegítse.
+
+-----STARTING---POINT---VEGE---
+
+A 6. §-hoz
+
+A hatályba léptető rendelkezést tartalmazza.
+
+A 7. §-hoz
+
+Sarkalatossági záradék.

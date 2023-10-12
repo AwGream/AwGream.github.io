@@ -1,0 +1,557 @@
+2017. évi CXXIX. törvény indokolása
+
+a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény, valamint az azzal összefüggő egyes törvényi rendelkezések módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az Országgyűlés 2016. december 6-án elfogadta az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényt (a továbbiakban: Ákr.), amely a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) helyébe lépve tölti be a hatósági eljárásokra vonatkozó általános eljárásjogi kódex szerepét. Az Ákr. hatálybalépésének időpontja 2018. január 1-je. Az új eljárási kódex - a szintén 2018. január 1-jével hatályba lépő, a közigazgatási perrendtartásról szóló 2017. évi I. törvénnyel (a továbbiakban: Kp.) és a polgári perrendtartásról szóló 2016. évi CXXX. törvénnyel (a továbbiakban: új Pp.) együttesen - rendszerszerűen megújítja, paradigmatikus váltásokat eredményezve igyekszik biztosítani a közigazgatás törvényes működését, és az ügyfelek tisztességes eljáráshoz való jogának érvényesülését. E paradigmatikus váltások egyike, hogy - a Ket. szabályozási logikájával szemben, amely egyes speciális eljárások tekintetében teljes körű eltérést engedve egyfajta szubszidiáriusan alkalmazandó kódexként tételezte magát - az Ákr. ilyen eltérést nem enged, és egyes - az Ákr. 8. § (1) bekezdésében tételesen megjelölt - eljárások tekintetében, amelyek jellegüknél fogva olyan sajátos szabályrendszer alapján érvényesülnek, amelyek nem rendezhetők egy általános eljárási törvény minden más eljárásra is irányadó rendjébe, úgy rendelkezik, hogy az Ákr. hatálya nem terjed ki ezekre az eljárásokra. Az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvény 522. §-a folytán, amely az Ákr. 8. § (1) bekezdését egy e) ponttal egészíti ki, az ilyen „kivett” eljárások közé tartozik - a szabálysértési eljárás, a választási eljárás, a népszavazás kezdeményezése és a népszavazási eljárás, az adó- és a vámigazgatási eljárás, a menekültügyi és idegenrendészeti, valamint az állampolgársági eljárás mellett - a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvényben (a továbbiakban: Tpvt.) szabályozott versenyfelügyeleti eljárás is.
+
+Abból következően, hogy immár 2018. január 1-jétől a versenyfelügyeleti eljárásokra - azaz a Tpvt. III-V. Fejezetében foglalt rendelkezések megsértésének megállapítására, valamint a vállalkozások összefonódásának a Tpvt. szerinti vizsgálatára irányuló, valamint a Gazdasági Versenyhivatal hatáskörébe utalt egyéb hatósági eljárásokra, így mindenekelőtt 1/2003/EK tanácsi rendelet alapján, illetve a 139/2004/EK tanácsi rendelet alapján a tagállami versenyhatóság hatáskörébe tartozó ügyekben, továbbá a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény (a továbbiakban: Fttv.) vagy a kereskedelemről szóló 2005. évi CLXIV. törvény 7. §-ának megsértése miatti ügyekben - eltérő törvényi szabályozás hiányában még háttérszabályként sem vonatkoznak majd az Ákr. rendelkezései, szükségessé vált a Tpvt. eljárási szabályainak ehhez az új szabályozási helyzethez igazítása, és az eddig a Ket. szabályozási rendszeréhez igazodóan kialakított szabályrendszernek az átalakítása.
+
+A fentebb jelzettek szerint ugyanakkor 2018. január 1-jével a közigazgatási perekre vonatkozó szabályok jelentős átalakítása is megtörténik, amelyek ugyanakkor már semmilyen módon nem tesznek kivételt a versenyfelügyeleti eljárások tekintetében, ami megint csak a Tpvt. vonatkozó szabályainak kiigazítását teszi szükségessé. Ráadásul a Tpvt. II. Fejezetében foglalt anyagi jogi szabályok érvényesítése polgári peres útra tartozik, amelyre vonatkozóan - csakúgy mint a versenyjogi jogsértéssel okozott károk megtérítése iránti perek tekintetében - a Tpvt. hatályos szabályai a hatályos polgári perrendtartáshoz képest eltérő, speciális szabályokat állapítanak meg; az új Pp. hatálybalépése miatt e szabályok módosítása is szükségessé válik.
+
+Mivel ilyen módon 2018. január 1-jéig minden hatósági eljárásjogi és közigazgatási perjogi, illetve általános perjogi tárgyú, illetve ilyen jellegű Tpvt.-beli rendelkezést hozzá szükséges igazítani a hatósági eljárásjog és perjog új szabályozási rendszeréhez, a versenyfelügyeleti eljárás, illetve általában a speciális versenyjogi eljárások hajóját ezen időpontig az eljárásjogi reformok által felkorbácsolt tengeren el kell vezetni a biztonságos kikötőbe.
+
+Indokolt, hogy - belső összefüggéseikre is tekintettel - a szükséges kiigazításokra ne egy ún. salátatörvényben, hanem az ilyesfajta speciális versenyjogi eljárási szabályoknak egységesen helyt adó Tpvt.-t átfogóan módosító külön törvényben kerüljön sor.
+
+A jelen törvény célja tehát mindezen - a Tpvt. szabályrendszerét átfogóan érintő kiigazítások - egységes kezelése. Ennek során alapvetően és főszabályként nem kerül sor új versenyjogi jogintézmények bevezetésére.
+
+A kitűzött cél az, hogy - elsődlegesen a versenyfelügyeleti eljárásokra figyelemmel - az eddigi szabályozási keretben tételezett, a versenyjogi rendelkezések tényleges, hatékony és eredményes érvényesítését szolgáló eljárási szabályok rendszere az új eljárási szabályrendszer keretében is a jelenlegivel egyezően tényleges és hatékony jogérvényesítést lehetővé tevő módon megőrzésre kerüljön, elkerülendő, hogy e téren bármiféle törés következzen be az eljárásokban, de biztosítva egyúttal, hogy az eljárásjogi reformtól remélt kedvező fejlemények e területen is a lehető legnagyobb mértékben érvényesülhessenek. Az új szabályozási rezsim ugyanakkor alkalmas lesz arra, hogy az e téren a jövőben esetlegesen bekövetkező, az európai uniós jogból vagy nemzetközi kötelezettségből eredő bármilyen speciális versenyjogi eljárási szabályozási szükséglet esetén olyan módon lehet majd az eljárási szabályokat alakítani, hogy ahhoz az Ákr. általános szabályrendszerét ne kelljen módosítania a jogalkotónak.
+
+E vonatkozásban röviden szükséges utalni arra is, hogy a versenyfelügyeleti eljárás az európai uniós jogrendbe rendkívüli módon beágyazott, részben onnan eredő sui generis jogintézményekkel, fogalmakkal, eljárási logikával folytatott eljárás. A magyar versenyhatóság egyben az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz.) 101., illetve 102. cikkében foglalt tilalmakat is érvényesítő uniós versenyhatóságként, ezzel összefüggésben a többi tagállam versenyhatóságaival és az Európai Bizottsággal az eljárásai során is szorosan együttműködve köteles eljárni, az európai uniós versenyszabályok tényleges érvényesítésének biztosítása pedig olyan tagállami kötelezettség, amelynek megvalósulását eljárási szabály nem csorbíthatja. Ha emellett azt is figyelembe vesszük, hogy a versenyfelügyeleti eljárás - az Emberi Jogok Európai Bíróságának joggyakorlata és az Alkotmánybíróság 30/2014. (IX. 30.) AB határozatában is megerősítettek szerint - számos tekintetben határozott büntetőjogias vonásokat tartalmazó közigazgatási hatósági eljárás, amelyben kiemelten érvényre kell juttatni a tisztességes eljárást garantáló eljárásrendet, ugyanakkor az eljárás alapvetően hivatalbóli, szigorú törvényi tilalmak érvényesítését szolgálja, rendszerint nem együttműködő, arra kevésbé ösztönzött ügyfelekkel szemben lefolytatott eljárás, nem nehéz belátni, hogy az eljárás eredményessége és hatékonysága - a versenyjogi rendelkezések tényleges érvényesülésére vonatkozó európai uniós jogi követelményre is figyelemmel - ezen szigorú eljárásjogi garanciák mellett számos sajátos, csak erre az eljárástípusra jellemző megoldást igényel jelenleg és a jövőben is.
+
+Fontos ezzel kapcsolatban említeni, hogy bármiféle újabb, kifejezetten a versenyjogi eljárási szabályokat érintő, érdemi reformokat célzó jogalkotással indokolt bevárni a jelenleg az Európai Unióban jogalkotási eljárás tárgyát képező, a tagállami versenyhatóságok helyzetének a hatékonyabb jogalkalmazás és a belső piac megfelelő működésének biztosítása céljából történő megerősítéséről szóló irányelvjavaslatról való tárgyalások lezárultát.
+
+A közigazgatási hatósági eljárási szabályozási konstrukció változásából, a versenyfelügyeleti eljárás kivett jellegéből adódó - nagyszámú - kiigazítás, a szabályozás átalakítása kapcsán az alábbiakra szükséges külön kitérni.
+
+Ahogyan az új Pp. és a Kp. szabályrendszerében, egymáshoz való viszonyában, úgy az Ákr. hatálya alól kivett eljárások szabályozása tekintetében is - az Ákr. 8. §-ához fűzött indokolásból is kitűnően - alkalmazható, sőt alkalmazandó az a „bevett” kodifikációs gyakorlat, amely azon eljárások szabályozásakor, amelyek nem tartoznak az adott eljárási kódex hatálya alá, alkalmazni rendeli a kódex (jelen esetben az Ákr.) egyes rendelkezéseit vagy azok egyes részeit. Ez a jogalkotási megoldás növeli az adott eljárások átláthatóságát, hozzájárul az egységes és garanciáktól övezett eljárásrend kialakításához, ráadásul nem elhanyagolható módon az ilyen gyakorlat a norma-gazdaságosság szempontjából is hasznos, hiszen a külön jogszabályoknak nem kell teljesen új eljárási rendet felállítani. Végül a jelen esetben már csak azért is szükségszerű, mivel az Ákr. alóli kivettség nem jelenti az adott eljárás „légüres térbe” kerülését, annak továbbra is illeszkednie kell a jogrendszer egészéhez, és - különösen, ha figyelembe vesszük, hogy a versenyfelügyeleti eljárás tekintetében is alkalmazandó Kp. szabályai az Ákr. jogintézményeire és fogalmi rendszerére épülnek - kifejezetten a jogbiztonság ellen hatna, ha a hatósági eljárások valamennyi aspektusát tekintve sajátos, sui generis megoldásokat alkalmazna egy-egy ilyen kivett eljárásrend.
+
+Ennek megfelelőn azon általános eljárási jogi jogintézmények tekintetében, amelyeknek a versenyjogi jogalkalmazás során is érvényesülnie kell, illetve ahol jelen állás szerint nem szükséges eltérni az Ákr. rendelkezéseitől, a törvény az Ákr. rendelkezéseit rendeli alkalmazni. Mindebből következően a sajátos szabályokat megfogalmazó rendelkezésekben is szükséges az egyes az Ákr.-ben bevezetett fogalmi változások (pl. határozat véglegessége, zár alá vétel, lefoglalás stb.) átvezetése. Hasonlóképpen szükséges kiigazítani azon - jelenleg is a Ket.-től eltérést megfogalmazó - rendelkezéseket, amelyek tekintetében érdemi normatartalom-változás nem indokolt, ám a mögöttes szabályrendszer változása (adott esetben részben hatályon kívül kerülése) folytán az azonos normatartalom is csak úgy őrizhető meg, ha a hatályos szabályok módosításra kerülnek.
+
+Kifejezetten és sajátosan az Ákr.-től nagyobbrészt eltérően, ennek megfelelően teljes egészükben a Tpvt.-ben kerülnek szabályozásra a következő kérdéskörök: a kizárás szabályozása, az ügyfél fogalma, az adatok kezelése és az iratbetekintés, a tényállás tisztázása körébe eső legtöbb rendelkezés, az ügyintézési határidőre és a határidő-számításra vonatkozó szabályok, az eljárásindítás részletes szabályrendszere. Ezek tekintetében ugyanakkor javarészt a hatályos rendelkezések megőrzésre kerülnek.
+
+Mindezzel egyidejűleg valamennyi versenyfelügyeleti eljárás hivatalból indult eljárássá válik, és az eddig még fenntartott - gyakorlati jelentőséggel eddig sem igazán bíró -, a Tpvt. 25. §-a szerinti átmeneti irányításszerzés meghosszabbítása iránti kérelem megszűnik, e tárgyban is hivatalbóli eljárásban dönt majd a versenyhatóság, ha szükséges.
+
+A Kp. és az új Pp. hatálybalépésével összefüggésben csak kisebb terminológiai jellegű, illetve a szabályok illeszkedését segítő korrekciókra, az új kódexekben foglaltak nyomán keletkezett felesleges átfedések kiiktatására kerül sor.
+
+A Tpvt. majd minden eljárási rendelkezését érintő módosítás arra is alkalmat ad, hogy a rendelkezések jobb áttekinthetősége érdekében a törvény struktúrája, címrendje is bizonyos mértékig kiigazításra kerüljön, így az európai uniós versenyjogi eljárásokra vonatkozó speciális szabályok a törvény végéről az érintett eljárási rendelkezéseknél, azok után kerülnek elhelyezésre. Ezzel megszűnik a magánjogi jogérvényesítésre vonatkozó - egyre kiterjedtebb - szabályrendszernek az egyéb eljárási rendelkezések közé ékelődése is, és valamennyi hatósági eljárási rendelkezés egy csoportban kerül elhelyezésre. Végül a törvény záró rendelkezései közül kikerülnek a Gazdasági Versenyhivatal által indítható speciális perekre vonatkozó szabályok. Fontos ugyanakkor, hogy ez a szerkezeti átalakítás a szabályok érdemi normatartalmának megőrzése, azoknak csak a legszükségesebb esetekben való kiigazítása mellett történik.
+
+A fentiekben bemutatott, alapvetően az eljárásjogi keretrendszerhez igazítás miatt szükséges, a hatályos eljárásjogi szabályok megőrzését célzó, az anyagi jogi rendelkezések módosításától pedig kifejezetten tartózkodó szabályozási tartalom mellett a Tpvt. átfogó módosítása módot nyújt arra, hogy egyes, a jogalkalmazás során felmerült pontosító, a törvény koherenciáját erősítő kiigazításokra is sor kerüljön. Ezek közül az alábbiakat érdemes kiemelni.
+
+Az európai uniós szabályrendszerhez közelítés érdekében, a vállalkozások számára kiszámíthatóbb szabályozási környezet megteremtése céljából a törvény szerint az eddigi ún. de minimis piaci részesedési küszöb tekintetében elválik egymástól a horizontális (versenytársak közötti) és a vertikális (nem versenytársak közötti) megállapodásokra vonatkozó küszöbszám, és az utóbbiak tekintetében 15 százalékban, azaz a jelenleginél kedvezőbb szinten, egyben az uniós szabályokhoz igazodó módon kerül szabályozásra.
+
+Új eljárástípusként jelenik meg a törvényben, arra az esetre, amikor valószínűsíthető, hogy a hatóság összefonódást tudomásul vevő, engedélyező vagy kötelezettségvállalást elfogadó határozata az ügyfél félrevezető magatartásának volt a következménye, az e visszaélést feltáró önálló versenyfelügyeleti eljárás, amely eljárás végén kerülhet sor a jelenleg is a törvényben foglalt határozat-visszavonás jogkövetkezményének alkalmazására. Az önálló eljárás keretében történő vizsgálat és visszavonás az ügyfeleknek nagyobb garanciát, a hatóságnak pedig erősebb jogosítványokat ad, így pl. érdemi bírság kiszabására is lehetőséget teremt.
+
+Az ügyfelek számára kedvező módon az eddigi szabályozáshoz képest újításként jelenik meg, hogy a törvény szerint a kiszabott bírság, egyéb pénzfizetési kötelezettség vonatkozásában nem csak a határozatban lesz módja az eljáró versenytanácsnak fizetési kedvezményt engedni, hanem - a törvényben előírt feltételek teljesülése esetén - azt követően is (a teljesítési határidő lejárta előtt minden esetben, azt követően pedig akkor, ha a végrehajtás elrendelésére még nem került sor).
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1., 6., 10., 17., 63., 66., 72. §-hoz
+
+A Tpvt.-nek az időközben történt módosítások nyomán bekövetkezett jelentős tartalmi kibővülésére figyelemmel, a törvény jobb áttekinthetősége érdekében újrastrukturálja a rendelkezéseket, és az újabb jogszabály-szerkesztési követelményeknek megfelelően címmel látja el az egyes részeket.
+
+A 2. §-hoz
+
+A törvény közelíti a de minimis szabályozást az európai uniós szabályozáshoz. Jelenleg eltér a de minimis szabály alól kivett megállapodások körének meghatározása, valamint az is, hogy a Tpvt. egységesen, együttes 10%-ban határozza meg a csekély jelentőségű megállapodásokra vonatkozó piaci részesedési küszöböt. Az Európai Bizottság közleményeiben következetesen magasabb piaci részesedést alkalmaz a vertikális (15%), mint a horizontális (10%) megállapodások tekintetében, mivel az előbbieket jellemzően kevésbé versenytorzító hatásúnak tekinti.
+
+Az európai uniós joggal való összhang megteremtése önmagában is növeli a jogbiztonságot, mivel így kizárható, hogy pusztán a tagállamok közti kereskedelem érintettsége miatt eltérően minősüljön egy megállapodás; másrészt, a piaci versenyre eleve csekélyebb hatást gyakorló vertikális megállapodások esetén indokolt magasabb piaci részesedés mellett is lehetővé tenni a de minimis kivétel alkalmazását. Ezzel érdemben csökkennek az alacsony piaci részesedéssel bíró vállalkozások versenyjogi megfeleléssel kapcsolatos terhei.
+
+A törvény a horizontális megállapodás fogalmi körébe sorolja a lehetséges versenytársakkal létrejött megállapodást is, összhangban az európai uniós jogi rendelkezésekkel.
+
+A 3. §-hoz
+
+A Tpvt. 24. § (3) bekezdésében a törvény - a pénzügyi ágazat intézményi változásaira figyelemmel - aktualizálja az egyes vállalkozástípusok szempontjából a nettó árbevétel helyett figyelembeveendő bevételeket. A rendelkezés célja, hogy azon vállalkozások esetében, ahol az adott vállalkozástípusra nézve irányadó számviteli szabályok szerint nem a nettó árbevétel a releváns teljesítmény-mutató, meghatározza azt a mutatót, ami megfelelően kifejezi az adott vállalkozástípus piaci súlyát.
+
+A 4. §-hoz
+
+A törvény alapján a versenyhatóságnak a jövőben nem lesz kérelemre induló eljárása. Az átmeneti irányításszerzés csak egyéves időtartamra mentesül a bejelentési kötelezettség alól, ha a továbbértékesítés egy éven belül mégsem valósul meg, az összefonódást - legkésőbb az egyéves átmeneti idő lejártától számított tizenöt napon belül - be kell jelenteni a Gazdasági Versenyhivatalnak. A bejelentés elmulasztása esetén a 24. § (1) bekezdése szerinti küszöbszámokat teljesítő ilyen összefonódás a 29. § szerinti tilalomba ütközően végrehajtott összefonódásnak minősül, az ehhez kapcsolódó jogkövetkezményekkel.
+
+Az 5. §-hoz
+
+Az Ákr. terminológiájának megváltozására figyelemmel történő, valamint jogszabályszerkesztési korrekciók. A határozat visszavonásának ez a speciális esete az Ákr.-ben (115. § és 120. §) szabályozott és a Tpvt. 80/I. §-ában a versenyfelügyeleti eljárásban is alkalmazandóként felhívott visszavonási lehetőségek mellett élő további lehetőség. A visszavonási okot jelentő félrevezető tényközlés megállapítására és ez alapján a határozat visszavonására a 67. § (7) bekezdés b) pontja alapján indított külön versenyfelügyeleti eljárásban kerül sor; a határozat visszavonása - a 76. § (1) bekezdés b) pontja szerinti döntés - esetén az eljáró versenytanács a 78. § (1) bekezdés f) pontja szerinti jogkövetkezményt alkalmazhatja, a vizsgáló pedig a 67. § (8) bekezdése alapján végzéssel elrendeli az összefonódás újbóli vizsgálatát.
+
+A 7. §-hoz
+
+A rendelkezések nem újak, hanem a rendszertanilag inkább ide, a Hivatal alapfeladatainak meghatározása körébe tartozó rendelkezések kerültek áthelyezésre. A 33. § (2a) bekezdés a hatályos 91/B. §-nak, a (2b) bekezdés a hatályos 58. § (4) bekezdésének felel meg.
+
+A 8. §-hoz
+
+A Tpvt. 33/A. § (2) bekezdésében a törvény a versenyhatóság intézményi függetlensége alátámasztására az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 2. § (2) bekezdésének mintájára állapítja meg a Gazdasági Versenyhivatal költségvetésével kapcsolatos szabályokat. Az Európai Bizottság COM(2017) 142 végleges számú, a tagállami versenyhatóságok helyzetének a hatékonyabb jogalkalmazás és a belső piac megfelelő működésének biztosítása céljából történő megerősítéséről szóló irányelvjavaslata szerint a tagállamok közötti hatékony és eredményes együttműködéshez és információcseréhez biztonságos infrastruktúrára van szükség. Az irányelvjavaslat III. fejezete a tagállami versenyhatóságok függetlenségére és erőforrásaira vonatkozik, biztosítva a függetlenséghez szükséges garanciákat. A cél: megvédeni a tagállami versenyhatóságok vezetőit és alkalmazottait a külső befolyásolástól, hogy ezektől mentesen legyenek képesek ellátni feladataikat és gyakorolni hatásköreiket. Jelen törvény ebbe az irányba tett lépés, összhangban más autonóm államigazgatási szervek szabályozásával is.
+
+A Tpvt. 33/A. § (3) bekezdésének szövege gazdálkodási szempontból került pontosításra; a többletbevételek és a szabad maradvány felhasználásáról az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 7. § (1) bekezdés b) pontja alapján az irányító szerv dönt - a Gazdasági Versenyhivatal speciális jogállása miatt az elnök.
+
+A 9. §-hoz
+
+Figyelemmel arra, hogy a vizsgálói munka összetettsége miatt az e területen történő betanulás legalább egy évet vesz igénybe (amit a Kttv. 46. §-a szerinti legfeljebb hathónapos próbaidő nem tud biztosítani), a törvény alapján a gyakornok vagy fogalmazó besorolású - tehát gyakorlatilag pályakezdő - vizsgáló közszolgálati jogviszonya egy év határozott időre szól, s ezt lehet azután határozott idő lejártát megelőzően határozatlan idejű jogviszonyra módosítani.
+
+A 11. §-hoz
+
+A Ket.-et felváltó Ákr.-re, valamint a Tpvt. ezzel összefüggő módosítására tekintettel a törvény újra megállapítja az ágazati vizsgálatra a versenyfelügyeleti eljárás, illetve a közigazgatási hatósági eljárás szabályai közül alkalmazandóakat, és az ágazati vizsgálat eljárási szabályozásában is átvezeti az Ákr. terminológiájára, jogorvoslati rendszerére, illetve a Kp.-re tekintettel szükséges módosításokat.
+
+A 12. §-hoz
+
+A Tpvt. Ákr.-rel összefüggő módosítására tekintettel a törvény újra megállapítja a bejelentéssel és a panasszal kapcsolatos eljárásra a versenyfelügyeleti eljárás szabályai közül alkalmazandóakat. Új elem, hogy az igazgatási szünet időtartama a bejelentéssel kapcsolatos eljárás ügyintézési határidejébe sem számít be.
+
+A hatályos 64/A. § (3) bekezdésének mintájára a törvény kifejezetten biztosítja az iratátemelés lehetőségét a bejelentéssel és a panasszal kapcsolatos eljárásokban is. Erre azért van szükség, mert gyakori, hogy ugyanazon vállalkozói magatartással szemben különböző fogyasztók, illetve versenytársak élnek panasszal, illetve bejelentéssel, ezért célszerű a korábbi jelzés kivizsgálása során keletkező iratokat felhasználhatóvá tenni a későbbi eljárásokban is, kiiktatva az ismételt beszerzés szükségességét. Előfordulhat az is, hogy ugyanazon vállalkozás különböző kereskedelmi gyakorlataival szemben érkezik be panasz, illetve bejelentés; a vállalkozásra vonatkozó, korábban beszerzett adatok, iratok átemelése a későbbi eljárásba ebben az esetben is indokolt. Végül előfordulhat, hogy adott termék- vagy magatartástípusra vonatkozóan feltárt korábbi információ átemelése segítheti a hatékonyabb eljárásvezetést.
+
+A 13. §-hoz
+
+A Ket.-et felváltó Ákr.-re tekintettel a törvény újra megállapítja a bejelentéssel kapcsolatos eljárásra a közigazgatási hatósági eljárás szabályai közül alkalmazandóakat, továbbá elvégzi az Ákr. terminológiájára, jogorvoslati rendszerére, illetve a Kp.-re tekintettel szükséges módosításokat.
+
+A törvény alapján a bejelentéshez sem kérhető olyan okirat vagy más irat csatolása, amely az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján beszerezhető, valamint olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
+
+A törvény meghatározza az ügyintézési határidő meghosszabbítására jogosultat, figyelemmel a Ket. erre vonatkozó háttérszabálya kihullására.
+
+A Tpvt. 43/H. § (11) és a (12) bekezdése nem új rendelkezések, hanem a bejelentéssel kapcsolatos eljárás egy helyen történő szabályozása érdekében a hatályos 91/E. § (1), (2) és (4) bekezdésében, valamint a 91/K. § (2) bekezdésében foglalt rendelkezések bejelentéssel kapcsolatos eljárásra vonatkozó részeinek áthelyezése. A (12) bekezdésben a törvény a bejelentés alapján vizsgálat elrendelésének mellőzése helyett a bejelentés alapján indult eljárást megszüntetését írja elő, igazodva a (7) bekezdésben szabályozott intézkedéstípusokhoz.
+
+A 14. §-hoz
+
+A törvény egyértelművé teszi, hogy az összefonódás-bejelentés benyújtására szolgáló űrlap közzétételére a Gazdasági Versenyhivatal honlapján kerül sor.
+
+A törvény alapján az összefonódás-bejelentéshez sem kérhető olyan okirat vagy más irat csatolása, amely az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján beszerezhető, valamint olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
+
+A 15. §-hoz
+
+A Ket.-et felváltó Ákr.-re, valamint a Tpvt. ezzel összefüggő módosítására tekintettel a törvény újra megállapítja az összefonódás-bejelentés elintézésével kapcsolatos eljárásban a versenyfelügyeleti eljárás, illetve a közigazgatási hatósági eljárás szabályai közül alkalmazandóakat.
+
+A 16. §-hoz
+
+A törvény - az összefonódás-bejelentés elintézésével kapcsolatos eljárás sajátosságaira szabva - beépíti a törvénybe az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 31. § (3) bekezdését, amelyet a törvény eddig „megfelelően alkalmazandó”-ként hívott fel, figyelemmel arra is, hogy az összefonódás-bejelentés elintézésével kapcsolatos eljárás nem kérelemre indult eljárás.
+
+A 18. §-hoz
+
+A törvény - az Ákr. 8. § (1) bekezdés e) pontjában foglalt kivételi szabály egyértelmű alkalmazhatósága érdekében is - meghatározza a versenyfelügyeleti eljárás fogalmát, valamint rögzíti a Gazdasági Versenyhivatal hatáskörét.
+
+A 19. §-hoz
+
+A hatályos Tpvt. 46. §-nak megfelelő rendelkezés.
+
+A 20. §-hoz
+
+A Tpvt. új 46. §-ában a törvény - a Kp.-nek az új Pp.-hez való viszonya meghatározásához hasonlóan - rögzíti, hogy a versenyfelügyeleti eljárást alapvetően a Tpvt. szabályozza, és arra a közigazgatási hatósági eljárás általános szabályait csak akkor kell alkalmazni, ha azt a Tpvt. kifejezetten előírja. Majd - a jogrendszer koherenciája, átláthatósága és a normagazdaságosság szempontjaira figyelemmel - a (2) bekezdésben felhívásra kerülnek az Ákr. egyes általános érvénnyel alkalmazható szabályai [Ákr. 1-6. §, 13. §, 14. §, 17. §, 18. §, 25. §, 29-32. §, 35-38. §, 44. §, 46-48. §, 61. §, 78. §, 80. § (1) bekezdés, 81. §, 82. §, 90. §, 91. §], azon kérdések vonatkozásában, amelyeket nem indokolt a versenyhatóság eljárására nézve önálló eljárási rendet alkotni. A (3) bekezdés - a hatályos 44. § (2) bekezdésének megfelelően - értelmezi az elsőfokú és a másodfokú döntést a versenyhatóság felépítéséhez igazodóan.
+
+A 21. §-hoz
+
+A törvény önálló rezsimként szabályozza a kizárást a versenyfelügyeleti eljárásban, mindazonáltal összhangban az Ákr. 22-24. §-ában foglalt szabályok szellemével.
+
+A 22. §-hoz
+
+A törvény rendelkezik arról is, hogy a kizárás kérdésében hozott döntésben dönteni kell a kizárt személy által korábban végrehajtott eljárási cselekmények esetleges megismétléséről is. Ha a kizárási okot az ügyfél jelentette be, a kizárásról végzésben kell dönteni, és azt az ügyféllel is közölni kell.
+
+A 23. §-hoz
+
+A törvény megőrzi a hivatalból indított versenyfelügyeleti eljárás sajátosságaira tekintettel lévő önálló ügyfélfogalmat. A módosítás egyúttal egyértelművé teszi, hogy az, akit a vizsgáló, illetve az eljáró versenytanács az eljárásba utólag von be, szintén ügyfélként kerül bevonásra, azaz az ügyféli minőség nincs közvetlenül az eljárás megindulásával összefüggésben, az eljárás megindulása ugyanis az adott magatartás vizsgálatával megtörténik.
+
+A 24. §-hoz
+
+A hatályos rendelkezés újraszabályozása részint a kérelemre induló eljárás megszüntetésével függ össze, részint pedig azzal, hogy a 60/A. § c) pontjában szabályozott okafogyottság lefedi az itt szabályozott eljárás-megszüntetési okot, az hatályon kívül helyezhető. A törvény egyértelművé teszi azt is, hogy az eljárásba történő bevonás - összhangban a Tpvt. 72. § (1) bekezdésében foglalt szabályozással - a vizsgáló feladata.
+
+A 25. §-hoz
+
+A törvény a Tpvt. 53/A. §-ában önállóan szabályozza a kapcsolattartást, és - szemben az Ákr. 26. § (2) bekezdésével - nem teszi lehetővé, hogy a kapcsolattartás formáját az ügyfél válassza meg. Ennek oka, hogy a versenyhatóság hivatalból indított eljárásaiban e jellegnél fogva a nem együttműködő ügyfelek a kapcsolattartás módjának megválasztásával az eljárás eredményességét ne hátráltathassák.
+
+A Tpvt. 53/B. §-ában a törvény - a 2014. július 1-jétől a hatályos 66. §-ban bevezetett nyelvhasználati szabályokhoz képest - kevésbé megengedő, egyben életszerűbb és a gyakorlatban is fenntarthatóbb szabályokat állapít meg; a jövőben kizárólag az okiratok fogadhatók be az eljárás hivatalos nyelvétől eltérő nyelven, és azok is kizárólag angol nyelven. Az elfogadható nyelvek köre megváltoztatásának oka részint az, hogy a gyakorlatban alapvetően az angol nyelvű okiratok benyújtása volt jellemző; másfelől - figyelemmel arra is, hogy az iratok fordításának időtartama az ügyintézési határidőre vonatkozó szabályok szigorításával immár beszámít az ügyintézési határidőbe - általánosan használt, az ügyintézők - és adott esetben a többi ügyfél - által főszabályként ismert nyelvként az angol határozható meg.
+
+A rendelkezés áthelyezését a Tpvt. szabályozásának átláthatóbb strukturálása indokolja. A törvény - a nyelvhasználati szabályok egységes elhelyezése érdekében ehelyütt rögzíti a főszabályt is, miszerint a versenyfelügyeleti eljárás hivatalos nyelve a magyar. Az önálló szabályozást indokolja, hogy a versenyfelügyeleti eljárás sajátosságaira figyelemmel az Ákr. további nyelvhasználati szabályai a versenyfelügyeleti eljárásban nem relevánsak. A tolmácsra ugyanakkor a törvény az Ákr. rendelkezéseit rendeli (73. §) alkalmazni.
+
+A 26. §-hoz
+
+Az adatkezelés egységes szabályozása, illetve az eljárási szabályozás jobb strukturálása érdekében a törvény ehelyütt szabályozza újra a hatályos 64/A. § rendelkezéseit, kisebb szövegezési korrekciókkal; továbbá ehelyütt rendezi a személyes adatok megismerésére és kezelésére vonatkozó jogosultságot is.
+
+A 27. §-hoz
+
+A zárt adatkezelésnek a jogrendszerben egységes szabályozása érdekében a törvény a Tpvt. 54/A. § (1) bekezdésében szabályozza az ügyfél és az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését. Mindazonáltal a törvény - megtartva a Ket. koncepcióját e tekintetben - csak kérelemre, és abban a hátrányos következmény megfelelő valószínűsítése esetén teszi lehetővé az adatok zártan kezelését, a hivatalbóli fellépés a versenyfelügyeleti eljárás sajátosságaira tekintettel nem indokolt. (Ez nem érinti a kiskorú, a cselekvőképtelen és a cselekvőképességében részlegesen korlátozott nagykorú személy védelmére vonatkozó rendelkezések érvényesülését.)
+
+A Tpvt. 54/A. § (4) bekezdésében - a hatályos 54. §-ban foglalt rendelkezés újraszabályozása során - a törvény lehetővé teszi, hogy a zárt adatkezelésről jogi személy esetében is dönthessen a vizsgáló is.
+
+A 28. §-hoz
+
+A módosítás az Ákr. fogalomrendszeréhez igazodó terminológiai pontosítás.
+
+A 29. §-hoz
+
+A módosítás a hatósági eljárások jogorvoslati rendszerére, illetve a Kp.-re figyelemmel történő korrekciókat végez el a hatályos szövegen.
+
+A 30. §-hoz
+
+A módosítás az Ákr. terminológiájának megváltozására figyelemmel történő korrekciókat végez el a hatályos szövegen.
+
+A 31. §-hoz
+
+A törvény egy helyütt szabályozza az iratbetekintés során a másolatkészítési, illetve -kérési jogosultságot, illetve az azért fizetendő költségtérítésre történő utalást
+
+A 32. §-hoz
+
+A törvény megszünteti adat vagy irat szolgáltatására, illetve a nyilatkozattételre előírt határidő meghosszabbítása iránti kérelem egyszeri benyújthatóságára vonatkozó korlátot, és a többedszerre benyújtott kérelem érdemi elbírálását a vizsgálóra, illetve az eljáró versenytanácsra bízza, lehetővé téve a körülmények mérlegelését.
+
+A mulasztás igazolásának a jogrendszerben egységes szabályozása érdekében a törvény - a Tpvt.-ben külön nem szabályozott kérdésekben - megfelelően alkalmazni rendeli az Ákr. igazolási kérelemre vonatkozó rendelkezéseit (53., 54. §). Az igazolási kérelemről való döntésről szóló rendelkezés az Ákr. jogorvoslati rendszerére tekintettel került módosításra.
+
+A 33. §-hoz
+
+A törvény új eljárási szabályként előírja, hogy ha a magyarországi lakcímmel vagy székhellyel nem rendelkező ügyfél az első kapcsolatfelvétel alkalmával erre történő felhívás ellenére nem jelöl meg kézbesítési meghatalmazottat, a vizsgáló vagy az eljáró versenytanács - különösen ha az eljárás indokolatlan elhúzásának megakadályozása miatt szükséges, és az eljárás eredményes lefolytatását nem veszélyezteti - dönthet úgy, hogy a továbbiakban vele szemben hirdetményi közlésnek van helye mindaddig, amíg magyarországi lakcímmel vagy székhellyel rendelkező képviselőt vagy kézbesítési meghatalmazottat nem jelöl meg. A rendelkezés indoka, hogy a nem együttműködő eljárás alá vontnak a kapcsolattartástól elzárkózó magatartása ne vezethessen az eljárás ellehetetlenítéséhez.
+
+A döntések közlésére a törvény egyebekben az Ákr. rendelkezéseit (85-88. §) rendeli alkalmazni.
+
+A 34. §-hoz
+
+A kérelemre induló eljárás megszüntetésével összefüggő, illetve az Ákr. terminológiájának megváltozására figyelemmel történő korrekciók.
+
+A 35. §-hoz
+
+A törvény önálló rendszerben szabályozza az eljárás megszüntetésének okait, figyelemmel arra is, hogy az eljárást az eljáró versenytanács szüntetheti meg, vagy a vizsgáló is.
+
+A Tpvt. 60/A. § (1) bekezdés d) pontjában írt, az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárás megszüntetésére vonatkozó speciális eset megfelel a Tpvt. hatályos 60/A. § (1a) bekezdésében szabályozottnak.
+
+A Tpvt. 60/A. § (1) bekezdés a) pontjában írt megszüntetési ok az Ákr. 47. § (1) bekezdés f) pontjához hasonlóan szabályozza a hatásköri vitában a másik hatóság javára történt eldöntése esetét; a b) pont pedig a Ket. 31. § (1) bekezdés i) pontjában szabályozott, a bizonyítottság hiánya miatti megszüntetést őrzi meg, visszatérve a Tpvt. 2012. január 31-éig hatályos 71/A. §-a, illetve 72. § (1) bekezdés a) pontja szerinti szöveghez.
+
+A Tpvt. 60/A. § (1) bekezdés c) pontja szerinti, okafogyottság miatti megszüntetési ok megfelel a Ket. 31. § (1) bekezdés e) pontjának, illetve az Ákr. 47. § (1) bekezdés c) pontjának. Okafogyottság miatt kerül megszüntetésre a versenyfelügyeleti eljárás például jogutódlás esetén, ha a jogutód eljárásba vonása nem indokolt, vagy ha az eljárás nem a megfelelő vállalkozás ellen indult, ugyanakkor a megfelelő vállalkozás eljárásba történő bevonására nincs mód, vagy ha például a vizsgált összefonódásról az eljárás során kiderül, hogy a felek attól elálltak, vagy más okból az nem valósul meg.
+
+A 36. §-hoz
+
+A törvény a Tpvt. eljárási bírságra vonatkozó szabályait kiegészíti az eljárási kötelezettség önhibából történő megszegésére vonatkozó új bírságolási okkal. Egyúttal egyértelművé teszi azt is, hogy az okozott többletköltségek megtérítésére kötelezést - mint az eljárás akadályozásának további következményét - a vizsgáló vagy az eljáró versenytanács mindig elrendeli, akár az eljárási bírság kiszabása mellett, akár anélkül.
+
+Az összefonódás-bejelentésben a versenyhatóság félrevezetésének szankciója a jövőben nem eljárási bírság, hanem a Tpvt. 78. § (1) bekezdésének e) pontja alapján, az ennek megállapítására indított versenyfelügyeleti eljárásban kiszabható érdemi bírság.
+
+A Tpvt. 61. § (4) bekezdésének módosítása mérlegelési lehetőséget teremt - az eljárásvezetési megfontolások alapján - a napi összegben meghatározott eljárási bírság alkalmazása kérdésében. Előfordulhat ugyanis, hogy a napi összegben meghatározott eljárási bírság nem alkalmas betölteni a teljesítésre ösztönző funkciót. A törvény egyértelművé teszi továbbá, hogy napi összegű, a teljesítésre ösztönző eljárási bírság csak még nem teljesített eljárási kötelezettséghez kapcsolódóan szabható ki, egyébként az eljárási kötelezettség megsértését egy összegben kell szankcionálni.
+
+Hatályon kívül helyezésre kerül az a rendelkezés, amely az eljárási bírságot kiszabó végzést a kötelezett javára egyfajta méltányossági jogkörben is módosíthatóvá vagy visszavonhatóvá tette, mivel nem határozhatóak meg olyan objektív szempontok, amelyek mentén a méltányossági jogkör alkotmányossági garanciákkal övezve lenne gyakorolható.
+
+A törvény kiemeli a Tpvt. hatályos 61. § (3) bekezdésének utolsó mondatából és önálló bekezdésben - az (5) bekezdésben - szabályozza újra a 78. § (2) bekezdésének megfelelő alkalmazására történő hivatkozást, egyértelművé téve, hogy az alkalmazandó a napi összegben meghatározott eljárási bírság legmagasabb összegének számítására is.
+
+Az eljárási bírság egységes szabályozása érdekében a jövőben a Tpvt. szabályozza az eljárási bírság kiszabásánál figyelembe veendő szempontokat is.
+
+A 37. §-hoz
+
+A törvény - a normatartalom megőrzése mellett - újraszabályozza az igazgatási szolgáltatási díjra és az eljárási költségre vonatkozó rendelkezéseket. Ennek során elhagyásra kerülnek a kérelemre indult eljáráshoz kapcsolódó rendelkezések.
+
+A Tpvt. 62/A. § (3) és (4) bekezdésében a törvény az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárás sajátosságaihoz igazítva beépíti a Tpvt.-be az Itv. - eddig hivatkozás útján felhívott - 28. § (2) bekezdés b) pontját és 31. § (3) bekezdését.
+
+A Tpvt. 62/B. § (3) bekezdésében a törvény megállapítja az eljárási költség viselésére kötelezettet a 67. § (7) vagy (8) bekezdése alapján indított versenyfelügyeleti eljárásban felmerült eljárási költség tekintetében.
+
+Azon eljárási költség viselését, amelyet az eljárás résztvevője az eljárás során jogellenes magatartásával okozott, a Tpvt. 62/B. § (6) bekezdésében indokolt erre a résztvevőre telepíteni, elkerülendő, hogy az eljárás résztvevőinek visszaélésszerű magatartása - méltánytalanul - szintén a marasztalt ügyfél terhére essen.
+
+A törvény szabályozza továbbá a megkeresett szerv vagy személy eljárása során felmerült eljárási költségnek, valamint azon eljárási költségnek a viselését is, amelynek viselésére senki nem kötelezhető.
+
+Az eljárási költség viselésének - a versenyfelügyeleti eljárás sajátosságaira tekintettel lévő - önálló rendszerben történő szabályozása mellett - az eljárási költségnek a jogrendszerben egységes szabályozása érdekében - a törvény az eljárási költség meghatározására, az eljárási költség előlegezésére és az eljárási költség viseléséről való döntésre az Ákr. rendelkezéseit [Ákr. 124. §, 128. § (2)-(6) bekezdés, 129. §] rendeli alkalmazni.
+
+A 38. §-hoz
+
+A törvény a versenyfelügyeleti eljárásban eddig csak a Ket. 74. § (1) bekezdése körében alkalmazni engedett fizetési kedvezményre vonatkozó szabályok helyett - figyelemmel arra is, hogy az Ákr.-ből az erre vonatkozó szabályok mint anyagi jellegű szabályok kikerültek - újraszabályozza e jogintézményt és az ügyfelek számára kedvező módon az eddigi szabályozáshoz képest újításként lehetővé teszi, hogy az eljáró versenytanácsnak ne csak a határozatban legyen módja fizetési kedvezményt engedni, hanem - a törvényben előírt feltételek teljesülése esetén - azt követően is (a teljesítési határidő lejárta előtt minden esetben, azt követően pedig akkor, ha a végrehajtás elrendelésére még nem került sor).
+
+A 39. §-hoz
+
+A törvény újraszabályozza az ügyintézési határidőre vonatkozó rendelkezéseket.
+
+Az ügyintézési határidőnek a jogrendszerben egységes szabályozása érdekében a törvény a Tpvt. 63. § (1) bekezdésében rögzíti, hogy az ügyintézési határidő az eljárás megindulásának napján kezdődik.
+
+Az egyes eljárástípusokra irányadó ügyintézési határidőn a törvény nem változtat, csak elvégzi a törvény egyes rendelkezéseinek áthelyezése okán a hivatkozások megfelelő korrekcióját, valamint ügyintézési határidőt állapít meg a törvény által bevezetett új eljárástípusokban.
+
+Az ügyintézési határidő egységes szabályozása érdekében - a hatályos 70. § (6) bekezdéséből áthelyezve - a törvény a Tpvt. 63. § (4) bekezdésében szabályozza a versenyfelügyeleti eljárás szétválasztása esetén irányadó ügyintézési határidőt.
+
+A Tpvt. 63. § (5) bekezdésében a törvény - a Ket. 33/B. § (3) bekezdésének mintájára - szabályozza a versenyfelügyeleti eljárások egyesítése esetén irányadó ügyintézési határidőt.
+
+A törvény a Tpvt. 63. § (6) bekezdésében rendelkezik az eljárási cselekmény teljesítésére rendelkezésre álló határidőre vonatkozó külön törvényi rendelkezés hiányában irányadó - legfeljebb nyolcnapos - határidőről.
+
+Az ügyintézési határidőnek a jogrendszerben egységes szabályozása érdekében a Tpvt. 63. § (7) bekezdésében a törvény rögzíti, hogy az ügyintézési határidőn, illetve a döntés meghozatalára nyitva álló egyéb határidőn belül a döntés közlése iránt is intézkedni kell.
+
+A törvény a Tpvt. 63. § (8) bekezdésében - az eddig a Ket. 33. § (3) bekezdésében szereplő és háttérszabályként alkalmazandó rendelkezések átvételével - teljes körűen szabályozza az ügyintézési határidőbe be nem számító határidőket.
+
+Az ügyintézési határidő meghosszabbítására vonatkozó rendelkezéseken a törvény érdemben csak annyiban változtat, hogy szabályozza a törvény által bevezetett új eljárástípusokban történő határidő-hosszabbítást is.
+
+A törvény a Tpvt. 64/E. § (3) bekezdésében a szakértő kirendelésére az Ákr. rendelkezéseit rendeli megfelelően alkalmazni, aminek folytán a szakértői vélemény elkészítésére előírt határidőnek nem lesz felső határa [vö. Ákr. 71. § (1) bekezdés]. Az eljárásvezetés keretében így a vizsgáló, illetve az eljáró versenytanács szabadon határozza meg a szakértői vélemény elkészítésének határidejét, nincs ok e tekintetben merev törvényi keretek rögzítésére. A törvény ezért nem tartja meg a hatályos 63. § (6) bekezdését.
+
+A Tpvt. 63/A. § (1) bekezdése a hatályos 64. § (2) bekezdésének felel meg, a hivatkozások megfelelő korrekciója mellett. A törvény a hatósági bizonyítványra az Ákr. rendelkezéseit (94. §, 95. §) rendeli alkalmazni.
+
+A Tpvt. 63/A. § (2) bekezdése alapján a 67. § (7) bekezdése alapján indított eljárásban az ügyintézési határidő lejártát követően a határozat, illetve a hatósági bizonyítvány visszavonásának nincs helye. Ennek oka az az igény, hogy korlátozza a határozat visszavonásának ezen eseteiben is a határozat visszavonhatóságának időtartamát, figyelemmel arra is, hogy a visszavonásra irányuló versenyfelügyeleti eljárás megindítására egyebekben a 68. § (1) bekezdés d) pontja és e) alpontja - a versenypolitikai szempontok által indokolt - viszonylag hosszabb határidőt enged.
+
+A 40. §-hoz
+
+A törvény önállóan szabályozza a határidő számításának szabályait. A Tpvt. 64. § (3) bekezdése megőrzi a hatályos 63. § (7) bekezdésben foglalt, a 33/B. § szerinti igazgatási szünet be nem számítására vonatkozó szabályt, egyértelművé téve ugyanakkor, hogy az nem csak az ügyintézési határidő, hanem valamennyi, a versenyfelügyeleti eljárásra vonatkozó rész hatálya alá tartozó határidő tekintetében alkalmazandó.
+
+A 41. §-hoz
+
+A tényállás tisztázásának a jogrendszerben egységes szabályozása érdekében a törvény szabályozza a tényállás tisztázásának alapvető kereteit.
+
+A törvény a Tpvt. 64/B. § (2) bekezdésében szabályozza az ügyfél okirat vagy más irat bemutatására kötelezését. Ugyanakkor előírja azt is, hogy nem kérhető az ügyféltől olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
+
+Az iratnak a jogrendszerben egységes szabályozása érdekében a törvény a Tpvt. 64/B. § (7) bekezdésében szabályozza a felülhitelesítés előírásának lehetőségét.
+
+Az idézésnek a jogrendszerben egységes szabályozása érdekében a törvény a Tpvt. 64/C. §-ában az idézés általános szabályaira és az idézett személy megjelenési kötelezettségére az Ákr. rendelkezéseit (58. §, 60. §) rendeli megfelelően alkalmazni. Ami az idézés helyét illeti, e tekintetben a versenyfelügyeleti eljárás speciális szabályozást igényel, tekintettel egyrészt a versenyhatóság országos illetékességére, másrészt pedig arra, hogy az ügyfél nemritkán külföldi székhelyű vállalkozás. Erre tekintettel a törvény egyértelművé teszi, hogy a versenyfelügyeleti eljárásban a Gazdasági Versenyhivatal a székhelyére minden esetben idézhet.
+
+A Tpvt. 64/D. § (1) bekezdése a hatályos 64/B. § (5) bekezdésének felel meg azzal a kiegészítéssel, hogy a védett adat tekintetében - a minősített adat kivételével - a titoktartás alóli felmentést megadottnak kell tekinteni. Ez a rendelkezés egyértelmű eltérést jelent a tanúként való meghallgatásnak az Ákr. 66. § (2) bekezdés b) pontjában rögzített akadályától.
+
+A Tpvt. 64/D. § (2) bekezdésében a törvény az írásban történő tanúvallomás-tételt csak kérelemre teszi lehetővé.
+
+A Tpvt. 64/E. § (2) bekezdésében a törvény kifejezetten előírja az ügyfél szakértői vizsgálatban való együttműködési kötelezettségét.
+
+A tanúnak és a szakértőnek a jogrendszerben egységes szabályozása érdekében a törvény - a Tpvt.-ben külön nem szabályozott kérdésekben - megfelelően alkalmazni rendeli az Ákr. vonatkozó rendelkezéseit [66. § - kivéve (2) bekezdés b) pont -, 67. §, 71. §, 72. §].
+
+A 42. §-hoz
+
+A Tpvt. 65. §-ában a törvény végrehajtja a lefoglalás és a zár alá vétel Ákr.-ben történt újraszabályozására tekintettel szükséges módosításokat. Ennek keretében az (5) bekezdésben a törvény biztosítja a „távoli zár alá vétel” lehetőségét, ezzel az adatszolgáltatásra felhívásnál, illetve a lefoglalásánál erősebb jogosítványt teremtve arra az esetre, ha a zár alá veendő adathordozó nincs a helyszínen, annak érdekében, hogy azt (pontosabban az azon lévő adatokat) a végzés közlésének időpontjától a kötelezett ne is módosíthassa, illetve hogy egy esetleges módosítást - ami egyébként utóbb visszakövethető - szankcionálni lehessen.
+
+A zár alá vételnek és a lefoglalásnak a jogrendszerben egységes szabályozása érdekében a törvény - a Tpvt.-ben külön nem szabályozott kérdésekben - megfelelően alkalmazni rendeli az Ákr. vonatkozó rendelkezéseit [108-110. §, kivéve 108. § (2) bekezdés második mondat] azzal, hogy a védett adat tekintetében - a minősített adat kivételével - a titoktartás alóli felmentést a dolog birtokosa részére megadottnak kell tekinteni. Az Ákr. 108. § (2) bekezdése alapján ugyanis, bár a zár alá vétel érdekében a dolog birtokosát fel kell szólítani, hogy a dolgot adja át, nem kötelezhető a dolog átadására az, aki - a megtagadási okkal összefüggésben - a tanúvallomást megtagadhatja, vagy aki a védett adat tekintetében nem kapott felmentést a titoktartás alól. Ettől a szabályozástól tér el a törvény, hasonlóan a tanú tekintetében a Tpvt. 64/D. § (1) bekezdésében írt rendelkezéshez.
+
+A 43. §-hoz
+
+A vizsgálat elrendelésére vonatkozó rendelkezések újraszabályozása miatt a törvény megfelelően módosítja a hivatkozásokat a Tpvt. 65/A. § (1) bekezdésében; továbbá pontosítja a versenyhatóságnak a nem versenykorlátozó megállapodás vagy gazdasági erőfölénnyel való visszaélés miatti eljárásokban fennálló helyszíni kutatási jogosultságára vonatkozó szabályokat, kiegészítve azokat a hatóságnak a kötelezettségvállalással zárult versenyfelügyeleti eljárásban történt félrevezetése feltárására irányuló eljárással, továbbá az ügyfél félrevezető eljárásának feltárása esetén az érintett összefonódás, illetve magatartás ismételt vizsgálatára irányuló új eljárástípusokkal.
+
+A törvény a Tpvt. 65/A. § (3) bekezdését a közigazgatási nemperes eljárások jogrendszerbeli szabályozásának változásaihoz igazítja, és egy (3a) bekezdésben megállapítja a helyszíni kutatás bírói engedélyezésére irányuló közigazgatási nemperes eljárás további sajátosságait. A törvény nem tér ki külön arra, hogy ezen eljárásban bírósági titkár nem járhat el. Ennek oka hogy a Polgári perrendtartásról szóló 1952. évi III. törvény módosításáról és az egyes közigazgatási nemperes eljárásokban alkalmazandó szabályokról szóló 2005. évi XVII. törvény 2. §-ának 2018. január 1-jétől hatályos rendelkezései szerint a közigazgatási nemperes eljárásban a közigazgatási ügyben eljáró bíróság kérelemre végzéssel határoz, és e végzésre a közigazgatási perrendtartás ítéletre vonatkozó szabályait kell alkalmazni, ítéletet pedig a Kp. 11. § (2) bekezdése alapján bírósági titkár nem hozhat.
+
+A Tpvt. 65/A. § (7) bekezdésében a törvény a hatósági tanúra az Ákr. rendelkezéseit (79. §) rendeli alkalmazni, ennek érdekében - a jogszabály-szerkesztési követelményeknek megfelelően - tovább tagolja a helyszíni kutatás elvégzésére vonatkozó rendelkezéseket.
+
+A 44. §-hoz
+
+A törvény kiigazítja a védekezés céljából készült iratra vonatkozó szabályokat az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 13. §-ával bevezetett rendelkezésekre figyelemmel. Szükséges ugyanakkor ezzel kapcsolatban hangsúlyozni, hogy a védekezési jog gyakorlását célzó kommunikáció körébe (a büntetőügyekben a védelem ellátásához hasonlóan) nem vonható bármilyen - akár a jogszabályok értelmezésére, helyes alkalmazására vonatkozó - ügyvédi, jogi tanácsadás, hanem csak az olyan tevékenység minősülhet ilyennek, amely kifejezetten valamely jogsértés miatt közhatalmi eljárás keretében fenyegető joghátrány elkerülését célozza, ilyen eljárással konkrétan összefüggésbe hozható.
+
+A 45. §-hoz
+
+Noha a törvény a biztosítási intézkedésekre az Ákr. rendelkezéseit (107. §) rendeli megfelelően alkalmazni, az Ákr. 107. § (4) bekezdésében foglalt háromnapos szabálytól eltérve az ideiglenes biztosítási intézkedés megtételére öt napot enged a versenyfelügyeleti eljárásban érvényesülő speciális döntéshozatali rend hosszabb időigényére tekintettel.
+
+A 46. §-hoz
+
+A Tpvt. hatályos 66. §-át az eljárási szabályok jobb logikai strukturálása érdekében a törvény áthelyezte az 53/B. § (2) bekezdésébe.
+
+Az új 66. § (1) bekezdésében a törvény a tárgyalásnak a jogrendszerben egységes szabályozása érdekében szabályozza a tárgyalás tartásának feltételét.
+
+A Tpvt. 66. § (2) bekezdése megfelel a hatályos 74. § (2) bekezdésében foglalt rendelkezésnek; a rendelkezés inkább e fejezetbe, a versenyfelügyeleti eljárás általános szabályai közé tartozik. Indokolt a versenyfelügyeleti eljárásban továbbra is rögzíteni a tárgyalás főszabályként! nyilvánosságát, ezt a törvény ehelyütt teszi meg. A rendelkezés szövegének pontosítása egyértelművé teszi, hogy ilyen kérelem esetén a nyilvánosságot a tárgyalásról ki kell zárni, e tekintetben nincs helye mérlegelésnek.
+
+A tárgyalás a jogrendszerben egységes szabályozása érdekében a törvény - a Tpvt.-ben külön nem szabályozott kérdésekben - megfelelően alkalmazni rendeli az Ákr. vonatkozó rendelkezéseit [74. § (2)-(4) bekezdés].
+
+A 47. §-hoz
+
+A törvény a vizsgálatot elrendelő végzéshez köti a versenyfelügyeleti eljárás megindulását, és rögzíti, hogy az - minden esetben - hivatalból indul.
+
+A vizsgálat elrendelésével kapcsolatos szabályozás átláthatóbb, logikusabb strukturálása érdekében a törvény itt szabályozza újra a Tpvt. hatályos 70. §-ának rendelkezéseit.
+
+A törvény terminológiailag egységessé teszi a szabályozást abból a szempontból, hogy a versenyfelügyeleti eljárásban „magatartás” vizsgálata történik, amely magában foglalja a tevékenységet, a mulasztást és az állapot előidézését, illetve fenntartását is. A vonatkozó rendelkezések normatartalma érdemben nem változik.
+
+A Tpvt. 67. § (5) bekezdésében foglalt rendelkezés a hatályos 70. § (1c) bekezdésének felel meg, pontosítással, amely egyértelművé teszi, hogy csak a bejelentési kötelezettség alá tartozó összefonódásra vonatkozik, nem alkalmazandó például a 24/A. § hatálya alá tartozó összefonódásra.
+
+A Tpvt. 67. § (7) bekezdés a) pontja a hatályos 70. § (1a) bekezdés b) pontjának felel meg; a b) és a c) pont új eljárásindítási ok, összefüggésben a 32. § (2) bekezdésében, illetve a 75. § (5) bekezdésében szabályozott visszavonási esettel, annak kivizsgálására, hogy fennáll-e a visszavonás oka.
+
+A Tpvt. 67. § (8) bekezdése szintén új eljárásindítási ok, annak érdekében, hogy ha az összefonódás vizsgálatára irányuló korábbi eljárásban a döntés félrevezetésen alapult, és emiatt vissza kellett vonni, sor kerüljön az összefonódás ismételt elbírálására.
+
+A Tpvt. 67. § (9) bekezdése szintén új eljárásindítási ok, annak érdekében, hogy ha a kötelezettségvállalással lezárt versenyfelügyeleti eljárásban hozott határozatot vissza kellett vonni, sor kerüljön a magatartás ismételt vizsgálatára.
+
+A Tpvt. 67. § (10) bekezdése a hatályos 70. § (1e) bekezdésének, (11) bekezdése a hatályos 70. § (3) bekezdésének felel meg azzal, hogy ez utóbbi körében a törvény meghatározza azokat a szempontokat, amelyeket a nyilvánosság tájékoztatása körében mérlegelni kell.
+
+A 48. §-hoz
+
+A Tpvt. 68. § (1) és (2) bekezdése megfelel a hatályos 67. § (3) és (4) bekezdésének, kisebb kodifikációs korrekcióval. A törvény továbbá elévülési határidőt állapít meg a 67. § (7) bekezdése szerinti eljárások megindítására vonatkozóan is.
+
+A Tpvt. 68. § (3) bekezdésében a törvény világossá teszi, hogy a már megindult eljárásban az 53. § (4) bekezdése alapján más vállalkozásnak a versenyfelügyeleti eljárásba történő bevonására, illetve a versenyfelügyeleti eljárásnak a 70. § (2) bekezdése szerint a vizsgálatot elrendelő végzésben megjelölttel összefüggő magatartásra történő kiterjesztésére a 68. § (1) bekezdése szerinti időkorlát nem vonatkozik (hiszen valójában ilyenkor nincs is szó új eljárás indításáról).
+
+Továbbá a törvény - az ilyen eljárások speciális jellegére tekintettel - a 67. § (8), illetve (9) bekezdése szerinti eljárások megindítása esetére sem ír elő időbeli korlátozást. Megjegyzendő, hogy az ilyen eljárásokat a 63. § (6) bekezdés alapján az eljárás megindítására okot adó döntés véglegessé válásától számított nyolc napon belül meg kell indítani, így - figyelemmel a 67. § (7) bekezdése szerinti, a megelőzően lefolytatandó eljárásra irányadó, a 68. § (1) bekezdés d) és e) pontjában rögzített elévülési határidőre - nincs szó korlátlan eljárási lehetőségről.
+
+A Tpvt. 69. §-a a korábbi 70. § (3a) bekezdésének felel meg.
+
+A 49. §-hoz
+
+A törvény - a vizsgálat kiterjesztésére vonatkozó szabályozás jobb tagolása érdekében - önálló §-ban (70. §) helyezi el a hatályos 70. § (4) és (5) bekezdését.
+
+Szintén önálló §-ban (70/A. §) szabályozza a törvény a versenyfelügyeleti eljárás önálló eljárásokra történő szétválasztását - a hatályos 70. § (6) bekezdés első mondata alapján -, valamint - a Ket. 33/B. § (1) bekezdésének mintájára - az olyan folyamatban lévő versenyfelügyeleti eljárások egyesítésének lehetőségét, amelyek tárgya egymással összefügg.
+
+Az 50. §-hoz
+
+A Tpvt. 72. § (1) bekezdésében a törvény tartalmi változtatás nélkül pontosítja a rendelkezés szövegét.
+
+Az 51. §-hoz
+
+A Tpvt. 73. § (1) bekezdésében a törvény abban az esetben sem ír elő előzetes álláspont készítési kötelezettséget, ha az állapítható meg, hogy a magatartás nem jogsértő [a 76. § (1) bekezdés o) pontja szerinti döntés]. Ez - minthogy a döntés így az ügyfélre nézve „felmentő” - nem jár az ügyféli jogok sérelmével, ugyanakkor csökkenti a hatóság adminisztrációs terheit.
+
+A Tpvt. 73. § (2) bekezdésének módosítása kérelemre induló eljárás megszüntetésével függ össze.
+
+A törvény a Tpvt. 73. § (5) bekezdésében - a rendelkezés pontosításaként - előírja, hogy az iratbetekintési jog 55. § (5) bekezdése szerinti megnyíltáról az eljáró versenytanács az előzetes álláspont, illetve a jelentés megküldésével egyidejűleg értesíti az ügyfelet.
+
+A Tpvt. 73. § (6) bekezdésében a törvény egyértelművé teszi, hogy az előzetes álláspont ügyfélnek történt megküldése - figyelemmel az (1) bekezdésben foglalt szabályozásra, mely szerint az eljáró versenytanács annak megállapítását követően készíti el az előzetes álláspontot, hogy nincs szükség a 72. § (1) bekezdése szerinti intézkedésre - nem akadálya annak, hogy ha az előzetes álláspontra tett ügyféli észrevétel alapján merül fel a 72. § (1) bekezdése szerinti körülmény, az eljáró versenytanács az iratokat a vizsgálónak a szükséges intézkedések megtétele céljából visszaadhassa.
+
+Az 52. §-hoz
+
+A Tpvt. 74. §-át megelőző alcímcím pontosítását a versenytanácsi tárgyalásnak a 66. §-ban foglalt általános szabályoktól bizonyos mértékig eltérő jellege tette szükségessé; e szabályok az eljáró versenytanácsnak a határozat meghozatala előtti tárgyalására vonatkoznak.
+
+A 74. §-ban a törvény pontosítja és újratagolja a hatályos 74. § (1) bekezdésének szövegét.
+
+Az 53. §-hoz
+
+A törvény újraszabályozza és ennek keretében újrastrukturálja a Tpvt. 76. §-ában az eljáró versenytanács határozatára vonatkozó rendelkezéseket.
+
+Önálló döntési tartalomként állapítja meg a törvény a Tpvt. 76. § (1) bekezdés b), c) és n) pontjában a 67. § (7) bekezdése alapján indított eljárásban hozott döntéseket.
+
+Az eljáró versenytanács határozata lehetséges tartalmának egységes szabályozása érdekében a törvény önálló döntési tartalomként a 76. § (1) bekezdés d) pontjában jeleníti meg a hatályos 13. § (4) bekezdés második mondatában foglalt rendelkezést.
+
+A Tpvt. 76. § (3) bekezdése a hatályos 13. § (4) bekezdés harmadik mondatában foglalt rendelkezésnek felel meg, továbbá kiterjeszti azt az (1) bekezdés e) pontja szerinti esetre is.
+
+Az 54. §-hoz
+
+A Tpvt. 77. § (5) bekezdésének módosítása igazodik egyfelől az ügyintézési határidő 63. §-ban történt újraszabályozásához, másfelől szabályozza - a 63. § (9) bekezdésével összhangban -, hogy az ügyintézési határidő meghosszabbítására ki jogosult.
+
+A Tpvt. 77. § (6) bekezdésének módosítása szövegszerűen egyszerűsíti és átláthatóbbá teszi az eljáró versenytanács intézkedési lehetőségeit az utóvizsgálatban. A d) pontban a törvény a határozat önkéntes teljesítése elmaradásának megállapítása esetére lehetővé teszi bírság kiszabását is olyan esetben, amikor a meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozóan előírt kötelezettség teljesítése végrehajtás útján nem lenne kikényszeríthető.
+
+Az 55. §-hoz
+
+A törvény - az eljárási szabályozás e tekintetben történt megreformálásával összefüggésben - a Tpvt. 78. § (1) bekezdés e) pontjában önálló bírságkiszabási okként szabályozza, ha az összefonódás-bejelentést tevő vállalkozás az összefonódás-bejelentésben - az összefonódás vizsgálatának elrendelésére kiható módon - lényeges tényt félrevezetően közölt, és ezért a 43/N. § (1) bekezdés b) pontja alapján kiadott hatósági bizonyítványt vissza kell vonni.
+
+A Tpvt. 78. § (1) bekezdés f) pontjában pedig önálló bírságkiszabási okként jelenik meg az, ha a versenyfelügyeleti eljárásban az ügyfél a döntés szempontjából lényeges tényt félrevezetően közölt, és ezért a 30. § vagy a 75. § (1) bekezdése alapján hozott határozatot vissza kell vonni.
+
+A Tpvt. 78. § (1a) bekezdés b) pontjában a törvény - a 77. § (6) bekezdés d) pontjának módosításához kapcsolódóan - önálló bírságkiszabási okként szabályozza azt az esetet, amikor az eljáró versenytanács az utóvizsgálatban megállapítja a korábbi határozatában a jogsértő magatartás megállapítása mellett meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozóan előírt kötelezettség önkéntes teljesítésének elmaradását, ugyanakkor a teljesítés végrehajtás útján nem lenne kikényszeríthető.
+
+A Tpvt. 78. § (8) bekezdésében a törvény - figyelemmel arra, hogy a versenyfelügyeleti eljárás nem hatósági ellenőrzés - egyértelművé teszi, hogy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 12/A. §-ának rendelkezései a versenyfelügyeleti eljárásban nem alkalmazhatóak. Pontosítja továbbá az említett rendelkezéssel párhuzamos Tpvt.-beli rendelkezést, részint a kis- vagy középvállalkozás meghatározása tekintetében, másrészt meghatározza a figyelmeztetés alkalmazásának mérlegelési szempontjait, továbbá rögzíti, hogy a figyelmeztetés alkalmazását nem minden, az Európai Unió jogába ütköző jogsértő magatartás, hanem csak az EUMSz. 101. vagy 102. cikkének megsértése zárja ki.
+
+A Tpvt. 78. § (9) bekezdés a) pontjában kisebb terminológiai pontosításra kerül sor, figyelemmel a Tpvt. 11. §-ában foglalt általános fogalommeghatározásra, amely szerint megállapodás alatt (kifejezett eltérő rendelkezés hiányában, vagy ha valamely magatartástípus emellett nem kerül külön nevesítésre) a megállapodást, összehangolt magatartást és társulás döntését egyaránt érteni kell.
+
+Az 56. §-hoz
+
+A rendelkezés célja annak a lehetőségnek a kizárása, hogy az informátori díj reményében adott esetben a vállalkozás megfelelési programja és az annak folytán feltárt esetleges jogsértésnek a versenyhatóság számára sokkal nagyobb hozadékkal bíró engedékenységi kérelem keretében való feltárása meghiúsuljon, ezért szükséges az ilyen irányú ösztönzöttség megszüntetése.
+
+Az 57. §-hoz
+
+A Tpvt. 79/B. § (3) bekezdésének módosítása megszünteti a gyakorlatban szükségtelennek bizonyult és az eljárást elhúzó kötelező meghallgatásra vonatkozó előírást arra az esetre, amikor a bizonyítékot szolgáltató személyt a bizonyíték alkalmatlanságáról és visszautasításáról kell tájékoztatni, erről elegendő a külön végzésben rendelkezni.
+
+A 79/B. § (6) bekezdésének módosítása - tartalmi változtatás nélkül - az Ákr. terminológiájára figyelemmel történő, valamint a rendelkezés megfogalmazásának egyértelművé tételét célzó korrekciókat valósít meg.
+
+Az 58. §-hoz
+
+A törvény a Tpvt. XI/A. és XI/B. Fejezetében a hatályos XVI. Fejezet 91/A-91/G. §-a, valamint a XVII. Fejezet rendelkezéseit állapítja meg újra. A korábban a törvény végén található fejezetek áthelyezését az indokolja, hogy a versenyfelügyeleti eljárás szabályozása egy rész keretében, összefüggően történjen, a végrehajtás szabályozását, illetve a bírósági eljárásra vonatkozó részeket megelőzően.
+
+Az újraszabályozás keretében sor került az Ákr. terminológiájára figyelemmel levő korrekciókra is.
+
+A Tpvt. 80/D. § (3) bekezdésében - amely a hatályos 91/E. § (4) bekezdésének felel meg -, valamint a 80/D. § (7) bekezdésében - amely a hatályos 91/E. § (11) bekezdésének felel meg - a törvény azért csak az eljárást megszüntető végzés tekintetében zárja ki az önálló jogorvoslatot, mert az eljárást felfüggesztő végzés tekintetében az Ákr. főszabálya eleve nem enged önálló jogorvoslatot.
+
+A Tpvt. 80/D. § (4) bekezdése a korábbi 91/E. § (4a) bekezdésének felel meg azzal a módosítással, hogy a 139/2004/EK tanácsi rendelet 9. cikk (6) bekezdés második albekezdése szerinti tájékoztatás végrehajtásához - figyelemmel arra, hogy az a rendelet szövege szerint csak egy „az előzetes versenyjogi értékelés eredményéről”, valamint arról szóló tájékoztatás kell legyen, hogy a versenyhatóság „milyen további intézkedéseket szándékozik tenni” - nem szükséges az eljáró versenytanácsnak előzetes álláspontot készítenie - a rendeletben előírt 45 munkanapos határidőkeret miatt jelentősen lerövidítve a Tpvt. alapján egyébként rendelkezésre álló ügyintézési határidőt -, hanem e célnak megfelelően eleget tesz a részletes indokolást, valamint az eljárás menetéről történő kioktatást tartalmazó vizsgálatot elrendelő végzés.
+
+A Tpvt. 80/D. § (8) bekezdésében a törvény egyértelművé teszi, hogy a megfizetett igazgatási szolgáltatási díj az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárásnak az (5) vagy a (6) bekezdés szerinti megszüntetése esetén sem jár vissza.
+
+A Tpvt. 80/F. §-a a korábbi 91/G. § (1) bekezdésének felel meg azzal, hogy a rendelkezés hozzáigazításra került a hasonló tartalmú 80/H. § (2) bekezdéséhez - amely a hatályos 91/K. § (1) bekezdésének felel meg -; továbbá, figyelemmel arra, hogy az 1/2003/EK tanácsi rendelet 22. cikk (1) bekezdése alapján a tagállam versenyhatósága a másik tagállam versenyhatósága nevében végzett vizsgálatot vagy ténymegállapító intézkedést a másik tagállam versenyhatósága költségére végzi el, a törvény rendelkezik arról is, hogy az eljárást lezáró végzésben meg kell állapítani az így felmerült, a Gazdasági Versenyhivatal által megelőlegezett költséget.
+
+A Tpvt. 80/G. § (2) bekezdésében a törvény megállapítja a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2006. december 22-i 2007/76/EK bizottsági határozatot (a továbbiakban: 2007/76/EK bizottsági határozat) időközben módosító 2011. március 1-jei 2011/141/EU bizottsági határozat végrehajtásához szükséges rendelkezéseket. A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtásához a kölcsönös jogsegély tekintetében részletes szabályokat megállapító bizottsági határozatok ugyan jellegüknél fogva közvetlenül alkalmazhatóak, azonban címzettjeikként a tagállamokat jelölik meg, így azoknak a tagállami hatóságok - adott esetben a Gazdasági Versenyhivatal - általi végrehajtását utalásos rendelkezés útján lehet biztosítani.
+
+Az 59. §-hoz
+
+A jogorvoslati rendszernek a jogrendszerben egységes szabályozása érdekében a törvény - a Tpvt.-ben külön nem szabályozott kérdésekben - megfelelően alkalmazni rendeli az Ákr. jogorvoslatra vonatkozó szabályait.
+
+A 60. §-hoz
+
+A Tpvt. korábbi - gyakran hivatkozott - 82. § (1) bekezdése elhagyásának az oka az, hogy az Ákr. - melynek jogorvoslatra vonatkozó rendelkezései (111-120. §, 122. §, 123. §) alkalmazandóként felhívásra kerülnek a 80/I. §-ban - 112. §-a is kimondja, hogy a hatóság végzése ellen önálló jogorvoslatnak csak akkor van helye, ha azt törvény megengedi.
+
+A 82. § egésze egyebekben is az Ákr. jogorvoslati szabályozására tekintettel került újraszabályozásra.
+
+A Tpvt. 82. § (3) bekezdésében a törvény - eltérve az Ákr. 118. § (3) bekezdésében meghatározott tizenöt napos határidőtől - megtartja a versenyfelügyeleti eljárásban a fellebbezés előterjesztésére eddig is irányadó nyolcnapos határidőt.
+
+A Tpvt. 82. § (4) bekezdésében a törvény - eltérve a Kp. 39. § (1) bekezdésében meghatározott harmincnapos határidőtől - az eljáró versenytanács végzésével szemben a végzés közlésétől számított nyolc napban határozza meg a keresetlevél benyújtására nyitva álló határidőt.
+
+A 61. §-hoz
+
+A Tpvt. hatályos 83. § (1) bekezdése elhagyásának az oka az, hogy az Ákr. - melynek jogorvoslatra vonatkozó rendelkezései alkalmazandóként felhívásra kerülnek a 80/I. §-ban - 116. § (4) bekezdés d) pontja is kimondja, hogy nincs helye fellebbezésnek, ha nincs kijelölt másodfokú hatóság, a 114. § (1) bekezdése alapján pedig az ügyfél az önálló fellebbezéssel támadható véglegessé vált döntés ellen közigazgatási pert indíthat. A keresetlevél előterjesztésére vonatkozó második mondat pedig a Kp. 39. § (1) bekezdésére tekintettel vált redundánssá.
+
+A Tpvt. hatályos 83. § (1) bekezdése elhagyásának az oka a redundancia: a versenytanácstag eljárási jogosultsága az új Pp. 65. § e) pontja alapján is fennáll.
+
+A Tpvt. 83. §-ában a törvény - eltérve a Kp. 40. § (1) és (2) bekezdésében meghatározott határidőktől - az eljáró versenytanácsnak a 11. §, illetve az EUMSz. 101. cikke alapján indított versenyfelügyeleti eljárásban hozott határozatával szemben benyújtott keresetlevél bírósághoz történő továbbítására hosszabb - harminc napos - határidőt állapít meg, figyelemmel a versenykorlátozó megállapodások miatti versenyfelügyeleti eljárások iratanyagának jelentős mennyiségére, valamint a versenytanácsi határozatok összetettségére és ezzel összefüggésben a védirat elkészítésének nagyobb időigényére.
+
+A Tpvt. 84. § (1) bekezdésében a törvény egyértelművé teszi, hogy a kamatszámítás szempontjából az adózás rendjéről szóló törvény - a törvény előkészítésének idején a 2003. évi XCII. törvény 165. § (2) bekezdés a) pontja - szerinti módszer (a kamat mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része) alkalmazandó, nem pedig a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:48. § (3) bekezdésében foglalt szabály, mely szerint az adott naptári félév teljes idejére az érintett naptári félév első napján érvényes jegybanki alapkamat irányadó.
+
+A Tpvt. 84. § (2) bekezdésében a törvény rendezi a kamat és a késedelmi pótlék kérdéskörét arra az esetre, ha a jogerős bírósági döntés után a Kúria még változtat a versenytanácsi határozaton a bírság vonatkozásában.
+
+A 62. §-hoz
+
+A törvény a Tpvt. XII/A. Fejezetében a korábbi XV. Fejezet rendelkezéseit szabályozza újra. A fejezet áthelyezésével biztosítható, hogy a versenyfelügyeleti eljárás szabályozása egyazon rész keretében, összefüggően történjen, a bírósági eljárásra vonatkozó részeket megelőzően.
+
+A Tpvt. 84/A. §-ában a törvény - a végrehajtásnak a jogrendszerben egységes szabályozása érdekében - a Tpvt.-ben nem szabályozott kérdésekben az Ákr. rendelkezéseit (131-138. §) rendeli a végrehajtásra megfelelően alkalmazni.
+
+A Tpvt. 84/B. §-ában foglalt rendelkezés megfelel a korábbi 90. §-nak, a következő módosításokkal: a végrehajtási bírság napi összegének felemelésével egyidejűleg megszüntetésre kerül az önkéntes teljesítésre póthatáridő biztosításának lehetősége; a végrehajtási bírság egy összegben is kiszabhatóvá válik, olyan esetben például, ahol a teljesítés eleve kétséges, így a napi összegű bírságolás nem töltené be a teljesítésre ösztönző funkcióját; meghatározásra kerül a végrehajtási bírság legalacsonyabb és legmagasabb összege.
+
+A Tpvt. 84/C. §-ában a törvény rögzíti, hogy a versenyfelügyeleti eljárásban a késedelmi pótlék mértékének megállapítására az adózás rendjéről szóló törvényben meghatározott szabály (a kamat mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része) alkalmazandó, nem pedig az Ákr. 135. §-a, amely a késedelmi pótlékot a törvényes kamat mértékéhez köti, ahol a törvényes kamatot a Ptk. 6:48. §-a határozza meg.
+
+A Tpvt. 84/D. § (1) bekezdésében a törvény a teljesítési határidőben meg nem fizetett eljárási költség, valamint a meg nem fizetett eljárási költség után felszámítandó és meg nem fizetett késedelmi pótlék végrehajtását a Gazdasági Versenyhivatal által rendeli foganatosítani, figyelemmel arra, hogy az eljárási költség nem minősül az államháztartásról szóló 2011. évi CXCV. törvény 42. § (3) bekezdése alapján olyan köztartozásnak, amelyet adók módjára kell behajtani; másfelől ugyanakkor szükséges megteremteni annak egyértelmű törvényi feltételét, hogy a Gazdasági Versenyhivatal mint a végrehajtást foganatosító szerv hatósági átutalási megbízást bocsáthasson ki. Ezzel a törvény kitölti azt a meglévő szabályozási hézagot, amely az eljárási költség végrehajtásának foganatosítása tekintetében jelenleg fennáll. Ugyan az Ákr. hatálybalépését követően az Ákr. 134. § (1) bekezdésében foglalt főszabály szerint az adóhatóság foganatosítaná az eljárási költség végrehajtását is; a versenyhatóság általi végrehajtást ezzel szemben az indokolja, hogy az eljárási költség nem bírságbevétel, hanem a Gazdasági Versenyhivatal saját bevétele.
+
+A Tpvt. 84/D. § (1) bekezdésében foglalt rendelkezés megfelel a korábbi 90/A. § (2) bekezdésének.
+
+A Tpvt. 84/E. §-ában foglalt rendelkezés megfelel a korábbi 91. §-nak, az Ákr. jogorvoslati rendszere változásaiból eredő korrekciókkal.
+
+A Tpvt. 84/F. §-ában foglalt rendelkezés megfelel a korábbi 89. § (3) bekezdésének, a Kp. rendszere változásából eredő korrekcióval.
+
+A 64. §-hoz
+
+A törvény az Ákr. jogorvoslati szabályozásának változásaiból, illetve a Kp.-ből eredő korrekciókat vezeti át a Tpvt. 85. §-án azzal, hogy a Fővárosi Törvényszék kizárólagos illetékességgel jár el.
+
+A 65. §-hoz
+
+A törvény - a törvény jobb logikai strukturálása érdekében - a Tpvt. XIII/A. Fejezetében állapítja meg újra az eddig a Záró rendelkezések között, a hatályos 92. §-ban szabályozott közérdekű kereset intézményének szabályait. A normatartalom megőrzése mellett a törvény a szöveg kisebb terminológiai pontosításával - igazodva az ítélkezési gyakorlathoz - egyértelműsíti a rendelkezés szövegében, hogy mikor van szó a versenyhatóság által vizsgált és határozatában megállapított jogsértő magatartásról és, mikor a bíróság által az ilyen perben a kártérítési felelősségről való marasztalás körében, vagy - ennek hiányában - megállapításra irányuló kereset kapcsán megítélendő, a magatartás polgári jogi értelemben vett jogellenességéről.
+
+A 67. §-hoz
+
+Miután a Tpvt. 44. § (1) bekezdése a versenyfelügyeleti eljárást a versenyhatóság hatósági eljárásaként definiálja; a XIV. Fejezet fejezetcímének módosítása egyértelművé teszi, hogy a bíróság a Tpvt. II. Fejezete rendelkezéseinek megsértése miatti eljárása nem „versenyfelügyeleti eljárás”, még ha egyébként versenyjogi rendelkezések érvényesítését szolgálja is.
+
+A 68. §-hoz
+
+A Kp. szabályozására tekintettel történő módosítás.
+
+A 69. §-hoz
+
+Az új Pp.-vel való összhang megteremtését célzó módosítás.
+
+A 70. §-hoz
+
+A Tpvt. új 88/U. §-a tartalmában megfelel a hatályos 91/H. §-ban foglalt rendelkezésnek. Az áthelyezésre a bíróság eljárásával összefüggő szabályok jobb strukturálása érdekében került sor, kisebb, az Ákr. terminológiai változásaiból adódó szövegezési korrekcióval.
+
+A 71. §-hoz
+
+A törvény az új 88/U. § beiktatása okán 88/V. §-ként újra megállapítja a Tpvt. hatályos 88/U. §-át, változtatás nélkül, a törvény rendelkezéseire történő hivatkozások megfelelő korrekciójával.
+
+A 73. §-hoz
+
+A törvény a Tpvt. 92. §-ában a hatályos 70. § (2) bekezdését állapítja meg újra a Záró rendelkezések alatt, tekintettel arra, hogy tartalmilag „vegyes rendelkezéséről van szó.
+
+A 74. §-hoz
+
+A törvény - az újabb kódexek mintájára - bevezeti a törvény rövid megjelölését.
+
+A 75. és 77. §-hoz
+
+A törvény a Záró rendelkezések alá tartozó rendelkezéseket - a jobb elkülönítés, formai tagolás érdekében - alcímek alá sorolja.
+
+A 76. §-hoz
+
+A törvény átmeneti rendelkezéseket állapít meg a hatálybalépéshez kapcsolódóan. A védekezés céljából készült iratok vonatkozásában az átmeneti szabály indoka az, hogy a hatályos szabályozás - az ügyvédi tevékenységre és a jogtanácsosi tevékenységre vonatkozó eltérő szabályozásra tekintettel - csak az ügyvédekkel folytatott kommunikációt mentesíti e körben (összhangban egyébként az európai bizottsági eljárás kapcsán az Európai Bíróság által kimunkált gyakorlattal), és a jogtanácsosi tevékenység keretében folytatott ilyesfajta kommunikációt nem, ezért indokolt az új szabályokat is csak az új tevékenységvégzési szabályok szerinti kommunikációk vonatkozásában alkalmazni.
+
+Az eljárási rendelkezések bevezetésénél a törvény - értelemszerűen - az Ákr. 143. § (1) és (2) bekezdésében alkalmazott megoldást követi.
+
+A 78. §-hoz
+
+A Tpvt. eljárási rendelkezéseinek módosításai - bár formailag átszerkesztik, illetve terminológiában korrigálják - tartalmilag nem érintik a törvény hátterét jelentő európai uniós jogi aktusoknak való megfelelést. A törvény a Tpvt. 98. §-ában foglalt jogharmonizációs záradék hivatkozásaiban elvégzi a törvény európai uniós jogi vonatkozású rendelkezései számozásának módosulásából adódó korrekciókat.
+
+Kiegészül továbbá a rendelkezés a 2007/76/EK bizottsági határozatot időközben módosító 2011. március 1-jei 2011/141/EU bizottsági határozat végrehajtásához szükséges rendelkezések megállapítására vonatkozó hivatkozással.
+
+A 79. §-hoz
+
+Szövegcserés módosítások.
+
+A 80. §-hoz
+
+Hatályon kívül helyező rendelkezések.
+
+A 81. §-hoz
+
+A törvény egyértelművé teszi, hogy a versenyhatóság a kereskedelemről szóló 2005. évi CLXIV. törvényben a jelentős piaci erővel rendelkező vállalkozásokra vonatkozóan előírt szabályozás kikényszerítése során is versenyfelügyeleti eljárásban jár el.
+
+A 82. §-hoz
+
+A törvény az Fttv. jogharmonizációs záradékát is kiegészíti a 2007/76/EK bizottsági határozatot időközben módosító 2011. március 1-jei 2011/141/EU bizottsági határozat végrehajtásához szükséges rendelkezések megállapítására vonatkozó hivatkozással.
+
+A 83. §-hoz
+
+Szövegcserés módosítások.
+
+A 84. §-hoz
+
+Hatályba nem lépő rendelkezés.
+
+-----STARTING---POINT---VEGE---
+
+A 85. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 86. §-hoz
+
+A jogalkotásra vonatkozó európai uniós követelményekre utaló rendelkezés.

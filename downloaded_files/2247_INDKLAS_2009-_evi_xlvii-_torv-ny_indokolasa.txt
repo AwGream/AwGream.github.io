@@ -1,0 +1,739 @@
+2009. évi XLVII. törvény indokolása
+
+a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az Alkotmánybíróság 144/2008. (XI. 26.) AB határozata (a továbbiakban: Határozat)megállapította, hogy a bűnügyi nyilvántartásról és a hatósági erkölcsi bizonyítványról szóló 1999. évi LXXXV. törvény (a továbbiakban: Bnyt.) több rendelkezése alkotmányellenes, erre tekintettel e rendelkezéseket 2009. június 30. napjával megsemmisítette.
+
+A törvény - tekintettel arra, hogy a Határozat a Bnyt. rendszerének alkotmányosságát alapjaiban kérdőjelezte meg - új elvi és szakmai alapokra építi fel a bűnügyi személyes adatokat tartalmazó nyilvántartások rendszerét, figyelemmel ezen adatok különleges védelmének indokoltságára.
+
+Az Alkotmánybíróság több szempontból vizsgálta a Bnyt. szabályainak alkotmányosságát, indokolásában a nyilvántartással szemben megfogalmazott kifogások túlnyomó többsége az Alkotmány 59. §-ában foglalt információs önrendelkezési jog korlátozásának szükségtelen és aránytalan voltára mutatott rá. Megállapította többek között, hogy a Bnyt. rendelkezései nem biztosítják maradéktalanul a személyes adatok kezelése célhoz kötöttségének követelményét, a cél eléréséhez szükséges időtartamnál hosszabb ideig kerül sor ezen adatok kezelésére, valamint, hogy a nyilvántartásokból történő adatigénylésre jogosultak köre nem állapítható meg egyértelműen, továbbá ezen jogosultak törvénynél alacsonyabb szintű jogszabály alapján, a felhasználás céljától függetlenül a nyilvántartott adatok teljes köréből adatokat vehettek át a nyilvántartásból. Alapvető kifogást fogalmazott meg az Alkotmánybíróság ezeken kívül abban a tekintetben, hogy az egyes nyilvántartásokba felvett adatok nem különülnek el a büntetett előélethez fűződő hátrányos jogkövetkezmények alatt állók és ezen jogkövetkezmények alól mentesült személyek tekintetében, e nem kellően differenciált szabályozás pedig aránytalanul korlátozza a rehabilitált személyek alapvető jogait.
+
+A törvény a jelzett kifogások figyelembevételével a hatálya alatt álló nyilvántartások alábbi rendszerét az alábbiak szerint alakítja ki:
+
+1. A bűnügyi nyilvántartási rendszer két, jellege, valamint adattartalma alapján elkülönülő egységből áll: a személyazonosító adatok és fényképek nyilvántartásából, valamint a bűnügyi nyilvántartásokból. Ez utóbbi egység különálló, egymással össze nem kapcsolható nyilvántartásokra tagozódik, ezek a bűntettesek nyilvántartása, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása, a büntetőeljárás hatálya alatt állók nyilvántartása, valamint a kényszerintézkedés hatálya alatt állók nyilvántartása.
+
+2. A bűnügyi nyilvántartási rendszertől teljes mértékben elkülönített és a hatályos Bnyt.-ben eddig nem szabályozott nyilvántartás az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása, amelynek létrehozása az Európai Unió átültetést igénylő, kötelező aktusa miatt indokolt.
+
+3. A Bnyt. által korábban is szabályozott daktiloszkópiai, valamint DNS-profil nyilvántartásoknak, amelyeket a törvény összefoglaló néven, bűnügyi és rendészeti biometrikus adatok nyilvántartásként vezet be, a bűnügyi nyilvántartási rendszertől való teljes elkülönítése azért indokolt, mert e nyilvántartások elsősorban szakértői nyilvántartások, amelyek különleges szakértelmet igénylő műveletek elvégzését követően az érintettek személyazonosságának pontos megállapítását szolgálják. A biometrikus nyilvántartások két alapnyilvántartása változatlanul a daktiloszkópiai nyilvántartás, valamint a DNS-profil nyilvántartás, amelyek további három-három regiszterre tagozódnak annak alapján, hogy a felvett biometrikus adatot a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzítették (ún. „nyílt nyomok”), olyan személytől vették le, akivel szemben meghatározott bűncselekmények miatt büntetőeljárás indult, vagy akit meghatározott bűncselekmény elkövetése miatt jogerősen elítéltek.
+
+A bűnügyi nyilvántartási rendszer és a biometrikus adatokat tartalmazó nyilvántartások különböző jellege indokolja azt, hogy a törvény két különböző szervezetet jelöl ki e nyilvántartásokba felvett adatok adatkezelőjeként. Így a bűnügyi nyilvántartás esetén a bűnügyi nyilvántartó szerv (jelenleg e feladatot a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala látja el), a biometrikus nyilvántartások esetén a szakértői nyilvántartó szerv (jelenleg e feladatot a Bűnügyi Szakértői és Kutatóintézet látja el) látja el az adatkezelői feladatokat.
+
+A fentebb elmondottaknak megfelelően a törvény létrehoz az egyes nyilvántartásoktól különálló személyazonosító adatokat tartalmazó törzset. Ez az adatállomány a bűnügyi nyilvántartás rendszerén belül helyezkedik el, de a bűnügyi nyilvántartástól elkülönülten. Az ilyen jellegű, elkülönült elhelyezésnek garanciális okai vannak: a személyazonosító adatokat - a bűnügyi nyilvántartásban szereplő adatokhoz hasonlóan - az e törvény szerint meghatározott bűnügyi nyilvántartó szerv kezeli, ugyanakkor az elkülönült kezelés miatt a személyazonosító adatok nem kapcsolhatóak össze közvetlenül a bűnügyi nyilvántartásban szereplő adatokkal.
+
+Ehhez kapcsolódó fontos újítás, hogy a személyazonosító adatokhoz mind a bűnügyi nyilvántartásokban, mind a bűnügyi és rendészeti biometrikus adatok nyilvántartásban szereplő adatok egy technikai kóddal, az ún. kapcsolati kóddal kapcsolhatók. Ezen kód alkalmazásával teljes mértékben biztosítható, hogy az egyes nyilvántartásokban szereplő adatokat csak az ahhoz hozzáférési jogosultsággal rendelkezők ismerhetik meg.
+
+A kapcsolati kód mellett bevezeti a törvény az ún. belső azonosító kódot, amely a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatok összekapcsolását biztosítja a bűntettesek nyilvántartásában, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában, valamint a büntetőeljárás hatálya alatt állók nyilvántartásában szereplő adatokhoz anélkül, hogy az összekapcsolás során a személyazonosító adatok hozzáférhetők lennének a szakértői nyilvántartó szerv számára. E kód fő célja, hogy a nyilvántartott biometrikus adatok csak addig legyenek nyilvántarthatók, amíg az ehhez kapcsolódó bűnügyi adatok szerepelnek a megfelelő nyilvántartásban. Emellett a törvény bevezeti a szakrendszeri azonosító kódot, amely a DNS-profilhoz, valamint az ujj- és tenyérnyomathoz hozzárendelt egyedi azonosító, és amelyik a nemzetközi adattovábbítás szempontjából bír kiemelt jelentőséggel.
+
+4. További alapvető újítása a törvénynek, hogy a fényképek (illetve az azokból készült arcképmások) a személyazonosító adatokhoz kapcsolva, de attól különálló nyilvántartásban kerülnek nyilvántartásba vételre, ezáltal az arcképek nyilvántartása kikerül a szakértői nyilvántartások közül, és azok kezelése is a bűnügyi nyilvántartó szerv kezelésébe kerül.
+
+5. A Határozatnak megfelelően a törvény a hatályos szabályozás szerinti bűntettesek nyilvántartásában szereplő adattartalmat két, egymástól elkülönülő nyilvántartásba osztja szét. Ennek nyomán az így kialakított bűntettesek nyilvántartásában csak azoknak a személyeknek az adatai szerepelnek, akiket a büntetőeljárás eredményeként a bíróság jogerősen elítélt, és velük szemben olyan büntetést szabott ki, amelyre tekintettel a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben (Btk.) meghatározott törvényi mentesítés az ítélet jogerőre emelkedésének napján nem állt be.
+
+Ehhez képest a törvény szerinti új nyilvántartás, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza azoknak a személyeknek az adatait
+
+- akinek az adatait a bűntettesek nyilvántartásából a mentesítés - ideértve a kegyelmi mentesítés esetét is - folytán törölték,
+
+- akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és a mentesítésben az ítélet jogerőre emelkedésének napján részesült,
+
+- akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, de büntetés kiszabását mellőzte,
+
+- akivel szemben a bíróság felmentő ítéletet hozott, de vele szemben kényszergyógykezelést, elkobzást, vagyonelkobzást alkalmazott,
+
+- akivel szemben a bíróság próbára bocsátást alkalmazott,
+
+- akit az ügyész megrovásban részesített.
+
+Az ebben a nyilvántartásban nyilvántartott személyek adatait elsősorban a bűnismétlés, visszaesés megállapítása, valamint az elítéléshez fűződő, a büntetlen előélethez képest szigorúbb követelményeket meghatározó foglalkoztatási, engedélyezési szabályok végrehajtása érdekében szükséges nyilvántartani.
+
+A fentiekhez kapcsolódóan a törvény módosítja a Btk. mentesítésre vonatkozó szabályait úgy, hogy az a jövőben megteremtse az alapját a foglalkozástól eltiltás és járművezetéstől eltiltás mellékbüntetés tényleges végrehajtásának. A törvény Btk-t módosító rendelkezése nyomán a Btk. mentesítésre vonatkozó szabályaiba bevezetésre kerül egy olyan „köztes állapot” is, amely szerint az elítélt személy nem mentesült ugyan teljes körűen minden joghátrány alól, mégis büntetlen előéletűnek tekintendő.
+
+A foglalkozástól eltiltás mellékbüntetés tényleges végrehajtását segíti elő a foglalkozástól eltiltásra vonatkozó szabályok teljes újraszabályozása is. Ennek keretében a törvény egyértelművé teszi, hogy az elkövetőt nem általában egy foglalkozástól, hanem az általa gyakorolt foglalkozástól lehet eltiltani. Emellett - új szabályként - a foglalkozástól eltiltás szabályai azzal szemben is alkalmazhatóak lesznek, akinek a bűncselekmény elkövetésekor más volt a foglalkozása, de rendelkezik annak a foglalkozásnak a gyakorlásához szükséges szakképesítéssel, amely szabályainak megszegésével a bűncselekményt elkövette.
+
+6. A törvény a nyilvántartásban szereplő adatok nyilvántartási idejét is újraszabályozza az Alkotmánybíróság által lefektetett elvek alapulvételével, így egy olyan szabályozás került kialakításra, amelynek főbb elvei a következők:
+
+- A nyilvántartási idő legalább a mentesítés beálltától számított három év.
+
+- A nyilvántartási idő nem lehet több mint a mentesítés beálltától számított tizenkét év.
+
+- Minél súlyosabb bűncselekmény elkövetése miatt kerültek be a nyilvántartott személy adatai a nyilvántartásba, annál hosszabb ideig legyenek nyilvántartva az adatai.
+
+- A fenti pontnak megfelelően különböző nyilvántartási idő vonatkozik a szándékos és a gondatlan elkövetésre, amely megkülönböztetés a visszaesés és a bűnismétlés szempontjából is indokolt.
+
+- A különböző nyilvántartásokban meghatározott nyilvántartási idők összhangban vannak egymással: így például ha egy nyilvántartott adatait a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában tizenkét évig kell nyilvántartani, akkor a DNS-profil nyilvántartásban tőle származó DNS-profil (amit az elkövetett bűncselekmény jellege miatt tartanak nyilván) is ennyi ideig legyen nyilvántartva. Ennek köszönhetően a különböző nyilvántartásokban meghatározott nyilvántartási idők minden esetben összhangban vannak a más nyilvántartásban szereplő nyilvántartási időkkel.
+
+- A nyilvántartott adatok nem kerülnek törlésre a nyilvántartott személy halálakor.
+
+Utóbbi elv egy fontos biztosíték azokra az esetekre, amikor a halál időpontját követően is indokolt lehet bizonyos adatok nyilvántartásból való megállapíthatósága, például holttá nyilvánítás esetén. A törvény azt az elvet követi, hogy az adatokat addig kell nyilvántartani, amíg azokra nézve a törvényi mentesítés ideje el nem telt, illetve életfogytig tartó szabadságvesztés büntetés kiszabása esetén - amikor az elítélt törvényi mentesítése kizárt - az elítélt személy halálát követő tizenkét évig.
+
+További fontos alapelve a törvénynek, hogy azokra a személyekre vonatkozóan, akikkel szemben a büntetőeljárást megszüntették, vagy akikkel szemben felmentő ítélet született - ide nem értve azt, ha a felmentő ítélet mellett kényszergyógykezelést, elkobzást vagy vagyonelkobzást rendeltek el - ha a nyilvántartásba vételnek egyébként más indoka nincsen, nem szerepelhetnek adatok a bűnügyi nyilvántartásban. Vagyis a felmentő ítéletekre és büntetőeljárást megszüntető határozatokra vonatkozó adatok nem kerülnek a bűnügyi nyilvántartásba.
+
+Ugyan a Határozat nem rendelkezett erről, a bűnügyi nyilvántartást újraszabályozó törvény előkészítése megfelelő alkalmat teremtett arra, hogy külön nyilvántartás kerüljön kialakításra az európai uniós tagállamok bíróságai által magyar állampolgárok tekintetében hozott ítéletek tekintetében. Ennek kialakítása olyan uniós kötelezettségvállalásokra tekintettel indokolt, amelyeknek a magyar jogrendszer eddig nem tudott megfelelni. Ennek kapcsán kiemelendő, hogy a törvény már nem a bűnügyi nyilvántartásban szereplő információk cseréjéről szóló 2005/876/IB határozat rendelkezéseinek hazai jogba történő átültetését végzi el, hanem az ezen határozatot felváltó - a 2009. február 26-27-i BIÜT ülésen aláírt - kerethatározat szabályainak átültetését.
+
+7. A törvény teljesen átalakítja a hatósági erkölcsi bizonyítványra vonatkozó szabályozást. Amellett, hogy a hatósági erkölcsi bizonyítvány elektronikus úton, ügyfélkapun keresztül is igényelhetővé válik, adattartalma a kérelem kifejezett rendelkezéséhez igazodik, azaz annyi és olyan adatkörben tartalmaz adatot, ahogy azt a kérelmező igényli.
+
+A hatósági erkölcsi bizonyítványnak nincs címzettje, azt az érintett szabadon használhatja fel. A hatósági erkölcsi bizonyítvány kilencven napig érvényes, kiadására a hamisítás elleni magas fokú védelmet biztosító biztonsági okmányként kerül sor.
+
+A hatósági erkölcsi bizonyítvány biztonsági jellege miatt akkor sem kerülhet sor kijavításra, ha a benne szereplő adatok hibásak. Ebben az esetben a hatósági erkölcsi bizonyítványt ki kell cserélni.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 12. § (1) bekezdés a) pontja alapján közigazgatási hatósági ügy minden olyan ügy, amelyben a közigazgatási hatóság az ügyfelet érintő jogot vagy kötelességet állapít meg, adatot, tényt vagy jogosultságot igazol, hatósági nyilvántartást vezet vagy hatósági ellenőrzést végez.
+
+Tekintettel arra, hogy a bűnügyi nyilvántartásokba felvett adatokról a törvény alapján mind az érintett mind az általa megjelölt címzett részére hatósági bizonyítvány kiállítása kérelmezhető, és ezen igazolásra jóhiszemű jogok gyakorlása (pl. büntetlen előélethez mint feltételhez kötött foglalkozás gyakorlása, tevékenység végzése) épül, a törvény expressis verbis kimondja, hogy a bűnügyi nyilvántartások az abban szereplő adatok tekintetében közhitelű hatósági nyilvántartások. Ennek következménye, hogy e nyilvántartásokba bejegyzett adatok, tények fennállását, a törölt adatok fenn nem állását - ellenkező bizonyításig - vélelmezni kell.
+
+A törvény háttérjogszabálya továbbra is a Ket. marad, aminek elsősorban a hatósági bizonyítvány, kiállítása valamint a jogorvoslati lehetőségek szempontjából van kiemelkedő jelentősége.
+
+A törvény hatálya alá tartozó nyilvántartások törvényességi felügyeletét a jövőben is a legfőbb ügyész látja el.
+
+A 2. §-hoz
+
+Az értelmező rendelkezések a törvény által használt - egyben eddig más jogszabályban nem definiált - fogalmak meghatározását tartalmazzák. Az újonnan meghatározott fogalmak közül kiemelendő, hogy a törvény három azonosító kódot vezet be a különböző nyilvántartások közötti anonim kapcsolattartás biztosítása érdekében. Ezek a kapcsolati kód, a belső azonosító kód, és a szakrendszeri azonosító kód.
+
+A törvény a személyazonosító adatokat a bűnügyi nyilvántartásoktól elkülönült nyilvántartásban kezeli. Ehhez kapcsolódó fontos újítás, hogy a személyi adatokhoz a különböző bűnügyi nyilvántartásokban, illetve a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő egyes adatok nem közvetlenül, hanem egy technikai kóddal, a kapcsolati kóddal kapcsolhatók.
+
+A kapcsolati kód mellett a törvény bevezeti a belső azonosító kódot és szakrendszeri azonosító kódot. Előbbi célja a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatok hozzárendelése a bűntettesek, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek, valamint a büntetőeljárás alatt állók nyilvántartásában szereplő adatokkal. Tekintettel ugyanis arra, hogy a biometrikus adatok nyilvántartási ideje a bűnügyi nyilvántartásban szereplő adatok törlési idejéhez kapcsolódnak, indokolt a különböző nyilvántartások közötti kapcsolat kialakítása, mindezt azonban annak garantálásával, hogy a szakértői nyilvántartó szerv indokolatlanul nem férhet hozzá a személyazonosító adatokhoz.
+
+A szakrendszeri azonosító kód a szakértői nyilvántartó szerv által a DNS-profilhoz, valamint az ujj- és tenyérnyomathoz hozzárendelt egyedi alfanumerikus azonosító, amelynek célja az ujj-és tenyérnyomat, valamint a DNS-profil „szabványosított”, betűkkel és számokkal való megjelenítése, az ujj- és tenyérnyomatokkal, valamint DNS-profilokkal végzett szakértői műveletek elősegítése érdekében. Ennek a kódnak elsősorban a biometrikus adatok nemzetközi kötelezettségvállaláson alapuló adattovábbítás során van kiemelkedő szerepe.
+
+Mindezek mellett a törvény egyértelműen meghatározza az ellenszegülés és a testi kényszer fogalmát, tekintettel arra, hogy a Határozat megsemmisíti az ujj- és tenyérnyomat-vétel, a fényképkészítés, valamint a DNS-mintavétel szabályairól szóló 8/2000. (II. 16.) BM-IM-PM együttes rendelet több, a mintavételre vonatkozó rendelkezését, és hogy a mintavételre vonatkozó szabályozást is tartalmaz a törvény.
+
+A 3. §-hoz
+
+A törvény által kialakított bűnügyi nyilvántartás három teljesen elkülönülő részből áll. Ezek a bűnügyi nyilvántartási rendszer, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása, valamint bűnügyi és rendészeti biometrikus adatok nyilvántartása. A törvény II. Fejezete tartalmazza a bűnügyi nyilvántartási rendszerre vonatkozó részletes szabályokat.
+
+A törvény 3. § (1) bekezdése rendelkezik arról, hogy a bűnügyi nyilvántartási rendszer két nagy részre osztható: egyfelől a személyazonosító adatok és fényképek nyilvántartására, másfelől pedig a bűnügyi nyilvántartásokra. A § (2) bekezdése egyértelműen rendelkezik arról, hogy a bűnügyi nyilvántartó rendszerbe felvett adatokat kezelése, valamint az adatokból történő igazolás kiállítása a bűnügyi nyilvántartó szerv, egy, a Kormány által kijelölt központi közigazgatási szerv feladata.
+
+Ennek a rendelkezésnek abból a szempontból is kiemelt jelentősége van, hogy a törvény a valós helyzetnek megfelelően rendezi azt, hogy a bűnügyi nyilvántartási rendszer, illetve a bűnügyi és rendészeti biometrikus adatok nyilvántartása tekintetében más-más adatkezelőt kell kijelölni. Így a bűnügyi nyilvántartási rendszer - valamint az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása - tekintetében a bűnügyi nyilvántartó szerv, a biometrikus adatok nyilvántartásai esetén a szakértői nyilvántartó szerv nyilvántartásokban szereplő adatok kezelője.
+
+A 3. § (2) bekezdésének második mondata arról rendelkezik, hogy „a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartások vezetése során adatfeldolgozóként más szervet nem vehet igénybe”. Ez a rendelkezés 1995. október 24-én kelt, a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról szóló Ez Európai Parlamenti és Tanácsi 95/46/EK irányelv 8. cikk (5) bekezdésének való megfelelést szolgája. Az irányelv ezen rendelkezése ugyanis úgy rendelkezik, hogy „a bűncselekményekre, büntetőítéletekre vagy biztonsági intézkedésekre vonatkozó adatok feldolgozása kizárólag a hatóság ellenőrzése mellett történhet, vagy ha a nemzeti jog megfelelő külön biztosítékot nyújt, az olyan eltérésekre is figyelemmel, amelyet a tagállamok a megfelelő külön biztosítékot nyújtó nemzeti rendelkezések alapján engedélyezhetnek. Mindazonáltal a büntetőítéletekről teljes körű nyilvántartást csak a hatóság ellenőrzésével lehet vezetni”. Kiemelendő, hogy ez a rendelkezés összhangban van a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) 2. § 8. pontja szerinti értelmező rendelkezéssel, miszerint „adatkezelő az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely az adatok kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az általa megbízott adatfeldolgozóval végrehajtatja”.
+
+A 4. §-hoz
+
+A Bnyt. hatálya alá tartozó minden nyilvántartásban szerepeltek a személyazonosító adatok is. Ez indokolatlanul megtöbbszörözte az egyes nyilvántartások adattartalmát, ráadásul ezen adatok karbantartása során is megnövelte a hibák lehetőségét az adatok bejegyzésekor, amely különösen a bűnügyi személyes adatok kezelése tekintetében az érintettek jogai csorbulásának veszélyét hordozta magában. A törvény ennek megfelelően a hatálya alá tartozó nyilvántartások tekintetében - a tagállami ítéleteket kivéve - csupán egyetlen „törzsnyilvántartást” hoz létre a személyazonosító adatok kezelésére, amelyhez a bűnügyi nyilvántartások, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartása az ún. kapcsolati kóddal kötődnek, így anonimizálva az azokban szereplő adatkört.
+
+A Bnyt.-től szintén eltér a törvény abban a tekintetben, hogy a büntetőügyekben az érintettekről készített fényképeket nem az elsődlegesen szakértői jellegű, biometrikus adatokat tartalmazó nyilvántartásokban, hanem a személyazonosító adatok között kezeli. Ennek oka, hogy az ujj- és tenyérnyomatokkal, valamint a DNS-profilokkal szemben a fényképek büntetőügyekben történő felhasználása nem igényel speciális szakértelmet, azokkal a szakértői nyilvántartásokban szereplő adatoktól eltérően szakértői műveleteket nem végeznek, így nem indokolt, hogy a fényképek adatkezelője a szakértői nyilvántartó szerv legyen.
+
+A személyazonosító adatok és fényképek nyilvántartásának célját a törvény ezen adatok felhasználási körét megjelölve rendezi, nevezetesen ezen adatok rendeltetése elsősorban a bűnügyi nyilvántartások, valamint a bűnügyi és rendészeti biometrikus nyilvántartásában kezelt adatokhoz kapcsolódó személyek - szükség esetén és az annak megismerésére jogosult szervek, személyek részére történő - azonosítása és ezen adatoknak az arra jogosultak részére történő továbbítása. Ezen kívül az érintett arcképmása tekintetében a nyilvántartás célja annak biztosítása is, hogy - sajnálatos gyakorlati tapasztalatok miatt - a ténylegesen elítélt személyen, ne pedig az elítélt személynek magát - általában ellenszolgáltatás fejében - feltüntető személyen hajtsák végre a szabadságvesztés büntetést.
+
+A (2) bekezdés meghatározza azt az adatkört, amelyet e nyilvántartásban nyilván kell tartani. Ezen adatok egy része [a) pont] a természetes személyazonosító adatokat, és egyéb a büntetőeljárás során szükséges, az érintett azonosítására, fellelhetőségére vonatkozó adat. Az érintett arcképmása nyilvántartásának okait, valamint a kapcsolati kód rendeltetését [b)-c) pontok] már ismertettük. A halál tényének és időpontjának nyilvántartása azért szükséges, mert noha a halál ténye nem mentesít a büntetett előélethez fűződő hátrányos jogkövetkezmények alól, büntethetőséget, valamint büntetés végrehajtását megszüntető ok, ezért a nyilvántartási idők számítása tekintetében bír jelentőséggel.
+
+A (3) bekezdés a bűnügyi nyilvántartó szerv részére kötelezettségként írja elő, hogy azzal egyidejűleg, hogy az érintett adatainak nyilvántartásba vételét kezdeményezik (általában a nyomozó hatóság, ügyészség a megalapozott gyanú közlését követően), kapcsolati kódot képezzen és a bűnügyi nyilvántartásokban e kapcsolati kódot feltüntetve - személyazonosító adatok nélkül - kezelje a bűnügyi információkat.
+
+A (4) bekezdés azt az esetet szabályozza, amikor a szakértői nyilvántartó szerv az általa képzett, az ujj- és tenyérnyomatokhoz vagy DNS-profilokhoz kapcsolódó belső azonosító kódot a bűnügyi nyilvántartó szerv részére megküldi, ekkor ugyanis, tekintettel arra, hogy a szakértői szerv csak kivételesen, a törvényben meghatározott esetben jogosult megismerni az érintett személyazonosító adatait, a kapcsolati kódról a szakértői nyilvántartó szervet tájékoztatni kell, e kód nyilvántartása számára is kötelezettség.
+
+Az (5) bekezdés meghatározza a személyazonosító adatok, valamint az arcképmások nyilvántartásának időtartamát, amely időtartam ahhoz az időponthoz kötődik, amely időpontig az érintett adatait a bűnügyi nyilvántartások valamelyikében vagy a bűnügyi és rendészeti biometrikus nyilvántartásban - az arra vonatkozó szabályok szerint - nyilván kell tartani. Ezt követően a személyazonosító adatok és fényképek nyilvántartása okafogyottá válik, azokat törölni kell.
+
+Az 5. §-hoz
+
+A bűnügyi nyilvántartási rendszerbe, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett adatok nagy része statikus, azok pl. a bűnösséget megállapító jogerős ítéleten, a kényszerintézkedést elrendelő határozaton, stb. alapulnak, az adatfelvételt követően is változatlanok. A személyazonosító adatok egy része azonban tipikusan dinamikus adatállomány, pl. az érintett neve, lakcíme megváltozhat a nyilvántartásba történő felvétel időpontját követően. Tekintettel a bűnügyi nyilvántartások közhitelességére és az azokban nyilvántartott adatokhoz kapcsolódó vélelemre szükséges, hogy a személyazonosító adatok változásait a nyilvántartás megfelelően kövesse. E célt a bűnügyi nyilvántartó szerv részére a törvény által előírt személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartás központi szerve, az idegenrendészeti nyilvántartások hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartást vezető szerv által kezelt adatokkal történő elektronikus úton való adategyeztetés kötelezettsége valósítja meg. Ezt az adategyeztetést rendszeresen, minden, az érintett adataival végzett művelet esetén végre kell hajtani, így biztosítható, hogy az érintett személyazonosító adatai naprakészek legyenek.
+
+A 6. §-hoz
+
+Az érintett arcképmásának nyilvántartását - főszabály szerint - a törvény minden olyan személy tekintetében előírja, akivel szemben büntetőeljárást indítottak, valamint akit bűncselekmény elkövetése miatt jogerősen elítéltek.
+
+A büntetőeljárás összefoglaló fogalmába azonban az ún. közvádas büntető ügyek, a magánvádas büntető ügyek és a pótmagánvádas büntető ügyek is beleértendők. Erre tekintettel a törvény több kivételt is tartalmaz, amely esetekben bár büntetőeljárás indult, a gyanúsított arcképmását mégsem kell nyilvántartásba venni.
+
+Nem indokolt ugyanis nyilvántartásba venni annak a személynek az adatait, akivel szemben egy másik magánszemély eljárást kezdeményezett.
+
+Minderre tekintettel annak arcképmását, akivel szemben a büntetőeljárás magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján indult, függetlenül attól, hogy az ügyész átvette-e a vád képviseletét, továbbá akivel szemben pótmagánvádló vádindítványa alapján indult eljárás csak akkor kell nyilvántartani, ha ezen eljárásokban a bíróság végrehajtandó szabadságvesztés büntetést szabott ki és az ítélet jogerőre emelkedett.
+
+Az arcképmás megküldése a büntetőeljárást megindító nyomozó hatóság vagy ügyészség, elítélt személyek esetén a büntetés-végrehajtási intézet feladata.
+
+A fentieken túl nem kell nyilvántartani annak arcképmását sem a nyilvántartásban, akinek katonai bűncselekménye miatt a katonai ügyész a feljelentést elutasította, és az elbírálást fegyelmi eljárásra utalta, e cselekmények tárgyi súlya ugyanis nem indokolná az információs önrendelkezési jog korlátozását.
+
+A 7. §-hoz
+
+A törvény 7. §-a rendelkezik arról, hogy a bűnügyi nyilvántartási rendszeren belül milyen bűnügyi nyilvántartások vannak. E szerint meg kell különböztetni
+
+a) a bűntettesek nyilvántartását,
+
+b) a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartását,
+
+c) a büntetőeljárás hatálya alatt állók nyilvántartását, valamint
+
+d) a kényszerintézkedés hatálya alatt állók nyilvántartását.
+
+A törvény egyik fontos újítása a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásának kialakítása, ilyen nyilvántartást a Bnyt. ugyanis nem ismert. A Határozat - részben a nyilvántartási időkre vonatkozó kifogásai kapcsán - egyértelműen kifejtette, hogy nem megengedhető az, hogy a bűntettesek nyilvántartásában együtt legyenek nyilvántartva olyan elkövetőkhöz kapcsolódó adatok, aki nem mentesültek, és így büntetett előéletnek tekintendők, illetve olyan elkövetőkhöz kapcsolódó adatok, akik büntetlen előéletűnek tekintendők.
+
+A Határozat szerint ugyanis „a büntetőjogi felelősségre vonáshoz kapcsolt joghátrányok alkalmazásának végső tartományát jelentő mentesítés bekövetkeztével az önazonossághoz való joga alapján az adatalanynak megnyílik az igénye arra is, hogy a büntettesek nyilvántartása a továbbiakban személyes és különleges személyes adatait ne kezelje, és főként nem a még a büntetett előélethez fűződő hátrányok alól nem mentesültek adataival együtt. A „bűntettes” státus a Btk. rendelkezései folytán a mentesítéssel megszűnik, így ahhoz - általános következményként - a továbbiakban nem kapcsolódhatnak a terhelti állapothoz fűződővel azonos tartalmú alapjogi korlátozások, és különösen nem a mentesítés időtartamát lényegesen meghaladó, esetenként azt megtöbbszöröző időtartamban.
+
+Az Alkotmánybíróság elismeri, hogy lehetnek olyan alkotmányosan is igazolható indokok, amelyek kivételesen, a bűncselekmények és/vagy a bűntettesek között ésszerűen differenciálva megkívánják az adatalany egyes bűnügyi személyes adatainak a mentesítést követő időn túli megismerését vagy más módon történő felhasználását (pl. múltbeli eljárások célhoz kötött dokumentálása, jövőbeli bűnüldözési célok). Ebből a szempontból - céljaikat figyelembe véve - lehetnek különbségek a Bnyt. hatálya alá eső különböző nyilvántartások között (pl. a kriminalisztikai jellegű nyilvántartások). Ez lehetővé teszi, hogy azokra vonatkozóan, az arányosság követelményeit is figyelembe véve a jogalkotó eltérő szabályokat alkosson. A most vizsgált bűntettesek nyilvántartásának azonban nincs olyan igazolható funkciója, amely az ilyen, minden differenciálás nélküli alapjogi korlátozás kényszerű és elkerülhetetlen voltát igazolná. Mindez azt is jelenti, hogy a büntetlenséget igazoló erkölcsi bizonyítvány ellenére a várakozási idő alatt, a hátrányos jogkövetkezmények alól már mentesült és törvény által deklaráltan büntetlennek minősülő személyek a bűntettesek nyilvántartásban éppen úgy szerepelnek, mint azok, akiknek mentesülése még nem következett be.
+
+A bűnügyi személyes adatoknak a még büntetett előélethez fűződő hátrányok hatálya alatt álló adatalanyokkal megegyező módon és adattartamban való kezelése szükségtelen és aránytalan különbséget hoz létre a büntetlennek tekintendő személyek között, ezért az Alkotmány 70/A. § (1) bekezdésébe ütközően alkotmányellenes. A jelenleg érvényesülő megoldást alkotmányosan nem igazolja az sem, hogy a bűnügyi személyes adatok büntetőjogon kívül is felhasználhatók, illetve hogy az elítéltetéshez a jogrend a mentesítést követően is fűz következményeket. A bűntettesek nyilvántartásának célját a Bnyt. 9. §-a világosan körülírja, s ebbe ezen igények kielégítése nem fér fele. A bűntettesek nyilvántartásához büntetőjogon kívüli, esetlegesen indokolható érdekek korlátlan hozzárendelése, s ennek folytán a bűnügyi személyes adatok teljes körének, szélsőségesen hosszú időbeli határok között a bűntettesek nyilvántartásában történő kezelése sérti az osztott nyilvántartási rendszerek követelményét és lényegében jövőbeni, készletre történő adatgyűjtést jelent.”
+
+A fentiekre tekintettel a törvény kettéválasztja a Bnyt. szerinti bűntettesek nyilvántartását, kialakítva két, egymástól teljesen elkülönült nyilvántartást.
+
+A 8. §-hoz
+
+1. A törvény meghatároz alapvető, közös szabályokat, valamennyi bűnügyi nyilvántartásra vonatkozóan. Az (1) bekezdés szerinti garanciális szabály értelmében a bűnügyi nyilvántartások - és így az abban szereplő adatok - egymással nem kapcsolhatók össze, arra tekintettel, hogy különböző nyilvántartásokban kezelt adatok egymástól eltérő jogi helyzetben lévő adatalanyokra vonatkoznak.
+
+A (2) bekezdés értelmében az egyes nyilvántartásokban szereplő adatok kizárólag addig tarthatóak nyilván, amíg az adott nyilvántartásra vonatkozó nyilvántartásba vételi feltételek fennállnak, ha pedig az e törvényben meghatározott feltételek megszűnnek, az adatot haladéktalanul törölni kell.
+
+A bűnügyi nyilvántartás rendszerében előfordulhat azonban az, hogy egy személy adatai az egyik nyilvántartásból törlésre kerülnek, mert az abban való nyilvántartás feltételei megszűnnek, de ezzel egyidejűleg egy másik nyilvántartásban nyilvántartásba kell venni az adatait. Legkézenfekvőbb példa erre, hogy az elítélt adatai a mentesülés beálltáig a bűntettesek nyilvántartásában, ezt követően a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában szerepelnek, vagy hasonló eset fordulhat elő, ha a büntetőeljárás jogerős, bűnösséget megállapító ítélettel zárul. Ebben az esetben az adatalany adatai a büntetőeljárás hatálya alatt állók nyilvántartásában tovább nem szerepelhetnek, ugyanakkor meghatározott adatai nyilvántartásba vételre kerülnek a bűntettesek nyilvántartásában, vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában.
+
+Ugyanakkor tekintettel arra, hogy a bűnügyi nyilvántartások egymástól teljesen elkülönültek, a nyilvántartott adatokat sem helyezhetők át közvetlenül egyik nyilvántartásból a másikba, ezért szükség van átmeneti elhelyezésükre annak érdekében, hogy a (2) bekezdésben meghatározott elv mindenképpen érvényesüljön.
+
+Ez a rendelkezés emellett további két cél megvalósulását is biztosítja. Fontos szerepet játszik az adattakarékosság elvének érvényesülésében azzal, hogy a nyilvántartásban kezelt adatok csak egyszer kerülnek megküldésre. Amennyiben az adatokat az egyik nyilvántartásból törölni kell, és egy másikban nyilvántartásba kell venni, akkor az adatokat nem kell újból közölni, hanem a már meglévő adatok áthelyezésével kell nyilvántartásba venni azokat.
+
+A fentiekre vonatkozóan rendelkezik úgy a (3) bekezdés, hogy „ha az érintett adatait a bűnügyi nyilvántartások valamelyikéből e törvény szerint törlik, a törölt adatok közül azokat az adatokat, amelyeknek a 7. §-ban meghatározott másik nyilvántartásban való felvételéhez előírt feltételek bekövetkeztek, átmeneti adatállományba kell helyezni úgy, hogy azzal a nyilvántartással, amelyből az adatokat törölték, a kapcsolat ne legyen helyreállítható. Ha a másik nyilvántartásba való felvétel feltétele bekövetkezett, a másik nyilvántartásba az adatokat az átmeneti adatállományból huszonnégy órán belül kell felvenni, és az adatfelvétellel egyidejűleg az átmeneti adatállományt törölni kell.
+
+2. A bűnügyi nyilvántartás közös szabályai kapcsán kiemelendő, hogy a törvény szerinti szabályozás minden nyilvántartás esetében úgy épül fel, hogy meghatározásra kerül
+
+- az adott nyilvántartás célja,
+
+- az, hogy kiknek az adatait tartalmazza az nyilvántartás,
+
+- az, hogy pontosan milyen adatokat tartalmaz az nyilvántartás,
+
+- az, hogy az nyilvántartásban szereplő adatokat milyen szerv, hatóság közli a bűnügyi nyilvántartó szervvel, valamint
+
+- az, hogy az nyilvántartásban szereplő adatok meddig tarthatók nyilván.
+
+Emellett minden nyilvántartás tartalmazza azt a kapcsolati kódot, amely a személyazonosító adatok nyilvántartásában szereplő személyazonosító adatok megállapítását lehetővé teszi, valamint - a kényszerintézkedés hatálya alatt állók nyilvántartása kivételével - azt a belső azonosító kódot, amely az adott nyilvántartásban szereplő adatot közvetlenül köti össze a megfelelő biometrikus nyilvántartásban szereplő adattal, annak érdekében, hogy az adatok azonos időpontban kerüljenek törlésre.
+
+Mindemellett fontos alapelve az új törvénynek, hogy azokra a személyekre vonatkozóan, akikkel szemben a büntetőeljárást megszüntették, vagy akikkel szemben felmentő ítélet született - ide nem értve azt, ha a felmentő ítélet mellett kényszergyógykezelést, elkobzást vagy vagyonelkobzást rendeltek el - ha a nyilvántartásba vételnek egyébként más indoka nincsen, nem szerepelhetnek adatok a bűnügyi nyilvántartásokban. Vagyis a felmentő ítéletekre és büntetőeljárást megszüntető határozatokra vonatkozó adatok nem kerülnek a bűnügyi nyilvántartásokba.
+
+A hatályos Bnyt. szabályozása ezzel kapcsolatban ellentmondásos, mivel a törvény tárgyi hatályát meghatározó 7. § nem rendelkezik a felmentő ítéletekről, ugyanakkor a 10. § (1) bekezdés b) pontja értelmében a bűntettesek nyilvántartásában felmentés esetén is nyilván kell tartani az ott meghatározott adatokat. Tovább bonyolítja a helyzetet, hogy a 16. §, amely a bűnügyi nyilvántartásba felvett adatok kezelésének időtartamát határozza meg, nem rendelkezik a felmentés esetén a nyilvántartásba kerülő adatok nyilvántartási idejéről, ami azt sugallja, hogy azokat nem kell törölni meghatározott idő elteltével, és így bármeddig nyilvántarthatók.
+
+A 9. §-hoz
+
+A törvény az Avtv.-nek megfelelően meghatározza azokat a konkrét célokat, amelyek a törvényen alapuló kötelező adatkezelést indokolttá teszik, vagyis azt, hogy a nyilvántartásban felvett és kezelt adatok milyen célból kerültek nyilvántartásba vételre, illetve hogy milyen célból használhatók fel. Ennek értelmében a bűntettesek nyilvántartásának célja a büntetett előélet tényének igazolása, valamint a bűnösséget megállapító ítéletben foglalt büntetés és intézkedés végrehajtásának elősegítése.
+
+A 10. §-hoz
+
+A bűntettesek nyilvántartásában annak adatait kell nyilvántartani, akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, szabott ki és az ítélet jogerőre emelkedésének napján a Btk. alapján nem mentesült. Ennek következtében a jövőben nem mondható el általánosságban, hogy a bűntettesek nyilvántartásában olyan személyek adatait kell kezelni, akikkel szemben a bíróság büntetést szabott ki. Közérdekű munka, pénzbüntetés, vagy főbüntetés helyett alkalmazott mellékbüntetés esetén ugyanis az elítélt adatai nem kezelhetőek ebben a nyilvántartásban, hiszen a Btk. 102. § (1) bekezdés a) pontja értelmében ezekben az esetekben az elítélt az ítélet jogerőre emelkedésének napján mentesül.
+
+A nyilvántartáshoz egyébként szorosan kapcsolódik a hatósági erkölcsi bizonyítvány szabályozása is, hiszen egy nyilvántartott csak abban az esetben kaphat „tiszta” erkölcsi bizonyítványt, ha ebben a nyilvántartásban nem szerepelnek róla adatok.
+
+A 11. §-hoz
+
+A törvény részletesen felsorolja, hogy a bűntettesek nyilvántartásban melyek azok az adatok, amelyeket a nyilvántartásba vétellel érintett személyekkel kapcsolatban, illetve az őket érintő büntetőjogi jogkövetkezményekkel kapcsolatban nyilván kell tartani.
+
+Az (1) bekezdés a) pontja szerint, a nyilvántartás tartalmazza a személyazonosító adatokhoz tartozó kapcsolati kódot. Ennek értelmében a nyilvántartásban nem szerepelnek személyazonosító adatok, hanem csak azokkal való kapcsolatot megteremtő kód.
+
+A b) pont szerint, a nyilvántartás tartalmaz belső azonosító kódot is, amelyik a nyilvántartásban szereplő adatok összekapcsolhatóságát biztosítja a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő adatokkal. Ennek kapcsán kiemelendő, hogy a belső azonosító kód csak akkor biztosít a bűnügyi és rendészeti biometrikus adatok nyilvántartásával, ha ugyanazon büntetőeljárás eredményeként került felvételre az adat mindkét nyilvántartásban: ha az elítélt szerepel a bűntettesek nyilvántartásában, de egy másik ügyből kifolyólag kerül levételre a DNS-profilja, akkor azzal értelemszerűen nem lesznek összekapcsolhatók a bűntettesek nyilvántartásában szereplő adatok.
+
+A c) pont szerint nyilvántartott adatok alapján tartalmazza a nyilvántartás a bűncselekményre vonatkozó adatokat, így a bűncselekmény megnevezését, Btk. szerinti minősítését, elkövetésének helyét, idejét, megjelölve az elkövetői és elkövetési alakzatot, azt a tényt, hogy az elítélt visszaeső, különös visszaeső vagy többszörös visszaeső, valamint hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el.
+
+A d)-g) pontok szerint nyilvántartott adatok az egyes jogkövetkezményeket és az azokat megállapító, illetve azzal kapcsolatban döntést hozó bíróság megnevezését, határozatának számát és keltét, valamint a határozat jogerőre emelkedésének napját rendelik nyilvántartani a különböző jogkövetkezmények szerinti csoportosításban.
+
+A h)-i) és l) pontok szerint nyilvántartott adatok biztosítják, hogy a bíróság ítéletét a jogerőre emelkedés után, illetve a nyilvántartásba vételt követően érintő változások is bekerüljenek a nyilvántartásba, így az a nyilvántartott személy vonatkozásában mindig az aktuális állapotot tükrözze.
+
+A j) pont értelmében a nyilvántartás tartalmazza a törvényi mentesítés várható időpontját, vagyis azt az időpontot, ameddig a nyilvántartásban az adatok szerepelnek.
+
+A k) pont arra vonatkozó jelzés elhelyezését írja elő a nyilvántartásban, ha a nyilvántartásba vétel alapja egy más uniós tagállam bírósága által magyar állampolgárral szemben hozott jogerős, bűnösséget megállapító ítélet volt, és ez a tagállami ítélet utóbb a magyar bíróság által elismerésre került. Ebben az esetben az elismert ítéletet úgy kell tekinteni, hogy a cselekményt a magyar bíróság jogerősen elbírálta.
+
+A § (2) bekezdése a büntetés-végrehajtási adatoknak a nyilvántartásáról rendelkezik elsősorban arra tekintettel, hogy jelenleg nincsen egységes büntetés-végrehajtási nyilvántartás, azonban ezeknek az adatoknak a nyilvántartása feltétlenül indokolt a kiszabott büntetés vagy alkalmazott intézkedés végrehajtásának elősegítése céljából.
+
+A 12. §-hoz
+
+A törvény egyértelmű rendelkezéseket tartalmaz a bűntettesek nyilvántartásában szereplő adatok szolgáltatására vonatkozóan, vagyis pontosan meghatározza, hogy mely adatot, mely hatóság közli kötelezően a bűnügyi nyilvántartó szervvel. A nyilvántartásban szereplő kapcsolati kódot [11. § (1) bekezdés a) pont] és belső azonosító kódot [11. § (1) bekezdés b) pont] maga a bűnügyi nyilvántartó szerv képezi, a törvényi mentesítés várható időpontját [11. § (1) bekezdés j) pont] pedig a megküldött ítélet alapján maga határozza meg.
+
+A 13. §-hoz
+
+A bűntettesek nyilvántartásában a mentesítés beálltáig kell megőrizni a nyilvántartott adatokat. A mentesítés alatt természetesen nem feltétlenül csak a törvényi mentesítést, hanem éppúgy a bírósági határozat alapján vagy a kegyelem útján való mentesítést is érteni kell.
+
+A 14. §-hoz
+
+A törvény 7. §-ához fűzött indokolásánál elmondottaknak, illetve kifejezetten a Határozatban meghatározott elveknek megfelelően szükséges a Bnyt. bűntettesek nyilvántartásában szereplő adatok megfelelően elkülönült nyilvántartása.
+
+A törvény egyértelműen a mentesítés beállásánál húzza meg azt a választóvonalat, amely alapján az eddig egységes nyilvántartásban kezelt adatokat „szétválasztja”. Erre tekintettel került kialakításra a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása, amelynek célja kettős:
+
+Egyrészt - a bűntettesek nyilvántartásához hasonlóan - a bírósági ítéletben foglalt büntetés és intézkedés végrehajtásának elősegítése, különösen abban az esetben, amikor a korábbi büntetőjogi szankció megismerésének alkotmányos indoka van, azt az arra törvény alapján jogosult szervek megismerhessék. Ez elsősorban a büntetőbíróságok esetében merül fel a visszaesés megállapítása, illetőleg a bűnismétlés mérlegelése esetén.
+
+Ehhez kapcsolódóan a nyilvántartás további célja, hogy a mellékbüntetések, illetve intézkedések (pl. foglakoztatástól eltiltás, gépjárművezetéstől eltiltás) végrehajtása akkor is lehetővé váljon, ha egyébként az érintett a főbüntetés alól már mentesült, vagy csak mellékbüntetés kiszabására került sor.
+
+Másrészt a nyilvántartás további célja a hátrányos jogkövetkezmények végrehajtásának biztosítása. Egyes különösen bizalmas munkakörök betöltése, illetőleg közbiztonságra veszélyes tevékenységek végzése esetén ugyanis alkotmányosan indokolható, hogy törvény olyan feltételt írjon elő, amely a büntetlen előéleten túl, meghatározott ideig, bizonyos bűncselekmények miatti marasztalás esetén is kizárja a tevékenység végzésére való jogosultságot. E feltételek igazolását, illetőleg ellenőrzésének lehetőségét biztosítja ez az adatállomány.
+
+Ezek a törvényben meghatározott adatkezelési célok összhangban vannak a Határozatban kifejtettekkel, miszerint maga „az Alkotmánybíróság elismeri, hogy lehetnek olyan alkotmányosan is igazolható indokok, amelyek kivételesen, a bűncselekmények és/vagy a bűntettesek között ésszerűen differenciálva megkívánják az adatalany egyes bűnügyi személyes adatainak a mentesítést követő időn túli megismerését vagy más módon történő felhasználását (pl. múltbeli eljárások célhoz kötött dokumentálása, jövőbeli bűnüldözési célok). Ebből a szempontból - céljaikat figyelembe véve - lehetnek különbségek a Bnyt. hatálya alá eső különböző nyilvántartások között (pl. a kriminalisztikai jellegű nyilvántartások)”.
+
+A 15. §-hoz
+
+A törvény pontosan meghatározza, hogy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása annak adatait kell nyilvántartani,
+
+a) akinek az adatait a bűntettesek nyilvántartásából a mentesítés folytán törölték,
+
+b) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és az ítélet jogerőre emelkedésének napján mentesült,
+
+c) akivel szemben a bíróság - a Be. 330. § (2) bekezdés c) pont alapján - bűnösséget megállapító jogerős ítéletet hozott, de büntetés kiszabását mellőzte,
+
+d) akivel szemben a bíróság felmentő ítéletet hozott, de vele szemben kényszergyógykezelést, elkobzást, vagyonelkobzást alkalmazott,
+
+e) akivel szemben a bíróság próbára bocsátást alkalmazott,
+
+f) akit az ügyész megrovásban részesített.
+
+Ebből látható, hogy ez a nyilvántartás olyan nyilvántartottakra vonatkozóan tartalmaz adatot, akik már mentesültek, tehát büntetlen előéletűeknek tekintendők [Btk. 100. § (2) bekezdés], és így „tiszta” erkölcsi bizonyítványt kaphatnak, azonban e személyek nyilvántartása a 14. §-ban meghatározott célokból indokolt.
+
+A 16. §-hoz
+
+A törvény részletesen felsorolja, hogy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában melyek azok az adatok, amelyeket a nyilvántartásba vétellel érintett személyekkel kapcsolatban, illetve az őket érintő büntetőjogi jogkövetkezményekkel kapcsolatban nyilván kell tartani.
+
+Az (1) bekezdés a) és b) pontja szerint, a nyilvántartás tartalmazza a személyazonosító adatokhoz tartozó kapcsolati kódot, valamint a belső azonosító kódot is. Ezekre a 11. §-hoz fűzött indokolásban elmondottak vonatkoznak.
+
+A c) pont szerint nyilvántartott adatok alapján tartalmazza a nyilvántartás a bíróság által megállapított bűncselekményre vonatkozó adatokat, így a bűncselekmény megnevezését, Btk. szerinti minősítését, elkövetésének helyét, idejét, megjelölve az elkövetői és elkövetési alakzatot, azt a tényt, hogy az elítélt visszaeső, különös visszaeső vagy többszörös visszaeső, valamint hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el.
+
+A d) pont az ügyészi megrovásra vonatkozó adatok nyilvántartását írja elő, ilyen adatok értelemszerűen nem szerepelnek a bűntettesek nyilvántartásában.
+
+Az e)-h) pontok szerint nyilvántartott adatok az egyes jogkövetkezményeket és az azokat megállapító, illetve azzal kapcsolatban döntést hozó bíróság megnevezését, határozatának számát és keltét, valamint a határozat jogerőre emelkedésének napját rendelik nyilvántartani a különböző jogkövetkezmények szerinti csoportosításban.
+
+Az i) és l) pontok szerint nyilvántartott adatok biztosítják, hogy a bíróság ítéletét a jogerőre emelkedés után, illetve a nyilvántartásba vételt követően érintő változások is bekerüljenek a nyilvántartásba, így az a nyilvántartott személy vonatkozásában mindig az aktuális állapotot tükrözze.
+
+A j) pont arra vonatkozó jelzés elhelyezését írja elő a nyilvántartásban, ha a nyilvántartásba vétel alapja egy más uniós tagállam bírósága által magyar állampolgárral szemben hozott jogerős, bűnösséget megállapító ítélet volt, és ez a tagállami ítélet utóbb a magyar bíróság által elismerésre került. Ebben az esetben az elismert ítéletet úgy kell tekinteni, hogy a cselekményt a magyar bíróság jogerősen elbírálta.
+
+A k) pont értelmében a nyilvántartás nem csak az esetleges mentesítés, időpontját tartalmazza - ami bizonyos esetekben megegyezik a nyilvántartásba vétel időpontjával -, hanem a nyilvántartásból való törlés időpontját is az e törvényben meghatározott nyilvántartási idővel számolva.
+
+A § (2) bekezdése a büntetés-végrehajtási adatoknak a nyilvántartásban való kezeléséről rendelkezik elsősorban arra tekintettel, hogy jelenleg nincsen egységes büntetés-végrehajtási nyilvántartás, azonban ezeknek az adatoknak a nyilvántartása feltétlenül indokolt a kiszabott büntetés vagy alkalmazott intézkedés végrehajtásának elősegítése céljából.
+
+A bűntettesek nyilvántartásban szereplő büntetés-végrehajtási adatokhoz képest ebben a nyilvántartásban több adatot kell kezelni. A (2) bekezdés e)-g) pontjai alapján kell nyilvántartani a javítóintézeti nevelésre vonatkozó adatokat, amely - tekintettel arra, hogy intézkedés - nem okoz büntetett előéletet a marasztalt személynek. Hasonló indok miatt kell csak ebben a nyilvántartásban nyilvántartani a j) pont szerinti kényszergyógykezelésre vonatkozó adatokat.
+
+A 17. §-hoz
+
+A törvény egyértelmű rendelkezéseket tartalmaz a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában szereplő adatok szolgáltatására vonatkozóan, vagyis pontosan meghatározza, hogy mely adatot, mely hatóság közli kötelezően a bűnügyi nyilvántartó szervvel. A nyilvántartásban szereplő kapcsolati kódot [16. § (1) bekezdés a) pont] és belső azonosító kódot [16. § (1) bekezdés b) pont] maga a bűnügyi nyilvántartó szerv képezi, a mentesítés, a nyilvántartásba vétel, valamint a nyilvántartásból való törlés várható időpontját [16. § (1) bekezdés k) pont] pedig a megküldött ítélet alapján maga határozza meg.
+
+A 18-20. §-hoz
+
+A Határozat a Bnyt. 16. §-át, az Alkotmány 70/A. § (1) bekezdésébe ütközően alkotmányellenesnek nyilvánította, ezért megsemmisítette, az alábbi indokok miatt: „A bűnügyi személyes adatoknak a még büntetett előélethez fűződő hátrányok hatálya alatt álló adatalanyokkal megegyező módon és adattartamban való kezelése szükségtelen és aránytalan különbséget hoz létre a büntetlennek tekintendő személyek között, ezért az Alkotmány 70/A. § (1) bekezdésébe ütközően alkotmányellenes. A jelenleg érvényesülő megoldást alkotmányosan nem igazolja az sem, hogy a bűnügyi személyes adatok büntetőjogon kívül is felhasználhatók, illetve hogy az elítéltetéshez a jogrend a mentesítést követően is fűz következményeket. A bűntettesek nyilvántartásának célját a Bnyt. 9. §-a világosan körülírja, s ebbe ezen igények kielégítése nem fér fele. A bűntettesek nyilvántartásához büntetőjogon kívüli, esetlegesen indokolható érdekek korlátlan hozzárendelése, s ennek folytán a bűnügyi személyes adatok teljes körének, szélsőségesen hosszú időbeli határok között a bűntettesek nyilvántartásában történő kezelése sérti az osztott nyilvántartási rendszerek követelményét és lényegében jövőbeni, készletre történő adatgyűjtést jelent.
+
+Az információs önrendelkezéshez való jog szoros kapcsolatban áll az emberi méltóságoz, a személyiség szabad kibontakozásához való joggal. Ebből az is következik, hogy adatalanyt megilleti az a garancia, hogy adatait azok valóságtartalmának megfelelően csak a legszükségesebb időtartamban és adatmennyiségben, az adatbiztonság szabályainak megfelelően kezeljék. A büntetett előélethez fűződő hátrányok alól már mentesült személyek esetében nincs a további adatkezelésnek olyan általános célja, amely meggyőzően indokolná, hogy ezek az adatalanyok miért a büntetőeljárás hatálya, vagy a hátrányos jogkövetkezmények hatálya alatt állókkal esnek azonos megítélés alá, nem pedig más büntetlen előéletű természetes személyekkel. Az egyenlő méltóságú személyként történő kezelés szempontjából a büntetlenség „állapota” szolgálhat az adatalanyok helyzetének összehasonlításául. Megfelelő alkotmányossági követelmények érvényesülése mellett ezen belül lehet ugyan eltérés az adatalanyok között, minthogy a büntetlenek kategóriája is legalább három csoportot takar, de ez nem terjedhet odáig, hogy az e kategóriába tartozók a büntettet előéletűekkel esnek azonos megítélés alá”.
+
+A törvény ezen indokokra tekintettel választja külön az eddig egységes bűntettesek nyilvántartását, és alakít ki külön nyilvántartást a még nem mentesült, tehát büntetett előéletű személyek adatainak kezelése, illetve a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek adatinak nyilvántartására. Az utóbbiakra vonatkozó adatok nyilvántartási idejét határozzák meg a törvény 18-20. §-ai.
+
+A Bnyt. 16. §-a - egységesen a büntetett és a büntetlen előéletű személyek tekintetében is - az adatok nyilvántartási idejét főszabály szerint a mentesítés beálltától számított három, öt vagy tizenöt évben határozta meg, a nyilvántartási idők meglehetősen kevés differenciálással. A törvény a nyilvántartási a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában kezelt adatokra - az Alkotmánybíróság által lefektetett elvek alapulvételével - egy olyan szabályozás került kialakításra, amelynek főbb elvei a következők:
+
+- a nyilvántartási idő - egy kivétellel, ahol a nyilvántartási idő két év - legalább a mentesítés beálltától számított három év,
+
+- a nyilvántartási idő - bizonyos e törvényben meghatározott kivételekkel - nem lehet több mint a mentesítés beálltától számított tizenkettő év,
+
+- minél súlyosabb bűncselekmény elkövetése miatt kerültek be a nyilvántartott személy adatai a nyilvántartásba, annál hosszabb ideig lesznek nyilvántartva az adatai,
+
+- a fenti pontnak megfelelően különböző nyilvántartási idő vonatkozik a szándékos és a gondatlan elkövetésre, amely megkülönböztetés a visszaesés és a bűnismétlés szempontjából is indokolt,
+
+- a nyilvántartott adatok nem kerülnek törlésre a nyilvántartott személy halálakor,
+
+- a különböző nyilvántartásokban meghatározott nyilvántartási idők összhangban legyenek egymással. Így például ha egy nyilvántartott adatait a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában tizenkettő évig kell nyilvántartani, akkor a DNS-profil nyilvántartásban tőle származó DNS-profil (amit az elkövetett bűncselekmény jellege miatt tartanak nyilván) is ennyi ideig legyen nyilvántartva. Ezen elvnek köszönhetően a különböző nyilvántartásokban meghatározott nyilvántartási idők minden esetben összhangban vannak a más nyilvántartásban szereplő nyilvántartási időkkel [lásd az 51. § (1) bekezdését és a 66. § (1) bekezdését],
+
+- a nyilvántartási idők a Bnyt. szabályaihoz képest jobban differenciáltak, hiszen három, öt, nyolc, tíz és tizenkettő éves nyilvántartási időt különböztet meg.
+
+A törvény 18. §-a határozza meg a szándékos bűncselekmény elkövetése elítélt személyek adataira vonatkozó nyilvántartási időt, megkülönböztetve a végrehajtandó szabadságvesztés kiszabását [(1) bekezdés], a végrehajtás felfüggesztését [(3) bekezdés], szabadságvesztés büntetés, közérdekű munka és pénzbüntetés kiszabását, valamint mellékbüntetés kiszabását [(4) bekezdés]. Ennek kapcsán mindenképpen kiemelendő, hogy a pénzbüntetésre vonatkozó nyilvántartási idők mind a végrehajtandó, mind a végrehajtásában felfüggesztett pénzbüntetésre vonatkoznak.
+
+A törvény 19. §-a a gondatlan elkövetésre vonatkozó nyilvántartási időket határozza meg, míg a 20. § az „egyéb”, nyilvántartásba való felvétel miatt meghatározott nyilvántartási időket határozza meg.
+
+A nyilvántartott adatok nyilvántartási idejének meghatározásánál a törvény abból indul ki, hogy mi lehet az a leghosszabb időpont, amikor a Btk. anyagi jogi szabályainak alkalmazása során egy marasztaló ítéletnek még kihatása lehet az elkövető jogi helyzetére.
+
+A 21. §-hoz
+
+A büntetőeljárás hatálya alatt állók nyilvántartásában szereplő adatok kezelésének célja kettős. Egyfelől az igazságszolgáltatás hatékony működése érdekében indokolt, hogy ha valaki ellen büntetőeljárás folyik, az - a hozzáférésre jogosult hatóságok számára - megismerhető legyen, hiszen a gyors és érdemi döntéshozatalt számottevően hátráltatja, illetve ellehetetleníti, ha az eljáró hatóságok nem rendelkeznek információval arról, hogy az általuk büntetőeljárás alá vont személy ellen más hatóság folytat-e büntetőeljárást, s ha igen, az milyen stádiumban van. Ilyen jellegű ismeret hiányában nincs mód az ügyek egyesítésére sem, emiatt párhuzamosan folynának büntetőeljárások. Másfelől viszont önmagában a büntetőeljárás hatálya alatt állás bizonyos foglalkozások gyakorlásának, tevékenységek ellátásának tényleges akadálya. Az erre vonatkozó korlátozásokat az egyes ágazati törvények (például a légi közlekedésről szóló 1995. évi XCVII. törvény) tartalmazzák, nyilvántartásban szereplő adatok pedig lehetővé teszik ezen korlátozások tényleges érvényesítését.
+
+Megemlítendő ugyanakkor, hogy a jogállamiság követelményének érvényesülése és az eljárás alá vont személyek jogainak védelme szintén a nyilvántartás céljaként fogalmazódik meg.
+
+A 22. §-hoz
+
+A törvény főszabályként meghatározza, hogy a büntetőeljárás hatálya alatt állók nyilvántartásában annak adatait kell nyilvántartani, akivel szemben büntetőeljárás indult.
+
+A büntetőeljárás összefoglaló fogalmába azonban az ún. közvádas büntető ügyek, a magánvádas büntető ügyek és a pótmagánvádas büntető ügyek is beleértendők. Erre tekintettel a törvény több kivételt is tartalmaz, amely esetekben bár büntetőeljárás indult, a gyanúsított adatait mégsem kell nyilvántartásba venni.
+
+Nem indokolt ugyanis nyilvántartásba venni annak a személynek az adatait, akivel szemben egy másik magánszemély eljárást kezdeményezett, különös tekintettel arra, hogy a jogalkalmazásban a pótmagánvádas eljárások gyakran kifejezetten abból célból indulnak, hogy az eljárás elszenvedőjét joghátrány érje. Elég csak utalni arra, hogy bizonyos foglalkozások nem gyakorolhatóak, bizonyos tisztségek nem tölthetők be a büntetőeljárás hatálya alatt állás ideje alatt, illetve hogy a jövőben kiadásra kerülő hatósági bizonyítvány feltüntetné azoknak az adatait, akik a büntetőeljárás hatálya alatt állnak.
+
+Minderre tekintettel nem kell nyilvántartásba venni annak adatait,
+
+- akivel szemben a büntetőeljárás magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján indult, függetlenül attól, hogy az ügyész átvette-e a vád képviseletét, vagy
+
+- akivel szemben pótmagánvádló vádindítványa alapján indult eljárás.
+
+Vagyis e nyilvántartásban csak a közvádas büntető ügyek miatt indult büntetőeljárás hatálya alatt állókra vonatkozó adatok szerepelnek.
+
+A fentieken túl nem kell nyilvántartani annak adatait sem a nyilvántartásban, akinek katonai bűncselekménye miatt a katonai ügyész a feljelentést elutasította, és az elbírálást fegyelmi eljárásra utalta.
+
+A 23. §-hoz
+
+A törvény részletesen meghatározza büntetőeljárás hatálya alatt állókkal kapcsolatban nyilvántartandó adatok körét. Eszerint - a törvény 9. §-ához fűzött indokolásnál elmondottaknak megfelelően - a nyilvántartás tartalmazza a személyazonosító adatokhoz tartozó kapcsolati kódot, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő adatokkal való összekapcsolhatóságot biztosító belső azonosító kódot.
+
+A nyilvántartás tartalmazza a büntetőeljárás alapjául szolgáló bűncselekmény megalapozott gyanú szerinti megnevezését, minősítését, az elkövetési helyét, idejét, valamint a megalapozott gyanú közlésének időpontját. Tekintettel arra, hogy a terhelt mindaddig szerepel a nyilvántartásban, amíg a büntetőeljárás jogerősen befejeződött, vagy a nyomozás megszűnt, ezért a nyilvántartásban indokolt nyilvántartani a vádemeléssel, a vádemelés elhalasztásával, nyomozás vagy eljárás felfüggesztésével kapcsolatos adatokat is. Ennek kapcsán kiemelendő, hogy a Bnyt.-ben a vádemelés elhalasztására vonatkozó adatok - tévesen - a bűntettesek nyilvántartásában szerepeltek.
+
+A h)-j) pontok alapján a nyilvántartás egyéb, az eljárás szempontjából jelentőséggel bíró adatokat is tartalmaz.
+
+A 24. §-hoz
+
+A törvény egyértelmű rendelkezéseket tartalmaz a büntetőeljárás hatálya alatt állók nyilvántartásában szereplő adatok szolgáltatására vonatkozóan, vagyis pontosan meghatározza, hogy mely adatot, mely hatóság közli kötelezően a bűnügyi nyilvántartó szervvel. A nyilvántartásban szereplő kapcsolati kódot [23. § a) pont] és belső azonosító kódot [23. § b) pont] maga a bűnügyi nyilvántartó szerv képezi.
+
+A 25. §-hoz
+
+A Bnyt. 29. §-a úgy rendelkezett, hogy „a büntetőeljárás alatt állók nyilvántartásába felvett adatokat a büntetőeljárás jogerős befejezéséig, illetve a nyomozás, a büntetőeljárás megszüntetése esetén az erről szóló határozat jogerőre emelkedésének napjáig kell nyilvántartani”.
+
+A törvény alapvetően nem változtat a nyilvántartásban szereplő adatok nyilvántartási idején, azonban az alábbi pontosítást tesz. „A büntetőeljárás megszüntetésének, továbbá a büntetőeljárás jogerős befejezésének időpontja” kifejezés kapcsán fel kell hívni arra a figyelmet, hogy a büntetőeljárás megszüntetése, illetve a büntetőeljárás jogerős befejezése kifejezés kizárólag a büntetőeljárás bírósági szakaszában értelmezhető, a korábbi eljárási szakaszokban a Be. szerint nem a büntetőeljárást, hanem a nyomozást szüntetik meg, illetve fejezik be. Megjegyzendő továbbá, hogy a megszüntetés is a befejezés egyik módja, ezért nem érthető a külön nevesítés oka. Emellett jogerőre csupán a bírósági határozat „képes”, a nyomozó hatóság, illetve az ügyész határozata nem.
+
+A fentiekre tekintettel a törvény a büntetőeljárás hatálya alatt állók nyilvántartásába felvett adatokat nyilvántartási idejére vonatkozó rendelkezést úgy alakítja át a célhozkötöttség elvének szem előtt tartásával, hogy kimondja: az adatokat a büntetőeljárás jogerős befejezéséig, vagy a nyomozás megszüntetéséig kell nyilvántartani. A büntetőeljárás jogerős befejezése nyomán e nyilvántartásban nyilvántartott adatok vagy a bűntettesek nyilvántartásába, vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába kerülnek, vagy felmentő ítélet esetén törlésre kerülnek (kikerülnek a nyilvántartásból).
+
+A 26. §-hoz
+
+Az igazságszolgáltatási és bűnüldözési feladatok - a nemzetközi egyezmények által is megkövetelt ésszerű időn belüli - ellátásában meghatározó szerepe van a bűncselekmény elkövetésével gyanúsított személy aktuális hollétéről információt adó adatoknak. Az említett okokból nem csak az minősül releváns adatnak, hogy egy adott személlyel szemben éppen folyik-e büntetőeljárás, hanem az is, hogy annak keretében elrendelték-e előzetes letartóztatását, vagy lakhelyelhagyási tilalom házi őrizet, távoltartás, ideiglenes kényszergyógykezelés foganatosítását. Emellett indokolt nyilvántartani azt is, hogy ha óvadék letétele ellenében került sor az előzetes letartóztatás megszüntetését.
+
+A kényszerintézkedés hatálya alatt állók nyilvántartásának céljaként ennek megfelelően az érintettek és mások jogainak és biztonságának védelmét, illetve a büntetőeljárások gyors és hatékony lefolytatásának elősegítését határozza meg a törvény.
+
+Ezzel a nyilvántartással kapcsolatban fontos kiemelni, hogy a bűnügyi nyilvántartás rendszerének egészét tekintve a büntetőeljárás hatálya alatt állók nyilvántartásához is kapcsolódhatni, hiszen arra a személyre vonatkozóan, akihez kapcsolódó adatokat ebben a nyilvántartásban kezelni kell, biztosan kell adatokat kezelni a büntetőeljárás hatálya alatt állók nyilvántartásában is. Egyszerűbben fogalmazva, a kényszerintézkedés hatálya alatt állás ténye összefügg a büntetőeljárás hatálya alatt állás tényével. Ugyanakkor a törvény részben a nyilvántartások teljes elkülönítése érdekében, részben pedig a nyilvántartásokban kezelt adatok eltérő volta miatt nem kapcsolja össze a két nyilvántartást, hanem két, teljesen elkülönülő nyilvántartásról rendelkezik.
+
+A 27. §-hoz
+
+A kényszerintézkedés hatálya alatt állók nyilvántartása azokkal a személyekkel kapcsolatban tartalmaz adatot, akikkel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet, távoltartást, illetve ideiglenes kényszergyógykezelést rendeltek el, továbbá akinek előzetes letartóztatása óvadék letétele miatt szűnt meg.
+
+A 28. §-hoz
+
+A kényszerintézkedés hatálya alatt állók - a törvény 9. §-ához fűzött indokolásnál elmondottaknak megfelelően - nyilvántartása tartalmazza a személyazonosító adatokhoz tartozó kapcsolati kódot, az elrendelt kényszerintézkedést és annak időtartamát, az elrendelő határozat szerinti bűncselekmény megnevezését, Btk. szerinti minősítését, valamint elkövetésének helyét, idejét. A nyilvántartás adatai között kell kezelni a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról határozatot hozó bíróság megnevezését, határozatának számát és keltét is.
+
+A nyilvántartott adatoknak nem képezi részét a kényszerintézkedés megszüntetésének időpontja, ugyanis ekkor - a nyilvántartás okafogyottá válása, így a további adatkezelés célhozkötöttségének hiánya miatt - törölni kell az érintett személyre vonatkozó adatokat. A megszüntetés időpontjának nyilvántartásba vétele pedig azt jelentené, hogy továbbra is nyilván lenne tartva az, akivel szemben megszüntették a kényszerintézkedést. Szintén nem képezi részét a nyilvántartásnak - a bűnügyi nyilvántartások közül egyedüliként - a belső azonosító kód, tekintettel arra, hogy egy biometrikus adatnak a bűnügyi és rendészeti biometrikus adatok nyilvántartásába való felvételének nem a kényszerintézkedés elrendelése, hanem a büntetőeljárás megindítása lehet oka (lásd a törvény 44. § és 59. §-át).
+
+A törvény szerint nyilvántartani rendelt adatoknak az ismerete annak megállapíthatóságához szükséges, hogy egy adott hatóság által folytatott büntetőeljárásban gyanúsítottként eljárás alá vont személy nem áll-e kényszerintézkedés hatálya alatt más hatóság előtt indult eljárásban. Ezen információk elengedhetetlenek az adott büntetőeljárásban végzendő eljárási cselekmények, illetve kényszerintézkedések foganatosításának indokoltságáról történő döntéshez. Az előzetes letartóztatás óvadék letétele ellenében való megszüntetésének nyilvántartása elsősorban arra tekintettel indokolt, hogy a bíróság bizonyos esetekben [lásd Be. 148. § (1) bekezdés] az óvadék letételét követően szabadlábra helyezett terhelt előzetes letartóztatását rendelheti el.
+
+A 29. §-hoz
+
+A törvény egyértelmű rendelkezéseket tartalmaz a kényszerintézkedések hatálya alatt állók nyilvántartásában szereplő adatok szolgáltatására vonatkozóan, vagyis pontosan meghatározza, hogy a nyilvántartásban szereplő valamennyi adatot a kényszerintézkedés elrendeléséről, valamint meghosszabbításáról határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel. A nyilvántartásban szereplő kapcsolati kódot [28. § bekezdés a) pont] maga a bűnügyi nyilvántartó szerv képezi. Tekintettel arra, hogy a kényszerintézkedések megszüntetéséről az ügyészség is határozhat, ezért ezen adat tekintetében az adatközlésre kötelezettek között a bíróság mellett az ügyészséget is meg kell jelölni.
+
+A 30. §-hoz
+
+Az igazságszolgáltatás, a büntetőeljárás során nincs szükség annak utólagos megállapíthatóságára, hogy a terhelt ellen korábban folyamatban volt büntetőeljárás során alkalmaztak-e kényszerintézkedést. Abból kifolyólag, hogy az adatkezelés céljának megléte csak a kényszerintézkedés elrendelésétől annak megszüntetéséig tartó időre korlátozódik, a kényszerintézkedés alatt állókat addig indokolt nyilvántartani, amíg velük szemben meg nem szüntetik az elrendelt kényszerintézkedést.
+
+A 31-34. §-hoz
+
+Indokolt kialakítani egy olyan különálló nyilvántartást, amely „ideiglenes” nyilvántartásként tartalmazza az európai uniós tagállamokban született magyar állampolgárokra vonatkozó, bűnösséget megállapító ítéletekben szereplő adatokat, függetlenül attól, hogy azt a Fővárosi Bíróság elismerte-e vagy sem. Ennek célja az, hogy Magyarország be tudjon kapcsolódni a bűnügyi nyilvántartások adatainak Európai Unión belüli cseréjébe, amely ma még mechanikus úton történik, de az Európai Unió meghatározott időn (3 év) belül erre egységes elektronikus hálózatot, illetőleg információcsere-rendszert fog létrehozni, amelyen belül az adatok egységes kódrendszer alkalmazásával kerülnek majd kicserélésére (ECRIS). E szabályozás és rendszer nem érinti, és nem harmonizálja a tagállami büntetőjogi anyagi jogi szabályokat, hanem csak az adatcserét segíti elő. Sőt, a tárgybeli uniós kerethatározat hatálybalépése után az Európai Unión belül a bűnügyi nyilvántartásban szereplő adatok cseréjére nem a bűnügyi jogsegély keretében, hanem e rendszer alapján kerül sor.
+
+A törvény nem a Tanács 2005. november 21-én kelt, a bűnügyi nyilvántartásban szereplő információk cseréjéről szóló 2005/876/IB határozat rendelkezéseinek, hanem a határozatot felváltó 2009/315/IB kerethatározat rendelkezéseinek hazai jogba való átültetését végzi el. A kerethatározat és annak végrehajtási határozata ugyanis a 2009. februári BIÜT ülésen elfogadásra került, és 2009. IV. 27-én hatályba lépett. A kerethatározat a határozat szabályaihoz képest az információcserével szemben magasabb fokú alakiságot követel meg, ugyanakkor több garanciát is biztosít az adatok védelmére.
+
+A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény IV. Fejezete rendelkezik a külföldi ítéletek érvényének elismeréséről. Ennek értelmében a Fővárosi Bíróság minden külföldi ítélet érvényének elismerését egyedileg megvizsgálja és amennyiben az érvényét elismeri, azt a külföldi ítéletet úgy kell tekinteni, mintha a cselekményt eredetileg is magyar bíróság bírálta volna el jogerősen [1996. évi XXXVIII. törvény 47. § (3) bekezdés]. Erre tekintettel a külföldi ítéletben szereplő adatok csak ekkor kerülnek felvételre a bűnügyi nyilvántartás megfelelő nyilvántartásába.
+
+Itt említendő meg, hogy az 1996. évi XXXVIII. törvény rendelkezései minden külföldi - tehát uniós tagállami és harmadik országból származó - ítélet átültetésére vonatkozik, ugyanakkor a kerethatározat csak tagállami ítéletekre vonatkozóan ír elő tájékoztatási kötelezettséget.
+
+A tagállami ítéletek nyilvántartásának célja az, hogy valamennyi tagállam „naprakész” legyen a saját állampolgáraival szemben valamely másik tagállamban hozott, bűnösséget megállapító ítéletek tartalmáról. Emellett további cél, hogy az így a nyilvántartásba került adatokról a tagállamok megfelelő tájékoztatást tudjanak adni akkor, amikor egy erre feljogosított tagállami hatóság egy magyar állampolgár bűnügyi nyilvántartásban szereplő adatait kívánja megismerni. Ugyanakkor mivel a Fővárosi Bíróság fentebb ismertetett elismerési eljárása időben elhúzódhat, és mert a külföldi ítélet érvényének elismeréséig a külföldi ítéletben szereplő adatok a bűnügyi nyilvántartásba nem kerülhetnek felvételre, a törvény kialakítja a bűnügyi nyilvántartáson belül ezt az ideiglenes nyilvántartást, amely a magyar állampolgárokra vonatkozó tagállami ítéletekre vonatkozóan naprakész adatokat biztosít. Ugyanakkor az itt szereplő adatok - a külföldi ítélet érvényének elismerése hiányában - még nem kerülnek be a bűntettesek, vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába.
+
+A tagállami ítéletek nyilvántartásában szereplő adatokat a tagállami ítéletről szóló tájékoztatásban meghatározott mentesítés beálltának idejéig kell nyilvántartani. Ha azonban ez a tájékoztatás nem tartalmaz mentesítésre vonatkozó adatot, az adatokat akkor kell törölni, amikor a tagállam kijelölt központi hatóságának tájékoztatása szerint azt az érintett tagállam bűnügyi nyilvántartásából törölték. Erre vonatkozó rendelkezést tartalmaz a törvény 34. §-ának (1) bekezdése.
+
+Mindemellett kiemelendő, hogy amennyiben a Fővárosi Bíróság a tagállami - és ezen nyilvántartásban szereplő - ítélet érvényét elismeri, akkor az adatok bevezetésre kerülnek a bűnügyi nyilvántartás megfelelő nyilvántartásába, azzal a jelzéssel, hogy azok egy külföldi ítélet érvényének elismerése útján kerültek be, de ezzel párhuzamosan megmaradnak a tagállami ítéletek nyilvántartásában is.
+
+Egy magyar állampolgárral szemben harmadik országban született marasztaló ítélet - tekintettel arra, hogy ebbe a nyilvántartásba nem kerülhet be, hiszen nem uniós tagállamban született - csak akkor „jelenik meg” a bűnügyi nyilvántartásban, ha annak érvényét a Fővárosi Bíróság elismerte. Ugyanakkor mivel a harmadik országokban született marasztaló ítéletek vonatkozásban nem áll fenn az uniós tájékoztatási kötelezettség, ezért ez a rendszer nem ellentétes sem uniós, sem hazai jogszabállyal.
+
+A törvény 31. §-a határozza meg az Európai Unió tagállamainak bírósága által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásának fentebb meghatározott célját.
+
+A 32. § meghatározza, hogy tagállami ítéletek nyilvántartásában annak a magyar állampolgárnak az adatait kell nyilvántartani, akinek bűnösségét az Európai Unió más tagállamának bírósága jogerősen megállapította. Ennek kapcsán említést kell tenni arról, hogy az Európai Közösségek Bírósága 2006. szeptember 28-i ítélete (C-150/05. sz. ügy Jean Leon Van Straaten kontra Staat der Nederlanden, Republiek Italië) értelmében a Schengeni Megállapodás végrehajtásáról szóló, Schengenben, 1990. június 19-én aláírt egyezmény 54. cikkét akként kell értelmezni, hogy az ezen egyezmény 54. cikkében rögzített ne bis in idem elvét valamely részes állam igazságügyi hatóságainak a terheltet bizonyítékok hiányában felmentő jogerős határozatára alkalmazni kell. Ugyanakkor tekintettel arra, hogy a kerethatározat nyomán a felmentő ítéletek nem kerülnek megküldésre, valamint hogy a bűnügyi nyilvántartás egésze sem tartalmaz felmentő ítéletekre vonatkozó adatokat, ezért azok a tagállami ítéletek nyilvántartásában sem szerepelhetnek.
+
+A 33. § határozza meg azt - az unió más tagállamának kijelölt központi hatósága által megküldött - adatkört, amit tagállami ítéletek nyilvántartása tartalmaz. Ebből kiemelendő, hogy a nyilvántartás tartalmazza az érintett ujjnyomatát is, ha az megküldésre kerül. Ez az ujjnyomat mindaddig nem kerül átvételre az e törvény szerint szabályozott daktiloszkópiai nyilvántartásba, ha a külföldi ítélet érvényét magyar bíróság nem ismert el. Ha elismerte, és a daktiloszkópiai nyilvántartásba vétel feltételei fennállnak, a megküldött ujjnyomatot ott kell nyilvántartásba venni. Ha a nyilvántartott adatokban a nyilvántartás során bármilyen változás következik be, az erről szóló tájékoztatást követően haladéktalanul át kell azt vezetni a nyilvántartásban szereplő adatokon. Erről rendelkezik a 34. § (2) bekezdése.
+
+A nyilvántartás a többi nyilvántartástól teljesen különálló, a benne szereplő adatok igénylésére is speciális szabályok vonatkoznak. Ezt a rendszerbeli elkülönülést mutatja az is, hogy a nyilvántartásban szereplő adatok sem a bűnügyi nyilvántartásokban, sem a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő adatokkal nem kapcsolható össze, ezért nem tartalmaz a nyilvántartás egyetlen kódot sem, amely más nyilvántartással kapcsolatot teremthetne.
+
+A 33. § (3) bekezdése arra vonatkozó jelzés elhelyezését írja elő a nyilvántartásban, hogy a tagállami ítélet érvénye elismerésre került a magyar bíróság által.
+
+A 35. §-hoz
+
+A törvény újraszabályozza az ujj- és tenyérnyomatokat, valamint DNS-profilokat tartalmazó nyilvántartások rendszerét és adattartalmát. Egyrészt - a Bnyt.-től eltérő módon - a fényképek nyilvántartása már nem a szakértői nyilvántartások körében, a daktiloszkópiai nyilvántartással együtt, hanem a személyazonosító adatokhoz kapcsoltan kerül szabályozásra, másrészt mind a daktiloszkópiai mind a DNS-profil nyilvántartások (a továbbiakban együtt: bűnügyi és rendészeti biometrikus nyilvántartás) további egymástól elkülönülő nyilvántartásokra tagozódnak, annak érdekében, hogy a büntetőügyekben rögzített adatok, a Határozatnak megfelelő, az adatalanyok eltérő helyzete alapján differenciált kezelése biztosított legyen.
+
+A 36. §-hoz
+
+Az (1) bekezdés a szakértői nyilvántartó szerv feladatait állapítja meg. A nyilvántartás vezetése és karbantartása, valamint az ezzel együtt járó adatkezelés mellett a szakértői nyilvántartó szerv különleges szakértelmet igénylő feladata a biometrikus adatok elemzése és az adatállományban kezelt adatokkal való összehasonlítása, annak érdekében, hogy a biometrikus adatok nyilvántartásának célja, a bűnüldözés elősegítése, valamint ismeretlen személyek személyazonosítása hatékonyan teljesíthető legyen.
+
+A törvény a bűnügyi személyes adatok védelmének biztosítására különleges hangsúlyt fektet, a bűnügyi és rendészeti biometrikus nyilvántartása ezért személyazonosító adatokat nem tartalmaz, ilyen adatokat a szakértői szerv nem kezel.
+
+A (2) bekezdés alapján a szakértői nyilvántartó szerv a hozzá beérkező biometrikus adatok nyilvántartásba vételekor belső azonosító kódot képez és ezt megküldi a személyazonosító adatokat kezelő bűnügyi nyilvántartó szervnek, így biztosítva, hogy a biometrikus adatok nyilvántartási ideje a bűnügyi nyilvántartási rendszerben az érintettről kezelt adatokkal összhangba kerüljön, valamint, hogy a szakértői szerv a biometrikus adatokhoz kapcsolható adatalany személyazonosító adatait ne kezelje, azokhoz konkrét személyt ne tudjon kapcsolni, hiszen arra a nyilvántartás céljának megvalósulásához a szakértői tevékenység ellátásához általános jelleggel nincs szükség.
+
+A 37. §-hoz
+
+E rendelkezés az - Avtv.-nek megfelelően - meghatározza azokat a konkrét célokat, amelyek a törvényen alapuló, kötelező adatkezelést indokolttá teszik a daktiloszkópiai nyilvántartásban. E célok egy része [a), b), d) pontok] a bűnüldözéshez kapcsolódik, funkciója a bűncselekményeket elkövető személyek azonosítása, illetve a bűncselekmény elkövetésével összefüggésbe nem hozható személyek tisztázása. A Bnyt.-ben eddig meghatározott célokhoz képest a törvény egy új célt is meghatároz, mégpedig a büntetés-végrehajtási intézetbe, valamint rendőrségi fogdába történő befogadás során a befogadott személy azonosítására, ami arra a gyakorlatban felmerülő problémára igyekszik megnyugtató megoldást kínálni, hogy a ténylegesen elítélt személy, és helyette ne valaki más töltse le a kiszabott büntetést másik része pedig meghatározott közigazgatási eljárásban olyan ismeretlen személyek azonosítása, akik személyazonossága más módon nem megállapítható.
+
+A 38. §-hoz
+
+A daktiloszkópiai nyilvántartást annak érdekében, hogy a nyilvántartásban kezelt adatok alanyainak eltérő jogi helyzete és a büntetőügyekben betöltött szerepe tekintetében a Határozatban előírt követelményeknek teljes mértékben megfeleljen, a törvény további három, egymástól elkülönülő nyilvántartásra bontja.
+
+A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartása olyan ujj- és tenyérnyomatok, valamint az ahhoz kapcsolódó adatok nyilvántartására szolgál, amelyek egy bűncselekmény elkövetésével összefüggésben keletkeztek, és rögzítésre kerültek (ún. „nyílt nyomok”). Hangsúlyozni kell, hogy az e nyilvántartásba felvett nyomok meghatározott személyhez tartozását még nem állapították meg, így az sem tudható, hogy azok az elkövetőt azonosítják-e, vagy olyan személyt, akinek az elkövetéshez nincs köze, csupán valamely módon a bűncselekmény helyszínére vagy az elkövetés nyomati hordozó tárgyra került az ujj- és tenyérnyomata (pl. a bűncselekmény helyszínén az elkövetést megelőzően korábban járt barát, alkalmazott). A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában, valamint a bűncselekmény elkövetése miatt jogerősen elítélt személyek ujj- és tenyérnyomatainak nyilvántartásában ezzel szemben ismert, a belső azonosító kód segítségével személyazonosító adatok alapján azonosítható, büntetőeljárás alá vont vagy elítélt személyek ujj- és tenyérnyomatait kell nyilvántartani.
+
+A 39. §-hoz
+
+A daktiloszkópiai nyilvántartás rendeltetését akkor tölti be, ha az ujj- és tenyérnyomatokat nem pusztán nyilvántartja, hanem azokat egymással összehasonlítva és elemezve olyan következtetéseket tud levonni (pl. hogy egy elítélt személy ujj- és tenyérnyomatát egy évekkel korábban elkövetett, le nem zárt ügyben megtalálták az elkövetéshez használt fegyver markolatán), amelyek a bűnfelderítés hatékonyabbá válásához nélkülözhetetlenek.
+
+A (2) bekezdés alapján az összehasonlítás eredményéről a szakértői nyilvántartó szerv tájékoztatja azokat a bűnüldöző szerveket, amelyek az összehasonlítás alapjául szolgáló ujj- és tenyérnyomatok nyilvántartásba vételét kezdeményezték, így segítve az egymással összefüggő bűncselekmények felderítését.
+
+A 40. §-hoz
+
+E rendelkezés azon személyek körét állapítja meg, akik adatait a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásában nyilván kell tartani. Kizárólag olyan adatok nyilvántartására kerülhet sor, amelyekhez kapcsolódó adatalanyok nem ismertek. Ha e nyomokhoz kapcsolódó személy kilétére fény derül, e nyilvántartásból törölni kell az adatalany adatait, és - ha a törvényben meghatározott feltételek fennállnak - nyilvántartásba kell venni a büntetőeljárás alatt állók, vagy az elítélt személyek daktiloszkópiai nyilvántartásában.
+
+A 41. §-hoz
+
+A törvény az adatvédelmi követelményeknek megfelelően pontosan meghatározza azt az adatkört, amelyet nyilván kell tartani a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásában. Ezen adatok többsége [a)-c) pontok] a bűncselekményre, valamint az azzal kapcsolatban eljárást folytató szervvel kapcsolatos információkra vonatkozik. A szakrendszeri azonosító kód a törvény értelmező rendelkezéseiben meghatározottak szerint a szakértői nyilvántartó szerv által a DNS-profilhoz, valamint az ujj- és tenyérnyomathoz hozzárendelt egyedi alfanumerikus azonosító. Ennek célja a grafikusan megjelenő nyomtöredék jellegzetességeinek, a számítástechnikai rendszerekben való könnyebb kezelhetősége érdekében a szabványosított betűk- és számok által történő megjelenítése.
+
+A 42. §-hoz
+
+A nyilvántartásba kerülő adatok - köztük az ujj- és tenyérnyomat - megküldését a törvény azon szervek számára írja elő kötelezettségként, ahol ezen adatok keletkeztek vagy rögzítésre kerültek.
+
+A (2)-(3) bekezdések a következő §-ban szabályozott nyilvántartási időkkel együtt a nyilvántartás időtartama tekintetében olyan garanciális szabályokat tartalmaznak, amelyek biztosítják, hogy az adatok kezelésére kizárólag addig az időpontig kerülhessen sor, amíg az adatkezelés célja azt szükségessé teszi. Így nyilvánvalóan nem felelne meg a célhoz kötöttség, valamint az információs önrendelkezési jog szükséges és arányos korlátozása követelményének, ha olyan személyek adatainak nyilvántartására kerülhetne sor, akik biztosan megállapíthatóan bűncselekmény elkövetésével nem hozhatóak összefüggésbe.
+
+A 43. §-hoz
+
+E rendelkezés meghatározza a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásában kezelt adatok nyilvántartásának időtartamát. A célhoz kötöttség elvére figyelemmel ezen adatok csak addig kezelhetőek, amíg feltétlenül szükségesek. Így az adatokat a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásában a nyilvántartásba vétel alapjául szolgáló bűncselekmény büntethetőségének elévüléséig, el nem évülő bűncselekmény esetén a nyilvántartásba vétel kezdeményezésétől számított húsz évig, olyan személyek tekintetében, akik bűncselekmény elkövetésével nyilvánvalóan megállapíthatóan nem hozhatóak összefüggésbe, az e tény megállapítása és annak a szakértői szervvel való közlése időpontjáig lehet nyilvántartani.
+
+A (2) bekezdés azt az esetet szabályozza, ha a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásában kezelt ujj- és tenyérnyomat azonosságát a meghatározott személyhez köthető (büntetőeljárás alatt állók, elítéltek) nyilvántartásokban kezelt ujj- és tenyérnyomattal állapítják meg. Ekkor ugyanis a nyilvántartott személye egyértelműen meghatározható lesz, így ujj- és tenyérnyomata nem minősül továbbá „nyílt nyomnak” ezen nyilvántartásban való kezelése szükségtelenné válik.
+
+A 44. §-hoz
+
+A Bnyt. 31. § a) pontja szerint a daktiloszkópiai nyilvántartásban annak adatait kell főszabály szerint nyilvántartani, akit szándékos bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vontak. Az AB ezt a rendelkezést alkotmányellenesnek találata, azon indok alapján, hogy „a jogalkotó a daktiloszkópiai adatokra és a fényképekre vonatkozó nyilvántartásba-vételi kötelezettséget, a bűnösség formáját meghatározó egyik anyagi jogi kategóriához: a szándékossághoz, a törlés egyes eseteit pedig további, részben anyagi, részben eljárásjogi jogintézményekhez kötötte. Ez a megoldás azonban a nyilvántartási kategóriák Bnyt. 36. §-a szerinti meghatározásával együtt indokolatlanul széles adatbázis létrehozásához vezet, amely - figyelemmel az adatkezelés Bnyt.-ben meghatározott céljára - a személyes adatok védelme és az információs önrendelkezési jog szempontjából önmagában is szükségtelen és aránytalan korlátozást eredményez”.
+
+Erre tekintettel a törvény - azon túlmenően, hogy a daktiloszkópiai nyilvántartást három részre osztja - egyértelmű rendelkezéseket határoz meg arra nézve, hogy a büntetőeljárás alá vont személyek közül kinek az ujj- és tenyérnyomatát kell nyilvántartásba venni. A szabályozás különösen arra tekintettel határozza meg a büntetőeljárás alatt állók ujj- és tenyérnyomatának nyilvántartásba vételi kötelezettségét - ahogy azt a Határozat is elismeri -, hogy a daktiloszkópiai nyilvántartás legitim célja szükségképpen csak a jövőbeli bűncselekmények elkövetőinek felderítése és azonosítása lehet.
+
+Az (1) bekezdés a) pontja értelmében kell nyilvántartani annak ujj- és tenyérnyomatát, aki öt évi vagy ezt meghaladó szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás alatt áll. Ebben a körben az elkövetett bűncselekmény tárgyi súlya indokolja a nyilvántartásba vételt.
+
+Az (1) bekezdés b) pontja tételesen felsorolja azokat az öt évet el nem érő - tehát az a) pontba nem tartozó - szabadságvesztés büntetéssel fenyegetett szándékos bűncselekményi tényállásokat, amelyek alapján ha eljárás indul, a terhelt ujj- és tenyérnyomatát nyilvántartásba kell venni. A nyilvántartásba vételt egyes esetekben a bűncselekményi tényállás tárgyi súlya indokolja (emberkereskedelem). Más esetekben a 2002. és 2008. közötti statisztikai adatok igazolják, hogy vannak olyan bűncselekményi tényállások, ahol a visszaesés jól kimutatható (hamis vád, csődbűntett). Emellett a felderítési tapasztalatok alapján vannak olyan bűncselekményi tényállások, amelyek elkövetésének felderítésekor - az ott rögzített nyomok alapján - az eredetileg felderítettnél nagyobb súlyú bűncselekmények felderítésére is sor kerül (közlekedési bűncselekmények).
+
+A § (2) bekezdése meghatározza, hogy nem kell nyilvántartásba venni annak az ujj-és tenyérnyomatát, akivel szemben magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján indult eljárás, függetlenül attól, hogy az ügyész átvette-e a vád képviseletét, akivel szemben pótmagánvádló vádindítványa alapján indult eljárás, továbbá akinek katonai bűncselekménye miatt a katonai ügyész a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
+
+A 45. §-hoz
+
+A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában kezelt adatok köre a „nyílt nyomokat” tartalmazó nyilvántartásban kezelt adatok körétől eltérően nem tartalmaz a bűncselekménnyel, valamint az eljáró hatósággal kapcsolatos adatokat, tekintettel arra, hogy azon adatok a bűnügyi nyilvántartó szerv által vezetett büntetőeljárás hatálya alatt állók nyilvántartásában szerepelnek. E nyilvántartáshoz a d) pont szerinti belső azonosító kód alapján férhet hozzá az arra a törvény alapján jogosult szerv, amelyek között nem szerepel a szakértői nyilvántartó szerv, tekintettel arra, hogy tevékenysége ellátásához ezen adatok kezelésére nincs szüksége. Így - figyelemmel az adattakarékosság elvére - nem jön létre több párhuzamos adattartalmat tartalmazó nyilvántartás. E megállapítás irányadó a személyazonosító adatok és fényképek nyilvántartásához hozzáférést biztosító kapcsolati kód tekintetében is.
+
+A 46. §-hoz
+
+A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában kezelt adatok megküldéséről az a szerv köteles gondoskodni, amely az érintettet büntetőeljárás alá vonta.
+
+A 47. §-hoz
+
+Tekintettel arra, hogy a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában olyan személyek ujj- és tenyérnyomatát kell kezelni, akikkel szemben a törvényben meghatározott bűncselekmények elkövetésének megalapozott gyanúja miatt indítottak büntetőeljárást, indokolt a nyilvántartási idő összehangolása a büntetőeljárás hatálya alatt állók nyilvántartásában meghatározott nyilvántartási idővel. Az adatok törlésének időpontja így a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok nyilvántartási idejéhez igazodik, amely időpontot a a bűnügyi nyilvántartó szerv közöl a szakértői nyilvántartó szervvel.
+
+A 48. §-hoz
+
+A bűncselekmény elkövetése miatt jogerősen elítélt személyek ujj- és tenyérnyomatainak nyilvántartása a daktiloszkópiai nyilvántartás harmadik, önálló nyilvántartása, amelyben nyilván kell tartani egyrészt annak a személynek az adatait, akinek adatait a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásába felvették és a büntetőeljárásban a bíróság jogerős ítéletével megállapította a bűnösségét. E rendelkezés célja, hogy a szükségesség-arányosság követelményére figyelemmel tárgyi súlyuk, illetve a visszaesés gyakorisága miatt kiemelt bűncselekményeket elkövetők adatai, társadalmi veszélyességük miatt akkor is szolgálják a bűnüldözés érdekét, ha e személyek nem végrehajtandó szabadságvesztés büntetésre ítéltetnek. E körön kívül minden, a Btk.-ban meghatározott bűncselekmény elkövetése miatt végrehajtandó szabadságvesztés büntetés kiszabása is megalapozza a nyilvántartásba vételt.
+
+A 49. §-hoz
+
+A törvény csakúgy, mint a büntetőeljárás alá vontak daktiloszkópiai nyilvántartásában, az azonosító kódok mellett tartalmazza az elítélt személy ujj- és tenyérnyomatát. A belső azonosító kód ebben az esetben értelemszerűen a bűntettesek nyilvántartásához, valamint a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásához kapcsolódik.
+
+Az 50. §-hoz
+
+Az (1) bekezdés az elítélt személyek adatait kezelő daktiloszkópiai nyilvántartásába felveendő adatok megküldésének kötelezettségét az elítéltet befogadó büntetés-végrehajtási intézet kötelezettségévé teszik.
+
+Tekintettel a törvény 48. § a) pontjában meghatározott személyi körre, indokolt arról rendelkezni, hogy a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásába felvett adatok törlését megelőzően az adatok áthelyezésre kerüljenek az elítélt személyek daktiloszkópiai nyilvántartásába, így szükségtelenné téve ezen adatok újbóli megküldését a szakértői nyilvántartó szervnek. Ezen szabályt tartalmazza a (2) bekezdés.
+
+Az 51. §-hoz
+
+A nyilvántartási idők tekintetében a törvény 47. §-ában meghatározottak itt is irányadóak, értelemszerűen azzal a különbséggel, hogy a bűncselekmény elkövetése miatt jogerősen elítélt személyek ujj- és tenyérnyomatainak nyilvántartásába felvett adatok törlésének időpontja a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában meghatározott időponthoz kapcsolódik.
+
+Az 52. §-hoz
+
+Az ujj- és tenyérnyomat mellett az emberi dezoxiribonukleinsav (DNS) molekula is olyan egyedi jellegzetességekkel rendelkezik, amelyek alkalmassá teszik arra, hogy egy személyt közel kétséget kizáró módon jellemezzen és másoktól elkülöníthető módon azonosítson. E jellemzője miatt a DNS-profilok (a DNS molekula meghatározott szakaszai alapján képzett adatsor) elemzése és nyilvántartása - többek között - egyes büntetőügyek felderítése szempontjából ma már nélkülözhetetlen bűnüldözési eszköz világszerte.
+
+A DNS-profilok nyilvántartásának célja megegyezik a daktiloszkópiai nyilvántartás céljával, azzal a különbséggel, hogy előbbi felhasználását - a rendelkezésre álló korlátozott technikai és anyagi lehetőségek miatt - a törvény sem a büntetés-végrehajtási intézetbe történő befogadás, sem az igazoltatást megtagadó személy azonosítása céljából nem teszi lehetővé.
+
+Az 53. §-hoz
+
+A DNS-nyilvántartás a daktiloszkópiai nyilvántartással analóg módon és azonos indokból három elkülönült nyilvántartásra tagozódik.
+
+Az 54-55. §-hoz
+
+E rendelkezések tartalma és indoka a DNS-profilok tekintetében megegyezik a törvény 39-40. §-aiban meghatározottakkal.
+
+Az 56. §-hoz
+
+A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített DNS-profilok nyilvántartásában kezelt adatok köre megegyezik a törvény 41. §-ában meghatározott adatkörrel, két különbséggel. Egyrészt, e nyilvántartás nem az ujj- és tenyérnyomatot, hanem a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványt (pl. hajszál, vér) tartalmazza, amely alkalmas további vizsgálatok és elemzés végzésére, másrészt azokat a DNS-profilokat, amelyeket ezen anyagmaradványokból határoztak meg.
+
+Az 57. §-hoz
+
+A (2) bekezdés a szakértői nyilvántartó szerv feladatává teszi a DNS-profil meghatározását a rögzített anyagmaradvány alapján. A többi rendelkezés tekintetében a törvény 42. §-ában kifejtettek az irányadóak.
+
+Az 58. §-hoz
+
+E rendelkezés tartalmilag megegyezik a törvény 43. §-ában szabályozottakkal, az annak kapcsán kifejtettek irányadóak e rendelkezés tekintetében is.
+
+Az 59. §-hoz
+
+Bár az Alkotmánybíróság nem állapította meg a Bnyt. 39. §-ának alkotmányellenességét, a törvény - azon túlmenően, hogy a DNS-profil nyilvántartást három részre bontja - új alapokra helyezi a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásba vételét előíró rendelkezést. Az új szabályozás alapját a 2/2007. (I. 24.) AB határozatban meghatározott elvek jelentik, ennek következtében a Bnyt.-ben használt, nem kellően pontos fogalmak [Bnyt. 39. § (1) bekezdés b) pont „nemzetközi bűnözéssel kapcsolatba hozható”] helyett szinte tételesen meghatározza, hogy mely bűncselekményi tényállások elkövetésének megalapozott gyanúja esetén kell a DNS-profilt már a büntetőeljárás alatt nyilvántartásba venni.
+
+A 60. §-hoz
+
+A büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásának adattartalma megegyezik a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában kezelt adattartalommal. Különbség csupán annyi, hogy e nyilvántartásban a DNS-profil meghatározására alkalmaz szájnyálkahártya-törletet, valamint a DNS-profilt kell nyilvántartani, az azonosító kódok mellett.
+
+A 61-62. §-hoz
+
+E rendelkezések analóg szabályokat tartalmaznak a törvény 46-47. §-aiban foglaltakkal, azzal kiegészülve, hogy a DNS-profilok meghatározásának kötelezettségét a szakértői nyilvántartó szerv számára írja elő a törvény.
+
+A 63. §-hoz
+
+A bűncselekmény elkövetése miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartásába felvett adatok alanyainak köre megegyezik az elítélt személyek daktiloszkópiai nyilvántartásában meghatározottakkal, azonban a kiemelt bűncselekmények elkövetőin túl, a bűncselekmények elkövetőinek adatait csak akkor kell nyilvántartani, ha a kiszabott büntetés eléri vagy meghaladja a háromévi szabadságvesztés büntetést.
+
+A 64-66. §-hoz
+
+E rendelkezések tartalmilag megegyeznek a törvény 49-51. §-aiban foglalt szabályokkal, a DNS-profilok nyilvántartás sajátosságainak megfelelő, az előbbiekben már kifejtett különbségekkel (szájnyálkahártya-törlet, DNS-profil meghatározásának kötelezettsége).
+
+A 67-70. §-hoz
+
+1. A bűnügyi nyilvántartás rendszerében kezelt adatok megismerésének három alapvető módját különbözteti meg a törvény, a közvetlen hozzáférést, az arra jogosult kérelmére végzett adattovábbítást, és az arra jogosult részére történő adatigazolást.
+
+2. A törvény a bűnügyi nyilvántartási rendszerben kezelt adatokhoz csak a büntetőeljárás lefolytatása céljából, büntetés és intézkedés végrehajtása, bűncselekmények megelőzése és felderítése céljából, felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési célból enged közvetlen hozzáférést, konkrétan meghatározott szervek részére.
+
+Ha a törvényben megjelölt konkrét, törvényben meghatározott szerv részére valósul meg a közvetlen hozzáférés biztosítása, a törvény szerint kizárólag azokhoz az adatokhoz lehet hozzáférni, amelyek nem haladják meg az eljáráshoz szükséges legszűkebb mértéket. A törvény minden egyes szerv hozzáférését meghatározott célhoz köti. Az adathozzáférés biztosítása mögött törvényi szintű ágazati anyagi jogi szabály, illetve eljárási rendelkezés áll. Azokban az esetekben, ahol a hatályos szabályozás szerint hiányzott az adatátvételre jogosult szerv adatkezelésre való megfelelő felhatalmazása, illetve a szükséges eljárási rendelkezések megfogalmazása, a törvény a szükséges módosításokat a XI. Fejezetben elvégzi.
+
+3. Igénylés alapján adatot akkor lehet továbbítani, ha az adatot igénylő szerv számára ezt törvény az adatkezelés céljának és az átvehető adatok körének pontos meghatározásával minden egyes adat tekintetében lehetővé teszi. A törvény az adatigénylőt kötelezi arra, hogy az adatigényléssel érintett személy adatait közölje. Ez garanciális szabály arra az esetre, ha az adatigénylésben megjelölt személyes adatok és a nyilvántartásban kezelt személyes adatok nem egyeznek meg. Addig ugyanis nem történhet meg az adattovábbítás, amíg az adatok között eltérés van. Mindenekelőtt a nyilvántartásban kezelt adatok helyességét kell ellenőrizni. Ha ezt követően sem egyeznek meg a személyes adatok, az adattovábbításra nem kerülhet sor.
+
+4. A törvény közös garanciális szabályokat iktat be a közvetlen hozzáférésre és az adattovábbításra. Ezek a rendelkezések biztosítják annak ellenőrzését, hogy az adatokhoz közvetlen hozzáféréssel rendelkező szerv vagy az adatigénylő csak akkor férjen hozzá az adathoz, illetve csak akkor teljesítse a bűnügyi nyilvántartó szerv az adatigénylését, ha az adatkezelés törvényi feltételei az adatátvevőnél fennállnak. A közvetlen hozzáférés esetén a törvény csak a felhatalmazással rendelkező személy részére engedi meg azoknak az adatoknak a megismerését, amelyek kezelésére a törvény a szervet feljogosította. Az azonosítás egy, az erre a célra képzett kóddal történik.
+
+A 71-73. §-hoz
+
+A törvény új, korszerű és gyors adatszolgáltatást lehetővé tevő jogintézményt vezet be arra az esetre, amikor a saját adatai tekintetében a kérelmező már ismeri azt a szervet, amelynél az igényelt adatokat fel kívánja használni. Nincs szükség tehát arra, hogy a kérelmező maga „vigye” az adatait tartalmazó hatósági igazolványt az adatok megismerésére jogosult szerv részére, hanem rendelkezhet arról, hogy a hatósági bizonyítványt az általa megjelölt címzettnek továbbítsák.
+
+A törvény egyértelműen meghatározza a hatósági bizonyítvány adattartalmát. Fontos garanciális szabály, hogy ettől eltérő tartalmú hatósági bizonyítvány kiállítására nem kerülhet sor. Ha a kérelmező több, az igazolható adatokat meghaladó mértékű adatot igényel, azokat a címzett részére csak akkor lehet továbbítani (a kérelmet teljesíteni), ha a címzettet törvény kifejezetten feljogosította arra - minden egyes adat tekintetében -, hogy ezeket az adatokat kezelje. Ezzel elkerülhető, hogy munkáltatók, szerződő felek olyan igazolásra késztessék a kérelmezőket, amelyek például egy foglalkoztatási jogviszony létesítéséhez anyagi jogi szabály hiányában alaptalanok és indokolatlanok.
+
+Ha a címzett rendelkezik az ehhez szükséges feltételekkel, a törvény lehetőséget ad a hatósági bizonyítvány elektronikus úton történő megküldésére is.
+
+Fontos elem, hogy a kérelmező rendelkezhet arról, hogy az adattovábbítási kérelmét a bűnügyi nyilvántartó szerv csak akkor teljesítse, ha adatai a nyilvántartásban nem szerepelnek. Ha az adattovábbítási kérelem teljesítésére e korlátozó nyilatkozat miatt nem kerül sor, a bűnügyi nyilvántartó szerv az eljárást megszünteti, de az adatokat a kérelmezőnek ebben az esetben is továbbítja.
+
+A 74-76. §-hoz
+
+A törvény teljesen átalakítja a hatósági erkölcsi bizonyítványra vonatkozó szabályozást. Amellett, hogy a hatósági erkölcsi bizonyítvány elektronikus úton, ügyfélkapun keresztül is igényelhetővé válik, adattartalma a kérelem kifejezett rendelkezéséhez igazodik, azaz annyi és olyan adatkörben tartalmaz adatot, ahogy azt a kérelmező igényli.
+
+A hatósági erkölcsi bizonyítványnak nincs címzettje, azt az érintett szabadon használhatja fel. A hatósági erkölcsi bizonyítvány kilencven napig érvényes, kiadására a hamisítás elleni magas fokú védelmet biztosító biztonsági okmányként kerül sor.
+
+A hatósági erkölcsi bizonyítvány biztonsági jellege miatt akkor sem kerülhet sor kijavításra, ha a benne szereplő adatok hibásak. Ebben az esetben a hatósági erkölcsi bizonyítványt ki kell cserélni.
+
+A 77-80. §-hoz
+
+A törvény külön fejezetben rendelkezik az Európai Bűnügyi Nyilvántartási Rendszer keretei között történő adatcseréről. Ezek a szabályok - a törvény 31-34. §-aihoz hasonlóan - szintén a Tanács 2005. november 21-én kelt, a bűnügyi nyilvántartásban szereplő információk cseréjéről szóló 2005/876/IB határozatot felváltó 2009/315/IB kerethatározat rendelkezéseinek hazai jogba való átültetését végzik el.
+
+A 77. § egy feladat meghatározó rendelkezést tartalmaz a bűnügyi nyilvántartó szerv számára. Ez a rendelkezés nem új, hiszen a Bnyt. 5. §-ának (2) bekezdésében is szerepelt, igaz, a Bnyt. ezen túlmenően nem rendelkezett az Európai Unió más tagállamával folytatott adatcsere szabályairól.
+
+A 78. § arra vonatkozóan tartalmaz részletes szabályokat, hogy ha magyar bíróság egy más tagállam állampolgárával szemben bűnösséget megállapító, jogerős ítéletet hoz, akkor annak tényét, illetve abból a törvény melléklete szerinti, illetve az (1) bekezdés a)-d) pontjában meghatározott adatokat közöl a tagállam erre kijelölt szervével. Kiemelendő, hogy a másik tagállamot a magyar nyilvántartásból való törlés várható időpontjáról, valamint a mentesítés beálltának tényéről is tájékoztatni kell. Ha pedig az elítélt több uniós tagállam állampolgára - de nem magyar állampolgár -, akkor valamennyi érintett tagállam erre kijelölt hatóságát tájékoztatni kell a fenti adatokról.
+
+A 79. § a törvény 68. §-a alapján adatok átvételére jogosult szervek adatigénylésének lehetőségét biztosítja más tagállam bűnügyi nyilvántartásából. A kérelmet a törvény melléklete szerinti formanyomtatványon, a bűnügyi nyilvántartó szerv útján kell előterjeszteni, az átvett adatok pedig csak büntetőeljárási célból használhatók fel.
+
+A 80. § arra vonatkozóan tartalmaz rendelkezést, hogy ha a magyar bűnügyi nyilvántartásban kezelt adatokról - vagyis a kerethatározat értelmében egy magyar állampolgárról - igényel adatot egy másik tagállam erre kijelölt központi hatósága. Ilyenkor az adatigénylés főszabály szerint nem a tagállami ítéletek nyilvántartásában kezelt adatokra, hanem a bűnügyi nyilvántartásokban kezelt adatokra terjed ki, azonban ha az illető magyar állampolgárról a tagállami ítéletek nyilvántartásban is szerepel adat - mert egy másik tagállam már elítélte, és erről értesítette a bűnügyi nyilvántartó szervet -, akkor erről is tájékoztatni kell. Fontos garanciális szabály, hogy bár a kerethatározat nem szűkíti kötelezően az adatátadást büntetőeljárás céljából, Magyarország csak ebből a célból fog adatot átadni.
+
+Bizonyos esetekben előfordulhat az is, hogy egy másik tagállam erre feljogosított szerve nem magyar állampolgárra vonatkozóan kér adatot a bűnügyi nyilvántartó szervtől, hanem a magyar nyilvántartásokban szereplő külföldi állampolgárról. Ebben az esetben az adatátadás nem a kerethatározat szerinti „egyszerűsített”, hanem a bűnügyi jogsegély szerinti módon fog történni.
+
+Kiemelendő az is, hogy a tagállami ítéletek nyilvántartásából harmadik ország részére a törvény 33. §-ában meghatározott adat kizárólag az adatot a bűnügyi nyilvántartó szerv részére megküldő tagállam által meghatározott korlátok között, büntetőeljárás céljából történő felhasználásra továbbítható.
+
+A 81. §-hoz
+
+A bűnügyi és rendészeti biometrikus adatok nyilvántartása adatállományából három, technikailag eltérő adattovábbításra kerülhet sor.
+
+Az (1) bekezdés a) pontjában meghatározott találati adattovábbítás lényege, hogy ekkor az adattovábbítást igénylő szerv ujj-és tenyérnyomatot, vagy DNS-profilt küld a szakértői nyilvántartó szerv részére, amely a nyilvántartott biometrikus adatokkal azt összehasonlítja, és ha azonosságot talál, a nyilvántartott adatokat közli az összehasonlítást kezdeményező szervvel.
+
+A (1) bekezdés b) pontja szerinti adattovábbítás esetén szakértelmet igénylő tevékenységre nincs szükség, ekkor csupán a nyilvántartott adatok továbbítására kerül sor.
+
+A (1) bekezdés c) pontja egy különleges, elektronikus úton történő adattovábbítási módot jelöl, amelyet a Magyar Köztársaság nemzetközi szerződésben vállalt kötelezettségei teljesítésének igénye indokol, ezen adattovábbítás részletes szabályait ezért a törvény VIII. fejezete tartalmazza.
+
+A törvény a (2) bekezdésben rendelkezik az anonim statisztikai, tudományos kutatási célú adatátadásról.
+
+A 82. §-hoz
+
+A találati adattovábbítás keretei között - az előzőekben kifejtett módon - a szakértői nyilvántartó szerv elemzi a részére megküldött mintát (pl. bűncselekmény helyszínén talált hajszál, vér) és - találat esetén - a nyilvántartott adatállományból adatokat továbbít az arra jogosult szerveknek. E feladatának ellátásához a szakértői nyilvántartó szerv a személyazonosító adatokhoz is hozzáférhet a törvény 68. § (10) bekezdése alapján, így azokat is továbbítja az arra jogosultaknak.
+
+A (4)-(5) bekezdés azon szervek körét határozza meg, akik a találati adattovábbítás igénylésére jogosultak, azon célok megjelölésével, amelyek céljából e jogosultságot gyakorolhatják. Az (5) bekezdés szerinti jogosultság a (4) bekezdésben meghatározottnál szűkebb körű, a DNS-profilok nyilvántartására nem, kizárólag a daktiloszkópiai nyilvántartás adatállományára terjed ki.
+
+A 83. §-hoz
+
+A bűnügyi és rendészeti biometrikus adatok nyilvántartása adatállományából bizonyos esetekben indokolt úgy is adatot továbbítani, hogy ezen adatokkal kapcsolatos szakértői műveletek végzésére nem kerül sor. Tipikusan ilyen eset lehet például, ha egy bűncselekmény helyszínén talált nyom nyilvántartásba vételének kezdeményezésekor a szakértői nyilvántartó szerv - a törvény 39. §-ában, valamint 54. §-ában meghatározottak alapján - arról tájékoztatja a nyilvántartásba vételt kezdeményező szervet, hogy az általa a „nyílt nyomokat” tartalmazó adatállományban kezelt adatok között, a megküldött nyommal azonosságot talált, és közli, hogy azt mikor vették nyilvántartásba, milyen bűncselekménnyel kapcsolatban, stb. Ezen tájékoztatás a nyomozó hatóságok részére olyan többletinformációval szolgálhat, amelyek végül a bűncselekmények eredményes felderítését eredményezhetik, megvalósítva ezzel a biometrikus nyilvántartások egyik legfontosabb célját. Az adatigénylés természetesen a törvény alapján itt is csak a cél és jogalap megjelölésével teljesíthető
+
+A 84. §-hoz
+
+Az Alkotmánybíróság a Határozatban a Bnyt. nemzetközi adattovábbításra vonatkozó részét megsemmisítette. Indokolásában rámutatott, hogy „[e]llenőrizhetetlenné teszik az adatáramlást, és így nem igazolják a korlátozás szükségességének megengedhetőségét azok a rendelkezések is, amelyek általában nemzetközi egyezményekre, még inkább nemzetközi kötelezettségvállalásra hivatkozással biztosítják a bűnügyi nyilvántartás adatainak felhasználását”.
+
+A törvény e megállapításból kiindulva a Magyar Köztársaság által kötelező hatályúként elismert nemzetközi szerződései, valamint az Európai Unió kötelező jogi aktusainak rendelkezései alapján konkrétan meghatározza azon eseteket, amikor a törvény hatálya alá tartozó nyilvántartásokból külföldre történő adattovábbításra kerül sor. E szabályok közül a tagállami ítéletek nyilvántartásából történő adattovábbítást, annak sajátos jellegzetességeire figyelemmel, a törvény VI. Fejezete tartalmazza, amely szabályokról az előzőekben szóltunk.
+
+A külföldre történő adattovábbítás „címzettjei” között a törvény az Avtv. EGT-tagállamba történő adattovábbításra vonatkozó szabályai szerint tesz különbséget.
+
+Az a)-c) pontokban meghatározott esetek meghatározzák azon szerveket, normákat, célokat és adatkört amelyek keretei között és amelyek alapján az adattovábbításra sor kerülhet. A Határozatnak való teljes körű megfelelést és az Avtv. rendelkezéseivel való összhang biztosítását szolgálja, hogy csak a törvényi szinten (törvényben, törvényerejű rendeletben) kihirdetett nemzetközi szerződések, valamint a törvényi szinten a magyar jogrendszerbe átültetett, vagy átültetést nem igénylő, kötelezően alkalmazandó európai uniós jogi aktusok szolgálhatnak az adattovábbítás alapjául. E normák megismerhetőek, kötelezően alkalmazandóak így az érintettek információs önrendelkezési joga a nyilvántartott adatok tekintetében maradéktalanul biztosítható azzal, hogy személyes adataik sorsának nyomon követése a külföldre történő adattovábbítás tekintetében is biztosított. A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvényre [a) pont], a bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvényre [b) pont], valamint a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvényre [c) pont] a törvény kodifikációs szempontból nem tartalmaz ún. merev - a törvény számát, valamint kihirdetésének időpontját feltüntető - hivatkozást.
+
+A 85. §-hoz
+
+Az ún. Prümi Szerződés (a Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződés) alapján a szerződésben részes felek kijelölt nemzeti kapcsolattartó pontjai számára kölcsönös lehetőséget kell biztosítani elektronikus úton történő hozzáférésre a részes felek ujj-és tenyérnyomatot, valamint DNS-profilt tartalmazó nyilvántartásaiban kezelt adatokhoz, abból a célból, hogy ha a kereső fél által összehasonlított biometrikus adat a megkeresett fél nyilvántartásában szerepel, e találatról értesítést kapjon, amely értesítés alapján - immár a bűnügyi jogsegélyre vonatkozó szabályok szerint - lehetőség van további együttműködésre.
+
+Az (1)-(3) bekezdések a Prümi Szerződés 3. cikke alapján azt az esetet szabályozzák, amikor a külföldi kapcsolattartó pont a magyar biometrikus adatokat tartalmazó nyilvántartásának adatállományában végez keresést. Ha a keresés találati eredményt hoz, a szakértői nyilvántartó szerv ennek tényéről, valamint a szakrendszeri azonosító kódról tájékoztatja a külföldi nemzeti kapcsolattartó pontot, ha találati eredmény nincs, a külföldi szervet erről kell tájékoztatni.
+
+A (4)-(6) bekezdés azokat a szabályokat tartalmazza, amely alapján a magyar hatóság rendelkezésére történik külföldi adatállományban végzett keresés, találati eredmény esetén e szervet kell értesíteni a szakrendszeri azonosító kódról, ennek alapján történhet a hatóságok közötti jogsegély iránti kérelem megküldése.
+
+A (7)-(8) bekezdés - a Prümi Szerződés 4. cikkében foglaltaknak megfelelően - a Szerződésben részes államok nyílt nyomokat tartalmazó DNS-profil nyilvántartásai adatbázisainak rendszeres, nem egyedi ügyben történő összehasonlítását szabályozza. Ezen összehasonlítás találati eredményét a „nyílt nyom” nyilvántartásba vételét kezdeményező magyar bűnüldöző szervnek kell jelezni.
+
+A 86. §-hoz
+
+Tekintettel arra, hogy a 2008. évi LXVI. törvénnyel kihirdetett, a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a bűncselekmények megelőzése és az ellenük való küzdelem terén folytatott együttműködés fokozásáról szóló Megállapodás alapvetően a Prümi Szerződés mintájára készült, az azzal kapcsolatban kifejtettek irányadóak azzal, hogy ezen Megállapodás alapján rendszeres, elektronikus úton történő adat összehasonlításra nem kerül sor, valamint, hogy a Megállapodás alapján adatcsere a törvény benyújtásakor még nem történik. A Megállapodás által szabályozott adatcsere technikai részleteit, így annak megvalósulása feltételeit - különösen a nemzeti kapcsolattartó pontok kijelölését, valamint egyéb eljárási szabályokat - a Megállapodás alapján létrehozandó kétoldalú végrehajtási megállapodásoknak kell meghatározniuk, azok elfogadásáig tényleges adatcserére nem kerülhet sor. A végrehajtási megállapodások jövőbeli elfogadása előrevetíti a törvény ezen rendelkezéseinek - különösen a szakértői nyilvántartó szerv feladataival történő - kiegészítését.
+
+A 87-88. §-hoz
+
+Az Avtv. egyértelműen szabályozza, hogy az érintett tájékoztatást kérhet személyes adatairól, illetve azok törlését és helyesbítését is kérheti. A törvény rendelkezései alapján az érintettre vonatkozó adatok kezelésének minden fázisa nyomon követhető. A törvény azt a lehetőséget is biztosítja, hogy az érintett a rá vonatkozó adatok nyilvántartásáról (ide értve azt is, hogy mely nyilvántartásban, milyen adatok kezeléséről és milyen időtartamig kerül sor) elektronikus úton is kérhessen tájékoztatást. Mivel a törvény a tájékoztatás költségeiről nem rendelkezik, ez a tájékoztatás minden esetben ingyenes, függetlenül attól, hogy az érintett a tájékoztatásához való jogát hányszor gyakorolja.
+
+A törvény az érintettnek csak az adattovábbításról való tájékoztatását korlátozza, ha annak a bűncselekmények megelőzése, felderítése, a büntetőeljárás lefolytatása miatt, büntetés vagy intézkedés végrehajtásának eredményességét veszélyeztető vagy akadályozó eredménye elkerülésére, illetve nemzetbiztonsági védelmi, elhárítási, információszerzési okból van szükség. A tájékoztatás ebben az esetben is csak akkor mellőzhető, ha a nyilvántartásokból adatigénylésre vagy közvetlen hozzáférésre jogosult szerv az igényléskor vagy az átvételkor már jelezte a korlátozás szükségességét. A tájékoztatás mellőzését írásban indokolni kell.
+
+A törvény az érintett tájékoztatására vonatkozó rendelkezéseket csak abban az esetben fogalmaz meg, ha azok a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 11-16. § végrehajtásához szükségesek.
+
+A 89-91. §-hoz
+
+Az adatkezelőnek a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényből fakadó kötelezettsége, hogy az érintettnek tájékoztatást tudjon adni arról, hogy személyes adatait kik és milyen célból kapták meg ezzel is eleget téve az adatkezelés átláthatóságából, követhetőségéből fakadó követelményeknek. Az előbbi kötelezettség teljesítése érdekében az adatkezelő szerv a törvény alapján a törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbításokról adattovábbítási nyilvántartást vezet. Ebből a nyilvántartásból az érintett mellett csak az adatkezelés jogszerűségének ellenőrzésére jogosult szervek ellenőrzési feladatainak ellátásához igényelhetnek adatot. Az adattovábbítási nyilvántartásból adatigénylésre csak azok a szervek jogosultak, amelyeknek törvényben meghatározott feladata a bűncselekmények megelőzése, felderítése, a büntetőeljárás lefolytatása, büntetés vagy intézkedés végrehajtása, illetve nemzetbiztonsági védelem, elhárítás vagy információszerzés.
+
+A 92-95. §-hoz
+
+A törvény rendelkezik a fényképnyilvántartásban szereplő arcképmás, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartása céljából végzett mintavételi eljárásról. Ennek keretében egyértelműen meghatározásra kerül, hogy az arcképmás, valamint az ujj- és tenyérnyomatot levétele érdekében melyik nyomozó hatóság vagy ügyészség intézkedik. Ezek a rendelkezések alapvetően nem különböznek a Bnyt. által meghatározott szabályoktól.
+
+Ami újdonság a szabályozás kapcsán, a Határozat azon rendelkezéséből fakad, amely az ujj- és tenyérnyomat-vétel, a fényképkészítés, valamint a DNS-mintavétel szabályairól szóló 8/2000. (II. 16.) BM-IM-PM együttes rendelet 1. § (2) bekezdés a) pontja, 5. §-a, valamint a 6. § (2) bekezdése alkotmányellenességét állapította meg, és ezért ezeket a szabályokat 2009. június 30. napjával megsemmisítette. A döntés indokolásaként az Alkotmánybíróság a következőket hozza fel:
+
+„Más a helyzet a rendelet 5. §-a, illetve 6. § (2) bekezdése tekintetében. E jogszabályhelyek előírják, hogy a gyanúsított köteles magát alávetni az ujj- és tenyérnyomat-vételnek, illetve a DNS vizsgálatnak, valamint a fényképezésnek. Rögzítik azt is, hogy ellenszegülése esetén vele szemben testi kényszer alkalmazható, amely megfogásból, lefogásból, valamely magatartás abbahagyására irányuló testi erő alkalmazásából, illetve a mintavétel tűrésére kényszerítésből áll. E rendelkezések közvetlen kapcsolatban állnak az Alkotmány 54. § (1) bekezdése szerinti emberi méltósághoz való joggal, illetve az 59. § (1) bekezdéséből levezetett információs önrendelkezési joggal. Alapvető jogokra vonatkozó korlátozás pedig csak törvényben írható elő, így az alacsonyabb jogforrási szinten való szabályozásuk alkotmányellenes”. (4.3.)
+
+A törvény szerinti szabályozás egyik fő újdonsága, hogy a büntetés-végrehajtási intézet is bevonásra kerül, mint mintavételre kötelezett hatóság. Az arcképmás rögzítéséről az érintett befogadását követően minden esetben kell gondoskodnia, függetlenül attól, hogy az adott személy arcképmása már levételre került-e a büntetőeljárás során, illetve hogy más ügyből kifolyólag már szerepelt a nyilvántartásban. Az ujj- és tenyérnyomat, valamint DNS-profil levéltele esetében szintén a befogadáskor kell erről gondoskodnia a büntetés-végrehajtási szervnek a mintavételről, ha a nyilvántartásba vétel törvényi feltételei fennállnak. Nem kell azonban újból mintavételt elrendelni, ha az adott személy ujj- és tenyérnyomata már szerepel a daktiloszkópiai vagy DNS-profil nyilvántartásban.
+
+Amennyiben a befogadott személy arcképmása, ujj- és tenyérnyomata már szerepel a megfelelő nyilvántartásban, úgy az ott szereplő arcképmást, vagy ujj- és tenyérnyomatot személyazonosításra kell felhasználni. Erről rendelkezik a törvény 4. § (1) bekezdés b) pontja, illetve a 37. § d) pontja.
+
+A törvény az új szabályozás kialakítása tekintetében a Határozat indokolásának azon megállapításából indult ki, miszerint „a testi kényszer tartalmát a Bnyt. nem is határozza meg, így ebben a tekintetben kizárólag a rendelet támadott szabályai vehetők figyelembe. A testi kényszer alkalmazásával a mintavétel végrehajtásában közreműködő hatóság tagjai fizikailag is akadályozzák a terheltet a szándékának megfelelő magatartás tanúsításában. Mindez az Alkotmánybíróság a 723/B/1991. AB határozatában foglaltak szerint a büntetőeljárás során nem szükségképpen tilos, sőt számos esetben szükségszerű megoldás (ABH 1991, 632, 637.). Az ilyen korlátozás azonban nyilvánvalóan érinti a kényszer alkalmazásával érintettnek az Alkotmány 54. § (1) bekezdésében védett emberi méltósághoz, s azon belül az önrendelkezéshez, a testi integritáshoz való jogát. Azokat az eseteket azonban, amikor a testi erő alkalmazása megengedett - a szükségesség és arányosság követelményének szem előtt tartásával - törvényben előre meg kell határozni, s alkalmazásukat törvényi garanciákkal kell körülvenni”.
+
+Erre tekintettel egyértelműen meghatározásra kerülnek a mintavételi eljárás alapvető szabályait is. Eszerint a mintavételt a mintaadásra kötelezett személy fizikai sértetlenségének biztosításával kell végezni. A mintaadásra kötelezett személy köteles alávetni magát a mintavételi eljárásnak. Ha a mintaadási kötelezettségnek az erre kötelezett személy ellenszegül, vele szemben testi kényszer alkalmazható. Ennek „lehetőségéről” még a mintavételt megelőzően tájékoztatni kell. A törvény ezen felül pontosan körülírja, hogy testi kényszert ki alkalmazhat a mintaadásra kötelezett személlyel szemben, valamint meghatározza az ellenszegülés és a testi kényszer fogalmát az értelmező rendelkezések között. Mindemellett a törvény a testi kényszer alkalmazásának megengedettségére vonatkozó rendelkezést úgy szabályozza, hogy arra alapvetően a Rendőrségről szóló 1994. évi XXXIV. törvény testi kényszerre vonatkozó (47. §), valamint általában a kényszerítő eszközök alkalmazására vonatkozó szabályokat (VI. Fejezet) kell alkalmazni.
+
+-----STARTING---POINT---VEGE---
+
+A 96. §-hoz
+
+1. A törvény felhatalmazást ad a Kormány számára, hogy rendeletben jelölje ki azt a szervet, amely bűnügyi nyilvántartó szervként, illetve szakértői nyilvántartó szervként jogosult a törvényben számára kifejezetten meghatározott jogok és kötelezettségek gyakorlására.
+
+2. A törvény végrehajtása egyrészt a közigazgatási hatósági eljárások általános szabályainak előkészítéséért, azaz a közigazgatás-fejlesztésért felelős miniszter feladatkörébe, másrészt - a büntetőeljárásokkal összefüggésben - az igazságügyért felelős miniszter feladatkörébe tartozik.
+
+A törvény kizárólag olyan rendelkezések megalkotására ad rendeletalkotási felhatalmazást, amelyek az eljárás részletszabályai, technikai feltételei, illetve az eljárásért fizetendő díj tekintetében nem igényelnek törvényi szabályozást.
+
+A 97-98. §-hoz
+
+1. Az Alkotmánybíróság döntése a bűnügyi nyilvántartásról és a hatósági erkölcsi bizonyítványról szóló 1999. évi LXXXV. törvényt 2009. június 30-i hatállyal semmisített meg. Az Alkotmánybíróság álláspontja alkotmányosan is elismert célként fogadja el azt, hogy a kriminalisztikai nyilvántartások rendeltetése a bűnüldözés elősegítése. Elengedhetetlen tehát, hogy a törvény, amely az adatvédelem és a bűnüldözési érdek közötti egyensúly megteremtésével törvényes funkcióit immár képes betölteni, 2009. június 30-án hatályba lépjen.
+
+2. A törvény közvetlenül szolgálja az Európai Unió jogából fakadó kötelezettségek végrehajtását, a 98. §-ban foglalt uniós jogi aktusok tekintetében.
+
+A 99. §-hoz
+
+A törvény átmeneti rendelkezésekkel biztosítja a hatályos törvény szerinti bűnügyi nyilvántartás adataival kapcsolatos, alkotmányos garanciákkal övezett adatkezelés megvalósítását. Ennek megfelelően a jelenleg kezelt adatállományok mindegyikéből törölni kell azokat az adatokat, amelyeknek a kezelését a törvény már nem teszi lehetővé. Szintén garanciális okból a törvény úgy rendelkezik, hogy mindazokat az adatokat, amelyek kezelését az új nyilvántartások valamelyikében a törvény lehetővé teszi, egy átmeneti adatállományba kell helyezni, és onnan kell átadni az adatkezelésre feljogosított szervnek. A törvény szerint a nyilvántartásokból történő közvetlen adatátvétel, adatigénylés, sőt az érintett kérelmére folytatott hatósági bizonyítvány kiadására irányuló folyamatban lévő eljárás is csak a törvény szerinti eljárási rendben, módon és csak a törvényben meghatározott adatkörnek megfelelően történhet.
+
+A 100. §-hoz
+
+1. A törvény két tekintetben módosítja a Btk. szabályait. Egyfelől újraszabályozza a foglakozástól eltiltás szabályait, másfelől pedig módosítja a mentesítés szabályait. Előbbi módosítása nyomán egyértelművé válik, hogy az elkövetőt nem általában egy foglalkozástól, hanem az általa gyakorolt foglakozástól lehet eltiltani. Ez a rendelkezés egyébként összhangban van a joggyakorlat által kialakított elvekkel. A Legfelsőbb Bíróság a 18/2007. BK véleményben ezzel kapcsolatban a következőket fejtette ki:
+
+„a) Az 1978. évi IV. törvény (a továbbiakban: Btk.) 56. §-a (1) bekezdésének b) pontja azokról az esetekről rendelkezik, amikor a foglalkozás tulajdonképpen eszköze a bűncselekmény elkövetésének. Ilyen esetben a szakképzettséget nem kívánó foglalkozás is számításba jöhet. A foglalkozástól eltiltás előfeltétele ebben az esetben az, hogy a foglalkozás felhasználásával kövessék el a szándékos bűncselekményt.
+
+Tisztázni kell ilyenkor, hogy az elkövető mennyiben használta fel a foglalkozását a bűncselekmény megvalósításánál. Ez mellőzhetetlenné teszi, hogy az elkövető munkaköre tüzetes megállapítást nyerjen. A foglalkozási ágon belül a ténylegesen betöltött munkakört, annak adottságait, az azáltal nyújtott lehetőségeket lehet csak felhasználni, így az említett mellékbüntetés alkalmazásának alapjául is ez szolgálhat.
+
+Ebből következik, hogy nem lehet általánosságban egyes szakképzettséghez nem kötött, illetve hatósági engedély nélkül gyakorolható foglalkozási ágaktól (pl. gyári munkás, vállalati alkalmazott stb.) minden megszorítás nélkül az elkövetőt eltiltani, hanem ennek csupán az említett foglalkozási ágakon belül egyes szabatosan meghatározott munkaköröktől (pl. pénzbeszedő, pénztáros, raktáros stb.) lehet helye. Amennyiben ilyen munkaköre nincsen, a foglalkozástól való eltiltásra nem kerülhet sor.
+
+A szakképzettséghez vagy hatósági engedélyhez nem kötött foglalkozáson tehát a Btk. 56. §-a (1) bekezdésének b) pontja vonatkozásában a munkakört kell érteni.
+
+b) A „foglalkozásának felhasználásával” kitétel lényegileg arra utal, hogy az elkövető a szándékos bűncselekmény véghezvitele során foglalkozását mintegy eszközül használta fel, más szóval a foglalkozás által adott lehetőséget vagy alkalmat közvetlenül kihasználta.
+
+Ennek nem mint lehetőségnek, hanem ténylegesen kell fennállnia. Meg kell tehát állapítani, hogy az elkövető ténylegesen milyen módon használta fel a foglalkozása nyújtotta lehetőséget a bűncselekmény véghezvitelénél.
+
+Ez az adott esetben az elkövetés módjából, az elkövetési körülményekből stb. állapítható meg. Amennyiben a bűncselekmény elkövetéséhez a foglalkozás felhasználására szükség nem volt, illetve arra ténylegesen nem került sor, a Btk. 56. §-a (1) bekezdésének b) pontja alkalmazására nincs alap.”
+
+A törvény egy új (3) bekezdés bevezetésével egyértelművé teszi azt is, hogy a foglalkozástól eltiltás szabályai azzal szemben is alkalmazhatóak, akinek a bűncselekmény elkövetésekor más volt a foglalkozása, de rendelkezik annak a foglalkozásnak a gyakorlásához szükséges szakképesítéssel, amely szabályainak megszegésével a bűncselekményt elkövette.
+
+Emellett a törvény átalakítja a törvényi mentesítés szabályait arra tekintettel, hogy a hatályos Btk. szabályai nyomán a foglalkozástól eltiltás, valamint a járművezetéstől eltiltás mellékbüntetések a gyakorlatban végrehajthatatlanok. A Btk. 100. §-ának módosítása nyomán a jövőben nem minden esetben mentesül az elítélt azon hátrányos jogkövetkezmények alól, amelyeket az elítéléshez jogszabály fűz. Ezzel összefüggésben pedig, bizonyos esetekben számot kell adnia olyan elítéltetésről, amelyre nézve mentesítésben részesült.
+
+Mindez azt jelenti, hogy az eddig egyértelműen meghatározható kategóriák miszerint a mentesített személy büntetlen előéletűnek tekintendő, aki pedig nem mentesült az büntetett előéletű, némileg „feloldódnak” és szabályozásra kerül egy olyan köztes állapot is, amelyben az elítélt személy nem mentesült ugyan teljes körűen, de büntetlen előéletűnek tekintendő.
+
+A 101-104. §-hoz
+
+A törvény módosítja a légiközlekedésről szóló 1995. évi XCVII. törvény, az atomenergiáról szóló 1996. évi CXVI. törvény, a fegyveres biztonsági őrségről, a természetvédelmi és mezei őrszolgálatról szóló 1997. évi CLIX. törvény, valamint a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény rendelkezéseit annak érdekében, hogy a bennük meghatározott tevékenységek, foglalkozások vagy magatartások szempontjából úgy állapítson meg az érintett büntetőjogi előéletével kapcsolatos követelményeket, hogy azokhoz differenciált adatvédelmi követelményeket társítson. Ezeknek a foglalkozásoknak, tevékenységeknek vagy magatartásoknak a gyakorlása a törvény szerint korlátozás alá esik, meghatározott időtartamig vagy a később bekövetkező feltétel esetén nem gyakorolható. E tevékenységek gyakorlása egyrészt bizalmi jellegű (magánnyomozó), ami a megbízó és a megbízott közötti jogviszony tartalma alapján szorul kiemelt védelemre, másrészt közvetlen összefüggésben áll az élethez és az emberi méltósághoz való jog védelmével, amelyek érvényesülése szigorú és határozott intézkedéseket is megkövetel, harmadrészt a tevékenység, magatartás olyan területre korlátozódik (fegyveres biztonsági őrséggel védett objektum, repülőtér), amelyeket veszélyeztető magatartások elhárítására csak objektíve korlátozott lehetőségek állnak rendelkezésre.
+
+Mindezekre figyelemmel a törvény a jogviszony létesítésekor, vagy a repülőtér területére kíséret nélküli belépéskor előírja, hogy az érintettnek kell igazolnia, hogy ezeknek a - a közbiztonság érdekében szigorúbb - feltételeknek megfelel. Ezek a szigorú anyagi jogi feltételek csak meghatározott bűncselekményekre vonatkoznak, és a bűncselekmény súlyához igazodnak. A tevékenységet engedélyező hatóságok és az ellenőrzést végző hatóságok ugyanakkor eszköztelenek maradnának, és képtelenek lennének a jogviszony fennállása alatt a követelmények érvényesítésére, ha a törvény az ellenőrzési kötelezettség mellé (amely ellenőrzés egy adott pillanatban, rendkívül rövid idő alatt válik szükségessé) nem társítana adatkezelésre (közvetlen adatátvételre) való jogosultságot.
+
+A törvény szerint a bűnügyi nyilvántartási rendszer adataihoz való közvetlen hozzáférés az eljáró hatóságok részére kizárólag az anyagi jogi feltételek ellenőrzésének mértékéig terjedhet, az adatkezelés időtartama pedig nem terjed tovább az ellenőrzés időpontján, illetve az eljárás jogerős befejezésének időpontján.
+
+A törvény az adatvédelmi követelmények érvényesülését a garanciák teljes körének beépítésével biztosítja.
+
+A 105-106. §-hoz
+
+A törvény szerint adatkezelésre jogosult szervek tevékenységét szabályozó törvények fogalmi pontosítását, és a törvénnyel ellentétes vagy végrehajtott szabályok hatályon kívül helyezését is elvégzi a törvény.

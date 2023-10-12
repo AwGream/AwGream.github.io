@@ -1,0 +1,1041 @@
+2003. évi C. törvény indokolása
+
+az elektronikus hírközlésről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+1. Előzmények
+
+A hatályos ágazati törvény - a hírközlésről szóló 2001. évi XL. törvény (a továbbiakban: Hkt.) - alapvető célkitűzései közé tartozott, hogy
+
+- biztosítsa a hírközlési szolgáltatások - mint közérdekű szolgáltatások - elérhetőségét és a nemzetközi szerződéseinkkel összhangban lévő szabad forgalmát,
+
+- teremtse meg az információs társadalom hírközlési infrastruktúrájának fejlődését elősegítő, kiszámítható, átlátható, a használt technológiától független és versenysemleges szabályozás kereteit,
+
+- segítse elő a hírközlési verseny fejlődését és új szereplők piacra lépését a jelentős piaci erővel rendelkezők befolyásának - a hatékony versenypiac kialakulásához és fenntartásához szükséges mértékű - differenciált ellensúlyozásával,
+
+- szükség esetén iparági keresztfinanszírozással tegye lehetővé, hogy az alapvető szolgáltatások egy meghatározott köre az országban bárhol, előírt minőségben és elérhető áron, bárki számára hozzáférhető legyen,
+
+- biztosítsa a fogyasztók védelmét és a hírközléssel összefüggő adatvédelmet,
+
+- biztosítsa az összeegyeztethetőséget az Európai Közösség hírközlés szabályozásával és segítse elő a magyar hírközlési piacnak a közösség piacába való integrálódását.
+
+A Hkt. nem teljes egészében váltotta be a hozzá fűzött reményeket. A törvény akkor lépett hatályba, amikor a távbeszélő piacon az ország területének mintegy ľ-ét mindaddig egyedül kiszolgáló koncessziós társaságnak a koncessziós szerződésben 8 évre biztosított kizárólagos szolgáltatási joga lejárt, s az ezt követő rövid időn belül a többi koncessziós társaság kizárólagos jogai is megszűntek a távközlésben. A jogi akadályok megszűnése ellenére a várt verseny gyakorlatilag nem kezdődött meg. Az információs aszimmetriát kihasználva a korábban kizárólagos jogokat élvező szereplők elfogadhatatlanul magas összekapcsolási díjakat érvényesítenek az előfizetési díjakhoz viszonyítva, és az így kialakult árprés megakadályozza új szereplők piacra lépését.
+
+A fentiek miatt a szolgáltatók között korábban jól működő együttműködések is megromlottak. A Hírközlési Döntőbizottság nem elég hatékony a problémák kezelésében, döntései nem zárják le a jogvitákat, azok szinte minden esetben tovább folytatódnak a bíróságon.
+
+A fogyasztók a versenytől várt előnyök helyett kénytelenek voltak elviselni a szolgáltatók közötti viták hátrányos következményeit, amelyek több esetben a szolgáltatás ellátását is veszélyeztették. Nem léptek a hazai piacra új stratégiai befektetők sem.
+
+Az Európai Unió az 1998-as liberalizáció sikeres végrehajtását követően átfogó reformba kezdett a távközlés területén azzal a céllal, hogy a piac szegmensein az ágazati szabályozás alkalmazott mértéke dinamikusan a hatékony verseny kialakulása és fenntartása által igényelt szinthez legyen igazítható. Az új közösségi szabályozás ezért felhatalmazza a nemzeti szabályozó hatóságokat arra, hogy egy kellő gyakorisággal végrehajtandó piacelemzés eredményétől függően a hatékony verseny kialakulásához, illetve fenntartásához szükségesnek ítélt piacélénkítő intézkedéseket vezessenek be, tartsanak fenn, illetve szüntessenek meg egy meghatározott eszköztárból. Ha egy piaci szegmensen nincs ok azt feltételezni, hogy a hatékony verseny fennmaradását bármi is veszélyeztetheti, abban az esetben a feleslegessé vált ’ex ante’ ágazati szabályozás e szegmens felett ilyen módon megszüntethető, így a piac szabályozása a továbbiakban az általános versenyfelügyelet által végzett ’ex post’ versenyszabályozásra korlátozódhat.
+
+Az egységes belső piacon az egységes jogalkalmazás megteremtése céljából az új szabályozás a nemzeti szabályozó hatóságok szoros együttműködését rendeli el, továbbá tevékenységük felett az Európai Bizottságnak erős felügyeleti jogkört biztosít.
+
+Az új uniós szabályozás joganyaga 2002. folyamán került kihirdetésre, és 2003. július 25-én - a távközlési adatvédelmi irányelv (2002/58/EK irányelv) kivételével, amely 2003. októberében - lép/ett hatályba a tagállamokban. Magyarország nem kért átmeneti mentességet az új szabályozás hazai bevezetése alól, így csatlakozásunkig nemcsak az elmaradt, illetve hibásan bevezetett EU-s jogintézményeket kell pótolni, korrigálni, hanem el kell végezni az új szabályrendszer jogharmonizációját is.
+
+A fentiekben részletezett piaci anomáliák, továbbá a jogharmonizációs kényszer a hírközlés hazai szabályozásának átfogó felülvizsgálatát tették szükségessé. Ennek eredményeként a Hkt.-t olyan nagymértékben kellene módosítani - a legtöbb fogalom meghatározásának tartalmi pontosítására is kiterjedően - hogy a félreérthetőség elkerülése és a kezelhetőség érdekében új törvény megalkotására teszünk javaslatot.
+
+A felülvizsgálat arra is rámutatott, hogy bár a Hkt. által közös törvényben szabályozott postai és távközlési tevékenységek fejlődése hasonló pályaíven fut, a kettő közötti időbeli eltérés olyan mértékű, amely nagymértékben különböző szabályozást tesz szükségessé. A külön törvényekben történő szabályozás lényegesen megnövelné azok áttekinthetőségét is.
+
+A folytonosság biztosítása érdekében mindkét törvény a lehető legmesszebbmenőkig alkalmazza a Hkt. helyesnek bizonyult szabályait.
+
+2. A törvénynek a hatályos szabályozáshoz viszonyított koncepcionális eltérései
+
+1.1. Intézményrendszer
+
+A törvény meghatározza az elektronikus hírközléssel kapcsolatos állami feladatok ellátását megvalósító intézményrendszert. Ez hazánkban sokszereplős, elemei: a Kormány, a miniszter, a hírközlési hatóság, a Gazdasági Versenyhivatal, a Fogyasztóvédelmi Főfelügyelőség, s hazánk Európai Unióhoz való csatlakozását követően az Európai Bizottság, valamint a tagállami nemzeti szabályozó hatóságok is.
+
+A közösségi szabályozás nagyon szűkszavúan szól a nemzeti szabályozó hatóságokra vonatkozó követelményekről, s csak a piaci szereplőktől való függetlenséget, a pártatlanságot, és a feladatai ellátásához szükséges finanszírozási, személyi, tárgyi feltételek biztosítását követeli meg a tagállamoktól.
+
+A törvénynek az intézményrendszerre vonatkozó szabályai a magyar nemzeti szabályozó hatóság vonatkozásában egy új szervezeti modellt hoznak létre. A hatóság testületi vezetés alatt álló egységes szerv lett. A magyar közigazgatásban kevésbé megszokott, de más európai országokban bevált testületi vezetés azonban a jogalkotó megítélése szerint garantálhatja a nagyobb tapasztalatot, szaktudást, szakmai elismertséget.
+
+A törvény csak a működéshez szükséges legkisebb mértékben rendelkezik a hatóság szervezeti struktúrájáról, az érvényesülő munkamegosztásról, ezáltal biztosítja a hatóság vezetésének nagyobb önállóságát a struktúra és a munkamegosztási rend kialakításában, illetve a változó feladatokhoz való rugalmasabb alkalmazkodást. Ez rendkívül flexibilis működést tesz lehetővé, s garanciája lehet a hatékonyabb hatósági tevékenységnek. A törvény szerint a hatóságon belül alapvetően az az általános feladatmegosztás érvényesül, hogy a piacra jelentősen kiható, a piaci működést alapvetően befolyásoló feladatokat a Tanács látja el, míg a klasszikus hatósági feladatokat a Hivatal végzi.
+
+Mind a Tanács, mind a hatóság többi alkalmazottja javadalmazási rendszere abból a célból került emelt mértékben meghatározásra, hogy az ágazati szakértelem a hatóság alkalmazottai vonatkozásában elismerhető legyen. Ezen szabályokkal talán elérhető, hogy az elektronikus hírközlési piacról a hatóság saját alkalmazottai közé „csábíthasson” szakembereket. A Tanács tagjainak jelentősen megemelt beosztása és illetménye pedig szakmai tekintélyét, presztízsét biztosíthatja, illetve arányban áll a feladatkörükbe tartozó felelősséggel, a szigorú összeférhetetlenségi szabályokkal, a megbízatásuk megszűnését követően érvényesülő elhelyezkedési tilalommal.
+
+A 2003. július 25-én hatályba lépett új közösségi szabályozási keretrendszer implementálása révén a hatóság legfontosabb feladata - a piaci viszonyok alakítása vonatkozásában -
+
+- a hazai ágazati piac elemzése;
+
+- annak vizsgálata, hogy melyek a hazánkban meghatározó (érintett) ágazati piacok;
+
+- azokon megfelelően érvényesül-e a verseny;
+
+- amennyiben nem érvényesül a verseny, melyek a jelentős piaci erővel rendelkező szereplők,
+
+- amelyekre a verseny torzulásával és a piaci szereplő konkrét helyzetével arányos, a verseny érvényesüléséhez szükséges mértékű, a törvényben meghatározott kötelezettségek közül legalább egyet elő kell írni.
+
+Ezt a hónapokig tartó eljárás-sorozatot a hatóság évente köteles elvégezni, s a tagállami kereskedelemre gyakorolt hatás függvényében egyeztetnie kell az Európai Bizottsággal és a tagállami nemzeti szabályozó hatóságokkal is. Ez a feladat uniós tagsággal járó kötelezettség, azonban jelentősége és bonyolultsága révén nagy kihívást jelent majd a hatóság számára. Ez a szabályozási rendszer a Hkt.-ban meghatározott, automatikus érvényesülést váltja fel, hiszen a Hkt. alapján
+
+- 4 ágazati érintett piac van,
+
+- minden szolgáltató jelentős piaci erővel rendelkezett, amely elérte a 25%-os piaci részesedést,
+
+- a törvényben meghatározott minden kötelezettség automatikusan terhelr minden jelentős piaci erővel rendelkező szolgáltatót.
+
+A törvény szerinti rendszer sokkal inkább figyelemmel van az aktuális piaci viszonyokra, a jelentős piaci erővel rendelkező szolgáltatók közötti különbségekre, illetve arra, hogy az adott piacokon milyen formában és fokban sérül a verseny tisztasága. Természetesen a törvény vonatkozó rendelkezései nagyobb felelősséget rónak a hatóságra, azonban a valós piaci helyzetek figyelembe vételét jobban lehetővé teszik, azaz a piac szabályozása hatékonyabbá, életszerűbbé válhat.
+
+A törvény megadja a hatóság számára mindazokat az eszközöket, amelyek révén szükség esetén beavatkozhat a piaci szereplők magatartásába. A hatóság eszközeinek bővítését, a hatékonyabb, és az önkéntes jogkövető magatartást jobban elősegítő szankciórendszer kialakítását az is indokolja, hogy a piacra lépés engedélyezése helyébe lépő új, bejelentésen alapuló tevékenység-kezdés miatt nagy hangsúlyt kell fektetnie a tevékenységet végzők utólagos ellenőrzésére, a piacfelügyeletre. Ez pedig csak erős, és hatékony hatósági eszközök birtokában látható el sikeresen.
+
+A hatóság eljárásaira a törvény kellően részletes rendelkezéseket tartalmaz, mind az eljárásban résztvevők, mind pedig a hatóság érdekei azt kívánják ugyanis, hogy az előreláthatóság, a transzparencia biztosítása céljából a hatóság cselekedetei minden egyes eljárási szakaszban nyomonkövethetőek legyenek. Az eljárási szabályok egyrészt kiegészítik az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényt, másrészt attól eltérő szabályokat állapítanak meg, továbbá - tekintettel a hatóság hatáskörébe tartozó ex-ante típusú versenyhatósági hatáskörökre - a tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény rendelkezéseivel összhangban lévő szabályokat tartalmaznak. Ezen túlmenően a törvény megjeleníti az egyes eljárásokra vonatkozó közösségi jogi előírásokat is.
+
+A törvény hatóságra vonatkozó szabályai megfelelnek a közösségi előírásoknak is, és a hazai jogrendszerhez is illeszkednek. Az elkülönült, elszigetelt, széttöredezett szervezet helyett egyetlen egységes szerv látja el az ágazati piacigazgatási feladatokat.
+
+1.2. Költségszámítás
+
+A Hkt. értelmében a távbeszélő szolgáltatási, illetve a bérelt-vonali szolgáltatási piacon, valamint az összekapcsolási piacon jelentős piaci erővel rendelkező-szolgáltató által “értékesített” termékekre, az azokkal összefüggő költségszámításokra vonatkozóan a LRIC (hosszú távú, előremutató különbözeti költségek költségszámítási módszere) módszertant kell alkalmazni. Léteznek azonban olyan termékek (pl. kiskereskedelmi termékek), amelyekre ez idáig még nem vonatkozik költségszámítási előírás. A törvény célja a LRIC módszer alkalmazásának kiterjesztése, egységesítése a különböző termékekre, a költségszámítás és az ezen alapuló további szabályozás egységességének kialakítása, továbbá a költségszámítással kapcsolatos fogalomrendszer egységének megteremtése.
+
+A törvény a mobil hívásvégződtetés tekintetében - egyebek mellett - a következő Hkt.-ból eredő hiányosságokat pótolja:
+
+- az érintett piacok nem a jelenlegi EU szabályozással összhangban meghatározottak;
+
+- a jelentős piaci erővel rendelkező szolgáltató kijelölésének kritériumainak hiánya;
+
+- nincs szabályozás a mobil végződtetési piacon JPE szolgáltatók kötelezettségeire vonatkozóan;
+
+- sem szabályozás, sem útmutatás nincs a mobil végződtetés költségmegosztására;
+
+- nincs pontos szabályozás a mobil végződtetés költségszámításának módszertanára.
+
+A Hkt. a meghatározó piacokra vonatkozóan írja elő a számviteli szétválasztás követelményét, nem pedig az Európai Bizottság Ajánlásában megjelölt üzletágakra. Mivel jelenleg nincs semmiféle szabályozás a költségszámítási modellekben elismerhető költségekről, a hatóság az egyes üzletágakhoz rendelhető ténylegesen felmerült költségeket nem tudja ellenőrizni.
+
+A jelenlegi magyar előírások szerinti számviteli szétválasztási rendszer nem éri el az EU országokban kívánatos szabályozói célt. Erre figyelemmel a törvény célja a számviteli szétválasztás szabályrendszerének módosítása és kiegészítése, amely így valóban megalapozza a referenciaajánlatok költségalapjának elbírálhatóságát, lehetővé teszi a diszkriminatív árazás felderítését, és információt szolgáltat egyes egyetemes szolgáltatások költségeiről. A törvény lehetővé teszi, hogy a hatóság meghatározza a számviteli szétválasztásra kötelezettek alanyi körét, a költségfelosztási módszertant és a transzferárak rendszerét, ezzel biztosítva az átlátható működést, illetve az egyenlő elbánás elve érvényesülésének ellenőrizhetőségét. A számviteli szétválasztási kimutatásban foglalt adatokat a versenyhatóság is felhasználhatja - többek között - az árprés vizsgálata során.
+
+Az EU szabályozás kifejezetten tiltja az árprés alkalmazását, míg a hazai távközlési jogi szabályozás az árprés alkalmazásának tilalmát eddig nem tartalmazta. Ezen kívül a Hkt. nem vetített előre semmilyen preferált árprés-ellenes mechanizmust, és nem volt ilyen esetben használható szabályozói eszközkészlete sem. A törvény ezeket a hiányosságokat is korrigálja.
+
+1.3. A jelentős piaci erővel rendelkező szolgáltatók azonosítása és kötelezettségeik meghatározása
+
+Az új uniós szabályozásban jelentősen változtak az érintett piacok meghatározásának szabályai, a jelentős piaci erővel rendelkező (a továbbiakban: JPE) szolgáltatók azonosítási feltételei, továbbá a JPE szolgáltatók kötelezettségei.
+
+A Hkt. által alkalmazott 4 helyett az Európai Bizottság már 18 érintett piacot határozott meg, ezek közül hatot az elektronikus hírközlési szolgáltatások kiskereskedelmi, tizenkettőt pedig a nagykereskedelmi piaci szegmensein. A törvény alapján piaci analízis eredményeképpen a Tanács - ha a verseny elégtelensége azt indokolja - más érintett piacokat is meghatározhat, de ha ez kihatással van a tagállamok közötti kereskedelemre, abban az esetben a határozat tervezetét annak részletes indokolásával együtt meg kell küldenie az Európai Bizottságnak és a tagállamok elektronikus hírközlési szabályozó hatóságainak. Az Európai Bizottság kifogást emelve e határozat meghozatalát megakadályozhatja, ha az a véleménye, hogy a döntés az egységes piac akadálya lehet, vagy hogy az a közösségi jognak nem felel meg.
+
+A törvény a JPE szolgáltatóként való azonosítás kritériumaként a korábbi, a Hkt.-ban is alkalmazott 25% körüli piaci részesedés helyett - az új uniós szabályozás alapján - a versenyszabályok szerinti gazdasági erőfölény fogalmához közelítő szabályozást rendeli alkalmazni.
+
+Amennyiben valamely szolgáltató JPE-kénti azonosítása, vagy a reá kiróni tervezett kötelezettségek, illetőleg ezek megváltozása kihatással lehetnek a tagállamok közötti kereskedelemre, abban az esetben le kell folytatni a tervezett határozat bizottsági és tagállamok közötti, fentiekben kifejtett egyeztetését.
+
+1.4. Liberalizációs jogintézmények
+
+A törvény a Hkt.-hez képest szélesre nyitja az elektronikus hírközlő hálózatok, illetve szolgáltatások összekapcsolásával, elektronikus hírközlő eszközök, hálózatok, illetőleg szolgáltatások hozzáférésével összefüggésben a JPE szolgáltatókra kiróható kötelezettségek választékát. Ezek között szerepelnek olyan - garanciális jellegű - kötelezettségek is, mint például a korábban nyújtott hozzáférés megszűntetésének tilalma, vagy a kötelezettségek teljesítési határidőhöz kötése. A JPE szolgáltatók gyakorlatban tapasztalt visszaélő magatartásának visszaszorítása érdekében a törvény részletesen szabályozza a közös eszközhasználat és helymegosztás feltételeit.
+
+A közvetítőválasztás gyakorlati elterjedése érdekében a törvény meghatározza azokat az üzleti modelleket, amelyek feltételeit - arra vonatkozó igény esetén - a kötelezett szolgáltató a jogosult részére biztosítani köteles. Amennyiben a közvetítő szolgáltató maga kíván kiskereskedelmi szolgáltatást nyújtani azoknak az előfizetőknek, akik részére a kötelezett szolgáltató biztosítja az előfizetői hozzáférést, a közvetítő szolgáltató által megállapított díjnak az előfizető részére történő kiszámlázása és beszedése tárgyában a felek piaci alapon állapodhatnak meg.
+
+A törvény a helyi hívásra vonatkozó közvetítőválasztás Hkt.-ból hiányolt kötelezettségét pótolja, továbbá a számhordozhatóság kötelezettségét - az új uniós elvárásokhoz igazodóan - kiterjeszti a mobil rádiótelefonszámok és nem földrajzi számok hordozhatóságára is 2004. május 1-jei bevezetési határidővel.
+
+1.5. Egyetemes elektronikus hírközlési szolgáltatás
+
+Az Európai Bizottság bírálta a Hkt. egyetemes szolgáltatásra vonatkozó szabályozását, mert nem rászorultság alapján tette hozzáférhetővé az iparági keresztfinanszírozásból - nem EU-konform módon - támogatott díjcsomagot az előfizetők számára, ezzel indokolatlan többletterheket is ró az ágazatra. Az egyetemes szolgáltatók kijelölése a törvény szerint a miniszter hatáskörébe tartozik, amelynek kiválasztási kritériuma, hogy az ország egész területe egyetemes szolgáltatással lefedett legyen és az elektronikus hírközlési piacon folyó verseny a legkevésbé torzuljon, az egyetemes szolgáltatást az azt leghatékonyabban, a lehető legkisebb nettó elkerülhető költség mellett nyújtani képes szolgáltató nyújtsa. A törvény leválasztja a rászorultak támogatásának kérdését az egyetemes szolgáltatásról, így a fogyatékosok és a szociálisan rászorultak külön jogszabályban meghatározott formában kapnak támogatást az egyetemes szolgáltatás igénybevételéhez, amelynek forrását nem az iparági keresztfinanszírozás, hanem a költségvetés biztosítja a frekvenciahasználati díjból történő átcsoportosítás révén.
+
+1.6. Az internet szolgáltatás fejlődésének elősegítése
+
+A nemzetközi összehasonlításban rendkívül alacsony hazai internet penetrációra tekintettel a törvény kiemelt figyelmet fordít az internet szabályozás átláthatóbbá tételére, a szolgáltatás kibontakozását elősegítő új szabályok bevezetésére és nem utolsó sorban árának csökkenésére.
+
+Az internet szolgáltatók, és az előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltatók közötti viszony rendezésének elősegítése érdekében a törvény meghatározza e két hálózat közvetlen, illetve közvetítő szolgáltató útján történő összekapcsolásának üzleti modelljeit. A helyhez kötött telefonhálózathoz való hozzáféréssel és használattal kapcsolatos bármely piacon JPE-ként azonosított szolgáltató köteles költségalapú díj ellenében az internet híváskezdeményezés és az átalánydíjas internet híváskezdeményezés nagykereskedelmi forgalmi szolgáltatását nyújtani, illetve erre vonatkozóan referenciaajánlatában ajánlatot tenni, és ezek igénybevétele esetén a jogosulttal történő megegyezés értelmében kereskedelmi alapú díj ellenében a jogosult által az előfizetőnek nyújtott kiskereskedelmi szolgáltatás után járó díjat kiszámlázhatja és beszedheti. E szolgáltatások költségalapú árának megállapításakor - a telefon híváskezdeményezés forgalmi szolgáltatásétól eltérő jellegre tekintettel - a költségszámítás szabályait a megfelelő eltérésekkel és kiegészítésekkel kell alkalmazni. Ezek a szabályok - egyebek mellett - lehetőséget biztosítanak a Nyugat-Európában több helyen sikerrel alkalmazott átalánydíjas, un. FRIACO modell hazai bevezetésére is.
+
+További új elemek a szabályozásban, hogy az egyetemes szolgáltatások kötelező körében megjelent a funkcionális internet elérés biztosítása, a közvetítő szolgáltatók internet szolgáltatás elérésére irányuló hívásokra is szakosodhatnak, továbbá az előfizetői hurok átengedésére kötelezett szolgáltató helyi bitfolyam hozzáférés átengedésére és az ehhez kapcsolódó közös eszközhasználatra is köteles ajánlatot tenni a referenciaajánlatában.
+
+1.7. Fogyasztóvédelem
+
+A Hkt. - a verseny kialakulásában bízva - nem fektetett különös hangsúlyt a fogyasztóvédelemre, így annak - lényegében - csak az egyetemes szolgáltatás keretében voltak garanciái. A törvény ezzel szemben részleteiben állapítja meg a fogyasztók jogait és kötelezettségeit, az előfizetői szerződések kötelező tartalmi elemeit, a szerződés megkötésének, módosításának és megszűnésének szabályait, a szolgáltatónak a szolgáltatás keretében biztosítandó kötelezettségeit, továbbá az előfizetői panaszok kezelésének szabályait, valamint az előfizetők jogorvoslati lehetőségeit. Kiemelendő továbbá, hogy különösen a telefonszolgáltatás számos kötelező kiegészítő szolgáltatási elemmel bővült - az uniós előírásoknak megfelelően.
+
+A törvény szerinti intézményrendszerben új résztvevőként megjelenik a Hírközlési Fogyasztói Jogok Képviselője, aki köteles kivizsgálni az előfizetői bejelentéseket, továbbá bejelentés esetén, vagy hivatalból is eljárhat az előfizetők elektronikus hírközlésre vonatkozó jogszabályban foglalt jogaival kapcsolatos jogszabálysértések megszüntetése érdekében.
+
+1.8. Jogharmonizáció, hatálybalépés
+
+Az unió tagállamaiban az új szabályrendszer 2003. során két lépcsőben váltja fel a régit azzal, hogy az első piacelemzéssel, JPE azonosítással és a JPE kötelezettségeknek az új szabályozás szerinti kiszabásával kapcsolatos eljárás befejezéséig a régi szabályrendszer alapján azonosított JPE szolgáltatóknak fennmaradnak a régi szabályrendszer által előírt kötelezettségei. Tekintettel arra, hogy a régi szabályrendszer szerinti kötelezettségek mindegyike létezik az új szabályrendszerben is, ezért a régi szabályrendszer az új szabályrendszerrel ilyen értelemben nem ellentétes, ezért az átmenet zökkenésmentesen megtörténhet.
+
+A szabályozási rendszer átalakítása tekintetében a törvénynek is ezt az utat kell követnie, külön figyelemmel arra, hogy a kötelezettségeknek az új szabályozás szerinti kiszabásával kapcsolatos eljárást - az Európai Bizottsággal és a tagállamok elektronikus hírközlési szabályozó hatóságaival való egyeztetések szükségessége miatt - csak csatlakozásunkat követően, tagállamként lehet befejezni.
+
+A törvénynek tehát mind a régi, mind az új uniós szabályrendszerrel maradéktalanul harmonizálnia kell, ellenkező esetben csatlakozásunkat követően az Európai Bizottság a közösségi joggal összeegyeztethetetlen nemzeti szabályozás miatt Magyarországgal szemben eljárást kezdeményezhet.
+
+A törvény a következők szerint oldja meg az uniós szabályrendszerhez való illesztésben az átmenet kezelését: rendelkezései az új uniós szabályrendszerhez igazodnak, amelyek többsége 2004. január 1-jén lép hatályba. A törvény tagállamként való működést feltételező rendelkezései csatlakozásunk napján, 2004. május 1-jén lépnek hatályba. A JPE kötelezettségeknek az új szabályozás szerinti kiszabásával kapcsolatos első eljárás befejezéséig a törvény átmeneti rendelkezései biztosítják a Hkt. szabályozása alatt JPE-ként azonosított szolgáltatók régi uniós szabályrendszer által támasztott kötelezettségeinek a szükséges módosításokkal történő fennmaradását.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1-3. §-hoz
+
+A törvény teljes körűen meghatározza a tárgyi, személyi és területi hatályát, a személyi hatály körében külön kiemelve az elektronikus hírközlési tevékenységet végző szervezetek vezető tisztségviselőit. A tárgyi hatály az ágazati piac szereplőinek tevékenységére, magatartására ezen belül különösen a szolgáltatások nyújtására terjed ki. A törvény az állami feladatok körét, ellátását kiemelten kezeli, ezért hatálya kiterjed a hírközléssel összefüggő, nem polgári célú kérdésekre is, de a törvény ezen szabályait az e kérdéskörre vonatkozó más törvényekben és jogszabályokban foglalt eltérésekkel kell alkalmazni.
+
+A célok és alapelvek meghatározása a 2002-es új közösségi szabályozási rendszerben meghatározottakra tekintettel történt. Külön kiemelt figyelmet fordítva a szolgáltatásnyújtás szabadságára, a szolgáltatások szabad áramlására, a fogyasztói érdekek hatékonyabb védelmére, a szabad szolgáltató-és szolgáltatásválasztásra, az esélyegyenlőségre, a személyes adatok védelmére, az elektronikus hírközlési szolgáltatásokhoz való egyetemes hozzáférés biztosítására, a fogyatékkal élő felhasználók igényeinek fokozott figyelembe vételére, az információs társadalommal összefüggő szolgáltatások és új technológiák elterjedésének szabályozói eszközökkel való elősegítésére. A törvény a szolgáltatók számára alapelvi szinten írja elő az együttműködési kötelezettséget, ezen általános szabály gyakorlati érvényesülésére a törvény több részletszabályt is tartalmaz.
+
+A 4-8. §-hoz
+
+E §-okkal kezdődik a hírközléssel kapcsolatos állami feladatok és az azokat ellátó szervezetek szabályozása. Az állam alapvető feladatainak meghatározása során a törvény a liberalizált elektronikus hírközlési piac megteremtéséhez és fenntartásához elengedhetetlenül szükséges állami szerepvállalást jelölte meg, így többek között a verseny elősegítését, a szabályozott, nyílt és átlátható piaci környezet folyamatos fenntartását, az állami hatósági intézményrendszer működtetését. Az intézményi rendszer egységei a Kormány, a minisztériumok és a hatóság, melyek szorosan együttműködve a kormányzati munkamegosztásnak megfelelően vesznek részt az állami feladatok ellátásában. A törvény további együttműködési kötelezettséget állapít meg a hatóság részére a Gazdasági Versenyhivatallal, a Fogyasztóvédelmi Főfelügyelőséggel, valamint a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatósággal. Hazánk Európai Unióhoz történő csatlakozását követően - azokban az esetekben, amelyek során a hatóság döntése a tagállamok közötti kereskedelemre hatással lehet - köteles lesz együttműködni az Európai Bizottsággal és a tagállami társhatóságokkal is. Mind a Kormány, mind a miniszter vonatkozásában - jogharmonizációs kötelezettségünk teljesítése céljából - külön kiemelésre került, hogy az elektronikus hírközlési piacot szabályozó jogszabálytervezetekkel kapcsolatban a törvényben meghatározott eljárási szabályok alkalmazásával köteles egyeztetni az érdekeltekkel.
+
+A Kormány és a miniszter elektronikus hírközléssel kapcsolatos feladatainak részletes szabályozását a törvény 4-6. §-a tartalmazza. A miniszter feladatai a jövőben is többnyire megegyeznek a hírközlésről szóló 2001. évi XL. törvény (a továbbiakban: Hkt.) 68-69.§-ában, valamint az informatikai és hírközlési miniszter feladat- és hatásköréről szóló 141/2002.(VI. 28.) Korm. rendeletben leírtakkal. A miniszter feladatai így különösen:
+
+- a hírközlés-politikára vonatkozó javaslat előterjesztése és végrehajtásának ellenőrzése;
+
+- a honvédelmi feladatok ellátásában résztvevő hírközlési szolgáltatók kijelölése;
+
+- a Kormány hírközléssel és informatikával kapcsolatos nemzetközi tevékenysége és a Magyar Köztársaság képviseletének ellátása a hírközléssel és informatikával kapcsolatos nemzetközi szervezetekben;
+
+- az ügykörben érintett miniszterrel egyetértésben a hatósági árszabályozással kapcsolatos feladatok ellátása;
+
+- az elektronikus hírközlési hálózatok hatékony működéséhez és az elektronikus hírközlési szolgáltatások nyújtásához szükséges azonosítókkal és ezek tartományaival történő gazdálkodás.
+
+A 9-13. §-hoz
+
+A törvény alapján a Hírközlési Felügyelet (a továbbaikban: HIF) Hkt. által létrehozott szervezeteinek (HDB, HFF, HTH) integrációja révén 2004. január 1-jével létrejön egy új, egységes irányítású, a hírközlési piacot felügyelő független nemzeti hatóság. A hatóság a Kormány irányítása és az informatikai és hírközlési miniszter felügyelete alatt működik. A hatóság új neve Nemzeti Hírközlési Hatóság (a továbbiakban: NHH).
+
+Az NHH céljának megfogalmazása érdekében a Hkt.-ban foglaltak kiegészítésre kerültek az EU irányelvek által megfogalmazott szabályozói célokkal. Az NHH céljainak és feladatainak részletes szabályait ezen §-ok tartalmazzák. A törvény 11. §-a részletezi az NHH által ellátandó frekvenciagazdálkodással kapcsolatos nem engedélyezési feladatok.
+
+A hatékony frekvenciagazdálkodás egyik előfeltétele az előzetes tervezés. A frekvenciagazdálkodó hatóságok - nemzetközi előírások és megállapodások figyelembevételével - a frekvenciasávok újrafelosztására, illetőleg átrendezésére, a frekvenciák kiosztására (csatornakiosztási tervek), az egyes rádióalkalmazásokra vonatkozó használati feltételekre és a frekvencia használat feltételeire terveket készítenek, amelyek a szabályozói döntések alapját képezik.
+
+A rádióhullámok terjedési sajátosságaiból fakadóan a Magyarországon felhasznált frekvenciák zavaró hatást fejthetnek ki a szomszédos országokban (mindenekelőtt a határövezetben), de az adott frekvenciasáv vagy az adott alkalmazás függvényében (pl. rádió- és TV- műsorszórás, műholdas távközlés) azt jóval meghaladó mértékben is. Ez fordítva is igaz, azaz a szomszédos vagy távolabbi országok frekvencia-felhasználása is kelthet zavart a magyarországi alkalmazásokban. A kölcsönös zavarás kiküszöbölésére vagy minimalizálására a Nemzetközi Rádiószabályzat koordinációs kötelezettséget ró a Nemzetközi Távközlési Egyesület (ITU) tagországaira meghatározott eljárási rend szerint. Előfordulhat, hogy a koordinációs eljárás nem vezet eredményre, ekkor a hatóságnak egy szolgáltató vagy üzemeltető frekvenciakijelölés iránti kérelmét el kell utasítania vagy az engedélyt csak bizonyos korlátozásokkal adhatja ki.
+
+A frekvenciahasználat káros zavaroktól való mentességének biztosítása, illetve a kiadott engedélyekkel való összhangjának megteremtése érdekében a törvény kötelezi a frekvenciagazdálkodó hatóságokat, hogy rádió-figyelési, ellenőrzési, felderítési, zavarvizsgálati és zavar-elhárítási tevékenységet lássanak el. A fenti tevékenység egyrészt nemzeti jellegű, másrészt nemzetközi együttműködés keretében történik (a Nemzetközi Rádiószabályzat és más nemzetközi megállapodások előírásaival összhangban). A fenti feladat ellátására, továbbá általában véve az elektronikus hírközlés védelme érdekében és az elektromágneses összeférhetőségnek (EMC) a rádiófrekvenciás tartományban történő biztosítására mind a polgári, mind a nem polgári frekvenciagazdálkodó hatóságoknak saját rádiómérő és rádió-zavarelhárító szolgálatot kell fenntartaniuk, amelyeknek tevékenységük során együtt kell működniük.
+
+A hatósági eljárás alapelvei között szerepel az átláthatóság és a nyilvánosság. Ezek megvalósítása érdekében a hatóságot közzétételi, rendszeres aktualizálási és vonatkozó adatbázis fejlesztési kötelezettség terheli a frekvenciahasználat feltételeivel kapcsolatos, a törvényben meghatározott információk tekintetében.
+
+Európai Uniós csatlakozásunk miatt többletfeladatot jelent az Európai Bizottsággal való kapcsolattartás. Az Európai Bizottság irányelvekben meghatározott feladatait csak a tagállamok adatszolgáltatása alapján tudja ellátni, ezért fontos a továbbítandó információk körének, valamint a továbbításért felelős szervezet meghatározása. Az Európai Parlament és a Tanács 1999. március 9-i 1999/5/EK irányelve a rádió berendezésekről és a távközlő végberendezésekről, valamint megfelelőségük kölcsönös elismeréséről az alkalmazott interfészek, valamint a forgalomba hozott berendezésekkel kapcsolatban is állapít meg bejelentési kötelezettséget. A törvény 13. §-ában az e körbe tartozó bejelentési kötelezettségek telepítése történt meg a hatóságra.
+
+A 14-16. §-hoz
+
+Az NHH élén az elnök irányítása alatt - az elnök személyével együtt - 7 szaktekintélyből álló Tanács áll. A Tanács ellátja a korábbi Hírközlési Döntőbizottság (a továbbiakban: HDB) feladatait, és dönt más nagysúlyú ügyekben is. A Tanács szakmai támogatását, valamint a hatósági feladatok ellátását a főigazgató irányítása alatt álló Hivatal látja el.
+
+A Tanács elnökének főbb feladatai a következők:
+
+- előkészíti, összehívja és vezeti a Tanács üléseit;
+
+- gyakorolja a munkáltatói jogokat a főigazgató, valamint a tanácstagok tekintetében ( kivételt képez a kinevezési és a felmentési jog);
+
+- elkészíti és a miniszter részére jóváhagyás céljából benyújtja az NHH Szervezeti és Működési Szabályzatát;
+
+- minden évben együttműködési megállapodást ír alá az NHH nevében a Fogyasztóvédelmi Főfelügyelőséggel, illetve a Gazdasági Versenyhivatallal;
+
+- kapcsolatot tart fenn az Európai Unió tagállamaival, valamint a Bizottsággal, amellyel az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló Európai Parlament és a Tanács 2002/21 EK irányelvben (Keret Irányelv) meghatározott tervezett intézkedésekről egyeztetést is folytat;
+
+- másodfokon jár el a Hivatal elsőfokú határozatai tekintetében.
+
+Az NHH élén álló Tanácsba a miniszter az általa felkért személyekből álló szakmai jelölő testület javaslata alapján nevez ki tagokat. A Miniszter saját hatáskörében eldönti, hogy figyelembe veszi-e a javaslatokat. A Tanács tagjainak összeférhetetlenségével, megbízatásuk megszűnésével kapcsolatos szabályokat részletesen tartalmazza a törvény.
+
+Az NHH Tanácsának főbb feladatai:
+
+- jogszabályok módosításának kezdeményezése (a Hivatal szakértői apparátusán keresztül) a miniszternél;
+
+- jogviták rendezésével kapcsolatos feladatok ellátása;
+
+- meghatározza az érintett piacokat, elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, kijelöli a JPE szolgáltatót és meghatározza a többletkötelezettségeket;
+
+- referencia hálózati szerződési ajánlatok jóváhagyása;
+
+- éves jelentés készítése a Kormánynak és az Országgyűlés illetékes bizottságának;
+
+- nyilvános meghallgatások tartása;
+
+- az éves piacfelügyeleti terv elfogadása és végrehajtásának ellenőrzése.
+
+A 17-18. §-hoz
+
+Az NHH hatósági feladatait a Hivatal látja el, a területi irodák nem kapnak önálló illetékességet. A törvényben egységesen „Hivatalként” kerül definiálásra a főigazgató irányítása alatt álló szakértői apparátus és a hatósági feladatokat ellátó szervezeti egység. A szakértői csoport végzi a piacelemzéseket, készíti elő a jogszabály-módosítási javaslatokat, a Tanács szakértői bázisaként működik. Az operatív feladatokért felelős szervezeti egység a Tanács részvételét nem igénylő ügyekkel foglalkozik a korábbi HTH bázisán.
+
+A Hivatal által ellátandó főbb feladatok az alábbiak:
+
+- szakmai támogatás nyújtása a Tanács számára
+
+- a hírközlési szolgáltatások bejelentésének kezelése;
+
+- polgári célú frekvenciagazdálkodással kapcsolatos hatósági ügyek ellátása;
+
+- azonosító gazdálkodási hatósági feladatok ellátása;
+
+- egyedi engedélyezési ügyek kezelése;
+
+- zavarelhárítási tevékenység folytatása;
+
+- piacfelügyeleti tevékenység ellátása;
+
+- az előírt nyilvántartások vezetése;
+
+- ingatlanhasználattal, építésfelügyelettel kapcsolatos feladatok ellátása;
+
+- zártcélú távközlő hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a zártcélú távközlő hálózatokról szóló jogszabály szerint egyeztetést végez a hálózatgazdákkal;
+
+- szakhatósági feladatok ellátása.
+
+A Hivatal operatív vezetője a főigazgató. A főigazgató feladata a Tanács szakértői szintű kiszolgálásának irányítása. A főigazgató főbb feladatai az alábbiak:
+
+- ellátja a Hivatal feletti szervezeti és szakmai irányítást, elősegíti a szervezetrendszer hatékony működését;
+
+- gyakorolja a munkáltatói jogokat a Hivatal köztisztviselői felett;
+
+- kinevezi a helyetteseit;
+
+- iadja az NHH hivatalos lapját, és közzéteszi az előírt nyilvántartásokat;
+
+- megállapítja az egyes elektronikus hírközlési szolgáltatókat terhelő felügyeleti díjat;
+
+- irányítja a hírközléssel kapcsolatos, külön jogszabályban meghatározott egyes honvédelmi, rendvédelmi és nemzetbiztonsági feladatokat, valamint az ezekkel kapcsolatos adatszolgáltatást.
+
+A főigazgató és a Hivatal klasszikus hatósági tevékenységét egyértelműen el kell választani a Tanács szabályozó feladatától. Rzért tiltja a törvény explicit módon e két tisztség egyidejű birtoklását.
+
+A 19. §-hoz
+
+A hatóság alkalmazottaira a Ktv. rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+
+A 20-22. §-hoz
+
+A törvény alapján az NHH munkája során a Gazdasági Versenyhivatallal, a Fogyasztóvédelmi Főfelügyelőséggel és a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatósággal együttműködve látja el az elektronikus hírközlési piac felügyeletét. A törvény alapján a hatóság évente megállapodik a Versenyhivatallal, a Fogyasztóvédelmi Főfelügyelőséggel, valamint a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatósággal az együttműködésük szabályairól, és az elkészült megállapodást mindegyik félnek nyilvánosságra kell hoznia.
+
+A hatóság a versenyhatósággal különösen piacelemzési kérdésekben, jelentős piaci erejű szolgáltató kiválasztásában és a rájuk vonatkozó kötelezettségek kiszabásában, valamint árprés vizsgálatokban működik szorosan együtt.
+
+A frekvenciagazdálkodási feladatok jogi szempontból elkülönítettek ugyan polgári és nem polgári feladatokra, azonban a frekvenciaspektrum egységes egészként kezelendő. A frekvenciaspektrum hatékony használata érdekében szükségszerű a polgári, valamint a nem polgári frekvenciagazdálkodási feladatok ellátásáért felelős közigazgatási szervek, különösen a hatóságok együttműködése.
+
+A 23. §-hoz
+
+A hatóság eljárásai vonatkozásában a törvényben foglalt eltérésekkel az Áe. szabályait kell alkalmazni. Az Áe-től való eltérés a hatóság speciális feladat-és hatáskörével, az általa igazgatott piac sajátosságaival indokolható.
+
+A 24. §-hoz
+
+Az uniós elvárások és a törvény hangsúlyos fogyasztóvédelmi és versenyvédelmi funkciója indokolják az alapelvek kiemelt kezelését.
+
+Ezen alapelvek:
+
+- Egyenlő elbánás
+
+A Magyar Köztársaság Alkotmánya biztosítja a területén tartózkodó minden személy számára az emberi, illetve állampolgári jogokat, bármely megkülönböztetés, nevezetesen faj, szín, nem, nyelv, vallás, politikai vagy más vélemény, nemzeti vagy társadalmi származás, vagyoni, születési vagy egyéb helyzet szerinti különbségtétel nélkül.
+
+A hatóság eljárásai során mind a magyar, mind a külföldi ügyfelek, illetőleg valamennyi szolgáltató teljes egyenlőséget élveznek, és ügyeiket minden megkülönböztetés és részrehajlás nélkül kell intézni.
+
+- Tárgyilagosság
+
+A döntéseknek pártatlanul, tényeken, jogszabályokon alapulva kell megszületniük. A köztisztviselőknek tárgyilagosan, elfogulatlanul kell eljárniuk, erre többek között az Áe. 19. §-ában rögzített kizárás, illetve a törvényben rögzített általános összeférhetetlenség és eseti kizárás jogintézménye is garancia.
+
+- Átláthatóság
+
+Az átláthatóság jogi garanciáját az eljárási szabályok törvényi szintű rendezése, a hatásköri és az illetékességi szabályok, valamint a hatóság éves beszámolási kötelezettsége jelenti.
+
+- Arányosság
+
+A hatóság csak közérdekből és csupán olyan mértékben állapíthat meg kötelezettséget, korlátozást vagy büntetést, amit az elérni kívánt cél indokol és csak a jogszabályok kerete között.
+
+- Nyilvánosság
+
+A hatóság feladatait társadalmi nyilvánosság mellett végzi. E nyilvánosság biztosításánál figyelemmel kell lenni a magán-, az üzleti, állam- és szolgálati titkokra. A törvényben megjelölt nyilvántartások nyilvánosak. A hatóságnak tevékenysége során egyaránt támaszkodnia kell a hírközlés területén működő érdekegyeztetés fórumaira, a különböző szintű szakmai tanácsadó és civil szervezetekre, különösen a nyilvános meghallgatás alkalmazása során.
+
+- Megalapozott és indokolt módon való eljárás
+
+A hatóság köteles a határozathozatalhoz szükséges tényállást tisztázni, a bizonyítékokat egyenként és összességükben értékelni, és ezen alapuló meggyőződése szerint, helytállóan és elégségesen indokolt módon megállapítani a tényállást.
+
+- Pártatlanság
+
+- Hatékonyság
+
+- Törvényesség
+
+Ezen alapelvek a jogbiztonság érvényesülését szolgálják. A jogbiztonság az állami hatóságokat terhelő azon kötelezettség, amely alapján biztosítaniuk kell, hogy a jog könnyen megérthető, megállapítható legyen azok számára, akikre vonatkozik. Vagyis a hatóság kötelessége az előreláthatóság feltételeinek megteremtése.
+
+A 25. §-hoz
+
+Az elektronikus dokumentumokra vonatkozó törvénybeli szabály biztosítja annak lehetőségét, hogy az ügyfél kérelmére kifejezetten az elektronikus dokumentáció és eljárás érvényesüljön.
+
+A 26. §-hoz
+
+A piaci szereplőktől való függetlenség közösségi jogi követelményének maradéktalan érvényesülését célozzák a kizárásra vonatkozó, az Áe-nél jóval szigorúbb szabályok, amelyek szerint még a hozzátartozó érintettsége is kizárást von maga után.
+
+A kizárási ok bejelentési kötelezettségének elmulasztása esetén nem csupán fegyelmi de anyagi felelősség is terheli a törvény szerint az érintett alkalmazottat.
+
+A 27-28. §-hoz
+
+Az üzleti titok ágazaton belüli jelentőségére tekintettel a törvény meghatározott esetekben szűkíti az Áe. ügyfél fogalmát. Annak érdekében pedig, hogy az egyes szolgáltatók üzleti kapcsolataikban ne diszkriminálhassanak attól függően, hogy valamely elektronikus hírközlésre vonatkozó szabály megsértését egy másik szolgáltató a hatóság tudomására hozza, a törvény bevezeti a bejelentő jogintézményét, amelyet az eljárásban az ügyfél jogai és kötelezettségei nem illetnek meg, s a bejelentés alapján a hatóság mérlegelése alapján indul eljárás. Az eljárás eredményéről a bejelentő az érdemi határozat kézbesítése révén értesül.
+
+A 29-30. §-hoz
+
+A titoktartási kötelezettség a hatóság jelen §-okban meghatározott alkalmazottait nemcsak jogviszonyuk fennállása alatt, hanem annak megszűnését követően is terheli. Az üzleti titok hazai szabályozása nem teljeskörű, és az érintettek az üzleti titokhoz fűződő jogaikkal az elektronikus hírközlés területén rosszhiszeműen vissza is élhetnek. Ezért, valamint az egyenlő elbánás követelményének, a diszkrimináció-mentes üzleti kapcsolatok megvalósulása érdekében a törvény lehetőséget biztosít arra, hogy amennyiben az eljárásban résztvevő ügyfél jogérvényesítése érdekében indokolt, a hatóság felszólítja a „titok urát” az üzleti titok minősítés azonnali hatályú megszüntetésére. Amennyiben az ügyfél ezt nem teszi meg, a hatóság határozatában az eljárás folytatásához szükséges mértékben kötelezi az üzleti titok másik fél számára történő rendelkezésre bocsátására. E határozat ellen az érintett a Fővárosi Bírósághoz fordulhat.
+
+A 31-33. §-hoz
+
+A tényállás tisztázása érdekében, továbbá a jogkövető magatartás ösztönzése, az elektronikus hírközlési szabály megsértése esetén a jogsértéssel arányos szankció alkalmazása céljából a hatóság - speciális versenyhatósági hatásköréből, illetve felügyeleti tevékenységének fontosságából adódóan - az Áe-ben foglalt eszközökön túlmenően további eszközöket is igénybe vehet, amelyek garantálják a hatóság feladatainak hatékony ellátását, a fogyasztói érdekek kiemelt érvényesülését és védelmét, magas minőségű szolgáltatások nyújtását, a jogszabályok betartását. A törvény a hatékony hatósági tevékenység érdekében bevezeti a jogsértő szervezet vezető tisztségviselőjének felelősségre vonását is.
+
+A 34-35. §-hoz
+
+A nyilvános meghallgatás intézménye olyan eljárási forma, amely az ágazati szabályok szakmai előkészítésébe, a jogszabályok végrehajtásával kapcsolatos gyakorlat kialakításába, illetőleg az ezekkel kapcsolatos vélemények megismerése érdekében az érintettek bevonásával nyilvános meghallgatás lefolytatását jelenti.
+
+A meghallgatásra bocsátott témával kapcsolatban, álláspontot, javaslatot és véleményt írásban, szóban akár elektronikus formában is elő lehet terjeszteni. A nyilvános meghallgatásra benyújtott véleményekről, illetőleg az ott elhangzott észrevételekről a hatóság összefoglalót készít, amelyet a meghallgatás időpontja után 30 napon belül közzétesz.
+
+A 36. §-hoz
+
+A törvény alapján az „Egyeztetés az érdekeltekkel jelentős ügyekben” olyan eljárás, amelynek során a hatóság jelentősebb döntései nyilvánosságra hozatala előtt lehetőséget teremt a döntés érintettjei számára, hogy kifejtsék a döntéssel kapcsolatos véleményüket. A döntés nyilvánosságra hozatalakor a hatóság megjelöli a figyelembe vett és a figyelmen kívül hagyott véleményeket, utóbbi esetben annak indokával együtt.
+
+A hatóság egyeztetést különösen a következő ügyekben tart:
+
+- érintett piacok meghatározása, jelentős piaci erejű szolgáltatók azonosítása és kötelezettségek megállapítása;
+
+- referencia ajánlatok elfogadása;
+
+- egyéb, a hatóság megítélése szerint egyeztetést igénylő kérdés.
+
+Az egyeztetésre vonatkozó szabályok hazai jogrendszerbe való átültetése a 2003-as EU keretszabályrendszer harmonizációját valósítja meg.
+
+A 37. §-hoz
+
+A hírközlési intézményrendszer működése szempontjából kiemelt kérdés az első- és másodfokú hatósági eljárások megfelelő elkülönítése. A hatóság szervezetén belül csak a Hivatal által elsőfokú ügyekben hozott határozatok, illetve szakhatósági hozzájárulások esetében van lehetőség másodfokra fellebbezni. A másodfokú hatóság a Tanács elnöke.
+
+Amennyiben az érintett fél nem ért egyet a Tanács elnökének másodfokú döntésével, keresettel kérheti annak megváltoztatását a bíróságtól. A bírósági felülvizsgálat, a bíróság ellenkező döntéséig, nem befolyásolja a hatóság másodfokon hozott döntésének végrehajtását.
+
+A 38-39. §-hoz
+
+A Tanács egyes esetekben úgynevezett teljes ülésben jár el. Ebben az esetben a Tanács akkor határozatképes, ha legalább öt tag jelen van. Egyéb esetekben három tagú tanácsban dönt, vagy kisebb jelentőségű ügyekben egy tag egyedül folytatja le az eljárást.
+
+Teljes ülésben a Tanács kétharmados többséggel dönt a következő ügyekben:
+
+érintett piacok meghatározása, jelentős piaci erejű szolgáltatók azonosítása és kötelezettségek megállapítása, illetve más szolgáltatókra az e törvény szerint előírható kötelezettségek megállapítása.
+
+Egyéb ügyekben a Tanács teljes ülése egyszerű többséggel dönt.
+
+A 40-43. §-hoz
+
+A törvény meghatározza a kérelem tartalmi elemeit, a csatolandó dokumentumokat, továbbá a hiányosan benyújtott kérelem következményeit. Kérelemre indult eljárás esetén az igazgatási szolgáltatási díjat a kérelem előterjesztésekor kell befizetni. A Tanács az eljárás megindításáról köteles értesíteni a feleket és az ügyben érdekelteket, megküldi részükre a kezdeményező iratot, továbbá felhívja őket észrevételeik haladéktalan, legfeljebb 15 napon belüli előterjesztésére, valamint a rendelkezésükre álló iratok megküldésére. Egyes állami szervezetek vezetői is kezdeményezhetik a Tanács eljárását, ha hatáskörükkel összefüggésben a törvény szabályainak meg nem felelő tevékenység vagy mulasztás, jelentős piaci erővel rendelkező szolgáltatóként való azonosítás szükségessége jut tudomásukra. E szervezetek azért kezdeményezhetik a hivatalból való eljárást, mert feltételezhető, hogy tevékenységük során tudomást szerezhetnek a törvénybe ütköző eseményről. A Tanács egy külön kiemelt esetben is eljárhat hivatalból, más hatóság kezdeményezése nélkül, ha az eljárást lezáró határozat meghozatala előtt egy ügyben az addig vizsgáltakon túli jogsértésről szerez tudomást.
+
+Az eljárás megindítása tekintetében szigorú jogvesztő határidők állnak fenn. A törvény ezzel kívánja ösztönözni a sérelmet szenvedett felet a mielőbbi eljárásra, hogy az együttműködés körében bekövetkezett - a törvénybe ütköző - helyzet mielőbb rendeződjék, mert ez közérdek. Az eljárást a törvény szabályait sértő körülménynek az eljárást indító tudomására jutásától számított 2 hónapon belül lehet megindítani, de legkésőbb az esemény vagy mulasztás bekövetkezésétől számított 4 hónapon belül. Ezt követően tehát még akkor sem lehet az eljárást megindítani, ha a szabálytalanság ekkor jut az érintett tudomására. Ha egy, a Tanács előtt folyamatban levő ügy során további jogsértések derülnek ki, a Tanács az esemény bekövetkezését követő 4 hónapon túl, de egy éven belüli időpontban is eljárhat hivatalból, feltéve hogy az addig vizsgált jogsértéseket elkövetővel azonos személynek (szervezetnek) tulajdonítható az újonnan megismert jogsértés. Annak érdekében, hogy a Tanácsnak adott ezen jog ne járjon a jogvesztő határidő korlátlan mellőzésével, a törvény egyértelműen rögzíti, hogy az eljárás visszamenőleges hatályú kiterjesztésére csak akkor kerülhet sor, ha az eljárást eredetileg az arra jogosultak, határidőben indították meg.
+
+A 44. §-hoz
+
+A törvény a Tanács eljárását kezdeményezők érdekeit védi azzal, hogy meghatároz a Tanács számára határozathozatali határidőket. Általános esetben a Tanács köteles határozatot hozni az eljárás megindításától számított 45 napon belül, amit egy alkalommal meg lehet hosszabbítani 15 nappal.
+
+Az érdekeltekkel egyeztetést igénylő eljárásban az elintézési határidő 75 nap. Ezen határidők a piac meghatározással, piac elemzéssel, jelentős piaci erővel rendelkező szolgáltatók számára előírható kötelezettségekkel kapcsolatos eljárásokra nem alkalmazhatók.
+
+A 45-48. §-hoz
+
+A 47. § taxatíve felsorolja a Tanács határozatainak tartalmát, differenciáltan meghatározza a hálózati szolgáltatások ellenértékével kapcsolatos jogvita esetén hozható döntések lényegét. A Tanácsnak a törvény lehetőséget biztosít arra is, hogy az alkalmazható intézkedések közül ugyanazon ügyben többet is foganatosítson. A Tanács működésének és döntéshozatalának nyilvánosságát, átláthatóságát garantálja a törvény azon szabálya, amely szerint a Tanács határozatát a feleknek és egyéb érdekelteknek történő kézbesítésen túl közzé is kell tenni. A Tanács V. fejezetben meghatározottak szerinti határozatai ellen nincs helye fellebbezésnek. Ezt a rendelkezést az indokolja, hogy kiemelkedő érdek fűződik ahhoz, hogy a Tanács határozataiban foglaltak a lehető legrövidebb időn belül megvalósuljanak. Az ágazatban a piaci viszonyok nagyon gyorsan változnak, s a hagyományos közigazgatási jogorvoslati rendszer biztosítása jelen esetben akár azzal is járhat, hogy mire megszületik a jogerős döntés, addigra az adott intézkedés okafogyottá válik, illetve addigra valamely fél súlyos anyagi veszteséget szenved. Ezért a törvény a fellebbezés kizárásán túl azt is kimondja, hogy a bírósági felülvizsgálat indítványozásának a határozat végrehajtására nincs halasztó hatálya. A törvény a polgári perrendtartástól eltérő szabályokat állapít meg a Tanács határozatainak bírósági felülvizsgálatára, amely eltérő szabályok szintén azt a célt szolgálják, hogy minél előbb elbírálásra kerüljön a tanácsi határozat jogszerűsége. A bírói felülvizsgálatban résztvevő személyek vonatkozásában - szintén az iparági érdekekre tekintettel - ugyanazon kizárási szabályok vonatkoznak, mint a tanácsi eljárásban. Külön hangsúlyt ad a lehető leggyorsabb döntés meghozatalának az, hogy a bíróságot a törvény kötelezi a soron kívüli eljárásra, továbbá az elsőfokú ítélet elleni fellebbezés benyújtása határidejének 8 napban történő megállapítása.
+
+A 49-51. §-hoz
+
+A törvény - az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló az Európai Parlament és a Tanács 2002/21/EK irányelve (a továbbiakban: keretirányelv), 20. Cikkének, valamint az Alkotmány 57. § (1) bekezdésének megfelelően - az érintettek számára lehetőséget biztosít arra, hogy döntésük szerint egy másik szolgáltatóval szemben fennálló jogvitáját a hatóság, a bíróság vagy a választottbíróság elé vigyék. Valamely - előzőekben említett - szervhez való fordulásuk azonban rögzíti az adott jogalapon ugyanazon felek között ugyanazon tényállás alapján indítható eljárásra jogosultságot, azaz ugyanazon jogi alapon ugyanazon felek másik szervhez már nem fordulhatnak. A Tanács a jogvitás eljárást kérelemre folytatja le, lehetőséget biztosít a kérelemmel érintett másik félnek is saját álláspontja kifejtésére. Ebben az eljárásban szintén nagyon rövidek a határidők, illetve a törvény szabályai mind a gyors döntéshozatalt célozzák. A Tanács jogvitás ügyben tárgyalást tart. Bizonyítást folytathat le, illetve mellőzheti a bizonyítást, azonban ezt a határozatában külön meg kell indokolnia. A feleket a megalapozott eljárásindításra ösztönzi az a szabály, amely szerint a bizonyítás sikertelenségét a bizonyító terhére kell értékelni. A Tanács ideiglenes intézkedés megtételére is feljogosított a törvényben meghatározott feltételek fennállása esetén, amennyiben ehhez kiemelten fontos, méltányolandó érdek fűződik. Az ideiglenes intézkedést elrendelő határozat ellen a Fővárosi Bírósághoz lehet fordulni, amely 15 napon belül nemperes eljárásban dönt az ideiglenes intézkedés megszüntetése ügyében. A törvény utal arra, hogy ezen főszabályoktól referencia ajánlattal, illetve a kötelezett és a jogosult szolgáltató között referencia ajánlat alapján vagy azon kívül hozzáférés, illetve összekapcsolás tárgyában kötendő szerződéssel kapcsolatos jogvitákban a Tanács külön jogszabályban meghatározott eltérésekkel jár el. A törvény külön szabályozza a más tagállami szabályozó hatóságot is érintő jogviták során alkalmazandó eljárást.
+
+Az 52-57. §-hoz
+
+A törvény a jelentős piaci erejű szolgáltatók azonosításának tekintetében átvette az új Európai Uniós irányelvek gyakorlatát. Ennek megfelelően az előző jogszabályi gyakorlathoz képest megváltozott az azonosítás menete és az azonosítási kritériumok.
+
+A JPE szolgáltatók azonosításának és a piaci sajátosságoknak megfelelő kötelezettségek kirovásának első lépése az érintett és vizsgálandó szolgáltatási és földrajzi piacok meghatározása.
+
+A Európai Bizottság 2003. február 11-i ajánlása (a továbbiakban: Ajánlás) meghatározta azokat a szolgáltatási piacokat, amelyeken a piacelemzést a nemzeti szabályozó hatóságoknak le kell folytatniuk. Az Ajánlásban felsorolt piacoktól eltérő szolgáltatási piacot a nemzeti szabályozó hatóság csak a Bizottság jóváhagyásával határozhat meg. A piac meghatározás és piacelemzés részletes szabályait a Miniszter az Ajánlás és az ahhoz kapcsolódó EU útmutató alapján rendeletben szabályozza.
+
+Az érintett piacok meghatározása után a Tanács elemzi az azokon fennálló verseny hatékonyságát. A piac meghatározás és a piacelemzés során az elektronikus hírközlési szolgáltatóknak a Tanáccsal együtt kell működniük, aminek során a szolgáltatók adatszolgáltatásra kötelezettek. Ennek elmulasztása esetén a Tanács bírsággal sújthatja az adott szolgáltatót.
+
+Amennyiben a verseny egyes piacokon nem elég hatékony, azaz egy vagy több olyan szereplő van, amely(ek) egyedül vagy együttesen gazdasági erőfölényes helyzetben vannak, az ilyen, jelentős piaci erővel rendelkező szolgáltatókkal szemben előzetes távközlési szabályozási beavatkozás szükséges. Ennek érdekében először azonosítani kell a jelentős piaci erejű szereplőket, majd az irányelvek által megengedettek közül a piaci helyzetnek leginkább megfelelő kötelezettség(ek)et kell rájuk kiszabni.
+
+Az Európai Uniós irányelveknek megfelelően a törvény szerint jelentős piaci erejű egy szolgáltató, ha egyedül vagy mással/másokkal együtt a gazdasági erőfölénnyel megegyező helyzetben van, azaz olyan gazdasági erővel rendelkezik, amely lehetővé teszi, hogy a versenytársaitól, megrendelőitől és végső soron a fogyasztóktól meghatározó mértékben függetlenül viselkedjen. A törvény alapján „egy érintett piacon jelentős piaci erővel rendelkező szolgáltató egy szomszédos (azzal szoros kapcsolatban lévő) piacon is jelentős piaci erővel rendelkező szolgáltatónak minősülhet, amennyiben az adott érintett piac és a szomszédos piac közötti kapcsolatból eredően a szolgáltató az egyik piacon fennálló gazdasági erejét átviheti a másik piacra, és ezzel gazdasági erejét erősítheti”.
+
+A keretirányelv szerint az Európai Bizottság a tagállami szabályozó hatóságokkal konzultálva az EU egészét vagy annak jelentős részét, azaz több országot is érintő (transznacionális) piacokat is meghatározhat. Ilyen piacok esetében az érintett tagállami szabályozó hatóságok a piacelemzést az Európai Bizottsági útmutató maximális figyelembevételével közösen végzik el és közösen döntenek a kötelezettségek esetleges kiszabásáról, fenntartásáról, módosításáról vagy visszavonásáról.
+
+A törvény alapján, ha a Tanács a piacelemzés során egy korábban jelentős piaci erejűként azonosított szolgáltatót nem talál jelentős piaci erővel rendelkezőnek, megszünteti a szolgáltató jelentős piaci erejűként való azonosítását, és hatályon kívül helyezi az ilyen szolgáltatóra korábban előírt kötelezettségeket.
+
+A piacelemzést a Tanács rendszeresen végzi, a törvény hatályba lépését követően első alkalommal 2004. szeptember 1-jéig, második alkalommal 2006. január 1-jéig, majd ezt követően minden év január 1-jéig
+
+Az 56-57. §-hoz
+
+A törvény 56. §-a felhatalmazza a Tanácsot - a keretirányelv rendelkezéseinek megfelelően - hogy jelentős piaci erővel rendelkező szolgáltatókra - az Európai Bizottság előzetes jóváhagyásával - előírhasson a törvényben meghatározottaktól eltérő kötelezettséget.
+
+A 60-63. §-hoz
+
+A törvény e §-ai tartalmazzák a referencia ajánlat adására kötelezett szolgáltatók és a Tanács eljárását a referencia ajánlatok benyújtásával, elfogadásával, módosításával, és a referencia ajánlat adási kötelezettség megszűnésével kapcsolatban.
+
+A törvényben szereplő eljárás a Hkt. által meghatározott gyakorlatra épül. Új elemként jelenik meg, hogy a számviteli szétválasztásra is kötelezett szolgáltató referencia ajánlatát köteles a szétválasztott számviteli adatai alapján elkészíteni.
+
+A 62. §-hoz
+
+A törvény részletesen meghatározza a számviteli szétválasztásra kötelezett szolgáltatók szétválasztott számviteli kimutatásaik jóváhagyásával kapcsolatos eljárásokat.
+
+Szétválasztott számviteli kimutatásaikat a szolgáltatóknak a Tanács részére kell eljuttatniuk. A Tanács a törvény alapján jogosult a számviteli szeparációra vonatkozó kimutatás jogszabályban meghatározott tartalmi és formai követelményeknek való megfelelését vizsgálni, a hiányos kimutatást beküldőket határozatban hiánypótlásra kötelezni.
+
+A Tanács nem hagyja jóvá a szétválasztott számviteli kimutatásokat, ha a szolgáltató által alkalmazott költségfelosztási módszertant nem fogadja el, vagy a kimutatás tartalma nem felel meg az elektronikus hírközlési szabályokban foglaltaknak.
+
+A 63. §-hoz
+
+A törvény e szakasza részletezi a Tanács eljárását árprés vizsgálatok esetében. A Tanács által végrehajtott árprés vizsgálatok célja, hogy:
+
+- megállapítsa, az adott szolgáltató nagy- és kiskereskedelmi árai valóban árprést okoznak-e a piacon, és
+
+- ha a szolgáltató nagy- és kiskereskedelmi árai árprést okoznak, a nagykereskedelmi árak igazodnak-e a hozzá kapcsolódó hálózati szolgáltatás nyújtásával kapcsolatban felmerülő költségekhez.
+
+- ha a szolgáltató árai árprést okoznak, azonban a szolgáltató nagykereskedelmi árai az adott nagykereskedelmi szolgáltatások költségeihez igazodnak, a Tanács az ügyet átadja a Versenyhatóságnak.
+
+- ha a szolgáltató árai árprést okoznak és a szolgáltató nagykereskedelmi árai nem igazodnak az adott nagykereskedelmi szolgáltatások költségeihez, a Tanács a szolgáltatót adott nagykereskedelmi árainak csökkentésére is kötelezheti.
+
+A 64. §-hoz
+
+A Tanács a jelentős piaci erővel nem rendelkező szolgáltatókra kizárólag a XI. fejezetben meghatározott kötelezettségeket írhatja elő. Az eljárás részletes szabályait jelen szakasz tartalmazza.
+
+A 65. §-hoz
+
+A törvény a közösségi szabályozással összhangban meghatározza az eljárási rendet azokban az esetekben, amikor a Tanács - döntésének a tagállami kereskedelemre gyakorolt hatása miatt - köteles egyeztetni az Európai Bizottsággal, illetve a tagállami szabályozó hatóságokkal. Ebben az esetben a Tanács döntésének tervezetét megküldi a Bizottság és a tagállami társhatóságok részére, akik arra a kézhezvételtől számított 30 napon belül észrevételt tehetnek. A törvényben meghatározott esetekben a Bizottság nem csupán észrevételt tehet, hanem kifogást is emelhet. A Tanács a Bizottság kifogása esetén 60 napig nem teheti közzé a döntését. Ezalatt az idő alatt a Bizottság részletesen indokolt döntésében a Tanácsot döntéstervezete visszavonására kötelezheti, vagy indítványozhatja annak módosítását. Kivételesen sürgős esetekben a törvény lehetőséget ad a Tanácsnak ideiglenes határozat meghozatalára, amely azonnal végrehajtható, azonban a Bizottsággal, illetve a tagállami hatóságokkal való egyeztetést ebben az esetben is le kell folytatnia, s annak eredményeként érdemi határozattal kell döntenie a beérkező észrevételekről vagy kifogásról.
+
+A 66. §-hoz
+
+A hatóság az Európai Unió szabályozási követelményeinek megfelelő, a hatékony és biztonságos piaci működést lehetővé tevő, a technikai és infrastrukturális fejlődés követését biztosító nyilvántartást vezet a törvényben, illetve egyéb jogszabályokban meghatározott adatokról. A nyilvántartásokban szereplő adatok főszabályként bárki számára hozzáférhetőek, de a nyilvántartásokba való betekintést jogszabály korlátozhatja.
+
+A 67-68. §-hoz
+
+A piacfelügyeleti tevékenység általános értelemben azt jelenti, hogy a közigazgatási szerv a piaci szereplők tevékenységét egészben vagy részletében megvizsgálja, és feljogosítottságának keretei között intézkedéseket foganatosít, vagy az erre illetékes szervhez jelzéssel szolgál.
+
+A hatóság piacfelügyeleti tevékenysége során a piacon lévő szolgáltatásoknál és berendezéseknél arra vonatkozó jogszabályokban, a hatóság határozatában, valamint az előfizetői szerződésben foglaltak betartását ellenőrzi.
+
+A hatóság a szolgáltatói tevékenység ellenőrzésén túl jogosult a jelentős piaci erejű szolgáltatók áralkalmazásának árprés szempontjából való folyamatos figyelemmel kísérésére.
+
+Az Európai Unió vonatkozó irányelve alapján a gyártók és képviselőik, illetve az importálók saját felelősségükre piacra vihetik termékeiket, a hatóságoknak ezért a piacra vitelt követően kell ellenőrizni, felügyelni.
+
+A piacfelügyeleti feladatok ellátásához elengedhetetlenül szükséges a megfelelő adatoknak a hatóság rendelkezésére bocsátása. A felügyelet során megállapított hiányosságok, „meg nem felelőségek” kezelésére megfelelő szankcionálási lehetőséget kell biztosítani. Az Európai Unió szabályai alapján a jó minőségű szolgáltatások biztosítása érdekében a szolgáltatások -- jogszabályokban, bejelentésben és a szolgáltató általános szerződési feltételeiben foglaltaknak megfelelő - végzését az azt ellátó személyeknél és szervezeteknél a hatóság ellenőrizni köteles.
+
+A törvény rendelkezik továbbá a jogsértő magatartás szankcióiról, valamint arról, hogy a hatóság mely esetben rendelhet el azonnali végrehajtást, és mikor kell határozatát nyilvánosságra hoznia.
+
+A 69. §-hoz
+
+A Magyar Köztársaság által is elfogadott és jogszabály alapján alkalmazandó Nemzetközi Rádiószabályzat előírja, hogy rádiófrekvenciát engedéllyel lehet használni, mindazonáltal az engedélyezési rend kialakítását az egyes országokra bízza. A piacra lépés könnyítése érdekében nem szükséges minden esetben egyedi engedélyt szerezni, hanem egyes frekvenciák esetén jogszabály ad általános engedélyt a frekvencia használatára, így egyedi eljárás nélkül bárki használhatja ezeket a frekvenciákat. Ez a jogszabály által adott általános engedély, nagymértékben megkönnyíti bizonyos európai harmonizált sávokban működő berendezések használatát (pl. mobiltelefonok, riasztókészülékek). Azokban az esetekben, ahol továbbra is indokolt az egyedi engedélyezési rendszer (a Nemzetközi Rádiószabályzat rendelkezéseit, valamint a több évtizedes magyarországi gyakorlatot figyelembe véve), a törvény úgy rendelkezik, hogy a frekvenciakijelölést, rádióengedélyt, továbbá az árverési, pályázati eljárás során szerezhető frekvenciahasználati jogosultságot a polgári frekvenciák esetében a hatóság adja ki, nem polgári célú frekvenciák esetében a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság az eljáró hatóság.
+
+A frekvencia használat engedélyezésére az államigazgatási eljárás általános szabályaitól eltérő határidőt állapít meg a törvény, a közösségi jogi előírások figyelembevételével. A kérelem beérkezését követő hatodik hét végére meg kell születnie a frekvenciahasználati jogra vonatkozó hatósági döntésnek. Kivételt képez az árverési, illetve pályázati eljárás, amikor is a törvény alapján nyolc hónappal meghosszabbítható a határidő.
+
+A koordinációs eljárásra vonatkozó nemzetközi szabályok alapján a döntés elhúzódhat, ezért a koordináció lezárásáig indokolt a hatósági eljárás felfüggesztése.
+
+A frekvenciával való hatékony gazdálkodás és a rádiótávközlési szolgálatok káros zavaroktól mentes működése, közegészségügyi szempontok érvényesítése érdekében szükséges, hogy a hatóság a konkrét esetek, körülmények, valamint a vonatkozó jogszabályi előírások figyelembevételével a kérelemtől eltérően, azaz korlátozott feltételekkel adja meg a frekvenciahasználati jogot, vagy akár meg is tagadja azt.
+
+A törvény alapján a frekvenciahasználat visszavonására is lehetőség van. Egyrészt a jogosított kérelmére, másrészt jogszabályban meghatározott esetekben. (A eddigi szabályozás alapján, példa erre az az eset, amikor az engedély visszavonására nemzetközi kötelezettség alapján kerül sor.)
+
+A 70. §-hoz
+
+A törvény előírja az azonosítókkal való hatékony és átgondolt gazdálkodást. Ennek megvalósítását támasztja alá a törvény 70. §-ában megfogalmazott követelmény, amely szerint az azonosítók résztartományai a szolgáltatók számára a későbbi használatba vétel céljából a szolgáltatások nyújtásának ugyancsak későbbi zavartalansága érdekében, már előre - műszaki, költség és beruházási szempontokból tervezhetően - rendelkezésre kell, hogy álljanak. Ezeket a követelményeket a törvény a hatóság által kibocsátandó lekötési engedélyek és a kijelölési engedélyek rendszerével tervezi megvalósítani.
+
+Az erőforrások korlátozott voltára tekintettel, az azonosítók lekötésére illetőleg kijelölésére (használatára) benyújtott szolgáltatói kérelmek mérlegelését a 80. § szerinti követelmény rendszer alapján írja elő a törvény. Az azonosítók használatát a hatóság ellenőrzi. Az engedélyezés és ellenőrzés részletes szabályait külön jogszabály határozza meg. Az azonosítók takarékos kezelése megköveteli az azonosítók indokolatlan lekötésének lehetőség szerinti korlátozását.
+
+A 71. §-hoz
+
+Számolni kell azzal, hogy az elektronikus hírközlő berendezések, rendszerek kölcsönös egymásra hatása, a működésükhöz nagyfrekvenciás jelet használó vagy működésük során azt mellékhatásként keltő egyéb berendezések (gépek, készülékek, járművek stb.), valamint a villamos vagy elektronikus alkatrészeket tartalmazó berendezéseket zavaró hatása folytán esetenként az elektronikus hírközlő berendezések működésében minőségrontó vagy a működést, a nyújtott szolgáltatást akár lehetetlenné tevő zavarás lép fel.
+
+A jelen rendelkezés a zavar-elhárítási eljárást, illetve az ezzel kapcsolatos költségviselést szabályozza. Alapelvként mondja ki, hogy a zavar megszüntetése a zavart okozó berendezés üzembentartójának a kötelessége még azokban az esetekben is, amikor a zavart okozó berendezés zavarkibocsátás szempontjából az előírásoknak megfelelő és használata jogszerű. A zavar, illetve a szóban forgó berendezés jellege szerint a hatóság többféle intézkedést hozhat a zavar megszüntetésére, és végső esetben a berendezés üzemeltetését is megtilthatja.
+
+Kivételes esetben előfordulhat, hogy bár a fenti alapelv értelmében a zavart okozó berendezés üzembentartója lenne köteles a zavart megszüntetni, azonban a hatóság megítélése szerint a zavar megszüntetése egyszerűbben és költség nélkül vagy csekély költséggel megoldható a zavart berendezés kisebb módosításával.
+
+A zavar okának megállapításánál, illetve a zavar megszüntetésére történő kötelezésnél figyelembe kell venni azt is, hogy a zavart berendezés zavarérzékenység szempontjából megfelelő-e. Amennyiben a nem megfelelő zavarérzékenység miatt keletkezett a zavar, akkor annak elhárítása és a kapcsolódó költségek viselése a zavart berendezés üzembentartóját terheli.
+
+A 72-73. §-hoz
+
+A szolgáltatók közötti, a 49. § szerinti jogviták rendezésének új fórumaként a törvény a Tanács által megalapítandó Hírközlési Állandó Választottbíróság (a továbbiakban: HVB) jogintézményét vezeti be arra az esetre, ha a szolgáltatók a választottbírósági eljárást erre irányuló szerződésben kikötötték és az eljárás tárgyáról szabadon rendelkeztek. Ez a fórum biztosítja az elektronikus hírközlési szolgáltatók jogvitáiban eljáró választott bírák szakértelmét, illetve a gyors eljárást. A HVB választottbírói testületének tagjait a Tanács jelöli ki meghatározott időre, a főigazgató javaslata alapján. Fontos kizárási szabály, hogy nem lehet a HVB tagja a Tanács tagja, illetve a hatóság egyéb alkalmazottja. A HVB jogi személy, jogi személyiségét alapító okiratának a hatóság hivatalos lapjában történő közzétételével nyeri el. Működésének forrását az alapítói hozzájárulások, a választottbírósági díjak, a vagyon hozama és egyéb bevételek képezik. A HVB a közvetítői tevékenységről szóló 2002. évi LV. törvény szabályainak alkalmazásával egyeztető eljárás lefolytatására is jogosult. A törvény meghatározza a HVB alapító okiratának tartalmi elemeit, szervezeti felépítését, szervezeti egységként nevesítve a választottbírói testületet, az elnökséget és a Gazdasági Hivatalt. A törvény kizárja, hogy a HVB gazdasági, vállalkozói tevékenységet végezzen, gazdálkodását az Állami Számvevőszék ellenőrzi.
+
+A 74. §-hoz
+
+Az elektronikus távközlési hálózatok és szolgáltatások engedélyezéséről szóló Európai Parlament és a Tanács 2002. március 7-i 2002/20/EK irányelve (e § tekintetében irányelv) határozza meg az elektronikus hírközlési szolgáltatások nyújtásának alapvető feltételeit. Általánosságban elmondható, hogy az irányelv egyértelműen a szolgáltatók piacra lépésének megkönnyítését tűzi ki célul. Az irányelv előírja, hogy szabályait valamennyi elektronikus hírközlő hálózatra és szolgáltatásra alkalmazni kell, pusztán az eltérő technológia nem lehet alapja a megkülönböztetésnek. Szintén nem tesz különbséget a szabályozás a szolgáltatások között aszerint, hogy azok nyilvánosan elérhetők-e vagy sem. Annyi engedményt tesz csupán, hogy a nem nyilvánosság számára nyújtott szolgáltatások esetében indokolt lehet enyhébb feltételeket megszabni.
+
+A szolgáltatók tevékenységüket „általános felhatalmazás” alapján végezhetik (irányelv 3. cikke). Az általános felhatalmazás az irányelv értelmében a tagállamok által meghatározott jogi keret, amely tartalmazza az elektronikus hírközlő hálózatok üzemeltetésére vagy szolgáltatások nyújtására vonatkozó jogokat, illetve kötelezettségeket. Az általános felhatalmazás nem egy hagyományos értelembe vett hatósági engedély, a jogosultságok és kötelezettségek közvetlenül a jogszabályból fakadnak, a szolgáltatás megkezdését nem lehet a hatóság igazgatási aktusának megszerzésétől függővé tenni.
+
+A hatóság nem akadályozhatja meg, hogy egy vállalkozás elektronikus hírközlési szolgáltatást nyújtson, kivéve akkor, ha a közrend, illetve a közbiztonság ezt megkívánja. Az irányelv melléklete felsorolja azokat a feltételeket, amelyek az általános felhatalmazáshoz fűzhetők.
+
+A hatóság előírhatja, hogy a szolgáltatást nyújtani kívánó vállalkozás ez irányú szándékáról a hatóságot értesítse [irányelv 3. Cikk (3) bekezdés]. Szükség lehet ezen kívül azoknak az adatoknak a benyújtására is, amelyek a szolgáltatók azonosításához, naprakész nyilvántartásához elengedhetetlenül szükségesek.
+
+Az irányelv értelmében (4. Cikk) az általános felhatalmazás alapján a vállalkozások jogosultak elektronikus hírközlő hálózatokat üzemeltetni, illetve azzal kapcsolatos szolgáltatásokat nyújtani, továbbá összekapcsolódni más, nyílt hozzáférésű hírközlő hálózatok üzemeltetőivel. Lehetőségük van arra is, hogy kijelöljék őket valamely egyetemes szolgáltatás különböző elemeinek nyújtására. Joguk van továbbá arra, hogy ha létesítményeket kívánnak telepíteni, akkor kérelmüket átlátható módon, diszkriminációmentesen, valamint késedelem nélkül bírálja el a hatóság (2002/21/EK irányelv 11. Cikk).
+
+A fentiek alapján megállapítható, hogy az elektronikus hírközlési piac liberalizált működésének alapja, hogy a szolgáltatást nyújtani kívánók szabadon léphessenek piacra. Ezt a törvény csak a legszükségesebb feltételekhez köti: bárki - a hatósághoz történő bejelentéssel egyidejűleg - jogosult elektronikus hírközlő hálózatot üzemeltetni, a hálózaton szolgáltatást nyújtani, egyedi engedély alapján rádiófrekvenciát, azonosítót használni, aki a törvényben, illetve külön jogszabályban meghatározott feltételeket teljesíti.
+
+A 75. §-hoz
+
+A párhuzamos infrastruktúrák feletti közös irányításszerzés korlátozására vonatkozóan a Hkt. 4. §-ában alkalmazott szigorú szabályok helyett a törvény a régi és új uniós jogszabályokban egyformán szereplő, jóval enyhébb szabályozást alkalmazza.
+
+A 76. §-hoz
+
+E szakasz meghatározza az elektronikus hírközlő hálózat, illetve hírközlési szolgáltatás nyújtásának feltételeit, a bejelentés szabályait. A közösségi szabályozással összhangban, hazánkban is bárki szabadon jogosulttá válik nyilvános elektronikus hírközlő hálózat üzemeltetésére, illetve szolgáltatás nyújtására, aki ezt a hatósághoz bejelenti. A törvény szerint nincs bejelentési kötelezettsége a nem nyilvános elektronikus hírközlő hálózatok üzemeltetőinek. A törvény a bejelentést követően azonnal lehetővé teszi nyilvános elektronikus hírközlő hálózat üzemeltetését, szolgáltatás nyújtását, s nincs szükség a hatóság tudomásulvételére. A szakasz meghatározza a bejelentés tartalmi kellékeit, köztük annak az időpontnak a hatóság tudomására hozatalát, amelytől kezdve a bejelentő az elektronikus hírközlési tevékenységet végezni kívánja. A bejelentés tartalmi kellékei kizárólag a szolgáltató és a tevékenység azonosításához szükséges minimális adatkörre korlátozódnak a törvény alapján. A hatóság a bejelentést nyilvántartásba veszi, a nyilvántartásba vétel tényét 8 napon belül visszaigazolja a bejelentőnek, és egyúttal a bejelentő írásbeli kérésére igazolást állít ki arról, hogy a bejelentett tevékenységek végzésére jogosult. A szolgáltatásnyújtás szabadságának garanciális elemeként a törvény meghatározza a nyilvántartásba vétel megtagadásának esetkörét: ha a bejelentésben foglalt adatok a szolgáltató vagy az általa végezni kívánt tevékenység azonosítására nem alkalmasak. A hatóság bejelentés alapján vezetett nyilvántartása közhiteles, abba bárki betekinthet. Az elektronikus hírközlési szolgáltató a hatósági bejelentéssel egyidejűleg az abban foglaltakról köteles a Nemzetbiztonsági Szakszolgálatot is tájékoztatni.
+
+A 77. §-hoz
+
+E szakasz garantálja, hogy a tevékenység a bejelentést követően haladéktalanul megkezdhető, ez a szabály lehetővé teszi az azonnali piacra lépést. Amennyiben a az elektronikus hírközlési szolgáltató (ideértve a nyilvános elektronikus hírközlő hálózat üzemeltetőjét is) a bejelentésben nem határozta meg a tevékenység megkezdésének pontos időpontját, erről a megkezdést követő 30 napon belül köteles a hatóságot írásban értesíteni. Ugyancsak a közösségi szabályozással összhangban határozza meg a törvény, hogy amennyiben a törvény valamely elektronikus hírközlési szolgáltatás nyújtásának megkezdését megelőzően teljesítendő további feltételeket állapít meg, a tevékenység csak ezen feltételek teljesítését követően kezdhető meg. A törvény csak a frekvenciahasználathoz, az azonosító használathoz, valamint az elektronikus hírközlési létesítmények építéséhez követeli meg az egyedi engedély megszerzését, tehát a gyakorlatban ténylegesen érvényesülhet a törvény hatályba lépését követően az elektronikus hírközlési szolgáltatás nyújtására irányuló általános felhatalmazás.
+
+A 78. §-hoz
+
+Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetése, a szolgáltató megszűnése vagy halála esetén a hatóság törli az üzemeltetőt vagy szolgáltatót a nyilvántartásból, a számára kiadott azonosító használatra vonatkozó engedélyt visszavonja, valamint a törlés tényét nyilvánosságra hozza.
+
+A 79-81. §-hoz
+
+Tekintettel arra, hogy a szabad versenyt megvalósító piac jó működésének egyik alapfeltétele a minél egyszerűbb és gyorsabb piacra lépés megvalósulása, a törvény elektronikus hírközlés tárgyi feltételei közül a berendezések piacra vitele vonatkozásában is a követelmények teljesítéséhez minimálisan szükséges eljárási rendet rögzíti. A forgalomba hozatal meghatározott feltételek teljesítése esetén minden adminisztratív korlát nélkül megvalósítható. Egyedül rádióberendezések esetén, méghozzá a nem harmonizált frekvenciát vagy frekvenciasávot használó rádióberendezések hazai forgalomba hozatali szándéka esetén került előírásra bejelentési kötelezettség a gyártók részére. A nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezés forgalomba hozatalára vonatkozó szabályokat külön jogszabály rendezi.
+
+A törvény meghatározza a valamennyi berendezésre vonatkozó, valamint meghatározott berendezéscsoportokra előírható követelményeket (alapvető biztonságtechnikai, elektromágneses összeférhetőségi, illetve az elektronikus hírközlés zavartalanságát biztosító, adatvédelmi, közegészségügyi, környezetvédelmi célok megvalósulását, megvalósíthatóságát szolgáló követelmények). A rádió berendezések és távközlő végberendezések tekintetében a forgalomba hozatal egyéb feltételeit - mint pl. megfelelőségi jelölés, magyar nyelvű használati-kezelési útmutató, az alapvető követelményekre vonatkozó megfelelőségi nyilatkozat, a készülék csomagolásán és használati-kezelési útmutatóján elhelyezett tájékoztatás - jelenleg a kiadása óta jelentősen megváltozott a rádióberendezésekről és a távközlő végberendezésekről, valamint megfelelőségük elismeréséről szóló 3/2001. (I. 31.) MeHVM rendelet tartalmazza. A rendelkezésben felsorolt alapvető követelményeknek való megfelelést, megfelelőség-értékelési eljárás alapján tett megfelelőségi nyilatkozatban kell igazolni. A megfelelőség-értékelési eljárást végrehajtási rendelet fogja szabályozni. A nagyfrekvenciás berendezéseket, valamint villamos vagy elektronikus berendezéseket is úgy kell előállítani, hogy használatuk során káros zavart ne okozzanak.
+
+A 82. §-hoz
+
+A nyilvános elektronikus hálózat üzemeltetője vagy a szolgáltató köteles bejelenteni a hatóságnak a hálózaton elektronikus hírközlési tevékenység végzéséhez, vagy szolgáltatás nyújtásához szükséges interfészeket. A bejelentett interfész-jellemzőket nyilvánosan hozzáférhetővé kell tenni. A nyilvánosságra hozott információk alapján a berendezésgyártók fel tudnak készülni a szükséges berendezések gyártására, a törvény ezzel is támogatja a versenyképes piac kialakulását.
+
+Ha az interfész valamely, bárki által megismerhető (pl. kihirdetett, interneten megtalálható) szabványnak megfelel, akkor a bejelentésben elég a szabványra, vagy annak releváns pontjaira hivatkozni. Egyéb esetben külön jogszabály határozza meg, hogy az interfész műszaki leírásának mit kell tartalmaznia.
+
+A 83. §-hoz
+
+A törvény a korábbi szabályozáshoz hasonlóan - összhangban a közösségi szabályokkal - az elektronikus hírközlési létesítmények létesítését, használatba vételét, fennmaradását, átalakítását, bontását hatósági engedélyhez köti. Amennyiben jogszabály másként nem rendelkezik, nem kell a hatóság engedélye olyan elektronikus hírközlési építmény építési munkáinak végzéséhez, amely zárt felhasználói csoport igényeit elégíti ki, és az építmény nem terjed túl a felhasználók saját ingatlanán. Ez a szabály mind a hatóságot, mind pedig az érintett felhasználókat mentesíti a felesleges bürokráciától.
+
+A 84-85. §-hoz
+
+A frekvenciák hatékony használata, a rádiótávközlési szolgálatok zavarmentes működése érdekében - jogszabályban meghatározott esetekben - szükséges, hogy a rádióberendezések, rádióállomások és rádiótávközlő hálózatok telepítéséhez, illetve üzemben tartásához hatóság által kiállított, „névre szóló” egyedi döntés szülessen, azonban egyre szélesebb azon frekvenciasávok köre, melyeket jogszabály alapján bárki szabadon használhat. A rádiófrekvenciák használatára vonatkozó alapvető feltételeket határozza meg a törvény.
+
+Indokolt, hogy a hatósági eljárás keretében kiadott egyedi engedély határozott időre szóljon. A frekvenciakijelölési engedély időtartamának ugyanis lehetőleg rövidnek kell lennie annak érdekében, hogy a frekvencia ne legyen indokolatlanul hosszú ideig kihasználatlanul lekötve. A rádióengedélyek időtartamát pedig úgy kell meghatározni, hogy az lehetővé tegye a jogszabály módosulásából (melyek leginkább nemzetközi kötelezettségeink alapján válnak szükségessé) következő sávtisztítást a központi költségvetés minél kisebb megterhelése mellett. A törvény szerint az időtartam meghatározását rendeletben szabályozza a polgári célú engedélyek esetében a miniszter, a nem polgári célú engedélyek esetében - az engedélyezési eljárás szabályozásán belül - a honvédelmi miniszter.
+
+A rádiófrekvencia felhasználásának összhangban kell lennie a frekvenciasávok nemzeti felosztására, valamint a sávfelhasználás szabályaira vonatkozó jogszabályokkal kivéve a kísérleti (amely esetben a szabályozás célja technológiai fejlődés elősegítése) és a 30 napnál rövidebb felhasználást, valamint a Magyarországon forgalomba hozott, de üzemszerűen Magyarországon nem használható berendezések kipróbálását.
+
+A rádió frekvenciák használati joga miniszteri rendeletben meghatározott esetekben és feltételekkel ruházható át. A törvény rögzíti a használati jog visszavonásának lehetőséget, valamint jogutódláshoz a hatóság tudomásulvétele szükségességét.
+
+Az internet Protokoll és elektronikus levélcímek, valamint a domain nevek nem képezik kizárólagos állami tulajdon tárgyát, ezen kívül azonosítót használni csak kijelölési engedéllyel lehet, amelynek feltétele az előzetes lekötés. Az azonosító lekötés és használat díját miniszteri rendelet tartalmazza.
+
+A 86. §-hoz
+
+A nyilvános elektronikus hírközlő hálózatok esetében a felhasználóknak és a szolgáltatóknak is érdekük fűződik a különféle gazdálkodó szervezetek, hálózatok és technológiák zavartalan összekötéséhez, működtetéséhez és az adattovábbítás zavartalanságához. Ezért a törvény a szolgáltatók általános együttműködési kötelezettségét rendeli el a szolgáltatásokra, a hálózatokra, valamint a hírközlési létesítmények közös használatára kiterjedően. Az együttműködés során a szolgáltatóknak jóhiszeműen, az esélyegyenlőséget biztosítva kell eljárniuk, lehetővé téve egymás számára az ehhez szükséges műszaki adatokhoz való hozzáférést, figyelemmel a titokvédelem szabályaira. Az elektronikus hírközlő hálózatokon áramló adatok, információk, illetve a hálózat biztonságának megőrzése fontos része a hálózat üzemeltetésének; erre a szolgáltatók kötelessége ügyelni saját működésük és az összekapcsolódás során is. Általános együttműködési szabály azonban, hogy a hálózat felett rendelkező, a hálózaton szolgáltatást nyújtó szolgáltató akkor is köteles az együttműködésről tárgyalni a szerződést kötni kívánó másik szolgáltatóval, ha szerződéskötési kötelezettség nem terheli.
+
+A 87. §-hoz
+
+Kétfajta tevékenység esetén kötelessége a szolgáltatóknak külön számviteli nyilvántartást vezetni. Egyetemes szolgáltatás esetén a nyújtott szolgáltatás piacon kívüli finanszírozása indokolja az eltérő elszámolást. A más iparágban kizárólagos vagy különleges jogok alapján történő tevékenység elkülönített gazdálkodó szervezetként történő könyvelése pedig az elektronikus hírközlési piaci verseny tisztaságát és zavartalanságát hivatott elősegíteni.
+
+A 88. §-hoz
+
+A elektronikus hírközlési szolgáltatókat a törvény 3. §-a együttműködésre kötelezi. Az együttműködés egyik kiemelt részterülete a hálózati szerződés, amely - az értelmező rendelkezések szerint - elektronikus hírközlő eszközökhöz való hozzáférés és kizárólagos, megosztott vagy közös használat, illetőleg hálózati szolgáltatásokhoz való hozzáférés és igénybevétel céljából köthető. A törvény 100. §-a, 106. §-a illetőleg 107. §-a alapján a hatóság bizonyos esetekben kötelezheti a jelentős piaci erővel rendelkező szolgáltatót a hálózati szerződés megkötésére.
+
+E 88. § meghatározza hálózati szerződés kötelező tartalmi elemeit. A hálózati szerződés írásban, határozott vagy határozatlan időre köthető. A szolgáltatóknak a szerződés teljesítése során is együtt kell működniük, megfelelően tájékoztatva egymást - egyebek mellett - a szerződés tartalmát lényegesen érintő, fél éven belül tervezett változtatásokról.
+
+A hatósághoz azt a hálózati szerződést kell benyújtani tájékoztatás céljából, amely egymás érdekkörébe tartozó szolgáltatók között jön létre. Az érdekkör megállapítása tekintetében a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 23. §-ának (2) bekezdése szerinti „irányítás” fogalomból kell kiindulni. E szerződéseket a szolgáltató érdekkörén kívüli cégekkel kötött szerződéseivel összehasonlítva megállapítható, hogy alkalmaz-e indokolatlan megkülönböztetést a szolgáltató.
+
+A törvény szerint a szolgáltató a hálózati szerződés késedelmes vagy hibás teljesítése esetén tartozik felelősséggel, ennek mértéke a felhasználó vagyonában okozott kár, az elmaradt haszon kivételével. A törvény a hálózati szerződésből eredő igények elévülési idejét egy évben állapítja meg. Egyebekben a szolgáltató felelőssége, illetőleg a hálózati szerződés semmissége tekintetében a törvény általános szabályként a Ptk-t tekinti irányadónak.
+
+A 89. §-hoz
+
+Földfelszíni digitális műsorszórás esetében a multiplex tevékenység, mint hírközlési szolgáltatás, illetőleg szolgáltatás biztosítja az azonos frekvencia felhasználására jogosult műsorszolgáltatók műsorjelének egyetlen jelfolyamban való eljuttatását a műsorszétosztó hálózathoz. Arra az esetre, amikor a multiplexálást legalább az egyik műsorszolgáltatótól és egyúttal a műsorszétosztótól is elkülönült szolgáltató szervezet végzi, törvényi intézkedés szükséges annak biztosítására, hogy a szolgáltatási szerződést a multiplex szolgáltató valamennyi műsorszolgáltatóval megkösse. A törvény ezt a célt szolgálja. A törvény nem érinti a rádiózásról és televíziózásról szóló 1996. évi I. törvényt, mivel annak hatálya a műsorszolgáltatásra és az azzal összefüggő műsorterjesztésre (műsorszórásra, valamint műsorelosztásra) terjed ki, a kettő közötti hírközlési szolgáltatásra nem.
+
+A 90. §-hoz
+
+Az elektronikus hírközlési létesítmények közös használata elkerülhetetlen a vezetékes hálózatok hálózati kapcsolódási pontjain, továbbá abban az esetben, ha az azt igénylő szolgáltatónak más mód nem áll rendelkezésére a szolgáltatáshoz szükséges eszközeinek, létesítményeinek elhelyezéséhez. A közös létesítményhasználat azonban gazdasági előnyökkel is indokolt lehet, mivel a közösen használt létesítmény terhei a használók között megoszthatók.
+
+Jelen szakasz meghatározza azokat az eseteket, amelyekben a tulajdonost a törvény nyomós közérdek érvényesülése végett kötelezi a közös létesítmény-használat feltételeinek biztosítására, taxatíve felsorolva azokat a körülményeket is, amelyek fennállása esetén a szolgáltató e kötelezettség alól mentesül. A 107. § ban foglaltak szerint a jelentős piaci erővel rendelkező szolgáltatót a hatóság más okból is kötelezheti közös eszközhasználat, illetőleg helymegosztás nyújtására.
+
+A közös használat terheit a felek a használat arányában viselik.
+
+A szabályozás nem ad felmentést a kötelezettség alól arra való tekintettel, hogy a létesítmény fennálló állapotában alkalmatlan a közös használatra. Az igénylő ilyen esetben jogosult a szükséges átalakítás, a közös használatra való alkalmassá tétel kezdeményezésére, amelynek indokolt költségei viseléséről a felek érdekeltségük arányában megállapodhatnak.
+
+Ha a felek a közös eszközhasználat feltételeiben nem tudnak megállapodni, abban az esetben a 49. § szerinti jogvitás eljárás kezdeményezhető.
+
+A 91. §-hoz
+
+Az ANFT (Azonosítók Nemzeti Felosztási Terve) összetett, részeiben egymástól nem függetleníthető rendszer, amelynek - szükségképpen - számos ponton a nemzetközi előírásokhoz is harmonizáltan kapcsolódnia kell. A törvény ezért intézkedik arról, hogy a szolgáltatóknak hálózataik műszaki rendszereiben az ANFT szerinti azonosító-használatot egységesen és kötelezően alkalmazniuk kell.
+
+Az ANFT-nek az egyes szolgáltatók általi egységes használata esetenkénti érdekütközésekkel járhat. A törvény ezért írja elő a szolgáltatók egymás érdekkörében végzett indokolt azonosító-bővítések kérdésében az együttműködési kötelezettséget. A vitás kérdéseket a 49. § szerinti jogvitás eljárásban kell rendezni.
+
+A 92. §-hoz
+
+A hírközlési szolgáltatók közérdekű kötelezettsége, hogy közreműködjenek a más törvényekben meghatározott, közbiztonságot, nemzetbiztonságot érintő, illetőleg védelmi feladatok ellátásában. A törvény minden hírközlési szolgáltatóra kiterjedően, a következők szerint határozza meg az együttműködési feladatokat.
+
+Együtt kell működniük a titkos információgyűjtésre felhatalmazott szervezetekkel, és saját berendezéseik, illetve helyiségeik és az együttműködő személyek tekintetében a szolgáltatás megkezdésétől kezdve részükre biztosítaniuk kell a titkos információgyűjtés eszközeinek és módszereinek alkalmazási feltételeit. A szolgáltatók kötelesek viselni a (2) bekezdésben meghatározott igényeknek megfelelő műszaki rendszer, különösen az alapkiépítésű monitoring alrendszer költségeit. A titkos információgyűjtésre felhatalmazott szervezetek részére nyújtott adatszolgáltatás térítésmentes.
+
+A szolgáltatóknak együtt kell működniük a zártcélú hálózatok üzemeltetőivel, továbbá rendkívüli állapot és katasztrófa esetében felmerülő sajátos elektronikus hírközlési feladatok ellátása érdekében együtt kell működniük mind egymással, mind pedig az arra illetékes szervezetekkel. A szolgáltató az e körben végrehajtott intézkedései és nyújtott szolgáltatásai után azok tényleges költségeinek megtérítésére jogosult.
+
+A szolgáltatás és a szükséges együttműködések biztonsága, megbízhatósága és zavartalansága egyaránt megköveteli, hogy a szolgáltató felkészüljön a műszaki eredetű és a külső veszélyeztető körülmények által okozott üzemzavarok elhárítására, továbbá a rendkívüli állapot és katasztrófa esetében reá háruló sajátos feladatokra. E helyzetek kezelésére adott esetben a szolgáltatónak megfelelő tervekkel és eszköz-tartalékokkal kell rendelkeznie, ezért folyamatos feladat ezek készítése, készletezése, illetőleg felülvizsgálata, karbantartása.
+
+A 93. §-hoz
+
+Az Európai Bizottságnak az elektronikus kommunikációs hálózatok és szolgáltatások piacának versenyéről szóló 2002. szeptember 16-i 2002/77/EK irányelve 7. Cikkének (1) bekezdése alapján a tagállamok kötelezettsége arról gondoskodni, hogy területükön minden űrszegmens-szolgáltatót feljogosítsanak annak megvizsgálására, hogy a szóban forgó űrszegmens-szolgáltató űrszegmensét használni kívánó földi műholdas hálózat megfelel-e az adott szervezet űrszegmens-kapacitásához való hozzáférés közzétett feltételeinek. A törvény szövege ezen közösségi jogi rendelkezés hazai jogba illesztését valósítja meg.
+
+A 94-96. §-hoz
+
+Az elektronikus hírközlési piac liberalizációja számos új szolgáltató megjelenését jelenti, amelyek kiépítik saját infrastrukturális rendszerüket, elektronikus hírközlő hálózatukat. A törvény az elektronikus hírközlési infrastruktúra fejlesztését célozza azon rendelkezések beiktatásával, amelyekkel biztosítani kívánja ezen hírközlési létesítmények elhelyezéséhez idegen tulajdonban álló ingatlanok igénybe vételét. A fenti cél érdekében a törvény elsősorban az önkormányzatokra ró közreműködési kötelezettséget, amennyiben az önkormányzatnak a település tervezésénél, rendezésénél, utak, közművek, és egyéb építmények építési munkálatai során biztosítania kell az elektronikus hírközlési létesítmények elhelyezésének lehetőségét.
+
+A 94. § (2) bekezdése határozza meg, hogy az eltérő tulajdonban álló területeken milyen prioritással helyezhetők el az elektronikus hírközlési létesítmények. A szolgáltatót választási jog illeti meg, amely alapján létesítményeit elhelyezheti közterületen vagy felhasználja a már meglévő elektronikus hírközlési létesítményeket, illetőleg közüzemi szolgáltató létesítményeit. A közterületek tekintetében különbséget tesz a törvény állami és helyi önkormányzati tulajdonú ingatlanok között, e szerint a létesítményeket elsősorban az állami tulajdonban lévő, másodsorban az önkormányzati tulajdonú ingatlanokon kell elhelyezni. A helyi önkormányzat a létesítmény elhelyezéséhez szükséges engedélyt csak különös méltánylást érdemlő települési, illetve lakossági érdekre hivatkozva tagadhatja meg. Végül a törvény lehetővé teszi - amennyiben az előzőekben leírt lehetőségek nem adottak - magánterület igénybevételét. A § utolsó bekezdése az építési munkálatok befejeztével a létesítmény elhelyezőjét kötelezi az eredeti állapot helyreállítására. A kötelezettség-viselés egyértelműsítését szolgálja az a rendelkezés, miszerint az elhelyező és az ingatlan tulajdonosa megállapodhat abban, hogy a helyreállítás az eredetinél jobb minőségben történjen, ez esetben a többletköltséget a tulajdonos viseli.
+
+A 95. § az elektronikus hírközlő eszközök (minden hírközlés céljára szolgáló berendezés, vezeték, antenna) létesítését, a már működő eszközök ellenőrzését, karbantartását, és a szükséges hibaelhárítást kívánja biztosítani. Ennek keretében ha az ingatlan tulajdonosa ezen tevékenységek elvégzéséhez nem adja hozzájárulását, a hatóság - kifejezetten közérdekből - az ingatlan tulajdonosát korlátozhatja az ingatlan használatában, konkrét esetben az építtető kérelmére határozatával szolgalmi vagy más, a tulajdonjogot korlátozó használati jogot alapíthat az ingatlanon. A tulajdonost a korlátozás mértékének megfelelő kártalanítás illeti meg, illetőleg amennyiben a használat vagy a korlátozás az ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza, kérheti az ingatlan megvásárlását, illetve kisajátítását.
+
+A 96. § szerint- az elektronikus hírközlési létesítmény fizikai közelsége olyan objektív körülmény, amely a felhasználóktól független, így nem alapozhatja meg többletterhek viselésének kötelezettségét. Mindezek alapján, amennyiben a szolgáltató - a fizikai közelségből adódóan - létesítményének közvetlen környezetében lakó vagy tartózkodó felhasználók számára az átlagosnál kedvezőbb feltételekkel szolgáltat vagy többletszolgáltatásokat nyújt, ezért ellenértéket nem kérhet.
+
+A (2) bekezdés szerint az elektronikus hírközlési létesítmény elhelyezésekor figyelemmel kell lenni a szomszédjogok érvényesülésére, arra, hogy a létesítmény az ingatlannal szomszédos ingatlanok tulajdonosait ne, illetőleg a legkisebb mértékben zavarja. Amennyiben a létesítmény építtetője (elhelyezője) betartja ezen rendelkezést, úgy a létesítmény elhelyezése és működtetése nem minősül a Ptk-ban szabályozott szükségtelen zavarásnak.
+
+A 97-98. §-hoz
+
+A 97. § az elektronikus hírközlési építményekkel kapcsolatos együttműködés általános szabályait tartalmazza. A jogszerűen létesített építménnyel összefüggő további építési munkálatok költségeiről rendelkezik, a költségek azt a felet terhelik, akinek érdekkörében a létesítmény eltávolítása vagy áthelyezése felmerült, amennyiben pedig az áthelyezés a meglévő építményt korszerűbbé teszi, a költségeket az érdekeltség arányában meg kell osztani. Jogszerűen építettnek minősül az a létesítmény is, amelyet szabálytalanul építettek meg, majd ezt követően az építtető vagy az ingatlannal rendelkezni jogosult kérelme alapján az építésügyi hatóság fennmaradási engedélyt adott rá.
+
+A 98. § lehetővé teszi a szolgáltató számára, hogy elektronikus hírközlési célból igénybe vegye a folyóvizeket, csatornákat, természetes tavakat és azok medrét, valamint az ország területe feletti légteret.
+
+A 99. §-hoz
+
+Az elektronikus hírközlés hatékony működése közérdek, ez alapján köteles az ingatlan tulajdonosa a szakaszban felsorolt esetekben, nevezetesen, amikor az elektronikus hírközlési létesítmény működését természeti körülmények zavarják, a működést veszélyeztető fák, bokrok, gyökerek eltávolítására. A szolgáltató csak az eltávolítással kapcsolatos költségeket viseli. Ha növények eltávolítása szükséges, a szolgáltató írásban értesíti a tulajdonost, aki az értesítés alapján kötelezettségét 15 napon belül köteles teljesíteni, ennek elmulasztása esetén a hatóság határozattal szólítja fel a tulajdonost a munkálatok elvégzésére.
+
+A 100-101. §-hoz
+
+A törvény alapján a hatóság jogosult az előfizetők közötti kapcsolat biztosítása érdekében a szolgáltatók részére a jelen szakaszban meghatározott kötelezettséget előírni.
+
+Az ezt meghaladó kötelezettségek csak a jelentős piaci erejű szolgáltatók számára tehetők kötelezővé.
+
+A 102. §-hoz
+
+A hatékony piaci verseny feltétele, hogy a jelentős piaci erejű szolgáltatók bizonyos információk visszatartásával ne tudják hátrányba hozni versenytársaikat. A törvény felhatalmazza a hatóságot, hogy ilyen potenciális lehetőség esetén számviteli és műszaki információkkal, szolgáltatások nyújtásának és igénybevételének feltételeivel és árakkal kapcsolatosan nyilvánosságra hozatali kötelezettséget vethessen ki a szolgáltatókra.
+
+A törvény alapján a hatóság a hálózati szerződések benyújtásának előírásával biztosíthatja, hogy a jelentős piaci erejű szolgáltatók az egyenlő elbánás elve szerint kössenek szerződést a többi elektronikus hírközlési szolgáltatóval.
+
+A 103. §-hoz
+
+A törvény alapján a hatóság kötelezheti a jelentős piaci erejű szolgáltatót, hogy meghatározott szolgáltatások tekintetében referencia ajánlatot hozzon nyilvánosságra. A hatóság meghatározhatja a referencia ajánlatok bontását és részletezettségét, és a nyilvánosságra hozandó adatok körét.
+
+A referencia ajánlatot nyilvánosságra hozó szolgáltató az abban szereplő szolgáltatások tekintetében nem köthet olyan szerződéseket, amelyek az ajánlat kötelező elemei között szereplő feltételeiben eltérnek. Ezzel a törvény biztosítja, hogy a referencia ajánlat adására kötelezett szolgáltatók ne diszkriminálhassák versenytársaikat a saját üzletágaikkal vagy az érdekkörükbe tartozó szolgáltatókkal szemben.
+
+A törvény megfogalmazza továbbá, hogy az a jelentős piaci erejű szolgáltató, amelyre a piacelemzés lezárulta után a hatóság helyi hurok átengedésével kapcsolatos kötelezettséget ír elő, köteles referencia ajánlatot nyilvánosságra hozni. E referencia ajánlatok részletes tartalmát külön jogszabály szabályozza.
+
+A 104. §-hoz
+
+A hatékony piaci verseny feltétele, hogy a versenyző szolgáltatók szolgáltatásaik előállításához szükséges inputokhoz ugyanolyan feltételekkel jussanak. A távközlési piacon jellemző eset, hogy a szükséges inputot jelentős piaci erejű szolgáltatók nyújtják, akik az értékesítés feltételeivel előnyben tudják részesíteni a saját üzletágaikat vagy az érdekkörükbe tartozó szolgáltatókat a többi szolgáltatóval szemben.
+
+A törvény feljogosítja a hatóságot, hogy a jelentős piaci erejű szolgáltatókra olyan kötelezettségeket rójon ki, amelyek biztosítják az egyenlő elbánás elvét. Ezek alapján többek között egy szolgáltató köteles lehet saját kiskereskedelmi üzletágainak legalább ugyanolyan feltételekkel - legalább ugyanolyan áron és minőségben - nyújtani nagykereskedelmi szolgáltatásait, mint ahogyan azt versenytársainak, illetve az általa irányított más szolgáltatóknak teszi.
+
+A törvény azonosítja is azokat a legfontosabb eseteket, amelyek az egyenlő elbánás elvének megsértését jelentik:
+
+- ha a szolgáltató olyan indokolatlan műszaki követelményekhez köti szolgáltatásainak nyújtását, amelyeknek csak egyetlen vagy kevés szolgáltató tud megfelelni;
+
+- ha a szolgáltató olyan árazási feltételeket, jellemzően forgalomtól függő árengedményeket határoz meg, amelyeket csak egy vagy kevés szolgáltató tud csak igénybe venni;
+
+- ha a szolgáltató olyan feltételeket állapít meg előfizetőivel kötött szerződéseiben, amelyek hátrányos helyzetbe hozzák az előfizetőt vagy új szolgáltatóját, amennyiben az előfizető fel akarja bontani régi szerződését, és az új szolgáltatóval akar szerződést kötni;
+
+- ha a szolgáltató olyan feltételeket állapít meg előfizetőivel kötött szerződéseiben, amelyek kizárják, hogy az előfizető párhuzamosan igénybe vehesse más szolgáltató szolgáltatásait is.
+
+A 105. §-hoz
+
+A törvény felhatalmazza a hatóságot, hogy számviteli szétválasztási kötelezettséget róhasson ki jelentős piaci erejű szolgáltatókra. A számviteli szétválasztás részletes követelményrendszerének meghatározása külön jogszabály keretein belül is a hatóság hatáskörébe tartozik a törvény alapján.
+
+A számviteli szétválasztás célja, hogy a jelentős piaci erejű szolgáltatók meghatározott költség- és bevétel-elkülönítési szabályok alkalmazásával olyan pénzügyi kimutatásokat készítsenek szabályozott üzletágaikra, mintha azok különálló szervezetként működtek volna. Ebben az esetben az üzletágak között értékesített szolgáltatások mennyisége és ára, azaz a transzferár is átláthatóvá válik.
+
+A törvény feljogosítja a hatóságot, hogy a jelentős piaci erejű szolgáltató nagykereskedelmi áraival és transzferáraival kapcsolatban átláthatóságra vonatkozó követelményeket írjon elő. Így többek között ellenőrizhetővé válik, hogy a szolgáltató saját üzletágai és a versenytársai részére valóban az egyenlő elbánás elvének megfelelően nyújtotta szolgáltatásait.
+
+A törvény alapján a hatóság a számviteli szétválasztásból kapott adatokat úgy is meghatározhatja, hogy azok támogassák munkáját az egyenlő elbánás elvének és az árprés alkalmazás tilalmának ellenőrzésében.
+
+A szétválasztott számviteli kimutatások valóságnak való megfelelését azzal biztosítja a törvény, hogy azok vonatkozó szabályoknak való megfelelését független könyvvizsgálónak kell igazolnia. A könyvvizsgáló tanúsítványát a kötelezett szolgáltatónak nyilvánosságra kell hoznia, így a piaci szereplők is értesülhetnek a vizsgálat eredményéről.
+
+A 106. §-hoz
+
+A törvény felhatalmazza a hatóságot arra, hogy a jelentős piaci erejű szolgáltatókat hozzáférési és kapcsolódó közös eszközhasználati szolgáltatások kötésére kötelezze, amennyiben erre indokolható igény van. A hatóság így megakadályozhatja, hogy a jelentős piaci erejű szolgáltatók bizonyos hálózati szolgáltatások nyújtásának korlátozásával hátráltassák a hatékony piaci verseny kibontakozását.
+
+A törvény tartalmazza az előírható legfontosabb szolgáltatások listáját, azonban nem szűkíti le az előírható szolgáltatásokat a felsoroltakra. Felhatalmazza továbbá a hatóságot arra, hogy meghatározza a szolgáltatás nyújtásának részletes feltételeit, Ezzel elkerülhető, hogy a jelentős piaci erejű szolgáltatók körülményes szolgáltatási feltételek meghatározásával hátráltassák a kötelezően nyújtandó szolgáltatásaik igénybe vételét.
+
+Az (5) bekezdés tartalmazza, hogy a hatóság szolgáltatási kötelezettség kirovása esetén milyen szempontokra fordítson különös figyelmet. E szempontok figyelembe vétele védi a befektetések megtérülését, a verseny kibontakozását és a szolgáltatások minőségének biztosításán keresztül a fogyasztók érdekeit.
+
+A 107. §-hoz
+
+A törvény tartalmazza azokat az információkat, amelyeket - a törvény egyéb pontjaiban leírtakon túl - a helymegosztásra és közös eszközhasználatra kötelezett szolgáltató köteles átadni a helymegosztás és közös eszközhasználat igénybevételére jogosult szolgáltató részére.
+
+A törvény együttműködési szabályokat is meghatároz a helymegosztással és a közös eszközhasználattal kapcsolatban:
+
+Helymegosztási szolgáltatás nyújtásakor a kötelezett szolgáltatónak úgy kell eljárnia, hogy - figyelembe véve a rendelkezésre álló lehetőségeket - a helymegosztási szolgáltatás költsége és így a díja minimális legyen. A kötelezett szolgáltató köteles biztosítani az igénybe vevő szolgáltató berendezései számára a megfelelő áramellátást és a kötelezett szolgáltató hálózatához való csatlakozási lehetőséget.
+
+A törvény felsorolja azokat a szempontokat, amelyek alapján a kötelezett követelményeket határozhat meg a jogosult szolgáltató berendezéseivel szemben. E szempontok nem teljesülése esetén tagadhatja csak meg a kötelezett szolgáltató, hogy az igénybe vevő berendezéseit elhelyezze saját épületében.
+
+A 108. §-hoz
+
+A JPE szolgáltatókra kiszabható kötelezettségek körében határozza meg a törvény e szolgáltatók egyes összekapcsolási, illetve hozzáférési szolgáltatásai nagykereskedelmi díjainak költségalapúságát, a díjmegállapításhoz használandó módszer előírását és a díjak ellenőrizhetőségét.
+
+A költségalapúság bizonyítása a szolgáltatót terheli. A költségalapú díjak jogszerűségének megítélésekor a szolgáltatás nyújtásával összefüggésben felmerült költségek fedezete csak annyiban vehető figyelembe, amennyiben az nem haladja meg a hatékony szolgáltatónak az adott szolgáltatás nyújtásához szükséges befektetései méltányos megtérülése iránti igényét és a befektetéssel vállalt kockázatát. A hatóság a mérlegeléshez a szolgáltató által alkalmazottól eltérő költségszámítási módszertant is alkalmazhat, továbbá az összehasonlítható versenypiacokon rendelkezésre álló árakat is figyelembe veheti.
+
+A hatóság - a mérlegelés eredményétől függően - kötelezheti a szolgáltatót az árak megváltoztatására, illetőleg - az árprés kialakulásának megelőzésére - megállapíthatja a szolgáltató által nyújtott hálózati szolgáltatás ellenértékének a szolgáltató által alkalmazott előfizetői díjhoz viszonyított mértékét, vagy az alkalmazandó díjat.
+
+A 109. §-hoz
+
+A hatóság vizsgálja a törvény hatálya alá tartozó kiskereskedelmi piacokat is. Amennyiben megállapítja, hogy egy ilyen piacon a verseny nem kellően hatékony, a verseny elősegítése és a fogyasztók érdekeinek védelme érdekében megtilthatja bizonyos - a szakaszban felsorolt - gyakorlatok alkalmazását a jelentős piaci erejű szolgáltatóknak. A kiskereskedelmi árakkal kapcsolatos kötelezettsége ellenőrzésének érdekében a hatóság költség kimutatási módszerek alkalmazását is előírhatja.
+
+A törvény alapján a hatóság - ha azt más eszközzel nem tudja elérni - a verseny elősegítése és a fogyasztók érdekeinek védelme érdekében a miniszternél kezdeményezheti bizonyos szolgáltatások legmagasabb árának megállapítását, és javaslatot tehet az alkalmazandó árkorlát mértékére.
+
+A 110. §-hoz
+
+A távközlő hálózatok alapvető eleme a vonal, amely révén két pont közötti elektronikus hírközlési összeköttetés megvalósítható. E szerepénél fogva és tervezési okokból célszerű, hogy műszaki jellemzői tekintetében minimális választék kerüljön megállapításra. Ezzel kapcsolatos kötelezettség-megállapítási jogkört biztosít a törvény a hatóság részére.
+
+A 111. §-hoz
+
+Az elektronikus hírközlési piacon létrejövő liberalizációhoz meg kell valósítani annak lehetőségét, hogy a helyhez kötött telefon szolgáltatás igénybevevője (a felkínált szolgáltatás költsége, a szolgáltatási színvonal, szimpátia, stb. szempontok alapján) tartósan, vagy esetileg azt az elektronikus hírközlési szolgáltatást nyújtó társaságot választhassa bizonyos - helyi, belföldi távolsági, nemzetközi, mobil hálózatba irányuló vagy internet célú - hívásai teljesítésére, amelynek szolgáltatását igénybe kívánja venni.
+
+Fontos, hogy azok a kis társaságok is versenyezhessenek a piacon, akik számára előfizetőik kis száma és forgalma nem teszi lehetővé a díjak kiszámlázásának gazdaságos kivitelezését. Ezért a jelentős piaci erejű szolgáltatóknak kétféle üzleti modell szerint kell társszolgáltatóiknak az előválasztást felkínálni.
+
+A hívásvégződtetéssel történő közvetítőválasztás esetén a választott szolgáltató csak a kötelezett szolgáltatóval áll kapcsolatban. A kötelezett szolgáltató minden olyan hívás esetén köteles a közvetítő szolgáltatón keresztül végződtetni a hívást, amikor azt a fogyasztó kéri. A fogyasztó ebben az esetben csak a kötelezett szolgáltatóval áll szerződéses kapcsolatban és közvetítő választás esetén is a kötelezett által kialakított díjakat fizeti a kötelezett szolgáltatónak.
+
+A kötelezett szolgáltatók hívásvégződtetéssel történő közvetítőválasztás esetén kötelesek úgy kialakítani díjaikat, hogy abban érvényesüljenek a végződtetési díjak különbségei. Így tehát ha a közvetítő szolgáltató bizonyos irányban olcsóbban végződtet egy hívást, mint a kötelezett szolgáltató, akkor a kötelezett szolgáltató köteles úgy kialakítani a kiskereskedelmi díjakat, hogy abból a fogyasztó lássa, hogy közvetítő választás esetén alacsonyabb díjjal telefonálhat.
+
+Annak érdekében, hogy a kis szolgáltatóknak kedvezzen, a törvény kötelezi a közvetítő választásra kötelezett jelentős piaci erejű szolgáltatót, hogy a jogosult szolgáltató kérésére híváskezdeményezéssel történő közvetítőválasztás esetén is számlázza ki a fogyasztó részére a díjakat, és szedje is be őket.
+
+A törvény alapján a kötelezett szolgáltató akkor sem korlátozhatja egy előfizetőjét a közvetítő szolgáltató választásban, ha erről egyébként a fogyasztó például egy hűségakció keretében önként lemondana. Így a fogyasztók előtt mindig nyitva áll egy másik, kedvezőbb szolgáltatás választásának lehetősége.
+
+A törvény felhatalmazza a hatóságot arra, hogy a helyhez kötött telefon piacokhoz kapcsolódó kiskereskedelmi piacoktól eltérő piacokon is terhelje a jelentős piaci erejű szolgáltatót a közvetítőválasztás kötelezettsége.
+
+A 112-113. §-hoz
+
+Az új elektronikus hírközlési törvény egyik legfontosabb, az alapelvek között is megfogalmazott célja az „információs társadalommal összefüggő szolgáltatások és új technológiák elterjedését elősegítő szabályozás megteremtése”. E cél megvalósulásának kritikus tényezője az internet szolgáltatás elterjedtsége.
+
+Az internet szolgáltatás elterjedését szolgálja, ha csökken az internet célú hívások díja. A törvény úgy csökkenti az internet célú hívások díját, hogy internet célú összekapcsolási szolgáltatások kötelező nyújtását írja elő a jelentős piaci erejű szolgáltatók számára, és ezzel támogatja ezen a területen a hatékony verseny kialakulását.
+
+A törvény az internet célú összekapcsolási szolgáltatások két típusának szolgáltatását teszi kötelezővé a jelentős piaci erejű szolgáltatók részére, a perc alapon számlázott internet híváskezdeményezés forgalmi szolgáltatást, valamint a percforgalomtól független díjú átalánydíjas internet híváskezdeményezés forgalmi szolgáltatást.
+
+Az internet célú hívások egy percre eső költsége, azok jellegéből fakadóan alacsonyabb, mint egy beszéd célú hívás fajlagos költsége. Ezért a törvény kötelezi a szolgáltatókat, hogy az internet célú híváskezdeményezés díját a beszéd célú híváskezdeményezés díjától eltérő módszertannal számítsa ki.
+
+Az internet összekapcsolási szolgáltatásokat kétféle modell alapján vehetik igénybe a jogosult szolgáltatók.
+
+Az első a közvetítő választás esetében kifejtett híváskezdeményezéssel történő közvetítőválasztás modelljével azonos módon működik.
+
+A második, a számfordításos modell esetében a hívás automatikusan a közvetítő szolgáltatóhoz jut, hiszen ő biztosítja az internet szolgáltató számára a távközlési kapcsolatot. Ebben az esetben a kötelezett szolgáltató úgy alakítja ki a hívás díját, hogy az megfeleljen az általa nyújtott internet híváskezdeményezés forgalmi szolgáltatás és a közvetítő által kiszámított végződtetési díj összegének.
+
+A törvény alapján az internet szolgáltató és a közvetítő szolgáltató megosztozhat a hívásvégződtetés díján, azonban ennek módját a törvény nem szabályozza. Így az internet szolgáltató azt a közvetítő szolgáltatót választhatja, aki számára a legnagyobb részt biztosítja a telefon forgalmi bevételekből.
+
+A 114-115. §-hoz
+
+A hatékony verseny kialakulásának szempontjából lényeges, hogy a jelentős piaci erejű szolgáltatók ne részesítsék saját üzletágaikat, illetve az általuk irányított, őket irányító vagy velük közös irányítás alatt álló szolgáltatókat jogosulatlan előnyben azzal, hogy az internet híváskezdeményezés szolgáltatást részükre kedvezőbb feltételekkel kínálják, mint más szolgáltatók számára. A törvény alapján ezért a kötelezett szolgáltató minden szolgáltató esetében ugyanazokat az internet híváskezdeményezési díjakat köteles alkalmazni, illetve saját üzletágai között a transzferárakat úgy kialakítani, hogy azok egyenlők legyenek az összekapcsolási díjakkal.
+
+A 116. §-hoz
+
+Az árprés olyan esetekben fordulhat elő, amikor egy vertikálisan integrált vállalatnak a nagykereskedelmi piacon domináns pozíciója van, a kiskereskedelmi piacon pedig más, vertikálisan nem integrált vállalatokkal verseng, vagyis olyan kiskereskedelmi szolgáltatásokat kínál, amelyek a saját nagybani komponensére épülnek. Az árprés a versenypiaci visszaélések azon esete, amikor az integrált vállalat nagykereskedelmi piacon lévő árait olyan magasan határozza meg, hogy a kiskereskedelmi piacon lévő (hatékony) versenytársai - akik számára ez az ár fontos input költséget jelent - nem képesek a vertikálisan integrált vállalat kiskereskedelmi árával versenyképes árat kialakítani úgy, hogy az számukra normál profitot nyújtson.
+
+A törvény előírja, hogy a jelentős piaci erejű szolgáltatók úgy kötelesek kialakítani nagykereskedelmi tarifáikat, hogy azok ne okozzanak árprést. Ha a későbbiekben a szolgáltató, illetve az általa irányított, őt irányító vagy vele közös irányítás alatt álló szolgáltató egy kiskereskedelmi szolgáltatása árát mégis olyan mértékben csökkenti, hogy az árprés kialakulását okozná, akkor a kiskereskedelmi árakkal párhuzamosan a kapcsolódó hálózati szolgáltatás árát is köteles csökkenteni a kötelezett szolgáltató.
+
+A hálózati szolgáltatások árprés szempontjából történő vizsgálatakor is csak a hatékony szolgáltató költségeit és a befektetések méltányos megtérülését veheti figyelembe a vizsgálatokat végző hatóság.
+
+A 117-118. §-hoz
+
+Az egyetemes szolgáltatási szabályozás elsődleges célja a telefon hálózathoz és az azon nyújtott meghatározott szolgáltatásokhoz való hozzáférés lehetőségének biztosítása mindenki számára. Az egyetemes szolgáltatási körbe vont szolgáltatásoknak az ország minden lakosa számára elérhetőnek kell lenni lakóhelytől függetlenül és e szolgáltatásoknak megfizethető áron kell rendelkezésre állnia. A törvény az Európai Uniós irányelv rendelkezéseinek megfelelően összefoglalja, hogy mely szolgáltatások esnek az egyetemes szolgáltatási körbe.
+
+Az egyetemes szolgáltatások mindenki számára való megfizethetőségét biztosítja a törvény azzal, hogy felhatalmazza a minisztert, hogy a központi költségvetés terhére támogassa a szociálisan rászorulókat - a támogatás mintegy két-három százezer embert érint - távközlési kiadásaik mérséklésében.
+
+A 119. §-hoz
+
+A törvény alapján egyetemes szolgáltatást a miniszter által kijelölt egyetemes szolgáltatók nyújthatják. A kijelölés során a miniszter biztosítja, hogy a megfizethető egyetemes szolgáltatások az ország egész területén elérhetőek legyenek, a verseny a legkevésbé torzuljon, és olyan szolgáltatókat jelöl ki, amelyek az egyetemes szolgáltatásokat a leghatékonyabban (azaz a lehető legkisebb támogatási igény mellett) képesek nyújtani. A törvény lehetővé teszi, hogy a megfizethetőség érdekében az egyetemes szolgáltatók olyan díjcsomagokat is kialakíthassanak, amelyek egyébként a szolgáltatás költségeit nem teljes egészében fedezik. Az ilyen díjcsomagok kialakítása miatt felmerült terheket az egyetemes szolgáltatók viselik, azt sem a többi piaci szereplő, sem a költségvetés nem finanszírozza.
+
+A 120. §-hoz
+
+Az egyetemes szolgáltatókkal a miniszter egyetemes szolgáltatási szerződést köt. A törvény meghatározza ezen szerződések legfontosabb tartalmi elemeit, valamint előírja ezek nyilvánosságra hozatalát.
+
+A 121. §-hoz
+
+Az Európai Unió iránylevével összhangban az egyetemes szolgáltatást nyújtók meghatározott feltételek fennállta esetén - a többi piaci szereplő befizetéseiből finanszírozott - támogatásra lehetnek jogosultak. A törvény szerint annak az egyetemes szolgáltatónak, amely támogatásra tart igényt, az egyetemes szolgáltatás nettó elkerülhető költségeit tartalmazó, auditált kimutatást kell készítenie. A miniszter ennek alapján mérlegeli, hogy az adott szolgáltató számára az egyetemes szolgáltatás nyújtása méltánytalan terhet jelent-e. Amennyiben a miniszter megítélése szerint méltánytalan terhet jelent, az egyetemes szolgáltató legfeljebb a kimutatott nettó elkerülhető költségei mértékének, vagy az egyetemes szolgáltatási szerződése szerint ennek egy meghatározott részének megfelelő támogatást igényelhet az Egyetemes Elektronikus Hírközlési Támogatási Kasszától.
+
+A támogatási igényre vonatkozó, a törvény szerinti szabályok a piaci szereplők által finanszírozott, jelenleg kb. 9 milliárd forintnyi kifizetést várhatóan ennek töredékére, kb. 1 milliárd forintra csökkentik.
+
+A 122. §-hoz
+
+Az egyetemes szolgáltató nettó elkerülhető költségeinek megtérítését Egyetemes Elektronikus Hírközlési Támogatási Kassza végzi. A Kasszába az elektronikus hírközlési szolgáltatók a finanszírozási szükséglet mértékéig befizetéseket eszközölnek értékesítési nettó árbevételük alapján. A Kassza befolyt bevételeiből egyenlíti ki az egyetemes szolgáltatók egyetemes szolgáltatásból eredő jogos támogatási igényeit.
+
+A törvény szerint mentesülnek a Kasszába történő befizetés alól az újonnan piacra lépők a megalakulásuk első két évében, a külön jogszabályban meghatározott árbevételt el nem érő szolgáltatók, valamint az internet szolgáltatóknak csak azon árbevételeik után kellene hozzájárulást teljesíteniük, amelyek az egyetemes szolgáltatás keretében nyújtott telefonszolgáltatás igénybevételével nyújtott internet szolgáltatásból származnak.
+
+A 123. §-hoz
+
+Az egyetemes szolgáltatókat a hatóság folyamatosan ellenőrzi. Az ellenőrzés azonban nemcsak a tevékenység ellátására, hanem az egyetemes szolgáltatási szerződés teljesítésére is kiterjed. A szerződésben foglalt kötelezettségek megszegését a hatóság jelzi az egyetemes szolgáltatás biztosítása érdekében intézkedni jogosult miniszternek.
+
+Az egyetemes szolgáltatások köre indokolt esetben módosítható. Az egyetemes szolgáltatásokkal kapcsolatos részletes jogszabályi követelmények - műszaki normák, harmadik felekkel való együttműködési szabályok - szintén módosulhatnak. Ilyen esetben e változások követésére indokolt a miniszter által kötött egyetemes szolgáltatási szerződések felülvizsgálata. E szerződések polgári jogi jellege miatt a felek felülvizsgálati kötelezettségét törvényben kell előírni az ilyen esetekre. A jogbiztonság érdekében azonban a szabályozás nem lépi túl a korábban kötött koncessziós szerződésekben ilyen esetekre nyitva álló lehetőségeket.
+
+A szolgáltató szerződésszegése esetén a miniszter köteles új egyetemes szolgáltató kijelöléséről gondoskodni. Az egyetemes szolgáltatási szerződést a szolgáltató is felmondhatja, de biztosítania kell a szolgáltatási kötelezettség harmonikus átadás-átvételének feltételeit. Ezért a felmondási idő legrövidebb időtartama egy év.
+
+A 124. §-hoz
+
+A kijelölési eljárás és az egyetemes szolgáltatás nyújtásának részletes feltételeit, a nettó elkerülhető költség számításának alapelveit, valamint az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek kompenzálásának és megosztásának részletes szabályait végrehajtási rendelet fogja tartalmazni.
+
+A 125. §-hoz
+
+A távirat-szolgáltatás szabályozása átmenetinek tekinthető, hisz a táviratot az elektronikus hírközlési szolgáltatások, különösen az internet elterjedése a közeljövőben teljesen ki fogja szorítani. Addig az időpontig azonban a törvény biztosítja az ilyen szolgáltatások igénybevételére lehetőséggel nem rendelkező személyek gyors információcseréjét.
+
+A 126. §-hoz
+
+A törvény valamennyi fejezetén végigvonul a fogyasztói érdekek védelme. A törvény a fogyasztói jogok védelmének intézményesített képviselőjeként határozza meg a Hírközlési Fogyasztói Jogok Képviselőjét az elektronikus hírközlés területén. A törvény lényeges eleme, hogy nemcsak az okozott sérelem esetén lehet kezdeményezni a képviselőnél eljárást a szolgáltatóval szemben, hanem abban az esetben is, ha a sérelem közvetlen veszélye áll fenn. Ugyanezen pont lehetőséget biztosit a Hírközlési Fogyasztói Jogok Képviselőjének a hivatalból történő eljárás megindítására.
+
+A panaszok un. egykapus kezelése esetén a szakértő képviselő közvetlen intézkedést tehet, útmutatást nyújt a jogszabályi lehetőségek érvényesítésére.
+
+A törvény jelentős lehetőséget biztosít az esetlegesen felmerülő piaci anomáliák kiszűrésére azáltal, hogy a képviselő a fogyasztók érdekeinek védelmében tájékoztatást, adatokat kérhet a szolgáltatóktól, gyártóktól, forgalmazóktól.
+
+A fogyasztói jogok védelmének előremutató intézménye az a lehetőség, hogy a panaszok azonos típusa esetén, több előfizetőt érintő esetben hatósági eljárást kezdeményezhet a képviselő.
+
+A közigazgatási ügyintézés határidejének megtartása érdekében fontos a 15 napos válaszadási határidő kikötése a szolgáltató részére. A szolgáltatók tehát nem önkényesen határozhatják meg a válaszadás határidejét.
+
+A 127-134. §-hoz
+
+Jelentős garanciális előrelépés a fogyasztók érdekeinek védelme érdekében, hogy a korábban kormányrendeleti szintű szabályozás [a távközlési előfizetői szerződésekről szóló 249/2001. (XII. 18.) Korm. rendelet] lényegi elemeit mind az előfizetői szerződés, mind az általános szerződési feltételek vonatkozásában törvényi szintre emelte. Ezáltal a törvény eleget tesz a 2002/22/EC irányelv 20. Cikkének is. A törvény részletesen rendelkezik az általános szerződési feltételekről, a szerződés létrejöttének, módosításának szüneteltetésének megszüntetésének feltételeiről, valamennyi esetben a fogyasztó érdekeit kiemelten kezelve.
+
+A törvény szerint a szolgáltató, előfizető, illetőleg igénylő (a továbbiakban együtt: felek) az előfizetői szerződést írásban, szóban vagy ráutaló magatartással - így különösen az előfizetői szolgáltatás igénybevételével - köthetik meg. Az ajánlattétel és az ajánlat elfogadásának feltételeit, valamint a szerződés megkötésének módját a szolgáltató az általános szerződési feltételeiben határozza meg.
+
+A ráutaló magatartás ugyanis - aktív cselekvéssel vagy éppen passzivitást tanúsítva - szóbeli/írásbeli nyilatkozat nélkül - közvetíti a szerződéses vagy egyéb jogügyleti akaratot. A ráutaló magatartás nem hoz létre szerződést, ha a felek magatartása - önmagában vagy a korábbi tárgyalásokkal, az ügyletkötés körébe eső körülményekkel együtt - nem fejezi ki a megegyezést a szerződés lényeges, vagy bármelyik fél által lényegesnek minősített pontjaiban. A ráutaló magatartással megtett jognyilatkozat kiterjesztően nem értelmezhető.
+
+A törvény taxative tartalmazza az előfizetői szerződés lényeges elemeit, amely alapján az előfizető a szerződés birtokában tájékozottan tudja érvényesíteni jogait, a hibás teljesítés, a szerződés szüneteltetése, módosítása, a minőségi feltételek érvényesítése esetén.
+
+A törvény a korábbi kormányrendelet szintjéről törvényi szintre emelte a szolgáltató általános szerződési feltételeinek szabályozását, nevesítve a Ptk. szerződéstípusát, ezáltal a fogyasztók védelme, az egységes szolgáltatási színvonal biztosítása törvényen alapuló kötelező tartalommal érvényesül. Új elem az előfizetőre vonatkozó kivonat térítésmentes biztosítása. Ez alapján az előfizető tájékoztatása teljes körűvé válik, miután jogait és kötelezettségeit, illetve a szolgáltató jogait és kötelezettségeit az előfizetői szerződéssel együtt értékelheti.
+
+A törvény szabályozza az általános szerződési feltételek módosítását, illetve felhatalmazást ad piacfelügyeleti jogkör keretében történő vizsgálatára.
+
+Az általános szerződési feltételeket a szerződő felek egyike több szerződés megkötése céljából, egyoldalúan előre meghatározza, és a másik fél annak meghatározásában nem működhet közre. A piac - és versenyvédelem szempontjai mellett kiemelt fontosságú a fogyasztók védelme a visszaélés jellegű szerződési feltételekkel szemben.
+
+A Ptk. 205. §-ának (3) bekezdése szerint, az általános szerződési feltétel az (1)-(2) bekezdésben foglaltak teljesülése esetén is csak akkor válik a szerződés részévé, ha alkalmazója lehetővé tette, hogy a másik fél annak tartalmát megismerje, és ha azt a másik fél kifejezetten vagy ráutaló magatartással elfogadta.
+
+A távközlési előfizetői szerződésekben alkalmazott általános szerződési feltételeknek a Ptk. szerint megismerhetőnek kell lenniük.
+
+Míg a korábbi törvényben külön általános felhatalmazásként szerepelt a felelősség a távközlési előfizetői szerződések teljesítéséért, a törvény alapján az általános szerződési feltételekben kötelessége a szolgáltatónak részletesen szabályozni az előfizető jogait, hibás teljesítés esetén a kötbér mértékét, vagy az előfizetőt megillető díjcsökkentés eseteit.
+
+A törvény a felsorolás alapján eleget tesz a 2002/22/EC irányelv 21. Cikkében és az irányelv II. mellékletében foglaltaknak.
+
+A törvény rendezi a korábban jelentős vitákat kiváltó előfizetői panaszokat a szolgáltatás megrendeléséről, illetve annak hiányáról. A törvény kimondja, hogy a nyilatkozattétel elmulasztása semmilyen esetben nem minősülhet elfogadásnak új szolgáltatás bevezetése esetén. Tehát új szolgáltatást megrendeltnek tekinteni csak írásos elfogadó nyilatkozat alapján lehet.
+
+A szolgáltató az előfizető (vagy elhalálozás esetén örökös) kérésére csak az általános szerződési feltételekben foglaltak szerint módosíthatja az egyedi előfizetői szerződést, ha az előfizető személyében szerződés, öröklés vagy egyéb jogcímen történő jogutódlás következtében változás következik be (átírás).
+
+A szolgáltató az előfizetői szerződés felmondását írásban, tértivevényes levélben köteles megküldeni, a kivételeket a 144. § (2) bekezdése tartalmazza. A szolgáltató a felmondást minden esetben köteles indokolni.
+
+A 135-136. §-hoz
+
+A törvény alapján a szolgáltató köteles az előfizetői szolgáltatást az előfizető kérésére szüneteltetni. Indokolt azonban kimondani, hogy ha az előfizetői szolgáltatás az előfizető kérésére szünetel, a szünetelés időtartamára az előfizetőt csak csökkentett, az indokolt és méltányos díj fizetésére lehet kötelezni.
+
+A rendszeres karbantartás idejére a fogyasztó díjfizetésre köteles, ha az előfizetői szolgáltatás szüneteltetésére az előfizető előzetes, meghatározott módon történő értesítése mellett a hálózat karbantartása miatt kerül sor és ez a havi egy napot nem haladhatja meg.
+
+Ha a szolgáltató érdekkörébe tartozó ok miatt kerül sor a szünetelésre - ide nem értve az általános szerződési feltételekben meghatározott rendszeres karbantartást -, vagy a szünetelés oka mindkét fél érdekkörén kívül esik, a szünetelés időtartama alatt az előfizető a szünetelés időtartamára vonatkozó díj fizetésére nem köteles. A szolgáltató rendszeres karbantartás címen, egy éven belül legfeljebb tizenkettő alkalommal szüneteltetheti a szolgáltatást. Amennyiben azonban a szüneteltetés a havi 48 órát meghaladja az egy hónapra eső előfizetési díjat a szolgáltatónak vissza kell térítenie.
+
+A 137. §-hoz
+
+A törvény meghatározza azokat az eseteket, amikor a szolgáltatás igénybevétele korlátozható. Ugyanakkor a törvény előírja, hogy a telefon szolgáltató az előfizetői szolgáltatások korlátozása esetén is köteles biztosítani az előfizető hívhatóságát, segélykérési lehetőségét, és a hibabejelentés elérhetőségét.
+
+A 138. §-hoz
+
+A törvény részletesen szabályozza az előfizetői bejelentések, panaszok szolgáltató általi kezelésével kapcsolatos eljárást. A törvény megteremti az összhangot a fogyasztóvédelemről szóló 1997. évi CLV. törvény 38. §-ával miután az ezer főt meghaladó előfizetői kör esetén kötelezővé teszi az ügyfél számára nyitva álló ügyfélszolgálati hely megteremtését.
+
+A szolgáltató köteles ügyfélszolgálatán, internetes honlapján feltüntetni azt, hogy előfizetői szerződésében hogyan szabályozta panasz ügyintézési folyamatát, az eljárás rendjét és a válaszadási határidőket.
+
+A 139-141. §-hoz
+
+Az ár mellett a szolgáltató által vállalt és teljesített minőség is olyan jellemzők, amelyek lényegesen befolyásolhatják a fogyasztó döntését a szolgáltató megválasztásában. Lényeges, hogy a megfelelő döntéshez e jellemzőkről a fogyasztó átfogó, összehasonlítható, felhasználóbarát és naprakész információkkal rendelkezhessen. A fogyasztók kellő tájékoztatása érdekében ezért jogszabály írja elő a nyilvánosság számára hozzáférhető szolgáltatásokra vonatkozóan a minőségi jellemzők tartalmi és formai meghatározását. Ezek tekintetében a szolgáltató az általános szerződési feltételeiben célértékeket köteles felvállalni, és a teljesítésükre vonatkozó információkat is köteles az előírt módon, rendszeresen közzétenni.
+
+Az előfizetők tájékozódásának elősegítése érdekében az ügyfélszolgálat telefoni elérhetőségét a szolgáltató köteles a legalacsonyabb díjazású hívhatósággal biztosítani, illetőleg az előfizetői hozzáférést biztosító szolgáltató díjmentesen is hívható kell legyen abban az esetben, ha erre a hálózata műszakilag alkalmas.
+
+A szolgáltató ugyanezen feltételekkel köteles ügyfélszolgálatán keresztül vagy közvetlenül elérhető hibabejelentő szolgálatot is működtetni, ahol az előfizető a szolgáltatás meghibásodását bejelentheti.
+
+A szolgáltató a hibabejelentéseket köteles rögzíteni, és azt köteles legalább egy évig, az előfizetői szerződésből eredő igények elévüléséig - az adatkezelési szabályok betartásával - megőrizni. Ezen túlmenően, a szolgáltatónak meghatározott tartalommal nyilvántartást is kell vezetnie a hibabejelentésekről és azok elhárítása kapcsán tett intézkedésekről, év, hónap, nap, óra pontossággal megjelölve a hiba bejelentésének, illetőleg elhárításának időpontját.
+
+A 142. §-hoz
+
+A számlázott díjak ellenőrizhetőségének, továbbá a használat és a költségek figyelemmel kísérhetőségének és kontrollálhatóságának biztosítására a szolgáltatónak az előfizető részére kiállított számlához csatolnia kell a számlamellékletet, amely az előfizető által fizetendő díjakat külön jogszabályban meghatározott bontásban tünteti fel. Az előfizető kérésére a szolgáltató köteles olyan részletességű számlamellékletet csatolni a számlához, amely tartalmazza a díj kiszámításához szükséges forgalmi és számlázási adatokat.
+
+Sem a számlán, sem a számlamellékletben nem jeleníthetők meg az előfizető számára ingyenes hívások, ebbe beleértve a hatóság által „nem azonosítható hívószámként” megjelölt olyan hívásokat is, mint például a lelki segélyszolgálat, a drog-vonal, az AIDS-vonal, stb. A számlamelléklet adatai tekintetében biztosítani kell a személyes adatok védelmére vonatkozó, külön jogszabályban foglalt rendelkezések megtartását.
+
+A számlamelléklet kiadása nem köthető külön díj fizetéséhez.
+
+A 143. §-hoz
+
+A szolgáltató az előfizetői szerződés késedelmes vagy hibás teljesítése esetén felelősséggel tartozik, ennek mértékét a törvény a felhasználó vagyonában okozott kárban határozza meg, az elmaradt haszon kivételével, míg az előfizetői szerződésből eredő igények elévülési idejét egy évben állapítja meg. Az előfizetői szerződés megszegéséért a szolgáltató kötbér fizetésére köteles, amelynek mértékét külön jogszabály állapítja meg. A törvény eltér a Ptk. általános szabályai szerinti felelősség szabályaitól, de ennek előírása a szolgáltatókra adott esetben indokolatlan terhet róhatna és érvényesítése is nehézségekbe ütközne, valamint rosszhiszemű visszaélésekre is alkalmat adna. Az előfizetők ugyanis a szolgáltatás időleges szünetelése vagy fennakadása esetén elmaradt haszon címén olyan - a gyakorlatban egyébként nehezen bizonyítható - többlet kártérítési igénnyel állhatnának elő, amely indokolatlanul megnövelné a szolgáltatók által fizetendő kártérítés összegét. A felhasználó vagyonában okozott értékcsökkenésig megállapított felelősség a (3) bekezdésben kikötött, egyfajta átalány-kártérítésként is szolgáló kötbérrel együtt alkalmas az előfizetők megfelelő védelmére a szolgáltatói szerződésszegésekkel szemben.
+
+A 144. §-hoz
+
+Az általános szerződési feltételek, illetőleg a szolgáltatások teljesítésének minősége tekintetében a törvény, más közérdekű információk tekintetében külön jogszabály a szolgáltató ügyfélszolgálatán történő közzétételt rendel, illetőleg rendelhet el. Ennek a kötelezettségének úgy tehet eleget a szolgáltató, hogy a tájékoztatást az ügyfélszolgálati helyiségében, ennek hiányában pedig internetes honlapján teszi hozzáférhetővé, továbbá szóbeli tájékoztatást ad telefonos megkeresés esetén.
+
+A törvény vagy más jogszabály az előfizető értesítését írhatja elő. A szolgáltató e kötelezettségének írásban, az elektronikus értesítés elfogadásáról előzetesen nyilatkozó előfizetők felé elektronikus levélben, ha a tudomásul vételt maradandó módon rögzíteni tudja, akkor egyéb elektronikus hírközlés útján, illetőleg - ha az előfizetők széles körét érinti - az ügyfélszolgálati közzététel mellett országos vagy megyei lapban legalább két alkalommal feladott közlemény útján tehet eleget.
+
+A fogyasztók megfelelő tájékoztatása és választási szabadságának biztosítása érdekében a hatóság előírhatja, hogy a szolgáltatók szolgáltassanak adatot az általuk nyújtott szolgáltatás minőségéről, árairól, a díjszabásokról, és ennek összehasonlító elemző értékelését nyilvánosságra hozzák.
+
+A 145. §-hoz
+
+A helyhez kötött és a mobil telefon szolgáltatás szolgáltatóinak kiemelt kötelezettsége, hogy korlátozás nélkül ingyenesen biztosítani kötelesek a segélyszolgálatok elérhetőségét. E tekintetben tehát még a szolgáltatás költségei sem érvényesíthetők. A segélyhívó szolgálatok közé tartozik az a megkülönböztetett szerepű, a ’112’ egységes európai segélyhívó számon elérhető szolgálat, amely fel van készülve a magyar nyelvet nem beszélő ügyfelek segélyhívásainak kezelésére, és közreműködésükkel a mentők, a rendőrség és a tűzoltóság segítsége egyaránt igénybe vehető.
+
+A segélyszolgálatok feladatvégzésének elősegítése érdekében a szolgáltatók kötelesek átadni részükre azt az információt, amely a segélyhívás helyét a lehető legpontosabban meghatározza.
+
+A 146-147. §-hoz
+
+Az előfizetői listákban, előfizetői névjegyzékekben, illetőleg címtárakban a 160. § rendelkezéseinek megfelelően megjeleníthető adatokról a tudakozó szolgáltatások nyújtanak egyedi tájékoztatást. A tudakozó szolgáltatás nyújtása történhet terület szerint országosan, vagy meghatározott területen, illetőleg kapcsolási szám szerint az összes kapcsolási szám, vagy meghatározott szolgáltató(k) által kezelt kapcsolási számok tekintetében.
+
+A tudakozó szolgáltatások megfelelő működtethetősége érdekében a telefon szolgáltatók kötelesek - a 160. §-ban foglalt előfizetői jogok sérelme nélkül - átadni a törvényben meghatározott adatokat a tudakozó szolgáltató részére, telefon előfizetőik számára pedig biztosítani kell az országos tudakozó szolgáltatások bármelyikének hívhatóságát.
+
+Az egyetemes elektronikus hírközlési szolgáltatás keretében működő tudakozó szolgáltató részére az adatátadás térítésmentes.
+
+A 148. §-hoz
+
+A telefon szolgáltatásban léteznek olyan - távolsági hívással elérhető - előfizetők, akiknek hívószáma a földrajzi helyre vonatkozóan nem tartalmaz információt, az előfizetői állomás az ország bármely rögzített pontján működhet. Az Azonosítók Nemzeti Felosztási Tervében ehhez megfelelő számmezők vannak elkülönítve. Ilyenek például az ország bármely pontjáról díjmentesen hívható ’80’-as, ún. „zöld” számok, helyi tarifával hívható ’40’-es, ún. „kék” számok, az emeltdíjas tarifával hívható ’90’-es hívószámok, de ide sorolhatók bizonyos szolgáltatások elérési hívószámai is, mint pl. a kizárólagosan internet behíváshoz használható ’51’-es hívószámok.
+
+A fenti, ún. nemföldrajzi számok hívhatóságának korlátozását a törvény kereskedelmi okokra hivatkozva tekinti lehetségesnek.
+
+A fenti kivételtől eltekintve biztosítani kell, hogy a nemföldrajzi számokat legalább az Európai Unió tagállamainak területéről hívhassák a végfelhasználók amennyiben ez műszakilag és gazdaságilag megvalósítható.
+
+A 149. §-hoz
+
+Mind a helyhez kötött telefon, mind a mobil rádiótelefon szolgáltatásban a szolgáltató köteles biztosítani előfizetője számára - ha az műszakilag megoldható - a hangfrekvenciás tárcsázás használatát a kezdeményezett vagy fogadott hívás eredményeképpen létrejött összeköttetés folyamán. Ez kényelmi és egyéb kiegészítő szolgáltatások bevezetését teszi lehetővé azáltal, hogy hangfrekvenciás tárcsa impulzusokkal távvezérelhető eszközök kapcsolhatók a hálózati végpontokra, amelyek bárhonnan felhívhatók és működtethetők.
+
+A 150. §-hoz
+
+A valódi verseny kialakulását nagymértékben korlátozza a helyhez kötött és a mobil rádiótelefon szolgáltatásban is, hogy az előfizetőknek hívószámváltással jár, ha az előfizetői hozzáférést a korábban biztosító szolgáltató helyett egy másik szolgáltatótól kívánják igénybe venni. Ez a helyzet gyengíti az új szolgáltatók piacra lépési esélyeit, tartósítja a jelentős piaci erővel rendelkező szolgáltatók versenyelőnyét, és mindenek előtt kényelmetlen, de akár gazdaságilag is hátrányos lehet a felhasználóknak. A számhordozhatóság - azaz az előfizetőnek az a joga, hogy hívószámát megtarthassa, ha szolgáltatót változtat - a liberalizáció egy kiemelt fontosságú jogintézménye.
+
+A földrajzi számok hordozhatóságának bevezetését ugyan már a Hkt. is elrendelte, ennek végrehajtása azonban a törvény elkészültéig nem történt meg. Ennek ellenére a törvény azzal számol, hogy a törvény hatályba lépésétől kezdve a földrajzi számok hordozhatóságának biztosítása az érintett szolgáltatóknak már számon kérhető kötelezettsége.
+
+Az EU új távközlés szabályozási keretrendszer követelményeihez igazodóan a törvény már a nemföldrajzi számok és a mobil telefonszámok tekintetében is elrendeli a számhordozhatóság biztosítását. A szükséges műszaki felkészülés végrehajthatósága érdekében azonban ennek biztosítása csak hazánk uniós csatlakozásának napjától válik kötelezővé.
+
+A számhordozhatóság nemcsak a számot hordozó előfizető, az átadó és az átvevő szolgáltatók közötti viszonyban eredményez változást, kihatással van a forgalomirányításban feladatot ellátó más szolgáltatókra, akik felelősek a hordozott számra irányuló hívások megváltozott módon szükséges célba juttatásáért, valamint azokra az előfizetőkre is, akik a hordozott számra irányuló hívásokat kezdeményezik.
+
+A számhordozhatóság megvalósítása érdekében az átadó szolgáltató - akitől az előfizető a hívószámot elviszi - és az átvevő szolgáltató - akihez az előfizető a hívószámot átviszi - kötelesek egymással, továbbá a hívásirányításban feladatot ellátó más szolgáltatókkal is együttműködni. Az együttműködés feltételeit és az ezzel kapcsolatos feladataikat és kötelezettségeiket hálózati szerződéseikben kötelesek rögzíteni. Az előfizetői hozzáférést nyújtó szolgáltató köteles a számhordozhatóságról az átvevő szolgáltatóval megállapodni, amennyiben az átvevő a hálózati szerződésekre vonatkozó jogszabályoknak megfelelő ajánlatot tesz. A törvény rendezi a számhordozhatóság igénybevételének az átadó szolgáltató által az indokolt költségek alapján felszámítható egyszeri díját, továbbá a hordozott számra irányuló hívások hívás- és jelzéstovábbítása során jelentkező járulékos többletköltségek viselését.
+
+A saját hálózatban maradó, illetőleg a más hálózatba irányuló hívások díjai közötti, a mobil hálózatok esetében már lényeges különbségek miatt a hordozott számra irányuló hívás díja a korábbi szabályozástól eltérően már nem maradhat a hordozás előtti esethez képest változatlan, a díjat ezért a ténylegesen felépülő összeköttetés díjának megfelelően kell megállapítani.
+
+Mivel a számhordozás bevezetésétől kezdve egy hívószámról már nem lehet megállapítani, hogy az hordozott szám-e vagy nem, és így azt sem, hogy az adott hívószámú előfizető melyik szolgáltató hálózatához kapcsolódik, ezért pusztán a hívószámból már nem lehet a hívás díjára következtetni. A hívó fél számára ezért biztosítani kell annak a lehetőségét, hogy az általa kezdeményezni kívánt hívás díjáról a hívás megkezdése előtt tájékozódni tudjon.
+
+A 151-152. §-hoz
+
+A hatóság határozatával kötelezheti az elektronikus hírközlési tevékenységet végzőt az elektronikus hírközlési szolgáltatásra, tevékenységre vonatkozó olyan adatok szolgáltatására, amely szolgáltatás igénybevételéhez, megvalósításához, a hatóság hatáskörébe utalt feladatai végzéséhez szükségesek, abban az esetben is, ha azok üzleti titoknak minősülnek. A szolgáltató a jogszabályban meghatározott adatokat köteles nyilvánosan hozzáférhetővé tenni. A hatóság az adatokat az adatszolgáltató egyidejű értesítésével a versenyhatóság rendelkezésére bocsáthatja.
+
+A hatóság saját maga, illetve a miniszter felkérése alapján, elemzések és értékelések készítése céljából adatszolgáltatási kötelezettséget írhat elő.
+
+A törvény részletezi, hogy a hatóság milyen adatokat adhat át a miniszter számára, illetőleg a minisztériumtól érkezett adatszolgáltatási kötelezettségnek köteles eleget tenni. A szolgáltatók számára garanciális jellegű szabály, hogy a piaci elemző, értékelő tevékenység ellátásához kötelezően szolgáltatandó adatok alapján a hatóság nem folytathat le piacfelügyeleti eljárást.
+
+Az adatszolgáltatási kötelezettséget előíró határozat ellen a Fővárosi Bírósághoz lehet fellebbezést benyújtani. A Fővárosi Bíróság nemperes eljárásban hozott határozata ellen további felülvizsgálatnak nincs helye.
+
+A 153. §-hoz
+
+A minisztérium és a hatóság az Európai Bizottságtól érkezett adatszolgáltatási célú megkereséseinek haladéktalanul köteles eleget tenni.
+
+A minisztérium, illetőleg a hatóság kérheti az Európai Bizottságtól, hogy a szolgáltatott adatkört más tagállam hatóságának ne adja tovább.
+
+Ha az adatszolgáltatási kötelezettség valamely szolgáltató üzleti titokká minősített adatait érinti, az adatszolgáltatás teljesítése előtt 3 nappal az érintett adatszolgáltatót tájékoztatni kell.
+
+A 154. §-hoz
+
+A § a titokvédelem és a személyes adatok védelmének általános garanciáit tartalmazza, valamint a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Atv.) egyes adatkezelési rendelkezéseit konkretizálja a hírközlési szolgáltatókra nézve. A célhoz kötöttség alapelvével áll összhangban, hogy a szolgáltató a felhasználó azonosításához, illetve a szolgáltatás nyújtásához szükséges és elégséges adatot kezelhet. A szolgáltató a szolgáltatás nyújtása érdekében műszakilag elengedhetetlenül szükséges további személyes adatokat is kezelhet. A szolgáltató törölni köteles azokat az adatokat melyek kezelésére jogosulatlanul került sor. További adatkezeléshez való hozzájárulás nem lehet feltétele a hírközlési szolgáltatás nyújtásának. A kezelt vagy kezelni szándékozott személyes adatok körét és az adat kezelésének okát a felhasználó bármikor megismerheti.
+
+A 155. §-hoz
+
+A szolgáltató köteles a megfelelő műszaki környezet biztosítására különös tekintettel a vonatkozó adatok vétlen vagy jogosulatlan hozzáférésének kiküszöbölése érdekében. A szolgáltató a továbbított közlések tartalmát csak olyan mértékben ismerheti meg és tárolhatja, amely a szolgáltatás nyújtásához műszakilag elengedhetetlenül szükséges.
+
+A nemzetbiztonsági szolgálatok és a nyomozó hatóság jogosultságait tartalmazza az (5)-(6) bekezdés.
+
+A 156. §-hoz
+
+A 97/66/EK Irányelv általános követelményként írja elő az elektronikus hírközlési szolgáltatások biztonságát és a hírközlő hálózatokon és szolgáltatásokon keresztül lebonyolított kommunikáció titkosságának biztosítását. A technikai lehetőségek fejlődése miatt a hírközlési - és különösen a távközlési - ágazatban egyre növekvő problémát jelent a közlemények illegális megfigyelése, lehallgatása, ezért konkrét törvényi rendelkezésekkel kell biztosítani, hogy a szolgáltatók maguk is aktívan közreműködjenek ennek megakadályozásában. Az (1) bekezdés általános, a hírközlési piac minden szereplőjére vonatkozó biztonsági követelményt fogalmaz meg. A szolgáltató szükség szerint más szolgáltatókkal közösen megfelelő műszaki és szervezési intézkedésekkel köteles gondoskodni a szolgáltatás biztonságának védelméről. A szolgáltató által megtett intézkedések ellenére fennmaradó, a szolgáltatás biztonságát veszélyeztető, ismert kockázati tényezőkről a szolgáltató köteles az előfizetőt díjmentesen tájékoztatni. A szolgáltatás nyújtása során továbbított közlések, küldemények bizalmasságának védelmére vonatkozó különleges feltételeket, az azonosító-kijelzés, hívásátirányítás továbbá a személyes adatok kezelésének részletes szabályait külön jogszabály állapítja meg.
+
+A 157-159. §-hoz
+
+A 157. § az elektronikus hírközlési szolgáltatók adatkezelésének speciális szabályait tartalmazza, az Atv. 5. §-ával összhangban. Az elektronikus hírközlési szolgáltató által nyújtott szolgáltatások, az előfizetők és felhasználók részére történő számlázás, valamint a díjak beszedése és az előfizetői szerződések figyelemmel kísérése az előfizetők (felhasználók) törvényben meghatározott személyes adatainak kezelését teszik szükségessé. Az adatkezelés időtartama az előfizetői szerződés, illetve a díjfizetéshez és a díjigény érvényesítéséhez kapcsolódó szolgáltatói jogok és kötelezettségek fennállásához kapcsolódik, figyelemmel a jogszabályokban meghatározott elévülési időre. Az elektronikus hírközlési szolgáltató saját marketingje céljára az előfizető előzetes beleegyezése esetén használhatja fel az általa kezelt adatokat. A díjtartozásokból eredő igények érvényesítése, ügyfelek tájékoztatása érdekében, továbbá nemzetbiztonsági, honvédelmi, a közbiztonsággal, a bűnüldözéssel, bírósági végrehajtással kapcsolatos érdekből, valamint az elektronikus hírközlő rendszerrel való visszaélések felderítése céljából a kezelt adatok az e feladatok ellátására jogosult szerveknek átadhatók, azzal, hogy az adatokat átvevők - és értelemszerűen alkalmazottaik, tagjaik, megbízottaik - titokvédelmi kötelezettsége a szolgáltatóéval azonos.
+
+A 158. § azt a helyzetet kezeli, amikor az elektronikus hírközlési piaci verseny kiszélesedésével és a szolgáltatók számának növekedésével valós problémaként jelentkeznek az előfizetőknek az egyes szolgáltatók közötti „vándorlással” elkövetett visszaélései. Ennek kezelése érdekében tartalmaz a törvény az előfizetői szerződéskötési kötelezettség korlátozása. A visszaélések elleni hatékony fellépéshez azonban lehetővé kell tenni, hogy a szolgáltatók megfelelően tájékozódhassanak a nem fizető vagy más módon kárt okozó előfizetők kilétét illetően. A szakasz az adatáramlás biztosításán túl ugyanakkor a megfelelő adatvédelmi garanciákat is tartalmazza.
+
+Az elektronikus hírközlési szolgáltatók, annak érdekében, hogy a díjfizetési, illetőleg egyéb szerződéses kötelezettségek kijátszását megelőzzék, továbbá ha az előfizetői szerződés megkötését megtagadhatják, jogosultak az előfizetők meghatározott személyes adatait egymás között átadni, illetőleg ezen adatokkal közös adatbázist létesíteni. Mivel - a szerződéskötés visszautasításának lehetősége miatt - az előfizetőt súlyosan érintheti az adatátadás, a törvény pontosan meghatározza azokat az eseteket, amikor erre lehetőség van, illetve behatárolja az átadható adatok körét. Az adatátadás tényéről az előfizetőt haladéktalanul tájékoztatni kell. A közös adatállomány adatkezelésének időtartama azonos az egyes adatok kezelésének időtartamával. Az adatkezelés szigorúan célhoz kötött, az adatátadás indokát az átvevővel közölni kell. Ha az adatbázis létrehozására és kezelésére külső személyt (szervezetet) bíznak meg a szolgáltatók, erről, valamint a megbízott jogairól és kötelezettségeiről írásbeli szerződésben kell megállapodni.
+
+A 159. § az elektronikus hírközlési szolgáltatóknak az előfizető felé fennálló részletes, tájékoztatási kötelezettségét tartalmazza a forgalmi és számlázási adatok kezelését illetően.
+
+A 160. §-hoz
+
+A bárki számára megismerhető nyomtatott vagy elektronikus előfizetői listák, előfizetői névjegyzékek vagy címtárak tekintetében a törvény abból indul ki, hogy - az előfizető kifejezett, önkéntes és egyértelmű hozzájárulása nélkül - a fent megjelölt helyen feltüntetett adatokat, azokra a személyes adatokra kell korlátozni, amelyek feltétlenül szükségesek ahhoz, hogy megfelelően azonosítható legyen egy meghatározott előfizető, illetve - szükség esetén - elkerülhető legyen a különböző előfizetők összecserélése. A törvény igen szűk körben vélelmezi a személyes adatok közléséhez való hozzájárulást, azonban az előfizetőnek az is jogában áll, hogy indokolás és külön költség nélkül visszautasíthassa személyes adatainak feltüntetését, illetve a telefonkönyvben szereplő lakcímének részbeni feltüntetését is kérheti. A szolgáltató kötelessége, hogy lehetővé tegye előfizetői számára, hogy e jogosultságaikkal megfelelően élhessenek.
+
+A 161. § -hoz
+
+Az előfizetői névjegyzékből és címtárból önálló szolgáltatás keretében a szolgáltató - érdeklődésre - tájékoztatást nyújt harmadik személyek részére. E szolgáltatás nyújtása során kizárólag a címtárban a 160. § alapján feltüntetett adatok közölhetők, kivéve, ha egyéb adatai közléséhez az előfizető hozzájárul. A szolgáltatónak megfelelő technikai eszközökkel kell biztosítani a visszaélések, különösen adatok jogosulatlan vagy indokolatlan mértékű letöltésének megelőzését. Az adatokat összekapcsolni más adattal vagy nyilvántartással kizárólag a szolgáltatás működtetéséhez szükséges okból lehet.
+
+A 162. §-hoz
+
+A § az előfizetők érdekeinek védelmét szolgálja a nem kívánt reklámcélú hívásokkal szemben. Automatizált hívórendszer igénybevételével kizárólag az előfizető kifejezett, előzetes hozzájárulása esetén végezhető közvetlen üzletszerzési (marketing) vagy tájékoztatási tevékenység. Az előfizető kifejezett hozzájárulása esetén sem továbbítható olyan közvetlen üzletszerzés célját szolgáló küldemény, amelynek feladója nem azonosítható egyértelműen. Az egyéb eszközökkel történő közvetlen piacszerzés korlátja az előfizető visszautasító nyilatkozata. E rendelkezés nem vonatkozik az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény alapján igénybevevőnek minősülő jogaira.
+
+-----STARTING---POINT---VEGE---
+
+A 163. §-hoz
+
+A hatóság működését, illetve az egyetemes szolgáltatás finanszírozásának biztonságát szolgálja az a rendelkezés, amely szerint az elektronikus hírközlés vonatkozásában a hatóság által megállapított díjak és bírságok, valamint az Egyetemes Elektronikus Hírközlési Támogatási Kasszába történő fizetési kötelezettségek adók módjára behajtandó köztartozásnak minősülnek.
+
+A meglévő előfizetői jogok védelme érdekében a törvény szerint a törvény hatályba lépésekor hatályos egyetemes szolgáltatási előfizetői szerződések változatlan feltételekkel alkalmazhatóak, de azok után támogatás csak az új szabályok szerint, azaz a nettó elkerülhető költségek kimutatása esetén igényelhető, így a törvény szerint az egyetemes szolgáltatás finanszírozására vonatkozó, lényegesen kisebb mértékű támogatási igényt eredményező szabályok már a törvény hatályban lépésével egyidejűleg alkalmazhatóak.
+
+E szakasz rendelkezik arról, hogy az érintett piacok meghatározását, a jelentős piaci erővel rendelkező szolgáltatók azonosítását és rájuk kötelezettségek megállapítását első alkalommal - a csak az EU csatlakozást követően elvégezhető egyeztetések miatt - 2004. szeptember 1-jéig, majd 2006. január 1-jéig, ezt követően pedig minden év január 1-jéig kell elvégezni.
+
+A 164-167. §-hoz
+
+A törvény - szabályainak hatályba lépésére - lépcsőzetes ütemezést tartalmaz. A végrehajtási rendeletek megalkotására vonatkozó felhatalmazó rendelkezések a törvény kihirdetését követő 15. napon lépnek hatályba. Az általános hatálybalépés időpontja 2004. január 1. Azon szabályok, amelyek kizárólag hazánk Európai Unióhoz történő csatlakozása után értelmezhetőek, mert tagállami kötelezettségből fakadnak, a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésével egyidejűleg lépnek hatályba. A törvény rendelkezik a hatálybalépését követően hatályon kívül helyezendő jogszabályokról is. A jogfolytonosság biztosítása céljából a törvény meghatározza, hogy a hatóság a Hírközlési Felügyelet jogutódja, továbbá rendelkezik a folyamatban lévő ügyek elintézésének fórumáról is. Az új szervezet gördülékeny kialakítása érdekében a Hírközlési Felügyelet elnöki, illetve a HDB tagsági megbízások a törvény hatálybalépésének napján megszűnnek.
+
+A 168-180. §-hoz
+
+Ezen szakaszok tartalmazzák, azoknak az átmeneti szabályoknak az összességét, amelyek a hatóság által, a törvény 52. §-a alapján, a jelentős piaci erővel rendelkező szolgáltató(k) kijelöléséig meghatározzák a piaci magatartást. A törvény ezekre a szolgáltatókra lényegében a Hkt. által megállapított kötelezettségeket rendeli alkalmazni, azonban azokhoz képest a feltárt piaci problémák orvoslása érdekében egyes többletkötelezettségeket is előír.
+
+A 181. §-hoz
+
+A jogbiztonság érdekében a törvény a kihirdetését megelőzően megkötött, határozott idejű előfizetői szerződésekre a törvény szerinti új szabályokat csak az átmeneti időszak leteltét követőn rendeli alkalmazni.
+
+A 182. §-hoz
+
+E § tartalmazza a törvény gyakorlati alkalmazhatóságához szükséges alacsonyabb szintű jogszabályok megalkotására vonatkozó felhatalmazásokat a Kormány és a miniszter, a gazdasági és közlekedési miniszter, valamint a nem polgári célú frekvenciagazdálkodási feladatokat ellátó miniszter számára.
+
+A 183-186. §-hoz
+
+A módosításra kerülő szabályok a törvény magyar jogrendszerrel való összhangját teremtik meg.
+
+A 187. §-hoz
+
+E § a jogharmonizációs klauzulát tartalmazza, felsorolva az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatásokra vonatkozó, 2003. július 25-én hatályba lépő új szabályozási keretrendszer elemeit, amelyekkel való teljes harmonizációt teremti meg a törvény.
+
+A 188. §-hoz
+
+E § tartalmazza a törvényben használt fogalmak meghatározását. A definíciók magas száma is mutatja, hogy egy speciális, erős szakmai tartalmú szabályozást valósít meg a törvény, az egységes értelmezés és alkalmazás érdekében részletesen megadja az egyes definíciók pontos tartalmát. Mindez kiemelt jelentőséggel bír a törvény gyakorlati érvényesülése szempontjából.

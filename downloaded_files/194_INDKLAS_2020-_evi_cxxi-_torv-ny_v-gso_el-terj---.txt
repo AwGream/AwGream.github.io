@@ -1,0 +1,721 @@
+2020. évi CXXI. törvény végső előterjesztői indokolása
+
+az egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel összefüggő módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Ez az indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, továbbá a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+A törvényjavaslat a közigazgatási eljárások elektronizálása szempontjából olyan kulcsfontosságú informatikai szakrendszerek és elektronikus nyilvántartások felülvizsgálatát és megújítását célozza, mint
+
+- a személyiadat- és lakcímnyilvántartás informatikai rendszere,
+
+- a közúti közlekedési és a hozzá kapcsolódó nyilvántartások informatikai rendszerei,
+
+- a személyazonosítást lehetővé tevő okmány-nyilvántartások informatikai rendszerei.
+
+A nyilvántartások megújítása nem csak a háttérfolyamatok gyorsulását fogja eredményezni, hanem az állampolgárok számára is érezhető változásokat hoz.
+
+1.) A személyiadat-, és lakcímnyilvántartás és az okmány-nyilvántartások átalakításához kapcsolódik a személyazonosító igazolványok részleges megújítása.
+
+Ez azért szükséges, mert az Európai Unió az uniós polgárok személyazonosító igazolványai vonatkozásában egységes, 2021 augusztusában hatályba lépő szabályozást vezetett be, mely az Európai Unió területén kötelező jelleggel határozza meg a tagállamok által kiállított okmányok tartalmi és formai követelményeit.
+
+Az egységes uniós szabályozásra azért van szükség, mert az uniós polgárság az Unió valamennyi polgárát felruházza a szabad mozgás jogával, bizonyos korlátozások és feltételek mellett. A szabad mozgás magában foglalja az érvényes személyazonosító igazolvánnyal vagy útlevéllel a tagállamok területéről való kiutazás és az oda való beutazás jogát.
+
+Egységes szabályozás hiányában azonban a tagállamok által kiállított nemzeti személyazonosító igazolványok biztonsági szintje jelentősen eltér. Ezen eltérések növelik a meghamisítás és az okmányokkal való visszaélés kockázatát.
+
+Az Európai Unió által meghatározott követelményeknek - néhány formai dekorációs elemtől eltekintve - a Magyarországon 2016-ban bevezetett, chippel felszerelt, az Unióban a legkorszerűbben közé tartozó elektronikus személyazonosító igazolvány lényegében megfelel, ezért Magyarország részéről minimális intézkedésekre van csak szükség az uniós szabályozásnak való megfelelés biztosítása érdekében.
+
+Az uniós szabályozás lényeges eleme ugyanakkor, hogy a személyazonosító igazolványon lévő chipnek kötelezően tartalmaznia kell a birtokos arcképén kívül annak ujjnyomatát is.
+
+Magyarországon az ujjnyomatnak a személyazonosító igazolványon való elhelyezése eddig opcionális volt, arra senki nem volt köteles; az uniós szabályozás alapján azonban a 2021. augusztus 2-án vagy azt követően indított, személyazonosító igazolvány kiadása iránti eljárás esetén csak olyan személyazonosító igazolvány adható majd ki, amely ujjnyomatot is tartalmaz. Ez alól csak a 6 év alatti gyermekek és az ujjnyomat adására fizikailag képtelen személyek mentesülnek.
+
+A másik lényeges változás, hogy megszűnik a határozatlan időre kiadott személyazonosító igazolvány. Az uniós szabályozás értelmében ugyanis tároló elemet (chipet) nem tartalmazó okmány kiadására már nem lesz lehetőség. A 70. életévet betöltött jogosult kérheti, hogy részére a kiállítás napjától számított 10 éves érvényességi idejű személyazonosító igazolvány kerüljön kiállításra.
+
+A korábbi okmányok kivonását az Európai Uniós szabályozása szintén előírja; a törvényjavaslat értelmében 2026. augusztus 3. napján érvényét veszti a 2000. január 1. napja előtt kiállított személyazonosító igazolvány; 2031. augusztus 3. napján pedig érvényét veszti az a 2016. január 1. napját követően kiállított határidő nélküli érvényességi idejű személyazonosító igazolvány, mely esetén a polgár 2021. augusztus 2. napjáig nem töltötte be 70. életévét.
+
+2.) Az állampolgárok életét könnyítő változások bevezetésére kerül sor a gépjármű-igazgatás területén is. A kötelező gépjármű-felelősségbiztosítás nyilvántartásának megújításával a kötvénynyilvántartás és a járműnyilvántartás adatkapcsolatai is felülvizsgálatra kerülnek.
+
+A módosítások alapján a járműnyilvántartás szakrendszere automatikus informatikai adatkapcsolat útján meggyőződhetne a biztosítás megkötéséről, így azt az ügyfélnek az eljárás során nem kellene a jövőben igazolnia a felelősségbiztosítás meglétét, ezt helyette az informatikai szakrendszerek elvégzik.
+
+Így a gépjármű forgalomba helyezésekor jelenleg papír alapon becsatolni előírt, a kötelező gépjárműfelelősségbiztosításra vonatkozó irat helyett a hatóság elektronikus adatkapcsolat útján fér hozzá a szükséges információhoz.
+
+3.) Az elektronikus ügyintézés elterjedését és az informatikai eszközök közigazgatási felhasználását segíti az ügyintézési terminálok - KIOSZK-ként működő elektronikus ügyintézési pontok - kialakítása.
+
+A KIOSZK létrehozásának célja, hogy a személyes ügyintézés céljából az okmányirodában megjelent személy - mintegy az ügyintéző helyett - a KIOSZK segítségével legyen képes ügyintézésre. A KIOSZK - működését tekintve - átmenetet képez az elektronikus ügyintézés és a személyes ügyintézés között, egyfajta „hibrid” megoldást alkot. A törvényjavaslat rendezi a KIOSZK eljárásjogi státusát; a Kormány tervei alapján e szabályrendszer keretei között egyre több és több KIOSZK jelenik meg az ország különböző pontjain és ezek fokozatosan egyre több ügy intézését teszik majd lehetővé, hivatalnokok közreműködése nélkül.
+
+A tervezet lehetőséget biztosít továbbá arra, hogy ügyfélkapu regisztrációt - a pénzintézetek előtt már ismert módon - az ügyfél videochates technológia útján is igényelhesse. Az adatok biztonsága érdekében kizárólag az a csatorna elfogadott, amelyet a Kormány által meghatározott szerv (a tervek szerint: a 1818 Kormányzati Ügyfélvonal) biztosít.
+
+4.) A Központi Statisztikai Hivatalnak annak érdekében, hogy a döntéshozók megfelelő és hiteles forrásból gyűjtött naprakész és pontos adatok alapján tudjanak tájékozódni, elengedhetetlenül fontos, hogy a lakossági adatfelvételek során a lehető leghatékonyabb módon tudja felvenni a kapcsolatot az adatszolgáltatókkal.
+
+A fentiekhez jelentene új alternatívát a polgárok elektronikus elérhetőségen történő megkeresése is. Ennek érdekében a polgárok nyilvántartott egyes elérhetőségi adatait a KSH megkapná abból a célból, hogy ne postán, személyes felkereséssel, kérdezőbiztossal, hanem elektronikus elérhetőségeiken keresztül legyen lehetőség a kapcsolatfelvételre, a lakosság körében végzett konkrét statisztikai adatgyűjtésekkel kapcsolatos kérdések feltételére, illetve akár az adatok begyűjtésére. Ez a felkeresési mód nem csak alternatívát biztosít a hagyományosnak számító, kérdezőbiztos általi személyes felkeresés mellé, hanem egyben megteremti annak lehetőségét, hogy a járványhelyzethez hasonló szituációkban, amikor a személyes felkereséssel történő adatgyűjtés ellehetetlenül, az adatok begyűjtésére és így a döntéshozó adatokkal való kiszolgálására legyen mód. Ez a megoldás hatékonysága mellett egyben így fontos kockázatkezelési eszköz is.
+
+5.) A Kormány az elektronikus ügyintézés biztosítása érdekében kiépített egy olyan elektronikus környezetet, amely biztosítja az állam szervei egymás közötti elektronikus kapcsolattartását, valamint a polgárok és a vállalkozások számára az állammal történő elektronikus kapcsolattartást.
+
+E kapcsolatok megteremtése közfeladat. A vállalkozások egymás közötti kapcsolata és a vállalkozások és polgárok közötti kapcsolat megteremtése elsősorban a piac feladata lenne, azonban vizsgálni lehet az állam szerepvállalásának lehetőségét.
+
+A digitalizáció előrehaladása, valamint a nagyobb sebességű, de biztonságosabb kapcsolattartás érdekében a piaci szereplők (elsősorban a pénzügyi szolgáltatások, pénzintézetek) olyan technológiai megoldást keresnek, amely garantálja az elektronikus térben a polgár és a vállalkozás azonosítását, biztosítja azok nyilatkozatának hitelességét, valamint az azonosításon túl a hiteles személyes adatok átadását. A pénzügyi szolgáltatók ügyfelei esetében ugyanakkor általános bűnmegelőzési érdek az is, hogy a pénzügyi szolgáltatókkal szerződő felek hitelesen azonosítva legyenek, ezáltal garantálva a pénzügyi szektor biztonságát.
+
+A fenti elvárások hasonlítanak a kormányzati elektronikus ügyintézés szférájához: a Kormány által kiépített elektronikus ügyintézési rendszer pontosan azokat a tulajdonságokat képes biztosítani, amelyeket a piaci szereplők kívánnak, ugyanakkor a kormányzati szolgáltatások elsődleges célja az állam működésének biztosítása. A pénzügyi szektor esetében az állami érdek az, hogy a magyar és uniós szabályoknak megfelelően az ügyfél azonosítása hiteles, állam által garantált legyen a digitális szférában is.
+
+A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény hatálya alá tartozó szolgáltatók meghatározott esetekben ügyfél-átvilágításra kötelesek. Az ügyfél-átvilágítást a hatályos szabályozás szerint megtehetik személyesen, valamint elektronikus hírközlő eszközön keresztül.
+
+A törvényjavaslat lehetőséget biztosít arra, hogy a Kormány által biztosított elektronikus azonosítási szolgáltatással (jellemzően ügyfélkapuval) rendelkező ügyfél a szolgáltató rendszerébe - a hatósági ügyintézéshez hasonló módon - közvetlenül bejelentkezhessen, az adatai a Pmt. szabályainak megfelelően elektronikusan ellenőrizve legyenek, ezáltal csökkentve a személyes megjelenéssel járó mind lakossági, mind szolgáltatói terheket.
+
+6.) Az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet 2019. április 10-én bekövetkezett hatálybalépése, valamint 2020. október 11-ével esedékessé váló kötelező alkalmazása elengedhetetlenné teszi a törvény és a hozzá kapcsolódó végrehajtási rendelet jogharmonizációs célú módosítását.
+
+Az EU Rendeletből származó jogharmonizációs igény fennálltától függetlenül a Kormányzati Ellenőrzési Hivatal a tavalyi év folyamán elvégezte a külföldi befektetések biztonsági célú ellenőrzéséről szóló magyarországi jogszabályokban lefektetett szabályozás gyakorlati érvényesülésének az átfogó vizsgálatát. A jelenlegi szabálymódosítások a vizsgálat megállapításaiból fakadnak.
+
+A revízió egyik elsődleges jogpolitikai céljául szolgált a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzésével összefüggő döntési jogosultsággal felruházott állami és hatósági szerveket megillető mérlegelési jogkörök szűkítése, ezáltal pedig a szabályozás kiszámíthatóbbá tétele.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az Nytv. 7. §-a sorolja fel a járási hivatalok hatásköreit, mely körhöz korábban tartozott a Központi Okmányiroda is. A Központi Okmányiroda szervezetileg átkerült a kijelölt kormányhivatalhoz.
+
+A „kijelölt kormányhivatal” ettől különböző fogalom: az Nytv. 8/A. §-a sorolja fel Budapest Főváros Kormányhivatala mint „kijelölt kormányhivatal” hatásköreit, melyek eltérnek az Nytv. 7. §-ától. Erre figyelemmel a „kijelölt kormányhivatal” hatásköreinek bővítése tekintetében az Nytv. pontosítása is indokolt.
+
+A 2. §-hoz
+
+A kérelem tartalmazni fogja a lakcímbejelentési eljárás során a polgár és - amennyiben meghatalmazott jár el - a meghatalmazott személyazonosság igazolására alkalmas hatósági igazolványának adatait és cselekvőképességének tényét. Ennek a célja, hogy a polgár eljárási képessége egyértelműen megállapítható, valamint az eljárás jogszerű legyen. Az adatokat és a tényt a nyilvántartás szervei és az Nytv. 24. §-ában nevesített szervek ismerhetik meg.
+
+A 3. §-hoz
+
+Szükséges pontosítani a hatályos szabályokat az elektronikus anyakönyv és a személyiadat- és lakcímnyilvántartás közötti adatátadás céljából.
+
+A 4. §-hoz
+
+A javaslat biztosítja, hogy a nyilvántartás az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.) jelzett esetekben adja át az adatokat a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) szerinti szolgáltatóknak.
+
+Az 5. §-hoz
+
+Az Nytv. 7. §-a sorolja fel a járási hivatalok hatásköreit, mely körhöz korábban tartozott a Központi Okmányiroda is. A Központi Okmányiroda szervezetileg átkerült a kijelölt kormányhivatalhoz.
+
+A „kijelölt kormányhivatal” ettől különböző fogalom: az Nytv. 8/A. §-a sorolja fel Budapest Főváros Kormányhivatala mint „kijelölt kormányhivatal” hatásköreit, melyek eltérnek az Nytv. 7. §-ától. Erre figyelemmel a „kijelölt kormányhivatal” hatásköreinek bővítése tekintetében az Nytv. pontosítása is indokolt.
+
+A 6. §-hoz
+
+A rendelkezés biztosítja, hogy az Országgyűlés Hivatala kapcsolattartás és megemlékezés szervezése céljából jogosult legyen kérni az érvényes, valamint a korábban érvényes mandátummal rendelkező országgyűlési képviselő egyes adatait.
+
+A 7., 116. §-hoz
+
+Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény 3. § (19) bekezdése és az egyes közlekedési tárgyú törvények módosításáról szóló 2020. évi LXXXVI. törvény 9. §-a közötti normakollízió feloldását szolgáló rendelkezések.
+
+A 8. §-hoz
+
+A közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a módosítással jogosult lesz a személyazonosító jel igénylésére.
+
+A 9. §-hoz
+
+A kérelem tartalmazni fogja a lakcímbejelentési eljárás során a polgár és - amennyiben meghatalmazott jár el - a meghatalmazott személyazonosság igazolására alkalmas hatósági igazolványának adatait és cselekvőképességének tényét. Ennek a célja, hogy a polgár eljárási képessége egyértelműen megállapítható, valamint az eljárás jogszerű legyen. Az adatokat és a tényt a nyilvántartás szervei és az Nytv. 24. §-ában nevesített szervek ismerhetik meg.
+
+A 10. §-hoz
+
+A javaslat biztosítja, hogy a nyilvántartás az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.) jelzett esetekben adja át az adatokat a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) szerinti szolgáltatóknak.
+
+A 11. §-hoz
+
+2021. február 1. napjával kialakításra kerül az elhalálozásról történő értesítési szolgáltatás, melynek keretében a polgár nyilatkozhat, hogy mely a szolgáltatáshoz csatlakozott szerv kerüljön értesítésre elhalálozása esetén.
+
+A csatlakozott szervek adatait a jogosultság-nyilvántartás fogja tartalmazni, melyre eltérő szabályokat kell alkalmazni. A nyilvántartásban szerepelni fognak mind a szerv, mind a képviselőjének meghatározott adatai.
+
+A 12. §-hoz
+
+Az (1) bekezdéshez: A törvény alapján ujjnyomat adására nem köteles a 6. életévét be nem töltött polgár, aki annak adására fizikailag vagy ideiglenesen fizikailag képtelen, mely szabályok az (EU) 2019/1157 európai parlamenti és tanácsi rendeletben meghatározottakkal összhangban kerültek meghatározásra.
+
+A (2) bekezdéshez: Indokolt a polgár közigazgatási terheinek csökkentése érdekében, hogy az állandó személyazonosító igazolványa tároló elemén lakcímét elektronikus azonosítást követően elektronikus kapcsolattartás keretében is módosíthassa.
+
+A 13. §-hoz
+
+Az (1) és a (3) bekezdéshez: A törvény alapján ujjnyomat adására nem köteles a 6. életévét be nem töltött polgár, aki annak adására fizikailag vagy ideiglenesen fizikailag képtelen, mely szabályok az (EU) 2019/1157 európai parlamenti és tanácsi rendeletben meghatározottakkal összhangban kerültek meghatározásra.
+
+Az állampolgársági eljárás nyomán magyar állampolgárságot szerzett polgár állandó személyazonosító igazolványa abban az esetben fogja tartalmazni az ujjnyomatát, ha a kiállításkor betöltötte a 6. életévét.
+
+Az ujjnyomat adatot, amennyiben nem kerül kiadásra állandó személyazonosító igazolvány haladéktalanul törölni kell.
+
+A (2) bekezdéshez: A jövőben a fogvatartott a büntetés-végrehajtási intézet mellett a járási hivataloknál (mobilizált kormányablak) is előterjesztheti a személyazonosító igazolvány kiállítása iránti kérelmét, mely hozzájárul a fogvatartás biztonságához.
+
+A 14. §-hoz
+
+A személyazonosító igazolványoknak az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet (a továbbiakban: EU rendelet) 10. cikk (1) bekezdése alapján annak biztosítása érdekében, hogy a biometrikus azonosítók egyezzenek a kérelmező személyazonosságával, a kérelmezőnek minden egyes kérelem esetében legalább egyszer személyesen meg kell jelennie a kiállítási eljárás során. Ezért ha az állandó személyazonosító igazolvány elektronikus ügyintézési ponton történő kérelmezésére kerül sor, az ujjnyomat-összevetést az okmány személyes átadásakor el kell elvégezni.
+
+A 15. §-hoz
+
+Az (EU) 2019/1157 európai parlamenti és tanácsi rendeletben (Rendelet) megfogalmazott szabályok alapján szükséges volt felülvizsgálni az állandó személyazonosító igazolvány érvényességi idejére vonatkozó szabályokat. Főszabály szerint 6 éves érvényességi idővel kell kiadni az állandó személyazonosító igazolványt.
+
+Abban az esetben, ha a polgár ideiglenesen fizikailag képtelen ujjnyomat adására, részére 1 éves érvényességi idejű állandó személyazonosító igazolványt kell kiadni.
+
+Az állandó személyazonosító igazolványnak minden esetben tartalmazni kell tároló elemet, így a határidő nélkül kiállítottak esetén is. A Rendelet 3. Cikk (1) bekezdése kötelező jelleggel írja elő az ICAO 9303 sz. dokumentumnak történő megfelelést is.
+
+Az ICAO előírásai alapján kiadott, biometrikus azonosítókat elektronikusan tartalmazó okmányok esetében a hitelesítéshez szükséges tanúsítványok maximális érvényességi ideje nem teszi lehetővé a 10 évnél hosszabb érvényességi idővel történő okmánykiadást.
+
+A hosszabb (határozatlan) érvényességi idő jelenleg azért lehetséges, mert a 65. életévét betöltött jogosult részére kiadott okmány nem tartalmaz tároló elemet. A Rendelet hatálybalépését követően azonban tároló elemet nem tartalmazó okmány kiadására már nem lesz lehetőség, mert a 70. életévet betöltöttek részére kiadott okmány nem került kivételkörbe, azaz kötelezően tartalmaznia kell - ICAO kompatibilis módon - az elektronikus tároló elemet.
+
+Így a 70. életévet betöltött jogosult részére fő szabályként a kiállítás napjától számított 10 éves érvényességi idejű személyazonosító igazolvány kerülhet kiállításra.
+
+A 16. §-hoz
+
+A megfelelő szolgáltatásnyújtáshoz szükséges az adattovábbítási nyilvántartásban kezelt adatok között meghatározni az érintett személyes adatait.
+
+A 17. §-hoz
+
+A javasolt szabályozás (1) és (2) bekezdése meghatározza a naplózással kapcsolatos adatkezelés célját és definiálja a napló és naplóbejegyzés tartalmát. A naplózással kapcsolatos adatkezelési feladatokat a javaslat a BM adatkezelésben lévő közhiteles központi nyilvántartások adatkezelőihez telepíti.
+
+A (3) bekezdés felsorolja a naplóbejegyzés javasolt adatköreit és az adatkezelés tárgyát képező személyes adatok típusát (név, azonosító). Az adatkezelési műveletek jogszerűségének ellenőrizhetősége megköveteli, hogy az adatkezelési műveletek beazonosíthatóak legyenek, megállapítható legyen, pontosan mely személyes adatokkal végezték a műveletet. Ennek érdekében szükséges, hogy a naplóbejegyzés tartalmazza az adatkezelési művelettel érintett konkrét személyes adatokat.
+
+A (4) bekezdés meghatározza a naplózással összefüggő adatkezelés feltételeit.
+
+Az (5) és (6) bekezdés szól a naplóbejegyzések megismerésére jogosultak köréről, a megismerhetőség feltételeiről.
+
+A (7) és (8) bekezdés a további rendelkezésekkel együtt biztosítja a jogszerű és tisztességes adatkezelés biztosításához szükséges intézkedéseket.
+
+A (9) bekezdés határozza meg az adattárolás időtartamát és írja elő a megőrzési idő letelte után fennálló törlési kötelezettséget, meghatározva a kivételeket.
+
+A 18. §-hoz
+
+2021. február 1. napjával kialakításra kerül az elhalálozásról történő értesítési szolgáltatás, melynek keretében a polgár nyilatkozhat, hogy mely a szolgáltatáshoz csatlakozott szerv kerüljön értesítésre elhalálozása esetén.
+
+A csatlakozott szervek adatait a jogosultság-nyilvántartás fogja tartalmazni, melyre eltérő szabályokat kell alkalmazni. A nyilvántartásban szerepelni fognak mind a szerv, mind a képviselőjének meghatározott adatai.
+
+A 19. §-hoz
+
+Szükségessé vált szabályozni az állandó személyazonosító igazolvány kiadását akkor is, ha a polgár 2016. január 1. napját követően kiállított határidő nélküli állandó személyazonosító igazolvánnyal rendelkezik, hogy kérhesse bármikor annak cseréjét.
+
+A 2021. augusztus 2. napját megelőzően kiadott állandó személyazonosító igazolványok közül a tároló elemmel ellátott és ujjnyomatot tartalmazó pótolható, mert ezen időponttól csak ilyen okmányok kerülhetnek kiállításra.
+
+Külön szabályt kell megállapítani a 2026-ban és a 2031-ben kivonásra kerülő személyazonosító igazolványokra is.
+
+A 20. §-hoz
+
+A bekezdés alapján az (EU) 2019/1157 rendelet szabályainak végrehajtására irányuló szabályok kerültek megalkotásra.
+
+A 21. §-hoz
+
+A törvény céljának eléréséhez szükséges szövegcserés módosítások.
+
+A 22. §-hoz
+
+A törvény céljának eléréséhez szükséges hatályon kívül helyezések.
+
+A 23. §-hoz
+
+A módosítás előírja, hogy Magyar Nemzeti Levéltár megfelelő időközönként mentse és a Kormány rendeletében meghatározott szervnél tárolja a Kormány rendeletében meghatározott adatokat. A szerv adatfeldolgozónak minősül.
+
+A 24. §-hoz
+
+A módosítás felhatalmazza a Kormányt a Kormányzati Adattrezorhoz történő csatlakozás részletszabályainak megalkotására.
+
+A 25. §-hoz
+
+Az a) ponthoz: A módosítás - tekintettel arra, hogy a betárolási kötelezettség érinti a kultúráért felelős miniszter állományvédelem kapcsán gyakorolt jogkörét - az elektronikus iratok biztonságos másolatának átadására és tárolására vonatkozó kivételszabályt határoz meg.
+
+A b) ponthoz: A módosítás pontosítja a levéltári törvény 17. § (2) bekezdés b) pontját annak érdekében, hogy a Magyar Nemzeti Levéltár elektronikus ügyintézést biztosító szervnek minősüljön.
+
+A 26-28. §-hoz
+
+1. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 173. § (2) bekezdése alapján a fogvatartott részére nyújtható elektronikus kapcsolattartási formák igénybevételi lehetőségének megteremtése érdekében a kapcsolattartók esetében jelenleg kezelhető kapcsolattartási adatok (lakcím és telefonszám) mellett az elektronikus levelezési cím és a videóhívásra szolgáló telekommunikációs alkalmazásban regisztrált azonosító név kezelése szükséges.
+
+Az új adatkörök rögzítésére kizárólag az elektronikus kapcsolattartási formák igénybevétele esetén kerülne sor, az elektronikus levelezési cím és a telekommunikációs alkalmazás azonosító név a kapcsolattartás megteremtése érdekében kerülne felhasználásra.
+
+2. Az adatvédelem szabályozási területén bekövetkezett változások eredményeként a kapcsolattartók adatainak kezelésére vonatkozó jogalap módosítása vált szükségessé. Jelenleg az adatkezelés jogalapjaként az érintett kapcsolattartó hozzájárulását írja elő a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény (a továbbiakban: Bv. Sztv.) 28/A. §-a, ugyanakkor a kérdéses esetekben megkérdőjelezhető az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (Infotv.) 3. § 7. pontjában meghatározott hozzájárulás elengedhetetlen fogalmi elemének, az önkéntességnek a teljesülése, tekintettel arra, hogy a hozzájárulás megadása nélkül lényegében elesne az érintett a kapcsolattartás lehetőségétől. Figyelemmel arra, hogy a fogvatartottal való kapcsolattartás engedélyezéséhez a Bv. Sztv. 28/A. §-ban felsorolt személyes adatok megadása elengedhetetlen, jelen esetben nem a hozzájárulás, hanem a törvény általi elrendelés lenne a megfelelő jogalap, figyelemmel az Infotv. 5. § (1) bekezdés a) pontjában foglaltakra is.
+
+3. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 13. § (2) bekezdése 2021. január 1. napjával módosul, lehetővé téve a sértett részére, hogy lakcím helyett értesítési címet jelöljön meg, ezért szükséges a Bv. Sztv. 28/B. § (2) bekezdés b) pontjának a kiegészítése is vagylagosan ezzel az adattal.
+
+4. 2020 végén megkezdi működését a Büntetés-végrehajtás Egészségügyi Központ, amely a Büntetés-végrehajtás Központi Kórház állami alapfeladatát veszi át és a büntetés-végrehajtási intézetektől beutalt fogvatartottak egészségügyi ellátását és őrzését fogja végezni. Az új büntetés-végrehajtási intézetet a főigazgató fogja vezetni, amelyre tekintettel a Bv. Sztv. 8. §-ában szereplő felsorolást is indokolt kiegészíteni a „főigazgató” elnevezéssel.
+
+A 29. §-hoz
+
+A javaslat az összerendelési nyilvántartás működése során biztosítja annak lehetőségét, hogy amennyiben egy szerv jogosult a természetes személyazonosító adatok kezelésére, úgy azokat a központi azonosítási ügynök használata esetén megkapja a központi nyilvántartásokból.
+
+A 30-32. §-hoz
+
+Az állami adóhatóságnak a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény (a továbbiakban: Fétám.tv.) szerinti belföldi gyermek esetében a személyiadat- és lakcímnyilvántartás szerinti nyilvántartási jogcím adat átadására is szüksége van, a Fétám. tv-ben meghatározott feladatai ellátásához, ennek keretében a támogatásra való jogosultság megállapításához, a Magyar Államkincstár felé történő megfelelő adatközléshez.
+
+Az adóalanyok nyilvántartásainak pontos vezetéséhez is szükséges nyilvántartási jogcím adat, valamint a személyiadat- és lakcímnyilvántartásból történő kikerülési okok és időpontok átadása, az egyes esetekhez fűződő különböző joghatások megfelelő kezelése érdekében.
+
+A Központi Statisztikai Hivatalnak (a továbbiakban: KSH) a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-a, valamint a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény alapján jogosult a személyi adat- és lakcímnyilvántartás (SZL) meghatározott adatainak átvételére. Ez az adatátadás ugyanakkor előre meghatározott időpontokhoz kötött, így nem tudja folyamatosan követni a bekövetkezett változásokat.
+
+Ennek áthidalása érdekében a személyiadat- és lakcímnyilvántartás a polgárok nyilvántartott adatainak változását - kivételként történő kiemelésére tekintettel - folyamatosan átadná a KSH részére.
+
+A KSH az SZL-ből átvett adatokat a lakossági adatfelvételei, illetve a népszámlálás adatszolgáltatói körének kijelöléséhez, statisztikai mintavételhez használt adatbázisában kezeli. Az adatbázis szolgál a rendszeres és az eseti adatgyűjtések adatszolgáltatói köre meghatározásának alapjául, ezért kiemelten fontos, hogy az abban foglalt adatok a lehető legpontosabbak legyenek annak érdekében, hogy az adatszolgáltatók köre a legaktuálisabb információk alapján kerüljön lehatárolásra, valamint adatgyűjtés során az adatszolgáltatókkal való kapcsolatfelvétel pontosabban történhessen meg és így a meghiúsult kérdőívek száma csökkenthető legyen. Mindez jelentős mértékben hozzájárul a gyűjtött adatok minőségének javításához.
+
+A Szaz. tv. 18. §-a módosításának oka, hogy az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 124. § (4) bekezdése alapján az adóazonosító jelet az eredeti funkciójától eltérő célból, az egyén saját adóügyintézésén kívül használja az adóhatóság, azonban a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH) szerint megkérdőjelezhető, hogy ezen rendelkezés összeegyeztethető-e az általános adatvédelmi rendelet 5. cikk (1) bekezdés c) pontjával. A NAIH észrevétele szükségessé teszi Szaz. tv. módosítását annak érdekében, hogy az a jelenleginél konkrétabban határozza meg az adóazonosító jel jogszabályban lehetővé tett kezelésének céljait és feltételeit, különösen azokban az esetekben, ha az adózón kívüli más természetes személy adóazonosító jelét szükséges kezelni egy hatósági eljárásban. A módosítás ezt a célt kívánja teljesíteni.
+
+A 33. §-hoz
+
+A népmozgalmi adatok esetében a személyazonosító adatokat a Központi Statisztikai Hivatal azok feldolgozását és a számára a betegségregiszterek felé előírt adattovábbítás teljesítését követően nyolc napon belül törli. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény, valamint a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) módosítása pontosítja a Stt. 30. §-át, valamint a törlésre vonatkozó rendelkezések összhangját teremti meg.
+
+Az anyakönyvi eljárásról szóló 2010. évi I. törvény 80. §-ának kiegészítése egyértelművé teszi, hogy a KSH számára felvett és továbbított adatok vonatkozásában az anyakönyvvezetőknek törlési kötelezettsége van (az elektronikus anyakönyvi nyilvántartás 2014 évi bevezetését megelőző anyagkönyvi események nyilvántartása az életben lévő házastárs, bejegyzett élettárs vonatkozásában nem teljes).
+
+A 34. §-hoz
+
+Az EESZT-hez nem csatlakozott szervek részére teljesített adatátadást követően az egészségügyi szolgáltatónak, az orvosnak, valamint az intézménynek minden olyan adatot törölni kell, melyet a törvény alapján nem tarthat nyilván.
+
+A 35. §-hoz
+
+Annak biztosítása érdekében, hogy a biometrikus azonosítók egyezzenek a kérelmező személyazonosságával, a kérelmezőnek minden egyes kérelem esetében indokolt legalább egyszer személyesen megjelennie a kiállítási eljárás során. Ezért ha az úti okmány elektronikus ügyintézési ponton történő kérelmezésére kerül sor, az ujjnyomat-összevetést az okmány személyes átadásakor el kell elvégezni.
+
+A 36. §-hoz
+
+A szövegben indokolt megjeleníteni a „térítésmentesen” szót, hogy az adatszolgáltatásért rendszerhasználati díjat ne kelljen fizetni.
+
+A 37-38. §-hoz
+
+A Központi Statisztikai Hivatal és a Nemzeti Szakértői és Kutató Központ számára szükséges adatokhoz való hozzáférés jogalapját teremti meg a rendelkezés.
+
+A 39. §-hoz
+
+A javasolt szabályozás (1) és (2) bekezdése meghatározza a naplózással kapcsolatos adatkezelés célját és definiálja a napló és naplóbejegyzés tartalmát. A naplózással kapcsolatos adatkezelési feladatokat a javaslat a BM adatkezelésben lévő közhiteles központi nyilvántartások adatkezelőihez telepíti.
+
+A (3) bekezdés felsorolja a naplóbejegyzés javasolt adatköreit és az adatkezelés tárgyát képező személyes adatok típusát (név, azonosító). Az adatkezelési műveletek jogszerűségének ellenőrizhetősége megköveteli, hogy az adatkezelési műveletek beazonosíthatóak legyenek, megállapítható legyen, pontosan mely személyes adatokkal végezték a műveletet. Ennek érdekében szükséges, hogy a naplóbejegyzés tartalmazza az adatkezelési művelettel érintett konkrét személyes adatokat.
+
+A (4) bekezdés meghatározza a naplózással összefüggő adatkezelés feltételeit.
+
+Az (5) és (6) bekezdés szól a naplóbejegyzések megismerésére jogosultak köréről, a megismerhetőség feltételeiről.
+
+A (7) és (8) bekezdés a további rendelkezésekkel együtt biztosítja a jogszerű és tisztességes adatkezelés biztosításához szükséges intézkedéseket.
+
+A (9) bekezdés határozza meg az adattárolás időtartamát és írja elő a megőrzési idő letelte után fennálló törlési kötelezettséget, meghatározva a kivételeket.
+
+A 41. §-hoz
+
+A javaslat biztosítja, hogy az útlevél nyilvántartásban szereplő állampolgársági és lakcímadatok - egyéb törvény felhatalmazása alapján - biztosíthatóak legyenek.
+
+A 41. §-hoz
+
+Az (1) bekezdéshez: A járműnyilvántartás fogalmának pontosítása szükséges, továbbá az állami vagyonkezelő és a lízing olyan speciális jogviszony, amely a járműtulajdonostól és az üzembentartótól való megkülönböztetést szükségessé teszi, ezért kell külön nevesíteni őket.
+
+A (2) bekezdéshez: A gyakorlatban előforduló adatigénylésekre tekintettel szükséges pontosítani a csoportos adatszolgáltatás fogalmát.
+
+A (3) bekezdéshez: Szükséges meghatározni a származás-ellenőrzési nyilvántartás fogalmát, tekintettel arra, hogy a közúti közlekedési nyilvántartás külön résznyilvántartásaként kerül nevesítésre.
+
+Szükséges meghatározni az előzetes eredetiségvizsgálati nyilvántartás fogalmát, tekintettel arra, hogy a közúti közlekedési nyilvántartás külön résznyilvántartásaként kerül nevesítésre.
+
+A (4) bekezdéshez: Pontosítani szükséges továbbá a történeti állomány fogalmát, mivel a jövőben nem csupán a járműnyilvántartás, hanem az ideiglenes rendszámtáblák nyilvántartása vonatkozásában is a történeti adatait tartalmazni fogja.
+
+Az (5) bekezdéshez: Tekintettel arra, hogy a járműnyilvántartás tartalmazni fogja az olyan speciális jogviszonyokat is, mint állami vagyonkezelői vagyonkezelési jogviszony, illetve lízing, szükséges meghatározni azok fogalmát.
+
+A 42. §-hoz
+
+A NAVASZ projekt keretében kialakításra kerül az adatkezelési műveleteket naplózó rendszer, így ennek nyilvántartására felhatalmazást szükséges adni a Nyilvántartónak.
+
+A 43. §-hoz
+
+A személyazonosság ellenőrzésének az Nytv.-ben szereplő jogalapjához kapcsolódóan szükséges a törvényi szintű rendelkezés beiktatása a Kknyt.-be.
+
+A 44. §-hoz
+
+Az (1) bekezdéshez: Tekintettel arra, hogy egy jármű magyarországi forgalomba helyezése a járműnyilvántartásba vétellel valósul meg, ezért az azt megelőző származás-ellenőrzési eljárás során keletkezett adatok kezelése fogalmilag kizárt a járműnyilvántartásban, figyelemmel arra is, hogy a származás-ellenőrzésen átesett járművek nem mindegyike kerül Magyarországon forgalomba helyezésre. Mindezekre tekintettel indokolt a származás-ellenőrzési nyilvántartást a közúti közlekedési nyilvántartás külön résznyilvántartásaként nevesíteni.
+
+A (2) bekezdéshez: Tekintettel arra, hogy egy jármű magyarországi forgalomba helyezése a járműnyilvántartásba vétellel valósul meg, ezért az azt megelőző előzetes eredetiségvizsgálati eljárás során keletkezett adatok kezelése fogalmilag kizárt a járműnyilvántartásban, figyelemmel arra is, hogy az előzetes eredetiségvizsgálaton átesett járművek nem mindegyike kerül Magyarországon forgalomba helyezésre. A már forgalomba helyezett járművek néhány kivétellel mind részt vesznek egy önálló eljárást képező előzetes eredetiségvizsgálaton, amely vizsgálaton tett megállapításokat a jármű szemszögéből kronológiában szükséges megőrizni. Erre tekintettel indokolt az előzetes eredetiségvizsgálati nyilvántartást a közúti közlekedési nyilvántartás külön résznyilvántartásaként nevesíteni, úgy, hogy a járműnyilvántartással való szerves kapcsolata is definiálásra kerül.
+
+A 45. §-hoz
+
+Az (1) bekezdéshez: Az állami vagyonkezelői jogviszony, illetve a lízing olyan speciális jogviszony, amely a járműtulajdonostól és az üzembentartótól való megkülönböztetést szükségessé teszi a nyilvántartásba vétel során, ezért szükséges a nyilvántartás adattartalmának meghatározásakor e speciális jogviszonyokkal kiegészíteni.
+
+A (2) bekezdéshez: A járműnyilvántartás adatai a 9. § (1) bekezdés a)-d) pontjaiban meghatározott adatok tekintetében a személyi adat- és lakcímnyilvántartás, valamint a cégnyilvántartás megküldi friss adatokat a járműnyilvántartásnak. A járműokmányok cseréjére viszont csak közlekedési igazgatási eljárás alkalmával kerülhet sor.
+
+A (3) bekezdéshez: A járműnyilvántartásra vonatkozó rendelkezések alapján a járműnyilvántartás jelenleg is tartalmazza a jármű forgalomban tarthatóságára vonatkozó adatokat. Ezen adatok közül a két legfontosabb a jármű műszaki érvényességének ideje, valamint a kötelező gépjármű-felelősségbiztosításának megléte. Tekintettel arra, hogy a törvény a műszaki érvényességi időt külön nevesített adattartalomként megnevezi, továbbá az újonnan bevezetett ajánlati azonosító a biztosítási fedezetet igazolni fogja, szükségessé vált a kötelező gépjárműfelelősségbiztosítás legfontosabb adatainak a járműnyilvántartás adattartalmaként történő konkrét nevesítése.
+
+A 46. §-hoz
+
+Tekintettel arra, hogy a származás-ellenőrzési nyilvántartás és az előzetes eredetiségvizsgálati nyilvántartás a közúti közlekedési nyilvántartás külön résznyilvántartásaként kerül nevesítésre, szükséges meghatározni azok adattartalmát.
+
+A 47. §-hoz
+
+A járműnyilvántartáshoz hasonlóan szükséges a kötelező gépjármű-felelősségbiztosítás legfontosabb adatainak az ideiglenes rendszámtáblák nyilvántartása adattartalmaként történő konkrét nevesítése.
+
+A 48. §-hoz
+
+Az (1) bekezdéshez: A kötvénynyilvántartó szervvel fennálló adatkapcsolat szükségessé teszi a cégnyilvántartás adatkezelőjét a közúti közlekedési nyilvántartás adatforrásaként nevesíteni.
+
+A (2) bekezdéshez: A közlekedési igazgatási ügyekben az ügyfélkapuval rendelkező ügyfelekkel történő elektronikus kapcsolattartás érdekében szükséges rendelkezés.
+
+A 49. §-hoz
+
+Egy hiányzó rendelkezést pótol, amikor a tulajdonjog változás esetén a hagyatékátadó végzés közjegyző általi megküldését írja elő. Az előírás hiánya miatt egyes közjegyzők nem értesítik a közlekedési igazgatási hatóságokat a tulajdonjog változásról, így az átírás elmulasztása nem jut a hatóság tudomására.
+
+A 50. §-hoz
+
+A Kknyt.-ben eddig nem volt kifejezett rendelkezés arra, hogy a három személyazonosításra alkalmas okmánnyal önmagát igazoló ügyfél személyazonosságának ellenőrzéséhez az érintett szakrendszerekben az okmány érvényességét és adattartalmát ellenőrizni lehessen. Ezen felül a cégnyilvántartásból, valamint a központi idegenrendészeti nyilvántartásból történő adatok átvételének a jogalapja kerül megteremtésre. Mindezek a rendelkezések azt a célt szolgálják, hogy az ügyintéző közvetlenül a szakrendszer útján, ott megjelenítve el tudja végezni a személyazonosság és képviseleti jogosultság ellenőrzését.
+
+Az 51. §-hoz
+
+Az (1) bekezdéshez: Az adatkezelési időtartamokat szükséges volt felülvizsgálni és pontosítani.
+
+A (2) bekezdéshez: Szükséges meghatározni a Központi Ügyfél-regisztrációs Nyilvántartástól (KÜNY) kapott elektronikus tárhellyel kapcsolatos adatok kezelésének időtartamát.
+
+Az 52. §-hoz
+
+Biztosítja a nyilvántartásból történő adatigénylés lehetőségét a Központi Statisztikai Hivatal számára.
+
+Az 53. §-hoz
+
+A kötvénynyilvántartásnak a járműnyilvántartással és az ideiglenes rendszámtáblák nyilvántartásával való adatkapcsolatának megalapozása és a változáskövetés miatt szükséges módosítás.
+
+Az 54. §-hoz
+
+Jelenleg csak a nyilvántartónak van lehetősége a Vezetői Engedélyek Európai Uniós Hálózata (RESPER) rendszeren keresztül ellenőrizni a más EGT-állam hatósága által kiállított vezetői engedély adatait, amelyre az igény azonban nem közvetlenül a nyilvántartónál, hanem a közlekedési igazgatási hatóságnál merül fel, amely megkeresést küld a nyilvántartó számára. A NAVASZ projekt keretében kifejlesztésre kerül annak a lehetősége, hogy a közlekedési igazgatási hatóság elektronikus úton, közvetlenül tudja elvégezni az említett adatellenőrzést, ami mind a nyilvántartó, mind a közlekedési igazgatási hatóság oldalán az adminisztratív terhek csökkenését eredményezi, valamint emellett gyorsabbá és egyszerűbbé is válik az eljárás.
+
+Az 55-56. §-hoz
+
+A javasolt szabályozás (1) és (2) bekezdése meghatározza a naplózással kapcsolatos adatkezelés célját és definiálja a napló és naplóbejegyzés tartalmát. A naplózással kapcsolatos adatkezelési feladatokat a javaslat a BM adatkezelésben lévő közhiteles központi nyilvántartások adatkezelőihez telepíti.
+
+A (3) bekezdés felsorolja a naplóbejegyzés javasolt adatköreit és az adatkezelés tárgyát képező személyes adatok típusát (név, azonosító). Az adatkezelési műveletek jogszerűségének ellenőrizhetősége megköveteli, hogy az adatkezelési műveletek beazonosíthatóak legyenek, megállapítható legyen, pontosan mely személyes adatokkal végezték a műveletet. Ennek érdekében szükséges, hogy a naplóbejegyzés tartalmazza az adatkezelési művelettel érintett konkrét személyes adatokat.
+
+A (4) bekezdés meghatározza a naplózással összefüggő adatkezelés feltételeit.
+
+Az (5) és (6) bekezdés szól a naplóbejegyzések megismerésére jogosultak köréről, a megismerhetőség feltételeiről.
+
+A (7) és (8) bekezdés a további rendelkezésekkel együtt biztosítja a jogszerű és tisztességes adatkezelés biztosításához szükséges intézkedéseket.
+
+A (9) bekezdés határozza meg az adattárolás időtartamát és írja elő a megőrzési idő letelte után fennálló törlési kötelezettséget, meghatározva a kivételeket.
+
+A 57. §-hoz
+
+Az adatkezelési időtartamok felülvizsgálatára és pontosítására tekintettel szükséges rendelkezni arról, hogy azok a módosítást megelőzően érkezett iratok tekintetében is alkalmazandóak.
+
+Az 58. §-hoz
+
+A 1. ponthoz: A jogi személyiség nélküli szervezetek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatályba lépésével megszűntek, ezért szükséges a szöveg pontosítása.
+
+A 2. ponthoz: A jármű szolgáltatási platform létrehozásának jogalkotói célja a magyar állampolgárok használt autó vásárlásának támogatása volt. Ez a cél az ügyfélkapuval rendelkező ügyfelek egyedi lekérdezéseinek kiszolgálásával megvalósul, nem cél azonban más szolgáltatóknak a platform által összegyűjtött adatok tömeges lekérdezésének lehetővé tétele, ezért szükséges a fenti szövegpontosítás.
+
+A 3. ponthoz: A közúti közlekedési nyilvántartás résznyilvántartásait felsoroló szakasz nyitó mondatának pontosítása.
+
+A 4. ponthoz: A jogi személyiség nélküli szervezetek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatályba lépésével megszűntek, ezért szükséges a szöveg pontosítása.
+
+A 5. ponthoz: Tekintettel arra, hogy a járműnyilvántartás tartalmazni fogja az olyan speciális jogviszonyokat is, mint az állami vagyonkezelői vagyonkezelési jogviszony és a lízing, szükséges e szerepköröket beépíteni a rendelkezésbe.
+
+A 6. ponthoz: A jogi személyiség nélküli szervezetek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatályba lépésével megszűntek, ezért szükséges a szöveg pontosítása.
+
+A 7. ponthoz: Szövegpontosítás a cégnévre vonatkozóan nyilvántartott adatok tekintetében.
+
+A 8. ponthoz: A cégnyilvántartással való adatkapcsolat kiépítése lehetővé teszi a hatályos cím és elérhetőségi adatok nyilvántartásba vételét, ezt szolgálja a járműnyilvántartás adattartalmának ezen adatokkal való kiegészítése.
+
+A 9. ponthoz: Tekintettel arra, hogy a díjmentes úthasználati nyilvántartásba nem csak magyar, hanem külföldi forgalmi rendszámú járművek is rögzítésre kerülhetnek, szükséges a szöveg pontosítása.
+
+A 10. ponthoz: Az ideiglenes rendszámtáblák nyilvántartása tekintetében szükséges kimondani, hogy az új (4a) bekezdésben foglalt adatok is közhitelesek.
+
+A 11. ponthoz: Belső hivatkozás javítása.
+
+A 12. ponthoz: A nyilvántartás alapján a személyek hitelt érdemlő azonosítása akkor lehetséges, ha nem csak a személyiadat- és lakcímnyilvántartásban tárolt adatok változásáról és az elhalálozásról, hanem a személyiadat- és lakcímnyilvántartás hatálya alól való kikerülésről is értesül a nyilvántartó, ezért szükséges a szöveg pontosítása.
+
+A 13. ponthoz: Az automatikus okmánykiállítási eljárások zökkenőmentes lefolytatása érdekében szükséges kimondani a haladéktalanul történő adattovábbítási kötelezettséget.
+
+A 14-16. ponthoz: A szövegpontosítás az adatkezelési időtartamok egységesítése érdekében szükséges.
+
+A 17. ponthoz: A módosítás a biztosítók részére megteremti a lehetőséget, hogy a járműnyilvántartási adatokat célhoz kötötten, térítésmentesen ellenőrizzék.
+
+A 18-21. ponthoz: A Kknyt. 9. § (3) bekezdésének hatályon kívül helyezése miatti szövegpontosítás.
+
+A 22. ponthoz: A térítésmentes adatátadáshoz szükséges módosítás.
+
+A 23. ponthoz: A 9/A. és a 9/B. § módosításából adódó pontosítás.
+
+A 24. ponthoz: Szövegpontosítás a pályaalkalmassági adatok vonatkozásában.
+
+A 25. ponthoz: Szövegpontosítás annak érdekében, hogy a Kknyt. 19. § (2) bekezdés d) pontjában foglalt adatigénylés esetén ne csak a nyilvántartás adataira, hanem az iratokra vonatkozóan is legyen lehetőség adatszolgáltatást igényelni. Erre vonatkozóan valós igény merült fel pl. a Nemzeti Szakértői és Kutató Központ részéről, hiszen az igazságügyi írásszakértői feladatok ellátásához szükség lehet az eredeti okmánytári alapiratokon szereplő aláírás vizsgálatára.
+
+A 26. ponthoz: A jogi személyiség nélküli szervezetek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatályba lépésével megszűntek, ezért szükséges a szöveg pontosítása.
+
+A 27. ponthoz: A lakcímre, székhelyre, telephelyre/fióktelepre vonatkozó adatok frissítése érdekében szükséges szövegpontosítás.
+
+A 28. ponthoz: Az ideiglenes rendszámtáblák nyilvántartásában szereplő adatokkal való egyezés szükségessége beemelésre kerül a rendelkezésbe, továbbá kiegészítésre kerül az állami vagyonkezelővel és a lízingbevevővel.
+
+A 29. ponthoz: A módosítás a jármű szolgáltatási platform által nyújtott szolgáltatás bővítését szolgálja, amelynek eredményeként a jármű futásteljesítménye kalkulálható az ismert korábbi forgalomból kivonási adatokkal.
+
+A 30. ponthoz: Szövegpontosítás.
+
+A 31. ponthoz: A jogi személyiség nélküli szervezetek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatályba lépésével megszűntek, ezért szükséges a szöveg pontosítása.
+
+Az 59. §-hoz
+
+Az a) ponthoz: Az E-ügyintézési tv.-be bekerülő, KIOSZK-ra vonatkozó rendelkezésekre tekintettel feleslegessé vált rendelkezés.
+
+A b) ponthoz: A jármű átírását követően (a tulajdonszerző bejelentse) is tartalmazza a járműnyilvántartás a tulajdonjog átruházója által tett, az eladásra vonatkozó adatokat, ezért a rendelkezés pontosítása szükséges „- a tulajdonszerző bejelentéséig -” szövegrész hatályon kívül helyezésével.
+
+A c) ponthoz: Tekintettel arra, hogy a származás-ellenőrzési nyilvántartás a közúti közlekedési nyilvántartás külön résznyilvántartásaként kerül nevesítésre, az adattartalom meghatározására önálló szakaszban kerül sor.
+
+A d) ponthoz: Tekintettel arra, hogy az előzetes eredetiségvizsgálati nyilvántartás a közúti közlekedési nyilvántartás külön résznyilvántartásaként kerül nevesítésre, az adattartalom meghatározására önálló szakaszban kerül sor.
+
+Az e) ponthoz: A rendelkezést teljes egészében tartalmazza a Kknyt. 9. § (1a) bekezdése.
+
+Az f) ponthoz: Az díjmentes úthasználati nyilvántartás céljával nem egyeztethető össze a járműazonosító és műszaki adatok nyilvántartása.
+
+A g) ponthoz: Az adatkezelési idő számításának egyszerűsítése miatt szükséges módosítás.
+
+Az h) ponthoz: A rendelkezést a Kknyt. 15. § (1) bekezdésének d) pontja már teljes egészében tartalmazza.
+
+A i) ponthoz: Az adatszolgáltatás korlátozására nincs lehetőség, csak a tiltására.
+
+A j) ponthoz: Az adatszolgáltatás korlátozására nincs lehetőség, csak a tiltására.
+
+Az k) ponthoz: Az adatszolgáltatás korlátozására nincs lehetőség, csak a tiltására.
+
+Az l) ponthoz: A kérelem formátumának meghatározása felesleges.
+
+Az m) ponthoz: A Kknyt. 24. § (3a) bekezdés a) pont aa)-ae) alpontjai ugyanazt a lehetőséget biztosítják a Jármű Szolgáltatási Platformon, mint a 25. § (2) bekezdése, ráadásul a 24. § (3a) bekezdésében foglalt adatszolgáltatás még díjmentes is, ezért a 25. § (2) bekezdésének megtartása indokolatlan.
+
+Az n) ponthoz: A cégnyilvántartással való adatkapcsolat megteremti a lehetőségét annak, hogy a cégnyilvántartásba bejegyzett aktuális székhely, amennyiben van telephely, fióktelep címét - a lakcím adathoz hasonlóan - ne kelljen bejelenteni a közlekedési igazgatási hatóságnál.
+
+A 60. §-hoz
+
+A módosítás a Kpt. alapján a Nyilvántartó által a járművezető részére küldendő értesítések küldése során az elektronikus kapcsolattartás lehetőségének megteremtését szolgálja.
+
+A 61. §-hoz
+
+A gyakorlatban a jogalkalmazás és a jogértelmezés során nehézséget okoz és vitákat generál az az eset, amikor a 18 pontos összpontszámból valamely pontérték elévülésének dátuma a határozat meghozatala és véglegessé válása közötti időszakra esik. A vezetői engedély visszavonása és a vezetési jogosultság szünetelése azonban teljesen megalapozott, amennyiben bekövetkezik az a körülmény, hogy a járművezetőnek egyszerre 18 vagy annál több pontja van, ezért szükséges kikötni azt, hogy a 18 pont elérését vagy meghaladását követően, már nem lehet a 18 pontba beletartozó pontállományban szereplő pontérték elévülésére hivatkozni, mivel a 18 pontos pontösszesítés már megtörtént.
+
+A 62. §-hoz
+
+Az saját adatokról történő díjmentes tájékoztatási kötelezettségre vonatkozó előírására tekintettel, szükséges a törvényben kimondani, hogy a járművezető a saját pontjainak számáról ingyenesen kérhet tájékoztatást, mennyiségi korlátozás nélkül, tehát nem csak évi egy alkalommal.
+
+A 63. §-hoz
+
+Átmenti rendelkezés a visszamenőleges hatás elkerülése érdekében.
+
+A 64. §-hoz
+
+A joggyakorlatban a pontok elévülési idejének nevezett időtartamot célszerű a jogszabályban is így megnevezni.
+
+A 65. §-hoz
+
+A 18 pont elérése miatti vezetői engedély visszavonás esetére a Kpt. 7. § (2) bekezdése előírja, hogy a határozat véglegessé válásakor nyilvántartott pontokat a közlekedési igazgatási hatóságnak törölnie kell. 18 pont elérése miatt elrendelt vezetői engedély visszavonás esetén a vezetői engedélyt a járművezető csak utánképzés elvégzését követően kaphatja vissza. Az utánképzés megkezdése előtt feltárják, hogy milyen cselekményeket követett el a járművezető, amely az utánképzésre kötelezésének alapját képezi. 18 pont elérése miatti visszavonáskor az utánképzés alapját értelemszerűen azok a cselekmények, szabályszegések képezik, amelyek miatt a járművezető pontot kapott. Más egyéb okból - tehát nem 18 pont elérése miatt - elrendelt utánképzés esetén azonban a járművezető közúti közlekedési előéleti pontjai nem relevánsak az utánképzés szempontjából, hiszen az utánképzés alapját ekkor az a cselekmény képezi, amellyel összefüggésben az utánképzést elrendelték.
+
+Ha a pontokat is törölni szeretnénk ez alapján, akkor az lenne a logikus, hogy pontszerzés alapját képező cselekmények is feltátásra kerüljenek az utánképzés előtt, és azok is figyelembe vételre kerüljenek az utánképzés tatalmának megállapításakor, ez azonban a gyakorlatban nem így történik, és nem is lenne indokolt ezt kötelezően rákényszeríteni az ügyfélre, mert ettől drágábbá és akár időigényesebbé is válhat az utánképzés, és pontszám csökkentése érdekében az ügyfélnek lehetősége van saját döntése alapján önkéntes utánképzésen részt venni. Ekkor nem az állam kényszerít plusz anyagi terhet az ügyfélre a pontok törlése miatt, hanem az ügyfél maga dönthet arról, hogy azt szeretné-e vagy sem.
+
+A 66. §-hoz
+
+A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvényben hatályon kívül helyezésre kerül az az eljárás, melynek keretében automatikus döntéshozatali eljárás során a magánnyomozói tevékenység folytatására jogosult az adatairól, kérelmére hatósági bizonyítvány kiadására kerülne sor.
+
+Az eljárás lehetőségével az ügyfelek nem éltek, az elmúlt két évben egy magánnyomozói tevékenység folytatására jogosult ügyfél sem nyújtott be ilyen irányú kérelmet.
+
+Tekintettel arra, hogy a hatósági bizonyítványból sem jog, sem kötelezettség nem származhat, és az ügyfél jogosultságát vagy kötelezettségét nem a hatósági bizonyítvány teremti meg, azt nem konstituálja, a deregulációval az ügyfelet semmilyen hátrány nem éri.
+
+A 67-68. §-hoz
+
+Tekintettel arra, hogy e törvény hatálya alá tartozó személyek is a közlekedési igazgatási hatóságok ügyfelei közé tartoznak, az SZL-hez hasonlóan indokolt az ezen személyek azonosító adatait közhitelesen tartalmazó ISZL szakrendszerrel való kapcsolat kialakítása is. A kapcsolat jogalapja nem áll rendelkezésre, megvalósításához jogszabály-módosítás szükséges.
+
+A 69. §-hoz
+
+Az E-ügyintézési tv.-be bekerülő, a KIOSZK-ra vonatkozó rendelkezésekre tekintettel feleslegessé vált rendelkezés.
+
+A 70-76. §-hoz
+
+A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása két okból indokolt:
+
+1.) A KAK SW projekt során megújításra kerül a kötelező gépjármű-felelősségbiztosítás nyilvántartás. A kötelező gépjárműfelelősség-biztosítás kötvénynyilvántartás szakrendszerének informatikai megújítása mellett, a kötvénynyilvántartás és a járműnyilvántartás adatkapcsolatai is felülvizsgálatra kerülnek. A módosítások alapján a járműnyilvántartás szakrendszere automatikus informatikai adatkapcsolat útján meggyőződhetne a biztosítás megkötéséről, így azt az ügyfélnek az eljárás során nem kellene a jövőben igazolnia.
+
+A kötvénynyilvántartásnak a járműnyilvántartással és az ideiglenes rendszámtáblák nyilvántartásával való adatkapcsolatának megalapozása és a változáskövetés kialakítása miatt a gépjármű forgalomba helyezésekor jelenleg papír alapon becsatolni előírt, a kötelező gépjármű-felelősségbiztosításra vonatkozó irat helyett a hatóság elektronikus adatkapcsolat útján fér hozzá a szükséges információhoz.
+
+Cél továbbá mind a - biztosítási fedezet hiányai miatti - forgalomból kivonás, mind az ismételt forgalomba helyezés esetén annak biztosítása, hogy elektronikus adatkapcsolat útján lekérdezhető legyen a fedezet megléte.
+
+2.) A NAVASZ projekt keretében kialakításra kerül az adatkezelési műveleteket naplózó rendszer, így ennek nyilvántartására felhatalmazást szükséges adni a kötvénynyilvántartó szervnek.
+
+A kötelező gépjárműfelelősség-biztosítás kötvénynyilvántartás szakrendszerének informatikai megújítása mellett szükséges szabályozni a kötvénynyilvántartáshoz közvetlen hozzáféréssel rendelkező személyek központi jogosultságkezelésének részletszabályait.
+
+A 77-80. §-hoz
+
+A népmozgalmi adatok esetében a személyazonosító adatokat a Központi Statisztikai Hivatal azok feldolgozását és a számára a betegségregiszterek felé előírt adattovábbítás teljesítését követően nyolc napon belül törli. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény, valamint a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) módosítása pontosítja a Stt. 30. §-át, valamint a törlésre vonatkozó rendelkezések összhangját teremti meg.
+
+Az anyakönyvi eljárásról szóló 2010. évi I. törvény 80. §-ának kiegészítése egyértelművé teszi, hogy a KSH számára felvett és továbbított adatok vonatkozásában az anyakönyvvezetőknek törlési kötelezettsége van.
+
+A 81. §-hoz
+
+Az Alkotmánybíróság (a továbbiakban: AB) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 172. §-a, 121. §-a és 122. §-a, valamint a Fővárosi Törvényszék 32.Szef.66/2017/2. számú végzése elleni alkotmányjogi panasz (tiltott prostitúció szabálysértés, fiatalkorú) tárgyában hozott, IV/412/2018. számú határozatának 1. pontjában - hivatalból eljárva - megállapította, hogy az Országgyűlés mulasztásban megnyilvánuló alaptörvény-ellenességet idézett elő azáltal, hogy a Szabs. tv. 121-122. §-ai szerinti szabályozás nem áll összhangban az Alaptörvény XXVIII. cikk (7) bekezdésben rögzített jogorvoslathoz való jog alkotmányos elvárásaival. Az AB ezért felhívta az Országgyűlést, hogy jogalkotói feladatának 2020. december 31. napjáig tegyen eleget.
+
+A javaslat - az AB döntésnek megfelelően - biztosítja, hogy a tárgyaláson kihirdetés útján közölt bírósági döntés indokait - ha valamennyi fellebbezésre jogosult jelenléte és egyező nyilatkozata hiányában nem emelkedik jogerőre a végzés - megfelelő részletességgel ismerhesse meg a fellebbezésre jogosult és lehetősége legyen arra érdemben nyilatkozni.
+
+A Szabs. tv. - fő szabály szerint - nem tesz különbséget a kihirdetés és a kézbesítés útján közölt bírósági végzés tartalmai elemei között, az rendelkező részből és indokolásból áll. Az ügydöntő végzés indokolása - ha a Szabs. tv. másképp nem rendelkezik - tartalmazza a tényállást, a bizonyítékok értékelését, a végzés rendelkezéseinek indokait és megjelöli a végzés alapjául szolgáló jogszabályokat.
+
+A javaslat fentiek figyelembevételével az AB által is kiemelt Alaptörvényben rögzített jogorvoslathoz való jog alkotmányos elvárásra tekintettel
+
+- előírja a bíróságnak - a jogorvoslati jogról történő lemondás esetét kivéve - a tárgyaláson kihirdetett határozatának 3 munkanapon belüli írásba foglalásának kötelezettségét,
+
+- biztosítja az írásba foglalt határozat megismerésének lehetőségét (tájékoztatás adása az írásba foglalásról), valamint annak kézbesítését,
+
+- annak alapján a fellebbezésnek - a fellebbezési határidőben történő - kiegészíthetőségének, módosításának lehetőségét, azzal, hogy
+
+- a tárgyaláson kihirdetett végzéshez kapcsolódó joghatás továbbra is megmarad, tehát az írásba foglalt határozat megismerésével, továbbá kézbesítésével a fellebbezési határidő nem indul újra.
+
+A módosítás pótolja az AB határozatában a hatékony jogorvoslattal összefüggésben jelzett hiátust azzal, hogy ugyanakkor megmarad a szabálysértési eljárás gyors lefolytatásával szembeni általános elvárás. A fellebbezésre jogosult ugyanis már a tárgyaláson kihirdetett végzés alapján dönthet a jogorvoslati jogának gyakorlásáról, hiszen az esetek túlnyomó részében a döntés lényegére, vagyis, hogy a szabálysértési felelősség megállapítását elfogadja-e, nyilatkozni tud. Azon fellebbezésre jogosult, aki a tárgyaláson kihirdetett végzés alapján a jogorvoslati jog gyakorlásáról még nem tud, vagy nem akar állást foglalni, vagy a fellebbezés bejelentésében biztos ugyan, de akinek a fellebbezés oka, célja és indoka kifejtésére az írásban indokolt végzésben foglaltakat teljes ismerete szükséges, erre a módosítás folytán a lehetősége a legszélesebb körben adott lesz, hiszen az írásba foglalt végzést az ügyfélfogadási időben megtekintheti és azt át is veheti. Ügyfélérdeket figyelembevevő, egyben többlet garanciát nyújtó rendelkezés annak előírása, mely biztosítja, hogy az eljárás alá vont személy, az írásba foglalt végzést elektronikus úton kapja meg, feltéve, hogy azt elektronikus levelezési cím megadásával indítványozza. Az írásba foglalt végzés megismerésével a fellebbezésre jogosult abba az AB által előírt, a hatékony jogorvoslat gyakorlásának megfelelő helyzetbe kerül, hogy a végzés tartalmát, a döntés indokait nyugodt körülmények között megismerheti és azokhoz igazodóan a fellebbezésben minden lényeges, általa vitatott körülményre ki tud térni.
+
+A szabályozással összhangban szükséges a Szabs. tv.-nek a fellebbezés elbírálásra történő felterjesztésre vonatkozó szabályának módosítása is, amely értelmében csak akkor kerülhet sor a fellebbezés felterjesztésére, ha a fellebbezésre nyitva nyolc napos határidő eltelt.
+
+A 82. §-hoz
+
+A méltányossági kérelmek benyújtását a szabálysértési törvény - a pénzbírság büntetés kivételével - az elkövető számára nem megismerhető, a jogerősen kiszabott büntetések és alkalmazott egyes intézkedések szabálysértési hatóság (bíróság) által kezdeményezett végrehajtás megkezdésének időpontjához kötötte.
+
+A módosítás a méltányossági kérelem benyújthatósága időtartamának egyértelmű beazonosíthatósága érdekében a szabálysértési hatóság vagy bíróság határozatának illetve végzésének jogerőre emelkedésétől számított 30 napig teszi lehetővé a méltányossági kérelem benyújtását, a szabálysértési törvényben meghatározott büntetések és egyes intézkedések mérséklése vagy elengedése érdekében.
+
+A 83. §-hoz
+
+Jogszabályi koherencia miatt szükséges pontosítás.
+
+A 84. §-hoz
+
+A rendelkezés biztosítja, hogy az Országgyűlés Hivatala kapcsolattartás és megemlékezés szervezése céljából jogosult legyen kérni az érvényes, valamint a korábban érvényes mandátummal rendelkező országgyűlési képviselő egyes adatait.
+
+A 85. §-hoz
+
+Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerint a hatósági eljárás során a polgárnak cselekvőképesnek kell lennie. A személyiadat- és lakcímnyilvántartás szervei nyilvántartással összefüggő hatósági ügyben a gondnokoltak nyilvántartásában elektronikusan ellenőrizhetik a polgár cselekvőképességét, ezzel is biztosítva az eljárás jogszabályszerűségét.
+
+A 86-99. §-hoz
+
+Az E-ügyintézési tv. módosítása az alábbi koncepcionális okokból indokolt:
+
+1.) A tervezet átmeneti jelleggel önállóan biztosítja annak lehetőségét, hogy az ügyfelek az ügyfélkapu regisztrációjukat videókapcsolat keretében hozzák létre. Figyelemmel arra, hogy az E-ügyintézési tv. 2021. február 1-jével általános jelleggel létrehozza a videotechnológiával történő azonosítás módszerét, amellyel az ügyfél ügyfélkaput is nyithat, eme önálló regisztrációs módszerre nincs szükség.
+
+2.) A veszélyhelyzet során az elektronikus azonosítási feltételekkel, a végrehajtással és a médiaszolgáltatási díjjal kapcsolatos egyes jogszabályok eltérő alkalmazásáról szóló 132/2020. (IV. 17.) Korm. rendelet a bizalmi szolgáltatások terén lehetőséget biztosított az E-ügyintézési tv.-ben foglalt szabályoktól eltérő azonosítási módszerek alkalmazására. A rendelet értelmében a tanúsítványok hat hónapig érvényesek.
+
+A tervezet lehetőséget biztosít arra, hogy - a veszélyhelyzetre vonatkozó Korm. rendelet pozitív tapasztalatai alapján - a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszereket a Kormány rendeletben határozza meg. Az eIDAS rendelet értelmében ezen módszerek megfelelőségét tanúsítani szükséges.
+
+3.) Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény által a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvénybe (a továbbiakban: Nytv.) beiktatott 34. § (6)-(10) bekezdése definiálja az elektronikus ügyintézési pont („KIOSZK”) fogalmát és alapvető működését.
+
+A KIOSZK - működését tekintve - átmenetet képez az elektronikus ügyintézés és a személyes ügyintézés között, egyfajta „hibrid” megoldást alkot.
+
+Indokolt a KIOSZK eljárásjogi státusát - hogyan illeszkedik az ügyintézési folyamatba, minek minősül eljárásjogi szempontból - általánosságban rendezni. Ha ez megtörténik, az ügykörök bővítése csupán szabályozást nem igénylő technikai kérdés.
+
+4.) A naprakész és pontos adatok szolgáltatása útján a hivatalos statisztikának kiemelt szerepe van abban, hogy a döntéshozók megfelelő és hiteles forrásból tudjanak tájékozódni a gazdaság és a társadalom aktuális jelenségeiről.
+
+A KSH a lakossági adatgyűjtéseit és egyéb érintett adatfelvételei esetében a hagyományos, jellemzően postai levélben történő felkéréssel, összeíró általi személyes kikérdezéssel az adatszolgáltató személy lakcímén történő végrehajtása helyett egyéb alternatív módokat kíván alkalmazni, annak érdekében, hogy gyorsan, hatékonyan és lehetőség szerint személyes felkeresés nélkül tudjon kapcsolatba lépni az adatszolgáltató természetes személyekkel. Ilyen alternatívát jelent a természetes személyek telefonos megkeresése és a kérdőívek ilyen módon történő lekérdezése, melyhez a kijelölt személyek telefonos elérhetősége szükséges. Ezek az adatok a Rendelkezési Nyilvántartásban (RNY) elérhetőek, ezek felhasználásával megoldható lenne a telefonos vagy email-ben történő kapcsolatfelvétel az adatszolgáltatóval.
+
+Az adatszolgáltatói adatbázisban technikai azonosító segítségével a személyazonosító és az elérhetőségi adatok kezelése elkülönített módon történik, és ezek csak az adott statisztikai adatfelvétel céljára kerülnek időlegesen összerendelésre. Az adatgyűjtés megtörténtét és az adatok teljességének ellenőrzését követően már nincs arra szükség, hogy ezek az azonosító és elérhetőségi adatok a kitöltött kérdőívvel összekapcsolhatóak legyenek, így azokat a KSH törli, így a kapcsolattartási adatok lekérdezése az RNY-ből mindig egy adott felvétel céljára és annak időtartamára történik.
+
+5.) A módosítás célja továbbá, hogy a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben (a továbbiakban: Pmt.) meghatározott ügyfél-átvilágítási kötelezettségeket az ügyfelek elektronikusan is kezdeményezhessék, erre figyelemmel azt a lehetőséget kívánja biztosítani, hogy a Pmt. szerinti szolgáltatók a Kormány által nyújtott azonosítási szolgáltatásokat igénybevehessék és az ügyfél-azonosítást az online térben valós időben elvégezhessék.
+
+Kiemelendő, hogy az állam által nyújtott elektronikus szolgáltatások közszolgáltatások. Az uniós szabályokra figyelemmel így két féleképpen veheti azokat a piac igénybe: közfeladat céljából közszolgáltatásként, míg ettől eltérően, piaci célokból a közszolgáltatással - korlátozásokkal, de jelentős mértékben - azonos tartalmú központi állami szolgáltatásként.
+
+A javasolt modell egyszerre biztosítja, hogy a Pmt. szerinti szolgáltatók számára ezen szolgáltatások egyes esetekben közszolgáltatásként legyenek elérhetőek (erre figyelemmel kimondásra kerül, hogy az ügyfél-átvilágítás folyamata közfeladat), míg a tervezet rendezi a tisztán piaci jellegű felhasználás esetkörét is.
+
+A javaslat szerinti modell alapján a Pmt. szerinti szolgáltatók az azonosításhoz szükséges közszolgáltatásokat ingyenesen használhatják, ennek keretében az egyes adatokat - kizárólag az elektronikus azonosítást követően - díjmentesen kapják meg.
+
+A javaslat e szabályozást tartalmazó pontjainak tervezett hatálybalépése 2022. január 1. napja azzal, hogy első körben - a technikai felkészültség biztosítása érdekében - első körben a pénzügyi szolgáltatók számára kerül a lehetőség biztosításra, 2023. január 1-jével csatlakozhat a többi Pmt. szerinti szolgáltató.
+
+A javaslat lényege, hogy közszolgáltatásként a Kormány által biztosított elektronikus azonosítási szolgáltatásokon, továbbá a Központi Azonosítási Ügynökön (a továbbiakban: KAÜ) keresztül és a kapcsolódó Összerendelési Nyilvántartás (ÖNY) szolgáltatás, valamint a Központi Kormányzati Szolgáltatási Busz (KKSZB) használatával megfelelő biztonsági szinten, elektronikus módon tudjon megvalósulni az egyes pénzügyi tranzakciók során az ügyfélátvilágítás., csökkentve ezzel a biztonsági kockázatot.
+
+A cél az, hogy a Pmt. szerinti szolgáltatók szabályozott keretek között csatlakozzanak a KAÜ-höz illetve annak az igénybevételéhez szükséges szolgáltatásokhoz (ÖNY, GOV CA által a szolgáltatás használatához biztosított technikai tanúsítványok). Mindezek mellett szükséges kialakítani, hogy a jelenlegi folyamatok mellett biztosítva legyen a KKSZB-hez illetve az azon keresztül elérhető nyilvántartásokhoz történő valós idejű hozzáférés, annak érdekében, hogy ezen szolgáltatásokon keresztül hatékony alternatívát kínáljanak a személyes megjelenés kiváltására az átvilágítási feladatellátás során.
+
+A szolgáltatás igénybevétele opcionális.
+
+A csatlakozás feltétele, hogy a szolgáltatók saját rendszereiket úgy alakítsák ki, hogy az megfeleljen az állami szolgáltatás igénybevételéhez előírt információbiztonsági, adatvédelmi műszaki feltételeknek, valamint kialakítják térítésmentesen és a díjfizetés ellenében történő adatlekérdezések szétválasztására szolgáló felületeket, megfelelve a központi szolgáltatás műszaki leírásának. A szolgáltatás logikai modellje azon alapul, hogy az igénybevevők megfelelő jogalap igazolásával meghatározzák azokat a lekérdezéseket, amelyek a Pmt.-ben foglalt kötelezettségek teljesítéséhez szükségesek.
+
+A KAÜ azonosítás abban az esetben vehető igénybe közszolgáltatásként, ha a Pmt. szerinti szolgáltató a törvény 6. § (1) bekezdése alapján köteles az ügyfél átvilágítására, arra figyelemmel, hogy ez esetben az ügyfél azonosítása közérdekből történik.
+
+Azokban az esetekben, amikor a szolgáltató egyéb, nem Pmt. 6. § (1) bekezdése szerinti ügyfél-átvilágítás hatálya alá tartozó célból igényel ügyfélazonosítást vagy ügyféladatot a központi nyilvántartásokból díjfizetés ellenében teheti meg. Az ügyféladatokhoz való hozzáférés csak a KKSZB szolgáltatás igénybevétele mellett, megfelelő jogalap megléte esetén történhet. A fizetendő díj mértékét minden esetben az adatgazda által meghatározott összegben teljesíti, melynek feltételeit a nyilvántartásra vonatkozó ágazati jogszabályokban kell rögzíteni.
+
+Az igénybevételre azok a szervezetek lesznek jogosultak, amelyek megfelelnek a technikai feltételeknek. Ennek oka, hogy a központi szolgáltató által a szolgáltatás igénybevételéhez szükséges műszaki követelményeknek való megfelelés biztosított legyen - ez az e-ügyintézést biztosító szervezetek felé is alapkövetelmény.
+
+A javaslat mindezek mellett a következőket rendezi:
+
+- egyértelművé teszi, hogy a piaci szereplők számára nem közfeladat céljából a közszolgáltatások helyett az azokkal a Kormány rendelete szerinti tartalmú központi állami szolgáltatások érhetőek el,
+
+- rendezi a külföldi személyek nyilvántartásából történő adatszolgáltatás szabályait, törvényben meghatározott kivételekkel díjazáshoz köti az abból történő adatszolgáltatást,
+
+- a piaci szereplők számára nyújtható szolgáltatások részletszabályaira kormányrendeleti felhatalmazást ad.
+
+6.) Pontosítani szükséges az E-ügyintézési tv. gazdálkodó szervezetre vonatkozó értelmező rendelkezését az egyesület, és az alapítvány tekintetében. A Fővárosi Törvényszék, mint másodfokú bíróság 43.Pkf.640.524/2018/3. számú végzésében kimondta, hogy az egyesület a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 7. § (1) bekezdés 6. pontja alapján kizárólag gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataiban tekinthető gazdálkodó szervezetnek. Ebből kifolyólag az E-ügyintézési tv. 9. § (1) bekezdés a) pont aa) alpontja alapján csak ebben a minőségében - gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataiban - köteles elektronikus ügyintézésre. Az alapítvány szintén a Pp. 7. § (1) bekezdés 6. pontja alapján kizárólag gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataiban tekinthető gazdálkodó szervezetnek. Így esetében is megállapítható a jelenlegi jogszabályi keretek között, hogy az E-ügyintézési tv. 9. § (1) bekezdés a) pont aa) alpontja alapján csak ebben a minőségében köteles elektronikus ügyintézésre. A félreértések elkerülése érdekében tisztázni szükséges, hogy amennyiben az egyesület és az alapítvány adószámmal nem rendelkezik, úgy nem minősül gazdálkodó szervezetnek az E-ügyintézési tv. alkalmazásában, ellenben, ha rendelkezik adószámmal, úgy gazdálkodó szervezetnek minősül valamennyi ügy tekintetében, és elektronikus ügyintézésre köteles.
+
+A 100. §-hoz
+
+Az elektronikus ügyintézés kiszélesítésének céljával összhangban a KSH a jelenlegi csupán postai megkeresés mellett a lakossági adatgyűjtéseivel kapcsolatos felkéréseket, egyéb értesítéseket a jövőben a természetes személy adatszolgáltatók értesítési tárhelyére is kézbesíteni kívánja. Ettől a megoldástól egyrészt a postai értesítésekhez képesti hatékonyság- és minőségjavulást vár, másrészt ez úton is biztosítaná, hogy az értesítések személyes közreműködés nélkül jutnak el adatszolgáltatóinkhoz, mely - kiemelten egy járványhelyzetben - kulcsfontosságú lehet a válaszadásra való ösztönzésben.
+
+Az értesítési tárhelyre való kézbesítés előfeltétele, hogy a KSH rendelkezzen az egyes érintettek tárhely azonosítójával.
+
+A módosítás nyomán a KSH részére hasonlóan a Nemzeti Adó- és Vámhivatalhoz a Központi Ügyfél-regisztrációs Nyilvántartásba regisztráló és regisztrációjukat megszüntető polgárok meghatározott adatai rendszeresen, valamint a teljes állomány egy alkalommal megküldésre kerülne.
+
+A KSH részére a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhely szolgáltatás kijelölt szolgáltatója küldi meg a természetes személy kapcsolati kódját és tárhely azonosítóját.
+
+A módosításban meghatározásra került az adatok kezelésének időtartama is.
+
+A 101. §-hoz
+
+A népmozgalmi adatok esetében a személyazonosító adatokat a Központi Statisztikai Hivatal azok feldolgozását és a számára a betegségregiszterek felé előírt adattovábbítás teljesítését követően nyolc napon belül törli. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény, valamint a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) módosítása pontosítja a Stt. 30. §-át, valamint a törlésre vonatkozó rendelkezések összhangját teremti meg.
+
+Az anyakönyvi eljárásról szóló 2010. évi I. törvény 80. §-ának kiegészítése egyértelművé teszi, hogy a KSH számára felvett és továbbított adatok vonatkozásában az anyakönyvvezetőknek törlési kötelezettsége van.
+
+A 102. §-hoz
+
+Átmeneti rendelkezés.
+
+A 103. §-hoz
+
+A módosítás biztosítja a törvényi felhatalmazást ahhoz, hogy a NAV ne csak az adóazonosító jelet, hanem az adóigazolvány gyártásához szükséges valamennyi adatot - ideértve az adóigazolványon feltüntetendő személyes adatokat - átadhassa az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére. A módosítás továbbá egyértelműen rögzíti, hogy az adóigazolványt a személyazonosító igazolvány megszemélyesítését végző szervezet személyesíti meg.
+
+A 104. §-hoz
+
+A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény (a továbbiakban: Bbtv.) 2. § (5) bekezdésében foglalt rendelkezés eredeti szövege a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján meghatározott valamely nemzeti létfontosságú rendszerelemet vagy európai létfontosságú rendszerelemet közvetlenül érintő tevékenységek bejelentés-köteles tevékenységként történő kijelölését engedte meg az erre felhatalmazott Kormány számára, amely megfogalmazás ugyanakkor nem tette kétséget kizáróan egyértelművé azt, hogy a kijelölés elengedhetetlen feltételét képező, a létfontosságú rendszerelemek körébe való beletartozásnak vajon magának az energetikai, gázipari, víziközmű-szolgáltatási, illetve elektronikus hírközlési tárgyú ellátást nyújtó szolgáltatónak, avagy éppen ellenkezőleg, az ugyanezen szolgáltatásokat fogyasztóként igénybe vevő végfelhasználó(k)nak az oldalán kell-e fennállnia.
+
+Az e körben felmerülő jogértelmezési nehézségeket kiküszöbölni hivatott törvénymódosítás ezzel szemben immár a törvényalkotó eredeti szándékának megfelelő módon, szövegszerűen is egyértelművé teszi, hogy a bejelentésköteles tevékenységként történő kijelölésnek kizárólag a Bbtv. 2. § (4) bekezdés e)-h) pontjában meghatározott tevékenységet folytató szolgáltató létfontosságú rendszerelemként fennálló besorolása képezheti alapját.
+
+A 105. §-hoz
+
+A Bbtv. 9. § (8) bekezdése által eredetileg megállapított időtartam nem biztosított kellően széles mozgásteret a hatóság számára a bejelentési kötelezettség teljesítésével összefüggő mulasztások napvilágra kerülése nyomán szükségessé váló intézkedések megtétele során, a módosuló törvényi szabályozás ezért a korábbi 6 hónapról 18 hónapra emeli az e körben előforduló mulasztások feltárására irányuló hatósági ellenőrzések, illetve a jogsértés megállapítására irányuló eljárás lefolytatásának a releváns tényekről való hatósági tudomásszerzés időpontjától számított elévülési idejét. Az e körben végrehajtott módosítás mindemellett a megfelelő terminológiai pontosításokat is átvezeti az érintett törvényhely szövegén.
+
+A 106. §-hoz
+
+A Bbtv. jelen keretek között végrehajtott revíziójának egyik elsődleges jogpolitikai céljául szolgált a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzésével összefüggő döntési jogosultsággal felruházott állami és hatósági szerveket megillető mérlegelési jogkörök szűkítése, ezáltal pedig a szabályozás kiszámíthatóbbá tétele, amely célkitűzés hathatósabb megvalósítása érdekében a módosuló törvényszöveg a címzetteket terhelő kötelezettségek megsértése nyomán kiszabható bírságösszeg felső határa mellett immár annak a lehetséges legkisebb mértékét is megállapítja.
+
+A 107. §-hoz
+
+Az annak jogforrási természetéből következő közvetlen alkalmazandósága elengedhetetlenné teszi a 2019/452 rendelet gyakorlati végrehajtását biztosítani hivatott jogintézményi háttérnek a tagállami jogrendszerekben történő megteremtését és jogszabályba-iktatását, amely intézményrendszer az e körben alkalmazható intézkedések mibenlétének, valamint a szóbanforgó uniós norma előírásain alapuló hatósági adatkezelés tekintetében - az alapul fekvő alkotmányossági követelményeknek megfelelően - feltétlenül törvényi szintű szabályozást igényel.
+
+Az e körben újonnan megalkotni szükséges tételesjogi rendelkezések önálló alcím keretében kerülnek beépítésre a Bbtv. szövegébe, míg a 2019/452 rendelet szerinti nemzeti kapcsolattartó pont rendeleti úton történő kijelölésére a Kormány kap jogalkotási felhatalmazást.
+
+A 108. §-hoz
+
+A Bbtv. alkalmazásában a 2019/452 rendelet szerinti nemzeti kapcsolattartó pont rendeleti úton történő kijelölésére a Kormány kap jogalkotási felhatalmazást.
+
+A 109. §-hoz
+
+A jogszabályszerkesztés általános követelményeinek megfelelően a magyarországi szabályozásnak a 2019/452 rendelettel való összhangját deklarálni hivatott jogharmonizációs záradékot a Bbtv. szövegébe is be kell építeni.
+
+A 110. §-hoz
+
+A normaszöveg koherenciáját megteremteni, illetve fenntartani hivatott jogtechnikai jellegű korrekciókat a módosító jogszabály szövegcserés módosításokként vezeti át a Bbtv. szövegén.
+
+A 111. §-hoz
+
+Az (1) bekezdéshez: Az újszülött egészségügyi állapotára tekintettel a szülő az állandó személyazonosító igazolvány kiállítást megakadályozó nyilatkozatot tehet, mely a születés bejelentéséről szóló jegyzőkönyvön is megjelenítésre kerül.
+
+A (2) bekezdéshez: A házasságkötési szándék bejelentése során csak érvényes állandó személyazonosító igazolvány megléte esetén lehet kérni hivatalbóli okmánykiállítást.
+
+A (3) bekezdéshez: A személyiadat- és lakcímnyilvántartás az állami adó- és vámhatóság, valamint a kincstár részére továbbítja az intézetben születés tényét, az egészségbiztosítás szerv azt a kincstártól kapja meg.
+
+A (4) bekezdéshez: A születést bejelentő intézet és a Hvkr. szerinti szerv vagy személy a személyiadat- és lakcímnyilvántartásból az EESZT útján jogosult adatokat igényelni, mely megkönnyíti az adatátadást.
+
+Az (5) bekezdéshez: Az Nytv. módosításra került a Nemzeti Szakértői és Kutató Központ miatt, ezért a változást a még hatályba nem lépett jogszabályban is át kell vezetni.
+
+A (6) bekezdéshez: Pontosításra került, hogy a személyiadat- és lakcímnyilvántartás a Magyarországon házasságot kötött magyar állampolgár okmányainak kiállításához szükséges adatait az útiokmány-nyilvántartás, a közúti közlekedési nyilvántartás, az egészségbiztosítási szerv, valamint az állami adó- és vámhatóság részére csak akkor adja át, ha a házasuló hivatalbóli kiállítást megakadályozó nyilatkozatot nem tett.
+
+A 112. §-hoz
+
+A Kincstár a személyiadat- és lakcímnyilvántartásból az anyasági támogatás és a családi pótlék megállapítására irányuló kérelmek elbírálása céljából is jogosult az adatokat megkapni.
+
+A 113. §-hoz
+
+Hivatkozások pontosítása.
+
+A 114. §-hoz
+
+Az e törvényjavaslatban - más tartalommal - újraszabályozott rendelkezések módosítása hatályba nem lépését kimondó szabály.
+
+A 115. §-hoz
+
+Az Atv. mellékletének pontosítása indokolt.
+
+A 116. §-hoz
+
+Az egyes közlekedési tárgyú törvények módosításáról szóló 2020. évi LXXXVI. törvény szerinti normakollízió feloldása (a szabályt a 7. § tartalmazza).
+
+-----STARTING---POINT---VEGE---
+
+A 117. §-hoz
+
+Hatályba léptető rendelkezések.
+
+A 118. §-hoz
+
+Jogharmonizációs záradék.

@@ -1,0 +1,993 @@
+2019. évi CXXVII. törvény végső előterjesztői indokolása
+
+az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A Javaslat folytatja az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (Ákr.) koncepciójában megfogalmazott azon célkitűzés megvalósítását, miszerint a hatósági eljárás megindulása/megindítása és az abban hozott anyagi jogerős bírósági döntés meghozatala között a lehető legrövidebb időtartam teljen el. Az Ákr. szem előtt tartja a közigazgatási ügyek végleges rendezésének elsődleges kívánalmát, így a jogorvoslati rendszer kialakítása során a döntések ellen igénybe vehető jogorvoslati eszköztárat az anyagi jogerő mielőbbi beálltához igazította. Az Ákr. jogorvoslati rendszerében fellebbezésnek kizárólag akkor van helye, ha azt a törvény kifejezetten megengedi, azonban az Ákr. 116. § (2) bekezdés a) pontja rendelkezik arról is, hogy fellebbezésnek van helye, ha a határozatot járási (kerületi) hivatal vezetője hozta. Az Ákr. hatálybalépése óta a rendelkezésre álló adatok alapján változatlanul a legtöbb területen elenyésző - leggyakrabban 0,5 % alatti - a fellebbezéssel támadott hatósági döntések aránya, ugyanakkor a másodfokú eljárásban született határozatok 20-25%-ában is közigazgatási pert indítottak a felek. Mindezek alapján - a fenti célkitűzés megvalósítása érdekében - indokolt a járási (kerületi) hivatali hatósági eljárásokhoz kapcsolódó jogorvoslati rendszer felülvizsgálata eredményeként egyfokú hatósági eljárási modellt kialakítani. A jogorvoslati rendszer hatékonysága és időszerűsége biztosítása érdekében - perelhárító, illetve permegelőző eljárási eszközként - szükséges a felügyeleti szerv (a korábbi másodfokú hatáskörrel is rendelkező kormányhivatal) számára a jogsérelem orvoslásának lehetőségét biztosítani.
+
+A jogorvoslati rendszer hatékonysága csak úgy biztosítható, ha a közigazgatási perek fórumrendszere egyszerű és átlátható. A jelenlegi „két és fél szint” - közigazgatási és munkaügyi bíróságok elsőfokon, Fővárosi Törvényszék első és másodfokon, a Kúria másodfokon, felülvizsgálati eljárásban, illetve szűk körben első és végső fokon. Sőt egyes választási ügyekben járásbíróságok, valamint az ítélőtáblák járnak el első és végső fokon. E helyett indokolt, hogy kétszintű (a nyolc kiemelt közigazgatási és munkaügyi bíróság helyett elsőfokon az azokkal megegyező székhelyű és illetékességi területű törvényszékek, másodfokon, felülvizsgálati eljárásban, illetve szűk körben első- és végső fokon pedig a Kúria eljárásával) közigazgatási bíráskodás valósuljon meg.
+
+E jogorvoslati rendszer kialakítása nem pusztán a hatósági eljárásjog változását igényli, hanem szükséges a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény (a továbbiakban: Bszi.), valamint a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény (a továbbiakban: Bjt.) módosítása is. Ezek - a fentieken túl - egyebek mellett megszüntetik a közigazgatási és munkaügyi bíróságokat, létrehozzák a járásbíróság törvénykezési helyét mint a járásbíróság szervezeti egységét.
+
+Az egységes és az Alaptörvénnyel összhangban álló joggyakorlatot elsősorban nem igazgatási eszközök, hanem a Kúria döntéseinek kötelező ereje biztosítja, mert így a jogorvoslat során gyorsan elérhető az eredmény. A korlátozott precedens-rendszer, amely eredetileg az angolszász jogban jelent meg, de egyre jobban áthatja a kontinentális jogrendszereket is, a jogegység biztosításának alkotmányos, gyors és hatékony eszköze. A Javaslat értelmében a bíróságok kötelesek a Kúria jogértelmezését követni. Figyelemmel arra, hogy az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban: Abtv.) értelmében az Alkotmánybíróság döntése mindenkire, így a bíróságokra nézve is kötelező, ezt nem szükséges ismételten rögzíteni. A rendelkezés ugyanakkor nem sértheti az ítélkező bírók (eljáró tanácsok) személyes függetlenségét. Ennek biztosítása érdekében teszi lehetővé a törvényjavaslat az eltérést a Kúria jogértelmezésétől, ha az az ügy körülményei vagy az Alaptörvénnyel való összhang érdekében szükséges. Az eltérést az eljáró bíró (tanács) köteles külön indokolni. Az eltérés megalapozottságának vitatását lehetővé kell tenni a felek számára, amelyre elsősorban a büntető eljárási, a polgári- és a közigazgatási perrendtartásokról szóló törvényekben biztosított rendes és rendkívüli jogorvoslati eszközök alkalmasak. Arra az esetre, ha a feleknek már nem áll rendelkezésére jogorvoslati eszköz, mert azokat már kimerítette a fél, vagy ilyen eszköz igénybevétele kizárt (ide értve azt az esetet is, ha a Kúria tanácsa tért el a joggyakorlattól) a törvényjavaslat új jogorvoslati eszközként biztosítja a jogegységi panaszt. Mindez a Bszi. jogegységi eljárásra vonatkozó szabályainak pontosítását is szükségessé teszi.
+
+A járásbíróság székhelyétől különböző településen működő szervezeti egység, a törvénykezési hely létrehozható, de nem kötelezően létrehozandó szervezeti egysége a járásbíróságnak.
+
+A Javaslat a törvényi alapjait teremti meg az új szervezeti egységnek, azonban arról az egyes járásbíróságok helyzetének, statisztikai adatainak, az ország különböző térségeiben való elhelyezkedési sajátosságainak figyelembe vételével egyedileg szükséges dönteni - és a döntést törvényi szinten rögzíteni -, hogy ezt az új szervezeti egységet mely járásbíróság esetében indokolt létrehozni. Hasonlóan a bíróságok elnevezéséhez és illetékességi területéhez, azt is a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvényben (a továbbiakban: 2010. évi CLXXXIV. törvény) kell rögzíteni, hogy mely járásbíróságon működik majd az új szervezeti egység.
+
+A Javaslat alapján a járásbíróság törvénykezési helye a járásbíróság szervezeti egységeként működhet a jövőben, amelyet bíró vagy igazságügyi alkalmazott csoportvezető vezet. Azt, hogy a járásbírósági székhely és a törvénykezési hely között az ügyek elosztása milyen módon történik, az ügyelosztási rendben kell rögzíteni. Ha a bíró szolgálati helye olyan járásbíróság, amelynek szervezeti egységeként törvénykezési hely működik, a bíró a tevékenységét az ügyelosztási rendben foglaltaknak megfelelően mind a járásbíróság székhelyén, mind a törvénykezési helyen folytatja egyes, a törvényben meghatározott kivételekkel.
+
+A magánjogi jogviták eldöntése során alkalmazandó eljárási szabályokat a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) határozza meg, míg a közigazgatási jogviták elbírálásának eljárási szabályait a közigazgatási perrendtartásról szóló 2017. évi I. törvény (a továbbiakban: Kp.) rendezi. A két eljárási kódex egyidejűleg, 2018. január 1-jén lépett hatályba, önálló eljárási szabályrendszert alkalmazva a jogviták e két típusára.
+
+A Pp. módosításának indoka, hogy átvezesse a törvényben az ítélkezés egységének biztosításával összefüggő változásokat, és a közigazgatási és munkaügyi bíróságok megszűnésére, a munkaügyi bíráskodás megváltozott szervezeti kereteire tekintettel elvégezze a munkaügyi bíráskodást érintő eljárásjogi vonatkozású változtatásokat.
+
+A Kp. módosítások egyik iránya szintén az egyfokú járási hivatali eljárások kialakításával összefüggő perjogi szabályok megteremtése és az ítélkezés egységének biztosításával összefüggő kiegészítések átvezetése. A másik lényeges tartalmi változás a közigazgatási nemperes eljárásokra vonatkozó szabályozás integrálása a közigazgatási perjogi szabályok általános rendszerébe.
+
+A Kp. és a Pp. mellett több, sarkalatos perjogi rendelkezéseket tartalmazó törvény is módosításra kerül az Ákr.-rel és a Kp.-vel való összhang megteremtése érdekében, az azokhoz kapcsolódó teljes jogrendszeri felülvizsgálat részeként. A módosítás tehát magában foglalja az ágazati szabályozások általános közigazgatási hatósági eljárásjogi- és perjogi rendszerrel való összehangolását, így az Ákr. és a Kp. által bevezetett terminológiai újítások átvezetését, illetve számos, a Kp. rendelkezéseivel párhuzamos vagy azzal ellentétes rendelkezés deregulációját.
+
+Az Ákr. egyik legnagyobb újítása az Ákr. alkalmazásának elsődlegessége, miszerint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvénnyel (a továbbiakban: Ket.) ellentétben a kódextől csupán szűk körben van lehetőség eltérni. Ennek megfelelően hatályon kívül helyezendőek azon szabályok, melyek ellentétesek az Ákr.-rel.
+
+A módosítások döntő többsége csupán terminológiai-technikai jellegű, a céljuk az ágazati törvények és a Kp. koherenciájának megteremtése, így például a „bírósági felülvizsgálat” terminológiája helyett a „közigazgatási perben megtámadható” kifejezés használata, és ezzel a „felülvizsgálat” kettős értelmezésének megszüntetése, miáltal a közigazgatási perjogban a „felülvizsgálat” fogalma a továbbiakban kizárólag a bírósági hatáskörbe tartozó rendkívüli perorvoslatot jelenti majd. Terminológiai változás, hogy az Ákr. a „jogerő” helyett a „véglegesség”, a „jogsegély” helyett a „megkeresés” kifejezést használja, ezek esetében szövegcserés módosításra kerül sor. Hasonlóan szükséges deregulálni azokat a sarkalatos rendelkezést tartalmazó ágazati törvények által megállapított perjogi szabályokat, amelyek a Kp. szabályait megismétlik, vagy a Kp. szabályaitól indokolatlanul eltérnek, illetve a Kp. új rendszerétől idegen rendelkezéseket tartalmaznak (pl. a bíróság soron kívüli eljárásának előírása). E körbe tartozik a nemperes eljárást indokolatlanul előíró rendelkezések módosítása is. A nemperes eljárást a Kp. a feltétlenül szükséges alkalmazási körre szorítja vissza a közigazgatási perjog területéről, s helyette az egyszerűsített per eljárásjogi intézményét alkalmazza, amely - mivel ebben nem bírósági titkár, hanem közigazgatási bíró jár el - a jogorvoslati jog és a tisztességes eljáráshoz való jog szempontjából egyaránt megfelelőbb. Emiatt módosítani szükséges tehát minden olyan ágazati rendelkezést is, amely a bírósági jogorvoslat kereteként indokolatlanul a nemperes eljárást nevesíti.
+
+Az Alkotmánybíróság alkotmányjogi panasz alapján eljárva, a tanúk zártan kezelt adatai védelmének eljárásrendjével kapcsolatos mulasztásban megnyilvánuló alaptörvény-ellenesség tárgyában meghozta a 7/2019. (III. 22.) AB határozatát, melynek rendelkező része 3. pontjában - hivatalból eljárva - megállapította, hogy az Alaptörvény XXIV. cikk (1) bekezdésébe valamint a XXVIII. cikk (1) és (3) bekezdéseibe ütköző mulasztásban megnyilvánuló alaptörvény-ellenesség áll fenn annak következtében, hogy a jogalkotó nem szabályozta a tanúk zártan kezelt adatainak a különböző eljárási törvények hatálya alá kerülése esetén fennálló védelmének eljárásrendjét. Határozatában az Alkotmánybíróság kitért arra, hogy a jogalkotói feladat elmulasztásának minősül, ha a jogi szabályozás Alaptörvényből levezethető lényeges tartalma hiányos, egyúttal vizsgálta a tárgybeli ügyben, hogy a közigazgatási eljárásokban érvényesülő „védett tanú” szabályozás összhangban van-e az Alaptörvényből levezethető követelményekkel. A tárgybeli alkotmányjogi panasz alapján kikristályosodó alapvető alkotmányjogi jelentőségű kérdés abban állt, hogy egy közigazgatási ügyben a „védett tanú” jogintézményének alkalmazásakor milyen eljárási garanciáknak kell érvényesülniük az eljárás során. Az Alkotmánybíróság rögzítette, hogy a jelenlegi jogszabályi környezetből fakadóan sérült az indítványozó tisztességes hatósági eljáráshoz való joga, tisztességes bírósági eljáráshoz való joga, különösen a védelemhez való joga. Ennek megfelelően az Alkotmánybíróság megállapította, hogy az Alaptörvény XXIV. cikk (1) bekezdésébe, a XXVIII. cikk (1) és (3) bekezdéseibe ütköző mulasztásban megnyilvánuló alaptörvény-ellenesség áll fenn annak következtében, hogy a jogalkotó nem szabályozta a tanúk zártan kezelt adatainak a különböző eljárási törvények hatálya alá kerülése esetén fennálló védelmének eljárásrendjét, és egyúttal a mulasztást elkövető Országgyűlést felhívta a hiányzó szabályozás 2019. december 31-ig történő pótlására. Jelen módosítás célja e mulasztás orvoslása, a védett tanúra és a védett adatra vonatkozó szabályozás kiegészítése útján.
+
+Fontos továbbá hangsúlyozni azt is, hogy az Alkotmánybíróság fenti határozatában megfogalmazott azon követelmény, mely szerint a védett tanú védelemhez való joga nem zárhatja ki, és csak szükséges mértékben korlátozhatja az ügyfél védelemhez való jogát, az Ákr. szabályai alapján megfelelően biztosított. Ezt támasztja alá az, hogy, noha a tanúmeghallgatásra vonatkozó szabályok alapján annak a tanúnak a meghallgatásán, akinek az adatai zártan kezelését rendelte el a hatóság, ő nem lehet jelen, de ez nem képezi akadályát annak, hogy
+
+- a tanú meghallgatása előtt a tanúnak címzett kérdés feltevését indítványozza a hatóságnál;
+
+- e tanúvallomás tartalmát megismerje, arra észrevételt tegyen; továbbá
+
+- a vallomás alapján további, kiegészítő kérdés feltevését, esetleg a tanú vallomástételének megismétlését, felvételét indítványozhassa.
+
+Természetesen a hatóságnak a bizonyítási eljárás ezen mozzanatairól, döntése indokolásában, a bizonyítékok mérlegelése kapcsán, az elutasított bizonyítási indítványokkal egyetemben számot kell adnia.
+
+Fontos újítás, hogy a módosítást követően az adatok zárt kezelésére kérelemre, vagy hivatalból is sor kerülhet abban az esetben, ha ugyanazon történeti tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló más bírósági vagy hatósági eljárásban az ügyfél vagy az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zártan kezelését rendelték el. Külön kiemelendő e módosítás kapcsán, hogy a különböző (egymást követő vagy párhuzamos) bírósági vagy hatósági eljárásokban - ideértve a büntetőeljárás egészét is - tehát a történeti tényállásnak kell azonosnak lennie, a törvényi tényállásra ez a követelmény - különös tekintettel a büntetőügyek szigorú dogmatikájára - nem alkalmazható. Ennek vizsgálata és megítélése a hatóság hatáskörébe tartozik, ha azonban a hatóság megállapítja a történeti tényállások azonosságát, úgy az adatok zárt kezeléséhez elegendő, ha azt az érintett kéri, vagy a hatóság hivatalos tudomást szerez a más eljárásban biztosított védelemről. Ebben az esetben tehát a hatóságnak nincs mérlegelési joga, vagyis - azonos történeti tényállás esetén - a természetes személyazonosító adatok és lakcím zárt kezelését kötelezően el kell rendelnie.
+
+Tekintettel arra, hogy a tanúk zártan kezelt adatainak a különböző eljárási törvények hatálya alá kerülése a Pp.-t is érinti, indokolt rámutatni arra, hogy a hatályos Pp. szabályozása már jelenleg is tartalmazza azokat a garanciális rendelkezéseket, amelyek biztosítják a más eljárásban elrendelt zárt adatkezelés által védett adatoknak a polgári eljárás során történő további védelmét is.
+
+A 2018. január 1. napján hatályba lépett Pp. 322. § (7) bekezdése alapján a bíróság gondoskodik arról, hogy az e §-ban nem nevesített, törvény által védett egyéb adat ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására, az adat törvényben meghatározott védelme a bíróság eljárásában is biztosított legyen.
+
+A Pp. 322. § (7) bekezdése alapján a bíróság kötelessége gondoskodni arról, hogy az irat- és adatbeszerzés során rendelkezésére bocsátott - a Pp. 322. § (2) bekezdése szerint minősített adatnak, üzleti titoknak, hivatásbeli titoknak, vagy törvényben meghatározott más titoknak nem minősülő - törvény által védett egyéb adat ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására, illetve az adat törvényben meghatározott védelme a bírósági eljárásban is biztosított legyen.
+
+Ez a kötelezettség azt is jelenti, hogy a bírósági eljárásban bejelentett, és ott esetleg nyilvánosságra került adat nem kapcsolható össze a megelőző eljárásban (például hatósági eljárásban) védelem alatt álló adattal. A bírósági eljárásban bejelentett adat zárt adatkezelésének feloldása ugyanis nem járhat együtt azzal, hogy a hatósági iratban kezelt zárt adatok is hozzáférhetővé válhassanak a peres felek számára és ezzel a hatósági adat zárt kezelése is megszűnjön. A hivatkozott rendelkezés alapján a hatósági adat védelmét a polgári eljárásban továbbra is fenn kell tartani.
+
+A fizikai anonimitás (például felismerhetőség) védelmét a Pp. a személyes adatvédelmen túl - annak indokoltsága, például a testi épség veszélyeztetettsége esetén - egyéb eszközzel is biztosítja. A bíróság - akár hivatalból - elrendelheti, hogy a tanú meghallgatására elektronikus hírközlő hálózat útján kerüljön sor, ha ezt a tanú személyes védelme indokolja [Pp. 622. § (1) bekezdés c) pont]. Ilyen esetben a bíróság elrendelheti az elektronikus hírközlő hálózat útján történő meghallgatásnak olyan módját, amelyből a tanú személye, tartózkodási helye nem állapítható meg. Ez az úgynevezett titkos meghallgatás [Pp. 626. § (1) bekezdés]. A titkos meghallgatás során a tanú személyazonosságának megállapítására alkalmas egyedi tulajdonságait a közvetítés során technikai úton el kell torzítani. A titkos meghallgatás során az elnök megtiltja az olyan kérdés feltételét, illetve az olyan kérdés megválaszolását, amely a közreműködő személyének és tartózkodási helyének azonosítását eredményezheti [Pp. 626. § (2) bekezdés].
+
+A Pp. által biztosított titkos meghallgatás lehetősége különösen alkalmas a személyében is védendő tanú meghallgatására, mert úgy biztosítja az érintett személy anonimitását, hogy nem korlátozza az ellenérdekű fél védekezéshez való jogát sem, tekintettel arra, hogy a védett személyhez a szükséges mértékben ő is közvetlenül intézhet kérdéseket. Titkos meghallgatás esetén tehát a fizikai védelem és a zárt adatkezelés szabályai összekapcsolódnak és együttesen biztosítják a megfelelő szintű személyi- és adatvédelmet. Különös jelentősége van annak, hogy a titkos meghallgatást a bíró hivatalból is elrendelheti, ha tehát a rendelkezésre álló (például előzményi eljáráshoz kapcsolódó) iratok alapján az előzményi eljárás adatainak védelme indokolja, akkor az eljáró bírónak a Pp. 322. § (7) bekezdésére tekintettel a titkos meghallgatást bármelyik fél indítványa hiányában is el kell rendelnie.
+
+Az Alkotmánybíróság határozatában kifejtett szempontokat megvizsgálva megállapítható, hogy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) megfelelő jogi kereteket szabályoz annak érdekében, hogy biztosítani lehessen egy más típusú eljárásban már alkalmazott, zárt adatkezeléssel érintett vagy az eljárás során fizikai anonimitást élvező személy esetében, hogy a büntetőeljárás során se derüljön fény a személyére, az adatainak védelme, illetve kilétének titokban tartása megoldott legyen. Ezért a Be. törvényi szintű szabályainak a módosítására nincs szükség.
+
+A személyes adatok zárt kezelésével kapcsolatban a hatályos büntetőeljárási szabályozás az Alkotmánybíróság több korábbi határozatában kijelölt alkotmányos követelményeknek megfelelően lett kialakítva. A büntetőeljárási szabályozás a személyes adatok zárt kezelését - összhangban az Alkotmánybíróság által felállított követelményekkel - teljes mértékben az információs önrendelkezési jog keretein belül kezeli, annak a nem a tanúvédelmi sajátossága a túlnyomó, a jogintézmény célja alapvetően nem az eljárási érdekekre tekintettel történő anonimitás biztosítása, hanem az érintett személyes adatai feletti rendelkezési jog elismerése és tiszteletben tartása. Így különösen fontos körülmény, hogy ha az érintett azt indítványozza, akkor az eljáró szervnek nincs mérlegelési joga azzal kapcsolatban, hogy zártan kezeli-e az adatokat vagy sem. Tehát indítványra kötelező az elrendelés. [Be. 99. § (1) bekezdés] Kiemelendő továbbá, hogy a zárt adatkezelés megszüntetésére vagy mellőzésére a Be. alapján kizárólag az érintett beleegyezése vagy hozzájárulása esetén van mód, tehát nincs olyan eset, amikor az eljáró szerv hivatalból dönthetne a zárt adatkezelés megszüntetéséről [Be. 99. § (4) és (5) bekezdése].
+
+A Be. egyik koncepcionális újítása volt, hogy kellően rugalmas, személyre szabott intézkedési lehetőségeket kívánt biztosítani az érintett személyt érő befolyásolási, fenyegetési helyzetek elkerülése, illetve minimalizálása érdekében. A cél az volt, hogy az eljáró szerv anélkül is képes, illetve köteles legyen egyes intézkedések megfelelő alkalmazásával az érintett védelmét elérni, hogy az egyébként kivételes, illetve nagy munkateher-ráfordítással járó hagyományos, ugyanakkor merevebb jogintézményeket alkalmazná (személyi védelem, különösen védett tanúvá nyilvánítás). A Be. ennek érdekében a különleges bánásmód biztosítása körében is lehetővé teszi a hatóság mérlegelése alapján olyan intézkedések alkalmazását, amelyek révén a nem kívánt hatások kizárhatóak, az érintett személyes vagy lelki fenyegetettsége kivédhető. Tehát a Be. teljesen újszerű módon szabályozza a tanúvédelemmel kapcsolatba hozható, az Abh.-ban is érintett szabályozási kérdéseket. Kiemelendő, hogy a törvény a szerkezeti elhelyezés szempontjából is teljesen világossá tette, hogy a személyes adatok zárt kezelése, illetve az egyéb tanúvédelmi intézkedések (így a különösen védett tanúvá nyilvánítás) különböző jogintézmények, más a céljuk, rendeltetésük, illetve a személyi kör is, amelyeket érinthetnek. A különleges bánásmódot igénylő személyekkel kapcsolatos eljárási szabályok keretében a Be. XIV. Fejezetében (Be. 81-96. §) találhatóak azok a jogosultságok, a hatóságok részéről jelentkező eljárási kötelezettségek, lehetőségek, amelyek a korábbiaknál jóval hangsúlyosabbá tették azt a követelményt, hogy a különleges személyi körülményekkel rendelkező eljárási szereplők számára megfelelő módon biztosítani lehessen az eljárás során szükségessé váló védelmet. A Be. egyértelműen ki is tágította a védelmi jellegű intézkedésekkel érintett személyi kört, a korábbi, kifejezetten a tanúra koncentráló szabályozás helyett a jelenlegi szabályok alapján a sértett, a tanú és bizonyos körben a terhelt és más, az eljárásban részt vevő személy vonatkozásában is helye van a különleges bánásmód intézményrendszere alkalmazásának.
+
+Hangsúlyozni kell, hogy a büntetőeljárási szabályok alapján a hatóságoknak folyamatosan vizsgálniuk kell, hogy az érintett esetében fennáll-e a különleges bánásmód biztosításának a kötelezettsége, továbbá az egyéni értékelést az első kapcsolatfelvételkor kötelezően el kell végezni minden érintett esetében. Ugyanakkor az érintett is bármikor indítványozhatja, hogy az eljáró szerv minősítse különleges bánásmódot igénylő személynek [Be. 81. § (3) bekezdés].
+
+A fenti rendelkezésekből egyértelműen megállapítható, hogy az olyan helyzetek, amikor egy érintett személy alappal tarthat attól, hogy az eljárás más szereplői részéről fenyegetés, megtorlás vagy befolyásolás érheti, indokolttá teszik a különleges bánásmódot igénylő személlyé nyilvánítását [lásd Be. 81. § (1) bekezdés b) és c) pontját, illetve (2) bekezdés c) és d) pontját]. Ezen jogintézmény keretein belül pedig a hatóságoknak széles körű intézkedési eszköztár áll rendelkezésére annak érdekében, hogy a szükséges védelmet a büntetőeljárás általános szempontjaival, elveivel összhangban biztosítsa.
+
+A fentiekben vázlatosan bemutatott új szabályozás egyértelműen vonatkozik a más típusú eljárásban már valamilyen módon védett személyekre is és további törvénymódosítás nélkül is megfelelő kereteket biztosít arra, hogy a büntetőeljárás során eljáró szervek az eljárásuk során is biztosítani tudják az érintett számára a helyzetnek leginkább megfelelő eljárási intézkedések révén a szükséges védelmet.
+
+A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) - az Ákr. szabályaihoz hasonlóan - szintén megfelel az Alkotmánybíróság által megfogalmazott azon követelménynek, mely szerint a tanú védelemhez való joga nem zárhatja ki, és csak a szükséges mértékben korlátozhatja az eljárás alá vont személy védekezéshez való jogát. A Szabs. tv. szerint az eljárás alá vont személy - ha e törvény eltérően nem rendelkezik - jogosult az eljárási cselekményeknél jelen lenni, az eljárás bármely szakaszában észrevételt, indítványt tehet, kérdést intézhet, a szabálysértési hatóságtól és a bíróságtól felvilágosítást kérhet, megtekintheti az ügy iratait, azokról másolatot kérhet, illetve készíthet. Ha elrendelték a tanú adatainak zártan kezelését, az eljárás alá vont személy a tanú meghallgatásán csak akkor lehet jelen, ha a tanú ehhez hozzájárul. Az így kizárt eljárás alá vont személyt a meghallgatást követően értesíteni kell arról, hogy a meghallgatás során távollétében történteket megismerheti.”
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. § és 2. §-hoz
+
+A módosítás értelmében - szemben a perjogi kódex főszabályával - az országos illetékességgel eljáró miniszter közlekedési hatósági jogkörben hozott döntései a Fővárosi Törvényszék előtt támadhatóak. A módosítás ezen túlmenően terminológiai-technikai jellegű, a célja, hogy a „bírósági felülvizsgálat” terminológiája helyett a „közigazgatási perre” vonatkozó megfelelő kifejezés használatával a „felülvizsgálat” kettős értelmezését megszüntesse, miáltal a közigazgatási perjogban a „felülvizsgálat” fogalma a továbbiakban kizárólag a Kúria hatáskörébe tartozó rendkívüli perorvoslatot jelenti majd. (Az alcím újra megállapítása azért szükséges, mert a közúti közlekedésről szóló 1988. évi I. törvény két 21/M. §-t tartalmaz.)
+
+A 3. §-hoz
+
+Figyelemmel arra, hogy a közigazgatási perek fórumrendszerének átalakításával összefüggésben közigazgatási és munkaügyi bíróságok 2020. március 31-én megszűnnek, ezért szükséges a munkaügyi perek fórumrendszerének szabályait pontosítani.
+
+A 4. §-hoz
+
+A Javaslat megteremti a jogegységi panaszt, amelynek - a felülvizsgálati eljárással azonos mértékű - illetékmértékét is megállapítja, és rögzíti, hogy a tárgyi illetékfeljegyzési jog nem terjed ki a jogegységi panasz eljárásra.
+
+Az 5. §-hoz
+
+A rendelkezés a jogerős döntés helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 6. §-hoz
+
+A Javaslat a jogerős döntés helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 7. §-hoz
+
+A humánszolgáltatást nyújtó egyházi, nem állami és önkormányzati fenntartók esetében a központi költségvetésből nyújtott támogatásokkal összefüggő hatósági eljárásokban eltérő jogorvoslati utat biztosítottak az ágazati szabályok. A Javaslat megteremti, hogy az azonos támogatások ügyében az egyes fenntartók azonos jogorvoslati lehetőséggel rendelkezzenek.
+
+A 8. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 9. §-hoz
+
+A Javaslat az Ákr.-rel való összhang megteremtése érdekében a közigazgatási szerződés terminológia alkalmazásával az Ákr. logikáját követi, és azzal való összhangra törekszik, továbbá a „közigazgatási szerződés” nevesítése a Kp. hatályát is megnyitja a Kp. 4. §-a alapján.
+
+A 10. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 11. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 12. §-hoz
+
+A kapcsolattartásra vonatkozó határozat végrehajtásának bírósági polgári nemperes eljárásban történő elrendelése esetén szükségessé válhat a kapcsolattartás szabályait rendszeresen és visszatérően megszegő magatartás esetén a végrehajtó bevonása a gyermek átadásának biztosítása érdekében. Ennek speciális szabályait teremti meg a Javaslat a gyermek átadására vonatkozó hatályos szabályozás alapul vételével.
+
+A 13. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 14. §-hoz
+
+A Javaslat a jogerős döntés helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 15-17. §-hoz
+
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben (a továbbiakban: Nbtv.) 37. § (6) bekezdése egyértelművé teszi, hogy közvetlenül a jogsértő intézkedés ellen nincs helye közigazgatási pernek, csupán a miniszter döntésével szemben, ami a Kp. főszabályával szemben nem megváltoztatható a bíróság által. A Kp. hatályba lépése miatt szükséges a „bírósági felülvizsgálat” kifejezés helyett a „közigazgatási per” kifejezés használata. A bíróság vizsgálatára és döntésére az ágazati sajátosság miatt továbbra is tartalmaz rendelkezést az Nbtv. a Kp.-tól való eltérés miatt.
+
+Az illetékes bíróságra és a keresetindítási határidőre található szabályok közül hatályon kívül helyezésre kerültek azon rendelkezések, melyek a Kp.-ból következnek. Az Nbtv. 72/D. § (10) bekezdése esetén az eltérő keresetindítási határidőt természetesen továbbra is fenn kell tartani, így azt nem érinti a módosítás.
+
+A Javaslat egyértelművé teszi, hogy az Nbtv. csak az igazságügyi alkalmazottak ellenőrzésére vonatkozó szabályokat tartalmazza, míg a bírák nemzetbiztonsági ellenőrzésére vonatkozó szabályokat a jövőben nem az Nbtv., hanem a Bjt. fogja tartalmazni.
+
+A 18. §-hoz
+
+Az Ákr. 8. § (1) bekezdés e) pontja alapján a versenyfelügyeleti eljárás az általános közigazgatási rendtartás alól kivett eljárások közé tartozik. A módosítás célja, hogy a versenyfelügyeleti eljárás kivett jellegére, illetve a 7/2019. (III. 22.) AB határozatban lefektetett követelményekre tekintettel a tanúkra vonatkozó adatok zárt kezelésével kapcsolatos rendelkezéseket az Ákr. 28. § (1) bekezdésében tett módosításokhoz igazodóan módosítsa. Az Ákr. 28. § (3) bekezdés b) és c) pontjaiban javasolt módosításokkal azonos rendelkezéseket a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 54/A. § (2) bekezdése már tartalmaz, így csak a Tpvt. 54/A. § (1a) bekezdésében tett módosítások átvezetése indokolt, az Ákr. 28. § (3) bekezdés a) pontjához igazodóan. Ezáltal a versenyfelügyeleti eljárásban is hivatalból lesz elrendelhető a tanúk adatainak zártan kezelése, amennyiben másik eljárásban azt már elrendelték. A természetes személy tanú, valamint a jogi személy adatainak súlyosan hátrányos következményre való hivatkozással történő zártan kezelését a módosítás nem érinti, tehát e tekintetben továbbra is fennmarad a Gazdasági Versenyhivatal mérlegelési joga. Azonban, ha az indokolt kérelemben a Tpvt. 54/A. § (1) bekezdés b) pontjára történik hivatkozás, a kérelemnek automatikusan helyt kell adni.
+
+A 19. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 20. §-hoz
+
+A módosítás terminológiai-technikai jellegű, a célja, hogy a „bírósági felülvizsgálat” terminológiája helyett a „közigazgatási perre” vonatkozó megfelelő kifejezés használatával a „felülvizsgálat” kettős értelmezését megszüntesse, miáltal a közigazgatási perjogban a „felülvizsgálat” fogalma a továbbiakban kizárólag a Kúria hatáskörébe tartozó rendkívüli perorvoslatot jelenti majd.
+
+A 21. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 22. §-hoz
+
+A humánszolgáltatást nyújtó egyházi, nem állami és önkormányzati fenntartók esetében a központi költségvetésből nyújtott támogatásokkal összefüggő hatósági eljárásokban eltérő jogorvoslati utat biztosítottak az ágazati szabályok. A Javaslat megteremti, hogy az azonos támogatások ügyében az egyes fenntartók azonos jogorvoslati lehetőséggel rendelkezzenek.
+
+A 23-27. §-hoz
+
+A Javaslat fenntartja a bírósági fogalmazói álláshelyek betöltésének pályázati rendszerét, azonban lehetővé teszi, hogy az már kinevezett bírósági fogalmazó áthelyezésével is betölthető legyen.
+
+A módosítás megteremti annak lehetőségét, hogy a közigazgatási ügyszakban szolgálatot teljesítő bírósági titkár beosztásra kerülhessen azokhoz a közigazgatási szervekhez, alkotmányos intézményekhez, amelyekhez a közigazgatási ügyben eljáró bíró beosztásra kerülhet. Ezek a szervek az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, az ügyészség, a központi államigazgatási szervek, a fővárosi és megyei kormányhivatalok. A beosztásra annak érdekében kerülhet sor, hogy a bírósági titkár a közigazgatási tapasztalatait bővíthesse. A beosztásnak a felek háromoldalú megállapodása előfeltétele, tehát ahhoz az érintett szerv vezetőjének kezdeményezése, a bírósági titkár kifejezett kérelme, valamint a közigazgatási bíróság elnökének egyetértése szükséges.
+
+Az érintett szervhez beosztott bírósági titkár beosztásának időtartama legfeljebb egy év lehet, amely időtartam alatt a bírósági titkár felett az érintett szerv vezetője gyakorolja a munkáltatói jogokat (a fegyelmi eljárás elrendelésének és lefolytatásának, valamint az igazságügyi alkalmazotti szolgálati jogviszony megszüntetésének kivételével); a bírósági titkár a beosztása ideje alatt köteles végrehajtani a vezetői intézkedéseket, utasításokat.
+
+A beosztás megszüntetésre kerül a bírósági titkár kérelmére, illetve a beosztás szerinti szerv vezetőjének indítványára.
+
+A módosítás a fentiek mellett az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bírósági titkárokra vonatkozó hatályos szabályozást alapul véve egységesen határozza meg az értékelésre, a fegyelmi eljárás kezdeményezésére, az adatok nyilvántartására és a beosztási pótlékra vonatkozó szabályokat az igazságügyi minisztériumi beosztása és az érintett szervhez történő beosztása esetére egyaránt.
+
+Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) módosításának kiegészítése szükséges annak egyértelműsítése érdekében, hogy az igazságügyért felelős miniszter által vezetett minisztériumba vagy a Bjt.-ben meghatározott érintett szervhez beosztott bírósági titkár e szerveknél vezetői munkakört nem tölthet be, illetve vezetői álláshelyen nem foglalkoztatható.
+
+A fentieken túl szükséges az Iasz. módosítása a kormányzati igazgatásról szóló 2018. évi CXXV. törvénnyel (a továbbiakban: Kit.) való összhang megteremtése érdekében is. A Kit. 3. § (6) bekezdésének megfelelően a kormánytisztviselők kormányzati szolgálati jogviszonyban állnak, ezért annak, mint lehetséges foglalkoztatásra irányuló jogviszony megjelenítése indokolt. Tekintettel arra, hogy az állami vezető, mint kategória megszűnik, és azon a továbbiakban a Kit. szerinti politikai felsővezetőt, közigazgatási államtitkárt és helyettes államtitkárt kell érteni, ezért szükségessé vált a hatályos normaszövegben szereplő „állami vezető” szövegrész módosítása. A szövegcserés módosítások emellett pontosító rendelkezéseket tartalmaznak.
+
+A 28. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 29. §-hoz
+
+A módosítás terminológiai-technikai jellegű, a célja, hogy a „bírósági felülvizsgálat” terminológiája helyett a „közigazgatási perre” vonatkozó megfelelő kifejezés használatával a „felülvizsgálat” kettős értelmezését megszüntesse, miáltal a közigazgatási perjogban a „felülvizsgálat” fogalma a továbbiakban kizárólag a Kúria hatáskörébe tartozó rendkívüli perorvoslatot jelenti majd.
+
+A 30. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át. A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 31. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés, valamint a bírósági felülvizsgálat helyett a közigazgatási per terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 32. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 33. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 34. §-hoz
+
+Figyelemmel arra, hogy a közigazgatási perek fórumrendszerének átalakításával összefüggésben közigazgatási és munkaügyi bíróságok 2020. március 31-én megszűnnek, ezért szükséges a munkaügyi perek fórumrendszerének szabályait pontosítani.
+
+A 35. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 36. §-hoz
+
+A Javaslat a jogerős hatósági határozat helyett a végleges döntés terminológia bevezetésével összefüggő technikai módosításokat vezeti át.
+
+A 37. §-hoz
+
+Figyelemmel arra, hogy a közigazgatási perek fórumrendszerének átalakításával összefüggésben közigazgatási és munkaügyi bíróságok 2020. március 31-én megszűnnek, ezért szükséges a munkaügyi perek fórumrendszerének szabályait pontosítani.
+
+A 38. §-hoz
+
+A Kp.-val párhuzamos, illetve terminológiailag nem megfelelő rendelkezések hatályon kívül helyezése szükséges.
+
+A 39. §-hoz
+
+A módosítás terminológiai-technikai jellegű, a célja, hogy a „bírósági felülvizsgálat” terminológiája helyett a „közigazgatási perre” vonatkozó megfelelő kifejezés használatával a „felülvizsgálat” kettős értelmezését megszüntesse, miáltal a közigazgatási perjogban a „felülvizsgálat” fogalma a továbbiakban kizárólag a Kúria hatáskörébe tartozó rendkívüli perorvoslatot jelenti majd.
+
+A 40. §-hoz
+
+Figyelemmel arra, hogy a közigazgatási perek fórumrendszerének átalakításával összefüggésben közigazgatási és munkaügyi bíróságok 2020. március 31-én megszűnnek, ezért szükséges a munkaügyi perek fórumrendszerének szabályait pontosítani.
+
+A 41. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 42. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 43. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 44. §-hoz
+
+A másodfokú közigazgatási perekben a Kúria fog eljárni, amelynek döntésével szemben a Kp. alapján kizárt a felülvizsgálat, ezért a felülvizsgálat kizárására vonatkozó szabályt elhagyni szükséges.
+
+A 45. §-hoz
+
+A fórumrendszer változása, továbbá a gyakorlati tapasztalatok miatt indokolt a jogorvoslati rendszerre vonatkozó rendelkezéseket pontosítani.
+
+A 46. §-hoz
+
+A Kp. terminológiájára és a fórumrendszer változására figyelemmel szükséges pontosító rendelkezés.
+
+A 47-49. §-hoz
+
+Figyelemmel arra, hogy a közigazgatási perek fórumrendszerének átalakításával összefüggésben közigazgatási és munkaügyi bíróságok 2020. március 31-én megszűnnek, elhagyásra kerülnek a közigazgatási és munkaügyi bíróságok elnevezésére és illetékességi területére vonatkozó rendelkezések. A módosítás nyomán 2010. évi CLXXXIV. törvény új 1. melléklete a járásbíróságok és kerületi bíróságok, továbbá a törvényszékek elnevezését és illetékességi területét rögzíti.
+
+Ezzel párhuzamosan megszűnnek a közigazgatási és munkaügyi regionális kollégiumok, a törvény módosított 4. melléklete a közigazgatási jogviták elbírálására jogosult, a Bszi. alapján közigazgatási kollégiummal működő törvényszékek illetékességi területét állapítja meg.
+
+Tekintettel arra, hogy a munkaügyi perekben másodfokon az ítélőtáblák járnak el, a munkaügyi kollégiumokat nem regionális szinten, hanem az ítélőtáblákon indokolt megszervezni olyan sajátos szabályokkal, amelyek biztosítják, hogy a kollégiumnak valamennyi, az ítélőtábla területén szolgálatot teljesítő munkaügyi bíró tagja lehessen. Ezeket a szabályokat a Bszi.-ben indokolt elhelyezni.
+
+A Rábaköz térségében élő mintegy 60.000 állampolgárnak jelenleg csak a Soproni, illetve Győri Járásbíróságon van lehetősége elsőfokú bírósági ügyet intézni, és e bíróságok leterheltsége indokolja új járásbíróság felállítását. A Csornai Járásbíróság létrehozása nem előzmény nélküli, ugyanis itt az 1900-as évek elejétől működött járásbíróság, amelynek épülete jelenleg állami tulajdon, üresen áll. Az Országos Bírósági Hivatal javaslata során figyelembe vételre kerültek a térség demográfiai és várható ügyérkezési adatai, valamint a létesítendő bíróság várható létszám igénye. Az elkészített helyzetfelmérés alapján megállapítást nyert, hogy a Csorna székhellyel működő új járásbíróság alapítása a lakosságszám és az ügyforgalmi adatok alapján indokolt.
+
+Az új járásbíróság illetékességi területe a Csornai, valamint a Kapuvári Járás egyes településeiből tevődne össze, ezáltal a Győri és a Soproni Járásbíróságok illetékességi területe is megváltozna. Az újonnan létrejövő Csornai Járásbíróság illetékességi területén lévő települések lakosságszáma kb. 50.000 fő, mely a Győri Járásbíróságról átkerülő települések vonatkozásában kb. 27.000 főből és a Soproni Járásbíróságról átkerülő települések vonatkozásában kb. 23.000 főből tevődik össze. Az új járásbíróság várható ügyérkezési adatait figyelembe véve 5 új bírói álláshely kiírása indokolt. Az új járásbíróság létrehozása 2021. január 1. napjától valósítható meg.
+
+A Javaslat a Bszi. módosításával megteremti a törvényi alapjait a törvénykezési hely, mint a járásbíróság új szervezeti egysége létrehozásának, azonban arról az egyes járásbíróságok helyzetének, statisztikai adatainak, az ország különböző térségeiben való elhelyezkedési sajátosságainak figyelembe vételével egyedileg szükséges dönteni - és a döntést törvényi szinten rögzíteni -, hogy ezt az új szervezeti egységet mely járásbíróság esetében indokolt létrehozni. Hasonlóan a bíróságok elnevezéséhez és illetékességi területéhez, azt is a 2010. évi CLXXXIV. törvényben kell rögzíteni, hogy mely járásbíróságon működik majd az új szervezeti egység.
+
+Az 50. §-hoz
+
+A Kp. rendelkezéseivel való összhang megteremtése érdekében szükséges pontosító rendelkezés. Azért szükséges hatályon kívül helyezni az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 34/A. § (2) bekezdését, mert az indítványozás szabályait a Kp. tartalmazza.
+
+Az 51. § és 52. §-hoz
+
+A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben (a továbbiakban: Hvt.) is elhagyásra kerülnek a „bírósági felülvizsgálat” és a „soronkívüliség” kifejezések. Elhagyásra kerül továbbá a Kp. módosítással összhangban a „nemperes” kifejezés, tekintettel arra, hogy módosítani szükséges minden olyan ágazati rendelkezést, amely a bírósági jogorvoslat kereteként indokolatlanul a nemperes eljárást nevesíti.
+
+A soronkívüliség helyett a bírósági eljárási időtartam kerül lerövidítésre a Kp.-hoz képest a Hvt. 10. § (5) bekezdésében, figyelemmel arra, hogy egy ilyen döntés esetén indokolt a gyorsabb ítélethozatal. Az Ákr. hatályba lépésével terminológiai változtatás, hogy „jogerő” helyett a „véglegesség”, míg a „jogsegély” helyett a „megkeresés” kifejezés használata szükséges.
+
+A különleges jogrendre vonatkozó 67. § (1) bekezdés a) pontja esetében szintén csupán terminológiai jellegű a módosítás. A „közigazgatási hatósági eljárásra vonatkozó törvény” kifejezés esetében azért nem került sor módosításra, mivel az nem a Ket.-re utal, hanem általában a hatósági eljárási szabályokat tartalmazó törvényre.
+
+Az 53. § és 54. §-hoz
+
+Az Ákr.-hez kapcsolódva a „jogerő” kifejezést felváltó „véglegesség” kifejezés, valamint a „belföldi jogsegély” kifejezés helyett a „megkeresés” kifejezés használata szükséges.
+
+Szükséges a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény terminológiájának a Kp.-hoz való igazítása.
+
+Az 55. § és 56. §-hoz
+
+A Javaslat megteremti annak a lehetőségét, hogy az Alkotmánybíróság tagjai megválasztásuk esetén ne veszítsék el korábbi bírói tisztségüket, a korábban nem bíróként működő alkotmánybírók pedig bírói kinevezést kapjanak. A „valódi” alkotmányjogi panasz bevezetése óta az Alkotmánybíróság egyes eljárásai a gyakorlatban kifejezetten jogorvoslati jelleget öltöttek azzal, hogy az eljárás a döntés Alaptörvénnyel való összhangjának vizsgálatára korlátozódik. Az Emberi Jogok Európai Bírósága ezért követeli meg az alkotmányjogi panasz, mint hatékony jogorvoslati eszköz kimerítését a saját eljárásának kezdeményezése előtt (például Szalontay v. Hungary no. 71327/13, Geréb v. Hungary no. 25520/13, Takács v. Hungary no. 73665/17). Ezekben az eljárásokban az alkotmánybíróság bírósági ítéleteket vizsgál felül, tartalmát tekintve bírói feladatokat lát el. Figyelemmel arra, hogy az Alkotmánybíróság tagjai nem választhatóak újra, a Javaslat lehetővé teszi, hogy ténylegesen gyakorolt felsőbírósági jellegű tapasztalataikat megbízatásuk megszűnését követően bíróként hasznosítsák. Mindezt a Javaslat oly módon biztosítja, hogy az Alkotmánybíróság tagja megbízatásának ideje alatt a bírói szolgálati viszony szünetel, erre tekintettel összeférhetetlenség sem áll fenn. A szünetelés ex lege rögzítése továbbra is garantálja mind az Alkotmánybíróság, mind a bíróságok függetlenségét.
+
+Emellett a Javaslat értelmében az az Alkotmánybíróság tagjává megválasztott személy, aki a megválasztását megelőzően nem viselt bírói tisztséget, kérheti a köztársasági elnöktől bíróvá történő kinevezését, ha megfelel a bírói kinevezéshez megállapított követelményeknek és erre vonatkozó kérelmet nyújt be. Figyelemmel arra, hogy a bírák, ügyészek és közjegyzők kinevezésének feltétele az azonos szabályok szerint elvégzett pályaalkalmassági vizsgálat, azon alkotmánybíró számára, aki hivatalba lépéséig határozatlan időre kinevezett bíró, ügyész vagy közjegyző volt, nem szükséges a pályaalkalmassági vizsgálat elvégzése. A megválasztás nem eredményez automatikus bírói kinevezést, a Javaslat ezt az Alkotmánybíróság megválasztott tagjának kérelmétől teszi függővé arra is figyelemmel, hogy az Alkotmánybíróság az Alaptörvény védelmének legfőbb szerve.
+
+Kiemelendő, hogy az Alkotmánybíróság tagjai megbízatásukat közvetlenül a demokratikus felhatalmazással rendelkező legfőbb népképviseleti szervtől, az Országgyűléstől nyerik, amely széles körű konszenzussal, az országgyűlési képviselők kétharmadának szavazatával választja a testület tagjait. A tizenkét éves megbízatási idő, a párttagság tilalma és a politikai tevékenység tilalma az Alkotmánybíróság tagjai függetlenségének alkotmányos garanciái. Tekintettel arra, hogy az Alkotmánybíróság tagjait az Országgyűlés választja azon jogász végzettséggel rendelkező, 45. életévét betöltött büntetlen előéletű és az országgyűlési képviselők választásán választható magyar állampolgár közül, aki kiemelkedő tudású elméleti jogász (egyetemi tanár vagy a Magyar Tudományos Akadémia doktora), vagy legalább húszévi, jogi területen folytatott szakmai gyakorlattal rendelkezik, a bírák jogállásáról szóló törvény szerinti pályáztatás előírása nem indokolt az Alkotmánybíróság tagja kapcsán. Ettől függetlenül az Alkotmánybíróság tagjává megválasztott személynek meg kell felelnie a bírói kinevezéshez megállapított követelményeknek is.
+
+A Javaslat egyértelműsíti, hogy a szünetelést követően a bírót a Kúria elnöke a Kúriára osztja be, amelyet megalapoznak mind az Alkotmánybíróság tagjaival szemben támasztott törvényi feltételek, mind az Alkotmánybíróság tagjaként ellátott tevékenységek.
+
+A Javaslat emellett az Alkotmánybíróság gyakorlata alapján pontosítja az alkotmányjogi panaszjog gyakorlására vonatkozó rendelkezéseket. Az Alaptörvény a panaszjog gyakorlását nem korlátozza alapvető jogokra, az Alkotmánybíróságról szóló törvény sem alapjog, hanem „Alaptörvényben biztosított” jog sérelmét követeli meg. Az Alkotmánybíróság gyakorlata alakította ki, hogy ki minősül érintettnek, és ennek folytán panasz benyújtására jogosultnak. A Javaslat az Alkotmánybíróság értelmezését veszi át a törvény szövegébe, ez az értelmezés azonban a peres eljárásokban érintett közhatalmat gyakorló intézmények számára is kinyitja a panaszjog gyakorlásának lehetőségét. A Javaslat ezért teszi lehetővé a közhatalmat gyakorló szervek számára a panasz benyújtását. Az ilyen indítványozó két esetben fordulhat az Alkotmánybírósághoz. Ha a bíróság döntése az Alaptörvényben biztosított jogát sérti, akkor az Alkotmánybíróság köteles megvizsgálni és indokolni, hogy a hivatkozott Alaptörvényben biztosított az indítványozó közhatalmi intézményt megilleti-e A vizsgálat során figyelemmel kell lenni arra, hogy egyes alapjogok a természetüknél fogva csak az emberre vonatkoznak, míg más alapjogok, illetve Alaptörvényben biztosított jogok a jogi személyeket - így a közhatalmat gyakorló szerveket - is megilletik (az Alkotmánybíróság korábbi döntései szerint ilyen lehet a tisztességes bírósági eljáráshoz való jog vagy a tulajdonhoz való jog, de ilyenek lehetnek egyes kommunikációs alapjogok is). A másik esetben, ha az indítványozó hatáskörének megsértésére hivatkozik, akkor igazolnia kell, hogy ez a hatásköre kifejezetten az Alaptörvényben biztosított vagy pedig azt, hogy hatáskörének megsértése működésének súlyos zavarát okozza. Ez a feltétel akadályozza meg, hogy az érintett intézmények minden pervesztés esetén az Alkotmánybírósághoz forduljanak. Az Alaptörvény XXVIII. cikk (1) bekezdésében foglalt szabály értelmezésekor irányadó a tisztességes eljáráshoz fűződő alapvető joggal kapcsolatban kimunkált korábbi alkotmánybírósági gyakorlat: „Az Alkotmánybíróság a tisztességes eljáráshoz való jog lényegéről kialakított álláspontját elvi jelentőséggel a 6/1998. (III. 11.) AB határozatban foglalta össze. Az ebben megfogalmazott megállapításokat az Alkotmánybíróság utóbb több döntésében is megerősítette és gyakorlattá formálta. Az így kimunkált alkotmányos mérce értelmében a tisztességes eljárás (fair trial) követelménye az eljárásjogi garanciák érvényesülését is felöleli, és egy olyan minőséget jelent, amelyet az eljárás egészének és körülményeinek figyelembe vételével lehet csupán megítélni. A tisztességes eljáráshoz való olyan abszolút jog, amellyel szemben más mérlegelhető jog nem létezik, hiszen már maga is mérlegelés eredménye. A tisztességes eljáráshoz való jog ennek megfelelően valamennyi jogalanyt megillet. Ugyanígy megilleti az állami szerveket a tulajdonhoz való jog is, a státuszukkal összefüggésben gyakorolt egyes kommunikációs alapjogok, és valamennyi olyan alapjog (Alaptörvényben biztosított jog), mely természeténél fogva nem csak a természetes személyeket illeti meg. A Javaslat emellett valamennyi személy és szervezet vonatkozásában tisztázza az érintettség feltételeit, azzal, hogy a hatáskörsérelem önmagában érintettségre vezet a panasz befogadhatóságának szempontjából.
+
+Hatályon kívül helyezésre kerül az Alkotmánybíróságról szóló 2011. évi CLI. törvény 19. § (2) bekezdése, amely szerint az Alkotmánybíróság elnöke a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult. A hatályon kívül helyezést indokolja a személyvédelemre jogosultak körének felülvizsgálata. Ugyanakkor az Alkotmánybíróság jelenlegi elnökét a megbízatása lejártáig még megilleti a személyi védelem, ezért a hatályon kívül helyező rendelkezést az Alkotmánybíróság elnökének 2020. január 1-jét követő első alkalommal történő megválasztását követően kell alkalmazni.
+
+Az 57-59. §-hoz
+
+Az ügyelosztási rendre vonatkozó szabályok módosítását - néhány technikai változtatás mellett többek között - a törvénykezési helyek kialakítása tette szükségessé. Erre figyelemmel a Javaslat kimondja, hogy ha a járásbíróság szervezeti egységeként törvénykezési hely működik, az ügyelosztási rendnek tartalmaznia kell azt is, hogy a járásbírósági székhely és a törvénykezési hely között az ügyek elosztása milyen módon történik. A Javaslat rögzíti azt a kívánalmat is, hogy az ügyelosztási rend kialakítása során értelemszerűen a szakmai szempontok érvényesítésére is törekedni kell.
+
+A 60. §-hoz
+
+A bírósági igazgatás és az ahhoz kapcsolódó döntéshozatal nyilvánosságának biztosítására vonatkozó szabály módosítása a transzparencia elvének való teljesebb körű megfelelést biztosítja azáltal, hogy az Országos Bírósági Hivatal elnöke, az Országos Bírói Tanács és a bírósági vezetők mellett az egyéb bírósági igazgatási szervek és a bírósági igazgatásban közreműködő egyéb bírói testületek részére is kötelezővé teszi a nyilvánosság meghatározott feltételek szerinti biztosítását.
+
+A 61. §, 63. § és a 64. §-hoz
+
+A közigazgatási bíráskodás kétszintű rendszerének kialakításával összefüggésben a közigazgatási és munkaügyi bíróságok megszűnnek. A közigazgatási perben és az egyéb közigazgatási bírósági eljárásban eddig eljáró nyolc kiemelt közigazgatási és munkaügyi bíróság helyett elsőfokon az azokkal megegyező székhelyű és illetékességi területű nyolc törvényszék, másodfokon és felülvizsgálati eljárásban pedig a Kúria jár el. Erre figyelemmel a Javaslat kimondja azt is, hogy a meghatározott törvényszékeken és a Kúrián önálló közigazgatási kollégiumok működnek.
+
+A munkaügyi bíráskodás a jövőben elsőfokon a törvényszéken, másodfokon az ítélőtáblákon történik. Munkaügyi kollégiumok mind a törvényszékeken, mind az ítélőtáblákon működnek azzal, hogy a törvényszéki munkaügyi kollégium összevonható más, a törvényben meghatározott kollégiummal. Tekintettel arra, hogy a munkaügyi perekben másodfokon az ítélőtáblák járnak el, a munkaügyi kollégiumokat a közigazgatási és munkaügyi regionális kollégiumok mintájára már nem indokolt regionális szinten fenntartani, hanem az ítélőtáblákon szükséges azokat megszervezni olyan sajátos szabályokkal, amelyek biztosítják, hogy a kollégiumnak valamennyi, az ítélőtábla területén szolgálatot teljesítő munkaügyi bíró tagja lehessen.
+
+A közigazgatási és munkaügyi bíróságok megszűnése, a közigazgatási bíráskodás kétszintű rendszerének kialakítása és a munkaügyi bíráskodás rendszerének átalakítása értelemszerűen magával vonja a közigazgatási és munkaügyi regionális kollégiumok megszűnését is.
+
+A 62. §-hoz
+
+A Javaslat létrehozza a törvénykezési helyet mint a járásbíróság olyan szervezeti egységét, amely a járásbíróság székhelyén kívüli, de a járásbíróság illetékességi területéhez tartozó járási székhelyen működik. A törvénykezési hely vezetését az érintett törvényszék elnöke által kijelölt bíró vagy igazságügyi alkalmazott csoportvezető látja el. Csoportvezető-helyettes csak az OBH elnöke által kijelölt törvénykezési helyen működik. A törvénykezési hely főszabály szerint a csoportra vonatkozó előírások szerint működik. A törvénykezési hely tehát a járásbíróság szervezeti egységeként, a járásbíróság illetékességi területén, külön illetékességi terület meghatározása nélkül működik. Azt, hogy a törvénykezési hely mely ügyekben jár el, hogy a járásbíróság székhelye és a törvénykezési hely között az ügyek megosztása milyen módon történik, az ügyelosztási rendben kell rendezni.
+
+A járásbíróság székhelyétől különböző településen működő szervezeti egység, a törvénykezési hely létrehozható, de nem kötelezően létrehozandó szervezeti egysége a járásbíróságnak. A Javaslat a törvényi alapjait teremti meg az új szervezeti egységnek, azonban arról az egyes járásbíróságok helyzetének, statisztikai adatainak, az ország különböző térségeiben való elhelyezkedési sajátosságainak figyelembe vételével egyedileg szükséges dönteni - és a döntést törvényi szinten rögzíteni -, hogy ezt az új szervezeti egységet mely járásbíróság esetében indokolt létrehozni.
+
+A 65-74. §-hoz
+
+A Kúria legfontosabb feladata a jogegység, a bíróságok egységes ítélkezési gyakorlatának biztosítása. Ehhez szükséges eljárási eszközök eddig is rendelkezésre álltak, de ezek csak részben feleltek meg a Velencei Bizottság által követett európai követelményeknek. A Velencei Bizottság töretlen álláspontja szerint a jogegységet a peres felek indítványára, rájuk kihatóan, jogorvoslati eszközökkel kell biztosítani, nem pedig informális, igazgatási jellegű módszerekkel, amelyekből a döntések következményét viselő peres felek ki vannak zárva. A Javaslat ennek a követelmények tesz eleget. Megszünteti a leirat jellegű eszközöket, és a jogegységesítést a felülvizsgálati eljárásokra, illetve egy új jogorvoslati eszközre, a jogegységi panaszra bízza. A hatályos szabályok szerinti jogegységi eljárás megmarad, de annak eredménye a felekre csak akkor hat ki, ha azt a Kúria eljáró tanácsa a saját eljárását felfüggesztve indítványozza. A javaslat megoldása szükségessé teszi a Velencei Bizottság és a szakirodalom által egyaránt javasolt precedens-erő biztosítását a Kúria döntéseihez.
+
+Az egységes és az Alaptörvénnyel összhangban álló joggyakorlatot elsősorban nem igazgatási eszközök, hanem a Kúria döntéseinek kötelező ereje biztosítja, mert így a jogorvoslat során gyorsan elérhető az eredmény. A korlátozott precedens-rendszer, amely eredetileg az angolszász jogban jelent meg, de egyre jobban áthatja a kontinentális jogrendszereket is, a jogegység biztosításának alkotmányos, gyors és hatékony eszköze.
+
+A külföldi és hazai szakirodalom irányadó álláspontja szerint a precedensbíráskodás stabilitást, kiszámíthatóságot és a jog egységét biztosítja, és ezáltal az önkényes (az egyedi esetről egyedi esetre történő) döntéshozatal lehetőségét csökkenti, mivel igazolási kötelezettséget ró a bíróságra. Az igazolási kötelezettség miatt a bíróságnak számot kell vetnie a korábbi gyakorlatában kialakított szabályokkal, és meg kell indokolnia, ha nem, vagy eltérő módon alkalmazza azokat (horizontális hatás). A korábbi határozatok kötőerejéről való döntés során számos, sok esetben egymással versengő megfontolások között kell dönteni, és figyelembe kell venni azokat az eltérő jogi és tényleges (de facto) körülményeket, amelyek az egyes esetek kontextusával változnak. A korábbi döntésektől tehát indokolt esetben, racionális érveléssel - különleges igazolással, megfelelő mérlegeléssel - el lehet térni, és így a régebbi jogtételek megújíthatók: a nyílt felülbírálat esetén a bíróság kifejezésre juttatja, hogy a korábbi döntésében megfogalmazott szabályt a döntés meghozatalától nem alkalmazza; a hallgatólagos felülbírálat esetében pedig a korábbi szabályt direkt konfrontáció nélkül rontja le. Ez a gyakorlat egyre finomabb különbségtételekhez, pontosabb értelmezési kritériumokhoz vezet, és lépésről lépésre tartalommal tölti meg a jogrendszer elvont rendelkezéseit, illetve egyre jobban szűkíti a bírói jogértelmezés mozgásterét. Az eltérés okai jellemzően - és az amerikai szakirodalom alapján - például a következők lehetnek: a konkrét ügy elbírálásakor olyan új történeti körülmény vagy ismeret merül fel, amely kétségeket ébreszt a korábbi szabály alkalmazhatóságával szemben; olyan új gazdasági és politikai feltételek állnak fenn, amelyek a szabály további, folyamatos alkalmazását lehetetlenné teszik; a tények megváltoztak a korábbi döntés meghozatalától eltelt időszakban; a bizalom megléte, azaz a korábbi határozat miatti ésszerű várakozás a döntés fenntartására. A döntésben további szempontok is segíthetnek, ilyen például a korábbi határozat „kora”, ami egyben akár a megerősítésének és a felülbírálatának is indoka lehet. A Kúria közzétett határozatai tehát speciális szerepet kaphatnak, hiszen a korábbi határozatok alkalmazása a kiszámíthatóság következtében hozzájárulhat a jogbiztonság növeléséhez is.
+
+A Javaslat értelmében a bíróságok kötelesek a Kúria jogértelmezését követni. Figyelemmel arra, hogy az Abtv. értelmében az Alkotmánybíróság döntése mindenkire, így a bíróságokra nézve is kötelező, ezt nem szükséges ismételten rögzíteni. A rendelkezés ugyanakkor nem sértheti az ítélkező bírók (eljáró tanácsok) személyes függetlenségét. Ennek biztosítása érdekében teszi lehetővé a törvényjavaslat az eltérést a Kúria jogértelmezésétől, ha az az ügy körülményei vagy az Alaptörvénnyel való összhang érdekében szükséges. Az eltérést az eljáró bíró (tanács) köteles külön indokolni. Az eltérés megalapozottságának vitatását lehetővé kell tenni a felek számára, amire elsősorban a büntető, polgári és közigazgatási perrendtartásokról szóló törvényekben biztosított rendes és rendkívüli jogorvoslati eszközök alkalmasak. Arra az esetre, ha a feleknek már nem áll rendelkezésére jogorvoslati eszköz, mert azokat már kimerítette a fél, vagy ilyen eszköz igénybevétele kizárt (ide értve azt az esetet is, ha a Kúria tanácsa tért el a joggyakorlattól) a törvényjavaslat új jogorvoslati eszközként biztosítja a jogegységi panaszt. Mindez a Bszi. jogegységi eljárásra vonatkozó szabályai pontosítását is szükségessé teszi.
+
+A jogegységi panasz bevezetése - szemben a hatályos szabályok szerinti jogegységi eljárással - maradéktalanul megfelel a jogállamiság elvének.
+
+A Velencei Bizottság CDL-AD(2010)004 alap-jelentés kifejezetten poszt-szovjet megoldásnak tekinti az egyes legfelsőbb bíróságok elvi (tehát nem konkrét perekben hozott döntésekből kiolvasható, hanem) jogalkotás- jellegű iránymutatásait, és ehelyett az egyedi ügyekben hozott döntésekkel elért jogegységesítő hatást preferálja (70-71. szakaszok). A Velencei Bizottság bíróságokra és bírákra vonatkozó fontosabb eseti ajánlásai gyűjteménye egyrészt megerősíti, hogy az eseti döntéseken kívüli iránymutatások nem jogállami megoldások, ehelyett a precedens-rendszert ajánlja, és csak a sajátos kollégium létrehozását ellenzi (3.2.1 alcím). Mindezt megismétlik a legújabb eseti döntések is. A CDL-AD(2017)019 jelentés Örményországról az eseti jogegységesítő döntéseket ajánlja az absztrakt, jogfejlesztő célú iránymutatások helyett. Fontosnak tartja, hogy a Legfelsőbb Bíróság döntéseinek kötelező ereje ellenére az alsóbb szintű bíróságok eltérhessenek azoktól, mivel a jogorvoslat során ezeket a Legfelsőbb Bíróság felülbírálhatja, és akár el is fogadhatja a saját korábbi gyakorlata helyett (21-32. és 37. szakaszok). Sőt, javasolja a különböző szakági kollégiumok közös döntéshozatalát (ajánlások első pontja). A CDL-AD(2018)011 jelentés Szerbiáról újra megerősíti a precedensrendszerre vonatkozó ajánlást az absztrakt iránymutatások helyett (28. és 34. szakaszok).
+
+A Javaslat szerint a jogegységi panasz eljárásban a Kúria bíráiból álló, az ügyelosztási rendben meghatározott összetételű panasz-tanácsok járnak el, kizárólag a felek valamelyikének jogorvoslati indítványára, kontradiktórius eljárásban. A Javaslat megállapítja a Bszi.-ben a jogegységi panasz eljárás szabályait. Ha a jogegységi panasz tanács megállapítja a Kúria közzétett határozatától jogkérdésben való eltérést, dönt a bíróságokra kötelező értelmezésről és határozatában a panasszal támadott határozatot hatályában fenntartja, ha az eltérés indokolt volt, vagy megállapítja az eltéréssel okozott jogsértést, de a panasszal támadott határozatot hatályában fenntartja, ha a panaszt olyan ügyben nyújtották be, amelyben törvény a bíróság eljárására legfeljebb ötnapos határidőt állapít meg, vagy más törvény így rendelkezik. E korlátozást az indokolja, hogy az ilyen rövid határidők meghatározásával a jogalkotó már mérlegelte azt a közérdeket, amely ezen ügyek mihamarabbi befejezéséhez fűződik. Ezekben az esetekben a jogegységi panasz tanács határozata jogegységi határozat hatályú, azt a jogegységi határozatok közzétételére vonatkozó szabályok szerint a Magyar Közlönyben közzé kell tenni. Ezáltal az új eljárás bevezetése nem veszélyezteti a perek befejezésének időtartamát, mert a jogegységi panasz tanács döntése után az esetek jelentős részében nem kell megismételni a felülvizsgálati eljárást. A jogegységi panasz tanács döntése egyrészt az utolsó bírósági jogorvoslati forma, amely véglegesen lezárja az ügyet. Másrészt a jogegység kérdésében is állást foglal: vagy a korábbi gyakorlatot tartja fenn, vagy pedig az attól eltérő döntéshez fűz általános kötelező erőt a jövőre nézve.
+
+A Javaslat - ezzel párhuzamosan - a felek közreműködése nélküli jogegységesítő módszerek visszaszorítása érdekében megszünteti az elvi döntés és az elvi határozat kiadásának lehetőségét, továbbá kizárja, hogy bírói testület, bírósági vezetők, illetve bírák tanácskozása nevében közzétehető legyen olyan jogértelmezési célú állásfoglalás, amelynek meghozatalára törvény nem ad felhatalmazást.
+
+A Javaslat emellett az ítélkezés egységének biztosításra vonatkozó rendelkezések tekintetében is elvégzi a közigazgatási és munkaügyi bíróságok és a közigazgatási és munkaügyi regionális kollégiumok megszűnésével összefüggésben szükséges módosításokat. Figyelemmel arra, hogy a Kúria minden ügytípus esetén felülvizsgálati bíróságként jár el, nincs lehetőség a kollégiumokat az alkalmazott anyagi jog alapján létrehozni. Az alkalmazott eljárásjog (Be., Pp., Kp.) viszont alkalmas erre. A javaslat ezért az eltérő eljárásjogokhoz rendeli a kollégiumokat azzal, hogy ha ez indokolatlan méretbeli különbségeket okozna, részkollégiumok is létrehozhatók, ennek során már az alkalmazott anyagi jog is figyelembe vehető.
+
+A 75. §-hoz
+
+A Javaslat a Bszi. és a Bjt. módosításával megteremti a lehetőséget arra, hogy az Országos Bírósági Hivatal elnöke a közigazgatási ügyekben eljáró bírót - közigazgatási tapasztalatainak bővítése, illetve bírói tapasztalatainak a közigazgatásban történő kamatoztatása érdekében - meghatározott közigazgatási szervekhez vagy alkotmányos intézményekhez beoszthassa. Erre figyelemmel a Javaslat az Országos Bírósági Hivatal elnökének a személyzeti kérdésekkel kapcsolatos feladatkörét kibővíti a bíró ezen szervekhez történő beosztásáról való döntéssel.
+
+A 76-78. §-hoz
+
+A Bszi. hatályos szövege szerint az Országos Bírói Tanács (a továbbiakban: OBT) választott bíró tagjai közül egy tag közigazgatási és munkaügyi bírósági bíró. A közigazgatási és munkaügyi bíróságok megszűnésével a módosítás az OBT korábban közigazgatási és munkaügyi bírósági bíró tag tagságát törvényszéki bírói tagságra alakítja át. Emellett a módosítás a küldöttválasztással kapcsolatban is figyelembe veszi a közigazgatási ügyekben eljáró bírák és a munkaügyi ügyekben eljáró bírák sajátos helyzetét.
+
+A 79. § és 80. §-hoz
+
+A Javaslat megteremti annak lehetőségét, hogy a Kúria elnökhelyettese igazgatási tevékenysége során hatékonyabban segíthesse a Kúria elnökét. E rendelkezés nem érinti a Kúria főtitkárának és főtitkár-helyettesének igazgatási feladatait, ők továbbra is ellátják a Bszi. 118. § (4) és (5) bekezdésében meghatározott, valamint a szervezeti és működési szabályzat szerint hatáskörébe utalt igazgatási feladataikat.
+
+A 81-84. §-hoz és a 87. §-hoz
+
+A módosítás technikai jellegű szövegpontosításokat tartalmaz, melyeket a közigazgatási és munkaügyi bíróságok és a közigazgatási és munkaügyi regionális kollégiumok megszűnése tett szükségessé.
+
+A 85. §-hoz
+
+A Javaslat megteremti annak lehetőségét, hogy a törvényszéken a közigazgatási és a munkaügyi bírói álláshelyekre, valamint az ítélőtáblai munkaügyi bírói álláshelyre kiírt pályázatokban a bírói tanács kiegészüljön a Kúria - és törvényszéki munkaügyi bíró esetén az ítélőtábla - azonos szakági kollégiumában ítélkező bíráival.
+
+A 86. §-hoz
+
+A közigazgatási és munkaügyi bíróságok és a közigazgatási és munkaügyi regionális kollégiumok megszűnése, valamint a munkaügyi perek fórumrendszerének átalakítása miatt szükséges a kollégiumokra vonatkozó szabályozás módosítása.
+
+A 88. §-hoz
+
+A Javaslat a közigazgatási- és munkaügyi bíróságok megszűnésével és a közigazgatási perek fórumrendszerének átalakításával összefüggésben szükséges átmeneti rendelkezéseket tartalmazza. A Javaslat ezzel összefüggésben kimondja, hogy az ítélőtáblai munkaügyi kollégiumok, a közigazgatási ügyekben eljáró törvényszékek közigazgatási kollégiumai, mikor kezdik meg a működésüket. A Javaslat kimondja, hogy Kúria Közigazgatási-Munkaügyi Kollégiumából a munkaügyi szakág kiválik és a Kúria Polgári Kollégiumába olvad be, és 2020. április 1. napjától a Kúrián a Közigazgatási Kollégium önállóan működik. A Javaslat meghatározza a közigazgatási munkaügyi bíróságok bírósági vezetőinek, a közigazgatási és munkaügyi regionális kollégiumok bírósági vezetőinek, a Fővárosi Törvényszék Közigazgatási és Munkaügyi Kollégiuma bírósági vezetőinek a megbízatásával kapcsolatos átmeneti szabályokat is.
+
+Az átmeneti szabályok között a Javaslat rendelkezik arról is, hogy jogegységi panasz eljárásnak a 2020. július 1-jén és az azt követően meghozott jogerős ítélet vagy az ügy érdemében hozott jogerős végzés ellen van helye. A hatálybalépés így biztosítja, a felkészülési időt az új eljárásforma alkalmazására, ugyanakkor lehetővé teszi, hogy csak olyan ítélettel szemben legyen igénybe vehető, amelyeket már a precedens-erő figyelembe vételével hoztak meg.
+
+A 89. §-hoz
+
+A módosítás technikai jellegű szövegpontosításokat tartalmaz.
+
+A 90. §-hoz
+
+A közigazgatási és munkaügyi bíróságok megszűnése miatt szükségessé vált terminológiai és technikai jellegű hatályon kívül helyező rendelkezéseket tartalmazza.
+
+A 91. §-hoz
+
+A Javaslat megteremti annak a lehetőségét, hogy az Alkotmánybíróság tagjai megválasztásuk esetén ne veszítsék el korábbi bírói tisztségüket, figyelemmel arra, hogy az Alkotmánybíróság tagjai nem választhatóak újra. Emellett a Javaslat értelmében az az Alkotmánybíróság tagjává megválasztott személy, aki a megválasztását megelőzően nem viselt bírói tisztséget, kérheti a köztársasági elnöktől bíróvá történő kinevezését, ha megfelel a bírói kinevezéshez megállapított követelményeknek és erre vonatkozó kérelmet nyújt be. Figyelemmel arra, hogy a bírák, ügyészek és közjegyzők kinevezésének feltétele az azonos szabályok szerint elvégzett pályaalkalmassági vizsgálat, azon alkotmánybíró számára, aki hivatalba lépéséig határozatlan időre kinevezett bíró, ügyész vagy közjegyző volt, nem szükséges a pályaalkalmassági vizsgálat elvégzése. A megválasztás nem eredményez automatikus bírói kinevezést, a Javaslat ezt az Alkotmánybíróság megválasztott tagjának kérelmétől teszi függővé arra is figyelemmel, hogy az Alkotmánybíróság az Alaptörvény védelmének legfőbb szerve. Mindezt a Javaslat oly módon biztosítja, hogy az Alkotmánybíróság tagja megbízatásának ideje alatt a bírói szolgálati viszony szünetel, erre tekintettel összeférhetetlenség sem áll fenn. A szünetelés ex lege rögzítése továbbra is garantálja mind az Alkotmánybíróság, mind a bíróságok függetlenségét.
+
+A 92-93. §-hoz
+
+A Javaslat megteremti annak lehetőségét, hogy a járásbíróságok szervezeti egységeként törvénykezési hely működjön. Ha a járásbíróság szervezeti egységeként törvénykezési hely is működik, a járásbíróság bírái a tevékenységüket mind a járásbíróság székhelyén, mind a törvénykezési helyen folytatják. Ez egy olyan fontos körülmény, amelynek a tudatában kell lennie a bírói álláshelyre pályázóknak, ezért a Javaslat előírja, hogy a bírói álláshelyre vonatkozó pályázatban utalni kell erre a körülményre.
+
+A fentiek mellett a Javaslat pontosítja a pályázat elbírálására vonatkozó szabályokat arra figyelemmel, hogy a közigazgatási és munkaügyi bíróságok megszűnnek, így a közigazgatási és munkaügyi bíróságokra vonatkozó szabályok elhagyása szükséges a törvény rendelkezéseiből.
+
+A 94. §-hoz
+
+A Bjt. hatályos 13. §-a feljogosítja a bíróság elnökét arra, hogy ha a pályázó pályázata elkésett, azt elutasítsa, továbbá arra, hogy a hiányos pályázatot benyújtót hiánypótlásra hívja fel, és a hiányok pótlásának elmulasztása esetén a pályázatot elutasítsa. A Bjt. az elutasítási jogot a járásbíróság, valamint a közigazgatási és munkaügyi bíróság elnöke számára nem biztosítja. Tekintettel arra, hogy a közigazgatási és munkaügyi bíróságok megszűnnek, módosítani szükséges a rendelkezést, abból elhagyva a közigazgatási és munkaügyi bíróságra utalást. Emellett az egyértelmű szabályozás érdekében a Bjt. 13. § új (2) bekezdése rendelkezik arról, hogy a járásbíróság elnökének mi a teendője, ha a járásbíróságra benyújtott pályázat elkésett vagy hiányos.
+
+A Bjt. hatályos rendelkezései nem szabályozzák az elutasító döntéssel szembeni jogorvoslatot, amit a Javaslat szerinti módosítás pótol, és lehetővé teszi, hogy a pályázó három napon belül a szolgálati bíróság előtt kifogásolja a döntést. A szolgálati bíróság a kifogást, annak előterjesztését követő nyolc napon belül elbírálja, és döntését nyomban közli a pályázóval és a bíróság elnökével. Ha a szolgálati bíróság a kérelemnek helyt ad, úgy az elutasító döntést hatályon kívül helyezi. A szolgálati bíróság döntésével szemben további jogorvoslatnak nincs helye.
+
+A 95. §-hoz
+
+A Bjt.-ben szabályozott, a pályázatot elkésettség vagy a hiányok pótlásának elmaradása miatt elutasító döntéssel szemben benyújtott kifogások elbírálásának szükséges részletes szabályait rögzíti a Bjt. új 13/A. §-a. Indokolt előírni, hogy a szolgálati bíróság a fegyelmi eljárás szabályai szerint jár el, azonban szükséges megadni az eljárás sajátosságai miatti eltérő szabályokat is.
+
+Eltérő szabályként ezen kifogások esetében rögzíteni szükséges, hogy a kifogást a döntéshozónál kell benyújtani. Az előírás indoka, hogy a döntéshozó már a kifogás ismeretében meg tudja tenni a nyilatkozatát a kifogásra, és csatolni tudja a döntését megalapozó iratokat. Így az elsőfokú szolgálati bírósághoz már a kifogással együtt megérkeznek a kifogás elbírálásához szükséges nyilatkozatok és iratok is. Ez az egyik biztosítéka annak, hogy a szolgálati bíróság a megadott 8 napos határidő alatt elbírálhassa a kifogást. Emellett a fegyelmi eljáráshoz képest eltérő szabály, hogy a kifogás elbírálására vizsgálóbiztos kijelölése és előzetes vizsgálat nélkül, tanácsülésen, szükség esetén iratok beszerzése és a felek meghallgatása mellett kerül sor, hiszen ezen kifogások fő szabály szerint okirati bizonyítékok alapján bírálhatóak el.
+
+A 96. §-hoz
+
+A módosítás a Bjt. 14. és 15. §-ának rendelkezéseit átcsoportosítja annak érdekében, hogy a bírósági álláshelyekre kiírt pályázatok elbírálása során figyelembe vehető objektív és szubjektív szempontokat rögzítő szabályok a Bjt. 14. §-ában kerüljenek elhelyezésre, a 15. §-ban pedig azok a rendelkezések kerülnek rögzítésre, amelyek a pályázati rangsor kialakítására vonatkoznak.
+
+A 97. §-hoz
+
+A hatályos Bjt. 21. § (4) bekezdése alapján a pályázaton részt vett, és elkésettség vagy hiánypótlás nem teljesítése miatt el nem utasított pályázó a pályázat eredményével szemben kifogással élhet, ha a nyertes pályázó esetében a bíróvá történő kinevezés e törvényben meghatározott feltételei nem állnak fenn, illetve ha a nyertes pályázó a pályázati kiírásban szereplő feltételeknek nem felel meg. A hatályos Bjt. 21. § (5) és (6) bekezdése alapján a kifogás tárgyában a közigazgatási ügyben eljáró Fővárosi Törvényszék jár el. Ugyanakkor a pályázattal kapcsolatos jogorvoslati kérelmekről indokolt, hogy egységesen a szolgálati bíróság döntsön, ezért a pályázat eredményével szembeni kifogás elbírálását is a szolgálati bíróság hatáskörébe utalja a Javaslat. Emellett szükséges rögzíteni azokat a szabályokat, amelyek szerint a szolgálati bíróság a kifogás elbírálása során eljár.
+
+A 98. §-hoz
+
+A Javaslat a bíró beosztására vonatkozó rendelkezéseket pontosítja azzal, hogy a normaszövegből elhagyja a megszűnő közigazgatási és munkaügyi bíróságra utalást.
+
+A 99. §-hoz
+
+Tekintettel arra, hogy a törvénykezési hely a járásbíróság szervezeti egysége, a törvénykezési hellyel rendelkező járásbíróságok nem különböznek az egyéb járásbíróságtól abban, hogy minden ide beosztott bíró szolgálati helye a járásbíróság. Ugyanakkor a törvénykezési hellyel működő járásbíróságok és az ott működő bírák helyzete speciális a tekintetben, hogy a bírák a tevékenységüket mind a járásbíróság székhelyén, mind a törvénykezési helyen végzik. Ez alól csak a törvényben meghatározott indokok alapján - egészségi, családi okok - enged kivételt a szabályozás.
+
+A 100. §-hoz
+
+A hatályos Bjt. lehetővé teszi, hogy a bíró beosztásra kerüljön a Kúriára, az OBH-ba, valamint az igazságügyért felelős miniszter által vezetett minisztériumba. A Javaslat emellett biztosítja a közigazgatási ügyben eljáró bírák beosztásának lehetőségét a közigazgatási szervekhez, alkotmányos intézményekhez annak érdekében, hogy a közigazgatási ügyben eljáró bíró a közigazgatási tapasztalatait bővíthesse, illetve a bírói tapasztalatot a közigazgatásban kamatoztassa. A beosztás a felek háromoldalú megállapodása esetén lehetséges, tehát ahhoz az érintett szerv vezetőjének kezdeményezése, a bíró kifejezett kérelme, valamint a bíró felett munkáltatói jogkört gyakorló bírósági elnök egyetértése szükséges.
+
+A 101. §-hoz
+
+A Bjt. hatályos rendelkezései a közigazgatási és munkaügyi bírák kijelöléséről rendelkeznek. Azzal, hogy a közigazgatási és munkaügyi bíróságok megszűnnek, külön kell rendelkezni a közigazgatási bírák és külön a munkaügyi bírák kijelöléséről. Emellett a Bjt. kiegészítésre kerül azzal a rendelkezéssel, hogy a kijelölés a törvény erejénél fogva megszűnik, ha a bíró beosztási helye megváltozik, kivéve, ha a közigazgatási ügyben eljáró bíró az új szabályozás alapján közigazgatási szervhez, illetve alkotmányos intézményhez kerül beosztásra. A kiegészítés indoka, hogy a gyakorlatban előfordul, hogy a bíró beosztási helye megváltozik, ezáltal már nem jár el a kijelöléssel érintett ügyekben, a kijelölés megszüntetésének kezdeményezésére mégsem kerül sor.
+
+A 102. §-hoz
+
+A Javaslat a bíró kirendelésére vonatkozó rendelkezéseket pontosítja azzal, hogy a normaszövegből elhagyja a megszűnő közigazgatási és munkaügyi bíróságra utalást.
+
+A 103. §-hoz
+
+A Javaslat a hozzátartozó fogalmára vonatkozó rendelkezést pontosítja azzal, hogy hozzátartozón a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) meghatározott személyeket kell érteni. A pontosítás indoka, hogy a hatályos szabályozás e körben a Pp.-re utal, azonban hozzátartozón maga a Pp. is a Ptk.-ban meghatározott személyeket érti.
+
+A 104. §-hoz
+
+A Bjt. 39. §-ában új (3) bekezdésben szükséges rendezni, hogy az OBH-ba, a minisztériumba, az érintett szervhez beosztott bíró milyen szakmai vezetői pozíciót tölthet be. Az ügyészségre beosztott bírák esetében kizárási szabály megalkotása nem volt indokolt, más beosztási helyeken azonban a bírák vezetői tisztségek közül kizárólag főosztályvezetői, főosztályvezető-helyettesi vagy osztályvezetői munkakört tölthetnek be, illetve ilyen álláshelyen foglalkoztathatóak.
+
+A 105. §-hoz
+
+A Bjt. hatályos 40. § (5) bekezdésében szereplő összeférhetetlenségi szabály a Bjt.-t megelőzően hatályos, a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvényből átvett rendelkezésként azt a célt szolgálta, hogy a bíró számára az igazságszolgáltatási tevékenység (a választottbíráskodás quasi igazságszolgáltatási jellege miatt) csak egyféle minőségben, hivatásos bíróként gyakorolható.
+
+A jövedelem és vagyonadók területén a kettős adóztatás elkerülésére irányulóan irányelvben megjelentetett európai uniós új vitarendezési mechanizmus [ld. a törvény az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvet] került kialakításra, amely új jogalapot teremt az adóügyi vitarendezésre a már létező jogalapok mellett. Az irányelv átültetésére a magyar jogba az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvényben (a továbbiakban: Aktv.) került sor, elsődlegesen annak III/A. Fejezetében. Az új szabályok alapján a tagállamok közötti adóvitákat végső soron, kölcsönös megegyezés hiányában, egy független bizottság dönti el. A bizottság döntése a tagállamokra kötelező.
+
+A vitarendezési irányelv alapján tanácsadó bizottság tagjainak Bizottság által vezetett listájára a tagállamoknak független szakértőket kell jelölniük. Az irányelv átültetését megvalósító Aktv. 41/O. § alapján az összeférhetetlenségi szabályok főként hatósággal, adótanácsadással foglalkozó céggel vagy a vitás kérdésben érintett adózóval történő foglalkoztatással kapcsolatos kizárási feltételeket tartalmaznak. A szakmai és összeférhetetlenségi szabályoknak a magyar bírák is megfelelnének, ugyanakkor a Bjt. hatályos 40. § (5) bekezdése kategorikusan kizárja, hogy választottbírósági tisztséget töltsenek be.
+
+A nemzetközi adózás területén a magyar érdekek érvényesítését segítené elő, ha ez a szabály megváltoztatásra kerülne, és a bírók független szakértői jelölésére is sor kerülhetne. Ennek oka, hogy a közigazgatási bírók olyan átfogó elméleti és szakmai tudással rendelkeznek, ami az adóviták szakmai megítéléséhez szükséges, valamint olyan nélkülözhetetlen eljárási ismeretek birtokában vannak, amik a viták rendezését könnyíthetik. Az egyes vitás ügyekben az Aktv. szerinti magyar illetékes hatóság tesz majd javaslatot, hogy a tanácsadó bizottságban a magyar független szakértők közül ki vegyen részt.
+
+Az ún. klasszikus összeférhetetlenségi szabályoknak megfelelés azonban továbbra is biztosított lenne: érintett személynek (bírónak) a kijelölést lehetősége van visszautasítani, ha hivatali teendőivel, időbeosztásával nem egyeztethető össze.
+
+Magyarország nemzeti érdeke a nemzetközi vitarendezésben való magyar bírói részvétel, ezért Magyarországnak az Alaptörvény E) cikkéből fakadó európai uniós jogi kötelezettségei teljesítése érdekében indokolt e szabály alól felmentést adni.
+
+A Javaslat emellett rögzíti azt is, hogy a - törvény erejénél fogva szünetelő szolgálati jogviszonyú - bíróval kapcsolatban az alkotmánybírói tisztsége miatt összeférhetetlenség nem áll fenn.
+
+A 106. § és 107. §-hoz
+
+A módosítás a Bjt. 41. §-ában szabályozott azon speciális összeférhetetlenségi okot szabályozza újra, amely a bírósági vezető és hozzátartozója együttalkalmazására vonatkozik. A módosítás a szabály általánosításával megteremti a jogszabályi kereteket arra, hogy azt alkalmazni lehessen valamennyi bírósági vezető tekintetében.
+
+A módosítás emellett pontosítja az összeférhetetlenség fennállásáról szóló határozattal szembeni jogorvoslatra vonatkozó rendelkezéseket, rögzítve, hogy ha az összeférhetetlenség nem áll fenn, erről rendelkezik az elsőfokú szolgálati bíróság a határozatában.
+
+A 108. §-hoz
+
+A nemzetbiztonsági vizsgálatra vonatkozó általános szabályokat az Nbtv. tartalmazza, a Javaslat ezért a bírák esetében is utal arra, hogy a bírák nemzetbiztonsági vizsgálatát is az Nbtv.-ben foglaltak szerint kell elvégezni, azonban a bírói jogállás sajátosságaira figyelemmel néhány eltérő rendelkezést is elhelyez a Bjt.-ben a Javaslat.
+
+A Javaslat rögzíti, hogy a bíró nemzetbiztonsági ellenőrzését a munkáltatói jogkör gyakorlója kezdeményezi.
+
+Az Nbtv. 71. § (1) bekezdésében meghatározott főszabályhoz kapcsolódó, a bírákra vonatkozó értelmezési szabály, amely szerint a bíró nemzetbiztonsági ellenőrzése tekintetében, az Nbtv. alkalmazásában a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony alatt a nemzetbiztonsági ellenőrzéshez kötött tisztséget, munkakört vagy bírósági eljáráshoz kapcsolódó eljárási jogosultságot kell érteni. A rendelkezés egyértelművé teszi, hogy a nemzetbiztonsági ellenőrzés során esetlegesen megállapított kockázat következménye nem lehet a bírói szolgálati jogviszony megszűnése, kizárólag a konkrét, nemzetbiztonsági ellenőrzéshez kötött tisztséget, munkakört nem töltheti be, illetve eljárási jogosultságot nem gyakorolhatja az érintett.
+
+A Javaslat a Bjt. kiegészítésével meghatározza, hogy kik azok a bírák, akik nemzetbiztonsági ellenőrzés alá esnek.
+
+A nemzetbiztonsági ellenőrzés alá eső személyek Nbtv.-ben meghatározott körében jelenleg is szerepelnek a tikos információgyűjtést engedélyező bírák, valamint azok a bírák is, akik az Nbtv.-ben vagy más törvényben [az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.), a minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.)] meghatározottak szerint, az ott rögzített perekben csak nemzetbiztonsági ellenőrzés lefolytatása esetén járhatnak el.
+
+A hatályos törvények az alábbi négy esetben rögzítik a bírák nemzetbiztonsági ellenőrzési kötelezettségét:
+
+a) az Nbtv. szerinti titkos információgyűjtést engedélyező bíró [Nbtv. 74. § i) pont ir) alpont],
+
+b) a nemzetbiztonsági ellenőrzés megállapításaival szembeni panasz elutasítása esetén benyújtott felülvizsgálati kérelem elbírálására irányuló perben eljáró bíró [Nbtv. 72/D. § (12) bekezdés],
+
+c) a minősített adatra vonatkozó megismerési engedély megtagadása miatt indított perekben eljáró bíró [Mavtv. 11. § (3) bekezdés], valamint
+
+d) a minősített adat minősítője által a titokfelügyeleti határozat megtámadása iránti perekben eljáró bíró [Infotv. 63. § (6) bekezdés].
+
+A nemzetbiztonsági ellenőrzés alá eső személyek Nbtv.-ben meghatározott köre kiegészül a minisztériumba, illetve egyéb szervhez beosztott azon bírókkal, akik a beosztásuk szerinti szervnél olyan tisztséget töltenek be, illetve olyan munkakört látnak el, amely nemzetbiztonsági ellenőrzéshez kötött. A nemzetbiztonsági ellenőrzés alá eső személyek Nbtv.-ben meghatározott köre kiegészül továbbá azoknak a bíró által ellátott feladatoknak a felsorolásával, amelyek az OBH elnöke által kiadott közjogi szervezetszabályozó eszközben foglaltak szerint jelenleg is nemzetbiztonsági ellenőrzés alá esnek, ugyanakkor garanciális okokból indokolt az érintett feladatoknak a törvényi szinten való rögzítése.
+
+A 109. § és 110. §-hoz
+
+A Javaslat a közigazgatási szervhez, illetve alkotmányos intézményhez beosztott bíró jogállására vonatkozó speciális szabályokat rögzíti.
+
+A 111-114. §-hoz
+
+A Javaslat a bíró értékelésére vonatkozó rendelkezéseket pontosítja azzal, hogy a normaszövegből elhagyja a megszűnő közigazgatási és munkaügyi bíróságra utalást.
+
+A 115-118. §-hoz
+
+A módosítás az értékelés eredményével szembeni jogorvoslat és a szakmai alkalmatlansági eljárás szabályait pontosítja annak érdekében, hogy e két eljárás speciális szabályai egyértelműen elkülönítésre kerüljenek. Emellett a módosítás mellőzi a közigazgatási és munkaügyi bíróságra, valamint a közigazgatási és munkaügyi regionális kollégiumra történő utalásokat.
+
+A 119. §-hoz
+
+A Javaslat az Abtv. módosításával összhangban rendelkezik, arról, hogy az Alkotmánybíróság tagjai megválasztásuk esetén ne veszítsék el korábbi bírói tisztségüket. Mindezt a Javaslat oly módon biztosítja, hogy az Alkotmánybíróság tagja megbízatásának ideje alatt a bírói szolgálati viszony szünetel, erre tekintettel összeférhetetlenség sem áll fenn. A szünetelés ex lege rögzítése garantálja, hogy ugyanaz a személy egy időben ne járhasson el az Alkotmánybíróság tagjaként és bíróként is, ezáltal tiszteletben tartja a két intézmény függetlenségét. A Javaslat rögzíti továbbá, hogy a szolgálati viszony szünetelését követően a Kúria elnöke a bírót a Kúriára osztja be. Ennek indoka azonos a Javaslat Abtv. módosításával kapcsolatos rendelkezésénél írtakkal.
+
+A 120. § és 121. §-hoz
+
+A közigazgatási és munkaügyi bíróság, valamint a közigazgatási és munkaügyi regionális kollégium megszűnése miatti változásoknak megfelelő módosításokat vezeti át a Javaslat a Bjt. 96. § (1) bekezdésében és a Bjt. 99. §-ában. Emellett rendezi azt a felmentési esetet is, amikor a bíró szolgálati viszonya az alkotmánybírósági tagsága miatt szünetel, és ez alatt betölti az általános öregségi nyugdíjkorhatárt.
+
+A 122. §-hoz
+
+A Javaslat a bírói álláspályázati eljárás során benyújtott kifogás elbírálását a szolgálati bírósághoz telepíti, azonban szükséges ennek meghatározása a szolgálati bíróság hatásköri szabályai között is
+
+A 123. § és 124. §-hoz
+
+A közigazgatási ügyekben eljáró bíró nemcsak az igazságügyért felelős miniszter által vezetett minisztériumba, hanem a Bjt. 27/A. §-ban meghatározott egyéb szervekhez is beosztható, ezért rendelkezni szükséges arról, hogy ezen bírák esetében a fegyelmi eljárás megindítását az érintett szerv vezetője kezdeményezheti.
+
+A 125. §-hoz
+
+2020. április 1. napjától a munkaügyi perekben elsőfokon a törvényszék jár el. A módosítás ennek megfelelően pontosítja a Bjt. 146. §-ának rendelkezéseit.
+
+A 126. §-hoz
+
+Tekintettel arra, hogy a közigazgatási ügyekben eljáró bírák a Bjt. új 27/A. §-a alapján egyéb szervhez is beoszthatóak, a módosítás kiegészíti az ezzel kapcsolatos szükséges szabályokkal a Bjt. 147. §-át, mikor kimondja, hogy az érintett szervhez beosztott bíró adatait az érintett szervnél kell nyilvántartani.
+
+A 127-130. §, 132-135. § és 145. §-hoz
+
+A Bjt. szerint a bírót hivatása méltóságának és felelőssége súlyának megfelelő javadalmazás illeti meg. Átfogó igazságügyi bérrendezésre legutóbb 2004-ben került sor, amely következtében jelentős különbségek alakultak ki a bírói és ügyészi bérek, valamint a magán-és közszféra egyéb területein foglalkoztatottak bérei között. Bár 2018. szeptember 1. napjától az ügyészi illetménypótlékok és a vezetői pótlékok számottevően emelkedtek, a bírói pótlékok mindezidáig változatlanok maradtak. A bírói illetmények megfelelő szinten való meghatározása a bíróságok Alaptörvényben rögzített függetlenségének, továbbá a magas szakmai színvonal megőrzésének egyik biztosítéka. Ezen alapelvekkel és garanciális rendelkezésekkel összhangban az Országgyűlés elismerte a Kormány azon szándékát, hogy az igazságszolgáltatásban foglalkoztatottak számára méltányos, a mindenkori nemzetgazdaság teljesítményével összhangban álló javadalmazást biztosítson. A magyar gazdaság európai uniós átlagon felüli teljesítménye megteremti annak lehetőségét, hogy a bírókra vonatkozóan átfogó bérrendezés valósulhasson meg, ezáltal közelítve illetményüket az európai uniós átlaghoz. A jelen törvényben meghatározott illetményemelés figyelembe veszi továbbá a bírói és ügyészi illetmények azonos mértékének alapelvét. A Javaslat az illetménykorrekción túl rendelkezik a hatályos illetményrendszer felülvizsgálatáról, annak korszerűsítéséről és igazságosabbá tételéről. Az alkalmas arra, hogy az Európa élvonalához tartozó magyar bírói és ügyészi pályát vonzóvá tegye és a pályakezdő jogászokat ezen hivatások választására sarkallja. Jelen javaslat új lehetőségeket teremt a több éves tapasztalattal rendelkező bírósági és ügyészségi szakemberek számára is, mivel a megfelelő anyagi elismerés ösztönzőleg hat a vezetői beosztások megpályázására és a nagyobb felelősség vállalására. A Javaslat elfogadásával az Országgyűlés támogatja azon kormányzati törekvést, miszerint a 2020. évben megvalósuló, átlagosan 32,6%-ot kitevő emelést a 2021. évben további 12%-os, a 2022. évben pedig 13%-os emelés kövesse. Az így megvalósuló közel 68%-os átlagemelés hozzávetőlegesen háromezer bírót érint majd, ezáltal közvetlenül hozzájárulva kiemelkedő szakmai tevékenységük fenntartásához.
+
+A 131. §-hoz
+
+A Bjt. 172. § (2) bekezdése módosításának célja, hogy a bírák illetményének meghatározásához szükséges szolgálati idő beszámítására vonatkozó, jelenleg eltérő országos munkáltatói gyakorlat a jövőben egységessé váljon. Az OBH elnökének jelzése szerint a törvényszékek ugyanis mindeddig eltérő gyakorlatot folytattak a szakvizsgához kötött egyéb jogviszonyban töltött idő szolgálati időbe történő beszámítása körében, amelyre egyértelműen mérlegelési jogot biztosított a Bjt. hatályos rendelkezése. Ugyanakkor a kiemelkedő társadalmi fontosságú bírói munka magas színvonalú anyagi elismerésének biztosítása és a munkáltatói illetmény megállapítása gyakorlatának egységesítése érdekében indokolttá vált a szolgálati idő beszámítására vonatkozó rendelkezés módosítása. A módosítás értelmében szolgálati időként kell figyelembe a jogszabály által jogi szakvizsgához kötött, továbbá a jogszabály felhatalmazása alapján a munkáltatói jogkör gyakorlójának szabályzata által jogi szakvizsgához kötött egyéb jogviszonyban vagy tevékenységgel eltöltött időt is.
+
+A jogszabály által jogi szakvizsgához kötött, továbbá a jogszabály felhatalmazása alapján a munkáltatói jogkör gyakorlójának szabályzata által jogi szakvizsgához kötött egyéb jogviszonyban vagy tevékenységgel eltöltött idő a vonatkozó jogszabályok alapján egyértelműen megállapítható. Így például az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény kimondja, hogy a területi kamarába ügyvédként, alkalmazott ügyvédként, kamarai jogtanácsosként - a többi jogszabályi feltétel teljesülése esetén - között az vehető fel, aki magyar jogi szakvizsgát tett [58. § (1) bekezdés c) pont, 60. § (1) bekezdés c) pont, 67. § (1) bekezdés c) pont]. A közjegyzőkről szóló 1991. évi XLI. törvény pedig úgy rendelkezik, hogy közjegyzővé az nevezhető ki, továbbá közjegyző-helyettesként a közjegyzői kamara névjegyzékébe az vehető fel, aki a jogi szakvizsgát letette [17. § (1) bekezdés d) pont, 27. §]. A Kit. 58. § (2) bekezdés c) pontja úgy rendelkezik, hogy a munkáltatói jogkör gyakorlója - az álláshelyen ellátandó feladat és a (3) bekezdés szerinti kormányrendeletben foglaltak figyelembevételével - szabályzatában meghatározza az álláshely betöltésének szakmai feltételeit, így különösen a közigazgatási alap-, illetve szakvizsga, jogi szakvizsga, tudományos fokozat meglétét, egyéb közigazgatási tanulmányokat. Így a jelen módosítás eredményeképpen a Bjt. 172. § (2) bekezdése egyértelműen, következetesen és egységesen határozza meg a munkáltatók számára a szolgálati időként beszámítandó, bírói kinevezést megelőző jogviszonyokat.
+
+A 136. §-hoz
+
+A módosítás a cafetéria juttatások vonatkozásában hozzáigazítja a normaszöveget a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 2019. január 1-jétől hatályos rendelkezéseihez. A Javaslat a cafetéria-rendszeren kívül nyújtható egyéb, a Bjt. 189. § bekezdéseiben meghatározott juttatások körét nem érinti.
+
+A 137. §-hoz
+
+A Javaslat pontosítja a normaszöveget, mikor kimondja, hogy az Országos Bírósági Hivatal elnöke a juttatások részletes feltételeit és mértékét szabályzatban kell, hogy megállapítsa.
+
+A 138. § és 139. §-hoz
+
+Tekintettel arra, hogy a közigazgatási ügyekben eljáró bírák a Bjt. új 27/A. §-a alapján egyéb szervhez is beoszthatóak, a módosítás kiegészíti az ezzel kapcsolatos szükséges szabályokkal a Bjt. 195. §-át, valamint módosítja a Bjt. 70. alcímének címét, illetve elvégzi a Kit. fogalomhasználatához igazodó módosításokat is. Rögzíti továbbá, hogy az ügyészségen vezetői tisztséget betöltő beosztott bíró vezetői pótléka az általa betöltött vezetői munkakörre a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény alapján irányadó vezetői pótlékkal azonos.
+
+A 140. §-hoz
+
+A Javaslat a vagyongyarapodás okát vizsgáló ellenőrzés kapcsán garanciális szabályként rögzíti, hogy az ellenőrzést végzőnek a bírót, a vele közös háztartásban élő hozzátartozót, valamint a meghallgatandó más személyeket tájékoztatnia kell arról, hogy nem kötelesek a kérdésekre válaszolni.
+
+A 141. §-hoz
+
+A közigazgatási ügyekben eljáró bíró a Bjt. 27/A. §-ában meghatározott egyéb szervhez is beosztható, ezért szükséges a 76. alcím módosítása az erre vonatkozó rendelkezésekkel.
+
+A 142. §-hoz
+
+A módosítást a közigazgatási és munkaügyi bíróságok megszűnése indokolja. A Javaslat rögzíti, hogy a munkaügyi bíróságként eljáró bíróság ülnökeit továbbra is elsősorban a munkavállalók és munkaadók érdek-képviseleti szervei jelölik.
+
+A 143. §-hoz
+
+A Javaslat átmeneti rendelkezésekkel egészíti ki a Bjt.-t. Ennek keretében az Alkotmánybíróság megválasztott tagja bírói jogviszonya szünetelésének szabályai mellett azt is rögzíti, hogy a Kúria 2020. január 1-jén hivatalban lévő elnöke a megbízatása megszűnéséig jogosult - hivatalos és magánprogramokra is kiterjedően - a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre.
+
+A Javaslat a közigazgatási- és munkaügyi bíróságok megszűnésével és a közigazgatási perek fórumrendszerének átalakításával összefüggésben szükséges átmeneti rendelkezéseket tartalmazza. A törvény biztosítja, hogy a közigazgatási és munkaügyi regionális kollégium tagjai, ha azt kérik, pályázat nélkül, a törvény erejénél fogva átkerülhessenek arra a közigazgatási ügyben eljáró törvényszékre, amelynek törvény szerinti illetékességi területe magában foglalja a bíró álláshelye szerinti bíróság illetékességi területét.
+
+A Javaslat rendezi azoknak a bíráknak a helyzetét is, akik a határidőn belül nem tesznek nyilatkozatot. Az átmeneti szabálynak megfelelően természetesen e személyek bírói státusza is megmarad, őket a törvényszék elnöke a korábbi álláshelye szerinti törvényszékre osztja be, és a bíró a beosztása szerinti kollégium tagjává válik.
+
+A Bjt. 30. § új (8) bekezdése rögzíti, hogy a beosztási hely változása esetén a kijelölés megszűnik. E rendelkezés tekintetében átmeneti szabályozás szükséges annak érdekében, hogy azok a közigazgatási és munkaügyi ügyekben eljáró bírák, akiknek 2020. április 1. napjával a közigazgatási és munkaügyi bíróságok megszűnésével változik a bíróságon belül a beosztási helye, változatlanul rendelkezzenek kijelöléssel a zökkenőmentes átmenet érdekében. Ezen bírák esetében a kijelölés felülvizsgálatára egy fél éves időszakot biztosít a Javaslat.
+
+A Javaslat a bírói álláspályázati eljárás során benyújtott kifogások elbírálásával bővítette a szolgálati bíróság feladatkörét, és ezen többletfeladatra is tekintettel a szolgálati bíróság bíráinak megbízatási idejét 6 évről 9 évre emelte. Ehhez kapcsolódóan a Javaslat az átmeneti szabályok között rendelkezik arról, hogy a megbízatási idő meghosszabbítására vonatkozó szabályt a 2020. január 1-jén szolgálati bírói megbízatással rendelkező bírák esetében is alkalmazni kell. E rendelkezés célja, hogy a szolgálati bíróság a módosítás miatt jelentkező többletterhelés mellett is időszerűen végezhesse a feladatait.
+
+A módosítás értelmében a Bjt. 172. § (2) bekezdése módosításának hatályba lépésétől számított 6 hónapon belül a bírák ismételt besorolására kerül sor azzal, hogy az új besorolás alapján járó illetmény visszamenőleg, e rendelkezés hatályba lépésétől illetné meg a bírót. A módosítás alanyi jogot állapít meg a jogszabály által jogi szakvizsgához kötött, továbbá a jogszabály felhatalmazása alapján a munkáltatói jogkör gyakorlójának szabályzata által jogi szakvizsgához kötött egyéb jogviszonyban vagy tevékenységgel eltöltött idő szolgálati időbe történő beszámítására. A felülvizsgálatra hivatalból kerül sor, amelynek eredményeképpen az érintett bírák kinevezési okiratának módosítására és a jogosultságot megalapozó tények alapján történő újra-besorolására kerül sor.
+
+A Javaslat arról is rendelkezik, hogy a 2020. április 1-jét megelőzően a közigazgatási és munkaügyi bírósághoz megválasztott ülnökök jogállása csak annyiban változik, hogy 2020. április 1-jétől az ülnöki feladataikat annál a törvényszéknél látják el, amelynek illetékességi területéhez a közigazgatási és munkaügyi bíróság tartozott.
+
+A 144. §-hoz
+
+Európai uniós megfelelési záradékának kiegészítése azzal, hogy a Bjt. a jövedelem és vagyonadók területén a kettős adóztatás elkerülésére irányulóan irányelvben megjelentetett európai uniós új vitarendezési mechanizmushoz szükséges módosításokkal az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.
+
+A 146. §-hoz
+
+A módosítás a közigazgatási és munkaügyi bíróságok megszűnése és a normaszövegnek a Kit. szerinti terminológiai átvezetése miatt szükségessé vált technikai jellegű szövegpontosításokat tartalmazza.
+
+Emellett a Javaslat a szolgálati bírák megbízatásának idejét a jelenleg hatályos 6 évről 9 évre növeli. A módosítás indoka az, hogy a Javaslat a bírói álláspályázati eljárás során benyújtott kifogások elbírálásával bővítette a szolgálati bíróság feladatkörét, így ezen többletfeladat zökkenőmentes ellátásának biztosítására tekintettel szükséges a szolgálati bírói megbízatás idejének növelése. A kilenc éves megbízatási idő az Országos Bírósági Hivatal elnökének és a Kúria elnökének megbízatási idejéhez igazodik.
+
+A 147. §-hoz
+
+A módosítás a közigazgatási és munkaügyi bíróságok megszűnése és a normaszövegnek a Kit. szerinti terminológia átvezetése miatt szükségessé vált terminológiai és technikai jellegű hatályon kívül helyező rendelkezéseket tartalmazza.
+
+Hatályon kívül helyezésre kerül továbbá a Bjt. 154. §-a, amely szerint a Kúria elnöke a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult. A hatályon kívül helyezést indokolja a személyvédelemre jogosultak körének felülvizsgálata, ugyanakkor a Kúria jelenlegi elnökét a megbízatása lejártáig még megilleti a személyi védelem, ezért a hatályon kívül helyező rendelkezés a Kúria elnökének 2020. január 1-jét követő első alkalommal történő megválasztását követő napon lép hatályba.
+
+A 148. § és 149. §-hoz
+
+Az Ákr. hatálybalépésétől kezdődően alapvető változásokat vezetett be a közigazgatási döntéseket érintő jogorvoslati eljárások tekintetében. A korábbi szabályozással ellentétben a hatályos rendelkezések már nem tartalmazzák a fellebbezést elbíráló és a felügyeleti szerv fogalmát, elsődlegessé téve a közigazgatási döntések bíróság előtti közvetlen megtámadását. Indokolt tehát, hogy az ügyészségről szóló 2011. évi CLXIII. törvény sarkalatos szabálya szerint az ügyész a döntést hozó szervhez nyújtsa be felhívását.
+
+Az Ákr.-hez kapcsolódva a „jogerő” kifejezést felváltó „véglegesség” kifejezés használata szükséges.
+
+A 150-154. §-hoz
+
+A Javaslat a pályázat nélkül betölthető ügyészi álláshelyekre vonatkozó szabályozást pontosítja.
+
+A törvényjavaslat Bjt. módosítása útján megteremti annak a lehetőségét, hogy a közigazgatási ügyben eljáró bírák, az Iasz. módosítása alapján pedig a bírósági titkárok is beosztásra kerülhetnek az ügyészségre a közigazgatási tapasztalataik bővítése, illetve a bírói tapasztalat közigazgatásban való kamatoztatása érdekében. Szükséges ezért az Üjt.-ben rendezni, hogy az ügyészségre beosztott bíróra az ügyészekre, az ügyészségre beosztott bírósági titkárra az alügyészekre vonatkozó rendelkezéseket kell alkalmazni azokban a kérdésekben, amelyeket a jogállási törvények nem rendeznek.
+
+Az 1949. évi XX. törvény, a 2011. december 31-éig hatályos alkotmány nem tartalmazott rendelkezést a legfőbb ügyész megbízatási időtartamára. Nem csak az időtartam hosszáról, hanem a felső korhatárról sem rendelkezett. Ebből adódóan az ügyészségi törvény eddig szabadon rendelkezhetett arról, hogy milyen hosszú a legfőbb ügyész megbízatásának időtartama, illetve hogy mely esetekben szűnhet az meg. Az Alaptörvény 29. cikk (4) bekezdése azonban kimondja, hogy „a legfőbb ügyészt az ügyészek közül a köztársasági elnök javaslatára az Országgyűlés választja kilenc évre. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.” Ezt a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló sarkalatos törvény nem korlátozhatja. Az Alaptörvénynél alacsonyabb szintű jogszabály ezt rövidebb időtartamban nem határozhatja meg, ezért a javaslat arra irányul, hogy az Üjt.-ből - hasonlóan valamennyi más Alaptörvényben meghatározott időtartamra választott közjogi tisztségviselőhöz - a felső korhatár elhagyásra kerüljön.
+
+A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény (a továbbiakban: Üjt.) akként rendelkezik, hogy az ügyészt hivatása méltóságának és felelőssége súlyának megfelelő javadalmazás illeti meg. Az Üjt. indokolása szerint továbbá elengedhetetlen, hogy a bírósági és ügyészségi dolgozók munkajogi helyzete lényegében azonos legyen. Átfogó igazságügyi bérrendezésre legutóbb 2004-ben került sor, amely következtében jelentős különbségek alakultak ki a bírói és ügyészi bérek, valamint a magán- és közszféra egyéb területein foglalkoztatottak bérei között. Bár 2018. szeptember 1. napjától az ügyészi illetménypótlékok és a vezetői pótlékok számottevően emelkedtek, a bírói pótlékok mindezidáig változatlanok maradtak. Figyelemmel arra, hogy a Javaslat nagyarányú bírói illetményemelést hajt végre, az említett alapelvekkel és garanciális rendelkezésekkel összhangban az Országgyűlés elismerte a Kormány azon szándékát, hogy az igazságszolgáltatásban foglalkoztatottak számára méltányos, a mindenkori nemzetgazdaság teljesítményével összhangban álló javadalmazást biztosítson. A Javaslatban meghatározott illetményemelés figyelembe veszi továbbá a bírói és ügyészi illetmények azonos mértékének alapelvét. A Javaslat a bérkorrekción túl rendelkezik a hatályos illetményrendszer felülvizsgálatáról, annak korszerűsítéséről és igazságosabbá tételéről. Az alkalmas arra, hogy az Európa élvonalához tartozó magyar bírói és ügyészi pályát vonzóvá tegye és a pályakezdő jogászokat ezen hivatások választására sarkallja. A javaslat új lehetőségeket teremt a több éves tapasztalattal rendelkező bírósági és ügyészségi szakemberek számára is, mivel a megfelelő anyagi elismerés ösztönzőleg hat a vezetői beosztások megpályázására és a nagyobb felelősség vállalására. A Javaslat elfogadásával az Országgyűlés támogatja azon kormányzati törekvést, miszerint a 2020. évben megvalósuló, átlagosan 21,4%-ot kitevő emelést a 2021. évben további 12%-os, a 2022. évben pedig 13%-os emelés kövesse. Az így megvalósuló közel 68%-os átlagemelés hozzávetőlegesen kétezer ügyészt érint majd, ezáltal közvetlenül hozzájárulva kiemelkedő szakmai tevékenységük fenntartásához.
+
+A Javaslat a Bjt.-ben megállapítottal azonos szabályokat állapít meg a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvényben is a szolgálati idő számítására.
+
+A Javaslat emellett kodifikációs pontosítást végez el az illetményszámításra vonatkozó szabályokon.
+
+A Javaslat a Kit.-tel való összhang megteremtése érdekében szükséges módosítást is tartalmazza. A Kit. a főosztályvezető-helyettesi munkakört nem nevesíti, ezért a törvényből el kell hagyni a főosztályvezető- helyettesre vonatkozó rendelkezéseket. Tekintettel arra, hogy az állami vezető mint kategória megszűnik, és azon a továbbiakban a Kit. szerinti politikai felsővezetőt, közigazgatási államtitkárt és helyettes államtitkárt kell érteni, ezért szükségessé vált a hatályos normaszövegben szereplő „állami vezető” szövegrész módosítása is.
+
+A 155-157. §-hoz
+
+A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Nek tv.) perjogi rendelkezéseinek módosítását alapvetően a Kp.-val való összhang indokolja.
+
+A Kp. hatályba lépésével a közigazgatási bíráskodás területén átalakultak a nemperes eljárások, a végzésekkel szembeni keresetet a továbbiakban a bíróság egyszerűsített perben bírálja el. Ez a Kp. szabályaiból következik, azt nem szükséges az ágazati törvényekben külön nevesíteni, ezért rendelkezni szükséges az ilyen tartalmú normák hatályon kívül helyezéséről. A jogorvoslati szabályok tekintetében a hatásköri szabályok módosítása is szükséges. A Kp. a teljesség igényével szabályozza a hatásköri kérdéseket, azokról rendelkezni nem szükséges, csak a Kp. szabályaitól eltérő perjogi szabályok fenntartása indokolt.
+
+A normakontroll eljárások szabályozása a Kp.-ban található, az ahhoz kapcsolódó, a nemzetiségi önkormányzatok indítványozási, illetve közigazgatási per indítási jogát a Nek tv.-ben azonban nevesíteni szükséges.
+
+Az egyes nemzetiségi önkormányzat által kötött megállapodások tekintetében szükséges kimondani a közigazgatási szerződési jelleget, amellyel egyértelműen megnyílik a közigazgatási bírói út mint jogvita rendező fórum a felek között.
+
+A nemzetiségi önkormányzati elnöki pozícióhoz kapcsolódó összeférhetetlenségi és közjogi felelősségrevonási bírósági jogviták közigazgatási peres kereteit szükséges a Kp. szabályozásához igazítani. Az egyéb, szintén közigazgatási bírói útra utalt jogvitákhoz kapcsolódó perjogi szabályokat a terminológiai változásokra tekintettel szintén módosítani szükséges.
+
+Mindezek mellett a Javaslat a Nek tv. 27. § és 35. §-át (a nemzetiségi köznevelést) is módosítja, a felvételi körzethatárok határidőben történő meghatározása érdekében - tekintettel az alapvető jogok biztosa és helyettese által a felvételi körzethatárok meghatározásánál a nemzetiségi önkormányzat egyetértési jogának érvényesülése tárgyában lefolytatott vizsgálatra és az erről történt egyeztetésre a Magyarországi nemzetiségek bizottsága Köznevelési, kulturális és egyházügyi albizottságában - szükséges a nemzetiségi önkormányzat egyetértési joga esetében a hallgatás kizárása, valamint, hogy a harminc napos határidő meghosszabbításának ideje harminc napról tizenöt napra csökkenjen.
+
+A 158-160. §-hoz
+
+A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) egyes szabályai feleslegessé válnak, vagy azért, mert a Kp.-ban lévő szabályokkal tartalmilag egyező szabályokat állapítanak meg (pl. képviseleti jogosultság igazolása, perbeli felek), vagy azért, mert a korábban hatályos polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetére való utalást tartalmaznak. A Kp.-tól eltérő, ugyanakkor fenntartandó szabályokban pedig terminológiai pontosításokat szükséges elvégezni.
+
+Az Mötv. által szabályozott megállapodások közigazgatási szerződéssé minősítése a közigazgatási bírói út biztosítása érdekében szükséges.
+
+Az Mötv. 37. § (7) bekezdésének módosítása egyértelművé teszi az önkormányzati képviselő tisztsége megszűnésének időpontját. A módosítás kiegészíti a tervezetben szereplő szabályokat azzal az esetkörrel, amikor a képviselő az összeférhetetlensége tárgyában bírósági utat vesz igénybe. Abban az esetben, ha az összeférhetetlenséget kimondó határozattal szemben a képviselő, illetve ha az összeférhetetlenség megállapítása iránt a kormányhivatal a bíróság előtt pert indít, a bíróság dönt a képviselő összeférhetetlenségéről, és kimondja, hogy a bírósági döntés jogerőssé válását követő napon szűnik meg a képviselő tisztsége. A módosítás azt is egyértelművé teszi, hogy csak az összeférhetetlenséget megállapító (pozitív) bírósági döntés esetén szűnik meg a képviselő tisztsége. Erre azért van szükség, hogy az Mötv.-ben szabályozott jogállás tekintetében egyértelmű legyen a képviselői tisztség megszűnésének időpontja, akár a bíróság, akár a testület mondja ki az összeférhetetlenséget. A képviselő tisztsége a bíróság döntését követő napon szűnik meg, ha az önkormányzati döntést a bíróság előtt megtámadták.
+
+A Kp. a különös közigazgatási perekre (mulasztási per, marasztalási per) is tartalmaz általános szabályokat, ezért az ilyen jellegű perekre vonatkozó szabályokat is szükséges módosítani. Az Mötv. 70. §-a például egy sajátos megállapítási pert szabályoz. E § újbóli megállapítása egyrészt terminológiai okokból szükséges, másrészt a per tárgyát indokolt pontosan meghatározni. Az Mötv. 69. § (1) bekezdés e) pontja szerint a polgármester tisztsége megszűnik sorozatosan törvénysértő tevékenysége, mulasztása miatti jogi felelősségének jogerős bírósági ítéletben történő megállapításával, az ítélet jogerőre emelkedésének napjával. E rendelkezésre tekintettel az Mötv. 70. §-a szerinti per tárgya a polgármester sorozatos törvénysértő tevékenysége, illetve mulasztása miatti közjogi felelősségének fennállása. Ha azt a bíróság megállapítja, a megállapítási ítéletnek ex lege következménye a polgármesteri tisztség megszűnése. Minderre tekintettel a bíróság nem a polgármesteri tisztség megszűnését mondja ki, hanem a polgármester közjogi felelősségét állapítja meg.
+
+Fontos közérdek fűződik ahhoz, hogy a közös hivatalokkal kapcsolatos egyes eljárások minél hamarabb lezáródjanak és egyértelmű legyen, hogy mely eljárási cselekményeket, mely határidőn belül kell teljesíteni. Tekintettel arra, hogy az Mötv. lehetőséget ad a közös hivatal létrehozását megállapító kormányhivatali döntés elleni jogorvoslatra, e körben indokolt, hogy az általános rendelkezésektől eltérően 15 napos határidő álljon rendelkezésre a kereset benyújtására. Az általános szabályoktól rövidebb eljárási határidő törvényi előírása ugyanis a közös hivatal mielőbbi megalakulása érdekében szükséges.
+
+Mivel az Mötv. 136-139. §-ának perjogi szabályait zömével tartalmazza a Kp., a felesleges ismétléseket szükséges megszüntetni. Az Mötv. 85. § (12) bekezdésében, illetve az Mötv. 142. §-ában szereplő általános perjogi rendelkezéseit ugyancsak nem szükséges megtartani erre tekintettel. E hatályon kívül helyezések kapcsán fontos hangsúlyozni, hogy azok nem eredményezik a bírói út igénybevehetőségének hiányát. Csak azon esetekben szükséges ugyanis a bírói út megnyitására vonatkozó külön rendelkezés, amikor az a Kp. szabályai alapján nem lenne biztosított (pl. közjogi jogviták), vagy a bírói út igénybevehetőségének feltételei eltérnek a Kp. szabályaitól. Ez jellemzően a perindítási jogosultság, a perindítási határidő kapcsán fordul elő, de ilyen például az az eset is, amikor a területrész átadása esetén az előzetes megállapodás alapján a képviselőtestület nem teljesíti szerződéskötési kötelezettségét. Itt a Kp. szabályaitól eltérően nem mulasztási pernek van helye, hanem marasztalási pernek, amelyben a bíróság a keresetnek való helyt adás esetén a szerződést létrehozza az előzetes megállapodás tartalmának megfelelően.
+
+A törvényességi felügyelet gyakorlásához kapcsolódó perjogi szabályokat szintén szükséges a Kp.-hez igazítani. Mind az önkormányzati közigazgatási cselekmények megtámadása, mind az azok elmulasztása esetén igénybe vehető bírói út, továbbá a normakontroll eljárások esetében szükséges a szabályokat részben módosítani, részben hatályon kívül helyezni.
+
+A Kp. alapján az Mötv. 141. § c) pontja szerinti esetben a bíróság maga szabhat ki teljesítési bírságot, ezért a továbbiakban, amennyiben a bíróság határozatának nem tesz eleget az önkormányzat, a bíróság jogosult ezt a jogsértést szankcionálni. Erre vonatkozó igényt a bíróság előtt a törvényességi felügyeleti szerv is érvényesíthet.
+
+A fentieken túl a Javaslat az Országgyűléshez címzett önkormányzati megkeresések esetében - az érdemi válaszadási kötelezettség érintetlenül hagyása mellett - az Országgyűlés ülésezésének rendjére figyelemmel állapítja meg a válaszadásra rendelkezésre álló határidő számításának módját.
+
+A 161. §-hoz
+
+A humánszolgáltatást nyújtó egyházi, nem állami és önkormányzati fenntartók esetében a központi költségvetésből nyújtott támogatásokkal összefüggő hatósági eljárásokban eltérő jogorvoslati utat biztosítottak az ágazati szabályok. A Javaslat megteremti, hogy az azonos támogatások ügyében az egyes fenntartók azonos jogorvoslati lehetőséggel rendelkezzenek.
+
+A 162. §-hoz
+
+A Kp.-val való koherencia megteremtéséhez szükséges terminológiai pontosítás.
+
+A 163. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 164. § és 165. §-hoz
+
+A módosítás célja annak pontos meghatározása, hogy a tanú mely adatait kell zártan kezelni. A módosítás alapján az adatok zárt kezelését a hatóság mérlegelés nélkül elrendeli, amennyiben azt a tanú kéri, így a tanú információs önrendelkezési joga teljeskörűen érvényesül. A törvény alapján a személyes adatok zárt kezelésével kapcsolatos kérelem a teljes adatkörre kiterjed, így a tanút nem kell külön és egyesével nyilatkoztatni arra, hogy mely adatok zárt kezelését kéri. A tanú adatainak zárt kezelése hivatalból is elrendelhető. Kötelező elrendelni a tanú adatainak zárt kezelését, ha ugyanazon történeti tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló más eljárásban a tanú adatainak zártan kezelését rendelték el. Külön kiemelendő e módosítás kapcsán, hogy a különböző (egymást követő vagy párhuzamos) eljárásokban a történeti tényállásnak kell azonosnak lennie, a törvényi tényállásra ez a követelmény nem alkalmazható. Ennek vizsgálata és megítélése a szabálysértési hatóság, illetve a bíróság hatáskörébe tartozik.
+
+A módosítás célja továbbá, hogy biztosítsa a védett adatok védelmét oly módon is, hogy a zárt adatkezelést elrendelő végzést a szabálysértési hatóságnak, illetve a bíróságnak kizárólag azzal a személlyel kell közölnie, akinek az adataira az kifejezetten vonatkozik, ezzel elkerülhető, hogy a védett adat épp a döntés kötelező közlése okán kerüljön nyilvánosságra.
+
+Ha a tanú adatainak zárt kezelését rendelték el, az eljárási cselekményről készített jegyzőkönyv a tanú nevét nem tartalmazhatja. A módosítás további jogtechnikai jellegű hatályon kívül helyező rendelkezést is tartalmaz (belső hivatkozás hatályon kívül helyezése).
+
+A 166. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 167. §-hoz
+
+A módosítás terminológiai-technikai jellegű, a célja, hogy a „bírósági felülvizsgálat” terminológiája helyett a „közigazgatási perre” vonatkozó megfelelő kifejezés használatával a „felülvizsgálat” kettős értelmezését megszüntesse, miáltal a közigazgatási perjogban a „felülvizsgálat” fogalma a továbbiakban kizárólag a Kúria hatáskörébe tartozó rendkívüli perorvoslatot jelenti majd.
+
+A 168. §-hoz
+
+A fórumrendszer változása miatt szükséges a Fővárosi Törvényszék kizárólagos illetékességét megállapítani.
+
+A 169. §-hoz
+
+A szövegcserés módosítás a Javaslat bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló a 2017. évi CXVIII. törvényt módosító rendelkezéseivel összhangban a Ptk.-ban is átvezeti azt a hatáskörváltozást, amely szerint a kapcsolattartás végrehajtását a jövőben nem a gyámhatóságnál, hanem a bíróságnál lehet kérelmezni. A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendeléséről polgári nemperes eljárásban dönt.
+
+A 170. §-hoz
+
+A módosítás megteremti az összhangot az Ákr.-rel. Tekintettel arra, hogy a Magyar Energetikai és Közmű-szabályozási Hivatal vonatkozásában nem került sor felügyeleti szerv kijelölésre, a felügyeleti szervi kijelölés hiányában felügyeleti eljárásnak sem lesz helye. Ennek megfelelően, a felügyeleti jogkörre vonatkozó rendelkezés hatályon kívül helyezése szükséges.
+
+A 171. § és 172. §-hoz
+
+A fórumrendszer változása miatt szükséges módosításokat és azok hatálybalépéséhez szükséges átmeneti szabályokat tartalmazza a javaslat.
+
+A 173. §-hoz
+
+A Javaslat szerinti módosítással teljesül a tisztességes eljárás követelménye azzal is, hogy az Aktv. III/A. Fejezete szerinti eljáró tanácsadó bizottsági tag esetében a vitás kérdés tárgyilagos megítélése biztosított legyen. Az Aktv. 41/O. § (1) bekezdés c) pontjának megállapításával garantálható, hogy egyedi vitarendezési ügyben, amelyben az adott bíró bíróként eljárt, nem lesz ugyan kijelölhető, ugyanakkor nem lesz akadálya annak, hogy - mivel az általános listára felkerülhet - más ügyben eljárhasson.
+
+A 174. §-hoz
+
+A módosítás az Ákr.-ben használt kifejezések átvezetését valósítja meg („jogerős” helyett „véglegessé vált” terminológia, „nyilvános közzététel” helyett a „döntés közhírré tétele”).
+
+A 175-177. §-hoz
+
+A Javaslat tartalmazza a közigazgatási perek fórumrendszerének változása miatt szükségessé váló módosításokat. Mivel a közigazgatási nemperes eljárások szabályait a Kp. fogja tartalmazni, különös eljárási típusként szabályozva a helyszíni kutatás bírói engedélyezését és a védekezés céljából készült irat minősítését, ezért a Kp. szabályozásával párhuzamos rendelkezéseket deregulálni szükséges.
+
+A hatásköri szabályok felülvizsgálata is indokolt, mivel a Kp. a teljesség igényével szabályozza a hatásköri kérdéseket, ezért a hatáskörre vonatkozó rendelkezések - a párhuzamos szabályozás elkerülése érdekében - deregulációja szükséges az ágazati jogban. Egyúttal a Kp. általános szabályaitól eltérő, egyéb perjogi rendelkezéseket is a valóban indokolt körre szükséges visszaszorítani, hatályon kívül helyezni. Tekintettel arra, hogy a Kp. szabályozza a közszolgálati perek esetén az eljáró bíróságok hatáskörét, az ágazati törvényben deregulálandó az a rendelkezés, mely szerint az ilyen ügyekben közigazgatási és munkaügyi bíróság jár el.
+
+A módosítás az Ákr.-ben használt kifejezések átvezetését is megvalósítja („jogerős” helyett „véglegessé vált”, továbbá „bírósági felülvizsgálati eljárás” helyett „közigazgatási per”).
+
+A 178. §-hoz
+
+Tekintettel arra, hogy az Ákr.-beli szabályokkal összhangban a határidő meghosszabbításának lehetősége megszűnt, a határidő meghosszabbításának lehetőségére vonatkozó rendelkezés törlése is szükséges.
+
+A 179. §-hoz
+
+Az európai polgári kezdeményezésről szóló 2019. április 17-i 2019/788/EU európai parlamenti és tanácsi rendelet (a továbbiakban: ECI rendelet) 2020. január 1-jei hatállyal hatályon kívül helyezi a polgári kezdeményezésről szóló 2011. február 16-ai 211/2011/EU európai parlamenti és tanácsi rendeletet. Ezen aktus miatt szükséges a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény (a továbbiakban: Nsztv.) megfelelő módosítása.
+
+A korábbi szabályozástól eltérően az ECI rendelet 11. cikk (7) bekezdése a 2022. december 31-ét követően benyújtott kezdeményezések esetén már nem teszi lehetővé egyedi online gyűjtési rendszer használatát, ezért szükséges 2023. január 1-jével törölni az erre vonatkozó hatáskört, továbbá az ECI rendelet 12. cikk (1) bekezdése értelmében minden tagállam csak a saját állampolgárai támogató aláírását ellenőrzi, így módosítani szükséges az erre vonatkozó rendelkezést.
+
+A közvetlenül hatályosuló ECI rendelet értelmében az Nsztv. 63. § első tagmondatának rendelkezését a 2022. december 31. napjáig regisztrált kezdeményezésekre kell alkalmazni, ha a szervezők egyedi gyűjtési rendszert kívánnak használni. Az ECI rendelet alapján 2023. január 1-je után hitelesített kezdeményezés esetén így már csak központi online gyűjtési rendszer használható, ugyanakkor a 2022. december 31-ig regisztrált kezdeményezés szervezői csak a regisztrációt követően, a gyűjtés megkezdését megelőzően hitelesíttetik az online gyűjtési rendszerüket (ECI rendelet 1. cikk 3. bekezdés), így 2022. december 31-ét követően is, 2023. első félévében (8. cikk 1. bekezdés). Ez okból szükséges az Nsztv. 63. § első tagmondatának rendelkezését 2023. június 30-ig alkalmazni.
+
+Tekintettel arra, hogy a tervezet az ECI rendelet végrehajtásához szükséges rendelkezéseket állapít meg, az ECI rendelet hatálybalépésével szükséges a jogharmonizációs záradékot is módosítani.
+
+A 180. §-hoz
+
+Az Ákr. terminológiájának megfelelő módosítások. A hatóság döntései végleges döntésnek minősülnek a korábbi jogerős megnevezés helyett. Ennek megfelelően a döntések jogerőre emelkedése helyett, a döntések véglegessé válásáról szükséges rendelkezni.
+
+A 181. §-hoz
+
+A Javaslat technikai-terminológiai pontosítást tartalmaz.
+
+A 182. §-hoz
+
+A közigazgatási és munkaügyi bíróságok 2020. március 31-i megszűnése miatt szükséges újra meghatározni a Pp. hatálya alá tartozó ügyekben elsőfokon eljáró bíróságokat.
+
+A 183. §-hoz
+
+A Pp.-ben általános hatáskörű elsőfokú bíróság a törvényszék, mely szerint azokban a perekben, amelyek elbírálását törvény nem utalja a járásbíróság hatáskörébe, a törvényszék jár el. A törvényszék mint munkaügyi bíróság hatáskörének kimondása a munkaügyi perekben arra tekintettel szükséges, hogy a közigazgatási és munkaügyi bíróságok megszűnésével a munkaügyi jogvitákban eljáró bíróság különbírósági jellege megszűnik. A törvényszék mint munkaügyi bíróság hatáskörének kimondása a munkaügyi perekre azt is egyértelművé teszi, hogy, ha a munkaügyi perben a felperes kizárólag pénzkövetelést érvényesít, a per akkor sem minősülhet vagyonjogi pernek, és nem alkalmazhatóak rá a vagyonjogi perek hatásköri szabályai.
+
+A 184. §-hoz
+
+A Javaslat a közigazgatási és munkaügyi bíróságok megszűnésére tekintettel rendezi a kijelölés szabályait, ha az összeütközés az ítélőtábla területén működő járásbíróság és törvényszék között merül fel, tekintettel arra, hogy munkaügyi perekben 2020. április 1-jétől a törvényszék mint munkaügyi bíróság jár el.
+
+A 185-193. §-hoz
+
+A jogállam fogalmi eleme a jogbiztonság, amely kiszámítható és koherens joggyakorlatot is feltételez. A Kúria az Alaptörvény 25. cikkében meghatározottak szerint biztosítja a bíróságok jogalkalmazásának egységét. A széttartó, kiszámíthatatlan joggyakorlat sérti a jogbiztonságot és a peres felek tisztességes eljáráshoz való jogát. Ezért szükséges eljárásjogi eszközökkel biztosítani annak lehetőségét, hogy e feladatának a Kúria eleget tudjon tenni, és valóban következetes gyakorlatot alakíthasson ki. Biztosítani kell a peres feleknek annak lehetőségét, hogy ha a jogerős döntés jogkérdésben eltér a Kúria közzétett határozatától, azt a Kúria elé tudják vinni, ezért számukra az ilyen esetekre jogorvoslati lehetőséget kell biztosítani.
+
+A 194. §-hoz
+
+A munkaügyi perekben 2020. április 1-jétől a törvényszék mint munkaügyi bíróság jár el. Tekintettel arra, hogy a Pp.-ben a törvényszék az általános hatáskörű elsőfokú bíróság, ahol mindkét fél számára kötelező a jogi képviselet, és professzionális perrendi szabályok érvényesülnek, szükséges annak egyértelmű rögzítése, hogy a munkaügyi perekben ettől eltérő, a munkaügyi perek sajátosságait figyelembe vevő szabályokat kell alkalmazni. Erre tekintettel indokolt annak kimondása, hogy a Pp. általános szabályait munkaügyi perekben a XXXIX. fejezetben és a XV. fejezetben foglalt eltérésekkel kell alkalmazni.
+
+A 195. §-hoz
+
+A Javaslat egyfelől a szervezeti változás okán indokolt korrekciókat végzi el a Pp. 513. §-ában, másfelől a munkaügyi perek aszimmetrikus perfelállására tekintettel egyértelműsíti az illetékességi szabályokat.
+
+A 196. §-hoz
+
+A Javaslat a szükséges átmeneti rendelkezéseket rögzíti annak érdekében, hogy a megszűnő közigazgatási és munkaügyi bíróságról az ügyek átadása zökkenőmentesen megtörténjen.
+
+A 197. §-hoz
+
+A Javaslat elvégzi a szükséges terminológiai egységesítést.
+
+A 198-200. §-hoz
+
+A megkeresés szabályainak pontosítását az indokolja, hogy jelenleg a megkeresett szerv, amely nem minősül hatóságnak, eljárásjogi értelemben nem képes a megkeresés áttételére, csupán az együttműködési kötelezettségből fakadóan lehetséges levezetni azon lehetőséget, amely értelmében az adott szerv a megkeresést az annak teljesítésére jogosult szerv számára továbbítja. E lehetőség egyértelműsítése, valamint az eljárásvitel egyszerűsítése végett szükséges egyfajta továbbítási kötelezettséget rögzíteni a törvényben.
+
+Az Ákr. 27. §-a rendelkezik az adatkezelés szabályairól a hatósági eljárásban. E szabályokat egészíti ki a módosítás oly módon, hogy szabályozási körébe vonja a törvény által védett titok mellett, a törvényben meghatározott, védett más adatot is. Ez által a védelem a titokvédelem körébe tartozó adatokon kívül megillet minden olyan adatot is, amit az adott ágazati törvény bármely okból kifolyólag védelem alá helyez, akár zárt adatkezelés formájában is. Ez a szabályozás igazodik a Pp. 322. § (7) bekezdésében meghatározott szabályozáshoz. Ennek megfelelően a hatóság, eljárása során gondoskodni köteles arról, hogy az irat- és adatbeszerzés során rendelkezésére bocsátott - minősített adatnak, üzleti titoknak, hivatásbeli titoknak, vagy törvényben meghatározott más titoknak nem minősülő - törvény által védett egyéb adat ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására, illetve az adat - más - törvényben meghatározott védelme a hatósági eljárásban is biztosított legyen. Vannak ugyanis olyan adatok, amelyek megismerhetőségét az ágazati törvény korlátozza, de az adat kifejezett titokvédelem hatálya alatt nem áll. A hatósági eljárásban is indokolt e védettnek minősülő adatok vonatkozásában az ágazati törvény által biztosított védelem fenntartása. E körbe tartozik például a büntetőeljárásban zártan kezelt személyes adatok köre, vagy a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) által szabályozott egyezségi [Tpvt. 73/A. § (7) bekezdés], illetve engedékenységi nyilatkozat [Tpvt. 78/D. § (2) bekezdés].
+
+Másfelől ez a védelem egyúttal azt is jelenti, hogy a hatósági eljárásban bejelentett és ott valamely okból nyilvánosságra került adat nem kapcsolható össze a párhuzamosan folyó, vagy megelőzően zajlott eljárás okán (például más hatósági vagy bírósági eljárásban) védelem alatt álló adattal.
+
+Fontos újítás, hogy a módosítást követően az adatok zárt kezelésére kérelemre, vagy hivatalból is sor kerülhet abban az esetben, ha ugyanazon történeti tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló más bírósági vagy hatósági eljárásban az ügyfél vagy az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zártan kezelését rendelték el. Külön kiemelendő e módosítás kapcsán, hogy a különböző (egymást követő vagy párhuzamos) bírósági vagy hatósági eljárásokban - ideértve a büntetőeljárás valamennyi szakaszát és az abban résztvevő valamennyi szerv eljárását - tehát a történeti tényállásnak kell azonosnak lennie. A törvényi tényállásra ez a követelmény - különös tekintettel a büntetőügyek szigorú dogmatikájára - nem alkalmazható. Ennek vizsgálata és megítélése a hatóság hatáskörébe tartozik, azonban, ha a hatóság megállapítja a történeti tényállások azonosságát úgy az adatok zárt kezeléséhez elegendő, ha azt az érintett kéri, vagy a hatóság hivatalos tudomást szerez a más eljárásban biztosított védelemről. Ebben az esetben tehát a hatóságnak nincs mérlegelési joga, vagyis - azonos történeti tényállás esetén - a természetes személyazonosító adatok és lakcím zárt kezelését kötelezően el kell rendelnie.
+
+E módosítással biztosítható az eljárás valamennyi résztvevőjének mind teljesebb védelme, egyúttal elkerülhető, hogy az azonos tényálláson alapuló más hatóságok vagy bíróságok előtt zajló eljárásokban már biztosított védelem, a védett adatok - és ez által az ügyfél illetve az eljárás egyéb résztvevője személyének - védelmi szintje csökkenjen.
+
+A módosítás célja, hogy - összhangban az Ákr. 28. § (1) bekezdését módosító rendelkezésekkel - biztosítsa a védett adatok védelmét oly módon is, hogy a zárt adatkezelést elrendelő végzést a hatóságnak kizárólag azzal a személlyel kell közölnie, akinek az adatkezelésére az kifejezetten vonatkozik, ezzel elkerülhető, hogy a védett adat épp a hatósági döntés kötelező közlése okán kerüljön nyilvánosságra.
+
+A hiánypótlás esetköreinek szűkítését az indokolja, hogy a 44. § b) pontja szerinti eset valójában a tényállás-tisztázás körébe eső eljárási cselekmény. Az eljárásban felmerülő bizonyítási cselekményekkel összefüggő döntésekre nem vonatkozhat a 44. § szerinti számbeli korlát, amelynek értelmében a hiánypótlási felhívásnak, ha törvény vagy kormányrendelet másként nem rendelkezik, egy ízben van helye. A 44. § b) pontja szerinti eset deregulációjával az ügyfél nyilatkozattételre történő felhívására, illetve adatszolgáltatási kötelezettségének teljesítésére történő kötelezésre - a bizonyítás sajátosságait figyelembe véve - számbeli korlátozás nélkül kerülhet sor.
+
+A 47. § (2) bekezdés pontosítását az indokolja, hogy a normaszöveg jelenleg csak az (1) bekezdés f) pontját említi a döntés visszavonásának kötelezettsége kapcsán, amely kötelezettség értelmezhető az e) pont esetén is.
+
+Az eljárás megszüntetésénél az ellenérdekű ügyfelek mindegyikének hozzájárulása szigorú szabály, amely kizárólag jogvitás eljárásokban értelmezhető. Például kisajátítási eljárásban is léteznek ellenérdekű ügyfelek, ugyanakkor indokolatlan az ő hozzájárulásuk kikérése is a kérelem visszavonásához. Megjegyzendő, hogy e megoldás a korábban hatályos eljárási törvényben található rendelkezést veszi át tartalmában, azaz az ellenérdekű ügyfél hozzájárulása abban az esetben lenne csupán kötelező, amennyiben kvázi judiciális (jogvitás) eljárásról van szó.
+
+E módosításhoz kapcsolódóan szükséges a jogvitás eljárás rövidítésének definiálását és rövidítésének bevezetését a tárgyalás szabályai közül elhagyni.
+
+A hatósági ellenőrzés szabályai egyértelműen rögzítik, hogy a hatósági ellenőrzés akkor is hivatalból indul - és a hivatalbóli eljárás szabályainak megfelelő alkalmazásával szükséges lefolytatni -, ha azt az ügyfél kérelmére rendeli el a hatóság. Azonban az eljárás gazdaságosság okán indokolt az eljárás megszüntetésének esetét kiterjeszteni ezen ellenőrzésekre is, mivel nem várható el, hogy az ügyfél kérelmére, érdekében folytatott ellenőrzés költségeit a hatóság előlegezze.
+
+Módosításra kerül a végzés elleni fellebbezés szabálya is. A jelenleg hatályos szabályozás értelmében a 116. § (3) bekezdésében felsorolt végzések, azaz az önálló fellebbezéssel megtámadható végzések esetén, nem alkalmazható a 116. § (5) bekezdésében foglalt azon rendelkezés, amely szerint ki lehet zárni törvényben a fellebbezés lehetőségét. A 116. § (4) bekezdése jelenleg is alkalmazható a 116. § (3) bekezdésében foglalt végzések esetében is, tekintettel arra, hogy a 116. § (1) bekezdésében foglalt szabály döntésről rendelkezik, amelybe mind a határozatok, mind a végzések beleértendőek. Az egységes fellebbezési fórum megteremtése érdekében szükségessé vált a 116. § (3) bekezdésének módosítása akként, hogy a normaszöveg rögzíti, hogy a végzés elleni - önálló - fellebbezési jog akkor nyílik meg, ha egyébként az adott ügyben a határozat ellen is lehetőség lenne fellebbezéssel élni. Fellebbezés hiányában természetesen, az általános szabályok szerint, közigazgatási perben támadhatóak a (3) bekezdésben meghatározott végzések.
+
+Az igazolási kérelem szabályai közt, az 53. § (5) bekezdése nem nevesíti a határnap elmulasztásának „szankcióját”, amely nem indokolt. A normaszöveg alapján tehát, például idézés esetén korlátlan számban lehet kimentéssel, igazolással élni. Így szükséges az (5) bekezdésben a határnapot is nevesíteni, a jogi szabályozás egységességének biztosítása érdekében.
+
+A jegyzőkönyv-készítés kötelező esetei közt a „szóbeli” kérelem fogalma túlságosan tág, azt a kapcsolattartás általános szabályaira tekintettel szükséges a személyesen előterjesztett kérelemre szűkíteni, ugyanis a normaszöveg hatályos tartalma életszerűtlen. Nyilvánvaló, hogy egy telefonon vagy e-mailen előterjesztett kérelem esetén lehetetlen aláíratni az ügyféllel a jegyzőkönyvet (amely a jegyzőkönyv differentia specifica-ja).
+
+A valódi hézagmentes jogvédelem megteremtése érdekében megszűnik az általános szabályok szintjén a járási (kerületi) hivatalok döntéseivel szembeni fellebbezés lehetősége, mivel a szervezetrendszeren belüli fellebbezés nem tekinthető teljes mértékben független és hatékony jogorvoslást biztosító eszköznek. A közigazgatási bírósági eljárások nyilvánossága, átláthatósága megteremti az ügyfelek számára, hogy ügyeikben egy valóban független fórum hozzon döntést, és lehetőség szerint ezzel mielőbb - egy jogorvoslati fórum kiiktatásával - szülessen ügyükben jogerős döntés. Ezen felül, e módosítással a megyei (fővárosi) kormányhivatalok nagyobb erőforrásokat lesznek képesek összpontosítani a közérdek védelmét is szolgáló felügyeleti feladataik ellátásához. Kiemelendő, hogy a releváns módosításhoz tartozó átmeneti rendelkezés értelmében, az új szabályokat a módosítás hatályballépését követően indult, valamint a megismételt eljárásokban kell alkalmazni.
+
+A 201. §-hoz
+
+Egyfelől a Kp.-val való összhang megteremtése érdekében a bírósági felülvizsgálat helyett a közigazgatási pert szükséges nevesíteni, másfelől a hatósági határozatok jogereje helyett azok véglegességéről szükséges rendelkezni.
+
+A 202. § és 203. §-hoz
+
+A Kp. tárgyi hatálya tekintetében a szabályozási logika visszatér a 2018. előtti szabályozáshoz, emiatt elhagyásra kerül a generálklauzulából a hatósági intézkedés megtámadásának és az általános hatályú intézkedés önálló kifogásolásának lehetősége.
+
+Ezzel összefüggésben beszűkül a Kp. tárgyi hatálya oly módon, hogy csak a peresíthető konkrét ügyekre terjed ki. Amennyiben az ügyfél a közigazgatási jogorvoslatot nem merítette ki vagy más megelőző közigazgatási eljárásra nem került sor, akkor az ügy nem lehet közigazgatási jogvita tárgya.
+
+Szűkítésre kerül továbbá az is, hogy általános hatályú rendelkezést csak a törvényességi felügyeletet gyakorló kifogásolhat a bíróság előtt, ha ilyen nincs, akkor az ügyész (2018 előtt is rendelkeztek a törvényességi felügyeletet ellátó szervek efféle indítványozási joggal). Továbbá konkrét ügyben általános hatályú rendelkezésnek csak az érintettel szembeni alkalmazhatatlanságát mondhatja ki a bíróság.
+
+A 2018 előtti szabályozáshoz képest plusz elemként a Kp. hatálya alatt marad a közszolgálati jogvita, a mulasztási per, a köztestületi döntésekkel és a felsőoktatási jogviszonnyal kapcsolatos jogviták. A közszolgálati jogvita tekintetében a jogalkotó már a Kp. koncepciójában amellett döntött, hogy a közigazgatási jog domináns szerepe miatt az ilyen jellegű ügyekben közigazgatási bíróság járjon el. A mulasztási per hiányában a közigazgatás jogellenes mulasztásával szemben nem volna lehetőség jogvédelmet kérni, csupán utólag polgári bíróság előtt tudnának a személyek kártérítést kérni az elmaradt cselekmény miatt. Továbbá a Kp. hatálya alatt maradnak a köztestületek és tagjai közti olyan jogviták, amelyek a közhatalom gyakorlással állnak összefüggésben. Ezen ügyek általános jellemzője, hogy a jogvita tárgya a köztestület cselekményének jogszerűsége, hasonló megítélésűek a felsőoktatási intézmény és a hallgatója közötti jogviszonnyal összefüggő jogviták is.
+
+A 204. §-hoz
+
+A közigazgatási jogviták elbírálásának fórumrendszerében általánosan az elsőfokú bíróságokat a törvényszékek alkotják, míg a fellebbviteli fórumot a Kúria elsősorban perorvoslati fórumként fogja betölteni. Kivételes esetben a Kúria is ellát elsőfokú hatásköröket. Ezen felül a Kúria feladata a közigazgatási bíráskodás joggyakorlatának egységesítése nemcsak felülvizsgálati eljárások, hanem-, jogegységi eljárások révén is. A közigazgatási és munkaügyi bíróságok megszűnnek, így az eddigi háromszintű fórumrendszer kétszintűvé alakul át, erre tekintettel módosítani kell a Kp. közigazgatási ügyben eljáró bíróságokat nevesítő 7. §-át.
+
+A 205. §-hoz
+
+A nemperes eljárások Kp.-be integrálása az egyesbírói eljárás esetköreinek módosítását is maga után vonja. E szabályok módosítását az eljárást érdemi döntés nélkül befejező egyedi döntéseknek a járulékos cselekmények melletti feltüntetése is szükségessé teszi.
+
+A 206. §-hoz
+
+A fórumrendszer átalakulásának megfelelően változik a hatásköri szabályozás is. A közigazgatási és munkaügyi bíróságok helyett a törvényszékek látják el a jövőben az elsőfokú hatáskört. A törvényszéki hatáskörök külön szabályozására nincs tehát szükség, tekintettel arra, hogy most már főszabályként minden ügy törvényszéki szintre tartozik. Szükséges a „középső”, ún. vegyesfokú bírósági szintre vonatkozó szabályok deregulációja. Ez jelenti egyfelől a törvényszék másodfokú eljárására vonatkozó szabályok hatályon kívül helyezését, másfelől a differenciált hatásköri szabályozás jelentős átalakítását, azaz a 12. § háromszintű szabályozásának kétszintűvé alakítását. E hatáskörök közül a gyülekezési joggal kapcsolatos közigazgatási perek tekintetében bővül a Kúria hatásköre. Azonban a Kúria a jövőben is elsősorban fellebbviteli fórumként fog eljárni, a többi kiemelt hatáskör a törvényszéki szinten marad.
+
+A szervezetrendszer megváltozása szükségszerűen az illetékességi szabályok módosítását is maga után vonja. A közigazgatási ügyben eljáró törvényszékek már regionális, a 2010. évi CLXXXIV. törvényben meghatározott illetékességgel rendelkeznek.
+
+Az illetékességi okok rendszerében továbbra is az általános illetékességi ok a tevékenység megvalósulásának helye. Ez azonban nem feltétlenül a szerv székhelye, hiszen számos esetben a közigazgatási cselekvés lényeges eleme nem ott valósul meg, hanem a székhelytől különböző helyen, mint például a helyszíni ellenőrzések vagy különféle intézkedések esetében. Az általános illetékességi okot megelőzi több különös illetékességi ok, hiszen szükséges bizonyos esetkörökre az egyenletes ügyeloszlás érdekében eltérő szabályokat alkotni. Így, ha más bíróság kizárólagos illetékessége megállapítva nincs, a perre az a bíróság illetékes, amelynek illetékességi területén ingatlanhoz kapcsolódó jog vagy kötelezettség, illetve ingatlanra vonatkozó jogviszony esetében az ingatlan fekszik, tevékenység bejelentése vagy engedélyezése esetében a tevékenység gyakorolásának helye, vagy tervezett helye található, az előbbi két esetkör kivételével a több mint egy megyére kiterjedő illetékességgel eljáró közigazgatási szerv közigazgatási tevékenysége esetében a felperes lakóhelye, tartózkodási helye, székhelye található. Mulasztás esetén különös illetékességi ok a mulasztó közigazgatási szerv székhelye. E különös illetékességi okok hiányában az illetékesességet a per tárgyává tett közigazgatási cselekmény - többfokú eljárásban megvalósított cselekmény esetén az elsőfokú közigazgatási cselekmény - megvalósulásának a helye alapítja meg.
+
+Speciális illetékességi ok vonatkozik a Pest megyére vagy annak egy részére illetékes, de Budapesti székhelyű területi közigazgatási szervekre. Esetükben a székhelyen megvalósult közigazgatási cselekményeket úgy kell tekinteni, mintha Pest megyében valósultak volna meg. Nem tartozik a Pest megye vagy annak egy részére illetékes területi közigazgatási szerv fogalma alá az országos vagy több megyére kiterjedő illetékességgel eljáró szerv, ezek esetében az előbbiekben szabályozott különös illetékességi ok érvényesül eltérő ágazati szabályozás hiányában.
+
+Illetékességi szabályozás révén a törvényszéki általános hatásköri szabályozás mellett is megmarad egyes ügyek országosan kiemelt kezelése. Ezért a korábbi hatásköri szabályozás alapján a Fővárosi Törvényszék elé tartozó, kiemelt súlyú és nagyfokú szakértelmet igénylő ügyekben kizárólagos illetékességgel kerül kijelölésre a Fővárosi Törvényszék. Ezzel az alacsony ügyszámú, de kiemelt eljárások esetében továbbra is biztosítható az ítélkezési gyakorlat egységessége, és a kellő szakértelem.
+
+Tekintettel a regionális illetékesség általánossá válására az ún. népközeli ügyekre vonatkozó illetékességi szabályok szükségtelenné válnak.
+
+A 207. §-hoz
+
+Módosul a kijelölés szabályozása is a megváltozott fórumrendszerre tekintettel akként, hogy a kijelölés iránti kérelem bármely törvényszéknél előterjeszthető, továbbá, hogy a hatáskörrel és illetékességgel rendelkező bíróságot minden esetben a Kúria jelöli ki.
+
+A 208. §-hoz
+
+A perindításra jogosultak köre kiegészül a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv, valamint az ügyész perindítási jogának szabályozásával abban az esetben, ha a kereset az általános hatályú rendelkezés megsemmisítésére irányul.
+
+A 209. § és 210. §-hoz
+
+A „vegyesfokú” bírósági szint megszűnése további, e szinten folyó eljárásokra vonatkozó rendelkezések módosítását is szükségessé teszi. Ezek egyike a törvényszéki eljárásra a kötelező jogi képviseletet kimondó szabályozás. A Kúria mellett, a kiemelt, a Fővárosi Törvényszék kizárólagos illetékességébe tartozó ügyekre, valamint a közigazgatási szerződésekkel kapcsolatos perekre írja elő a Kp. a kötelező jogi képviseletet. Ennek kapcsán pontosításra kerül az is, hogy a végzésekkel szembeni fellebbezés esetében a Kúria előtt sem kötelező a jogi képviselet és az ilyen eljárásokban ügyvédjelöltek és jogi előadók is eljárhatnak képviselőként. A „középső szint” megszűnése miatt szükséges a kifogás elbírálására vonatkozó kijelölő szabályok módosítása.
+
+A 211. §-hoz
+
+Kiegészül a Kp. a polgári perrendtartás egyéb általános szabályainak alkalmazására vonatkozó szabályozása a jegyzőkönyv képet és hangot egyidejűleg rögzítő folyamatos felvétel útján történő készítésének elrendelése esetével, ha az arra irányuló kérelmet az eljárási cselekmény megkezdése előtt az arra jogosult előterjeszteti, és egyebekben a technikai feltételek rendelkezésre állnak.
+
+A 212. §-hoz
+
+A keresetlevél benyújtására vonatkozó szabályok között kerül feltüntetésre az, hogy ha a felperes a közigazgatási cselekmény jogorvoslati záradékában foglaltaknak megfelelően nyújtotta be, vagy arra figyelemmel nyújtotta be a bírósághoz, hogy a közigazgatási szerv az elektronikus ügyintézés feltételeit átmenetileg vagy tartósan nem biztosítja, akkor is határidőben (szabályszerűen) benyújtottnak kell tekinteni a keresetlevelet. Ebben az esetben a bíróság további intézkedés végett megküldi a keresetlevelet a közigazgatási szervnek.
+
+A 213. §-hoz
+
+Részben módosul, és részben kiegészül a keresetlevél felterjesztésére vonatkozó rendelkezések köre a felügyeleti szervre vonatkozó rendelkezésekkel, melynek célja a közigazgatási eljáráson belüli orvoslási lehetőségek körének bővítése. E körben - a nem többfokú közigazgatási eljárásban - a keresetlevelet a továbbiakban nem a közigazgatási szerv továbbítja a bíróságnak, e helyett köteles azt felterjeszteni a felügyeleti szervéhez akinek ebből kifolyólag lehetősége nyílik a keresetlevélben foglalt jogsérelem orvoslására, hasonlóan a másodfokon eljárt közigazgatási szervhez. Külön kiemelendő, hogy a normaszöveg kiemeli a járási hivatalokat, amelyeknek döntései esetén minden esetben a megyei kormányhivatal az, amely a felterjesztésben közreműködőként megjelenik. Ez azon ügyekben bír különös jelentőséggel, ahol a felügyeleti szerv nem a megyei kormányhivatal.
+
+A 214. §-hoz
+
+Kiegészül a keresetlevél bíróságon történő benyújtására vonatkozó szabályok köre a törvény által megengedett keresethalmazat esetére vonatkozóan, oly módon, hogy ha azt egyszerre kellene a közigazgatási szervnél és a bíróságnál is benyújtani, akkor a keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a felperes - határidőn belül - tévesen a közigazgatási szervnél vagy a jogorvoslati szervnél nyújtja be.
+
+A 215. §-hoz
+
+Módosul az alperesi nyilatkozatra vonatkozó rendelkezés akként, hogy ha a keresetlevél azonnali jogvédelem iránti kérelmet is tartalmaz az alperesi nyilatkozatnak ki kell térnie arra is, hogy a keresetlevél benyújtásáról kiket értesített, valamint a megelőző eljárásban zártan kezelt és védett adatokra.
+
+A 216. §-hoz
+
+Kiegészülnek az áttétel szabályai arra vonatkozóan, hogy az áttételt elrendelő végzés ellen fellebbezésnek van helye.
+
+A 217. § és 218. §-hoz
+
+Módosulnak a keresetlevél elektronikus előterjesztésére vonatkozó rendelkezések akként, hogy külön pontban kerül szabályozásra a jogi képviselő és a felperes nem szabályszerű keresetlevél előterjesztése esetének jogkövetkezményei. Erre tekintettel módosulnak a keresetlevél joghatásának fennmaradására vonatkozó rendelkezések is.
+
+A 219. §-hoz
+
+Kiegészül azonnali jogvédelemre vonatkozó rendelkezések köre arra vonatkozóan, hogy az azonnali jogvédelmet biztosító végzés elleni fellebbezésnek nincs halasztó hatálya, mivel az az azonnali jogvédelem célját hiúsítaná meg.
+
+A 220. §-hoz
+
+A bizonyítási eljárás szabályai között kiegészül a bizonyítási indítvány előterjesztésére vonatkozó rendelkezés azzal, hogy a bíróság legfeljebb tizenöt napos határidő tűzésével az első tárgyalást követően is engedélyezheti bizonyítási indítvány előterjesztését, illetve bizonyítási eszköz rendelkezésre bocsátását, ha a felperes a keresetét az első tárgyaláson megváltoztatja, a felperes keresetét a jogsérelem orvoslására tett cselekményre kiterjeszti, vagy az az anyagi pervezetése folytán vált szükségessé. Ide egyfelől azok az esetek tartoznak, amikor az első tárgyaláson keresetváltoztatásra vagy a jogsértés orvoslására tett cselekményre tekintettel a Kp. 83. § (5) bekezdése alapján kereset kiterjesztésre kerülhet sor, ezen felül a Kp. 71. § (3) bekezdése alapján alkalmazandó polgári perrendtartás anyagi pervezetésére vonatkozó szabályai nyomán is előállhatnak ilyen esetek.
+
+A 221. § és 222. §-hoz
+
+A 2018. előtti szabályok esetén a megsemmisítés és új eljárásra kötelezés volt a főszabály. 2018-ban a Kp. hatályba lépésével a megváltoztatás lett a főszabály, 31 ügycsoportban viszont törvény továbbra is kizárja a megváltoztatást. A kormányhivatalok működésének egyszerűsítéséről szóló előterjesztés által a hatósági eljárások - főszabály szerinti - egyfokúsításával azonban szükségessé vált a megváltoztatási jogkör átalakítása is.
+
+Ennek megfelelően - többek közt - módosul úgy a Kp. 90. § (1) és (2) bekezdése, hogy azon közigazgatási perekben, amelyeket kétfokú közigazgatási eljárás előzött meg továbbra is van lehetőség megváltoztatásra, egyfokú közigazgatási eljárás esetében viszont, a bíróság a döntést csak megsemmisíthetné, és a közigazgatási szervet új eljárásra kötelezhetné, ha törvény eltérően nem rendelkezik. A második bírósági eljárásban - azonos ténybeli és jogi alap esetén - már lehetséges lenne a megváltoztatás (ún. szankciós megváltoztatás) egyfokú eljárások esetén is, azon ügykörök kivételével, ahol jelenleg sem lehetséges a megváltoztatás.
+
+Természetesen a megváltoztatás természetszerű követelményeinek (az ügy természete megengedi, a tényállás tisztázott és a jogvita vita véglegesen eldönthető) az (1) bekezdés esetén való megváltoztatásnál továbbra is fenn kell állniuk.
+
+Fontos kiemelni e körben, hogy a módosítások most már expressis verbis utalnak arra, hogy a (3) bekezdés d) pontja szerinti kizárás mind az (1), mind pedig a (2) bekezdés szerinti megváltoztatásra vonatkozik.
+
+A 223. § és 224. §-hoz
+
+Módosítani szükséges a fellebbezhető bírósági határozatok körét is az új fórumrendszerre tekintettel, tartalmilag azonban a korábbi megoldás nagyrészt fennmarad. A Kp. azokban az esetekben biztosít a bíróság ítélete ellen fellebbezési jogot, amikor a közigazgatási cselekmény megelőző eljárás nélkül került megvalósításra. Ennek két tipikus válfaját, a szerződésekkel, illetve a közszolgálati jogviszonnyal kapcsolatos ítéleteket a Kp. különösrészi szabályai továbbra is külön nevesítik, azonban indokolt ezt az esetkört általánosságban is szabályozni, hiszen más közigazgatási cselekmények esetén is elképzelhető ez a megvalósulási mód. A Kúria előtti fellebbezés helyett a felülvizsgálat válik perorvoslati lehetőséggé a Fővárosi Törvényszék kizárólagos illetékességi körébe tartozó ügyekben. A kétfokúvá vált fórumrendszerre tekintettel kell másfelől a fellebbezéseket elbíráló Kúria végzéseivel szembeni fellebbezés lehetőségét kizárni.
+
+A 225. §-hoz
+
+A perorvoslati eljárások egy fórumra koncentrálódása miatt a jogegységi eljárásra tekintettel való felfüggesztési okot is a fellebbezési eljárás szabályai között kell szabályozni, aminek révén mind a fellebbezési, mind a felülvizsgálati eljárás felfüggeszthetővé válik az ügyet érintő jogegységi eljárásra tekintettel.
+
+A 226. §-hoz
+
+Az új fórumrendszer következtében fellebbezni csak a Kúriához lehet, ezért a középső bírósági szintet kikerülő ugró fellebbezés jogintézménye is szükségtelenné válik, akárcsak a másodfokú eljárásban hozott végzésekkel szembeni fellebbezésre vonatkozó szabály.
+
+A 227. §-hoz
+
+A végzés elleni fellebbezés körében kiegészült a szabályozás arra vonatkozóan, hogy ha az elsőfokú bíróság a fellebbezésre hiánypótlást rendelt el és a fél a hiánypótlási felhívás teljesítésére rendelkezésre álló határidőben a fellebbezés hiányait nem pótolta, és az emiatt az nem bírálható el, akkor az elsőfokú bíróság a fellebbezést visszautasítja.
+
+A 228-231. §-hoz
+
+A Kúria hatáskörébe tartozó felülvizsgálati eljárás szabályait is szükséges több ponton módosítani fórumrendszer módosításából adódóan, hiszen a perorvoslati rendszer kettő helyett egy fórumra koncentrálódik. Egyrészt a befogadhatósági eljárás módosul a felülvizsgálat jogegységesítő funkció melletti jogorvoslati funkciójának erősítése érdekében. Így a felülvizsgálati kérelem befogadásának négy eddigi esetköre mellé felsorakozik a kérelmező alapvető eljárási jogának sérelme, illetve az ügy érdemére kiható eljárási szabályszegés. Másrészt egyértelműsíti a módosítás, hogy a befogadhatóság okát nem kell a felülvizsgálati kérelemben indokolni, sem a fennállását bizonyítékokkal alátámasztani. A bíróság a befogadhatósági okhoz sincsen kötve, ha nézete szerint a felülvizsgálati kérelemben meg nem jelölt okból szükséges a felülvizsgálati kérelem befogadása, akkor azt megteheti.
+
+A jogállam fogalmi eleme a jogbiztonság, amely kiszámítható és koherens joggyakorlatot is feltételez. A Kúria az Alaptörvény 25. cikkében meghatározottak szerint biztosítja a bíróságok jogalkalmazásának egységét. A széttartó, kiszámíthatatlan joggyakorlat sérti a jogbiztonságot és a peres felek tisztességes eljáráshoz való jogát. Ezért szükséges eljárásjogi eszközökkel biztosítani annak lehetőségét, hogy e feladatának a Kúria eleget tudjon tenni, és valóban következetes gyakorlatot alakíthasson ki. Biztosítani kell a peres feleknek annak lehetőségét, hogy ha a jogerős döntés jogkérdésben eltér a Kúria közzétett határozatától, azt a Kúria elé tudják vinni, ezért számukra az ilyen esetekre jogorvoslati lehetőséget kell biztosítani.
+
+Tekintettel a perorvoslati eljárások egy fórumra koncentrálódására, a másodfokú ítélet elleni felülvizsgálati kérelem benyújtását kizáró szabályt is szükséges hatályon kívül helyezni. A felülvizsgálati eljárásban a Kúriát megillető megváltoztatási jogkör terminológiai pontosítására szintén sor kerül.
+
+A 232. §-hoz
+
+Szükséges kiegészíteni az egyszerűsített perben elbírálandó eljárások körét, mivel arra ágazati törvényben nincs lehetőség.
+
+A 233. §-hoz
+
+Annak érdekében, hogy a törvényességi felügyeleti szerv a köztestület mulasztásával szembeni fellépés esetén a köztestületi felügyeleti perben szabályozott addicionális jogkövetkezmények a mulasztás megállapításán felül alkalmazhatóak legyenek, szükséges a mulasztási per és a köztestületi felügyeleti per közötti átfedést megszüntetni és egyértelművé tenni, hogy a köztestület mulasztása esetén a köztestület felett törvényességi felügyeletet gyakorló szerv nem mulasztási pert, hanem köztestületi felügyeleti pert indít. A mulasztás miatt indított köztestületi felügyeleti perben, így a mulasztási perben alkalmazható jogkövetkezmény mellett a speciális jogkövetkezményeket is alkalmazhatja a bíróság.
+
+A 234. §-hoz
+
+Tekintettel arra, hogy a keresetlevél a bírósághoz kerül közvetlenül benyújtásra, és az alperes részére 30 napos határidő áll nyitva a védirat benyújtására, ezért indokolt az első tárgyalást védirat beérkezésétől számított időpont alapján kitűzni.
+
+A 235. §-hoz
+
+A közigazgatási és munkaügyi bíróságok megszűnte miatt a rendelkezés újra megállapítása szükségessé vált.
+
+A 236. §-hoz
+
+A bírósági szervezetrendszer átalakulása az egyes ágazati törvényekben még fellelhető közigazgatási nemperes eljárásokra vonatkozó szabályozást is érinti. e körben indokolt a változásokra tekintettel a közigazgatási nemperes eljárások Kp.-be integrálása az általános perjogi szabályozás teljeskörűségének biztosítása érdekében. Ez több módosítást tesz szükségessé. Egyrészt szerkezetileg egy fejezetben szükséges rendezni a nemperes eljárások általános szabályait, továbbá az új eljárásra kötelező és a bírói határozat teljesítésének kikényszerítésére irányuló eljárás, valamint az egyéb különös közigazgatási nemperes eljárások eddig több ágazati törvényben szereplő szabályait. A normakontroll eljárások és a kijelölési eljárás, noha szintén nem minősülnek peres eljárásoknak, a hasonló alkotmánybírósági eljárásokkal való szoros kapcsolat miatt nem kerülnek át a nemperes eljárásokat összefoglaló fejezetbe.
+
+A 237. §-hoz
+
+Az átalakuló fórumrendszer miatt a folyamatban lévő eljárásokban is alkalmazni kell a Kp. módosított eljárási szabályait, mivel a megszűnő bíróságok miatt hiányozna az eljáró fórum. Szükséges tisztázni, hogy a 99. § (2) bekezdésének módosítása, vagyis a kiemelt ügyekben a fellebbezési lehetőségének megszűnése csak a módosítások hatálybalépés után meghozott ítéletekre terjed ki. Rendelkezni kell ezen felül arról, hogy a folyamatban lévő első-, másodfokú-, illetve rendkívüli perorvoslati eljárások eseteire nézve, hogy a bíróságoknak meddig és melyik bírósághoz kell az ügyeket megküldeniük. A Javaslat a törvényes bíróhoz való jog biztosítása érdekében rendelkezik arról is, hogy a folyamatban lévő fellebbezéseket a 2020. április 1-jei szervezeti változásokat megelőzően hatályos szabályok alapján jogosult bíróságok bírálják el, az ügyeknek az átmeneti rendelkezések szerinti átadása a másodfokon folyamatban lévő ügyeket nem érinti. A szabályozási átmenet megkönnyítésére a módosítás tartalmaz néhány értelmező („fordító”) szabályt, amely megkönnyíti a jogalkalmazást az átalakult jogszabályi környezetben.
+
+A 238. § és 239. §-hoz
+
+Szövegcserés és hatályon kívül helyező rendelkezések.
+
+A 240. § és 241. §-hoz
+
+Mivel a közigazgatási nemperes eljárások szabályait a Kp. fogja tartalmazni, különös eljárási típusként szabályozva a védekezés céljából készült irat minősítését, ezért a Kp. szabályozásával párhuzamos rendelkezéseket deregulálni szükséges. A módosítás ezen felül a Kp. módosítására tekintettel pontosítja a törvényességi felügyelet eljárási szabályai körében a teljesítés kikényszerítésre irányuló eljárásra utaló szabály fogalomhasználatát.
+
+A 242-246. §-hoz
+
+A Kúria jogértelmezésétől történő eltéréssel, illetve ez ezzel kapcsolatos indokolási kötelezettséggel összefüggésben, az általános indokolásban kifejtetteknek megfelelően a Be. is kötelezettségként határozza meg az ügydöntő határozatot hozó bíróság számára, hogy amennyiben egy korábban közzétett határozattól el kíván térni, úgy ennek indokait a határozat indokolásában kifejtse.
+
+Annak érdekében, hogy a Kúria jogértelmezésétől történő indokolatlan eltérés a Javaslattal kialakított jogorvoslati rendszernek megfelelően akár jogegységi panasszal is támadható legyen, a Be. ezt az a körülményt új felülvizsgálati okként határozza meg. A jogegységi panasz bevezetése, az egységes joggyakorlat biztosítása ugyanakkor nem célozta a felülvizsgálati eljárás szükségtelen kiterjesztését, amely a jogerő szükségtelen áttörését eredményezné. Ennek megfelelően a javaslat az új felülvizsgálati okot is azokra az esetekre korlátozza, amikor az indokolatlan eltérés a felülvizsgálatra alapot adó eljárásjogi vagy anyagi jogi szabálysértést eredményez.
+
+A büntetőeljárás során - a jogegységi eljáráshoz hasonlóan - a jogegységi panasz eljárásban sem indokolt a végrehajtás felfüggesztésének, félbeszakításának biztosítása. A jogegységi panasz eljárásban továbbá nem hozható olyan érdemi döntés, amely a panasz elutasítása esetén a támadott határozat végrehajtásáról rendelkezne, így az esetleges felfüggesztés, félbeszakítás a jogegységi panasz eljárásban utóbb nem lenne reparálható, ezért is indokolt annak kizárása, amelyet a Bszi. új 41/B. § (5) és (9) bekezdése tesz lehetővé, amely a végrehajtás felfüggesztésére vonatkozó kérelem elbírálását az ágazati törvények szabályzási tárgykörébe utalja.
+
+A Be. rendelkezései alapján a felülvizsgálati eljárásban a megtámadott határozat megváltoztatására, hatályon kívül helyezésére csak abban az esetben kerülhet sor, ha a büntető anyagi jog szabályainak a Be. 649. § (1) bekezdésben meghatározott megsértésére vagy a (2) bekezdésben meghatározott eljárási szabálysértésre került sor. Ennek hiányában a Kúria a megtámadott határozatot hatályában fenntartja. Amennyiben a Kúria a felülvizsgálati eljárásban az eltérő Kúria döntésre hivatkozó indítványt elutasítja, a határozata ellen jogegységi panasznak van helye. Abban az esetben azonban, ha a felülvizsgálati eljárásban a Be. 649. § (1) és (2) bekezdésében meghatározott következmény hiányában az ügydöntő határozat megváltoztatásának nincs helye, a jogegységi panasz határozatban indokolatlan a felülvizsgálati eljárás megismétlésének elrendelésre, mert az ügydöntő határozat megváltoztatása, hatályon kívül helyezése kizárt. Ilyen esetben a jogegységi panasz tanács döntése a joggyakorlat egységességét akként tudja biztosítani, hogy határozatában - amely jogegységi határozat hatályával bír - az eltérő döntésből eredő jogsértést deklarálja és a joggyakorlat egységességét biztosító iránymutatást szab.
+
+A 247. §-hoz
+
+A Ptk. 4:181. § (1) bekezdése szerint a gyermekkel való kapcsolattartás kérdésében a szülők a házassági vagy a szülői felügyelet rendezése iránti perben egyezséget köthetnek, egyezségük hiányában a kapcsolattartásról - kérelemre vagy a gyermek érdekében hivatalból - a bíróság dönt. Ha házassági vagy a szülői felügyelet rendezése iránti per nincs folyamatban, a kapcsolattartásról a szülők megegyezésének hiányában a gyámhatóság dönt. Amennyiben a kapcsolattartásra jogosult vagy kötelezett megszegi a kapcsolattartásra vonatkozó akár bíróság, akár gyámhatóság által hozott határozatban foglaltakat, vagy a kapcsolattartást rendező, bíróság vagy gyámhatóság által jóváhagyott egyezséget, a Ptk. 4:185. §-a alapján a kapcsolattartásra vonatkozó határozat végrehajtása elrendelésének van helye, melyről a gyámhatóság gondoskodik. Annak érdekében, hogy a kapcsolattartás tárgyában hozott határozatok végrehajtása tárgyában hatékonyabban és fokozott eljárási garanciák mellett szülessen döntés, a Javaslat jelenleg a gyámhatóság hatáskörébe tartozó eljárást bírósági hatáskörbe tartozó polgári nemperes eljárássá alakítja. A Javaslat szerint a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárás új nemperes eljárásként a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvényben kap helyet, amely jelenleg is több személyi állapotot érintő, családjogi tárgyú nemperes eljárás szabályait tartalmazza.
+
+A Javaslat a kapcsolattartás tárgyában hozott határozat végrehajtásának hatékonyságát akként biztosítja, hogy a bíróságnak a végrehajtás elrendelése tárgyában hozott végzése végrehajtható okirat kiállítása nélkül közvetlenül végrehajtható. Figyelemmel arra, hogy a kapcsolattartás tárgyában mind annak jogosultjai, mind kötelezettjei tekintetében számos eljárásjogi szituáció képzelhető el, a Javaslat az eljárás kezdeményezésére jogosult személyek köre vonatkozásában a Ptk.-ra utal. Így például a Ptk. alapján a kapcsolattartásról szóló határozat végrehajtását kérheti adott esetben a szülőn kívül a nagyszülő, testvér, a volt mostohaszülő, nevelőszülő, gyám és az is, akinek a gyermekre vonatkozó apasági vélelmét a bíróság megdöntötte. Az eljárás járásbíróság hatáskörébe tartozik, az illetékességi szabályok a kapcsolattartással érintett gyermek érdekeit szem előtt tartva kerültek meghatározásra.
+
+A kapcsolattartásra vonatkozó határozat végrehajtása iránti kérelem tartalmát és előterjesztésének határidejét a Javaslat a Ptk. szabályaihoz igazítja.
+
+A végrehajtás elrendelésének kérdésében a bíróság szükség esetén az érintettek meghallgatása után dönt. Ha megállapítja, hogy a kérelmezett megszegte a kapcsolattartásra vonatkozó határozatban foglaltakat, elrendeli a határozat végrehajtását és egyben figyelmezteti a kérelmezettet a nemteljesítés jogkövetkezményeire. Erre irányuló külön kérelem esetén kötelezi a kérelmezettet a kapcsolattartásra vonatkozó határozatban foglaltak megszegése folytán keletkezett igazolt költségek viselésére.
+
+A végrehajtás elrendelése esetén a kérelmezett teljesíteni köteles a határozatban foglaltakat, melynek elmaradása megnyitja a nemperes eljárás második szakaszát, amikor a végrehajtást elrendelő bíróságnak az elmaradt teljesítés jogkövetkezményeit kell levonnia. A bíróságnak a fokozatosság elvének szem előtt tartásával a végrehajtásnak olyan módját kell alkalmaznia, ami a legalkalmasabb arra, hogy biztosítsa a gyermekkel történő kapcsolattartást. Abban az esetben, ha a kérelmezett a kapcsolattartás szabályait rendszeresen és visszatérően megszegi, a bíróság önálló bírósági végrehajtó közreműködésével kényszerítheti ki kapcsolattartás céljából a gyermek átadását, ami a bírósági végrehajtásról szóló 1994. évi LIII. törvényben foglalt, a gyermek átadásának speciális eseteként kerül szabályozásra.
+
+Abban az esetben, ha a kapcsolattartás 14. életévét betöltött gyermek befolyásmentes, önálló akaratnyilvánítása miatt hiúsul meg, a Javaslat az eljárás eredményessége érdekében lehetővé teszi, hogy a bíróság a közvetítői eljárás igénybevétele érdekében felfüggessze az eljárást.
+
+Annak érdekében, hogy a hatásköri szabályok változása ne okozzon fennakadást a kapcsolattartási ügyek végrehajtásában, a Javaslat rendelkezik arról, hogy a 2020. március 1-jén vagy az azt követően indult eljárásokban kell alkalmazni. A 2020. február 29. napján folyamatban lévő ügyeket a 2020. március 1-jét megelőzően hatályos szabályok alapján hatáskörrel és illetékességgel rendelkező szerv intézi el.
+
+A 248. §-hoz
+
+Az Art. 123. §-a rendelkezik az adatkezelés szabályairól az adóhatósági eljárásban. Az ebben foglalt rendelkezések kiegészítésével már nem csak a törvény által védett titok, hanem a törvény által védett egyéb adatra vonatkozóan is biztosítja az adóhatóság az eljárásai során az adatok védelmét.
+
+A 249. §-hoz
+
+Az Ákr. 8. § (1) bekezdés c) pontja alapján az adóigazgatási eljárás az általános közigazgatási rendtartás alól kivett eljárások közé tartozik. A módosítás célja, hogy az adóigazgatási eljárás kivett jellegére, illetve a 7/2019. (III. 22.) AB határozatban lefektetett követelményekre tekintettel a tanúkra vonatkozó adatok zárt kezelésével kapcsolatos rendelkezéseket az Ákr. módosításokhoz igazodóan módosítsa. Az adóigazgatási eljárásban az adatok zártan kezelésének lehetséges indokai kiegészülnek az eljárásban való közreműködés miatti súlyosan hátrányos következményen felül azzal az esetkörrel, amikor az ugyanazon tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló más bírósági vagy hatósági eljárásban az adózó vagy az eljárás egyéb résztvevője adatainak zárt kezelését rendelték el.
+
+A módosítás továbbá meghatározza az adóhatóság számára a zárt adatok kezelésére vonatkozó eljárást, az adóhatóság azzal kapcsolatos feladatait.
+
+A 250. §-hoz
+
+Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 8. § (1) bekezdés c) pontja alapján a vámigazgatási eljárás az általános közigazgatási rendtartás alól kivett eljárások közé tartozik. A módosítás célja, hogy a vámigazgatási eljárás kivett jellegére, illetve a 7/2019. (III. 22.) AB határozatban megfogalmazott követelményekre tekintettel, az Ákr. módosításaihoz igazodóan a tanúkra vonatkozó adatok zárt kezelésével kapcsolatos nemzeti vámjogi rendelkezéseket módosítsa.
+
+Ennek keretében a védett adatok fogalma kiegészítésre kerül a törvény által védett egyéb adatok körével. Továbbá kérelemre vagy hivatalból sor kerülhet az adatok zárt kezelésére, ha ugyanazon tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló más eljárásban az ügyfél vagy az eljárás egyéb résztvevője adatainak zárt kezelését rendelték el. A zárt adatkezelést elrendelő végzést csak azzal a személlyel kell közölni, akinek adatkezelésére ez kifejezetten vonatkozik.
+
+A 251. §-hoz
+
+Tekintettel a Kp. 13. § (3) bekezdésére, amely kimondja a Fővárosi Törvényszék kizárólagos illetékességét e szabályozási körben, indokolt a rendelkezés deregulációja.
+
+-----STARTING---POINT---VEGE---
+
+A 252. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 253. §-hoz
+
+Sarkalatossági záradék.
+
+A 254. §-hoz
+
+A jogalkotásra vonatkozó európai uniós követelményekre utaló rendelkezés.
+
+A 255. §-hoz
+
+A közigazgatási nemperes eljárások szabályozása integrálásra kerül a Kp. szabályai közé, ezért indokolt a külön törvény egyidejű hatályon kívül helyezése.

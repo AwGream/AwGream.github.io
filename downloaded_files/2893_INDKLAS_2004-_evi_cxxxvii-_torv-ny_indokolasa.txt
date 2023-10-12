@@ -1,0 +1,207 @@
+2004. évi CXXXVII. törvény indokolása
+
+a Nemzeti Audiovizuális Archívumról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Nemzeti kulturális örökségünk hazánk múltjának és jelenének pótolhatatlan, egyedi és meg nem újítható forrása, amelynek feltárása, tudományos feldolgozása, megóvása, védelme, fenntartható használata és közkinccsé tétele a rendszerváltozást követő jogi szabályozás egyik hangsúlyos kérdésköre volt. A magyar kulturális örökség audiovizuális része rohamosan gyarapszik, főként a televíziós műsorszolgáltatás révén terjesztett tartalom növekedése miatt. Nem csupán e tartalom korszerű és rendszeres gyűjtése általános nemzeti érdek, hanem - a digitális feldolgozási és tárolási technikák és a számítógépes hálózat biztosította lehetőségek (Internet) alkalmazásával - a hozzáférhetővé tétele is. A célkitűzés tehát egy nyitott, mindenki számára elérhető digitális multimédia archívum létrehozása.
+
+A magyar nemzeti kultúrkincs audiovizuális részének gyűjtésében és hozzáférhető tételében központi szerepet tölt be a Nemzeti Audiovizuális Archívum (a továbbiakban: NAVA), amely a műsorszolgáltatói kötelespéldányok archívuma és a hang és/vagy kép (multimédia) archívumok digitális adatbázis központja lenne egyszerre.
+
+A gyűjtéshez, a szolgáltatásokhoz, valamint a központi adatbázis funkció megvalósításához beruházások, átgondolt szellemi és anyagi fejlesztések szükségesek.
+
+A NAVA közgyűjteményi státusszal és a működését, fejlődését biztosító anyagi háttérrel rendelkező szervezet - amelynek létrehozása az Európa Tanács Audiovizuális örökség védelméről szóló, 2001. szeptember 19-én elfogadott Európai Egyezmény (a továbbiakban: Egyezmény) rendelkezésein alapul.
+
+Annak ellenére, hogy a nemzeti kulturális örökség szerves részét képezik a széles értelemben vett műsorszámok, a hazai törvényalkotás e terület átfogó szabályozásával mindezidáig adós maradt. Problémát jelent az is, hogy miközben az elmúlt években látványos fejlődés tapasztalható az audiovizuális műsorszámok katalogizálásával, digitalizálásával kapcsolatban, e törekvések eltérő technológiájú és egymástól elszigetelt archívumok létrejöttét eredményezik, s az ezekben felhalmozott kulturális értékek nemzeti szinten nem hasznosulnak. A műsorszámok mind teljesebb körű gyűjtése, nemzeti szintű számbavétele, rendszerezése és hozzáférhetőségének biztosítása indokolja a NAVA megalapítását, illetve mindezek törvényi szintű szabályozását.
+
+1. A NAVA alapgondolata
+
+Az elektronikus médiában (analóg és digitális televízió és rádió) keletkező audiovizuális anyagok a nemzeti kulturális és történelmi örökség részét képezik, ezek a nemzeti kultúra és történelem dokumentumai, ezért megőrzésük a jövő számára és hozzáférhetővé tételük a kutatás és az oktatás céljaira ugyanolyan fontos, mint a nyomtatványoké, a képzőművészeti alkotásoké, a filmeké és a zeneműveké.
+
+A sugárzott hang és kép rögzítésére, a pillanat megragadására már vannak módszereink, és az ilyen tartalmak szabályozott gyűjtése és széles körű, könyvtárszerű elérhetőséget biztosító rendszerbe foglalása már az Európai Unióban sem példa nélküli. Az általunk felvázolt megoldás a nyugati modelleknél hatékonyabb és olcsóbb működést eredményez.
+
+Az audiovizuális archívum létrehozásának szükségessége hazánkban két egymással összefüggő felismerés eredménye:
+
+- a magyarországi műsorszolgáltatók által sugárzott és gyártott műsorszámok a fennálló intézményrendszer és szabályozás szerint nem tartoznak ugyanabba a kulturális örökség kategóriába, mint a nyomtatványok vagy a filmek, azaz nem vonatkozik rájuk a sajtótermékek kötelespéldányainak szolgáltatásáról és hasznosításáról szóló 60/1998. (III. 27.) Korm. rendelet, és azok az archívumok, amelyek ezek gyűjtésével foglalkoznak, a nyilvánosság számára hozzáférhetetlenek;
+
+- megvalósítható a legkülönfélébb közgyűjtemények, múzeumok, kulturális adattárak összekapcsolása és egy egységes nyilvántartási, katalogizálási rendszer létrehozása.
+
+1.1. A NAVA előkészítése
+
+A NAVA alapgondolata 1999. májusában merült fel először a Budapesti Műszaki Egyetem Informatikai Központ Média Laboratóriumának munkatársai körében, és 2000. márciusában már el is készült az Előkészítő tanulmány, amely tárgyalta az intézmény felépítésével, funkciójával kapcsolatos kérdéseket, a NAVA műszaki rendszerét, jogi feltételeit, valamint a leíró adatbázis alapkoncepcióját. Az előkészítő tanulmányban foglalt elvek gyakorlati vizsgálata céljából kísérleti (pilot) rendszert fejlesztettek ki, amely mintegy százórányi archív és friss műsorszórói digitalizált, tartalmilag feldolgozott műsorszámot tartalmazott.
+
+A mintarendszert szakmai viták sorozatán mutatták be az informatika, az országos médiumok, a könyvtáros szakma, valamint az audiovizuális archívumok vezető képviselőinek. Bebizonyosodott, hogy az archívum koncepciójával a szakma egyetért.
+
+2002 januárjában fölállították az érdekelt szakmák tájékoztatására és kommunikációs fórumául szolgáló NAVA portált, és „Digitális archívum kézikönyv” címmel összefoglalót készítettek az archívumot tervezők, üzemeltetők számára.
+
+A jogszabályalkotás megalapozására és segítésére jött létre 2001-ben - egyrészről a Miniszterelnöki Hivatal, a Nemzeti Kulturális Örökség Minisztériuma (a továbbiakban: NKÖM), az Országos Rádió és Televízió Testület, másrészről a Neumann János Digitális Könyvtár és Multimédia Központ Kht. közötti megállapodás alapján - a NAVA Projekt, amelynek kiemelt célja a műsorszámokkal kapcsolatos jogi szabályozás, gyűjtés, nyilvántartás, megőrzés, széleskörű hozzáférés kérdésköreinek vizsgálata és a lehetséges megoldási módozatainak kimunkálása volt.
+
+A projekt keretében működő munkacsoportok jogi, szabványosítási, informatikai és technológiai szempontból végezték el e kérdéskörök elemzését és fogalmazták meg javaslataikat a kodifikációs munkához.
+
+A vizsgálatok során számba vették mindazon nemzetközi és hazai tapasztalatokat, amelyek az audiovizuális műsorszámokkal kapcsolatos jogi szabályozás és a tényleges gyakorlatot tekintve a magyar törvényhozásnak releváns szempontként szolgálhat, annak érdekében, hogy a meghozandó jogszabály harmonizáljon a nemzetközi szabályozással, mindenekelőtt az Egyezménnyel, illetve az EU irányelveiben foglaltakkal.
+
+Az egyik legfontosabb feladat a terminológiai szótár kidolgozása (azaz a „tartalmi” szabványosítás) volt. Az újonnan kidolgozott definíciók használata alkothatja meg a közös nevezőt a különböző területeken dolgozó szakemberek között. A terminológiai munka a Dublin Core szabvány hazai adaptálására, illetve a Nemzeti Audiovizuális Archívumról szóló törvény (a továbbiakban: törvény) 2. mellékletének kidolgozására is kiterjedt.
+
+2. A NAVA koncepciója
+
+A NAVA technológiai szempontból egy jelentős méretű médiatároló és médiavagyon-kezelő műszaki rendszer: gyűjt, tárol és a nyilvánosság számára hozzáférhetővé tesz audiovizuális anyagokat.
+
+A mai kor követelménye az, hogy egy ilyen tároló rendszer digitális és on-line elérhető legyen. Ezen belül többféle szakmai, műszaki megközelítés képzelhető el. Kulcsfontosságú, hogy a NAVA a nemzetközi műszaki szabványokkal összhangban legyen. Gyorsan változó területről van szó, ezért a szabványosság követelményének biztosítása nem könnyű, folyamatosan figyelni szükséges a trendeket és nem csak a már elfogadott, hanem az előkészületben álló szabványokra is tekintettel kell lenni.
+
+Az előkészítő projektek áttekintették az elvi alapokat, a rendszertechnikai lehetőségeket és a nemzetközi törekvéseket. A rendszertervezés fontos kiinduló adatai: a tárolni kívánt anyagok mennyisége és minősége (mennyi műsort és milyen rögzítési minőségekben kívánunk megőrizni). Az előkészítő projektekben becsléseket is adtak a szakemberek a feldolgozandó audiovizuális anyagok mennyiségéről és erre alapozva méretezési becsléseket is tettek. Ezek alapján szakmailag megalapozott javaslatok készültek a megőrzési minőségekről. Legalább két minőségben érdemes tárolni valamennyi megőrzésre szánt anyagot: egy a TV/rádió műsorszórásban foghatónál valamivel jobb, ún. „nézési” minőségben és egy „böngésző” (az Interneten is ésszerű költségen átvihető) minőségben. Felmerül természetesen egy nagyon magas minőségű (szerkeszthető) megőrzés is, legalábbis az anyag egy részére. A tárolási minőség erősen befolyásolja a NAVA működésének költségét. Az audiovizuális anyagok távközlési kábeleken, műsorszórás útján vagy off-line adathordozón kerülhetnek a NAVÁ-ba. Fontos szempont a 24 órás, heti 7 napos megbízható, védett üzemeltetés.
+
+A NAVA egyik nemzetközi szempontból is értékelhető újdonsága, hogy on-line biztosítja a kijelölt anyagok kereshetőségét, fellelhetőségét is, a szerzői jogi szabályozás keretein belül.
+
+A nyilvános hozzáférésnek a jövőbeli történelem-, irodalom- kultúrtörténeti és politológia oktatás és a kutatás szempontjából felbecsülhetetlen jelentősége van. A katalógus (szakmailag pontosabb kifejezéssel: a meta-adat bázis) felépítése és karbantarthatósága a NAVA működésének kulcsfontosságú feladata. A meta-adat bázis terve (mint minden műszaki alkotás) kompromisszumok eredménye. Nem lehet nagyon részletes, mert túl sok leíró adat begyűjtése (adatszolgáltatás) meghaladja a lehetőségeket. Lehetővé kell tenni összekapcsolását más (hazai és külföldi) archívumok katalógusaival - amelyeknek ugyanakkor eltérő leíró fogalmaik, leíró adataik és adatformátumaik vannak. A mai kor és a jövő azt igényli, hogy a könyvtár, a levéltár, az archívum, a múzeum, stb. adatai nem elkülönülten, hanem összekapcsolva legyenek elérhetők és használhatók.
+
+Ezért a NAVA meta-adat szerkezetét az előkészítő projektek a lehető legegyszerűbbre tervezték, olyan elemekkel és olyan szerkezetben, amely megfelel a legfontosabb nemzetközi szabványoknak (Dublin Core, MARC).
+
+Az összekapcsoláshoz nem elég a szabványos adatszerkezet, az adatcserék protokolljában és az adatok fizikai formátumában is meg kell egyezni. Végül nem elég a formátumok és a szerkezetek megfeleltetése, a közösen használt fogalmak azonos értelmezése is elengedhetetlen. Ezért a projekt legutolsó szakaszában elkészült a fentiekben említett terminológiai szótár (a leíró adatok megnevezésével, valamint magyar és angol nyelvű definícióival), egy meta-adat bázis terv, továbbá ajánlás a különböző meta-adat bázisok együttműködésében használható protokollokra és formátumokra. E munkában igen lényeges volt a széleskörű szakmai egyeztetés.
+
+Az átfogó - ugyanakkor hangsúlyosan keretjellegű - szabályozást az teszi indokolttá, hogy bár már szükségessé vált, azonban e tárgykörre vonatkozóan eddig nem született hazai jogszabály vagy egyéb előírás.
+
+3. A NAVA nemzetközi jogi háttere
+
+3.1. Az Audiovizuális örökség védelméről szóló ET Egyezmény (Egyezmény)
+
+A NAVA projekt jogi alapjainak kidolgozásánál meghatározó szerepe van az Egyezménynek.
+
+Az Európa Tanács audiovizuális örökség promócióját elősegítő átfogó jogalkotási folyamatába szervesen illeszkedő Egyezmény a szerződő felek számára meghatározza azokat a kötelezettségeket és lehetőségeket, amelyek elősegítik az európai audiovizuális örökség megóvását, a mozgóképek kulturális, tudományos és kutatási célú felhasználásának előmozdítását és annak hozzáférhetővé tételét a mind szélesebb közönség számára.
+
+Az Egyezmény jelenlegi állapotában az Európai Koprodukciókról szóló 1992. évi ET Egyezményben definiált filmalkotásokra vonatkozik, de számol azokkal a speciális, a mozgóképi anyagok fogalomkörébe értendő egyéb kategóriákkal is, amelyekre a szabályozás a későbbiekben kiterjesztendő. E körbe tartoznak a televíziós alkotások, amelyeket műsorszolgáltatók készítenek vagy amelyeket részükre mások készítenek, valamint azok a videokazetták és videolemezek, amelyek tartalmukat tekintve sem a filmalkotások sem a televíziós műsorok körébe nem sorolhatók. Az Egyezmény tárgyi hatálya e kategóriákra a 18. cikkelyben foglalt specifikus protokollok és módosítások révén terjedhet ki. A televíziós produkciókra vonatkozó speciális protokoll már megszületett az audiovizuális örökség védelméről szóló európai egyezmény Jegyzőkönyve a televíziós alkotások védelméről címmel (a továbbiakban: Jegyzőkönyv).
+
+Az Egyezmény elválasztja a kötelespéldányok szolgáltatására, illetve az önkéntes példányok szolgáltatására vonatkozó szabályozást. A kötelespéldány szolgáltatási kötelezettség mindazon mozgóképi anyagokra kiterjed, amelyeket önállóan vagy koprodukcióban állítottak elő az adott tagországban. A produkció honosságát a producer és a koproducer székhelye határozza meg, így egy filmnek lehet több honossága is.
+
+A kötelespéldány-szolgáltatási kötelezettség csak az Egyezmény hatályba lépése után előállított produkciókra vonatkozik. Lehetőségük van a szerződő feleknek arra, hogy mentesítést adjanak a kötelespéldány szolgáltatása alól azokban az esetekben, amikor egy másik tagországban már megtörtént a kötelespéldány szolgáltatása.
+
+A kötelespéldányok elhelyezésére a kötelespéldány archívum szolgál, amelynek feladata a mozgóképi anyagok nyilvántartása, megóvása, felújítása, valamint a hozzáférés biztosítása konzultációs célból. Működési formája szerint lehet állami vagy magánkézben lévő intézmény is, az egyetlen korlátozó feltétel az, hogy közvetlen vagy közvetett befolyása nem lehet olyan természetes vagy jogi személynek, amely a média területén üzleti tevékenységet végez. A tagországok saját erőforrásaikhoz és céljaikhoz mérten kötelesek gondoskodni az anyagi és technikai feltételek megteremtéséről.
+
+Az Egyezmény részesei kötelesek meghatározni a példányok szolgáltatásának feltételeit és biztosítaniuk kell azt, hogy az archívum olyan minőségű anyagot kapjon, amelynek alapján az eredetivel megegyező minőségű kópiák sokszorosíthatók. Meghatározandó a szerződő felek részéről, hogy az arra kötelezettek milyen határidőn belül kötelesek a példányt szolgáltatni. Az Egyezmény erre nézve iránymutatást ad; a példányokat elsősorban a nyilvánosságra hozataltól számított 1 éven belül kell szolgáltatni.
+
+A tagországok támogatják az audiovizuális örökség részét képező azon mozgókép anyagok helyreállítását, amelyeknek fizikai állapota jelentősen megromlott. Ebből a célból megengedett a műpéldányok többszörözése is.
+
+Az önkéntes példányok archívumába minden olyan archiválási célból releváns mozgóképi anyag bekerülhet, amely nem tartozik a kötelespéldány körébe. Ez lehet tehát külföldi anyag, az Egyezmény hatályba lépése előtt keletkezett anyag, valamint minden, a végleges anyagot megelőző vagy azt kísérő mozgóképi forgatási, avagy más anyagok. Az önkéntes példányok megőrzésére és kezelésére szakosodott archívum működhet a kötelespéldány archívumok intézményén belül, de lehet egy elkülönült szervezet is. Feladata ösztönözni a kötelespéldány szolgáltatási kötelezettség alá nem tartozó mozgóképi anyagok szolgáltatását.
+
+Az Egyezmény aláírásra nyitva áll az Európa Tanács tagállamai, az Európai Kulturális Egyezmény részesei és az Európai Közösség számára. Megjegyzendő, hogy az Egyezmény azon részesei, amelyek tagjai az Európai Közösségnek, a közösségi jogot követik és éppen ezért nem alkalmazzák az Egyezményből következő szabályokat, kivéve azokat a kérdéseket, amelyeket a közösségi jog nem érint. Magyarország csatlakozása az Egyezményhez folyamatban van.
+
+Az Audiovizuális örökség védelméről szóló európai egyezmény aláírásáról szóló 2074/2003. (IV. 9.) Korm. határozat 1. pontja szerint a Kormány egyetért az Audiovizuális örökség védelméről szóló európai egyezmény aláírásával; a 4. pontja felhívja a nemzeti kulturális örökség miniszterét, hogy az egyezmény aláírását követően nyújtson be kormány-előterjesztést az egyezménynek az Országgyűlés által történő megerősítése érdekében.
+
+A megerősítésről szóló előterjesztés elfogadása folyamatban van.
+
+3.2. A 2001/29/EK irányelv
+
+A NAVA projekt vonatkozásában az Európai Parlament és a Tanács az információs társadalomban érvényesülő szerzői és kapcsolódó jogok egyes kérdésekben történő összehangolásáról szóló 2001/29/EK irányelvének (az ún. INFOSOC-irányelvnek) van a legnagyobb jelentősége. A szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) jogharmonizációs célú módosítása során a NAVA tervezett tevékenységéből adódó törvénymódosítási szükségleteket is figyelembe vették.
+
+Az irányelv egyik célját a Preambulum (14) bekezdése fogalmazza meg, amikor kimondja: „Ennek az irányelvnek az is célja, hogy ösztönözze a tanulást és a kultúrát a művek és más teljesítmények védelme által; ezzel párhuzamosan rendelkezni kell az oktatás és nevelés terén a közérdeket szolgáló kivételekről és korlátozásokról.” E célok megvalósítása érdekében az irányelv egyes felhasználási módok tekintetében a jogok alóli, a tagállamok által bevezethető kivételeknek és korlátozásoknak a teljes körű felsorolását adja.
+
+Az irányelv által megengedett szabad felhasználási módok közül a művek (műsorok) belső intézményi célra való többszörözését, illetve korlátozott nyilvánossághoz való közvetítését kell kiemelni, mivel a NAVA tevékenysége szempontjából ezeknek van kiemelkedő jelentősége.
+
+Végül az irányelv szól az ideiglenes felvételek archiválásának kérdéséről is, amely szerint a műsorszolgáltató által készített, kizárólag az általuk végzett egyszeri sugárzást lehetővé tevő ideiglenes felvételeknek a hivatalos archívumokban való megőrzését a tagállamok a szabad felhasználások körébe utalhatják, amennyiben azok rendkívüli dokumentációs értékkel bírnak.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény pozitív és negatív megközelítésben is meghatározza a törvény tárgyi hatályát. Eszerint a szabályozás az eredetileg magyar nyelven készült televíziós és rádiós műsorszámokra [ez a rendelkezés a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban Rttv.) definícióját veszi alapul], illetve a magyar vonatkozású műsorszámokra terjed ki. Ez utóbbi széles kategória, magyar vonatkozásúak pl. azok a - nem magyar műsorszolgáltató által előállított - műsorszámok, amelyek alapjául a magyar művészet, irodalom, tudomány eredményei szolgálnak; magyar vonatkozású lehet a műsorszám akkor is, ha Magyarországon vagy Magyarországról készítették, de ilyen pl. egy magyar részvétellel zajló sportesemény közvetítése is. A fogalom tehát magában foglal minden olyan műsorszámot, amely hazánk történelme, kultúrája vagy a magyar társadalom bemutatása szempontjából a jövőben kortörténeti dokumentumként szolgálhat.
+
+A tárgyi hatály szempontjából tehát az audiovizuális dokumentumok származásának és jellegének van jelentősége.
+
+Lényeges kiemelni, hogy a törvény hatálya nem terjed ki azon alkotásokra, amelyek mozgóképről szóló 2004. évi II. törvény alapján esnek archiválási kötelezettség alá, azaz a nemzeti filmvagyonra, amelyet a Magyar Nemzeti Filmarchívum gyűjt és archivál.
+
+A 2. §-hoz
+
+Az értelmező rendelkezések a fontosabb fogalmak és tevékenységek meghatározását tartalmazzák.
+
+A 3-4. §-hoz
+
+A törvény 3-4. §-a a NAVA alapvető feladatait foglalja össze. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: kulturális tv.) 59. §-ának (5) bekezdése alapján a NAVA közgyűjteményként látja el az audiovizuális kulturális örökség védelmével összefüggő feladatokat. A NAVA létrehozását egyrészt az Egyezmény előírásai, másrészt az egyes műsorszolgáltatók archiválási tevékenységének, az egyéb helyeken meglévő audiovizuális dokumentumok megőrzésének és védelmének összehangolása teszik szükségessé.
+
+A NAVA feladatai között a gyűjtés és megőrzés mellett jelentős súllyal szerepel a nyilvánosságra hozatal is, amely ugyancsak egységes rendszert és szabályozást igényel.
+
+A műsorszámok országos nyilvántartása vezetésének feladata nemcsak a NAVA által őrzött műsorszámok, hanem - együttműködés alapján - a más archívumokban tárolt műsorszámok adataira is kiterjed.
+
+A NAVÁ-t az informatikai és hírközlési miniszter működteti, a nemzeti kulturális örökség minisztere szakmai felügyelete mellett, mivel a NAVA a jelenlegi legkorszerűbb technológiával kialakított digitális audiovizuális archívum, ugyanakkor feladata kifejezetten kulturális természetű.
+
+Az 5-6. §-hoz
+
+A törvény 5. §-a meghatározza azokat az alapszolgáltatásokat, amelyeknek biztosítása a NAVA feladata és kötelessége, és amelyeket a széles nyilvánosság is igénybe vehet. Ebbe beletartozik az audiovizuális kulturális örökség részét képező audiovizuális műsorszámok azonosító adatairól való tájékozódás és a gyűjtött műsorszámok megismerése.
+
+A NAVA kettős információs feladatot lát el. Egyrészt számon tartja a magyarországi gyártású és magyar vonatkozású műsorszámok lehető legszélesebb körét - anélkül azonban, hogy a különféle egyéb archívumokban (pl.: televíziós archívumok, Magyar Nemzeti Filmarchívum) őrzött anyagok mindegyikét maga is archiválná - és ezen műsorszámok központi adatbázisát mindenki számára elérhetővé teszi az Interneten.
+
+Másrészt biztosítja annak technikai hátterét is, hogy az általa archivált műsorszámokat - a vonatkozó jogszabályok, elsősorban az Szjt. szabta keretek között - tudományos kutatás, egyéni tanulás céljára, iskolai oktatás célját szolgáló intézményekben, levéltárakban, kép- és hangarchívumokban, muzeális intézményekben, nyilvános szolgáltatást nyújtó könyvtárakban felállított számítógépes terminálokon bárki megtekinthesse.
+
+A NAVA fontos feladata - és alapszolgáltatásai ellátásának egyik feltétele - az általa és a többi audiovizuális archívumban őrzött műsorszámok nyilvántartásának egységes rendszerbe foglalása.
+
+A NAVA tehát országos nyilvántartást vezet mindazokról a műsorszámokról, amelyeket - akár a kötelespédány-szolgáltatás keretében, akár önkéntesen - a rendelkezésére bocsátottak, valamint a más archívumok által gyűjtött és őrzött műsorszámokról, ha azok azonosító adatait az archívum együttműködés keretében átadta. A nyilvántartás a műsorszámok 2. mellékletben foglalt azonosító adatait tartalmazza, kereshető és nyilvános, azzal azonban, hogy bizonyos adatok alapján az adatbázisból nem teljesíthető lekérdezés. Ennek oka, hogy a műsorszámok alkotói (létrehozói) és a közreműködők nem eshetnek ugyanazon megítélés alá. Nem indokolt ezért, hogy utóbbiak adatai ugyanolyan mértékben hozzáférhetőek legyenek a nyilvánosság számára, mint az alkotóké.
+
+A 7. §-hoz
+
+A NAVA elsődleges feladata és kötelezettsége a beérkező kötelespéldányok gyűjtése, archiválási célú megőrzése és feldolgozása. A NAVA ezen felül befogadja és egyedi döntés alapján archiválja a kötelespéldány-szolgáltatás alá nem tartozó, tehát önkéntesen rendelkezésre bocsátott audiovizuális dokumentumokat. Ennek célja, hogy gondoskodjon a kötelespéldány szolgáltatás körén kívül eső, elsősorban e törvény hatályba lépése előtt készült, és különféle hordozókon található jelentős kulturális értéket képviselő műsorszámok tervszerű megőrzéséről. Az archiválásra vonatkozó döntés meghozatalához az Audiovizuális Örökség Tanácsadó Testület (a továbbiakban: Testület) tesz szakmai javaslatot, az adott műsorszám dokumentációs értékét, az audiovizuális kulturális örökségben elfoglalt helyét mérlegelve.
+
+A 7. § felsorolása tartalmazza, hogy mely műsorszámokat lehet önkéntesen a NAVA rendelkezésére bocsátani. E felsorolás azonban csak példálódzó jellegű, tehát az önkéntes szolgáltatás tárgya lehet gyakorlatilag bármely magyar előállítású vagy magyar vonatkozású audiovizuális dokumentum, amennyiben az nem kötelespéldány és nem tartozik a Nemzeti Filmarchívum gyűjtőkörébe.
+
+Az archivált műsorszámok folyamatos, a technológiai változásokkal lépést tartó felújítása magától értetődő feltétele a törvény célja megvalósulásának: annak, hogy a jövő nemzedékei is megismerhessék napjaink televíziós és rádiós műsorszámait, és hiteles képet kapjanak jelenkori társadalmunk kultúrájáról, fontos történéseiről.
+
+Az Szjt. 35. §-ának (7) bekezdése értelmében közgyűjteménynek minősülő kép- illetve hangarchívumban (ilyen a NAVA is) korlátlan ideig megőrizhetők azok a - szabad felhasználásnak minősülő - efemer rögzítések (a rádió- vagy televíziószervezetek által saját műsoraikról készített ideiglenes rögzítések), amelyeket külön törvény rendkívüli dokumentációs értékű rögzítésnek minősít.
+
+A kötelespéldányként szolgáltatott dokumentumokat a törvény kivétel nélkül ilyennek minősíti - ezt indokolja a kötelespéldány-szolgáltatás és -archiválás általános célja: az, hogy a legfontosabb műsorszolgáltatók műsorszámai a jövő generációi számára is megismerhetők és kutathatók legyenek.
+
+Az önkéntesen rendelkezésre bocsátott műsorszámok esetében a rendkívüli dokumentációs érték kritériumainak mérlegelésénél a Testületnek van jelentős szerepe.
+
+A 8-9. §-hoz
+
+A NAVA feladatai közé tartozik az audiovizuális archiválás általános szabályainak, minőségi előírásainak kidolgozása, az audiovizuális archiválás technológiáinak kutatása, és - az érintettekkel történő megállapodás keretében - közhasznú és piaci szolgáltatások nyújtása, valamint a külföldi archívumokkal való együttműködés kezdeményezése.
+
+Természetesen a NAVA elsődleges célja az audiovizuális kulturális örökség védelme, megőrzése, vállalkozási tevékenysége kizárólag a vonatkozó jogszabályok - így különösen az Szjt. - rendelkezéseinek maradéktalan betartásával lehetséges.
+
+Az audiovizuális örökség hatékony védelme kizárólag az ebben érintett archívumok szoros együttműködésével valósulhat meg. Ennek célja, hogy a különféle audiovizuális archívumok összehangolt módon, egységes elvek alapján és rendszer szerint végezzék az audiovizuális kulturális örökség megőrzését. A NAVA nemcsak részese az együttműködést megalapozó megállapodásoknak, hanem az audiovizuális kulturális örökség megóvásáért elsősorban felelős központi archívumként aktív kezdeményező szerepet is vállal.
+
+Az együttműködés részletes tartalmát, a műsorszolgáltatókkal és más archívumokkal kötött szolgáltatási szerződések lehetséges és kötelező elemeit a törvény 12-13. §-ai rögzítik. Természetesen a kötelespéldány-szolgáltatásra vonatkozó kogens rendelkezésektől e megállapodások sem engedhetnek eltérést, azonban az együttműködő feleknek széles mozgásteret biztosíthatnak a törvény rendelkezéseiben foglalt célok és feladatok minél hatékonyabb megvalósítására.
+
+A 10-11. §-hoz
+
+A törvény - összhangban az Egyezmény és a Jegyzőkönyv előírásaival - különbséget tesz az audiovizuális dokumentumok kötelező és önkéntes rendelkezésre bocsátása között. E §-ok a kötelespéldány-szolgáltatásra vonatkozó legfontosabb rendelkezéseket határozza meg.
+
+A kötelespéldányként szolgáltatandó műsorszámokat és ezek szolgáltatására kötelezettek körét az értelmező rendelkezések tartalmazzák. Audiovizuális kötelespéldány-szolgáltatásra kötelezettek eszerint a közszolgálati műsorszolgáltatók (Magyar Televízió Rt., a Duna Televízió Rt., Magyar Rádió Rt.) és az országos földfelszíni terjesztésű televíziós műsorszolgáltatók (MTM-SBS Televízió Rt. és a Magyar RTL Televízió Rt.) E műsorszolgáltatók műsorfolyamának valamennyi, e törvény hatálya alá tartozó műsorszáma audiovizuális kötelespéldánynak minősül.
+
+Az audiovizuális dokumentum kötelespéldányának „begyűjtésére” (a tulajdonképpeni szolgáltatásra) úgy is sor kerülhet, hogy az archívum maga rögzíti a műsorszolgáltató által előállított jeleket. Ez megfelel annak az elvárásnak, hogy a kötelespéldány szolgáltatás ne járjon többletkiadással a műsorszolgáltatók számára. A törvény a kötelespéldányok gyűjtésének ezt a módját teszi alapesetté.
+
+Lehetővé kell tenni azonban azt is, hogy a közvetlen rögzítésben esetlegesen beálló technikai problémák esetén is biztosított legyen a NAVA rendeltetésszerű működése, ezért ez esetben a NAVA felszólítására a műsorszolgáltatónak külön hordozón kell az adott műsorszámot rendelkezésre bocsátania, mégpedig azon határidőn belül, amelyet az Szjt. számára a műsorszám ideiglenes (efemer) rögzítésére enged.
+
+Az audiovizuális kötelespéldány-szolgáltatásra vonatkozó kötelezettség nem teljesítése esetén a NAVA a szabálysértésről szóló Korm. rendeletben meghatározott szabálysértési eljárás lefolytatását kezdeményezheti.
+
+A (3) bekezdés a kötelespéldány-szolgáltatásra kötelezett műsorszolgálatók adatszolgáltatási kötelezettségét állapítja meg (elemeit a 2. melléklet részletezi - ezeket az azonosító adatokat rendeli hozzá az archívum a műsorszámhoz a tartós rögzítés esetén), amelyet a szolgáltatónak ismételt nyilvánossághoz közvetítés esetén, vagy az archívum általi, közvetlenül a műsorszórásból történő rögzítés esetén is teljesítenie kell - azzal azonban, hogy a műsorszám ismétlése esetén (ha az már a NAVA archívumába bekerült) csak az esetleges változásokat kell közölnie. A személyes adatok védelme megkívánja, hogy ha a műsorszolgáltató önkéntes adatszolgáltatás keretében a műsorszámban szereplő riportalanyok személyes adatait is át kívánja adni az archívum részére, az Avtv. 6. § (2) bekezdésével összhangban a riportalanyt és a műsorszámban közreműködő természetes személyt előzetesen tájékoztatnia kell az adatkezelés, valamint a NAVA felé történő adattovábbítás részleteiről. Az adatok átadása csak ezt követően, az érintett(ek) önkéntes és tájékozott hozzájárulása esetén történhet meg.
+
+Vannak olyan, pótolhatatlan vagy kivételes, adott esetben felbecsülhetetlen értéket képviselő műsorszámok, amelyek ugyan nem tartoznak a kötelespéldány-szolgáltatási kötelezettség körébe - hiszen ezeket a törvény hatálybalépését megelőzően közvetítették a nyilvánossághoz - azonban megőrzésük alapvető érdek. Ez esetben a NAVA élhet azon jogával, hogy a műsorszámot tartalmazó hordozó birtokosát - legyen az az azt előállító műsorszolgáltató vagy egy másik audiovizuális archívum - felszólítsa, hogy a műsorszámot archiválási céllal bocsássa rendelkezésre.
+
+A 12-13. §-hoz
+
+A NAVA által összehangolt együttműködés célja, hogy a műsorszolgáltatók és különféle audiovizuális archívumok összehangolt módon, egységes elvek alapján és rendszer szerint végezzék az audiovizuális kulturális örökség részét képező műsorszámok rendelkezésre bocsátását és megőrzését. Ennek az együttműködésnek részesei lehetnek egyrészről a műsorszámaikat kötelezően vagy önkéntesen a NAVA rendelkezésére bocsátó műsorszolgáltatók, illetve azok az archívumok, amelyek rádiós és televíziós műsorszámokat őriznek.
+
+A 12. § a műsorszolgáltatókkal és archívumokkal kötendő szolgáltatási szerződés kötelező és nem kötelező eseteit fogalmazza meg.
+
+Az együttműködés többek között lehetőséget biztosít arra, hogy egyedi szerződésekkel a NAVA olyan felhasználási jogokat is megszerezhessen az általa tárolt audiovizuális dokumentumokkal kapcsolatban, amelyek meghaladják az Szjt. 35. §-ának (4) bekezdésében és 38. §-ának (5) bekezdésében meghatározott szabad felhasználási esetköröket; arra, hogy a kötelespéldány-szolgáltatás jogszabályban foglalt keretszabályain túlmenően a felek további jogokat és kötelezettségeket kössenek ki; továbbá arra, hogy - az eredeti jogtulajdonos és a NAVA közös megegyezése esetén - a NAVA részt vehessen az általa őrzött audiovizuális dokumentumok hasznosításában. Mindez szabad mozgásteret biztosít a NAVA és a műsorszolgáltatók számára a megőrzés, újrafelhasználás, felújítás megtervezésének tekintetében.
+
+A szolgáltatási szerződés szükséges tartalmi elemei az önkéntesen rendelkezésre bocsátott műsorszámok gyűjtésére, megőrzésére, felújítására, helyreállítására, valamint a kárfelelősségre vonatkozó részletes rendelkezések.
+
+A 13. § példálódzó felsorolása tartalmazza azon területeket, amelyekre - akár hazai, akár nemzetközi viszonylatban - az audiovizuális archívumok együttműködése kiterjedhet.
+
+A 14-16. §-hoz
+
+A NAVÁ-t az audiovizuális kulturális örökség megóvásával kapcsolatos feladatok ellátásában a Testület, mint kezdeményező, javaslattevő, véleményező szerv segíti. A Testületre azért van szükség, mert az audiovizuális archiválás egyes tartalmi, jogi, gazdasági kérdései folyamatos szakmai ellenőrzést és egyeztetést igényelnek, és ezekkel kapcsolatban szükséges a szakmai konszenzus kialakítása és folyamatos fenntartása. A Testület legfontosabb feladatait a 14. § (2) bekezdése rögzíti példálózó jelleggel.
+
+A 15. § tizenegy főben határozza meg a Testület létszámát. A Testületben meghatározott számban és arányban képviseltetik magukat a területért felelős kormányzati szervek (IHM, NKÖM, Igazságügyi Minisztérium, Magyar Szabadalmi Hivatal), az Országos Rádió és Televízió Testület, valamint az országos műsorszolgáltatók és a NAVA gyűjteményéhez való hozzáférést biztosító intézmények. A Testület tagjait a miniszter bízza meg ötéves időtartamra, a kinevezés további öt évre meghosszabbítható. A testület tagjai nem válnak köztisztviselőkké, javadalmazásukról a miniszter dönt.
+
+-----STARTING---POINT---VEGE---
+
+A 17. §-hoz
+
+A 17. § a hatályba lépés időpontját, a hatályon kívül helyezendő jogszabályi rendelkezéseket, valamint a módosuló törvényi szabályokat tartalmazza.
+
+Hatályon kívül kell helyezni a sajtótermékek kötelespéldányainak szolgáltatásáról és hasznosításáról szóló 60/1998. (III. 27.) Korm. rendelet 6. § (1) bekezdésének a) pontját, amely szerint nem kell kötelespéldányokat szolgáltatni a kizárólag sugárzással vagy vezetékes továbbítással nyilvánosságra hozott rádió- és televízióműsorból.
+
+A (3) bekezdés - a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 46. §-ának módosításával - védettnek nyilvánítja a muzeális intézményekben, a levéltárakban, a közgyűjteményként működő kép- és hangarchívumokban - valamint a könyvtárakban muzeális dokumentumként - őrzött kulturális javakat. A (4) bekezdés meghatározza a „kép- és hangarchívum” fogalmát, beillesztve a definíciót a kulturális törvény értelmező rendelkezései közé.
+
+A 18. §-hoz
+
+A 18. § határozza meg a végrehajtás részletes szabályait tartalmazó miniszteri rendeletek körét.

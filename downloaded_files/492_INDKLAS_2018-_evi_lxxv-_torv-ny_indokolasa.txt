@@ -1,0 +1,89 @@
+2018. évi LXXV. törvény indokolása
+
+a közszférabeli szervezetek honlapjainak és mobilalkalmazásainak akadálymentesítéséről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvény célja, hogy a közszférabeli szervezetek honlapjainak és mobilalkalmazásainak akadálymentesítéséről szóló 2016. október 26-i (EU) 2016/2102 európai parlamenti és tanácsi  irányelv (a továbbiakban: Irányelv) szabályainak való megfelelést biztosítsa. Az Irányelv és így az átültetést megvalósító jogszabályok annak biztosítására irányulnak, hogy közös akadálymentesítési követelmények alapján a felhasználók, különös tekintettel a fogyatékos személyek számára lehetővé váljon a közszférabeli szervezetek honlapjaihoz és mobilalkalmazásaihoz való akadálymentes hozzáférés.
+
+Ennek érdekében a törvény meghatározza a honlapok és mobilalkalmazások alapvető akadálymentesítési követelményeit, illetve meghatározza azokat az ellenőrzési és végrehajtási eljárásokat, amelyek biztosítják a törvénynek való megfelelést.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény hatályát állapítja meg: a törvényt a közszférabeli szervezetek honlapjain közzétett tartalmakra és az általuk készített mobilalkalmazásokra kell alkalmazni. A honlapok és mobilalkalmazások tartalma szöveges és nem szöveges információkat, letölthető dokumentumokat és űrlapokat, valamint olyan kétoldalú interakciós formákat foglal magában, mint a digitális űrlapok feldolgozása vagy hitelesítési, azonosítási és fizetési eljárások teljesítése. Tekintettel arra, hogy bizonyos típusú közzétett tartalmak akadálymentesítéséhez nem állnak rendelkezésre megfelelő és könnyen használható eszközök, ezért az Irányelv a honlapok és mobilalkalmazások meghatározott tartalmait ideiglenesen vagy állandó jelleggel kizárja a hatálya alól. A törvény hatálya alól kivett alanyi és tárgyi körök nagyrészt megegyeznek az Irányelvben meghatározottakkal.
+
+A törvény személyi hatálya alól kivételt képeznek a közszolgálati műsorszolgáltatók. A közszolgálati műsorszolgáltatókra vonatkozó kivételi kör indoka az Irányelv preambuluma szerint, hogy a fogyatékos személyek és idős embereknek az audiovizuális médiaszolgáltatásokhoz való akadálymentes hozzáférése jobban érvényesíthető az ágazatspecifikus jogszabályokkal vagy az akadálymentesítést központba helyező olyan jogszabályokkal, amelyek a magántulajdonban lévő műsorszolgáltatók műsoraira is alkalmazandók. A törvényben nem került rögzítésre az Irányelv 1. Cikk (3) bekezdés c) pontja szerinti kivétel a nem kormányzati szervek honlapjaira és mobilalkalmazásaira vonatkozóan, tekintettel arra, hogy a közszférabeli szervezet fogalmából adódóan eleve kizárt, hogy a civil szervezetek a törvény hatálya alá tartozzanak.
+
+A törvény a hatálybalépése előtt keletkezett dokumentumfájlokat kiveszi a hatálya alól, amely a - technológia folyamatos változására tekintettel a dokumentumok olvashatósága szempontjából jelentős könnyítést jelent. E szövegkörnyezetben dokumentumfájlok alatt olyan dokumentumokat értünk, amelyeket elsődlegesen nem webes használatra szántak, és amelyek honlapokon gyakran megtalálhatók, pl. PDF, MS Office dokumentumok, vagy ezek nyílt forráskódú variációi.
+
+A lekérhető médiaszolgáltatás esetében az átültetés szempontjából könnyítést jelent, hogy ezen tartalmak esetében a hatálybalépés időpontja két évvel meghosszabbodik, 2020. szeptember 23-ig és így a törvényt nem kell alkalmazni a 2020. szeptember 23. előtt közzétett előzetesen rögzített médiaszolgáltatásokra.
+
+Az Irányelv hatályának nyilvános tartalmakra - a kizárólag zárt csoport számára elérhető extranet- és intranet tartalmak kizárása miatt - történő leszűkítését az Irányelv teszi lehetővé. Ennek indoka, hogy a kizárólag mobil eszközökön elérhető tartalmakra vagy az olyan, mobil eszközökre szánt közvetítő eszközökre, melyek a felhasználók zárt csoportja számára, illetve adott környezetben történő, meghatározott felhasználásra készültek, és amelyeket a lakosság nagy része nem ér el és nem is használ, nem célszerű kiterjeszteni az akadálymentesítési követelményeket.
+
+A lineáris médiaszolgáltatás - az Irányelv fogalomhasználatában valós időben közvetített idő alapú média - esetében az azonnali akadálymentesítés egyértelmű nehézségeket jelent, ezért szintén indokolt a kivételek között történő megjelenítése.
+
+Az online térképek és térképszolgáltatások esetében az akadálymentesítési kötelezettség az alapvető információkra korlátozódik, amelynek célja, hogy azok a felhasználók, akik a vizuális információkat vagy az összetett navigációs funkciókat nem tudják megfelelően használni, így is hozzáférhessenek azokhoz a postacímekhez, tömegközlekedési útvonalakhoz, valamint helynevekhez, amelyek az adott közszférabeli szervezetek feladataihoz kötődnek.
+
+A harmadik fél tulajdonát képező tartalmak esetében az akadálymentesítés alóli kivételt az indokolja, hogy a beágyazott tartalmak a honlap és a mobilalkalmazás elkészítése után is módosíthatóak, pl. e-mail programok, blogok és cikkek, amelyekhez a felhasználók hozzászólhatnak, vagy olyan portálok, amelyek tartalmát több forrásból állítják össze.
+
+Nem szükségeses akadálymentesen hozzáférhetővé tenni a gyűjteményi darabok olyan reprodukcióit, amelyek esetében az akadálymentesítési követelmények nem egyeztethetők össze az érintett darab állagának megőrzésével vagy a reprodukció hitelességével vagy nem állnak rendelkezésre olyan automatizált és költséghatékony megoldások, amelyekkel a kéziratok vagy egyéb gyűjteményi darabok szövegét könnyen ki lehetne nyerni és át lehetne alakítani az akadálymentesítési követelményeknek megfelelő tartalmakká.
+
+Az archivált honlapok és mobilalkalmazások esetében aránytalan nagy terhet jelentene az akadálymentesítés, különösen, ha azt már nem frissítik vagy szerkesztik, illetve ha az már nem szükséges az adminisztratív feladatok ellátásához, ezért az archívumokra nem kell alkalmazni e törvény rendelkezéseit.
+
+A köznevelési intézmények (iskolák, óvodák) és bölcsődék honlapjainak, mobilalkalmazásainak kizárása - a közfeladat ellátásával kapcsolatos alapvető információk kivételével - tagállami jogosultság. Tekintettel arra, hogy az óvodák és iskolák között jelentős különbségek lehetnek a technikai és szakmai háttér biztosításában, illetve az ezzel kapcsolatos átfogó hazai körkép hiányára, jelenleg célszerűnek látszik a kivételi lehetőség igénybevétele.
+
+A 2. §-hoz
+
+Az értelmező rendelkezések között szükséges néhány alapvető fogalom meghatározása.
+
+Tekintettel arra, hogy a hazai jogrendszerben nincsen olyan fogalom, amely tökéletesen megfelelne az Irányelvben használt „közszférabeli szervezet” fogalomnak és az egyéb jogszabályokban használt „közfeladatot ellátó szerv”, illetve „költségvetési szerv” fogalmak sem teljesen azonosak az irányelvi fogalommal, ezért szükséges volt a törvényben ezen új fogalmat bevezetni. A törvény az Irányelvnek megfelelően bevezeti a közszférabeli szervezet fogalmát, amely magába foglalja a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdés c) pontja szerinti költségvetési szerveket és az e) pontja szerinti szervezeteket (az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az a)-e) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza).
+
+A köznyelvben is bevett fogalomként használt honlap kifejezéssel ellentétben a mobilalkalmazás fogalma kevésbé elterjedt, ezért az irányelvi fogalom átvétele szükséges.
+
+Az Irányelv több ponton is rendelkezik a honlapok és mobilalkalmazások alapvető adminisztratív funkciókkal kapcsolatos tartalmairól (pl. elérhetőségek, vezetők). Tekintettel arra, hogy ennek a fogalomnak a tartalma leginkább az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény általános közzétételi listájában meghatározott információknak felel meg, ezért az erre való hivatkozás szerepel a törvényben.
+
+A közzétett harmonizált szabvány fogalmát az Irányelv által, a 6. cikkben felállított vélelem bevezetése és a szabályozás könnyebb alkalmazhatósága miatt szükséges meghatározni.
+
+A 3. §-hoz
+
+Az (1) bekezdés az akadálymentesség általános alapelveit határozza meg. Az érzékelhetőség és az érthetőség arra vonatkozik, hogy az információkat és a felhasználói felület elemeit, működését a felhasználók számára érzékelhető és érthető módon kell megjeleníteni. A kezelhetőség azt jelenti, hogy a felhasználói felület működésének és a navigálási funkcióknak könnyen kezelhetőnek kell lenniük. A stabilitásra vonatkozó elvárás alapján a tartalmaknak kellően állandónak kell lenniük ahhoz, hogy többféle közvetítő eszközzel és technológiákkal megbízhatóan értelmezhetőek legyenek.
+
+A (2)-(5) bekezdések az Irányelv által felállított vélelmeket rögzíti. Az Irányelv azt a vélelmet állítja fel, hogy mindazon honlap és mobilalkalmazás teljesíti az alapelvi szintű akadálymentesítési követelményeket, amelyik megfelel azoknak a harmonizált szabványoknak vagy azok részeinek, amelyeket az európai szabványosításról szóló 1025/2012/EU európai parlamenti és tanácsi rendeletnek (2012. október 25.) megfelelően e követelményekre tekintettel dolgoztak ki és hivatkozási adatait közzétették az Európai Unió Hivatalos lapjában. Az általánosan használt EN 301 549 V1.1.2. szabvány kizárólag a honlapokra vonatkozik, a mobilalkalmazásokra nem, ezért a Bizottság felkérésére készült az akadálymentesítésre vonatkozó harmonizált szabvány, amelyet az Európai Szabványügyi Testület várhatóan ez év végéig közzétesz. Ezen harmonizált szabvány mind a honlapok, mind a mobilalkalmazások esetében egységes szabályokat fog tartalmazni. A mobilalkalmazások esetében a harmonizált szabvány kihirdetéséig, illetve amíg a Bizottság által készített műszaki követelményeket tartalmazó jogi aktusok el nem készülnek, szintén a fenti szabvány kerül alkalmazásra.
+
+A szabványban meghatározott műszaki előírások jogszabályba történő átemelésére a szerzői jogi korlátok miatt nincs lehetőség, de a nemzeti szabványosításról szóló 1995. évi XXVIII. törvény alapján műszaki tartalmú jogszabály hivatkozhat olyan nemzeti szabványra, amelynek alkalmazását úgy kell tekinteni, hogy az adott jogszabály vonatkozó követelményei is teljesültek. Az EN 301 549 uniós szabványt a Magyar Szabványügyi Testület nemzeti szabványként közzétette, ezért annak törvény szerinti hivatkozására van lehetőség. A harmonizált szabvány alkalmazása az európai szabványosításról szóló 1025/2012/EU rendelet közvetlen alkalmazhatóságából következik.
+
+A 4. §-hoz
+
+Az (1)-(2) bekezdések az irányelvi rendelkezéseknek megfelelően az akadálymentesítési nyilatkozat megtételének kötelezettségét rögzíti. A közszférabeli szervezeteknek akadálymentesítési nyilatkozatot kell tenniük honlapjaik és mobilalkalmazásaik törvénynek való megfelelőségére vonatkozóan. A Bizottság végrehajtási jogi aktus formájában dolgozza ki az akadálymentesítési mintanyilatkozatot, melynek elfogadása az ősz folyamán várható, végső határideje 2018. december 23.
+
+A (3)-(4) bekezdés az akadálymentesítés alóli mentesítés lehetőségét biztosítja az aránytalanul nagy teherre való hivatkozásra tekintettel. Indokolt esetben a közszférabeli szervezettől nem várható el ésszerűen, hogy bizonyos tartalmakat teljes mértékben akadálymentesítsen. Az akadálymentesítési követelmények teljesítése alóli mentesség nem haladhatja meg az adott tehernek az adott egyedi esetben, az adott tartalmat illetően történő korlátozásához szigorúan szükséges mértéket. Aránytalan tehernek minősülhet az olyan intézkedés, amely túlzott szervezési vagy pénzügyi terhet ró az adott szervre, vagy ha fogyatékos személyek számára várható előny nem haladja az akadálymentesítésből eredő hátrányokat.
+
+Az 5. §-hoz
+
+Az akadálymentesítési követelmények végrehajtása érdekében jogszabályban meghatározott időközönként ellenőrizni kell a törvényi előírások betartását. A Bizottság végrehajtási jogi aktusban határozza meg az ellenőrzés módszertanát, amely szintén az ősz folyamán kerül elfogadásra. A végrehajtási jogi aktusban meghatározott szempontokat a kijelölt ellenőrző szervezet belső ellenőrzési tervében felhasználhatja és alkalmazhatja.
+
+Az ellenőrzési feladatok végrehajtására kijelölt szervezet a Kormányzati Informatikai Fejlesztési Ügynökség.
+
+A törvény a lehető legenyhébb szankciót alkalmazza, mely szerint hiányosságok feltárása esetén megfelelő határidő tűzésével az eljáró ellenőrzést lefolytató szervezet felszólítja a közszférabeli szervet a jogsértő állapot megszüntetésére, és amennyiben a határidő leteltét követően sem gondoskodik a jogsértő állapot megszüntetéséről, az ellenőrző szervezet a felügyeleti jogot gyakorló szervnél kezdeményezi, hogy gondoskodjon a jogsértő állapot megszüntetéséről.
+
+Irányelvi kötelezettség, hogy háromévente jelentést kell küldeni az Európai Bizottságnak a törvényi kötelezettség teljesítéséről és az ellenőrzések eredményéről.
+
+-----STARTING---POINT---VEGE---
+
+A 6. §-hoz
+
+A felhatalmazó rendelkezések a Kormány által az ellenőrzési feladatok teljesítésére kijelölt szervezetre és az ellenőrzési részletszabályok, illetve az akadálymentesítési nyilatkozat részletes szabályainak meghatározására vonatkoznak.
+
+A 7. §-hoz
+
+A hatálybalépés időpontja az Irányelv átültetési időpontjához igazodik.
+
+A 8. §-hoz
+
+Az egyes tartalmakra vonatkozó eltérő hatálybalépési időpontok az irányelvi hatálybalépési időpontoknak felelnek meg.
+
+A 9. §-hoz
+
+Európai uniós megfelelési klauzula.

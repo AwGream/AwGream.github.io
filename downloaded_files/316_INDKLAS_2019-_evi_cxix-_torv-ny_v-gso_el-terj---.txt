@@ -1,0 +1,655 @@
+2019. évi CXIX. törvény végső előterjesztői indokolása
+
+a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény és egyes kapcsolódó törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az európai Bizottság 2016-ban kiadott, a terrorizmus finanszírozása elleni küzdelem fokozásáról szóló akciótervének megfelelően benyújtott javaslata nyomán 2018. június 19-én jelent meg az európai Parlament és a tanács (EU) 2018/843 irányelve a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről (a továbbiakban: 5. irányelv).
+
+A tagállamok 2020. január 10-ig kötelesek hatályba léptetni azokat a törvényi, rendeleti és közigazgatási rendelkezéseket, amelyek szükségesek ahhoz, hogy ezen irányelvnek megfeleljenek.
+
+Az 5. irányelv rendelkezéseinek megfelelően a módosítási javaslatok alapján a Pmt.-ben is megjelenik a virtuális fizetőeszköz, illetve a letétkezelő pénztárca-szolgáltató fogalma, és ezekre építve a törvény hatálya alá kerülnek a virtuális fizetőeszközök, illetve a törvényes és virtuális fizetőeszközök közötti átváltási szolgáltatást nyújtók, valamint a letétkezelő pénztárca-szolgáltatók. e módosítások eredményeképpen lehetővé válik a technológiai újdonságok használatából adódó potenciális pénzmosási és terrorizmus-finanszírozási kockázatok kezelése.
+
+A javasolt módosítás szerint a Pmt. hatálya alá kerülnek a 3 millió Ft-t meghaladó értékű kulturális javak (műalkotások, régiségek) kereskedelmével vagy tárolásával foglalkozó vállalkozások. A hazai piaci viszonyokat is figyelembe véve az ingatlanok bérbeadása csak a havi 500 000 Ft feletti bérleti díj túllépése esetén tartozik a Pmt. hatálya alá.
+
+Az 5. irányelv előírásainak megfelelően szigorúbb, az EU szintjén egységes ügyfél-azonosítási és kapcsolat-nyomon követési intézkedéseket kell alkalmazni mindazon harmadik országok állampolgáraival és vállalkozásaival szemben, amelyeket az EU pénzmosás vagy terrorizmus finanszírozása szempontjából stratégiai hiányosságokkal rendelkezőnek tekint.
+
+A kiemelt közszereplők vonatkozásában minden tagállam köteles a nemzeti jog szerint fontos közhivatalnak minősülő, konkrét funkciókat (de nem az egyes személyeket) feltüntető jegyzéket kiadni és naprakészen tartani. A Bizottság pedig mindezek alapján egységes jegyzéket fog készíteni, amelyet közzé is tesz.
+
+Fontos új szabályozási elem, hogy az 5. irányelv alapján a tagállamoknak biztosítaniuk kell, hogy a területükön bejegyzett társaságok és más jogi személyek pontos és időszerű információkat szerezzenek be és tartsanak nyilván a tényleges tulajdonosaikról, és tényleges tulajdonosaik adatait az erre a célra létrehozott központi nyilvántartáshoz eljuttassák; továbbá hogy e kötelezettség megsértése hatékony, arányos és visszatartó erejű intézkedéseket és szankciókat vonjon maga után.
+
+A módosítások között szerepelnek a kockázatalapú megközelítést pontosító, a szolgáltatók számára gyakorlatias útmutatást nyújtó elemek az ügyfél-azonosítás, a kockázati szint meghatározása, valamint az üzleti kapcsolat nyomon követése területén. e módosítások révén várhatóan egyszerűsödhet az alacsony kockázatú ügyletek kezelése, egyúttal lehetőség nyílik arra, hogy a hatóságok és szolgáltatók erőforrásaikat a magasabb kockázatú ügyekre összpontosítsák.
+
+A gyakorlati tapasztalatok alapján, illetve a 4. irányelv hatékonyabb végrehajtása érdekében egy dinamikus ügyfél-átvilágítási rendszer kialakítására van szükség - a jelen jogszabály struktúrájának megőrzésével, és módosításával -, amely a gyakorlathoz igazodva írja elő, hogy a szolgáltatónak az intézkedéseket a kockázati szintekhez kell igazítani, akár csökken (pl. az ügyfél alacsony kockázati besorolásra módosul az ügyfél tevékenységének módosulása miatt), akár magasabb kockázati szintre módosul a kockázati besorolás, amennyiben belép egy vagy több magas kockázatú tényező. Jogszabályi szinten rögzíteni szükséges, hogy az ügyfelek, ügyleti megbízások kockázati besorolása egy dinamikus folyamat. Folyamatosan merülhetnek fel ugyanis olyan tényezők, amelyek kockázati átsorolást eredményezhetnek. már az ügyfél-átvilágítás elvégzése során az ügyfél által biztosított információk is eredményezhetik a szolgáltató általi előzetes kockázati besorolás módosítását az adott ügyfél, vagy ügyleti megbízás vonatkozásában. ezen túlmenően az üzleti kapcsolat folyamatos figyelemmel kísérése, az ügyfél által biztosított információk vagy a rendszeresen végrehajtandó ügyfél-átvilágítási intézkedések eredményei is indokolhatják a kockázati besorolás módosítását, ennek megfelelően eltérő ügyfél-átvilágítási intézkedések alkalmazását is. Fontos, hogy a szolgáltató számára legyen egyértelmű, hogyan kell eljárnia a kockázati szint megváltozásánál.
+
+A Pmt. hatályba lépése óta eltelt időszak felügyeleti gyakorlati tapasztalatai alapján szükségessé vált az ügyfél-átvilágításra vonatkozó intézkedések felülvizsgálata, és az alapján a Pmt. módosítása. A kockázati szintekhez igazított egyszerűsített, normál és fokozott ügyfél-átvilágítási intézkedések mellett indokolt egy speciális kategória kialakítása az e hármas beosztásba nem illeszthető esetek (így különösen a 4. irányelv által előírt, konkrét intézkedéseket tartalmazó rendelkezések: pl. levelező banki kapcsolatra vonatkozó elvárások, illetve az elektronikus pénzre vonatkozó speciális rendelkezések) számára.
+
+Az átláthatóság növelése érdekében pontosításra kerültek a tényleges tulajdonlásra, valamint a központi tényleges tulajdonosi adatbázisra vonatkozó kötelezettségek. A központi tényleges tulajdonosi adatbázisban valamennyi tagállamban bejegyzett, letelepedett jogi személy, bizalmi vagyonkezelési szerződés, illetve non-profit szervezet tényleges tulajdonosait kell jegyezni a tényleges tulajdonosra vonatkozó definíciónak megfelelően. A tényleges tulajdonosi adatokat hozzáférhetővé kell tenni az illetékes hatóságok, a pénzmosás elleni szabályozás hatálya alá tartozó kötelezett szolgáltatók részére; az adatokról jogos érdekük igazolása esetén harmadik személyek is kérhetnek tájékoztatást. Az 5. irányelv alapján szükséges továbbá kialakítani egy központi bankszámla- nyilvántartást és egy központi széfszolgáltatás-nyilvántartó rendszert (vagy központi elektronikus adat-visszanyerési rendszert), amely segítségével időben azonosíthatók a hitelintézetek által az adott tagállam területén kezelt, fizetési számlával vagy bankszámlával, illetve széffel rendelkező vagy ezek felett ellenőrzést gyakorló természetes vagy jogi személyek.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A 4. irányelv [3. cikk 7. c) pontja] alapján, a székhely, üzleti cím, levelezési vagy igazgatási cím üzletszerű nyújtása tevékenység hatály alá tartozását előíró rendelkezés kapcsán szükségessé vált a Pmt. vonatkozó rendelkezéseinek kiegészítése ezen kategória (székhelyszolgáltatás) hatály alá helyezése érdekében.
+
+Erre tekintettel a tervezet kiegészíti a Pmt. 1. § (1) bekezdését és kimondja, hogy a Pmt. hatálya kiterjed a Magyarországon székhellyel, fiókteleppel vagy telephellyel rendelkező székhelyszolgáltatóra.
+
+Ezen rendelkezéshez kapcsolódóan a tervezet új fogalmat vezet be a Pmt. értelmező rendelkezései közé, amely egyértelművé teszi, hogy a Pmt. alkalmazásában székhelyszolgáltató alatt az adózás rendjéről szóló törvényben meghatározott székhelyszolgáltató értendő (Pmt. 3. § új 31a. pont). A tervezet kimondja továbbá (a Pmt. felügyeletet ellátó szerveket meghatározó szakaszában), hogy az újonnan hatály alá kerülő székhelyszolgáltatók felügyeletét a pénzügyi információs egység látja el [Pmt. 5. § módosított f) pontja].
+
+Az 5. irányelv 1. cikk 1. pont c) pontja kiterjeszti a kötelezett szolgáltatók listáját a virtuális fizetőeszközök és rendeleti pénzek közötti átváltási szolgáltatásokat nyújtó szolgáltatókra; a letétkezelő pénztárca-szolgáltatókra, a kulturális javak (műalkotások, régiségek) kereskedelmével vagy közvetítésével foglalkozó személyekre, ideértve azokat az eseteket is, amikor ezt művészeti galériák és aukciósházak végzik, olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a 10 000 Eur-t, továbbá a kulturális javak (műalkotások, régiségek) tárolásával vagy kereskedelmével szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró személyekre, olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a 10 000 Eur-t. A fentieknek megfelelően a Pmt. 1. § (1) bekezdése kiegészítésre került a felsorolt szolgáltatókkal.
+
+A Pmt.-ben az uniós szabályozásra épülő, forintban meghatározott összeghatárainak rögzítésére 2007-ben került sor. Az összeghatárok valós folyamatokhoz való kiigazítása érdekében, figyelemmel az eltelt időszak gazdasági- pénzügyi folyamataira, indokolt az értékhatárok felfelé korrigálása oly módon, hogy az az euró/forint árfolyam esetleges jövőbeni változása esetén sem okozhassa az EU-szabályozásban rögzítettek megsértését. ennek megfelelően a tervezet meghatározza, hogy az árukereskedő abban az esetben tartozik a törvény hatálya alá, ha tevékenysége folytatása során hárommillió forintot elérő vagy meghaladó összegű készpénzfizetést fogad el.
+
+Összhangban a nemzetközi gyakorlattal a határon átnyúló szolgáltatások vonatkozásában a tervezet a törvény hatályát kiterjeszti azon szolgáltatókra, akik Magyarország területén vagy az európai Unió más tagállamában vagy harmadik országban rendelkeznek székhellyel, és Magyarországon létesített tartós, üzleti egységük révén kínálnak az ügyfelek számára (állandó belföldi jelenlét formájában közvetlenül) a törvény hatálya alá tartozó szolgáltatást Magyarországon.
+
+A 2. §-hoz
+
+A tervezet számos helyen pontosítja és kiegészíti a Pmt. értelmező rendelkezéseit (amely a törvény alkalmazása szempontjából legfontosabb kategóriák, fogalmak magyarázatát tartalmazza) az alábbiak szerint.
+
+A dinamikus, kockázati szintekhez igazodó ügyfél-átvilágítás végrehajtásának elősegítése indokolja, hogy a tervezet tartalmazza a kockázati szint magyarázatát.
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján a Pmt. 3. § 28. pont l) alpontja módosításának célja az, hogy a Pmt. hatálya alól kikerüljön azon befektetési alapkezelő, amely a Bszt.-ben meghatározott tevékenységet nem végez, és amely saját befektetési jegyet nem forgalmaz, mivel így tevékenysége során pénzmozgás egyáltalán nem történik, ügyfélvagyonnal tényleges kapcsolatba nem kerül, így működésében pénzmosási kockázat érdemben nem merül fel.
+
+A dinamikus ügyfél-átvilágítás bevezetése, valamint a nemzetközi elvárásokkal való összhang megteremtése az értelmező rendelkezések bővítését indokolják a pénzeszköz forrásának igazolására irányuló magyarázattal. A fogalom segít abban, hogy a szolgáltatók meg tudják különböztetni a pénzeszköz és a vagyon forrásának igazolását az ügyfél-átvilágítási intézkedések során.
+
+A 4. irányelv [3. cikk 7. c) pontja] alapján a tervezet kiegészíti a Pmt. 1. § (1) bekezdését és kimondja, hogy a Pmt. hatálya kiterjed a Magyarországon székhellyel, fiókteleppel vagy telephellyel rendelkező székhelyszolgáltatóra. ezen rendelkezéshez kapcsolódóan a tervezet új fogalmat vezet be a Pmt. értelmező rendelkezései közé a Pmt. 3. § 31a. pontjában, amely egyértelművé teszi, hogy a Pmt. alkalmazásában székhelyszolgáltató alatt az adózás rendjéről szóló törvényben meghatározott székhelyszolgáltató értendő.
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált a pénzváltó irodák esetében a ténylegesen összefüggő, több ügyleti megbízásra vonatkozó kötelezettség pontosítása, egyértelművé tétele. ennek érdekében a tervezet pontosítja a Pmt. 3. § 37. pontjában a tényleges összefüggő, több ügyleti megbízás fogalmát és új elemként egy százezer forintos ügyletenkénti összeghatárt vezet be. (A pénzváltó iroda esetében tehát a tényleges összefüggő, több ügyleti megbízás azon százezer forintot elérő vagy meghaladó összegű ügyleteket jelenti, amelyekre vonatkozóan egy héten belül ugyanazon ügyfél megbízást ad.)
+
+Ehhez kapcsolódóan a ténylegesen összefüggő, több ügyleti megbízással kapcsolatos ügyfél-átvilágítási kötelezettség hatékony és az adatvédelmi szempontoknak is megfelelő végrehajtása (és így az ezen ügyletekre vonatkozó adatok, információk megfelelő rögzítése) érdekében a tervezet megszünteti a Pmt. adatrögzítési kötelezettséget előíró 14. § (1) bekezdésében a pénzváltásra vonatkozó kivételt. (ez alapján tehát pénzváltás esetén a hitelintézet és a pénzváltó iroda is jogosult és köteles az ott meghatározott adatok rögzítésére és az okiratok bemutatásának kérésére.)
+
+A 4. irányelv [3. cikk 6. c) pontja] alapján, az alapítványok esetében a tényleges tulajdonos megállapítására vonatkozó előírás kapcsán szükségessé vált a Pmt. vonatkozó rendelkezéseinek pontosítása annak egyértelművé tétele érdekében, hogy az alapítvány képviseletében eljáró személy csak abban az esetben tekintendő tényleges tulajdonosnak, ha az egyéb irányelvi kategóriák alapján nem állapítható meg tényleges tulajdonos.
+
+Erre tekintettel a tervezet pontosítja a Pmt. 3. § 38. pontjában a tényleges tulajdonos fogalmát és egyértelműen kimondja, hogy alapítványok esetében csak a Pmt. 3. § 38. pont d) alpontban meghatározott természetes személyek hiányában minősül tényleges tulajdonosnak az alapítvány képviseletében eljáró személy.
+
+A 4. irányelv [3. cikk 6. b) pont iii. alpontja, valamint 31. cikk (1) bekezdés c) pontja] alapján, a bizalmi vagyonkezelés esetében a vagyonkezelést ellenőrző személyek („protector”) tényleges tulajdonosnak tekintésére vonatkozó előírás kapcsán szükségessé vált a Pmt. vonatkozó rendelkezéseinek pontosítása, ezen kategória hatály alá helyezése érdekében a külföldi vagyonkezelési konstrukciók esetében.
+
+Erre tekintettel a tervezet pontosítja a Pmt. 3. § 38. pontjában a tényleges tulajdonos fogalmát és egyértelműen kimondja, hogy bizalmi vagyonkezelési szerződés esetében adott esetben (tehát ha ez külföldi vagyonkezelési konstrukció esetében releváns) a vagyonkezelést ellenőrző személy is tényleges tulajdonosnak minősül.
+
+A 4. irányelv [3. cikk 6. b) pont i-ii. és iv. alpontja] alapján, a bizalmi vagyonkezelés esetében a tényleges tulajdonos meghatározására vonatkozó rendelkezések további elemei (kategóriái) kapcsán is szükségessé vált a Pmt. vonatkozó rendelkezéseinek pontosítása annak egyértelművé tétele érdekében, hogy a tényleges tulajdonos valamennyi kategória esetében egy természetes személy.
+
+Erre tekintettel a tervezet pontosítja a Pmt. 3. 38. pontjában a tényleges tulajdonos fogalmát és egyértelműen kimondja, hogy abban az esetben, amikor a vagyonrendelő, a vagyonkezelő, a kedvezményezett és a vagyonkezelést ellenőrző személy nem természetes személy, az ezen kategóriák természetes személy tényleges tulajdonosát szükséges rögzíteni.
+
+A Pmt. 3. § 42. pontjában az ügyfél-átvilágításhoz kapcsolódó intézkedések konkrét meghatározására került sor az értelmező rendelkezés pontosítása céljából, úgymint a kockázatba sorolás, a kockázati szint rögzítése, a személyazonosság igazoló ellenőrzés elvégzése, az üzleti kapcsolat és az ügyleti megbízás céljának és jellegének megismerése, folyamatos figyelemmel kísérése, tekintettel a tervezet által kiegészített Pmt. ügyfél-átvilágításra vonatkozó rendelkezéseire.
+
+A Pmt. 3. § 43. pont a) alpontjában - a gyakorlati tapasztalatok alapján − a módosítás célja annak egyértelművé tétele, hogy az összetett tevékenységű szolgáltatók vonatkozásában nem minden tevékenység tartozik a Pmt. hatálya alá, csak a szoros értelemben vett szakmai alap- (core) tevékenységek.
+
+A Pmt. 3. § 44. pontjának módosítására került sor, mert a gyakorlati tapasztalat alapján előfordulhat, hogy az eseti jogviszony nem szerződéssel keletkezik, ugyanakkor indokolt egyértelművé tenni, hogy az ilyen jellegű jogviszonyok is a Pmt. hatálya alá tartoznak.
+
+A Pmt. 3. § 45. pont a) alpontjában − a gyakorlati tapasztalatok alapján − a módosítás célja annak egyértelművé tétele, hogy az összetett tevékenységű szolgáltatók vonatkozásában nem minden tevékenység tartozik a Pmt. hatálya alá, csak a szoros értelemben vett szakmai alap- (core) tevékenységek.
+
+A nemzetközi elvárásoknak megfelelően javasolt a vagyon forrására vonatkozó információ beszerzésének, valamint a vagyon forrása igazolásának kötelezettségét szabályozni a Pmt.-ben, amely kötelezettségek teljesítéséhez szükséges a vagyon forrásának igazolása magyarázat bevezetése a tervezetben.
+
+Az 5. irányelv 1. cikk 1. pont b) pontja egyértelművé teszi, hogy a kötelezett szolgáltatók körébe az ingatlanügynökök mellett az ingatlanok bérbeadásában közvetítőként eljáró ügynökök is beletartoznak, de csak olyan ügyletek vonatkozásában, amelyek esetén a havi bérleti díj eléri vagy meghaladja a 10 000 eUr-t. Az 5. irányelvnek megfelelően azonban az ingatlan bérleti jogának üzletszerű közvetítését végző kikerül a Pmt. hatálya alól, amennyiben a havi bérleti díj összege ügyletenként az 500 ezer forintot nem éri el - az összeghatár meghatározása a hazai ingatlanpiaci viszonyok figyelembe vételével történt.
+
+A külső ellenőrzési funkció Pmt. 27. § (5) bekezdése általi fogalmának bevezetése miatt vált szükségessé az értelmező rendelkezések között az új fogalom elhelyezése.
+
+Az 5. irányelv 1. cikk 1. pont c) pontja a kötelezett szolgáltatók hatálya alá sorolja be a letétkezelő pénztárca-szolgáltatókat, így szükségessé vált a fogalomnak a Pmt.-ben az értelmező rendelkezések közötti elhelyezése.
+
+A Pmt. 3. § 38. pont e) pontjában meghatározott bizalmi vagyonkezelési szerződés módosítása az 5. irányelv 1. cikk 2. pont b) pontja alapján szükséges.
+
+Az 5. irányelv 1. cikk 1. pont c) pontja a kötelezett szolgáltatók hatálya alá sorolja be a virtuális fizetőeszközök és rendeleti pénzek közötti átváltási szolgáltatásokat nyújtó szolgáltatókat, így szükségessé válik a virtuális fizetőeszköz fogalomnak a Pmt.-ben az értelmező rendelkezések közötti elhelyezése.
+
+A 3. §-hoz
+
+A 4. irányelv (3. cikk 9. pontja és 22. cikke) alapján, a kiemelt közszereplőkre vonatkozó, a megbízatás megszűnését követően legalább 12 hónapon keresztül megfelelő kockázatalapú intézkedések végrehajtását megkövetelő rendelkezés kapcsán indokolttá vált a Pmt. rendelkezéseinek pontosítása.
+
+Erre tekintettel a tervezet kockázatalapú megközelítéssel egészíti ki a Pmt. által meghatározott azon rendelkezést, amely kimondja, hogy a törvény alkalmazásában kiemelt közszereplő az a természetes személy, aki fontos közfeladatot lát el, vagy az ügyfél-átvilágítási intézkedések elvégzését megelőzően egy éven belül fontos közfeladatot látott el. ezen kiegészítés szerint a megbízatás megszűnését követően legalább egy évig, de a kockázatalapú megközelítésnek megfelelően a szolgáltató erre irányuló döntése alapján akár hosszabb ideig is kiemelt közszereplőnek minősül egy korábban fontos közfeladatot ellátó személy.
+
+A 4. irányelv [3. cikk 9. pont h) alpontja] alapján, a kiemelt közszereplők kategóriáit meghatározó rendelkezés kapcsán indokolttá vált a Pmt. rendelkezéseinek pontosítása.
+
+Erre tekintettel a tervezet kimondja, hogy a nemzetközi szervezet vezetője, vezető helyettese, vezető testületének tagja mellett az ezekkel egyenértékű feladatot ellátó személy is fontos közfeladatot ellátó személynek minősül.
+
+Az 5. irányelv 1. cikk 13. bekezdése (amely a 4. irányelv 20. cikkét módosítja) új rendelkezéseket tartalmaz a kiemelt közszereplők vonatkozásában. ennek megfelelően minden tagállam köteles a nemzeti jog szerint fontos közhivatalnak minősülő, konkrét funkciókat feltüntető jegyzéket kiadni és naprakészen tartani. A tagállamok területén működő nemzetközi szervezetek is kötelesek ilyen jegyzéket közzétenni. A Bizottság pedig mindezek alapján a funkciókról egységes jegyzéket készít, amelyet közzé is tesz.
+
+A Pmt. 4. § (2) bekezdése tartalmazza a fontos közhivatalnak minősülő, konkrét funkciókat, az európai Bizottság erről történő megfelelő tájékoztatása érdekében azonban a tervezet új rendelkezést vezet be (egy új bekezdés beiktatásával), amely szerint a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter tájékoztatja a Bizottságot és a tagállamokat a fontos közfeladatot ellátó személyek kategóriáiról (beleértve a nemzetközi szervezetekre vonatkozó kategóriákat is).
+
+A tervezet alapján jogtechnikai jellegű, pontosító módosítás, hogy a kiemelt közszereplőre vonatkozó rendelkezések explicit alkalmazandóak a kiemelt közszereplő közeli hozzátartozójára vagy a kiemelt közszereplővel közeli kapcsolatban álló személyre is (beillesztve ezeket a kategóriákat a rendelkezések főszövegébe). erre tekintettel indokolt a Pmt. 4. § (5) bekezdésében foglalt rendelkezés hatályon kívül helyezése (amely a főszöveg helyett különálló bekezdésben mondta ki mindezt).
+
+A 4. §-hoz
+
+A 4. irányelv [3. cikk 7. c) pontja és az 5. irányelv (1. cikk 1. pont c) pontja] alapján a tervezet kiegészíti a Pmt. 1. § (1) bekezdését és kimondja, hogy a Pmt. hatálya kiterjed a Magyarországon székhellyel, fiókteleppel vagy telephellyel rendelkező székhelyszolgáltatóra, a virtuális és törvényes fizetőeszközök, illetve virtuális fizetőeszközök közötti átváltási szolgáltatásokat nyújtó szolgáltatókra és a letétkezelő pénztárca-szolgáltatókra. ezen rendelkezésekhez, a hatály bővítéséhez kapcsolódóan vált szükségessé annak meghatározása (a Pmt. felügyeletet ellátó szerveket meghatározó szakaszában), hogy az újonnan hatály alá kerülő szolgáltatók felügyeletét a pénzügyi információs egység látja majd el.
+
+Az 5. irányelv [1. cikk 1. pont c) pontja] alapján a tervezet kiegészíti a Pmt. 1. § (1) bekezdését, és kimondja, hogy a Pmt. hatálya kiterjed a kulturális javak (műalkotások, régiségek) kereskedelmével vagy közvetítésével foglalkozó szolgáltatókra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot, illetve a kulturális javak (műalkotások, régiségek) tárolásával vagy kereskedelmével szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatókra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot. ezen rendelkezéshez, a hatály bővítéséhez kapcsolódóan vált szükségessé annak meghatározása (a Pmt. felügyeletet ellátó szerveket meghatározó szakaszában), hogy az újonnan hatály alá kerülő szolgáltatók felügyeletét a kereskedelmi hatóság látja majd el.
+
+A 5. §-hoz
+
+A Pmt.-ben az uniós szabályozásra épülő, forintban meghatározott összeghatárainak rögzítésére 2007-ben került sor. Az összeghatárok valós folyamatokhoz való kiigazítása érdekében, figyelemmel az eltelt időszak gazdasági- pénzügyi folyamataira, indokolt az értékhatárok felfelé korrigálása oly módon, hogy az az euró/forint árfolyam esetleges jövőbeni változása esetén sem okozhassa az EU-szabályozásban rögzítettek megsértését. ennek alapján a tervezet meghatározza, hogy a szolgáltató az ügyfél-átvilágítást köteles alkalmazni a négymillió-ötszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor, valamint árukereskedő esetében a hárommillió forintot elérő vagy meghaladó összegű ügyleti megbízás készpénzben történő teljesítésekor.
+
+A tervezet kiegészíti a Pmt. ügyfél-átvilágításra vonatkozó rendelkezéseit a Pmt. 6. § (1) bekezdésében és összhangban a dinamikus ügyfél-átvilágításra vonatkozó koncepcióval egy új h) pontban egyértelműsíti, hogy a kockázatokkal összhangban, illetve a módosult adat vonatkozásában szükséges az ügyfél-átvilágítási kötelezettséget elvégezni. A 6. § (1) bekezdés h) pont bevezetésének célja a gyakorlati tapasztalatok alapján egyértelmű helyzetet teremteni azzal kapcsolatban, hogy az adatokban bekövetkezett változás is alapjául szolgálhat az ismételt ügyfél-átvilágítási kötelezettség elvégzésének. Az általános indokolásban kifejtett dinamikus ügyfél-átvilágítás megvalósítása mindenképpen megköveteli, hogy a lényeges adatváltozások ismételt ügyfél-átvilágítási intézkedésekre kötelezzék a szolgáltatókat, a szolgáltató megítélése alapján.
+
+A tervezet továbbá egyértelművé teszi, hogy a háromszázezer forintot elérő, illetve azt meghaladó összegű pénzváltás esetén szükséges elvégezni az ügyfél-átvilágítási kötelezettségeket, miután áthelyezésre került a fokozott ügyfél-átvilágítás esetköreiből. e rendelkezéssel tehát nem új jogszabályi elvárás került bevezetésre, hanem egy, a korábban a fokozott ügyfél-átvilágításnál definiált kötelezettség a jobb szerkezeti átláthatóság miatt átkerült az általános kötelezettségek közé. ehhez kapcsolódóan a tervezet egyértelművé teszi, hogy az átvilágítási kötelezettség pénzváltás esetén is kiterjed a ténylegesen összefüggő, több ügyleti megbízásra, ha ezek együttes értéke eléri vagy meghaladja a háromszázezer forintot.
+
+A tervezetben egy új 6/A. § került bevezetésre, amely rögzíti a kockázati besorolás kötelezettségét. A 6/A. §-ban foglaltakat az általános indokolásban részletezett dinamikus ügyfél-átvilágítás megvalósítása indokolja. A szolgáltatóknak a dinamizmus megvalósításához szükséges egy olyan ügyfelekhez kapcsolt indikátor meghatározása (ügyfél kockázati szint), amely folyamatosan képes iránymutatást adni azzal kapcsolatban, hogy milyen ügyfél-átvilágítási intézkedések végrehajtását kell elvégezni az egyes ügyfelek esetében. A magasabb kockázat mélyebb és összetettebb, az alacsonyabb jelentősen egyszerűbb ügyfél-átvilágítási intézkedéseket indukál. A kötelezettség ügyfél-átvilágítási kötelezettségek köréből történő kiemelését az intézmény indikátor jellege indokolta, hiszen a rendelkezés elsődleges célja pont az ügyfél-átvilágítási intézkedések körének meghatározása az ügyfél kockázati szintnek való besorolásával összhangban.
+
+A 6. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az ügyfél-átvilágítási kötelezettség egyes elemei pontosítása, egyértelművé tétele az alábbiak szerint.
+
+A tervezet kiegészíti a Pmt. ügyfél-átvilágításra vonatkozó rendelkezéseit a Pmt. 7. § (1) bekezdésében a szolgáltatónál eljáró rendelkezésre jogosultra és a szolgáltatónál eljáró képviselőre utalással. A módosítás célja annak egyértelművé tétele, hogy a szolgáltató nem köteles valamennyi rendelkezésre jogosultat vagy képviselőt átvilágítani, kizárólag a szolgáltatónál eljáró (gyakorlatban egy-két) rendelkezésre jogosult vagy képviselő vonatkozásában köteles az ügyfél-átvilágítási intézkedéseket elvégezni.
+
+A tervezet pontosítja, hogy a Pmt. 7. § (2) bekezdés b) pont be) alpontjában foglalt kézbesítési megbízottnak mely adatait köteles rögzíteni a szolgáltató (családi és utónevét, valamint lakcímét, ennek hiányában tartózkodási helyét).
+
+Tervezet pontosítja, egyértelművé teszi az ügyfél-átvilágítás során a személyazonosság igazoló ellenőrzése érdekében bemutatandó okiratok körét. A tervezet a Pmt. 7. § (3) bekezdésének kiegészítésével egyértelművé teszi, hogy lakcímet igazoló hatósági igazolványt magyar állampolgár abban az esetben köteles bemutatni, ha lakóhelye vagy tartózkodási helye Magyarországon található; külföldi állampolgár pedig abban az esetben köteles magyarországi lakcímet igazoló hatósági igazolványt bemutatni, ha lakóhelye vagy tartózkodási helye Magyarországon található.
+
+Az ügyfél-átvilágítási kötelezettség hatékony (de a nemzetközi kötelezettségeknek teljes mértékben megfelelő) végrehajtása érdekében indokolttá vált a Pmt.-ben annak kimondása is, hogy egyes ügyfél-átvilágítás során rögzített adatok esetében nem áll fenn az ellenőrzési kötelezettség, ha külföldi hatóság által kiállított okirat nem tartalmazza azokat. ennek érdekében a tervezet új rendelkezésként kimondja, hogy a születési név, az állampolgárság és az anyja születési neve adat ellenőrzése mellőzhető, ha a személyazonosság igazoló ellenőrzése érdekében bemutatott okirat azt nem tartalmazza. A szolgáltató köteles azonban az arra vonatkozó információt rögzíteni, hogy ezen adatok rögzítésére az ellenőrzés mellőzésével került sor. Kiemelendő, hogy ezen rendelkezéssel a tervezet kizárólag a verifikálásra vonatkozó kötelezettség elhagyását célozza és fenntartja a valamennyi adat rögzítésére vonatkozó kötelezettséget.
+
+A tervezet pontosítja a Pmt. 7. § (5) bekezdését annak egyértelművé tétele érdekében, hogy az okirat érvényességének ellenőrzése keretében a szolgáltató az okirat hitelességéről is köteles meggyőződni.
+
+A tervezet a Pmt. 7. § (7) bekezdésében rögzíti, hogy a szolgáltató a (2)-(6) bekezdésben meghatározott intézkedések helyett vagy ezeken túlmenően a személyazonosság igazoló ellenőrzését közhiteles adatbázisból végezheti el. A közhiteles nyilvántartás használata a személyazonosság igazoló ellenőrzéséhez (azaz a személyazonosító adatok verifikálásához) szükséges. A név, születési adatok, anyja neve, lakcím a személyiadat- és lakcímnyilvántartásból szerezhető meg, ami pedig közhiteles. nem állami szerv ugyanis a személyes adatok kezelésének szabályaira tekintettel nem vezethet olyan nyilvántartást, ami a személyazonosság verifikálására alkalmas lehetne.
+
+A 7. §-hoz
+
+A 4. irányelvben és a Pmt.-ben meghatározott kötelezettségek hatékonyabb végrehajtása érdekében a gyakorlati tapasztalatok alapján szükségessé vált a Pmt. 8. §-ának pontosítása.
+
+A tervezet a Pmt. 8. § (4) bekezdésében pontosítja, miszerint a szolgáltató megtesz minden további, a felügyeletet ellátó szerv által meghatározott intézkedést mindaddig, amíg nem biztos abban, hogy ki a tényleges tulajdonos. Az irányelvi rendelkezésekkel összhangban az ügyfél-átvilágítási intézkedések egyik kiemelt eleme, hogy a szolgáltatónak kétséget kizáró módon meg kell győződnie arról, hogy ki a tényleges tulajdonos. A szolgáltatónak az elvárhatóság szintjén biztosnak kell lennie abban, hogy ki a tényleges tulajdonos. A szabályozás egyértelműsíti, hogy a szolgáltatónak az összes ésszerű intézkedést meg kell hoznia addig a pontig, amíg nem marad kétsége azzal kapcsolatban, hogy ki a tényleges tulajdonos. A Pmt. 8. § (4) bekezdés módosítását tehát alapvetően az indokolja, hogy a hazai szabályozásban megfelelő mértékben hangsúlyozásra kerüljön az a 4. irányelvben meghatározott elvárás, hogy a szolgáltató megtesz minden további elvárható intézkedést mindaddig, amíg nem biztos abban, hogy ki a tényleges tulajdonos.
+
+E rendelkezések célja egyúttal tehát, hogy kizárja azt a rossz gyakorlatot, miszerint a szolgáltatók a nyilatkozatok mennyiségi beszerzésére törekedjenek és mellőzzék a tulajdonosi struktúra tényleges feltárását.
+
+A 8. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált a tényleges tulajdonosra vonatkozó ügyfél-átvilágítási kötelezettségek pontosítása, egyértelművé tétele:
+
+A tervezet új (1a) bekezdése egyértelműsíti, hogy a jogi személy ügyfél képviselője a Pmt.-ben előírt nyilatkozatában köteles valamennyi, a 3. § 38. pontban foglaltaknak megfelelő természetes személyt feltüntetni tényleges tulajdonosként. e rendelkezés gyakorlati relevanciája a jelenleg még mindig számos esetben előforduló jogsértés megakadályozása, miszerint a jogi személyek arról nyilatkozzanak, hogy saját nevükben járnak el és nyilatkozataik csak részben, de nem teljeskörűen tartalmazzák a természetes személy tényleges tulajdonosok adatait.
+
+Az 5. irányelv 1. cikk 9. bekezdés a) pontja [amely a 4. irányelv 14. cikk (1) bekezdését módosítja] alapján új üzleti kapcsolat létesítése esetén a szolgáltatók kötelesek beszerezni egy kivonatot a központi tényleges tulajdonosi nyilvántartásból, vagy a nyilvántartásba vételt tanúsító okiratot.
+
+Ez alapján a tervezet egy új rendelkezést vezet be ebben a vonatkozásban (egy új bekezdés beiktatásával), amely alapján az ügyfél köteles okirattal igazolni a tényleges tulajdonosra vonatkozó adatoknak a központi nyilvántartás számára történő továbbítását. A hatékonyság biztosítása érdekében indokolt ezen kötelezettség ügyfélre telepítése, tekintettel arra, hogy a tényleges tulajdonosi információk központi nyilvántartására vonatkozó rendelkezések alapján az ügyfél köteles az adatok nyilvántartás felé történő továbbítására, azaz rendelkezésére áll majd a nyilvántartást tanúsító okirat.
+
+A 4. irányelvben meghatározott kötelezettségek hatékonyabb végrehajtása érdekében is szükségessé vált a Pmt. 9. §-ának pontosítása, és annak egyértelmű tétele [összhangban a Pmt. 13. cikk 1. bekezdés b) pontjával], hogy a szolgáltatónak minden, a felügyeletet ellátó szerv által meghatározott intézkedést meg kell tennie az ügyfél tulajdonosi és irányítási rendszerének megértése érdekében is.
+
+A 4. irányelv [3. cikk 6. a) pont ii. alpontja második mondata] alapján, a tényleges tulajdonos azonosítása érdekében meghozott intézkedésekről vezetett nyilvántartás kapcsán szükségessé vált a Pmt. vonatkozó rendelkezéseinek pontosítása.
+
+Erre tekintettel a tervezet újonnan bevezetett rendelkezésként kimondja, hogy a szolgáltató köteles nyilvántartást vezetni a tényleges tulajdonos azonosítása és személyazonosságának igazoló ellenőrzése érdekében a Pmt. vonatkozó rendelkezései alapján megtett intézkedésekről.
+
+Az 5. irányelv 1. cikk 8. bekezdés b) pontja [amely a 4. irányelv 13. cikk (1) bekezdés b) pontját módosítja] új kötelezettséget vezet be a tényleges tulajdonos azonosítása és személyazonosságnak igazoló ellenőrzése vonatkozásában arra az esetkörre, amikor megállapításra kerül, hogy a tényleges tulajdonos a vezető tisztségviselő. Az 5. irányelv a vezető tisztségviselő tényleges tulajdonosi minősége esetén kifejezetten kiemeli, hogy a szolgáltatók kötelesek megtenni a szükséges intézkedéseket annak érdekében, hogy ellenőrizzék a vezető tisztségviselő tisztét betöltő természetes személy kilétét, és nyilvántartást vezessenek a megtett lépésekről és az ellenőrzési eljárás során felmerült nehézségekről.
+
+Fentiekre tekintettel a tervezet egy új rendelkezést vezet be ebben a vonatkozásban (egy új bekezdés beiktatásával), amely kimondja: ha a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosa (a Pmt. értelmező rendelkezései között meghatározott tényleges tulajdonos fogalom alapján) a vezető tisztségviselő, a szolgáltató köteles a vezető tisztségviselőt azonosítani és személyazonosságának igazoló ellenőrzését elvégezni, valamint köteles rögzíteni az elvégzett ügyfél-átvilágítási intézkedéseket és az arra vonatkozó információt is, ha ezen intézkedéseket nem tudta végrehajtani.
+
+A 9. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált a kiemelt közszereplőre vonatkozó ügyfél-átvilágítási intézkedések felülvizsgálata, a vonatkozó rendelkezések áthelyezése és egyértelművé tétele.
+
+A kiemelt közszereplői státusz (PEP) megállapítását és a kiemelt közszereplői nyilatkoztatást is az alap (egyszerűsített és normál) ügyfél-átvilágítási intézkedések között szükséges rögzíteni. Az új 9/A. § célja, hogy a kiemelt közszereplői nyilatkoztatáshoz fűződő kötelezettségek az általános ügyfél-átvilágítási intézkedések részét képezzék és csak azok az intézkedések kerüljenek a fokozott ügyfél-átvilágítás körébe, ahol a nyilatkozat vagy a közszereplői nyilvántartásból történő verifikálás a közszereplői, közszereplő közeli hozzátartozói vagy a kiemelt közszereplővel közeli kapcsolatban álló személyi státuszt megállapították és valójában fennáll a magasabb kockázat. A szabályozás a korábbi intézkedések körét a szerkezeti változások kivételével nem érintette. olyan szabályozás kialakítása indokolt - egyben támogatva a jelenleg kialakult gyakorlatot -, amely alapján a kockázati szint besorolásához már az üzleti kapcsolat létesítésekor biztosítaná az ügyfél a kiemelt közszereplői státuszára irányuló információt. ezen információ birtokában tudja besorolni a szolgáltató az ügyfelet a megfelelő kockázati szintre. A kiemelt közszereplői státusz magasabb kockázati besorolást eredményez, amely alapján fokozott ügyfél-átvilágítás indokolt, összhangban a hazai és az uniós elvárásokkal. Jelenleg nem minden szolgáltató rendelkezik olyan adatbázissal, amely alapján a PEP személyazonossága megállapítható. Az uniós elvárásokkal összhangban kizárt, hogy a szolgáltató kiemelt közszereplő ügyfél vagy tényleges tulajdonos esetében egyszerűsített ügyfél-átvilágítást alkalmazzon. A fentiek indokolták a Pmt. rendszerében az ügyfél nyilatkoztatására irányuló rendelkezések áthelyezését.
+
+A tervezet által bevezetett új 9/B. § célja, hogy a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosításokra speciálisan jellemző közszereplői nyilatkoztatáshoz fűződő kötelezettségek is az általános ügyfél- átvilágítási intézkedések részét képezzék és csak azok az intézkedések kerüljenek a fokozott ügyfél-átvilágítás körébe, ahol a nyilatkozat vagy a közszereplői nyilvántartásból történő verifikálás a közszereplői, közszereplő közeli hozzátartozói vagy a kiemelt közszereplővel közeli kapcsolatban álló személyi státuszt megállapították és valójában fennáll a magasabb kockázat. A szabályozás a korábbi intézkedések körét a szerkezeti változások kivételével nem érinti.
+
+Ezen túlmenően a 4. irányelv [20. cikk a) pont ii. alpontja] alapján, a kiemelt közszereplők tekintetében alkalmazandó ügyfél-átvilágítási intézkedésekre vonatkozó rendelkezések kapcsán indokolttá vált a Pmt. rendelkezéseinek pontosítása, annak egyértelművé tétele érdekében, hogy a szolgáltató a pénzeszköz forrásának megállapítása mellet a vagyon forrásának megállapítása érdekében is köteles megfelelő intézkedéseket tenni.
+
+Erre tekintettel a tervezet kiegészíti a kiemelt közszereplők tekintetében alkalmazandó ügyfél-átvilágítási intézkedéseket és új rendelkezésként kimondja, hogy a kiemelt közszereplő által a szolgáltató felé megtett nyilatkozatnak a pénzeszközök forrására vonatkozó információk mellett a vagyon forrására vonatkozó információkat is tartalmaznia kell.
+
+A 10. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az üzleti kapcsolatra vonatkozó ügyfél-átvilágítási intézkedések felülvizsgálata, egyértelművé tétele az alábbiak szerint.
+
+A Pmt. 10. § (1) bekezdéséből kikerültek az ügyleti megbízásra vonatkozó kötelezettségek és azok a 14/A. §-ba kerültek áthelyezésre, hogy kiemelten szemléltessék, miszerint a kockázati besoroláshoz kötött dinamikus ügyfél-átvilágítási kötelezettségek csak a tartós ügyfélkapcsolatok vonatkozásában állnak fenn. e módosítást és áthelyezést az általános indokolásban részletezett dinamikus ügyfél-átvilágítás megvalósítása indokolja.
+
+A dinamikus ügyfél-átvilágítás alapján a tervezet a Pmt. 10. §-ában előírja, hogy az üzleti kapcsolat létrejöttekor szükséges az ügyfél-átvilágítás módjának meghatározása érdekében azt is rögzíteni, hogy az ügyfél (üzleti kapcsolat) kockázati szintje átlagos, magas vagy alacsony. ezen új pont [10. § (1) bekezdés b) pontja] előirányozza, hogy milyen ügyfélkockázati besorolásokat alkalmazzanak a szolgáltatók.
+
+A 4. irányelvben meghatározott kötelezettségek hatékonyabb végrehajtása érdekében [13. cikk 1. c) pont] szükségessé vált a Pmt. 10. §-ának pontosítása, azon információ rögzítésének kötelezettségével, hogy mi az üzleti kapcsolat célja és jellege.
+
+A tervezet rögzíti továbbá, hogy adatváltozás esetén, beleértve a kockázati szint besorolás módosítását is, a szolgáltatónak csak a megváltozott adat rögzítéséhez szükséges ügyfél-átvilágítási intézkedést kell elvégeznie, amennyiben egyéb körülmény nem merül fel, amely a teljes ügyfél-átvilágítást indokolná. e rendelkezés könnyítést ad a szolgáltatóknak azzal, hogyha kockázati megközelítésük alapján az adatmódosulás esetén előre nem írták elő a teljes körű ismételt átvilágítási kötelezettséget, akkor csak a megváltozott adatok rögzítéshez szükséges ügyfél-átvilágítás intézkedést kelljen elvégezniük, mivel például egy házasság okán fennálló névváltozás nem feltétlenül indokolja, hogy teljeskörűen ismételt ügyfél-átvilágítást kelljen végrehajtani. Illetve amennyiben plusz adat bekérésére lenne szükség, pl. pénzeszköz forrása, azon plusz információ verifikálása indokolt, ha kockázati megközelítésük alapján az adatmódosulás esetén előre nem írták elő a teljes körű ismételt átvilágítási kötelezettséget.
+
+A 11. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az üzleti kapcsolatra vonatkozó monitoring (üzleti kapcsolat folyamatos figyelemmel kísérése) tevékenység felülvizsgálata, egyértelművé tétele.
+
+A Pmt. 11. § (1) bekezdés (1) bekezdése kiegészítésre került, mivel az üzleti kapcsolatok folyamatos figyelemmel kísérésének és az üzleti kapcsolat fennállása folyamán teljesített ügyletek elemzésének nem csak a tárolt adatok naprakészségének biztosítása a célja, hanem az, hogy a kiszűrt szokatlan ügyletek a pénzügyi információs egység részére továbbításra kerüljenek.
+
+A tervezet rögzíti továbbá, hogy az ügyfél/üzleti kapcsolat kockázati szint besorolását is folyamatosan figyelemmel kell kísérni. A Pmt. 11. § új bekezdése az általános indokolásban már részletesen elemzett dinamikus ügyfél-átvilágítás lényegét határozza meg annak biztosításához, hogy az ügyfélhez minden esetben az ügyfélkockázati szintjéhez megfelelő ügyfél-átvilágítási intézkedések társuljanak.
+
+Az 5. irányelv 1. cikk 10. bekezdés a) pontja [amely a 4. irányelv 18. cikk (2) bekezdését módosítja] pontosítja a megerősített monitoring szabályait a fokozott ügyfél-átvilágítás vonatkozásában és konkrét feltételeket határoz meg, amelyek fennállása esetén a szolgáltató köteles az adott ügylet hátterének és céljának vizsgálatára.
+
+Ez alapján a tervezet a monitoringra/megerősített monitoringra vonatkozó rendelkezések keretében kiegészíti/ pontosítja azon feltételek listáját, amelyek fennállása esetén a szolgáltató köteles különös figyelmet fordítani az ügyletekre és pénzügyi műveletekre: összetett; szokatlan, így különösen szokatlanul nagy értékű, illetve szokatlan ügylettípusban végrehajtott; vagy gazdasági vagy jogszerű cél nélküli ügyletek és pénzügyi műveletek.
+
+A 12. §-hoz
+
+Az 5. irányelv 1. cikk 9. bekezdés b) pontja [amely a 4. irányelv 14. cikk (5) bekezdését módosítja] egyrészt megerősíti azon kötelezettséget, hogy a szolgáltatók nem csak az új ügyfelek esetében kötelesek végrehajtani az ügyfél-átvilágítási intézkedéseket, hanem kockázatérzékenységi alapon a meglévő ügyfelek esetében is, valamint új rendelkezésként konkrét esetköröket határoz meg, amikor ezen kötelezettségüknek a szolgáltatók kötelesek eleget tenni.
+
+Erre tekintettel a tervezet kiegészíti a Pmt. meglévő ügyfelek átvilágítására vonatkozó kötelezettségét konkrét esetkörök meghatározásával, amely szerint a szolgáltató különösen a következő esetekben köteles ellenőrizni az ügyfeleiről rendelkezésre álló adatokat: az adatok és okiratok megváltozásáról történő tudomásszerzés esetén; a tényleges tulajdonosra vonatkozó adatok jogszabály alapján történő ellenőrzése céljából; vagy az adózás területén történő együttműködés teljesítése érdekében.
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az üzleti kapcsolatra vonatkozó információk (adatok és okiratok) naprakészen tartásának kötelezettsége vonatkozásában is a kiegészítés, pontosítás.
+
+Erre tekintettel a Pmt. 12. § (1) bekezdés biztosítja, hogy a dinamikus ügyfél-átvilágítás megvalósítása csak a tartós üzleti kapcsolatokhoz társuljon (ügyleti megbízás esetén a dinamizmus nem értelmezhető) és annak az ügyfélkockázati szint meghatározása folyamatos és szerves része legyen.
+
+A tervezet - a dinamikus ügyfél-átvilágításra irányuló koncepcióval összhangban - előírja az ügyfél kockázati szintjének naprakészen tartását is (az adatokon, iratokon túlmenően).
+
+A Pmt. 12. § (2) bekezdés biztosítja, hogy a dinamikus ügyfél-átvilágítás megvalósításához a kockázati szintekhez igazított időszakos adatellenőrzési kötelezettség társuljon. A tervezet pontosítja a kockázatérzékenységi elvárásokat és rögzíti továbbá, hogy a meglévő ügyfélkör esetében a magas kockázat esetén évente, de alacsony kockázat esetén legalább ötévente a szolgáltató köteles ellenőrizni az ügyfeleiről rendelkezésre álló adatokat. A részletesebb elvárás indoka, hogy pontosítsa a kockázatérzékenységi alapon történő elvárásokat és kizárja azt a rossz gyakorlatot, miszerint minden már meglévő ügyfélnél egységesen 5 évente végezze el a szolgáltató az adatellenőrzési kötelezettséget.
+
+A tervezet kiegészíti, pontosítja az adatváltozás szolgáltató felé történő bejelentésére vonatkozó kötelezettségre irányadó rendelkezéseket: kiegészíti a Pmt. 12. § (3) és (4) bekezdését, amely alapján az ügyfél mellett a meghatalmazott, a rendelkezésre jogosult és a képviselő is köteles a szolgáltatót értesíteni öt napon belül az adatváltozásokról, tekintettel arra, hogy ők is az üzleti kapcsolat résztvevői.
+
+Ezen túlmenően a tervezet hatályon kívül helyezi a Pmt. 12. § (5) bekezdését (amely arról rendelkezik, hogy ha számla terhére vagy javára két naptári évet elérő időtartam alatt megbízás teljesítésére nem került sor, a szolgáltató köteles 30 napon belül írásban vagy a szerződésben meghatározott módon felhívni ügyfelét az adatokban bekövetkezett változások közlésére, azzal, hogy az azonosító adatok közléséig a számlán megbízás teljesítésére nincs mód). A felügyeletet ellátó szerv és a szolgáltatók gyakorlati tapasztalatai alapján bebizonyosodott, hogy az ún. alvószámlák esetében a megbízás teljesítésének hiánya és az adatváltozások rögzítésének igénye önmagában még nem feltétlenül jelent kockázatot vagy szokatlan viselkedést, így nem eredményezheti a számla blokkolását és a megbízás nem teljesítését. A Pmt. által elvárt rendszeres és kockázatalapú ügyfélkör ellenőrzési kötelezettség bevezetése miatt is indokolatlan a 12. § (5) bekezdésben foglalt kötelezettség fenntartása.
+
+Ezzel ellentétben, ha a szolgáltató tartósan nem tudja elérni ügyfelét, de ennek ellenére folyamatosan pénzmozgást lát, felmerülhet a pénzmosás gyanúja, így indokolttá válik a törölt rendelkezés helyén a tranzakció korlátozást tartalmazó új rendelkezés szerepeltetése megfelelő ügyfélérdek védelmi garanciák egyidejű alkalmazásával.
+
+A 13. §-hoz
+
+A Pmt. hatálybalépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az ügyfél-átvilágításra vonatkozó rendelkezések felülvizsgálata és módosítása.
+
+A Pmt. 13. § (1) bekezdésének módosítása biztosítja, hogy a dinamikus ügyfél-átvilágítás megvalósítása csak a tartós üzleti kapcsolatokhoz társuljon és az ügyleti megbízáshoz kapcsolódó kötelezettségek a 14/A. §-ban kerüljenek meghatározásra.
+
+A tervezet a Pmt. 13. § (2) bekezdését érintő szövegpontosító javaslatot is tartalmaz, mivel bizonytalanság merült fel a gyakorlati végrehajtás során az átvilágítási intézkedések időbeliségét illetően. A módosítással a főszabály az intézkedések üzleti kapcsolat létesítése előtt való elvégzésének kötelezettsége, melyhez képest jelent kivételt a 13. § (2) bekezdése és a további bekezdések.
+
+A tervezet kiegészíti a Pmt. 13. § (4) bekezdését a kedvezményezett által meghatározott teljesítés elfogadására jogosult személyével. A módosítás célja, hogy a személyazonosság igazoló ellenőrzését annál a személynél is el kelljen végezni, akinek a számlájára a kedvezményezett rendelkezése szerint a szolgáltatónak utalnia kell (amennyiben ez a személy eltér a kedvezményezettől).
+
+A tervezet pontosítja a Pmt. 13. § (8) bekezdésének rendelkezéseit: tekintettel arra, hogy e § a módosítások nyomán csak a fennálló üzleti kapcsolat keretében megteendő intézkedésekre vonatkozik, az ügyleti megbízás teljesítésének megtagadása helyett az ügylet teljesítésének megtagadásának előírása szükséges.
+
+A Pmt. 13. § (10) bekezdés c) pontjának módosítását az indokolja, hogy a dinamikus ügyfél-átvilágítás megvalósítása érdekében a kockázati besorolás változatlanságát is szükséges beépíteni az ismételt átvilágítás kötelezettség mellőzését biztosító garanciák körébe.
+
+A 14. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált pénzváltás esetében a ténylegesen összefüggő, több ügyleti megbízásra vonatkozó kötelezettség pontosítása, egyértelművé tétele, amelyhez kapcsolódóan a Pmt. adatrögzítési kötelezettséget előíró 14. § (1) bekezdésének módosítása is indokolt.
+
+A ténylegesen összefüggő, több ügyleti megbízással kapcsolatos ügyfél-átvilágítási kötelezettség hatékony és az adatvédelmi szempontoknak is megfelelő végrehajtása (és így az ezen ügyletekre vonatkozó adatok, információk megfelelő rögzítése) érdekében a tervezet megszünteti a Pmt. 14. § (1) bekezdésében a pénzváltásra vonatkozó kivételt. ezen módosítás alapján tehát pénzváltás esetén a hitelintézet és a pénzváltó iroda is jogosult és köteles az ott meghatározott adatok rögzítésére és az okiratok bemutatásának kérésére.
+
+Ezen túlmenően a tervezet a Pmt. 3. § 37. pontjában meghatározott, pénzváltásra vonatkozó új ténylegesen összefüggő, több ügyleti megbízás fogalommal való összhang megteremtése érdekében a Pmt. 14. (1) bekezdésében is kimondja, hogy pénzváltás esetén a százezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor szükséges a meghatározott adatok rögzítése és az okiratok bemutatásának kérése. (ezen módosításhoz kapcsolódóan kiemelést érdemel, hogy ezen szolgáltatói kör vonatkozásában a Pmt. - a tevékenység kockázatainak csökkentése érdekében - továbbra is jelentősen szigorúbb, fokozott ügyfél-átvilágítási követelményeket ír elő már háromszázezer forintot elérő összegű pénzváltás esetén, szemben azzal, hogy más szolgáltatók kizárólag a négymillió-ötszázezer forintot elérő vagy meghaladó összegű ügyleti megbízások teljesítésekor kötelesek az ügyfél-átvilágítási intézkedéseket alkalmazni.)
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az üzleti kapcsolatra, valamint az ügyleti megbízásra vonatkozó rendelkezések szétválasztása és egyértelműsítése a hatékonyabb végrehajtás biztosítása érdekében.
+
+A Pmt. módosítása biztosítja, hogy a dinamikus ügyfél-átvilágítás megvalósítása csak a tartós üzleti kapcsolatokhoz társuljon és az ügyleti megbízáshoz kapcsolódó kötelezettségek ebben a szakaszban kerüljenek meghatározásra, amelyek a korábbi jogszabályban nem szétválasztott módon kerültek alkalmazásra. A tervezet rögzíti az eseti jellegű ügyleti megbízások esetében elvárt intézkedéseket. A 14/A. § mögötti cél, hogy az eseti jellegű ügyleti megbízások esetén ne legyen szükség kockázati besorolásra és ehhez igazított monitoring kötelezettségre (új dinamikus ügyfél-átvilágítási koncepció). A szabályozás azt kívánta szemléltetni, hogy az ügyfél-átvilágítási kötelezettségeket ebben a körben - az eseti jellegű ügyleti megbízás nem tartós jellegéből adódóan − szűkített módon kógens felsorolás mellett kell érvényesíteni.
+
+A tervezet rögzíti, hogy ha a szolgáltató nem tudja végrehajtani az elvárt ügyfél-átvilágítási intézkedéseket, akkor az érintett ügyfélre vonatkozóan köteles megtagadni ügyleti megbízás teljesítését. e rendelkezés célja, hogy az intézkedések végrehajthatóságának hiányában biztosítsa az ügyleti megbízások esetében is a Pmt. 13. § (8) bekezdésében meghatározott elvárásokat. ennek indoka, hogy ezen elvárás ne csak az üzleti kapcsolat, hanem az ügyleti megbízások vonatkozásában nem végrehajtható ügyfél-átvilágítás esetében kógens módon is alkalmazandó legyen.
+
+A Pmt. 14/A. § (6) bekezdés indoka, hogy az ügyleti megbízásokat rendszeresen végrehajtó ügyfelek monitoring kötelezettsége ne térjen el az üzleti kapcsolatokra előírtakétól, mivel ezek a kapcsolatok jellegükben jelentősen nem térnek el a tartós szerződéses kapcsolatoktól. egy rendszeres ügyleti megbízásokat végrehajtó ügyfél vonatkozásában is indokolt, hogy velük kapcsolatban a szolgáltatók profilt alkossanak, és ügyleti megbízásaikat ne egyenként, hanem összességükben a profilhoz igazítottan értékeljék. A szolgáltatók belső szabályzatukban rögzítik, hogy milyen gyakoriság mellett tekintik az ügyleti megbízásokat rendszeresnek (adott esetben figyelembe véve a szolgáltatás típusát, az ügyletek értékét is).
+
+A tervezet ezen túlmenően rögzíti - a dinamikus ügyfél-átvilágítás végrehajtása érdekében -, hogy adatváltozás, illetve kockázati szint besorolás módosítása esetén szükséges az ügyfél-átvilágítási intézkedések elvégzése. Amennyiben nem merül fel a szolgáltatónak kétsége az adatok valódiságával vagy megfelelőségével kapcsolatban, úgy a szolgáltatónak nem szükséges ismételten elvégeznie a teljes átvilágítást.
+
+A 15. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján, valamint a 4. irányelv vonatkozó rendelkezései hatékonyabb végrehajtása érdekében szükségessé vált az egyszerűsített ügyfél-átvilágításra vonatkozó rendelkezések felülvizsgálata és módosítása.
+
+A Pmt. 15. § módosítása biztosítja, hogy a szolgáltatók az új rendelkezésekkel teljeskörű szabadságot kapjanak, hogy kockázati értékelésük alapján maguk határozzák meg azokat az alacsony kockázatú eseteket, ahol elégségesnek tartják az egyszerűsített ügyfél-átvilágítást. A korábbi jogi környezetben a pénzügyi szolgáltatók vonatkozásában az alkalmazás lehetőségét az MNB felügyeleti jóváhagyásához kötötte. Az egyszerűsített ügyfél-átvilágítási intézkedési elvárások módosulása miatt azonban ezt a szigorítást nem indokolt a jövőben fenntartani. Az intézkedések úgy kerültek kialakításra, hogy biztosítsák az ügyfél-átvilágítások kockázati szintekhez igazított dinamizmusát. Az (1) bekezdés módosítása azt szolgálja, hogy a szolgáltatók számára egyértelmű indikátor legyen, miszerint alacsony kockázat esetén biztosított csak számukra az egyszerűsített átvilágítás lehetősége.
+
+A rendelkezés annak egyértelművé tételét szolgálja, hogy az alacsony kockázatú esetekben alkalmazott egyszerűsített ügyfél-átvilágítás elvégzése során a kötelezően előírt ügyfél-átvilágítási intézkedések az ügyfél személyes megjelenésével és személyes megjelenése hiányában is elvégezhetőek.
+
+A rendelkezés alapján az egyszerűsített ügyfél-átvilágítási intézkedések a szolgáltató által üzemeltetett - biztonságos, védett, a felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált - elektronikus hírközlő eszköz útján, valamint az ügyfél személyes megjelenése hiányában postai kézbesítés útján is végrehajthatóak. Az ügyfél átlagos vagy magas kockázati szintje esetében nincs mód az egyszerűsített ügyfél-átvilágítás alkalmazására, így többek között az intézkedések postai úton kézbesített okiratmásolat és ügyfélnyilatkozat alapján történő elvégzésére.
+
+Ezen túlmenően a dinamikus ügyfél-átvilágítási koncepcióval összhangban az is fontos, hogy a kockázati szintek változásakor a felmerülő kockázati faktorok eredményeképpen a kockázati szinthez igazodjanak az intézkedések. szükséges annak egyértelmű szabályozása a Pmt.-ben, hogy amennyiben az ügyfél kockázati besorolása változik (felfelé lép egy kockázati kategóriát) a kockázatokkal összhangban további intézkedések elvégzése szükséges, vagy alacsony kockázat esetében egyszerűsített ügyfél-átvilágítás alkalmazható.
+
+A 4. irányelv 13. és 15-17. cikkében foglaltakkal, valamint az európai Felügyeleti Hatóságok (EFH) uniós szinten alkalmazandó elvárásaival összhangban az egyszerűsített ügyfél-átvilágítás során valamennyi ügyfél-átvilágítási intézkedést szükséges lenne elvégezni, azok mértéke és mélysége, valamint időbelisége változhat. Az egyszerűsített ügyfél-átvilágítás során szükséges rögzíteni a következőket: 1. szükséges az ügyfél-átvilágítási adatok rögzítése, a személyazonosság igazoló ellenőrzés elvégzése minden esetben, továbbá a tényleges tulajdonos azonosítása és verifikálása az ügyfél nyilatkoztatása nélkül, pl. az irányelv 30-31. cikkében meghatározott központi tényleges tulajdonosi adatbázis, vagy egyéb törvény alapján alkalmazható adatbázis alapján. Az üzleti kapcsolatra, vagy az ügyleti megbízásra vonatkozó információk mellőzhetőek. A kiemelt közszereplői nyilatkozat megtételére az ügyfél kockázati szint besorolásához van szükség. Az üzleti kapcsolat folyamatos figyelemmel kísérésére vonatkozó a 11. §-ban meghatározott kötelezettség változatlanul fennáll. A Pmt. új 15. § (1) bekezdés c) és d) pont megteremti annak a nemzetközi elvárásnak a biztosítását, hogy az eredetileg egyszerűsített ügyfél-átvilágítás alá tartozó ügyfeleknél a személyükhöz vagy tényleges tulajdonosuk személyéhez kapcsolódó közszereplői érintettség vagy más kockázatot emelő tényező esetén (például: összetett tulajdonosi struktúra) egyszerűsített helyett fokozott ügyfél-átvilágítás végrehajtására kerüljön sor a beszerzett információ alapján.
+
+A 15. § előírja, hogy a személyazonosság igazoló ellenőrzés lefolytatásához szükséges okirat másolattok rendelkezésre álljanak, ehhez azonban nem került előírásra az ügyfelek számára személyes megjelenési kötelezettség. Az okiratok másolatát ezekben az esetekben újra átvilágítási kampányokban már alkalmazott postai beküldéssel is biztosítani lehet.
+
+A tervezet rögzíti továbbá, hogy egy magasabb kockázati faktor, illetve az ügyfél vonatkozásában eltérő kockázati szintre vonatkozó adat felmerülése esetén a további Pmt.-ben meghatározott ügyfél-átvilágítási intézkedéseket is el kell végezni (dinamikus ügyfél-átvilágítási koncepció).
+
+A 4. irányelv 12. cikkével összhangban az elektronikus pénzre vonatkozó rendelkezések egyszerűsített ügyfél-átvilágítási intézkedések közötti szabályozása nem indokolt. Az elektronikus pénzre vonatkozó rendelkezéseket egy különálló szakaszban indokolt szabályozni és leválasztani az egyszerűsített ügyfél-átvilágítási kötelezettségekről. A dinamikus ügyfél-átvilágítási koncepció alapján a vonatkozó rendelkezések a speciális ügyfél-átvilágítás kategóriában kerülnek előírásra.
+
+Figyelemmel arra, hogy áruk és szolgáltatások ellenértékének belföldi kiegyenlítése csekk vagy belföldi postautalvány igénybe vételével változatlanul alacsony pénzmosási és terrorizmus-finanszírozási kockázatot hordoz, indokolt az egyszerűsített ügyfél-átvilágítás szabályozásától eltérő, egyszerűsített előírásokat rögzíteni. A rendelkezések a 300.000 Ft-ot meghaladó, de 3 millió Ft-ot el nem érő ilyen ügyletek esetében fenntartják a hatályos Pmt. szerinti ügyfél-azonosítási szabályokat, amelyek szerint a szolgáltató köteles az ügyfél azonosító adatait rögzíteni, és kérheti az azonosító okmányok bemutatását.
+
+A 16. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált a fokozott ügyfél-átvilágításra vonatkozó rendelkezések felülvizsgálata.
+
+A tervezet a Pmt. 16. § (1) bekezdésében rögzíti azon eseteket, amikor az ügyfelet magas kockázatúnak kell tekinteni, továbbá rögzíti, hogy a kockázatalapú megközelítéssel összhangban a szolgáltató köteles a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatában egyéb magas kockázatú eseteket rögzíteni. A 16. § (1) bekezdésben előírt felsorolás nem taxatív és nem kizáró jellegű. e módosítás azt biztosítja, hogy a szolgáltatók számára egyértelmű indikátor legyen, hogy magas kockázat esetén kötelező számukra a fokozott átvilágítás lehetősége.
+
+A tervezet egyértelművé teszi egy felsorolásban, hogy magas kockázatúnak kell tekinteni a közjegyző, vagy a konzul által hitelesített okirattal történt távoli ügyfél-azonosítást, valamint amennyiben az ügyfél vagy tényleges tulajdonosa kiemelt közszereplő vagy a kiemelt közszereplő közeli hozzátartozója vagy a kiemelt közszereplővel közeli kapcsolatban álló személy, továbbá egyéb, a felügyelet által meghatározott eseteket.
+
+A tervezet a Pmt. 16. § (2) bekezdésében rögzíti, hogy mely fokozott ügyfél-átvilágítási intézkedéseket kell alkalmaznia a szolgáltatónak a fokozott ügyfél-átvilágítás keretein belül a magasabb kockázatú esetekben. A fokozott intézkedésekben a szabályozással ténylegesen egzakt módon ismertetésre kerülnek azok az intézkedések, amelyek fokozzák a korábbi átvilágítások terjedelmét a korábban már többször hivatkozott dinamikus módon. A korábbi szabályozáshoz képest egzakt módon ismerteti, hogy melyek azok a kockázatcsökkentő intézkedések, amelyet magas kockázat esetén a fokozott ügyfél-átvilágítás keretében a szolgáltatóknak végre kell hajtaniuk.
+
+A tervezet rögzíti a minimum elvárt intézkedéseket, mert a felügyeletet ellátó szervek fontosnak tartják, hogy törvényi szinten kerüljenek előírásra azon minimum intézkedések, amelyeket a szolgáltató köteles elvégezni a fokozott ügyfél-átvilágítás során.
+
+- A (2) bekezdés a) pontjában szereplő vezetői jóváhagyás a szolgáltatók számára már ismert és alkalmazott intézkedés, amelyről azonban eddig a szolgáltatók a kiemelt közszereplők és a levelező kapcsolatok kivételével saját kockázatértékelésük alapján dönthettek. tekintettel arra, azonban, hogy a kockázati szint megállapítása is számos esetben a szolgáltatókon múlik, nem indokolt, hogy magas kockázat esetén ez a megerősített intézkedés a szolgáltató saját értékelése alapján esetleg mellőzésre kerüljön.
+
+- A (2) bekezdés b) pontjában szereplő megerősített eljárás a szolgáltatók számára már ismert és alkalmazott intézkedés, amelyről azonban eddig a szolgáltatók a kiemelt közszereplők kivételével saját kockázatértékelésük alapján dönthettek. tekintettel arra, azonban, hogy a kockázati szint megállapítása is számos esetben a szolgáltatókon múlik, nem indokolt, hogy magas kockázat esetén ez a megerősített intézkedés a szolgáltató saját értékelése alapján esetleg mellőzésre kerüljön.
+
+Ezen túlmenően a szolgáltató a  16. § (3) bekezdésében meghatározott további intézkedéseket is alkalmazhat vagy meghatározhat belső szabályzatában.
+
+- A (3) bekezdés a) pontjában szereplő vagyon forrására vonatkozó információk beszerzésére vonatkozó kötelezettség hasonló a pénzeszköz forrásának beszerzése érdekében alkalmazott intézkedéshez (amely a szolgáltatók számára már ismert és korábban is alkalmazásra került, és amelyről azonban eddig a szolgáltatók a kiemelt közszereplők kivételével saját kockázatértékelésük alapján dönthettek). Az intézkedés szükségességét igazolja, hogy az ügyfélkapcsolatok létesítésénél számos esetben nem történik pénzmozgás, vagyis ebben az esetben az ügyfél csak arról tud érdemi információt szolgáltatni, hogy milyen vagyon fogja szolgálni jövőbeli ügyletei végrehajtását. A nemzetközi elvárások a nyilatkozatok beszerzését már az ügyfélkapcsolat létesítésnél megkövetelik, ami nem teszi lehetővé számos esetben, hogy ebben az időpontban az ügyfél már tényleges pénzeszköz forrásáról tudjon beszámolni. A pénzeszköz forrása ugyanis az egyes ügyletek tényleges forrását kívánja feltérképezni, ahol nem feltétlenül az ügyfél vagyona fogja ezt szolgálni.
+
+- A (3) bekezdés b) pontjában szereplő tényleges tulajdonos megerősített személyazonosság igazoló ellenőrzésének előírását az a tény indokolja, hogy a tényleges tulajdonosok személyes bevonása az ügyfél-átvilágítás folyamatába jelentősen segíti a szolgáltatót abban, hogy kiszűrhesse, hogy sor kerül-e esetlegesen strómanok alkalmazására és a tényleges tulajdonosok személyazonosság ellenőrzését a legnagyobb megbízhatósággal tudja elvégezni.
+
+- A (3) bekezdés c) pontja pedig lehetővé teszi, hogy a szolgáltató a belső szabályzatában határozzon meg további intézkedéseket.
+
+A tervezet tehát egyértelművé teszi, hogy mikor kell fokozott ügyfél-átvilágítást végezni és melyek azok a kötelezően alkalmazandó, valamint a szolgáltató döntése alapján alkalmazható intézkedések, amelyek magas kockázat esetén elvártak, vagy a szolgáltató döntése alapján alkalmazhatóak.
+
+Az 5. irányelv 1. cikk 10. bekezdés a) pontja [amely a 4. irányelv 18. cikk (1) bekezdését módosítja] pontosító jellegű rendelkezéseket tartalmaz a fokozott ügyfél-átvilágítás esetkörei vonatkozásában.
+
+A tervezet az 5. irányelv ezen rendelkezésére tekintettel is (a fent leírtak szerint) pontosítja a Pmt. jelenlegi rendelkezéseit, egyértelművé téve, hogy a szolgáltató mely esetekben és intézkedések esetén köteles fokozott ügyfél-átvilágítási intézkedéseket alkalmazni: stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országból származó ügyfél; távollévő ügyfél; kiemelt közszereplő ügyfél (vagy tényleges tulajdonos); valamint a szolgáltató belső szabályzatában és a felügyeletet ellátó szerv által kiadott útmutatóban rögzített esetekben.
+
+Az 5. irányelv 1. cikk 11. bekezdés a) pontja (amely a 4. irányelv 18. cikkét módosítja egy új 18a. cikk beillesztésével) új rendelkezésként szigorítja a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országból származó ügyfelekkel szembeni eljárásokat és konkrétan meghatározott (kötelező és opcionális) fokozott ügyfél-átvilágítási intézkedések alkalmazását írja elő a kockázatok megfelelő kezelése és enyhítése céljából. ezen fokozott ügyfél-átvilágítási intézkedések: 
+
+1. kötelező (a tagállami átültető jogszabályban taxatíve meghatározott);
+
+2. opcionális (a tagállami átültető jogszabályban meghatározott, de a szolgáltató által választható); valamint
+
+3. egyéb (a tagállami átültető jogszabályban a tagállam döntése alapján meghatározott) elemeket foglalnak magukban.
+
+A Pmt. 16. §-a a 4. irányelv rendelkezéseinek megfelelően kimondja, hogy a szolgáltató fokozott ügyfél-átvilágítási intézkedéseket köteles alkalmazni, ha az ügyfele stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országból származik. A Pmt. azonban nem határoz meg konkrét intézkedéseket, hanem a szolgáltató a belső szabályzatában meghatározott fokozott ügyfél-átvilágítási intézkedéseket köteles elvégezni ebben az esetben. Az 5. irányelv alapján ezen rendszer átalakítása szükséges.
+
+Fentiek alapján a tervezet kiegészíti a fokozott ügyfél-átvilágításra vonatkozó rendelkezéseket a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országokat érintő üzleti kapcsolatok vagy ügyletek vonatkozásában végrehajtandó konkrét ügyfél-átvilágítási intézkedések meghatározása érdekében.
+
+A tervezet alapján a szolgáltató az ezen ügyfelekkel történő üzleti kapcsolat létesítése vagy az ügyleti megbízás végrehajtása előtt a törvényben konkrétan meghatározott intézkedések elvégzésére köteles (amelyek az 5. irányelv rendelkezéseinek megfelelően három kategóriába sorolhatóak):
+
+- a szolgáltató a következő intézkedéseket köteles alkalmazni: a belső szabályzatában meghatározott további információk rendelkezésre bocsátását kérni (az ügyfélre és a tényleges tulajdonosra; az üzleti kapcsolatra; az ügyfél és a tényleges tulajdonos pénzeszközei és a vagyona forrására; a végrehajtandó vagy végrehajtott ügyletek indokaira vonatkozóan); az üzleti kapcsolat létesítését, az ügyleti megbízás teljesítését vezető jóváhagyásához kötni; valamint az üzleti kapcsolat folyamatos figyelemmel kísérését megerősített eljárásban végrehajtani;
+
+- a szolgáltató a következő intézkedéseket alkalmazhatja: a belső szabályzatában meghatározott fokozott ügyfél-átvilágítási intézkedések elvégzése; jelentéstételi kötelezettség bevezetése; vagy a belső szabályzatában meghatározott korlátozások alkalmazása; valamint
+
+- a hitelintézet és a pénzügyi szolgáltató köteles: a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országban székhellyel rendelkező szolgáltatóval létesített levelező kapcsolatát felülvizsgálni és szükség esetén módosítani.
+
+Az 5. irányelv rendelkezéseinek megfelelően a tervezet rendelkezik arról, hogy a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter köteles tájékoztatni az európai Bizottságot a törvényben meghatározott ezen intézkedésekről.
+
+A 17. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált a közjegyző, vagy a konzul által hitelesített okirattal történt távoli ügyfél-azonosításra vonatkozó rendelkezések pontosítása és annak egyértelművé tétele, hogy az ezen szakaszban meghatározottak abban az esetben alkalmazandóak, ha a az átvilágítás lefolytatására nem a szolgáltató által üzemeltetett, biztonságos, védett, előzetesen auditált elektronikus hírközlő eszköz útján kerül sor.
+
+Ezen túlmenően indokolt a Pmt. 17. § (3) és (4) bekezdésének törlése (amely lehetőséget adott az okirat hiteles másolata bekérésének mellőzésére és arra, hogy a szolgáltató az ügyfél-átvilágítás során a belső szabályzatában rögzített fokozott ügyfél-átvilágítási intézkedéseket végezze el). A Pmt. 17. § (3) és (4) bekezdés olyan lehetőséget biztosítana a szolgáltatók számára, amelynek fenntartása a jelenlegi dinamikus ügyfél-átvilágítási rendszerben nem indokolt, mivel az új, átdolgozott egyszerűsített ügyfél-átvilágításnál is egyszerűbb átvilágítási lehetőséget biztosítana.
+
+A 18. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az ügyfél-átvilágítási kötelezettség egyes elemei pontosítása, egyértelművé tétele.
+
+A tervezet a Pmt.-t a 22. § (1a) bekezdéssel egészíti ki, amelynek célja annak egyértelművé tétele, hogy az ügyfél-átvilágítás eredménye elfogadásának nem jelenti akadályát, ha a vonatkozó okiratok és adatok köre nem egyezik meg a Pmt.-ben meghatározottakkal.
+
+A 4. irányelv (28. cikke) alapján, a szolgáltatói csoporton belüli ügyfél-átvilágítási intézkedések átvételére vonatkozó előírás kapcsán indokolttá vált a Pmt. vonatkozó rendelkezéseinek pontosítása.
+
+Erre tekintettel a tervezet kiegészíti a más szolgáltató által elvégzett ügyfél-átvilágítási intézkedések átvételére vonatkozó rendelkezéseket a szolgáltatói csoporton belüli átvételhez kapcsolódó speciális követelményekkel: a szolgáltató abban esetben jogosult elfogadni az ügyfél-átvilágítás eredményét az ugyanazon csoporthoz tartozó szolgáltatótól, ha a csoport tagjai az e törvényben megállapított vagy azokkal egyenértékű ügyfél-átvilágítási és nyilvántartási követelményeket alkalmaznak, valamint ha ennek végrehajtását a székhely szerinti tagállam vagy harmadik ország illetékes hatósága csoportszinten felügyeli.
+
+A 19. §-hoz
+
+Mivel a 24. § második fordulata (amely kimondja, hogy a 7-10. §-ban meghatározott ügyfél-átvilágítás eredményének rendelkezésre bocsátása és elfogadása vonatkozásában a kiszervezett tevékenységet végző, illetve az ügynök a szolgáltató résznek minősül) adott esetben az adott szolgáltatóra vonatkozó ágazati jogszabály kiszervezésre vonatkozó rendelkezéseivel ellentétbe kerülhet, ezen ellentét feloldása érdekében szükséges a hivatkozott fordulat törlése.
+
+A 20. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az ügyfél-átvilágításra vonatkozó intézkedések felülvizsgálata és a dinamikus ügyfél-átvilágítási koncepció elfogadása, majd az alapján a Pmt. módosítása. A kockázati szintekhez igazított egyszerűsített, normál és fokozott ügyfél-átvilágítási intézkedések mellett szükségessé vált egy speciális ügyfél-átvilágítási kategória megteremtése is a Pmt.-ben, amely egy új alcím beiktatásával valósul meg. Itt kerülnek meghatározásra a 4. irányelv által előírt, konkrét intézkedéseket tartalmazó rendelkezések: pl. levelező banki kapcsolatra vonatkozó elvárások, illetve az elektronikus pénzre vonatkozó speciális rendelkezések.
+
+A „7/A. speciális ügyfél-átvilágítási intézkedések” fejezetben olyan intézkedések szerepelnek, amelyek a háromszintű ügyfél-átvilágítástól (és a megerősített eljárástól) speciálisabb szabályokat tartalmaznak.
+
+I. A Pmt.-ben már jelenleg is szereplő banki levelező kapcsolat a tervezetben új helyen, a 24/A. §-ban jelenik meg - a 4. irányelvben meghatározott fokozott intézkedések fenntartásával - tekintettel arra is, hogy speciális ügyfélkapcsolatról rendelkezik, tehát nem ügyfél és szolgáltató kapcsolat, hanem szolgáltató és szolgáltató közötti levelezőkapcsolat áll fenn.
+
+Fentieken túlmenően az 5. irányelv 1. cikk 12. bekezdése (amely a 4. irányelv 19. cikkét módosítja) pontosítja a hatálya alá tartozó levelezőbanki kapcsolatok fogalmát.
+
+Ez alapján a tervezet egyértelművé teszi, hogy a hitelintézet és a pénzügyi szolgáltató külföldi székhelyű szolgáltatóval történő, pénzösszeg kifizetését is magában foglaló levelező kapcsolat létesítését megelőzően köteles a törvényben meghatározott fokozott ügyfél-átvilágítási intézkedéseket elvégezni.
+
+A 4. irányelv [19. cikk d) pontja] alapján, a levelező kapcsolatok létesítésére vonatkozó rendelkezés kapcsán is indokolttá vált a Pmt. rendelkezéseinek pontosítása.
+
+Erre tekintettel a tervezet kiegészíti a levelező kapcsolat létesítését megelőzően elvégzendő intézkedések listáját és új rendelkezésként kimondja, hogy a szolgáltató köteles a levelező kapcsolat vonatkozásában a saját és a külföldi székhelyű szolgáltató felelősségi körét is rögzíteni.
+
+II. ezen túlmenően az intézkedések a 24/B. § bevezetésével azt a célt szolgálják, hogy az üzleti életben egyre összetettebb jogviszonyok vonatkozásában irányt mutassanak azokra az esetekre, ahol egy tartós jogviszonyban egyszerre több ügyfél szerepel. A norma azt várja el a szolgáltatóktól, hogy az ügyfeleket egy azonos jogviszonyban ne egymástól elszigetelten kezeljék, hanem az egyik ügyfélnél kockázatot fokozó tényezőt a másik azonos jogviszonyban szereplő ügyfélnél is vegyék figyelembe
+
+III. A dinamikus ügyfél-átvilágítási koncepció alapján az elektronikus pénzre vonatkozó rendelkezések a speciális ügyfél-átvilágítási intézkedésekről rendelkező fejezet 24/C. §-ába kerülnek áthelyezésre.
+
+Ezen túlmenően az 5. irányelv az elektronikus pénz tárolására szolgáló készpénz-helyettesítő fizetési eszköz vonatkozásában a magas terrorizmus-finanszírozási kockázatokra tekintettel az anonimitás elkerülése/feloldása érdekében további intézkedéseket vezet be az értékhatárok csökkentésével (ezáltal a szabályozás szigorításával). Az 5. irányelv 7. bekezdése (amely a 4. irányelv 12. cikkét módosítja) az elektronikus pénz vonatkozásában alapvetően azon küszöbértékeket (250 Eur-ról 150 Eur-ra) és készpénzre váltás esetén azon maximális összegeket (100 Eur-ról 50 Eur-ra) csökkenti, amely alatt a szolgáltatók egyszerűsített ügyfél-átvilágítást alkalmazhatnak.
+
+Az 5. irányelv 7. bekezdés a) pontja alapján módosulnak az elektronikus pénz vonatkozásában alkalmazandó küszöbértékek (250 Eur-ról 150 Eur-ra), törlésre kerül továbbá azon rendelkezés, amely szerint a tagállamok 500 Eur-ra emelhetik a kizárólag az adott tagállamban használható készpénz-helyettesítő fizetési eszközök vonatkozásában a maximális összeget.
+
+A Pmt. 15. § (3) bekezdése a 4. irányelv rendelkezései alapján kimondja, hogy elektronikus pénz esetén a szolgáltató egyszerűsített ügyfél-átvilágítást alkalmaz, azaz csak az üzleti kapcsolat folyamatos figyelemmel kísérését (monitoring) köteles elvégezni, valamint köteles az ügyfélre vonatkozóan a törvényben az ügyfél-átvilágítás vonatkozásában - a 7. § (2) bekezdésében - meghatározott adatokat rögzíteni, valamint a személyazonosság igazoló ellenőrzése érdekében - a 7. § (3) bekezdésében - meghatározott okiratok bemutatását megkövetelni, abban az esetben, ha a törvényben meghatározott (konjunktív) feltételek fennállnak. Két konjunktív feltétel a 4. irányelvnek megfelelő összeghatárt tartalmaz: az elektronikus pénz tárolására szolgáló készpénz helyettesítő fizetési eszköz nem újra feltölthető vagy újra feltölthető, de legfeljebb havi hatvanötezer forint összegű - kizárólag Magyarország területén felhasználható fizetési műveletre vonatkozó - felső korláttal rendelkezik; az elektronikus pénz elektronikusan tárolt mindenkori összege nem haladja meg a hatvanötezer forintot.
+
+Az 5. irányelv új (alacsonyabb) értékhatárainak megfelelően a tervezet módosítja a Pmt. 15. § (3) bekezdés a) és b) pontjában meghatározott összeghatárokat hatvanötezer forintról negyvenötezer forintra.
+
+(A Pmt. nem rendelkezik az adott tagállamban használható készpénz-helyettesítő fizetési eszközök vonatkozásában a maximális összeg 500 Eur-nak megfelelő összegre történő emeléséről, így ezen rendelkezés 4. irányelvből történő törlése nem igényli a Pmt. módosítását.)
+
+Az 5. irányelv 7. bekezdés b) pontja alapján csökkenek a készpénzre váltás esetén azon maximális összegek (100 Eur-ról 50 Eur-ra), amely alatt a szolgáltatók egyszerűsített ügyfél-átvilágítást alkalmazhatnak. ezen túlmenően új elemként az 50 Eur küszöbérték a távoli fizetési műveletek esetében is kimondásra kerül.
+
+A Pmt. 15. § (4) bekezdése a 4. irányelv rendelkezései alapján rendelkezik arról, hogy a szolgáltató valamennyi ügyfél-átvilágítási intézkedést köteles elvégezni, ha az elektronikuspénz-birtokos által a részére kibocsátott összegből készpénzben kivett vagy készpénzre beváltott összeg meghaladja a huszonötezer forintot.
+
+Az 5. irányelv új (alacsonyabb) értékhatárainak megfelelően a tervezet módosítja a Pmt. 15. § (4) bekezdésében meghatározott összeghatárt huszonötezer forintról tizenötezer forintra. Az 5. irányelv rendelkezéseinek megfelelően a tervezet (a bekezdés új ponttal történő kiegészítésével) új elemként rendelkezik továbbá a távoli fizetési műveletekről: távoli fizetési műveletek esetében a szolgáltató valamennyi ügyfél-átvilágítási intézkedést köteles elvégezni, ha a kifizetett összeg műveletenként meghaladja a tizenötezer forintot.
+
+Az 5. irányelv 7. bekezdés c) pontja kimondja (új rendelkezésként), hogy a harmadik országban kibocsátott nem névre szóló feltöltőkártyákkal végrehajtott fizetéseket kizárólag abban az esetben fogadhatóak el, ha ezen kártyák eleget tesznek az elektronikus pénz és a távoli fizetési műveletek vonatkozásában meghatározott egyenértékű követelményeknek.
+
+Erre tekintettel a tervezet új rendelkezést vezet be ebben a vonatkozásban (egy új bekezdés beiktatásával), amely kimondja: a harmadik országban székhellyel, fiókteleppel vagy telephellyel rendelkező szolgáltató által kibocsátott nem névre szóló elektronikus pénz tárolására szolgáló készpénz-helyettesítő fizetési eszközről fizetés csak abban az esetben fogadható el, ha az megfelel az elektronikus pénz és a távoli fizetési műveletek vonatkozásában meghatározott vagy azokkal egyenértékű követelményeknek.
+
+Az előterjesztő nem tartja indokoltnak az 5. irányelvben meghatározottakhoz képest alacsonyabb értékhatárok bevezetését, azaz a szabályozás további szigorítását ebben a vonatkozásban.
+
+A 21. §-hoz
+
+A pénzmosás és a terrorizmus finanszírozása elleni fellépés egyik kulcseleme, hogy a nem természetes személy ügyfelek (szervezetek) esetében is ismert legyen azok tényleges tulajdonosa. Az 5. irányelv alapján létrejön a tényleges tulajdonosi információk központi nyilvántartása; a tényleges tulajdonosi adatok szolgáltatása az érintett szervezetek kötelezettsége lesz. A nem természetes személyeknek már a hatályos szabályozás alapján is ismerniük kell tényleges tulajdonosaikat, így adatgyűjtési szempontból az új rendszer számukra többletterhet nem jelent.
+
+Az 5. irányelv alapján a kötelezett szolgáltatóknak és - adott esetben, és amennyiben e követelmény nem avatkozik bele szükségtelenül a feladataikba - az illetékes hatóságoknak jelenteniük kell, ha bármilyen eltérést észlelnek a tényleges tulajdonosokra vonatkozóan a központi nyilvántartásokban található, illetve a rendelkezésükre álló információk között. eltérésekre vonatkozó jelentés esetén az eltérések időben történő rendezését szolgáló megfelelő intézkedésekre kell, hogy sor kerüljön és ezt időközben az eltérést külön jelezni kell a központi nyilvántartásban is.
+
+A Pmt. 25. § (2) bekezdése azért került módosításra, mert indokolt, hogy a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve is hozzáférjen a központi nyilvántartáshoz. A felügyeletet ellátó szerv és a hatóságok hozzáférése a központi nyilvántartáshoz korlátlan, ez a korlátlan hozzáférés azonban csak a Pmt.-ben kötelezettségei ellátása érdekében valósulhat meg.
+
+Az 5. irányelv alapján biztosítani kell, hogy minden esetben hozzáférjenek a tényleges tulajdonosra vonatkozó információkhoz az illetékes hatóságok és a pénzügyi információs egység korlátozás nélkül, a kötelezett szolgáltatók az ügyfél-átvilágítás keretében, míg a lakosság minimálisan a tényleges tulajdonos nevére, születési évére és hónapjára, a tartózkodási helye szerinti ország nevére és a tényleges tulajdonos állampolgárságára, valamint a tényleges tulajdonosi érdekeltség jellegére és mértékére vonatkozó adatokhoz kapjon hozzáférést. A magyar szabályozás az irányelv mimimumszabályához képest a tényleges tulajdonos születési évének és hónapjának megismerése helyett lehetővé teszi a tényleges tulajdonos születési idejének, tehát évének, hónapjának és napjának megismerését, mivel Magyarországon általánosan a születési időt használják adatként, nem pedig a születési év és hónap megjelölést.
+
+A tényleges tulajdonosi nyilvántartásból történő adatigénylés esetén a bizalmi vagyonkezelési jogviszony tényleges tulajdonosaira eltérő adatszolgáltatási szabályok vonatkoznak az irányelv 31. cikk (4) bekezdésével összhangban.
+
+A tagállamok a nemzeti jogban meghatározandó kivételes körülmények között eseti alapon részben korlátozhatják a központi nyilvántartáshoz való hozzáférést, azonban az ilyen esetekben is biztosítani kell, hogy a közigazgatási felülvizsgálatához és a hatékony jogorvoslathoz való jogot.
+
+A 22. §-hoz
+
+Az átláthatóság biztosítása érdekében az 5. irányelv alapján szükséges kialakítani központi nyilvántartást, amely segítségével azonosíthatók a hitelintézetek által az adott tagállam területén kezelt, fizetési számlával vagy bankszámlával, illetve széffel rendelkező vagy ezek felett ellenőrzést gyakorló természetes vagy jogi személyek. Az új rendelkezésnek megfelelően e nyilvántartásban meg kell jelennie a számlatulajdonos ügyfél és a nevében eljárni kívánó bármely személy nevének, tényleges tulajdonosának nevének, bank- vagy fizetési számla tekintetében a számla (IBAn-) azonosító számának, valamint a számlanyitás és -zárás dátumának; széf esetén a bérlő nevének és a bérleti időszaknak.
+
+A 23. §-hoz
+
+A törvénymódosítás alapján új szerkezetben jelennek meg a Pmt. alapján alkalmazható felügyeleti szankciós intézkedések. A tartalmilag helyes hivatkozás biztosítása érdekében (a Pmt. belső koherenciáját fenntartandó) szükséges a 26. § (10) bekezdésében szereplő hivatkozás pontosítása: a hatályos 69. § (6)-(7) bekezdésben szereplő rendelkezések törvénymódosítást követően a 69. § (5)-(6) bekezdésében szerepelnek.
+
+A 24. §-hoz
+
+A 4. irányelv [8. cikk (4) bekezdés b) pontja] alapján, a független ellenőrzési funkciót megkövetelő rendelkezés kapcsán indokolttá vált a Pmt. vonatkozó rendelkezéseinek pontosítása.
+
+Erre tekintettel a tervezet kiegészíti a Pmt. által meghatározott azon kötelezettséget, amely szerint a szolgáltató köteles a belső kockázatértékelése alapján a belső szabályzatban (a szolgáltató jellegével és méretével arányos) belső eljárásrendet meghatározni (a kockázatok csökkentése és kezelése érdekében). Az új rendelkezés alapján ezen kötelezettség kiegészül egy külső ellenőrzési funkció működtetésére vonatkozó kötelezettséggel a belső eljárásrend megfelelőségének ellenőrzése céljából (ha mindezt a szolgáltató jellege és mérete indokolja).
+
+A 25. §-hoz
+
+Az 5. irányelv 1. cikk 4. pontja alapján vált szükségessé a Pmt. vonatkozó rendelkezéseinek pontosítása.
+
+A 26. §-hoz
+
+A tervezetben a 30. § c) pontjában foglalt írásbeli bejelentés pontosító célú módosítás, amely a Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján vált szükségessé.
+
+A 27. §-hoz
+
+A Pmt. 33. §-ában a központi kapcsolattartó ponttal történő kiegészítés célja a Pmt. 61. §-ban foglalt rendelkezések összhangjának megteremtése.
+
+Az 5. irányelv előírja, hogy azok a magánszemélyek - ideértve a szolgáltató alkalmazottait és képviselőit -, akik belső eljárások révén vagy a pénzügyi információs egységnek pénzmosás vagy terrorizmusfinanszírozás gyanúját jelentik be, jogi védelemben részesüljenek a fenyegetésekkel, a megtorló vagy ellenséges fellépésekkel és különösen a munkáltató kedvezőtlen vagy megkülönböztető jellegű intézkedéseivel szemben. Biztosítani kell, hogy azok a magánszemélyek, akik a fenyegetéseknek, megtorló vagy ellenséges fellépéseknek vagy a munkáltató kedvezőtlen vagy megkülönböztető jellegű intézkedéseinek vannak kitéve amiatt, hogy belső eljárások révén vagy a pénzügyi információs egységnek pénzmosás vagy terrorizmusfinanszírozás gyanúját jelentik be, biztonságos módon tehessenek panaszt az érintett illetékes hatóságoknak. ennek megfelelően a Pmt. 33. § (2) bekezdése jogellenesnek mond ki minden, a belső szabályzat alapján vagy a pénzügyi információs egységnek pénzmosás vagy terrorizmus finanszírozása gyanúja miatt tett bejelentés következtében meghozott, a bejelentő - ideértve a szolgáltató alkalmazottait és képviselőit - számára hátrányos intézkedést. szintén biztosítani kell azt is - a pénzügyi információs egység által gyűjtött információk bizalmasságának sérelme nélkül - hogy az említett magánszemélyeknek joguk legyen a hatékony jogorvoslathoz az e bekezdés szerinti jogaik védelme érdekében, ezért a Pmt. 33. § (3) bekezdés alapján a bejelentő, illetve a kötelezett szolgáltató alkalmazottai és képviselői panaszt, illetve jogorvoslati kérelmet terjeszthetnek elő a hátrányos intézkedéssel szemben.
+
+A 28. §-hoz
+
+A pénzügyi információs egység a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint bűncselekmények megelőzésének, felderítésének, nyomozásának elősegítése céljából elemző-értékelő tevékenységet folytat, melynek keretében operatív és stratégiai elemzést végez. A korábbi törvényi szabályozás szerint a pénzügyi információs egység elemzése során a rendelkezésére álló adatok, információk felhasználásával vizsgálta a pénzmosás és a terrorizmus finanszírozásával kapcsolatos folyamatokat és jellemzőket. A stratégiai elemzés során természetesen felhasználhatóak voltak az operatív elemzés eredményeként rendelkezésre álló adatok, információk. Ugyanakkor a stratégiai elemzés során nem álltak rendelkezésre azon jogosultságok (közvetlenül elérhető adatbázisból lekérdezés, megkeresés által adatok, információk beszerzése) a pénzügyi információs egység részére, amelyek az operatív elemzés során rendelkezésre állnak. erre tekintettel a minél hatékonyabb és célzottabb stratégiai elemzés lehetőségének megteremtése érdekében fontos, hogy a stratégiai elemzés során ugyanazon jogosultságok, információ források legyenek biztosítva a pénzügyi információs egység számára, mint amely jogosultságok részére az operatív elemzése során rendelkezésre állnak.
+
+A Pmt. 44. § (1) bekezdése értelmében a pénzügyi információs egység operatív elemzése keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni a nyomozó hatóság, az ügyészség, a nemzetbiztonsági szolgálat, a nemzeti Védelmi szolgálat, valamint a terrorelhárítási Központ által kezelt adatot. A Pmt. 44. § (3) bekezdése alapján - a 44. § (2) bekezdésben meghatározott adatszolgáltatás igénylése mellett (megkeresés) - a pénzügyi információs egység a NAV nyomozó hatósága adatbázisából közvetlen hozzáféréssel is vehet át adatot, amíg a 44. § (1) bekezdésben felsorolt többi szerv vonatkozásában erre nincs jogosultsága. A Pmt. 44. § (3) bekezdésének kiterjesztését a rendőrségre mint nyomozó hatóságra az tette szükségessé, hogy ily módon a pénzügyi információs egység a NAV nyomozó hatósága mellett a nyomozó hatóságként eljáró rendőrség adatbázisából is közvetlenül vehetne át adatot, mely a hatékonyság várható növekedése mellett összhangban van a hatóságok közötti szorosabb együttműködés kívánalmával is.
+
+A 29. §-hoz
+
+Mivel a minél hatékonyabb és célzottabb stratégiai elemzés lehetőségének megteremtése érdekében fontos, hogy a stratégiai elemzés során ugyanazon jogosultságok, információforrások legyenek biztosítva a pénzügyi információs egység számára, mint amely jogosultságok részére az operatív elemzése során rendelkezésre állnak, szükséges, hogy a stratégiai elemzés során szerzett információk felhasználására vonatkozó jogosultsággal a pénzügyi információs egység a Pmt. 47. §-a tekintetében is rendelkezzen. tekintettel arra, hogy a FATF követelményei és a 4. irányelv is a pénzügyi információs egység elemzéséhez kapcsolja a pénzügyi, bűnüldözési és adminisztratív információk megismerésére, beszerzésére vonatkozó felhatalmazást, e követelményeknek való megfelelés érdekében is szükséges, hogy a Pmt. a pénzügyi információs egység elemző-értékelő tevékenységéhez, és ne az operatív elemzéshez kapcsolja e felhatalmazást.
+
+A 30. §-hoz
+
+Az együttműködési megállapodás megkötését a pénzügyi információs egység tevékenysége során az elemző-értékelő tevékenység hatékonyságának növelése, valamint a hatékonyabb információtovábbítás megteremtésének lehetősége indokolja.
+
+A 31. §-hoz
+
+Az 5. irányelv alapján a pénzügyi információs egységeknek ki kell jelölniük legalább egy olyan kapcsolattartó személyt vagy pontot, amely a többi tagállam pénzügyi információs egységeitől érkező információkérések fogadásáért felelős. A Pmt. 49. § (6) bekezdésében ez a kötelezettség nem kizárólag az uniós pénzügyi információs egységektől érkező információkérések fogadására vonatkozik, de kiterjeszti az egyéb külföldi pénzügyi információs egységektől érkező információkérések fogadására is.
+
+A 32. §-hoz
+
+Az 5. irányelv alapján pénzmosás alapbűncselekményeinek az egyes tagállamok jogában szereplő eltérő meghatározása nem akadályozhatja a pénzügyi információs egységeket abban, hogy segítséget nyújtsanak más pénzügyi információs egységeknek, és nem korlátozhatja az információcserét, -továbbítást és -felhasználást, ezért a Pmt. 52. § (1) bekezdése kiegészült „az alapbűncselekmény típusától függetlenül” kifejezéssel.
+
+Az 5. irányelv előírja, hogy nem tiltható és nem sújtható ésszerűtlen vagy indokolatlanul korlátozó feltételekkel az illetékes hatóságok közötti információcseré és segítségnyújtás. Biztosítani kell, hogy az illetékes hatóságok ne utasítsák vissza a segítségnyújtás iránti kérést meghatározott okokból. Ilyen oknak minősül, ha
+
+a) a kérést úgy tekintik, hogy annak adóügyi vonatkozásai is vannak;
+
+b) a nemzeti jog titoktartási kötelezettséget vagy az adatok bizalmasságának megőrzésére vonatkozó kötelezettséget ír elő a kötelezett szolgáltatók számára, kivéve azokat az eseteket, amikor a keresett releváns információ ügyvédi titoktartási kötelezettség vagy jogszabályon alapuló szakmai titoktartási kötelezettség hatálya alá tartozik a 34. cikk (2) bekezdésében leírtak szerint;
+
+c) a kérést fogadó tagállamban vizsgálat, nyomozás vagy eljárás van folyamatban, kivéve, ha a segítségnyújtás hátráltatná az említett vizsgálatot, nyomozást vagy eljárást;
+
+d) a kérést benyújtó azonos hatáskörű illetékes hatóság jellege vagy jogállása eltér a kérést fogadó illetékes hatóságétól.
+
+A 33. §-hoz
+
+A 4. irányelv [39. cikk (6) bekezdése] alapján, a felfedés tilalmának korlátozására vonatkozó előírás kapcsán indokolttá vált a Pmt. vonatkozó rendelkezéseinek pontosítása, annak egyértelművé tétele érdekében, hogy ha a szolgáltató megkísérli meggyőzni az ügyfelét arról, hogy hagyjon fel valamely jogellenes tevékenységgel, az nem minősül felfedésnek.
+
+Erre tekintettel a tervezet új rendelkezésként kimondja, hogy a könyvvizsgáló, a könyvelő, az adószakértő, az adótanácsadó, az ügyvéd, a kamarai jogtanácsos és a közjegyző esetében a felfedés tilalma nem vonatkozik az ügyfél tájékoztatására arra vonatkozóan, hogy az ügyfél által végrehajtott vagy végrehajtandó ügylet jogszabályi rendelkezések megsértését eredményezi.
+
+Ezen felül az 5. irányelv alapján a tervezet rögzíti, hogy a felfedés tilalma nem akadályozza az információk felfedését az ugyanazon csoporthoz tartozó tagállami hitelintézetek és pénzügyi intézmények között, illetve ezen intézetek és intézmények és harmadik országokban letelepedett fióktelepeik és többségi tulajdonú leányvállalataik között, feltéve, hogy ezek a fióktelepek és többségi tulajdonú leányvállalatok maradéktalanul megfelelnek a csoportszintű politikáknak és eljárásoknak - beleértve az információ csoporton belüli megosztására vonatkozó eljárásokat is -, a csoportszintű politikák és eljárások pedig megfelelnek az 5. irányelvben meghatározott követelményeknek.
+
+A 34-35. §-hoz
+
+A konkrét jogszabályhelyi hivatkozás merev jellege adatkezelési jogalap hiányt eredményezhet, ha az alapjául szolgáló jogszabályhely módosul vagy más, adatkezelést maga után vonó új norma beépítésére kerül sor. Az adatkezelési felhatalmazást igénylő érdemi rendelkezések és a hozzájuk kapcsolódó adatkezelési felhatalmazás folyamatos párhuzamának megteremtése és fenntarthatósága érdekében indokolt a korábbi merev hivatkozás helyett rugalmas hivatkozás alkalmazása.
+
+A Pmt.-ben az uniós szabályozásra épülő, forintban meghatározott összeghatárainak rögzítésére 2007-ben került sor. Az összeghatárok valós folyamatokhoz való kiigazítása érdekében, figyelemmel az eltelt időszak gazdasági- pénzügyi folyamataira, indokolt az értékhatárok felfelé korrigálása oly módon, hogy az az euró/forint árfolyam esetleges jövőbeni változása esetén sem okozhassa az EU-szabályozásban rögzítettek megsértését.
+
+A 36. §-hoz
+
+A tervezetben a Pmt. módosítása vált szükségessé az 5. irányelv 1. cikk 27. pontjában meghatározott rendelkezések folyamán. A megtett módosítások egyrészt pontosítják a Pmt. eddigi rendelkezéseit, másrészt pedig két esetben a statisztikák tartalmát bővítik.
+
+A törvényjavaslat alapján a felügyeleti szervek által készítendő statisztikai nyilvántartást ki kell egészíteni a Pmt. szerinti felügyeleti tevékenység ellátásában közreműködő foglalkoztatottak számával, valamint a helyszíni és helyszínen kívüli vizsgálatok számával, az intézkedések számával, és a beazonosított jogsértések számával. A pénzmosás és terrorizmus finanszírozása elleni központi statisztikát vezető pénzügyi információs egységhez ezen új adatokat is el kell juttatni, emiatt szükséges a hivatkozás kibővítése a Pmt. 59. § (2) bekezdésének j) és k) pontjaival.
+
+A 37. §-hoz
+
+A tervezetben a Pmt. kiegészül az 59/A. §-sal, amelynek a célja, hogy a Pmt.-ben előírt kötelezettségek teljesítése megfelelően dokumentált, nyomon követhető és ellenőrizhető legyen, azaz a felügyelet általi ellenőrizhetőséget biztosítja.
+
+A 38. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált a csoportszintű politikákra vonatkozó rendelkezések egyes elemei pontosítása, egyértelművé tétele.
+
+Összhangban a nemzetközi elvárásokkal, valamint a 4. irányelvben és a Pmt.-ben meghatározott követelmények hatékonyabb végrehajtása érdekében a Pmt. 60. § (2) bekezdésének pontosítása válik szükségessé, annak egyértelművé tétele érdekében, hogy az adatvédelmi rendelkezéseken, valamint a bejelentési, felfüggesztési és adatszolgáltatási kötelezettség során rögzített személyes adatokon túlmenően a csoportszintű rendelkezéseknek ki kell terjedniük az ügyfél-átvilágítási intézkedések során rögzített személyes adatok csoporton belüli megosztására is. ezen túlmenően a csoportszintű politikák és eljárások ki kell, hogy terjedjenek a Pmt.-ben meghatározott követelmények végrehajtását biztosító vezető kinevezésére, a képzésre, a külső ellenőrzési funkció meghatározására, továbbá a csoportszintű kockázatértékelés és a belső szabályzat elkészítésére.
+
+A tervezet által bevezetett 61. § (2) és (3) bekezdése a gyakorlati tapasztalatok alapján, illetve az (EU) 2015/849 európai parlamenti és tanácsi irányelvnek az elektronikuspénz-kibocsátók és a pénzforgalmi szolgáltatók központi kapcsolattartó pontjainak kijelölésével kapcsolatos kritériumokra vonatkozó szabályozástechnikai standardokkal és a központi kapcsolattartó pontok feladataira vonatkozó szabályokkal történő kiegészítéséről szóló 2018. május 7-i (EU) 2018/1108 felhatalmazáson alapuló bizottsági rendelet követelményeinek megfelelően megteremti a központi kapcsolattartó pont kijelölésének feltételrendszerét és meghatározza feladatait. A tervezet egyértelművé teszi, hogy az EU más tagállamában fiókteleppel, leányvállalattal vagy telephellyel rendelkező szolgáltatónak gondoskodnia kell arról, hogy e szervezeti egységei - a csoportszintű politikában rögzítettekkel párhuzamosan - a fióktelep, leányvállalat vagy telephely tagállamának pénzmosás és terrorizmus finanszírozása elleni szabályait is betartják. A határon átnyúló szolgáltatást nyújtó elektronikuspénz-kibocsátók és a pénzforgalmi szolgáltatók a tervezet által bevezetett 1. § (1a) bekezdés alapján tartoznak a Pmt. hatálya alá. A központi kapcsolattartó pontok pedig a tervezet által bevezetett 61. § alapján, viszont kizárólag a 61. § (3) bekezdésében meghatározott kötelezettségek végrehajtása tekintetében.
+
+A Pmt.-ben meghatározott követelmények hatékonyabb végrehajtása érdekében vált szükségessé a Pmt. 62. § (1) bekezdésének módosítása is.
+
+Ezen túlmenően az 5. irányelv 1. cikk 28. bekezdése [amely a 4. irányelv 45. cikk (4) bekezdését módosítja] egy új rendelkezéssel egészíti ki a tagállamok és a felügyeleti hatóságok arra vonatkozó kötelezettségét, hogy tájékoztatják egymást azokról az esetekről, amikor egy harmadik ország joga nem teszi lehetővé a csoportszintű politikák és eljárások végrehajtását. Az új rendelkezés szerint annak értékelése során, hogy melyik harmadik ország joga nem teszi lehetővé a csoportszintű politikák és eljárások végrehajtását, a tagállamok és az európai felügyeleti hatóságok figyelembe vesznek minden olyan jogi korlátot, amely akadályozhatja az említett politikák és eljárások megfelelő végrehajtását, ideértve a titoktartást, az adatvédelmet és az információcserét akadályozó egyéb korlátokat.
+
+A Pmt. 62. § (3)-(4) bekezdése a 4. irányelv rendelkezéseinek megfelelően kimondja azon kötelezettséget, hogy amennyiben a harmadik ország jogi szabályozása nem teszi lehetővé a csoportszintű politikák és eljárások végrehajtását, akkor a szolgáltató erről a körülményről tájékoztatja a felette felügyeletet ellátó szervet, amely haladéktalanul továbbítja ezen információkat a miniszternek, a miniszter pedig tájékoztatja a Bizottságot és a többi tagállamot.
+
+Fentiek alapján a tervezet egyértelművé teszi, hogy a harmadik ország jogi szabályozásának értékelése során különös tekintettel kell lenni a titokvédelemre, adatvédelemre és az adatszolgáltatás teljesítésére vonatkozó szabályozásra.
+
+A 39. §-hoz
+
+A gyakorlati tapasztalatok alapján a belső ellenőrző rendszer 3 különböző rendszer működtetését fedi le: az ügyfél-átvilágítást elősegítő ügyfél nyilvántartási-rendszer, a bejelentés teljesítését és a monitoringot elősegítő szűrőrendszer, valamint a szolgáltató (vagy vezetője) által a Pmt.-ből eredő kötelezettség megsértésére vonatkozó szolgáltatón belüli névtelen bejelentés megtételét jelző rendszert. A tervezetben e szétválasztás teszi hatékonyabbá a belső ellenőrző és információs rendszer(ek) működtetésére vonatkozó elvárásokat.
+
+A nemzetközi elvárásokkal való összhang megteremtése érdekében a tervezet új rendelkezésként kimondja, hogy pénzügyi szolgáltatók esetében az a belső szabályzatban meghatározott vezető, aki a Pmt.-ből eredő kötelezettségeknek a szolgáltató foglalkoztatottja általi végrehajtásáért tartozik felelősséggel, a következő követelményeknek szükséges, hogy megfeleljen: a Pmt.-ből (és annak felhatalmazásán alapuló jogszabályból) eredő feladatok ellátásához szükséges megfelelő ismeretekkel rendelkezik, és az irányítási funkciót betöltő testületnek közvetlenül jelentési kötelezettséggel tartozik. A hitelintézet esetében ezen vezető a fentiekben említett feladatain túlmenően kizárólag jogszabály-megfelelőségi, illetve biztonsági feladatokat láthat el.
+
+A 40. §-hoz
+
+A belső szabályzatok felügyelet általi jóváhagyása tekintetében módosításra kerül a Pmt. 65. § (5) bekezdése. A jelenlegi szövegjavaslat célja a terminológia pontosítása, annak érdekében, hogy az még inkább lefedje a jelenlegi eljárást. A felügyeletet ellátó szerv a belső szabályzat jóváhagyása során az előírt szabályozói környezetet és törvényi megfelelést hivatott vizsgálni, míg az ellenőrzés során a hangsúly a belső szabályban rögzített gyakorlat ellenőrzésén van, és túlmutat annak ellenőrzésén, hogyan szerepel a belső szabályzatban egy adott tartalmi elem (túlmutat a rutinszerű, pontok kipipálását jelentő eljáráson). A felügyeletet ellátó szerv a belső szabályzatot a Pmt. rendelkezéseinek való megfelelés ellenőrzésére irányuló felügyeleti tevékenysége keretében ellenőrzi. A módosítással így összhangba kerülnek a Pmt. egyes rendelkezései, illetve feloldható a jóváhagyásból eredő bizonytalanság.
+
+A Pmt.-ben az uniós szabályozásra épülő, forintban meghatározott összeghatárainak rögzítésére 2007-ben került sor. Az összeghatárok valós folyamatokhoz való kiigazítása érdekében, figyelemmel az eltelt időszak gazdasági- pénzügyi folyamataira, indokolt az értékhatárok felfelé korrigálása oly módon, hogy az az euró/forint árfolyam esetleges jövőbeni változása esetén sem okozhassa az EU-szabályozásban rögzítettek megsértését. ennek megfelelően a tervezet meghatározza, hogy a szolgáltató az ügyfél-átvilágítást köteles alkalmazni az árukereskedő esetében a hárommillió forintot elérő vagy meghaladó összegű ügyleti megbízás készpénzben történő teljesítésekor. ezen változásra tekintettel szükségessé vált az árukereskedők vonatkozásában a belső szabályzat kereskedelmi hatósághoz történő benyújtásáról szóló rendelkezésben az összeg pontosítása.
+
+A 41. §-hoz
+
+A Pmt. 66. § egy új (5) bekezdéssel egészül ki, ugyanis az 5. irányelv 1. cikk 30. pontja előírja, hogy az eredményes együttműködés és különösen az információcsere elősegítése és előmozdítása érdekében a tagállamok közöljék a Bizottsággal az 5. irányelv 2. cikk (1) bekezdésében felsorolt kötelezett szolgáltatók illetékes hatóságainak listáját, ideértve azok elérhetőségeit.
+
+A 42. §-hoz
+
+A Pmt. 68. § egyértelművé teszi a pénzügyi szektor felügyeletének határon átnyúló aspektusainak kezelését. Az 5. irányelvben rögzítetteknek megfelelően az EU más tagállamában székhellyel rendelkező, de Magyarországon gazdasági jelenléttel bíró szolgáltatók felügyeletéről a magyar felügyeletnek kell gondoskodnia, és felügyeleti tevékenysége során együtt kell működnie a bankcsoportok más tagjait felügyelő hatóságokkal mind általánosságban, mind a konkrét, egyedi felügyeleti intézkedések során. A csoportszintű politikákra vonatkozó kötelezettségek teljesítésének és végrehajtásának felelőse a bankcsoporton belüli anyabankot felügyelő hatóság.
+
+A 43. §-hoz
+
+A gyakorlati tapasztalatok alapján szükségessé vált a Pmt. rendelkezéseinek megsértése esetén alkalmazható felügyeleti intézkedések felülvizsgálata és kibővítése.
+
+Tekintettel arra, hogy a Pmt.-n túlmenően más (rendeleti szintű) jogszabály is tartalmaz pénzmosás elleni küzdelemmel kapcsolatos normatív rendelkezéseket, illetve a felügyeleti határozatban foglalt intézkedések végrehajtásának támogatása érdekében, a Pmt. 69. (1) bekezdése kiegészül azokkal a tárgykörökkel, amiket a szolgáltató megsérthet és azzal összefüggésben a felügyeleti szerv intézkedést alkalmazhat.
+
+A Pmt. 69. (1) bekezdés h) pont ha) alpontjában pontosító jellegű módosítás történt.
+
+A Pmt. kiegészül a 69. (1) bekezdésben egy i) ponttal, ami a felügyeleti biztos kirendelése lehetőségével bővíti az MNB, mint felügyeleti szerv intézkedési körét a hatékonyabb felügyeleti fellépése érdekében. Hasonlóképpen szükséges a k) pont beillesztésével az adatszolgáltatásra kötelezés jogintézményének megteremtése, mint az MNB határozati kötelezéseinek teljesítése nyomon követésének alapvető eszköze.
+
+A Pmt. kiegészül a 69. (1) bekezdésben egy j) ponttal, hogy a felügyeleti szerv a vizsgálatait lezáró határozataiban jogszabálysértés esetén kötelezhesse a szolgáltatókat a jogszabályszerű működés biztosítása és ezáltal a jövőbeni jogszabálysértések megelőzéséhez szükséges személyi feltételeik megteremtésére.
+
+A 4. irányelv rendelkezéseivel [58. cikk (3) bekezdés] összhangban a Pmt. 69. § (1) bekezdés új l) pontja megteremti az MNB felügyelete alá tartozó szolgáltatói kör tekintetében a szolgáltató jogsértésért felelős vezetőjének, foglalkoztatottjának, segítő családtagjának személyes felelősséget, amelynek a célja, hogy az MNB, mint felügyeleti szerv ne csak az intézményt, hanem a jogsértésért felelős természetes személyt is egy szűkebb intézkedési körben - figyelmeztetéssel, a felelősségi körhöz illeszkedő mértékben maximált összegű pénzbírsággal − szankcionálhassa. A tervezet azt is egyértelművé teszi, hogy a természetes személyre kiszabott bírság megfizetését az intézmény nem vállalhatja át. A módosítás azonban nem érinti az összes felügyeleti szerv már létező jogkörét arra nézve, hogy a szolgáltatónál kezdeményezze a szolgáltató vezetője vagy a jogsértésért felelős foglalkoztatottja, segítő családtagja felelősségének megállapítását.
+
+A módosítás biztosítja továbbá, hogy a Pmt. hatálya alá tartozó valamennyi szolgáltató esetében a felügyeletet ellátó szerv jogosult legyen bírság kiszabására.
+
+A Pmt. 69. § új (2) bekezdése az MNB által felügyelt szolgáltatói kör vonatkozásában a pénzmosás és terrorizmus elleni fellépésre vonatkozó speciális védendő érdekekre figyelemmel − az Mnbtv.-ben meghatározott általános jellegű esetkörökön túlmenően − kiterjeszti az ideiglenes intézkedési lehetőség alkalmazásának esetkörét a gyors reagálás, hatékonyabb felügyeleti fellépés érdekében.
+
+A tervezet hatályon kívül helyezi a Pmt. 69. § (3)-(4) bekezdéseit. A rendelkezések törlését az indokolja, hogy a felügyeleti tapasztalatok alapján a középmérték hatályos szabályainak alkalmazása indokolatlanul magasra tolja a kiszabható bírság alsó értékét (3,2 milliárd forint), a jogérvényesítési gyakorlat során ez egy esetleges enyhítés kapcsán jelentős megoldási és indokolási nehézségeket okoz. A rendszer tehát a két szankciórendszer arányosság követelményeinek megfelelő párhuzamos alkalmazását gátolja.
+
+A tervezet a személyes felelősség intézményének bevezetése mellett a 4. irányelv további követelményeinek [60. cikk (5) bekezdés] való változatlan megfelelés érdekében a Pmt. 69. § (5) és (6) bekezdéseiben foglaltak módosításával egyértelművé teszi, hogy végső soron a szolgáltató felelősségre vonása a jogsértésért felelős vezetőjének, foglalkoztatottjának, segítő családtagjának személyes felelősségre vonása esetében sem kizárt.
+
+A módosítás alapján a Pmt. hatálya alá kerülő székhelyszolgáltatók esetében a felügyeletet ellátó szerv felügyeleti intézkedésként (szankcióként) jogosult a szolgáltató nyilvántartásból történő törlésére, abban az esetben, ha a szolgáltató megsérti vagy nem megfelelően alkalmazza a Pmt. rendelkezéseit.
+
+A 44. §-hoz
+
+Az 5. irányelv előírja, hogy azok a magánszemélyek - ideértve a kötelezett szolgáltató alkalmazottait és képviselőit -, akik a pénzmosás és a terrorizmus finanszírozása elleni jogszabályok megsértéséről értesítik a felügyeleti hatóságokat, jogi védelemben részesüljenek a fenyegetésekkel, a megtorló vagy ellenséges fellépésekkel és különösen a munkáltató kedvezőtlen vagy megkülönböztető jellegű intézkedéseivel szemben. Biztosítani kell, hogy az értesítéseket biztonságos módon lehessen benyújtani a felügyeleti hatóságoknak. ennek megfelelően a tervezet jogellenesnek mond ki minden, a Pmt. megsértésére vonatkozó értesítés következtében meghozott, az értesítést küldő személy számára hátrányos intézkedést. szintén biztosítani kell azt is, az értesítést beküldő személyeknek joguk legyen a hatékony jogorvoslathoz az e bekezdés szerinti jogaik védelme érdekében, ezért a tervezet alapján a bejelentő, illetve a kötelezett szolgáltató alkalmazottai és képviselői panaszt, illetve jogorvoslati kérelmet terjeszthetnek elő a hátrányos intézkedéssel szemben.
+
+A 45. §-hoz
+
+Az 5. irányelv szakmai titoktartási kötelezettséget állapít meg minden olyan személy esetében, aki pénzügyi szektor felügyeletét ellátó szerv (Felügyelet) foglalkoztatottja vagy foglalkoztatottja volt, valamint a Felügyelet nevében eljáró könyvvizsgálók és szakértők esetében is. A módosítás rögzíti, hogy a titoktartási kötelezettség a banktitokra, értékpapírtitokra, fizetési titokra és biztosítási titokra, valamit az üzleti titokra vonatkozik. A módosítás egyértelművé teszi a kapcsolatot a titoktartásra kötelezett személyek, a Felügyelet és más érintett szervek között a titoktartás vonatkozásában.
+
+A javasolt módosítás pontosítja továbbá, hogy az 5. pénzmosás elleni irányelv előírásainak megfelelően a pénzügyi szektor felügyeletét ellátó szerv milyen módon jogosult nemzetközi információcserét és együttműködést lefolytatni.
+
+A 46. §-hoz
+
+A pénzügyi információs egység a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint bűncselekmények megelőzésének, felderítésének, nyomozásának elősegítése céljából elemző-értékelő tevékenységet folytat, melynek keretében operatív és stratégiai elemzést végez. A korábbi törvényi szabályozás szerint a pénzügyi információs egység elemzése során a rendelkezésére álló adatok, információk felhasználásával vizsgálta a pénzmosás és a terrorizmus finanszírozásával kapcsolatos folyamatokat és jellemzőket. A stratégiai elemzés során természetesen felhasználhatóak voltak az operatív elemzés eredményeként rendelkezésre álló adatok, információk. Ugyanakkor a stratégiai elemzés során nem álltak rendelkezésre azon jogosultságok (közvetlenül elérhető adatbázisból lekérdezés, megkeresés által adatok, információk beszerzése) a pénzügyi információs egység részére, amelyek az operatív elemzés során rendelkezésre állnak. erre tekintettel a minél hatékonyabb és célzottabb stratégiai elemzés lehetőségének megteremtése érdekében fontos, hogy a stratégiai elemzés során ugyanazon jogosultságok, információforrások legyenek biztosítva a pénzügyi információs egység számára, mint amely jogosultságok részére az operatív elemzése során rendelkezésre állnak. ez indokolja, hogy a korábbi „operatív elemzés” helyébe a törvény szövegébe az „elemző-értékelő tevékenység” kifejezés került.
+
+A 47. §-hoz
+
+Az 5. irányelv rögzíti, hogy az önszabályozó testületek éves jelentést tesznek közzé, amely meghatározott információkat kell, hogy tartalmazzon. A Pmt. 76/A. §-a részletesen kifejti, hogy az önszabályozó testületek milyen módon tesznek eleget az 5. irányelvből származó éves jelentéstételére vonatkozó kötelezettségüknek, és hogy a közzétett jelentésnek milyen információkat kell tartalmaznia.
+
+A 48. §-hoz
+
+A pénzmosás és terrorizmus finanszírozása elleni fellépésben érintett szolgáltatók esetében elengedhetetlen, hogy azok működtetői, illetve bizonyos esetekben tulajdonosai kellőképpen megbízhatóak legyenek, valamint rendelkezzenek a szükséges jó üzleti hírnévvel.
+
+A 4. irányelv [47. cikk (2) bekezdésének] rendelkezései alapján a pénzváltó irodák, a készpénzes csekkbeváltó helyek, a bizalmi vagyonkezelők és székhelyszolgáltatók, illetve a szerencsejáték-szervezők esetében e szolgáltatók tényleges tulajdonosainak is teljesíteniük kell e feltételeket.
+
+Erre tekintettel a tervezet e szakaszai a székhelyszolgáltatók nyilvántartásba vételére vonatkozó eljárási szabályokat határoz meg, amelynek része a vezető tisztviselők és a tényleges tulajdonosok megfelelőségének vizsgálata. A módosítás biztosítja, hogy a székhelyszolgáltató a tevékenység végzésére irányuló szándékának a felügyeletet ellátó szerv felé történő bejelentésével egyidejűleg köteles legyen mellékelni a Pmt. valamint az európai Unió és az Ensz Biztonsági tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti belső szabályzatát, a felügyeletet ellátó szerv általi nyilvántartásba vétel vonatkozásában a megalapozott döntés meghozatala érdekében.
+
+A 49. §-hoz
+
+A Javaslat 9. §-a kiegészíti a kiemelt közszereplők tekintetében alkalmazandó ügyfél-átvilágítási intézkedéseket, és új rendelkezésként kimondja, hogy a kiemelt közszereplő által a szolgáltató felé megtett nyilatkozatnak a pénzeszközök forrására vonatkozó információk mellett a vagyon forrására vonatkozó információkat is tartalmaznia kell. A vagyon forrására vonatkozó nyilatkoztatás szolgáltatók általi egységes végrehajtása érdekében a rendelkezés annak lehetővé tételét szolgálja, hogy a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter rendeletben állapítsa meg a vagyon forrására vonatkozó nyilatkozat kötelező tartalmi elemeit.
+
+A tervezet felhatalmazást ad a Kormánynak arra, hogy a tényleges tulajdonosok adatait tároló központi adatbázis, illetve a központi bankszámla- és széfnyilvántartás gyakorlati működéséhez szükséges részletszabályokat rendeleti szinten határozza meg, illetve hogy kijelölje az ezek működtetéséért felelős szervezetet vagy szervezeteket.
+
+Az 50. §-hoz
+
+A tervezet átmeneti rendelkezéseket határoz meg a szolgáltatók pénzmosás és terrorizmus finanszírozás vonatkozású belső szabályzatainak átdolgozása tekintetében, a Pmt. 65. § (4) bekezdésében főszabályként meghatározott általános határidőnél hosszabb időt hagyva az átdolgozásra. A tervezet hatálybalépésekor már működő szolgáltatók kötelesek a tervezet hatálybalépését követő 90 napon belül átdolgozni a már létező szabályzataikat. Az adminisztratív terhek csökkentése érdekében a tervezet hatályon kívül helyezi a Pmt. által előírt azon kötelezettséget, amely szerint a szolgáltatók a belső szabályzataik átdolgozásának megtörténtéről kötelesek írásban tájékoztatni a felügyeletet ellátó szerveiket. A felügyeletet ellátó szerv a belső szabályzatot a Pmt. rendelkezéseinek való megfelelés ellenőrzésére irányuló felügyeleti tevékenysége keretében ellenőrzi.
+
+A Magyar Ügyvédi Kamara az egyéni ügyvédekre és az egyszemélyes irodákra vonatkozóan, a Magyar Országos Közjegyzői Kamara a közjegyzőkre vonatkozóan a tervezet hatálybalépésétől számított 60 napon belül készíti el a belső szabályzatot. A tervezet hatálybalépésétől számított 30 napon belül kell a Magyar Ügyvédi Kamarának kidolgozni azt a szabályzatot, amely alapján a területi ügyvédi kamara útmutatója elkészül. A Hivatal pedig a bizalmi vagyonkezelőkre vonatkozóan a tervezet hatálybalépésétől számított hatvan napon belül köteles átdolgozni az egységes szabályzatot.
+
+A létrehozandó központi nyilvántartások első adatfeltöltésére a tervezet az általános adatszolgáltatásra megállapítottnál jóval hosszabb átmeneti időszakot biztosít. A nyilvántartások 2020. december 1-i létrehozása mellett a tényleges tulajdonosokra vonatkozó adatok, valamint a bankszámla- és széfszolgáltatási adatok első feltöltésére 2021. március 1-i határidőt állapít meg a tervezet.
+
+Tekintettel arra, hogy a javaslat hatályon kívül helyezi a Pmt. 12. § (5) bekezdését (amely arról rendelkezik, hogy ha számla terhére vagy javára két naptári évet elérő időtartam alatt megbízás teljesítésére nem került sor, a szolgáltató köteles 30 napon belül írásban vagy a szerződésben meghatározott módon felhívni ügyfelét az adatokban bekövetkezett változások közlésére, azzal, hogy az azonosító adatok közléséig a számlán megbízás teljesítésére nincs mód), indokolttá vált annak kimondása, hogy a szolgáltató az ezen rendelkezés alapján foganatosított korlátozó intézkedést a törvényjavaslat hatályba lépését követően abban az esetben szünteti meg, ha az ügyfél eleget tesz az azonosító adatok közlésére vonatkozó kötelezettségének.
+
+Az 51. §-hoz
+
+Szükséges a Pmt. jogharmonizációs záradékának kiegészítése a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvre való hivatkozással.
+
+Az 52. §-hoz
+
+A § jogtechnikai jellegű, szövegpontosító módosításokat tartalmaz.
+
+Az 53. §-hoz
+
+A Pmt. 18. §-ban meghatározott (a levelező kapcsolat létesítésére vonatkozó) intézkedések a Pmt. új 24/A. §-ba kerültek áthelyezésre, mivel ezen esetkör speciális intézkedéseket igényel, és nem illeszkedik a dinamikus ügyfél-átvilágítás rendszerébe.
+
+A Pmt. 19-20. §-ban meghatározott (a kiemelt közszereplőkre vonatkozó) intézkedések a 9/A-9/B. §-ban és a 16. § (1) bekezdés d) pontjában kerültek áthelyezésre, mivel így illeszkednek a dinamikus ügyfél-átvilágítás rendszerébe.
+
+A Pmt. 21. §-ban (a pénzváltásra vonatkozó) intézkedések a 6. § (1) bekezdés i) pontjával az általános ügyfél-átvilágítási intézkedések körébe kerültek áthelyezésre, mivel így illeszkednek a dinamikus ügyfél-átvilágítás rendszerébe.
+
+Az üzleti kapcsolat létrehozására és nyomon követésére vonatkozó új intézkedések nyomán nem indokolt fenntartani a Pmt. 79. §-ában az adatpótlásra nyitva álló átmeneti időszakról szóló rendelkezéseket.
+
+Az 54-58. §-hoz
+
+A pénzmosás és terrorizmus finanszírozása elleni fellépésben érintett szolgáltatók esetében elengedhetetlen, hogy azok működtetői, illetve bizonyos esetekben tulajdonosai kellőképpen megbízhatóak legyenek, valamint rendelkezzenek a szükséges jó üzleti hírnévvel.
+
+A 4. irányelv [47. cikk (2) bekezdésének] rendelkezései alapján a pénzváltó irodák, a készpénzes csekkbeváltó helyek, a bizalmi vagyonkezelők és székhelyszolgáltatók, illetve a szerencsejáték-szervezők esetében e szolgáltatók tényleges tulajdonosainak is teljesíteniük kell e feltételeket.
+
+Erre tekintettel a tervezet e szakaszai a szerencsejáték-szervezők esetében emelik be az engedélyezési eljárásba a tényleges tulajdonosok megfelelőségének vizsgálatát.
+
+Az 59-61. §-hoz
+
+A pénzmosás és terrorizmus finanszírozása elleni fellépésben érintett szolgáltatók esetében elengedhetetlen, hogy azok működtetői, illetve bizonyos esetekben tulajdonosai kellőképpen megbízhatóak legyenek, valamint rendelkezzenek a szükséges jó üzleti hírnévvel.
+
+A 4. irányelv [47. cikk (2) bekezdésének] rendelkezései alapján a pénzváltó irodák, a készpénzes csekkbeváltó helyek, a bizalmi vagyonkezelők és székhelyszolgáltatók, illetve a szerencsejáték-szervezők esetében e szolgáltatók tényleges tulajdonosainak is teljesíteniük kell e feltételeket.
+
+Erre tekintettel a tervezet e szakaszai a pénzváltó iroda, vagyis a hitelintézettel kötött megbízási szerződés alapján pénzváltási tevékenységet folytató közvetítő vezető állású személyére rendelik el a tényleges tulajdonosok megfelelőségének vizsgálatát.
+
+A § pontosítja a jogszabályi hivatkozást tekintettel arra, hogy törvény rövidítését a Hpt. (tervezet által bevezetett) 6. § (1) bekezdés 111a. pontja már tartalmazza.
+
+A 62. §-hoz
+
+A § pontosítja a jogszabályi hivatkozást tekintettel arra, hogy az elektronikus pénzre vonatkozó összeghatárokat a Pmt. 24/A. § (1) bekezdése tartalmazza.
+
+A 63. §-hoz
+
+A § kiegészíti a Hpt. jogharmonizációs záradékát.
+
+A 64. §-hoz
+
+A § kiegészíti a 2017. évi LII. törvény jogharmonizációs záradékát.
+
+-----STARTING---POINT---VEGE---
+
+A 65. §hoz
+
+A tervezet alapján főszabály szerint az új rendelkezések 2020. január 10-én lépnek hatályba. tekintettel arra, hogy a tervezet szerinti központi nyilvántartások működése 2020. december 1-től tervezett, indokolt az azokhoz kapcsolódó rendelkezések alkalmazását e későbbi időponthoz kötni.
+
+A Pmt. hatálya alá tartozó szolgáltatók számára a megfelelő felkészülési idő biztosítása érdekében szükségessé vált a Pmt. új 11. § (2) bekezdésének a javaslat egyéb rendelkezéseihez képest egy későbbi időpontban, 2020. október 1-jén történő hatályba léptetése.
+
+A Pmt. új 11. § (2) bekezdése az ún. dinamikus ügyfél-átvilágítás lényegi elemét határozza meg annak biztosításához, hogy az ügyfélhez minden esetben az ügyfélkockázati szintjéhez megfelelő ügyfél-átvilágítási intézkedések társuljanak. ezen rendelkezés szerint a szolgáltató a folyamatos figyelemmel kísérés során ellenőrzi, hogy az ügyfél kockázati szintje a rendelkezésre álló adatoknak megfelelően lett-e rögzítve. A szolgáltató a kockázati szint változásának megállapítása esetén haladéktalanul lefolytatja az ügyfél tényleges kockázati szintjének megfelelő még végrehajtásra nem került ügyfél-átvilágítási intézkedéseket és a teljesített ügyletek elemzését a kockázati szinthez igazítja.
+
+Az eltérő időpontban történő hatályba léptetés a szolgáltatók számára biztosít megfelelő felkészülési időt az ún. dinamikus ügyfél-átvilágítás alkalmazására.
+
+A 66. §-hoz
+
+A § jogharmonizációs záradékot tartalmaz.

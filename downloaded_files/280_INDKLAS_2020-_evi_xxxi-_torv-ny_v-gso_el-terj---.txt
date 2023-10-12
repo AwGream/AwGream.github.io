@@ -1,0 +1,1201 @@
+2020. évi XXXI. törvény végső előterjesztői indokolása
+
+az egyes törvényeknek a polgárok biztonságát erősítő módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+A törvényjavaslat elfogadásával elérni kívánt legfőbb célok:
+
+1. Az elektronikus információbiztonsági szervezetrendszer racionalizálása
+
+A NIS irányelv átültetésének felülvizsgálata azért szükséges, hogy az alapvető szolgáltatást nyújtó szereplők azonosítása a NIS irányelvben meghatározott ágazatokban megtörténhessen. Az Európai Bizottság ugyanis Magyarország ellen a NIS irányelv 5. cikk (7) bekezdés szerinti kötelezettség nem teljesítése miatt 2019/2213. számon kötelezettségszegési eljárást indított. Hazánk nem teljesítette azon információk megküldését, amelyek ahhoz szükségesek, hogy a Bizottság értékelhesse az irányelv végrehajtását különösen az alapvető szolgáltatásokat nyújtó szereplők azonosításakor a tagállamok általi megközelítés egységessége tekintetében.
+
+Jelenleg az alapvető szolgáltatásokat nyújtók az Lrtv.-ben szabályozott eljárás alapján azonosított és kijelölt nemzeti létfontosságú rendszerelemek üzemeltetői közül kerülnek azonosítására. A NIS irányelvben foglaltak, illetve a gyakorlati tapasztalatok alapján megállapítható azonban, hogy az alapvető szolgáltatásokat nyújtó szereplők nem kizárólag a létfontosságú rendszereket üzemeltetők köréből kerülhetnek ki. A kritikus infrastruktúra rendszerébe tartozás nem jelenti azt, hogy az adott szervezet egyben alapvető szolgáltatást nyújtó is, illetve fordítva is igaz. Attól még, hogy egy rendszerelem nem került létfontosságú rendszerelemként kijelölésre, szükséges lehet az alapvető szolgáltatást nyújtóként való azonosítása. A gyakorlati tapasztalatok továbbá azt mutatják, hogy egyes ágazatokban a jelenlegi eljárásrend működik, az alapvető szolgáltatást nyújtók azonosítása megtörtént. Ezen ágazatoknál a több éve jól működő eljárásrendet nem indokolt megváltoztatni és az ágazatokban azonosított szervezeteket két eljárás hatálya alá vonni.
+
+A fentiekre tekintettel azon rendszerelemek üzemeltetői esetében, amelyek nem kerültek nemzeti létfontosságú rendszerelemként kijelölésre, azonban megfelelnek az alapvető szolgáltatást nyújtó szereplőként történő azonosításra irányadó szempontoknak, külön eljárás alapján kerülnek alapvető szolgáltatást nyújtóként azonosításra. Ezzel megvalósulhatna a létfontosságú rendszerelemek kijelölése és az alapvető szolgáltatást nyújtó szereplők azonosításának egymástól történő - bizonyos szintű - elválasztása, amely azt az eredményt hivatott hozni, hogy az alapvető szolgáltatást nyújtó szereplők azonosítása megtörténhessen, az elmaradt jelentési kötelezettség teljesítése megvalósulhasson, majd az Európai Bizottság által a kötelezettségszegési eljárás lezárásra kerülhessen.
+
+2. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény (Körtv.) módosítása
+
+A javaslat célja, hogy törvényes jogalapot teremtsen az eltűnt személyek, az ismeretlen holttestek és holttestrészek biometrikus adatainak, valamint - kifejezett hozzájárulás és a Körtv.-ben meghatározott további feltételek esetén - az eltűnt személyek vér szerinti rokonai DNS-profiljának célhoz kötött kezelésére. Az adatkezelés célja az eltűnt személyek felkutatásának és személyazonossága megállapításának elősegítése, valamint az ismeretlen holttestek és holttestrészek azonosítási esélyének növelése. A javaslat szerinti terület szabályozása sürgető szakmai igény, hiszen éves szinten mintegy 150 ismeretlen személyazonosságú holttestről szerez tudomást a rendőrség, jelenleg összesen 929 azonosításra váró holttest van. Az adatkezeléshez szükséges törvényi felhatalmazás és annak garanciális szabályai a Körtv. keretei között helyezhetőek el. A szabályozással egyértelmű lesz: ismeretlen személyazonosságú holttest vagy holttestrész esetében kötelező a mintavétel, valamint az ujj- és tenyérnyomat (vagy töredék) rögzítése és nyilvántartásba vétele. Így már lesz lehetőség arra, hogy a rögzített adatok a bűnügyi és rendészeti biometrikus adatok nyilvántartásával összevethetőek legyen. Fontos szabály az is, hogy biometrikus adat csak akkor kerülhet a nyilvántartásba ismeretlen holttest esetén, ha a DNS-profil meghatározását követően azt összevetették a már nyilvántartásba vett DNS-profilokkal (körözött személyek nyilvántartásában, valamint az ismeretlen holttestek és holttestrészek nyilvántartásában) és nincs egyezés.
+
+A javaslat szerinti szabályozás az adatkezelés célhoz kötöttségének és szükségességének elvére figyelemmel az alapul szolgáló körözési eljárásban rögzített egyéb adatok megőrzési idejéhez igazítja a körözési eljáráshoz kapcsolódó biometrikus adatok kezelésének határidejét.
+
+A Körtv. hatályos szabályozása alapján biztosított a lehetőség arra, hogy a körözési nyilvántartást a bűnügyi nyilvántartási rendszer biometrikus adatokat tartalmazó nyilvántartásaival, valamint a holttestek nyilvántartásával - átmenetileg - összekapcsolják. Figyelemmel arra, hogy a Körtv. 25. § (1) bekezdése jelenleg csak az adott személy, holttest, holttestrész vagy dolog felkutatását jelöli meg a nyilvántartások összekapcsolhatóságának céljaként, így a javaslat további lehetséges célként beemeli a személyazonosság megállapítását, illetve a holttest vagy holttestrész azonosítását. Az összehasonlítás találatot eredményezhet, amely az eltűnt személy felkutatását elősegítheti (kiderülhet, hogy bűncselekmény helyszínén rögzítették a mintáját, amely jelenleg nyílt nyomként van nyilvántartva, esetleg azonosságot mutathat egy ismeretlen személyazonosságú holttest DNS-ével).
+
+A javaslat a garanciális szempontok alapján indokolt részletességgel rögzíti a mintavételi eljárás rendjét az ujj- és tenyérnyomat, valamint a DNS-profil nyilvántartásba vétele céljából. A javaslat a költségek racionalizálása érdekében időbeli szűrőt vezet be a DNS-profil meghatározása kapcsán, így csak azon eltűnt személyek esetében teszi kötelezővé a mintavételt, akiket eltűnés miatt már legalább kilencven napja eredménytelenül köröznek. Ugyancsak megjelennek a nyilvántartásba vétellel, az összehasonlítással összefüggő feladatok is, megjelölve azok címzettjeit.
+
+Figyelemmel arra, hogy a javaslat - a Körtv.-ben meghatározott feltételek megléte esetén - megteremti a törvényes jogalapot az eltűnt személyek vér szerinti hozzátartozói DNS-profiljainak a kezelésére, így indokolt a Bnytv.-ben ezzel az adatkörrel összefüggésben lehetővé tenni, hogy az összehasonlítás ne csak a DNS-profilok egyezésére, hanem a rokonsági fok megállapítását eredményező összevetésére is kiterjedhessen, amelyről a szakértői nyilvántartó szerv tájékoztatja a nyilvántartásba vételt kezdeményező szervet.
+
+A javaslat megteremti a jogalapot arra, hogy a Körtv. és a Bnytv. alapján kezelt daktiloszkópiai, illetve DNS-profil nyilvántartások dinamikus rendszerben működhessenek. Mindkét törvényt érintő előírás lesz, hogy daktiloszkópiai adat, illetve DNS-profil rögzítését megelőzően a nyilvántartásba venni kért adatot a nyilvántartásba vétel előtt össze kell vetni az adott törvény, illetve a másik törvény alapján kezelt daktiloszkópiai, illetve DNS-profil nyilvántartásokban kezelt adatokkal.
+
+3. Az egyes állami nyilvántartások racionalizálását célzó ún. „NAVASZ” projekttel összefüggő módosítások
+
+A NAVASZ projekt keretében a lakcím-, okmány- és járműigazgatási ügyintézési eljárásokat támogató szakrendszerek és nyilvántartások jogi, igazgatási és informatikai szempontú felülvizsgálatára kerül sor, mely során a szakrendszerek megújításra kerülnek. Mindemellett kiemelt cél a rendszerek és nyilvántartások együttműködési képességének fokozása, valamint a szakrendszerek és az ügyintézési csatornák informatikai biztonsági szintjének emelése is.
+
+A NAVASZ projekt célkitűzése, hogy meghatározott ügycsoportok esetében az ügyintézési eljárások újraszervezésével és az ügyek elektronizálásával mind az ügyintézői, mind az ügyféli oldalon elérje az ügyintézési idő csökkentését. A projekt keretében ütemezetten kerülnek megvalósításra a különböző fejlesztések. Ezek közül a legkorábbi időpontra ütemezettek jogalapját szükséges megteremteni a jelen előterjesztésben. A kapcsolódó módosítások az alábbiak:
+
+a) 2020. július 1. napjával lehetővé válik az állandó személyazonosító igazolvány elektronikus úton történő pótlása. Pótlás céljából a személyiadat- és lakcímnyilvántartás tartalmazni fogja - hozzájárulás esetén - a polgár ujjnyomatát. A módosítás kimondja, hogy az ujjnyomatot az állandó személyazonosító igazolvány pótlása céljából kizárólag a nyilvántartást kezelő szerv igényelheti;
+
+b) 2020. szeptember 1. napjával a lakcímbejelentés jogszabályban meghatározott esetben elektronikus kapcsolattartás keretében is kezdeményezhetővé válik. Ennek nyomán szükséges a lakcímadatok állandó személyazonosító igazolvány tároló elemén történő utólagos elhelyezésének rendezése is: a lakcímadatokat utólagosan a polgár kérelmére lehet rögzíteni, illetve egyes esetekben hivatalból történik az eljárás;
+
+c) a külföldön élő magyar állampolgár is bejelentheti elektronikus kapcsolattartás keretében magyarországi tartózkodási helyét;
+
+d) a közúti közlekedési nyilvántartást támogató informatikai szakrendszerhez való hozzáférésre jogosult személyek központi jogosultsági nyilvántartásának létrehozása;
+
+e) okmánykiállításkor az azonosítás céljából bemutatott személyazonosító okmány érvényességének ellenőrzése a személyiadat- és lakcímnyilvántartásból, illetve az útiokmány-nyilvántartásból közvetlen adatkapcsolat útján;
+
+f) okmánykiállításkor a friss lakcímadatok átvétele a személyiadat- és lakcímnyilvántartásból közvetlen adatkapcsolat útján;
+
+g) az eljárási képesség és közlekedésbiztonsági alkalmasság ellenőrzése céljából közvetlen bekérdezési lehetőség megteremtése a gondnokoltak nyilvántartásába;
+
+h) a közlekedésbiztonsági alkalmasság ellenőrzése céljából közvetlen bekérdezési lehetőség megteremtése a bűnügyi nyilvántartásba vezetői engedéllyel rendelkező vagy azt igénylő, de a kényszergyógykezelés alatt álló ügyfelek kiszűrése érdekében;
+
+i) a kényszergyógykezelés fennállásának tényére vonatkozó adatok nyilvántartása a vezetési jogosultság szünetelésével összefüggésben.
+
+4. Szolgáltatásazonosító alkalmazása a személyszállításban
+
+A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény, valamint ahhoz kapcsolódóan a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása nyomán teljes egészében megvalósulhat a közforgalmú személyszállítási szolgáltatások elektronikus személyazonosító igazolvánnyal történő igénybevétele. A módosítás következtében valamennyi közlekedési szolgáltatást nyújtó szervezet által elérhetővé válik az utazási jogosultságnak az elektronikus személyazonosító igazolvány szolgáltatásazonosítóján alapuló ellenőrzése.
+
+5. A vezetői engedélyt és a forgalmi engedélyt érintő módosítások
+
+2021. február 1-jétől megvalósul az első vezetői engedély kiadására irányuló eljárás teljes mértékű elektronizálása. A tervezet a vezetői engedélyhez kapcsolódó eljárások további egyszerűsítését szolgálja. A módosítás célja, hogy a már kiállított vezetői engedélyt és a forgalmi engedélyt a belföldi járművezetés során a járművezető ne legyen köteles magánál tartania, az okmányok megléte a nyilvántartásból ellenőrizhető legyen. Mindemellett a járművezetőnek külföldön azonban szüksége lesz vezetői engedélyre és a forgalmi engedélyre mint okmányra (ezért a vezetői engedélynek és a forgalmi engedélynek a fizikai kiállítása továbbra is szükséges marad).
+
+a) vezetői engedély
+
+A vezetési jogosultság ellenőrzését végző hatóságoknak jelenleg is lehetősége van a vezetési jogosultság közúti közlekedési nyilvántartásba betekintéssel történő ellenőrzésére, ugyanakkor további informatikai fejlesztésekkel biztosítani szükséges, hogy egyes közlekedési bűncselekmények elkövetése során a vezetői engedély helyszíni elvételének megfelelő jogkövetkezményt is be tudják jegyezni a nyilvántartásba. A cél elérése érdekében a tervezet bevezeti a vezetési jogosultság azonnali felfüggesztésének jogintézményét. Tehát azokban az esetekben, amikor a vezetői engedély helyszíni elvételének van/lenne helye, a jövőben azonnal, elektronikusan bejegyzik a felfüggesztést. Emellett ha a vezetőnél ott van a helyszínen a vezetői engedély, akkor az okmányt elveszik. A két intézmény következményeiben ugyanazt eredményezi. Figyelemmel arra, hogy a közúti közlekedési nyilvántartásban csak a magyar vezetői engedélyek és vezetési jogosultsággal kapcsolatos adatok szerepelnek, a külföldi vezetői engedéllyel rendelkező személynek a vezetési jogosultság ellenőrizhetősége érdekében továbbra is magánál kell tartania a vezetői engedélyét.
+
+b) Forgalmi engedély
+
+A vezetési jogosultsághoz hasonlóan, a jármű forgalomban való részvételére jogosító engedély meglétének és érvényességének ellenőrzését is a rendőrség és a közlekedési hatóság végzi. Az ellenőrzést végző hatóságoknak megfelelő eszközök birtokában a helyszíni intézkedés során lehetőségük van a nyilvántartásba bekérdezni, ugyanakkor további informatikai fejlesztésekkel biztosítani szükséges, hogy jogszabályban meghatározott esetekben a forgalmi engedély helyszíni elvételét a nyilvántartásba be tudják jegyezni. Mivel a közúti közlekedési nyilvántartásban csak a Magyarországon forgalomba helyezett járművek adatai szerepelnek, a külföldi hatósági engedéllyel és jelzéssel rendelkező járművek esetén a járművezetőnek továbbra is magánál kell tartania a jármű forgalmi engedélyét a forgalomban való részvételi jogosultság ellenőrizhetősége érdekében.
+
+6. A Rendőrségről szóló törvény módosítása
+
+a) A Rendőrségről szóló 1994. évi XXXIV. törvény (Rtv.) a megbízhatósági vizsgálatot érintő módosításokat tartalmaz, részben kibővíti a védett állomány körét egyes szervezeteknél a közbeszerzési eljárásokkal kapcsolatosan hatáskört gyakorló munkavállalókkal, másrészt a járművek műszaki vizsgálatával és környezetvédelmi felülvizsgálatával kapcsolatos feladatokat ellátó kormánytisztviselők és munkavállalók körével. A törvényjavaslat továbbá a megbízhatósági vizsgálatot az Országos Idegenrendészeti Főigazgatóság munkavállalóira is kiterjeszti (hasonlóan ahhoz, ahogy a Rendőrség, a büntetés-végrehajtási szervezet és a hivatásos katasztrófavédelmi szerv munkavállalóira már jelenleg is kiterjed a szabályozás).
+
+b) A megbízhatósági vizsgálat szabályait módosítja továbbá a törvényjavaslat annak érdekében is, hogy a mesterséges élethelyzet létrehozatalában lehetőség legyen tárgy elhelyezésére. [Azaz nem csak az Nemzeti Védelmi Szolgálat (a továbbiakban: NVSZ) állományának tagja cselekménye hozhat létre mesterséges élethelyzetet, hanem egy tárgynak a megfelelő elhelyezésével is lehetőség van annak vizsgálatára, hogy az érintett vizsgálat alá vont a hivatali kötelezettségeit teljesíti-e].
+
+c) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya körének bővítésére vonatkozó javaslat alapján ezen rendvédelmi feladatokat ellátó szerv esetében is lehetővé válik, hogy a jövőben ne kizárólag az általános rendőrségi feladatok ellátására létrehozott szervtől kerülhessenek vezénylésre a hivatásos állomány tagjai, hanem bármely rendvédelmi feladatokat ellátó szervtől. A módosítással a megbízhatósági vizsgálatok végrehajtása eredményesebbé válhat a különleges szakértelemmel rendelkező, más rendvédelmi szervtől vezényelhető állomány bevonásával.
+
+d) Kisebb jelentőségű módosításként a törvényjavaslat
+
+- pontosítja a fogvatartott fogalmát,
+
+- módosítja a kép- és hangfelvételek felhasználási körét azzal, hogy annak azonosításra alkalmatlanná tett formában történő felhasználása a képzési, oktatási tevékenység érdekében is felhasználható,
+
+- a bűnügyi adatkezelésben nyilvántartható adatok adatkezelési idejét érintő módosításokat tartalmaz annak racionalizálása és könnyebb követhetősége érdekében, hogy az adatokat meddig lehet nyilvántartani és mikor kell törölni a nyilvántartásból.
+
+7. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
+
+a) A segédőrök és vészőrök vízkárelhárítás során történő alkalmazása több évtizedes gyakorlat, amelyet az árvíz- és belvízvédekezésről szóló 10/1997. (VII. 17.) KHVM rendelet [7. § (4) bekezdés a) pont] tesz lehetővé. A segédőrök és a vészőrök rövid időszakra, a védekezés időtartamára kerülnek munkavégzésre irányuló jogviszonyba az érintett vízügyi igazgatási szervvel, viszont a hatályos szabályozás alapján nem egyértelmű, hogy munkaviszony vagy megbízási jogviszony keretében is elláthatják-e a feladataikat. A gyakorlat szerint a vízügyi igazgatási szervek önállóan, saját hatáskörben munkaszerződés vagy megbízási szerződés alapján biztosítják a védekezéshez szükséges létszámot a vizek kártételei elleni védekezés szabályairól szóló 232/1996. (XII. 26.) Korm. rendelet 10. §-a szerint. Az adott munkavégzéssel összefüggésben a szervek részéről általában megfelelőbbek ezen jogviszonyok alkalmazása, mint a közalkalmazotti jogviszony, azért a jogalkalmazás egyértelműsítése érdekében indokolt a vízgazdálkodásról szóló 1995. évi LVII. törvényben közalkalmazotti jogviszonyon kívüli foglalkoztatás lehetőségét is szerepeltetni a vízügyi védekezés tekintetében.
+
+b) A vízgazdálkodásról szóló 1995. évi LVII. törvény másik módosítása (22/A. §) azt a problémát oldja fel, hogy állami költségvetési forrás és európai uniós támogatás csak állami tulajdonú ingatlanra használható fel, így a nem állami tulajdonban lévő csatornaszakaszok rekonstrukciójára fordított állami kiadások miatt a fejlesztés tárgyán osztott tulajdon jönne létre. Az osztott tulajdon létrehozását azonban a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdés c) pontja tiltja. Ezért nem állami tulajdonú csatornarészek állami és európai uniós forrásból nem fejleszthetők. A törvénymódosítás emiatt rögzíti, hogy a fejlesztés érdekében indokolt a közcélú vízilétesítmények tulajdonjogának az állam javára történő megszerzése.
+
+8. Egyes rendészeti feladatokat ellátó szervekkel kapcsolatos módosítások
+
+A javaslat a normavilágosság követelményének való megfelelés érdekében egyértelművé teszi az egyes rendészeti feladatokat ellátó személyek és a személy-, és vagyonőr intézkedése vagy kényszerítő eszköz alkalmazása miatt az intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására vonatkozó szabályokat. A gyakorlatban az egyes rendészeti feladatokat ellátó személy intézkedése vagy kényszerítő eszköz alkalmazása elleni panasz elbírálásakor alkalmazandó jogalkalmazói kérdések merültek fel, amely alapján a törvényjavaslat módosításokat fogalmaz meg. A javaslat a hatályos szabályozáson érdemben nem változtat, azonban egyértelművé teszi a panaszok elbírálására vonatkozó rendelkezéseket.
+
+A javaslat továbbá egyértelművé teszi, hogy helyi közutakon a parkolásért járó ellenérték megfizetésének ellenőrzése és a fizetés elmaradása esetére előírt jogkövetkezmények alkalmazására feladatkörrel rendelkező közterület felügyelő nem csak a 2012. évi CXX. törvényben meghatározott intézkedéseket és kényszerítő eszközöket nem alkalmazhatja, de a közterület-felügyelőkről szóló törvényben meghatározott intézkedéseket sem (kerékbilincs alkalmazása).
+
+9. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
+
+Az előterjesztés célja a menedékjogról szóló 2007. évi LXXX. törvény módosítása vonatkozásában az egységes bírói joggyakorlat, valamint az eljárások kapcsán felmerült jogértelmezési anomáliák felszámolása. A jelenlegi jogszabály egyes rendelkezései kapcsán a gyakorlatban széttartó jogértelmezés alakult ki. Annak elkerülése érdekében, hogy a jogalkalmazói gyakorlat azonos eljárások esetén eltérő legyen, szükséges a törvény szövegének pontosítása. Emellett az eljárások során felmerültek olyan gyakorlati problémák, melyek joghézagok meglétére vezethetők vissza.
+
+A menedékjogi eljárás jelenleg nem tartalmaz zár alá vételre vonatkozó szabályozást, melynek lényege, hogy ha a tényállás másként nem tisztázható vagy az jelentős késedelemmel járna, vagy a zár alá vétel mellőzése a tényállás tisztázásának sikerét veszélyeztetné, a hatóság jogosult valamely dolog birtokának a birtokos rendelkezése alóli elvonására. A javasolt módosítás ezt a hiányosságot pótolja. A menedékkérőktől - helyzetüknél fogva - nem minden esetben várható el, hogy érvényes személyazonosító okmányokkal rendelkezzenek. Ugyanakkor az elmúlt évek gyakorlati tapasztalatai alapján megállapítható, hogy általánossá vált a menedékkérők között az elektronikus eszközök használata. A javaslat lehetőséget ad a hatóságnak, hogy a menedékkérő birtokában lévő dolgot - így az elektronikus eszközt is - zár alá vegye, és az abban tárolt adatokhoz történő hozzáféréshez szakértő közreműködését vegye igénybe. Ezen eszközök számos olyan adatot tartalmaznak, melyek segíthetnek a menekültügyi hatóságnak és magának az elismerését kérőnek is a személyazonosság, az állampolgárság beazonosításában.
+
+10. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (Nbtv.) módosítása
+
+A módosítás a nemzetbiztonsági védelem alá eső tisztségek között nevesíteni fogja a Gazdasági Versenyhivatal elnökét és elnökhelyettesét, továbbá a nemzetbiztonsági ellenőrzés alá eső munkakörökre vonatkozó meghatározásokat pontosítja, érdemi, koncepcionális változásra nem kerül sor.
+
+A módosítás csökkenti a működésbeli párhuzamosságból fakadó bűnüldözési kockázatokat, egyúttal fokozza a nyomozások, az operatív feladatok ellátásának eredményességét és érvényre juttatja az adattakarékosság elvét. Ennek érdekében a párhuzamos eljárások azonosításához szükséges adatszolgáltatást kiterjeszti az ügyészségre. Ez biztosítja az ügyészség és a más szervek által egyidejűleg folytatott titkos információgyűjtések, a büntetőeljárásról szóló törvény szerinti előkészítő eljárások vagy nyomozások, illetve leplezett eszköz-alkalmazások elkerülését. Az ügyészség nem közvádlói minőségében jelenik meg, hanem mint titkos információgyűjtést, előkészítő eljárást vagy nyomozást folytató, illetve leplezett eszközt alkalmazó szerv. Ebből a szempontból - a tevékenység célját és jellegét tekintve - nem különbözik az Nbtv. szerinti együttműködő szervektől, így azokhoz hasonlóan az adatátadásnak is a lehető legszélesebb adatkörre kell vonatkoznia. Az Nbtv. az együttműködő szervek tekintetében sem tartalmaz tételes felsorolást az átadható adatok köréről, de azokat egyértelműen a fentiekben felsorolt tevékenységek körére szűkíti, ahogyan teszi ezt a módosítás az ügyészség kapcsán is.
+
+11. Szabálysértési eljárást és szabálysértési jogsegélyt érintő módosítások
+
+Gyakorlatban felmerülő probléma, hogy a végrehajtási eljárás során olyan tény jut a központi hatóság tudomására, amely indokolja a külföldi hatóság megkeresését. Az is problémát jelent, hogy a törvény kizárja az elkövető jogorvoslati jogát, olyan esetekben, amikor a külföldön kiszabott bírság például tévesen kerül megállapításra, mert nem a határozatban szereplő gépjárművel követtek el jogsértést vagy helytelenül állapították meg a rendszámot. A hatóság ilyen esetben a jelenlegi gyakorlat szerint felfüggeszti az eljárást és megkeresi a külföldi hatóságot. Sok esetben azonban a végrehajtást kérő külföldi hatóság a központi hatóság megkeresésére nem válaszol. Ezekben az esetekben javasolt egyértelműen meghatározni, hogy ha a felfüggesztés időtartama alatt nem érkezik válasz a központi hatóság részére, a végrehajtási eljárást megszüntetheti, és nem folytatja tovább a végrehajtást.
+
+Indokolt a külföldi hatóság által kiszabott pénzbírság és eljárási költség hazai végrehajtása keretében a személyes adatok kezelésének objektív végső határidejét legfeljebb két évről legfeljebb öt évre módosítani, figyelemmel az eljárási költség végrehajthatóságának időtartamára.
+
+A módosítás további célja, hogy egyértelművé tegye, hogy mely esetekben kerül sor az Európai Unió Tanácsának a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB kerethatározata rendelkezéseinek teljes körű alkalmazására, tehát a pénzbírság összegének teljes végrehajtására. A hivatkozott rendelkezésben szerepelő jelenlegi szöveg önmagára hivatkozik vissza, így az jogalkalmazási problémákhoz vezethet.
+
+A törvényjavaslat ezen felül az általános szabálysértési hatósági feladatok rendőrség hatáskörébe integrálásával jelentkező többletfeladatokból adódó, mindenekelőtt a megyei Rendőr-főkapitányságok székhelye szerinti, valamint a megyéken belüli nagyobb illetékességi területtel rendelkező rendőrkapitányságok leterheltsége csökkentését is szolgálja. A végrehajtási eljárásban a szabálysértési hatóságnak adminisztrációs feladatai vannak, amelyek nem igénylik az állampolgárok hatóság előtti megjelentést, így az többletterhet nem jelent.
+
+A törvényjavaslat továbbá több gyakorlati probléma megoldására irányuló módosítási javaslatot is tartalmaz:
+
+a) A jelenlegi szabályozás nem tartalmaz arra vonatkozó rendelkezést, hogy az általános szabálysértési hatóságnak kell gondoskodnia a szabálysértési költség és a rendbírság végrehajtásáról, ezért indokolt a törvény kiegészítése.
+
+b) Pontosítani szükséges, hogy mindazon esetekben, amelyekben a szabálysértési eljárást a szabálysértés elkövetésének vagy felderítésének helye szerint illetékes szabálysértési hatóság folytatta le, a végrehajtásról is annak a szervnek kell gondoskodnia.
+
+c) A szabálysértési törvény 2020. március 1-jei módosítása indokolja a szabálysértési bírságok befizetésével kapcsolatos feladatok vonatkozásában a követelés-, és befizetés-nyilvántartási tevékenység megosztását a területi szervek között. A Rendőrség területi szerveinek - melyek hatáskörébe tartoznak jelenleg is az egyes rendőrségi hatáskörbe tartozó szabálysértések, illetve az azokkal összefüggő követelések befizetéseinek nyilvántartásai - az e célból létrehozott központosított beszedési számlákon szükséges kezelniük a módosítás szerint érintett összegeket, továbbá ezen szerveknek el kell látniuk a kapcsolódó befizetés-ellenőrzési és beazonosítási feladatokat is.
+
+d) A pénzkövetelések naprakész nyilvántartása érdekében szükséges, hogy a bírósági webes adatközlő felületen a döntéshozatalt követően azonnal, de legkésőbb 3 napon belül megtörténjen a követeléseket kiszabó döntések meghatározott adataival kapcsolatos adatrögzítés. Az adatok a jogerőre emelkedéskor módosíthatók, ezért a jogszabály-módosítással az ügyfelet jogsérelem nem éri.
+
+e) A 2019. június 1. napján hatályba lépett módosítással a szabálysértési nyilvántartások részeként létrehozott, a gépjárművezető távollétében alkalmazott intézkedések nyilvántartásából történő adatigénylés során értelmezési problémát okozott, hogy a szabálysértési nyilvántartásokból kizárólag személyazonosító adatok alapján lehetséges az adatigénylés. A gépjárművezető távollétében alkalmazott intézkedések nyilvántartása azonban személyazonosító adatokat nem tartalmaz, így fogalmilag kizárt ilyen adatokkal történő lekérdezés lehetősége. A módosítással egyértelművé válik, hogy a gépjárművezető távollétében alkalmazott intézkedések nyilvántartásából a személyes adatok megadása nélkül kizárólag a gépjármű azonosító adata alapján lehetséges az adatigénylésre jogosultak jogainak gyakorlása.
+
+f) Az Alapvető Jogok Biztosa vizsgálata alapján a szabálysértési törvény feljelentés elutasítására vonatkozó rendelkezéseinek kiegészítése szükséges a halál, mint objektív büntethetőséget megszüntető okkal.
+
+12. Közfoglalkoztatásból történő kizárásra vonatkozó szabályok módosítása
+
+A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény (Kftv.) módosításával a közfoglalkoztatásból kizárásra a rendezetlen lakókörnyezet miatti jogsértés jogerős megállapítását követően kerülhetne csak sor. E jogsértés megvalósulhat közegészségügyi vagy közbiztonsági kockázat okozásával (ennek tényét állami hatóság állapítja meg) vagy a közösségi együttélés önkormányzati rendeletben rögzített szabályainak be nem tartásában is megnyilvánulhat (ekkor a jegyző jogosult eljárni).
+
+A közfoglalkoztatotti körbe - vagyoni és szociális helyzettől, valamint nemtől és életkortól függetlenül - bármely álláskereső személy bekerülhet, aki nem jogosult pénzbeli álláskeresési ellátásra. Így a bevezetni kívánt rendelkezés nem korlátozódik egy meghatározott társadalmi csoportra. A Kftv.-módosítás nem is a lakóingatlan felújítását, hanem annak pénzügyi befektetést nem igénylő, tehát a vagyon helyzettől nem függő rendben tartását tekinti kiindulási helyzetnek. A magánszférához való jog körében az elhanyagolt, rendezetlen lakókörnyezethez való jog nem is értelmezhető, különösen úgy, ha egy ilyen állapot más személyeknek a tiszta, egészséges környezethez való jogát csorbítja.
+
+13. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
+
+A módosítás a szabályozás egyszerűsítését eredményezi, különös tekintettel a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény hatálya alá tartozó gazdálkodó szervezetek esetében kiadott telephely biztonsági tanúsítvány jogintézményének megszüntetésére vonatkozó módosításra, illetve az adatkezelési rendelkezések pontosítására.
+
+A minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) rendelkezéseinek módosítása hatékonyabbá teszi a Nemzeti Biztonsági Felügyelet tevékenységét, eljárását.
+
+A Mavtv. vonatkozó rendelkezéseinek módosításával pontosításra kerül a megismerhető nemzeti minősített adatok köre, a felülvizsgálati kötelezettség tekintetében további garanciális elem kerül beépítésre, megszűnik az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet 2/A. alcímében meghatározott telephely biztonsági tanúsítvány, a Nemzeti Biztonsági Felügyelet feladati bővítésre kerülnek, valamint lehetőséget teremt a Nemzeti Biztonsági Felügyelet számára a biztonsági vezetők, helyettes biztonsági vezetők adatainak kezeléséhez.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A módosítás biztosítja, hogy a belföldön nyilvántartásba vett jármű vezetőjének a forgalmi engedélyt ne kelljen magánál tartania, mivel azok a közúti közlekedési nyilvántartásból ellenőrizhetőek.
+
+A 2. §-hoz
+
+Az a) ponthoz: ha a vezetői engedélyt belföldön már nem lesz kötelező a polgárnak magánál tartania, akkor a vezetési jogosultsága az engedély-nyilvántartásba bejegyzett érvényes vezetési jogosultság alapján ellenőrizhető, a szövegcserés módosítás erre irányul. Ebből következően annak a járművezetőnek, aki külföldi hatóság által kiállított vezetői engedéllyel rendelkezik, azt továbbra is köteles magánál tartania, ha a közúti forgalomban vesz részt.
+
+A b) ponthoz: a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (1) bekezdése és a 11. §-a alapján az állami vagyonról szóló 2007. évi CVI. törvény 27. §-ban foglaltak szerint az állam tulajdonában álló nemzeti vagyonra vonatkozóan vagyonkezelési szerződés köthető. Ezzel összhangban a vízgazdálkodásról szóló 1995. évi LVII. törvény 3. § (2) bekezdés a) pontja alapján a vízügyi igazgatási szervek látják el az állami tulajdonban lévő vizek és vízilétesítmények, a felszín alatti vizek víztartó képződményeinek és a felszíni vizek medreinek vagyonkezelését. Erre tekintettel indokolt a vízügyi igazgatási szervek vonatkozásában is a vagyonkezelés kifejezés alkalmazása.
+
+A 3. §-hoz
+
+A külföldre utazásról szóló 1998. évi XII. törvényben az útlevél kiadásának és pótlásának esetkörei is szabályozásra kerülnek. Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.). azonban jelenleg csak az okmány kiadásának illetékeit állapítja meg, így a jogalkalmazói gyakorlat az, hogy a pótlási eljárásokban is az okmány kiadásáért fizetendő illeték kerül kiszabásra.
+
+A pótolt okmány - funkciójából adódóan - az eredeti okmány helyébe lép, így érvényességi időtartama elég széles skálán mozoghat, de mindenképpen rövidebb annál. Magánútlevél pótlására ugyanakkor elektronikus úton - személyes megjelenés nélkül - is van lehetőség. Nem életszerű ugyanakkor az, hogy az új okmány kiállítása esetén ugyanazt a mértékű illetéket kelljen megfizetni, mint például egy még másfél évig érvényes okmányért pótlás jogcímén, hiszen az új okmány érvényességi ideje akár 5 vagy 10 év is lehet, ezért csökkentett tétel kerül megállapításra. A módosítás értelmében csökkent díjtétel érvényesül a kiskorú gyermekek érintettsége esetén. Az illetékmentesség esetköreinek kiegészítése szükséges az ideiglenes magánútlevéllel, tekintettel arra, hogy ezért az okmányért a konzul előtti eljárásban konzuli díjat kell fizetni.
+
+Kivezetésre kerül az eddigi „büntető” jelleggel alkalmazott dupla illeték az elveszett, megsemmisült és megrongálódott okmány esetében, itt a pótlás vagy kiadás illetéktételei lesznek alkalmazandók (az Itv. tárgyi illetékmentességi szabályai szerint az eltulajdonított okmányok pótlására irányuló eljárás eleve illetékmentes). A gyakorlati jogalkalmazásban számos esetben okozott gondot a dupla illeték kérdése, így a módosítás ezt a jogbizonytalansági helyzetet is orvosolja.
+
+Szintén kivezetésre kerül a határátlépési engedély illetéktétele, mert gyakorlatilag ilyen kiadására nem kerül sor. 2014-2015. évben Ukrajna vonatkozásában merült fel még néhány esetben igény határátlépési engedély meghosszabbítására (vasutasok tekintetében), de az utóbbi években ilyenre sem került sor.
+
+Ugyancsak kivezetésre kerül a fellebbezési eljárás illetéke, tekintettel arra, hogy arra az Itv. 29. §-ban szabályozott általános szabályok is alkalmazhatók, díjtételében attól eltérést nem tartalmaz.
+
+A 4., 6. §-hoz
+
+Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény 3. § (10) bekezdése alapján 2020. július 1-jei hatállyal a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) adattartalma kiegészül a polgár ujjnyomatával, melyet kizárólag pótlás céljából, az érintett írásbeli hozzájárulása alapján lehet nyilvántartani. Az ujjnyomat hozzájáruláson alapuló nyilvántartásával lehetővé válik az állandó személyazonosító igazolvány elektronikus úton történő pótlása. Ezzel összefüggésben szükséges törvényi jogalap biztosítása ahhoz, hogy az eljárásra hatáskörrel rendelkező nyilvántartást kezelő szerv az állandó személyazonosító igazolvány pótlása során ezt az adatot a nyilvántartásból igényelhesse. Ezzel összefüggésben - figyelemmel arra, hogy az ujjnyomat nyilvántartásának kizárólagos célja az elektronikus úton történő pótlás lehetőségének a biztosítása - az is kizárásra kerül, hogy más szervek ezen adatot a nyilvántartásból igényelhessék.
+
+Az 5. §-hoz
+
+2020. július 1-jei hatállyal bevezetésre került az e-személyazonosító igazolvány szolgáltatásazonosítója, mely alapján a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdésében meghatározott szervek, azaz
+
+a) a közforgalmú személyszállítási szolgáltatást teljesítő közlekedési szolgáltató,
+
+b) a nemzeti mobilfizetési tevékenységet végző szervezet,
+
+c) az országos, elővárosi, regionális és helyi személyszállítási közszolgáltatásokban működő, illetve kialakításra kerülő elektronikus jegyrendszer, utastájékoztatási rendszer, valamint elektronikus forgalomtervező és irányítási rendszerek országos átjárhatóságát, az egységes működési tartalmának biztosítását, valamint a személyszállítási közszolgáltatások megrendelését támogató funkciókat ellátó Központi Rendszer működtetője, továbbá
+
+d) ha a bevételek beszedését a közlekedésszervező végzi, a közlekedésszervező
+
+válik jogosulttá adatigénylésre a közlekedési kártya igénylésével és felhasználásával, valamint a vele kapcsolatos visszaélésekkel kapcsolatban.
+
+A 7. §-hoz
+
+A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény 9. § (3) bekezdése 2020. szeptember 1-jei hatállyal módosítja az Nytv. 26. § (2) bekezdését az elektronikus lakcímbejelentési eljárás megteremtése érdekében. Az Nytv. 29. § (7) bekezdés i) pontja alapján az állandó személyazonosító igazolvány tároló eleme tartalmazza a lakcímadatot is, ezért szükséges annak a meghatározása, hogy az elektronikus úton kezdeményezett lakcímbejelentési eljárás esetén a lakcímadat milyen módon rögzíthető a személyazonosító igazolvány tároló elemén. A tároló elemen való adat írásához technológiai okból személyes megjelenés szükséges, ezért elektronikus lakcímbejelentés esetén a tároló elemen való rögzítés utólagosan történik.
+
+Az elektronikus lakcímbejelentési eljárás feltételeinek megteremtésére figyelemmel indokolt továbbá a külföldön élő magyar állampolgárok részére is biztosítani ezt a lehetőséget a magyarországi tartózkodási hely vonatkozásában, jogszabályban részletezett esetekben.
+
+A 8. §-hoz
+
+A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 6. § (5) bekezdése értelmében bevonuláskor a hadköteles külföldre utazásra jogosító összes okmányát a bevonulás helyén a katonai igazgatásnak a hadköteles lakóhelye szerint illetékes területei szervének képviselője a fogadó katonai szervezet részére átadja. A katonai szolgálat teljesítése alatt az okmányokat az állományilletékes katonai szervezet őrzi. Az átvett okmányokat a leszereléssel egyidejűleg a leszerelt részére vissza kell adni. Tekintettel arra, hogy a Hvt. e rendelkezése értelmében a hadköteles útlevele és személyazonosító igazolványa is bevonásra kerül, szükséges rendelkezni arról, hogy a katonai szolgálatteljesítés ideje alatt személyazonosításra a katonai igazolvány szolgál.
+
+A 9. §-hoz
+
+Az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló 2013. évi CCXX. törvényt az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 2017. január 1. napjával hatályon kívül helyezte, a módosítás ezen változás technikai átvezetését szolgálja.
+
+A rendelkezés pontosító jellegű módosítást is tartalmaz, 2020. július 1-jei hatállyal bevezetésre került az e-személyazonosító igazolvány szolgáltatásazonosítója, amelyet a személyiadat- és lakcímnyilvántartás tárol az elektronikus egyedi azonosítóhoz hasonlóan. A szolgáltatásazonosító személyiadat- és lakcímnyilvántartásban történő nyilvántartása miatt szükséges a módosítás, melyre figyelemmel a pótlás során az állandó személyazonosító igazolvány változatlan szolgáltatásazonosítóval kerül kiállításra.
+
+A 10. §-hoz
+
+Az egyes fontos, valamint közbizalmi és közvélemény-formáló tisztségeket betöltő személyek ellenőrzéséről szóló 1994. évi XXIII. törvényt 2005. december 31-e óta hatálytalan, a módosítás ezen változás technikai átvezetését szolgálja.
+
+A 11. §-hoz
+
+A megbízhatósági vizsgálat körét indokolt kiterjeszteni a jármű műszaki megvizsgálásával, illetve környezetvédelmi felülvizsgálatával összefüggő ügyekben a közlekedési hatóság kormánytisztviselői jogviszonyban álló tagjai, valamint a közlekedési hatóság által engedélyezett tanúsító szervezeteknél foglalkoztatási jogviszonyban álló műszaki vizsgabiztosokra is.
+
+A közúti közlekedésről szóló törvény értelmében a járművek műszaki vizsgálata állami feladat. A hatályos normaszövegben nem szereplő, a járművek műszaki megvizsgálásával, illetve környezetvédelmi felülvizsgálatával összefüggő ügyekben eljáró kormánytisztviselők és a közlekedési hatóság által engedélyezett tanúsító szervezeteknél foglalkoztatási jogviszonyban álló műszaki vizsgabiztosok is nagy korrupciós nyomásnak vannak kitéve. A járművek nagy száma, a közúti forgalomban részt vevő járművek biztonságos közlekedését szolgáló műszaki állapot megfelelőségének érdekében indokolt, hogy az műszaki vizsgáztatás során eljáró ügyintézőkre is végrehajtható legyen megbízhatósági vizsgálat.
+
+A módosítás alapján megbízhatósági vizsgálat alá vonható személyi kör sem az ellátott közfeladat fontossága, sem pedig a korrupciós fenyegetettség mértéke szempontjából érdemben nem különbözik a hatályos rendelkezések alapján megbízhatósági vizsgálat alá vonható személyi körtől.
+
+A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7. § (1) bekezdés b) pont ba) alpontja, valamint (1a) bekezdése a döntés előkészítésére, döntésre vagy ellenőrzésre jogosult, az (1a) bekezdésben meghatározott feladatokat ellátó kormánytisztviselőket a védett állomány körébe vonja, amelyből következően a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv megbízhatósági vizsgálatot folytathat ezen kormánytisztviselők vonatkozásában is. A munkavállalók közül az Rtv. jelenleg csak az általános rendőrségi feladatok ellátására létrehozott szerv, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv - és a most elvégzendő módosítást követően - az idegenrendészeti szerv munkavállalóit vonja a védett állomány körébe.
+
+Ezen módosításon túlmenően a törvényjavaslat javaslatot tesz három szerv esetében a védett állományba tartozóknak a munkavállalókra történő kiterjesztésére:
+
+1. a közbeszerzési eljárással kapcsolatos döntés-előkészítési, döntési vagy ellenőrzési feladatokat ellátó munkavállalók
+
+a) a fekvőbeteg szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz és fertőtlenítőszer beszerzések országos központosított rendszeréről szóló 46/2012. (III. 28.) Korm. rendelet alapján az Állami Egészségügyi Ellátó Központnál, valamint a gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól szóló 16/2012. (II. 16.) Korm. rendelet alapján a Nemzeti Egészségbiztosítási Alapkezelőnél,
+
+b) a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet alapján a Közbeszerzési és Ellátási Főigazgatóságnál,
+
+2. a közlekedési hatóság által engedélyezett tanúsító szervezeteknél foglalkoztatási jogviszonyban álló műszaki vizsgabiztosokra.
+
+A 12. §-hoz
+
+A módosítás az Rtv. 7/A. § (1) bekezdését újra megállapítja. Ennek keretében annak második mondatát elhagyja és egy új (1a) bekezdésbe helyezi át. Ezzel az (1) bekezdés könnyebben áttekinthető és alkalmazható lesz. A módosítással megállapított új (1a) bekezdés a hatályos szabályozással egyezően rögzíti a megbízhatósági vizsgálat keretében létrehozandó mesterséges élethelyzet lényegi elemeit.
+
+Új eleme a szabályozásnak, hogy a megbízhatósági vizsgálat keretében lehetőség lesz olyan tárgy elhelyezésére, amely egyrészt illeszkedik a mesterséges élethelyzetbe, nem változtat annak valósághű voltán, másrészt alkalmas arra, hogy azáltal a hivatali, munkaköri kötelezettség teljesítése ellenőrizhető legyen. Ez nem egy új eszköz, hanem egy végrehajtási mód, amely hatékonyan képes elősegíteni a megbízhatósági vizsgálatok eredményes lefolytatását. A javaslat tudatosan nem használja a büntetőeljárásról szóló 2017. évi XC. törvényben (a továbbiakban: Be.) bírói vagy ügyészi engedélyhez nem kötött leplezett eszközként nevesített csapda kifejezést. A javaslat nem kívánja újra visszahozni a csapdát a titkos információgyűjtés eszközei közé, csupán azt rögzíti, hogy adott a lehetőség arra, hogy megbízhatósági vizsgálat keretében pénzt vagy egyéb tárgyat helyezzen el az NVSZ eljáró tagja, ezzel ellenőrizve a szolgálati kötelesség maradéktalan teljesítését. Az alkalmazása alapvetően nem eredményez a megbízhatósági vizsgálattal egyébként szükségszerűen együtt járó alapjog-korlátozáson felüli további jogkorlátozást. A törvényi szintű szabályozást az indokolja, hogy például egy - a későbbi bizonyítást segítő - vegyszeres eljárással ellátott tárgy már érintheti a megbízhatósági vizsgálat alá vont személy testi integritáshoz való jogát, amely lényeges tartalmának korlátozására csak törvényben kerülhet sor.
+
+A 13. §-hoz
+
+Az Rtv. 88. § (3) bekezdés f) pontjának módosításával megszűnik az a korlátozás, hogy az adattovábbítási nyilvántartásból adat csak jogosulatlan adatkezelés miatt folytatott büntetőeljárás során igényelhető a tényállás tisztázása céljából. A módosítás általánosságban (bármely bűncselekmény esetén) biztosítja a lehetőséget az adatigénylésre a büntetőeljárás során eljáró bíróság, ügyészség és nyomozó hatóság részére.
+
+A 14., 17. §-hoz
+
+Az Rtv. 91/A. §-a meghatározza, hogy a rendőrség a bűnügyi adatkezelésében milyen adatokat és mennyi ideig jogosult kezelni. A kezelt adatok között vannak a terheltre vonatkozó személyes adatok, illetve kriminalisztikai jellemzők is. A megőrzési idők minden esetben valamilyen büntetőeljárási szempontból releváns, objektív, állandó vagy az annak alapjául szolgáló büntetőeljáráshoz kapcsolódóan dinamikusan változó időponthoz kötődnek, amelyek egy része a bűnügyi nyilvántartási rendszer nyilvántartásaiban szerepel, egy másik része pedig a büntető anyagi jogi szabályozás vagy az alapul szolgáló büntetőeljárás iratanyagából megismerhető. Ilyenek például az elítélés, a büntetett előélethez fűződő hátrányok alóli mentesítés, a jogerős ügydöntő határozat meghozatalának vagy a büntethetőség elévülésének időpontja. A rendőrségi adatkezelő szerv vezetője köteles gondoskodni arról, hogy a személyes adatok védelmének biztosítása érdekében a tárolt adatokat töröljék, ha az adatok tárolásának törvényben meghatározott határideje lejárt.
+
+A javaslat célja, hogy az adatmegőrzési időket egységesen, illetve egyes esetekben a bűncselekményre irányadó büntetési tételkeret felső határához igazítva arányosított olyan objektív időponthoz kösse, amely biztosítja, hogy a megőrzési idő lejártakor az érintett adatok - akár emberi közrehatás nélkül, automatikusan - törlésre kerüljenek. A módosítást indokolja az is, hogy az Rtv. 91/A. §-a szerinti adatkezelési rendelkezések jelenleg nem alkotnak koherens rendszert, ugyanis sokszor következetlenül többféle megoldással rendezik az adatkezelés határidejét. Egyes pontok esetében csak az elévülés szerepel határidőként, máshol az ügydöntő határozat meghozatala, megint máshol kombinált feltételeken alapul a határidő számítása. Azokban az adatkezelési esetekben pedig, amikor a mentesítés szerepel feltételként, az Rtv. az „elítélés” kifejezést használja, így kétséges lehet, hogy azon terheltek esetén, akiket felmentettek vagy kényszergyógykezelésre ítéltek, milyen határidőt kell figyelembe venni.
+
+A javaslat egységesen a bűnüldözési adatállományba bekerüléstől rendeli számítani a differenciált megőrzési időket, biztosítva ezzel a törvényes adatkezelést.
+
+A javaslat nem tűzte célul a teljes bűnüldözési adatkezelés megreformálását és a megőrzési időtartamokat sem növeli. Továbbra is különböztet a megőrzési idők tekintetében abból a szempontból, hogy elévülő vagy el nem évülő bűncselekményről van-e szó, megőrizve a hatályos Rtv. szerinti ötven éves megőrzési időtartamot azon bűncselekmények esettében, amelyek elévülése a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) alapján kizárt. Az elévülő bűncselekmények közül kiemeli és magasabb megőrzési időt biztosít a javaslat azokra az adatokra, amelyek életfogytig tartó szabadságvesztéssel is büntethető bűncselekményhez kapcsolódnak. A javaslat egyebekben nem emeli a megőrzési időket, viszont a kezelésre nyitva álló időtartam kezdetét objektív időpillanathoz köti, amely a hatályos szabályozás szerinti későbbi időponttól (például jogerős ügydöntő határozat meghozatala, mentesítés, büntetés kitöltése) eltérően az adatállományba kerülés időpontja. A tárgykörhöz kapcsolódóan közjogi szervezetszabályozó eszköz [az elektronikus Modus Operandi Nyilvántartás működtetésével kapcsolatos egyes feladatokról szóló 12/2014. (V. 16.) ORFK utasítás] pedig szűkít a bűncselekményi körön, és a bűnügyi helyzethez igazítottan folyamatosan felülvizsgálja azokat, így az elektronikus Modus Operandi rendszer csak olyan bűncselekményekhez kapcsolódó Rtv. szerinti adatokat kezel, amelyek vagy a súlyuknál vagy egyéb kriminalisztikai jellemzőjüknél fogva ténylegesen hozzájárulhatnak a bűnüldözés hatékonyságához (például sorozat-bűncselekmények, vagy azonos módszerű, illetve eszközű ismételt elkövetések felismeréséhez).
+
+Az Rtv. alapján azon adatok kivételével, amelyeket a büntetőeljárásról szóló törvény alapján rövidebb határidőn belül törölni kell, a rendőrségi adatkezelő szerv a leplezett eszközök alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig kezeli, ha a büntethetőség elévülése kizárt. Ha a nyomozás megindítását követően a terhelt büntetőjogi felelősségét nem állapítják meg, az adatokat a bűnüldözési adatállományba történt bekerülésének időpontjától számított húsz évig, ha a büntetőjogi felelősséget megállapítják, harminc évig kell kezelni.
+
+Az Rtv. 91/A. § (1) bekezdés hatályos h) pontja alapján kezelhetőek az egyes bűncselekmények nyomozása során a felderítés és a bizonyítás során keletkező ügyiratokban szereplő személyek, azok kapcsolatainak, eljárási helyzetének adatai, valamint a hozzájuk fűződő nyomozási adatok. A javaslat ezt a rendelkezést hatályon kívül helyezi, mert az abban foglalt személyi kör és a hozzájuk kapcsolódó adatkör bizonytalan tartalmú, adott esetben olyan személyek - közelebbről meg nem határozott - adatainak évtizedekig való kezelését is biztosítja, akik egy adott büntetőeljárásban teljesen marginálisan vagy hivatalból voltak érintettetek.
+
+A 15. §-hoz
+
+Az Rtv. 97. § (1) bekezdés h) pontja szerinti fogvatartott fogalmának pontosítása a gyakorlat részéről már régóta igényként fogalmazódott meg. A fogalomban egyrészről az „elfogott és előállított” szövegezés miatt értelmezési kérdésként merül fel, hogy a fogalom az Rtv. 33. § (2) bekezdése szerint csak előállított (de nem elfogott) személyre értelmezhető-e, miközben nyilvánvalóan észszerű indoka annak nem lehet, hogy azt a személyi szabadságában korlátozott személyt, akit „csak” előállítanak, ne illessenek meg az Rtv.-ben a fogvatartottra vonatkozóan rögzített jogok úgy, ahogy azok az egyébként „elfogott és előállított” személyt megilletik. Ilyen különbségtételnek sem jogpolitikai, sem szakmai indoka nem lehet.
+
+Ezen a felvetésen túlmenően ugyanakkor szakmailag a fogvatartott fogalmának általános meghatározását jelenleg szűkítő, értelmező zárójeles rész fenntartása sem indokolt. A javasolt megfogalmazás így ezen kívánalmaknak teljes egészében eleget tesz.
+
+A 16. §-hoz
+
+A 4/A. § szövegcserés módosításával lehetővé válik, hogy a jövőben a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állományába nem kizárólag a rendőrségi feladatokat ellátó szervtől kerülhetnek vezénylésre a hivatásos állomány tagjai, hanem bármely rendvédelmi feladatokat ellátó szerv személyi állományából. A módosítás eredményeként a megbízhatósági vizsgálatok egyre szélesebb körű alkalmazására lenne lehetőség, illetve bővülhet az új élethelyzetek tárháza. A megbízhatósági vizsgálatok gyakorlati tapasztalat az, hogy a vizsgálatokhoz szükséges életszerűség az egyes védett állományok, hatósági feladatok körében csak akkor érvényesülhet, ha hiteles, az adott élethelyzetben jártas, adott közegben természetesen fellépő személy szerepel a szituációban. Az ilyen speciális szakértelem és szakképzettség a más rendvédelmi feladatokat ellátó szervnél szolgálatot teljesítő állomány bevonásával biztosítható. Az ilyen szaktudással rendelkező személyek azonban nem csak közvetlenül a vizsgálatokban tudnak részt venni, hanem a birtokukban levő szaktudás átadásával segíthetik a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv állományát is. A megbízhatósági vizsgálatokon túl a bűnfelderítés területén is előfordulnak olyan helyzetek, amikor a különleges szakmai ismeret megléte az eredményesség kizárólagos záloga (például gyakori a magas szintű közbeszerzési szakértelem igénye).
+
+Az Rtv. 7. §-ának szövegcserés módosítása megteremti a megbízhatósági vizsgálat lefolytatásának lehetőségét az idegenrendészeti szerv munkavállalói vonatkozásában is.
+
+Az Rtv. 42. § (5f) bekezdése alapján a rendőrség a kép- és hangfelvételt a törvényben előírt tájékoztatási kötelezettségének teljesítése, míg az Rtv. 42. § (6) bekezdése alapján hatósági eljárás, titkos információgyűjtés, illetve az érintett személy jogainak gyakorlása érdekében használhatja fel. Ugyanakkor a rendőri szervek képzési tevékenységét nagymértékben segítheti, ha az elvégzett műveleti feladatról készült felvétel szakmai szempontú elemzésére, értékelésére sor kerülhet, amelyet ezt követően a rendőri állomány oktatására, képzésére felhasználhat a rendőri szerv. Ezt az Rtv. jelenleg nem teszi lehetővé, ezért a javaslat szerint a kép- és hangfelvétel személyazonosításra alkalmatlanná tett módon ilyen célokra is felhasználhatóvá válik. Ebben az esetben is feltétel továbbá, hogy a felvétel készítésének alapjául szolgáló eljárás eredményességét nem sérti az ilyen célú felhasználás.
+
+A 18. §-hoz
+
+A segédőrök és vészőrök vízkárelhárítás során történő alkalmazása több évtizedes gyakorlat, amelyet az árvíz- és belvízvédekezésről szóló 10/1997. (VII. 17.) KHVM rendelet [7. § (4) bekezdés a) pont] tesz lehetővé. A segédőrök és a vészőrök rövid időszakra, a védekezés időtartamára kerülnek munkavégzésre irányuló jogviszonyba az érintett vízügyi igazgatási szervvel, viszont a hatályos szabályozás alapján nem egyértelmű, hogy munkaviszony vagy megbízási jogviszony keretében is elláthatják-e a feladataikat. A gyakorlat szerint a vízügyi igazgatási szervek önállóan, saját hatáskörben munkaszerződés vagy megbízási szerződés alapján biztosítják a védekezéshez szükséges létszámot a vizek kártételei elleni védekezés szabályairól szóló 232/1996. (XII. 26.) Korm. rendelet 10. §-a szerint. Az adott munkavégzéssel összefüggésben a vízügyi szervek részéről általában megfelelőbbek ezen jogviszonyok alkalmazása, mint a közalkalmazotti jogviszony, azért a jogalkalmazás egyértelműsítése érdekében indokolt a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) a közalkalmazotti jogviszonyon kívüli foglalkoztatás lehetőségét is szerepeltetni a vízügyi védekezés tekintetében.
+
+A 19. §-hoz
+
+A Vgtv. ezen módosítása azt a problémát oldja fel, hogy állami költségvetési forrás és európai uniós támogatás csak állami tulajdonú ingatlanra használható fel, így a nem állami tulajdonban lévő csatornaszakaszok rekonstrukciójára fordított állami kiadások miatt a fejlesztés tárgyán osztott tulajdon jönne létre. Az osztott tulajdon létrehozását azonban a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdés c) pontja tiltja. Ezért nem állami tulajdonú csatornarészek állami és európai uniós forrásból nem fejleszthetők. A törvénymódosítás emiatt rögzíti, hogy a fejlesztés érdekében indokolt a közcélú vízilétesítmények tulajdonjogának az állam javára történő megszerzése.
+
+A 20-21. §-hoz
+
+Az élet- és vagyonbiztonságot veszélyeztető, tömeges megbetegedést okozó COVID-19 fertőzés miatti humánjárvány gazdasági következményeinek elhárításával összefüggésben, az állampolgárok kötelezettségeinek könnyítése érdekében a felszín alatti vízkivételt biztosító, engedély nélkül létesített vagy üzemeltetett vízi létesítményeknek a hatóság felé, bírság kiszabása nélküli bejelentésére a jogalkotó a kérelmezőnek a jelenleginél három évvel hosszabb határidőt biztosít. Így az illegálisan kialakított és használt kutak utólagos engedélyeztetése az eddigi, 2020. december 31-ig tartó határidő helyett 2023. december 31-ig kezdeményezhető bírságmentesen.
+
+A határidő meghosszabbítása a kérelmezőre nézve kedvező szabályt állapít meg, ezért azt a már folyamatban lévő eljárásokban is alkalmazni kell.
+
+A 22. §-hoz
+
+E bekezdés határozza meg azon feladatköröket, amelyekben az NBSZ jogosult saját döntése alapján a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 54. § (1) bekezdés szerinti, külső engedélyhez nem kötött eszközöket és módszereket alkalmazni. Az NBSZ információbiztonsági feladatainak támogatása érdekében szükséges biztosítani - a fedőokmány, fedőokirat, fedőadat készítése, felhasználása; fedőintézmény létrehozása, fenntartása; elektronikus hírközlési eszközön vagy információs rendszeren folytatott kommunikáció tényének megállapításához, az elektronikus hírközlési eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatok megszerzése - külső engedélyhez nem kötött eszközök és módszerek alkalmazhatóságát.
+
+A kibertérben egyre szaporodó fenyegetések és támadások, valamint az állami és társadalmi működés egyre fokozódó digitalizációja Magyarországon is megkövetelik a kiber-védekezőképesség növelését, az ennek érdekében végrehajtandó feladatok meghatározását. A Nemzetbiztonsági Szakszolgálat kereteiben létrejövő Kiberbiztonsági Központ és Kutatóintézet információbiztonsági feladatainak megjelenítése ezért indokolt.
+
+Az elektronikus hírközlési hálózatok ellenőrzése nem terjed ki az azon folytatott kommunikációra, ez az ellenőrzés a gyakorlati megvalósítás során nem fog teljes körű megfigyelést jelenteni, és az abból szerzett adatokat nem használják fel egyéb célokra. Az is fontos szempont, hogy az ellenőrzés során megszerzett adatokat a lehető legrövidebb megőrzési idő után törölni szükséges. E garanciális szabályok biztosítják a jogszerűséget és az Alaptörvény által biztosított alapjogokkal és értékekkel való összhangot.
+
+A 23-26. §-hoz
+
+Az Nbtv. javaslat szerinti módosítása azért vált szükségessé, mert a gyakorlatban sürgető igény mutatkozik arra, hogy ne fordulhasson elő olyan eset, amikor az ügyészség és az Nbtv. szerinti együttműködő szervek anélkül folytatnak párhuzamosan büntetőeljárási törvény szerinti előkészítő eljárást, nyomozást, illetve alkalmaznak leplezett eszközt vagy folytatnak titkos információgyűjtést, hogy egymás tevékenységéről tudnának. A módosítás csökkenti az ügyészség és az együttműködő szervek működésbeli párhuzamosságából fakadó bűnüldözési kockázatokat, egyúttal fokozza a nyomozások, az operatív feladatok ellátásának eredményességét és érvényre juttatja az adattakarékosság elvét. A javaslat az Nbtv. - Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban: TIBEK) támogató, koordinációs elemző-értékelő tevékenységét részletező - 8/A. § (3) bekezdését kiegészíti azokkal a rendelkezésekkel, amelyek az ügyészség és az együttműködő szervek által párhuzamosan folyatott titkos információgyűjtések, előkészítő eljárások, nyomozások és leplezett eszköz-alkalmazások feltárásához szükségesek.
+
+A módosítás kizárólag az ügyészség fentiekben felsorolt tevékenységéhez kapcsolódik, az igazságszolgáltatással összefüggő feladat- és hatáskörét nem érinti. Az ügyészség nem közvádlói minőségében jelenik meg, hanem mint titkos információgyűjtést, előkészítő eljárást vagy nyomozást folytató, illetve leplezett eszközt alkalmazó szerv. Ebből a szempontból - a tevékenység célját és jellegét tekintve - nem különbözik az Nbtv. szerinti együttműködő szervektől, így azokhoz hasonlóan az adatátadásnak is a lehető legszélesebb adatkörre kell vonatkoznia. Az Nbtv. az együttműködő szervek tekintetében sem tartalmaz tételes felsorolást az átadható adatok köréről, de azokat egyértelműen a fentiekben felsorolt tevékenységek körére szűkíti, ahogyan teszi ezt a javaslat az ügyészség kapcsán is.
+
+Garanciális jelleggel rögzíti a javaslat, hogy a TIBEK elemző, tájékoztató és koordinációs tevékenysége az ügyészség vonatkozásában kizárólag a hatáskörrel és illetékességgel rendelkező ügyészség által folytatott titkos információgyűjtés, leplezett eszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt azon adatokra, információkra és iratokra vonatkozik, amelyeket a Legfőbb Ügyészség és a TIBEK között megkötendő megállapodás tartalmaz. Az ügyészség által egyéb törvényes feladatainak ellátása keretében kezelt adatok ezen kívül esnek. Az ügyészség a javaslat szerinti tevékenysége körében kezelt és a megállapodásban rögzített adatokat elektronikus úton továbbítja a TIBEK részére. Kiemelt jelentősége van annak, hogy az adatszolgáltatás csak a megállapodás megkötését követően, az ügyészségnél indult titkos információgyűjtésekre, előkészítő eljárásokra, nyomozásokra és leplezett eszköz-alkalmazásokra terjed ki.
+
+A javaslat alapján a TIBEK az együttműködő szervek mellett az ügyészséget is tájékoztatja akkor, ha rendelkezik a szolgáltatott adatot pontosító, kiegészítő információval, illetve a szükséges információcsere érdekében értesíti az érintett szerveket és kezdeményezi a kapcsolatfelvételt. Figyelemmel arra, hogy a párhuzamos eljárásról való tájékoztatás adott esetben sértheti az ügyészség eljárásának érdekét, így a javaslat alapján akkor, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, akkor a TIBEK a párhuzamos adatkezelésről csak a legfőbb ügyész hozzájárulásával tájékoztathatja az érintett együttműködő szervet.
+
+A javaslat kifejezett rendelkezést tartalmaz arról is, hogy a Legfőbb Ügyészség és a TIBEK megállapodásban rögzíti az elektronikus adatszolgáltatással érintett adatok, információk, iratok körét és az adatszolgáltatás részletes rendjét (menetét). Fontos szerepe van a javaslat azon rendelkezésének, amely rögzíti, hogy a TIBEK az általa kezelt adatot csak célhoz kötötten, az ügyészség hatásköre gyakorlásához, illetve feladatai ellátásához szükséges körben továbbítja, feltéve, hogy az adat kezelésére az ügyészség törvény alapján jogosult.
+
+A javaslat - egyes együttműködő szervekhez hasonlóan - lehetőséget biztosít arra, hogy a hatáskörrel és illetékességgel rendelkező ügyészség vezetője a titkos információgyűjtés során beszerzett és a TIBEK részére szolgáltatott adat büntetőeljárásban való felhasználását vagy továbbítását előzetes hozzájáruláshoz kösse. A javaslat az ügyészség vonatkozásában is rögzíti, hogy a TIBEK adattörlési kötelezettsége az eredeti ügyészségi adatkezelés megőrzési idejéhez igazodik.
+
+A javaslat 6. §-a azokat a szövegcserés módosításokat végzi el, ahol az együttműködő szerv mellett az ügyészség szerepeltetése is szükséges a párhuzamosságok feltárása és az eredményesség előmozdítása érdekében.
+
+A módosítás alapján a TIBEK
+
+a) az ügyészséget visszatájékoztatja az információik felhasználásáról, a további feladatokról, információszerzési irányokról,
+
+b) az ügyészség támogatása céljával adatbázisokat kezel, valamint
+
+c) tájékoztató jelentéseket, háttér- és kockázatelemzéseket készít az ügyészség részére a hatáskörébe tartozó feladatok törvényes, szakszerű és eredményes ellátásának elősegítése céljából.
+
+A 27. §-hoz
+
+Az NBSZ információbiztonsági feladatainak maradéktalan végrehajtásához szükséges szaktudás biztosítás érdekében indokolt az NBSZ számára is megteremteni annak lehetőségét, hogy együttműködőként olyan személyt vegyen igénybe, akivel szemben büntetőeljárás kezdeményezhető, illetve akivel szemben büntetőeljárás van folyamatban, azonban az együttműködéshez fűződő nemzetbiztonsági érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
+
+A 28. §-hoz
+
+A módosítás megteremti a lehetőségét annak, hogy az Nbtv. jelenlegi rendszerébe illeszkedően a nemzetbiztonsági szolgálatok a feladataik ellátásával összefüggésben a kibertérben észlelt fenyegetésekkel szembeni ellenintézkedésekre külső engedélyhez kötött titkos információgyűjtés keretében jogosultak legyenek. Ezen rendelkezés biztosítja továbbá, hogy az NBSZ ezen tevékenységet szolgáltatói szerepkörben biztosíthassa az arra jogosult szervezetek részére.
+
+A 29. §-hoz
+
+A nemzetbiztonsági ellenőrzés alá eső személyek körébe tartozó módosításokra irányuló rendelkezések. Az ia) alpont jelenlegi megfogalmazása szerint a nagykövet és az önálló külképviseletet irányító főkonzul tartozik jelenleg nemzetbiztonsági ellenőrzés alá. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszolg. tv.) szabályozására tekintettel indokolt ezen megfogalmazást felülvizsgálni. A Külszolg. tv. 5. §-a értelmében a külképviselet vezetését
+
+a) a rendkívüli és meghatalmazott nagykövet,
+
+b) a főkonzul,
+
+c) az állandó ügyvivő, valamint
+
+d) a kereskedelmi képviselet-vezető
+
+látja el, ezen fogalmakat együttesen külképviselet-vezetőnek tekinti a törvény. Indokolt a nemzetbiztonsági ellenőrzés alá eső személyeket ezen fogalommal rögzíteni.
+
+Az ij) alpont mintájára kiegészül a felsorolás it) alpontként az állam alapítói joggyakorlása alá tartozó gazdálkodó szervezet vezető tisztségviselőjével, vezető állású munkavállalójával, felügyelő bizottságának tagjával. Az auditbizottság tagját nem szükséges megjeleníteni a felsorolásban, tekintettel arra, hogy a Ptk. 3:291. §-a az auditbizottságról - amelyet a nyilvánosan működő részvénytársaságnál kötelező létrehozni - úgy rendelkezik, hogy azt a közgyűlés a felügyelőbizottság vagy az igazgatótanács független tagjai közül választja, így az auditbizottságba választható tagoknak már ezen tagságukból kifolyólag előírás a nemzetbiztonsági ellenőrzés megléte. Az állam alapítói joggyakorlása alá tartozó gazdálkodó szervezetnél betöltött vezetői jogviszonyok vagy tisztségek éppúgy ki lehetnek téve a jogellenes befolyásolási szándéknak, mint az állami vagy többségi tulajdonban lévő gazdálkodó szervezetnél lévők.
+
+A 30. §-hoz
+
+Az Nbtv. 67. § (1) bekezdése értelmében a nemzetbiztonsági szolgálatok által nyújtott nemzetbiztonsági védelem célja az 1. számú mellékletben meghatározott személyek tevékenysége ellen irányuló, valamint ezen személyek tevékenységéhez kötődő védett információk jogellenes megszerzését célzó - ezáltal Magyarország nemzetbiztonsági érdekeit sértő vagy veszélyeztető - leplezett törekvések felderítése és elhárítása.
+
+A nemzetbiztonsági védelem alá eső tisztségeket az Nbtv. 1. számú melléklete határozza meg. Ezen tisztségek között szerepel a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettes, illetve a Magyar Nemzeti Bank elnöke és alelnökei. A közjogi szempontból hasonló jelentőséggel bíró Gazdasági Versenyhivatal elnöke és elnökhelyettesei azonban nem jelennek meg a felsorolásban. A törvényjavaslat ennek kiküszöbölése érdekében nevesíti a felsorolásban ezen tisztségeket is.
+
+A 31. §-hoz
+
+Az Nbtv. 70. § (2) bekezdése szabályozza az Nbtv. 74. § i) pontja alapján nemzetbiztonsági ellenőrzés alá eső személyek esetében a nemzetbiztonsági ellenőrzés kezdeményezésére jogosultak körére vonatkozó speciális szabályokat. Az Nbtv. 74. § i) pontja alapján nemzetbiztonsági ellenőrzés alá esik az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezet vezető tisztségviselője, vezető állású munkavállalója, felügyelő bizottságának tagja, amely személyi kör vonatkozásában az Nbtv. 70. § (2) bekezdés e) pontja alapján a kezdeményező az állam nevében tulajdonosi jogokat gyakorló miniszter lehet.
+
+A jelen pontosítás a jogszabályok közötti koherenciát hivatott megteremteni, tekintettel arra, hogy az előírások szerint nem minden esetben miniszter gyakorolja a tulajdonosi jogokat, a minisztertől eltérő tulajdonosi jogkörgyakorlás esetében azonban a kezdeményező személyére vonatkozó rendelkezést jelenleg az Nbtv. nem tartalmaz.
+
+A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 7/A. § (1) bekezdése alapján az állam tulajdonában álló nemzeti vagyon tekintetében tulajdonosi joggyakorló kizárólag a
+
+a) miniszter,
+
+b) központi költségvetési szerv,
+
+c) az állam 100%-os tulajdonában álló gazdálkodó szervezet,
+
+d) az állam és a c) pontban meghatározott szervezet együttesen 100%-os tulajdonában álló gazdasági társaság vagy,
+
+e) az a)-d) pontban nem nevesített, a Kormány egyedi határozatában meghatározott személy lehet.
+
+A rendelkezés ezen körben teszi lehetővé a jövőben a nemzetbiztonsági ellenőrzés kezdeményezését az Nbtv. 74. § i) pont ij) alpontja szerint nemzetbiztonsági ellenőrzés alá eső személyi kör esetében. Kiemelendő, hogy az állami vagyonról szóló 2007. évi CVI. törvény 71. § (2) bekezdés b) pontjában foglaltak értelmében felhatalmazást kap a miniszter, hogy - az állam nevében végzett tulajdonosi joggyakorlás és feladatellátás hatékonyabb végrehajtása érdekében, a miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra - e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját az Nvtv. 7/A. § (1) bekezdése szerinti személy kijelölésével miniszteri rendeletben határozza meg. Ezen, miniszteri rendeletben történő kijelölés nem érinti a kezdeményezés jogkörét, azaz ilyen rendelkezések megállapítása esetén is a miniszter lesz a kezdeményező.
+
+A 32-34. §-hoz
+
+Az útlevél, valamint a vezetői engedély a személyiadat- és lakcímnyilvántartásban szereplő adatok alapján kerül kiállításra, emiatt szükséges az eljáró hatóságok felhatalmazása a személyi azonosító továbbítására annak érdekében, hogy a személyi azonosító megadásával igényelhessenek adatot a személyiadat- és lakcímnyilvántartásból. Szükséges továbbá a rendszeres adatszolgáltatás jogalapjának a megteremtése az Nytv. és a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti jogosultság nyilvántartás adatai naprakészségének biztosítása érdekében.
+
+A 35. §-hoz
+
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosításának célja az egységes terminológia biztosítása a tűzvédelmi joganyagban, a tűzveszélyes és a robbanásveszélyes kategóriák megfelelő elhatárolásával a tűzveszélyességi osztályba sorolás esetén. A tűzveszélyességi osztályba sorolás esetén a „robbanásveszélyes” osztály megnevezés helyett már a „fokozottan tűz- vagy robbanásveszélyes”, míg a „tűzveszélyes” helyett a „mérsékelten tűzveszélyes” osztály megjelölés használandó a tűzvédelmi joganyagban.
+
+A 36. §-hoz
+
+A javaslat az egyes rendészeti feladatokat ellátó személyekkel összefüggésben egyértelművé teszi az ágazati szabályokat tartalmazó, a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvényben, hogy az intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+
+A 37. §-hoz
+
+Az Fbő. törvény 2. § (1a) bekezdése kapcsán a törvény 2. § (1) bekezdése értelmében a kötelezett a fegyveres biztonsági őrséget saját szervezetében, többségi befolyást biztosító tulajdonosi részvételével működő gazdálkodó szervezet vagy az irányítása alá tartozó költségvetési szerv útján köteles létrehozni, működtetni, fenntartani, vagy az őrzést más fegyveres biztonsági őrséggel rendelkező szerv útján biztosítani. A fegyveres biztonsági őrség költségeit a kötelezett viseli.
+
+Az Fbő. törvény 1. § (1) bekezdés c) pontja alapján fegyveres biztonsági őrséggel kell védeni a „jogszabályban meghatározott nukleáris és más radioaktív anyagot, nukleáris létesítményt”. Az atomenergiáról szóló 1996. évi CXVI. törvény 31. § (8) bekezdése értelmében „a jogszabályban meghatározott nukleáris létesítmények, nukleáris és más radioaktív anyagok, radioaktív anyagot előállító berendezések, továbbá radioaktív hulladék feldolgozására, átmeneti tárolására vagy végleges elhelyezésére szolgáló létesítmények őrzését az engedélyes fegyveres biztonsági őrséggel biztosítja”.
+
+Az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet (a továbbiakban: 190/2011. Korm. rendelet) 13. §-a kimondja, hogy „a nukleáris létesítményt, kivéve az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, a radioaktív hulladék átmeneti és végleges tárolóját, valamint az I. és II. kategóriába tartozó nukleáris anyagot fegyveres biztonsági őrséggel kell védeni”.
+
+A nukleáris létesítmények, valamint a radioaktív hulladék-tárolók rendészeti szervezete - beleértve a szervezet vezetőit, a fegyveres biztonsági őrség állományát és a személy- és vagyonőröket - részt vesz a létesítmények üzemeltetésben, valamint a veszélyhelyzetek kezelésben, legyen szó nukleáris biztonsági vagy védettségi eseményről.
+
+Az üzemeltetéshez kapcsolódóan a rendészeti szervezet biztosítja a munkára kész állapot ellenőrzését, a biztonságra veszélyt jelentő személyek bejutásának és a biztonságra veszélyt jelentő tárgyak bevitelének megakadályozását.
+
+Veszélyhelyzet esetén az őrség parancsnoka, illetve a szolgálatban lévő mindenkori őrparancsnoka a napi működéstől eltérő, annál tágabb személyi kört érintő irányítási szerepbe kerülnek. A létesítményt ért fizikai támadás bekövetkeztekor a mindenkori őrparancsnok felel a teljes létesítmény védelméért és a védelmi feladatok ellátásához szükséges intézkedések meghozataláért. Ilyen esemény bekövetkeztekor az elhárító erőkön túl az őrségparancsnok a létesítmény saját állománya felé utasításadási jogosultsággal kell rendelkezzen, melyek lehetnek például meghatározott vezénylőtermek és helyiségek zárása, adott területre való be- és kilépés megtiltása, egyéb korlátozások bevezetése.
+
+Az említett jogosultság biztosítása irányítói szerepkört feltételez, amelyet a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet 4. sz. melléklet a „Nukleáris Biztonsági Szabályzatok” (a továbbiakban: NBSz.) 4.4.0.0300. pontja alapján csak saját állományban lévő személy tölthet be, azaz
+
+„az engedélyes a nukleáris létesítmény üzemeltetésébe az alábbi megkötésekkel vonhat be beszállítót:
+
+d) a beszállítók által nyújtott szolgáltatások nem terjedhetnek ki az üzemeltetés tervezési, irányítási és ellenőrzési funkcióira;
+
+e) az üzemvitel területén azon tevékenységek végrehajtásánál lehet beszállítót alkalmazni, amelyek érdemben nem érintik sem az energiatermelés alapfolyamatát, sem a nukleáris biztonságot; adminisztratív előírásokkal biztosítani kell, hogy a váltóműszakos operatív irányítási séma szerinti hierarchia érvényesüljön a beszállítók bevonása révén alkalmazott személyzetre is”.
+
+A kiégett üzemanyag és a radioaktív hulladék kezelésének nemzeti politikájáról szóló 21/2015. (V. 4.) OGY határozat 2.2. pontja értelmében „a kiégett fűtőelem és a radioaktív hulladék biztonságos kezelésének szavatolására irányuló alapelvek” 1. alpontja is kimondja, hogy „a biztonságnak minden más szemponttal szemben elsőbbsége van az atomenergia alkalmazása során”.
+
+A más fegyveres őrséggel rendelkező szerven keresztül működtetett őrség - különös tekintettel egy nagyobb telephelyen, jelentősebb létszámmal, összetettebb szervezeti struktúrában működő kötelezett esetén - távolabb viszi a felelősséget, a kontrollt a kötelezetti szereptől.
+
+A kialakítandó védelmi koncepciót figyelembe véve különösen fontos ez Paks2 5-ös és 6-os atomerőművi blokkok létesítése kapcsán, amely koncepció a hazai jogszabályok, nemzetközi és hazai útmutatók, ajánlások, bevált „jó gyakorlatok”, és szakmai tapasztalatok alapján kerül kialakításra, és amelyhez elengedhetetlen az őrség létrehozására és működtetésére vonatkozó jogszabályok koherenciája.
+
+A nukleáris létesítmények és a radioaktív hulladék-tárolók minimális fizikai védelmi követelményeit a 190/2011. Korm. rendelet határozza meg. A 190/2011. Korm. rendelet hatálya alá tartozó létesítményeknek a kormányrendeletben meghatározott minimális szintű, az Országos Atomenergia Hivatal (a továbbiakban: OAH) által megállapított tervezési alapfenyegetettségben (a továbbiakban: DBT) meghatározottakkal szemben hatékony védelmet biztosító fizikai védelmi rendszert kell kialakítani és üzemeltetni. A kialakított fizikai védelmi rendszernek a DBT-ben meghatározott külső és/vagy belső elkövetők általi támadási szcenáriókkal szemben kell biztosítania a létesítmény hatékony védelmét.
+
+A 190/2011. Korm. rendelet alkalmazásában a belső elkövető „a jogtalan eltulajdonítás vagy szabotázs végrehajtását elkövető, vagy a végrehajtást segítő olyan személy, aki a fizikai védelmi tervben meghatározott be- és kiléptetési rend alapján az adott létesítménybe belépésre jogosult”. A nemzetközi tapasztalatok, valamint a Nemzetközi Atomenergiai Ügynökség és az OAH által kiadott útmutatók alapján az őrség tagjai is lehetnek belső elkövetők.
+
+A fentiek alapján az őrség a fizikai védelmi rendszer elhárítási funkciójának biztosításáért felelős szervezet, amely szükség esetén belépési jogosultsággal rendelkezik a létesítmény teljes területére, továbbá utasítás adási jogosultsággal rendelkezhet a létesítmény működéséért felelős további szervezeti egységek felé. Az őrség felügyeli a fizikai védelmi rendszer detektálási, késleltetési funkcióját, továbbá fizikai támadás vagy jogtalan eltulajdonítás kísérlete esetén a rendőrség kiérkezéséig az első számú elhárító erő. Tekintettel az őrség létesítmény üzemeltetésében és védelmében meghatározó szerepére, feladatára, jogosultságaira, a rendelkezésére álló kényszerítő eszközökre, fegyverzetére, speciális képzettségére, helyismeretére, valamint felelősségeire, jelentős kockázatként kezelendő, hogy a szervezet tagja belső elkövető lehet.
+
+A kockázat minimalizálása érdekében az engedélyes által megfelelő biztonsági kultúra és belső szabályozók kialakítása, valamint humánbiztonsági intézkedések bevezetése indokolt.
+
+A fentebbi NBSz. követelménynek történő megfelelés, valamint az őrség tagja belső elkövetővé válása kockázatának a minimalizálása érdekében indokolt, hogy az atomenergia alkalmazása körében az engedélyes a fegyveres biztonsági őrséget kizárólag a módosítás szövegében meghatározott módon működtesse.
+
+A más fegyveres őrséggel rendelkező szerven keresztül működtetett őrség a nukleáris létesítmény, a radioaktív hulladék átmeneti és végleges tárolója, valamint az I. és II. kategóriába tartozó nukleáris anyag védelme tekintetében jelentős kockázatot hordoz magában, ezért indokolt az Fbő. törvényben kizárni ezen létesítmények esetében az Fbő. törvény 2. § (1) bekezdés első mondatának harmadik fordulata szerinti lehetőséget. Az államnak a biztonsággal, a létesítmények védelmével kapcsolatos, ilyen módon történő érdekérvényesítése, a módosítás szövegében meghatározott módon történő foglalkoztatással direktebb módon valósulna meg.
+
+A 38. §-hoz
+
+Indokolatlan az Fbő. törvény 4. § (1) bekezdés e) pontjában foglalt rendelkezés szerepeltetése, hiszen az őrszolgálat ideiglenes korlátozásának nincs relevanciája. Indokolt ugyanakkor rendelkezni arról, hogy a Rendőrség szükség esetén megerősített szolgálatot, riadót rendelhet el.
+
+Az Fbő. törvény 4. § (1) bekezdése kapcsán őr az őrzés tárgya őrzésbiztonságának biztosítása során a hatósági határozatban, valamint az őrszolgálati okmányokban megjelölt létesítményben, tevékenység végzése során olyan intézkedési és kényszerítő eszköz alkalmazási jogosultsággal rendelkezik, illetve kötelezettséggel bír, mint a hivatásos állományú rendőr a közrend, a közbiztonság fenntartásakor. Míg a rendőr intézkedését és kényszerítő eszköz alkalmazását jog- és szakszerűség szempontjából a parancsnoka minősíti, addig az őr tekintetében semmilyen ellenőrzés nincs ezen a téren. Erre figyelemmel indokolt az Fbő. törvény módosítása, ugyanis az Fbő. törvény jelenleg kizárólag a panasz előterjesztése esetén ad lehetőséget rendőri kontrollra, abban az esetben, ha az őr intézkedése, annak elmulasztása, a kényszerítő eszköz alkalmazása a panaszos jogát vagy jogos érdekét sértette.
+
+A gyakorlati tapasztalatok azt mutatják, hogy indokolt a Rendőrségnek az őrséggel kapcsolatos feladatait bővíteni, illetve a jelenleg hatályos 27/1998. BM rendeletben nevesített feladatokat törvényi szintre emelni. Ez az igény merül fel különösen a megerősített szolgálat elrendelése, az őrök kinevezését megelőző rendőrségi vélemény kialakításának lehetősége kapcsán.
+
+Az Fbő. törvény 4. § (3) bekezdése kapcsán mivel őrséggel történő őrzés elrendelése határozattal történik, és ezen határozat megléte után készülnek az őrszolgálati okmányok, az őrségutasításon kívül a határozatban, illetve az őrutasításban foglaltaktól eltérő szolgálatellátás is veszélyeztetheti az őrzés tárgya őrzésbiztonságát. A kiegészítéssel nagyobb felelősség hárul a kötelezettre és/vagy az őrséget működtető szervezetre, hogy maximálisan biztosítsa az őrzés tárgyának védelmét.
+
+A 39. §-hoz
+
+A szolgálati igazolványok legyártása gyakran hónapokat vesz igénybe, ebből kifolyólag szükséges rendelkezni arról, hogy az igénylőlap hitelesített másodpéldányának birtokában az őr a szolgálatot elláthatja. Annak ellenére, hogy az őr elismertsége, tekintélye magasabb, mint a személy- és vagyonőröké, még ma is nehéz az állományból történő eltávozások miatti létszámhiány pótlása, ezért a létesítmények őrzésbiztonsága sérülhet, ha a szolgálati igazolvány elkészültének időtartamára az őr fegyveres biztonsági őrként történő foglalkoztatása nem lenne megoldható. Tekintettel arra, hogy az Fbő. törvény rendelkezik arról, hogy az őr az Fbő. törvényben meghatározott tevékenység folytatására való jogosultságát a szolgálati igazolvány igazolja, ezért azt is az Fbő. törvényben kell szabályozni, ha a szolgálati igazolvány helyett a hitelesített igénylőlap is elfogadható ezen jogosultság igazolására.
+
+A 40. §-hoz
+
+Az Fbő. törvény 10. §-sal történő kiegészítése egyértelműsíti, hogy a Rendőrség határozatban engedélyezi a fegyveres biztonsági őrség részére a lőfegyverrel, lőszerrel és más kényszerítő eszközzel történő ellátást.
+
+A 41. §-hoz
+
+A jogszabály szövegéből a Rendőrséggel való együttműködés megfogalmazása hiányzik. A hatályos BM rendelet több helyen hivatkozik együttműködésre a Rendőrséggel, illetve az őrszolgálati okmányok részét képezi az együttműködési terv, melyben együttműködő szervként a Rendőrség is fel van tüntetve, ezért javasolt a jogszabály fenti módon történő módosítása.
+
+A 42. §-hoz
+
+A Természetvédelmi Őrszolgálat esetében szükséges egyértelművé tenni a jogi helyzetet és felhatalmazást adni a védett állatok szükséges mértékű szállítására, birtokban tartására, arra tekintettel, hogy az elmúlt időszakban jelentősen megnövekedett a lakossági bejelentés alapján végzett védett állatok mentése. A nemzeti parki igazgatóságok által készített jelentések alapján éves szinten ezres nagyságrendben szállították állatkertekbe, mentőhelyekre védett és fokozottan védett állatok egyedeit, elsősorban madarakat. A Duna-Ipoly Nemzeti Park Igazgatóság például 905 példány védett állatot mentett 2019-ban, de a többi igazgatóság is 100-400 példány védett állatot ment évente.
+
+A 43. §-hoz
+
+Az önkormányzati természetvédelmi őrök esetében szükséges egyértelművé tenni a jogi helyzetet, és felhatalmazást adni a védett állatok szükséges mértékű szállítására, birtokban tartására, arra tekintettel, hogy a közelmúltban a fővárosban működő önkormányzati természetvédelmi őrszolgálat belterületen - helyi jelentőségű védett természeti területen kívül - nagy számú védett természeti értékeket károsan érintő eseménnyel találkozott.
+
+Mindezek mellett a lakosság részéről számos bejelentés érkezik önkormányzati természetvédelmi őrökhöz sérült védett állatok kapcsán. A módosítás az illetékességi terület általános kibővítése nélkül teszi lehetővé a leggyakoribb belterületen előforduló természetvédelmi probléma kezelését az önkormányzati természetvédelmi őrök számára.
+
+A 44-45., 47. §
+
+A javaslat az egyes rendészeti feladatokat ellátó személyekkel összefüggésben egyértelművé teszi az ágazati szabályokat tartalmazó, a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény mezőőrre és hegyőrre vonatkozó rendelkezései között, hogy az intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+
+A 46. §-hoz
+
+Az Fbő. törvény a hatályba lépését megelőzően rendelkezett a már foglalkoztatási jogviszonyban álló őrök további alkalmazásának feltételeiről. Tekintettel arra, hogy az Fbő. törvény több tekintetben is módosul, illetve kiegészítésre kerül, indokolt a 30. § (3) bekezdését módosítani, valamint kiegészíteni. Egyrészt szükséges meghatározni, hogy a módosított törvény, illetve a BM rendelet rendelkezéseit mely időponttól lehet számon kérni, másrészt, hogy a foglalkoztatási jogviszonyt megelőzően az alkalmazás feltétele az Fbő. törvény és végrehajtási rendeletének ismerete, függetlenül attól, hogy az Fbő. törvény 30. § (3) bekezdése a már foglalkoztatási jogviszonyban lévő őrök esetében 2021. január 1-jétől teszi kötelezővé a módosított jogszabály ismeretét.
+
+A 48. §-hoz
+
+Az Útv. 4. § f) pontjában a pótlás fogalma módosításra kerül, egyértelművé válik, hogy magánútlevél, második magánútlevél, szolgálati útlevél, vagy hajós szolgálati útlevél változatlan adattartalommal való kiállítását érti alatta a jogszabály.
+
+Az Útv. 4. § h) pontjában a külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Útv.) 24. § (1) bekezdés a) pontja alapján az útiokmány-nyilvántartás része a kapcsolattartási adat. A módosítás továbbá az értelmező rendelkezések kiegészítésével egyértelművé teszi, hogy a telefonszámról és e-mailről van szó.
+
+A 49. §-hoz
+
+A következetes és egyértelmű fogalomhasználat miatt az útlevél típusai (magán és hivatalos) mellett azok fajtáit is célszerű meghatározni, mert a magánútlevél egyrészt gyűjtőfogalomként (magánútlevél, második magánútlevél, ideiglenes magánútlevél), másrészt önálló okmánytípusként is értelmezhető. Egyértelművé teszi a módosítás továbbá, hogy a hivatalos útlevél gyűjtőfogalmon a diplomata, a külügyi szolgálati, a szolgálati és a hajós szolgálati útlevelet kell érteni. A fogalmi elhatárolás következetes érvényesítése szükséges a jogszabály egészében.
+
+Az 50. §-hoz
+
+Az Útv. 7. § (4) bekezdésének módosítása hiánypótló rendelkezés, figyelemmel arra, hogy az ujjnyomat adási képtelenségnek két esetkörét különböztetjük meg: átmeneti és végleges képtelenséget (pl. csonkításos sérülés). Ilyen esetben értelemszerűen nem kerül rögzítésre a tároló elemben sem az ujjnyomat.
+
+Az Útv. 7. § (5) bekezdésénekmódosítása az útlevél típusai és fajtái figyelembevételével (Útv. új 6/A. §) pontosító tartalmú rendelkezés.
+
+Az Útv. 7. § (6) bekezdésének. módosítása az ideiglenes magánútlevél adatoldalát egészíti ki a kiállítás okával, az utazás célországával az okmány biztonságos és a célnak megfelelő felhasználása érdekében.
+
+Hivatalból kiállított ideiglenes magánútlevelek esetében az okmány jogosultja nem feltétlenül együttműködő (külföldről kötelező hazatérés, külföldi állam területének elhagyása miatt kell okmánnyal ellátni), így szükséges annak kimondása, hogy aláírás hiányában is érvényes az úti okmány ezen fajtája.
+
+Az 51. §-hoz
+
+Az ideiglenes magánútlevél olyan úti okmány, mely jellemzően külföldön kerül kiállításra és alapvetően egyszeri hazautazásra jogosít. A módosítás pontosító rendelkezéseket tartalmaz az ideiglenes magánútlevél kötelező és nem kötelező kiállítási esetei tekintetében, továbbá az okmány érvényességének meghatározása vonatkozásában. Szintén pontosítást tartalmaz azon magyar állampolgárok vonatkozásában, akik szokásos tartózkodási helye nem Magyarország.
+
+Az 52. §-hoz
+
+A módosítási pontosító szabályt tartalmaz a tartós külszolgálaton levők esetében azzal, hogy ennek időtartama alatt a külügyi szolgálati útlevél magáncélú utazásokra is igénybe vehető.
+
+Az 53. §-hoz
+
+A kiskorúakat érintő útlevélhatósági eljárások tipikusan az útlevél visszavonására, vagy a még ki sem állított útlevél esetében a szülői hozzájáruló nyilatkozat visszavonására irányulnak. Ezekben az eljárásokban az ügyféli pozíció meghatározó eleme a szülői felügyeleti joggal való rendelkezés. Fő szabály szerint ennek megléte igazoláshoz kötött, mely a leggyakrabban ügyféli nyilatkozatban realizálódik.
+
+Az 54. §-hoz
+
+Mivel az ideiglenes magánútlevél egyszeri hazautazásra jogosít, meg kell határozni egy speciális érvénytelenségi esetet, amely az általános érvénytelenségi okok közé nem sorolható be, így ezt külön szabályozni kell (Magyarország vagy a szokásos tartózkodási hely szerinti állam területére való belépés).
+
+Az 55. §-hoz
+
+Pontosításra és egyértelműsítésre kerül, hogy a magánútlevél pótlása, illetve a második magánútlevél kiállítása elektronikus úton akkor kérelmezhető, ha az ujjnyomat adat nyilvántartásban szerepléséhez az igénylő korábban hozzájárult.
+
+Az 56. §-hoz
+
+A közlekedési igazgatási eljárások során az új ügyintézési folyamat úgy alakítható ki, ha ennek lehetővé válik az ügyfél által személyazonosítás céljából bemutatott útlevele érvényességének közvetlen informatikai adatkapcsolaton keresztül történő, automatikus ellenőrzése. A módosítás ennek jogalapját teremti meg.
+
+Az 57. §-hoz
+
+Pontosító rendelkezés a közreműködő szerv adatkezelése vonatkozásában.
+
+Az 58. §-hoz
+
+Hiánypótló adatkezelési rendelkezést tartalmazó szabály, tekintettel arra, hogy nem minden úti okmány kiállítására irányuló eljárás zárul okmánykiállítással. Sor kerülhet a kérelem elutasítására vagy az eljárás megszüntetésére is, így ezen esetekre vonatkozóan is rendelkezni szükséges az adatkezelés garanciális szabályairól.
+
+Az 59. §-hoz
+
+Adatkezelési szabályt tartalmaz az ujjnyomat adatok kezelésének célja és ehhez kapcsolódóan az ideje szempontjából, elválasztva azt az esetet, amikor az ujjnyomat nyilvántartási kezeléséhez az érintett hozzájárul (ilyenkor az érvényességi idő végéig kezelhető), valamint amikor nem járul hozzá (kizárólag az okmány kiállításáig kezelhető).
+
+A 60. §-hoz
+
+Az Útv. 7. § (6) bekezdése módosításának eredményeként az ideiglenes magánútlevél adatoldalának adattartalma változik, ezért az okmány áttervezése és újragyártása szükséges. Ezzel kapcsolatban a törvényjavaslat tartalmaz egy átmeneti időszakot (2021. július 31-ig), amely során a konzulátusok által kezelt készleten lévő biankó okmányok még felhasználhatóak.
+
+A 61. §-hoz
+
+A szövegcserés módosítások között az Útv. 23. § (1) bekezdését módosító rendelkezés célja, hogy azon szervek (személyek) felsorolása között, akik az érvénytelenné vált okmányt elvehetik, az anyakönyvvezető is szerepeljen.
+
+Szervek és feladatok összerendelését a jogszabályhely nem tartalmazza, a szervek (személyek) az elvételt saját hivatalos eljárásukkal összefüggésben tehetik meg. Az anyakönyvvezető az elvételt a haláleset bejelentése kapcsán jogosult és köteles megtenni, erre a feladatra a hatályos 27. § (8) bekezdés utal is, az ehhez kapcsolódó érvénytelenségi okot pedig a 20. § (1) bekezdés i) határozza meg.
+
+A módosítás továbbá tartalmazza az útlevél típusaihoz és fajtáihoz (Útv. új 6/A. §) kapcsolódó terminológiai pontosításokat is.
+
+A 62. §-hoz
+
+Hatályon kívül helyező rendelkezések, amelyek az Útv. 7. § (4) bekezdés d) pontja, 6/A. §, 11. § (2) bekezdés, valamint a 21/B. § (5) bekezdés módosításaival függnek össze.
+
+A 63-65. §-hoz
+
+Az Alapvető Jogok Biztosa egy beadvány alapján vizsgálatot folytatott annak megállapítása érdekében, hogy a közúti közlekedésről szóló törvényben szabályozott parkolási, mint polgári jogi jogviszony keretében alkalmazott díj és pótdíj, valamint a közterület-felügyeletről szóló törvényben meghatározott, a közterület-felügyelő által alkalmazható, közhatalmi tevékenységen alapuló kerékbilincs alkalmazása nem okoz-e az alapjogokkal összefüggő jogsérelmet. Az Alapvető Jogok Biztosa által megfogalmazott jogbiztonság követelményére tekintettel a javaslat egyértelművé teszi, hogy a közterület-felügyelő valamennyi közhatalmi tevékenysége (kerékbilincs alkalmazása is) a parkolási közszolgáltatásra vonatkozóan kizárt.
+
+A 66-76. §-hoz
+
+A módosítás a rendelkezést kiegészíti a járművezető jelöltre vonatkozó adatok kezelésének időtartamának meghatározásával. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 8. § (1) bekezdés a) pontja a törvény alapján új alpontokkal egészül ki, vagyis újabb adatokkal egészül ki a módosítással az engedély nyilvántartás. A 15. § (3) bekezdése szerinti rendelkezés meghatározza az új adatok tekintetében az adatkezelési időtartamot. A Kknyt. új értelmező rendelkezésekkel is kiegészül annak érdekében, hogy a törvény pontosan meghatározza a járművezető és a járművezető jelölt fogalmát.
+
+A Kknyt. 3. és 5/A. §-ának módosításai a vezetői engedély és a forgalmi engedély helyszíni elvételével azonos joghatással járó új jogintézményt vezet be, a vezetési jogosultság és a forgalomban való részvétel azonnali felfüggesztését. Az azonnali felfüggesztés tényét a közúti ellenőrzésre jogosult szerv jegyzi be a nyilvántartásba.
+
+A NAVASZ projekt során a vezetői engedély és a járműnyilvántartás szakrendszere teljes körű informatikai megújításon esik át. Ennek során - a nyilvántartott adatok közhitelességének és pontosságának javítása, valamint az állampolgárok adminisztratív terheinek csökkentése érdekében - közvetlen informatikai adatkapcsolat kerül kialakításra az említett nyilvántartások és más állami nyilvántartások informatikai szakrendszerei között, (jelen módosítások esetében adatkapcsolat a személyiadat- és lakcímnyilvántartással, a bűnügyi nyilvántartási rendszerrel és a gondnokoltak nyilvántartásával).
+
+A Kknyt. 32/B. §-a a közúti közlekedési nyilvántartást támogató informatikai szakrendszerhez való hozzáférésre jogosult személyek központi jogosultsági nyilvántartásának létrehozásáról rendelkezik a közúti közlekedési nyilvántartás biztonságos működése érdekében.
+
+A 77. §, 79. §-hoz
+
+Az idegenrendészeti hatóság eljárása során ellenőrzi az ügyfél által előadottak valóságtartalmát. Ehhez szükséges az ügyfél által az állampolgársági eljárásában előadottak megismerése is. Az ehhez szükséges adatigénylés lehetőségét biztosítja a 78. § (1) bekezdésben és a 80. § (1) bekezdésben foglalt módosítás.
+
+A 78. § (2) bekezdésében és 80. § (2) bekezdésben foglalt javaslat szerint a közérdekből közzétett, nyilvánosan elérhető - vagyis közérdekből nyilvános - adatok idegenrendészeti eljárásban történő felhasználása javítja az eljárás hatékonyságát. Ilyen adatok lehetnek a külföldi hatóságok (például Europol) által közzétett körözési arcképek is. Ha a külföldi nem tudja igazolni a személyazonosságát, úgy az idegenrendészeti hatóság a közérdekből nyilvános - jellemzően a közzétevő hatóság honlapján elhelyezett - adatokat is felhasználhatja az eljárása során.
+
+A 78. §, 80. §-hoz
+
+A jogharmonizációs záradék kiegészítése szükséges:
+
+a) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155/EU európai parlamenti és tanácsi rendelet módosítása miatt, valamint
+
+b) azért, mert a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet hatályon kívül helyezi és újrakodifikálja a korábbi, jelentős mértékben módosított, a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2001. március 15-i 539/2001/EK tanácsi rendeletet.
+
+A 81. §-hoz
+
+Az (EU) 2018/1806 európai parlamenti és tanácsi rendelet hatályon kívül helyezi és újrakodifikálja a korábbi, jelentős mértékben módosított 539/2001/EK tanácsi rendeletet. Mivel azonban azon harmadik országok listáját, amelyek állampolgárai mentesek a vízumkötelezettség alól, amennyiben a tagállamok határait a bármely 180 napos időszakban 90 napot meg nem haladó tartózkodás céljából lépik át az új, (EU) 2018/1806 európai parlamenti és tanácsi rendeletnek szintén a II. melléklete tartalmazza, elegendő a Harmtv.-ben a rendelet számának kicserélése.
+
+A 82. §-hoz
+
+Gyakorlatban felmerülő probléma, hogy a végrehajtási eljárás során olyan tény jut a központi hatóság tudomására, amely indokolja a külföldi hatóság megkeresését. Problémát jelent továbbá, hogy az Szjst. kizárja az elkövető jogorvoslati jogát, olyan esetekben, amikor a külföldön kiszabott bírság például tévesen kerül megállapításra, mert nem a határozatban szereplő gépjárművel követtek el jogsértést vagy helytelenül állapították meg a rendszámot.
+
+A központi hatóság a jelenlegi gyakorlat szerint felfüggeszti az eljárást és megkeresi a külföldi hatóságot. Sok esetben azonban a végrehajtást kérő külföldi hatóság a központi hatóság megkeresésére nem válaszol. Ezekben az esetekben javasolt egyértelműen meghatározni, hogy ha a felfüggesztés időtartama alatt nem érkezik válasz a központi hatóság részére, a végrehajtási eljárást megszüntetheti és nem folytatja tovább a végrehajtást.
+
+A 83. §-hoz
+
+A külföldi határozat végrehajtása iránti megkeresését a pénzbírság, valamint a végrehajtásra átvett eljárási költség tekintetében a szabálysértési költség végrehajtására vonatkozó szabályok szerint kell végrehajtani. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 141. § (16) bekezdése szerint a szabálysértési költséget annak meg nem fizetése esetén adók módjára kell behajtani.
+
+Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 19. § (1) bekezdése kimondja a tartozás és a meghatározott cselekmény végrehajtásához való jog az esedékesség naptári évének az utolsó napjától számított 4 év elteltével évül el. Ha az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik.
+
+A fenti jogszabályi rendelkezések alapján indokolt a külföldi hatóság által kiszabott pénzbírság és eljárási költség hazai végrehajtása keretében a személyes adatok kezelésének időtartamát két évről öt évre módosítani, figyelemmel az eljárási költség végrehajthatóságának időtartamára.
+
+A módosítás további célja, hogy egyértelművé tegye, hogy mely esetekben kerül sor az Európai Unió Tanácsának a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB kerethatározata (a továbbiakban: Kerethatározat) rendelkezéseinek teljes körű alkalmazására, tehát a pénzbírság összegének teljes végrehajtására. A hivatkozott rendelkezésben szerepelő jelenlegi szöveg önmagára hivatkozik vissza, így az jogalkalmazási problémákhoz vezethet.
+
+A 84. §-hoz
+
+A dublini őrizettel kapcsolatos módosítás célja, hogy őrizetet ne csak a dublini eljárás eredményeként jelentkező átadás érdekében lehessen alkalmazni, hanem magának a dublini eljárás lefolytatásának az érdekében abban az esetben, ha a külföldi nem terjesztett elő Magyarországon menedékjogi kérelmet, feltételezhetően azonban dublini átadásnak lehet helye az esetében és a szökésének komoly veszélye is fennáll.
+
+A 31/A. § (10) bekezdés módosításának a célja, hogy a menekültügyi őrizetet a menekültügyi hatóság - az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével - kivételesen indokolt esetben - egészségügyi intézményben is végrehajthassa. A gyakorlatban többször előfordult olyan eset, amikor a szökés veszélyének fennállása miatt indokolt volt a menekültügyi őrizet elrendelése, azonban az érintett egészségi állapota (betegsége vagy éppen a tiltott határátlépés során szerzett sérülése) valamilyen egészségügyi intézményben történő elhelyezést tett szükségessé.
+
+A 85. §, 87. §-hoz
+
+A menedékjogi eljárásban meg kell teremteni a zár alá vétel lehetőségét, melynek célja, hogy ha a tényállás másként nem tisztázható vagy az jelentős késedelemmel járna, vagy a zár alá vétel mellőzése a tényállás tisztázásának sikerét veszélyeztetné, a hatóság jogosult valamely dolog birtokának a birtokos rendelkezése alóli elvonására.
+
+A menedékkérőktől - helyzetüknél fogva - nem minden esetben várható el, hogy érvényes személyazonosító okmányokkal rendelkezzenek. Ugyanakkor az elmúlt évek gyakorlati tapasztalatai alapján megállapítható, hogy általánossá vált a menedékkérők között az elektronikus eszközök használata. A javaslat lehetőséget ad a hatóságnak, hogy a menedékkérő birtokában lévő dolgot - így az elektronikus eszközt is - zár alá vegye, és az abban tárolt adatokhoz történő hozzáféréshez szakértő közreműködését vegye igénybe. Ezen eszközök számos olyan adatot tartalmaznak, melyek segíthetnek a menekültügyi hatóságnak és magának az elismerését kérőnek is a személyazonosság, az állampolgárság beazonosításában. Az állami információ igény mellett tehát a zár alá vétel a kérelmező érdekeit is szolgálja, hiszen a technikai eszközökön lévő adatok kiértékelésével bizonyítást nyerhet az elismerését kérő menekülési története és ezáltal menedékjogi igénye. Az ily módon szerzett bizonyíték a menekültügyi eljárásban történő személyazonosság megállapítása érdekében szükséges ideig és mértékig használható fel és tárolható.
+
+A 86. §-hoz
+
+A menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) 32/Y. § (9)-(11) bekezdése szerint a végrehajtási jog a teljesítési határidő utolsó napjától számított öt év elteltével elévül, a végrehajtási jog elévülését bármely végrehajtási cselekmény megszakítja, és nem számít bele az elévülési időbe a végrehajtási eljárás felfüggesztésének időtartama. Ezen rendelkezések alapján egy végrehajtási eljárás akár évtizedekig is elhúzódhatna. A kiegészítő rendelkezés az adóhatóság két sikertelen végrehajtást foganatosító, és általa eredménytelennek nyilvánított és megszüntetett eljárásához köti a végrehajtási eljárás automatikus megszűnését. Hiánypótló rendelkezés az eljárás megszűnésének szabályozása az ügyfél halála esetén.
+
+A 88. §-hoz
+
+A menekültkénti, oltalmazottkénti, befogadottkénti elismerés feltételei fennállásának felülvizsgálata során indokolt lehet az állampolgársági ügyekben eljáró szerv megkeresése azzal kapcsolatosan, hogy az érintett személynek van-e folyamatban honosítási eljárása, és amennyiben igen, abban mikor várható a döntés. Ennek ismerete az eljárás felfüggesztése miatt indokolt.
+
+A 89. §-hoz
+
+A közérdekből közzétett, nyilvánosan elérhető - vagyis közérdekből nyilvános - adatok menekültügyi eljárásban történő felhasználása javítja az eljárás hatékonyságát. Ilyen adatok lehetnek a külföldi hatóságok (például Europol) által közzétett körözési arcképek is. Ha a külföldi nem tudja igazolni a személyazonosságát, úgy a menekültügyi hatóság a közérdekből nyilvános - jellemzően a közzétevő hatóság honlapján elhelyezett - adatokat is felhasználhatja az eljárása során.
+
+A 90. §-hoz
+
+Gyakorlati tapasztalat indokolta kiigazító rendelkezések.
+
+a) A módosítás célja, hogy a törvény és a 2011/95/EU (kvalifikációs) irányelv 17. cikk (1) bekezdés d) pont szóhasználata egymásnak megfeleltethető legyen, így a jogalkalmazás során kiküszöbölhetővé válik a két szó mögötti tartalom eltérő magyarázata, figyelemmel arra, hogy a törvény, valamint a szakhatóságok által kiadott állásfoglalások a két szó jelentéstartalmát nem határolják el egymástól olyan formában, mint a büntetőjogszabályok.
+
+b) A menekültügyi nyilvántartásban történő javítás (pl. névelírás) módosítása hatóság döntés, így szükséges erre vonatkozóan is a rendelkezés.
+
+c) A Met. 64. § (1) bekezdés d) pontjában a „da)” és a „db)” pontok a „vagy” kötőszóval kerültek elválasztásra.
+
+Ez fogalmilag nem azonos a 2011/95/EU (kvalifikációs) irányelv 10. cikk (1) bekezdés d) pont angol nyelvű szövegével, ami az ott alkalmazott két francia bekezdést [a törvény „da)” és a „db)” pontjának megfeleltethetően] az “and” szóval köti össze, amely konjunktív feltételnek minősül. Az irányelv magyar nyelvű fordítása ugyanott az „illetve” kötőszót használja, amelynek jelentése többértelmű („és/vagy”), így a konjunktív feltétel sem teljesülhet adott esetben a jogalkalmazás során. A módosítás célja, hogy a törvény és az irányelv szó- és fogalomhasználata egymásnak megfeleltethető legyen, valamint a jogalkalmazás során kiküszöbölhetővé váljék a két szó mögötti tartalom eltérő magyarázata.
+
+d) Külön rendelkezés hiányában a befogadotti felülvizsgálatra az általános, 30 napos határidő vonatkozik.
+
+Ugyanakkor a befogadottak esetében - általában - jelentősen több körülményt kell megvizsgálni és mérlegelni, pl. esetleges kizáró okok, melyek miatt indokolt a menekültkénti illetve oltalmazottkénti felülvizsgáltra vonatkozó határidők alkalmazása.
+
+e) A 80/K. § (11) bekezdésének módosításának célja, hogy a területen maradás tekintetében egységes megítélés alá kerüljenek mind az elismerést kérők, mind azok a korábban elismert státusszal rendelkezők, akiknek korábbi kérelme tárgyában végleges megszüntető vagy elutasító döntés született vagy státuszuk visszavonásra került.
+
+f) A kiegészítés célja, hogy a menekültügyi nyilvántartás a természetes személyazonosító adatok között az anyja előző születési családi és utóneve adatot is tartalmazza. A gyakorlatban többször előfordult, hogy az anya kérte nevének módosítását, azonban gyermekei esetében ezen módosítás - az anyja neve vonatkozásában - nem került automatikusan módosításra.
+
+A 91-92. §-hoz
+
+A javaslat az egyes rendészeti feladatokat ellátó személyekkel összefüggésben egyértelművé teszi az ágazati szabályokat tartalmazó törvényben, hogy az intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+
+A javaslat az egyes rendészeti feladatokat ellátó személyekkel összefüggésben egyértelművé teszi és az ágazati szabályokat tartalmazó törvényben is pontosítja az intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására vonatkozó szabályokat. Eszerint a kényszerítő eszközök alkalmazása elleni panasz elbírálása a rendőrség, ha kényszerítő eszköz alkalmazására nem kerül sor, az intézkedéssel szembeni panasz elbírálása a munkáltató hatáskörébe tartozik.
+
+Mivel a rendészeti feladatokat ellátó erdészeti szakszemélyzetet és jogosult erdészeti szakszemélyzetet jellemzően magán munkáltatók alkalmazzák ezért esetükben a tervezet az intézkedéssel szemben benyújtott panasz elbírálására erdészeti hatóságot jelöli ki. Ez hatóság látja el a nyilvántartási hatósági feladatot is.
+
+A 93. §-hoz
+
+Figyelemmel arra, hogy a javaslat - a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény (a továbbiakban: Körtv.) meghatározott feltételek megléte esetén - megteremti a törvényes jogalapot az eltűnt személyek vér szerinti hozzátartozói DNS-profiljainak kezelésére, így indokolt a Bnytv.-ben ezzel az adatkörrel összefüggésben lehetővé tenni, hogy az összehasonlítás ne csak a DNS-profilok egyezésére, hanem a rokonsági fok megállapítását eredményező összevetésére is kiterjedhessen, amelyről a szakértői nyilvántartó szerv tájékoztatja a nyilvántartásba vételt kezdeményező szervet.
+
+A 94. §-hoz
+
+Az egyes büntetőeljárásokban a büntetőeljárással összefüggésben vétlen nyomszennyezés kockázatát hordozó tevékenységet végző személyek részvételével megtartott eljárási cselekmények kapcsán fokozottan fennáll a vétlen nyomszennyezés kockázata, amely miatt az igazságügyi szakértői vizsgálat a személyi állomány eljáró tagjának mintáját - tévesen - idegen mintaként azonosítja be. Ennek megelőzése érdekében hozza létre a javaslat a Bnytv. keretein belül, de a bűnügyi nyilvántartásoktól egyértelműen elkülönülő új nyilvántartásként az eliminációs nyilvántartást. Az eliminációs nyilvántartást a Kormány által rendeletben kijelölt szerv fogja kezelni (Nemzeti Szakértői és Kutató Központ). A szabályozás célja a biometrikus minta vétlen szennyeződése kiszűrésének egyszerűsítésével az elkövető azonosításának elősegítése. A javaslat kizárólag azoknak a személyeknek a biometrikus adatai nyilvántartásban történő kezelésére ad felhatalmazást, akik a foglalkozásuk, hivatásuk, munkájuk, beosztásuk, általánosságban az általuk folytatott tevékenység okán hordozzák a büntetőeljárással összefüggő vétlen nyomszennyezés kockázatát.
+
+A javaslat alapján
+
+a) az eliminációs nyilvántartás célja a biometrikus minta vétlen szennyeződésének kiszűrésének egyszerűsítésével az elkövető azonosításának elősegítése (a nyilvántartás csökkenti az egyes személyeket érintő ismételt mintavételek és DNS-profil meghatározások számát, így idő- és költséghatékony),
+
+b) elvben bárki előtt nyitott lesz az eliminációs nyilvántartásba való bekerülés lehetősége, akinek a tevékenysége kötődik a büntetőeljárási helyszíni cselekményekhez és tevékenysége magában hordozza a vétlen nyomszennyezés veszélyét (pl. a mentőszolgálat tagjai is bekerülhetnének vagy az egyes rendészeti feladatokat ellátó személyek, polgárőrök, ügyészek, stb., de a legnagyobb arányban nyilván a rendőrség bűnügyi szolgálatának tagjai lesznek érintettek),
+
+c) az eliminációs nyilvántartásban elegendő a DNS-profil adatainak rögzítése, a szájnyálkahártya-törlet megsemmisíthető és így a nyilvántartás megoldható informatikai adatbázisként,
+
+d) a vétlen nyomszennyezés miatt mintavétellel érintett személyek biometrikus adatainak eliminációs nyilvántartásba vétele kötelező lesz, azonban az érintett tevékenységet végző személy tiltakozhat az adatai eliminációs nyilvántartásba vétele ellen, ebben az esetben az adatai csak a mintavétellel érintett eljárásban kezelhetőek,
+
+e) az érintett személy tiltakozási jogát gyakorolhatja a mintavételkor, de azt követően is bármikor jogosult arra, hogy a szakértői nyilvántartó szerv részére tett nyilatkozattal tiltakozzon az adatai további kezelése ellen (tiltakozás esetén az adatok nem vehetőek nyilvántartásba, illetve a már nyilvántartott adatot törölni kell az eliminációs nyilvántartásból),
+
+f) a tiltakozási jog eseti (nem cél, hogy egyetlen nyilatkozattal a jövőre nézve megtilthassa az érintett az adatai kezelését),
+
+g) csak az érintettként megjelölt személyek vonatkozásában végezhető kizárási tevékenység, az eliminációs nyilvántartásba más „betekintés” nem megengedett.
+
+h) az eliminációs nyilvántartásban kezelt adatok csak a javaslatban meghatározott célból használhatóak fel (vétlen nyomszennyezés kizárása),
+
+i) az eliminációs adatbázis tartalma nem használható fel abban a büntetőeljárásban az elkövető azonosítására, amelyben az érintett személy a biometrikus minta vétlen szennyezésének veszélyével járó tevékenységet nem végzett,
+
+j) az eliminációs nyilvántartásba felvett adatokat - függetlenül attól, hogy mely büntetőügyben vették le az ezekhez tartozó mintát - tiltakozás esetén törölni kell,
+
+k) az adatkezelés végső időtartama egy objektív, tíz éves határidőhöz kötött.
+
+Az érintett személyt az eljáró ügyészség, nyomozó hatóság a helyszínen vagy utóbb nyilatkoztatja, hogy az eliminációs nyilvántartásban az adatai szerepelnek-e. Ha úgy nyilatkozik, hogy már kezelik az adatait az eliminációs nyilvántartásban, akkor mintavétel helyett a személyazonosító adatait továbbítja a szakértői nyilvántartó szervnek az eljáró szerv, és ha utóbb a szakértői nyilvántartó szerv mégis arról tájékoztatja, hogy nem kezeli az érintett személy adatait, a mintavételt pótolni kell. Ez azért sem okoz a gyakorlatban nehézséget, mert jellemzően nem a bűncselekmény helyszínén fog megtörténni a mintavétel (hiszen például a mentőorvos helyszíni feladatai elsőbbséget élveznek), hanem utólag. Az eliminációs nyilvántartás előnye éppen az, hogy az ilyen utólagos mintavételek számát radikálisan csökkentheti.
+
+A 95. §-hoz
+
+A bűnügyi nyilvántartással való közvetlen adatigénylés megvalósítására szolgáló informatikai adatkapcsolat kialakítására annak érdekében van szükség, hogy a kényszergyógykezelés hatálya alatt állás, mint közlekedésbiztonsági alkalmatlansági ok, és így a vezetői engedély kiállítását akadályozó körülmény ne maradjon ismeretlen a vezetői engedélyt kiállító hatóság számára, hanem közvetlen informatikai adatkapcsolat útján jusson a tudomására. A közlekedésbiztonsági alkalmatlanság a vezetési jogosultság szünetelését vonja maga után, és az ezt elrendelő határozat indokolásában szükség van az elrendelő bíróság megnevezésére, határozatának számára és keltére, valamint a határozat jogerőre emelkedésének napjára.
+
+A 96. §-hoz
+
+A Körtv. 15. § (5) bekezdése olyan, a bűnügyi nyilvántartó szerv számára előírt feladatokat tartalmaz, amelyek tárgyukat tekintve a Bnytv.-be valók. Erre tekintettel a javaslat a hivatkozott rendelkezést - rendszertanilag helyesen - azonos tartalommal átemeli a Bnytv. 71. § új (1a) bekezdésébe. Ezzel egyidejűleg a javaslat hatályon kívül helyezi a Körtv. említett rendelkezését.
+
+A 97. §-hoz
+
+A javaslat felhatalmazást ad a Kormány részére, hogy kijelölje az eliminációs nyilvántartást vezető szakértői nyilvántartó szervet, valamint az érintett személy DNS-profiljának meghatározásában közreműködő szervet.
+
+A 98. §-hoz
+
+A javaslat a Bnytv. módosításával megteremti a jogalapot arra, hogy a Körtv. alapján és a Bnytv. alapján kezelt daktiloszkópiai, illetve DNS-profil nyilvántartások dinamikus rendszerben működhessenek. Mindkét törvényt érintő előírás lesz, hogy egy nyilvántartásba venni kért daktiloszkópiai adatot, illetve DNS-profil adatot a nyilvántartásba vétel előtt össze kell vetni az adott törvény, illetve a másik törvény alapján kezelt daktiloszkópiai, illetve DNS-profil nyilvántartásokban kezelt adatokkal.
+
+A Bnytv. belső koherenciáját érintő pontosításként a javaslat rögzíti, hogy a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásából való törlésre azt követően is sor kerül, ha az ügyben a vétlenként küldött személy mintája azonosításra kerül a helyszínen vagy a tárgyi bizonyítási eszközön rögzített nyommal, és a törlését a büntetőeljárást lefolytató szerv jóváhagyja. Ugyanezt átvezeti a javaslat a DNS-profilok vonatkozásában is.
+
+A 99. §-hoz
+
+Az érintett által megismerhető nemzeti minősített adatok köre pontosításra kerül.
+
+A 100. §, 103. §-hoz
+
+A módosítással megszűnik a jogalapja az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet [a továbbiakban: 92/2010. (III. 31.) Korm. rendelet] 2/A. alcímében meghatározott telephely biztonsági tanúsítvány kiállításának, amely a gazdálkodó szervezetet kizárólag a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) 3. § (1) bekezdésében meghatározott szerződés vagy alvállalkozói szerződés megkötésére jogosítja fel. A módosítás eredményeként a Nemzeti Biztonsági Felügyelet a 2015. évi VII. törvény hatálya alá tartozó gazdálkodó szervezetek részére telephely biztonsági tanúsítványt vagy - a 92/2012. (III. 31.) Korm. rendelet módosításával hatályon kívül helyezésre kerülő 2/A. alcímben meghatározott telephely biztonsági tanúsítvány kiadásával azonos eljárási rend szerint - egyszerűsített telephely biztonsági tanúsítványt ad ki.
+
+A 101. §-hoz
+
+A módosítás megteremti a jogalapot a biztonsági vezető számára az igazolás kiadására, valamint a kezelésében lévő személyes adatok más minősített adatot kezelő szervhez történő továbbítására. A Mavtv. 13. § (1) bekezdése alapján minősített adatot csak az a személy használhat fel, akinek ez állami vagy közfeladat ellátása érdekében indokolt, és aki - fő szabályként - rendelkezik érvényes és a felhasználni kívánt adat minősítési szintjének megfelelő személyi biztonsági tanúsítvánnyal, titoktartási nyilatkozattal, valamint felhasználói engedéllyel. Amennyiben a felhasználónak az állandó munkavégzés helyétől eltérő, más minősített adatot kezelő szervnél nemzeti, vagy külföldi minősített adatot meg kell ismernie (pl. értekezlet, iratbetekintés, felülvizsgálat okán), akkor szükséges, hogy az érvényes személyi biztonsági tanúsítványainak meglétét és szintjét igazolja.
+
+A 102. §, 104. §-hoz
+
+A kiegészítés megteremti a jogalapot a személyes adatok kezeléséhez, valamint a törvényi felhatalmazást a biztonsági vezetők, helyettes biztonsági vezetők adatainak kezeléséhez a Nemzeti Biztonsági Felügyelet részére. E módosításokra figyelemmel szükséges a Mavtv. 16. § (4a) bekezdésének hatályon kívül helyezése.
+
+A 105. §-hoz
+
+Az állam által biztosított közfoglalkoztatás célja egyrészt az álláskereső munkaerőpiacra való visszatérésének elősegítése, másrészt - jellemzően - az álláskereső lakóhelye szerinti település fejlesztéséhez, infrastruktúrájának, környezetének fenntartásához szükséges feladatok elvégzése.
+
+A települések nagy részében kitűzött és a közfoglalkoztatás során érvényesített környezetalakítási, környezetszépítési cél csak úgy lehet eredményes, ha a közterületek mellett a magántulajdonban lévő ingatlanok is rendezett képet mutatnak. A jogalkotó ezért a közösségi együttélés, a környezetvédelem, a közegészségügy és a közbiztonság szabályozási kereteinek meghatározása során már korábban bevezetett olyan rendelkezéseket, amelyek érvényesítése segíti az esztétikus, tiszta, egészséges és biztonságos települési lakókörnyezet kialakítását. E meglévő, különböző jogágakban fellelhető szabályokra építve ösztönzi a törvénymódosítás a közfoglalkoztatásban résztvevő álláskeresőket, hogy a település szépítése érdekében végzett napi munkájukkal összhangban a közvetlen lakókörnyezetüket is tartsák rendben. E reális jogalkotói elvárás az álláskeresők családjának érdekét ugyanúgy szolgálja, ahogyan a teljes települési lakóközösségét. Egy adott település általános rendezettsége pozitív hatással van az ingatlanok értékére, a turizmusra és a befektetési hajlandóságra.
+
+Az utóbbi évtizedekben ugyanis különösen észlelhető a - különböző árucikkek tömegtermelése miatti - hulladékképződés és környezetszennyezés arányának növekedése, a humán populációt és az állatállományt érintő járványok gyakori megjelenése, valamint az allergén növények széles körű terjedése miatti megbetegedések, és a nem megfelelő állattartás okozta veszélyhelyzetek. E folyamatok és jelenségek ellen a jogalkotás szintjén is indokolt fellépni minél több lehetséges eszközzel.
+
+A törvénymódosítás végleges hatósági határozatban megállapított jogsértés esetén tenné lehetővé a közfoglalkoztatott meghatározott időre történő kizárását a közfoglalkoztatásból. Ez garanciális jellegű szabály, mert csak a rendezetlen lakókörnyezet jelentette tényleges veszélyhelyzet esetén alkalmazhatná a járási hivatal a kizárás jogintézményét.
+
+A 106. §-hoz
+
+A rendelkezés módosítása terminológiai pontosítás, a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről, valamint a 96/82/EK tanácsi irányelv módosításáról és későbbi hatályon kívül helyezéséről szóló 2012. július 4-i 2012/18/EU európai parlamenti és tanácsi irányelv 2. cikk (2) bekezdés b) pontja szerinti rendelkezés átültetését szolgálja.
+
+A 107. §-hoz
+
+A módosítás a vezetői engedély helyszíni elvételével azonos, a vezetési jogosultság azonnali felfüggesztése jogintézmény bevezetése miatt szükséges.
+
+A 108. §-hoz
+
+A javaslat az általános szabálysértési hatósági feladatok rendőrség hatáskörébe integrálásával jelentkező többletfeladatokból adódó, mindenekelőtt a megyei rendőr-főkapitányságok székhelye szerinti, valamint a megyéken belüli nagyobb illetékességi területtel rendelkező rendőrkapitányságok leterheltsége csökkentését szolgálja. A végrehajtási eljárásban a szabálysértési hatóságnak adminisztrációs feladatai vannak, amelyek nem igénylik az állampolgárok hatóság előtti megjelenését, így az többletterhet nem jelent.
+
+A 109. §-hoz
+
+A szabálysértési eljárásban a bíróság, a szabálysértési hatóság engedélyezheti, hogy a tanú írásban tegyen vallomást. A jelenlegi szabályozás alapján a tanú a vallomását saját kezűleg leírja és aláírja. Figyelemmel az elektronikus ügyintézés bevezetésére indokolt a vallomástétel egyéb módját is lehetővé tenni.
+
+A 110. §-hoz
+
+A szabálysértési törvényben a feljelentés elutasítási okok között nem szerepel az az eset, amikor a feljelentés megtétele és az eljárás megindítása közötti időben a szabálysértés elkövetésével gyanúsítható személy elhalálozik és erről a szabálysértési hatóságnak a feljelentés adatai alapján tudomása van. A tervezet ezzel az objektív, a büntetőjogi terminológiában büntethetőséget megszüntető okkal kiegészíti a feljelentés elutasítására vonatkozó okokat, hasonlóan a büntetőeljárásról szóló 2017. évi XC. törvény 381. § (1) bekezdés d) pontjában foglaltakhoz.
+
+A 111. §-hoz
+
+A határozatok elektronikus úton való továbbítására vonatkozó rendelkezések teszik szükségessé a határozat tartalmára vonatkozó rendelkezések kiegészítését.
+
+A 112. §-hoz
+
+A Szabs. tv. 141. § (2) bekezdésének jelenlegi szabályozás nem tartalmaz arra vonatkozó rendelkezést, hogy az általános szabálysértési hatóságnak kell gondoskodnia a szabálysértési költség és a rendbírság végrehajtásáról, ezért indokolt a Szabs. tv. kiegészítése. Pontosítani szükséges továbbá, hogy mindazon esetekben, amelyekben a szabálysértési eljárást a szabálysértés elkövetésének vagy felderítésének helye szerint illetékes szabálysértési hatóság folytatta le, a végrehajtásról is annak a szervnek kell gondoskodnia.
+
+A Szabs. tv. 141. §-ának egyéb módosításai kapcsán a Kormány 2017. június 6-ai hatállyal a Szabs. tv. szerinti központi bírságkezelő szervként az Országos Rendőr-főkapitányságot (a továbbiakban: ORFK) jelölte ki. A rendőrségi szabálysértési tevékenységhez kapcsolódó bírságkövetelés- és befizetésnyilvántartás nem képezte részét az ORFK ezirányú tevékenységének. A Szabs. tv. 2020. március 1-jei módosítása indokolja a követelés- és befizetésnyilvántartási tevékenység megosztását a területi szervek között.
+
+Fentiek alapján az ORFK által ellátott központi bírságkezelői feladatkörnek a jövőben a Szabs. tv. 39. § (2) bekezdés c)-i) pontjaiban meghatározott szervek, illetve személyek által kiszabott és önkéntesen megfizetett helyszíni bírságokra szükséges kiterjednie.
+
+A Rendőrség területi szerveinek - melyek hatáskörébe tartoznak jelenleg is az egyes rendőrségi hatáskörbe tartozó szabálysértések, illetve az azokkal összefüggő követelések befizetéseinek nyilvántartásai - az e célból létrehozott központosított beszedési számlákon szükséges kezelniük a módosítás szerint érintett összegeket, továbbá ezen szerveknek el kell látniuk a kapcsolódó befizetés-ellenőrzési és beazonosítási feladatokat is.
+
+A pénzkövetelések naprakész nyilvántartása érdekében szükséges, hogy a bírósági webes adatközlő felületen a döntéshozatalt követően azonnal, de legkésőbb 3 napon belül megtörténjen a követeléseket kiszabó döntések meghatározott adataival kapcsolatos adatrögzítés. Az adatok a jogerőre emelkedéskor módosíthatók, ezért a jogszabály-módosítással az ügyfelet jogsérelem nem éri.
+
+A 113-114., 116. §-hoz
+
+A 2019. június 1. napján hatályba lépett módosítással a szabálysértési nyilvántartások részeként létrehozott, a gépjárművezető távollétében alkalmazott intézkedések nyilvántartásából történő adatigénylés során értelmezési problémát okozott, hogy a szabálysértési nyilvántartásokból kizárólag személyazonosító adatok alapján lehetséges az adatigénylés. A gépjárművezető távollétében alkalmazott intézkedések nyilvántartása azonban személyazonosító adatokat nem tartalmaz, így fogalmilag kizárt ilyen adatokkal történő lekérdezés lehetősége. A módosítással egyértelművé válik, hogy a gépjárművezető távollétében alkalmazott intézkedések nyilvántartásából a személyes adatok megadása nélkül kizárólag a gépjármű azonosító adata alapján lehetséges az adatigénylésre jogosultak jogainak gyakorlása.
+
+A 115. §-hoz
+
+A büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról szóló T/9918. számú törvényjavaslat módosítja a Btk. új pszichoaktív anyagok csekély mennyiségét egységes küszöbértékkel meghatározó rendelkezését. A törvényjavaslat elfogadása esetén - egyes vegyületcsoportonként - differenciált határértéke lesz az új pszichoaktív anyagoknak, amelyhez szükséges hozzáigazítani a Szabs. tv.-t is.
+
+A Szabs. tv. 199/B. § (1) bekezdése alapján az új pszichoaktív anyaggal kapcsolatos szabálysértést azt követi el, aki csekély mennyiséget meg nem haladó új pszichoaktív anyagot megszerez vagy tart. A Szabs. tv. ugyanezen szakasz (2) bekezdése szerint az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a két gramm mennyiséget nem haladja meg. A só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni. A javaslat alapján a Szabs. tv. úgy rendelkezik, hogy az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a Btk.-ban meghatározott, az adott vegyületcsoportra vagy anyagra irányadó csekély mennyiséget nem haladja meg. Rendelkezik továbbá arról is - a hatályos szabályozással egyezően -, hogy a só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
+
+A 117. §-hoz
+
+A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény (a továbbiakban: Sztv.) módosítása a közlekedési kártya kibocsátásához szükséges. Ez a § a közlekedési kártyára vonatkozó értelmező rendelkezést építi be a törvénybe; a közlekedési kártya részletes funkcionalitását és jellemzőit, részleteit az Sztv. új 6/A. §-a tartalmazza.
+
+A 118. §-hoz
+
+A közlekedési kártya fogalmának módosítása a közlekedési szolgáltatásoknak polgárok általi teljes körű eléréséhez szükséges. A fogalom módosítása következtében: egyrészről az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény alapján a Nemzeti Egységes Kártyarendszer (a továbbiakban: NEK) keretében jogszabályi felhatalmazás alapján kibocsátott kártyákhoz a közlekedési kártya másodlagos kártyaként (elektronikus hordozóként) kapcsolódhat a jövőben, másodsorban, a közlekedési kártya ezentúl nem csak kártya formájában jelenhet meg, hanem a technikai fejlődéssel párhuzamosan más eszköz vagy informatikai alkalmazás formájában is testet ölthet, illetőleg bővül a közlekedési kártya kibocsátására jogosult szervezetek köre a közlekedési kártyához jutás egyszerűsítése érdekében.
+
+A módosítás következtében teljes egészében megvalósulhat a közforgalmú személyszállítási szolgáltatások elektronikus személyazonosító igazolvánnyal történő igénybevétele az által, hogy valamennyi közlekedési szolgáltatást nyújtó szervezet által elérhetővé válik az utazási jogosultságnak az elektronikus személyazonosító igazolvány szolgáltatásazonosítóján alapuló ellenőrzése.
+
+A 119. §-hoz
+
+Az Sztv. 7. § (6) bekezdésének módosítása technikai jellegű módosítás a közlekedési kártya kibocsátására jogosultak körének bővülése miatt, illetve a (2) bekezdésben foglalt rendelkezés megvalósításához szükséges - a NEK működtetőt, valamint a személyiadat- és lakcímnyilvántartást vezető szervet terhelő - adatátadási kötelezettség leírása, mely az utazási jogosultságnak az elektronikus személyazonosító igazolvány szolgáltatásazonosítóján alapuló épülő ellenőrzéséhez szükséges.
+
+Az Sztv. 7. § (7) bekezdésének módosítása kapcsán a közforgalmú személyszállítási szolgáltatások elektronikus személyazonosító igazolvánnyal történő igénybevételéhez szükséges adatkezelési felhatalmazás kerül megteremtésre a közlekedési kártya kibocsátója részére.
+
+A 120. §-hoz
+
+A módosítás a vezetői engedély helyszíni elvételével azonos, a vezetési jogosultság azonnali felfüggesztése jogintézmény bevezetése miatt szükséges.
+
+A 121. §-hoz
+
+A módosítás a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 13. § (3) bekezdésével való összhang megteremtése érdekében indokolt. Míg ugyanis a hivatkozott rendelkezés értelmében a természetvédelmi őr szolgálati maroklőfegyver tartására jogosult, amelyet egyenruhás szolgálatban nyíltan viselhet, addig az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: Erfesz. tv.) 21. § (2) bekezdés b) pontja ezt a lehetőséget leszűkítve azt rögzíti a természetvédelmi őrök vonatkozásában, hogy a település közigazgatási területének belterületnek nem minősülő (elsősorban mezőgazdasági, erdőművelési célra szolgáló) részén tarthat magánál nyíltan viselve maroklőfegyvert, önvédelmi célból. A rendelkezés a két törvény összhangjának megteremtése érdekében módosítja a természetvédelmi őr vonatkozásában az Erfesz. tv. 21. § (2) bekezdését.
+
+A 122. §-hoz
+
+A módosítás a normavilágosság követelményének való megfelelés érdekében egyértelművé teszi az egyes rendészeti feladatokat ellátó személyek és a személy- és vagyonőr intézkedése vagy kényszerítő eszköz alkalmazása miatt az intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására vonatkozó szabályokat. Az Erfesz. tv. megalkotásának alapvető célja volt, hogy egy egységes szabályozás és követelményrendszer jöjjön létre a Magyarország területén tevékenykedő azon személyek vonatkozásában, akik - a rendvédelmi szerveken túlmenően - rendészeti jellegű tevékenységet is ellátnak és ennek során kényszerítő eszközök és intézkedések alkalmazására jogosultak törvény felhatalmazása alapján. E személyek a tevékenységük során az ágazati törvényekben meghatározott szakfeladataik mellett őrzési és vagyonvédelmi feladatokat is ellátnak. Az általuk észlelt jogsértések elleni fellépés érdekében e törvények biztosítják számukra az intézkedések és a kényszerítő eszközök alkalmazásának a lehetőségét.
+
+Az Erfesz. tv. meghatározza az intézkedések és kényszerítő eszközök alkalmazásának jelentésére vonatkozó szabályokat és azok kivizsgálását a munkáltat hatáskörébe utalja. Ebből következően az intézkedések elleni panasz kivizsgálására is a munkáltató jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) alapján.
+
+Az Ákr. 7. § (2) bekezdése alapján ugyanis az Ákr. alkalmazásában ügy az, amelynek intézése során a hatóság döntésével az ügyfél jogát vagy kötelezettségét megállapítja, jogvitáját eldönti, jogsértését megállapítja, tényt, állapotot, adatot (a továbbiakban együtt: adat) igazol vagy nyilvántartást vezet, illetve az ezeket érintő döntését érvényesíti.
+
+Az panasz elbírálására vonatkozó általános szabály alól az Erfesz. tv. kivételt tesz az egyes rendészeti feladatokat ellátó személy és a személy- és vagyonőr által alkalmazott kényszerítő eszköz alkalmazása során. Kényszerítő eszköz alkalmazása esetén a panasz elbírálása a rendőrség hatáskörébe tartozik.
+
+A hatályos szabályozás speciális a szabályozást tartalmaz a közterület-felügyelő által a közterület-felügyeletről szóló 1999. évi LXIII. törvényben (a továbbiakban: Kftv.) meghatározott, kizárólag a közterület-felügyelő által alkalmazható intézkedéseknél, akkor, amikor a közterület-felügyelőnek az Erfesz. tv.-ben meghatározott intézkedéseken kívül további intézkedések foganatosítását teszi lehetővé. Ezek a közigazgatási bírság kiszabása, a szabálysértési helyszíni bírság alkalmazása, a kerékbilincs elszállítása, illetve a járműelszállítás, amelyek alapvetően valamely közúti közlekedési szabály megsértése miatt teszik lehetővé az intézkedések alkalmazását. Ezen intézkedések esetén a Kftv. szubszidiárius jelleggel teszi lehetővé az önálló panasz benyújtását, tehát akkor, ha a felsorolt intézkedés miatt közigazgatási vagy szabálysértési eljárás nem indul. Ennek oka, hogy az intézkedések jogszerűsége összefügg a jogsértés miatt indult közigazgatási vagy szabálysértési eljárásban megállapított tényállás bizonyításával.
+
+A gyakorlatban problémaként merült fel az egyes rendészeti feladatokat ellátó személy intézkedése vagy kényszerítő eszköz alkalmazása elleni panasz elbírálására. A javaslat tehát a hatályos szabályozáson nem változtat, azonban egyértelművé teszi a panaszok elbírálására vonatkozó rendelkezéseket.
+
+A javaslat továbbá egyértelművé teszi, hogy helyi közutakon a parkolásért járó ellenérték megfizetésének ellenőrzése és a fizetés elmaradása esetére előírt jogkövetkezmények alkalmazására feladatkörrel rendelkező közterület felügyelő nem csak Erfesz. tv.-ben meghatározott intézkedéseket és kényszerítő eszközöket nem alkalmazhatja, de a Kftv.-ben meghatározott intézkedéseket sem (kerékbilincs alkalmazása).
+
+A javaslat az Erfesz. tv. rendelkezései között egyértelművé teszi, hogy az egyes rendészeti feladatokat ellátó személy és a személy- és vagyonőr kényszerítő eszköz alkalmazása elleni intézkedése kivételével a panasz kivizsgálására az intézkedést foganatosító munkáltatója jogosult, egyben meghatározza a panasz benyújtására és elbírálására vonatkozó szabályokat.
+
+A 123. §-hoz
+
+A jogalkalmazási tapasztalatok azt mutatják, hogy akként szükséges módosítani a jogszabályt, hogy az ne csupán a létfontosságú rendszerekre és rendszerelemekre, de az általuk nyújtott szolgáltatásokra is kiterjedjen. Jelen módosítás indoka a létfontosságú rendszerek és rendszerelemek egymástól való függőségi felépítése. A törvény értelmező rendelkezése ennek szellemiségében kerültek módosításra.
+
+Új pontként kerül bevezetésre a helyszíni ellenőrzést lefolytató szervek körének pontos meghatározása. A korábbi szabályozásban a helyszíni ellenőrzést lefolytató szerv kormányrendeleti szinten konkrét szereplőt nevesítve került szabályozásra, jelen módosítás azonban az általános megfogalmazásnak köszönhetően, az eljárásban résztvevő valamennyi szereplő részére lehetőséget biztosít a kijelölt rendszerelem helyszíni ellenőrzésében való részvételre. A módosítás célja, hogy a helyszíni ellenőrzések a biztonság összveszély-megközelítésen alapuló lehető legátfogóbb felügyeletét biztosítsa az üzemeltető részére. Az üzemeltetőnél történt rendkívüli esemény bejelentési kötelezettségének teljesítése érdekében a fogalom egyértelmű tisztázásával biztosítható az egységes jogalkalmazás, elkerülhető a téves bejelentés vagy be nem jelentés.
+
+A rendkívüli esemény fogalmának bevezetését a gyakorlati jogalkalmazás indokolja. Szükséges, hogy valamennyi ágazat a saját ágazati jogszabályában küszöbértékeket határozzon meg, hogy specifikusan jelenhessen meg a rendkívüli esemény természete.
+
+A NIS irányelvben foglaltak, illetve a gyakorlati tapasztalatok alapján megállapítható, hogy az alapvető szolgáltatásokat nyújtó szereplők nem kizárólag a létfontosságú rendszereket üzemeltetők köréből kerülhetnek ki, ezért szükséges a megjelölt fogalmak beépítése az Lrtv. alapfogalmai közé. Ezzel megszületik az anyagi jogi előfeltétele a létfontosságú rendszerelemként kijelölt rendszereket üzemeltetőkön túli, alapvető szolgáltatásokat nyújtó szereplők azonosításának.
+
+A 124. §-hoz
+
+Bevezetésre kerül az azonosítási eljárás kifejezés helyett az azonosítási vizsgálat, mint fogalom, annak érdekében, hogy egyértelművé váljon, hogy ez nem hatósági eljárás, hanem az üzemeltető által lefolytatott vizsgálat, ami az azonosítási jelentés benyújtásával zárul. Ezt követően indul meg a kijelölési eljárás. Az azonosítási vizsgálat határidejének (korábbi azonosítási eljárás) drasztikus csökkentésével (180 napról 60 napra), valamint a kijelölési eljárás 70 napról 60 napra történő csökkentésével biztosítható az eljárások határidejének nagymértékű csökkentése.
+
+Új elemként jelenik meg, hogy a kijelölő határozatban, annak véglegessé válásától számított 60 napon belül a biztonsági összekötő személy megbízására, foglalkoztatására és adatainak megküldésére felhívásra kerül az üzemeltető. A korábbiakkal ellentétben - megszüntetve a lex imperfecta jelleget - bírság kiszabásának lehetőségét is rögzíti a jogszabály, amennyiben a már határidő tűzésével felszólított üzemeltető azonosítási jelentés elkészítésének és hatóságnak történő megküldésének nem tesz eleget. A szakhatóság megkeresése mellőzésének lehetőségét kimondó szabály a honvédelmi ágazat kijelölő eljárásaiban az eljárás gyorsítását teszi lehetővé, amely a társhatósággal történt megállapodás eredményeképp került a normaszövegbe.
+
+A 125. §-hoz
+
+A 4. melléklet hatályon kívül helyezésre kerül, ehelyett az alapvető szolgáltatások jegyzékét szükséges vizsgálni a megfeleltetésnél.
+
+A 126. §-hoz
+
+A létfontosságú rendszereket üzemeltetők csoportjába nem tartozó szervezetek alapvető szolgáltatást nyújtó szereplőkénti azonosítását, valamint az ezen szervezetekkel kapcsolatos információbiztonsági hatósági feladatokat a Nemzetbiztonsági Szakszolgálat fogja végezni, ezen kijelölés jogalapját teremti meg a rendelkezés. Mindemellett az azonosítási eljárás alapvető szabályai kerülnek rögzítésre.
+
+A 127. §-hoz
+
+A honvédelmi létfontosságú rendszerelemek esetében az információbiztonság indokolja, hogy nem csupán a kijelölési, és a kijelölés visszavonására irányuló eljárásban, hanem az ellenőrzések során is csak olyan személy vegyen részt, akinek a nemzetbiztonsági ellenőrzését elvégezték, és akivel szemben kockázati tényező nem merült fel. Új elemként jelenik meg a kijelölési és a kijelölés visszavonására vonatkozó közigazgatási hatósági eljáráson túl:
+
+a) hatósági ellenőrzésben
+
+b) kijelölő hatóság mellett már a szakhatóság (együtt: hatóságok) részéről
+
+csak olyan személy vehet részt, akinek az Nbtv. meghatározott nemzetbiztonsági ellenőrzését elvégezték, és akivel szemben kockázati tényező nem merült fel.
+
+A jogszabályban új rendelkezésként jelenik meg a fenti szakasz. Tekintettel az adatvédelmi rendelkezésekre, különös tekintettel a személyes adatok, különleges személyes adatok, valamint üzleti titkokra vonatkozó megismerhetőség törvényi szintű felhatalmazására. Az új elem szerepeltetését indokolja, hogy az eljárásban részt vevő véleménynyilvánító hatóságok kifejezett szerepeltetése nélkül a fenti adatok megismerhetőségére, ezzel egyidejűleg az eljárás lefolytatására nem nyílna lehetőség. A jogszabály figyelembe veszi a minősített adatok védelméről szóló törvény rendelkezéseit. A minősített adatokra vonatkozó korlátozásokon túl tekintettel kell lenni a nemzetbiztonsági, illetve honvédelmi érdekből történő korlátozásokra is annak érdekében, hogy az adatokat csak a szükséges kör, a szükséges mértékben ismerje meg, függetlenül az adat minősítési szintjétől.
+
+A 128. §-hoz
+
+Az Lrtv. 5. § (1) bekezdésének módosítása több szempontból szükséges. Új elem, hogy a kijelölt nemzeti és európai létfontosságú rendszerelemre vonatkozóan ne csak a rendszerelem megnevezését, hanem a rendszerelem címét is tartalmazza a hatóság nyilvántartása, figyelemmel arra, hogy ez sokszor elválik az üzemeltető címétől, székhelyétől, valamint arra is, hogy az ellenőrzések ekként tervezhetőek, hogy az ellenőrzést koordináló szervnek ismerete van a kijelölt rendszerelem elhelyezkedéséről.
+
+Új pont a hatósági ellenőrzéssel összefüggő dokumentumok nyilvántartására történő felhatalmazás, melynek indoka, hogy e dokumentumok nem csak és kizáróan a hatósági ellenőrzés során keletkező jegyzőkönyvek lehetnek, hanem egyéb az ellenőrzéssel összefüggésbe hozható dokumentációk is.
+
+Új pont továbbá az informatikai biztonsági szabályzat nyilvántartására való felhatalmazás.
+
+Az Lrtv. 5. § (3) bekezdésében új szabály, hogy az energia ágazati kijelölő hatóság a megküldéssel egyidejűleg tájékoztatja a nyilvántartó hatóságot a kijelölt rendszerelem pontos megnevezéséről, figyelemmel arra, hogy az ágazati sajátosságok miatt ezt a kijelölő határozat nem tartalmazza, azonban a nyilvántartó hatóság nyilvántartásának kötelező eleme.
+
+Az Lrtv. 5. § (4) bekezdés a) pontjában pontosításra kerül, hogy a nyilvántartó hatóság milyen eljárásban, mely szervek rézére továbbíthat adatot a nyilvántartásból.
+
+Az Lrtv. 5. § (4) bekezdés i) pontjában a honvédelmi érdekből nyújtott adatszolgáltatással történő kiegészítés azért indokolt, mivel ezen adatok elengedhetetlenek az ország honvédelmének a tervezése során bármilyen, a normális működéstől eltérő időszakban.
+
+Az Lrtv. 5. § (4) bekezdés j) és k) pontjának módosítása arra figyelemmel szükséges, hogy az adatátadást törvényben kell rendezni, így az EDR szolgáltatás biztosítója, valamint a különböző nemzetbiztonsági, terrorelhárítási szervek adatkérésének is jogalapot kell teremteni.
+
+Az Lrtv. 5. § (5) bekezdésének módosítása rendelkezik az európai és nemzeti kijelölt létfontosságú rendszer, rendszerelem nyilvántartó hatóságnál kezelt adatainak törlésére vonatkozó rendelkezéseinek átalakítása, a kijelölés visszavonásáról szóló határozat véglegessé válását követő 30 napon belüli törlési kötelezettség előírása mellett az üzemeltető erről történő értesítéséről, figyelemmel az adatvédelmi rendelkezésekre. A fenti rendelkezés egyúttal a nyilvántartó hatóság adminisztrációs terheit is csökkenti.
+
+A 129. §-hoz
+
+Érdemi módosításként jelentkezik, hogy a kijelölő hatóság már a kijelölő határozatban - a formai és tartalmi kellékek követelmények meghatározása mellett - felhívja az üzemeltetőt az üzemeltetői biztonsági terv (a továbbiakban: ÜBT) benyújtására, melyre a jogszabály már nem ad minimum időtartamot, ezzel meggyorsítva az eljárást.
+
+A papír alapon történő dokumentáció-megküldés elhagyásával a hatóság újabb lépést tesz az ügyintézés elektronikussá tétele felé. A fenti döntés mind az üzemeltető, mind a hatóság adminisztrációs terheit csökkenti. Bevezetésre kerül az ÜBT tartalmi és formai ellenőrzésre vonatkozó határidő.
+
+Új elemként jelenik meg a meghatározott hatóságok bevonásával, az ÜBT-ben és az informatikai biztonsági szabályzatban foglaltak megvalósíthatóságának gyakoroltatása (komplex gyakorlat keretében), lehetőséget adva ezzel a jogalkalmazás során tapasztalt, létfontosságú rendszerelemekkel kapcsolatos gyakorlatok megszervezésének nehézségeinek enyhítésére. A jogszabály - a könnyebb hivatkozás elősegítése érdekében -, külön (7) bekezdésben rendelkezik az ÜBT és mellékletei, illetve az azokat helyettesítő biztonsági dokumentumok nem nyilvános voltáról.
+
+A jogszabály 3 új bekezdéssel egészül ki. Egyrészt olyan rendkívüli esemény bekövetkeztekor, mellyel összefüggésben a kockázatot az üzemeltető az ÜBT-ben nem vizsgálta, úgy annak soron kívüli felülvizsgálatát a törvény erejénél fogva köteles elvégezni. Másrészt rendelkezik a biztonsági összekötő személy foglalkoztatásának kötelezettségén túl a biztonsági összekötő személy alapvető feladatairól (ÜBT kidolgozás, kapcsolattartás, valamint továbbképzésen való részvétel), mely feladatok további bontása, részletezése a későbbiekben kormányrendeleti szinten indokolt lehet. A jogszabály kiegészíti a biztonsági összekötő személy feladatait az ÜBT kidolgozásával, továbbá előírja részére a rendszeres továbbképzéseken való részvételt. Harmadrészt 60 napos, elektronikus űrlapon történő adat-bejelentési határidőt ír elő a jogszabály a hatóság részére, mellyel a szolgáltatandó adatok körét meghatározva gyorsíthatja az eljárást.
+
+Az Lrtv. 7. §-ának módosítása eltörli azon rendelkezést, mely szerint az üzemeltetőre az ÜBT-ben foglalt védelmi intézkedés megtételén túl többletköltség nem róható. Ezen megkötés megszüntetésével, az üzemeltetőre róható terhek megnövelésével arányosan nőhet a biztonság, figyelemmel a többlet előírásokkal okozott, a hatóság döntésével esetlegesen okozott költségnövelés lehetőségére.
+
+A 130. §-hoz
+
+A helyszíni ellenőrzést lefolytató szerv az ellenőrzést koordináló szervvel közösen, legalább 5 évente ellenőrzi a nemzeti és európai létfontosságú rendszerelemeket, ezzel biztosítandó, hogy az ellenőrzéseket a szervek közösen hajtsák végre.
+
+A helyszíni ellenőrzést lefolytató szerv önálló ellenőrzése esetén az ellenőrzés befejezésétől számított 15 napon belül tájékoztatja az ellenőrzés eredményéről a koordináló szervet, biztosítva ezzel a gyors információáramlást.
+
+Az információ- és hálózatbiztonsági szóhasználat az EU-s normának megfelelően került módosításra. Az információ- és hálózatbiztonsági hatóság köteles az ellenőrzést koordináló szerv kérésére információ- és hálózatbiztonsági hatósági ellenőrzést lefolytatni és az ellenőrzés eredményéről az ellenőrzés befejezésétől számított 15 napon belül az ellenőrzést koordináló szervet tájékoztatni.
+
+A 131. §-hoz
+
+A törvény kiegészül egy lehetőséggel, mely szerint az ellenőrzést koordináló szerv a koordinált ellenőrzés során tapasztalt hiányosságokra figyelemmel helyszíni bírságot szabhat ki. Az ellenőrzést koordináló szerv jogosítványainak erősítése szükséges ezzel a lehetőséggel, mellyel kivételes esetben élhetne, figyelemmel arra, hogy a kirívó, súlyos, az ellenőrzés helyszínén tapasztalt jogsértések a létfontosságú rendszerelem működésének ellehetetlenülését okozhatják, amelynek megakadályozásához azonnali reagálás szükséges.
+
+A 132. §-hoz
+
+A jogszabály új, 9/A. §-ában is megfogalmazódik az a jól felfogott társadalmi érdek, miszerint a létfontosságú rendszerek és rendszerelemek interdependens módon kapcsolódnak egymáshoz, így a jogszabály új előírásával biztosítható, hogy az előre tervezett karbantartások, javítások miatt a rendszerelem működése a lehető legrövidebb ideig legyen korlátozott.
+
+A 9/B. §-ban megfogalmazott kivételi szabály egyértelműen rögzíti, hogy a honvédelmi ágazat, valamint honvédelmi ágazaton belüli honvédelmi létfontosságú rendszerelemek tekintetében sajátos szabályok érvényesülnek. A honvédelmi célú elektronikus információs rendszerek biztonsága érdekében és az információbiztonsági hatósági szakfeladatok további magas szintű, szakszerű ellátása érdekében indokolt az információbiztonsági törvény és végrehajtási szabályaiban lefektetett hatáskörök szerint eljárni.
+
+A 133. §-hoz
+
+A hivatásos katasztrófavédelmi szerv központi szerve, mint általános javaslattevő hatóság feladat-és hatásköre törvényi szinten kerül rendezésre. A nemzetbiztonsági, gazdaságvédelmi és a kölcsönös függőségek miatt kialakuló kitettségek szükségessé teszik, hogy a katasztrófavédelmi, megelőzési szempontok minél hangsúlyosabban érvényesüljenek, mind a kijelölési eljárást megelőzően, mind az eljárás során. A szabályozás erősítené az általános javaslattevő szerepet, ugyanakkor teret adna az ágazati igényeknek, és a kölcsönös függőségek kijelölés- alakító szerepének egyértelmű erősödését bizonyítja a véleménynyilvánító szervek, valamint az ágazati kijelölő hatóságok bevonásának lehetőségén keresztül. Az általános javaslattevő hatóság egy ún. ügyindító javaslatban hívja fel az ágazati kijelölő hatóságot kijelölési eljárás hivatalbóli megindítására. Az így indított kijelölési eljárásban megfordul a bizonyítási teher - a kijelölni javasolt üzemeltetőnek kell bizonyítania, hogy szolgáltatása, rendszereleme nem létfontosságú. Az általános javaslattevő hatóság az ügyindító javaslatának elkészítéséhez szükséges információk beszerzése érdekében széles körű megkeresési jogosultságokkal rendelkezik, így a véleménynyilvánító szervek mellett szükséges további szervek, szervezetek és személyek megkeresése is, a szakmailag minden téren megalapozott, kvázi előzetes szakhatósági állásfoglalása kialakítása érdekében.
+
+Mivel az általános javaslattevő hatóság feladatköre a közrend, közbiztonság, lakosságvédelem, alkotmányvédelem, nemzetbiztonsági és terrorelhárítási szempontok figyelembevételével történik, fontos tisztázni, hogy a honvédelmi ágazatra nem alkalmazható a részletszabályozás.
+
+Az energiaágazatra vonatkozó különös szabályok hatályon kívül helyezésének indokát az adja, hogy egységes eljárásjogi szemlélet bevezetésének szükségessége merült fel mind az üzemeltetők, mind az eljárásban részt vevő hatóságok részéről. A különös szabályok egyrészt nehezen értelmezhetőek, feleslegesen lassították az eljárásokat, és a gyakorlati tapasztalatok fényében fenntartásuk nem indokolt.
+
+A 134. §-hoz
+
+Az Európai Bizottságnak küldendő jelentés előkészítéséhez szükséges, hogy az ágazatok beszámoljanak a Kormánynak a Belügyminisztériumon keresztül a saját ágazatuk aktualitásairól.
+
+A 135. §-hoz
+
+A szabályozás célja, hogy valamennyi az Alaptörvényben meghatározott különleges jogrend tekintetében megteremtse a létfontosságú rendszerekre vonatkozó szabályoktól történő eltérés lehetőségét, valamint meghatározza a létfontosságú rendszer - éppen az elnevezéséből adódó nélkülözhetetlenségéhez kapcsolódó - folyamatos működése biztosításához szükséges koordinációs és felügyeleti jogköröket.
+
+Az Alaptörvény 54. cikk (4) bekezdése kimondja, hogy a különleges jogrendben alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.
+
+Az Lrtv. kiegészítésre kerül a különleges jogrendben bevezethető rendkívüli intézkedésekre vonatkozó alcímmel, amely
+
+a) meghatározza azokat az általános eljárásrendtől eltérő rendelkezéseket, amelyek biztosítják a különleges jogrendhez igazodva a megfelelő speciális eljárási és hatásköri szabályokat, és
+
+b) biztosítja a végrehajtó hatalom számára az érintett létfontosságú rendszer tevékenysége tekintetében a központosított koordináció lehetőségét és az érintett létfontosságú rendszer tekintetében - ha azt a jogalkotó úgy ítéli meg - a felügyelet részbeni vagy teljes átvételét a tevékenység fenntartása érdekében.
+
+Figyelemmel arra, hogy az Lrtv. nem tartalmaz sarkalatos rendelkezéseket így az Lrtv. sarkalatossági záradékkal történő kiegészítése is szükséges.
+
+A 136. §-hoz
+
+Mivel az Lrtv. 2. §-a és 9. §-a kiegészült azzal a lehetőséggel, hogy az ellenőrzést koordináló szerv a koordinált ellenőrzés során tapasztalt hiányosságokra figyelemmel helyszíni bírságot szabhat ki, szükséges a felhatalmazó rendelkezések kiegészítése. A helyszíni bírság kiszabásának részletszabályai kormányrendeletben kerülnek megállapításra.
+
+A felhatalmazó rendelkezések módosításának célja továbbá, hogy megteremtse a rendkívüli esemény specifikációira megalkotandó kormányrendeleti felhatalmazást, továbbá a Nemzetbiztonsági Szakszolgálat hatóságkénti kijelölésére, másrészt a részletszabályok kidolgozására irányuló felhatalmazás megteremtése.
+
+A 137. §-hoz
+
+Az Lrtv. 2. §-a (1) bekezdés a) pontjában előírásra kerül, hogy a létfontosságú rendszerelem működésének, a szolgáltatás nyújtásának kezdetétől számított 60 napon belül az üzemeltető azonosítási vizsgálatot folytat le. A 60 napos határidőt eddig nem határozta meg a törvény, így ez egy teljesen új kötelezés. Ezért szükséges egy átmeneti rendelkezés, hogy azon létfontosságú rendszerelemek, amelyek a tevékenységüket már megkezdték, milyen határidőben kell, hogy lefolytassák az azonosítási vizsgálatot.
+
+Az Lrtv. kiegészül az Alaptörvényben meghatározott valamennyi különleges jogrend tekintetében a létfontosságú rendszerekre vonatkozó szabályoktól történő eltérés lehetőségét biztosító szabályokkal, azaz a bevezethető rendkívüli intézkedések, valamint a létfontosságú rendszer folyamatos működése biztosításához szükséges koordinációs és felügyeleti jogkörök meghatározásra kerülnek. E rendelkezések az Alaptörvény 54. cikk (4) bekezdése alapján sarkalatosnak minősülnek, ezért az Lrtv.-t szükséges kiegészíteni a sarkalatossági záradékkal.
+
+A 138. §-hoz
+
+A 13/A. § (3) bekezdésében meghatározott előírásokat, azaz a különleges jogrend ideje alatt nemzeti létfontosságú rendszerelemmé történő kijelölés felülvizsgálatát a különleges jogrend megszűnését követő a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelettel elrendelt veszélyhelyzet során kijelölt nemzeti létfontosságú rendszerelemek kijelölése tekintetében is alkalmazni kell, ezért szükséges egy átmeneti rendelkezés beiktatása.
+
+A 139. §-hoz
+
+Az Lrtv. 1. melléklete: az energiaágazat tekintetében új alágazatként jelenik meg a távhőszolgáltatás, és a csővezetékes szállítás és kiszolgáló elemei, mint Magyarország energia ellátása szempontjából nélkülözhetetlen alágazatok, figyelembe véve az ellátotti kör nagyságát és a nyújtott szolgáltatás kiválthatóságának hiányát.
+
+A 2. mellékletben új alágazatként javasoljuk az aktív fekvőbeteg-ellátás, és a működtetéséhez szükséges szolgáltatások alágazatot, a hatósági gyakorlatban, az üzemeltetői biztonsági tervekben tapasztaltak alapján. A kórházak beszállítói alapvetően befolyásolják a létfontosságú rendszerelem működését (pl. mosodai szolgáltatást nyújtók), ezért szükséges e kör felmérése, és rendszerelemként történő kijelölése az ágazati kritériumok felmérését követően.
+
+A társhatóság jelzése alapján az Infokommunikációs technológiák ágazatban, két alágazat elnevezése módosul, valamint „rádiós távközlés” és „űrtávközlés” alágazatok törlésre kerülnek, tekintettel arra, hogy az új alágazatok meghatározása magában foglalja a fentieket.
+
+A 140. §-hoz
+
+Lrtv. 1. § d) pontja: Pontosításra, kiegészítésre kerül horizontális kritérium fogalma.
+
+Lrtv. 1. § e) pontja: Pontosításra, kiegészítésre kerül a létfontosságú rendszerelem védelme fogalom. Lrtv. 1. § h) pontja: A szolgáltatás nyújtója kifejezéssel kiegészítésre kerül az üzemeltető fogalma.
+
+Lrtv. 3. § (1) bekezdés a) pontja, 4. § (2) bekezdés, 14. § (1) bekezdés b) pontja: Tekintettel a jogszabály alapvető logikai változásaira az európai létfontosságú rendszerelemek kijelölésére vonatkozó jogszabályhelyben történt változások jellemzően jogtechnikaiak (azonosítási vizsgálat fogalmának használata).
+
+Lrtv. 3. § (2) bekezdés c) pontja: Az üzemeltető kérelme helyett nyilatkozata szó szerepeltetése indokolt lehet, az üzemeltetői félreértések elkerülése érdekében, tekintettel arra, hogy jelen eljárás szintén hivatalból folytatandó le, ám ez is csupán jogtechnikai finomítás.
+
+Lrtv. 4. § (1) bekezdés: Pontosításra kerül a hatóság fogalma.
+
+Lrtv. 5. § (1) bekezdés a) és b) pontja: A jelen korra figyelemmel a szövegezés elhagyja a telefaxszámot, mint kötelezően megadandó adatot.
+
+Lrtv. 5. § (1) bekezdés c) pontja: Mivel az értelmező rendelkezés kiegészítésre került a szolgáltatás fogalmával, azaz a törvény nem csupán a létfontosságú rendszerekre és rendszerelemekre, de az általuk nyújtott szolgáltatásokra is kiterjed, ezért indokolt e kiegészítés szövegcserével.
+
+Lrtv. 5. § (2) bekezdés c) pontja: Jogtechnikai pontosítás.
+
+A 141. §-hoz
+
+Lrtv. 5. § (2) bekezdés a) pontja: Csupán jogtechnikai megoldás, tekintettel arra, hogy a 2. § újabb bekezdésekkel egészült ki, így a jogszabályi visszamutatás csak jelen módosítással alkalmazható.
+
+Lrtv. 5. § (4) bekezdés c) pontja: Indokolt a helyszíni ellenőrzést lefolytató szerv - mivel az már a fogalommagyarázat körében jelzésre került - magyarázatának elhagyása.
+
+Lrtv. 14. § (1) bekezdés c) pontja: Az azonosítási eljárás megszüntetésére tekintettel indokolt a fogalom elhagyása.
+
+Lrtv. 2-4. melléklete: Az 1-3. mellékletében szabályozott ágazatok az 1. mellékletben együtt szerepelnek, emiatt indokolt a 2. és 3. melléklet hatályon kívül helyezése. A törvény 2020. április 1-jén hatályba lépő módosítása alapján kidolgozásra került kormányrendeleti szinten az alapvető szolgáltatások jegyzéke. Ezen jegyzék létrehozatala okafogyottá teszi a 4. melléklet megtartását.
+
+A 142. §-hoz
+
+A javaslat a Bolgár Köztársaság, a Horvát Köztársaság, Magyarország és az Osztrák Köztársaság között a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértések miatt alkalmazott jogkövetkezmények határon átnyúló végrehajtásának elősegítéséről szóló Megállapodás kihirdetéséről, valamint egyes törvényeknek a közlekedésbiztonságot elősegítő európai uniós és nemzetközi kötelezettségek végrehajtásához szükséges módosításáról szóló 2012. évi CLXX. törvény (a továbbiakban: 2012. évi CLXX. törvény) egyes rendelkezéseinek technikai jellegű módosítására irányul.
+
+A 2012. évi CLXX. törvény 5. § (4) bekezdésének technikai jellegű módosítására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt 2018. január 1-jétől felváltó, az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény miatt szükséges.
+
+A 2012. évi CLXX. törvény 5. § (6) bekezdésének technikai jellegű módosítását a szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény (a továbbiakban: Szabsjogtv.) 3. § (4) bekezdésének 2017. május 23-án hatályba lépett módosulása teszi indokolttá. A Szabsjogtv. hivatkozott 3. § (4) bekezdés b) pontja 2017. május 23-a előtt - a 2012. évi CLXX. törvény megalkotásakor - központi hatóságként a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével, valamint átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szervet jelölte meg, amelyet 2017. május 27-től a Szabsjogtv. 3. § (4) bekezdés c) pontja tartalmaz.
+
+A 2012. évi CLXX. törvény 5. § (7) bekezdésének technikai jellegű módosítása szintén a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt 2018. január 1-jétől felváltó, az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény miatt szükséges.
+
+A 143-152. §-hoz
+
+Az állami kiberbiztonsági feladatok hatókörének kiterjesztése érdekében szükséges az Ibtv. hatályának kiterjesztése azon nemzetbiztonsági védelem alá eső szervekre, amelyek nem tartoznak az Ibtv. hatálya alá, és amelyek információs rendszereire vonatkozóan nincsenek jogszabályban előírt információbiztonsági követelmények.
+
+[Ibtv. 2. § (3), (4) bekezdése, 8. § (6) bekezdése, 11. § (7) bekezdése, 14. § (1) bekezdése, 18. § (8) bekezdése, 19. § (1) bekezdés a) és b) pontjai, (2), (3), (5) és (6) bekezdése, 21. § (1) bekezdése, 22. § (1)-(3) bekezdése]
+
+Az egységes kibervédelmi struktúra kialakítása érdekében a hatósági és eseménykezelési feladatok - a honvédelmi ágazat kivételével - centralizálásra kerülnek. Ennek megfelelően egyes zárt célú elektronikus információs rendszerek, a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei, valamint az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei esetében a törvény szerinti hatósági feladatokat, a biztonsági felügyeletet is az NBSZ látja el.
+
+[Ibtv. 14. § (2a) bekezdése, 18. § (10) bekezdése, 20. § (3) bekezdése, 24. § (1) bekezdés n) pontja]
+
+Az egységes kibervédelmi struktúra kialakítása érdekében a hatósági és eseménykezelési feladatok centralizálása keretében az NBSZ ellátja a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában - az azokon tárolt adatok megismerése nélkül - a hatósági és eseménykezelési feladatokat, a sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát is, amely feladatok részletszabályai kormányrendeletben kerülnek meghatározásra.
+
+[Ibtv. 16. § (1) bekezdés i) pontja]
+
+Az NBSZ információbiztonsági hatósági tevékenysége kibővítése indokolt azon jogosultsággal, miszerint a hatóság meghatározhatja a minimálisan elvárt biztonsági követelményeket a hatáskörébe tartozó elektronikus információs rendszerek tekintetében.
+
+[Ibtv. 16. § (1a) bekezdése]
+
+A kiegészítés a honvédelmi ágazati párhuzamos hatáskörök megteremtését szolgálja.
+
+[Ibtv. 16/A. §-a]
+
+A támadásokkal, illetve fenyegetésekkel szembeni hatékony fellépés érdekében indokolt biztosítani az Ibtv. szerinti hatóság számára, hogy hatósági tevékenysége keretében elrendelhesse az elektronikus hírközlő hálózat útján közzétett olyan adatnak vagy egyéb információs társadalommal összefüggő szolgáltatásnak az ideiglenes hozzáférhetetlenné tételét, amellyel kapcsolatosan az eseménykezelő központ biztonsági eseménykezelést folytat.
+
+Az adat vagy egyéb információs társadalommal összefüggő szolgáltatásnak ideiglenes hozzáférhetetlenné tétele jogintézmény elrendelésére a hatóság jogosult, kötelezettje az az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.). 188. § 14. pontja szerinti elektronikus hírközlési szolgáltató, azaz az elektronikus hírközlő hálózat üzemeltetője, valamint az elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy.
+
+E folyamat szervezésében a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) is részt vesz az Eht.-ban meghatározott módon.
+
+Az NMHH az Eht. 159/B. §-ban rögzített, automatizált és elektronikus feldolgozásra épülő folyamat előírása alapján a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisán (a továbbiakban: KEHTA) keresztül továbbítja az elektronikus hírközlési szolgáltatók részére a határozatokat. A hatóságnak mindenképpen szükséges csatlakoznia az NMHH által működtetett KEHTA-hoz azért, hogy elektronikus úton el tudja juttatni az NMHH részére a hírközlési szolgáltatóknak történő kézbesítés céljából a hozzáférhetetlenné tételről szóló határozatot.
+
+Az Eht. 159/C. § (1) bekezdése alapján a hozzáférést biztosító elektronikus hírközlési szolgáltatók kötelesek a KEHTA-hoz csatlakozni abból a célból, hogy a bíróság, illetve a külön törvényben meghatározott hatóság elektronikus adathoz vagy egyéb információs társadalommal összefüggő szolgáltatáshoz hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről rendelkező határozatainak eleget tegyenek, illetve a végrehajtást a hozzáférhetetlenné tett adatra irányuló keresés eredményeként talált vagy a tárolt változat elérhetőségének nem biztosításával elősegítsék. Erre figyelemmel indokolt, hogy a hatóság bírságot szabhasson ki a szolgáltatókra is, ha a kötelezettségüket nem teljesítik.
+
+A hatóság abban az esetben rendelheti el az elektronikus adat ideiglenes hozzáférhetetlenné tételét, ha az eseménykezelő központ olyan biztonsági eseményt észlel, amely további eseménykezelési intézkedések megtételét teszi szükségessé. Ezen intézkedések közé tartozhat az elektronikus adat ideiglenes hozzáférhetetlenné tétele, ha azt az észlelt fenyegetés szükségessé teszi. A hatóság a fenyegetés elhárításához szükséges ideig rendelheti el az ideiglenes hozzáférhetetlenné tételt azzal, hogy annak időtartama maximum 90 nap lehet, amely indokolt esetben további 90 nappal meghosszabbítható. A gyakorlati tapasztalatok alapján a 90 napos határidő elegendő arra, hogy az intézkedéssel a hatóság a kívánt joghatást elérje. Ha az elrendelés oka nem áll fenn, akkor a hatóság az ideiglenes hozzáférhetetlenné tételt annak megszűnése előtt haladéktalanul megszünteti.
+
+[Ibtv. 1. § 23. pontja]
+
+A honvédelmi miniszter tulajdonosi joggyakorlói körébe tartozó gazdasági társaságok jogállásának változása miatt indokolt a fogalom kiegészítése.
+
+[Ibtv. 3. § (2) bekezdés c) pontja]
+
+A nemzetbiztonsági védelem alá eső szervek vonatkozásában a létfontosságú rendszerek analógiájára indokolt lehetővé tenni, hogy az Ibtv. hatálya alá tartozó információs rendszereiket az Európai Unió tagállamai területén is üzemeltethessék.
+
+A 153-162. §-hoz
+
+A javaslat célja, hogy törvényes jogalapot teremtsen az eltűnt személyek, az ismeretlen holttestek és holttestrészek biometrikus adatainak, valamint - kifejezett hozzájárulás és a Körtv.-ben meghatározott további feltételek esetén - az eltűnt személyek vér szerinti hozzátartozói DNS-profiljainak célhoz kötött kezelésére. Az adatkezelés célja az eltűnt személyek felkutatásának és személyazonosságuk megállapításának elősegítése, valamint az ismeretlen holttestek és holttestrészek azonosítási esélyeinek növelése. A javaslat szerinti terület szabályozása sürgető szakmai igény, hiszen éves szinten mintegy 150 ismeretlen személyazonosságú holttestről szerez tudomást a rendőrség, jelenleg összesen 929 azonosításra váró holttest van. Az általános adatvédelmi rendelet, az Európai Parlament és a Tanács 2016/679 rendelete természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről (a továbbiakban: GDPR) Preambulumának (27) bekezdése rögzíti, hogy a GDPR-t nem kell alkalmazni az elhunyt személyekkel kapcsolatos személyes adatokra. A tagállamok számára lehetővé kell tenni, hogy az elhunyt személyek személyes adatainak kezelését szabályozzák.
+
+A GDPR hivatkozott megállapítására figyelemmel nincs jogi akadálya annak, hogy az ismeretlen személyazonosságú elhunyt személyek biometrikus adatainak nyilvántartásáról hazai jogszabály rendelkezzen.
+
+Az adatkezeléshez szükséges törvényi felhatalmazás és annak garanciális szabályai a Körtv. keretei között helyezhetőek el, hiszen a Körtv. biztosít lehetőséget, illetve az eltűnt személyek esetében rögzít kötelezettséget a körözési eljárás elrendelésére az eltűnt személy felkutatása, illetve személyazonosságának megállapítása vagy az ismeretlen holttest vagy holttestrész azonosítása érdekében. A szabályozással egyértelmű lesz: ismeretlen személyazonosságú holttest vagy holttestrész esetében kötelező a mintavétel, valamint az ujj- és tenyérnyomat (vagy töredék) rögzítése és nyilvántartásba vétele. Így már lesz lehetőség arra, hogy a rögzített adatok a bűnügyi és rendészeti biometrikus adatok nyilvántartásával összevethetőek legyen. Fontos szabály az is, hogy biometrikus adat csak akkor kerülhet a nyilvántartásba ismeretlen holttest esetén, ha a DNS-profil meghatározását követően azt összevetették a már nyilvántartásba vett DNS-profilokkal (körözött személyek nyilvántartásában, valamint az ismeretlen holttestek és holttestrészek nyilvántartásában) és nincs egyezés.
+
+A javaslat szerinti szabályozás az adatkezelés célhoz kötöttségének és szükségességének elvére figyelemmel az alapul szolgáló körözési eljárásban rögzített egyéb adatok megőrzési idejéhez igazítja a körözési eljáráshoz kapcsolódó biometrikus adatok kezelésének határidejét.
+
+Adatvédelmi szempontból kiemelt jelentősége van, hogy az eltűnt személy hozzátartozójától DNS-profil meghatározására alkalmas minta csak a kifejezett hozzájárulása esetén vehető, de kizárólag abban az esetben, ha az eltűnt személy személyazonosságának megállapítására nem áll rendelkezésre fénykép, arcképmás, illetve daktiloszkópiai adat, vagy azok az azonosításra nem alkalmasak és az eltűnt személy DNS-profil meghatározására alkalmas mintája más módon nem vagy csak aránytalan nehézséggel szerezhető meg. A hozzátartozói DNS-profil nyilvántartás egyetlen célja az eltűnt személy, ismeretlen holttest, holttestrész azonosítása, abból adat egyéb célból nem igényelhető és nem szolgáltatható.
+
+A javaslat alapján lehetőség lesz arra is, hogy az eltűnt személyek biometrikus adatai (melyet a hozzátartozó bocsát rendelkezésre, pl. fésű, fogkefe) összevethetőek legyenek a holttestek nyilvántartásával. Nem ritka ugyanis, hogy egy eltűnt személyről utóbb - akár évekkel később - bebizonyosodik, hogy azonos egy ismeretlen személyazonosságú holttesttel.
+
+A javaslat szerinti szabályozás önálló fejezetben elhelyezve, új szakértői nyilvántartásokként hoz létre daktiloszkópiai és DNS nyilvántartásokat, amelyeken belül önállóan jelenik meg
+
+a) az eltűnés miatt körözött személyek ujj- és tenyérnyomatának nyilvántartása,
+
+b) az ismeretlen holttest vagy holttestrész ujj- és tenyérnyomatainak nyilvántartása,
+
+c) az eltűnés miatt körözött személyek DNS-profiljainak nyilvántartása,
+
+d) az eltűnés miatt körözött személyek hozzátartozóinak DNS-profiljainak nyilvántartása, valamint
+
+e) az ismeretlen holttest vagy holttestrész DNS-profiljainak nyilvántartása.
+
+A fentiek szerinti szabályozással elkülönítve valósul meg a körözési eljáráshoz kapcsolódó személyes adatok és biometrikus adatok kezelése: míg a személyes adatok a körözési nyilvántartásokban szerepelnek és azokat a körözési nyilvántartásért felelős szerv (Nemzetközi Bűnügyi Együttműködési Központ) kezeli, addig a daktiloszkópiai adatok, a DNS minták és profilok szakértői nyilvántartások adattartalmát képezik és azokat a Nemzeti Szakértői és Kutató Központ fogja kormányrendeleti felhatalmazás alapján kezelni. Az egyes nyilvántartások közötti kapcsolatot a körözés azonosítására szolgáló kapcsolati kód, illetve a szakrendszeri azonosító kód lesz hivatott biztosítani.
+
+A Körtv. hatályos szabályozása alapján biztosított a lehetőség arra, hogy a körözési nyilvántartást a bűnügyi nyilvántartási rendszer biometrikus adatokat tartalmazó nyilvántartásaival, valamint a holttestek nyilvántartásával - átmenetileg - összekapcsolják. Figyelemmel arra, hogy a Körtv. 25. § (1) bekezdése jelenleg csak az adott személy, holttest, holttestrész vagy dolog felkutatását jelöli meg a nyilvántartások összekapcsolhatóságának céljaként, így a javaslat további lehetséges célként beemeli a személyazonosság megállapítását, illetve a holttest vagy holttestrész azonosítását.
+
+Az összehasonlítás találatot eredményezhet, amely az eltűnt személy felkutatását elősegítheti (kiderülhet, hogy bűncselekmény helyszínén rögzítették a mintáját, amely jelenleg nyílt nyomként van nyilvántartva, esetleg azonosságot mutathat egy ismeretlen személyazonosságú holttest DNS-ével).
+
+A javaslat a garanciális szempontok alapján indokolt részletességgel rögzíti a mintavételi eljárás rendjét az ujj- és tenyérnyomat, valamint a DNS-profil nyilvántartásba vétele céljából. Ugyancsak megjelennek a nyilvántartásba vétellel, az összehasonlítással összefüggő feladatok is, megjelölve azok címzettjeit. A költségvetési forrásigény racionalizálása érdekében a javaslat a mintavételt és annak alapján a DNS-profil meghatározást csak abban az esetben teszi kötelezővé, ha az eltűnés miatti körözés elrendelése óta kilencven nap eredménytelenül telt el. Természetesen nincs akadálya annak, hogy ezen időpontot megelőzően mintavételről gondoskodjon a körözést folytató szerv, ha azt az egyedi ügyben indokoltnak tartja.
+
+A javaslat a törvényi és kormányrendeleti szintet nem igénylő kérdések rendezésére rendeletalkotási felhatalmazást ad a rendészetért felelős miniszter részére, az alábbi tárgykörökben:
+
+- az ujj- és tenyérnyomat, valamint a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, illetve az ujj- és tenyérnyomat és a szájnyálkahártya-törlet levételének részletes technikai szabályait; a DNS-profil meghatározásának szakmai-módszertani követelményeit; továbbá a nyilvántartás technikai vezetésének részletes szabályait,
+
+- a körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartása részére történő adatközlés és az e nyilvántartás által teljesített adatszolgáltatás rendjét.
+
+Az adatközlés és adatszolgáltatás rendjét érintően kiemelendő, hogy a végrehajtási rendelet kizárólag technikai jellegű szabályokat érint, azok végrehajtásának rendjét (az adatközlés és adatszolgáltatás rendjét) határozza meg, így nem tartalmaz alapvető jogokra és kötelezettségekre vonatkozó szabályokat.
+
+A 163. §-hoz
+
+A javaslat az egyes rendészeti feladatokat ellátó személyekkel összefüggésben egyértelművé teszi az ágazati szabályokat meghatározó, a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvényben is, hogy az intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+
+A 164. §-hoz
+
+A gondnokoltak nyilvántartásával való közvetlen informatikai adatkapcsolat kialakítására annak érdekében van szükség, hogy a gondnokoltság, mint az ügyfél eljárási képességét teljesen korlátozó és a közlekedésbiztonsági alkalmasságát kizáró ok, és így a vezetői engedély kiállítását akadályozó körülmény ne maradjon ismeretlen a vezetői engedélyt kiállító hatóság számára, hanem automatikusan, közvetlen informatikai adatkapcsolat útján jusson a tudomására.
+
+A 165. §-hoz
+
+A módosítás a vezetői engedély helyszíni elvételével azonos, a vezetési engedély azonnali felfüggesztése jogintézmény bevezetése miatt szükséges.
+
+A 166-167. §-hoz
+
+Kétlépcsős, integrált alkalmasság-vizsgálati rendszer bevezetésére kerül sor, mely a hivatásos állomány alkalmasság- vizsgálati rendszerét új alapokra helyezi. A hivatás állomány alkalmasság-vizsgálati rendszerének megújításával a cél az eltelt tíz év tapasztalatain alapuló pontosítások, új javaslatok megfogalmazásán túl a rugalmasság biztosítása, az utánpótlás kihívásaira történő optimális válaszadás megteremtése.
+
+A javasolt megoldás alapvetése az alkalmassági kritériumok két lépcsős kialakítása: egyrészt szükséges a minimumfeltételek meghatározása, másrészt a differenciálás szempontrendszerének kialakítása (szolgálati beosztások közötti különbségtétel). A minimumfeltételek, mint alapkritériumok meghatározása feltételezi a fejlesztés, képzés megerősítését és újragondolását, hangsúlyozva azonban, hogy nem új jogintézmények bevezetése a cél; ezt a jelenlegi továbbképzési környezetben szükséges kialakítani.
+
+A javaslat megteremti az alkalmasság-vizsgálatoknak az alapját képező alkalmasságvizsgálati kategóriák törvényi alapját. Az alkalmasság vizsgálata a betöltendő vagy betöltött szolgálati beosztáshoz igazodik. Az alkalmasságvizsgálati kategóriák az egyes szolgálati beosztások okozta egészségi, pszichológiai és fizikai megterhelés alapján miniszteri rendeletben kerülnek meghatározásra.
+
+Új elem a szabályozásban a pszichológiai kompetencia-vizsgálat, mely a pszichológiai alkalmasság-vizsgálat részeként kerül a szabályozási körbe. A kompetencia-vizsgálat részletszabályait a miniszter rendeletben határozza meg.
+
+A 168. §-hoz
+
+A hivatásos állománynak a gazdasági társaságokban betölthető vezetői tisztségviselői jogviszonya és felügyelőbizottsági tagsága vonatkozásában a hatályos szabály eltér a kormányzati igazgatásról szóló törvényben meghatározott, illetve a rendvédelmi igazgatási alkalmazottak vonatkozásában már bevezetett szabálytól. Most a hivatásos állomány vonatkozásában is az előzőekhez kapcsolódó szabály kerül beépítésre a (2a) bekezdésbe. A (3) bekezdés b) pontjában hatályosan szereplő bejelentési kötelezettség pedig hozzáigazításra kerül a szöveghez.
+
+A 169. §-hoz
+
+A Hszt. 128. § (2) bekezdése a szakképzést érintő új fogalmakra tekintettel újra megállapításra kerül. A fogalmak változásán túl a tervezet az alapfeladatokat ellátók vonatkozásában a gyakorlati végrehajtásra tekintettel rögzíti, hogy a rendvédelmi szerv alaptevékenységébe tartozó szolgálati beosztásba milyen intézkedések mellett lehet kinevezni azt, aki a szakképzettséggel, szakképesítéssel még nem rendelkezik (a feltétel szerint a hivatásos állományba vétellel egyidejűleg meg kell kezdeni a tanulmányokat és határidőt kell tűzni azok teljesítésére).
+
+A 170. §-hoz
+
+A szükséges humánerőforrás biztosítása érdekében indokolt a feladatellátáshoz igazodóan az otthoni munkavégzés lehetőségének biztosítása, mivel a Hszt. jelenleg hatályos kógens szabályai azt nem teszik lehetővé.
+
+A 171. §-hoz
+
+A közérdekű adatok vonatkozásában jelenleg a polgári nemzetbiztonsági szolgálatok állománya és a Hszt. 318. § szerinti rendőri állományra vonatkozik speciális szabály. E körben indokolt a titkos információgyűjtést végrehajtó, illetve leplezett eszközt alkalmazó rendőri állományt is kivételként kezelni.
+
+A 172. §-hoz
+
+A szakképzettséget érintő fogalmi változásokra tekintettel szükséges módosítás.
+
+A 173. §-hoz
+
+Jelenleg a Hszt. 287/O. § azt tartalmazza, hogy törvényben meghatározott esetben lehetséges határozott időre létesíteni igazgatási szolgálati jogviszonyt, ilyen eset azonban a törvényben nem került rögzítésre. Ezt pótolja a rendelkezés.
+
+A 174. §-hoz
+
+A rendvédelmi igazgatási alkalmazottat a hatályos szabályok szerint nem lehet felmenteni abból az okból, ha az érintett a feladatait nem megfelelően végzi (Hszt. 288/F. §). Ilyen okból történő felmentést a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 30. § (1) bekezdés c) pontja is lehetővé tett, ennek mintájára javasolt kiegészíteni a lehetséges felmentési okokat azzal, hogy hogy fel lehet menteni akkor is a rendvédelmi igazgatási alkalmazottat, ha a munkáját nem végzi megfelelően.
+
+A 175. §-hoz
+
+A Hszt. rögzíti a készenlét ellentételezésére vonatkozó eljárási szabályokat, ennek kisebb mértékű módosítására kerül sor. A javaslat szerint a napi munkaidőn túl teljesített készenlétért - a rendvédelmi alkalmazott választása szerint - legfeljebb annak időtartamával megegyező mértékű szabadidő vagy díjazás illeti meg. Ha a készenlétre a rendvédelmi alkalmazott heti pihenőnapján, illetve munkaszüneti napon kerül sor, részére az ellentételezés emelt mértékű.
+
+A 176. §-hoz
+
+A javaslat rögzíti továbbá, hogy rendvédelmi alkalmazottak részére a betegszabadság idejére a távolléti díj 70%-a jár, a betegszabadság idejére járó juttatás eddig nem szerepelt a szabályozásban.
+
+A 177. §-hoz
+
+A Hszt. jelenleg több helyen is rendelkezik a miniszter vagy az országos parancsnok által kiadható közjogi szervezetszabályozó eszközben történő szabályozásról, amely azonban értelmezhetetlen az Országgyűlési Őrség esetében. A jogalkotásról szóló törvény alapján közjogi szervezetszabályozó eszközt sem a szervezet országos parancsnoka, sem a szervezetet irányító házelnök nem adhat ki, ezért szükséges arról rendelkezni, hogy ezekben a tárgykörökben az Országgyűlési Őrség parancsnoka belső szabályzatban rendelkezik a szükséges kérdésekről.
+
+A 178-179. §-hoz
+
+Jelenleg a Hszt. az alkalmasságvizsgálatok tekintetében a polgári nemzetbiztonsági szolgálatok esetében közjogi szervezetszabályozó eszközre ad felhatalmazást [341. § (1) bekezdés 13. pont a) alpontjában meghatározott tárgykör, a 342. § (1) bekezdés d) pont alapján].
+
+Az egészségi, pszichológiai vagy fizikai alkalmasság megállapítására irányuló vizsgálat során keletkezett adat kezelésének célrendszere kiegészül a rangsor biztosításával és a fejleszthetőség megalapozásával.
+
+A rangsor az ún. illeszkedésvizsgálat eredményeit jelenti pontszámokban kifejezve, és melyek mentén a vizsgált személyek sorrendbe állíthatók; a sorrend a döntésre jogosultat nem köti, az a vezetői döntést támogató információnak tekinthető.
+
+A rangsor megjelenítése a rendszerben néhány adatkezelési rendelkezés módosítását is szükségessé teszi:
+
+- a kezelhető adatok köre bővül.
+
+- a minősítést tartalmazó iraton kívül maga a rangsor is a továbbításra kerülő adatok közé kerül.
+
+A felhatalmazó rendelkezések a tartalmi módosításhoz igazodóan kerülnek módosításra:
+
+- az egészségi, pszichológiai és fizikai alkalmassági követelmények felmérésének szabályai helyett a keretszabályok meghatározására kap felhatalmazást a miniszter, figyelemmel arra, hogy a KLIR-koncepció alapján számos kérdésben a sajátosságok és a rugalmasság biztosítása érdekében a rendvédelmi szerv országos parancsnoka jogosult és köteles szabályozást kialakítani, módszertanok között választani stb.,
+
+- a miniszter felhatalmazást kap az egyes szolgálati beosztások okozta egészségi, pszichológiai és fizikai megterhelés alapján az alkalmasságvizsgálati kategóriák meghatározására, ez a KLIR-koncepció alapján tizenkét kategóriát jelent, ennek jellemzői kerülnek rögzítésre a rendeletben,
+
+- a pszichológiai kompetencia-vizsgálat részletes szabályai tekintetében szintén a miniszter kap felhatalmazást rendeleti szabályozás kialakítására, a „Versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása” című, KÖFOP-2.1.5-VEKOP-16-2016-00001. azonosító számú projektben a rendvédelmi szervekkel közösen kialakított alap-, irányítói- és vezetői kompetenciák alkalmazásának jogi háttere a Hszt.-ben és a miniszteri rendeletben most kerül szabályozásra,
+
+- szakmai okokból megbontásra kerül a rendvédelmi egészségügyi és pszichológiai alapellátás (eddig egészségügyi alapellátás keretében került sor a pszichológiaira is).
+
+A rendvédelmi igazgatási alkalmazottak esetében pontosításra kerül sor. Érdemi változás nincs, továbbra is csak az egészségi követelményeknek kell megfelelniük e személyi kör tagjainak, ún. munkaalkalmassági vizsgálaton vesznek részt. Figyelemmel arra, hogy a rendvédelmi szerveknél kiépült és hatékonyan működő egészségügyi és pszichológiai alapellátás van, indokolt, hogy a civil állomány is ezt igénybe vehesse.
+
+A 180. §-hoz
+
+A 109. §-nak e törvénymódosítással újonnan bevezetésre kerülő (2a) bekezdése értelmében a hivatásos állomány tagja nem lehet gazdasági társaságban vezető tisztségviselő, illetve felügyelőbizottsági tag. E törvénymódosítás hatálybalépést követően létesített vagy már létező, de be nem jelentett vezetői tisztségviselői, illetve felügyelőbizottsági tagság a hivatásos szolgálati jogviszonnyal összeférhetetlenné válik. A rendelkezés átmeneti szabályt rögzít annak érdekében, hogy a törvénymódosítás hatálybalépéséig már létező és az állományilletékes parancsnok részére bejelentett vezetői tisztségviselői tagság, illetve felügyelőbizottsági tagság esetében meghatározza, hogy meddig kell az állomány tagjának megszüntetnie az újonnan keletkező összeférhetetlenséget. Az összeférhetetlenséget 2022. december 31-ig kell a hivatásos állomány tagjának megszüntetnie.
+
+A 181. §-hoz
+
+A Hszt. 362/G. § (2) bekezdése szerint a rendvédelmi alkalmazott első alkalommal megállapított illetményének összege nem lehet alacsonyabb a 2019. január 1-jei hatállyal megállapított illetményénél, ugyanakkor az érintett korábbi közalkalmazott illetményét kizárólag a rendvédelmi alkalmazott első alkalommal történő megállapítása során részesítette védelemben (korrekciós díj) mindaddig, amíg valamilyen oknál fogva - például ugyanannál a rendvédelmi szervnél történő azonos vagy magasabb beosztásba történő áthelyezésekor - a rendvédelmi alkalmazott illetményét újra meg kell állapítani. Ilyen esetben viszont már nincs lehetőség a korrekciós díj megállapítására, amelyre tekintettel a rendvédelmi alkalmazott szerven belüli áthelyezése nehézségbe ütközik. Erre tekintettel a javasolt módosítás biztosítja, hogy a rendvédelmi alkalmazott szerven belüli áthelyezése esetén is lehetőség legyen a korrekciós díj további folyósítására.
+
+A 182. §-hoz
+
+Az új szakképzési törvény fogalomhasználata miatt a szakiskolai megnevezés a Hszt. szabályrendszerében is szakképző iskolai megnevezésre kerül átvezetésre. Azonban a jelenlegi személyi állomány vonatkozásában szükséges egy átmeneti rendelkezés rögzítése, mely értelmében az új szakképzési rendszert megelőzően megszerzett szakiskolai végzettséget is szakképző iskolai végzettségnek kell tekinteni.
+
+A 183. §-hoz
+
+A szakképzettséggel kapcsolatos fogalmi változások miatt indokolt módosítani a Hszt. egyes mellékleteit.
+
+A 184-185. §-hoz
+
+A szakképzési törvényben foglaltaknak történő megfelelés érdekében szükséges szövegcseréket és hatályon kívül helyezéseket tartalmazza.
+
+A pszichológusi szakmai véleménye alapján javításra kerül továbbá a Hszt. szövegezésében a pszichikai jelző.
+
+Az ideiglenes átrendelést a Hszt. jelenleg csak akkor teszi lehetővé, ha azonos szervezeti egységen belül más szolgálati feladatokat lát el az átrendelt. Ehhez képest elképzelhető olyan eset is, amikor ugyanazt a feladatot kell ellátnia a hivatásos állomány tagjának, amit korábban is, csak a szervezeti egységéhez tartozó más szolgálatteljesítési helyen. A módosítás következtében a jövőben erre is lehetőség nyílik.
+
+A Hszt. 214. § (1) bekezdése az Országgyűlési Őrség parancsnoka által fegyelmi ügyben hozott határozat vonatkozásában a közvetlen bírósághoz fordulás lehetőségét rögzíti. Ezzel összefüggésben szükséges a Hszt. 216. §-ában szereplő rendelkezések megfelelő módosítása.
+
+A Hszt. 289/C. § (9) bekezdésének szövegcserével történő módosításával azon rendvédelmi szerv, amelynek munkavállalója a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálat alá vonható, nem tarthat fenn munkaviszonyt olyan személlyel, aki a munkaszerződésében nem járul hozzá a megbízhatósági vizsgálattal történő ellenőrzéshez. A hatályos rendelkezés ezidáig a jogviszony létesítésére vonatkozóan tartalmazta a korlátozást.
+
+A Nemzeti Közszolgálati Egyetemen 2020 szeptemberében indul az első negyedik évfolyam, azonban a Hszt. 11. melléklete nem határoz meg a VII. és VIII. szemeszterre az alapösztöndíj-kiegészítéshez szorzószámokat. Ezt a hiányosságot pótolja a tervezet akként, hogy a VI. szemeszterre irányadó szorzószámot rendeli alkalmazni a VII. és VIII. szemeszterre is. Ezzel megteremtésre kerül a jogalap az alapösztöndíj-kiegészítés kifizetésére.
+
+Hatályon kívül helyezésre kerül a Hszt. 82. § (1) bekezdés g) pontja, mely értelmében a törvény erejénél fogva szűnik meg a hivatásos állomány tagjának szolgálati viszonya, ha a kifogástalan életvitel szolgálati viszony fennállása alatti ellenőrzésével kapcsolatos, a Hszt. 42. § (3) bekezdés b) pontja szerinti nyilatkozatát visszavonja. Az Európai Unió adatvédelmi reformjának végrehajtása érdekében szükséges törvénymódosításokról szóló törvény 2019. évben módosította a 42. § hivatkozott rendelkezését, mely értelmében a hivatásos állomány tagjának a jogviszony fennállása alatti kifogástalan életvitel ellenőrzéshez nem szükséges a hozzájárulása, hiszen az új adatvédelmi irányelvek értelmében elegendő a tudomásulvétel. Tekintettel arra, hogy a hatályos szabályozás értelmében nem hozzájárulás van, hanem tudomásulvétel, így indokolatlan a hozzájárulás visszavonásához kapcsolódó hivatásos jogviszony megszüntetési ok fenntartása.
+
+A kifogástalan életvitel ellenőrzéssel kapcsolatos tudomásul vétel visszavonása esetén a Hszt. jelenleg mind a hivatásos állomány, mind a rendvédelmi igazgatási alkalmazottak esetében a törvény erejénél fogva történő jogviszony-megszűnést fűzi jogkövetkezményként. A tudomásul vétel azonban fogalmilag nem vonható vissza (hiszen a GDPR-t követő módosítások miatt itt már nem hozzájárulás.
+
+A Hszt. 287/K. §-a értelmében a rendvédelmi alkalmazottra a Hszt. 29. §-t megfelelően alkalmazni kell. A Hszt. 29. § b) pontja értelmében a hivatásos állományú személy más keresőfoglalkozást e törvénynek az összeférhetetlenségről szóló 108-110. §-a figyelembevételével folytathat. Ugyanakkor a Hszt. 288/O. §-a önállóan szabályozza a rendvédelmi alkalmazottakra vonatkozó összeférhetetlenségi szabályokat, így indokolt a 287/K. § rendelkezései közül a 29. §-ra történő hivatkozás elhagyása.
+
+A 186. §-hoz
+
+A hatályos szabályozás értelmében az eljáró szerv a technikai kapcsoló számot (a továbbiakban: TKSZ) haladéktalanul törli azt követően, hogy azt a központi szervnek (arcképelemző rendszernek) arckép összehasonlítás céljából átadta. Ezzel viszont az arcképelemző rendszer által visszaadott hit/no hit (van egyezés/ nincs egyezés) válaszokat az eljáró szerv, illetőleg annak okmányügyintézője nem tudja ellenőrizni. A módosítás célja egyrészt, hogy az eljáró szerv felhatalmazást kapjon az ellenőrzés érdekében szükséges, TKSZ alapján történő arcképmás lekérdezésre, másrészt biztosítani szükséges, hogy - kiemelten a no hit válaszok esetében - az arcképelemző rendszer részére átadott TKSZ mindaddig az eljáró szerv rendelkezésére álljon, amíg az ügyfél személyazonosságának megállapítása kétséget kizáróan meg nem történik, de legkésőbb az okmánykiadásra irányuló kérelem lezárásáig. A TKSZ birtokában az okmányügyintéző le tudja kérdezni a személyiadat- és lakcímnyilvántartásban tárolt arcképmásokat. A lekérdezett és az eljárásban felvételezett arcképmás, illetőleg a hivatali helyiségben megjelent kérelmező személy arcának ismeretében az eljáró szerv dönthet az eljárás folytatásáról vagy a kérelem elutasításáról.
+
+Pontosítani szükséges továbbá, hogy az arcképelemző rendszer az automatizált összehasonlítás eredményét minden esetben a TKSZ-hez kapcsolódóan adja vissza az eljáró szerv részére, ugyanis több 1:1 profil összehasonlítás esetén csak így állapítható meg egyértelműen, hogy a kapott eredmény melyik TKSZ-hez, illetőleg az ahhoz tartozó arcképmáshoz tartozik.
+
+A 187. §-hoz
+
+Az Arcképtv. koherenciás módosítását tartalmazza, az útiokmány nyilvántartásban részt vevő szervek megfelelő alkalmazása érdekében.
+
+A 188. §-hoz
+
+A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény rendelkezéseinek eltérő szöveggel történő hatályba léptetése szövegpontosító módosítások átvezetése, valamint kodifikációs helyreigazítások érdekében szükséges.
+
+A 189. §-hoz
+
+A szolgáltatásazonosító személyiadat- és lakcímnyilvántartásban történő nyilvántartása miatt szükséges a módosítás, amelyre figyelemmel a pótlás során az állandó személyazonosító igazolvány változatlan szolgáltatásazonosítóval kerül kiállításra.
+
+Jelen törvényjavaslatnak a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvényt kiegészítő rendelkezései miatt szükséges egyes szerkezeti egységek kodifikációs jellegű módosítása (a pontok, alpontok jelölésének megváltoztatása).
+
+-----STARTING---POINT---VEGE---
+
+A 190-192. §
+
+A hatálybalépés időpontját állapítja meg, további jogharmonizációs és sarkalatossági záradékot tartalmaz.

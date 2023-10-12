@@ -1,0 +1,1081 @@
+2016. évi CXXI. törvény indokolása
+
+az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) olyan keretjogszabály, mely általánosságban fogalmazza meg, hogy az az egyes, elektronikus ügyintézésre kötelezett szerveknek az elektronikus eljárásaik során milyen módon kell egymással és az ügyfelekkel kapcsolatot tartaniuk, valamint az ehhez szükséges informatikai/technikai fejlesztések jogi alapját is biztosítja.
+
+Az E-ügyintézési tv. alapján az állami szervek szinte teljes köre, valamint azok a közüzemi szolgáltatók, melyek havonta - éves átlagban - legalább 150 ezer fogyasztói számlát bocsátanak ki (együttesen: elektronikus ügyintézésre kötelezett szervek), elektronikus ügyintézésre kötelezettek.
+
+Az E-ügyintézési tv. azokat a folyamatokat szabályozza, melyek az elektronikus ügyintézésre kötelezett szervek külső (egymás közötti vagy az ügyfelek irányába történő) kapcsolatai tekintetében értelmezhetőek.
+
+Az ügyek körét az E-ügyintézési tv. tágan értelmezi, ez alá tartozik minden, a közhatalom gyakorlásával összefüggésben lefolytatott eljárás, a közüzemi szolgáltatók előtti eljárások, a bírósági ügyek is, úgy az alap-, mint a jogorvoslati eljárások. Azaz a törvény hatálya nem csak a hatósági eljárásokra, hanem valamennyi ügyre (peres ügyek, panaszügyek, pályáztatások stb. kiterjed.
+
+Ez azt jelenti, hogy a törvény az érintett szervek belső ügyviteli folyamatait nem szabályozza, azonban alapértelmezésben minden olyan kapcsolattartásra kötelezően az elektronikus forma előírt, mely az elektronikus ügyintézésre kötelezett szerv és az ügyfél/fogyasztó között, valamint más elektronikus ügyintézésre kötelezett szerv irányában értelmezhető.
+
+A biztosítandó funkciók a törvényben az e-ügyintézésre kötelezett szerv kötelezettségeiként jelennek meg, melyeket az E-ügyintézési tv. [25. § (3) bek.] tételesen nevesít. Ezek teljesítése 2018. január 1-jétől kötelező, 2017. január 1-jétől pedig opcionális.
+
+A főbb kötelezettségek: az elektronikus ügyintézést biztosító szerv köteles olyan, elektronikus ügyintézést biztosító információs rendszer működtetésére, amely biztosítja (többek között) a hiteles elektronikus azonosítást, üzenetek biztonságos kézbesítését és fogadását, a kézbesítés visszaigazolását, az elektronikus aláírt dokumentumok feldolgozását és ilyen dokumentumok hiteles elkészítését, az eljárásért fizetendő terhek elektronikus fizetését, és az elektronikus űrlapok kezelését.
+
+Ahhoz, hogy az E-ügyintézési tv.-ben meghatározott követelményeket az elektronikus ügyintézésre kötelezett szervek valóban teljesíteni tudják, az E-ügyintézési tv. bevezette a Kormány által kötelezően biztosítandó, központi szabályozott elektronikus ügyintézési szolgáltatások (KEÜSZ) körét. Ezeket a szolgáltatásokat a Kormány központilag köteles biztosítani, kijelölt szolgáltató útján. A KEÜSZ-ök olyan „építőkövek”, melyeknek az - állami szervek számára ingyenes - használatával valamennyi, az E-ügyintézési tv.-ben előírt követelmény minimális saját fejlesztési igény mellett teljesíthető.
+
+Az elektronikus ügyintézés általánossá tételére vonatkozó szabályt az E-ügyintézési tv. 8. §-a tartalmazza. A szabályozás lényege, hogy
+
+- alapértelmezésben az ügyfél jogosult ügyintézési cselekményeit elektronikus úton végezni, nyilatkozatait elektronikus úton megtenni, ezt csak törvény vagy eredeti jogalkotói hatáskörben megalkotott kormányrendelet zárhatja ki;
+
+- viszont nincs elektronikus ügyintézés azokban az ügyekben, ahol törvény, eredeti jogalkotói hatáskörben megalkotott kormányrendelet az ügyfél személyes megjelenését vagy meghatározott okiratok másként nem pótolható benyújtását kötelezővé teszi; erre azonban csak akkor van lehetőség, ha ez tényleg elengedhetetlen.
+
+Az E-ügyintézési tv. e rendelkezésének végrehajtásához a jogrendszerből ki kell gyomlálni minden olyan szabályt, mely a törvény gyakorlati érvényesülésének gátat szab, azaz a fenti alapvető szabállyal ellentétes.
+
+Ennek megfelelően az E-ügyintézési tv. alkalmazhatósága előtti jogi akadályok elhárítását az alábbi szabályozási technikák biztosítják.
+
+Az esetek nagy részében az E-ügyintézési tv.-ben foglalt szabályozás elegendő az adott eljárás elektronikus ügyintézése jogi akadályainak felszámolásához, így az összhang elérhető az elektronikus ügyintézést gátló szabályok deregulációjával. Az ágazati törvénynek - mivel az E-ügyintézési tv. keretjogszabály - nem kell hivatkozást tartalmaznia a keretszabályra, vagy annak rendelkezéseit ismételnie; ha az ágazati törvény kapcsolattartást ír elő, akkor abban a kérdésben, hogy az adott relációban a kapcsolattartás elektronikus csatornán történő biztosítása kötelező-e, illetve hogy ez milyen módon történik, az E-ügyintézési tv. lesz az irányadó.
+
+Az E-ügyintézési tv. megváltozott jogrendszerbeli helyzete és ebből következő általános tárgyi hatálya miatt például az ágazati jogszabályokban nincs a továbbiakban szükség olyan rendelkezésekre, amely a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) elektronikus kapcsolattartásra vonatkozó rendelkezések szabályainak alkalmazását tette lehetővé más, nem hatósági eljárásokban (eddig erre kifejezetten utalni kellett, hiszen a Ket. hatálya a közigazgatási hatósági ügyekre terjedt csak ki).
+
+Így tehát, ha az elektronikus ügyintézés kifejezetten nem tiltott az ágazati szabályozásban, akkor azt kellett megvizsgálni, hogy szükséges-e az E-ügyintézési tv. érvényesüléséhez valamely ágazati eljárási vagy más speciális követelmény módosítása.
+
+Az elektronikus ügyintézés lehetőségének a biztosításához azonban nem elegendő az ezt kifejezetten kizáró rendelkezések deregulációja, hiszen a szabályozásból indirekten is következhet az elektronikus ügyintézés praktikus kizártsága. Ennek megfelelően:
+
+- a lehető legszűkebb körben tartható csak fenn az ügyfél személyes megjelenését előíró rendelkezés, ott, ahol e nélkül (pl. orvosi vizsgálathoz kell a megjelenés stb.) az ügy valamely alapvető fontosságú eleme nem tisztázható,
+
+- a nem elektronikus formában létező eredeti okiratok bemutatásának, benyújtásának a kötelezettsége szintén csak akkor tartható fenn, ha magának a dokumentumnak a fizikai elemzése, ellenőrzése szükséges valamely kérdés elbírálásához (pl.: hamisítvány-e az irat), egyebekben a hiteles elektronikus másolat bizonyító ereje az eredeti okiratéval megegyezik (hiszen ezért hiteles másolat);
+
+- ahol indokolt is a személyes megjelenési kötelezettség vagy az eredeti okirat bemutatásának, csatolásának fenntartása, ott az elektronikus ügyintézés és kommunikáció lehetőségét az eljárás valamennyi egyéb, személyes megjelenést nem igénylő ügyintézési cselekményénél biztosítani kell,
+
+- a kizárólag postai vagy más nem elektronikus úton történő beadványozás kötelezettségét meg kell szüntetni.
+
+A törvény ugyanakkor figyelemmel van arra, hogy egyes esetekben a személyes megjelenés előírása mindenképpen indokolt, valamint hogy bizonyos ügyekben az eredeti okiratok benyújtása nem kerülhető meg. Erre figyelemmel:
+
+- az eljárási törvények szerinti személyes meghallgatás főszabály szerint továbbra is személyesen, nem elektronikusan történik;
+
+- a személyállapot változásával járó eljárásokban (házasságkötés stb.) az akarategység bizonyíthatósága céljából a személyes jelenlét továbbra is előírás;
+
+- a valamely speciális, elektronikusan nem leképezhető okmánytípust megkövetelő eljárásokban szintén megmaradt az eredeti példány benyújtásának kötelezettsége;
+
+- azokban az ügyekben, amelyekben az eredeti okirat annak valamely jellemzője miatt (pl.: hamisítás beazonosítása) szükséges, e követelményt meg tartani.
+
+Figyelemmel arra, hogy az E-ügyintézési tv. 108. §-a értelmében
+
+- 2018. január 1. napjától az ügyek elektronikus intézhetőségének biztosítása kötelező,
+
+- 2017. január 1. napjától pedig - az érintett szerv saját vállalása alapján, az Elektronikus Ügyintézési Felügyeletnek történt bejelentést követően - opcionális, ezért átmeneti rendelkezésekkel kell biztosítani, hogy ennek jogi akadálya ne legyen. Ennek a szabályozási megoldásnak a lényege, hogy a jelen módosítást csak akkor kell alkalmazni 2017. január 1-től, ha az eljáró szerv az elektronikus ügyintézés bevezetését egyébként ettől az időponttól vállalta (a továbbiakban: az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezés).
+
+Az ágazati joganyag felülvizsgálata kapcsán felmerült, hogy egyes kérdésekben az E-ügyintézési tv. módosítása is indokolt. Ennek főbb elemei az alábbiak:
+
+1. Ha valamely - egyébként az E-ügyintézési tv. hatálya alá tartozó - eljárás nemzetközi szerződés alapján papír alapon zajlik, akkor az elektronikus ügyintézés nem lehet kötelező. Kizárt az elektronikus kapcsolattartás akkor, ha az irat minősített adatot tartalmaz.
+
+2. Lehetőséget biztosít a törvény arra, hogy 2019. december 31-ig az elektronikus ügyintézést biztosító szervek méretkorlátot határozzanak meg, ennek meghaladása esetén tartós adathordozón kell az iratokat benyújtani. Ugyanígy lehetőség nyílik arra, hogy a sajátos méretű/alakú iratokat - ha digitalizálásuk aránytalan lenne - papír alapon is be lehet nyújtani.
+
+3. A fogvatartott személy elektronikus ügyintézéshez való jogát törvény korlátozhatja.
+
+4. Kiemelt fontosságú, hogy a törvény általános alapszabályként kimondja ki: jogszabály kifejezetten eltérő rendelkezése hiányában, ha valamely jogszabály eredeti okiratot/dokumentumot/iratot követel meg az ügyféltől, akkor elektronikus ügyintézés esetén annak hiteles elektronikus másolata is elégséges.
+
+5. A 4. pontra figyelemmel, ha a jogszabály az ügyféltől egy beadvány több példányban történő benyújtását követeli meg, elektronikus ügyintézés esetén egy elektronikus dokumentum is elég.
+
+6. Jogszabály lehetőséget adhat arra, hogy egyes ügyekben az ügyfél az iratát saját maga hitelesítse.
+
+7. Ha a gazdálkodó szervezet hiteles elektronikus elérhetőséggel nem rendelkezik, az eljárás papír alapon lefolytatható, de az e-ügyintézést biztosító szerv kezdeményezheti a gazdálkodó szervezettel kapcsolatban törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását. Erre figyelemmel az egyes ágazati nyilvántartási törvényekben a hiteles elérhetőség, mint nyilvántartandó adat előírásra került.
+
+Az Európai Parlament és a Tanács a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 910/2014/EU rendelete (a továbbiakban: eIDAS rendelet) 2016. július 1. napjával hatályba lépett. Az eIDAS rendelet alkalmazhatóságához szükséges korrekciókat az E-ügyintézési tv. elvégezte, az ágazati törvényekben ugyanakkor több helyen szükséges a megváltozott fogalmak technikai átvezetése. A törvény ezt a feladatot is elvégzi.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az elektronikus kapcsolattartásra kötelező szabályokat - a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) módosítása alapján - 2016. július 1. napjától kell alkalmazniuk a polgári peres eljárásokban az erre kötelezett feleknek.
+
+Tekintettel arra, hogy az Országgyűlés napirendjén szereplő új polgári perrendtartásról szóló törvény, (amelynek hatálybalépése 2018. január 1. napja) szintén szabályozza az elektronikus kapcsolattartást, az elektronikus kapcsolattartás vonatkozásában a Pp. módosítása csak a legszükségesebb elemekre korlátozódik azzal, hogy kimondja, 2017. december 31-ig az E-ügyintézési tv. mely rendelkezéseit kell alkalmazni az elektronikus kapcsolattartás tekintetében. A 2018-tól hatályos szabályok meghatározása az új törvény feladata lesz.
+
+A módosítás - más elemeiben - a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes törvények módosításáról, valamint egyes költségvetési szervek feladatainak átadásáról szóló törvény keretében módosításra került, a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvénnyel teremti meg a Pp. összhangját.
+
+A módosítás alapján a kormányhivatalok/kormányablakok lehetőséget kapnak arra, hogy az ügyfél aláírását tableten, az aláírás biometrikus adatait is rögzítve fel tudják venni, ezáltal az ügyfél úgy is tud elektronikusan ügyet intézni, hogy nincs megfelelő e-azonosító eszköze/aláírása. A Pp. 196-197. §-ainak hatályos szövege szerint ilyen esetben az irat hitelesítéséhez egy bizalmi szolgáltató közreműködése is kell, a törvény szerinti módosítás értelmében viszont lehetővé válik, hogy maga a kormányhivatal/kormányablak végezze el a benyújtott irat hitelesítését.
+
+A 2. §-hoz
+
+A közúti közlekedésről szóló 1988. évi I. törvény technikai jellegű pontosítását tartalmazza:
+
+A 20. § (4c) bekezdésének hatályos szabálya a gépjármű üzemben tartójára kiszabott közigazgatási bírság megfizetését csak csekkszelvényen vagy banki átutalással teszi lehetővé. Ez a korlátozás nem indokolt, az E-ügyintézési tv. 1. § 14. pontja alapján az elektronikus fizetésnek több módját ismeri.
+
+Tekintettel arra, hogy az E-ügyintézési tv. az elektronikus kézbesítés módját általánosságban szabályozza, ilyen rendelkezést a közúti közlekedésről szóló 1988. évi I. törvény 21. § (4) bekezdésének nem kell tartalmaznia.
+
+A közúti közlekedésről szóló 1988. évi I. törvény 19. § (4) bekezdése a kérelem elektronikus előterjesztését kizáró szabályt tartalmaz a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott árufuvarozásra és személygépkocsival, autóbusszal végzett személyszállításra vonatkozó engedélyek kiadásával, módosításával és visszavonásával kapcsolatos ügyekben. E rendelkezés hatályon kívül helyezésre kerül.
+
+Szintén a kérelem elektronikus benyújtását kizáró szabályt tartalmaz a közúti közlekedésről szóló 1988. évi I. törvény 29/B. § (1) bekezdése, e szerint az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló, valamint a közutak igazgatásáról szóló külön jogszabályokban meghatározott közlekedési hatósági eljárások megindítására irányuló kérelmet és annak mellékleteit, valamint a hiánypótlást papír alapon kell benyújtani. A törvény ezt az E-ügyintézési tv. új rendelkezésének megfelelően pontosítja.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 3. §-hoz
+
+Az illetékekről szóló 1990. évi XCIII. törvény módosítása lehetőséget ad arra, hogy a vagyonszerzést rögzítő iratot, valamint a jogügylet megszűnését igazoló iratot elég legyen hiteles másolatban (így akár elektronikus másolatban is) beadni.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 4. §-hoz
+
+A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény 10. § (2) bekezdésének hatályon kívül helyezésével az elektronikus kapcsolattartást általánosságban kizáró szabály szűnik meg.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+Az 5. §-hoz
+
+A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 7/A. § (1) bekezdése az elektronikus ügyintézést generálisan korlátozza felügyeleti ügyekben. A törvény az elektronikus ügyintézés generális korlátozását helyezi hatályon kívül.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 6. §-hoz
+
+A közjegyzőkről szóló 1991. évi XLI. törvény 11/A. § (3) bekezdése szerint kamarai hatósági eljárásban a kérelem telefaxon nem nyújtható be. A hivatkozott kommunikációs technika háttérbe szorulásával, illetve az elektronikus út lehetővé tétele mellett indokolatlan a további korlátozás fenntartása. A törvény 11/A. §-a a kamarai hatósági ügyekben kizárja az elektronikus kapcsolattartást, e korlátozás is indokolatlan.
+
+A törvény 49/A. § (5) bekezdésének módosítása biztosítja továbbá, hogy a közjegyzői iroda hivatalos elektronikus elérhetősége a kamara nyilvántartásában szerepeljen.
+
+A törvény tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is, valamint az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 7. §-hoz
+
+A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása lehetőséget ad arra, hogy az eljárás során az okiratot elég legyen hiteles másolatban (így akár elektronikus másolatban is) beadni.
+
+A törvény tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is, valamint az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 8. §-hoz
+
+Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény módosítása az elektronikus ügyintézés generális korlátozását helyezi hatályon kívül.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 9. §-hoz
+
+A nemzeti gondozásról szóló 1992. évi LII. törvény módosítása az elektronikus ügyintézés generális korlátozását helyezi hatályon kívül.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 10. §-hoz
+
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény több ponton kerül a törvény értelmében módosításra, az alábbiak szerint.
+
+Az egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról szóló 2016. évi XXXIX. törvénnyel összefüggésben a hivatkozás pontosításának átvezetése.
+
+A módosítás értelmében - a polgár kérelmére - vészhelyzet esetén értesítendő telefonszám kerülhet rögzítésre a tároló elemmel ellátott állandó személyazonosító igazolványon. Ennek az a célja, hogy a polgár elhalálozása esetén, vagy amennyiben egészségi állapota miatt elérhetőségének megadására önállóan nem képes, lehetőség legyen arra, hogy az általa korábban megjelölt személy az érintett polgár hollétéről és állapotáról tudomást szerezhessen.
+
+Figyelemmel arra, hogy 2016. január 1-jétől a külföldön élő magyar állampolgárok is jogosultak személyazonosító igazolvány igénylésére, a törvény megteremti annak lehetőségét, hogy 2017. január 16-tól a személyazonosító igazolvány kiadására irányuló kérelem előterjesztésére a külképviseleteken is sor kerülhessen. Idetartozik, hogy a személyazonosító igazolvány érvényessége a polgár születési idejéhez igazodik a törvény alapján.
+
+2016. január 1-jétől a külföldön élő magyar állampolgárok is jogosultak személyazonosító igazolványra, ezért az ő esetükben nem eredményezi a személyazonosító igazolványra való jogosultság megszűnését a külföldi letelepedés bejelentése. A nem magyar állampolgárságú személyek külföldi letelepedése azonban megszünteti a személyazonosító igazolványra való jogosultságot, ezt szükséges a szabályozás szintjén is egyértelműen megjeleníteni.
+
+A módosítás biztosítja, hogy azok a polgárok, akiknek a lakcíme költözés nélkül, a címnek a központi címregiszterben történő felülvizsgálatára tekintettel módosul, hivatalból kapják meg az új lakcímet tartalmazó személyi azonosítóról és lakcímről szóló hatósági igazolványt.
+
+A módosítás biztosítja, hogy a fogvatartott személy személyazonosító igazolvány kiadása iránti eljárásban közreműködő hatóságként eljáró bv. szervnek is legyen jogalapja a kérelmező adatainak a személyiadat- és lakcímnyilvántartásban történő ellenőrzésére.
+
+A módosítás biztosítja, hogy a konzuli tisztviselő munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személynek is legyen joga a feladatainak ellátásával összefüggésben a személyiadat- és lakcímnyilvántartásból adatigénylésre.
+
+Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvényben foglalt adatigénylésnek teremti meg a módosítás az ágazati törvényben a jogalapját.
+
+A lakcímbejelentéssel összefüggésben a szabályozás főszabály szerint személyes megjelenési kötelezettséget ír elő, az értesítési cím esetén viszont biztosítja az elektronikus ügyintézés lehetőségét is.
+
+A szabályozás a Ket. szerinti elektronikus útra tartalmaz hivatkozást, a módosítás az E-ügyintézési tv.-vel való összhang megteremtését célozza.
+
+A szabályozás főszabály szerint személyes megjelenési kötelezettséget ír elő a külföldről hazatérő magyar állampolgár nyilvántartásba vételével kapcsolatos eljáráshoz.
+
+A szabályozás biztosítja az elektronikus ügyintézés lehetőségét arra az esetre, hogy ha a tartózkodási helyet újabb tartózkodási hely létesítése nélkül szünteti meg a polgár.
+
+A sommás eljárás bevezetésével összefüggésben az ügyintézési határidő lerövidülése miatt a szabályozás pontosítja, hogy a 12. életévet betöltött személy ujjnyomatának rögzítésére csak akkor kerül sor, hogy ha a kérelem benyújtásakor már betöltötte 12. életévét.
+
+A módosítás biztosítja, hogy a személyazonosító igazolványhoz kapcsolódóan egyéb bizalmi szolgáltatást (pl. időbélyeg-szolgáltatást) is lehessen nyújtani.
+
+Az elektronikus aláíráshoz tartozó tanúsítvány érvénytelenítése érdekében a szabályozás biztosítja az adatszolgáltatást arról, hogy ha a polgár 60 napon belül nem vette át személyazonosító igazolványát.
+
+Figyelemmel arra, hogy a honosított a magyar állampolgárságot az eskü vagy fogadalom letételének napján szerzi meg, a szabályozás egyértelművé teszi, hogy a személyazonosító igazolvány érvényességének kezdetét ettől az időponttól kell számítani.
+
+Az E-ügyintézési tv.-vel összefüggő módosítás, biztosítja a felhatalmazó rendelkezést azon eljárások kormányrendeleti szinten történő meghatározására, amely esetekben a hatóság az eljárást automatikus döntéshozatal útján folytathatja le.
+
+Az E-ügyintézési tv.-vel összefüggő, a 2017. évre vonatkozó átmeneti szabály.
+
+Az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetése.
+
+A szabályozás kizárja a személyazonosító igazolvány pótlását. A személyazonosító igazolvány változatlan adattartalommal történő pótlására az elektronikus tároló elemen lévő, a nyilvántartásban nem kezelt adatok miatt nincs lehetőség. A személyazonosító igazolvány kiadása minden esetben illetékmentes eljárás, erre tekintettel a polgárokat a módosítás miatt nem éri hátrány.
+
+A 11. §-hoz
+
+A magyar állampolgárságról szóló 1993. évi LV. törvény módosításával az állampolgársági kérelem „saját kezű” - tehát csak papír alapon értelmezhető - aláírására vonatkozó követelmény megszűnik (tehát pl. elektronikus aláírás alkalmazása is lehetséges lesz). A törvény kizárja továbbá a meghatalmazott útján történő eljárást az állampolgársági kérelem előterjesztésével kapcsolatos ügyekben.
+
+A 12. §-hoz
+
+Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosításával lehetőség lesz a vezető tisztségviselőkkel szembeni kizáró ok hiányát igazoló hatósági bizonyítvány eredeti példánya helyett hiteles elektronikus másolat alkalmazására is.
+
+A 13. §-hoz
+
+A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
+
+- a Magyar Bírósági Végrehajtói Kar szervezeti és működési szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a Kar tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy;
+
+- biztosítja, hogy a végrehajtói iroda hivatalos elektronikus elérhetősége a Magyar Bírósági Végrehajtói Kar nyilvántartásában szerepeljen;
+
+- tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is.
+
+A 14. §-hoz
+
+A Bérgarancia Alapról szóló 1994. évi LXVI. törvény 3. §-ának és 13. § (3) bekezdésének hatályos szövege alapján az állami foglalkoztatási szervhez a támogatás iránti kérelmet elektronikusan és egyúttal papír alapon is be kell nyújtani. A törvény ezt a duplikációt megszünteti.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 15. §-hoz
+
+A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény módosítása a Magyar Szabadalmi Ügyvivői Kamara szervezeti és működési szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a Kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+A 16. §-hoz
+
+A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 45. §-ának a törvény szerinti kiegészítése értelmében a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH) hatáskörébe tartozó szabadalmi ügyekben Ket. új 28/A. §-a szerinti kapcsolattartási módok közül csak az írásbeli és az elektronikus, és ez utóbbin belül csak az azonosításhoz kötött kapcsolattartási formáknak van helye.
+
+Az SZTNH előtti iparjogvédelmi hatósági eljárásokban - a jelenlegi gyakorlatnak megfelelően - szóbeli kapcsolattartásra (ideértve a személyes megjelenést is), illetve azonosításhoz nem kötött írásbeli vagy elektronikus kapcsolattartásra csak tájékoztatás kérése és teljesítése, illetve az iratbetekintés biztosítása és a szóbeli tárgyalások esetében van lehetőség. Tájékoztatás sem kérhető vagy kapható azonban rövid szöveges üzenet útján, mivel az nyilvánvalóan alkalmatlan az iparjogvédelmi ügyek összetettségének megfelelő, pontos és szabatos közlések továbbítására.
+
+A törvény biztosítja, hogy a joghatást kiváltó, írásbeliséget megkövetelő eljárási cselekményeket az SZTNH-val kapcsolatba lépő személyek csak nyomon követhető és megfelelő azonosítást biztosító módon tehessék meg.
+
+Az elektronikus úton benyújtott nemzetközi szabadalmi bejelentésekkel kapcsolatban a Szabadalmi Együttműködési Szerződés (Patent Cooperation Treaty, a továbbiakban: PCT) Végrehajtási Szabályzatának 89bis.1 szabály b) pontja a Szellemi Tulajdon Világszervezete (a továbbiakban: WIPO) által üzemeltetett elektronikus kommunikációs és ügyviteli rendszer (a továbbiakban: ePCT rendszer) használatát írja elő. Ezt a szabályt tükrözi az egyes iparjogvédelmi beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokról szóló 147/2007. (VI. 26.) Korm. rendelet 1/A. §-ának (1) bekezdése is.
+
+A nemzetközi szabadalmi bejelentések elektronikus úton tehát kizárólag az ePCT rendszeren keresztül nyújthatók be az SZTNH-hoz. Azzal a bejelentővel és képviselőjével, aki elektronikus úton (azaz ePCT rendszeren keresztül) nyújtotta be nemzetközi szabadalmi bejelentését, az SZTNH az ePCT rendszer szabályai szerint tartja a kapcsolatot. Az ePCT rendszer igénybevételéhez az ügyfél a WIPO honlapján regisztrálhat, majd a regisztrációt és az azonosítást követően létrehozott „ügyfél-fiókjával” jogosult a szolgáltatás használatára - ez tehát nem az E-ügyintézési tv. által szabályozott elektronikus ügyintézési módot jelent, fenntartása azonban nemzetközi kötelezettségünk. Ennek megfelelően a törvény - az Szt. 45. §-ának egy új (6) bekezdéssel való kiegészítésével - az elektronikus úton benyújtott nemzetközi szabadalmi bejelentések tekintetében az ePCT rendszer használatát írja elő, amely az E-ügyintézési tv. 10. § b) pontban foglalt, az elektronikus ügyintézést biztosító szerv által közzétett tájékoztatásban megfelelő elektronikus ügyintézési módnak felel meg.
+
+Az E-ügyintézési tv. 1. §-ának 29. pontja szerint „jogi képviselő: jogszabály eltérő rendelkezése hiányában az ügyfél képviseletében eljáró ügyvéd, ügyvédi iroda és jogtanácsos”; e felsorolás azonban nem tartalmazza a szabadalmi ügyvivőket. A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény (a továbbiakban: Szüt.) ugyanakkor a szabadalmi ügyvivő feladatai közé sorolja - többek között - az iparjogvédelmi és szerzői jogi ügyekben történő képviselet ellátását, és a Szüt. 1. §-ának (4) bekezdése egyértelművé teszi, hogy ha iparjogvédelmi ügyben a fél számára kötelező a jogi képviselet, e követelménynek megfelel az is, ha a felet szabadalmi ügyvivő képviseli.
+
+Ez a szabályozási hiányosság jogalkalmazási nehézségekhez vezethet minden olyan esetben, ahol az E-ügyintézési tv. a jogi képviselőkre nézve ír elő szabályokat: ezek a rendelkezések az SZTNH előtt hivatásos képviselőként eljáró ügyvédekre, illetve az adott szervezet képviselőjeként eljáró jogtanácsosokra alkalmazandók lennének, a szintén hivatalos képviseletet ellátó szabadalmi ügyvivőkre azonban nem.
+
+A fentiek alapján nehézségbe ütközhet például a szabadalmi ügyvivőnek, mint hivatásos képviselőnek adott meghatalmazás ügyintézési rendelkezésbe foglalása, azaz a képviseleti jogosultság ellenőrzésére vonatkozó e-ügyintézési szabályoknak a szabadalmi ügyvivőkre történő alkalmazhatósága.
+
+Annak érdekében, hogy az SZTNH előtti iparjogvédelmi ügyekben a hivatásos képviselők tekintetében egységes szabályozás érvényesüljön, szükség van annak kimondására, hogy ezen eljárások tekintetében a szabadalmi ügyvivők, a szabadalmi ügyvivői irodák és a szabadalmi ügyvivői társaságok is jogi képviselőnek minősülnek.
+
+Az Szt. 53. §-ának kiegészítése azt teszi egyértelművé, hogy szabadalmi ügyekben az iratbetekintés - az információbiztonsági szabályok maradéktalan érvényesülése érdekében - csak személyes megjelenéshez kötötten biztosított az olyan dokumentumok vonatkozásában, amelyek nem bárki által megtekinthetőek. A rendelkezés azokat az iratokat érinti, amelyek csak egyedi iratbetekintési kérelem alapján tekinthetőek meg, azaz nem nyilvánosak, a megtekintésükhöz megkövetelt jogosultságot az SZTNH-nak vizsgálnia kell, egyes részeit pedig adott esetben anonimizálni szükséges. Ez a gyakorlatban azt jelenti, az ilyen iratokba való betekintés nem teljesíthető elektronikusan, az ügy iratait távoli eléréssel hozzáférhetővé téve.
+
+Az Szt. 53/D. §-ának újraszabályozása, elhagyva az SZTNH előtti elektronikus ügyintézést korlátozó rendelkezéseket, szabadalmi ügyekben elhárítja az akadályokat az E-ügyintézési tv. alkalmazása, és ebből következően a teljeskörű és kétirányú elektronikus ügyintézési lehetőség elől.
+
+Az 53/D. § (2) bekezdése ugyanakkor - az E-ügyintézési tv. 9. § (1) bekezdésében foglalt főszabálytól eltérően, az abban foglalt felhatalmazás alapján - kimondja, hogy szabadalmi ügyekben a gazdálkodó szervezetek és a jogi képviselők számára sem kötelező az elektronikus ügyintézés.
+
+A gazdálkodó szervezetek és az ügyfél jogi képviselője részére kötelező jelleggel előírt elektronikus ügyintézés ugyanis egyes iparjogvédelmi eljárásokban Magyarország nemzetközi szerződésekben foglalt kötelezettségeibe ütközne - tekintettel arra, hogy ezek alapján védjegy- és szabadalmi ügyekben a papír alapú ügyintézés lehetősége (legalábbis a benyújtandó dokumentumok egy jelentős része vonatkozásában) nem zárható ki.
+
+Ezek a nemzetközi jogi kötelezettségek a Szabadalmi Jogi Szerződés (Patent Law Treaty, a továbbiakban: PLT), a Szabadalmi Jogi Szerződéshez kapcsolódó Végrehajtási Szabályzat (a továbbiakban: PLT VSZ), a PCT, a PCT Végrehajtási Szabályzata (PCT VSZ), valamint a Védjegyjogi Szerződés (Trademark Law Treaty, TLT) rendelkezésein alapulnak, amelyek közül a szabadalmi eljárások vonatkozásában a következők relevánsak:
+
+- A PLT 2. cikke az általános elvek között deklarálja a kedvezőbb követelmények elvét: a PLT-ben és a PLT VSZ-ban előírt szabályoknál bármely szerződő fél jogosult a bejelentők és a szabadalmasok szempontjából kedvezőbbeket meghatározni - az ezekben meghatározottaknál azonban az ügyfelek számára szigorúbb, számukra kedvezőtlenebb követelmények meghatározása és alkalmazása nem megengedett.
+
+- A PLT 5. cikk (1) bekezdésének a) pontja a bejelentés kellékei között rögzíti, hogy a bejelentés napja az a nap, amelyen a Hivatal - a bejelentő választása szerint papírhordozón vagy a Hivatal által a bejelentési nap céljaira megengedett bármilyen más módon - kézhez vette a bejelentést. Ezt erősíti a PLT 8. cikke (2) bekezdésének d) pontja is, amely szerint mindegyik Szerződő Félnek el kell fogadnia a beadványok papírhordozón történő benyújtását valamely határidő betartása céljából. A PLT VSZ 8. szabálya szintén csak a PLT fent nevesített két rendelkezése kivételével teszi lehetővé a beadványok papíron történő benyújtásának kizárását.
+
+- A PCT VSZ 89bis 1. szabálya tiltja az elektronikus út kizárólagossá tételét és a nemzetközi szabadalmi bejelentések papíron történő benyújtásának kizárását.
+
+Az Szt. lajstromvezetésről szóló 55. §-ának módosítását a következők indokolják:
+
+Az E-ügyintézési tv. 22. § (2) bekezdés a) pontja szerint az ügyfél az elektronikus ügyintézési rendelkezésében igényelheti, hogy az általa meghatározott adatainak változásáról a Kormány rendeletében meghatározott szolgáltató az ügyintézési rendelkezésében meghatározott elektronikus ügyintézést biztosító szervet automatikusan vagy az ügyfél rendelkezése alapján elektronikus úton értesítse. Ugyanezen § (6) bekezdése szerint az adott ügy vonatkozásában érvénytelen az a rendelkezés, amely az ügyre vonatkozó jogszabályokkal ellentétes.
+
+Az Szt. alapján az SZTNH a hatáskörébe tartozó ügyekben - törvény eltérő rendelkezése hiányában - kérelemre jár el. Iparjogvédelmi ügyekben az adatváltozásról való automatikus értesítés alapján történő eljárás tipikusan az SZTNH által vezetett közhiteles, elektronikus nyilvántartásokba bejegyzett adatok, elsősorban az ügyfél név-, illetve lakcímváltozása esetében merülhet fel. Az SZTNH közhiteles lajstromai azonban kizárólag az ügyfelek nevét és címét tartalmazzák, egyéb személyazonosító adatot nem. Így nem biztosítható az ügyfél és a hozzá rendelhető lajstromadatok egyértelmű megfeleltetése, ezáltal pedig a változás helyes bejegyzése.
+
+Ahol nem biztosított az adatváltozással érintett személy egyértelmű azonosítása és meghatározott üggyel való összekapcsolása, az értesítésben foglalt változásoknak az SZTNH nyilvántartásaiban történő átvezetése nem lehetséges. Ebből következően továbbra is indokolt, hogy a lajstromadatok módosítására irányuló eljárásokat külön kérelemben, azaz az érintett szabadalmi ügyeket egyértelműen megjelölő beadványban kelljen kezdeményezni.
+
+A 17. §-hoz
+
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 50. § (1a) bekezdése alapján a környezethasználó az Országos Környezetvédelmi Információs Rendszerrel kapcsolatos adatszolgáltatási kötelezettségeit - ha kormányrendelet vagy miniszteri rendelet eltérően nem rendelkezik - a Ket. elektronikus kapcsolattartásra vonatkozó szabályai szerint teljesíti.
+
+A törvény a hivatkozás módosításával egyértelművé teszi, hogy a kapcsolattartás az E-ügyintézési tv. alapján történik.
+
+A 90. § (3) bekezdésének módosítása alapján elektronikus ügyintézés esetén a környezetvédelmi engedély és az egységes környezethasználati engedély iránti kérelmet külön nem kell elektronikus adathordozón is benyújtani.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 18. §-hoz
+
+A légiközlekedésről szóló 1995. évi XCVII. törvény 3/D. § (1) bekezdése számos ügyben (pl. légijármű lajstromba vétele, légijármű üzemben tartási engedély kiadása és módosítása, légijármű típusalkalmassági vizsgálata, légijármű légialkalmassági felülvizsgálata, légijárművet terhelő jelzálogjog és egyéb jog bejegyzése stb.) kizárja a légiközlekedési hatóság és az ügyfél közötti elektronikus kapcsolattartást.
+
+A törvény alapján ez a generális korlátozás megszűnik.
+
+A repülőtéri repüléstájékoztató szolgálat kijelölésére vonatkozó eljárásban a kijelölés iránti kérelmet az érintett repülőtér üzemben tartója a légiközlekedési hatóság útján juttatja el a miniszterhez. A hatályos szöveg alapján a kérelemhez a repülőtér üzemben tartója mellékeli a szolgálatot ellátni kívánó szervezet légiközlekedési hatóság által kiadott, a szolgálat ellátására jogosító tanúsítványának másolatát. Tekintettel arra, hogy a kérelem a légiközlekedési hatóság útján kerül felterjesztésre, a repülőtér üzemben tartójának e kötelezettsége megszűnik.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 19. §-hoz
+
+A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása az alábbi elemeket tartalmazza:
+
+A törvény 32. § m) pontja értelmében a személyi azonosító kezelésére - az adattovábbítás kivételével - jogosult a körözést elrendelő, a körözési eljárást lefolytató és a körözési nyilvántartást vezető szerv a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvényben meghatározott feladatai ellátásához.
+
+A Szaztv. 36. §-ának ezzel párhuzamos kiegészítése felhatalmazza a körözési nyilvántartó szervet a körözött személy személyazonosságának ellenőrzése céljából a személyi azonosító továbbítására.
+
+A 20. §-hoz
+
+A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény módosítása az országos, illetve a terület kamara szervezeti és működési szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+A 21. §-hoz
+
+A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/C. § (3c) bekezdése alapján, ha a kiegészítő sportfejlesztési támogatás jogosultja nem országos sportági szakszövetség, az annak alapjául szolgáló szponzori vagy támogatási szerződés eredeti példányát kell megküldeni a kiegészítő sportfejlesztési támogatásban részesített látvány-csapatsport országos sportági szakszövetsége részére. A módosítás alapján a hiteles másolat is elegendő lesz.
+
+A törvény továbbá generálisan kizárta az elektronikus kapcsolattartást a fejlesztési adókedvezménnyel kapcsolatos ügyekben, a törvény értelmében ez a korlátozás megszűnik.
+
+A 22. §-hoz
+
+Az E-ügyintézési tv. 35. §-a alapján már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény módosításával az ügyfélkapun kívül lehetővé teszi a többi elektronikus azonosítási szolgáltatás használatát is.
+
+A 23. §-hoz
+
+A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény (a továbbiakban: Vt.) 38. §-ának kiegészítése azt a célt szolgálja, hogy világossá tegye: az SZTNH hatáskörébe tartozó védjegyügyekben a Ket. új 28/A. §-a szerinti kapcsolattartási módok közül csak az írásbeli és az elektronikus, és ez utóbbin belül csak az azonosításhoz kötött kapcsolattartási formáknak van helye.
+
+Az SZTNH előtti iparjogvédelmi hatósági eljárásokban - a jelenlegi gyakorlatnak megfelelően - szóbeli kapcsolattartásra (ideértve a személyes megjelenést is), illetve azonosításhoz nem kötött írásbeli vagy elektronikus kapcsolattartásra csak tájékoztatás kérése és teljesítése, illetve az iratbetekintés biztosítása és a szóbeli tárgyalások esetében van lehetőség. Tájékoztatás sem kérhető vagy kapható azonban rövid szöveges üzenet útján, mivel az nyilvánvalóan alkalmatlan az iparjogvédelmi ügyek összetettségének megfelelő, pontos és szabatos közlések továbbítására.
+
+A törvény biztosítja, hogy a joghatást kiváltó, írásbeliséget megkövetelő eljárási cselekményeket az SZTNH-val kapcsolatba lépő személyek csak nyomon követhető és megfelelő azonosítást biztosító módon tehessék meg.
+
+Az E-ügyintézési tv. 1. §-ának 29. pontja szerint „jogi képviselő: jogszabály eltérő rendelkezése hiányában az ügyfél képviseletében eljáró ügyvéd, ügyvédi iroda és jogtanácsos”; e felsorolás azonban nem tartalmazza a szabadalmi ügyvivőket. A Szüt. ugyanakkor a szabadalmi ügyvivő feladatai közé sorolja - többek között - az iparjogvédelmi és szerzői jogi ügyekben történő képviselet ellátását, és a Szüt. 1. §-ának (4) bekezdése egyértelművé teszi, hogy ha iparjogvédelmi ügyben a fél számára kötelező a jogi képviselet, e követelménynek megfelel az is, ha a felet szabadalmi ügyvivő képviseli.
+
+Annak érdekében, hogy az SZTNH előtti iparjogvédelmi ügyekben a hivatásos képviselők tekintetében egységes szabályozás érvényesüljön, szükség van annak kimondására, hogy ezen eljárások tekintetében a szabadalmi ügyvivők, a szabadalmi ügyvivői irodák és a szabadalmi ügyvivői társaságok is jogi képviselőnek minősülnek.
+
+A Vt. 46. §-ának kiegészítése egyértelművé teszi, hogy védjegyügyekben az iratbetekintés - az információbiztonsági szabályok maradéktalan érvényesülése érdekében - csak személyes megjelenéshez kötötten biztosított az olyan dokumentumok vonatkozásában, amelyek nem bárki által megtekinthetőek. A rendelkezés azokat az iratokat érinti, amelyek csak egyedi iratbetekintési kérelem alapján tekinthetőek meg, azaz nem nyilvánosak, a megtekintésükhöz megkövetelt jogosultságot az SZTNH-nak vizsgálnia kell, egyes részeit pedig adott esetben anonimizálni szükséges. Ez a gyakorlatban azt jelenti, az ilyen iratokba való betekintés nem teljesíthető elektronikusan, az ügy iratait távoli eléréssel hozzáférhetővé téve.
+
+A Vt. 46/D. §-ának újraszabályozása, elhagyva az SZTNH előtti elektronikus ügyintézést korlátozó rendelkezéseket, védjegyügyekben elhárítja az akadályokat az E-ügyintézési tv. alkalmazása, és ebből következően a teljeskörű és kétirányú elektronikus ügyintézési lehetőség elől.
+
+A 46/D. § (2) bekezdése ugyanakkor - az E-ügyintézési tv. 9. § (1) bekezdésében foglalt főszabálytól eltérően, az abban foglalt felhatalmazás alapján - kimondja, hogy védjegyügyekben a gazdálkodó szervezetek és a jogi képviselők számára sem kötelező az elektronikus ügyintézés.
+
+A gazdálkodó szervezetek és az ügyfél jogi képviselője részére kötelező jelleggel előírt elektronikus ügyintézés ugyanis egyes iparjogvédelmi eljárásokban Magyarország nemzetközi szerződésekben foglalt kötelezettségeibe ütközne - tekintettel arra, hogy ezek alapján védjegy- és szabadalmi ügyekben a papír alapú ügyintézés lehetősége (legalábbis a benyújtandó dokumentumok egy jelentős része vonatkozásában) nem zárható ki.
+
+Ezek a nemzetközi jogi kötelezettségek a Szabadalmi Jogi Szerződés (Patent Law Treaty, a továbbiakban: PLT), a Szabadalmi Jogi Szerződéshez kapcsolódó Végrehajtási Szabályzat (a továbbiakban: PLT VSZ), a PCT, a PCT Végrehajtási Szabályzata (PCT VSZ), valamint a Védjegyjogi Szerződés (Trademark Law Treaty, TLT) rendelkezésein alapulnak, amelyek közül a védjegyeljárások vonatkozásában a következők relevánsak:
+
+- A TLT 3. cikke kötelezi a szerződő feleket a papírhordozón történő bejelentések fogadására.
+
+- Ugyanígy, a papírhordozóra írt képviseleti meghatalmazást, név- vagy címváltozás bejelentésére irányuló, a védjegylajstromban vagy hivatalos közzétételben megjelenő hiba kijavítása iránti, a jogosult személyében bekövetkező változás bejegyzése és a megújítás iránti kérelmeket is kötelesek elfogadni a szerződő felek.
+
+Noha az, hogy a kötelező elektronikus ügyintézés előírása a fentiekben ismertetett nemzetközi szerződésekbe ütközik, a védjegyeljárásokon kívül csak a szabadalmi eljárásokat érinti (ld. a 16. § indoklását is), az SZTNH ügyköreinek egységes kezelése valamennyi, az SZTNH előtti iparjogvédelmi hatósági ügy (és valamennyi beadvány) esetében egységes szabályozást indokol az elektronikus, illetve papír alapú ügyintézés terén - mind az ügyfelek, mind az SZTNH szempontjából: az ügy- és beadványtípusonként eltérő kapcsolattartási forma előírása kevéssé lenne áttekinthető az ügyfelek számára és jogpolitikai szempontból sem járna következetes eredményekkel. Az SZTNH előtti iparjogvédelmi eljárások ráadásul tipikusan „együtt mozgó, egységes rendszerek”, a szabadalmi és a védjegyeljárásokat szabályozó törvényeknek a többi oltalmi forma esetében való érvényesülését az iparjogvédelmi törvények a „mutatis mutandis” elven alapulva biztosítják. A törvény ennek megfelelően az iparjogvédelmi ügyek tekintetében a fenti elveknek és indokoknak megfelelő átgondolt, rendszerszemléletű és egységességet biztosító szabályozás bevezetését irányozza elő.
+
+A Vt. 112. § (6) bekezdésének újraszabályozása, valamint (7)-(9) bekezdésének hatályon kívül helyezése, elhagyva az SZTNH előtti elektronikus ügyintézést korlátozó rendelkezéseket, a földrajzi árujelzők oltalmával kapcsolatos ügyekben elhárítja az akadályokat az E-ügyintézési tv. alkalmazása, és ebből következően a teljeskörű és kétirányú elektronikus ügyintézési lehetőség elől.
+
+Az E-ügyintézési tv. 22. § (2) bekezdés a) pontja szerint az ügyfél az elektronikus ügyintézési rendelkezésében igényelheti, hogy az általa meghatározott adatainak változásáról a Kormány rendeletében meghatározott szolgáltató az ügyintézési rendelkezésében meghatározott elektronikus ügyintézést biztosító szervet automatikusan vagy az ügyfél rendelkezése alapján elektronikus úton értesítse. Ugyanezen § (6) bekezdése szerint az adott ügy vonatkozásában érvénytelen az a rendelkezés, amely az ügyre vonatkozó jogszabályokkal ellentétes.
+
+A Vt. alapján az SZTNH a hatáskörébe tartozó ügyekben - törvény eltérő rendelkezése hiányában - kérelemre jár el. Iparjogvédelmi ügyekben az adatváltozásról történő automatikus értesítés alapján történő eljárás tipikusan az SZTNH által vezetett közhiteles, elektronikus nyilvántartásokba bejegyzett adatok, elsősorban az ügyfél név- és, illetve lakcímváltozása esetében merülhet fel. Az SZTNH közhiteles lajstromai azonban kizárólag az ügyfelek nevét és címét tartalmazzák, egyéb személyazonosító adatot nem. Ebből következően továbbra is indokolt, hogy a lajstromadatok módosítására irányuló eljárásokat külön kérelemben, azaz az érintett védjegyügyeket egyértelműen megjelölő beadványban kelljen kezdeményezni.
+
+A 24. §-hoz
+
+Az E-ügyintézési tv. az elektronikus ügyintézés előtti akadályok felszámolását célozva a lehetséges minimumra kívánja csökkenteni azokat az előírásokat, amikor az ügyfél hatóság előtti személyes megjelenése kötelező (a személyes megjelenési kötelezettség fogalmilag értelmezhetetlenné teszi az elektronikus kapcsolattartás biztosítását). Vannak ugyanakkor olyan ügyek, melyekben a személyes jelenlét nem kerülhető meg. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása ennek megfelelően a csak személyesen intézhető ügytípusokat tételesen nevesíti, egyúttal kimondja, hogy amelyik ügyben a személyes megjelenés nem kötelező, ott a jognyilatkozatok elektronikus úton is benyújthatóak.
+
+A törvény 127. § (2) bekezdése kimondja, hogy gyámhatósági eljárásban egyes, a 128. § (2)-(3) bekezdése szerinti ügyekben kizárt elektronikus úton a kapcsolattartás. Mivel ezekben az ügyekben a törvény amúgy is személyes megjelenést ír elő, ez a rendelkezés felesleges, így deregulálható.
+
+A 25. §-hoz
+
+A módosítás az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvényben az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését tartalmazza.
+
+A 26. §-hoz
+
+Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 53/A. §-a a kérelem elektronikus benyújtását csak a kormányrendeletben meghatározott építésügyi vagy építésfelügyeleti eljárásokban engedi meg. A törvény ezt a korlátozást megszünteti.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 27. §-hoz
+
+A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény alapján a szolgálati időt a társadalombiztosítási igazgatási szervek nyilvántartása alapján kell számításba venni. A társadalombiztosítási igazgatási szervek nyilvántartásai alapján nem igazolt szolgálati időket - többek között - a foglalkoztató által kiállított egykorú eredeti okirattal (igazolással) lehet igazolni. A törvény lehetőséget ad arra, hogy az eljárás során az okiratot elég legyen hiteles másolatban (így akár elektronikus másolatban is) beadni.
+
+Tekintettel arra, hogy a tárgykört az E-ügyintézési tv. már szabályozza, a törvény hatályon kívül helyezi azt a felhatalmazást, mely alapján a Kormány volt jogosult rendeletben meghatározni a nyugdíj-biztosítási igazgatási szervek hivatalos iratainak a közigazgatási hatósági eljárásokban elektronikus úton történő teljesítésével kapcsolatos részletes szabályokat.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 28. §-hoz
+
+A magánnyugdíjról és a magánnyugdíj-pénztárakról szóló 1997. évi LXXXII. törvény rendelkezései szerint a pénztár a megalakulásakor és a vezető tisztségviselők, illetve a kötelező alkalmazottak, megbízottak változása esetén a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank részére csatolja az érintett személy vonatkozásában a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványának eredeti példányát. A törvény lehetőséget ad arra, hogy az eljárás során ezt az okiratot elég legyen hiteles másolatban (így akár elektronikus másolatban is) továbbítani.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 29. §-hoz
+
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény alapján a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásával kapcsolatos eljárásban a kérelmet papír alapon és elektronikus adathordozón is be kell nyújtani.
+
+A törvény a párhuzamosan papír alapú irat benyújtásának kötelezettségét helyezi hatályon kívül.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 30. §-hoz
+
+Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 25. § (3) bekezdése az ingatlan-nyilvántartási eljárásban az elektronikus kapcsolattartást, valamint az elektronikus ügyintézést - a törvényben meghatározott kivételekkel - kizárja. A törvény ezt a rendelkezést hatályon kívül helyezi.
+
+A törvény tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését, valamint az elektronikus ügyintézéssel kapcsolatos jogszabályi megnevezés pontosítását.
+
+A 31. §-hoz
+
+Az ügyvédekről szóló 1998. évi XI. törvény a Magyar Ügyvédi Kamara és a kamara szervezeti és működési szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+Előírásként jelenik meg, hogy a bizalmi szolgáltatást érintő eseményről, így különösen arról, ha a bizalmi szolgáltatás használatához szükséges, a bizalmi szolgáltató által biztosított kriptográfiai vagy más biztonsági eszközt jogosulatlan személy használhatta (tehát ha pl. az ügyvéd elektronikus aláírásához jogosulatlan személy fért hozzá) az ügyvédnek nem csak az E-ügyintézési tv. alapján a bizalmi szolgáltatót, hanem a területi ügyvédi kamarát is értesítenie kell.
+
+A törvény értelmében a kamara jogot kap ahhoz, hogy a kamarai tagfelvételre irányuló hatósági eljárásban a felvételi követelményeket a vonatkozó nyilvántartásokban közvetlenül ellenőrizhesse.
+
+A törvény biztosítja továbbá, hogy az ügyvédi iroda hivatalos elérhetősége a kamara nyilvántartásában is szerepeljen.
+
+A törvény tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is.
+
+A 32. §-hoz
+
+Az E-ügyintézési tv. az elektronikus ügyintézés előtti akadályok felszámolását célozva a lehetséges minimumra kívánja csökkenteni azokat az előírásokat, amikor az ügyfél hatóság előtti személyes megjelenése kötelező (a személyes megjelentési kötelezettség fogalmilag értelmezhetetlenné teszi az elektronikus kapcsolattartás biztosítását). Vannak ugyanakkor olyan ügyek, melyekben a személyes jelenlét nem kerülhető meg.
+
+A külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) 21/B. §-sal történő kiegészítése azt határozza meg, hogy a külföldre utazással kapcsolatos ügyek keretében mely területeken van lehetőség elektronikus azonosítást követő elektronikus kapcsolattartásra, és mikor kell személyesen megjelenni. [Az E-ügyintézési tv. 8. § (2) bekezdésében foglaltak értelmében az elektronikus ügyintézés alóli kivételek csak törvényben vagy eredeti jogalkotói hatáskörben megalkotott kormányrendeletben szabályozhatóak.]
+
+Ennek keretében - figyelemmel a bimetrikus adatok (fénykép, ujjnyom) felvételének szükségességére - a személyes megjelenés az úti okmány iránti kérelem előterjesztésekor (kivéve, ha az okmány pótlásáról van szó annak érvényességi idején belül) kötelező.
+
+Az Utv. 16/A. §-ának kiegészítése az ügyfélnek a hatóság által nyilvántartott saját, külföldre utazási korlátozással összefüggő adatairól történő tájékoztatására irányuló kérelmének benyújtását egyszerűsíti.
+
+Az Utv. 16/B. § (2) bekezdését érintő módosítást az E-ügyintézési tv. 1. § 17. pontjának d) és f) alpontjai indokolják, melyek szerint az elektronikus ügyintézést biztosító szerv a bíróság és az ügyészség, így az E-ügyintézési tv. az elektronikus ügyintézést biztosító, valamint egyéb szervek informatikai együttműködésére vonatkozó III. részében foglaltak az útlevélhatóság és az adatközlésre kötelezett bíróság és ügyészség között fennálló értesítésre is vonatkoznak, kiváltva ezzel a papír alapú, postai úton vagy telefax útján történő értesítést.
+
+Az Utv. 28. § (5) bekezdésének módosítása biztosítja, hogy az ügyfélnek (jellemzően természetes személy) ne kelljen kizárólag elektronikus úton intéznie az adatszolgáltatásra, az útlevélhatóság által nyilvántartott saját adatairól történő tájékoztatásra irányuló ügyeit.
+
+A 33. §-hoz
+
+Tekintettel arra, hogy előkészítés alatt áll az új büntetőeljárási törvény, amelynek tervezett hatálybalépése 2018. január 1. napja, és amely szintén szabályozza az elektronikus kapcsolattartást, az elektronikus kapcsolattartás vonatkozásában a büntetőeljárásról szóló 1998. évi XIX. törvény módosítása csak a legszükségesebb elemekre korlátozódik azzal, hogy kimondja, 2017. december 31-ig az E-ügyintézési tv. mely rendelkezéseit kell alkalmazni az elektronikus kapcsolattartás tekintetében. A 2018-tól hatályos szabályok meghatározása az új törvény feladata lesz.
+
+A 34. §-hoz
+
+A szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) 41/C. §-a módosításának célja annak előírása, hogy a joghatást kiváltó, írásbeliséget megkövetelő eljárási cselekményeket az árva művek felhasználásával kapcsolatos eljárásokkal összefüggésben az SZTNH-val kapcsolatba lépő személyek csak nyomon követhető és megfelelő azonosítást biztosító módon tehessék meg. Ennek megfelelően kimondásra kerül, hogy ezen ügyekben a kapcsolattartási módok közül csak az írásbeli és az azonosításhoz kötött elektronikus kapcsolattartási formáknak van helye.
+
+Az eljárásban azért nem kérhető tájékoztatás rövid szöveges üzenet útján, mivel ezt az árva művek felhasználásával kapcsolatos ügyek összetettsége nem teszi lehetővé. Az iratbetekintés tekintetében a szabály akként rendelkezik, hogy a kérelemre megtekinthető iratok esetében - az információbiztonsági szabályok maradéktalan érvényesülése érdekében - erre csak személyes megjelenéshez kötötten kerülhessen sor. Iratbetekintés tehát nem teljesíthető elektronikusan, az ügy iratait távoli eléréssel hozzáférhetővé téve.
+
+Az Szjt. új 94/C. §-a a mű önkéntes nyilvántartásba vételével kapcsolatos ügyekkel összefüggésben akként rendelkezik, hogy ezek elektronikus úton is folytathatóak, azzal együtt azonban, hogy ez csak azonosításhoz kötött elektronikus kapcsolattartási formában lehetséges. A kérelemre megtekinthető iratok esetében az iratbetekintés elektronikus formában történő lehetővé tételének, valamint a tájékoztatás kérése és annak teljesítése kapcsán a rövid szöveges üzenet útján történő kapcsolattartásnak a kizárására egyrészt garanciális, másrészt pedig az ügy bonyolultságára tekintettel fennálló okokból van szükség.
+
+Az önkéntes műnyilvántartással kapcsolatosan benyújtott kérelmek mellékletét képező műpéldányok esetében fennáll annak a lehetősége, hogy - például a műpéldány hordozójára tekintettel - nem megvalósítható annak digitalizálása vagy e digitalizálás eredményeként olyan méretű elektronikus példány jönne létre, amelynek okán az elektronikus kapcsolattartás akadályba ütközne. Erre az esetre a törvény kizárja a főszabály szerinti elektronikus ügyintézést. Az eljárás további részletszabályait a Szellemi Tulajdon Nemzeti Hivatala által vezetett önkéntes műnyilvántartás részletes szabályairól szóló 26/2010. (XII. 28.) KIM rendelet tartalmazza.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 35. §-hoz
+
+A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása a gazdasági kamara szervezeti és működési szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+A 36. §-hoz
+
+A víziközlekedésről szóló 2000. évi XLII. törvény 4. § (5) bekezdése a hajózási hatóságnál kezdeményezett eljárásokban kizárta a dokumentumok elektronikus előterjesztését. A törvény ezt a rendelkezést hatályon kívül helyezi.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 37. §-hoz
+
+A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény módosítása a kamara szervezeti és működési szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+A 38. §-hoz
+
+A számvitelről szóló 2000. évi C. törvény 154. § (7) bekezdésének, és 154/B. §-ának módosítása - tekintettel arra, hogy az elektronikus kapcsolattartás módjait az E-ügyintézési tv. szabályozza - egyes vállalkozói dokumentumoknak (éves beszámoló, egyszerűsített éves beszámoló stb.) a céginformációs szolgálat részére történő megküldése módjára vonatkozó szabályokat egyszerűsíti.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 39. §-hoz
+
+A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény (a továbbiakban: Fmtv.) 31. § (1) bekezdésének újraszabályozása és a 30. §-t megelőző cím kiigazítása az E-ügyintézési tv. mintaoltalmi ügyekben való alkalmazhatóságát teszi egyértelművé, miközben lehetőséget biztosít arra, hogy - ahol indokolt - az Fmtv. ne csak a Ket.-től, de az E-ügyintézési tv.-től is eltérő szabályokat állapítson meg.
+
+Az Fmtv. 31. §-ának kiegészítése azt a célt szolgálja, hogy világossá tegye: az SZTNH hatáskörébe tartozó mintaoltalmi ügyekben a kapcsolattartási módok közül csak az írásbeli és az elektronikus, és ez utóbbin belül csak az azonosításhoz kötött kapcsolattartási formáknak van helye.
+
+Az SZTNH előtti iparjogvédelmi hatósági eljárásokban - a jelenlegi gyakorlatnak megfelelően - szóbeli kapcsolattartásra (ideértve a személyes megjelenést is), illetve azonosításhoz nem kötött írásbeli vagy elektronikus kapcsolattartásra csak tájékoztatás kérése és teljesítése, illetve az iratbetekintés biztosítása és a szóbeli tárgyalások esetében van lehetőség. Tájékoztatás sem kérhető vagy kapható azonban rövid szöveges üzenet útján, mivel az nyilvánvalóan alkalmatlan az iparjogvédelmi ügyek összetettségének megfelelő, pontos és szabatos közlések továbbítására.
+
+A törvény biztosítja, hogy a joghatást kiváltó, írásbeliséget megkövetelő eljárási cselekményeket az SZTNH-val kapcsolatba lépő személyek csak nyomon követhető és megfelelő azonosítást biztosító módon tehessék meg.
+
+Az Fmtv. 32/B. §-ának újraszabályozása, elhagyva az SZTNH előtti elektronikus ügyintézést korlátozó rendelkezéseket, mintaoltalmi ügyekben elhárítja az akadályokat az E-ügyintézési tv. alkalmazása, és ebből következően a teljeskörű és kétirányú elektronikus ügyintézési lehetőség elől. A 32/B. § (2) bekezdése ugyanakkor - az E-ügyintézési tv. 9. § (1) bekezdésében foglalt főszabálytól eltérően, az abban foglalt felhatalmazás alapján - kimondja, hogy mintaoltalmi ügyekben a gazdálkodó szervezetek és a jogi képviselők számára sem kötelező az elektronikus ügyintézés.
+
+A gazdálkodó szervezetek és az ügyfél jogi képviselője részére kötelező jelleggel előírt elektronikus ügyintézés ugyanis egyes iparjogvédelmi eljárásokban Magyarország nemzetközi szerződésekben foglalt kötelezettségeibe ütközne - tekintettel arra, hogy ezek alapján védjegy- és szabadalmi ügyekben a papír alapú ügyintézés lehetősége (legalábbis a benyújtandó dokumentumok egy jelentős része vonatkozásában) nem zárható ki.
+
+Annak ellenére, hogy a kötelező elektronikus ügyintézés előírása nemzetközi szerződésekbe ütközik, kizárólag a védjegy- és szabadalmi eljárásokat érinti, az SZTNH ügyköreinek egységes kezelése valamennyi, az SZTNH előtti iparjogvédelmi hatósági ügy (és valamennyi beadvány) esetében egységes szabályozást indokol az elektronikus, illetve papír alapú ügyintézés terén. Mind az ügyfelek, mind az SZTNH szempontjából: az ügy- és beadványtípusonként eltérő kapcsolattartási forma előírása kevéssé lenne áttekinthető az ügyfelek számára és jogpolitikai szempontból sem járna következetes eredményekkel. Nem lenne ésszerű mintaoltalmi ügyekben az ügyfelek egy meghatározott körétől megkövetelni az elektronikus ügyintézést, miközben szabadalmi és védjegyügyekben - a nemzetközi kötelezettségekre tekintettel - bárki számára megengedett a papír alapú kapcsolattartás is.
+
+Az SZTNH előtti iparjogvédelmi eljárások ráadásul tipikusan „együtt mozgó, egységes rendszerek”, a szabadalmi és a védjegyeljárásokat szabályozó törvényeknek a többi oltalmi forma esetében való érvényesülését az iparjogvédelmi törvények a „mutatis mutandis” elven alapulva biztosítják. A törvény ennek megfelelően az iparjogvédelmi ügyek tekintetében a fenti elveknek és indokoknak megfelelő átgondolt, rendszerszemléletű és egységességet biztosító szabályozás bevezetését irányozza elő.
+
+A 40. §-hoz
+
+Az E-ügyintézési tv. 35. §-a alapján már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően az adózás rendjéről szóló 2003. évi XCII. törvény módosításával az ügyfélkapun kívül lehetővé teszi a többi elektronikus azonosítási szolgáltatás használatát is.
+
+A törvény 5. § (3) bekezdése alapján adóügyben az elektronikus kapcsolattartásra és elektronikus ügyintézésre akkor van lehetőség, ha azt jogszabály az ügy típusának megjelölésével lehetővé teszi. Tekintettel arra, hogy ez a rendelkezés az E-ügyintézési tv.-vel ellentétes, a törvény hatályon kívül helyezi.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 41. §-hoz
+
+A regisztrációs adóról szóló 2003. évi CX. törvény önállóan határozza meg a vámhatóság által elektronikusan kedvezményezett, az adó megállapítására irányuló elsőfokú adóigazgatási eljárás definícióját és részletes szabályait. Tekintettel arra, hogy az E-ügyintézési tv. az elektronikus kapcsolattartásra vonatkozó szabályokat általános érvénnyel határozza meg, e rendelkezések deregulációja nem megkerülhető.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 42. §-hoz
+
+A sportról szóló 2004. évi I. törvény 61/A. § (2) bekezdése kizárja, hogy az érmes - halála esetén az özvegye -, illetőleg edzője az olimpiai járadék, az özvegyi járadék, valamint az edzői járadék megállapítása iránti eljárásban a Magyar Olimpiai Bizottsággal elektronikus úton tartson kapcsolatot. A törvény ezt a megkötést helyezi hatályon kívül.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 43. §-hoz
+
+Az elektronikus ügyintézésre vonatkozó általános szabályokat a Ket. X. Fejezete tartalmazta. A Ket. hatálya miatt (közigazgatási hatósági eljárások) a Ket.-ben elhelyezett szabályozás, a jogrendszerben elfoglalt helyére figyelemmel, nem, vagy csak nagyon nehézkesen volt alkalmas arra, hogy az elektronikus ügyintézés általános szabályait a jogrendszer egésze vonatkozásában meghatározza. Ez indokolta az E-ügyintézési tv. megalkotását, amihez értelemszerűen hozzá kell igazítani a Ket. még hatályban lévő szabályait is.
+
+Ennek figyelembe vételével a Ket. módosításának főbb elemei az alábbiak.
+
+A normaszöveg a kapcsolattartás általános szabályait egyszerűbb, összefogottabb tartalommal jeleníti meg. Továbbra is lehetővé teszi az ügyfélnek az általa választott kapcsolattartási formáról való áttérést, de nem szabályozza tételesen a visszaélésszerű áttérés tilalmát, ez ugyanis az ügyfél jóhiszemű eljárására vonatkozó alapelvből következik. Életveszéllyel vagy súlyos kárral fenyegető helyzet esetén ugyanakkor - a védendő érték kiemelkedő jellegére tekintettel - nem az ügyfél, hanem a hatóság választja meg a kapcsolattartás módját.
+
+A Ket. a módosítást követően nem tér ki a tételes kapcsolattartási formákra, mivel az elektronikus kapcsolattartási szabályokat az E-ügyintézési tv. tartalmazza. A szóbeli kapcsolattartás egyetlen formája így a személyes kontaktus, az írásbeli út pedig attól független, hogy a dokumentum kézbesítésére, közlésére hirdetmény avagy éppen postai úton kerül sor. A telefaxra vonatkozó rendelkezéseket a módosítás kiveszi az eljárási kódexből, mivel az ilyen módon történő kapcsolattartás idejétmúlt. Az E-ügyintézési tv.-vel összhangban a cél egy új, egységes, technológiasemleges, a kor kihívásaira hatékonyan reagálni tudó szabályozás kialakítása.
+
+A meghatalmazásra vonatkozó szabályok között kiemelendő, hogy a módosítás értelmében kikerülnek az ügyintézési rendelkezéssel kapcsolatos szabályok a Ket.-ből, ugyanis azokra az E-ügyintézési tv. tér ki.
+
+A kézbesítésre vonatkozó szabályok módosításának indoka is az E-ügyintézési tv. rendelkezéseivel való összhang megteremtése. A hatóság főszabály szerint minden eljárási cselekményt jogosult - illetve köteles - elektronikusan megtenni, így a döntés közlése is történhet ilyen módon. Ennek szabályait azonban az E-ügyintézési tv. tartalmazza. Az egyértelműség érdekében, a jogalkalmazást segítendő a közlés szabályai közt is utalás történik az E-ügyintézési tv.-re, a kapcsolattartás általános szabályai mellett. A telefaxra vonatkozó rendelkezés elhagyásának indoka a fentebb említettek szerint az, hogy az ilyen módon történő kapcsolattartás idejétmúlt.
+
+Az e-ügyintézésre vonatkozó fejezet az E-ügyintézési tv. hatálybalépésével összhangban csupán két szakaszra szűkül. A fejezet újraszabályozása egyrészt az E-ügyintézési tv.-vel történő kapcsolódást valósítja meg utaló szabállyal, megkönnyítendő ezzel a jogalkalmazás munkáját, másrészt a hatósági szolgáltatás szabályait lényegesen egyszerűbbé és áttekinthetőbbé teszi, megtartva azok ügyfélbarát jellegét. A hatósági szolgáltatás szabályai közül kikerülnek a telefonos ügyfélszolgálatra vonatkozó rendelkezések, mivel azokat szintén az E-ügyintézési tv. tartalmazza a jövőben, jelentősen kibővült ügyintézési lehetőségekkel és garanciákkal.
+
+Az átmeneti rendelkezés értelmében a jelen törvénnyel módosított rendelkezéseket a hatálybalépésüket követően indult és a megismételt eljárásokban kell alkalmazni.
+
+A 44. §-hoz
+
+A távhőszolgáltatásról szóló 2005. évi XVIII. törvény a Magyar Energetikai és Közmű-szabályozási Hivatal eljárásaiban generálisan korlátozza az elektronikus kapcsolattartás lehetőségét. A törvény e megkötést hatályon kívül helyezi.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 45. §-hoz
+
+Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvényben a Ket. rendelkezéseire való hivatkozás hatályon kívül helyezése a Ket. módosítására figyelemmel indokolt.
+
+A 46. §-hoz
+
+A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása a személy-, vagyonvédelmi és magánnyomozói szakmai kamara szervezeti és működési szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+A 47. §-hoz
+
+A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 80/C. § (3) bekezdése számos vasúthatósági eljárás megindítására irányuló kérelem elektronikus benyújtását, valamint az ügyfelekkel való elektronikus kapcsolattartást megtiltja. A törvény az elektronikus ügyintézés e generális korlátozását helyezi hatályon kívül.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 48. §-hoz
+
+A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosításának főbb elemei az alábbiak.
+
+Az E-ügyintézési tv. 10. §-a értelmében az ügyfél az elektronikus ügyintézéshez szükséges nyilatkozatokat, eljárási cselekményeket és egyéb kötelezettségeket alapértelmezésben egységes, személyre szabott ügyintézési felületen teszi meg. Az E-ügyintézési tv. 1. § 40. pontja alapján a személyre szabott ügyintézési felület: a jogszabályban kijelölt szolgáltató által nyújtott olyan, az ügyfél által személyre szabható internetes alkalmazás, amely az azonosított ügyfél számára egységesen elérhető lehetőséget biztosít az elektronikus ügyintézéshez szükséges nyilatkozatok, eljárási cselekmények és egyéb kötelezettségek teljesítésére, az ügyfél által igénybe vehető elektronikus ügyintézési szolgáltatások igénybevételére.
+
+A törvény ennek megfelelően a Kormányzati Portálra mint az elektronikus ügyintézés belépő pontjára vonatkozó utalásokat a törvényből kiemeli.
+
+Az E-ügyintézési tv. 14. § (1) bekezdése értelmében a gazdálkodó szervezet ügyfél - törvény eltérő rendelkezése hiányában a nyilvántartásba vételét, ha a gazdálkodó szervezet nem nyilvántartásba vétellel jön létre, létrejöttét követő 8 napon belül - köteles bejelenteni az elektronikus kapcsolattartásra szolgáló elérhetőségét (a továbbiakban: hivatalos elérhetőség). A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása biztosítja, hogy a cégek e hivatalos elektronikus elérhetősége a cégnyilvántartás adata is legyen.
+
+A törvény tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 49. §-hoz
+
+Az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény 2. § (6) bekezdése alapján a kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani. A törvény az elektronikus ügyintézés e generális korlátozását helyezi hatályon kívül.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+Az 50. §-hoz
+
+Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény módosítása a Magyar Orvosi Kamara, a Magyar Gyógyszerészi Kamara és a Magyar Egészségügyi Szakdolgozói Kamara szervezeti és működési szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+Az 51. §-hoz
+
+A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvényben a Ket. rendelkezéseire való hivatkozás hatályon kívül helyezése a Ket. módosítására figyelemmel indokolt.
+
+Az 52. §-hoz
+
+A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 67. § (1) bekezdése alapján a munkáltató az EGT-állampolgár vagy a családtag magyarországi munkavállalásának meghiúsulását, valamint foglalkoztatásának megszüntetését a következő adatok közlésével három munkanapon belül köteles bejelenteni az eljáró hatóságnak:
+
+a) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, cégjegyzékszám),
+
+b) az EGT-állampolgár vagy a harmadik ország állampolgárságával rendelkező családtag munkavállaló természetes személyazonosító adatai,
+
+c) az EGT-állampolgár vagy a harmadik ország állampolgárságával rendelkező családtag munkavállaló tartózkodásra jogosító okmányának száma,
+
+d) munkakör,
+
+e) a munkavégzés megszűnésének, vagy meghiúsulásának időpontja.
+
+A törvény szerinti módosítás alapján e bejelentés elektronikusan is megtehető.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+Az 53. §-hoz
+
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény alapján a munkáltató öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak a harmadik országbeli állampolgár foglalkoztatásának megkezdését, valamint, ha a harmadik országbeli állampolgár az engedélyezett munkáját nem kezdi meg, illetve a munkavégzés a munkavállalási engedély érvényességi idején belül megszűnik.
+
+A törvény szerinti módosítás alapján e bejelentések elektronikusan is megtehetőek.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+Az 54. §-hoz
+
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 37. § (1) bekezdése alapján a kérelem, a pályázat benyújtására, illetve az adatszolgáltatásra a külön jogszabályban vagy a jogszabályi felhatalmazás alapján közleményben meghatározottak szerint papír alapú vagy elektronikus nyomtatvány rendszeresíthető.
+
+A törvény szerinti módosítás a papír és az elektronikus alapú nyomtatvány közötti különbségtételt - azzal, hogy a papír alapú benyújtást nem tiltja meg - megszüntetni.
+
+A törvény hatályon kívül helyezi továbbá a törvény elektronikus kapcsolattartást korlátozó rendelkezését [12. § (5) bek.: a törvény hatálya alá tartozó intézkedéssel kapcsolatban elektronikus kapcsolattartásra akkor van lehetőség, ha azt e törvény vagy az e törvény felhatalmazása alapján kiadott jogszabály az ügy típusának megjelölésével lehetővé teszi].
+
+A törvény 28/B. § (1) bekezdése alapján az ügyfél a képviselet ellátására meghatalmazást vagy megbízást ad, azt - az eseti meghatalmazást vagy megbízást kivéve - az ügyfélnek vagy meghatalmazott képviselőjének az ügyfél-nyilvántartási rendszer szakrendszerébe postai úton vagy személyesen a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon kell bejelentenie. A papír alapot feltételező postai út, illetve a személyes megjelenés az elektronikus ügyintézést kizárja, így a törvény e rendelkezéseket hatályon kívül helyezi.
+
+A törvény 29. § (1) bekezdésének módosítása az ügyfél-nyilvántartásban szereplő adataiban bekövetkezett változás elektronikus bejelentését is lehetővé teszi.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+Az 55. §-hoz
+
+A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása a Magyar Könyvvizsgálói Kamara alapszabályára vagy kamarai szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+Az 56. §-hoz
+
+A kisajátításról 2007. évi CXXIII. törvény (a továbbiakban: Kstv.) módosítása az alábbiak miatt indokolt.
+
+Az E-ügyintézési tv. 9. § (1) bekezdés módosítása az új c) pontban már az ügyfélként eljáró állam, önkormányzat, költségvetési szerv és köztestület számára is kötelezővé teszi az elektronikus ügyintézést.
+
+Ugyanakkor mivel a kisajátítási eljárásban az államon és önkormányzaton kívül harmadik személynek is lehetősége van kisajátítást kérni, illetve van olyan esetkör, mikor a kisajátítást kérő az állam illetve önkormányzat javára, de saját nevében jár el, ezért az E-ügyintézési tv. 9. § (1) bekezdés c) ponttól függetlenül szükséges a Kstv. módosításával általánosan kimondani, hogy a kisajátítást kérő, illetve annak képviselője az e törvény hatálya alá tartozó hatósági eljárásokban, e hatósági eljárásokban hozott döntések bírósági felülvizsgálati eljárásában, valamint a kisajátítási terv záradékolására irányuló eljárásban elektronikus ügyintézésre köteles (Kstv. 40/G. §).
+
+A Kstv. hatálya alá nemcsak a kisajátítási eljárás tartozik, hanem a járulékos költség megtérítésére irányuló eljárás, a szakértő előzetes kirendelése, az előmunkálat engedélyezése, az előzetes eljárás és a kisajátítási kérelem benyújtására kötelezés is, valamint az ezen eljárásokat felülvizsgáló közigazgatási per. Mindegyik eljárásban érintett a kisajátítást kérő, ezért a törvény nemcsak a kisajátítási eljárásban, hanem a Kstv. hatálya alá tartozó összes eljárásban - ideértve a bírósági eljárásokat is - kötelezővé teszi a kisajátítást kérő számára az elektronikus ügyintézést.
+
+A kisajátítási terv záradékolására irányuló eljárás a kisajátítási eljárást megelőzően lefolytatott földügyi eljárás [Ezt nem a Kstv., hanem a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet szabályozza].
+
+Az ingatlanügyi záradékolás során a kisajátítást kérő képviseletében földmérő jár el, mely gazdálkodó szervezet (gazdasági társaság vagy egyéni vállalkozó), így az E-ügyintézési tv. 9. §-a alapján egyébként is köteles az elektronikus ügyintézésre.
+
+Ugyanakkor az építésügyi záradékolás során (abban az esetben, amikor az az ingatlanügyi záradékolástól külön eljárás keretében történik) nem szükségszerű, hogy földmérő járjon el, hanem a záradékolást akár maga a kisajátítást kérő vagy annak nem földmérő képviselője is kérelmezheti.
+
+Ugyanakkor azon indokok alapján, hogy a professzionális állami, önkormányzati kisajátítást kérő a Kstv. szerinti eljárásokban köteles az elektronikus ügyintézésre, indokolt, hogy a Kstv. egységesen kimondja, hogy a kisajátítást kérő illetve képviselője a záradékolási eljárásban is köteles elektronikus ügyintézésre.
+
+A Kstv. 47. § (1) bekezdés szerinti átmeneti rendelkezés egyértelművé teszi, hogy az elektronikus ügyintézésre vonatkozó rendelkezéseket csak a 2018. január 1-jét követően indult és megismételt hatósági és bírósági eljárásokban kötelező alkalmazni.
+
+Ebből következőleg ha 2018. január 1-jén folyamatban vagy egy kisajátítási eljárás, vagy más, a törvény hatálya alá tartozó és a kisajátítást kérőt érintő eljárás (pl. szakértő előzetes kirendelése, előmunkálat engedélyezése, járulékos költségek megtérítése), akkor a kisajátítást kérő, és ebből következőleg a vele való kommunikációban a kisajátítási hatóság illetve a bíróság sem köteles az elektronikus ügyintézésre.
+
+Fontos felhívni a figyelmet, hogy mivel a hatóság illetve a bíróság az E-ügyintézési tv. 108. §-a értelmében már 2018. január 1-jétől készen áll az elektronikus ügyintézésre, ezért ha a kisajátítást kérő igényli, akkor lehetősége van a már folyamatban lévő eljárásokban is kérni az elektronikus ügyintézést.
+
+A főszabály alóli kivétel [Kstv. 47. § (2) bekezdés] kezeli azt az esetet, mikor a 2018. január 1-jét megelőzően benyújtott kérelem alapján, vagyis amikor még nem kötelező a záradékolás elektronikus ügyintézése a kisajátítást kérő számára, olyan kisajátítási terv kerül a kisajátítást kérő részére kiadásra, melyen a hatósági záradék a papír alapú dokumentumra került rá.
+
+Ennek kapcsán a probléma alapvetően ekkor merülhet fel, ha sok ingatlant érintő (tipikusan a nyomvonalas) beruházások esetében a záradék az ún. átnézeti térképen van rajta, mely térkép adott esetben olyan nagy formátumú papír, melyet gyakorlatilag nem lehet szkennelni, így elektronikus ügyintézés keretében való becsatolása nem lehetséges, még az E-ügyintézési tv.-módosítás által megteremtett adathordozón való benyújtással sem.
+
+Ugyan nem minden kisajátítási terv tartalmaz átnézeti térképet, illetve nem minden átnézeti térkép akkora, ahogy azt szkennelni nem lehet, de mivel szükséges egy objektív körülmény meghatározása a kivételszabály megállapításához, ezért a rendelkezés egységesen akkor ad kivételt az elektronikus ügyintézés alól, ha a záradékolt kisajátítási terv csak papír alapon áll a kisajátítást kérő rendelkezésére.
+
+Ebből az is következik, hogy ha a kisajátítási terv ugyan papír alapon áll rendelkezésre, de nem tartalmaz záradékot, akkor azt a kisajátítást kérő - más, eredetileg papír alapon rendelkezésre álló melléklethez hasonlóan - elektronikus dokumentum formájúvá átalakítva köteles a kisajátítási hatóság részére mellékletként benyújtani. Ez szkennelési problémát nem okoz, mert a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet értelmében a kisajátítási terv csak akkor tartalmaz átnézeti térképet, ha azt záradékolni is kell.
+
+A Kstv. 10. § (5) bekezdés és a 14. § (3) bekezdés a) pontja módosításához: a rendelkezés lehetővé teszi, hogy a felek a nyilatkozatukat ne csak magán a tárgyaláson, hanem azt megelőzően is, akár elektronikus úton is megtehessék.
+
+A Kstv. 33. § (1) bekezdés módosításához: a rendelkezésben felesleges utalni arra, hogy a jogerőre utalást milyen formában (feljegyzés) tartalmazza a határozat, valamint az ingatlanügyi hatóság részére küldött kisajátítási terv esetében pedig nem kell utalni annak példányszámára sem, mert elektronikus dokumentum esetében ez nem értelmezhető.
+
+A Kstv. 23. § (3) bekezdés hatályon kívül helyezéséhez: A rendelkezés szerint „Az ügyfeleket az eljárás megindításáról postai úton kell értesíteni.”. A kisajátítási eljárás ügyfele (kártalanításra jogosult tulajdonos illetve ingatlan-használó) lehet egyrészt gazdálkodó szervezet, azzal a hatóság kizárólag elektronikus úton kommunikálhat. Másrészt nem gazdálkodó szervezet ügyfél is megjelölheti az ügyintézési rendelkezésében azt, hogy elektronikus úton kíván eljárni, így ezen ügyfél részére sem lehet az iratot postai úton kézbesíteni.
+
+A Kstv. 26. § (3) és (4) bekezdéséből történő hatályon kívül helyezéshez: mivel az E-ügyintézési tv. alapján az ügyféllel való kapcsolattartás módját az ügyfél ügyintézési rendelkezése határozza meg azzal, hogy az elektronikus ügyintézés lehetőségét biztosítani kell, ezért a kapcsolattartás lehetséges módozatait nem szükséges külön szabályozni. Azt sem szükséges külön szabályozni, hogy a hatóság a szakértővel milyen lehetséges módon tartja a kapcsolatot.
+
+A Kstv. 32/A. § (2) bekezdéséből történő hatályon kívül helyezéshez: Mivel a hatóság az E-ügyintézési tv. értelmében kizárólag elektronikus úton kommunikál a bírósággal, ezért az iratok bírósághoz való felterjesztése körében el kell hagyni az elektronikus utat csak lehetőségként szabályozó rendelkezést.
+
+A Kstv. 38. § (3) bekezdésében, a 39. § (2) bekezdésében és a 40/B. § (3) bekezdésben történő hatályon kívül helyezéshez: az elektronikus ügyintézés lehetősége folytán egyrészt indokolatlan, másrészt felesleges utalni az ügyfelekkel való kapcsolattartás módjára.
+
+Az 57. §-hoz
+
+Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása az eIDAS rendelet hatálybalépésével megváltozott fogalom technikai átvezetését tartalmazza.
+
+Az 58. §-hoz
+
+Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítását az alábbiak indokolják.
+
+Az E-ügyintézési tv. 18. § (3) bekezdése megteremti annak a lehetőségét, hogy a főszabályként az ügyfél személyes megjelenésével végezhető eljárási cselekményeket vagy megtehető nyilatkozatokat az ügyfél elektronikus ügyintézés keretében is megtehesse, ha ennek előzetes azonosítási feltételei megvalósultak.
+
+Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 19. § (4) bekezdése értelmében a kérelmező által megjelölt ellenfelet az előzetes bizonyítás elrendelése tárgyában csak akkor nem kellett meghallgatni, ha a kérelmező valószínűsítette, hogy az veszélyeztetné az előzetes bizonyítás eredményes lefolytatását.
+
+A módosítást megelőzően tehát a személyes meghallgatás volt a főszabály, amelyet a közjegyző csak akkor mellőzhetett, ha a kérelmező valószínűsítette, hogy az veszélyeztetné az előzetes bizonyítás eredményes lefolytatását. Felülvizsgálva a normaszöveget megállapítható, hogy a személyes jelenlét az eljárásban nem feltétlenül indokolt, mivel az kiváltható írásbeli nyilatkozattétellel is.
+
+Ennek következtében a jogszabály szövege úgy módosul, hogy a kérelmező által megjelölt ellenfelet az előzetes bizonyítás elrendelése tárgyában nem kell írásbeli nyilatkozattételre felhívni, vagy meghallgatni, ha a kérelmező valószínűsíti, hogy az veszélyeztetné az előzetes bizonyítás eredményes lefolytatását. Ha a közjegyző az ellenfél írásbeli nyilatkozattételre történő felhívását vagy meghallgatását mellőzi, határozatát az ellenféllel csak az előzetes bizonyítás elrendelése esetében, és legkésőbb az előzetes bizonyítás foganatosításának a megkezdésekor kell közölnie; ha a közlés akadályba ütközik, ez az előzetes bizonyítás foganatosítását nem akadályozza. Ezáltal az írásbeli nyilatkozattételre történő felhívás - ami az elektronikus utat is magában foglalja - a közjegyző rendelkezésére áll, mint a személyes meghallgatás alternatívája.
+
+Az 59. §-hoz
+
+Az E-ügyintézési tv. 35. §-a alapján már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításával az ügyfélkapun kívül lehetővé teszi a többi elektronikus azonosítási szolgáltatás használatát is.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 60. §-hoz
+
+Az E-ügyintézési tv. 35. §-a alapján már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosításával az ügyfélkapun kívül lehetővé teszi a többi elektronikus azonosítási szolgáltatás használatát is.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 61. §-hoz
+
+A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 21. §-a az elektronikus kapcsolattartásra és az elektronikus tájékoztatásra a Ket. rendelkezéseit rendeli alkalmazni. Tekintettel arra, hogy a tárgykört az E-ügyintézési tv. szabályozza, és e rendelkezések a Ket.-ből kikerülnek, a hivatkozás elhagyása indokolt.
+
+A 62. §-hoz
+
+Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosításának indokai az alábbiak.
+
+Az E-ügyintézési tv. 14. § (1) bekezdése alapján a gazdálkodó szervezet ügyfél - törvény eltérő rendelkezése hiányában a nyilvántartásba vételét, ha a gazdálkodó szervezet nem nyilvántartásba vétellel jön létre, létrejöttét követő 8 napon belül - köteles bejelenteni az ügyintézési rendelkezésének nyilvántartásába az elektronikus kapcsolattartásra szolgáló elérhetőségét.
+
+A törvény megteremti a jogalapját annak, hogy az egyéni vállalkozók nyilvántartásába ez az adat bekerüljön, és szabályozza az ezzel kapcsolatos adatkezelést.
+
+A törvény 3/A. § (2) bekezdés b) pontja alapján a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala az egyéni vállalkozói tevékenység megkezdésének és megszüntetésének bejelentésekor ügyfélkaput létesít a bejelentést személyesen kezdeményező és ügyfélkapuval nem rendelkező bejelentő számára.
+
+Az E-ügyintézési tv. 35. §-a alapján már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően pontosítja a kormányhivatal által nyújtott szolgáltatás megjelölését, valamint a terminológiai pontosítást a törvény egyéb pontjain is átvezeti.
+
+A törvény 4. § (1) bekezdése az elektronikus kapcsolattartásra és az elektronikus tájékoztatásra a Ket. rendelkezéseit rendeli alkalmazni. Tekintettel arra, hogy a tárgykört az E-ügyintézési tv. szabályozza, és e rendelkezések a Ket.-ből kikerülnek, a hivatkozás elhagyása indokolt.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 63. §-hoz
+
+Végrehajtási rendeletre vonatkozó felhatalmazó rendelkezést pontosítja az illetékekről szóló törvénynek megfelelően.
+
+A 64. §-hoz
+
+Technikai pontosítást tartalmaz a konzuli tisztviselők feladatkörét illetően.
+
+A 65. §-hoz
+
+Az E-ügyintézési tv. nemcsak az ügyfél és az elektronikus ügyintézést biztosító szerv közötti, hanem utóbbi (az E-ügyintézési tv. szerint ún. együttműködő) szervek egymás közötti kommunikációját is a szabályozási körébe vonja. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény (a továbbiakban: Hetv.) 46. § (3) bekezdése a végintézkedés beszerzésével kapcsolatban úgy rendelkezett, hogy azt tértivevényes küldeményként kell postára adni, illetve az belföldön bármely jegyzőnek vagy közjegyzőnek, külföldön pedig a hivatásos magyar konzuli tisztviselőnek is átadható.
+
+Az E-ügyintézési tv.-nek való megfelelés érdekében szükséges, hogy a tértivevényes küldeményként történő postára adás helyett a „kézbesíteni” kifejezés kerüljön, amely magában foglalja az elektronikus és a postai úton történő kézbesítés lehetőségét is.
+
+A fenti indokolás a Hetv. 47. § (4) bekezdésének módosítására is megfelelően irányadó.
+
+Tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 66. §-hoz
+
+Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 11. §-a értelmében egyszerűsített foglalkoztatás esetén a munkáltató köteles az illetékes elsőfokú állami adóhatóságnak a munkavégzés megkezdése előtt bejelenteni a foglalkoztatási jogviszonnyal kapcsolatos, a törvényben meghatározott egyes adatokat. A törvény rendelkezései alapján a bejelentés ügyfélkapus regisztrációhoz kötött, és vagy az ügyfélkapun, vagy telefonon keresztül történik.
+
+Az E-ügyintézési tv. 35. §-a alapján azonban már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően az ezzel kapcsolatos a terminológiai pontosításokat átvezeti a törvény érintett rendelkezésein.
+
+A törvény 12. § (2) bekezdésének hatályon kívül helyezése alapján továbbá a munkáltató az egyszerűsített foglalkoztatással összefüggő bevallási kötelezettségét csak elektronikusan teljesítheti, papír alapon nem.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 67. §-hoz
+
+Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról 2010. évi XC. törvénynek a háztartási alkalmazott foglalkoztatásának bejelentésével kapcsolatos szabályozása az ügyfélkapu alkalmazására épül fel.
+
+Az E-ügyintézési tv. 35. §-a alapján azonban már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően az ezzel kapcsolatos a terminológiai pontosításokat átvezeti a törvény érintett rendelkezésein.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 68. §-hoz
+
+Az Állami Számvevőszékről szóló 2011. évi LXVI. törvényben a Ket. rendelkezéseire való hivatkozás módosítása azért indokolt, mert a szabályozott vagy központi elektronikus ügyintézési szolgáltatásokat 2017. január 1-től nem a Ket., hanem az E-ügyintézési tv. szabályozza.
+
+A 69. §-hoz
+
+Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 27. § (4) bekezdése alapján az alapvető jogok biztosa és a hatóság, a közreműködésre kötelezett szervezet vagy személy, valamint a kivételes vizsgálattal érintett szervezet között a kapcsolat elektronikus aláírással ellátott elektronikus dokumentum alkalmazásával is fenntartható.
+
+A törvény ezt a rendelkezést hatályon kívül helyezi, így az elektronikus kapcsolattartásra az E-ügyintézési tv.-ben megjelölt - bővebb - lehetőségek lesznek alkalmazhatóak.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 70. §-hoz
+
+A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését tartalmazza.
+
+A 71. §-hoz
+
+A törvény az ügyészségről szóló 2011. évi CLXIII. törvénynek az elektronikus ügyintézésről szóló IV/A. Fejezetét hatályon kívül helyezi, figyelemmel arra, hogy a tárgykört az E-ügyintézési tv. szabályozza.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést, továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is tartalmazza.
+
+A 72. §-hoz
+
+A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 91. § (1) bekezdésének módosítása lehetővé teszi, hogy a civil szervezetek hivatalos elérhetősége a civil és egyéb cégnek nem minősülő szervezetek nyilvántartásában szerepeljen.
+
+A szervezet nyilvántartásba vétele iránti kérelem elektronikus benyújtásának szabályai [21. § (9) bek.] az ügyfélkapu használatára épülnek.
+
+Az E-ügyintézési tv. 35. §-a alapján azonban már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően az ezzel kapcsolatos terminológiai pontosításokat átvezeti a törvény érintett rendelkezésein. A törvény 2018. január 1-jén lép hatályba.
+
+A 73. §-hoz
+
+A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény a kiemelt munkáltatói nyilatkozatok a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható; erről hiteles papír alapú kiadmányt kell készíteni és a hivatásos állomány tagjával a papír alapú kiadmányt kell közölni.
+
+A törvény a munkáltatói intézkedéseket teljes körűen elektronikus útra tereli és megszünteti - a jogviszony létesítéséről rendelkező jognyilatkozat kivételével - a papír alapú kiadmány alkalmazását.
+
+Ezzel kapcsolatban a közszolgálati jogviszonyban állók számára kötelező lesz az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatást (pl. ügyfélkaput, új személyazonosító igazolványt) igénybe venni.
+
+Tekintettel arra, hogy a minősített elektronikus aláírást az állam az elektronikus személyazonosító igazolványon, egyéb hitelesítést az AVDH szolgáltatás útján ingyen biztosítja, ez az érintettek számára többletterhet nem jelent. A törvény ezen része 2017. május 1-jén lép hatályba.
+
+A törvény 190. § (7) bekezdése a közszolgálati panasz, illetve a keresetlevél kapcsán a „postára adta” kifejezést használja, ami az elektronikus eljárásban nem értelmezhető. A törvény ezt a rendelkezést pontosítja.
+
+A törvény tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is.
+
+A 74. §-hoz
+
+A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 3. mellékletének módosítása megteremti a jogalapját annak, hogy a felsőoktatási információs rendszer számára a felvételi kérelmek elbírálásához szükséges egyes adatok (nyelvvizsga-adatok, gyermekgondozási adatok, szakképzésre vonatkozó adatok stb.) közvetlenül átadhatóak legyenek.
+
+A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezései az ügyfélkapu használatára épülnek.
+
+Az E-ügyintézési tv. 35. §-a alapján azonban már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően az ezzel kapcsolatos terminológiai pontosításokat átvezeti a törvény érintett rendelkezésein.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 75. §-hoz
+
+Mivel az E-ügyintézési tv. megfelelően tartalmazza az elektronikus kapcsolattartás háttérszabályait, ezért a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvényben ezeket hatályon kívül helyezi a törvény.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 76. §-hoz
+
+A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését tartalmazza.
+
+A 77. §-hoz
+
+A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása az agrárkamara alapszabályára vagy kamarai szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+A 78. §-hoz
+
+A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosítása az Magyar Állatorvosi Kamara alapszabályára vagy kamarai szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy.
+
+A 79. §-hoz
+
+A postai szolgáltatásokról szóló 2012. évi CLIX. törvényben a Ket. rendelkezéseire való hivatkozás módosítása azért indokolt, mert a szabályozott vagy központi elektronikus ügyintézési szolgáltatásokat 2017. január 1-től nem a Ket., hanem az E-ügyintézési tv. szabályozza.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 80. §-hoz
+
+A választási eljárásról szóló 2013. évi XXXVI. törvényben a választópolgár a központi névjegyzékkel kapcsolatos kérelmének elektronikus benyújtása az ügyfélkapun alapul.
+
+Az E-ügyintézési tv. 35. §-a alapján azonban már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően az ezzel kapcsolatos terminológiai pontosításokat átvezeti a törvény érintett rendelkezésein.
+
+A 81. §-hoz
+
+A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 2. § (1) bekezdése alapján a Ket.-nek elektronikus kapcsolattartás formájára és módjára vonatkozó rendelkezéseit az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott eltéréssel kell alkalmazni. A törvényben a Ket. rendelkezéseire való hivatkozás módosítása azért indokolt, mert az elektronikus kapcsolattartás szabályait 2017. január 1-jétől nem a Ket., hanem az E-ügyintézési tv. tartalmazza.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 82. §-hoz
+
+A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 3. § (1) bekezdése alapján a kérelmező hulladékgazdálkodási közszolgáltatási tevékenységét a minősítő környezetvédelmi hatóság a szolgáltatás biztonsága és a szolgáltatás színvonala alapján minősítési osztályba sorolja.
+
+A hatályos szöveg alapján a minősítésre vonatkozó kérelmet és mellékleteit a kérelmező egy papír alapú példányban nyújtja be a minősítő részére, egyidejűleg elektronikus adathordozón is beadja.
+
+A törvény alapján a papír alapú duplikáció megszűnik.
+
+A 4. § (1) bekezdése alapján a kérelmet, a környezetvédelmi bírságfizetési kötelezettség hiányáról szóló nyilatkozatot és a környezetirányítási programokat eredetiben kell csatolni. A törvény alapján a hiteles másolat is elfogadható lesz.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 83. §-hoz
+
+A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 49. § (2) bekezdése alapján a Magyar Nemzet Bank a hatósági eljárása során a Ket. írásbelinek minősülő elektronikus kapcsolattartásra vonatkozó szabályaitól eltérően is meghatározhatja az adatszolgáltatási kötelezettség teljesítésének módját.
+
+Tekintettel arra, hogy az elektronikus kapcsolattartás szabályait az E-ügyintézési tv. határozza meg, e rendelkezést a törvény hatályon kívül helyezi.
+
+A törvény 58. §-a alapján a Magyar Nemzeti Bank és az érintett szervezetek között az elektronikus kapcsolattartás a Magyar Nemzeti Bank által működtetett elektronikus kézbesítési felületen, az eljárásban érintett szervezet részére fenntartott kézbesítési tárhelyen keresztül elektronikus úton történik.
+
+Az elektronikus kapcsolattartás szabályait az E-ügyintézési tv. határozza meg, ezért a szigetszerű megoldások elkerülése érdekében a törvény az E-ügyintézési tv. alkalmazását rendeli a Magyar Nemzeti Bank esetében is.
+
+A 84. §-hoz
+
+A fémkereskedelemről szóló 2013. évi CXL. törvény 8. § (1) bekezdés i) pontja alapján a fémkereskedelmi engedély iránti kérelemnek tartalmaznia kell a kérelmező nyilatkozatát az e törvény szerinti adatszolgáltatás feltételeinek ügyfélkapu nyitásához szükséges regisztrációs eljárást követően elektronikus úton történő kialakításáról.
+
+Az E-ügyintézési tv. 35. §-a alapján azonban már nem csak ügyfélkaput, hanem más elektronikus azonosítási szolgáltatásokat is biztosít a Kormány:
+
+a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
+
+b) ügyfélkapu, valamint
+
+c) részleges kódú telefonos azonosítás.
+
+Az azonosítási szolgáltatásokhoz biztonságos kézbesítési szolgáltatás és tárhely kapcsolódik.
+
+A törvény ennek megfelelően az ezzel kapcsolatos terminológiai pontosításokat átvezeti a törvény érintett rendelkezésein.
+
+A 85. §-hoz
+
+A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 4. § (2) bekezdése a felhasználóként történő nyilvántartásba vétel kapcsán, a 7. § (2) bekezdése a regisztrált felhasználó hitelbiztosítéki nyilatkozatával összefüggésben a szabályozott ügyintézési szolgáltatások Ket.-beli rendelkezéseire utal. Tekintettel arra, hogy a Ket.-ből e szabályok kikerülnek és a tárgykört az E-ügyintézési tv. szabályozza, ez az utalás felesleges. Az E-ügyintézési tv.-vel nincs összhangban az sem, hogy a szabályozott ügyintézési szolgáltatások alkalmazása feltételhez (a Magyar Országos Közjegyzői Kamara hozzájárulásához) kötött, ezért e rendelkezést a törvény módosítja.
+
+A törvény a szabályozott ügyintézési szolgáltatások alkalmazásának lehetőségét a 3. § (6) bekezdésében biztosítja a Magyar Országos Közjegyzői Kamara számára. Tekintettel arra, hogy ezt a közjegyzőkről szóló 1991. évi XLI. törvény e törvény szerinti módosítása biztosítja, e rendelkezés felesleges, így hatályon kívül helyezhető.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 86. §-hoz
+
+A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését tartalmazza.
+
+A 87. §-hoz
+
+A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása - biztonsági okok miatt - rögzíti, hogy a fogvatartottnak nincs joga az elektronikus ügyintézéshez.
+
+A 88. §-hoz
+
+A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény 105. § (5) bekezdése alapján a szanálási feladatkörében eljáró Magyar Nemzeti Bank a hatósági eljárása során a Ket. írásbelinek minősülő elektronikus kapcsolattartásra vonatkozó szabályaitól eltérően is meghatározhatja az adatszolgáltatási kötelezettség teljesítésének módját.
+
+Az elektronikus kapcsolattartás szabályait az E-ügyintézési tv. határozza meg, ezért a szigetszerű megoldások elkerülése érdekében a törvény az E-ügyintézési tv. alkalmazását rendeli a Magyar Nemzeti Bank esetében is, így e rendelkezés deregulációja indokolt.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 89. §-hoz
+
+A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 39. § (1) bekezdés f) pontjának kiegészítése azt a célt szolgálja, hogy világossá tegye: az SZTNH hatáskörébe tartozó K+F minősítési ügyekben a kapcsolattartási módok közül csak az írásbeli és az elektronikus, és ez utóbbin belül csak az azonosításhoz kötött kapcsolattartási formáknak van helye.
+
+Az SZTNH előtti K+F minősítési hatósági eljárásokban - a jelenlegi gyakorlatnak megfelelően - szóbeli kapcsolattartásra (ideértve a személyes megjelenést is), illetve azonosításhoz nem kötött írásbeli vagy elektronikus kapcsolattartásra csak tájékoztatás kérése és teljesítése esetében van lehetőség. Tájékoztatás sem kérhető vagy kapható azonban rövid szöveges üzenet útján, mivel az nyilvánvalóan alkalmatlan a K+F minősítési ügyek összetettségének megfelelő, pontos és szabatos közlések továbbítására.
+
+A törvény biztosítja, hogy a joghatást kiváltó, írásbeliséget megkövetelő eljárási cselekményeket az SZTNH-val kapcsolatba lépő személyek csak nyomon követhető és megfelelő azonosítást biztosító módon tehessék meg.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést.
+
+A 90. §-hoz
+
+A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését tartalmazza.
+
+A 91. §-hoz
+
+A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása az alábbiak miatt indokolt.
+
+A törvény hatályos szövege alapján a szolgálati viszony létesítésével, a szolgálati viszony módosításával és a szolgálati viszony megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, méltatlansági vagy kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható; erről hiteles papír alapú kiadmányt kell készíteni és a hivatásos állomány tagjával a papír alapú kiadmányt kell közölni.
+
+A törvény a munkáltatói intézkedéseket teljes körűen elektronikus útra tereli és megszünteti - a hivatásos jogviszony létesítéséről rendelkező jognyilatkozat kiadmány kivételével - a papír alapú kiadmány alkalmazását.
+
+Ezzel kapcsolatban a hivatásos szolgálati viszonyban állók számára kötelező lesz az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatást (pl. ügyfélkaput, új személyit) igénybe venni.
+
+Tekintettel arra, hogy a minősített elektronikus aláírást az állam az elektronikus személyazonosító igazolványon, egyéb hitelesítést az AVDH szolgáltatás útján ingyen biztosít, ez az érintettek számára többletterhet nem jelent. A törvény ezen része 2017. május 1-jén lép hatályba.
+
+A törvény célja az összhang megteremtése azon szakmai érdekekkel, amelyek a műveleti tevékenységet végző nemzetbiztonsági szolgálatok hivatásos állománya védelméhez fűződnek. A Hszt. 6/A. §-a a szolgálati viszonyt érintő fontosabb kérdésekben kizárólagossá teszi az elektronikus dokumentum útján történő kommunikációt a hivatásos állomány tagja és a munkáltató között. Ennek érdekében a szükséges elektronikus azonosítási szolgáltatás, valamint biztonságos kézbesítési szolgáltatásra alkalmas tárhely használatát a hivatásos állomány tagja számára. Az általános jellegű kötelezés azonban biztonsági kockázatot jelenthet a műveleti tevékenységet végző hivatásos állomány egyes tagjai számára. Célszerű ezért felhatalmazást adni a nemzetbiztonsági szolgálatot irányító miniszter számára annak érdekében, hogy utasításában meghatározza azon beosztásokat, ahol a fenti követelmény nem alkalmazható.
+
+A törvény tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is.
+
+A 92. §-hoz
+
+A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény 17. § (1) bekezdése kizárja a műszaki engedély kiadására irányuló eljárás megindítására irányuló kérelem elektronikus benyújtását, továbbá kimondja, hogy a közlekedési hatóság által lefolytatott hatósági eljárásban az eljárás megindítására kérelmet benyújtó ügyfél a közlekedési hatósággal elektronikus kapcsolattartásra nem jogosult.
+
+A törvény az elektronikus ügyintézést generálisan tiltó szabályt hatályon kívül helyezi.
+
+A törvény 17. § (2) bekezdése az ügyfél e-mailes értesítését rendeli az eljárás megindításakor. Tekintettel arra, hogy az elektronikus kapcsolattartást ez E-ügyintézési törvény szabályozza, e rendelkezés hatályon kívül helyezése indokolt.
+
+A törvény tartalmazza továbbá az elektronikus ügyintézéssel kapcsolatos, a 2017. évre vonatkozó átmeneti rendelkezést is.
+
+A 93. §-hoz
+
+A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítását az alábbiak indokolják.
+
+A 17. § (2) bekezdése alapján az adóstársak egymásnak is adhatnak meghatalmazást az eljárási cselekmények és jognyilatkozatok megtételére.
+
+Az E-ügyintézési tv. 23. alcíme szabályozza az ügyfél ügyintézési rendelkezésének nyilvántartását (rendelkezési nyilvántartás). Ennek lényege, hogy a Kormány által kijelölt szerv az elektronikus ügyintézés megkönnyítése, az ügyfél választási lehetőségeinek megteremtése és elektronikus ügyintézéssel kapcsolatos rendelkezésének tiszteletben tartása érdekében az ügyfél ügyintézési rendelkezéseinek adattartamáról (pl. a meghatalmazásokról) nyilvántartást vezet.
+
+A törvény alapján az adóstársak egymásnak adott meghatalmazása kapcsán a törvény lehetővé teszi a rendelkezési nyilvántartás alkalmazását.
+
+A törvény 30. §-a alapján a főhitelező az adós, adóstárs bevonásával az adósság rendezésére és az adós fizetőképességének helyreállítására vonatkozóan megállapodás-tervezetet készít. A megállapodás-tervezet egyeztetési folyamatát a törvény szabályozza; ennek során a postai út alkalmazása is előírás. A törvény értelmében lehetséges lesz a teljesen elektronikus egyeztetési folyamat.
+
+A törvény 31. § (5) bekezdése alapján a Családi Csődvédelmi Szolgálat az adós bírósági adósságrendezés iránti kérelmét postán küldi meg a bíróságnak. A törvény alapján ez a folyamat elektronikusan történik.
+
+A törvény tartalmazza továbbá az eIDAS rendelet hatálybalépésével megváltozott fogalmak technikai átvezetését is.
+
+A 94. §-hoz
+
+A törvény alapján az ágazati joganyag felülvizsgálata, valamint az E-ügyintézési tv. végrehajtási rendeletének előkészítése során felmerült egyes kérdésekre tekintettel az E-ügyintézési tv. a következőképpen módosul:
+
+Ha nemzetközi szerződés vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa alapján valamely - egyébként az E-ügyintézési tv. hatálya alá tartozó - eljárás vagy eljárási cselekmény kizárólag papír alapon zajlik, akkor ezek tekintetében nincs helye elektronikus ügyintézésnek. Nincs helye elektronikus kapcsolattartásnak akkor sem, ha az irat minősített adatot tartalmaz.
+
+A törvény kimondja, hogy ugyancsak nincs helye elektronikus ügyintézésnek olyan eljárási cselekmény esetében, ahol ez nem értelmezhető (pl. gépjármű eredetiségvizsgálata, korábbi okmányok leadása).
+
+A fogvatartott személy elektronikus ügyintézéshez való jogát a büntetés, az intézkedés és a kényszerintézkedés végrehajtása során a végrehajtás rendjének és fogvatartás biztonságának megtartása, valamint a büntetőeljárás eredményessége érdekében törvény korlátozhatja.
+
+Lehetőséget biztosít a törvény arra, hogy 2019. december 31-ig az elektronikus ügyintézést biztosító szervek a benyújtható elektronikus dokumentumok tekintetében méretkorlátot határozzanak meg, ennek meghaladása esetén tartós adathordozón kell az iratokat benyújtani. Ugyanígy lehetőség nyílik arra, hogy a sajátos méretű/alakú iratokat - ha digitalizálásuk aránytalan lenne - papír alapon is be lehet nyújtani.
+
+Kiemelt fontosságú, hogy a törvény deklarálja: törvény vagy eredeti jogalkotói hatáskörben megalkotott kormányrendelet kifejezetten eltérő rendelkezése hiányában, ha valamely jogszabály eredeti okiratot/dokumentumot/iratot követel meg az ügyféltől, akkor elektronikus ügyintézés esetén annak hiteles elektronikus másolata is elégséges. E rendelkezés nem alkalmazható olyan igazolvány, okirat esetében, amelynek bevonását vagy visszaszolgáltatását jogszabály vagy az elektronikus ügyintézést biztosító szerv elrendelte.
+
+Az előző pontra figyelemmel, ha a jogszabály az ügyféltől egy beadvány több példányban történő benyújtását követeli meg, elektronikus ügyintézés esetén egy elektronikus dokumentum is elég.
+
+Jogszabály lehetőséget adhat arra, hogy egyes ügyekben az ügyfél az iratát saját maga hitelesítse. Ilyen esetben az ügyfél köteles vállalni az eredeti beadvány jogszabályban meghatározott ideig történő megőrzését és felhívásra történő bemutatását.
+
+Ha a gazdálkodó szervezet hiteles elektronikus elérhetőséggel nem rendelkezik, az eljárás papír alapon lefolytatható, de az elektronikus ügyintézést biztosító szerv kezdeményezheti a gazdálkodó szervezettel kapcsolatban ezen kötelezettségének nem teljesítése miatt törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását. Erre figyelemmel az egyes ágazati nyilvántartási törvényekben a hiteles elérhetőség, mint nyilvántartandó adat előírásra kerül.
+
+Pontosításra kerül az elektronikus ügyintézést biztosító szervek és az elektronikus ügyintézésre kötelezettek köre, a Központi Ügyfél-regisztrációs Nyilvántartással kapcsolatos szabályozás, valamint az, hogy mikortól illeti meg az elektronikus ügyintézést biztosító szervet az ügyfél azonosító adatai tekintetében az adatkezelés és adatigénylés jogosultsága.
+
+Új KEÜSZ szolgáltatásként kerül nevesítésre a törvényben az általános célú elektronikus kéreleműrlap szolgáltatás (e-Papír) szolgáltatás, amelynek célja, hogy azokban az eljárásokban vagy egyszerű ügyekben is legyen lehetősége az ügyfélnek beadványát elektronikus úton továbbítani a hatóság felé, amelyeket gyakoriságuk vagy egyéb ok miatt nem indokolt elektronizálni, szakrendszeri ügyintézéssel támogatni,
+
+A jelenleg hatályos szabályozásban szereplő „kormányzati hitelesítés-szolgáltatás” elnevezés és annak nemzetközi szinten is értelmezhető rövidítése (Gov CA) jól bevezetett szolgáltatás-megnevezés. Történetisége, elfogadottsága, ismertsége indokolja a megtartását, nevesítését az E-ügyintézési tv.-ben, annak ellenére is, hogy ez eIDAS rendelet már terminológiát - hitelesítés-szolgáltatás helyett bizalmi szolgáltatást - használ.
+
+A kormányzati hitelesítés-szolgáltatás keretében nyújtott szolgáltatások meghatározását a bizalmi szolgáltatásoknak az eIDAS rendelet 3. cikk 16. pontban található felsorolásához szükséges igazítani. A szabályozás kiegészítése szükséges a kormányzati hitelesítés-szolgáltatás által jelenleg is nyújtott autentikációs célú tanúsítványokkal kapcsolatos szolgáltatásokkal. Az elektronikus aláírás-hitelesítési szolgáltatás magában foglalja a tanúsítványok kibocsátásával kapcsolatos szolgáltatásokat, így külön pontban felsorolása indokolatlan. Továbbá itt is szükséges a közigazgatási felhasználást az elektronikus ügyintézési szolgáltatások nyújtására való felhasználásra módosítani.
+
+Sajátos építményfajták esetében jogszabály dönthet úgy, hogy mely iratokat kell elektronikus kapcsolattartás esetén is papíron benyújtani.
+
+A 95. §-hoz
+
+Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása az Magyar Igazságügyi Szakértői Kamara alapszabályára vagy kamarai szabályzatára utalja azon ügyek meghatározását, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem közigazgatási hatósági ügy (pl. fegyelmi vagy etikai eljárás).
+
+-----STARTING---POINT---VEGE---
+
+A 96. §-hoz
+
+Hatályba léptető rendelkezéseket tartalmaz.
+
+A 97. §-hoz
+
+A sarkalatossági záradékot tartalmazza.
+
+A 98. §-hoz
+
+A jogharmonizációs záradékot tartalmazza.

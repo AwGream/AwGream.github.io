@@ -1,0 +1,771 @@
+2015. évi CCXV. törvény indokolása
+
+a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharmonizációs célú módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014/17/EU irányelv (a továbbiakban: jelzáloghitel irányelv) átültetése érdekében a törvény módosítja a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvényt (a továbbiakban: Fhtv.), valamint a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényt (a továbbiakban: Hpt.). A jelzáloghitel irányelv 42. cikke értelmében a tagállamoknak 2016. március 21-ig hatályba kell lépetniük azokat a törvényi és rendeleti szabályokat, amelyek ahhoz szükségesek, hogy megfeleljenek az irányelvnek.
+
+A fogyasztói hitelmegállapodásokról szóló 2008/48/EK irányelv átültetését biztosító Fhtv. szabályainak jelentős része hatálybalépése óta már kiterjed a jelzáloghitelekre is, ezáltal a szabályozás alapjai már adottak. A jelzáloghitelekre ugyanakkor e hiteltípus sajátosságait figyelembe véve az Fhtv. részben eltérő szabályokat ír elő. Az Fhtv. jelzáloghitelekre vonatkozó rendelkezéseit, továbbá a hitelközvetítőkre vonatkozó, a Hpt.-ben meghatározott szabályokat ki kell egészíteni, illetve módosítani szükséges a jelzáloghitel irányelvben meghatározott követelmények belső nemzeti jogba történő átültetése érdekében.
+
+A törvény módosítja többek között a kereskedelmi kommunikációra, a szerződéskötést megelőző tájékoztatásra vonatkozó szabályokat, kiegészíti a hitelképesség vizsgálatára vonatkozó előírásokat, új rendelkezéseket vezet be az árukapcsolásra és a devizahitelekre.
+
+A tőkepiacra vonatkozó szabályozás módosításának célja egyes európai uniós jogszabályok illetve sztenderdek implementálása. A törvény ennek érdekében a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) a Magyar Nemzeti Bankról 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.), továbbá a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban Kbftv.) módosítását tartalmazza.
+
+Az Európai Központi Bank (EKB) Kormányzótanácsa 2008-ban döntött az ún. Target2-Securities (T2S) program indításáról, amely az értékpapír-tranzakciók határokon átnyúló kiegyenlítését célozza. E cél megvalósítása érdekében nemzetközi sztenderdek kerültek kidolgozásra. A T2S-hez történő csatlakozáshoz szükséges megállapodást a KELER Zrt. 2012-ben írta alá, a tényleges csatlakozáshoz azonban a társasági eseményekhez kapcsolódó tranzakció-kezelési sztenderdek átvételét is meg kell valósítani. Ennek érdekében néhány ponton a tőkepiaci törvény kiegészítése is szükséges.
+
+Az UCITS-irányelv (az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló tanácsi irányelv) 1985-ben történt elfogadása óta számos módosításon ment keresztül, azonban bizonyos területeken nem volt megfelelően korszerű a szabályozás, emiatt szükségessé vált az irányelv módosítása, a piaci viszonyoknak megfelelővé tétele. Az irányelv legújabb felülvizsgálatának eredményeként született meg az ún. UCITS V. irányelv (a továbbiakban: 2014/91/EU irányelv), amely a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében tartalmaz módosításokat. Az irányelvet 2014-ben fogadták el, a tagállami átültetésre két év áll rendelkezésre. Ennek megfelelően az új rendelkezések 2016. március 18-tól lépnek hatályba.
+
+A 2014/91/EU irányelv implementálása érdekében szükségessé vált a MNBtv., továbbá a Kbftv. módosítása. Az uniós kereteknek megfelelően szigorodnak a szankciós szabályok, szélesednek a Felügyeletnek adott szankcionálási jogkörök. A Kbftv. módosítása keretében tisztázódnak a letétkezelők felelősségére vonatkozó szabályok. További módosítás, hogy az alternatív befektetési alapkezelőkhöz hasonlóan az ÁÉKBV-alapkezelőre is kiterjesztésre kerül a javadalmazási politika meghatározásának követelménye.
+
+Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítását tartalmazó módosítások a pénztártagok megtakarításainak biztonságát, a pénztári szolgáltatások rugalmasságát, a pénztári működés hatékonyságának elősegítését célozzák.
+
+A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK irányelv (a továbbiakban: IORP irányelv) módosítása, illetve a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény hatálybalépése miatt vált szükségessé. Az IORP irányelv módosítása az Európai Parlament és a Tanács 2009. november 25-i, a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről, gyakorlásáról (Szolvencia II.) szóló 2009/138/EK irányelvével összefüggésben történt meg.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Új szolgáltatási formaként ütemezett pénzkivonásnak tekinthető, ha a pénztár a tag szolgáltatási számlájának terhére, a tag részére rendszeres kifizetést teljesít, amelynek időtartama a kifizetés indulásakor előre nem meghatározott. A biztosítók, illetve a pénzügyi intézmények jogosultak önkéntes kölcsönös biztosító pénztárak részére tagszervezési tevékenységet végezni. Az ezen intézményekre vonatkozó ágazati jogszabályok anélkül rendelkeznek a tagszervezői tevékenység folytatásáról, hogy ennek fogalma szerepelne az Öpt.-ben.
+
+A 2. §-hoz
+
+A jövőben lehetőség nyílik olyan önkéntes kölcsönös biztosító pénztár létrehozására, amely elláthatja az önsegélyező, valamint az egészségpénztári, az egészségügyi célú önsegélyező feladatokat is. Az egészség- és önsegélyező pénztár azonban feladatai ellátása során a kiegészítő önsegélyező pénztárakra, valamint a kiegészítő egészségpénztárakra vonatkozó speciális rendelkezések alkalmazásától nem tekinthet el.
+
+A 3. §-hoz
+
+A módosítás alapján a pénztári jogszabályokban, illetve a pénztár belső szabályozásában rögzített határidők a tagi bejelentés tagszervezőhöz történő megérkezésétől számítandóak, feltéve, hogy a pénztárnak a tagszervezővel kötött szerződése az ilyen igények pénztár részére történő továbbítására is kiterjed.
+
+A 4. §-hoz
+
+A módosítás a nem fizető tagokkal szembeni levonásra vonatkozó jogszabályi rendelkezéseket egyértelműsíti, meghatározva, hogy a levonás végrehajtására − a tagdíjfizetési gyakorisághoz igazodóan − a pénztár választásától függően a tárgynegyedévben, tárgyfélévben vagy a tárgyévben az egyéni számlán jóváírt hozam terhére kerülhet sor. Ezen értelmezés − a nem fizető tagok érdekeinek védelmében − tartalmaz egy korlátot is a levonhatóság tekintetében, melynek eredményeképp a levonás kizárólag a tárgyidőszaki − tárgynegyedévi, tárgyfélévi vagy tárgyévi − hozam terhére hajtható végre. A módosítás biztosítja, hogy a nem fizető tagok felhalmozott hozama minél kisebb mértékben csökkenjen a nemfizetés miatti levonások következtében. A módosítás értelmében a pénztárak egy üzleti évben csak egy fajta levonást - negyedéves, féléves vagy éves gyakoriságú levonást - alkalmazhatnak akkor is, ha alapszabályuk többféle gyakorisággal is lehetővé teszi a tagdíj fizetését. A módosítás lehetővé teszi, hogy a pénztárak a tárgyidőszak egy részében történő nem fizetés esetén a teljes tárgyidőszaki hozam terhére érvényesítsék költségigényüket az alapszabályuk szerint nem fizető tagokkal szemben, pl.: ha a tag a tárgynegyedév utolsó két hónapjában nem fizetett tagdíjat, a pénztár a teljes tárgynegyedévi hozam terhére érvényesítheti a két hónapra levonható költségeket. Elszámoló egységen alapuló nyilvántartást alkalmazó pénztárak havi gyakoriságú levonást is alkalmazhatnak. Az alkalmazott levonási módszer módosításáról - a pénztártagok megfelelő tájékoztatása érdekében - a pénztár közgyűlése jogosult dönteni az üzleti évet megelőző évben.
+
+Az 5. §-hoz
+
+A módosítás egyértelműen megszünteti azt a gyakorlatot, amely során a pénztári vezetők több - akár nagyszámú - tag, illetve küldött meghatalmazottjaként vesznek részt a legfőbb szerv ülésén, akár a Ptk.-ban meghatározott korlátozásokat is figyelmen kívül hagyva.
+
+A 6. §-hoz
+
+A módosítás megszünteti azt a törvény erejénél fogva bekövetkező jogkövetkezményt, mely szerint amennyiben a feltételek fennállásának maradéktalan igazolásra a megválasztást követő 30 napon belül nem kerül sor, akkor az igazgatótanácsi, ellenőrző bizottsági tagság megszűnik. Az érintett jogszabályi rendelkezés - a feltételek 1-2 napos késedelemmel történő igazolása esetén is - a vezető tisztségviselői jogviszony megszűnését eredményezte, amely méltánytalan és indokolatlan.
+
+A 7. §-hoz
+
+A pénztártagok jogainak megóvása érdekében célszerű, hogy a pénztár alapszabályában rögzítse, hogy hogyan és milyen úton hívja össze a közgyűlésen túl a küldöttközgyűlést, küldöttválasztó köz-, valamint részközgyűlést. Az internet elterjedt eszköze a pénztárak működését érintő tájékozódásnak, így a tagok tájékoztatását elősegíti a meghívó szövegének közzététele.
+
+A 8. §-hoz
+
+A módosítás megszünteti az eddigi keresztféléves tervezést, így egyrészt adminisztrációs teher csökkenést jelent a pénztárak számára, másrészt elősegíti a pénzügyi tervezés éves beszámoló tényadataival történő összehasonlítását.
+
+A 9. §-hoz
+
+A módosítás egyértelművé teszi, hogy a pénztárak nem alkalmazhatnak eltérő tagdíjfelosztási arányt a tagok által fizetett tagdíjra és a munkáltató által befizetett hozzájárulásra.
+
+A 10. §-hoz
+
+Pontosító jellegű rendelkezés
+
+A 11. §-hoz
+
+A könyvvizsgálókra vonatkozó szabályokhoz hasonlóan az ingatlanértékelő megbízatása egy pénztárnál legfeljebb öt évre szólhat.
+
+A 12. §-hoz
+
+A tevékenységi engedélyekhez kapcsolódó iratok körét pontosítja.
+
+A 13. §-hoz
+
+A módosítás kapcsolódik az Öpt. 10. § (1) bekezdés d) pontjában szereplő új típusú egészség- és önsegélyező pénztári forma bevezetéséhez. A módosítás lényege, hogy - a nyugdíjpénztárak kivételével - nem pusztán azonos típusú pénztárak egyesülhetnek.
+
+A 14. §-hoz
+
+A pénztárak végelszámolásával kapcsolatos szabályokat pontosítja. A módosítás nyomán a végelszámolás alá kerülő pénztárak tagjainak tagsági jogviszonya a vagyonfelosztási javaslat elfogadását követően, az egyéni számlán nyilvántartott tagi megtakarítás átutalásával egyidejűleg szűnik meg. A módosítás biztosítja, hogy a pénztárak jogutód nélküli megszűnéséhez kapcsolódó döntések meghozatalában a végelszámolás kezdő időpontjában tagsággal rendelkező tagok is részt vehessenek, továbbá az ő tagdíjbefizetéseikből is felhalmozódott, a végelszámolás lezárását követően esetlegesen megmaradó vagyonból részesülhessenek.
+
+A 15. §-hoz
+
+A módosítási előírja, hogy az önkéntes nyugdíjpénztáraknak járadékszolgáltatási kötelezettsége van, amelynek elsősorban - az alapszabályban foglalt feltételek szerint − az elért hozamokat és költségeket figyelembe határozott tartamú biztos (banktechnikai) járadékkal, vagy évente újraszámított, az elért hozamokat és költségeket figyelembe vevő ütemezett pénzkivonással tehetnek eleget. Ezen túlmenően, az önkéntes nyugdíjpénztár biztosítótól vásárolt életjáradékot is kínálhat a tagjai részére. Szükségesnek tartjuk annak rögzítését is, hogy a tagnak a járadékfolyósítás, illetve az ütemezett pénzkivonás időtartama alatt bekövetkezett halála esetében a pénztár által még nem folyósított összeg a kedvezményezett, illetve az örökös által örökölhető. A járadékszolgáltatási kötelezettség bevezetése során - figyelemmel az arányosság elvére - a járadékszolgáltatási kötelezettség alól a 1000 fő alatti pénztárak mentesülnek.
+
+A 16. §-hoz
+
+A módosítással a jövőben lehetőség nyílik arra, hogy a tag több portfóliót választhasson kockázatviselési hajlandóságára tekintettel. A választható portfóliós rendszerben - különösen az alapportfólióban lévő - tagok „befektetési aktivitását”, kockázatviselési hajlandóságát ösztönözni lehet azzal, ha lehetőséget kapnak arra, hogy a megtakarításaik egy részét nagyobb kockázatú portfólióba helyezhessék el, ezáltal - nem garantáltan - magasabb hozam elérésére nyílik lehetőségük. A törvény a befektetésekkel kapcsolatos rendelkezéseket is pontosítja.
+
+A 17. §-hoz
+
+A törvény a választható portfóliós rendszer rugalmasabbá tételéhez kapcsolódóan biztosítja, hogy az egyéni számlán felhalmozott összeg, valamint a tagdíjbefizetések portfóliók közötti megosztásának egyszeri díja nem haladhatja meg az egyéni számlakövetelés egy ezrelékét, és nem lehetnek magasabb 2000 forintnál.
+
+A 18. §-hoz
+
+A lakáscélú jelzáloghitel törlesztésének támogatása szolgáltatás fogalmának pontosítása.
+
+A 19. §-hoz
+
+Az önsegélyező pénztárak a közüzemi díjak finanszírozását, valamint a lakáscélú jelzáloghitel törlesztésének támogatását egyéni számlás szolgáltatásként is nyújthatják.
+
+A 20. §-hoz
+
+A lakáscélú jelzáloghitel törlesztésének támogatása szolgáltatás igénybe vételére vonatkozó szabályozás pontosítása.
+
+A 21. §-hoz
+
+Az egészségpénztárak esetében szükséges az önkéntes nyugdíjpénztáraknál már évek óta alkalmazott jogszabályi maximum arány (azoktól eltérő mértékű) bevezetése a tagdíjakból a működési és a likviditási alapra összesen levonható rész vonatkozásában.
+
+A 22. §-hoz
+
+A felügyeleti engedélyezési tárgyköröket egyértelművé teszi a módosítás. A kiegészítésben szereplő tárgykörök eddig is szerepeltek az törvényben, de az engedélyezési tárgykörök között nem voltak nevesítve.
+
+A 23. §-hoz
+
+Az Öpt. 34. §-nak módosításához kapcsolódó módosítás.
+
+A 24. §-hoz
+
+A módosítás biztosítja a hatékony jogérvényesítést az ellenőrzési eljárások keretében megállapított nyilvántartási hiányosságok esetén. A módosítás - egyebek mellett - előírja a pénztárak számára azt, hogy a jogszabályoknak megfelelő számviteli és nyilvántartási renddel és folyamatos nyilvántartási, adatfeldolgozási és adatszolgáltatási rendszerrel rendelkezzenek.
+
+A 25. §-hoz
+
+A módosítás új feladatot határoz meg a pénztár könyvvizsgálók számára, amennyiben kötelesek a befektetett eszközöket tartalmazó letétkezelői nyilvántartást összevetni a pénztár analitikus nyilvántartásával és azok egyezőségéről, illetve annak hiányáról a Felügyeletet és a pénztárat tájékoztatni, ezáltal biztosítva a befektetések feletti teljesebb kontrollt.
+
+A 26. §-hoz
+
+A módosítás bevezeti a vezető tisztségviselő figyelmeztetését, mint legenyhébb felügyeleti intézkedést.
+
+A 27. §-hoz
+
+A felügyeleti biztos kirendelésére vonatkozó rendelkezések - a pénztárak pénzügyi felügyeletére vonatkozó rendelkezéseket tartalmazó Öpt. VI. fejezetében − külön jogszabályszakaszban kerülnek rögzítésre.
+
+A 28. §-hoz
+
+Meghatározza az MNB által szükséghelyzetben alkalmazható intézkedések körét.
+
+A 29. §-hoz
+
+A megfelelő felkészülési idő biztosítása érdekében átmeneti rendelkezés megállapítása.
+
+A 30. §-hoz
+
+Módosuló rendelkezések.
+
+A 31. §-hoz
+
+Hatályukat vesztő rendelkezések
+
+A 32. §-hoz
+
+A T2S sztenderdeknek való megfelelés érdekében szükség van egy új fogalom meghatározására. Ennek értelmében az az alkalom minősül társasági eseménynek, amikor az értékpapír tulajdonosa jogosult az értékpapírhoz kapcsolódó jogok kibocsátóval szembeni gyakorlására, így pl. osztalékfizetés, közgyűlés, kamatfizetés.
+
+A 33-34. §-hoz
+
+A T2S sztenderdeknek való megfelelés érdekében szükséges, hogy a kibocsátott értékpapírt érintő társasági esemény és annak a központi értékpapír nyilvántartást érintő lényeges adatai közzétételre kerüljenek a központi értéktár üzletszabályzatában megjelölt helyen. A rendelkezés biztosítja továbbá, hogy az értékpapírt érintő kifizetések is a központi értéktáron vagy a központi értéktárhoz bejelentett hitelintézeten, befektetési vállalkozáson keresztül a központi értéktár szabályzatában meghatározott eljárásrend szerint történjenek meg a befektetők részére.
+
+A 35. §-hoz
+
+E rendelkezés célja, hogy részvények nyilvános forgalomba hozatala esetén a 809/2004/EK rendelet III. számú mellékletében foglaltaknak megfelelően lehetősége legyen a kibocsátónak, illetve az ajánlattevőnek az ajánlattétel visszavonására.
+
+A 36. §-hoz
+
+E § rendelkezéseinek célja, hogy a befektetési szolgáltatást igénybe vevő ügyfelek a számlavezetőjük által a részükre megküldött adatokat leellenőrizhessék a számlavezetőjük által a Felügyelet részére megküldött adatok segítségével. Azonban a központi értéktár által a 909/2014/EU rendelet mellékletének „A” szakasza alapján végezhető, a központi értéktárak alapvető szolgáltatásai közé tartozó tevékenységek, így pl. a központi számlavezetési szolgáltatás esetében az ügyfelek számára képzendő jelszó és belépési azonosító megképezésére nincs szükség.
+
+A 37. §-hoz
+
+A jogrendszer egysége okán a Szanálási Alap operatív feladatai OBA munkaszervezete általi ellátásával azonos módon szükséges szabályozni a Szanálási Alappal megegyezően a továbbiakban önálló munkaszervezettel nem rendelkező BEVA operatív feladatainak OBA általi ellátását.
+
+A 38. §-hoz
+
+A módosítás a könyvvizsgálatra vonatkozó egyes speciális rendelkezések személyi hatályát a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír kibocsátó könyvvizsgálójára is kiterjeszti, mivel a Felügyelethez érkező, a kibocsátó működési zavaraira utaló jelzések nagyban hozzájárulhatnak a befektetések biztonságának növeléséhez, a befektetők védelméhez és elősegíthetik a tőkepiac hatékony felügyeletét, így különösen annak ellenőrzését, hogy a kibocsátó rendszeres és rendkívüli tájékoztatási kötelezettségének megfelelően eleget tesz-e.
+
+A 39. §-hoz
+
+A rendelkezés értelmében a Felügyelet nemzetközi együttműködésből fakadó adatszolgáltatási kötelezettségei során teljesítendő adattovábbítás nem jelenti az értékpapírtitok, illetve az üzleti titok sérelmét.
+
+A 40. §-hoz
+
+A módosítás egyértelműsíti, hogy a Felügyelet az értékpapírok előállításával kapcsolatos jogsértés megállapítása esetén is alkalmazhatja a figyelmeztetés, illetve felszólítás rendelkezéseket.
+
+A Tpt. 62. § (2) bekezdése szerint a közérdeklődésre számot tartó kibocsátónak a Ptk. szerinti auditbizottságot kell létrehoznia és működtetnie. A módosítás egyértelműsíti, hogy az MNB a közérdeklődésre számot tartó kibocsátó ezen kötelezettségének megsértése esetén a kibocsátót figyelmeztetheti, illetve a feltételeknek való megfelelésre határidő kitűzésével felszólíthatja.
+
+A Tpt. 201/D. §-a alapján a bennfentes kereskedelemhez kapcsolódó hatósági ellenőrzés elősegítése érdekében a kibocsátó, illetve a javára vagy nevében eljáró személy a munkaviszony vagy egyéb jogviszony alapján részére tevékenységet végző és bennfentes információhoz hozzáférő személyekről nyilvántartás vezetésére köteles. A módosítás egyértelműsíti, hogy ezen kötelezettsége elmulasztása esetén az MNB a kibocsátót figyelmeztetheti, illetve a feltételeknek való megfelelésre határidő kitűzésével felszólíthatja.
+
+A (2) bekezdés fogalmi pontosítást tartalmaz, a befolyásszerzés megvalósulását a részvények megszerzése helyett a szavazati joggal történő rendelkezéshez köti.
+
+A 41. §-hoz
+
+Szövegcserés módosítás.
+
+A 42-46. §-hoz
+
+A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény hatálybalépése miatt szükségessé vált módosítások.
+
+A 47. §-hoz
+
+Korábban a foglalkoztatói nyugdíjszolgáltató intézmények minimális szavatoló tőke szükségletére vonatkozó számítási szabályok a hatályon kívül kerülő, a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben szerepeltek. A jövőben ezen rendelkezések - a biztosítókra vonatkozó rendelkezdésekhez hasonlóan - kormányrendeletben kerülnek szabályozásra.
+
+A 48. §-hoz
+
+A foglalkoztatói nyugdíjszolgáltató intézmények minimális biztonsági tőke értéke a jövőben a minimális szavatoló tőke szükséglet egyharmada, de legalább 3 millió euró.
+
+A 49. §-hoz
+
+Az IORP irányelv módosult 9. cikk (1) bekezdés a) pontja értelmében a Felügyeletnek az EIOPA-t azon tagállamok megnevezéséről is tájékoztatnia kell, amelyek területén az intézmény határon átnyúló tevékenységet végez.
+
+A módosítás a Felügyelet és az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság együttműködése során történő adatszolgáltatás feltételeinek hazai jogba történő átültetését tartalmazza.
+
+Az 50. §-hoz
+
+Felhatalmazó rendelkezés.
+
+Az 51. §-hoz
+
+Jogharmonizációs klauzula.
+
+Az 52. §-hoz
+
+Az új Bit. hatálybalépése miatt szükséges módosítások.
+
+Az 53. §-hoz
+
+A pénzmosás elleni 3. irányelvvel (2005/60/EK parlamenti és tanácsi irányelv) összhangban a Pmt. az ügyvédekre és közjegyzőkre vonatkozóan eltérő rendelkezéseket állapít meg (36-38. §). A törvény egy külön szakaszban (36. §) írja elő, hogy az ügyvédek és a közjegyzők mely esetekben kötelesek eleget tenni ügyfél-átvilágítási és bejelentési kötelezettségeiknek, továbbá meghatározza azon eseteket, amelyek mentesítik az ügyvédeket, közjegyzőket ezen kötelezettségek alól. Ennek megfelelően a Pmt.-ben előírt ügyfél-átvilágítási és bejelentési kötelezettség a közjegyzőt nem terheli, amennyiben a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény vagy körülmény az eljárás megindításának a szükségességével összefüggésben végzett jogi tanácsadás során jutott a tudomására, illetve ha nemperes eljárást folytat le.
+
+A 650/2012/EU európai parlamenti és tanácsi rendelet 31. cikke szerinti megfeleltetési nemperes eljárásról, valamint egyes igazságügyi tárgyú törvénymódosításokról szóló 2015. évi LXXI. törvény 2015. július 1-jei hatálybalépésével a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjt.) 1. §-a kiegészült egy új, (5) bekezdéssel. Az új rendelkezés kimondja, hogy a Kjt.-ben szabályozott eljárások - a felek részére végzett közjegyzői tevékenységek, mint atipikus nemperes eljárások - polgári nemperes eljárások. A módosítás nyomán azonban a Pmt. 36. § (4) bekezdés b) pontjában foglalt mentesség a pénzmosás elleni küzdelem szempontjából releváns közjegyzői tevékenységekre (így például a közjegyzői okiratszerkesztésre, okirat vagy pénz bizalmi őrzésére) is kiterjed.
+
+A szövegpontosítás azt kívánja biztosítani, hogy ezek a közjegyzői tevékenységek továbbra is a Pmt. hatálya alatt maradjanak, és a felmentés kizárólag a Kjt.-ben szabályozott polgári nemperes eljárásokon kívüli nemperes eljárásokra (így például a hagyatéki eljárásra) terjedjen ki.
+
+Az 54. §-hoz
+
+A közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjt.) 1. §-ának 2015. július 1-jei módosítása indokolja, amelynek értelmében a Kjt.-ben szabályozott eljárások - a felek részére végzett közjegyzői tevékenységek (közjegyzői okiratszerkesztés, okirat vagy pénz bizalmi őrzése stb.) - polgári nemperes eljárások.
+
+Az 55. §-hoz
+
+Az összeférhetetlenségi szabályok üzletkötőkre történő kiterjesztése szükségszerű a piac prudens, és átlátható működésének biztosítását illetően. Az üzletkötő tevékenyégének jelentőségéből, a tőzsdei megbízások realizálásában betöltött szerepéből fakadóan, az eltérő piaci szereplők közötti érdek-összeütközési problémát okozna a gyakorlatban, ha az üzletkötő egyidejűleg munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban állhatna más befektetési vállalkozással, illetve árutőzsdei szolgáltatóval.
+
+Az 56. §-hoz
+
+A rendelkezés elavult hivatkozást módosít.
+
+Az 57. §-hoz
+
+Szükséges meghatározni a portfóliókezelést végző befektetési vállalkozás jelentéskészítési, és a befektetési szolgáltatási tevékenysége keretében az ügyfelek tulajdonában álló vagy az ügyfelet megillető pénzügyi eszközről és pénzeszközről történő jelentéskészítési kötelezettségének határidejét. A havonta elkészítendő jelentés ügyfelek rendelkezésére bocsátási határidejét annak érdekében szükséges meghatározni, hogy az MNB honlapján történő lekérdezés időpontjában minden jelentéskészítéssel érintett ügyfél rendelkezésére álljon a befektetési vállalkozástól kapott jelentés.
+
+Az 58. §-hoz
+
+A Bszt. 114. § (4) bekezdés e) pontjában előírtak alapján szükségtelenné vált a közvetítői szerződés megkötésének megbízói bejelentése, ezért indokolt törölni, viszont célszerű és szükséges a befektetési vállalkozások közötti közvetítői kapcsolat bejelentésének kötelezettségét kiegészíteni a közvetítői szerződés Felügyelet részére történő beküldésének előírásával.
+
+Az 59. §-hoz
+
+A rendelkezés értelmében a Felügyelet nemzetközi együttműködésből fakadó adatszolgáltatási kötelezettségei során teljesítendő adattovábbítás nem jelenti az üzleti titok sérelmét.
+
+A 60. §-hoz
+
+A törvény a 2013/36/EU irányelvnek és az 575/2013/EU rendeletnek való pontosabb megfelelést szolgálja. A közzétételi kötelezettséggel kapcsolatos szabályok az egyértelmű jogalkalmazást hivatottak szolgálni.
+
+A 61. §-hoz
+
+A Bszt. 113. §-át érintő módosításokkal összefüggésben szükséges a Felügyelet nyilvántartási előírásait pontosítani és a közvetítésre megbízott befektetési vállalkozások nyilvántartásban történő rögzítésének jogszabályi alapját meghatározni.
+
+A 62. §-hoz
+
+A Felügyelet nyilvántartási szabályai kiegészülnek a hatósági képzéssel és vizsgával kapcsolatos szabályokkal.
+
+A 63. §-hoz
+
+A hitelintézetek és a befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról szóló 2014/59/EU irányelv 29. cikk (5) bekezdésének történő megfelelés érdekében korlátozó rendelkezést állapít meg a tekintetben, hogy a kirendelt felügyeleti biztos kizárólag a Felügyelet egyetértésével hívhatja össze a befektetési vállalkozás közgyűlését.
+
+A 64. §-hoz
+
+Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel bevezetett kamarai tag könyvvizsgálókat, könyvvizsgáló cégeket érintő befektetési vállalkozási minősítésre vonatkozóan állapít meg átmeneti rendelkezést.
+
+A törvény alapján a 2015. július 7-től hatályos módosítást nem kell alkalmazni a módosítás hatálybalépésének napját, vagyis 2015. július 7-ét magában foglaló üzleti év éves beszámolójára, összevont (konszolidált) éves beszámolójára vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói feladatok teljesítéséig, de legkésőbb 2016. december 31-ig.
+
+A közvetítők szabályozása oly módon szigorodik, hogy a közvetítői megbízási szerződés benyújtása regisztrációs feltétellé válik, így megszűnik az a helyzet, hogy megbízó nélküli ügynökök szerepelhessenek a nyilvántartásban. A megbízás megszűnése (a megbízó bejelentése alapján) a közvetítő hivatalbóli törlését eredményezi. Annak érdekében, hogy a Módtv. hatálybalépésekor a Felügyelet nyilvántartásában szereplő, megbízó nélküli közvetítők helyzete rendezésre kerüljön, szükséges átmeneti szabály megalkotása, amely státuszukat megfelelően rendezi.
+
+A 65. §-hoz
+
+Szövegcserés módosítások.
+
+A 66. §-hoz
+
+A törvény célja, hogy az egyetemes szolgáltatók változása esetén a szolgáltatást igénybe vevőknek ne kelljen új csoportos beszedési megbízásra felhatalmazást adni, a korábban adott felhatalmazások - a kedvezményezett változásától függetlenül - továbbra is érvényben maradjanak.
+
+A 67-69. §-hoz
+
+A közvetlenül hatályosuló, a kártyaalapú fizetési műveletek bankközi jutalékáról szóló (EU) 2015/751 rendelet miatt szükséges kiegészíteni a pénzforgalmi szolgáltatás nyújtásáról szóló törvényt, valamint hatályon kívül helyezni a bankközi jutalékra vonatkozó szabályokat.
+
+Ezen felül a törvény belső hivatkozáson is pontosít.
+
+A 70. §-hoz
+
+A törvény módosítja azoknak a rendelkezéseknek a felsorolását, amelyeket jelzáloghitelre és a pénzügyi lízingre nem kell alkalmazni.
+
+Meghatározásra kerülnek továbbá azok a rendelkezések, amelyeket a kézizálog fedezete mellett nyújtott hitelre nem kell alkalmazni.
+
+A 71. §-hoz
+
+Az Fhtv. nem határozza meg a kapcsolódó szolgáltatás, a közvetítői alvállalkozó, a foglalkoztatott, a hitelképesség vizsgálat, a hiteltanácsadás és az EGT-állam fogalmát, ezért azok a jelzáloghitel irányelv rendelkezéseinek megfelelően kerülnek meghatározásra. A rendelkezés pontosítja a teljes hiteldíj mutató fogalmát.
+
+A 72. §-hoz
+
+A jelzáloghitel irányelv szerint a reklámok és marketingközlemények a hitel költsége és elérhetősége tekintetében nem kelthetnek téves várakozásokat a fogyasztóban. A módosítás előírja ennek érdekében, hogy a teljes hiteldíj mutatót minden esetben fel kell tüntetni a jelzáloghitelre vonatkozó kereskedelmi kommunikációban akkor is, ha az nem tartalmaz más, a hitellel kapcsolatos ellenszolgáltatásra történő hivatkozást vagy utalást. Ha a kereskedelmi kommunikációban a teljes hiteldíj mutató mellett a kamat vagy más költség is feltüntetésre kerül, további információkat is meg kell adni a jelzáloghitel irányelvben előírtakkal összhangban. A jelzáloghitel sajátosságaira tekintettel az ingatlanfedezetre bejegyzett jelzálogjogra és deviza alapú hitel esetén az árfolyamkockázatra is fel kell hívni a figyelmet.
+
+A 73. §-hoz
+
+Az Fhtv. előírja, hogy a hitelszerződés megkötése előtt a fogyasztó részére megfelelő magyarázatot kell nyújtani annak érdekében, hogy felmérhesse a hitelfelvétel következményeit. A módosítás kiegészíti a felvilágosítás tartalmi elemeit meghatározó rendelkezést. Amennyiben kapcsolódó szolgáltatás nyújtására is sor kerül, akkor a felvilágosításnak a kapcsolódó szolgáltatásra is ki kell terjednie, továbbá az erre vonatkozó szerződés felmondásának körülményeire.
+
+A 74. §-hoz
+
+A fogyasztóval történő kommunikáció megkönnyítése érdekében a törvény lehetővé teszi, hogy az előzetes tájékoztatást a hitelező és a hitelközvetítő elektronikus úton teljesítse.
+
+A 75. §-hoz
+
+A hatályos Fhtv. előírása szerint jelzáloghitelek esetén a szerződéskötést megelőzően általános tájékoztatást és személyre szóló tájékoztatást is nyújtani kell a fogyasztó részére. A személyre szóló tájékoztatást már a fogyasztó által igényeiről és pénzügyi helyzetéről megadott információk alapján kell elkészíteni annak érdekében, hogy a különböző ajánlatokat össze tudja hasonlítani, valamint fel tudja mérni a jelzáloghitel felvételének következményeit. A jelzáloghitel irányelv a hatályos szabályozásnál részletesebben határozza meg a tájékoztatók tartalmi elemeit. Tekintettel a kötött táblázatos formára és a részletes, kitöltési útmutatóval is kiegészített előírásokra, célszerű a tájékoztatók tartalmi elemeire vonatkozó szabályozást a törvény helyett miniszteri rendeletben megjeleníteni.
+
+Annak érdekében, hogy a fogyasztó mérlegelni tudja a hitelfelvétel következményeit a módosítás előírja, hogy a szerződés tervezetét legalább három nappal a szerződéskötést megelőzően a fogyasztó rendelkezésére kell bocsátani. A fogyasztó a három nap letelte előtt nem fogadhatja el az ajánlatot.
+
+A rendelkezés a jelzáloghitel irányelv rendelkezéseivel összhangban kiegészíti a hitelképesség vizsgálatára vonatkozó szabályokat.
+
+A 76. §-hoz
+
+A jelzáloghitel irányelv főszabályként tiltja az árukapcsolást, amikor a fogyasztó a hitelt külön nem veheti igénybe, csak más szolgáltatással együtt. Nem korlátozza ugyanakkor a fogyasztó számára előnyös csomagban történő értékesítést, amikor a csomag elemei külön-külön is igénybe vehetők, de nem feltétlenül ugyanazokkal a feltételekkel. A jelzáloghitelek esetén egyes esetekben ugyanakkor az árukapcsolás is indokolt lehet. A módosítás szerint a hitelező előírhatja, hogy a fogyasztó rendelkezzen olyan fizetési számlával, amely a törlesztést szolgálja. Amennyiben a fogyasztó a jelzáloghitelhez kapcsolódó fizetési számlát kizárólag a törlesztéshez szükséges pénzeszközök elhelyezésére használja és más fizetési műveletre nem, akkor a hitelezőnek ezt a számlát díj- és költségmentesen kell biztosítania annak érdekében, hogy a hitelfelvevőnek e számla fenntartása ne jelentsen többletköltséget. A törvény lehetővé teszi továbbá, hogy a hitelező előírja a hitelhez kapcsolódó életbiztosítás vagy az ingatlanfedezetre vonatkozó vagyonbiztosítás rendelkezésre állását.
+
+A 77. §-hoz
+
+A hitel fedezetéül szolgáló ingatlan megfelelő értékelésének biztosítása érdekében a törvény minden jelzáloghitelt nyújtó hitelezőre előírja az ingatlanok hitelbiztosítéki értéke megállapításának módszertani elveit meghatározó külön jogszabály alkalmazását. A külön jogszabálynak megfelelő értékelés eddig csak a jelzálog-hitelintézetek részére volt kötelező. Az értékbecslők megfelelő képzettsége érdekében a törvény szakképesítésre vonatkozó követelményt ír elő.
+
+A 78. §-hoz
+
+A rendelkezés kiegészíti a hitelszerződés tartalmára vonatkozó szabályokat idegen pénznemben fennálló tartozás esetén.
+
+A 79-80. §-hoz
+
+A rendelkezés a jelzáloghitel irányelv előírásaival összhangban kiegészíti a hitelkamatláb változásával kapcsolatos tájékoztatásra vonatkozó szabályokat.
+
+A 81. §-hoz
+
+A hitel fedezetéül szolgáló ingatlan elvesztésének megelőzése, a végrehajtási eljárás elkerülése érdekében a hitelezőnek intézkedéseket kell tennie a késedelmes tartozással rendelkező hiteladós megkeresése és a tartozás rendezését szolgáló megoldási lehetőségek kialakítása érdekében.
+
+A 82. §-hoz
+
+A rendelkezés kiegészíti az Fhtv. devizahitelekre vonatkozó rendelkezéseit az árfolyamkockázatot csökkentő eljárások biztosítása, továbbá az árfolyamkockázatról történő megfelelő tájékoztatás céljából. Eszerint a hitelezőnek biztosítania kell, hogy meghatározott feltételek mellett a fogyasztó átválthassa hitelét egy másik devizanemre vagy rendelkezésére álljanak árfolyamkockázatot csökkentő eljárások. Az árfolyam jelentős változása esetére a törvény külön tájékoztatási kötelezettséget ír elő a hitelező részére.
+
+A 83. §-hoz
+
+Szövegpontosító rendelkezést tartalmaz.
+
+A 84. §-hoz
+
+A hatályos rendelkezések minden fogyasztó részére biztosítják, hogy a hitelt akár részlegesen, akár teljesen előtörleszthesse. A törvény szerint a hitelező jogosult az előtörlesztéshez közvetlenül kapcsolódó költségeinek megtérítésére. Tekintettel arra, hogy nincs érdemi különbség a lakáshitelek és a szabad felhasználású jelzáloghitelek előtörlesztési költségei között, a törvény megszünteti a hitelcél szerinti különbségtételt és egységes felső határokat állapít meg jelzáloghitelek előtörlesztésének esetére. Annak érdekében, hogy a fogyasztó megismerje az előtörlesztés következményeit, a módosítás előírja, hogy a hitelezőnek tájékoztatást kell nyújtania erről. Ebben az esetben a hitelező a tartozásnak az előtörlesztés várható időpontjában fennálló összegére tekintettel határozza meg a fogyasztó által várhatóan fizetendő költség összegét.
+
+A 85-86. §-hoz
+
+Felhatalmazó rendelkezéseket tartalmaz a szükséges végrehajtási rendeletek megalkotására.
+
+A 87. §-hoz
+
+A módosítás kiegészíti az Fhtv. átmeneti rendelkezéseit az új szabályokra tekintettel.
+
+A 88. §-hoz
+
+Az Fhtv. jogharmonizációs záradékának módosítása.
+
+A 89. §-hoz
+
+Szövegcserés módosítások.
+
+A 90. §-hoz
+
+A szükséges hatályon kívül helyező rendelkezést tartalmazza.
+
+A 91. §-hoz
+
+A forintérmékről készült utánzatok, valamint az utánzatnak nem minősülő emlékérmek forgalmazása során az MNB pénzkibocsátási jogkörét sértő tevékenységet végzőkkel, illetve a fogyasztók megtévesztésére alkalmas gyakorlatot folytatókkal szembeni eljárásban az MNB szakhatóságként eljárva vesz részt a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt eljárni jogosult hatóság ellenőrzési és intézkedési jogkörének gyakorlása során.
+
+A 92. §-hoz
+
+A törvény a kártyaalapú fizetési műveletek bankközi jutalékairól szóló, 2015. április 29-i (EU) 2015/751 parlamenti és tanácsi rendelet végrehajtásával kapcsolatos módosítást tartalmaz.
+
+A 93. §-hoz
+
+A módosítás a jelzáloghitelekre vonatkozó 2014/17/EU irányelv átültetésére tekintettel kiegészíti az MNBtv. 41. §-át, amely rendelkezik arról, hogy a pénzügyi szektorra vonatkozó, az európai közösségi jogon alapuló fogyasztóvédelmi szabályok - határon átnyúló - megsértése miatti eljárásokban az MNB rendelkezik hatáskörrel.
+
+A 94. §-hoz
+
+A törvény célja az MNB egyes eljárásaiban megismert adat más eljárásban történő felhasználásának a biztosítása. Az MNB csak a felügyeleti feladataival összefüggésben kezelhet már megszerzett adatot más eljárásában, továbbá egyértelművé teszi, hogy az adatkezelésre csak eljárás lefolytatása, a tényállás tisztázása céljából van lehetőség. Tekintve, hogy e körben személyes adatok kezelése is történhet, így indokolt az ezzel kapcsolatos - Infotv. szerinti - garanciák rögzítése is. Az adatkezelés időbeli korlátait az MNBtv. és a Ket. szabályozza megfelelő garanciákkal.
+
+A 95. §-hoz
+
+A törvény célja az általános ügyintézési határidővel kapcsolatos jogszabályi rendelkezés megfelelő szerkezeti egységben történő rögzítése.
+
+A 96. §-hoz
+
+A rendelkezés lehetőséget biztosít a Kbftv.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzétételének elhalasztására a 2014/91/EU irányelv szankciós rendelkezéseinek megfelelően.
+
+A vonatkozó irányelvek alapján kizárólag a Kbftv. alapján az ÁÉKBV-alapkezelőkre vagy ÁÉKBV letétkezelőkre vonatkozó egyes intézkedések határozatának nyilvánosságra hozatalától lehet eltekinteni, ha a közzététel a pénzügyi közvetítőrendszer stabil, zavartalan működését veszélyeztetné.
+
+A 97. §-hoz
+
+A törvény célja, hogy a piacfelügyeleti eljárásban nemzetközi jogsegély útján beszerzett adatokat az MNB átadhassa a nyomozó hatóságnak.
+
+A 98. §-hoz
+
+Pontosító jellegű módosítás, a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendelet szerinti eljárások tekintetében is indokolt a hiánypótlási határidő alkalmazása, tekintettel az eljárások összetettségére.
+
+A 99. §-hoz
+
+A módosítás a jogbiztonság érdekében pontosan meghatározza az objektív módon számítandó öt éves határidő számításának kezdő napját és a megismételt eljárások esetén az intézkedés kiszabására nyitva álló időtartamot.
+
+A 100-101. §-hoz
+
+A törvény az ágazati jogszabályokkal történő összhang megteremtésére szolgál, ugyanis egyes ágazati törvények lehetővé teszik az alkalmazottal szemben történő bírság kiszabását is.
+
+A törvény a 2014/91/EU irányelv által bevezetett, az ÁÉKBV-alapkezelőkre és az ÁÉKBV letétkezelőire, valamint azok vezető állású személyeire és munkavállalóira alkalmazható bírság összegszerű meghatározását ülteti át. A bírság maximumának meghatározása szerint az ÁÉKBV-alapkezelők és az ÁÉKBV letétkezelői, valamint vezető állású személyeik és munkavállalóik esetében kiszabható legfeljebb 5 000 000 euró összeget az irányelv hatálybalépésének napján, vagyis 2014. szeptember 17-én érvényes hivatalos árfolyamon, azaz 313,96 Ft-on kell átváltani.
+
+A 102. §-hoz
+
+A törvény célja a vizsgálati jelentés adattartalmának a kiegészítése.
+
+A 103. §-hoz
+
+A módosítás indoka, hogy az MNB az ügyfél rendelkezési joga alá eső valamennyi számla forgalmát megismerhesse, ugyanis a piacfelügyeleti eljárások tapasztalata alapján a jogosulatlan tevékenységet folytató ügyfél jellemzően más nevén vezetett számlák felett is rendelkezési joggal, meghatalmazással bír. Ebben az esetben a további számlák forgalmának megismerése a tényállás felderítéséhez elengedhetetlenül szükséges, ugyanakkor ezen további, az ügyfél rendelkezési joga alatt álló, azonban más személy nevén vezetett számlák tulajdonosainak ügyfél minőségben történő bevonása az eljárásba nem indokolt.
+
+Az MNBtv. korábbi szövege alapján az MNB csupán „az eljárása alá vont ügyfélre vonatkozó” telefonszámokkal kapcsolatos adatokat ismerheti meg, ami azt eredményezi, hogy egy harmadik személy tulajdonában lévő (de az ügyfél által használt) telefonra vonatkozó információk beszerzéséhez a harmadik személy ügyfélként történő bevonása válik szükségessé. A módosítás egyértelművé teszi: az MNB mind az ügyfél tulajdonában, mind a használatában álló telefonszámokkal kapcsolatos adatok megismerésére jogosult.
+
+A törvény célja annak az egyértelműsítése, hogy az MNB csak a piacfelügyeleti eljárás céljából kezelheti a §-ban meghatározott adatokat, de ehhez szükséges az ügyész előzetes jóváhagyása. Rögzíti továbbá az adatok kezelésének objektív határidejét.
+
+A 104. §-hoz
+
+A PBT alapvető célja, hogy egyezséggel záruljon a pénzügyi fogyasztói jogvita. Az általános eljárásban a meghallgatás tartása csak a felek kifejezett kérelme esetén mellőzhető, azonban gyakorlati tapasztalat azt mutatja, hogy a kérelmezők nem minden esetben jönnek el a meghallgatásra, a pénzügyi szolgáltató képviselője pedig a meghallgatáson az eljáró tanács közreműködésének eredményeként egyezségi ajánlatot tesz a kérelmezőnek.
+
+A 105. §-hoz
+
+A törvény célja, hogy lehetővé tegye az MNB számára a közérdekű keresetindítás lehetőségét.
+
+A 106-107. §-hoz
+
+Jogharmonizációs záradék kiegészítése.
+
+A 108. §-hoz
+
+Pontosító rendelkezéseket tartalmaz.
+
+A 109. §-hoz
+
+Hatályon kívül helyező rendelkezéseket tartalmaz.
+
+A 110. §-hoz
+
+Szövegpontosító módosítás.
+
+A 111. §-hoz
+
+Tekintve, hogy a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény főtevékenysége adott esetben nem szabályozott, felügyelt tevékenység is lehet, példaként lehetséges olyan változás, amely lényeges kihatással van az általa végzett pénzforgalmi szolgáltatásra, elektronikuspénz-kibocsátási tevékenységre, miközben a változás a Felügyelet részéről nem engedélyköteles.
+
+A 112. §-hoz
+
+Új kiegészítő pénzügyi szolgáltatásként nevesíti a hitel-tanácsadási tevékenységet, amely jelzáloghitelhez vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízinghez kapcsolódó személyre szabott ajánlások nyújtása.
+
+A 113. §-hoz
+
+A jelzáloghitel irányelv átültetéséhez kapcsolódó fogalmakat határoz meg, valamint módosít.
+
+A 114. §-hoz
+
+Bővíti a pénzügyi intézmények által végezhető kiegészítő pénzügyi szolgáltatást a hiteltanácsadással.
+
+A 115. §-hoz
+
+Bővíti a harmadik országbeli hitelintézet fióktelepe által végezhető tevékenységi kört a hiteltanácsadással.
+
+A 116. §-hoz
+
+A törvény a külföldi pénzügyi vállalkozások fióktelepeinek tevékenységi körét is bővíti a hiteltanácsadással.
+
+A 117. §-hoz
+
+A jelzáloghitel irányelv átültetéséhez kapcsolódóan szükséges a közvetítői alvállalkozó definícióját a fogalmak között elhelyezni, amelynek következtében az érintett rendelkezést is pontosítani kell. E mellett a továbbiakban nincs arra lehetőség, hogy a jelzáloghitel közvetítői tevékenységet a Felügyelet engedélye nélkül végezzenek.
+
+A 118. §-hoz
+
+A magyarországi székhelyű közvetítőkre is előírásra kerül a magyarországi főiroda megléte.
+
+A 119. §-hoz
+
+A továbbiakban a függő ügynökként eljáró jelzáloghitel közvetítői tevékenység is felügyeleti engedélyhez kötött. Ennek megfelelően szükséges a vonatkozó rendelkezés kiegészítése.
+
+A 120. §-hoz
+
+A közvetítők tevékenységi engedélyének visszavonására állapít meg általános szabályokat.
+
+A 121-123. §-hoz
+
+A jelzáloghitel irányelv egységes útlevelet biztosít az EGT-államokban engedélyezett jelzáloghitel közvetítői tevékenységet végzőknek. Ennek részeként szükséges rendezni a határon átnyúló szolgáltatáshoz, illetve fióktelep létesítéséhez kapcsolódó szabályrendszert.
+
+A 124. §-hoz
+
+A törvény rögzíti, hogy hitel-tanácsadási tevékenységért ellenértékre a független közvetítő kizárólag akkor jogosult, ha az általa ajánlott hitel után az érintett pénzügyi intézménytől nem kap közvetítői díjat.
+
+Ügyfélvédelmi szempontból indokolt a közvetítői díj korlátozása jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing esetén.
+
+A 125. §-hoz
+
+A független közvetítők tájékoztatására vonatkozó szabályokat a jelzáloghitel irányelvre építve állapítja meg.
+
+A 126. §-hoz
+
+A törvény rögzíti, hogy hitel-tanácsadási tevékenységért ellenértékre a függő közvetítő kizárólag akkor jogosult, ha az általa ajánlott hitel után az érintett pénzügyi intézménytől nem kap közvetítői díjat. Ezen felül a jelenleginél részletesebben határozza meg a függő közvetítők tájékoztatási szabályait.
+
+A 127. §-hoz
+
+A közvetítői alvállalkozók tájékoztatási kötelezettségére állapít meg szabályt.
+
+A 128. §-hoz
+
+Meghatározza azoknak a szolgáltatóknak a körét, amelyek engedélyt kaphatnak a hitel-tanácsadási tevékenység végzésére.
+
+A 129. §-hoz
+
+A termőföld hitelbiztosítéki értékére vonatkozó külön jogszabály hatályát a jelzálogbankon kívüli hitelintézetekre is kiterjeszti.
+
+A 130. §-hoz
+
+Szövegpontosítás.
+
+A 131. §-hoz
+
+Szövegpontosítás, miután nincs szükség a közvetlenül hatályosuló uniós rendelet tartalmára hivatkozni.
+
+A 132. §-hoz
+
+A Felügyeletnek a Magyar Nemzeti Bankról szóló törvény alapján a felügyeleti stressz-teszteken túli körben is adatszolgáltatási kötelezettsége lehet az európai felügyeleti hatóságoknak, melyek üzleti titkot is érinthetnek.
+
+A 133. §-hoz
+
+Pontosítja a hagyatéki eljárás jogerős lezárásáig a közeli hozzátartozók részére kiadható adatok körét.
+
+Ezen felül a Hpt. 159. § (7) bekezdésének módosításával összhangban történő kiegészítést tartalmaz.
+
+A 134. §-hoz
+
+A felügyeleti tevékenység megerősítése érdekében szükséges a pénzpiaci független közvetítők rendszeres adatszolgáltatásának előírása.
+
+A 135. §-hoz
+
+A hitelintézetek és a befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról szóló 2014/59/EU irányelv 29. cikk (5) bekezdésének történő megfelelés érdekében korlátozó rendelkezést állapít meg a tekintetben, hogy a kirendelt felügyeleti biztos kizárólag a Felügyelet egyetértésével hívhatja össze a hitelintézet közgyűlését.
+
+A 136. §-hoz
+
+A jelzáloghitel közvetítői tevékenységet végző közvetítők fióktelepeinek, határon átnyúló szolgáltatásainak felügyelésével kapcsolatban állapít meg rendelkezéseket.
+
+A 137-138. §-hoz
+
+Pontosítja, valamint kiegészíti a Felügyelet által kezelhető adatkört.
+
+A 139. §-hoz
+
+A személyes adatok kezelésére nyitva álló határidőt állapít meg.
+
+A 140. §-hoz
+
+A betétbiztosítási rendszerekről szóló 2014/49/EU irányelv szabályozásának megfelelően a kártalanítás teljesítésére vonatkozó kifizetési határidő a Hpt. hatályos rendelkezései szerint fokozatosan fog csökkenni a jelenlegi 20 munkanapról 7 munkanapra. A 2023-ig tartó átmeneti időszakban, illetve később, amennyiben a 7 munkanap nem tartható, az OBA-nak a betétes részére a megélhetési költségei fedezésére részkifizetést kell biztosítania az irányelvnek megfelelően. A részkifizetés kizárólag a betétes kérésére történhet, a kéréstől számított 5 munkanapon belül. A rendelkezés meghatározza a sürgős kifizetés maximális összegét, amit a teljes kártalanításnál figyelembe kell venni.
+
+A 141. §-hoz
+
+Az OBA képviseletére vonatkozó rendelkezést állapít meg.
+
+A 142. §-hoz
+
+A jogrendszer egysége okán a törvény 185. § (3) bekezdése szerinti szabályokat szükséges az OBA státuszára, munkaszervezetére vonatkozó rendelkezések között is megjeleníteni.
+
+A 143-144. §-hoz
+
+A betétbiztosítási rendszerekről szóló 2014/49/EU irányelv szerint a hitelintézetek díjfizetési kötelezettségét a kártalanítási kötelezettség alá tartozó betéteinek összege és az általa viselt kockázat alapján kell meghatározni. Az irányelv átültetését szolgáló módosítás szerint az OBA részére fizetendő éves díj két részből áll: alapdíjból és kockázat alapú változó díjból. A rendelkezés meghatározza a kockázat alapú változó díj megállapításakor figyelembe vehető szempontokat. A kockázat alapú díj megállapításának részletes szabályait az MNB elnöke rendeletben határozza meg.
+
+A 145. §-hoz
+
+Egyes kifejezések kereskedelmi kommunikációban történő használatát tilalmazza.
+
+A 146. §-hoz
+
+A pénzforgalmi szabályozás nem követel írásbeliséget az egyszeri fizetési műveleteknél. Ezen felül indokolt láttatni az elektronikuspénz-kibocsátási tevékenységre vonatkozó korlátozó szabályokat is.
+
+A 147. §-hoz
+
+Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény - a vonatkozó irányelvvel összhangban - nem írja elő az ügyféllel kötött szerződés írásbeli formáját.
+
+A 148. §-hoz
+
+Felhatalmazó rendelkezések.
+
+A 149. §-hoz
+
+A rendelkezés az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel bevezetett kamarai tag könyvvizsgálókat, könyvvizsgáló cégeket érintő befektetési vállalkozási minősítésre vonatkozóan állapít meg átmeneti rendelkezést. A törvény alapján a 2015. július 7-től hatályos módosítást nem kell alkalmazni a módosítás hatálybalépésének napját, vagyis 2015. július 7-ét magában foglaló üzleti év éves beszámolójára, összevont (konszolidált) éves beszámolójára vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói feladatok teljesítéséig, de legkésőbb 2016. december 31-ig.
+
+A 150. §-hoz
+
+Átmeneti rendelkezést állapít meg a jelzáloghitel irányelvhez történő megfelelő felkészülés biztosítása érdekében.
+
+A 151. §-hoz
+
+A mellékletbe a jogharmonizációs záradék beillesztése történik.
+
+A 152. §-hoz
+
+Szövegpontosítás.
+
+A 153. §-hoz
+
+Hatályon kívül helyezést állapít meg a jelzáloghitel irányelv átültetésével összefüggésben.
+
+A 154. §-hoz
+
+Az ÁÉKBV letétkezelőjére vonatkozó meghatározás kiegészítése az ÁÉKBV-irányelvvel való összhang megteremtését célozza.
+
+A 155. §-hoz
+
+A 2014/91/EU irányelvnek megfelelően az ÁÉKBV-alapkezelőre is kiterjesztésre kerül az ABA-alapkezelőre már korábban előírt javadalmazási politika és gyakorlat meghatározásának követelménye.
+
+A 156. §-hoz
+
+A Kbftv. ÁÉKBV letétkezelőjére vonatkozó szabályozási keretét módosítja. A rendelkezések egyrészt a hatályos szabályok változatlan továbbvitelét jelentik, másrészt a 2014/91/EU irányelv implementálása révén az eddigiekhez képest többletkövetelmények is megjelennek. E többletkövetelményekhez tartozik a letétkezelő pénzmozgásainak megfelelő nyomon követése és az ÁÉKBV eszközeinek újrafelhasználást érintő előírások megjelenése.
+
+A 157. §-hoz
+
+A rendelkezés elsősorban az ÁÉKBV letétkezelőjének felelősségére, valamint a feladatainak kiszervezésére vonatkozóan határoz meg új szabályokat, részben az ABA letétkezelőire már korábban előírt többletkövetelmények meghatározása révén.
+
+A 158. §-hoz
+
+A rendelkezések a 2014/91/EU irányelvvel összhangban pontosítják, illetve kiegészítik a kiemelt befektetői információban közzéteendő információk körét.
+
+A 159. §-hoz
+
+A 2014/91/EU irányelv által bevezetett, az ÁÉKBV-alapkezelőkre és az ÁÉKBV letétkezelőjére alkalmazható új szankciók átültetését valósítja meg. Emellett a potenciális és tényleges jogsértések bejelentését ösztönző mechanizmus szabályozási kereteit tartalmazza. Az új szankciók és a jelentéstételi rendszer együttesen komoly visszatartó hatást kíván elérni.
+
+A 160. §-hoz
+
+A határozatok nyilvánosságra hozatala ágazati szabályozások tekintetében egységesen szabályozásra kerül, ami által a határozatok minden érdeklődő döntéshozó számára transzparensen megismerhetővé válnak.
+
+A 161. §-hoz
+
+Átmeneti rendelkezés.
+
+A 162. §-hoz
+
+A 2014/91/EU irányelv átültetése nyomán szükséges a Kbftv. jogharmonizációs záradékának módosítása.
+
+A 163. §-hoz
+
+Szövegpontosítás.
+
+A 164. §-hoz
+
+A kezelési szabályzat tartalmát meghatározó melléklet a 2014/91/EU irányelvvel összhangban szélesíti az ÁÉKBV letétkezelőjére vonatkozó közzéteendő információk körét.
+
+A tájékoztató tartalmát meghatározó melléklet a 2014/91/EU irányelvvel összhangban kiegészítésre kerül az ÁÉKBV-alapkezelő javadalmazási politikájának bemutatásával.
+
+Az első rész pontosító jellegű: mivel a Kbftv. 132. § (2) bekezdése alapján a féléves jelentésre csak a 6. melléklet I-IV. pontjai vonatkoznak, így a kiegészítés egyértelművé teszi, hogy az V. ponttól kezdődő előírások az éves jelentésre vonatkoznak. Másrészt az éves jelentés a 2014/91/EU irányelvvel összhangban kiegészítésre kerül az ÁÉKBV-alapkezelő javadalmazási politikájának bemutatásával.
+
+A 2014/91/EU irányelvnek megfelelően az ÁÉKBV-alapkezelőre is kiterjesztésre kerülnek az ABAK-ra már korábban előírt javadalmazási politika meghatározásakor és alkalmazásakor követendő elvek.
+
+A 165. §-hoz
+
+Szövegpontosítás.
+
+A 166. §-hoz
+
+Az Európai Bankhatóság által kiadott iránymutatás alapján az átváltási ráta a hitelezői források elsődleges alapvető tőkeelemmé váltására és a tőkeelemek szanálási eszköz alkalmazása előtti átváltására egyaránt vonatkozik.
+
+A 167. §-hoz
+
+A törvény rögzíti, hogy a szanálási feladatkörében eljáró MNB az eset természetére és körülményeire tekintettel mérlegeli, hogy milyen súllyal szükséges az egyes szanálási célok érvényre juttatása.
+
+A 168. §-hoz
+
+Az engedélyezési eljárás lezárásáról nemcsak az átvevőt, hanem a szanálási feladatkörében eljáró MNB-t is szükséges értesíteni. Ezen felül szükséges egyértelműsíteni, hogy a vagyonértékesítési eszköz alkalmazásakor az engedély nélküli befolyásoló részesedés megszerzésére vonatkozó követelmények szankcionálása csak korlátozott lehet, ha az abból ered, hogy a Felügyelet a szanálási feladatkörében eljáró MNB átruházásról szóló döntéséig nem hozza meg a szükséges engedélyt.
+
+A 169. §-hoz
+
+Garanciális jelleggel szükséges korlátozni a szanálási feladatkörében eljáró MNB által az engedélyezéshez adható határidőt.
+
+A 170. §-hoz
+
+Egyértelműsíti a bekezdés két pontjának egymáshoz való viszonyát, vagylagossá téve azt.
+
+A 171. §-hoz
+
+Garanciális jelleggel szükséges korlátozni a szanálási feladatkörében eljáró MNB által az engedélyezéshez adható határidőt.
+
+A 172. §-hoz
+
+Egyértelműsíti, hogy a szanálási vagyonkezelő által fizetett ellenérték adott esetben névleges vagy negatív is lehet.
+
+A 173. §-hoz
+
+Szövegpontosítás.
+
+A 174. §-hoz
+
+Az egyértelmű jogalkalmazást elősegítő szövegpontosító módosítás.
+
+A 175. §-hoz
+
+A reorganizációs terv készítése kizárólag a Szantv. 57. § (1) bekezdés a) pontja szerinti hitelezői feltőkésítés alkalmazása esetén szükséges, ugyanis annak rendeltetése az intézmény hosszú távú életképességének biztosítása.
+
+A 176. §-hoz
+
+Az egyértelmű jogalkalmazást elősegítő szövegpontosítás.
+
+A 177. §-hoz
+
+A pénzügyi instrumentumok tehermentes átruházására a szanálási feladatkörében eljáró MNB jogosult. E mellett a hatályos törvénnyel szemben nem a szanálási feladatkörében eljáró MNB jogosult a szabályozott piacról történő kivezetésre, hanem az illetékességgel rendelkező szervezet vagy hatóság.
+
+A 178. §-hoz
+
+Egyfelől egyértelműsíti, hogy a szolgáltatások nyújtását, létesítmények használatát az átvevő részére kell biztosítani, másfelől tisztázza ennek megsértéséhez kapcsolódó szankcionálás lehetőségét.
+
+A 179. §-hoz
+
+A szanálás céljainak megvalósítása, valamint a Szantv. rendelkezéseinek érvényre juttatása érdekében szükséges rögzíteni, hogy a szanálási intézkedés nem jogosítja fel a szanálás alatt álló intézmény szerződéses partnereit a pénzügyi szektorban tipikus szerződési kikötések alapján nemteljesítéskor irányadó jogkövetkezmények alkalmazására.
+
+A 180. §-hoz
+
+A szanálásra vonatkozó alapelvi követelmény, hogy egyetlen tulajdonos vagy hitelező sem viselhet annál nagyobb - a szanálási intézkedések alkalmazásával közvetlenül összefüggő - veszteséget, mint amelyet akkor viselt volna, ha az intézményt felszámolják.
+
+A 181. §-hoz
+
+Szövegpontosítás.
+
+A 182. §-hoz
+
+Szükséges egyértelműen elhatárolni a szanálási feladatkörében eljáró MNB hatáskörét a Felügyelettől.
+
+A 183. §-hoz
+
+A felsorolást szükséges kiegészíteni az Európai Bizottsággal.
+
+A 184. §-hoz
+
+A hitelintézetek és a befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról szóló 2014/59/EU irányelv 101. cikk (2) bekezdésének történő megfelelés érdekében szükséges annak rögzítése, hogyha a Szanálási Alap forrásainak felhasználása közvetve az eredményezi, hogy a szanálás alatt álló intézmény veszteségeinek egy része a Szanálási alapra hárul, akkor a Szanálási alap forrásainak felhasználására a hitelezői feltőkésítés keretében meghatározott elvek az irányadóak.
+
+A 185. §-hoz
+
+Az Európai Bizottság által időközben elfogadott (EU) 2015/63 rendelet szerint az intézmények kockázati profiljához igazított díjfizetésének meghatározására a szanálási hatóság jogosult.
+
+Tekintve, hogy a Szanálási Alappal kapcsolatos operatív feladatokat az Országos Betétbiztosítási Alap munkavállalói végzik, a törvény lehetővé teszi, hogy a feladatok ellátására a Szanálási Alap megbízási szerződést köthessen az Országos Betétbiztosítási Alap munkavállalóival.
+
+A 186-187. §-hoz
+
+Az Európai Bizottság (EU) 2015/63 rendelete alapján - annak közvetlenül hatályosulása okán - szükséges módosítani a Szanálási Alapba történő díjfizetésre vonatkozó szabályokat, miután a rendelet részletes szabályokat állapít meg a díjfizetésre.
+
+A 188. §-hoz
+
+Szövegpontosítás.
+
+A 189-192. §-hoz
+
+Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény egyes rendelkezéseit módosítja a tanúsítással kapcsolatos kérdések rendezése érdekében.
+
+-----STARTING---POINT---VEGE---
+
+A 193. §-hoz
+
+Hatálybaléptetés.
+
+A 194. §-hoz
+
+Jogharmonizációs záradék.

@@ -1,0 +1,671 @@
+2021. évi L. törvény végső előterjesztői indokolása
+
+az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szükséges törvénymódosításokról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+A törvényjavaslat célja az egyes nyilvántartások hatékonyabb működésének, az interoperabilitás növelésének és az információk automatikusabb átadásának biztosítása, az elektronikus ügyintézés könnyítése.
+
+A tervezett szabályozás a közszolgáltatások hatékonyságának növeléséhez, az ügyfélközpontú, szolgáltató állam működéséhez járul hozzá.
+
+Módosítási javaslatok összefoglalása témakörönként
+
+A) Egyes hatósági nyilvántartások működésének egyszerűsítése (NAVASZ) 
+
+B) Nemzetiségi név feltüntetése az útlevélen
+
+C) Automatikus Közigazgatási Döntéshozatali (AKD) rendszer
+
+D) Videotechnológián keresztül történő ügyintézés
+
+E) IHR rendszer
+
+F) Egyéb szabályozási javaslatok
+
+A) Egyes hatósági nyilvántartások működésének egyszerűsítése (NAVASZ)
+
+A hatékony állam működéséhez kiemelten fontos, hogy az állam által vezetett nyilvántartások hitelesek, pontosak legyenek, és az egyes nyilvántartások közötti adatcserék zökkenőmentesen, a technológia fejlettségének megfelelően automatizáltan bonyolódjanak le. A jól működő interoperabilitás gyorsítja az ügyintézést, csökkenti a polgárok terheit, javítja az államigazgatás hatékonyságát.
+
+A NAVASZ projekt során a vezetői engedély és a járműnyilvántartás szakrendszere teljes körű informatikai megújításon fog átesni. Ennek során közvetlen informatikai adatkapcsolat kerül kialakításra az említett nyilvántartások és más állami nyilvántartások informatikai szakrendszerei között, a nyilvántartott adatok közhitelességének és pontosságának javítása, valamint az állampolgárok adminisztratív terheinek csökkentése érdekében. (Adatkapcsolat a cégnyilvántartással és a gondnokoltak nyilvántartásával, továbbá műszaki adatok teljes körű átvétele.) A projekt keretében kialakításra kerül az elektronikus okmánytár, továbbá megújításra kerül a jogosultságkezelés, a naplózás, valamint az érvénytelen közlekedési okmányok, rendszámtáblák és az okmánytári alapiratok selejtezésének rendszere. A projekt újításainak köszönhetően számos közlekedési igazgatási ügy elektronikus úton történő indítása válik lehetővé. A projekt eredményeként a hatósági ügyintézés is számos területen egyszerűbbé válik.
+
+A fenti célok megvalósítása érdekében jelen törvényjavaslat keretében:
+
+A külföldre utazásról szóló 1998. évi XII. törvény módosításával - pontosítások mellett -:
+
+a) az ujjnyomat nélküli útlevél kiadási esetkörök kiegészítésre kerülnek,
+
+b) a második magánútlevélre vonatkozó szabályoknál az érvényességi idő a különböző kiadási okok esetében egységesen 5 évben kerül megállapításra,
+
+c) a gazdasági stabilitásról szóló törvényre figyelemmel meghatározásra kerül az adatszolgáltatási díj fizetése alól mentes személyi kör, illetve módosul a díjrendelet megalkotására vonatkozó felhatalmazó rendelkezés,
+
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) és a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása:
+
+a) Az Nytv. 1. § (2) bekezdés értelmében a személyiadat- és lakcímnyilvántartás azokat az alapvető személyi, lakcím és értesítési cím adatokat tartalmazza, amelyek a polgárok egymás közötti jogviszonyaiban személyazonosságuk igazolásához szükségesek. Ennek biztosítása érdekében szükséges az is, hogy a személyiadat- és lakcímnyilvántartás (a továbbiakban: SZL) ne csak a személyazonosító igazolvány adatait tartalmazza, hanem valamennyi, a személyazonosság igazolására szolgáló hatósági igazolvány adatát. A törvényjavaslat ennek érdekében biztosítja, hogy az okmányok érvényessége és azonosítója az SZL-ben is megjelenjen azzal, hogy az okmányok egyéb adattartalma, valamint kiállításának szabályai továbbra is az ágazati jogszabályokban és nyilvántartásokban maradnak.
+
+b) A digitalizáció előrehaladtával szükséges, hogy a nyilvántartás alapjául szolgáló - elektronikus formában készült - alapiratokat a Központi Okmánytár elektronikus formában tárolja. Ezért a Központi Okmánytár az eddigi papír alapú és számítógépes adathordozón tárolt adatok, alapiratok mellett már elektronikus formában is megőrzi az ilyen módon készült iratokat.
+
+c) A módosítást követően az adattakarékosság elvére figyelemmel a személyazonosító igazolványra, magánútlevélre és kártyaformátumú vezetői engedélyre vonatkozó okmánynyilvántartások csak a kiadott okmányon szereplő adatokat, valamint az okmány kiállításához szükséges kérelem meghatározott adatait tartják nyilván. A személyiadat- és lakcímnyilvántartás tárolja, szolgáltatja a hatálya alá tartozó polgárok személyazonossága igazolására vonatkozóan az okmányok adatait, valamint személyazonosításhoz a természetes személyazonosító adatokat és az arcképmást.
+
+d) A NAVASZ projekt keretében megújításra kerül a személyiadat- és lakcímnyilvántartás. A polgároknak eddig volt lehetőségük ún. értesítési címet bejelenteni a személyiadat- és lakcímnyilvántartásba, mely jelenleg 2688 értesítési cím adatot tartalmaz. Figyelemmel a bejelentések csekély számára, arra, hogy ezen adatokhoz szakrendszer nem kapcsolódik, az értesítési címek kivezetésre kerülnek, 2021. július 1. napjával a személyiadat- és lakcímnyilvántartásban szereplő érvényes értesítési címeket a nyilvántartást kezelő szerv hivatalból érvényteleníti. Ezt követően az értesítési cím bejelentésére nem lesz lehetőség.
+
+A közúti közlekedési nyilvántartásról szóló törvény (a továbbiakban: Kknyt.) módosításának a részletezése
+
+a) A NAVASZ projekt során létrehozásra kerül az elektronikus okirattár, amelyhez kapcsolódó fogalmak megalkotása szükséges a normaszövegben.
+
+Tekintettel a technikai fejlődésre, az elektronikus ügyintézés térnyerésére, ebből adódóan a bürokratikus irattárolás elavultságára, a NAVASZ projekt során létrehozásra kerül az elektronikus okirattár, amely magában egyesíti a múltbéli papír alapú, és a jövőbeli elektronikus iratokat, amelyek megőrzése egyaránt szükséges. A tervezet biztosítja az okirattár létrehozásához szükséges jogszabály-módosításokat (például fogalmak megalkotása).
+
+b) 2021. február 1-jétől a vezetői engedély kiállítása automatikusan történik. Annak érdekében, hogy az ügyfél ellenőrizhesse, hogy a feltételeknek megfelel, az igazolvány kiállítása hogyan áll, a nyilvántartó önálló szolgáltatást biztosít, amelyen keresztül az érintett személy ellenőrizheti, hogy a vezetői engedély automatikus kiállításának feltételei megvannak-e.
+
+B) Nemzetiségi név feltüntetése az útlevélen
+
+Az előterjesztő több körben egyeztetett az Országgyűlés Magyarországi nemzetiségek bizottságával (a továbbiakban: Bizottság) a nemzetiségi névnek az egyes okmányokon történő feltüntetése témájában. A Bizottság javasolta, hogy a személyazonosító igazolvány mellett más okmányokon is kerüljön feltüntetésre a nemzetiségi név.
+
+A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 16. § (3) bekezdése értelmében kérésre a személyazonosító igazolvány a nemzetiséghez tartozó személy nevét - az anyakönyvi bejegyzésben foglaltnak megfelelően - nemzetisége nyelvén is tartalmazza. Jogszabály lehetővé teheti, hogy más hatósági igazolvány a nemzetiséghez tartozó személy nevét - az anyakönyvi bejegyzésben foglaltnak megfelelően - nemzetisége nyelvén is tartalmazza.
+
+A törvényjavaslat megteremti annak lehetőségét, hogy a nemzetiséghez tartozó - a személyazonosító igazolványhoz hasonló módon, az anyakönyvből átvett adatból - a magyar hatóságok által kiállított magánútlevélen is kérhesse a nemzetiségi nevét feltüntetni. A nemzetiségi név az útlevél másodlagos adatoldalán kerülhet feltüntetésre. A Bizottság a javaslatot támogatja.
+
+C) Automatikus Közigazgatási Döntéshozatali (AKD) rendszer
+
+Az Automatikus Közigazgatási Döntéshozatali (AKD) rendszer egy olyan integrált szolgáltatás, amelynek segítségével a korábban emberi közreműködés útján elvégzett műveletek automatizált módon kerülhetnek végrehajtásra. Ennek eredményeként - amennyiben a döntéshez szükséges minden információ rendelkezésre áll -, az ügyindítás és annak lezárása közötti ügyintézési lépések emberi beavatkozás nélkül, automatizáltan történhetnek meg, és ezáltal egy, az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 40. §-ában nevesített automatikus döntéshozatali eljárás lefolytatására kerül sor.
+
+Automatikus döntéshozatalra jelenleg akkor van lehetőség, ha
+
+a) azt törvény vagy kormányrendelet megengedi,
+
+b) a hatóság részére a kérelem benyújtásakor minden adat rendelkezésére áll,
+
+c) a döntés meghozatala mérlegelést nem igényel, és
+
+d) nincs ellenérdekű ügyfél.
+
+A folyamatok továbbfejlesztése érdekében a törvényjavaslat javasolja, hogy 2022. január 1-jei hatállyal bővüljön az automatikus döntéshozatallal intézhető ügyek száma azokkal az ügyekkel, ahol a hatóságnál ugyan nincs meg az adat közvetlenül, de azt automatikus információátadással, rendszer-rendszer kapcsolatban be tudja szerezni. Az előterjesztő álláspontja szerint ezzel az automatikusan intézhető ügyek számát jelentősen meg lehet növelni, amelyhez az ágazati jogszabályok (törvények és kormányrendeletek) felülvizsgálata szükséges, mivel az Ákr. szabályai alapján továbbra is csak akkor lehetséges az ügyet automatikus döntéshozatallal intézni, ha azt az ágazati törvény vagy kormányrendelet megengedi. Az előterjesztő a szükséges fejlesztések biztosítása érdekében nyitott az ágazati rendszerek közös áttekintésére.
+
+D) Videotechnológiás kapcsolattal történő ügyintézés
+
+Az Eüsztv. 2021. február 1-jén hatálybalépő módosítása a Kormány által biztosított azonosítási szolgáltatások között bevezeti az ún. videotechnológián alapuló azonosítási szolgáltatást (VKTA). A VKTA, mint azonosítási szolgáltatás elsősorban az elektronikus ügyintézést könnyíti meg, azaz az ügyfélnek az elektronikus ügyintézést megelőzően nem kell ügyfélkapus jelszavát vagy a személyazonosító igazolványát használni, pusztán az arcképe segítségével azonosítja magát.
+
+A VKTA technológiája azonban alkalmas arra is, hogy az elektronikus ügyintézés helyett biztonságos, zárt videorendszerben élőben intézhessen ügyet az ügyfél. Jelenleg videokapcsolaton keresztül történő ügyintézésre ugyanakkor kizárólag a polgári és büntetőeljárásban meghatározott esetekben van lehetőség, egyéb eljárásokban nincs, ugyanakkor a pandémiás helyzetre is, valamint a személyes megjelenések számának csökkentésére is figyelemmel szükség lenne olyan szabályozás kialakítására, amely minden olyan eljárásban, amelyben az ügyfél nyilatkozata személyesen is benyújtható vagy csak így nyújtható be, valamint az arcképmás és az aláírás is rögzíthető távolról.
+
+A videotechnológián alapuló ügyintézés megalapozásához szükséges törvénymódosítási javaslat lényeges elemei a következők:
+
+- törvényben lehetővé tenni a videotechnológián történő ügyintézést valamennyi elektronikus ügyintézést biztosító szerv tekintetében,
+
+- az ügyintézés nem kötelező, azt csak lehetőségként kell rögzíteni, a szervek - a KIOSZK-hoz hasonlóan - csatlakozhatnak ezen lehetőséghez, a csatlakozott szervekről az Elektronikus Ügyintézési Felügyelet vezet listát,
+
+- a szabályozásban ki kell mondani, hogy a videofelvétel rögzítése főszabály szerint kötelező, kivétel abban az esetben, ha az ügyfél érdemi nyilatkozatot nem tesz vagy azt külön (elektronikusan hitelesítve) írásban teszi meg,
+
+- az elektronikus ügyintézést biztosító szerv kötelezettséget videotechnológiás kapcsolat esetében nem közölhet az ügyféllel, azt írásban (akár elektronikus úton) kell megtennie,
+
+- a szabályozás (a már meglévő szabályozásokra tekintettel) polgári vagy büntetőeljárás során nem alkalmazható.
+
+E) Az Integrált Hatósági Rendszer bevezetése
+
+A „Mezőgazdasági vízhasználatai eljárásokat támogató integrált hatósági ügyviteli rendszer kialakítása az OKF-nél” című projektelem (VIZEK projekt) sikeres bevezetését és használatát követően indokolt a katasztrófavédelmi szervek feladat- és hatáskörébe tartozó további ügyeikre is felhasználni a VIZEK projektben is használt rendszert.
+
+Erre figyelemmel az érintett szerveknél 2022. január 1-jétől az Integrált Hatósági Rendszer (a továbbiakban: IHR) elindulásával teljesen elektronizált hatósági ügyintézési folyamatok kerülnek kialakításra, melynek kialakításához egyrészt felhatalmazási rendelkezés, másrészt a folyamatok-, és az adatkezelést szabályozó rendelkezések megalkotása vált szükségessé.
+
+Az IHR a következő ügyeket érinti:
+
+- tűzvédelem,
+
+- piacfelügyelet,
+
+- veszélyes üzemek,
+
+- veszélyes áruszállítás,
+
+- létfontosságú rendszerek és létesítmények védelme,
+
+- nukleárisbaleset-elhárítás,
+
+- polgári védelem.
+
+Az IHR révén megvalósul ezen hatósági és szakhatósági eljárások Ákr. konform teljes folyamatra kiterjedő hatóság oldali ügyintézés kialakítása.
+
+Fontos hangsúlyozni, hogy a rendszer a vízügyi eljárások tekintetében továbbra is a VIZEK keretrendszeren keresztül kommunikál.
+
+Az IHR rendszer HAMAR alrendszerből és Ügyfélportál alrendszerből áll.
+
+A Kat. törvényben adjuk meg a teljes IHR használatára történő felhatalmazást, és valamennyi kapcsolódó törvény a Kat. törvény e rendelkezésére utal vissza.
+
+F) Egyéb, kiemelendő módosítások
+
+a) Kéményseprő-ipari tevékenység: a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény
+
+Az égéstermék-elvezető létesítését és használatát jelenleg elsősorban különböző ágazati jogszabályok (építésügyi, gázipari és tűzvédelmi területen), valamint szabványok határozzák meg. A gyakorlatban az égéstermék-elvezetők tervezését, kivitelezését, valamint engedélyezését megkönnyítené, ha ezen építménytípusra egységes és a jogalkalmazók számára egyformán irányadó, a műszaki fejlődést követő szabályok lennének elérhetőek. E hiányt pótolja a törvénymódosítás azzal, hogy az égéstermék-elvezetőkre vonatkozóan kéményseprő-ipari műszaki irányelvek kidolgozására adna lehetőséget egy szakértői bizottság részére, amelyet a hivatásos katasztrófavédelmi szerv működtetne az érintett ágazatok és szakmák intézményi képviselőinek részvételével.
+
+A szakértői testület által kidolgozott kéményseprő-ipari műszaki irányelveket a hivatásos katasztrófavédelmi szerv központi szervének vezetője adná ki.
+
+A szakértői testület működését a településüzemeltetésért, kéményseprő-ipari tevékenységért felelős miniszter által kiadandó rendeleti norma szabályozná.
+
+Ez a megoldás hazánkban nem egyedülálló, több éve alkalmazzák már a tűzvédelem és az építésügy területén (tűzvédelmi műszaki irányelvek, építésügyi műszaki irányelvek). Az egyes megfelelő biztonsági szintet előíró műszaki követelményeket alapvetően jogi norma tartalmazza, azonban a követelményt kielégítő egyedi, konkrét műszaki megoldások - tekintettel a kor gyors technikai fejlődésére, az alkalmazott technológiák, anyagok, megoldások folyamatos megújulására, melyet a normaalkotás nehezebben követ le - kivezetésre kerültek a jogszabályokból. Jelenleg a műszaki megoldások többségét nemzeti, nemzetközi, európai, illetve harmonizált szabványok tartalmazzák, melyek mellett 2014-től Magyarországon megjelentek a műszaki irányelvek is.
+
+A műszaki irányelvek nem lehetnek ellentétesek sem jogszabályban, sem szabványban foglaltakkal, alkalmazásuk pedig - hasonlóan a szabványokhoz - önkéntes. A műszaki irányelv bevezetésének előnye, hogy a tervező maga választhatja meg, hogy mely konkrét műszaki megoldást alkalmazza az adott követelmény teljesítése érdekében. Így a műszaki irányelvek biztosítják egyrészt, hogy a jogszabályban előírt biztonsági szint, követelmény teljesüljön, ugyanakkor a tervezők is megfelelő szabadságot kapjanak.
+
+b) A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény
+
+Törvény alapján a szociális szövetkezet meghatározott tevékenységi körök ellátása esetén közfoglalkoztató lehet. Ezek a tevékenységi körök azonban rendkívül szűk keretet biztosítanak a közfoglalkoztatási támogatásokra és nem oldják meg a nagy értékű beruházások működtetésének problémáját sem, ezért a törvényjavaslat javasolja, hogy a start szociális szövetkezetek közfoglalkoztatók lehessenek, és esetükben ne legyen feltételként kikötve, hogy csak meghatározott tevékenységi körök ellátása esetén minősülnek közfoglalkoztatónak.
+
+A start szociális szövetkezetek az elmúlt időszakban a pályázatok (például Fókusz pályázat) megvalósítása során jelentős piaci ismeretet szereztek, alkalmasak lehetnek a nagy értékű beruházások működtetésére. Ugyanakkor a jelenlegi, járvánnyal is sújtott nehéz piaci környezetben több dolgozó tekintetében továbbra sem tudják a magas bér- és járulék költséget kitermelni. Erre jelentene megoldást a közfoglalkoztatási támogatás, melynek révén - a szintén közfeladatot ellátó - start szociális szövetkezetek valós átmenetet tudnának biztosítani a tagok részére a nyílt munkaerőpiac irányába (például foglalkoztatás, képzés, szociális- pszichológiai támogatás stb.).
+
+A támogatás a közfoglalkoztatottak közfoglalkoztatási béréhez járulna hozzá és nem a szociális szövetkezetek munkaviszonyban vagy tagi munkavégzési jogviszonyban foglalkoztatott szakmunkásainak és menedzsereinek piaci béréhez.
+
+c) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
+
+A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény jelenleg nem mondja ki egyértelműen, hogy kizárólag azon rendszerelemek jelölhetőek ki európai létfontosságú rendszerelemmé, melyek korábban nemzeti létfontosságú rendszerelemmé kijelölésre kerültek. Az alapelv kimondásával, fogalmi szintre emelésével megszüntethetőek az esetleges párhuzamos eljárások, valamint kizárólag olyan európai létfontosságú rendszerelemmé kijelölési eljárás kezdeményezhető, melynek horizontális és ágazati kritériumai teljesülnek, így a Belügyminiszternek kizárólag a más EGT tagállami hatás körében kell nyilatkozni. Ez az eljárások gyorsítását és egyszerűsítését segíti elő, valamint az ügyterhet is csökkenti.
+
+d) Egyes közszolgálati jellegű módosítások
+
+d1) A törvényjavaslat célja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti személyügyi központ feladatainak bővítésével összefüggésben az általa nyújtott szolgáltatások igénybevételéhez szükséges jogalap megteremtése.
+
+A személyügyi központ a Kit. szerint a kormánytisztviselők kiválasztásával, képesítésével, képzésével, továbbképzésével, teljesítményértékelésével, illetmény- és felelősségi rendszereivel kapcsolatos módszertani támogatással összefüggő feladatokat ellátó és az e törvény szerinti nyilvántartásokat kezelő szerv. A Kit. alapján a Kormány a közszolgálati életpálya kidolgozásáért felelős miniszter által vezetett kormányzati igazgatási szervet jelölte ki személyügyi központként.
+
+A személyügyi központ feladatai bővítésre kerültek, a jogviszony létesítéséhez és megszüntetéséhez kapcsolódóan számos szolgáltatás nyújtására alkalmas informatikai rendszer és módszertani támogatás került kialakításra Közszolgálati HR rendszerként, melynek keretrendszer és szolgáltató jellege indokolja, hogy Közszolgálati Személyügyi Szolgáltatási Keretrendszer (a továbbiakban: KSzSzK) megnevezéssel induljon az új platform. A platform az informatikai keretrendszeren kívül módszertani támogatást, szakrendszert, elemző felületet foglal magában és - a Kormány rendeletében meghatározott - alrendszerekből áll.
+
+A KSzSzK ezen szolgáltatásait - a jelen módosítások szerinti törvényi jogalap megteremtése esetén - más foglalkoztatási jogviszonyban állók is igénybe vehetik. Jelen módosítás célja tehát az, hogy a kialakított szolgáltatások igénybevételét a Kit. hatálya alá nem tartozó, más foglalkoztatási jogviszonyban állók részére is lehetővé tegye. Így a KSzSzK keretében a különböző jogállási törvények hatálya alá tartozó munkáltatói és foglalkoztatottai a jövőben különösen az alábbi térítésmentesen nyújtott szolgáltatásokat vehetik igénybe, önkéntes alapon:
+
+1. A KÖZIGÁLLÁS alrendszeren keresztül lehetőség van a kiírt pályázatok közzétételére, a kiválasztási eljárásról való tájékoztatásra, továbbá az érintett szervezeti kör az online térben tud szervezni állásbörzét, melyen internet-hozzáférés birtokában bárki részt vehet, ez segíti a szervezeteket a megfelelő munkaerő megtalálásában, és segíti a munkát keresőket is a megfelelő foglalkoztatási lehetőség elérésében.
+
+2. A közszolgálaton belüli munkaerő-áramlás megkönnyítését, az újrafoglalkoztatás elősegítését támogató alrendszerben a meghatározott jogcímen felmentett közszolgálatban dolgozók részére a közszférán belüli újbóli elhelyezkedést segítő kompetencia-fejlesztő programok kerülnek biztosításra, amely keretében többek között álláskeresési és interjúzási technikákat ismerhetnek meg, karrier tanácsadásban részesülhetnek, felkészítő tréningeken vehetnek részt.
+
+3. Létrejön egy HR szakértői hálózatra vonatkozó alrendszer, amely egy olyan tudásbázist állít össze, amely a közszolgálati személyügyi szakterületen dolgozó szakemberek munkáját, napi munkavégzését segíti, ezen a felületen szakanyagok, publikációk jelenhetnek meg, a szakemberek személyes szakértői támogatást kaphatnak, és az alrendszer információs bázis tudásforrásként szolgál a személyügyi jogértelmezés, jogalkalmazás, tudományos publikációk, cikkek, jó gyakorlatok, változások követésének kezelésére.
+
+A törvényi alapok megteremtésével a Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások az állami szféra széles körében várnak elérhetővé, amennyiben az egyes ágazatok részéről ilyen igény merül fel. A részletes szabályokat és eljárásrendet a törvényi felhatalmazás alapján kiadásra kerülő kormányrendelet határozza meg.
+
+d2) A Rendőrségről szóló 1994. évi XXXIV. törvény 7. §-ának 2021. január 1-jétől hatályos módosításával összhangban indokolt egyes jogállási törvényeknek a foglalkoztatottak megbízhatósági vizsgálat alá vonásával kapcsolatos rendelkezésének felülvizsgálata. Az érintett rendelkezésekben a foglalkoztatott hozzájárulása szerepel mint előírás, amelyet ugyanakkor a szabályozás a jogviszony létesítésének és fenntartásának feltételeként határoz meg. Az általános adatvédelmi rendeletben (GDPR) foglaltakkal összhangban a hozzájárulás a foglalkoztató - foglalkoztatott relációjában megkérdőjelezhető, hiszen a hozzájárulás megadásától vagy fenntartásától ténylegesen a jogviszony fenntartása válik függővé, a módosítani előírások ezért jelenleg nincsenek maradéktalanul összhangban az általános adatvédelmi rendeletben (GDPR) foglaltakkal.
+
+A módosítási javaslatok azon jogállási törvények módosítását tartalmazzák, melyek a megbízhatósági vizsgálathoz történő hozzájáruláshoz kötik az adott foglalkoztatotti jogviszony létesítését vagy fenntartását, a jövőben - ha a megbízhatósági vizsgálat elvégzését törvényi rendelkezés lehetővé teszi - ezen jogviszonyok esetében a törvény a foglalkoztatási jogviszonyból fakadó feladatok törvényes ellátásának megbízhatósági ellenőrzéssel történő ellenőrizhetőségének tudomásulvételét tartalmazzák.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+2021. július 1. napjával hatályon kívül helyezésre kerül az értesítési cím bejelentési eljárás, az értesítési cím címjogosult által kezdeményezett törlése valamint, hogy a címjogosult és a postafiók bérlője előzetesen nyilatkozhat arról, hogy a cím (címhely vagy postafiók) értesítési címként történő nyilvántartását nem kívánja biztosítani. Erre tekintettel az illetékmentes eljárások felsorolásából is törölni szükséges az értesítési címmel kapcsolatos eljárásokat.
+
+A 2. §-hoz
+
+Az (1) bekezdéshez: A Rendőrségről szóló 1994. évi XXXIV. törvény 7. §-ának 2021. január 1-jétől hatályos módosításával összhangban indokolt egyes jogállási törvényeknek a foglalkoztatottak megbízhatósági vizsgálat alá vonásával kapcsolatos rendelkezésének felülvizsgálata. Az érintett rendelkezésekben a foglalkoztatott hozzájárulása szerepel mint előírás, amelyet ugyanakkor a szabályozás a jogviszony létesítésének és fenntartásának feltételeként határoz meg. Az általános adatvédelmi rendeletben (GDPR) foglaltakkal összhangban a hozzájárulás a foglalkoztató - foglalkoztatott relációjában megkérdőjelezhető, hiszen a hozzájárulás megadásától vagy fenntartásától ténylegesen a jogviszony fenntartása válik függővé, a módosítani előírások ezért jelenleg nincsenek maradéktalanul összhangban az általános adatvédelmi rendeletben (GDPR) foglaltakkal.
+
+A módosítási javaslatok azon jogállási törvények módosítását tartalmazzák, melyek a megbízhatósági vizsgálathoz történő hozzájáruláshoz kötik az adott foglalkoztatotti jogviszony létesítését vagy fenntartását, a jövőben - ha a megbízhatósági vizsgálat elvégzését törvényi rendelkezés lehetővé teszi - ezen jogviszonyok esetében a törvény a foglalkoztatási jogviszonyból fakadó feladatok törvényes ellátásának megbízhatósági ellenőrzéssel történő ellenőrizhetőségének tudomásulvételét tartalmazzák.
+
+A (2) bekezdéshez: Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 3. §-hoz
+
+Az (1)-(3) bekezdéshez, valamint a (15) bekezdéshez: Annak érdekében, hogy a személyazonosság igazolása egy csatornán keresztül ellenőrizhető legyen, a személyiadat- és lakcímnyilvántartás (a továbbiakban: SZL) adattartalmának további kiegészítésére kerül sor. Az Nytv.-ben foglalt meghatározás alapján személyazonosság igazolására alkalmas hatósági igazolványnak jelenleg a személyazonosító igazolvány, az útlevél és a kártyaformátumú vezetői engedély minősül. A személyazonosító igazolvány érvényességére vonatkozó adatokat az SZL már jelenleg is tartalmazza, azonban az SZL kiegészítésre kerülne az útlevél és a vezetői engedély esetén is a következő adatokkal: okmányazonosító, érvényesség, illetve érvénytelenség ténye és érvénytelenség okán.
+
+Ennek nyomán szükséges az adatforrások bővítése is.
+
+A (4) bekezdéshez: A polgár személyazonosító igazolvány kiállítására irányuló eljárás során megadhatja kapcsolattartási adatait, így telefonszámát, elektronikus levelezési címét is, melyet a kérelem tartalmaz a kész okmány átvételéről történő értesítés és proaktív szolgáltatások céljából.
+
+Az (5) bekezdéshez: Az SZL adattartalmának módosítása nyomán az SZL szolgáltatja minden esetben a hatálya alá tartozó polgárok személyazonosságának ellenőrzéséhez a személyazonosság igazolására alkalmas hatósági igazolványaikra vonatkozó adatokat, valamint személyazonosításhoz a természetes személyazonosító adatokat, arcképmást, aláírást és lakcímet. Az egységes szolgáltatáskezelés érdekében szükséges az önálló szolgáltatás nevesítése.
+
+A (6) bekezdéshez: szövegpontosító rendelkezés.
+
+A (7) bekezdéshez: A vezetői engedély automatikus kiállításának feltételeit - és így a három évnél nem régebbi arcképmás és aláírás meglétét is - előzetesen szükséges ellenőrizni annak érdekében, hogy annak esetleges hiányáról időben, például első vezetői engedély esetén még a vizsgára jelentkezéskor lehessen értesíteni az ügyfelet, és ne csak az utolsó pillanatban, a vizsga sikeres teljesítésekor derüljön ki, hogy az okmánygyártás a fénykép és aláírás hiánya miatt meghiúsul. Az automatikus okmánykiállítási eljárás során a polgárnak érdekében áll, hogy még az okmánykiállítást megelőzően kellő időben információt szerezzen arról, hogy róla a nyilvántartónak rendelkezésére áll-e olyan arcképmás- és aláírásadata, amely alkalmas a vezetői engedély okmány kiállításához. A polgár a saját adatairól történő ilyen tartalmú szolgáltatást más módon (például személyesen a járási hivatalnál) nem tud igénybe venni jelenleg, ezért az elektronikus úton történő ellenőrzés lehetőségét az előre tájékozódás céljából szükséges a polgárok számára biztosítani.
+
+A (8) bekezdéshez: szövegpontosító rendelkezés, valamint egyértelművé teszi a rendelkezés, hogy a születés bejelentéséhez (az automatikus igazolványkiállításhoz) szükséges a szülők okmányadatainak megismerése.
+
+A (9)-(11), (13), (14) bekezdéshez:
+
+2021. július 1. napjával a nyilvántartásban szereplő érvényes értesítési címeket a nyilvántartást kezelő szerv hivatalból érvényteleníti. Ezt követően az értesítési cím bejelentésére nem lesz lehetőség.
+
+A (12) bekezdéshez:
+
+2021. február 1. napjától az Nytv.-ben létrehozásra került a személyiadat- és lakcímnyilvántartás tekintetében a naplórendszer, melynek feladata az adatkezelési műveletek jogszerűségének, ellenőrizhetőségének, valamint a személyes adatok integritásának és biztonságának biztosítása. A naplórendszerre vonatkozó szabályok törvényi szinten kerültek megalkotásra.
+
+A személyiadat- és lakcímnyilvántartás tekintetében 2021. február 1. napját megelőzően is törvényi előírás volt az adatszolgáltatási nyilvántartás vezetésére, melynek célja a szervek által teljesített adatszolgáltatások jogszerűségének ellenőrzése.
+
+Az adatszolgáltatási nyilvántartásra vonatkozó szabályok egy része úgyszintén törvényi szinten volt szabályozva, azonban az abból történő adatszolgáltatásra vonatkozó szabályok kormányrendeleti szinten. A naplórendszer és az adatszolgáltatási nyilvántartás közötti jogszabályi hierarchiában fennálló különbségek megszüntetésére az Nytv. végrehajtási rendeletében található szabályozás átemelésre kerül az Nytv.-be.
+
+A 4. §-hoz
+
+Az 1-3. és 7., 9., 10. ponthoz: 2021. július 1. napjával a nyilvántartásban szereplő érvényes értesítési címeket a nyilvántartást kezelő szerv hivatalból érvényteleníti. Ezt követően az értesítési cím bejelentésére és az értesítési címet érintő adatigénylésre/adatszolgáltatásra nem lesz lehetőség.
+
+A 4., 5., 8, 11., 12. ponthoz: szövegpontosító rendelkezés.
+
+A 6. ponthoz: A digitalizáció előrehaladtával szükséges, hogy a nyilvántartás alapjául szolgáló - elektronikus formában készült - alapiratokat a Központi Okmánytár elektronikus formában tárolja.
+
+Az 5. §-hoz
+
+2021. július. napjával a nyilvántartásban szereplő érvényes értesítési címeket a nyilvántartást kezelő szerv hivatalból érvényteleníti. Ezt követően az értesítési cím bejelentésére és az értesítési címet érintő adatigénylésre/ adatszolgáltatásra nem lesz lehetőség.
+
+A 6. §-hoz
+
+Az (1) bekezdéshez: Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási
+
+Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A (2) bekezdéshez: Az Európai Parlament és a Tanács (EU) 2020/741 rendelete a víz újrafelhasználás minimumkövetelményekről új európai uniós szakpolitikát irányoz elő a tisztított szennyvizek mezőgazdasági felhasználása esetén. A rendeletben foglaltak hazai átültetése több jogszabályt érint, melyek szakmai egyezetése jelenleg is folyamatban van. A vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) jelenlegi módosítása technikai jellegű, hiszen a törvény további rendelkezése nem változik. A módosítással szükséges deklarálni, hogy a törvény már meglevő előírásai a 2020/741 rendelet végrehajtásához szükséges rendelkezéseket is tartalmaz, mivel a Vgtv. alá tartozó kormányrendeletek érintik a Rendelet végrehajtását.
+
+A 7. §-hoz
+
+Az (1) bekezdéshez: Tekintettel arra, hogy a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 390. §-a 2020. június 18-ától hatályon kívül helyezte a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (1) bekezdés a) és b) pontját (ügyészi engedély szükségessége), valamint 2021. január 1-jétől az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 131. § (14a) bekezdése és az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vámtv.) 29. § (1a) bekezdése is ennek megfelelően módosult a büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról szóló 2020. évi XLIII. törvény 274. §-a és 275. §-a alapján, így a Be., az Art. és a Vámtv. alapján nincs szükség ügyészi engedélyre az adó-, illetve vámtitok kiadásakor. Erre figyelemmel szükséges biztosítani a Szaztv.-ben is az adóazonosító jel megismerhetőségét.
+
+A (2) és (3) bekezdéshez:
+
+Intézetben történt születés esetén a születést az egészségügyi szolgáltató jelenti be - az Elektronikus Egészségügyi Szolgáltatási Téren és az EAK rendszeren keresztül haladéktalanul - az illetékes anyakönyvvezető felé. A rendelkezés egyértelművé teszi, hogy az egészségügyi szolgáltató a személyi azonosítót ennek érdekében kezelheti.
+
+A halálozással kapcsolatos adatszolgáltatások megkönnyítése érdekében szükséges biztosítani, hogy az EESZT-ben és az EAK rendszeren keresztül közvetlenül lehessen jelezni az anyakönyvvezető felé a halálozás tényét. A rendelkezés egyértelművé teszi, hogy a halottvizsgálatot végző szerv vagy személy a személyi azonosítót ennek érdekében kezelheti.
+
+A (4) bekezdéshez: Az adatok naprakészen tartása, és az adatszolgáltatások időszerűsége miatt szükséges megteremteni a jogalapját annak, hogy a vezetői engedély-nyilvántartás szerve értesüljön arról, ha a nyilvántartás hatálya alá tartozó személy elhalálozik, vagy más ok miatt kikerül a személyiadat- és lakcímnyilvántartás hatálya alól, az 1999. évi LXXXIV. törvény 14. § (2) bekezdés b) pontjának megfelelően.
+
+A 8. §-hoz
+
+Szövegpontosító módosítás.
+
+A 9. §-hoz
+
+2022. január 1-jétől teljesen elektronizált hatósági ügyintézési folyamatok kerülnek kialakításra, amelyek lényeges tartalma a 24. §-ban bekezdésben kerül kifejtésre.
+
+A 10. §-hoz
+
+A tűzvédelmi szakértő szakértői tevékenysége során ok-okozati összefüggések magas szakmai színvonalú értékelését, vitatott események megítélését, hibák, károk, és ezek okainak feltárását végzi, valamint mindezekkel kapcsolatos szakértői véleményeket, tűzvédelmi dokumentációkat készít. Mind a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény, mind a tűzvédelmi szakértői tevékenység szabályairól szóló 47/2011. (XII. 15.) BM rendelet tartalmazza azokat a szakmai feltételeket, amelyek fennállása esetén valaki tűzvédelmi szakértővé válhat. A tevékenység végzésének a már eddig egyéb jogszabályokban meghatározott feltételeken túl előírás, hogy a szakértő e tevékenysége tekintetében ne legyen cselekvőképtelen, illetve ne essen cselekvőképességet érintő korlátozás alá.
+
+Ugyanakkor eddig nem került rögzítésre a szakmai tevékenység végzésének sarkalatos feltétele, amely megköveteli a korlátlan cselekvőképességet. (Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény tartalmaz ilyen rendelkezést).
+
+A jelenleg hatályos szabályozás megteremti annak lehetőségét, hogy egy korlátozottan cselekvőképes szakértő folytathassa a tevékenységét. Ugyanakkor szakmailag aggályos és kérdéses, hogy egy korlátozottan cselekvőképes személy megfelelő belátási képességgel rendelkezik-e a tűzvédelem területén szakértői hozzáértést igénylő esetek megítéléséhez
+
+A 11. §-hoz
+
+Az (1) bekezdéshez: Új értelmező rendelkezésként kerül bele a törvénybe az élettárs fogalma, amely az Utv. vonatkozásában gyűjtőfogalomként két - külön jogszabályok által nevesített - élettársi kategóriát foglal magában.
+
+A (2) és (8) bekezdéshez: biztosítja, hogy a nemzetiséghez tartozó polgár kérelmére a nemzetiségi név is felkerülhessen az útlevélre.
+
+A (3) bekezdéshez: Gyakorlati jogalkalmazási probléma megoldását szolgálja annak kimondása, hogy a különböző okok alapján kiadható második magánútlevéllel egyidejűleg is rendelkezhet a polgár. Azaz, a magánútlevél mellett lehet a polgárnak foglakozás gyakorlása okán és különös méltányosságból kiadott második magánútlevele is, így összesen három magánútlevéllel (ebből kettő második magánútlevél) is rendelkezhet.
+
+A (4) bekezdéshez: A szolgálati útlevél esetében pontosításra kerül a hozzátartozói jogcímen okmányra jogosultak köre. Egyúttal megjelenik követelményként, hogy a miniszteri (egyéb vezetői) javaslatban szerepeljen(ek) a foglalkoztatotti jogcímen jogosult mellett a hozzátartozói jogcímen jogosult személy(ek) is.
+
+Az (5) bekezdéshez: A szolgálati útlevelek esetében a kiállítás alapja egy miniszteri (egyéb szerv/hivatal vezetői) javaslat, ezen okmány tekintetében az útlevélhatóság nem rendelkezik engedélyezési (mérlegelési) jogkörrel, amennyiben az egyéb feltételek fennállnak. Ennek átvezetése történik meg a (4) bekezdésben, ahol jelenleg az útlevélhatóság engedélyezési szerepkörben jelenik meg.
+
+Célszerű ugyanakkor egy olyan felelősségi szabály beiktatása, amely szerint az okmány kiadására javaslatot tevő személy vizsgálja felül évenként, hogy indokolt-e még a szolgálati útlevéllel való rendelkezés. Előfordulhat ugyanis olyan élethelyzet, hogy az okmányra jogosult - a szolgálati útlevél érvényességi idején belül - egy másik munkakörbe kerül, így az okmány birtoklása már nem indokolt a továbbiakban.
+
+A (6) bekezdéshez: Pontosító tartalmú rendelkezés, amely egyértelművé teszi, hogy kizárólag a magánútlevél és második magánútlevél esetében van lehetőség a különleges eljárásokban történő igénylésére, figyelemmel arra, hogy a szolgálati útlevelek esetében eltérő az eljárásmód (ezen útlevelek amúgy is gyorsabban kerülnek kiállításra).
+
+E rendelkezés a különböző jogforrási szintek (törvény, végrehajtási rendeletek és a díjrendelet) közötti összhang megteremtését is szolgálja.
+
+A (7) bekezdéshez: Gyakorlati jogalkalmazási kérdést rendez a szabályozás, amely egyértelműsíti, hogy mely esetekben van lehetőség az okmány igénylésére kizárólag elektronikus úton és mely esetekben van lehetőség a személyes megjelenés mellett az elektronikus úton történő igénylésre is.
+
+A (9) bekezdéshez: A rendelkezés alapján az útiokmány nyilvántartás a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásba vétele érdekében adatot szolgáltat a személyiadat- és lakcímnyilvántartás számára.
+
+A (10) bekezdéshez: A gazdasági stabilitásról szóló törvénynek megfelelően törvényi szinten kerül kimondásra az adatszolgáltatásért fizetendő igazgatási szolgáltatási díjfizetési kötelezettség alóli mentesítés.
+
+A (11) bekezdéshez: A jelenlegi megfogalmazás nem felel meg a normavilágosság követelményének, ezért indokolt az ujjnyomat adat kezelésének időtartamát külön alpontban szabályozni mindkét esetkörre, azaz arra, ha a kérelmező - a jogszabályban meghatározott, a kérelmezési folyamatban az ügyintéző által ismertetett célból - hozzájárul ezen adata kezeléséhez, illetve arra, ha az adatkezeléshez nem járul hozzá.
+
+A (12) bekezdéshez: A (9) bekezdésben foglalt szabályaihoz alkalmazkodva kerül megfogalmazásra az útiokmány- nyilvántartásból történő adatszolgáltatásért fizetendő igazgatási szolgáltatási díjról szóló rendelet megalkotására vonatkozó felhatalmazó rendelkezés.
+
+A 12. §-hoz
+
+Pontosító, kiegészítő, egyértelműsítő rendelkezések. A jogszabályi összhang és az egyértelmű jogalkalmazói gyakorlat érdekében szükséges a normaszövegben a hiányt pótló rendelkezések beiktatása. Ugyancsak ezen cél érdekében szükséges a fogalmak egységes használata, emiatt szükséges a pontosítások végrehajtása, a felesleges hivatkozások kivétele. Érdemi módosítás, hogy a hajós szolgálati útlevélben már nem kerül feltüntetésre a „betöltött tisztség”, ez csak a szolgálati útlevél, a diplomata útlevél és a külügyi szolgálati útlevél esetén marad meg. Szintén érdeminek tekintendő módosítás, hogy a második magánútlevél érvényességi ideje egységesen (mindkét okból kiadott okmánynál) öt évre változik.
+
+A 13. §-hoz
+
+Az (1) bekezdéshez: A NAVASZ projekt során létrehozásra kerül az elektronikus okirattár, amelynek fogalmát szükséges meghatározni a Kknyt.-ben.
+
+A (2) bekezdéshez: Az új elektronikus okirattár létrehozására tekintettel szükséges meghatározni az alapirat fogalmát.
+
+A (3) bekezdéshez: A személyazonosítás esetében nem csak az személyiadat- és lakcímnyilvántartásból, hanem az útiokmány-nyilvántartásból is kell adatot igényelnie az eljáró hatóságnak, ha a polgár útiokmánnyal igazolta magát.
+
+A (4) bekezdéshez: Tekintettel a technikai fejlődésre, az elektronikus ügyintézés térnyerésére, ebből adódóan a bürokratikus irattárolás elavultságára, a NAVASZ projekt során létrehozásra kerül az elektronikus okirattár, amely magában egyesíti a múltbéli papír alapú, és a jövőbeli elektronikus iratokat, amelyek megőrzése egyaránt szükséges.
+
+Az (5) és (6) bekezdéshez: A rendelkezés hiánypótló, az adózás rendjéről szóló 2017. évi CL. törvény 88. §-ában foglalt adatszolgáltatási kötelezettséggel történő összhang megteremtése.
+
+A (7) bekezdéshez: Az új elektronikus okirattár létrehozására tekintettel szükséges meghatározni az okirattár adattartalmát.
+
+A (8) bekezdéshez: A vezetői engedély kiállítására irányuló eljárások során szükséges az ügyfél személyi azonosító alapján történő azonosítását is lehetővé tenni a személyiadat- és lakcímnyilvántartásból. Ennek érdekében a személyi azonosító keresőadatként továbbítható kell legyen a személyiadat- és lakcímnyilvántartás adatkezelője felé.
+
+A (9) bekezdéshez: Szükséges az ügyfél számára lehetőséget biztosítani arra, hogy a vezetői engedély automatikus kiállítására irányuló eljáráshoz szükséges feltételek fennállását - a kategóriára vonatkozó vezetési jogosultság Magyarországon történő megszerzése, valamint magyar vezetői engedély érvényességi idejének meghosszabbítása esetén - a vezetői engedély megszerzésének folyamatában ellenőrizhesse. Az ehhez szükséges, saját hozzájáruláson alapuló jogalap itt pontosításra került.
+
+A 14. §-hoz
+
+Az a), c) és d) pontokhoz: A járműokmányok fogalom meghatározásának módosítása miatt a szükséges módosítás.
+
+A b) ponthoz: A járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK Irányelv 2. cikk (a továbbiakban Irányelv) c) pontjához igazodó meghatározás szükséges, mert a korábbi „a jármű forgalomban tarthatóságát igazoló okmány” meghatározás kiüresedett. A forgalmi engedély a kérelemre történő ideiglenes forgalomból kivonás esetén már nem kerül leadásra, továbbá a nyilvántartásba vételt követően a járművek forgalomban tarthatósága kikerül a közlekedési igazgatási hatóság látóköréből, például a lejárt műszaki alkalmasság esetén is az ügyfél birtokában marad a forgalmi engedély. A forgalomban való részvétel jogszabályi feltételeit a KRESZ és a közúti közlekedésiről szóló 1988. évi I. törvény írja elő. A forgalmi engedély műszaki érvényességi időhöz kötődő kiállítása megakadályozza a forgalmi engedély cseréjét olyan esetekben, amelyekhez annak kiállítása nélkülözhetetlen (például okmánycsere, -pótlás, üzembentartó bejegyzés, átírás).
+
+Az e) ponthoz: Az okirattár adattartalmát meghatározó jogszabály fogja részletesen tartalmazni az okirattárba továbbítandó okiratok körét.
+
+Az f) ponthoz: A szöveg pontosítása szükséges annak érdekében, hogy a nyilvántartásban szereplő vizsgadátum és a vezetési jogosultság bejegyzésének dátuma jól elkülöníthető legyen egymástól.
+
+A g) ponthoz: A törzskönyv adattartalmára való hivatkozások pontosítása szükséges.
+
+A h) ponthoz: A szövegpontosítás hiánypótló, mivel az ellenőrzésnek akkor is meg kell történnie, ha a mentességi kérelem elbírálására a közlekedési igazgatási hatóság eljárásában kerül sor, továbbá szükséges az ideiglenes rendszámtáblák nyilvántartásának használatához nélkülözhetetlen jogi környezet megteremtése.
+
+Az i) ponthoz: A járműokmányok fogalom meghatározásának módosítása miatt szükséges módosítás, továbbá az okmányok adattartalmára való hivatkozások pontosítása szükséges.
+
+A j) ponthoz: Az okmányok adattartalmára való hivatkozások pontosítása szükséges.
+
+A k)-m) pontokhoz: Az új elektronikus okirattár létrehozására tekintettel szükséges szövegpontosítás.
+
+Az n) ponthoz: A Kknyt. 9. § (1c) bekezdésének hatályon kívül helyezésével, és helyette a 9/A. § beiktatásával összefüggő szövegpontosítás.
+
+A 15. §-hoz
+
+Az elektronikus okirattár létrehozása miatt feleslegessé vált rendelkezések.
+
+A 16. §-hoz
+
+Tekintettel arra, hogy többi szállítási alágazatban (közút, vasút, légi) is 2 év az elévülés a szabálytalan veszélyes áru szállítások szankcionálására, így a vízi szállítás esetén is indokolt ezt megtartani.
+
+A 17. § és 18. §-hoz
+
+A helyi esélyegyenlőségi programok tekintetében a hatályos szabályozás 3 szintű jelenleg: törvény (az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló törvény), és törvényi felhatalmazás alapján kormányrendelet és miniszteri rendelet.
+
+A miniszteri rendelet célja alapvetően, hogy egységesen meghatározza az önkormányzatok számára, hogy hogyan kell a programokhoz kapcsolódó intézkedési tervet és a helyzetelemzést elvégezni, illetve sablont ad hozzá, és meghatározza azokat a statisztikai mutatókat, amelyek az elemzések alapját kell képezzék.
+
+Ugyanakkor egy korábbi deregulációs vizsgálat rávilágított arra, hogy a miniszteri rendelet egységes jogalkalmazást segítő szabályai, sablonjai módszertani útmutatóban is kiadhatóak, azok nem igényelnek jogszabályi szintű szabályozást.
+
+Az útmutatóba kizárólag azon rendelkezések kerülnének, melyek szabályozása jogszabályi szinten nem szükséges. A jogszabályi szintű szabályok pedig egységesen kormányrendeletbe szabályozhatóak (a hatályos szabályok kiegészíthetőek) tekintettel arra, hogy a hatályos felhatalmazás szerint a Kormány meghatározhatja a helyi esélyegyenlőségi program elkészítésének szempontjait és eljárását, a helyi esélyegyenlőségi program felülvizsgálatának módját, és az elkészítésében részt vevőkkel szembeni követelményekre vonatkozó részletes szabályokat.
+
+Erre figyelemmel a helyi esélyegyenlőségi program elkészítésének részletes szabályait nem szükséges miniszteri rendeleti szinten szabályozni, azok egységesen kormányrendeleti szinten, illetve módszertani útmutatókban kerülnek meghatározásra.
+
+A 19. §-hoz
+
+A képmás mint személyes adat pontosítását a törvényben az teszi indokolttá, hogy a törvényben megfogalmazott eltiltott és kitiltott személyek képmásának rendszerben történő elérésének biztosítása nem tisztázott, mivel a kapcsolódó jogszabályokban a sportrendészeti nyilvántartás számára történő automatikus adatszolgáltatás nincs rögzítve. Az adatszolgáltatást kizárólag egyedi megkeresés alapján teljesítik, amely időigényes és jelentős mértékű adminisztratív terhet ró a végrehajtó állományra.
+
+A 20. §-hoz
+
+Megújításra kerül a kötelező gépjármű-felelősségbiztosítás nyilvántartás. A kötelező gépjárműfelelősség- biztosítás kötvénynyilvántartás szakrendszerének informatikai megújítása mellett szükséges szabályozni a kötvénynyilvántartáshoz közvetlen hozzáféréssel rendelkező személyek központi jogosultságkezelésének részletszabályait.
+
+A 21. §-hoz
+
+Az (1) bekezdéshez: Az értesítési cím kivezetéséhez kapcsolódó intézkedés.
+
+A (2) bekezdéshez: a nemzetiségi névnek az útlevélen való feltüntetéshez szükséges rendelkezés; az anyakönyvi adatot az útlevélhatóság átveheti.
+
+A 22. §-hoz
+
+A törvényi rendelkezésekkel való összhang megteremtése érdekében megszüntetésre kerül az a lehetőség, hogy a szülő az intézetben kérelmezze a nevének és telefonszámának lakcímkártyán történő feltüntetését, így azt az anyakönyvvezetőnek sem kell továbbítani a kiállító hatóságnak.
+
+A 23. §-hoz
+
+A szociális szövetkezetek a hatályos szabályozás szerint akkor lehetnek közfoglalkoztatók, és részükre közfoglalkoztatási támogatás akkor állapítható meg, ha a közfoglalkoztatási törvényben tételesen meghatározott feladatot végeznek. E tevékenységi körök azonban rendkívül szűk keretet biztosítanak a közfoglalkoztatási támogatásokra és nem oldják meg a nagy értékű beruházások működtetésének problémáját.
+
+A közfoglalkoztatás rendszerében a járási startmunka mintaprogramok támogatása során ugyanis számos helyen valósultak meg jelentős gazdasági potenciállal rendelkező olyan működőképes beruházások, amelyek nagy létszámban foglalkoztattak hátrányos helyzetű munkavállalókat. E tevékenységek egy része az önkormányzati közfoglalkoztatás keretei között nem, vagy csak részben működtethető tovább. A településeken ugyanis nincs a támogatásból létrejött beruházás működtetéséhez szükséges komplex vállalkozási tudás és nincs megfelelő létszámú humánerőforrás. A létrejött beruházásokat indokolt - értékvesztés nélkül, hosszabb távon - továbbra is a közfoglalkoztatás keretei között működtetni.
+
+A közfoglalkoztatási támogatások odaítélésekor hangsúlyos elem, hogy a közfoglalkoztatásból kikerülő, munkatapasztalattal rendelkező munkavállaló számára a szociális szövetkezet legyen a foglalkoztatás egyik lehetséges lépcsőfoka az elsődleges munkaerőpiac felé. A már működő, a közfoglalkoztatás alapjain szerveződő start szociális szövetkezetek fenntarthatóságát viszont veszélyezteti a munkaviszonyban történő foglalkoztatáshoz kapcsolódó magas bérköltség. E probléma kezelésére megoldást jelenthet, ha a start szociális szövetkezetek közfoglalkoztatási támogatási lehetőségei bővülnének a törvénymódosítás által. Ezáltal a start szociális szövetkezetek pénzügyileg megerősödnének és biztonságosan fenntarthatóvá válnának. Az így megerősödött start szociális szövetkezet folyamatosan képes munkalehetőséget biztosítani a közfoglalkoztatottaknak, valamint a közülük munkaviszonyba átkerülők számára.
+
+A törvénymódosítással a start szociális szövetkezetek általánosan, a tevékenységi körüktől függetlenül részesülhetnek közfoglalkoztatási támogatásban, amely a közfoglalkoztatottak közfoglalkoztatási bérének finanszírozását szolgálja. A határozott idejű közfoglalkoztatási jogviszony megszűnését követően a motivált és gazdasági értelemben is értékteremtő munkát végző volt közfoglalkoztatottaknak a start szociális szövetkezeten belül lehetőségük lenne munkaviszonyt létesíteni. Ezzel a start szociális szövetkezetek, mint társadalmi vállalkozások valódi átmenetet tudnának biztosítani az álláskeresőknek a közfoglalkoztatáson keresztül a munkaviszonyba.
+
+A közfoglalkoztatási törvény módosítása nem vezet be új támogatási formát, csak a már meglévő közfoglalkoztatási támogatást terjeszti ki általánosan a start szociális szövetkezetekre. A start szociális szövetkezetek a törvényben rögzített egyes tevékenységekre eddig is jogosultak voltak közfoglalkoztatási támogatásra. A bevezetendő általános támogatás nem haladja meg a korábban az állami és önkormányzati tulajdon kezelésével és fenntartásával megbízott, vagy erre a célra az állam, illetve önkormányzat által létrehozott gazdálkodó szervezetek közfoglalkoztatási támogatásának kereteit.
+
+A 24. §-hoz
+
+A hatályos jogszabályok alapján ezen szabálytalanságok mindegyike esetén kötelező a katasztrófavédelmi bírság kiszabása jelenleg is [ld. 208/2011. (X. 12.) Korm. rendelet 5. § (3) bekezdés].
+
+2022. január 1-jétől az Integrált Hatósági Rendszer (a továbbiakban: IHR) elindulásával teljesen elektronizált hatósági ügyintézési folyamatok kerülnek kialakításra, melynek kialakításához egyrészt felhatalmazási rendelkezés, másrészt a folyamatok-, és az adatkezelést szabályozó rendelkezések megalkotása vált szükségessé.
+
+Veszélyes üzemi szakterület vonatkozásában a harmincnapos adatkezelési idő hatéves időtartamra való cserélését elsősorban az indokolja, hogy a veszélyes anyagokkal foglalkozó üzemek legkésőbb 5 évente vizsgálják felül biztonsági dokumentációjukat. A veszélyes anyagokkal foglalkozó üzemek biztonsági jelentésében, elemzésében és a katasztrófavédelmi engedélykérelmekben található ügyfél adatok kezelése a felülvizsgálati periódus alatt - figyelemmel a felülvizsgálat esetenként elhúzódó folyamatára is - folyamatosan indokolt, többek között a védekezési feladatok maradéktalan ellátása céljából. A csomagolóeszköz a gyártásától számított öt évig használható. A gyártási engedély a kiadásától számított három évig érvényes. Emiatt szükséges a csomagolóeszköz gyártási dokumentációjában foglalt adatok hat évig történő megőrzése, a nyomon követhetőségének biztosítása, továbbá a felelősségi körök utólagos tisztázása érdekében.
+
+A „Mezőgazdasági vízhasználatai eljárásokat támogató integrált hatósági ügyviteli (IHR) rendszer kialakítása az OKF-nél” című projektelem (VIZEK projekt) bővítése a jelenlegi IHR projekt, amelynek célja a vízügyi és vízvédelmi hatósági eljárásokat követően további (tűzvédelem, piacfelügyelet, veszélyes üzemek, veszélyes áruszállítás, létfontosságú rendszerek és létesítmények védelme, nukleárisbaleset-elhárítás, polgári védelem) hatósági és szakhatósági eljárások Ákr. konform teljes folyamatra kiterjedő (e-Papír SZEÜSZ-ön benyújtott támogatást lehetővé tevő), hatóság oldali ügyintézés kialakítása.
+
+Az aktuális, „Integrált Hatósági Rendszer bővítése” című projektelem célja az eddigi fázisokban megvalósult IHR rendszer bővítése, vízjogi és vízvédelmi eljárások fejlett munkafolyamatra épülő elektronikus ügyintézési folyamatainak bővítése, a katasztrófavédelemhez tartozó valamennyi hatósági és szakhatósági feladataival, valamint egy ügyfeleket támogató rendszerrel.
+
+Jelen projekt keretében a HAMAR IHR rendszerben a vízjogi és vízvédelmi eljárások fejlett munkafolyamatra épülő elektronikus ügyintézési folyamatai továbbfejlesztésre kerülnek a katasztrófavédelemhez tartozó valamennyi hatósági és szakhatósági feladatával, valamint egy ügyfeleket támogató rendszerrel.
+
+Fontos hangsúlyozni, hogy a rendszer a vízügyi eljárások tekintetében továbbra is a VIZEK keretrendszeren keresztül kommunikál.
+
+Az IHR rendszer HAMAR alrendszerből és Ügyfélportál alrendszerből áll.
+
+A Kat. törvényben adjuk meg a teljes IHR használatára történő felhatalmazást, és valamennyi kapcsolódó törvény a Kat. törvény e rendelkezésére utal vissza.
+
+Az IHR-hez kapcsolódó felhatalmazó rendelkezéseket tartalmaz.
+
+A 25. §-hoz
+
+Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 26. §-hoz
+
+Az (1) és (3) bekezdéshez: Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A (2) bekezdéshez: A Rendőrségről szóló 1994. évi XXXIV. törvény 7. §-ának 2021. január 1-jétől hatályos módosításával összhangban indokolt egyes jogállási törvényeknek a foglalkoztatottak megbízhatósági vizsgálat alá vonásával kapcsolatos rendelkezésének felülvizsgálata. Az érintett rendelkezésekben a foglalkoztatott hozzájárulása szerepel mint előírás, amelyet ugyanakkor a szabályozás a jogviszony létesítésének és fenntartásának feltételeként határoz meg. Az általános adatvédelmi rendeletben (GDPR) foglaltakkal összhangban a hozzájárulás a foglalkoztató - foglalkoztatott relációjában megkérdőjelezhető, hiszen a hozzájárulás megadásától vagy fenntartásától ténylegesen a jogviszony fenntartása válik függővé, a módosítani előírások ezért jelenleg nincsenek maradéktalanul összhangban az általános adatvédelmi rendeletben (GDPR) foglaltakkal.
+
+A módosítási javaslatok azon jogállási törvények módosítását tartalmazzák, melyek a megbízhatósági vizsgálathoz történő hozzájáruláshoz kötik az adott foglalkoztatotti jogviszony létesítését vagy fenntartását, a jövőben - ha a megbízhatósági vizsgálat elvégzését törvényi rendelkezés lehetővé teszi - ezen jogviszonyok esetében a törvény a foglalkoztatási jogviszonyból fakadó feladatok törvényes ellátásának megbízhatósági ellenőrzéssel történő ellenőrizhetőségének tudomásulvételét tartalmazzák.
+
+A 27. §-hoz
+
+Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 28. §-hoz
+
+Az (1) bekezdéshez: a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) jelenleg nem mondja ki egyértelműen, hogy kizárólag azon rendszerelemek jelölhetőek ki európai létfontosságú rendszerelemmé, melyek korábban nemzeti létfontosságú rendszerelemmé kijelölésre kerültek. Az alapelv kimondásával, fogalmi szintre emelésével megszüntethetőek az esetleges párhuzamos eljárások, valamint kizárólag olyan európai létfontosságú rendszerelemmé kijelölési eljárás kezdeményezhető, melynek horizontális és ágazati kritériumai teljesülnek, így a Belügyminiszternek kizárólag a más EGT tagállami hatás körében kell nyilatkozni. Ez az eljárások gyorsítását és egyszerűsítését segíti elő, valamint az ügyterhet is csökkenti.
+
+Tényleges jogalkalmazói problémát okozott ugyanis több esetben is, hogy a jelenleg hatályos szabályozás nem deklarálja egyértelműen, hogy csak olyan létfontosságú rendszerelem jelölhető ki európai létfontosságú rendszerelemmé, amely már kijelölt nemzeti létfontosságú rendszerelem.
+
+Előfordult a közlekedés ágazat légiközlekedés alágazatában, az egészségügy ágazat aktív fekvőbeteg-ellátás, és a működtetéséhez szükséges szolgáltatások alágazatában, valamint az infokommunikációs technológiák ágazat kormányzati elektronikus információs rendszerek alágazatában egyaránt, hogy az üzemeltető azonosítási jelentésében nem értékelte a vizsgált rendszerelemét nemzeti rendszerelemként, hanem csak európai létfontosságú rendszerelemként.
+
+Az azonosítási jelentések szerint valamennyi fenti rendszerelem esetében fennálltak egyébként a nemzeti létfontosságú rendszerelemmé kijelölés feltételei - a rendszerelem vonatkozásában legalább egy ágazati és egy horizontális kritérium feltételei teljesültek - azonban az ágazati kijelölő hatóság nem indított nemzeti létfontosságú rendszerelemmé kijelölés iránti eljárást, nem kereste meg szakhatóságként a BM Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: BM OKF), hanem az azonosítási jelentést közvetlenül a belügyminiszter részére küldte meg, az Lrtv. 3. §-a szerinti eljárás lefolytatása céljából.
+
+Fenti esetekben a BM OKF és az ágazati kijelölő hatóság online egyeztetéseket kezdeményezett annak érdekében, hogy a nemzeti létfontosságú rendszerelemmé történő kijelölési eljárás meginduljon, a szakhatóság vizsgálhassa a horizontális kritériumok fennállását.
+
+A kiadott szakhatósági állásfoglalásokban részletezett, a horizontális kritériumok teljesülése szakkérdésében a BM OKF, mint szakhatóság által beszerzett vélemények felhasználhatóak lennének az európai létfontosságú rendszerelemmé történő kijelölési eljárásban, amennyiben azok nem előznék meg a nemzeti létfontosságú rendszerelemmé történő kijelölési eljárásokat. A hatályos jogszabályok szerint az európai létfontosságú rendszerelemmé történő kijelölés folyamatában a horizontális kritériumok teljesülésének lehetőségét a katasztrófák elleni védekezésért felelős miniszter vizsgálja, majd a nemzetközi szerződés megkötését az adott ágazat szerint feladat- és hatáskörrel rendelkező miniszterrel együtt kezdeményezi.
+
+A BM OKF úgy tudja a leghatékonyabban ezt a folyamatot támogatni, ha előtte lefolytatta a szakhatósági eljárást, megvizsgálta a szakhatósági eljárásban közreműködő vélemény-nyilvánító szervek (NAV, Rendőrség, AH, TEK, TIBEK, OIF, kormánymegbízott, környezetvédelmi hatóság, vízügyi és vízvédelmi hatóság, hivatásos katasztrófavédelmi szerv területi szerve) álláspontjait. Ehhez képest ugyanakkor az európai létfontosságú rendszerelemmé történő kijelölési eljárásban nincs szakhatósági közreműködés.
+
+Az európai rendszerelemmé történő kijelölési eljárás természeténél fogva hosszadalmasabb, hiszen a kijelöléshez nemzetközi szerződés megkötésére, majd a szerződés kijelölő hatóság általi határozatba foglalására is szükség van. A nemzeti létfontosságú rendszerelemmé kijelölés, mint előfeltétel jogszabályba építése lehetővé teszi, hogy mielőbb azonosításra és kijelölésre kerülhessen valamennyi olyan szolgáltatás, eszköz, létesítmény vagy rendszer rendszereleme, továbbá azok által nyújtott szolgáltatások, amelyek elengedhetetlenek a létfontosságú társadalmi feladatok ellátásához Magyarországon, és hogy e (nemzeti) rendszerelemekre vonatkozzanak a jogszabályokban előírt és elvárt speciális védelmi és biztonsági intézkedések addig is, míg az európai rendszerelemmé történő kijelölési eljárás lezajlik.
+
+A (2) bekezdéshez: A megváltozott ágazati kritériumok üzemeltetők általi automatikus felülvizsgálatát teszi kötelezővé a rendelkezés, így amennyiben azok a szabályozás hatálya alá kerülnének, vagy az alól kikerülnének, akkor újbóli azonosítási jelentés benyújtásával jelzik ezt az ágazati kijelelő hatóság felé. Korábban a jogszabály nem tartalmazott ilyen kitételt, így jelen bekezdés komoly jogalkalmazásbeli, eljárási szabály-hiányosságot pótol.
+
+A (3) bekezdéshez: A törvény szövege nem tartalmazott rendelkezést olyan esetekre, amikor egy adott üzemeltető által üzemeletetett rendszerelem vagy szolgáltatás - az ágazaton kívüli honvédelmi létfontosságú rendszerelemeken kívül - több ágazati kritériumnak is megfelel, így adott esetben több ágazatban is kijelölésre kerültek egyes üzemeltetők. Ez több szempontból is célszerűtlen (több ágazati kijelölő hatóság felügyelete, duplikált ellenőrzések és ellenőrzési határidők, duplikált üzemeltetői biztonsági terv, etc.). A szabályozást továbbá rendelkezéseket tartalmaz arra az esetre is, ha a kritériumrendszer folytán mégis fennállnának az ún. kettős kijelölés feltételei; ez esetben az általános javaslattevő hatóság ügydöntő javaslatával dönt, a kijelölésről vagy a kijelölés visszavonásáról. Ezzel elérhető az a cél, hogy egy üzemeltető egy rendszereleme csupán egy ágazatban kerüljön kijelölésre.
+
+A (4) bekezdéshez: Az IHR 2022. január 1-jével történő elindulásával azon eljárások esetén, ahol a hivatásos katasztrófavédelmi szerv területi szerve jár el ágazati kijelölő hatóságként (víz és közbiztonság-védelem ágazatokban) kötelező lesz az IHR rendszer használata mind a hivatásos katasztrófavédelmi szervnek, mind az eljárás ügyfeleinek, egyéb szereplőinek. Az eljárás ügyfeleinek a hivatásos katasztrófavédelmi szerv honlapján közzétett formában és módon kell benyújtania az eljárás valamennyi iratát, ezt a jogszabály szövegében is meg kell jeleníteni.
+
+Az (5) bekezdéshez: Korábban csak javaslattevő hatóság szerepelt a normaszövegben, mely általános javaslattevő hatóságként volt értelmezhető. Azonban a jogszabályhelyen levő feladatokat a jogalkotónak az ágazati javaslattevő hatósághoz kell telepítenie, figyelemmel arra, hogy az általános javaslattevő hatóság az európai létfontosságú rendszerelemmé kijelölést megelőző, nemzeti rendszerelemmé kijelölés során lefolytatott szakhatósági eljárásában szakhatóságként már vizsgálta az azonosítási jelentést.
+
+A (6) bekezdéshez: Az IHR 2022. január 1-jével történő elindulásával azon eljárások esetén, ahol a hivatásos katasztrófavédelmi szerv területi szerve jár el ágazati kijelölő hatóságként (víz és közbiztonság-védelem ágazatokban) kötelező lesz az IHR rendszer használata mind a hivatásos katasztrófavédelmi szervnek, mind az eljárás ügyfeleinek, egyéb szereplőinek.
+
+Jelen bekezdések adatvédelmi rendelkezéseket tartalmaznak, mint a kezelt adatok köre, kezelés időtartama, stb. Az üzemeltetőkre vonatkozó kezelt adatok köre az adószámmal, míg a biztonsági összekötőre vonatkozó adatok köre az elektronikus levelezési címmel egészül ki. A rendelkezések meghatározzák az adatkezelés célját, időtartamát, és az adattovábbítás szabályait egyaránt.
+
+A (7) bekezdéshez: Az IHR 2022. január 1-jével történő elindulásával azon eljárások esetén, ahol a hivatásos katasztrófavédelmi szerv területi szerve jár el ágazati kijelölő hatóságként (víz és közbiztonság-védelem ágazatokban) kötelező lesz az IHR rendszer használata mind a hivatásos katasztrófavédelmi szervnek, mind az eljárás ügyfeleinek, egyéb szereplőinek. Az eljárás ügyfeleinek a hivatásos katasztrófavédelmi szerv honlapján közzétett formában és módon kell benyújtania az eljárás valamennyi iratát, ezt a jogszabály szövegében is meg kell jeleníteni.
+
+A (8)-(9) bekezdéshez: A létfontosságú rendszerelemek üzemfolytonos működése alapvető elvárás, hiszen olyan szolgáltatásokat biztosítanak, melyek a társadalmi létfenntartásához, valamint biztonságukhoz nélkülözhetetlenek. Az üzemfolytonos működés hatóság általi biztosítása főként a biztonsági dokumentációk elkészítésével és a hatóság részére való megküldésével érhető el. Figyelemmel arra, hogy a fenti dokumentációk hiánya potenciálisan negatívan hat a társadalom alapszükségleteinek ellátását biztosító kijelölt létfontosságú rendszerelemek biztonságára, a figyelmeztetés, mint alapvetően alkalmazandó szankció csak nagyon szűk körben alkalmazható joghátrány lehet.
+
+A hatóság jogsértés esetén jogosult közigazgatási szankció - így akár közigazgatási bírság - kiszabása mellett a módosításban szereplő intézkedésekre vagy közigazgatási bírság önálló kiszabására is. A módosítás így egyértelműen szétválasztja a közigazgatási szankciókat és a hatósági intézkedéseket, megkönnyítve a jogalkalmazást.
+
+A (10) bekezdéshez: Az IHR 2022. január 1-jével történő elindulásával azon eljárások esetén, ahol a hivatásos katasztrófavédelmi szerv területi szerve jár el ágazati kijelölő hatóságként (víz és közbiztonság-védelem ágazatokban) kötelező lesz az IHR rendszer használata mind a hivatásos katasztrófavédelmi szervnek, mind az eljárás ügyfeleinek, egyéb szereplőinek. Szükséges annak rögzítése, hogy az IHR-ben valamennyi eljárástípusra meghatározott és rögzített nyomtatványok vannak, és ezek használata kötelező. A kijelölés és a kijelölés visszavonása iránti hivatalbóli eljárások azonosítási jelentéssel indulnak, és ha az ügyfél nem az azonosítási jelentésre vonatkozó ügytípusnak megfelelő nyomtatványt tölti ki, és nem ezzel indul a hatósági eljárás, az eljárás megszüntetésének van helye, az Ákr. 47. § (1) bekezdésének a) pontja alapján.
+
+A 29. §-hoz
+
+Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 30. §-hoz
+
+A (2) bekezdéshez: A Rendőrségről szóló 1994. évi XXXIV. törvény 7. §-ának 2021. január 1-jétől hatályos módosításával összhangban indokolt egyes jogállási törvényeknek a foglalkoztatottak megbízhatósági vizsgálat alá vonásával kapcsolatos rendelkezésének felülvizsgálata. Az érintett rendelkezésekben a foglalkoztatott hozzájárulása szerepel mint előírás, amelyet ugyanakkor a szabályozás a jogviszony létesítésének és fenntartásának feltételeként határoz meg. Az általános adatvédelmi rendeletben (GDPR) foglaltakkal összhangban a hozzájárulás a foglalkoztató - foglalkoztatott relációjában megkérdőjelezhető, hiszen a hozzájárulás megadásától vagy fenntartásától ténylegesen a jogviszony fenntartása válik függővé, a módosítani előírások ezért jelenleg nincsenek maradéktalanul összhangban az általános adatvédelmi rendeletben (GDPR) foglaltakkal.
+
+A módosítási javaslatok azon jogállási törvények módosítását tartalmazzák, melyek a megbízhatósági vizsgálathoz történő hozzájáruláshoz kötik az adott foglalkoztatotti jogviszony létesítését vagy fenntartását, a jövőben - ha a megbízhatósági vizsgálat elvégzését törvényi rendelkezés lehetővé teszi - ezen jogviszonyok esetében a törvény a foglalkoztatási jogviszonyból fakadó feladatok törvényes ellátásának megbízhatósági ellenőrzéssel történő ellenőrizhetőségének tudomásulvételét tartalmazzák.
+
+Az (1), (3) és (4) bekezdéshez: Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 31. §-hoz
+
+Az égéstermék-elvezető létesítését és használatát jelenleg elsősorban különböző ágazati jogszabályok (építésügyi, gázipari és tűzvédelmi területen), valamint szabványok határozzák meg. A gyakorlatban az égéstermék-elvezetők tervezését, kivitelezését, valamint engedélyezését megkönnyítené, ha ezen építménytípusra egységes és a jogalkalmazók számára egyformán irányadó, a műszaki fejlődést követő szabályok lennének elérhetőek. E hiányt pótolja a törvénymódosítás azzal, hogy az égéstermék-elvezetőkre vonatkozóan kéményseprő-ipari műszaki irányelvek kidolgozására adna lehetőséget egy szakértői bizottság részére, amelyet a hivatásos katasztrófavédelmi szerv működtetne az érintett ágazatok és szakmák intézményi képviselőinek részvételével.
+
+A szakértői testület által kidolgozott kéményseprő-ipari műszaki irányelveket a hivatásos katasztrófavédelmi szerv központi szervének vezetője adná ki.
+
+A szakértői testület működését a településüzemeltetésért, kéményseprő-ipari tevékenységért felelős miniszter által kiadandó rendeleti norma szabályozná.
+
+A 32. §-hoz
+
+Az Eüsztv. 2021. február 1-jén hatályba lépett módosítása a Kormány által biztosított azonosítási szolgáltatások között bevezeti az ún. videotechnológián alapuló azonosítási szolgáltatást (VKTA). A VKTA, mint azonosítási szolgáltatás elsősorban az elektronikus ügyintézést könnyíti meg, azaz az ügyfélnek az elektronikus ügyintézést megelőzően nem kell ügyfélkapus jelszavát vagy a személyazonosító igazolványát használni, pusztán az arcképe segítségével azonosítja magát.
+
+A VKTA technológiája azonban alkalmas arra is, hogy az elektronikus ügyintézés helyett biztonságos, zárt videorendszerben élőben intézhessen ügyet az ügyfél. Jelenleg videokapcsolaton keresztül történő ügyintézésre ugyanakkor kizárólag a polgári és büntetőeljárásban meghatározott esetekben van lehetőség, egyéb eljárásokban nincs, ugyanakkor a pandémiás helyzetre is, valamint a személyes megjelenések számának csökkentésére is figyelemmel szükség lenne olyan szabályozás kialakítására, amely minden olyan eljárásban, amelyben az ügyfél nyilatkozata személyesen is benyújtható vagy csak így nyújtható be, valamint az arcképmás és az aláírás is rögzíthető távolról.
+
+A videotechnológián alapuló ügyintézés megalapozásához szükséges törvénymódosítási javaslat lényeges elemei a következők:
+
+- törvényben lehetővé tenni a videotechnológián történő ügyintézést valamennyi elektronikus ügyintézést biztosító szerv tekintetében,
+
+- az ügyintézés nem kötelező, azt csak lehetőségként kell rögzíteni, a szervek - a KIOSZK-hoz hasonlóan - csatlakozhatnak ezen lehetőséghez, a csatlakozott szervekről az Elektronikus Ügyintézési Felügyelet vezet listát,
+
+- a szabályozásban ki kell mondani, hogy a videofelvétel rögzítése főszabály szerint kötelező, kivétel abban az esetben, ha az ügyfél érdemi nyilatkozatot nem tesz vagy azt külön (elektronikusan hitelesítve) írásban teszi meg (figyelemmel arra, hogy a felvételeket adatbiztonsági okból egészben kell rögzíteni, így abból nem vágható ki a személyazonosságot igazoló okmány képmása),
+
+- az elektronikus ügyintézést biztosító szerv kötelezettséget videotechnológiás kapcsolat esetében nem közölhet az ügyféllel, azt írásban (akár elektronikus úton) kell megtennie,
+
+- a szabályozás (a már meglévő szabályozásokra tekintettel) polgári vagy büntetőeljárás során nem alkalmazható.
+
+A 33. §-hoz
+
+Technikai pontosítást tartalmaz, az Eüsztv. 35/A. § (2) bekezdéshez kapcsolódóan.
+
+A 34. §-hoz
+
+Az Automatikus Közigazgatási Döntéshozatali (AKD) rendszer egy olyan integrált szolgáltatás, amelynek segítségével a korábban emberi közreműködés útján elvégzett műveletek automatizált módon kerülhetnek végrehajtásra. Ennek eredményeként - amennyiben a döntéshez szükséges minden információ rendelkezésre áll -, az ügyindítás és annak lezárása közötti ügyintézési lépések emberi beavatkozás nélkül, automatizáltan történhetnek meg, ezáltal a gyakorlatban is kialakításra kerül az Ákr. 40. §-ában nevesített automatikus döntéshozatali eljárás.
+
+Automatikus döntéshozatalra jelenleg akkor van lehetőség, ha
+
+a) azt törvény vagy kormányrendelet megengedi,
+
+b) a hatóság részére a kérelem benyújtásakor minden adat rendelkezésére áll,
+
+c) a döntés meghozatala mérlegelést nem igényel, és
+
+d) nincs ellenérdekű ügyfél.
+
+A folyamatok továbbfejlesztése érdekében a törvényjavaslat javasolja, hogy 2022. január 1-jei hatállyal bővüljön az automatikus döntéshozatallal intézhető ügyek száma azokkal az ügyekkel, ahol a hatóságnál ugyan nincs meg az adat közvetlenül, de azt automatikus információátadással, rendszer-rendszer kapcsolatban be tudja szerezni. Az előterjesztő álláspontja szerint ezzel az automatikusan intézhető ügyek számát jelentősen meg lehet növelni, amelyhez az ágazati jogszabályok (törvények és kormányrendeletek) felülvizsgálata szükséges. Fontos kiemelni, hogy az nem határozza meg, hogy az automatikus döntéshozatalt milyen módszerrel hozza meg a hatóság. Ennek megfelelően az automatikus döntéshozatalt meghozhatja a hatóság emberi közreműködéssel is, de nem zárja ki jogszabály azt sem, hogy a hatóság emberi közreműködés nélkül hozza meg döntését. A javaslattétellel bővülhetnek azon ügyek, ahol az adatok átadása automatikusan történik meg, valamint lehetőség van arra is, hogy a döntéseket emberi közreműködés nélkül hozza meg a hatóság. A jövőben - a bürokrácia-csökkentés biztosítása, valamint a humán erőforrás racionalizálása érdekében - a mesterséges intelligencia segítségével további ügyek esetében alakítható ki a teljes körű vagy részleges automatizálás.
+
+A 35. §-hoz
+
+A módosítás megteremti az adóigazolvány megszemélyesítéséhez szükséges adatszolgáltatás jogalapját a kérelemre történő és az egyéb okból történő okmánykiállítás esetén. Ideértve a magyar állampolgár gyermekek részére a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény jelenlegi rendelkezései, továbbá - a nem intézetben született gyermekek részére - a 2021. február 1-jétől hatályos 14. § (1) bekezdése alapján kiadott adóigazolványt, továbbá a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény szerinti külföldi gyermekek részére e törvény jelenlegi rendelkezései, valamint a 2021. február 1-jétől hatályos 5. § (7) bekezdése alapján kiállított adóigazolványt.
+
+A vagyonszerzési illeték szabályszerű megfizetésének érdekében indokolt adatszolgáltatást biztosítani a közlekedési nyilvántartási rendszer és a NAV között. A fenti módosítással kapcsolatban a kieső időszakot érintő adatszolgáltatás tekintetében átmeneti rendelkezés megalkotása is szükséges.
+
+A 36. §-hoz
+
+Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 37. §-hoz
+
+Az (1) bekezdéshez: A Rendőrségről szóló 1994. évi XXXIV. törvény 7. §-ának 2021. január 1-jétől hatályos módosításával összhangban indokolt egyes jogállási törvényeknek a foglalkoztatottak megbízhatósági vizsgálat alá vonásával kapcsolatos rendelkezésének felülvizsgálata. Az érintett rendelkezésekben a foglalkoztatott hozzájárulása szerepel mint előírás, amelyet ugyanakkor a szabályozás a jogviszony létesítésének és fenntartásának feltételeként határoz meg. Az általános adatvédelmi rendeletben (GDPR) foglaltakkal összhangban a hozzájárulás a foglalkoztató - foglalkoztatott relációjában megkérdőjelezhető, hiszen a hozzájárulás megadásától vagy fenntartásától ténylegesen a jogviszony fenntartása válik függővé, a módosítani előírások ezért jelenleg nincsenek maradéktalanul összhangban az általános adatvédelmi rendeletben (GDPR) foglaltakkal.
+
+A módosítási javaslatok azon jogállási törvények módosítását tartalmazzák, melyek a megbízhatósági vizsgálathoz történő hozzájáruláshoz kötik az adott foglalkoztatotti jogviszony létesítését vagy fenntartását, a jövőben - ha a megbízhatósági vizsgálat elvégzését törvényi rendelkezés lehetővé teszi - ezen jogviszonyok esetében a törvény a foglalkoztatási jogviszonyból fakadó feladatok törvényes ellátásának megbízhatósági ellenőrzéssel történő ellenőrizhetőségének tudomásulvételét tartalmazzák.
+
+A (2)-(5) bekezdéshez: Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 38. §-hoz
+
+Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 39. §-hoz
+
+Az (1) bekezdéshez: A Rendőrségről szóló 1994. évi XXXIV. törvény 7. §-ának 2021. január 1-jétől hatályos módosításával összhangban indokolt egyes jogállási törvényeknek a foglalkoztatottak megbízhatósági vizsgálat alá vonásával kapcsolatos rendelkezésének felülvizsgálata. Az érintett rendelkezésekben a foglalkoztatott hozzájárulása szerepel mint előírás, amelyet ugyanakkor a szabályozás a jogviszony létesítésének és fenntartásának feltételeként határoz meg. Az általános adatvédelmi rendeletben (GDPR) foglaltakkal összhangban a hozzájárulás a foglalkoztató - foglalkoztatott relációjában megkérdőjelezhető, hiszen a hozzájárulás megadásától vagy fenntartásától ténylegesen a jogviszony fenntartása válik függővé, a módosítani előírások ezért jelenleg nincsenek maradéktalanul összhangban az általános adatvédelmi rendeletben (GDPR) foglaltakkal.
+
+A módosítási javaslatok azon jogállási törvények módosítását tartalmazzák, melyek a megbízhatósági vizsgálathoz történő hozzájáruláshoz kötik az adott foglalkoztatotti jogviszony létesítését vagy fenntartását, a jövőben - ha a megbízhatósági vizsgálat elvégzését törvényi rendelkezés lehetővé teszi - ezen jogviszonyok esetében a törvény a foglalkoztatási jogviszonyból fakadó feladatok törvényes ellátásának megbízhatósági ellenőrzéssel történő ellenőrizhetőségének tudomásulvételét tartalmazzák.
+
+A (2) és (3) bekezdéshez: Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A (4) bekezdéshez: A Küt. 48. § többek között rögzíti a Nemzeti Közszolgálati Egyetem közszolgálati továbbképzési rendszer működtetése során ellátandó feladatait, a továbbképzés költségeinek megtérítésére vonatkozó rendelkezéseket, azonban a képzési rendszer tényleges működtetésére, finanszírozására (így a normatív hozzájárulás mértékére, a továbbképzési kötelezettségre és időszakra) további részletszabályozás, illetve erre irányuló felhatalmazó rendelkezés nem szerepel a Küt.-ben. A törvényjavaslat ezen felhatalmazó rendelkezést pótolja.
+
+A 40. §-hoz
+
+Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 41. §-hoz
+
+Az (1) bekezdéshez: Adatkezelési okokból nem célszerű az egész hagyatéki végzés átadása.
+
+A (2) bekezdéshez: A Gfbt. 47. § (2) bekezdése szerinti, jogszabályban előírt elektronikus kommunikációs kapcsolaton, illetve az erre a célra szolgáló internetes felületen keresztül történő adatszolgáltatás lehetőségét biztosítani szükséges a Gfbt. 47. § (1) bekezdés g)-l) pontjában meghatározott adatigénylők részére, ezért a hivatkozás kiegészítésre került az ezen pontokra történő hivatkozással.
+
+A (3) bekezdéshez: szövegpontosító rendelkezés.
+
+A (4) bekezdéshez: A rendelkezés a törvénytervezet egyéb rendelkezésében újra megállapításra került.
+
+A 42. §-hoz
+
+Szakmai cél, hogy az állam által működtetett rendszerek szolgáltatásait minél szélesebb körben vegyék igénybe az állami szervezetek. Az egyes foglalkoztatási jogviszonyok tartalmi szabályozását nem érintik a módosító javaslatok, azok célja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatások igénybevételének lehetőségére vonatkozó rendelkezések rögzítése, így a keretrendszerhez való csatlakozás elvi alapjainak megteremtésére kerül sor.
+
+A Közszolgálati Személyügyi Szolgáltatási Keretrendszer által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet, a Közszolgálati Személyügyi Szolgáltatási Keretrendszer informatikai üzemeltetését végző szervezetet, az állásportálokkal való együttműködési megállapodás tartalmi elemeire vonatkozó felhatalmazás a Kit.-be kerül beillesztésre.
+
+Az érintett törvényekbe rögzítésre kerül, hogy a jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató igénybe veheti és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott, egyes szolgáltatásait.
+
+A törvényjavaslatban szereplő törvények hatálya alá tartozó valamennyi foglalkoztatott esetében lehetőség lesz a szolgáltatások igénybevételére, tehát e szervi körben nemcsak az adott jogállásban lévők esetében (például kormánytisztviselő, közalkalmazott, hivatásos jogviszonyban álló stb.), hanem az adott szervnél munkavállalóként foglalkoztatott esetében is igénybe vehető a szolgáltatás a rendszerhez történő csatlakozás esetén.
+
+A 43. §-hoz
+
+Az értesítési cím kivezetéséhez kapcsolódó szövegpontosító rendelkezés.
+
+A 44. §-hoz
+
+A rendelkezések a törvénytervezet egyéb rendelkezésében újra megállapításra kerültek.
+
+-----STARTING---POINT---VEGE---
+
+A 45. §-hoz
+
+Hatálybaléptető rendelkezést tartalmaz.
+
+A 46. §-hoz
+
+Jogharmonizációs záradék.

@@ -1,0 +1,401 @@
+2013. évi LXXVI. törvény indokolása
+
+egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az anyakönyvi eljárásról szóló 2010. évi I. törvény elfogadása óta egyértelművé vált, hogy az elfogadott törvény koncepcióját az informatikai lehetőségek kiaknázása és az elektronikus anyakönyvi rendszer létrehozását szolgáló támogatás lehető legcélszerűbb felhasználása (adott mennyiségű forrásból a legtöbb és legkorszerűbb funkcióra képes rendszer létrehozása) érdekében újra kell gondolni, ami főleg a nyilvántartás szerkezetét és belső logikáját illetően strukturális változásokat is jelent. Példának okáért világossá vált, hogy szakmai szemmel nézve meghaladott az a szemlélet, amely a papíralapú anyakönyveknél külön könyvben vezette a különböző anyakönyvi események - születés, házasság, haláleset - bejegyzéseit. Papír alapon valóban így volt biztosítható a rendszer átláthatósága, elektronikus formában azonban ez indokolatlan adattöbbszörözést jelentene, hiszen a papíralapú logika szerint az ugyanahhoz a személyhez kapcsolódó, a személy azonosítását szolgáló adatokat az adott személy minden egyes anyakönyvi eseményénél, vagyis születése, házasságkötése és halálozása kapcsán is külön-külön be kell vinni a rendszerbe, míg elektronikusan ez szükségtelen és ellentétes az adattakarékosság elvével. Erre tekintettel a nyilvántartást a korábbi esemény alapú nyilvántartásból személyi alapú nyilvántartássá kell alakítani, ahol az egy adott személyhez kapcsolódó azonosító adatokhoz köthető a továbbiakban az érintett személlyel kapcsolatos valamennyi anyakönyvi esemény. Ez a változás - ami a rendszer működését és funkcionalitását nagymértékben javítja - azonban a rendszer alapjául szolgáló jogszabályi környezet teljes újragondolását teszi szükségessé.
+
+Az új struktúra az anyakönyvi eljárás jelentős egyszerűsítését is jelenti, ami mind az anyakönyvvezetők és egyéb szakemberek munkáját, mind az állampolgárok ügyintézését megkönnyíti, összhangban a Magyary Egyszerűsítési Programban is meghatározott célkitűzésekkel, valamint azzal a törekvéssel, hogy a XXI. század követelményeinek megfelelően a közigazgatás is a legteljesebb mértékben kihasználja az informatika által nyújtott lehetőségeket.
+
+Az egyszerűsítésre irányuló jelentős előrelépések egyike, hogy az állampolgárok az új rendszerben az elektronikus anyakönyvi nyilvántartásból az országban bárhol igényelhetnek adatot, illetve anyakönyvi kivonatot, ami jelentős előnyt jelent az ügyintézésben, tekintettel arra, hogy ma az élet számos területén kell anyakönyvi kivonattal igazolni bizonyos tényeket.
+
+Az új rendszer az anyakönyvvezetők munkáját is jelentős mértékben megkönnyíti. Egyrészt az elvégzendő feladatokhoz igazodó eljárástámogató funkciók segítik őket feladataik ellátásában, például felhívják a figyelmet az egyes feladatokhoz kapcsolódó értesítési vagy egyéb kötelezettségekre, vagy jeleznek, ha hiányzó adatot észlelnek. Másrészt az elektronikus anyakönyvi rendszer segítséget nyújt olyan feladatokban is, mint az anyakönyvi kivonat kiállítása.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az elektronikus anyakönyv és az ahhoz kapcsolódó támogató nyilvántartások struktúrájának átalakítása miatt indokolt a terminológia pontosítása.
+
+A törvény 2. §-a meghatározza, hogy az anyakönyvi eljárások közül mely eljárások minősülnek közigazgatási hatósági eljárásnak, illetve mely nyilvántartások a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) értelmében vett hatósági nyilvántartásnak.
+
+A nyilvántartások rendszerén belül az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása minősül közhiteles hatósági nyilvántartásnak.
+
+A névváltoztatási eljárás sajátosságai, így különösen a Magyar Tudományos Akadémia, valamint az országos nemzetiségi önkormányzatok eljárásban való részvétele miatt indokolt, hogy a névváltoztatási eljárás esetében a Ket. szabályait csak szubszidiárius módon alkalmazzák. Mivel a házasságkötésnél és a bejegyzett élettársi kapcsolat létesítésénél lehetővé kell tenni a nem hivatásos nyelvi tolmács közreműködését, indokolt, hogy ő a házasulók vagy a felek kérelmére a házasságkötés bejelentésére irányuló eljárásban és a bejegyzett élettársi kapcsolat létesítésének bejelentésére irányuló eljárásban is részt vehessen, amire a Ket. szabályai nem biztosítanak lehetőséget, így ezen eljárások tekintetében is meg kell állapítani a szubszidiaritást. Tekintettel arra, hogy e kérdésről maga a Ket. rendelkezik, a névváltoztatási eljárás, valamint a házasságkötés bejelentésére irányuló eljárás és a bejegyzett élettársi kapcsolat létesítésének bejelentésére irányuló eljárás kivételként szerepeltetését is a Ket.-ben, nem pedig az anyakönyvi eljárásról szóló törvényben kell szabályozni.
+
+A 2. §-hoz
+
+Az anyakönyvi nyilvántartások rendszerének új struktúrája miatt indokolt a fogalom-meghatározások pontosítása.
+
+Az egyedi elektronikus anyakönyvi azonosító a papíralapú anyakönyvben szereplő, az érintett személyhez kötődő anyakönyvi esemény azonosítására szolgáló folyószámot váltja fel, és célja, hogy a személyalapúvá váló elektronikus anyakönyvben az érintettel kapcsolatban nyilvántartott adatokat az érintetthez kapcsolja. Ez nem tekinthető egy második személyazonosítónak, hiszen kizárólag az anyakönyvi rendszerben szolgálja az érintett azonosítását, az elektronikus anyakönyv személyiadat- és lakcímnyilvántartással való kommunikációja továbbra is a személyi azonosító jel alapján működik. A személyi azonosító jel az anyakönyvi rendszerben azért nem használható fel az egyedi elektronikus anyakönyvi azonosító céljára, mert az elektronikus anyakönyvbe bekerülő személyek nem teljes köre rendelkezik azzal.
+
+A munkaszüneti napok anyakönyvi törvényben való meghatározása kizárólag annak rögzítésére szolgál, hogy mely napokon nem lehet házasságot kötni vagy bejegyzett élettársi kapcsolatot létesíteni. Ezeknek a napoknak a száma szűk körben került meghatározásra, és ennek folytán nem feltétlenül azonos a más jogterületek által alkalmazott munkaszüneti nap meghatározásokkal.
+
+A 3. §-hoz
+
+A rendelkezés meghatározza azon szervek körét, akik bejegyzést teljesíthetnek az elektronikus anyakönyvi nyilvántartásba. Tekintettel arra, hogy az elektronikus anyakönyv előnye éppen abban áll, hogy nem csak egyetlen földrajzi helyen érhető el és teljesíthető abba bejegyzés, a korábbi szabályozással szemben, amely csak az anyakönyvvezető számára tette lehetővé bejegyzés teljesítését az anyakönyvbe, bejegyzési jogosultságot kapnak azok a szervek is, amelyek jelenleg is hoznak anyakönyvi bejegyzés alapjául szolgáló döntéseket. Az elektronikus anyakönyvvel okafogyottá válik az a szabályozás, amely szerint ezek a szervek csak döntenek, és ezt követően az anyakönyvvezető teljesíti a bejegyzést. Így a saját döntésein alapuló esetben bejegyzési jogosultság illeti meg az új szabályozás alapján az anyakönyvi ügyekért felelős minisztert és szűk körben indokolt megteremteni annak lehetőségét is, hogy ha az anyakönyvezés alapja külföldi okirat, akkor az okirat elfogadhatóságát megállapító fővárosi vagy megyei kormányhivatal jegyezhessen be az anyakönyvbe.
+
+Ha hazai anyakönyvezésnek van helye, és a bejegyzés alapja külföldi okirat, a fővárosi és megyei kormányhivatalra vonatkozó szabályok nem alkalmazhatók. A fővárosi és megyei kormányhivatal a házasságkötéshez vagy bejegyzett élettársi kapcsolat létesítéséhez szükséges külföldi okirat esetén nem dönthet a bejegyzés teljesítéséről, ugyanis a házasságot nem ő köti meg, és a bejegyzett élettársi kapcsolatot sem ő létesíti. Ebben az esetben a kormányhivatal csak az okirat elfogadhatóságáról dönt. Egyéb külföldi okiratok tekintetében pedig a kormányhivatal csak abban az esetben teljesíti magát az anyakönyvi bejegyzést, ha az okiratot nem az Európai Unió e rendelkezésben meghatározott közvetlenül alkalmazandó jogi aktusa alapján állították ki. Az utóbbi kategóriába tartozó okiratok esetén ugyanis az anyakönyvvezető maga jár el, a kormányhivatal külön döntésére nincs szükség.
+
+A hatásköri szabályok jelölik ki adatkezelőnek bizonyos műveletek tekintetében a központi nyilvántartó szervet.
+
+A 4-6. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 7. §-hoz
+
+Minden anyakönyvezés utólag, az esemény bekövetkezésének időpontját követően történik, így a módosítás szövegpontosítást tartalmaz.
+
+A rendelkezések kijelölik továbbá a házassági névviselési forma módosítására irányuló eljárás lefolytatására illetékes anyakönyvvezetőt.
+
+A 8. §-hoz
+
+Anyakönyvi okirat kiállítására az új szabályok értelmében már nemcsak az anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság rendelkezik hatáskörrel és illetékességgel, hanem a hivatásos konzuli tisztviselő is.
+
+A 9. §-hoz
+
+A törvény új jogintézményként vezeti be az apai elismerő nyilatkozatok nyilvántartását. Apai elismerő nyilatkozatot nemcsak anyakönyvvezető előtt lehet tenni, hanem bíróságnál, gyámhatóságnál, közjegyzőnél és a hivatásos konzuli tisztviselőnél is. Tekintettel arra, hogy a nyilvántartás funkcióját akkor képes betölteni, ha az a lehető legteljesebb körben tartalmazza mind a teljes hatályú, mind a nem teljes hatályú apai elismerő nyilatkozatot, ki kell jelölni a nem az anyakönyvvezető előtt tett apai elismerő nyilatkozatokat a nyilvántartásba rögzítő anyakönyvvezetőket. Szükséges megállapítani az arra vonatkozó hatásköri szabályokat is, hogy a hozzájáruló nyilatkozatokat - ha azokat nem az apai elismerő nyilatkozattal együtt tették meg - mely szerv rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
+
+A 10. §-hoz
+
+Az anyakönyvi eljárásokban a fővárosi és megyei kormányhivatalok részére megállapított azon hatáskörök tekintetében, ahol a kormányhivatalt döntési jogosultság illeti meg (anyakönyvi bejegyzést teljesít vagy a külföldi okirat elfogadhatóságáról dönt, de az anyakönyvi bejegyzést nem ő teljesíti), indokolt megállapítani az ilyen döntésekkel szembeni jogorvoslat elbírálására jogosult másodfokú szervet. A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény ugyan rendelkezik a fővárosi és megyei kormányhivatalok irányításáról, e hatáskörök tekintetében azonban mindenképpen szükséges rögzíteni, hogy ilyen esetekben az anyakönyvi ügyekért felelős miniszter jár el másodfokon.
+
+A 11. §-hoz
+
+A rendelkezés a külföldi okiratok felhasználhatóságára vonatkozó könnyítő szabályokat tartalmaz.
+
+A 12. §-hoz
+
+A Ket. 50. § (5) bekezdése alapján törvény vagy kormányrendelet kötelezően előírhatja valamely szerv véleményének beszerzését. E szabályokat korábban miniszteri rendelet tartalmazta, így indokolt ezek törvényi szintre emelése.
+
+A 13-14. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 15. §-hoz
+
+Az elektronikus anyakönyv működésének elősegítése, valamint az anyakönyvvezető munkaterhének könnyítése érdekében a házasságkötési szándék bejelentéséről elektronikus jegyzőkönyvet kell felvenni, amelyet kitöltést követően az anyakönyvvezető kinyomtat, a házasulók, az anyakönyvvezető, valamint közreműködése esetén a tolmács aláírnak. A kinyomtatott jegyzőkönyv alapirat, amelyet a házasságkötés helye szerinti anyakönyvvezető őriz, az elektronikus jegyzőkönyv pedig olyan alapirat, amelyhez az arra jogosultak elektronikus úton, közvetlenül hozzáférhetnek. A jegyzőkönyv adattartalmát a törvény melléklete állapítja meg, mivel az olyan adatokat is tartalmaz, amelyeket az anyakönyv nem, így ezek tekintetében is meg kell teremteni az adatkezelés törvényi alapját.
+
+A házasságkötést megelőző eljárásban a házasulók anyakönyvvezető előtt történő személyes megjelenése kötelező, ez alóli kivételként fogalmazza meg a törvény, hogy az a házasuló, aki nem rendelkezik magyarországi lakcímmel, házasságkötési szándékát a konzuli tisztviselőnél is bejelentheti. Ha egyik házasuló sem rendelkezik magyarországi lakcímmel, csak az egyiküket illeti meg ez a lehetőség, a másik házasulónak mindenképpen az anyakönyvvezető előtt kell bejelentenie házasságkötési szándékát.
+
+A 16. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 17. §-hoz
+
+A rendelkezés egyértelművé teszi, hogy amennyiben a települési önkormányzat a hivatali helyiségen és a munkaidőn kívüli házasságkötésért, mint szolgáltatásért ellenszolgáltatást kíván megállapítani, akkor ezt csak önkormányzati rendeletben teheti meg. E rendelet megalkotása nem kötelező, de hiányában a hivatali helyiségen és munkaidőn kívüli házasságkötésért ellenszolgáltatás sem állapítható meg.
+
+A 18. §-hoz
+
+A módosítást az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XLIX. törvény tartalmazta. Tekintettel arra, hogy a módosítás szakmai indoka továbbra is fennáll, az anyakönyvi eljárást érintő módosításokat azonban a törvény összegyűjti és konszolidálja, indokolt azt a jelen törvénnyel elvégezni.
+
+A 19. §-hoz
+
+Tekintettel arra, hogy a házasulóknak a házasságkötést megelőző eljárásban nem kötelező megállapodniuk a születendő gyermek családi nevében, lehetővé kell tenni azt is, hogy - amennyiben a házasságból gyermek még vagy egyáltalán nem született - a felek kérjék ennek a nem kötelező adattartalomnak a törlését. Ez a lehetőség nemcsak a házasság fennállása alatt, hanem azt követően is megilleti a feleket.
+
+A 20. §-hoz
+
+A rendelkezés meghatározza azt az időtartamot, amelyen belül a házasság megkötésének helye szerint illetékes jegyző határoz a felmentés megadásáról azon akadályok alól, amelyek alól a felmentést a családi jog anyagi jogi szabályai lehetővé teszik.
+
+A 21. §-hoz
+
+Ha a jegyzőkönyv érvényességi ideje lejárt, és a házasságot nem kötötték meg, a házasságkötést megelőző eljárásban rögzített adatokat törölni kell valamennyi nyilvántartásból, mivel az adatkezelés célja a továbbiakban már nem áll fenn.
+
+A 22-23. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 24. §-hoz
+
+Az elektronikus anyakönyv működésének megkezdését követően a papíralapú anyakönyvek nem vezethetők tovább, a házassági bejegyzést a házasfelek, a tanúk és az anyakönyvvezető nem tudja aláírni. A házassági lap, amely alapirat, ennek az aktusnak a pótlását teszi lehetővé. Értelemszerűen, ha megállapítást nyer, hogy a házasság nem jött létre, az anyakönyvvezetőnek e tény megállapítását követően az addigi eljárás során rögzített valamennyi adatot törölnie kell a nyilvántartásból, mivel az adatkezelés célja megszűnt.
+
+A 25. §-hoz
+
+Az elektronikus anyakönyv működésének elősegítése, valamint az anyakönyvvezető munkaterhének könnyítése érdekében a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentéséről elektronikus jegyzőkönyvet kell felvenni, amelyet a kitöltést követően az anyakönyvvezető kinyomtat, a felek, az anyakönyvvezető és közreműködése esetén a tolmács aláírnak. A kinyomtatott jegyzőkönyv alapirat, amelyet a bejegyzett élettársi kapcsolat létesítésének helye szerinti anyakönyvvezető őriz, az elektronikus jegyzőkönyv pedig olyan alapirat, amelyhez az arra jogosultak elektronikus úton, közvetlenül hozzáférhetnek.
+
+A bejegyzett élettársi kapcsolat létesítését megelőző eljárásban a felek anyakönyvvezető előtt történő személyes megjelenése kötelező, ez alóli kivételként fogalmazza meg a törvény, hogy az a fél, aki nem rendelkezik magyarországi lakcímmel, a bejegyzett élettársi kapcsolat létesítésére irányuló szándékát a konzuli tisztviselőnél is bejelentheti. Ha egyik fél sem rendelkezik magyarországi lakcímmel, csak az egyiküket illeti meg ez a lehetőség, a másik félnek mindenképpen az anyakönyvvezető előtt kell bejelentenie szándékát.
+
+A 26. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 27. §-hoz
+
+A rendelkezés egyértelművé teszi, hogy amennyiben a települési önkormányzat a bejegyzett élettársi kapcsolat hivatali helyiségen és a munkaidőn kívüli létesítéséért mint szolgáltatásért ellenszolgáltatást kíván megállapítani, akkor ezt csak önkormányzati rendeletben teheti meg. E rendelet megalkotása nem kötelező, de hiányában a bejegyzett élettársi kapcsolat hivatali helyiségen és munkaidőn kívüli létesítéséért ellenszolgáltatás sem állapítható meg.
+
+A 28. §-hoz
+
+A rendelkezés a jogbiztonság erősítése érdekében jogtechnikai célú módosításként a jelen módosításba emeli be az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítására irányuló, korábban kihirdetett rendelkezést, amely a 2010. évi I. törvény hatálybalépésének hiányában eddig nem fejthette ki joghatását.
+
+A 29. §-hoz
+
+A rendelkezés meghatározza azt az időtartamot, amelyen belül a bejegyzett élettársi kapcsolat létesítésének helye szerint illetékes jegyző határoz a felmentés megadásáról azon akadály alól, amely alól a felmentést a családi jog anyagi jogi szabályai lehetővé teszik.
+
+A 30. §-hoz
+
+Ha a jegyzőkönyv érvényességi ideje lejárt, és a felek nem létesítettek bejegyzett élettársi kapcsolatot, a bejegyzett élettársi kapcsolat létesítését megelőző eljárásban rögzített adatokat törölni kell valamennyi nyilvántartásból, mivel az adatkezelés célja a továbbiakban már nem áll fenn.
+
+A 31-32. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 33. §-hoz
+
+Az elektronikus anyakönyv működésének megkezdését követően a papíralapú anyakönyvek nem vezethetők tovább, az anyakönyvi bejegyzést a bejegyzett élettársak, a tanúk és az anyakönyvvezető nem tudja aláírni. A bejegyzett élettársi kapcsolat létesítéséről szóló lap, amely alapirat, ennek az aktusnak a pótlását teszi lehetővé. Értelemszerűen, ha megállapítást nyer, hogy a bejegyzett élettársi kapcsolat nem jött létre, az anyakönyvvezetőnek e tény megállapítását követően az addigi eljárás során rögzített valamennyi adatot törölnie kell a nyilvántartásból, mivel az adatkezelés célja megszűnt.
+
+A 34-36. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 37. §-hoz
+
+A magyar jog alapján a magyar állampolgár két utónevet viselhet. Az Európai Unió Bírósága a C-148/02. sz. Garcia Avello kontra Belgium ügyben hozott ítéletében megállapította, hogy „nem a tagállam feladata, hogy a másik tagállam által nyújtott állampolgárság hatásait csökkentse, és a Szerződés által szabályozott alapvető szabadságok gyakorlásához további feltételeket írjon elő ezen állampolgárság elismeréséhez”, és a közösségi jogba ütközőnek találta, hogy egy tagállam nem teszi lehetővé egy másik tagállam állampolgárságával is rendelkező állampolgára számára, hogy a másik tagállam állampolgársága szerinti jog alapján őt megillető nevet viselje. Ennek megfelelően egyértelművé kell tenni, hogy az utónév választására vonatkozó rendelkezés hatálya alá csak azok a magyar állampolgárok tartoznak, akik nem rendelkeznek más állam állampolgárságával is, amely alapján megilletné őket a kettőnél több utónév viselésének joga.
+
+A 38. §-hoz
+
+A nemzetiséghez tartozó személynek a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény alapján joga van saját és gyermeke utónevének saját nemzetiségének megfelelő megválasztásához. E jog gyakorlásához a nemzetiséghez tartozó személynek nyilatkoznia kell arról, hogy a választott utónevet mely nemzetiség használja. Az anyakönyvvezető e nyilatkozat alapján a választott utónevet megkeresi az országos nemzetiségi önkormányzatok által összeállított nemzetiségi utónévjegyzékben. Ha a nevet az utónévjegyzék nem tartalmazza, akkor az anyakönyvvezető az országos nemzetiségi önkormányzathoz fordul az utónév bejegyezhetőségének megállapítása érdekében. Amennyiben az országos nemzetiségi önkormányzat az utónév anyakönyvezhetőségét jóváhagyja, a nevet a Magyar Tudományos Akadémia Nyelvtudományi Intézetének eljárásával analóg módon felveszi a nemzetiségi utónévjegyzékbe.
+
+A nemzetiséghez tartozó személynek joga van arra, hogy kérje nevének az adott nemzetiségi nyelv szabályainak megfelelő anyakönyvezését, valamint nemzetiségi nyelven történő anyakönyvezését. Abban az esetben, ha a nemzetiséghez tartozó személy nevét az anyakönyv nemzetiségi nyelven tartalmazza, az anyakönyvbe adattartalomként bekerül a névadat magyar ábécé betűinek alkalmazásával átírt változata is.
+
+A 39. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 40. §-hoz
+
+Rendelkezni kell arról, hogy amennyiben a bíróság a volt feleséget eltiltotta a házasságra utaló toldást tartalmazó házassági név viselésétől, és a volt feleség nem nyilatkozik arról, hogy milyen házassági nevet kíván tovább viselni, akkor házassági névként születési nevét rögzíti az anyakönyvvezető az anyakönyvbe.
+
+A 41. §-hoz
+
+A házassági névviselési forma módosítására irányuló kérelem esetében a következő okok miatt indokolt a személyes megjelenés. A személyes megjelenés kiváltására az ügyfélkapun keresztül történő ügyindítás lehetne a megoldás, ebben az esetben azonban nem biztosítható, hogy a kérelmező állampolgárságát meg lehessen állapítani. Egyrészt abból a tényből, hogy valaki ügyfélkapu regisztrációval rendelkezik, még nem feltétlenül következik, hogy az illető magyar állampolgár, de ha az ügyfélkapu regisztráció időpontjában magyar állampolgár is lenne, ennek az állampolgárságnak az esetleges elvesztése vagy az arról való lemondás nem ellenőrizhető abban az esetben, ha kérelmét ügyfélkapun nyújtja be.
+
+A 42. §-hoz
+
+Bár a gyakorlatban a bíróság értesíti az anyakönyvvezetőt arról, ha a volt feleséget eltiltja a házasságra utaló toldást tartalmazó házassági név viselésétől, a hatályos szabályozás ezen értesítési kötelezettséget nem rendezi, így annak törvényi szabályozása indokolt.
+
+A 43. §-hoz
+
+A névviselés a korlátozottan cselekvőképes kiskorút olyan mértékben érintő kérdés, amelyhez a teljes hatályú apai elismerő nyilatkozathoz hasonlóan indokolt hozzájárulását beszerezni.
+
+A 44. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 45. §-hoz
+
+Az anyakönyvi eljárás egyszerűsítését célozza, hogy a névváltoztatási eljárás eredményeként a névváltoztatásról az anyakönyvi ügyekért felelős miniszter nem értesíti az anyakönyvvezetőt, hanem az adatokat közvetlenül ő jegyzi be az elektronikus anyakönyvbe. Tekintettel arra, hogy a papíralapú anyakönyvek korábbi bejegyzéseit nem automatikusan töltik fel az elektronikus anyakönyvbe, azokban az esetekben, ahol az anyakönyvi bejegyzést az elektronikus anyakönyv még nem tartalmazza, a születést nyilvántartó anyakönyvvezető belföldi jogsegély keretében rögzíti ezeket.
+
+A 46. §-hoz
+
+A rendelkezés az anyakönyv közhitelességének biztosítása érdekében a névváltoztatás bejegyzésének egy speciális szabályát állapítja meg.
+
+A 47. §-hoz
+
+A rendelkezés a hatályos szabályozásnak megfelelően kimondja, hogy a doktori címek az anyakönyvbe nem jegyezhetőek be, tekintettel arra, hogy azok családjogi relevanciával nem bírnak. Ez a doktori címnek a személyiadat- és lakcímnyilvántartásba való bejegyzését és ennek alapján igazolványokban való viselését nem érinti.
+
+A 48. §-hoz
+
+A törvény hatályba lépését követően bekövetkező anyakönyvi eseményeket az elektronikus anyakönyvbe kell rögzíteni. Az elektronikus anyakönyvről másodpéldányt nem vezetnek. A törvény hatályba lépését megelőzően bekövetkezett anyakönyvi események adatait az anyakönyvvezetők akkor jegyzik be az elektronikus anyakönyvbe, ha valamelyik adat megváltozása miatt az anyakönyvbe újabb bejegyzést kell teljesíteni. E kötelezettség alól a törvény szűk körben enged kivételt. A papíralapú anyakönyvben szereplő adatokat azokban az esetekben is be kell jegyezni az elektronikus anyakönyvbe, ha olyan eljárás van folyamatban, amelynek eredményeként olyan adatokat kell bejegyezni az elektronikus anyakönyvbe, amelyekkel kapcsolatban a bejegyzés teljesítésére e törvény alapján nem a papíralapú anyakönyv őrzésének helye szerinti anyakönyvvezető illetékes.
+
+A 49-50. §-hoz
+
+A módosítást az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XLIX. törvény tartalmazta. Tekintettel arra, hogy a módosítás szakmai indoka továbbra is fennáll, az anyakönyvi eljárást érintő módosításokat azonban a törvény összegyűjti és konszolidálja, indokolt azt a jelen törvénnyel elvégezni. A további módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+Az 51. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+Az 52. §-hoz
+
+A rendelkezés lehetőséget biztosít az anyakönyvvezetőnek arra, hogy a személyazonosság és az állampolgárság ellenőrzése céljából, valamint a halálozás anyakönyvezésével összefüggésben ellenőrizze a halálesetkor bevonandó okmányok, így a személyazonosító igazolvány, a lakcímet igazoló hatósági igazolvány, az útlevél és a vezetői engedély adatait tartalmazó nyilvántartásban azt, hogy az elhunytnak van-e érvényes ilyen okmánya, hogy ezt követően intézkedhessen annak bevonásáról vagy a hozzátartozó általi átadásáról, illetve felszólíthassa a hozzátartozót az érintett okmány beszolgáltatására. Tekintettel arra, hogy az elektronikus anyakönyvi rendszer automatikusan megteremti az elektronikus kapcsolatfelvétel feltételeit, indokolatlan a jelenlegi szabályozás, amely a technikai feltételek fennállásához köti az adatok közvetlen elektronikus hozzáféréssel történő megismerését.
+
+Az elektronikus anyakönyvi nyilvántartást támogató rendszer megteremti annak a lehetőségét, hogy az anyakönyvvezető közvetlen hozzáféréssel ellenőrizze az állampolgárságot és a személyazonosságot az okmánynyilvántartásokban.
+
+Az 53. §-hoz
+
+Főszabály szerint a házasságot vagy a bejegyzett élettársi kapcsolatot annak megkötését, illetve létesítését követően kell anyakönyvezni. Az annak érdekében történő korábbi anyakönyvezéshez, hogy a felek az anyakönyvi kivonatukat a szertartást követően azonnal megkapják, közérdek nem fűződik, ez nem indokolja a nyilvántartás közhitelességének csorbítását azzal, hogy az nem valós adatokat tartalmazzon, és azt sem, hogy kötelező adatkezelési szabályok megállapításával ez a gyakorlat általánossá váljon. A gyakorlati tapasztalatok azonban azt mutatják, hogy a házasulók vagy bejegyzett élettársi kapcsolatot létesíteni szándékozók jelentős része igényli, hogy részükre az anyakönyvi kivonat haladéktalanul kiállítható legyen. A törvény ezért lehetővé teszi, hogy az anyakönyvi bejegyzés adatait az anyakönyvvezető már a házasságkötést megelőzően bejegyezze az anyakönyvbe. Annak érdekében azonban, hogy a nyilvántartás közhitelessége ne sérüljön, és az valótlan adatok igazolására ne legyen felhasználható, a törvény garanciális szabályként megtiltja az ilyen adatokról történő adattovábbítást, vagy az ilyen adatokhoz való közvetlen hozzáférést. Szintén garanciális jellegű szabály, hogy az ilyen adatok kezelése időtartamának lehető legrövidebbre korlátozása érdekében az anyakönyvvezető legkorábban a házasságkötést vagy a bejegyzett élettársi kapcsolat létesítését megelőző munkanapon jegyezheti be a házassággal vagy a bejegyzett élettársi kapcsolattal összefüggésben rögzítendő adattartalmat. Az adatkezelés jogalapja a házasság megkötéséig vagy a bejegyzett élettársi kapcsolat létesítéséig az érintettek hozzájárulása lesz, aminek az alapiratokból ki kell derülnie. A bejegyzett adatok alapján az anyakönyvi kivonat kiállítható, de az a feleknek csak a házasság megkötését vagy a bejegyzett élettársi kapcsolat létesítését követően adható át. Ha a házasság vagy a bejegyzett élettársi kapcsolat nem jön létre, az anyakönyvvezetőnek az ily módon bejegyzett adatokat legkésőbb a tervezett időpontot követő első munkanapon törölnie kell az elektronikus anyakönyvből, a kiállított anyakönyvi kivonatot pedig meg kell semmisítenie.
+
+Az elektronikus anyakönyvi rendszer bevezetésével indokolatlan a bejegyzés törlése, majd ismételt teljesítése azzal, hogy a későbbi kereshetőség érdekében az ilyen eljárásban keletkezett iratokat meg kell küldeni a bejegyzésre egyébként illetékes anyakönyvvezetőnek.
+
+Az 54. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+Az 55. §-hoz
+
+A Magyary Egyszerűsítési Program kiemelt célja volt az állampolgársági ügyek tekintetében a hazai anyakönyvezés egyidejű megindítása, ennek megfelelően a rendelkezés rögzíti, hogy az állampolgárság megszerzésére irányuló eljárás vagy az állampolgárság igazolására irányuló eljárás kezdeményezésekor - ha a hazai anyakönyvezés nem történt még meg - az állampolgársági kérelem átvételére jogosult szervnél a hazai anyakönyvezés iránti kérelmet is elő kell terjeszteni, és ahhoz csatolni kell a személyiadat- és lakcímnyilvántartásba történő automatikus felvételhez szükséges adatokat is.
+
+Az 56. §-hoz
+
+Az anyakönyvi nyilvántartások rendszerén belül meg kell különböztetni az elektronikus anyakönyvi nyilvántartásokat és a papíralapú anyakönyvi nyilvántartásokat. Az anyakönyv mellett elektronikusan kell vezetni az apai elismerő nyilatkozatok nyilvántartását, az anyakönyvi és névváltoztatási okiratok nyilvántartását (ún. okirat-nyilvántartás), az elektronikus anyakönyvi rendszerben adatok rögzítésére jogosultak nyilvántartását (ún. jogosultsági nyilvántartás), valamint a papíralapú anyakönyvek nyilvántartását. Amiatt, hogy a papíralapú anyakönyvekbe az elektronikus anyakönyvi rendszer indulását követően - a szükséges szűk körben, a papíralapú anyakönyvezés lezárásához - továbbra is teljesíthetők legyenek bejegyzések, valamint az anyakönyvekből adatszolgáltatás, a papíralapú anyakönyvben a bejegyzések megtalálását támogató betűrendes névmutató is további használatban marad, a rendszer indulását követő átmeneti ideig ezeket szintén tovább kell vezetni, így e nyilvántartások a papíralapú anyakönyvi nyilvántartások részeként az anyakönyvi nyilvántartások rendszerének részét képezik.
+
+Az elektronikus anyakönyv új struktúrájában az adattakarékosság elvét szem előtt tartva az adatok nyilvántartása nem anyakönyvi események alapján történik, hanem személyhez kötötten. Az informatikai lehetőségek minél hatékonyabb kiaknázása, az eljárás egyszerűsítése és a nyilvántartás átláthatóbbá tétele érdekében a korábban vezetett négy típusú anyakönyvet egy váltja fel, amivel felszámolhatók az egyes anyakönyvi bejegyzések aktualizálását szolgáló, anyakönyvek közötti értesítési kötelezettségek. Ahhoz, hogy a rendszerből az anyakönyvi bejegyzés generálható legyen, az érintettől különböző személyek adatait is nyilván kell tartani - például a házassági bejegyzés esetén a házastárs adatait - ez azonban nem jár adattöbbszörözéssel, ugyanis a rendszer az érintett személyhez kapcsolódóan nem tartja nyilván más személyek adatait, hanem adatigénylés vagy közvetlen hozzáférés esetén a releváns adatokat e másik személytől veszi át.
+
+Az apai elismerő nyilatkozatok nyilvántartása elektronikus okirat formájában tartalmazza mind a méhmagzatra, mind a megszületett gyermekre tett apai elismerő nyilatkozatokat. Ha az apai elismerő nyilatkozatot az anyakönyvvezető előtt teszik, akkor azt az anyakönyvvezető elektronikus dokumentum formájában elkészíti, kinyomtatja, majd az érintettek aláírják. Különbséget kell tenni a megszületett gyermek és a méhmagzat között. Előbbi esetben - feltéve, hogy a gyermek adatait az elektronikus anyakönyv már tartalmazza - nem a születés helye szerint illetékes anyakönyvvezető jegyzi be az apa és a gyermek adatait az anyakönyvbe, hanem azokat a teljes hatályú elismerő nyilatkozat alapján a rendszer automatikusan generálja. Amennyiben a gyermek és a szülők adatait az elektronikus anyakönyv még nem tartalmazza, a rendszer értesítést küld a gyermek, az apa, valamint az anya születését nyilvántartó anyakönyvvezető számára, akik gondoskodnak a papíralapú anyakönyvben szereplő adatok elektronikus anyakönyvbe történő bejegyzéséről, amely bejegyzés automatikusan kiegészül az apa, a gyermek és az anya teljes hatályú apai elismerő nyilatkozatban már szereplő adataival. Az apai elismerő nyilatkozatot felvevő anyakönyvvezető pedig az aláírt példányt megküldi a születést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak. Méhmagzat esetén a születés helye szerinti anyakönyvvezető az apai elismerő nyilatkozatok nyilvántartásában szereplő apai elismerő nyilatkozatok adatait felhasználva anyakönyvezi a gyermek születését. Apai elismerő nyilatkozat nem csak anyakönyvvezető előtt tehető. A nyilvántartás teljessé tétele érdekében ezek a szervek megküldik az előttük tett apai elismerő nyilatkozatok aláírt példányát a székhelyük szerinti anyakönyvvezetőnek, aki gondoskodik annak elektronikus formában való rögzítéséről, valamint a születést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak történő megküldéséről. Az elektronikus nyilvántartás működése következtében az ügyfelek terhei csökkennek, hiszen nem nekik kell gondoskodniuk az apai elismerő nyilatkozatok illetékes anyakönyvvezető részére történő továbbításáról.
+
+Az anyakönyvi és névváltoztatási okiratok nyilvántartása a kiállított anyakönyvi és névváltoztatási okiratok, valamint a kiállításra még nem került anyakönyvi kivonatok és névváltoztatási okiratok meghatározott adatait tartalmazza. Az anyakönyvi okiratok közhitelességének ellenőrzéséhez és a velük kapcsolatos visszaélések felderítéséhez arra is szükség van, hogy a nyilvántartásból megállapítható legyen, hogy az anyakönyvi okiratokat milyen adattartalommal állították ki. Tekintettel arra, hogy a kivonat adattartalma törvényben rögzített és az elektronikus anyakönyv az érintetthez tartozó adatokat történetiségükben is tartalmazza, a kivonat típusa, kiállításának időpontja, valamint az elektronikus anyakönyvi azonosító alapján az elektronikus rendszer egyértelműen képes meghatározni, hogy az adott kivonatot milyen adattartalommal állították ki. Az anyakönyvi hatósági bizonyítványok esetén a kivonattól eltérően az anyakönyvi okiratok nyilvántartása azt is tartalmazza, hogy a hatósági bizonyítványt mely adatok igazolására állították ki. Mivel az anyakönyvi hatósági bizonyítvány tartalma változó, az elektronikus rendszer csak az adatkörök nyilvántartásával tudja meghatározni a kiállított okirat adattartalmát. Az adattöbbszörözés elkerülése érdekében az anyakönyvi okiratok nyilvántartása tehát nem tartalmazza a kiállított anyakönyvi okiratokban szereplő személyes adatokat, de azokat a rendszer az elektronikus anyakönyv adatai és az okirat-nyilvántartásban szereplő adatok alapján képes megállapítani.
+
+Tekintettel arra, hogy az elektronikus anyakönyvi nyilvántartásokban adatok rögzítésére nem csak az anyakönyvvezetők jogosultak, e résznyilvántartás hatálya alá tartozik mindenki, aki az elektronikus anyakönyvi nyilvántartásokban adatok rögzítésére jogosult, valamint azok is, akik számára a központi nyilvántartó szerv közvetlen hozzáférést biztosított. A nyilvántartás célja kettős. Egyrészt a jogosultak feladatainak ellátását és ellenőrzését támogatja, másrészt pedig ebben a nyilvántartásban kezeli a központi nyilvántartó szerv a közvetlen hozzáféréssel történő adatátvételek biztosításához szükséges adatokat. A nyilvántartás az adatokat a jogosultság megszűnését követő öt évig tartja nyilván. Ennek indoka, hogy a jogosultság megszűnését követően nincs olyan szerv, amely az esetleges adatváltozásokat átvezetné a nyilvántartáson, így sérülhetnek az adatok pontosságára és naprakészségére vonatkozó adatvédelmi követelmények, és így a személyes adatok további nyilvántartásának célja is megkérdőjelezhető.
+
+A papíralapú anyakönyvek nyilvántartásának elsődleges célja, hogy tájékoztatást adjon a papíralapú anyakönyvek fellelhetőségéről. Tekintettel arra, hogy a nyilvántartás kizárólag közérdekű adatokat tartalmaz, ahhoz bárki hozzáférhet.
+
+Az 57. §-hoz
+
+Az anyakönyvből kiállítható anyakönyvi okiratok a Ket. értelmében vett hatósági bizonyítványnak minősülnek, két típusuk van: az anyakönyvi kivonat és az anyakönyvi hatósági bizonyítvány. Az anyakönyvi kivonat adattartalmát törvény határozza meg. Bár az elektronikus anyakönyvben szereplő adatok nyilvántartása személyhez és nem anyakönyvi eseményhez kötötten történik, az elektronikus anyakönyvi rendszer továbbra is képes lesz anyakönyvi eseményhez kapcsolódó kivonatok kiállítására. A korábbi szabályozás értelmében hatósági bizonyítványt csak olyan adatról lehetett kiállítani, amely az anyakönyvi kivonatnak nem tartalma, vagyis ha az ügyfél olyan adat igazolását kérte a hatóságtól, amely az anyakönyvi kivonatban szerepel, akkor függetlenül attól, hogy az anyakönyvi kivonat teljes adattartalmára szüksége volt-e, csak anyakönyvi kivonat kiállítását kérhette. Ezt a korábbi korlátozást oldja a törvény azon szabálya, hogy ha a kivonat adattartalmától eltérő vagy annál kevesebb adat igazolását kérik, az anyakönyvvezető hatósági bizonyítványt állít ki. Hatósági bizonyítványt kell kiállítani a papíralapú anyakönyvekben szereplő azon adatokról is, amelyek nem tartoznak az elektronikus anyakönyv adattartalmába. Az anyakönyvi kivonat biztonsági okmány, erről azonban a törvényben nem szükséges külön rendelkezni, tekintettel arra, hogy a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet a biztonsági okmányok körében nevesíti azt.
+
+A hatósági erkölcsi bizonyítványhoz hasonlóan az elektronikus rendszeren keresztül megteremtődik annak a lehetősége is, hogy a kivonatok felhasználására jogosultak ellenőrizhessék, hogy a kivonat adattartalmában a kiállítása óta történt-e változás. A lekérdezéssel nem nyílik lehetőség annak tisztázásra, hogy mely adatok és hogyan változtak, hanem csak arra, hogy a kivonatot felhasználó tájékoztatást kapjon az adatváltozás tényéről, és így a kivonat felhasználhatóságáról meggyőződjön.
+
+Az 58-59. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások. A rendelkezések meghatározzák az anyakönyvi nyilvántartások rendszeréből teljesíthető adattovábbítások módjait. A Ket. 68. §-a és 69. §-a szabályozza az iratbetekintést, ami az anyakönyvi eljárások közül hatósági eljárásnak minősülő eljárások tekintetében is alkalmazandó.
+
+A 60. §-hoz
+
+Az 1980. december 31-ig vezetett anyakönyvek másodpéldányát a levéltár őrzi. Nem indokolt, hogy az ezekben tárolt adatok megismerhetőségét az anyakönyvi eljárásról szóló törvény szerinti szabályoktól eltérő rendelkezések szabályozzák, erre tekintettel a törvény kimondja, hogy ezekből az anyakönyvekből az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint az érintettet megillető tájékoztatáson és kutatáson kívül adattovábbítás nem teljesíthető, és adat nem tehető megismerhetővé.
+
+A 61. §-hoz
+
+A rendelkezés megteremti azon adatok kezelésének törvényi alapját, amelyek kezelésére az anyakönyvvezető az anyakönyvi nyilvántartások rendszerében nyilvántartott adattartalom alapján nem jogosult, de a népmozgalmi statisztikai adatszolgáltatási kötelezettség alapján átmenetileg mégis köteles.
+
+A 62-63. §-hoz
+
+Az elektronikus anyakönyv bevezetésével olyan adatvédelmi garanciákat szükséges a rendszerbe építeni, amelyek képesek megakadályozni az érintettek magánéletébe történő túlzott beavatkozást. Az anyakönyvi nyilvántartások rendszeréhez történő közvetlen hozzáférés erre tekintettel differenciáltan kerül kialakításra. A bejegyzés teljesítésére jogosultak kivételével a többi szerv számára a különböző nyilvántartásokhoz csak abban az esetben biztosítható közvetlen hozzáférés, ha megadják a lekérdezett személy azonosításához szükséges adatokat. Ennek hiányában egyedi adatigényléssel fordulhatnak az adatkezelőhöz.
+
+A 64. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 65. §-hoz
+
+A rendelkezések meghatározzák a közvetlen hozzáférés biztosításának feltételeit. Azon személyek adatait, akiket a közvetlen hozzáférésre jogosult szerv az adatok átvételére felhatalmazott, a szerv közli a központi nyilvántartó szervvel. E személyek adatait a központi nyilvántartó szerv egyedi felhasználói azonosító alapján kezeli, és csak olyan személyek részére biztosít hozzáférést az elektronikus anyakönyvi nyilvántartásokban kezelt egyes adatokhoz, akiknek a jogosultsága az érintett adatok tekintetében igazolt. Eltérő adatkezelési szabályok vonatkoznak az elektronikus anyakönyvi nyilvántartásokban adatok rögzítésére jogosult személyekre, mivel az ő esetükben az adatok strukturált nyilvántartás keretében történő kezelését más szempontok is indokolják.
+
+A 66. §-hoz
+
+Közvetlen hozzáféréssel nem vehető át az adatlekérdezéssel érintett személlyel összefüggésben nyilvántartott más személy személyi azonosítója. E rendelkezés további garanciát tartalmaz a családi kapcsolatok túlzott mértékű, indokolatlan feltárásának megakadályozására.
+
+A 67. §-hoz
+
+Az egyedi adatigénylésekről a törvény általánosságban rendelkezik, és külön ágazati törvények határozzák meg azokat az eseteket, amikor egyedi adatigénylés alapján az anyakönyvvezető az anyakönyvi nyilvántartásokból adatot szolgáltathat. Az adatigénylés teljesítésének feltételeit a törvény úgy határozza meg, hogy abból ellenőrizhetővé váljon az adatigénylés jogszerűsége.
+
+A 68. §-hoz
+
+Az adatigénylő számára nem továbbítható az adatlekérdezéssel érintett személlyel összefüggésben nyilvántartott más személy személyi azonosítója. E rendelkezés további garanciát tartalmaz a családi kapcsolatok túlzott mértékű feltárásának megakadályozására.
+
+A 69-71. §-hoz
+
+A módosítások a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások. Tekintettel arra, hogy a papíralapú anyakönyvekben szereplő bejegyzést az elektronikus nyilvántartásban történő rögzítést követően az anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság lezárja, és a papíralapú anyakönyvben szereplő bejegyzés nem vezethető tovább, a levéltár őrzésében lévő anyakönyvi másodpéldányok tekintetében is rendelkezni kell a bejegyzés lezárásáról.
+
+A 72. §-hoz
+
+A bűnügyi nyilvántartó szerv a személyiadat- és lakcímnyilvántartásban, valamint az idegenrendészeti nyilvántartásban szereplő adatok változásáról értesül. Vannak olyan személyek, akik egyik nyilvántartásban sem szerepelnek, így az adatok naprakészségének és pontosságának biztosítása érdekében rendelkezni kell arról, hogy az ilyen - egyébként anyakönyvben szereplő - személyek névváltoztatásának engedélyezése esetén az anyakönyvi ügyekért felelős miniszter értesítse a bűnügyi nyilvántartó szervet az adatváltozás átvezetése érdekében.
+
+A 73. §-hoz
+
+Tekintettel arra, hogy az érintett halálesetének anyakönyvezését követően érvényteleníti az elhalt személyazonosító igazolványát és a személyi azonosítót és lakcímet igazoló hatósági igazolványt, az okmányok érvénytelenítésének tényéről az adatváltozás átvezetése érdekében az anyakönyvvezetőnek értesítenie kell a személyiadat- és lakcímnyilvántartást, valamint a személyazonosító igazolvány nyilvántartását kezelő szervet.
+
+A 74. §-hoz
+
+Az adattovábbítási nyilvántartás célja az érintett tájékoztatáshoz való joga érvényesülésének valamint az adatkezelés jogszerűsége ellenőrzésének elősegítése. Az adattovábbítási nyilvántartás adattartalmával kapcsolatban csak azokról az adatokról szükséges rendelkezni, amelyek az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattartalmat bővítik.
+
+A 75. §-hoz
+
+A módosítás a jogszabály koherenciájának megteremtése érdekében szükséges szövegpontosítások.
+
+A 76. §-hoz
+
+A törvény megszünteti az 1980. december 31-ig vezetett anyakönyvek levéltár és anyakönyvvezető által őrzött példányainak kutathatóságára vonatkozó eltérő szabályokat. A módosítás az adatvédelmi követelményeket és az anyakönyvek sajátosságait figyelembe és a közlevéltárakról szóló törvény kutatásra vonatkozó szabályait alapul véve egységes szabályokat állapít meg az 1980. december 31-ig vezetett anyakönyvek kutathatóságára, amelyekkel egyensúlyt kíván teremteni az érintettek jogainak védelme és a múlt megismerésére irányuló érdek között.
+
+A hatályos jogszabályokban biztosított lehetőségeket meghaladóan megteremti továbbá az 1981. január 1-j e óta vezetett anyakönyvek kutathatóságát, amelyre sem a hatályos törvényi rendelkezések, sem a 2010. évi I. törvény nem biztosítanak lehetőséget.
+
+Az 1980. december 31-ig vezetett anyakönyvek tekintetében a kutatás továbbra is a levéltári példányokban lesz lehetséges, ami az anyakönyvvezetők munkaterhének csökkentését célozza. A védelmi időre vonatkozó szabályok megállapításával arra törekszik, hogy élő személy személyes adatai csak hozzájárulása alapján vagy megfelelő garanciák mellett tudományos célú kutatás keretében váljanak megismerhetővé. A védelmi idő lejárta előtt a kutatáshoz az érintett vagy leszármazójának, más hozzátartozójának, végső soron pedig örökösének hozzájárulása szükséges, vagy a kutatást a hozzájárulás megadására jogosult maga is végezheti.
+
+A módosítás eltérő szabályokat állapít meg az anyakönyvekben kezelt különleges adatok (tipikusan a régebbi anyakönyvekben nyilvántartott vallási vagy a halál okaként megjelölt egészségügyi adatok) kutathatóságára, védelmi időtől függetlenül megkövetelve a leszármazók hozzájárulását az ilyen adatok adott személlyel összefüggő (nem anonimizált) rögzítéséhez vagy felhasználásához. Az anyakönyvek jellemzőire tekintettel a különleges adat kutató általi megismerését nem, csak ezen adatok személyazonosításra alkalmas módon való rögzítését és felhasználását köti a leszármazók hozzájárulásához. A hozzájárulás megadására jogosultak körének szűkítését a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény is indokolja, amely alapján az állami hatóság által a lelkiismereti és vallásszabadsággal összefüggésben a törvény hatálybalépésekor nyilvántartott különleges adat kizárólag az érintett hozzájárulásával - halála esetén leszármazója hozzájárulásával - továbbítható és hozható nyilvánosságra.
+
+A módosítás megállapítja azokat a szabályokat, amelyek az általános védelmi időn belüli, tudományos célú kutatást lehetővé teszik, e lehetőséghez indokolt és méltányos adatvédelmi garanciákat támasztva.
+
+A kutatási kérelmet értelemszerűen annál a szervnél szükséges előterjeszteni, amely az anyakönyvet őrzi, így a levéltárakra vonatkozó speciális szabályt leszámítva erre nézve további rendelkezések megállapítása nem szükséges. Megállapítja a kérelem elbírálásának határidejét, valamint a közlevéltárakról szóló törvényhez hasonlóan bírósági jogorvoslati lehetőséget biztosít a kérelem elutasítása esetére.
+
+A 77. §-hoz
+
+Mivel a képviselő-testület hivatalának anyakönyvvezetőként eljáró ügyintézőjére vonatkozó képesítési feltételeket külön kormányrendelet tartalmazza, amelynek hatálya nem terjed ki az anyakönyvvezetőként eljáró jegyzőre vagy polgármesterre, az ő tekintetükben is rendelkezni szükséges arról, hogy csak abban az esetben járhatnak el anyakönyvvezetőként, ha a képesítési feltételeknek megfelelnek. E képesítési feltételeket kormányrendeletben szükséges meghatározni.
+
+A 78. §-hoz
+
+A rendelkezés az anyakönyvi ügyekért felelős miniszter számára adott felhatalmazó rendelkezéseket pontosítja és egészíti ki.
+
+A 79. §-hoz és az 1. melléklethez
+
+Az anyakönyvi eljárás során használt jegyzőkönyvek adattartalmát a törvény melléklete állapítja meg, mivel azok olyan adatokat is tartalmaznak, amelyeket az anyakönyv nem, így ezek tekintetében is meg kell teremteni az adatkezelés törvényi alapját.
+
+A 80. §-hoz
+
+A rendelkezés a szöveg pontosítására irányuló módosításokon kívül a járási rendszer felállításával kapcsolatos szervezeti változásokat, a törvény elfogadása óta a jogszabályi környezetben bekövetkezett változásokat, a törvény új rendszerével kapcsolatos egyes terminológiai változtatásokat, egyes esetekben a határidők módosítását, valamint a munkanapokban meghatározott határidők napokban történő meghatározását tartalmazza.
+
+A 81. §-hoz
+
+A rendelkezés a hatályos jogszabályi környezethez igazítja az anyakönyvi eljárásról szóló 2010. évi I. törvényt, valamint hatályon kívül helyezi a jogszabályi változások eredményeként szükségtelenné vált normatív és felhatalmazó rendelkezéseket.
+
+A 82. §-hoz
+
+A rendelkezés a jogszabály rendelkezései közötti koherenciát szolgáló és a nyelvhelyességi pontosításhoz szükséges módosításokat tartalmaz.
+
+A 83-86. §-hoz
+
+A rendelkezések biztosítják a jogrendszeren belül az összhangot az új anyakönyvi terminológiával és a polgári jogi szabályozás változásaival.
+
+A 87-91. §-hoz
+
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) módosítása nyomán lehetőség nyílik arra, hogy külön törvények rendelkezései alapján a személyiadat- és lakcímnyilvántartást vezető központi szerv értesítse a törvényben szabályozott nyilvántartást vezető szervet arról, ha az érintett természetes személyazonosító adataiban, tipikusan nevében változás következett be. Az értesített szerv gondoskodik az adatok nyilvántartáson történő átvezetéséről, míg ha nyilvántartásában nem kezeli az érintett személyes adatait, a cél nélküli, készletre történő adatkezelés elkerülése érdekében a módosítás nyomán köteles azt törölni. Az Nytv. csak megteremti az adatváltozások átvezetésének általános keretét, annak tényleges eseteit azonban az ágazati törvényekben szükséges rendezni. Az előbbiekben hivatkozott általános keret konkretizálását jelenti, hogy tekintettel arra, hogy a személyiadat- és lakcímnyilvántartás az érintett személyazonosító igazolványának adatait tartalmazza, a név megváltozásának, illetve ennek nyomán az okmány érvénytelenségének átvezetése érdekében a személyiadat- és lakcímnyilvántartást vezető központi szerv értesíti a személyazonosító igazolvány nyilvántartást vezető szervet. A további előírások biztosítják a jogrendszeren belül az összhangot az új anyakönyvi terminológiával.
+
+A 92-100. §-hoz
+
+A rendelkezések biztosítják a jogrendszeren belül az összhangot az új anyakönyvi terminológiával.
+
+A 101. §-hoz
+
+A Ket. módosítás állapítja meg, hogy mely anyakönyvi eljárások esetén kell a Ket.-et szubszidiárius jelleggel alkalmazni.
+
+A 102-103. §-hoz
+
+A rendelkezések biztosítják a jogrendszeren belül az összhangot az új anyakönyvi terminológiával.
+
+A 104-105. §-hoz
+
+A bűnügyi nyilvántartási rendszerről szóló törvény módosítása a bűnügyi nyilvántartás adatai naprakészségének megőrzése érdekében biztosítja, hogy azoknak a bűnügyi nyilvántartásban szereplő személyeknek a névváltozásáról is értesüljön a bűnügyi nyilvántartó szerv, akik sem a személyiadat- és lakcímnyilvántartásban, sem az idegenrendészeti nyilvántartásban nem szerepelnek. Ha a névváltozással érintett személy a bűnügyi nyilvántartásban nem szerepel, az anyakönyvi ügyekért felelős miniszter által megküldött adatokat a bűnügyi nyilvántartó szerv haladéktalanul törli.
+
+A 106-108. §-hoz
+
+A rendelkezések biztosítják a jogrendszeren belül az összhangot az új anyakönyvi előírásokkal.
+
+A 109-111. §-hoz
+
+A rendelkezések az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvénynek az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvénnyel elfogadott módosításához kapcsolódó pontosításokat tartalmaznak.
+
+A 112-116. §-hoz
+
+A rendelkezések biztosítják a jogrendszeren belül az összhangot az új anyakönyvi előírásokkal.
+
+A 117. §-hoz
+
+Az anyakönyvi eljárásról szóló 2010. évi I. törvény hatályba lépésével egyidejűleg hatályon kívül kell helyezni az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendeletet.
+
+A 118. §-hoz
+
+A rendelkezések biztosítják a jogrendszeren belül az összhangot az új anyakönyvi előírásokkal.
+
+-----STARTING---POINT---VEGE---
+
+A 119. §-hoz
+
+A záró rendelkezések a jogalkotási követelményekkel összhangban rendelkeznek a törvény hatálybalépésének időpontjáról.
+
+A 120. §-hoz
+
+A rendelkezés meghatározza az anyakönyvi eljárásról szóló 2010. évi I. törvény hatálybalépésének időpontját.
+
+A 121. §-hoz
+
+A rendelkezés sarkalatossági záradékot tartalmaz.

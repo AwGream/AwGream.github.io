@@ -1,0 +1,909 @@
+2014. évi XVI. törvény indokolása
+
+a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az ABAK-irányelv hazai jogrendszerbe való átültetése és az ABAK-rendeletnek való megfelelés a hazai befektetési alapkezelési szektor szabályozási kereteinek újragondolását igényelte. Ennek eredményeként vált szükségessé a jelenleg hatályos, a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény hatályon kívül helyezése, és egy új törvény megalkotása.
+
+Az új törvény átfogóbb befektetési alapkezelői fogalma okán - a kockázati tőkealap kezelők is e kategória alá tartoznak a jövőben - szükségessé vált a tőkepiacról szóló 2001. évi CXX. törvény (Tpt.) módosítása is. Ez utóbbi törvényt a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 648/2012/EU rendelet és a hazai jogszabályok közötti harmonizáció megteremtése miatt is módosítani kell. Ezen elsősorban technikai jellegű módosítások fő célja a derivatív piacok átláthatóságának növelése.
+
+Tekintettel arra, hogy 2013. október 1-jétől az MNB látja el a befektetési alapok és alapkezelők felügyeletét, ezért az uniós jogszabályok felügyeleti hatóságra vonatkozó rendelkezéseinek implementálása kapcsán szükségessé válik a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) módosítása is. Ezen felül az MNB pénzügyi felügyeleti feladataival és a felügyeleti integrációval kapcsolatos gyakorlati tapasztalatai következtében felmerült módosítási igények MNBtv.-en történő átvezetését is tartalmazza a törvény.
+
+A törvény a rugalmasabb döntéshozatal érdekében rendezi a Pénzügyi Stabilitási Tanács (a továbbiakban: PST) döntései kiadmányozásának a kérdését, és lehetőséget biztosít arra, hogy egyes hatósági döntések meghozatalának és a döntést megtestesítő okiratnak az aláírása delegálható legyen a PST eljárás során az MNB egyes vezetőire.
+
+A törvény lehetővé teszi a jogerősen kiszabott és meg nem fizetett bírságok, valamint felügyeleti díjak adók módjára történő behajthatóságát az MNB számára, amely a hatékonyabb jogérvényesítést biztosítja ezen szankciók során.
+
+A törvény tartalmazza továbbá a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény módosítását a rendeleti felhatalmazás tekintetében.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az 1. § rendelkezik a törvény hatályáról.
+
+A 2. §-hoz
+
+A 2. § egyrészt kifejti a negatív hatályt, egyértelműsítve és kiegészítve az 1. §-t. Kiemelendő, hogy az alternatív befektetési alapkezelőre (ABAK) bizonyos cikkek kivételével nem kell alkalmazni a törvény ABAK-okra előírt rendelkezéseit, ha az általuk kezelt alternatív befektetési alapokban kezelt eszközök értéke el nem éri az ABAK-irányelv alapján megállapított küszöbértékeket (100 millió vagy 500 millió euró). Ettől függetlenül, az ABAK saját döntése alapján alávetheti magát a törvény ABAK-ra vonatkozó rendelkezéseinek. A szakasz rendelkezik továbbá arról is, hogy a törvényt az európai kockázatitőke-alapokról szóló 345/2013/EU rendeletnek, valamint az európai szociális vállalkozási alapokról szóló 346/2013/EU rendeletének figyelembe vételével kell alkalmazni, ha a ABAK e rendeletek értelmében EuVECA ill. ESZVA megnevezést használó alapokat kezel és forgalmaz.
+
+A 3. §-hoz
+
+A rendelkezés a törvényben hivatkozott jogszabályok rövidítésének helyére utal.
+
+A 4. §-hoz
+
+A törvény a törvény értelmező rendelkezéseit tartalmazza. A törvény által szabályozott legalapvetőbb kategóriák értelmezése a következő:
+
+alternatív befektetési alap (ABA): minden olyan kollektív befektetési forma, amely nem minősül ÁÉKBV-nak. A kategória magában foglalja a kockázati tőkealapokat és az újonnan bevezetésre kerülő magántőke alapokat is.
+
+alternatív befektetési alapkezelő (ABAK): olyan befektetési alapkezelő, amely rendszeres gazdasági tevékenységként egy vagy több ABA-t kezel. A kategória magában foglalja a kockázati tőkealap-kezelőket és az újonnan bevezetésre kerülő magántőke alapok kezelőit is.
+
+ÁÉKBV: Egyik típusa (a) olyan hazai, nyilvános nyíltvégű befektetési alap, amely megfelel az ÁÉKBV-k befektetési és hitelfelvételi szabályaira vonatkozó kormányrendeletben foglalt előírásoknak; a másik típusa (b) olyan nyíltvégű kollektív befektetési forma, amely az ÁÉKBV irányelvnek más EGT-állam jogrendszerébe történő átvétele alapján jött létre.
+
+ÁÉKBV-alapkezelő: olyan befektetési alapkezelő, amely rendszeres gazdasági tevékenységként egy vagy több ÁÉKBV-t kezel.
+
+befektetési alap: a fogalom magában foglalja valamennyi hazai ÁÉKBV és ABA e törvényben meghatározott feltételek szerint, befektetési jegyek nyilvános vagy zártkörű kibocsátásával létrehozott és működtetett, jogi személyiséggel rendelkező kollektív befektetést, amelyet a befektetési alapkezelő a befektetők érdekében kezel.
+
+befektetési alapkezelő: valamennyi, a befektetési alapkezelési tevékenység végzésére vonatkozó engedéllyel rendelkező ABAK és ÁÉKBV-kezelő.
+
+befektetési jegy: az e törvényben meghatározott módon és alakszerűséggel, valamennyi hazai ÁÉKBV és ABA által sorozatban kibocsátott, a befektetési alappal szembeni, a befektetési alap kezelési szabályzatában meghatározott követelést és egyéb jogokat biztosító, átruházható értékpapír.
+
+kollektív befektetési értékpapír: bármilyen kollektív befektetési forma által kibocsátott értékpapír, továbbá a kollektív befektetési forma által kibocsátott, a kollektív befektetési formában való részvételt tanúsító, értékpapírnak nem minősülő bemutatóra vagy névre szóló okirat.
+
+kollektív befektetési forma: magában foglal bármilyen olyan, akár nem uniós kollektív befektetést, amely több befektetőtől gyűjt tőkét abból a célból, hogy meghatározott befektetési politikának megfelelően befektesse a befektetők javára.
+
+Az 5. §-hoz
+
+Tekintettel arra, hogy a kollektív portfóliókezelés a pénzügyi szektorban végzett kockázatos tevékenység, e szakasz rögzíti, hogy a kollektív portfóliókezelés felügyeleti engedélyhez kötött. A tevékenység végzésére a törvényben meghatározott kivételekkel kizárólag befektetési alapkezelő kaphat engedélyt.
+
+A 6. §-hoz
+
+A szakasz az ÁÉKBV-alapkezelő által végezhető tevékenységek tételes felsorolását tartalmazza, ideértve az adminisztratív jellegű tevékenységeket is. A befektetéskezelés a törvény szerint a befektetési politika végrehajtásával kapcsolatos befektetési, stratégiai és eszközallokációs döntések meghozatalát és végrehajtását jelenti. Az adminisztratív feladatok többek között magukban foglalják a könyvviteli és jogi feladatokat, az eszközök értékelését, árazását, a befektetők részére nyújtandó tájékoztatást. Ugyan a tevékenységi felsorolásban nem jelenik meg, de az ÁÉKBV-alapkezelő értelemszerűen elláthat a tevékenységéhez közvetlenül kapcsolódó olyan jellegű feladatokat, mint pl. az értékesítést végző személyek oktatása és részükre írásos, illetve szóbeli információ rendszeres szolgáltatása, továbbá az értékesítés támogatása. Ugyanígy nem szükséges a tevékenységi felsorolásban megemlíteni egyes technikákat, amelyeket az alapkezelő alkalmazhat, így pl. a Tpt. szerinti értékpapír-kölcsönzést.
+
+A törvény kifejti, hogy az ÁÉKBV-alapkezelő végezhet a befektetési vállalkozásról és árutőzsdei szolgáltatókról szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott tevékenységeket is, és azokban az esetekben a Bszt. vonatkozó rendelkezéseit megfelelően alkalmazni kell.
+
+A 7. §-hoz
+
+Az ABAK által végezhető tevékenységek szintén rögzítésre kerülnek. A törvény alapjául szolgáló ABAK-irányelv szerint az ABAK-nak legalább befektetéskezelést (hasonlóan az ÁÉKBV-hez), valamint kockázatkezelést is végeznie kell. A törvény ebben a szakaszban is rögzíti az adminisztrációs feladatokat, valamint a Bszt. értelemszerű alkalmazásának kötelezettségét. Ugyan a tevékenységi felsorolásban nem jelenik meg, de az ÁÉKBV-alapkezelőhöz hasonlóan az ABAK is értelemszerűen elláthat a tevékenységéhez közvetlenül kapcsolódó olyan jellegű feladatokat, mint pl. az értékesítést végző személyek oktatása és részükre írásos, illetve szóbeli információ rendszeres szolgáltatása, továbbá az értékesítés támogatása. Ugyanígy nem szükséges a tevékenységi felsorolásban megemlíteni egyes technikákat, amelyeket az alapkezelő alkalmazhat, így pl. a Tpt. szerinti értékpapír-kölcsönzést.
+
+A 8-10. §-hoz
+
+Ez a szakasz meghatározza az ÁÉKBV-alapkezelőre vonatkozó engedélyezési feltételeket. Felsorolja a Felügyeletnek benyújtandó kérelemhez csatolandó iratokat. Az alapkezelő köteles többek között a létesítő okiratát, a működési szabályzatát, a tárgyi, szervezeti és - a büntetlen előéletre vonatkozó előírásokon kívüli - személyi feltételeknek való megfelelés igazolására vonatkozó iratokat is mellékelni. A törvény szerint, amennyiben az ÁÉKBV-alapkezelő származtatott ügyleteket is köt, a kockázatkezelési szabályzatát is köteles a Felügyelet részére benyújtani. A tevékenység  kizárólag az engedély kézhezvételét követően kezdhető meg.
+
+A törvény azon esetek felsorolását tartalmazza, amelyek felmerülése esetén a Felügyelet köteles más EGT-állam felügyeleti hatóságának véleményét kikérni, ha az ÁÉKBV-alapkezelő befektetési alapkezelési tevékenység végzésére jogosító engedélyt kér.
+
+A rendelkezés megállapítja az engedélykérelem elutasításának eseteit ÁÉKBV-alapkezelő esetén.
+
+A 11-14. §-hoz
+
+Az ABAK-ok engedélyezésének szabályrendszerét taglalják ezen szakaszok. A törvény szerint az ABAK köteles megküldeni többek között a létesítő okiratát, a működési szabályzatát, a tárgyi, szervezeti és - a büntetlen előéletre vonatkozó előírásokon kívüli - személyi feltételeknek való megfelelés igazolására vonatkozó iratokat a Felügyelet részére. Mivel az ABAK az ÁÉKBV-alapkezelőtől eltérően köteles javadalmazási politikát is meghatározni, a Felügyelet részére ezt, valamint ennek gyakorlatát is be kell mutatnia.
+
+Az alapkezelő a kezelésbe bevont ABA-ra vonatkozóan tájékoztatja a Felügyeletet az ABAK tőkeáttétel alkalmazásával kapcsolatos politikájáról. Az ABAK-irányelv alapján biztosított lehetőség az ÁÉKBV-alapkezelő számára, hogy ABAK-ként is engedélyeztetheti magát. Ha az információk és a szükséges dokumentumok naprakészek, a törvény az ésszerűség jegyében lehetőséget biztosít a duplikáció elkerülésére az engedélyezési eljárás során.
+
+Amennyiben az ABAK által kezelt ABA eléri a 2. §-ban meghatározott küszöbértéket, a törvény előírja, hogy haladéktalanul értesíti erről a tényről a Felügyeletet, és - amennyiben tovább kíván működni - 30 napon belül az ABAK e törvény szerinti engedély iránti kérelmet nyújt be.
+
+A törvény 14. §-ában az ABAK által Felügyelet felé benyújtott engedélykérelem elutasításának esetei kerülnek tételesen felsorolásra.
+
+A 15. §-hoz
+
+A törvény felsorolja a már kiadott tevékenységi engedély visszavonásának eseteit, egyforma feltételrendszert alkalmazva az ÁÉKBV-alapkezelőre és az ABAK-ra. Ez alapján a Felügyelet akkor vonja vissza többek között az engedélyt, ha az engedély kiadásának feltételei már nem állnak fenn, és azokat az alapkezelő 6 hónapon belül nem pótolta; a befektetési alapkezelő vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet; a befektetési alapkezelő az engedélyezett tevékenységet 12 hónapon belül nem kezdi meg; vagy - a működés megkezdését követően - 6 hónapot meghaladó időtartam alatt nem gyakorolja stb.
+
+A 16. §-hoz
+
+E rendelkezések a befektetési alapkezelő engedélyezéséhez szükséges tőke és szervezeti követelményeket tartalmazzák. Az ÁÉKBV-irányelvben és az ABAK-irányelvben meghatározottak szerint kerültek megállapításra a követelmények, amelyek az induló tőkére és a szavatoló tőkére egyaránt tartalmaznak előírásokat. A törvény célja, hogy a követelmények minden esetben biztosítsák a befektetési alapkezelő működőképességének folytonosságát. A szakasz ABAK-ra vonatkozóan további részletszabályokat tartalmaz, amelyek az esetleges szakmai felelősséggel kapcsolatos kockázatok fedezését segítik elő.
+
+A 17. §-hoz
+
+Ez a szakasz meghatározza a befektetési alapkezelő működési formáját. Alapvetően részvénytársasági formát tesz kötelezővé a törvény, de más EGT-államban működő ÁÉKBV-alapkezelő vagy ABAK fióktelep formájában is működhet. Ebben az esetben az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+A 18-20. §-hoz
+
+A törvény az alapkezelőkre vonatkozó tárgyi és személyi feltételeket részletezi, egyforma feltételrendszert alkalmazva az ÁÉKBV-alapkezelőre és az ABAK-ra. A tárgyi feltételek szerint olyan szervezeti és működési szabályokat kell kialakítani, amelyek biztosítják a törvényben megfogalmazott működési szabályok megtartását. A törvény külön feltételeket állapít meg arra az esetre, ha a befektetési alapkezelő kollektív befektetési értékpapírt forgalmaz. Ez elsősorban a befektetők nyilvántartására szolgáló rendszerekre vonatkozó követelmények (naprakészség, visszakereshetőség, értékpapírtitok megőrzése) törvényben történő rögzítését jelenti.
+
+A személyi feltételek külön szakaszban kerülnek megjelenítésre. Megállapításra kerülnek a vezető állású személy megválaszthatóságának kritériumai, és további részletszabályok vonatkoznak a befektetési alapkezelő ügyvezetőjére, igazgatósága valamint a felügyelő bizottság elnökére. A törvény teljes körűen szabályozza azt is, mely intézményeknél eltöltött munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
+
+A 20. § rögzíti, hogy az ÁÉKBV-alapkezelőben történő minősített befolyás megszerzésére alkalmazni kell a Bszt. IX. Fejezetében foglalt előírásokat.
+
+A 21. §-hoz
+
+A törvény a befektetési alapkezelő jó üzleti hírneve megóvásának érdekében tartalmaz rendelkezéseket. Meghatározza a befektetési alapkezelő minősített befolyással rendelkező részvényesére vonatkozó követelményeket. Előírja, hogy a jó üzleti hírnév bizonyítása a kérelmezőnek, vagy annak a feladata, akinek érdekében áll a Felügyelet jóváhagyása.
+
+A 22-28. §-hoz
+
+A rendelkezések az ÁÉKBV-alapkezelők működésének általános feltételeit tartalmazzák. Először meghatározzák a működés alapelveit, majd a tevékenység végzésének kereteit. Felsorolják, hogy milyen típusú rendszerek rendelkezésre állása szükséges a tevékenység végzéséhez és hogy ezen rendszereknek mely célok megvalósítását kell szolgálniuk. A törvény kitér az ÁÉKBV-alapkezelő által kialakítandó belső szervezeti megoldások kialakításának elveire és azok elsődleges céljaira is.
+
+A befektetők érdekeinek kiemelt védelmét biztosítja, hogy a rendelkezések külön kitérnek a panaszok kezelésének módjára, a panaszkezelési eljárás kialakításának kötelezettségére.
+
+A szabályozás lefekteti az ÁÉKBV-alapkezelő által a kollektív befektetési forma részére felszámított díj kiszabásának kereteit is.
+
+Ezután a rendelkezések kifejtik az ÁÉKBV-alapkezelő esetén alkalmazandó összeférhetetlenségi szabályokat, valamint meghatározzák a személyes ügyletek definícióját és a személyes ügyletek kezelésének módját. Ezen rendelkezések az ÁÉKBV-alapkezelő ügyleteinek tisztaságát, a visszaélésektől mentes működést hivatottak biztosítani.
+
+A 29-31. §-hoz
+
+A törvény ezen rendelkezései az ÁÉKBV ügyleteinek és megbízásainak rögzítésére és nyilvántartására vonatkozó előírásokat tartalmazzák. Először meghatározzák az ÁÉKBV-alapkezelő által kötelezően rögzítendő adatok körét. Ezután a törvény speciális rendelkezéseket állapít meg a 6. § (2) bekezdés c) pontjában meghatározott tevékenység végzésének esetére, amelynél a kollektív befektetési értékpapírra vonatkozó vételi és visszaváltási megbízások adatainak elektronikus formában történő rögzítését írja elő. Külön meghatározza az ezen esetekben rögzítendő adatok körét.
+
+Végül a törvény rendelkezik az adatok megőrzésének kötelező időtartamáról. A törvény 8 évig - illetve kivételes körülmények esetén a Felügyelet előírása alapján akár hosszabb időre is - teszi kötelezővé az adatok megőrzését. Az ÁÉKBV-alapkezelő megszűnése esetén ez a kötelezettség a megszűnéstől számított 8 évig áll fenn. A befektetési alapkezeléssel kapcsolatos feladatok átruházása esetén pedig az átruházó ÁÉKBV-alapkezelő az elmúlt 8 év adatait köteles a másik ÁÉKBV-alapkezelő számára hozzáférhetővé tenni.
+
+A 32-35. §-hoz
+
+A törvény ezen rendelkezései az ABAK működési feltételeit tartalmazzák. Elsőként az általános működési feltételeket határozzák meg és kizárják az egyes ABA-befektetőkkel szembeni megkülönböztetett bánásmódot. Emellett hatékony és eredményes kockázatkezelést szolgáló javadalmazási politika alkalmazását írják elő az ABAK-ok számára. Ezután a törvény meghatározza az az ABAK esetén alkalmazandó összeférhetetlenségi szabályokat.
+
+A kockázatkezelés kapcsán a törvény előírja, hogy az ABAK által működtetett kockázatkezelési rendszernek mely céloknak kell megfelelnie, valamint meghatározza a kockázatkezelési rendszer minimum-követelményeit. Emellett a törvény kimondja, hogy az ABAK-nak meg kell határoznia az ABA által alkalmazható tőkeáttétel legnagyobb mértékét, valamint a biztosíték vagy a tőkeáttételi megállapodás értelmében nyújtott kezesség vagy garancia újbóli felhasználási jogának mértékét. Ezután meghatározza az ezek megállapítása során figyelembe veendő, releváns szempontokat is.
+
+A 36-38. §-hoz
+
+E szakaszok elsőként a megfelelő likviditáskezelési rendszer fenntartását írják elő az ABAK-ok számára. Meghatározzák, hogy a likviditáskezelési rendszernek mely céloknak kell megfelelniük. Ezután meghatározzák az értékpapírosítási pozíciókba való befektetés elveit.
+
+Végül a rendelkezések az eszközök vonatkozó értékelésére vonatkozó eljárás szabályait fejtik ki. A törvény meghatározza, hogy az értékelési eljárás során az ABAK-nak mely kritériumok teljesítését kell biztosítaniuk. Az értékelési eljárás során fontos, hogy az ABAK kezelésében lévő összes ABA eszközei összehangolt módon kerüljenek értékelésére. Az értékelést pártatlanul, megfelelő szakértelemmel, körültekintéssel és gondossággal kell elvégezni. A törvény továbbá kimondja, hogy az ABAK felel az ABA eszközeinek helyes értékeléséért, az ABA nettó eszközértékének kiszámításáért és a nettó eszközérték közzétételéért.
+
+Ezen szabályok az ABAK-ok működésének átláthatóvá tételét, a piaci kockázatok csökkentését szolgálják. Emellett az értékelés esetleges hibái esetén megteremtik az ABAK felelősségre vonásának lehetőségét, ezáltal megfelelő eljárások alkalmazására ösztönözik az ABAK-okat és némi biztosítékot nyújtanak a befektetők által esetlegesen elszenvedett károk esetére.
+
+A 39-40. §-hoz
+
+E rendelkezések a kiszervezés ÁÉKBV-alapkezelőkre vonatkozó szabályait tartalmazzák. Meghatározzák, hogy a kiszervezési szerződésnek mely követelményeknek kell megfelelnie. A törvény ezenkívül előírja, hogy az ÁÉKBV-alapkezelő kiszervezési szerződést csak olyan féllel köthet, aki rendelkezik a kiszervezésre irányuló szerződés tárgyát képező tevékenység ellátásához szükséges ismeretekkel és képességekkel, továbbá engedélyköteles tevékenység esetében az adott tevékenység végzésére vonatkozó engedéllyel.
+
+A törvény értelmében a kiszervezési szerződést a Felügyelet részére 5 napon belül meg kell küldeni. A rendelkezések azt is meghatározzák, hogy mi nem minősül kiszervezésnek.
+
+A szabályozás célja, hogy a kiszervezés által a tevékenység elvégzése hatékonyabbá váljon, ugyanakkor sem a tevékenység feletti felügyelet mértéke, sem a befektetői érdekek védelmének mértéke ne csökkenjen.
+
+A 41. §-hoz
+
+E rendelkezés a kiszervezés ABAK-ra vonatkozó szabályait tartalmazza. Meghatározza, hogy mely feltételeknek kell teljesülnie a kiszervezés esetében, valamint hogy mely tevékenységek nem szervezhetőek ki. Rendelkezik továbbá a harmadik félre kiszervezett tevékenység a harmadik fél általi további kiszervezésének szabályairól. A szabályozás célja ebben az esetben is az, hogy a kiszervezés által a tevékenység elvégzése hatékonyabbá váljon, ugyanakkor sem a tevékenység feletti felügyelet mértéke, sem a befektetői érdekek védelmének mértéke ne csökkenjen.
+
+A 42. §-hoz
+
+E rendelkezés a Bszt. szerinti befektetési szolgáltatások tekintetében történő kiszervezés esetén a befektetési vállalkozásokra előírt szabályok alkalmazását rendeli.
+
+A 43-51. §-hoz
+
+A törvény ezen rendelkezései a befektetési alapkezelő felszámolására vonatkozó szabályokat tartalmazzák és kimondják hogy a csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni. Fióktelep formájában működő befektetési alapkezelő felszámolása esetében az Fkt. vonatkozó szabályai irányadók, az e fejezetben foglalt eltérésekkel.
+
+A törvény a világos normaalkotás jegyében rögzíti, hogy a befektetési alapkezelő ellen a felszámolási eljárás megindítását kizárólag a Felügyelet kezdeményezheti. A törvény egyúttal rendezi azt az esetkört is, ha nem a Felügyelet kezdeményezi a befektetési alapkezelő felszámolását. Ekkor a törvényszék a kérelem érdemi vizsgálat nélküli elutasításáról szóló végzését megküldi a Felügyelet részére annak érdekében, hogy a Felügyelet saját hatáskörében mérlegelje, helye van e felszámolási eljárás megindításának részéről.
+
+A törvény meghatározza az eljárás Felügyelet általi kezdeményezésének esetköreit.
+
+A rendelkezések a Fővárosi Törvényszék kizárólagos illetékességét mondják ki és kifejtik a törvényszék a felszámolás iránti kérelem elbírálására vonatkozó eljárásának speciális, befektetési alapkezelők esetén alkalmazandó szabályait. Ilyen szabály többek között a felszámolási eljárás felfüggesztésének kizárása. Emellett szintén speciális szabály, hogy a Felügyelet a felszámolás iránti kérelem benyújtásának napjától teljes körű kifizetési tilalmat rendel el, ha a felszámolási vagyon jogszerű, a hitelezők és az ügyfelek érdekeinek megfelelő kezelését nem ítéli biztosítottnak. Ezenkívül a felszámolási eljárás során a felszámoló dönthet a befektetési alapkezelő szerződéses kötelezettségei állományának átruházásáról. Ugyancsak speciális rendelkezés, hogy a törvényszék a felszámolási eljárást a befektetési alapkezelő, valamint a fióktelep formában működő befektetési alapkezelő fizetésképtelenségének vizsgálata nélkül köteles elrendelni.
+
+Ezen rendelkezések a felszámolási eljárás gördülékeny lebonyolítását és minél eredményesebb lezárását kívánják szolgálni. Ezáltal ezek a szabályok egyúttal a befektetők érdekeit is védik.
+
+Ugyanakkor a befektetők érdekeinek védelme konkrétan, az őket közvetlenül érintő szabályok formájában is megjelenik. A törvény ugyanis kimondja, hogy a felszámolása során az ügyfél által az alapkezelőnél letétbe helyezett pénzügyi eszköz, illetve nyilvántartott pénzeszköz, az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszköz és pénzeszköz, szolgáltatás tárgyát képező eszköz, az ügyfél javára vezetett számláján nem képezi a felszámolási vagyon részét. Emellett ha ezen eszközök részére bármely okból nem adhatóak vissza, akkor a felszámolási költségek kielégítését követően a csődeljárásról szóló törvény rendelkezéseitől eltérően elsőként ezen ügyfeleket kell kielégíteni.
+
+Az 52-58. §-hoz
+
+E rendelkezések először a Felügyelet által engedélyezett ÁÉKBV-alapkezelő által más EGT tagállam területén lévő fióktelep létesítésének, és a számára engedélyezett tevékenység határon átnyúló szolgáltatásként való nyújtásának szabályait tartalmazzák. Meghatározzák a fióktelep létesítése esetén a Felügyelet részére az ÁÉKBV-alapkezelő által megküldendő értesítés tartalmi elemeit. Ezután a határon átnyúló szolgáltatás első alkalommal történő nyújtásakor a Felügyelet részére az ÁÉKBV-alapkezelő által megküldendő értesítés tartalmi elemeit sorolják fel.
+
+A további rendelkezések meghatározzák a Magyarországon bejegyzett ÁÉKBV-alapkezelő által a más tagállamban székhellyel rendelkező ÁÉKBV kezelésének feltételeit, valamint a más EGT tagállamban székhellyel rendelkező ÁÉKBV-alapkezelő által magyarországi fióktelep létesítésének és határon átnyúló szolgáltatásnak a feltételeit.
+
+Az 59-61. §-hoz
+
+E rendelkezések a fióktelep létesítésének és a tevékenység végzésének határon átnyúló szolgáltatásként való nyújtására vonatkozó, az ABAK-okat érintő szabályokat tartalmazzák. Meghatározzák a Felügyelet által engedélyezett ABAK más EGT tagállamban határon átnyúló szolgáltatásként nyújtott tevékenysége esetén a Felügyelet számára küldendő értesítés tartalmi elemeit. Ezután meghatározzák Felügyelet által engedélyezett ABAK által más EGT tagállamban lévő fióktelep létrehozása esetén a Felügyelet számára megküldendő értesítés tartalmi elemeit.
+
+Emellett kifejtik a más EGT tagállamban székhellyel rendelkező ABAK magyarországi fióktelepének létesítésére és a tevékenység Magyarországon határon átnyúló szolgáltatásként való nyújtására vonatkozó szabályait.
+
+A 62-63. §-hoz
+
+E rendelkezések az ÁÉKBV-alapkezelő letétkezelőjére vonatkozó szabályokat tartalmazzák. Meghatározzák, hogy ki láthat el letétkezelői tevékenységet, illetve a törvény felsorolja a letétkezelő által elsősorban végzett feladatokat. Ezenkívül megfogalmazza a letétkelező kötelezettségét a befektetési korlátok megsértése esetén az ÁÉKBV-alapkezelő írásos figyelmeztetésére és a szabálysértés megszüntetésére való felszólításra. Az eredménytelen felszólítást követően pedig a letétkezelő köteles a Felügyeletet értesíteni a szabálytalanságról. A rendelkezések emellett meghatározzák a letétkezelő felelősségének, illetve az általa igénybe vett alletétkezelő által okozott károkért való felelősségének kereteit is.
+
+Ezek a szabályok bővítik az ÁÉKBV-alapkezelő törvényes működésének biztosítékait, a letétkezelő személyében egy plusz ellenőrzési pontot iktatnak be.
+
+A 64. §-hoz
+
+E rendelkezések az ABAK letétkezelőire vonatkozó szabályozást tartalmazzák. Meghatározzák, hogy ki láthat el letétkezelői tevékenységet, mely feladatokat végzi a letétkezelő elsősorban és mely elvek mentén. Továbbá meghatározzák, hogy a letétkezelő mely feladatok elvégzését szervezheti ki és milyen feltételek fennállása esetén. A törvény továbbá rendelkezik a letétkezelő felelősségéről, valamint arról, hogy a harmadik személy részére történő kiszervezés esetén mely feltételek mellett mentesülhet a felelősség alól.
+
+A 65-66. §-hoz
+
+A rendelkezések a befektetési alapok létrejöttéhez kapcsolódó általános szabályokat tartalmazzák. A befektetési alap a Felügyelet általi nyilvántartásba való bejegyzéssel jön létre és az abból való törléssel szűnik meg. A befektetési alapkezelő a befektetési alap törvényes képviselője, azonban már a befektetési alapnak a nyilvántartásba történő bejegyzését megelőzően is eljárhat a befektetési alap javára.
+
+A rendelkezések továbbá azt is kimondják, hogy befektetési alap kezelését kizárólag befektetési alapkezelési tevékenység végzésére jogosító engedéllyel rendelkező befektetési alapkezelő végezheti. A tevékenység engedélyhez kötöttségének célja a jogszabályi előírások érvényesülésének biztosítása.
+
+A 67. §-hoz
+
+A szakasz a befektetési alapok különböző szempontok szerinti felosztását, típusait tartalmazza és részletesen kifejti bizonyos befektetési alap típusok jellemzőit.
+
+Nyilvános befektetési alapként működik az a befektetési alap, amelynek legalább egy befektetési jegy sorozatát nyilvános forgalomba hozatal útján hozták forgalomba. Zártkörű befektetési alapként működik az a befektetési alap, amely befektetési jegyének forgalomba hozatala zártkörűnek minősül. A rendelkezések a nyílt és a zártvégű alapok közötti eltéréseket is kifejtik. Nyílt végű alap esetében a befektetőknek lehetősége van a futamidő alatt a befektetési jegy vásárlására és visszaváltására is. Zárt végű alap esetén a futamidő alatt nincs lehetőség a befektetési jegyek befektetői kezdeményezésre történő visszaváltására. Az ezen rendelkezés alóli kivételt jelentő rendkívüli eseteket e törvény határozza meg.
+
+A további rendelkezések az értékpapíralapokra, az ingatlanalapokra, a kockázati tőkealapokra és a magántőkealapokra vonatkozó szabályozást, valamint ezen alapok közötti eltéréseket tartalmazzák. A legfontosabb eltérés, hogy értékpapíralapok és az ingatlanalapok lakossági és szakmai befektetők részére is forgalmazhatóak, a kockázati tőkealapok és magántőkealapok viszont kizárólag szakmai befektetők részére.
+
+A 68. §-hoz
+
+A szakasz a befektetési alapok részére a törvényben meghatározott, az induló tőke legkisebb összegére vonatkozó előírásokat tartalmazza az egyes befektetési alap típusok szerinti csoportosításban.
+
+Nyilvános befektetési alapoknál az értékpapíralapok esetén kétszázmillió, az ingatlanalapok esetén pedig egymilliárd forint a tőkekövetelmény. Zártkörű alapoknál az értékpapíralapok esetében százmillió, ingatlanalapok esetében ötszázmillió, kockázati tőkelapok esetében kétszázötvenmillió forint a tőkekövetelmény.
+
+Az induló tőke összegére vonatkozó előírások a tevékenység végzésével járó kockázatok enyhítését szolgálják, a megfelelő fedezet rendelkezésre állását biztosítják. A nyilvános és a zártkörű alapok közötti különbségtétel, és az ezen két típuson belüli további csoportosítások az egyes alapok tevékenységei közötti eltérésekkel, a tevékenységükkel járó kockázatok mértékével állnak összefüggésben.
+
+A 69. §-hoz
+
+E szakasz az egyes befektetési alap típusok nyilvántartásba való bejegyzésének feltételeit, az eljárás részleteit tartalmazza.
+
+A rendelkezések tartalmazzák a nyilvános és a zártkörű befektetési alapok nyilvántartásba való bejegyzésének feltételeit. Ezenkívül kifejtik a kockázati tőkealapok és a magántőkelapok bejegyzési eljárásának részleteit.
+
+A törvény szintén rendelkezik az új befektetési alap egyesülési, valamint szétválási eljárás keretében történő létrehozásáról.
+
+A szakasz a befektetési alap bejegyzése iránti kérelem Felügyelet általi elutasításának eseteit is tartalmazza. Ezek a rendelkezések garanciális jelentőséggel bírnak, mert megszabják azon szabályokat, amelyeket a Felügyelet figyelembe vehet döntése meghozatalakor. Ezáltal kijelölik az engedély iránti kérelem elutasításának kereteit.
+
+A 70. §-hoz
+
+A rendelkezés a befektetési alapok részalapjainak létrehozására vonatkozó szabályokat tartalmazza. Ezen belül meghatározza, hogy az induló tőkére, a befektetési korlátokra, a különböző beszámolókra, a nettó eszközérték számítására, valamint a tájékoztató és a kezelési szabályzat tartalmi elemeire vonatkozó előírásokat milyen módon kell értelmezni a részalapok tekintetében.
+
+A szakasz rendelkezik továbbá a befektetési alapok részalapjainak eszközei fölötti rendelkezés szabályairól. Emellett meghatározza a részalapok egymáshoz való viszonyát az egyes részalapokkal szembeni követelések érvényesítése során.
+
+A 71. §-hoz
+
+A rendelkezés a befektetési jegy sorozatokra vonatkozó szabályokat tartalmazza.
+
+A 72-73. §-hoz
+
+A rendelkezések a befektetési alapok kezelési szabályzatára vonatkozó előírásokat tartalmazzák. Külön tárgyalják a nyilvános és a zártkörű befektetési alapok kezelési szabályzatára vonatkozó előírásokat.
+
+A szabályozás kifejti a nyilvános befektetési alapok kezelési szabályzatának módosítási eljárását. A módosítási eljárás törvényszerűségét biztosítja, hogy a módosításhoz szükséges a Felügyelet engedélye. Ugyanakkor a törvény meghatároz olyan esetköröket, amikor nem szükséges a felügyeleti engedély. Ezek általánosságban olyan esetek, amikor vagy befektetői szempontból kifejezetten kedvező módosításra kerül sor, vagy a módosítás nem érinti a befektetők helyzetét.
+
+A törvény speciális szabályokat állapít meg a zártkörű alapok kezelési szabályzatának módosítására vonatkozóan. Ezen alapok esetében a kezelési szabályzatban részletesen ki kell fejteni a módosítási eljárás részleteit és meg kell határozni azokat az eseteket, amikor a szabályzat módosításához a befektetők többségi vagy egyhangú támogatása szükséges.
+
+A 74. §-hoz
+
+A befektetési alap kezelésének átadásához szükséges feltételeit és az átruházó befektetési alapkezelőnek a kezelés átadásához kapcsolódó kötelezettségeket tartalmazza. A törvény az átruházást a Felügyelet előzetes engedélyéhez köti, ezáltal biztosítva az eljárás feletti hatósági felügyeletet.
+
+Meghatározza a Polgári Törvénykönyvről szóló 2013. évi V. törvényben szereplő, az átruházás esetén alkalmazandó szabályokat. Rögzíti továbbá a befektetőknek nyújtandó tájékoztatás tartalmi elemeit, a tájékoztatás határidejét. Ezen előírások biztosítják a befektetők számára a folyamat átláthatóságát. A szakasz utolsó három bekezdése az átruházás jogkövetkezményeit rögzíti.
+
+A 75-79. §-hoz
+
+E rendelkezések a befektetési alapok jogutód nélküli megszűnésének szabályait tartalmazzák.
+
+A megszüntetési eljárás megindításáról a befektetési alapkezelő vagy a Felügyelet határozhat. A törvény tartalmazza a befektetési alapok elleni megszüntetési eljárás megindításának kötelező eseteit és felsorolja azokat az esetköröket, amikor külön határozat nélkül indul meg az eljárás. Az átláthatóság és a piaci biztonság érdekében a szabályozás kiemeli a befektetési alapkezelő egyfelől a Felügyelet, másfelől a befektetők és a befektetési alap hitelezőinek irányába fennálló tájékoztatási kötelezettségét.
+
+A szakaszok a befektetési alapnak a megszüntetési eljárás alatti működésére vonatkozó rendkívüli szabályokat is megállapítják.
+
+A törvény az eszközök értékesítésének szabályait is tartalmazza. Megállapítja az értékesítésre nyitva álló határidőket, valamint az értékesítési ár megállapításának szabályait. Az eszközöket egyrészt típusonként választja külön, megkülönböztetve a pénzügyi eszközöket és az ingatlanokat. Másrészről külön határidőt és ármegállapítási módszert ír elő a kockázati tőkealapok és a magántőkealapok esetére is.
+
+A törvény rendelkezik a megszűnési eljárásra vonatkozó megszűnési jelentés elkészítésének határidejéről és a jelentésre vonatkozó közzétételi kötelezettségről. A jelentésnek fontos szerepe van, mert a jelentés közzétételének napján kezdhetőek meg a kifizetések. A rendelkezések szintén meghatározzák a kifizetések szabályait, a kifizetések megkezdésének határidejét, a hitelezők kielégítésének sorrendjét, amely tekintetben a törvény a csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény rendelkezéseire utal.
+
+A 80-81. §-hoz
+
+A szakaszok a befektetési alapok átalakulásának szabályait tartalmazzák. Először meghatározzák, mi minősül átalakulásnak. Az átalakulásra vonatkozó korlátozás, hogy ÁÉKBV nem alakulhat át ABA-vá. A szakasz az átalakulás törvényességének biztosítása érdekében az átalakulást a Felügyelet jóváhagyásához köti.
+
+A törvény a befektető-védelmi szempontokat is megjeleníti. Előírja a befektetési alap számára a befektetők tájékoztatásának kötelezettségét. Ezenkívül a befektetők számára a befektetési jegyek meghatározott határidőn belüli visszaváltásának lehetőségét is köteles a befektetési alap megteremteni. Szintén befektető-védelmi szempontokat szolgál, hogy a Felügyelet bizonyos esetekben a törvény rendelkezéseitől eltérő módon, egyedileg is meghatározhatja a befektetési alap átalakulásának feltételeit.
+
+A befektetési alap átalakulása esetén a külön díj- és jutalékmentes visszaváltási megbízás leadásának legkésőbbi időpontját úgy határozza meg, hogy ne csak a T napos elszámolású, hanem a T+3 napos elszámolású alapok elszámolása is biztosítható legyen, és hogy a befektetők részére minden esetben biztosított legyen legalább 30 napig a külön díj- és jutalékmentes visszaváltási lehetőség az átalakulás előtt. A törvény az átalakulást követő visszaváltási lehetőséget is biztosítja abban az esetben, ha pl. határozott futamidejű garantált alap átalakulás előtti visszaváltása a lejárat napja előtti visszaváltás miatt sérelmes lenne a befektetők számára.
+
+Speciális rendelkezéseket állapít meg a nyilvánosan működő alap zártkörűvé válásának esetére.
+
+A 82. §-hoz
+
+E szakasz meghatározza, mi minősül a 83-97. §-ok vonatkozásában az ÁÉKBV egyesülésének. A (2) bekezdés a hazai egyesülés, a (3) bekezdés pedig a határon átnyúló egyesülés definícióját adja meg e szakaszok vonatkozásában.
+
+A 83-85. §-hoz
+
+E szakaszok az ÁÉKBV egyesüléséhez kapcsolódó engedélyeztetési eljárás részletes szabályait tartalmazzák. A törvény meghatározza a Felügyelet részére benyújtandó dokumentumokat, valamint a hiánypótlásra nyitva álló határidőt.
+
+Emellett a törvény előírásai befektető-védelmi célt is szolgálnak. Egyfelől jogkört biztosítanak a Felügyelet számára a befektetőknek nyújtott tájékoztatás utólagos pontosításának előírására, másfelől a magyarországi székhelyű átvevő ÁÉKBV és más EGT-államban székhellyel rendelkező beolvadó ÁÉKBV egyesülése esetén a tájékoztatás utólagos módosításának előírására.
+
+A rendelkezések 84. § (2) bekezdés a) pont alapján benyújtandó egyesülési tervezet kötelező tartalmi elemeit is meghatározzák.
+
+A 86-87. §-hoz
+
+A rendelkezések az ÁÉKBV egyesülésének harmadik fél általi ellenőrzésére vonatkozóan állapítanak meg szabályokat. Meghatározzák azokat az adatokat, amelyek vonatkozásában a beolvadó, illetve az átvevő letétkezelő köteles nyilatkozni azok a törvénynek és az ÁÉKBV kezelési szabályzatának való megfeleléséről.
+
+A törvény továbbá azt is meghatározza, hogy magyarországi székhelyű beolvadó ÁÉKBV egyesülését mely szempontok alapján köteles megvizsgálni az ÁÉKBV letétkezelője, vagy érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló.
+
+A 88-93. §-hoz
+
+A rendelkezések az ÁÉKBV egyesülése esetén a befektetőknek nyújtott tájékoztatás részleteit tartalmazzák. Meghatározzák a tájékoztatás általános jellemzőit és rögzítik a tájékoztatás kötelező tartalmi elemeit. Ezek közül befektetői szempontból különösen lényeges az egyesülés hátterének és okainak, valamint a befektetőkre gyakorolt hatásainak bemutatása és a befektetők egyesüléssel kapcsolatos jogainak ismertetése.
+
+A törvény a befektetők folyamatos és naprakész tájékoztatása érdekében kimondja, hogy térítésmentesen kell lehetővé tenni a beolvadó ÁÉKBV befektetői számára az átvevő ÁÉKBV kiemelt befektetői információihoz való hozzájutást. Amennyiben az átvevő ÁÉKBV kiemelt befektetői információi az egyesülés következtében módosulnak, azt a meglévő befektetői számára szintén térítésmentesen kell hozzáférhetővé tenni.
+
+A rendelkezések meghatározzák azon személyek körét, akiknek az egyesülésről szóló tájékoztató dokumentum kibocsátása és az egyesülés hatálybalépése közti időszakban kötelező a tájékoztató dokumentumot és az ÁÉKBV kiemelt befektetői információit rendelkezésére bocsátani. Szintén meghatározzák a befektetők tájékoztatásának módszereit.
+
+A törvény a befektetők egyéb jogait, ezen belül a befektetési jegyek visszaváltására és átváltására irányuló jogot, és az ezek gyakorlására nyitva álló határidőt is rögzíti. Emellett rendelkezik a kollektív befektetési értékpapírok forgalmazásának az egyesülési folyamat idejére történő esetleges felfüggesztéséről mind az átvevő, mind pedig a beolvadó ÁÉKBV esetére.
+
+A 94-97. §-hoz
+
+E szakaszok rendelkeznek az egyesülés költségeinek viseléséről, valamint a befektetési jegyek átváltási arányáról.
+
+A 97. § rendelkezik az egyesülés jogkövetkezményeinek hatályosulásáról.
+
+A 98. §-hoz
+
+E szakasz rendelkezik az olyan magyarországi székhelyű ABA-k illetve ÁÉKBV-k egyesülésére vonatkozó szabályokról, amelyek egyikének befektetési jegyeit sem hozták más EGT-államban forgalomba. Ezen befektetési alapokra a 83-97. §-ban foglaltak irányadók a 98. § (2)-(7) bekezdéseiben meghatározott eltéréssel.
+
+A 99. §-hoz
+
+Ez a szakasz a kockázati tőkealapok és a magántőkelapok egyesülésének folyamatáról rendelkezik. A szakaszon belül több előírás biztosítja a folyamat törvényességét és átláthatóságát.
+
+Ezen célokat szolgálja egyfelől a jogutód által a Felügyeletnek részére kötelezően megküldendő tájékoztató, amelyben ki kell térni az átalakulás indokára, napjára és feltételeire.
+
+Emellett a rendelkezés megállapítja, hogy a jogutód kockázati tőkealap és magántőke alap az egyesülés napján köteles portfólió jelentést készíteni, és azt a Felügyelet részére 8 napon belül elküldeni. Ebben a jelentésben ki kell térni többek között a portfólióban lévő eszközök tételes felsorolására és értékére. Ez lehetővé teszi a folyamat Felügyelet általi végigkövetését, az eszközállomány alakulásának visszakövethetőségét.
+
+A 100. §-hoz
+
+Ez a szakasz átfogó jelleggel, a kollektív befektetési formák összességének szétválására vonatkozóan fogalmaz meg szabályokat. Meghatározza, hogy mi minősül szétválásnak, és visszautal az egyesülés szabályira.
+
+A 101-102. §-hoz
+
+A rendelkezések a befektetési alap által kibocsátott befektetési jegyre vonatkozó általános szabályokat tartalmazzák. A törvény a befektetési jegyet a befektetőknek a befektetési alappal szemben fennálló követelését és egyéb jogait megtestesítő eszközként definiálja. Ezután meghatározza a befektetési jegyek kötelező tartalmi kellékeit, majd a befektetési jegyek keletkeztetésének feltételeit.
+
+A 103-112. §-hoz
+
+E rendelkezések a befektetési alap befektetési jegyeinek forgalomba hozatalára és folyamatos forgalmazására vonatkozó szabályokat tartalmazzák. Meghatározzák mind a nyilvános, mind a zártkörű forgalomba hozatal feltételeit.
+
+A törvény a forgalmazás általános feltételeként rögzíti a befektetési alap kezelési szabályzatának a befektetési alapkezelő általi elfogadását. Ezután meghatározza a nyílt és a zárt végű befektetési jegyek nyilvános forgalomba hozatalának szabályait, majd rendelkezik a zártkörű forgalomba hozatal szabályairól. Rendelkezik továbbá a zárt végű alapok részére a befektetési jegyek forgalomba hozatalának egy speciális módjáról, a kibocsátási program keretében történő forgalomba hozatalról.
+
+A törvény meghatározza forgalmazó által a befektetési alapkezelő és a letétkezelő részére kötelezően megküldendő adatokat. Kifejti a forgalmazás részletes szabályait, ezen belül a vételi és visszaváltási megbízások fogadásáról és az elszámolásról, a befektetési jegyek vételekor és visszaváltásakor szolgáltatandó ellenérték formájáról és a forgalmazási díj felszámításáról is rendelkezik. Meghatározza a befektetési alapkezelő által esetlegesen meghatározott forgalmazási maximum elérése esetén követendő eljárás részleteit. Tartalmazza továbbá a folyamatos forgalmazás során a közvetítő igénybevételének szabályait.
+
+A 113-116. §-hoz
+
+E rendelkezések tartalmazzák a befektetési jegyek folyamatos forgalmazásának szüneteltetésére és felfüggesztésére vonatkozó szabályokat.
+
+A törvény elsőként rendelkezik a folyamatos forgalmazás szüneteltetésének feltételeiről, leghosszabb időtartamáról. Ezután meghatározza a folyamatos forgalmazás felfüggesztésének feltételeit. Rendelkezik továbbá a folyamatos forgalmazás Felügyelet általi felfüggesztésének eseteiről.
+
+A törvény a felfüggesztés leghosszabb időtartamát a befektetési alapok számára 30 napban határozza meg. Külön szabályozás vonatkozik az ingatlanalapokra, melyek esetében a felfüggesztés leghosszabb lehetséges időtartama 1 év.
+
+A 117-119. §-hoz
+
+E szakaszok az ÁÉKBV által kibocsátott értékpapírok határon átnyúló forgalomba hozataláról és az értékpapírok folyamatos forgalmazásáról rendelkeznek. A törvény először a forgalomba hozatal azon eseteit szabályozza, amikor a magyarországi székhelyű ÁÉKBV által kibocsátott értékpapírok más EGT-államban kerülnek forgalomba. Meghatározza a forgalmazás feltételeit, szabályozza a forgalmazásra irányuló szándéknak a Felügyelet részére történő bejelentésével kapcsolatos szabályokat.
+
+A további rendelkezések a más EGT-államban engedélyezett ÁÉKBV által kibocsátott értékpapírok magyarországi forgalomba hozatalára és forgalmazására vonatkoznak.
+
+A 120-121. §-hoz
+
+A rendelkezések az ABAK által kezelt más tagállamban engedélyezett uniós ABA kollektív befektetési értékpapírjainak belföldön, valamint más EGT tagállamban való forgalmazására vonatkozó szabályokat tartalmazzák.
+
+A 123. §-hoz
+
+A szakasz a nem uniós ABAK által kezelt ABA kollektív befektetési értékpapírjainak belföldi forgalmazásáról rendelkezik, megállapítja a forgalmazáshoz szükséges feltételeket.
+
+A 124-128. §-hoz
+
+Ezen rendelkezések szabályozzák a befektetési alapok nettó eszközértékének kiszámítását. Speciális rendelkezéseket állapítanak meg a nyílt végű alapok, a nyilvános zárt végű alapok, és a tőzsdére bevezetett értékpapíralapok esetén a nettó eszközérték megállapításának gyakoriságára vonatkozóan. A törvény ezután rendelkezik a nettó eszközérték kiszámításánál bekövetkezett hiba esetén alkalmazandó eljárásról, valamint megállapítja a befektetők részére történő kifizetések és a befektetési alap likviddé vált eszközeinek elkülönítésére vonatkozó szabályokat.
+
+A 129-141. §-hoz
+
+A rendelkezések a befektetési alapok tájékoztatási kötelezettségeit tartalmazzák. Ezen rendelkezések egyszerre biztosítják a befektetők és a Felügyelet megfelelő időközönkénti tájékoztatását.
+
+A törvény elsőként a nyilvánosan forgalomba hozott befektetési jegyek esetén kibocsátandó tájékoztató tartalmi elemeit fejti ki, majd a nyilvános nyílt végű befektetési alapok esetén kibocsátandó kiemelt befektetői információ tartalmi elemeit részletezi. Ezután a nyilvános befektetési alap rendszeres tájékoztatási, jelentéstételi kötelezettségeit és az ezeket tartalmazó dokumentumok tartalmát írja le. Ezenkívül rendkívüli tájékoztatási kötelezettség keretében a Felügyelet részére benyújtandó információkat is felsorolja. Végül a zártkörű befektetési alapokra vonatkozó szabályokat fogalmazza meg.
+
+A szakaszok a közzétételi kötelezettség teljesítésének módjára vonatkozóan általános, valamennyi befektetési alapra érvényes szabályokat határoznak meg.
+
+A 142-154. §-hoz
+
+Ez a rész a cél- és gyűjtő ÁÉKBV-kre tartalmaz előírásokat. Szabályozza a cél- és gyűjtő ÁÉKBV-k engedélyezését, felsorolja az engedély mellé benyújtandó dokumentumokat.
+
+Speciális rendelkezéseket tartalmaz a cél- és gyűjtő ÁÉKBV-k letétkezelőjére és könyvvizsgálójára vonatkozóan. Ezek a rendelkezések, valamint a cél- és gyűjtő ÁÉKBV-re vonatkozó közös előírások is a két ÁÉKBV összehangolt működésének biztosítását szolgálják.
+
+A törvény meghatározza továbbá a létező ÁÉKBV gyűjtő-ÁÉKBV-vé alakításának és a cél-ÁÉKBV váltás eljárási rendjét. Rendelkezik továbbá azokról az eljárásokról, amelyeket a cél-ÁÉKBV megszűnése, egyesülése vagy szétválása során kell alkalmazni.
+
+A 155-161. §-hoz
+
+A törvény Ötödik Része a nem uniós ABA kollektív befektetési értékpapírjainak forgalmazásával, illetve a nem uniós ABAK engedélyezésével, működésével kapcsolatos rendelkezéseket fogalmazza meg. Részletesen meghatározza azokat a körülményeket, melyek esetén Magyarország minősül egy nem uniós ABAK referencia-tagállamának.
+
+A 162. §-hoz
+
+A piaci szereplők kötelesek a Felügyelet részére díjat fizetni. A díj a befektetési alapkezelő esetében két részből, egy alapdíjból és egy változó díjból tevődik össze, míg a befektetési alap változó díjat köteles fizetni. A felügyeleti díjra vonatkozó rendelkezések célja, hogy annak alapját az adott piaci szereplő tevékenységének kockázatai képezzék.
+
+A 163-166. §-hoz
+
+A törvény a Felügyelet eljárásának határidejére tartalmaz a Ket. általános szabályaitól eltérő előírásokat, valamint előírja, hogy a kérelmező a kérelmét mely meghatározott esetekben köteles az e célra rendszeresített elektronikus űrlapon benyújtani.
+
+A törvény részletesen meghatározza azoknak az adatoknak a körét, amelyeket a Felügyelet nyilvántarthat, ezáltal a Felügyelet adatnyilvántartása megfelel az adatvédelmi törvényben előírtaknak. A Felügyelet engedélye magában foglalja a nyilvántartásba vételt is, így az engedéllyel rendelkezőknek nem kell külön nyilvántartásba vételt is kérni. A Felügyelet az általa kiadott engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatát megküldi a cégbíróságnak, csakúgy, mint az engedély iránti kérelmet elutasító jogerős határozatát.
+
+A Felügyelet nyilvántartása nyilvános, az adatokat a honlapján magyar és angol nyelven is közzéteszi. A Felügyelet a befektetési alapkezelők adatainak változása esetén tájékoztatja a befektetési alapkezelő fogadó országának hatáskörrel rendelkező felügyeleti hatóságát.
+
+A törvény a Felügyelet adatkezelésére vonatkozóan előírja, hogy milyen adatokat és milyen célra jogosult a Felügyelet kezelni. Az általános adatkezelési idő az adatkezelésre okot adó körülmény megszűnésétől számított 5 év. A Felügyelet által kezelt adat statisztikai célra - személyazonosításra alkalmatlan módon - felhasználható. A törvény lehetővé teszi a Felügyelet számára, hogy más hatóságoktól, illetve elektronikus hírközlési szolgáltatótól a felhasználás céljának megjelölésével, a törvény által meghatározott adatkörben elektronikus adatot vegyen át, és előírja, hogy a Felügyelet más személynek vagy hatóságnak kizárólag olyan összesített adatot adhat át, amely egyedi azonosításra alkalmatlan. A Felügyeletnek gondoskodnia kell továbbá arról is, hogy illetéktelenek az általa kezelt adatokhoz ne férhessenek hozzá, valamint hogy az adatok védelmének biztosítása érdekében az érintett a Felügyelet által kezelt adataihoz hozzáférhessen, illetve gyakorolhassa a helyesbítéshez vagy a törléshez való jogát.
+
+A 167. §-hoz
+
+A törvény előírásai jelentési kötelezettséget írnak elő annak érdekében, hogy a felügyeleti ellenőrzés a befektetési alapkezelők tekintetében hatékonyan tudjon működni. A befektetési alapkezelők adatszolgáltatása kiterjed a likviditás, a kockázatvállalás, a tevékenység szabályainak betartása, a szervezeti működés, valamint a belső ellenőrzés rendszeres figyelemmel kíséréséhez szükséges információkra. A befektetési alapkezelőknek a felügyeleti hatóság számára alacsonyabb szintű jogszabályban előírt tartalommal, módon és formában kell a jelentést megadniuk. A törvény a fióktelepek számára további jelentési kötelezettséget ír elő. Ezeknek az adatoknak és eseményeknek a haladéktalan bejelentése azért szükséges, mert a hozzájuk kapcsolódó felügyeleti intézkedéseket is haladéktalanul kell megtenni. Tekintettel arra, hogy ezek az események a pénz- és tőkepiac, valamint a gazdasági egészére nézve is jelentős hatásokat gyakorolhatnak, szükséges, hogy a befektetési alapkezelő ezeket időben bejelentse a Felügyeletnek.
+
+A 168-169. §-hoz
+
+A Felügyelet külföldi felügyeleti hatósággal kötött nemzetközi együttműködési megállapodás alapján a külföldi felügyeleti hatóság kezdeményezésére, külföldi jogszabályban, külföldi felügyeleti hatóság határozatában, külföldi tőzsde alapszabályában vagy szabályzatában, külföldi elszámolóház alapszabályában vagy szabályzatában, illetve külföldi központi értéktár alapszabályában vagy szabályzatában meghatározott előírások megsértése esetén is alkalmazhat intézkedéseket és szankciókat.
+
+A törvény lehetőséget ad a felügyeleti hatóság számára, hogy az e törvényben, valamint a befektetési alapkezelő által végezhető egyéb tevékenységre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén a felügyeleti hatóság határozataiban foglaltak maradéktalan betartása, illetőleg a jogsértések és a hiányosságok megelőzése vagy megszüntetése érdekében a felügyelete alá tartozó szervezetekkel szemben intézkedéseket és szankciókat alkalmazhasson. Ezek a jogosultságok jelentik a felügyeleti eszköztárat, vagyis azokat az eszközöket, amelyekkel a felügyeleti hatóság kényszerítheti a befektetési alapkezelőket a jogkövető megtartására, ezáltal biztosítva a rájuk bízott idegen források biztonságát, illetve a befektetési alapkezelési tevékenység tisztaságát.
+
+A törvény részletesen meghatározza a felügyeleti hatóság által hozható intézkedéseket és szankciókat. A törvény részletesen meghatározza azokat az eseményeket is, amikor a Felügyeletnek mérlegelési jogkörrel együttesen van intézkedési lehetősége. Ez esetben tehát a Felügyelet nincs a törvény által kötelezve az intézkedés meghozatalára, hanem annak meghozatalát, illetve az intézkedés mértékét saját hatáskörében döntheti el. A törvény felsorolja továbbá azokat az eseményeket is, amikor a Felügyeletnek nincsen mérlegelési jogköre, hanem az adott befektetési alapkezelővel szemben az intézkedéseket meghozni köteles. Ezen esetek részletes felsorolása azért szükséges, hogy a Felügyelet intézkedései, az általa hozott szankciók jogi megalapozottsága mindenkor jogbiztonságot nyújtson, a meghozott felügyeleti intézkedések ne legyenek megkérdőjelezhetőek.
+
+A törvény a Felügyelet által hozható intézkedéseket két csoportba foglalja. Az első csoportba azok az intézkedések tartoznak, amelyeket a Felügyelet akkor hoz meg, amennyiben az előírások megsértését és hiányosságot állapít meg a felügyelete alá tartozó szervezeteknél és személyeknél, de azok az óvatos, körültekintő és megbízható működését jelentősen vagy súlyosan nem veszélyeztetik. Ezek az intézkedések felhívó jellegűek, vagy javaslattevők, rendkívüli adatszolgáltatási kötelezettségre irányulhatnak.
+
+Ha a jogszabályok, illetve más előírások megsértése a befektetési alapkezelő óvatos, körültekintő vagy megbízható működését jelentősen veszélyeztetik, a Felügyelet szigorúbb intézkedéseket is foganatosíthat, így többek között kötelezheti a befektetési alapkezelőt belső szabályzat kidolgozására, a működési költségek csökkentésére, megfelelő nagyságú tartalékok képzésére, az alkalmazottak szakmai továbbképzésére, illetve megfelelő szakmai ismeretekkel rendelkező alkalmazottak felvételére, más könyvvizsgáló választására, vagy megtilthatja osztalék kifizetését. Ezekkel az intézkedésekkel a Felügyelet már jelentősen befolyásolja az adott befektetési alapkezelő tevékenységét, és ezzel abba az irányba hat, hogy a kockázatosság mértéke csökkenjen.
+
+A 170-171. §-hoz
+
+A törvény szerint a felügyeleti eszköztár fontos eleme a felügyeleti biztos vagy biztosok kirendelése. A felügyeleti biztos kirendelésének elsősorban akkor van helye, ha a befektetési alapkezelő olyan helyzetbe kerül, amelyben fennáll annak a veszélye, hogy ügyfelei felé fennálló jelentős kötelezettségeinek nem tud eleget tenni, a befektetési alapkezelő igazgatósága, vezető állású személye nem látja el, vagy nem tudja ellátni feladatát, és ez veszélyezteti a befektetők érdekeit, a befektetési alapkezelő számvitelében, belső ellenőrzési rendszerében feltárt hiányosságok oly mértékűek, hogy lehetetlenné vált a valódi pénzügyi helyzetének értékelése.
+
+A felügyeleti biztos a kirendelése után átveszi a befektetési alapkezelő irányítását, így ettől kezdve vezető állású személyei nem gyakorolhatják a Polgári Törvénykönyvben, a számviteli törvényben, illetve az alapszabályban rögzített feladataikat, valamint cégjegyzési jogukat sem. A felügyeleti biztost kirendelés esetén a cégbíróságnak a cégjegyzékbe be kell jegyeznie, egyidejűleg az igazgatósági tagoknak a cégjegyzékből való törlése iránt intézkednie kell.
+
+A felügyeleti biztos kirendelését a felügyeleti hatóság elsősorban abban az esetben rendeli el, ha valószínűsíthető, hogy a befektetési alapkezelő vezetői felelősek a befektetési alapkezelőben kialakult helyzetért, és a befektetési alapkezelőt a válságból kivezetni nem képesek, vagy jelenlétük és intézkedési, valamint döntés jogosultságaik fenntartása a későbbiekben veszélyezteti a felelősség egyértelmű megállapítását. A felügyeleti biztos vagy biztosok átveszik a befektetési alapkezelő irányítását és a döntésekhez fűződő felelősséget és a válság mértékének függvényében vagy válságmenedzserként működnek, vagyis a befektetési alapkezelő válságból való kivezetése irányában tevékenykednek, vagy pedig az a feladatuk, hogy a meglévő vagyont a felszámolási eljárás megindításának és befejezésének időpontjáig megőrizzék. A felügyeleti biztos a kirendelését követő 90 napon belül jelentést készít a Felügyeletnek a befektetési alapkezelő helyzetéről, és javaslatot tesz a további intézkedésre.
+
+Az igazgatóság, illetve a felügyelőbizottság tagjainak fontos garanciális jogosultsága, hogy a felügyeleti biztos kirendelésének tartama alatt is jogosult a befektetési alapkezelő törvényes képviseletében jogorvoslattal élni a felügyeleti biztost kirendelő felügyeleti határozat és a Felügyelet által a befektetési alapkezelővel szemben hozott határozat ellen.
+
+A 172-173. §-hoz
+
+A 172-173. §-ok a felügyeleti hatósági együttműködés kereteit, és az e körben teendő intézkedéseket határozzák meg. Eszerint ha más EGT-államban székhellyel rendelkező befektetési alapkezelő fióktelepe nem tesz eleget a Magyarországon hatályos előírásoknak, illetve a Felügyelet hiányosságot észlel a fióktelep működésében, a Felügyelet elsőként felszólítással él a fióktelep felé a szabályellenes helyzet megszüntetésére. Ezt követően, ha a fióktelep a felszólításnak nem tesz eleget, a Felügyelet értesíti a másik EGT-állam felügyeleti hatóságát és kezdeményezi, hogy az tegye meg a megfelelő intézkedéseket.
+
+Emellett fontos kiemelni, hogy a Felügyelet közvetlenül is intézkedhet a más EGT-államban székhellyel rendelkező befektetési alapkezelő fióktelepével szemben, a Magyarországon hatályos előírások megsértése esetén, illetve abban az esetben, ha úgy ítéli meg, hogy a szabályellenes helyzet fennállása súlyosan veszélyezteti a tőkepiac stabilitását, vagy az ügyfelek érdekeit. Ezekről az intézkedésekről indokkal ellátva a Felügyelet tájékoztatja a befektetési alapkezelőt, a Bizottságot, az EÉPH-t, és az érintett tagállamok hatáskörrel rendelkező felügyeleti hatóságait.
+
+A felügyeleti együttműködés alapján a Felügyelet más EGT-állam felügyeleti hatóságának átad, illetve tőle átvesz a befektetési alapkezelő, illetve az ÁÉKBV és ABA működésével kapcsolatosan iratokat, valamint a befektetési alapkezelő más EGT-államban nyújtott szolgáltatása tekintetében folytat le felügyeleti eljárást. A törvény az együttműködés európai uniós szabályai alapján azt is tartalmazza, hogy az átvett információt az azt átadó illetékes hatóság kifejezett hozzájárulása nélkül nem lehet közzétenni, és kizárólag azokra a célokra lehet felhasználni, amelyekhez az hozzájárult.
+
+A törvény a Felügyelet jogosultságaként rögzíti, hogy kérheti más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának együttműködését annak területén történő valamely felügyeleti tevékenységben vagy helyszíni ellenőrzés elvégzésében, vagy az utóbbi területén végzett vizsgálatban. Ha a Felügyelet helyszíni ellenőrzésre vagy vizsgálatra irányuló felkérést kap, vagy maga végzi el az ellenőrzést vagy vizsgálatot, vagy megengedi, hogy akár a kérelmező hatóság, akár erre megbízott könyvvizsgálók vagy szakértők hajtsák végre azt. A törvény tartalmazza az együttműködés feltételeit, és az információ átadás megtagadási lehetőségeit is meghatározza a Felügyelet számára.
+
+A 174. §-hoz
+
+A törvény szabályozza a felügyeleti eljárás során történő titoktartási kötelezettségre vonatkozó rendelkezéseket. Ez alapján a Felügyelet eljárása során a befektetési alapkezelőkkel, a befektetési alapokkal kapcsolatosan tudomására jutott minden, a Ptk. szerinti üzleti titkot törvény eltérő rendelkezése hiányában időbeli korlátozás nélkül köteles megtartani, azt csak az e törvényben meghatározott feladatának ellátása érdekében kezelheti, és a titokgazda felhatalmazása nélkül harmadik személynek az e törvényben meghatározott kivételekkel nem adhatja ki. A Felügyelet tartozik felelősséggel azért, hogy a munkavállalói, valamint megbízottjai eleget tegyenek az üzleti titok megtartására vonatkozó kötelezettségüknek. A Ptk. szerint üzleti titok a gazdasági tevékenységhez kapcsolódó minden nem közismert vagy az érintett gazdasági tevékenységet végző személyek számára nem könnyen hozzáférhető olyan tény, tájékoztatás, egyéb adat és az azokból készült összeállítás, amelynek illetéktelenek által történő megszerzése, hasznosítása, másokkal való közlése vagy nyilvánosságra hozatala a jogosult jogos pénzügyi, gazdasági vagy piaci érdekét sértené vagy veszélyeztetné, feltéve, hogy a titok megőrzésével kapcsolatban a vele jogszerűen rendelkező jogosultat felróhatóság nem terheli.
+
+A 175. §-hoz
+
+Az ABAK-okra, a törvény XXIV. fejezetében foglalt általános szabályokon kívül a XXV. fejezet rendelkezéseit is alkalmazni kell. Az ABAK-okra vonatkozó speciális rendelkezéseket tartalmazó EU-s jogszabályok megalkotását, és e törvényben történő átültetését az általuk alkalmazott számos különféle befektetési stratégia és módszer indokolja.
+
+A 176. §-hoz
+
+E szakasz az európai uniós rendelkezésekkel összhangban előírja, hogy a Felügyelet megfelelő módszereket állapít meg annak ellenőrzésére, hogy az ABAK-ok teljesítik-e az e törvényben foglalt kötelezettségeiket, melynek során az EÉPH által kidolgozott iránymutatásokat is figyelembe veszi.
+
+A 177. §-hoz
+
+E rendelkezések a Felügyelet felelősségi körén belül rendezik azokat a helyzeteket, amikor több EGT-állam érintettsége folytán több felügyeleti hatóság hatásköre is szóba jöhet. Például a magyarországi székhelyű ABAK felett akkor is a Felügyelet rendelkezik hatáskörrel, ha az más tagállamban kezeli, vagy kezeli és forgalmazza ABA kollektív befektetési értékpapírjait. Nyilvánvalóan e rendelkezés nem érinti azt az esetet, amikor e törvény az ABAK fogadó tagállamának hatáskörrel rendelkező hatóságaira ruházza a felügyeletért való felelősséget. A Felügyelet hatásköre kiterjed továbbá a más EGT-államban székhellyel rendelkező ABAK magyarországi fióktelepe feletti felügyeletre - a javadalmazás kivételével - a működési feltételekre vonatkozó általános elvek betartása, valamint az összeférhetetlenség tekintetében.
+
+A törvény részletekbe menően, az alternatív befektetési alapkezelőkről szóló, 2011/61/EU európai parlamenti és tanácsi irányelvnek megfelelően szabályozza, hogy amennyiben más EGT-államban székhellyel rendelkező, Magyarországon - fióktelepen keresztül vagy anélkül - ABA kollektív befektetési értékpapírjait kezelő, vagy ABA kollektív befektetési értékpapírjait kezelő és forgalmazó ABAK nem tesz eleget a Magyarországon hatályos olyan előírásoknak, melyek a Felügyelet jogai és kötelességei. Így a Felügyelet elsőként felszólítja az ABAK-ot a jogellenes helyzet megszüntetésére, egyúttal tájékoztatja a letelepedése szerinti EGT-állam felügyeleti hatóságát. Ezt követően, ha az említett ABAK a felszólításnak nem tesz eleget, a Felügyelet értesíti a másik EGT-állam felügyeleti hatóságát a szabályellenes helyzetről, illetve kezdeményezi, hogy a hatáskörrel rendelkező felügyeleti hatóság tegye meg a megfelelő intézkedést. Amennyiben az ABAK továbbra is megtagadja a Felügyelettől a hatáskörébe tartozó ügyekben való tájékoztatást, vagy elmulasztja a szabályellenes helyzet megszüntetéséhez szükséges intézkedések megtételét, a Felügyelet csak ebben az esetben jogosult közvetlen intézkedéseket alkalmazni az ABAK-kal szemben, melynek során végső soron megakadályozhatja, hogy az érintett ABAK tovább forgalmazza az érintett ABA kollektív befektetési értékpapírjait Magyarországon. Fontos újdonság az is, miszerint ha a Felügyelet nem ért egyet más EGT-államban hatáskörrel rendelkező hatóságának e szakaszban foglaltaknak megfelelő intézkedéseivel, az ügyet az EÉPH elé utalhatja, amely dönt a kérdésben.
+
+A 178. §-hoz
+
+E szakasz a Felügyelet kötelezettségeit tartalmazza, amennyiben a magyarországi székhelyű, más EGT-államban - fióktelep útján vagy anélkül - ABA kollektív befektetési értékpapírjait forgalmazó, vagy ABA kollektív befektetési értékpapírjait forgalmazó és kezelő ABAK megtagadja a fogadó EGT-állam hatáskörrel rendelkező hatóságaitól a hatáskörükbe tartozó ügyekről való tájékoztatást, vagy elmulasztja a jogellenes helyzet megszüntetéséhez szükséges intézkedések megtételét, és a Felügyelet a fogadó EGT-államtól erre vonatkozóan tájékoztatást kap.
+
+A 179. §-hoz
+
+A törvény a Felügyelet általános hatáskörein túl az ABAK-okra vonatkozó további hatásköreit sorolja fel.
+
+A 180. §-hoz
+
+A Felügyelet az ABAK-ok esetében nyilvánosságra hozhat bármely, általa alkalmazott intézkedést vagy szankciót, kivéve, ha a közzététel súlyosan veszélyeztetné az EGT pénzügyi piacait, sértené a befektetők érdekeit, vagy aránytalan kárt okozna a szankcióval vagy intézkedéssel érintett feleknek.
+
+A 181. §-hoz
+
+A törvény tartalmazza az ABAK-okra vonatkozó adatok Felügyelet által harmadik, nem EGT-tagállam országok részére történő átadásának feltételeit.
+
+A 182-183. §-hoz
+
+A törvény ezen rendelkezései a felügyeleti tevékenység során más EGT-államokkal folytatott együttműködésre tartalmaznak részletes előírásokat, a 183. § pedig kifejezetten az egymás területén történő felügyeleti tevékenység, helyszíni ellenőrzés vagy vizsgálat lényeges kérdéseit szabályozza.
+
+A 184-186. §-hoz
+
+E szakaszok részletes szabályokat írnak elő a Felügyelet együttműködésére az EÉPH-val az ABAK-ok tekintetében, továbbá az ABAK-ok tevékenységének lehetséges rendszerszintű következményeivel kapcsolatos, felügyeleti hatóságok közötti információcserére és a köztük lévő vitarendezésre, amelyet az EÉPH hatáskörébe utal.
+
+A 187. §-hoz
+
+A törvény az alternatív befektetési alapkezelőkről szóló, 2011/61/EU európai parlamenti és tanácsi irányelvnek megfelelően szabályozza a tőkeáttétellel finanszírozott ABA-kat kezelő ABAK-ok esetében az információk Felügyelet általi felhasználását, továbbá a felügyeleti együttműködést és a tőkeáttétel korlátozását.
+
+A 188-192. §-hoz
+
+A törvény az alternatív befektetési alapkezelőkről szóló, 2011/61/EU európai parlamenti és tanácsi irányelvnek megfelelően szabályozza a tőzsdén nem jegyzett társaságok és kibocsátók felett ellenőrzést szerző ABA-k kollektív befektetési értékpapírjait kezelő ABAK-okra vonatkozó rendelkezéseket. A 188. § meghatározza, hogy a rendelkezéseket konkrétan mely ABA-ra kell alkalmazni. Ezt követően részletszabályok kerültek meghatározásra az ilyen ABA-k kötelezettségeire vonatkozóan, többek között, hogy amennyiben egy ABA tőzsdén nem jegyzett társaság részvényeit szerzi meg, idegeníti el vagy tartja birtokában, az ezen ABA kollektív befektetési értékpapírjait kezelő ABAK értesíti a Felügyeletet a tőzsdén nem jegyzett társaság ABA-t megillető szavazati jogainak arányáról, ha ez az arány eléri vagy meghaladja a 10, 20, 30, 50 és 75%-ot, valamint ha ez alá csökken.
+
+A 193-196. §-hoz
+
+E szakaszok a könyvvizsgálóra vonatkozó szabályokat tartalmazzák. A könyvvizsgálónak befektetési alap és befektetési alapkezelő esetében a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvényben és az egyéb jogszabályban foglalt kötelezettségeiken túlmenően az e szakaszokban leírtaknak is eleget kell tenniük.
+
+A 197-200. §-hoz
+
+Az üzleti titok megtartásának kötelezettsége nem csupán az intézmények vezető állású személyére vonatkozik, hanem a befektetési alapkezelő, a befektetési alapkezelőben tagi részesedéssel rendelkező, tagi részesedést szerezni kívánó és alkalmazottként foglalkoztatott személyre is, vagy bármely más olyan személyre, aki valamilyen módon üzleti titok birtokába jutott. Az üzleti titok megtartásának kötelezettsége azonban nem hátráltathatja sem a felügyeleti tevékenységet, sem a különböző állami szervek tevékenységét. Így az üzleti titoktartási kötelezettség nem áll fenn többek között a feladatkörében eljáró MNB-vel, a nemzetbiztonsági szolgálattal, az Állami Számvevőszékkel, a Gazdasági Versenyhivatallal vagy az állami adóhatósággal szemben. Kizárólag az eljárás alapját képező ügyre vonatkozóan az üzleti titok megtartási kötelezettsége nem áll fenn a feladatkörében eljáró nyomozóhatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás keretében, és a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás és az önkormányzati adósságrendezési eljárás keretében a bírósággal szemben, ezen kívül az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF) szemben sem.
+
+Hasonló szabályokat tartalmaz a törvény az értékpapírtitok vonatkozásában, amelynek alapvető szabályait a Tpt. határozza meg. Eszerint a befektetési alapkezelő, illetve a befektetési alapkezelő vezető állású személye és alkalmazottja, valamint bármely más személy, aki valamilyen módon birtokába jutott, az értékpapírtitkot köteles időbeli korlátozás nélkül megőrizni. Részletesen meghatározza az értékpapírtitok kiadásának törvényi feltételeit, továbbá azokat a szervezeteket, amelyekkel szemben nem áll fenn a titoktartási kötelezettség.
+
+-----STARTING---POINT---VEGE---
+
+A 201. §-hoz
+
+A szükséges felhatalmazó rendelkezéseket tartalmazza.
+
+A 202. §-hoz
+
+A törvény főszabályként a kihirdetését követő napon lép hatályba.
+
+A rendelkezések döntő többsége 2014. március 15-én lépnek hatályba azzal, hogy egyes szakaszokat 2014. március 15-i hatállyal az új Polgári Törvénykönyv hatálybalépése miatt módosítani kell. A 155-161. § hatálybalépése a Bizottság által - az ABAK-irányelv 67. cikk (6) bekezdése alapján - jelenleg nem meghatározható napon elfogadandó felhatalmazó jogi aktus függvénye. A hatálybalépésre a jogi aktus meghozatalát követő 15. napon kerül sor. A miniszter az Európai Bizottság jogi aktusa meghozatalának időpontját - annak ismertté válását követően haladéktalanul - a Magyar Közlönyben közzétett egyedi határozattal állapítja meg.
+
+A 203. §-hoz
+
+Az átmeneti rendelkezéseket tartalmazza.
+
+A 204. §-hoz
+
+A sarkalatossági klauzulát tartalmazza.
+
+A 205. §-hoz
+
+A jogharmonizációs záradékot tartalmazza.
+
+A 206. §-hoz
+
+Pontosításra került az elszámolási rendszer fogalma a pénzügyi eszköz vonatkozásában. A pénzügyi eszközök piacairól szóló 2004/39/EK irányelv 34. cikk (2) bekezdésére tekintettel, valamint az EMIR-rendelet szerinti engedélyezési rendelkezésekkel összhangban az elszámolási rendszer alatt csak pénzügyi eszközre kötött ügylettel kapcsolatos elszámolási rendszer érthető. Ilyen szempontból az sem releváns, hogy a pénzügyi eszközre kötött ügyletet hol (tőzsdén v. tőzsdén kívül) kötötték-e meg. 
+
+A törvény az intézményi befektető fogalmát pontosítja, tekintettel arra, hogy a törvény alapján a kockázati tőkealap fogalma a kollektív befektetési forma, a kockázati tőkealap-kezelő fogalma pedig a befektetési alapkezelő fogalmi körébe épül be.
+
+A 207. §-hoz
+
+A Tpt. 7. § módosításának indoka, hogy központi értékpapírszámla megnyitásakor és annak bármely változásakor a központi értéktár rendelkezésére állnak az értékpapírszámla vezetőkre vonatkozó információk, melyről a központi értéktár saját nyilvántartást vezet, és a keletkeztetés szükségszerűen azáltal valósul meg, hogy a központi értékpapír számlán nyilvántartott összes mennyiséget az egyes értékpapír-számlavezetők számláján jóváírja.
+
+Szükségtelen központi értéktári szinten az értékpapírok két dematerializált esemény közötti ill. annak változása esetén a letétbe helyezett okiratot módosítani.
+
+A 208. §-hoz
+
+A Tpt. 9. §-a módosítása esetében az előállítás alapja az, hogy a központi értékpapírszámlán levő összes kibocsátott mennyiség megegyezik az egyes értékpapír-számlavezetőknél jóváírt mennyiség összegével, mely utóbbi a kibocsátó intézkedése alapján allokálódik. Abban az esetben, amennyiben a teljes mennyiséget nem tudják az érintett számlavezetők ügyfeleik értékpapírszámlájára jóváírni, így ezen mennyiség (darabszám vonatkozásában) esetében tényleges tulajdonosról nem beszélhetünk, tehát ezeket szegregálva szükséges nyilvántartani, valamint annak sorsáról a kibocsátó rendelkezni köteles.
+
+A 209-210. §-hoz
+
+A Tpt. 12/A. §-a a dematerializált részvény nyomdai úton előállított részvény visszaalakítására vonatkozó szabályairól rendelkezik. A visszaalakítás során a központi értéktár az értékpapírszámláról az egy sorozaton belül kibocsátott dematerializált részvények tulajdonosainak beazonosítását követően törli. Beazonosítás hiányában a visszaalakítás meghiúsul. A gazdasági viszonyokban a nagyszámú tulajdonossal rendelkező zárt körűen működő részvénytársaságok esetén előfordulhat, hogy nem sikerül a társaság valamennyi részvényét beazonosítani. Ennek oka lehet a belföldön és külföldön széles körben alkalmazott nominee (részvényesi meghatalmazott) intézménye, mely szerint ugyan tudható, hogy a megfeleltetett személy nem az értékpapír tulajdonosa, ugyanakkor a tényleges részvénytulajdonos nem azonosítható. Amennyiben előáll az a helyzet, hogy a dematerializált értékpapír tulajdonosa nem azonosítható be, akkora kibocsátó nem tudja kivitelezni a visszaalakítást, mely társasági közgyűlésének döntésének végrehajtását ellehetetleníti.
+
+Annak érdekében, hogy a jogszabály megoldást nyújtson a közgyűlés visszaalakításáról szóló döntésének végrehajtására abban az esetben is, ha a részvényesek beazonosítása nem lehetséges, szükséges a szabályozás megalkotása a Tpt. 149. §-ában.
+
+Egyes ágazati törvények a befektetési vállalkozás, részvénytársasági formában működő árutőzsdei szolgáltató, befektetési alapkezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve központi értéktár vonatkozásában a részvénykönyv tartalmára többletkövetelményként határozzák meg, hogy a részvénykönyvben szerepeljen a részvényszerzés időpontja, valamint a részvényszerzés részvénykönyvbe történő bejegyzésének időpontja.
+
+A 211. §-hoz
+
+A módosítás célja a Tpt. 1. § q) pontjával való összhang megteremtése.
+
+A 212. §-hoz
+
+Technikai módosítást tartalmaz.
+
+A 213. §-hoz
+
+Az adattári tevékenység végzésére való jogosultságot alapvetően az EMIR-rendelet határozza meg. Eszerint az intézmény nyilvántartásba vételét az EÉPH végzi. Tekintettel arra, hogy az EMIR-rendelet megengedi, hogy adattári tevékenység végzésére elszámolóház is jogosult legyen, akár úgy, hogy e tevékenységet nem kizárólagos, hanem csupán kiegészítő tevékenységként végzi, célszerűnek látszott az elszámolóház által végezhető tevékenységek körét a hazai szabályozásban ennek megfelelően kibővíteni.
+
+A 214. §-hoz
+
+Technikai pontosítást tartalmaz.
+
+A 215. §-hoz
+
+A módosítás érinti az adattári tevékenység végzésére jogosultságot, amelyet alapvetően az EMIR-rendelet határoz meg. E szerint az intézmény nyilvántartásba vételét az EÉPH végzi. Tekintettel arra, hogy az EMIR-rendelet megengedi, hogy adattári tevékenység végzésére értéktár is jogosult legyen, akár úgy, hogy e tevékenységet nem kizárólagos, hanem csupán kiegészítő tevékenységként végzi, célszerűnek látszott az értéktár által végezhető tevékenységek körét a hazai szabályozásban ennek megfelelően kibővíteni.
+
+A 216. §-hoz
+
+Tekintettel arra, hogy az elszámolóház a jövőben engedélyt kaphat az EÉPH-tól adattári tevékenység végzésére, szükséges rögzíteni, hogy az engedélyezésre vonatkozó részletszabályokat az EMIR-rendelet állapítja meg.
+
+A 217. §-hoz
+
+A (kiegészítő) befektetési szolgáltatási tevékenység végzését a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) rögzíti, és nem a Tpt., ezért szükséges a hivatkozás pontosítása.
+
+A 218. §-hoz
+
+Tekintettel arra, hogy az értéktár a jövőben engedélyt kaphat az EÉPH-tól adattári tevékenység végzésére, szükséges rögzíteni, hogy az engedélyezésre vonatkozó részletszabályokat az EMIR-rendelet állapítja meg.
+
+A 219. §-hoz
+
+Az (1) bekezdés technikai módosítást tartalmaz. A (2) bekezdésben foglaltak szerint a központi szerződő fél jogosult az elszámolóház vagy a központi értéktár által kiszervezett tevékenységet végezni, e rendelkezésre az EMIR-rendelet lehetőséget ad.
+
+A 220. §-hoz
+
+Az (1) bekezdés akként módosul, hogy hatályon kívül helyezi a Felügyelet arra vonatkozó jogát, hogy a fióktelep formájában működő központi szerződő fél tevékenységet végző szervezet létesítőjének engedélyét visszavonja. Az EMIR-rendelet ugyanis teljes körűen szabályozza a lehetséges eseteket: a 25. cikkének (5) bekezdése alapján a Felügyelet az uniós központi szerződő fél engedélyét nem vonhatja vissza, csak a székhelye szerinti felügyelet; míg a harmadik országokban fióktelep formájában működő központi szerződő fél uniós létesítője esetén minderre az EÉPH jogosult.
+
+A (2) bekezdésbeli szabály rögzítésére biztonsági okból került sor, hiszen a visszavonás előfeltétele nem csak a kötelezettségeknek való eleget tétel, hanem az is, hogy a pénzügyi eszközben megkötött ügyletek elszámolását és az ügyletek teljesítésének garantálását más központi szerződő félnek át kell vennie a piac zavartalan működése végett.
+
+A 221. §-hoz
+
+Az EMIR-rendelet megengedi, hogy a központi értéktárban a központi szerződő fél is tulajdonrésszel rendelkezzen.
+
+A 222. §-hoz
+
+Tekintettel arra, hogy az EMIR-rendelet megengedi, hogy a központi értéktárban a központi szerződő fél is tulajdonrésszel rendelkezzen, az értéktárban befolyást szerző, vagy meglévő befolyás módosítása esetén a tájékoztatási kötelezettség címzetti köre is ennek megfelelően került kiegészítésre.
+
+A 223. §-hoz
+
+Az értéktár, illetve az elszámolóházi tevékenységet végző szervezet a Tpt. 345. § (5) bekezdése alapján az üzletszabályzat és a szabályzatok rendelkezéseit véleményeztetni köteles a vele elszámolásra szerződő féllel. Tekintettel arra, hogy a központi szerződő fél is végez elszámolást, ennek megfelelően került ugyanezen szabály a központi szerződő félre előírva, mely alapján kötelező véleményeztetnie a központi szerződő félnek az üzletszabályzatának, valamint a szabályzatok rendelkezéseinek tervezetét véleményeztetni azzal a tőzsdével, amelynek elszámolást végez szerződés alapján.
+
+A 224. §-hoz
+
+Az (1) bekezdésben foglalt módosítás amiatt indokolt, mivel e törvény alapján a kockázati tőkealap-kezelők ABAK-nak, a kockázati tőkealapok pedig ABA-nak minősülnek, így Tpt.-beli szabályozásukra a továbbiakban nincs szükség. A (2) bekezdésben foglalt módosítás indoka, hogy a törvény alapján a kockázati tőkealap-kezelő fogalma a befektetési alapkezelő fogalmi körébe épül be.
+
+A 225-228. §-hoz
+
+A módosítás amiatt indokolt, mivel e törvény alapján a kockázati tőkealap-kezelők ABAK-nak, a kockázati tőkealapok pedig ABA-nak minősülnek, így Tpt.-beli szabályozásukra a továbbiakban nincs szükség.
+
+A 229. §-hoz
+
+Az (1) bekezdés, valamint a (2) bekezdésen belüli b) pontra irányuló módosítás amiatt indokolt, mivel e törvény alapján a kockázati tőkealap-kezelők ABAK-nak, a kockázati tőkealapok pedig ABA-nak minősülnek, így Tpt.-beli szabályozásukra a továbbiakban nincs szükség.
+
+Az a) pontra irányuló módosítás oka, hogy a központi szerződő fél az Unión belül az útlevél engedély következtében felügyeleti díjat a fogadó tagállam szerinti illetékes hatóságnak nem, csak a székhely szerinti illetékes hatóságnak fizet. Harmadik országban székhellyel rendelkező, az Unió egyik tagállamában fióktelepként működő központi szerződő fél azonban fizet a fogadó tagállam szerinti illetékes hatóságnak a felügyeletért. (Az ilyen központi szerződő felek elismerése ugyanakkor az EÉPH feladata.)
+
+A 230. §-hoz
+
+Az Európai Unió másik tagállamában székhellyel rendelkező központi szerződő fél nem fizet változó díjat a fogadó tagállam szerinti illetékes hatóságnak, csak a székhely szerinti illetékes hatóságnak fizet.
+
+A 231-238. §-hoz
+
+A módosítások amiatt indokoltak, mivel e törvény alapján a kockázati tőkealap-kezelők ABAK-nak, a kockázati tőkealapok pedig ABA-nak minősülnek, így Tpt.-beli szabályozásukra a továbbiakban nincs szükség.
+
+A 239-241. §-hoz
+
+Jogtechnikai pontosítások.
+
+A 242. §-hoz
+
+A törvény a Pénzügyi Stabilitási Tanács döntéseinek a kiadmányozásának szabályait módosítja a rugalmasabb döntéshozatal érdekében.
+
+A 243-244. §-hoz
+
+A módosítás az európai kockázatitőke-alapokról szóló, 2013. április 17-i 345/2013/EU parlamenti és tanácsi rendelet, az európai szociális vállalkozási alapokról szóló, 2013. április 17-i 346/2013/EU parlamenti és tanácsi rendelet, a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló, 2013. május 15-i 447/2013/EU bizottsági végrehajtási rendelet, valamint a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló, 2013. május 15-i 448/2013/EU bizottsági végrehajtási rendelet végrehajtása érdekében, az ezekkel való összhang megteremtése miatt történt.
+
+A 245. §-hoz
+
+Pontosító jellegű rendelkezést tartalmaz.
+
+A 246. §-hoz
+
+A törvény lényege, hogy az ügyfél részére szabályosan kézbesített hatósági iratot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a küldemény az MNB-hez a kézbesítés eredménytelensége miatt érkezik vissza.
+
+A törvény további indoka, ha az intézkedés halaszthatatlansága okán az MNB döntését haladéktalanul közölni kell az ügyféllel, akkor az ügyfél cégjegyzékbe bejegyzett székhelyén vagy a civil szervezetek esetében a bírósági nyilvántartásába bejegyzett székhelyen megkísérelt kézbesítést akkor is eredményesnek kell tekinteni, ha a székhelyen hivatalos irat átvételére jogosult személy az átvételt megtagadja, figyelemmel arra, hogy a székhelyen biztosítani kell a hivatalos iratok átvételét. Ezen kivételes kézbesítési rendelkezéshez kiemelt társadalmi érdek fűződik, hiszen a kézbesítés ügyfél érdekkörébe és felelősségi körébe tartozó körülmény miatt történő sikertelensége a halaszthatatlan intézkedések eredményességét akadályozza, így közvetve a pénzügyi közvetítőrendszer stabil, zavartalan működését veszélyezteti.
+
+A törvény orvosolja továbbá a többes képviselet kézbesítéssel kapcsolatos problémakört is, amely szerint a kézbesítést az MNB csak az egyik képviselő részére teljesíti, a kézbesítéssel érintett képviselőt az ügyfél jelölheti ki meghatalmazott képviselői közül, ha azonban ezzel a lehetőséggel az ügyfél nem él, akkor az MNB választja ki az ügyfél meghatalmazottjai közül azt a képviselőt, aki (amely) számára az irat kézbesítését teljesíti.
+
+A törvény egyértelművé teszi, hogy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (Ket.) kézbesítési vélelemre vonatkozó szabályai mögöttes jelleggel irányadóak.
+
+A 247. §-hoz
+
+A törvény szerint az MNB-t terhelő közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, és a piacfelügyeleti eljárásban hozott, intézkedést tartalmazó határozatokra terjed ki.
+
+A 248. §-hoz
+
+A törvény lehetővé teszi a jogerősen kiszabott és meg nem fizetett bírságok, valamint a kapcsolódó késedelmi pótlékok adók módjára történő behajthatóságát az MNB számára, amely a hatékonyabb jogérvényesítést biztosítja ezen szankciók során.
+
+A 249-251. §-hoz
+
+A módosítás pontosító jellegű, a korábbi szabályozással való összhang megteremtését szolgálja, pontosítja továbbá a fogyasztó fogalmát.
+
+A 252-253. §-hoz
+
+Meghatározza a fogyasztóvédelmi cél- és témavizsgálat szabályait, továbbá kiegészítő eljárási rendelkezéseket állapít meg.
+
+A 254. §-hoz
+
+A törvény lehetővé teszi az MNB számára, hogy jogosult legyen a munkavállalói részére forintban és külföldi pénznemben bankszámlát vezetni azzal, hogy ezen bankszámla terhére a munkavállaló kizárólag fizetési számláról történő készpénzkifizetésről rendelkezhet.
+
+A 255. §-hoz
+
+A törvény lehetővé teszi a meg nem fizetett felügyeleti díjak, valamint a kapcsolódó késedelmi pótlékok adók módjára történő behajthatóságát az MNB számára, amely a hatékonyabb jogérvényesítést biztosítja ezen szankciók során.
+
+A 256. §-hoz
+
+A törvény szerint Magyar Nemzeti Bank térítésmentesen megszerzi a Hitelintézeti Felszámoló Nonprofit Kft. üzletrésze feletti tulajdonosi jogokat, amely részesedés a Magyar Nemzeti Bank eredménytartalékát növeli.
+
+A 257-258. §-hoz
+
+A módosítás az európai kockázatitőke-alapokról szóló, 2013. április 17-i 345/2013/EU parlamenti és tanácsi rendelet, az európai szociális vállalkozási alapokról szóló, 2013. április 17-i 346/2013/EU parlamenti és tanácsi rendelet, a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló, 2013. május 15-i 447/2013/EU bizottsági végrehajtási rendelet, valamint a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló, 2013. május 15-i 448/2013/EU bizottsági végrehajtási rendelet végrehajtása érdekében, az ezekkel való összhang megteremtése miatt történt.
+
+A 258. § a törvény hatályba lépése folytán szükséges pontosításokat tartalmaz.
+
+A 259. §-hoz
+
+2013. szeptember 3-ával hatályba lépett az Európai Unió területére belépő, vagy azt elhagyó készpénz ellenőrzésének végrehajtásáról, annak részletes szabályairól, valamint a kiszabott bírság bevételezésének rendjéről szóló 35/2013. (IX. 3.) NGM rendelet. A rendeletalkotásra vonatkozó törvényi felhatalmazó rendelkezés pontosítása szükséges.
+
+A 260. §-hoz
+
+A törvény a Közbeszerzési Hatóság keretében működő Tanács tagjait 15 főre bővíti, ennek következtében a Magyar Nemzeti Bank elnöke vagy az általa kijelölt személy is taggá válik.
+
+A 261. §-hoz
+
+A gyermeknevelési támogatások igénybevételi szabályai változtak, ezért a GYED-en lévők képzésére vonatkozó szabályt az új GYED-re vonatkozó szabállyal össze kell hangolni, így módosítani szükséges a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 14. §-át.
+
+Az uniós intézkedések nyomon követését szolgáló adatbázis adattartalma az Európai Szociális Alapra (ESZA) vonatkozó uniós rendelet kihirdetett szövegében bővebb, mint amire az Flt. 57/D. §-a lehetőséget ad. A 2014-2020-as tervezési időszakban megvalósuló, ESZA-ból finanszírozott programok adatainak gyűjtését csak az Flt.-ben szereplő adatkör bővítésével lehet az uniós rendeletnek megfelelően elvégezni.
+
+A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény létrehozta a nevelőszülői foglalkoztatási jogviszonyt, így szükséges az egységes terminológia megteremtése érdekében az az Flt. 58. § (5) bekezdésének módosítása.
+
+A foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet a 2014-20-as tervezési időszakban - a felhasználására irányuló tervezési dokumentumokkal összhangban - külön jogszabályban meghatározott munkaerő-piaci szolgáltatásokat nyújtó szervezetek számára támogatásokat közvetíthet, valamint fejlesztő szolgáltatásokat nyújthat. Ennek megfelelően szükséges az Flt. 13/A. §-ának és az Flt. 40. § (2) bekezdésének módosítása. A szolgáltatást kérő vagy igénybe vevő ügyfelek csoportjait is nyilván kell tartani a szolgáltatás eredményességének figyelemmel kísérése céljából, ezért a felhatalmazásának ennek a szabályozására is ki kell terjednie.
+
+A 262. §-hoz
+
+Az Szja tv. 2014-től hatályos rendelkezései szerint az adómentesen adható lakáscélú munkáltatói támogatás felhasználási köre kibővült a korábban hitelintézettől lakáscélra felvett hitel visszafizetésével, törlesztésével. Az adómentes támogatást a munkáltató hitelintézeten, annak igazolás alapján juttatja, ugyanakkora mentesség feltételeiről legtöbb információval a magánszemély rendelkezik. A módosítás e háromszereplős (munkáltató, munkavállaló, hitelintézet) ügyletben az adópolitikáért felelős miniszter számára biztosít felhatalmazást, hogy rendeletben határozza meg a felelősségi viszonyokat, az egyes szereplőktől elvárt magatartást (ki és mit ellenőriz), az eljárási típusú határidőket (az igazolás kiállításának és a támogatás cél szerinti felhasználása igazolásának határidejét), és az adómentesség fennállásának igazolására szolgáló bizonylatokat.
+
+Az Szja tv. kiegészül továbbá egy átmeneti rendelkezéssel, mely szerint az adómentesen adható lakáscélú munkáltatói támogatás módosított szabályai 2014. január 1-jétől alkalmazhatóak.
+
+2013-ban a teljes életre szóló életbiztosításokra vonatkozó szabályozás adóztatható körülményként határozta meg a biztosítás határozott lejáratúvá alakítását és a biztosított személyében bekövetkezett cserét. Mindkét eset közös jellemzője, hogy tényleges kifizetés hiányában a magánszemélynek nem volt miből megfizetnie az adót. E szabály 2014. január 1-jével megszűnt, nem rendezte viszont a módosítás a 2013-ban már bekövetkezett eseteket. Az átmeneti rendelkezés a 2014. évi szabályok alkalmazását 2013-ra is lehetővé teszi, és ezzel megszünteti például a biztosított-cserével érintett magánszemélyek méltánytalan mértékű adóztatását.
+
+Az Szja tv. 1. számú melléklete a következőkre tekintettel módosul.
+
+A lakáscélú munkáltatói támogatásra vonatkozó szabályok megfelelően az Szja tv. 81. §-ában foglalt felhatalmazó rendelkezéssel - kiegészülnek azzal, hogy az adómentesség csak az adópolitikáért felelős miniszter rendeletében meghatározott feltételek és eljárás szerint nyújtott támogatásra irányadóak. A jelenlegi gyakorlatot erősíti meg az a pontosítás, mely szerint a méltányolható lakásigény vizsgálatakor elegendő a lakás szobaszámát vizsgálni, a lakás építési költségének nem kell megfelelnie a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet mellékletében meghatározott maximális összegeknek. A módosítás továbbá lehetővé teszi, hogy a munkáltató a lakáscélú hitelhez kapcsolódó más kötelezettségek - például a végrehajtási költség, a késedelmi pótlék - megfizetéséhez is nyújthasson támogatást. A melléklet 3. pontja az adómentesség és az adómentesnek nem minősülő munkáltatói támogatás adókötelezettségére vonatkozó egyes részletszabályokat határoz meg.
+
+A 263. §-hoz
+
+Kiegészül a személyazonosító jel helyébe lépő azonosítási módokról és azonosító kódok használatáról szóló 1996. évi XX. törvény (Szaz. tv.) a mezőgazdasági igazgatás egyes adatkezelési szabályaival.
+
+Személyi azonosító kezelésével függ össze a Szaz. tv. 32. §-ának kiegészítése. A földhivatal a Szaz. tv. 32. § e) és f) pontja alapján már eddig is jogosult volt a személyi azonosító kezelésére a földhasználati nyilvántartás és az ingatlan-nyilvántartás tekintetében, de itt a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartása vezetése nem szerepel, tekintettel arra, hogy a földhivatalok, mint a nyilvántartás vezetésére kijelölt hatóság számára ezen nyilvántartás vezetése új feladatként jelenik meg. Ahhoz, hogy ezen nyilvántartás vezetése során a földhivatal a személyi azonosítót belső azonosítóként kezelhesse, a fentiek alapján a Szaz. tv.-nek a kiegészítése szükséges és indokolt.
+
+A törvény azt is rögzíti, hogy az ingatlan-nyilvántartás és földhasználati nyilvántartás szerve, valamint a mezőgazdasági igazgatási szerv egymás között a személyi azonosító továbbítására jogosult a Szaz. tv. 32. §-ában meghatározott feladataik ellátásában. Ennek kimondása nélkül ugyanis a nyilvántartásokra épülő közfeladatok ellátása nem lenne biztosítható.
+
+A 264. §-hoz
+
+Az 1996. évi XXI. törvény (Tftv.) módosítása arra tekintettel szükséges, hogy a kistérségi szintű tervezést járási szintű tervezéssel indokolt felváltani. A törvény ennek érdekében módosítja Tftv.-t, kereteinek, rendszerének érdemi megváltoztatása nélkül. A kormányzati stratégiai döntések, valamint a Tokaji Borvidék, mint kiemelt térség egységes kezelése érdekében továbbá szükséges a Tokaji Borvidék térségében a Tokaji Borvidék Fejlesztési Tanács törvényi nevesítése.
+
+A 265. §-hoz
+
+A Kormány döntése alapján a belügyminiszter irányítása alá tartozó fegyveres szervek, valamint az Országgyűlési Őrség hivatásos állományának tiszthelyettesi és zászlósi rendfokozati állománycsoportba tartozó tagjait megillető juttatások mértéke 2014. január 1-jétől 10 ezer Forinttal megemelkedik. A törvény azonban lehetőséget ad arra, hogy a fegyveres szervet irányító miniszter úgy rendelkezzen, hogy a kiegészítő juttatás 80%-a a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény alapján, alanyi jogon jár, 20%-át pedig teljesítményértékelés alapján differenciáltan, illetményeltérítés formájában kapja meg az érintett állomány. A juttatás biztosítására 2014. január 1-től visszamenőlegesen kerül sor.
+
+A juttatások megemelésének fedezete a belügyminiszter irányítása alá tartozó fegyveres szervek állománya vonatkozásában a Belügyminisztérium fejezetében kerül biztosításra.
+
+A 266. §-hoz
+
+A módosítás a törvény belső koherenciájának fenntartása érdekében szükséges.
+
+A 267. §-hoz
+
+Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény kiegészítése a mezőgazdasági igazgatásban keletkezett belső egyedi azonosító használatáról rendelkezik.
+
+A 268. §-hoz
+
+Az EVA tv. módosítása az új Ptk. hatályba lépésével kapcsolatos módosítások megfelelő tartalommal történő végrehajtása érdekében szükséges. Ezzel összefüggésben kerül sor az arról való rendelkezésre is, hogy az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény egyes - az EVA tv.-t módosító rendelkezései - nem lépnek hatályba.
+
+A 269-270. §-hoz
+
+A Bit.-ben és Vbit.-ben a Polgári Törvénykönyvről szóló 2013. évi V. törvénnyel összhangban kerül sora bankgarancia-fogalom hitelintézet által vállalt garancia-fogalomra történő módosítására.
+
+A Bit. további módosításának indoka, hogy a független biztosításközvetítő felelősségbiztosításának minimum összegét az Európai Bizottság utólag korrigálta, így szükséges az összeg módosítása.
+
+Mindezek mellett a 98/78/EK európai parlamenti és tanácsi irányelv címe kerül pontosításra.
+
+A 271. §-hoz
+
+Az adózás rendjéről szóló 2003. évi XCII. törvény, az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény, valamint a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítására a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény hatályon kívül helyezése miatt van szükség.
+
+A 272. §-hoz
+
+A sportról szóló törvény módosítása a következőkre tekintettel indokolt.
+
+A Budapesti Vasutas Sport Club - Zugló KH Egyesület Magyarország egyik legnagyobb és legeredményesebb utánpótlás-nevelő műhelyként működik, amely a fennállásának elmúlt több mint száz évében szervesen hozzájárult az ifjúság sportos életre neveléséhez és az elit sportolók utánpótlás biztosításához.
+
+Az egyes kiemelt sportegyesületek 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014-2020. évre vonatkozó sportfejlesztési feladataikkal összefüggő kormányzati intézkedésekről szóló 1835/2013. (XI. 15.) Korm. határozat alapján a Kormány döntött a nagy hagyományokkal rendelkező, sikeres fővárosi sportegyesületek - így többek között a Korm. határozatban nevesített Budapesti Vasutas Sport Club (BVSC) vonatkozásában is - sportfej1esztési stratégiái megvalósításának elősegítéséről.
+
+A BVSC elkészítette sportfejlesztési stratégiáját, amely egyik legfontosabb eleme már megvalósítás alatt áll, a Szőnyi úti sportuszoda teljes körű fejlesztése és bővítése formájában.
+
+Az Emberi Erőforrások Minisztériuma, Sportért és Ifjúságért Felelős Államtitkársága számára is rendelkezésre bocsátott sportfejlesztési stratégia figyelembe veszi továbbá az elkövetkező 2017-es, és 2021-es „vizes” sporteseményekből fakadó olyan igények kielégítését is, amelyek mind az ifjúsági, mind a felnőtt világbajnokság megrendezése során felmerülhetnek majd, hiszen több ezer sportoló zökkenőmentes edzési és versenyeztetési szempontjainak kell majd megfelelnie Budapestnek.
+
+A stratégia meghatározása során a sportszakmai megfontolásokon túl fontos szempont volt azoknak a tradicionális és a magyar sport számára is kiemelkedő jelentőséggel bíró szakosztályok hosszú távú biztonságos működésének megteremtése is, mint az asztalitenisz, birkózás, labdarugó-utánpótlás vagy a tenisz.
+
+A Szőnyi úti sporttelep egy része a Zuglói Önkormányzat tulajdonába van és azzal hosszú távú vagyonkezelői szerződést kötött az Egyesület, mindazonáltal a BVSC fent említett sportfejlesztési stratégiájának megvalósíthatósága érdekében kiemelt jelentőséggel bír, hogy jelen törvényben szereplő további négy terület is a BVSC vagyonkezelésébe kerüljön.
+
+A 273. §-hoz
+
+A vagyonvédelmi szolgáltatási rezsióradíj mértékét a rendészetért felelős miniszter határozza meg, amit a közbeszerzési eljárások során figyelembe kell venni.
+
+A 274. §-hoz
+
+A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény és a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosításának célja az, hogy a vasúti vagyonnal kapcsolatos törvényi rendelkezéseket komplexen és akként módosítsa, hogy a vasútüzemhez szükséges vagyon tulajdonosi és vagyonkezelői helyzete tartósan rendeződjön. Jelen módosítás célja továbbá az, hogy megteremtse a törvényi kereteket a Nemzeti Infrastruktúra Fejlesztő Zrt. (NIF Zrt.) által 2007. évtől kezdődően megkezdett és részben befejezett, de mindmáig át nem adott vasúti beruházások MÁV Magyar Államvasutak Zrt. (MÁV Zrt.) részére történő átadásához.
+
+A NIF Zrt. és a MÁV Zrt. közötti átadás elmaradásának legfőbb indokai a következők:
+
+- az átadás feltételrendszere és eljárásrendje az ágazati jogszabályokban nem egyértelműen meghatározott,
+
+- a beruházások több esetben rendezetlen jogi státuszú ingatlanokon valósultak meg,
+
+- a vonalas létesítmények vagyon-nyilvántartási módszertana tisztázatlan;
+
+mindezek megkívánták a vasútüzemhez kapcsolódó jogszabályok felülvizsgálatát és egységes módosítását.
+
+A törvény közvetlenül vagy közvetetten az elkészült vasúti beruházások tulajdonosi és vagyonkezelői helyzetének rendezését, egyúttal a NIF Zrt. és a MÁV Zrt. közötti vagyonátadást szolgálja. E tekintetben a törvény pontosítja a vasúti törvény fogalom-meghatározásait, meghatározza az európai uniós és hazai forrásból megvalósult beruházások vagyonátadásának eljárásrendjét, továbbá rendezi a vasúti pályahálózat működtetéséhez szükséges földrészletek és a Nemzeti Földalap viszonyát.
+
+Pontosítja továbbá a miniszter által kijelölt vagyonkezelő és a (leendő) pályaműködtető közötti jogviszonyt.
+
+A 275-279. §-hoz
+
+Jogtechnikai pontosítás.
+
+A 280. §-hoz
+
+A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 132/B. §-a felhatalmazza a Kormányt, hogy rendeletben jelölje ki a csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálata során kapcsolatos bejelentések ügyében eljáró hatóságot. A Get. módosítása a felhatalmazza a katasztrófák elleni védekezésért felelős minisztert, hogy alkosson rendeletet a gáz csatlakozóvezetékek és felhasználói berendezések műszaki javításával kapcsolatos mulasztások bejelentésének eljárási szabályairól. Ahhoz, hogy az eljárást a kormányrendeletben kijelölt szerv kellő körültekintéssel lefolytathassa, további törvényi szintű szabályok beemelése szükséges a Get.-be.
+
+A 281. §-hoz
+
+Az ingyenes készpénzfelvétel feltételeit a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény (a továbbiakban: Pft.) - 2013. november 22-től hatályos - 36/A. §-a tartalmazza. A Pft. alapján a fogyasztó nyilatkozatban megjelöli azt a fizetési számlát, amelynél a pénzforgalmi szolgáltató által biztosított, díjtól és költségtől mentes készpénzkifizetést, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvételt (a továbbiakban: ingyenes készpénzfelvétel) igénybe kívánja venni.
+
+A fogyasztót a Pft. 36/A. §-ának (1) bekezdése szerint megillető ingyenes készpénzfelvételi lehetőség igényléséhez szükséges nyilatkozat (a továbbiakban: nyilatkozat) megtételének tényét a Központi Nyilvántartásban kell rögzíteni. Az módosítás célja a Központi Nyilvántartás részletes törvényi szabályozásának meghatározása a Pft. módosítása által.
+
+A módosítás a nyilatkozatok nyilvántartására vonatkozó szabályok meghatározása által az ingyenes készpénzfelvétel jogának megfelelő gyakorlását és ellenőrzését szolgálja. Emellett, 2014. december 1-től, a központi nyilvántartásba történő teljes körű adatfeltöltést követően, az új nyilatkozat megtétele automatikusan a korábbi nyilatkozat visszavonását jelenti, ezáltal egyszerűsítve a jelenlegi rendszert, melyben először vissza kell vonnia a fogyasztónak a korábbi nyilatkozatát, mielőtt új nyilatkozatot tesz.
+
+A 282. §-hoz
+
+Egyértelművé teszi, hogy a vasúti pályahálózathoz tartozó földingatlanok nem képezik a Nemzeti Földalap részét.
+
+A 283. §-hoz
+
+A NAV tv. 98/O. § új (12a) bekezdésben meghatározott munkáltatói intézkedések esetén az érintett illetménye minden esetben újból megállapításra kerül egy jelentősen kedvezőbb, magasabb szinten. Ebben az esetben a 98/O. § szerinti alapcél, vagyis a garantált bér szintjének biztosítása a továbbiakban védelmet nem igényel, így a speciális szabályok helyett az általános szabályok alkalmazása indokolt. Ellenkező esetben az ilyen jellegű munkáltatói intézkedések az eredeti céltól eltérő eredményre, további bérfeszültséghez vezetnének.
+
+Az új (12b) bekezdés ugyanakkor megfelelő garanciát jelent az érintettek számára, biztosítva azt, hogy az érintett egy, az illetményére negatív hatással bíró, jogszerű munkáltatói intézkedés esetén se essen el az azt megelőző illetményétől.
+
+A 284. §-hoz
+
+A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény alapján az árfolyamgát olyan devizakölcsönök esetén vehető igénybe, amelynek fedezete Magyarország területén lévő lakóingatlanon alapított zálogjog. Számos hiteladós esetén a devizakölcsön fedezete és az adós lakóhelye üdülő, külterületen vagy zártkertben lévő ingatlan és emiatt nem tudják igénybe venni az árfolyamrögzítést. A módosítás a lakóingatlan fogalmának kiegészítésével lehetőséget ad arra, hogy azok is élhessenek az árfolyamrögzítés lehetőségével, akiknél a kölcsön fedezete nem lakásként van nyilvántartva, de olyan ingatlan, amely a hiteladós bejelentett lakóhelye legalább 2011. január 1-jétől.
+
+A 285. §-hoz
+
+A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosításának elsődleges célja az Egyszerű Állam Program teljesítése, amelynek célkitűzései közt szerepel a termékdíjátalány hatálya alátartozó termékek körének bővítésével az adminisztrációcsökkentés.
+
+A módosítás bevezeti a csekély mennyiségű termékdíjköteles terméket kibocsátó jogintézményét, amely a csekély mennyiségű csomagolást forgalomba hozó vagy saját célra felhasználó kötelezett jogintézményét váltja fel. A csekély mennyiségű termékdíjköteles terméket kibocsátó esetében a módosítás kibővíti a termékek körét, melyekhez átalánydíjat rendel, továbbá esetükben a negyedévente történő bevallás helyett, évi egy alkalommal keletkezik bevallási- és befizetési-kötelezettség.
+
+A cél, hogy valamennyi termékkörben megvalósuljon a csekély mennyiségű kibocsátás esetén az adminisztrációcsökkentés. A bevezetendő módosítás előnye, hogy a kibocsátott kis mennyiségű termék (a határérték az összkibocsátás 1%-a alatti mennyiség) nem borítja fel a hulladékgazdálkodást és az adóbevételek számsorait, viszont ennek megfelelően a termékdíjas szabályozás lényegesen kevesebb adminisztrációt ír elő mind az ügyfél, mind hatóság részére (bevallás és annak költségei).
+
+A Nemzeti Adó- és Vámhivatal által átadott adatokból elvégzett számítások alapján az új jogintézménnyel több ezer kisadózó kerülhet ki a rendszerből.
+
+A várható évi költségvetési bevétel kiesés kb. max. 20-40 millió Ft. Az átalányra jogosultak köre bővül, az alanyi kör kb. 3000 gazdálkodó szervezet.
+
+A módosítás másodlagos célja, hogy Magyarország gazdasági stabilitásról szóló 2011. évi CXCIV. törvény 29. § (1) bekezdése alapján a fizetési kötelezettségre vonatkozó alapvető szabályok a 343/2011. (XII. 29.) Korm. rendeletből (a továbbiakban: vhr.) kiemelve, törvényi szinten kerüljenek elhelyezésre. Ennek megfelelőn a termékdíjjal összefüggő minden olyan rendelkezést, amely a fizetés alapját állapítja meg, törvényi szinten indokolt szabályozni.
+
+A módosítás az előzőeken túlmenően a hatályos szabályozás alkalmazása során felmerült pontosításokat, és egyéb, a vállalkozások számára egyszerűsítő előírásokat tartalmaz.
+
+A 286. §-hoz
+
+A központi hitelinformációs rendszerhez kapcsolódó referenciaadat-szolgáltatást szükséges kiegészíteni az új pénzügyi szolgáltatási tevékenységként nevesített követelésvásárlási tevékenységgel.
+
+A 287. §-hoz
+
+Rendezi a nemzetiségi önkormányzati képviselők időközi választásának feltételeit.
+
+A 288. §-hoz
+
+A Piacfelügyeleti törvény módosítása a felvonókkal és mozgólépcsőkkel kapcsolatos engedélyezésre és a műszaki biztonságtechnikai felülvizsgálatot végzők nyilvántartására vonatkozó szabályokat állapít meg.
+
+A 289. §-hoz
+
+A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény felhatalmazza az Agrárkamarát, hogy közigazgatási hatósági eljárásokban jogszabályi kijelölés alapján eljárjon, azonban arra nézve nem tartalmaz a törvény rendelkezést, hogy ilyenkor az Agrárkamara mely szervezete jár el első, illetve másodfokon.
+
+A 290. §-hoz
+
+A honvédek jogállásáról szóló 2012. évi CCV. törvény módosításának célja az altiszti és a legénységi állomány tagjának 2014. január 1-jétől visszamenőlegesen kiegészítő juttatás megállapítása. A kiegészítő juttatás mértéke havonta tízezer forint.
+
+A juttatások megemelésének fedezete a Honvédelmi Minisztérium fejezetében kerül biztosításra.
+
+A törvény a 144. alcímet technikai szempontból deregulálja. A technikai dereguláció célja, hogy a törvény a honvédek jogállásáról szóló 2012. évi CCV. törvényből a már végrehajtott, azonban még hatályos módosító rendelkezéseket hatályon kívül helyezze.
+
+A 291. és 293. §-hoz
+
+A Fétv. alapján a szerződésnek, illetve a földhasználati nyilvántartásnak - többek között - tartalmaznia kell a személyi azonosítót (azaz a személyi számát) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy esetében. A Fétv. azonban nem rendelkezik olyan kisegítő szabályról, amely arra az esetre ad eligazítást, ha a természetes személy nem rendelkezik a személyi azonosítóval, mert nem tartozik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya. Így azonban a személyi azonosítóval nem rendelkező személyek esetében a föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési feltételek és korlátozások hatósági ellenőrzésével összefüggésben ellátandó feladatok elvégzése korlátozott lesz. Hangsúlyozandó, hogy ezen belső egyedi azonosítót csak a földhivatal használja az említett nyilvántartások vezetése során, méghozzá annak érdekében, hogy a nyilvántartásokban a személyi azonosítóval nem rendelkező személyt egyértelműen azonosítani tudja, így az a nyilvántartásokban való egyedi azonosítását szolgálja abból a célból, hogy a szerzési korlátokat vizsgálhassa, és az utólagos ellenőrzési feladatait elláthassa.
+
+A Fétv. 13. §-a alapján a szerződés kötelező tartalmi eleme a kamarai tagsági azonosító szám is. Ugyanakkor a szerződő felek nem feltétlenül kamarai tagok, ezért a módosítás a tagsági jogviszony fennállásához köti a tagsági azonosító számnak a szerződésben való rögzítését. Az előbb említett alkalmazási szabályok a földhasználati szerződések kötelező tartalmi elemeinél is megjelenik.
+
+A törvény a földművesekre, a mezőgazdasági termelőszervezetekre, valamint a mezőgazdasági üzemközpontokra vonatkozó nyilvántartási adatokat újraszabályozza. A fentieken túl a Földforgalmi tv.-ben foglalt fogalom-meghatározásoknak való teljes megfeleltetés miatt pontosítja még az nyilvántartási adatkört, továbbá az adóazonosító jelet, illetve az adószámot elhagyja a nyilvántartás adattartalmából.
+
+A törvény rendelkezik arról is, hogy a földhivatal a nyilvántartás számítógépes adatbázisából papír alapú vagy elektronikus másolattal díj- és illetékmentesen szolgáltat adatot.
+
+A mezőgazdasági üzemközpont egyrészt a gazdálkodás végzésének vagy megszervezésének helye, másrészt az elővásárlási és előhaszonbérleti jog gyakorlása szempontjából meghatározó, így a mezőgazdasági üzemközpontnak minősülő ingatlan tekintetében - a visszaélések elkerülése érdekében - a törvény a Földforgalmi tv. szabályaira alapozva mondja ki azt, hogy a mezőgazdasági üzemközpontként bejegyzett ingatlan -főszabály szerint - 3 évig nem változtatható meg.
+
+A jogalkalmazás egyértelműsítése érdekében rendelkezni kell arról, hogy a mezőgazdasági igazgatási szerv nem végezhet eljárási cselekményt a helyi földbizottság állásfoglalása elleni kifogás benyújtásától a kifogás elbírálásáról szóló meghozataláig. A biztonsági okmánnyal összefüggő kötelezettségek megsértése esetére biztosítani kell a hatóság részére a szankcionálás lehetőségét.
+
+A termőföldről szóló 1994. évi LV. törvény hatályba lépését (1994. július 27.) megelőzően a haszonbérlet leghosszabb időtartamára nézve nem volt korlátozó rendelkezés, azonban indokolt biztosítani a szerződő felek számára, hogy - különösen az időközben megváltozó körülményekre figyelemmel - lehetőségük legyen a szerződéses kapcsolatukat a már húsz éve hatályban levő előírásokhoz igazítani oly módon, hogy az 1994. július 27-e előtt létrejött olyan haszonbérleti szerződést, amelynek időtartama meghaladja a Földforgalmi tv.-ben meghatározott leghosszabb időtartamot, az adott gazdasági év vége előtt 60 nappal 60 napos felmondási idővel a gazdasági év végére felmondhassák.
+
+A használati megosztásról szóló megállapodás vonatkozásában indokolt lehetővé tenni, hogy a földtulajdonosok harmadik személy (a gyakorlatban a leendő haszonbérlő) számára a megállapodás létrehozatala vagy módosítása esetére képviseleti jogot adhassanak a könnyebb ügyintézés érdekében. A megállapodásban a használati rendet nem az egyes tulajdonosokra eső hányadok kijelölésével, hanem az egy-egy használatba vevő által használt tömbök meghatározásával kell megállapítani, ami szintén egyszerűsíti a gyakorlati lebonyolítást.
+
+A zsebszerződések hatályosulásának megakadályozásával összefüggésben szükséges rendelkezni arról, hogy az olyan szerződés, szerződési kikötés, illetve szerződéses kötelezettségvállalás hatálya megszűnjön, amely a felek rendelkezése szerint a földre vonatkozó jogszabályi tilalmak és korlátozások megszűnése esetére vagy ennek feltételével állt volna be, és egyébként nem minősül semmisnek. Rendelkezni kell továbbá arról, hogy az ilyen szerződésből, szerződési kikötésből, illetve kötelezettségvállalásból jogot, követelést vagy bármely más igényt érvényesíteni ne lehessen.
+
+A Földforgalmi tv. 37. §-a értelmében 2014. január 1-jével semmis az olyan haszonélvezeti jog alapítására kötött szerződés, amelyet nem közeli hozzátartozók kötnek. Ezzel összefüggésben a Fétv. 108. §-a rögzíti, hogy a 2014. április 30-án fennálló, határozatlan időre vagy 2014. április 30-a után lejáró, határozott időtartamra nem közeli hozzátartozók között szerződéssel alapított haszonélvezeti jog 2014. május 1-jén a törvény erejénél fogva megszűnik. És az ilyen haszonélvezeti jog jogosultja általa föld használati jogosultságának átengedéséről szóló szerződés 2014. szeptember 1-jén a törvény erejénél fogva megszűnik.
+
+Így a haszonélvező által kötött haszonbérleti, és egyéb földhasználati szerződések lejáratának 2014. szeptember 1-jei időpontja kellő felkészülési időt biztosít az érintett haszonbérlőnek, (földhasználónak), hogy a szerződését a föld tulajdonosával újraköthesse, ugyanakkor nem veszélyezteti a területalapú támogatások igénybe vételének lehetőségét. A visszaélések elkerülése érdekében azonban indokolt azt is rögzíteni, hogy azon haszonélvezők, akiknek a haszonélvezeti joga május 1-jével a törvény erejénél fogva megszűnik, a Fétv.-t módosító törvény hatályba lépésével ne is létesíthessenek érvényesen földhasználati szerződéseket.
+
+Ellenkező esetben a haszonélvező így hosszú távra úgy létesíthet földhasználatot más javára, hogy a haszonélvezeti joga, s ezáltal a föld használata átengedésének joga egyébként rövid időn belül megszűnik, amivel a tulajdonos ezen részjogosítványát jelentős mértékben korlátozza.
+
+A 292. §-hoz
+
+Hatályba nem lépő rendelkezés.
+
+A 294. §-hoz
+
+Értelmező és szövegpontosító rendelkezések.
+
+A 295. §-hoz
+
+A módosítás célja a szerencsejáték-szervezőkkel támasztott követelmények megváltoztatása.
+
+2013 novemberében elfogadott szerencsejáték törvény módosítása beiktatta a megbízható szerencsejáték szervező fogalmát a törvénybe. Az elfogadott módosítás meghatározta a „megbízható szerencsejáték szervező” fogalmát, és a nemzeti vagyonról szóló törvény, a koncessziós törvény és a szerencsejáték törvény módosításával megteremtett egy új eljárási rend lehetőségét. A jogalkalmazás során tapasztaltak alapján e rendelkezések kerülnek pontosításra, megszüntetve egyúttal a törvény korábbi rendelkezéseivel fennálló ellentmondásokat is.
+
+A 296. §-hoz
+
+Az Eximbank a garanciaügyletek beváltása, a MEHIB a kárfizetést követő beváltás esetében az így keletkezett követeléseket köteles az állam javára behajtani. A hatályos szabályozás szerint e tevékenységéért - miniszteri rendeletben rögzített mértékű - jutalék illeti meg.
+
+A módosítás lehetővé teszi, hogy a jutalék alapja a behajtott tőkekövetelések mellett a befolyt kamatok és késedelmi kamatok figyelembe vételével kerüljön meghatározásra.
+
+A 297. §-hoz
+
+A 2014. március 15-én hatályba lépő új Polgári Törvénykönyv önálló fejezetben szabályozza a betétszerződést, a folyószámla-szerződést és a fizetésiszámla-szerződést. A betétszerződés általános megfogalmazása a kezelés módjával nem foglalkozik, így szabályai alapján betétkönyv, más okirat, takarékbélyeg ellenében is elhelyezhető betét, de a számlán kezelt betétekre is e szabályozás alapján köthető szerződés. Annak érdekében, hogy a természetes személyek hitelintézetnél elhelyezett betéteire a hatályos szabályozás szerinti kedvezmények változatlanul érvényesüljenek, a takarékbetét tvr. további módosítása szükséges.
+
+A 298. §-hoz
+
+A törvény a szükséges hatályon kívül helyező rendelkezéseket tartalmazza. A 122. § és a 123. § a Bizottság által az ABAK-irányelv 68. cikk (6) bekezdése alapján jelenleg nem meghatározható napon elfogadásra kerülő, felhatalmazáson alapuló jogi aktusának meghozatalát követő 15. napon hatályát veszti. A miniszter az Európai Bizottság jogi aktusa meghozatalának időpontját - annak ismertté válását követően haladéktalanul - a Magyar Közlönyben közzétett egyedi határozattal állapítja meg.
+
+A 299. §-hoz
+
+Az e törvény hatálybalépése folytán szükséges technikai jellegű rendelkezést tartalmaz.

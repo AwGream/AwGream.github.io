@@ -1,0 +1,861 @@
+2021. évi LXIV. törvény végső előterjesztői indokolása
+
+a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvényjavaslathoz tartozó indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában kerül közzétételre.
+
+A Javaslat a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (EU) 2019/1023 irányelv (a továbbiakban Irányelv) I-II. címének (az „Általános Rendelkezések” és a „Megelőző Szerkezetátalakítási Keretek”) magyar jogba történő átültetését valósítja meg.
+
+Az Irányelv a tagállamok és az Európai Unió versenyképességének növelését tűzi ki célul. Az Irányelv gazdaságpolitikai célja a vállalkozások pénzügyi nehézségeinek korai kezelése, talpra állításuk ösztönzése, fizetőképességük helyreállítása. Az Irányelv két témakörben kívánja elérni a tagállami jogszabályok harmonizálását.
+
+1. A pénzügyi nehézségekkel küzdő, de még nem fizetésképtelen jogi személy vállalkozások szerkezetátalakítása.
+
+2. A fizetésképtelen önálló vállalkozó magánszemélyek adósságrendezési és adósságmentesítési eljárása.
+
+A Javaslat a vállalkozások szerkezetátalakítására vonatkozóan hoz létre új törvényi szabályozást. A magánszemély vállalkozók adósságrendezésére külön törvényi szabályozás vonatkozik, a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény (a továbbiakban: Are. tv.), ezért az önálló vállalkozókkal kapcsolatos irányelvi rendelkezések az Are tv. módosításával kerülnek átültetésre a magyar jogba.
+
+A Javaslat célja, hogy elsősorban a jogi személy vállalkozás, de emellett a polgári jogi jogalanyisággal felruházott egyéb szervezet gazdasági tevékenysége a pénzügyi nehézségei, sőt a fizetésképtelenné válásának valószínűsége esetén is fennmaradjon, és az adós pénzügyi helyzetének tartós helyreállítását célzó intézkedések a hitelezőkkel egyeztetve olyan módon történhessenek meg, hogy el lehessen kerülni a csődhelyzetet, és az ezzel járó fizetésképtelenségi eljárást. A szerkezetátalakítás bírósági hatáskörrel is járó ún. pre-insolvency eljárást szabályoz, ezért kiterjedhet rá a fizetésképtelenségi eljárásról szóló (EU) 2015/848 európai parlamenti és tanácsi rendelet hatálya (Ld. ehhez az EU rendelet 1. cikkét is).
+
+Az Európai Unió tagállamainak többségében már létezik megelőző (szerkezetátalakítási) eljárás, ezeket alapvetően két típusba lehet sorolni: az adósságrendezést támogató olyan eljárástípus, amelyben a bíróság szerepe korlátozott: nem az összes hitelező kerül bevonásra, és nem követelmény annak igazolása, hogy az adós még nem fizetésképtelen, általában csak moratórium kérhető és akkor van még a bíróságnak teendője, ha van az adósnak a megállapodással egyet nem értő hitelezője. A másik eljárástípus kollektív, tehát minden hitelező bevonásra kerül, a restruktúrálási eszközök széles köre érhető el: a moratórium mellett pl. a szerkezetátalakítási terv, a szerződések teljesítéséhez való jog, a bíróság szerepe is jelentősebb, „végigkíséri” az eljárást (ld. részletesebben: Rescue of Business in Insolvency Law, European Law Institute 2017, 239. ponttól).
+
+Az Irányelv mind a két típusú eljárás bevezetésére lehetőséget ad, viszonylag széles jogalkotási teret adva a tagállamoknak. Egyes esetekben az Irányelv maga mondja ki, hogy az adott jogintézményt kötelezően alkalmazni kell (pl. szerkezetátalakítási szakértő általános moratórium esetén, ha ezt a szerkezetátalakítás jellege is indokolja), természetesen itt a Javaslat is kötelezővé teszi az igénybevételt, illetve egyes esetekben az Irányelv adta lehetőségnél szigorúbban írja elő az alkalmazást (pl. az elfogadott szerkezetátalakítási tervet mindig be kell nyújtani a bírósághoz jóváhagyásra). Más esetekben kérelemmel történik a szerkezetátalakítási keret igénybevétele.
+
+A szerkezetátalakítás sajátossága, hogy bizalmi eljárásként indul, és csak az eljárás bizonyos szakaszaitól kezdve válik nyilvánossá, mégpedig akkor, ha az adós általános moratóriumot kér. A másik sajátossága, hogy ez az eljárás csak részben rokonítható a kollektív adósságrendezési eljárásokkal, hiszen az adós pénzügyi egyensúlya megőrzéséhez elengedő csak azokat a hitelezőket bevonni az eljárásba, akikkel az adósságok átstrukturálásáról, fizetési kedvezményekről kell megállapodni, vagy akikre az adós mint finanszírozókra számít a működése fenntartásához vagy új finanszírozási források bevonásához, erre a Javaslat szerinti eljárásban is lehetőség van, korlátozott moratórium kérésére is.
+
+A szerkezetátalakításban a nehéz pénzügyi helyzetbe került vállalkozás és a hitelezői együttműködésével a szerkezetátalakítási terv kidolgozása és elfogadtatása kell, hogy megvalósuljon. A szerkezetátalakítási tervnek alkalmasnak kell lennie az adós működőképességének megőrzésére, veszteségforrásai csökkentésére. A szerkezetátalakítási tervnek képesnek kell lennie a vállalkozás adósságai összetételének és a visszafizetési kondíciók olyan átalakítására, amely összhangban van az adós teljesítőképességével. A szerkezetátalakítási terv ezenkívül magában foglalhatja a vállalkozás egyes vagyontárgyainak, üzletágainak értékesítését is, ha ez szükséges az adott vállalkozás életképessége megőrzéséhez, gazdálkodása racionalizálásához. Sőt a szerkezetátalakítás keretében az adós vállalkozásban fennálló tulajdonosi részesedések is elidegenítésre kerülhetnek, elsősorban adósság/tőke konverzióval. A szerkezetátalakítási intézkedéseket az Irányelv nem sorolja fel kimerítően, ezáltal is rugalmas szabályozási kereteket hagy a tagállamoknak. A Javaslat is ennek megfelelően keretjelleggel határozza meg a szerkezetátalakítási intézkedéseket, tág teret hagyva felek akaratának, szándékainak.
+
+Az Irányelv által biztosított lehetőségekkel élve a Javaslat nem terjeszti ki a szerkezetátalakítás hatályát a munkavállalók munkaviszonyból eredő követeléseire, valamint az adóssal szemben keletkezett kártérítési követelésekre, ha az természetes személyt illet meg. Ennek indoka a jogosultak méltánylandó érdekeinek védelme, hogy járandóságaik maradéktalanul kifizetésre kerüljenek a szerkezetátalakítás alatt is.
+
+Annak érdekében, hogy az adós számára a szerkezetátalakítás ne jelentsen indokolatlan kockázatot, a Javaslat az Irányelv keretei között lehetővé teszi, hogy a bíróságtól ún. követelés-érvényesítési moratóriumot kérjen azzal a céllal, hogy a szerkezetátalakítás alatt ne folytassanak ellene a hitelezők végrehajtási intézkedéseket, és ne induljanak ellene fizetésképtelenségi eljárások sem.
+
+A hitelezők méltánylandó érdekeire tekintettel a moratórium csak határozott időszakra szól, és bizonyos esetekben a minimális időtartama, azaz a 90. nap előtt is megszüntethető.
+
+Az adóst szükség szerint szerkezetátalakítási szakértők segítik, akik közreműködnek a szerkezetátalakítási terv kidolgozásában, hitelezőkkel történő egyeztetésében, lebonyolítják a szerkezetátalakítási terv megszavaztatását, és annak szabályszerű lefolytatásáért is felelősek. A szerkezetátalakítási szakértők feladata - erre irányuló kérelem esetén - kiterjedhet az adós gazdálkodásának felügyeletére is.
+
+A Javaslat - az Irányelvnek megfelelően - bírósági hatáskörbe utalja az egyes hitelezői osztályok által megszavazott szerkezetátalakítási terv jóváhagyását. Ha pedig a szavazás során nem alakult ki az elfogadáshoz szükséges konszenzus, az adós kérheti a bíróságot, hogy hitelezői osztályokon átívelő kényszeregyezségi hatállyal hozzon döntést a szerkezetátalakítási terv jóváhagyásáról. Ez utóbbira garanciális okokból csak szigorúan körülírt jogszabályi feltételek teljesülése esetén kerülhet sor. Az adós és a hitelező jogaira, kötelezettségeire vonatkozóan a bíróság által jóváhagyott szerkezetátalakítási tervnek van jogi hatálya.
+
+A bíróság feladata, hogy a szerkezetátalakítási terv formai és jogi helyességét megvizsgálja, és ha az ezeknek megfelel, akkor végzésével jóváhagyja. Az eljárás keretében dönt azoknak a hitelezőknek az elleniratáról is, akik a szerkezetátalakítási terv ellen szavaztak, és bizonyítani tudják, hogy a terv sérti az összhitelezői érdekeket, indokolatlanul kezel egyes hitelezőket hátrányosan, vagy pedig fizetésképtelenné válása a szerkezetátalakítási tervvel már nem kerülhető el, működőképessége nem biztosítható.
+
+Ha sikertelenül zárul a szerkezetátalakítás, mert nincs a felek által elfogadott, bíróság által jóváhagyott szerkezetátalakítási terv, az adóst védő moratórium ugyan megszűnik, de önmagában ez nem lehet indok és jogalap arra, hogy a bíróság a szerkezetátalakítás sikertelensége miatt megállapítsa az adós fizetésképtelenségét.
+
+A Javaslat az adós tulajdonosai számára tartja fenn az arra vonatkozó döntési jogkört, hogy az adós megvalósítson-e szerkezetátalakítást. Ha azonban elhatározták a szerkezetátalakítást, az adós tulajdonosait együttműködési kötelezettség terheli annak sikeres előmozdításában. Az Irányelvnek megfelelően a Javaslat előírásokat tartalmaz annak érdekében, hogy a tulajdonosok döntéshozó szerve a szerkezetátalakításhoz kapcsolódó döntéseiket gyorsan és kevesebb eljárási kötöttséggel hozza meg.
+
+Az Irányelv a vállalkozások vezetői számára előírja, hogy ha a vállalkozás fizetésképtelenségének valószínűsége fennáll, a hitelezők és a vállalkozás tulajdonosai érdekeit is figyelembe véve kell intézkedéseket foganatosítaniuk, és tartózkodniuk kell az adós működőképességét veszélyeztető cselekményektől. Ennek megfelelően a Javaslat is megfogalmazza ezt a követelményt.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény tárgyi hatálya a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (Szerkezetátalakítási és fizetésképtelenségi irányelv) (EU) 2019/1023 európai parlamenti és tanácsi irányelv (a továbbiakban: Irányelv) 1. címe alatt szabályozott ún. szerkezetátalakítási eljárási keretekre terjed ki. Ezen eljárási keretrendszer lényege, hogy a fizetésképtelenné válás valószínűségét hordozó gazdasági-pénzügyi helyzetben lévő vállalkozások (elsősorban az elkülönített vállalkozói vagyonnal rendelkező jogi személyek) tartozásainak rendezése, tevékenységük átszervezése, gazdálkodásuk veszteségforrásainak megszüntetése, de főként a fizetésképtelenségük megelőzése érdekében egyeztetést folytatnak a hitelezőikkel és szerkezetátalakítási tervbe foglalják az egyeztetés eredményét.
+
+A 2. §-hoz
+
+A törvény személyi hatálya - az Irányelv 1. cikke szerinti kötelező és opcionális rendelkezései szerint - nem terjed ki a pénzügyi szervezetekre (pénzügyi intézmények, befektetési vállalkozások, biztosítók, tőzsdék, értéktárak), a magánszemély vállalkozókra, továbbá az államháztartási szervezetekre.
+
+A Javaslat meghatározza az szerkezetátalakításban nem érintett félnek minősülő személyek egyes követeléseit. Ezek azok a követelések, amelyekre az adós vállalkozást (adóst) megillető védelmi moratórium hatálya nem terjed ki. Így különösen a munkavállalók (ideértve a kölcsönzött munkaerő díjának kifizetésére szolgáló kölcsönzési díjakra vonatkozó követeléseket is) követelések nem vonhatóak be a szerkezetátalakításba, tekintettel arra, hogy ezen hitelezők érdekeit méltánytalanul sértené az adós fizetési kötelezettségeinek szüneteltetése és azok a pénzügyi engedmények, amelyeket az adós a szerkezetátalakítási tárgyalások alatt a hitelezőktől elvár annak fejében, hogy meg tudja előzni a fizetésképtelenné válását. Ez a megoldás biztosítja, hogy az említett jogosultak járandóságának kifizetése a szerkezetátalakítás időtartama alatt folyamatos legyen, és az adóst védő moratórium hatálya az ő igényérvényesítésüket ne gátolhassa.
+
+A költségvetési bevételek folyamatos biztosítása, mint közérdek védelme érdekében a foglalkoztatással összefüggő közterhek, valamint az adós tevékenységével összefüggésben felmerülő általános forgalmi adó sem vonható be a szerkezetátalakításba, illetve a költségvetési támogatásokkal, valamint az uniós forrásokból nyújtott támogatásokkal összefüggő jogviszonyok esetén is kiemelt érdek fűződik ahhoz, hogy az ebből eredő követeléseit a támogató érvényesíthesse.
+
+Szerkezetátalakításban nem érintett fél az adós munkavállalója abban a tekintetben is, hogy ha ez a munkavállaló foglalkoztatói nyugdíjintézmény tagja, az őt foglalkoztató vállalkozás a szerkezetátalakítás során is fizeti számára a foglalkoztatói hozzájárulást, erre nézve tehát nem kérhet moratóriumot a szerkezetátalakítás során. A munkavállalót, mint nyugdíjintézeti tagot egyebekben sem érinti a foglalkoztatója szerkezetátalakítása, mivel a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény szerint a nyugdíjintézetnél a tagi számláján kezelt összeg az ő saját tulajdonát képezi.
+
+Fontos kiemelni, hogy a büntetőjogi kényszerintézkedéssel érintett vagyontárgy a szerkezetátalakításba nem vonható be, valamint a szerkezetátalakítás sem akadálya annak, hogy ilyen intézkedéseket elrendeljenek, foganatosítsanak.
+
+A költségvetési támogatásból megvalósított, vagy megvalósítás alatt álló projekt keretében beszerzett, üzemeltetési vagy fenntartási kötelezettséggel terhelt vagyontárgyak szintén nem vonhatók be a szerkezetátalakításba.
+
+Az utolsó bekezdés a jogalkalmazás során felmerülő esetleges bizonytalanság kiküszöbölése érdekében az Irányelv 31. cikkét átülteti, amely egyértelművé teszi, hogy mely uniós jogszabályok által szabályozott körben van ezeknek prioritásuk az Irányelvben szabályozott jogintézményekhez (pl. moratórium) képest.
+
+A 3. §-hoz
+
+A Javaslat az értelmező rendelkezéseknél elsődlegesen az Irányelv fogalmi definícióit veszi alapul, és azt a Javaslatban kialakított szabályozás szempontjából fontos egyéb fogalmakkal bővíti. A fogalmak körében kiemelhetőek az alábbiak.
+
+A § 1. pontja az adós szervezetek fogalmát nem az ide tartozó jogi személy típusok tételes felsorolásával határozza meg, hanem úgy, hogy minden olyan jogi személy vagy nem jogi személy, de polgári jogi jogalanyisággal rendelkező szervezet indíthat szerkezetátalakítást, aki gazdasági tevékenységet végez. Az adós értelemszerűen nem lehet az a szervezet, amely szerepel a 2. § (1) bekezdése szerinti kivételek között.
+
+A 2. ponttal összefüggésben kiemelhető, hogy az államháztartási szervezetek körét nem célszerű tételesen felsorolni, ehelyett a Javaslat olyan utaló rendelkezéssel határozza meg ezt a szervezeti kört, amely mindazon szervezetet ide sorolja, amely a státusz szabályai szerint a költségvetési gazdálkodási rend szerint működik. Ide tartoznak pl. a költségvetési szervek, önkormányzatok, azok társulásai. Ezek a szervezetek adósként nem, de a közszféra hitelezőiként bekapcsolódhatnak a szerkezetátalakításba.
+
+A 3. pont az Irányelv fogalmának az átvétele, azzal, hogy egyes finanszírozási típusok a jogbiztonság érdekében tételesen nevesítésre kerülnek. A finanszírozás ezen típusának célja, hogy az adós számára biztosított legyen, hogy az egyedi végrehajtási intézkedéseket felfüggesztő moratórium - a szerkezetátalakítási tervre vonatkozó tárgyalások - alatt is folytathassa működését, biztosítva legyen az, hogy az adós értéke a pénzügyi nehézség ellenére ne csökkenjen vagy esetlegesen akár az is, hogy „piaci értéke” növekedjen.
+
+A felek tehát a finanszírozás módjában szabadon állapodhatnak meg. A későbbiekben esetlegesen bekövetkező fizetésképtelenség esetére ezen (és az új finanszírozást megvalósító) ügyletekhez az Irányelv kedvezőbb szabályok megállapítását biztosítja a megtámadás, hitelezői felelősségre vonás tekintetében, az ezen körbe nem tartozó szerződésekhez képest, annak érdekében, hogy az adós találjon ilyen finanszírozókat, ha ez az eredményes szerkezetátalakításhoz szükséges.
+
+A pénzügyi támogatás fogalma külön bevezetésre kerül a 15. pontban.
+
+Az 5. pont szerinti fogalom az Irányelv terminológiáját (annak hivatalos fordításban található szóhasználatát) megtartva került meghatározásra. Az Irányelv a hatályos magyar fizetésképtelenségi szabályozástól eltérően nem az adós szemszögéből határozza meg a jogintézmény lényegét, hanem a hitelezői követelések érvényesítésének teljes - de meghatározott időtartamra szóló - korlátozásáról rendelkezik. Fontos fogalmi elem, hogy a moratóriumot bíróságnak kell elrendelnie. A fogalmi meghatározás kizárja egyrészt az igényérvényesítést (az „egyedi végrehajtási intézkedés” alatt nem kizárólag a végrehajtási eljárás értendő ebben a terminológiában) az adóssal szemben, másrészt az Irányelv adta lehetőséggel élve az adott követelés vonatkozásában fennálló biztosítéki jellegű szerződés megléte esetén, az ennek keretében kötelezettséget vállaló harmadik személlyel szemben sem lehet az adós helyett igényt érvényesíteni.
+
+Azt, hogy az igényérvényesítés kizárása az adott követelés vonatkozásában mit jelent, mindig az adott követeléssel kapcsolatos ügylet tartalma alapján mondható meg egyértelműen, a moratóriumra vonatkozó rendelkezések között azonban rögzítésre kerülnek azok az adóssal szembeni korlátozások, amelyek a jogbiztonság érdekében szükségesek, mivel adott esetben hatósági, bírósági határozat meghozatala is felmerül a korlátozással összefüggésben, így szükséges a döntés jogalapjának megteremtése. A fogalomban nevesített biztosítéki céllal kötött szerződések esetén ennek kötelezettje lehet maga az adós, a vele szemben való fellépés a fogalom első fordulata alapján zárható ki, de lehet harmadik személy is, akikkel szemben a fogalmi meghatározás alapján a hitelező fellépése szintén kizárásra kerül a moratórium időtartamára.
+
+Az Irányelv tartalmazza az érintett felek meghatározást, ennek megfelelően a 6. pont alatti fogalomban az adós vállalkozás tagjai (a tőketulajdonosok) is a szerkezetátalakítással érintett félnek tekinthetők, ha érdekeiket a szerkezetátalakítási terv közvetlenül érinti. Ezen személyi kategória alatt érteni kell mindazokat, akiket az adóson kívül a szerkezetátalakítási terv érint, tehát a szerkezetátalakításhoz történő kapcsolódási lehetőségek közül itt a tervhez való viszonyon van a hangsúly, az elhatárolás alapja, hogy a terv tartalmaz intézkedést az adott fél vonatkozásában vagy sem.
+
+A magyar megoldásban - élve az Irányelv biztosított lehetőséggel - a tőketulajdonosok csak adós „oldalán” vesznek részt a szerkezetátalakítási terv tárgyalásában és jóváhagyásában, így szükségessé vált az érintett hitelező fogalmának megalkotása (7. pont). A Javaslat a szerkezetátalakítási tervvel összefüggésben érintett hitelezőket említ, vagyis azokat a hitelezőket, akiket a szerkezetátalakítási terv közvetlenül érint, a szerkezetátalakítási terv tárgyalásába, jóváhagyásába az adós bevon. A fogalom bevezetésére a szabályozás átláthatósága és koherenciája érdekében is szükség van, mert az egyes jogintézményeknél jelentősége van annak, hogy az a szerkezetátalakítás mely résztvevőjét érinti, pl. az általános moratórium nemcsak az érintett hitelezőkre, hanem ezen körbe nem tartozó hitelezőre is kiterjedhet, akivel az adós nem fog megállapodni a követelése intézkedés körében történő kezeléséről.
+
+A 8. pont szerinti fogalommal összefüggésben kiemelhető, hogy szükséges olyan új fogalom bevezetése, amely mentén a szerkezetátalakítás lehetősége, szükségessége megítélhető. Hasonlóan a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényben (a továbbiakban: Cstv.) szereplő fizetésképtelenséggel fenyegető helyzet fogalmához, a fizetésképtelenné válás valószínűségét sem lehet egzakt módon meghatározni. Fontos azonban, hogy a fenyegető fizetésképtelenséggel szemben a fizetésképtelenné válás valószínűsége esetén nem fogalmi feltétel, hogy bekövetkezzen az az időpont, amikor az adós vezető tisztségviselői előre látják - vagy kellő gondosság mellett látniuk kellene -, hogy az adós esedékességkor előreláthatóan nem tudja kielégíteni a tartozásait. A fizetésképtelenné válás valószínűsége körében az szükséges, hogy alappal feltételezhető legyen, az adós később nem fog tudni teljesíteni. Az Irányelv (28) preambulumbekezdése is kiemeli, hogy megelőző szerkezetátalakítási keretek hatályát az olyan helyzetekre is indokolt kiterjeszteni, amelyekben az adósok nem pénzügyi jellegű nehézségekkel küzdenek, feltéve, hogy e nehézségek következtében ténylegesen és súlyosan veszélybe kerülhet az adós esedékessé váló adósságainak kifizetésére való aktuális vagy jövőbeli képessége. Ilyen helyzet lehet például az, ha az adós elveszít egy számára rendkívül fontos szerződést. A fizetésképtelenné válás valószínűségét megalapozhatja az adós pénzügyi helyzetének megrendülése, piaci viszonyainak előre látható vagy már bekövetkezett változása, de akár a működésében rejlő olyan nehézség, amelynek kezelése életképességének, működőképességének fenntartásához szükséges.
+
+A 9. ponttal történik meg a fizetésképtelenség fogalmának bevezetése, mert az Irányelv szerint a tagállami jogalkotónak kell meghatároznia a „fizetésképtelenség” fogalmát. A magyar jogban fizetésképtelenségi eljárásnak jogi személy vállalkozások tekintetében jelenleg a csődeljárás és a felszámolási eljárás tekinthető, ez utóbbi megindításának előfeltétele a már bekövetkezett fizetésképtelenség, ezért erre hivatkozással került a fizetésképtelenség fogalma definiálásra.
+
+A 10. pont megadja a hitelező fogalmát is. A hitelező fogalom tekinthető a legtágabb kategóriának, mert mindenki hitelező, akinek pénzkövetelése vagy pénzben kifejezett vagyoni követelése van az adóssal szemben. Figyelemmel arra, hogy a szerkezetátalakítási terv akár több éves adósi működést is érinthet, hitelező az is, akinek később esedékes követelése van az adóssal szemben. Annak érdekében, hogy a szerkezetátalakítási terv tárgyalása ütemezhető és észszerűen lebonyolítható legyen, a jövőbeli követeléssel rendelkező személyek közül azok minősülnek hitelezőnek, akik követelése legkésőbb a szerkezetátalakítási terv elfogadásának időpontjában már létrejött jogügyleten alapul.
+
+A 11. pont szerinti, a hitelezők legjobb érdekei módszertani teszt elvének érvényesülése a szerkezetátalakítás során annak közgazdasági és jogi szempontok szerinti kimutatását igényli, hogy a szerkezetátalakítási terv alkalmas legyen arra, hogy a szerkezetátalakítási tervet nem támogató hitelezők se járjanak rosszabbul, mintha az adós fizetésképtelenségének bekövetkezte után felszámolási eljárás vagy más hasonló eljárás (pl. vagyontárgyanként, vagy működő vállalkozásként történő értékesítés) keretében lépnének fel az adóssal szemben. Az Irányelv az USA csődjogában gyökerező jogintézményt vette át, amely azon az elképzelésen alapul, hogy egy hitelezőnek sincs oka elutasítani a tervet, ha legalább annyi megtérülése lesz a terv alapján, mintha az adóst felszámolnák. Lényege, hogy a modern insolvency eljárásokban a tervben hitelezői osztályokat állapítanak meg, külön osztályként kezelve a preferált hitelezőket. Mivel minden egyes hitelezői osztályban el kell fogadni a tervet, ezeket a hitelezőket nem tudja a többi hitelező osztály leszavazni. Továbbá, ha a hitelező kisebbségben is maradna is a saját osztályában, a hitelezők legjobb érdekei módszertani teszt alapján vétót gyakorolhat, ha a terv alapján kevesebb megtérülése lenne, mintha felszámolásra kerülne sor az adós vagyona tekintetében.
+
+A 13. pont szerinti „még nem teljesített szerződés” fogalmának jelentősége a moratórium következményei szempontjából van, annak biztosításával, hogy az adós ezen szerződéseinek fenntartása az adós működésének, gazdasági tevékenyének folyamatos végzését segítse elő, támogatva ezzel a fizetésképtelenség elkerülését. Az Irányelv (41) preambulumbekezdése példaként nevesíti e körben a lízing és licencmegállapodásokat, az árubeszerzésre, szolgáltatások nyújtására irányuló hosszú távú szerződéseket, valamint a franchise-megállapodásokat.
+
+A 15. pont szerint a „pénzügyi támogatás” széles értelmezési tartományt fed le, mert, nemcsak pénzeszközök rendelkezésre bocsátását jelenti nem piaci, hanem annál kedvezőbb feltételekkel, hanem az adós javára garanciavállalást, pénzben is kifejezhető értékű szolgáltatást is.
+
+Az Irányelv (66) preambulumbekezdése alapján a pénzügyi támogatás tág kört ölelhet fel, ide tartozhat a pénzeszközök rendelkezésre bocsátásán túl, a harmadik fél általi garanciavállalás, az adós számára árukészlet, raktárkészlet, nyersanyag és közüzemi szolgáltatás rendelkezésre bocsátása. A Javaslat az egyértelművé tétel érdekében a preambulum-bekezdés alapján bevezeti a pénzügyi támogatás fogalmát is, amelyben rögzítésre kerül az is, hogy a támogatás alatt - a szó köznapi értelmével ellentétben - nemcsak az ingyenes ügyleteket kell érteni.
+
+A 16. pontban szereplő szerkezetátalakítás fogalma átveszi az Irányelv szerinti, a szerkezetátalakítás tartalmát adó lehetséges intézkedések felsorolását azzal, hogy ezen intézkedéseknek a pénzügyi egyensúly helyreállítását kell célozniuk. A fogalomban megadott felsorolás nem teljeskörű, mozgásteret biztosítva ezzel arra, hogy az adós és az érintett felek szabadon határozhatnak olyan intézkedésekről, amelyek biztosíthatják az életképességet; ez áll összhangban azzal is, hogy a Javaslat a szerkezetátalakítást elsődlegesen üzleti tárgyalási, kontraktuális alapú folyamatnak tekinti.
+
+A 17. pont szerinti fogalmat, a szerkezetátalakítási szakértő fogalmát az Irányelv szintén tartalmazza. Lényeges eleme ennek, hogy a bíróság jelöli ki. Az Irányelvben a fogalmi meghatározásnál történik meg a szakértő által ellátandó feladatok felsorolása, azonban a Javaslatban ez a szakértőre vonatkozó tételes szabályok között történik meg (ahogy ez a fogalom szerinti hivatkozásból kikövetkeztethető). Szakértő kijelölését nemcsak az adós kezdeményezheti, hanem a hitelező is.
+
+A 18. pont tekintetében kiemelhető, hogy a szerkezetátalakítás során az adós tagja „többféle minőségében” juthat szerephez, akár szerkezetátalakítási nemperes eljárást is kezdeményezhet, ha ennek feltételei fennállnak. Ennek érdekében a Javaslat bevezeti a tőketulajdonos fogalmát, értve ezalatt az adós tagját, akkor, ha nem minősül hitelezőnek.
+
+A 19. pontban találtható új finanszírozás fogalma az Irányelv szerinti fogalom szó szerinti átvétele. Az új finanszírozás az átmeneti finanszírozástól eltérően a terv végrehajtásához szükséges fedezetet biztosítja, ennek okán nyilvánvalóan a szerkezetátalakítási terv is tartalmazza, formája szintén bármilyen pénzügyi támogatás lehet az adós részére, ahogy az átmeneti finanszírozásé.
+
+A Javaslat a törvény alkalmazásának körében az értelmező rendelkezések között rendezi az írásbeli jognyilatkozat speciális formáját, valamint azt, hogy mi minősül írásbeli közlésnek az adós, az érintett hitelezők és a szerkezetátalakítási szakértő között. Az írásbeli jognyilatkozat tekintetében elsődlegesen a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) rendelkezései érvényesülnek. Nem lehet ugyanakkor eltekinteni attól, hogy az üzleti életben a felek közötti kapcsolattartás elsődlegesen elektronikus levelezés (e-mail váltás) útján történik. Az elektronikus levelezés tekintetében az elektronikus ügyintézési szabályok technológia semlegesen határozzák meg a kereteket, azonban jelenleg még nem terjedt el olyan biztonságos kézbesítési szolgáltatás, amelyet üzleti célra is igénybe lehet venni. (A cégkapu szolgáltatás két vállalkozás közötti elektronikus kapcsolattartást nem biztosítja.) Erre tekintettel a Javaslat kimondja, hogy írásbeli jognyilatkozatnak minősül az e-mail üzenet tartalma. Feltétel azonban, hogy az elektronikus levél tartalmazza a jognyilatkozatot tevő személy megjelölését. Az elektronikus levélhez csatolt dokumentumot azonban elektronikus aláírással kell ellátni vagy ún. ÁVDH szolgáltatással hitelesíteni.
+
+A természetes személyek kedvezőbb szabályok kerülnek rögzítésre. Esetükben lehetséges az is, hogy az ügyvédi törvény előírása szerint az ügyvéd vagy a kamarai jogtanácsos elektronikus okirati formába alakítja a papír alapú nyilatkozatot, és azt minősített elektronikus aláírással aláírja. Lehetséges továbbá az is, hogy az elektronikus üzenet elküldését követően a nyilatkozatot tevő természetes személy papír alapon is közli a jognyilatkozatát a címzettel. Még ha el is késett a jognyilatkozat papír alapú kézbesítése, az elektronikus úton tett nyilatkozat dátuma számít, feltéve, hogy az elektronikus és a papír alapú nyilatkozat tartalma nem tér el egymástól.
+
+Az írásbeli közlés tekintetében a Javaslat szintén az üzleti életben elterjedt, valamint a szerkezetátalakítás során felmerülő gyakorlati szempontokat érvényesíti. A postai (állami szolgáltató, futárcégek) mellett megjeleníti azt a lehetőséget is, amikor személyes átvétel történik. Utóbbi esetre lehet példa, amikor az érintett hitelező a szerkezetátalakítási hitelezői ülésen vesz át okiratot.
+
+A 4. §-hoz
+
+Az alapelvek az eljárásban részt vevő egyes felek együttműködési kötelezettségét, az eljárás transzparens és gyors lefolytatását, az adós, a hitelező, a tőketulajdonos és a szerkezetátalakítási szakértő számára általános elvárásokat fogalmaznak meg a szerkezetátalakítás sikerének előmozdítása, az adósi és hitelezői érdekek méltányos összeegyeztetése és a tisztességes eljárás követelményeinek érvényre juttatása érdekében.
+
+Az adós méltányolható gazdasági érdekeinek védelme biztosítása céljából a Javaslat előírja, hogy a szerkezetátalakítási szakértő, az érintett hitelezők, valamint a munkavállalók képviselői az adós vállalkozás üzleti titkot és egyéb magántitkot képező adatait és iratait csak a jogaik gyakorlásához és a kötelezettségeik teljesítéséhez szükséges mértékig ismerhetik meg, a titok megőrzésére titoktartási nyilatkozatot kell tenniük.
+
+Az 5. §-hoz
+
+Az Irányelv annak előmozdítására, hogy a vállalkozások még idejekorán észlelni és kezelni legyenek képesek a gazdasági és pénzügyi nehézségeiket, a tagállamok számára előírja korai előjelző eszközök hozzáférhetővé tételét/ biztosítását a vállalkozások számára.
+
+A korai előjelző eszközökkel a közgazdasági ismeretekkel nem rendelkező mikro- és kisvállalkozások is képesek lesznek felismerni azokat a körülményeket, amelyek fizetésképtelenségükhöz vezethetnek.
+
+A korai előrejelző eszközök többféle formában kerülhetnek bevezetésre. Lehetnek ezek módszertani útmutatók, gazdasági-pénzügyi tanácsadások, számviteli szolgáltatók vagy adóhatóságok által küldött figyelemfelhívások, informatikai alkalmazások, amelyek a vállalkozások által megadott egyedi adatokból a gazdasági krízishelyzet bekövetkezésének esetleges valószínűségét adják meg, ezenkívül esetleg mentorálási szolgáltatások igénybevételére is feljogosítanak.
+
+A tagállamok számára történő gyakorlati segítségnyújtás érdekében az EU az Irányelv első javaslatának megszületésekor indította el az EWE (Early Warning Tools - Korai Előrejelző Eszközök) projektet, ennek célja a bajba jutott cégekre szabott személyes segítségnyújtás (mentorálás) és tanácsadás. Az EWE projekt eredményeként összegyűjtött jó gyakorlatok („best practices”) és kézikönyvek nyilvánosságra hozatala is megtörtént a tagállami rendszerek kialakításának támogatása érdekében. A konkrét eszközök leírása a kialakítandó eszközök sokféleségére is figyelemmel a normaszövegben nem szükséges, itt a szabályozási keret megadása történik meg.
+
+A korai előrejelző szolgáltatások célja tehát a fizetésképtelenség veszélyét jelentő pénzügyi helyzet előrejelzéséhez tájékoztató és egyéb támogató szolgáltatások nyújtása elsősorban azon kisvállalkozások számára, akik vállalkozásuk méreténél fogva nem vesznek igénybe könyvvizsgálót, ugyanakkor célszerű minél korábban felismerniük a likviditási kockázatokat és gondoskodniuk kell azok kezeléséről, továbbá el kell kerülniük az újabb indokolatlan üzleti kockázatok keletkezését.
+
+A korai előrejelző eszközök a munkavállalók képviselői számára is hasznosak lehetnek a tájékozódási és konzultációs jogaik gyakorlásához.
+
+A Javaslat szerint ezeket a tájékoztató és módszertani anyagokat az erre szolgáló honlapról lehet elérni, tehát online platformokon, illetve ilyen célra kifejlesztett informatikai alkalmazások igénybevételével.
+
+A 6. §-hoz
+
+Az adós a felelős gazdálkodása körében a fizetésképtelenné válás valószínűségének felismerése esetén dönthet úgy, hogy szerkezetátalakítást hajt végre, amelynek célja, hogy működőképességét megtartsa, és elkerülje a későbbi fizetésképtelenséget. A § (1) bekezdése meghatározza a szerkezetátalakítás célját. A szerkezetátalakítás - mint azt a fogalma is tartalmazza - egy intézkedéssorozat, amely az adós pénzügyi egyensúlyának helyreállítását célozza. Ez azonban általában nem tud megvalósulni a hitelezőktől függetlenül, ezért a szerkezetátalakítás tényleges célja, hogy az adós a hitelezőivel, egyes hitelezőivel (a Javaslat szerint az érintett hitelezőivel) megállapodva tudja kialakítani ezen intézkedéssorozatot és az végrehajtásra is kerüljön. A szerkezetátalakításra vonatkozó jogi szabályozás rugalmasságát igazolja, hogy a Javaslat nem köti meg az adós kezét abban, hogy meghatározza, mely hitelezőkkel köti meg a megállapodást. Vagyis a szerkezetátalakítási megállapodás megköthető egyes hitelezőkel vagy valamennyi hitelezővel.
+
+A szerkezetátalakítás rugalmassága mellett is meg kell határozni azokat a garanciális korlátokat, határokat, amelyeken belül a szerkezetátalakítás folyhat. Ilyen határ a szerkezetátalakítás időkeretének, kezdő és záró napjának meghatározása.
+
+A szerkezetátalakítás megindításáról az adós döntéshozó szerve vagy egyszemélyes jogi személy esetében (elsődlegesen korlátolt felelősségű társaság, részvénytársaság) az egyszemélyi tag, alapító dönt. A Javaslat ennyiben nem köti külső szereplő jóváhagyásához, vizsgálatához a szerkezetátalakítás megindításának lehetőségét, de a nemperes eljárás megindítása iránt, amelynek keretében az egyes keretek elérhetővé válnak, kérelmet kell benyújtania a bírósághoz. A szerkezetátalakítás kezdő napját a döntéshozó szerv határozatban állapítja meg. Ennek kereteit a Javaslat meghatározza.
+
+A szerkezetátalakítás végét pedig vagy a szerkezetátalakítási tervben elfogadott intézkedések maradéktalan végrehajtásának napja vagy a szerkezetátalakítás meghiúsulásának napja jelenti.
+
+A 7. §-hoz
+
+A Javaslat megadja azokat a körülményeket, amelyek esetén szerkezetátalakítás (már) nem határozható el, hiszen a szerkezetátalakítás rendeltetését nem tudná betölteni vagy alkalmazása visszaélésre adna lehetőséget.
+
+A Javaslat nem teszi lehetővé, hogy az adós egyszerre több szerkezetátalakítást folytasson, tekintet nélkül arra, hogy a másik szerkezetátalakítás belföldön vagy külföldön folyik.
+
+A Javaslat - az irányelvi korlátozó rendelkezésekre is figyelemmel - kizárja a szerkezetátalakításból azokat, akik fizetésképtelenségi eljárásban vagy más megszüntetési eljárásban vesznek részt vagy ellenük ilyen eljárást indítottak, ahol a közzététel már megtörtént. A csődeljárással kapcsolatban - amely az adós által indítható másik formalizált fizetésképtelenségi eljárás - kiemelhető, hogy tulajdonképpen a két szabályozás összevetése alapján az adós dönthet is abban, hogy csődeljárást vagy szerkezetátalakítási eljárást indít. Amennyiben a csődeljárást megindítja, szerkezetátalakítást már nem határozhat el és indíthat.
+
+Nem dönthet a szerkezetátalakítás mellett akkor sem, ha korábban a fizetőképesség helyreállítására jóváhagyott szerkezetátalakítási tervben vagy csődeljárásban bíróság által jóváhagyott csődegyezségben elfogadott tervben a hitelezővel megállapodott, a felszámolási eljárásban egyezséget kötött és annak végrehajtási időszaka még nem telt el. Ez biztosítja adott esetben a hitelezői érdek érvényesülését is, mivel így nem válik lehetségessé, hogy a már rendezettnek tekintett követelés tekintetében az adós szerkezetátalakítás során (újabb) moratóriumot kérjen, elzárva ezzel a hitelezőt az igényérvényesítéstől. A rendelkezést ki kell egészíteni a veszélyhelyzet során bevezetett és átmeneti lehetőségként a vállalkozások által még várhatóan 2022. december 31-ig kezdeményezhető reorganizációs eljárás szabályaival való összhang érdekében. Biztosítani kell azt, hogy a reorganizációs eljárás és a szerkezetátalakítási eljárás ne legyen egyszerre folyamatban, továbbá addig se lehessen szerkezetátalakítási eljárást indítani, amíg a bíróság által jóváhagyott reorganizációs terv végrehajtása folyamatban van. A visszaélések elkerülése érdekében ki kell mondani azt is, hogy amennyiben reorganizációs eljárásban moratórium került elrendelésre, akkor 3 éven belül nem lehet szerkezetátalakítási eljárást kezdeményezni.
+
+A Javaslat az esetleges visszaéléseket tehát nemcsak időbeli korlátokkal, hanem az egyes eljárások egymás mellett történő gyakorlásának korlátozásával éri el.
+
+A rendelkezések között továbbá találhatóak olyanok is, amelyek az adós pénzügyi helyzetével, megbízhatóságával függnek össze. A Javaslat kizárja a szerkezetátalakítás lehetőségéből azt az adóst, akinek a szerkezetátalakítás kezdő napján legalább 30 napja lejárt esedékességű nem vitatott vagy elismert tartozása van, akkora összegben, hogy ez meghaladja a vele szemben fennálló követelések 10%-át, vagy ha az adóssal szemben végrehajtás van folyamatban.
+
+Ha a szerkezetátalakítás kezdő napját megelőző 3 üzleti évre vonatkozó, az adós számvitelről szóló 2000. évi C. törvény szerinti bármelyik beszámolója nem elérhető az Igazságügyi Minisztérium Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat honlapján, szintén nem határozhat a Javaslat szerinti szerkezetátalakításáról.
+
+Büntetőeljárás megindítása esetén, ha büntetőjogi intézkedés alkalmazásának lehet helye, szintén nem indokolt, hogy az adós a Javaslat szerinti szerkezetátalakítási kereteket vegyen igénybe.
+
+A 8. §-hoz
+
+A szerkezetátalakítás célja, hogy az adós az érintett hitelezőivel szerkezetátalakítási tervet tudjon elfogadni. A tárgyalási folyamat, a szerkezetátalakítás céljára igénybe vehető eszközök (szerkezetátalakítási keretek) azonban nem folyhatnak parttalanul. A rendelkezés meghatározza azt az időkeretet, amelyen belül az adós a szerkezetátalakítási tárgyalásokat lefolytathatja, és meghatározza azokat az időbeli és eseménybeli korlátozásokat, amelyek a szerkezetátalakítás meghiúsulására vezetnek.
+
+A szerkezetátalakítás koherens szabályozása érdekében szükséges kimondani azt is, hogy ha a szerkezetátalakítási eljárás alatt olyan körülmény következik be, amely miatt elhatározni sem lehetne a szerkezetátalakítást, akkor a szerkezetátalakítás meghiúsul.
+
+A meghiúsulási okok objektív tényeken alapulnak, ha azok a bíróság tudomására jutnak, a szerkezetátalakítási eljárást hivatalból kell megszüntetni a szerkezetátalakítási eljárás általános szabályai alapján. Utalni lehet arra, hogy a szerkezetátalakítási eljárás jogerős megindításáig a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 240. §-a alapján lehet megszüntetni az eljárást, ha a szerkezetátalakítás elhatározását akadályozó, a 7. § a)-c) és h) pontjában meghatározott valamely ok bekövetkezik. A szerkezetátalakítási eljárás jogerős megindításától pedig saját szabályt határoz meg a Javaslat.
+
+A 9. §-hoz
+
+A szerkezetátalakítási terv bírósági jóváhagyása esetén a tervben foglalt jogok és kötelezettségek hatálya kiterjed az adósra, a szerkezetátalakítási tervvel érintett valamennyi hitelezőre, továbbá a szerkezetátalakítási tervhez jognyilatkozattal csatlakozó felekre is.
+
+A rendelkezés a bíróság által jogerősen jóváhagyott szerkezetátalakítási terv polgári jogi jogkövetkezményeit is meghatározza. Mivel a szerkezetátalakítási terv bírósági jóváhagyása nemperes eljárásban történik, a bíróság a jóváhagyás során elsődlegesen a formai és tartalmi elemek meglétét, azok jogszabályszerűségét vizsgálja, azonban a szerkezetátalakításit terv gazdasági, üzleti célszerűségét, a szerkezetátalakítási tervben foglalt intézkedések megfelelőségét, a felek akarati szándékát nem vizsgálja. Azt, hogy a szerkezetátalakítási terv képes-e a célját betölteni, vagyis, hogy végrehajtása esetén megelőzhető az adós fizetésképtelensége, illetve biztosítható működőképessége, a bíróság csak akkor vizsgálja, ha erre vonatkozóan ellenirat benyújtására kerül sor. Sajátos vizsgálat történik a szerkezetátalakítási terv jóváhagyásakor akkor is, ha a nemmel szavazó érintett hitelező arra hivatkozással nyújt be elleniratot, hogy a szerkezetátalakítási terv nem felel meg a hitelezők legjobb érdekei módszertani tesztnek. A bíróság azonban ezen esetekben sem a szerkezetátalakítási terv egészének, mint a felek közötti egyezségnek az érvényességéről dönt. Ha felek között később vita merül fel, azt az általános polgári jogi szabályok szerint perben rendezhetik.
+
+A Javaslat kimondja, hogy a bíróság által jogerősen jóváhagyott szerkezetátalakítási terv a felek szerződéses kapcsolatában szerződésmódosításnak minősül. Kimondja továbbá azt is, hogy mindazon követelés tekintetében, amelyet a szerkezetátalakítási terv hitelezői elfogadásáig az adós elismert vagy nem vitatott, és az követelést a szerkezetátalakítási terv tartalmazza, érinti, a szerkezetátalakítási terv az adós közokiratba foglalt tartozáselismerő nyilatkozatát is jelenti.
+
+A végrehajtási szabályokkal való koherencia érdekében a Javaslat megteremti a lehetőségét annak, hogy a szerkezetátalakítási tervben foglalt teljesítési határidő lejárta után a jogosult az első fokon eljárt bíróságtól végrehajtási záradék kiállítását kérje azon kötelezettségre, amelyet az adós nem teljesített számára. Az így keletkezett végrehajtható okirat alapján a hitelező végrehajtást kezdeményezhet az adóssal szemben.
+
+A 10. §-hoz
+
+A Javaslat szerint a szerkezetátalakítás egységes bírósági nemperes eljárásként kerül kialakításra Magyarországon.
+
+A szerkezetátalakítási tárgyalások során az adós által igénybe vehető egyes eszközök, intézkedések (moratórium, szerkezetátalakítási szakértő) megtételét az adós kérelemmel kezdeményezheti. Kiemelt garanciális elem, hogy az elfogadott szerkezetátalakítási tervet az adósnak minden esetben jóváhagyásra be kell nyújtania az eljáró bíróságnak.
+
+Szerkezetátalakítással kapcsolatos kérelmeket főszabályként az adós terjeszthet elő. A Javaslat azonban más személyeknek is lehetővé teszi meghatározott kérelmek (pl. szerkezetátalakítási szakértő jóváhagyása iránti kérelem, moratórium megszüntetése iránti kérelem) benyújtását.
+
+A Javaslatban az egyértelműség kedvéért kimondásra kerül, hogy a szerkezetátalakítási eljárásban igénybe vehető moratórium időtartama kivételével a szerkezetátalakítás nem akadályozza a hitelezőket igényeik érvényesítésében. Így különösen az adóssal szemben folyamatban lévő eljárások tovább folynak, és a hitelezők akár felszámolást is kezdeményezhetnek az adós ellen. A moratórium időszaka alatt benyújtott felszámolási kérelmek kezelésének szabályait a Cstv. módosítása tartalmazza.
+
+A moratórium alatti korlátozás természetesen csak a moratórium hatálya alá tartozó hitelezőkre vonatkozik, ha az adós úgy dönt, hogy korlátozott moratóriumot kér, a moratórium hatálya alá nem tartozó hitelező igényét minden korlátozás nélkül érvényesítheti. Ha a moratórium hatálya alá tartozó hitelezőnek vitatott követelése van, ő eziránt még a moratórium időtartama alatt is pert indíthat.
+
+A 11. §-hoz
+
+Az Irányelv nagy hangsúlyt fektet a munkavállalói érdekek védelmére, a már meglévő munkajogi tárgyú uniós előírásokhoz (a 2002/14/EK irányelv és a 2009/38/EK irányelv a tájékoztatáshoz és konzultációhoz való jog vonatkozásában, a 98/59/EK Irányelv a csoportos létszámcsökkentéssel összefüggésben, valamint a 2001/23/EK Irányelv a munkavállalói érdekek védelme a vállalkozások átruházása esetén) képest azonban új követelményeket nem jelenít meg a szerkezetátalakítással kapcsolatban. A magyar szabályozásban is elsősorban a munkajogi szabályok alkalmazásának van helye, ezt a Javaslat is rögzíti, az Irányelv 13. cikkével összhangban megjelölve azokat a területeket, amelyek kiemelt jelentőséggel bírnak.
+
+A szerkezetátalakításba a munkavállalót megillető követelések nem vonhatók be, így az Irányelvben nevesített, a munkáltató fizetésképtelensége esetén a munkavállalók védelméről szóló 2008. október 22-i 2008/94/EK parlamenti és tanácsi irányelv rendelkezései - a bérgaranciára vonatkozó követelmények - alkalmazása a szerkezetátalakításban nem merül fel.
+
+A 12. §-hoz
+
+A szerkezetátalakítás az adós létét érintő olyan kérdés, ahol indokolt előírni, hogy erről a döntéshozó szervnek vagy egyszemélyes jogi személy esetében (elsődlegesen korlátolt felelősségű társaság, részvénytársaság) az egyszemélyi tagnak, alapítónak határozatot kell hoznia. A Javaslat a szerkezetátalakítás elhatározását és a szerkezetátalakítás kezdő napjának a meghatározását olyan súlyú kérdésnek tekinti, amelyre tekintettel előírja, hogy arról csak az adós legmagasabb döntési fóruma, a tagok közössége - egyszemélyes adós esetén az alapító, egyszemélyi tag - dönthet. A félreértések elkerülése érdekében a Ptk.-ra hivatkozással utal a döntéshozó szervre a rendelkezés. A döntéshozó szervi határozat szabályaihoz a Javaslat kógenciát kapcsol, vagyis attól nem lehet eltérni. A szerkezetátalakítás azonban egy hosszú, sok esetben gyors, operatív döntések meghozatalát kívánó folyamat, így elképzelhető, hogy a döntéshozó szerv határozathozatalának időigénye ezzel nem összeegyeztethető, vagy egyébként az adós tagjai nem kívánnak a szerkezetátalakítási döntések (mindegyikébe) belefolyni. A Ptk. Harmadik könyve a jogi személyekre vonatkozó szabályok között a jogi személy szervei, az egyes jogi személy típusoknál nevesített szervek hatáskörét nem határozza meg kötelező erővel, tehát a jogi személyek, gazdasági társaságok stb. a működési kérdéseikben szabadon döntenek. Nem kizárt tehát, hogy például a szerkezetátalakítással összefüggő egyes kérdésekben - a szerkezetátalakítás elhatározásának kivételével, amelyet a törvény kógens módon az adós döntéshozó szervére telepít - az adós úgy határozzon az anyagi jogi szabályok betartása mellett, hogy más adósi szervre delegálja. Elképzelhető, hogy csak egyes kérdésekben való döntést ruházza át, de a főbb döntéseket (például a szerkezetátalakítási terv elfogadása) a döntéshozó szerv hatáskörében tartja, és elképzelhető az is, hogy minden kérdésben egy kijelölt szerv dönt (például felügyelőbizottság). Fontos kiemelni az, hogy ha szerkezetátalakítási tervről is az adós döntéshozó szerve határoz, akkor a Javaslat rendelkezése szerint a határozathozatalhoz legalább minősített többség szükséges.
+
+Az adósnak már a szerkezetátalakítás elhatározásakor kell, hogy legyen elképzelése a kivitelezésre, mely hitelezőket kívánja bevonni, és részükre milyen feltételekkel tudja teljesíteni a kötelezettségeit, hogyan látja vállalkozása életképességének biztosítását.
+
+Ennek érdekében a döntéshozatalhoz már szükséges a Javaslatban nevesített körülményeket tartalmazó dokumentumok előkészítése. Ismertetni kell különösen a döntéshozó szerv számára az adós vagyoni és pénzügyi helyzetét, a fizetésképtelenné válás valószínűségét alátámasztó tényeket és körülményeket, a tartozásállomány jellemzőit, továbbá azokat a körülményeket, amelyek alapján valószínűsíthető, hogy a hitelezőkkel sikeresen lefolytathatóak a szerkezetátalakítási tervre vonatkozó tárgyalások. A Javaslat nem írja elő, hogy ebben a fázisban az ügyvezetésnek már a szerkezetátalakítási terv tervezetét is mellékelnie kellene, de ez nem zárja ki azt, hogy akár ez is beterjesztésre kerüljön, ha ezen időpontig már készül ilyen, a hitelezői követelések nyilvántartását, a tervezett osztályba sorolást azonban el kell végezni.
+
+Itt kell megemlíteni, hogy az Irányelv külön foglalkozik a tőketulajdonosok szerkezetátalakítással összefüggő érdekeivel, ennek keretében rögzíti, hogy a tagállamoknak biztosítaniuk kell, hogy a részvényesek vagy egyéb tőketulajdonosok ne akadályozhassák meg indokolatlanul az adóst újra életképessé tevő szerkezetátalakítási terv elfogadását. Ennek érdekében a 9. cikk (3) bekezdés a) pontja alapján a tagállamnak arra is lehetősége van, hogy a tőketulajdonosokat kizárja a szavazásból. A Javaslat külön tőketulajdonosi hitelezői osztályról nem rendelkezik, a tőketulajdonos, ha hitelező, akkor hitelezőként szavazhat a tervről a követelése besorolása szerinti hitelezői osztályban.
+
+Az Irányelv a tőketulajdonos (’equity holder’) kifejezést használja, amely inkább olyan tagsági jogviszonyra utaló kifejezés, ahol az adós tagja a vállalkozásban befektetőként (’investor’) és nem „személyes közreműködőként” (’owner’) van jelen; a gyakorlatban a kisebb méretű, személyegyesülési formában működő jogi személyeknél a tag hozzáállása nyilván más a szerkezetátalakításhoz, mint egy részvénytársaságnál, ezért az egyes előírások érvényesülésének eltérő jelentősége lehet.
+
+A további bekezdések a döntéshozatalra vonatkozó - a társasági jogi előírásokhoz képest - kedvezőbb szabályok bevezetésével biztosítják a szerkezetátalakítás hatékony véghezvitelét, az Irányelv előzőekben hivatkozott tőketulajdonosokkal kapcsolatos követelmény megjelenítését.
+
+A Javaslat továbbá az Irányelv 19. cikkének átültetéseként meghatározza az adós vezető tisztségviselőjére vonatkozó alapvető gazdálkodási, tevékenységi kereteket, amelyeket az adós fizetésképtelenné válásának valószínűsége esetén figyelembe kell vennie. Fontos, hogy a rendelkezés a hitelezői érdekek primátusát mondja ki a tőketulajdonosok és az érintett felek érdekeivel szemben.
+
+Annak érdekében, hogy a biztosított hitelezők érdekeltté váljanak az adós további finanszírozásában, a vezető tisztségviselőnek, ha a terv a zálogjoggal terhelt vagyon értékesítésére tesz javaslatot, ez csak a zálogjogosult hitelező előzetes engedélye alapján lehetséges. A hitelező azonban dönthet úgy, hogy a befolyt vételárat az adós rendelkezésére bocsátja, ez esetben az így rendelkezésre bocsátott összeg átmeneti vagy új finanszírozásként kezelhető.
+
+A 13-14. §-hoz
+
+A szerkezetátalakítással kapcsolatos bírósági eljárásban néhány sajátos, illetve eltérő szabály megalkotására van szükség a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvénynek (a továbbiakban: Bpnp.) a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseihez, valamint a Pp. keretszabályaihoz képest.
+
+A szerkezetátalakítással kapcsolatos bírósági eljárásban a Fővárosi Törvényszéknek van kizárólagos hatásköre és illetékessége.
+
+A szerkezetátalakítással kapcsolatos bírósági eljárásban a jogi képviselet kötelező.
+
+Az eljárások elhúzódásának megelőzése érdekében nincs helye félbeszakadásnak, költségkedvezmény engedélyezésének, szünetelésnek. Felfüggesztésre, beavatkozásra csak szűk körben kerülhet sor.
+
+Az eljárásban főként okirati bizonyítás folyik. A bíróság nemcsak a felek indítványára, hanem hivatalból is elrendelheti a bizonyítást, és a feleket meghallgathatja. A bizonyításra egyebekben a Pp. szabályai, mint háttér jogszabály rendelkezései megfelelően alkalmazhatók azzal, hogy a Bpnp. a nemperes eljárásokban a magánszakértő igénybevételi lehetőségét kizárja. A Javaslat hitelezői ellenirat benyújtása esetére kifejezetten lehetővé teszi a bíróság számára, hogy további szerkezetátalakítási szakértőt rendeljen ki az elleniratban foglalt szakkérdésekben való állásfoglalás céljából.
+
+A Javaslat az általános eljárási szabályok között határozza meg a bíróság általános intézkedési kötelezettségének határidejét. Ezen jogintézményre külön hivatkozás nélkül is alkalmazandók a Pp. 110. § (1) bekezdésében foglalt intézkedési határidő kezdő napjának meghatározására vonatkozó előírások, a határidő így a beadvány bírósághoz történő érkezésétől, a beadvány benyújtására nyitva álló határidő lejártától, vagy az intézkedésre okot adó egyéb körülmény bekövetkezésétől számítódik.
+
+Az általános intézkedési határidő meghatározása biztosítja, hogy a Javaslatban ne kelljen minden egyes intézkedés vonatkozásában külön nevesíteni az adott intézkedéssel kapcsolatos intézkedési határidőt, csak azokban az esetekben, amikor a határidő eltér az általános intézkedési határidőtől. Amennyiben a Javaslat valamely beadvánnyal kapcsolatban intézkedési kötelezettséget ír elő, de nem határozza meg ennek határidejét, azt a bíróságnak legkésőbb 8 munkanapon belül kell teljesítenie.
+
+A 15. §-hoz
+
+Az Irányelv nem tartalmaz rendelkezést a kollektív vagy nyilvános, illetve a bizalmas szerkezetátalakításra. A szakirodalomban ugyanakkor már a szerkezetátalakítás e két formája bevett típusként említett, továbbá a fizetésképtelenségi eljárásokról szóló (EU) 2015/848 európai parlamenti és tanácsi rendelet tekintetében is meg kell határozni, mely szerkezetátalakítás eshet ezen európai uniós rendelet hatálya alá. Erre tekintettel a Javaslat meghatározza, mi tekintendő a nyilvános szerkezetátalakításnak.
+
+A más európai uniós tagállamokban indult eljárások egymáshoz való viszonyán kívül az uniós rendelet előírásai alapján a Javaslat is tartalmazza a főeljárás megindítására vonatkozó határozattal szembeni jogorvoslatot a joghatóságra hivatkozással (lehetséges ugyanis, hogy az adósnak nem belföldön található a fő érdekeltségi központja, bár itt van a bejegyzett székhelye, a bejegyzett székhelyet fő érdekeltségi központtal azonosított vélelem ugyanis megdönthető). Ezen túlmenően a más tagállamban történő közzétételre és a fizetésképtelenségi nyilvántartásba történő adatszolgáltatásra történő kötelezést is szükséges kimondani a nyilvános szerkezetátalakítási eljárásban, mert ez is az uniós rendeleten alapszik, a hatálya alá bejelentett eljárásokra nézve.
+
+A 16-17. §-hoz
+
+A Javaslat elsődlegesen bírói döntési jogkörbe helyezi a szerkezetátalakítási eljárás során meghozandó döntéseket.
+
+A 18-19. §-hoz
+
+A Javaslat általános szabályokat fogalmaz meg a szerkezetátalakítási eljárásban a bírósághoz benyújtandó beadványokra. Ennek keretében rögzíti, hogy minden beadványt formanyomtatványon kell előterjeszteni, amelyet az Országos Bírósági Hivatal tesz közzé honlapján. A nyomtatvány rendszeresítése az eljárásban részt vevő fél és a bíróság számára is előnyös, az eljárás hatékony lefolytatását, a mielőbbi döntés meghozatalát szolgálja.
+
+A beadvány alaki kellékeire, a hiánypótlás elrendelésére és visszautasítására főszabályként a Pp. rendelkezései érvényesülnek azzal, hogy hiánypótlás elrendelhető akkor is, ha a beadvány a Javaslat rendelkezéseinek nem felel meg.
+
+A Javaslat rendelkezik arról is, hogy a beadványt a Pp. 115. § (6) bekezdésében meghatározott okok alapján visszautasító végzés ellen fellebbezésnek van helye.
+
+A 20-21. §-hoz
+
+A Javaslat külön szabályozza a szerkezetátalakítási eljárásban benyújtható kérelmet, amelynek általános követelményként meghatározza a kérelem kötelező tartalmi elemeit és mellékleteit. Az egyes eljárásokat megindító kérelmekre vonatkozó többlet követelményeket a Javaslat az adott kérelemnél határozza meg.
+
+A Javaslat rendelkezik a kérelem visszautasításának általános szabályairól, külön meghatározva azokat az eseteket, amikor az eljárásban benyújtható kérelmet hiánypótlási felhívás kiadását mellőzve vissza kell utasítani, illetve amikor az eljárásban benyújtható kérelem tekintetében hiánypótlási felhívás kiadható.
+
+Az eljárás gyorsítása és egyszerűsítése érdekében a Javaslat korlátozza a visszautasítás elleni jogorvoslati jogot. A mérlegelést igénylő jogkérdésen alapuló döntések kivételével nincs helye fellebbezésnek. Egyéb esetben, ha a fél kijavítja a visszautasító végzésben megjelölt hibákat, hiányosságokat, akkor a kérelmet újra beadhatja 15 napon belül úgy, hogy csak a javított mellékletet kell a kérelméhez csatolnia. A szabályszerű benyújtással a szerkezetátalakítási eljárásban benyújtható korábbi kérelem előterjesztésének joghatásai fennmaradnak.
+
+A 22. §-hoz
+
+A szerkezetátalakítási eljárás megindítása iránti kérelmet az adósnak kell benyújtania. A hitelező tehát nem kezdeményezheti ezen eljárás lefolytatását, azonban az eljárás további részében őt is megilleti kérelem kezdeményezési jog abban az esetben, ha ezt a Javaslat lehetővé teszi (például szerkezetátalakítási szakértő kijelölésével, moratórium megszüntetésével összefüggésben). Speciális hitelezői jogosítvány a szerkezetátalakítási terv bíróság általi jóváhagyása során az ellenirat benyújtására vonatkozó jog.
+
+Az eljárás megindításakor a hitelezők arra hivatkozással terjeszthetnek elő beadványt, hogy az adós fizetésképtelenné válásának valószínűsége nem áll fenn (nem felel meg azoknak a kritériumoknak, amelyek mellett szerkezetátalakításáról határozhat). Az adós a kérelem benyújtásával a bíróság rendelkezésére bocsátja egyes nyilvántartási dokumentumait (6 hónapnál nem régebbi közbenső mérlegét és utolsó beszámolóját), illetve a hitelezők beadványára az adós észrevételt tehet. A bíróság ezek alapján hozza meg a döntését: a szerkezetátalakítási eljárást megindítja vagy elutasítja a kérelmet.
+
+Az adósnak lehetősége van arra, hogy az eljárás megindításával egyidejűleg kérelmezze szerkezetátalakítási szakértő kijelölését és moratórium elrendelését is, de lehetősége van arra is, hogy ezek iránt csak az eljárás későbbi szakaszában terjesszen elő kérelmet. Az eljárás kezdő napja az a nap, amit az adós kérelmében megjelöl [a 12. § (3) bekezdés alapján meghatározott időpont].
+
+A 23-24. §-hoz
+
+A szerkezetátalakítás eredményességének növelése, szakszerűségének és szabályszerűségének elősegítése, a bíróság feladatainak előkészítése és megalapozása érdekében szerkezetátalakítási szakértő kerül kijelölésre, kérelemre vagy a Javaslatban meghatározott esetekben bíróság általi hivatalbóli kirendelés alapján.
+
+Az Irányelv 5. cikk (3) bekezdése a szakértő kötelező részvételére az alábbi esetköröket tartalmazza:
+
+a) ha bíróság egyedi végrehajtási intézkedéseket felfüggesztő általános moratóriumot rendel és, úgy határoz, hogy a felek érdekeinek védelmében szükség van ilyen szakértőre;
+
+b) ha a szerkezetátalakítási tervet a 11. cikknek megfelelően bíróságnak kell jóváhagynia a hitelezői osztályokon átívelő kényszeregyezség révén; vagy
+
+c) ha azt az adós vagy a hitelezők többsége kéri, feltéve, hogy az utóbbi esetben a szakértő díját a hitelezők viselik.
+
+A Javaslat az érintett bekezdés implementációját úgy valósítja meg, hogy az adós vagy hitelezők kérelmére történő kirendelését (a Javaslat terminológiájával kijelölését) a szerkezetátalakítási szakértő bírósági jóváhagyása iránti kérelem, míg a további két kötelező eset a hivatalból történő szakértő kirendelés keretében szabályozza.
+
+A Javaslat a felszámolók névjegyzékében szereplő felszámoló szervezetek és az állami felszámoló szervezet számára teszi lehetővé a szerkezetátalakítási szakértői feladatok elvállalását. Ahhoz, hogy a felszámoló szervezetek által foglalkoztatott felszámolóbiztosok szerkezetátalakítási szakértői tevékenységet végezhessenek, továbbképzésben kell részt venniük már a szerkezetátalakítási szakértők listájára történő felvétel előtt, és azt követően is.
+
+A Javaslat törvényi szinten az Irányelv 26. cikk (1) bekezdés a) pontjában is előírt szakmai továbbképzéssekkel kapcsolatban csak a kötelezést írja elő, de ennek részletes teljesítési szabályai (a továbbképzések formája, szervezője, a továbbképzés teljesítésének módja) megalkotása végrehajtási rendeleti szintre tartozik.
+
+Fontos, hogy az egyedi ügyekben olyan szerkezetátalakítási szakértő kerüljön jóváhagyásra vagy kirendelésre, aki szakmai tevékenységét befolyásmentesen látja el. Ezért a Javaslat felsorolja azokat az összeférhetetlenségi és kizáró okokat, amelyek esetén az adott ügyben nem lehet eljárni. Az összeférhetetlenségi vagy kizáró okot keletkeztető körülmények lehetnek vagyoni, tulajdonosi érdekeltséggel összefüggőek, vagy pedig a szerkezetátalakítási szakértőnek a feleknél betöltött más funkciójából adódhatnak, valamint érdemtelenségi vagy egyéb akadályozó tényezők (szünetelés).
+
+A szerkezetátalakítási szakértőknek felelősségbiztosítással kell rendelkezniük, amelynek a szerkezetátalakítási szakértői tevékenység végzésére tekintettel magas összegre kell kiterjednie.
+
+Nincs szükség új állami nyilvántartás létrehozására, hanem az Országos Bírósági Hivatal a kapott bejelentéseknek megfelelően csupán vezeti a szerkezetátalakítási szakértők listáját. A nyilvántartó hatóság ellenőrzési és szankcionálási jogai a külön jogszabályban le van fektetve, a hatósági nyilvántartásból történő törlés pedig azzal a hatással is jár, hogy nem lehet bírósági szerkezetátalakítási szakértőként sem tovább működni. A bíróság számára a szakértő listára kerüléshez szükséges bejelentést és az adatváltozásokat a nyilvántartó hatóság küldi meg.
+
+A 25. §-hoz
+
+A Javaslat felsorolja a szerkezetátalakítási szakértő azon feladatait, amelyeket az Irányelv is tartalmaz a szakértő fogalmának meghatározásánál a 2. cikk 12. pontjában. Ezek közül kiemelendő, hogy a szerkezetátalakítási szakértő feladata elsősorban a szerkezetátalakítási terv előkészítésében, a hitelezőkkel történő egyeztetésében történő közreműködés, szakmai segítségnyújtás. Részt vesz tehát a hitelezői igények számbavételében, az érintett hitelezők hitelezői osztályokba sorolásában, és a szerkezetátalakítási terv megszavazásának egyéb előkészítő és lebonyolító feladataihoz is segítséget nyújt. Fontos feladata ezekben a folyamatokban keletkező iratok, jegyzőkönyvek jóváhagyólag történő aláírása.
+
+Az érintett hitelezők érdekei és az eljárás tisztességes lefolytatása érdekében a szerkezetátalakítási szakértő az adós gazdálkodását is felügyelheti. A szerkezetátalakítási szakértő kijelölése nem érinti az adós vezető tisztségviselőjének szervezeti képviseleti vagy ügyvezetési jogait. A szerkezetátalakítási szakértő részletes szakmai feladatait végrehajtási rendelet fogja meghatározni.
+
+A 26. §-hoz
+
+Az Irányelv 2. cikk (1) bekezdés 12. pontja értemében a szerkezetátalakítási szakértő feladatköre kiterjedhet az adós gazdálkodása feletti felügyeletre is. E feladat és jogkör törvényi szintű elemeit jeleníti meg a rendelkezés.
+
+A gazdálkodás feletti felügyeletet a bíróság alapvetően erre irányuló kérelem esetén rendeli el, akkor, ha ezt a jóváhagyás iránti kérelem tartalmazza, vagy kirendelés esetén, ha a hitelezők kezdeményezik ezt. Ennek oka, hogy a szerkezetátalakítási eljárás nem fizetésképtelenségi eljárás, így nincs ok arra, hogy főszabályként az adósnak a döntési jogköre a saját gazdálkodási terén korlátozva legyen. Ugyanakkor, ha azt a hitelezők mégis indokoltnak látják, kérelmezhetik a gazdálkodás felügyeletére is kiterjedő szakértői jogkör jóváhagyását, illetve elrendelését. Nem kizárt, hogy az adósi kérelem is tartalmazzon ilyen irányuló kérést.
+
+A gazdálkodás feletti felügyelet adminisztratív (iratokba, nyilvántartásokba való betekintés, felvilágosítás kérés) és a gazdasági döntések tartalmára vonatkozó felügyeletet is jelenthet (egyes kötelezettségekhez való hozzájárulás megadása, új és átmeneti finanszírozás gazdasági ellenőrzése).
+
+A biztosítékot tartalmazó szerződés esetén nemcsak a szakértő, hanem az érintett hitelező jóváhagyására is szükség van, ha ez a rendes gazdálkodás körét meghaladja, tehát kívül esik a szokásos üzletmeneten, nagyságrendjét vagy az ügylet típusát tekintve.
+
+A 27-28. §-hoz
+
+Abban az esetben, amikor a felek kérelme alapján történik a szerkezetátalakítási szakértő bírósági kijelölése, az adós vagy az eljárásban érintett hitelezők követeléseinek többségét képviselő érintett hitelező kérelmére a bíróság jóváhagyja az általuk megjelölt szerkezetátalakítási szakértőt. A biztosított érintett hitelező egyedül is jogosult ilyen tárgyú kérelem előterjesztésére.
+
+A kérelmezőnek meg kell jelölnie azokat a körülményeket, amelyek miatt a szerkezetátalakítási szakértő közreműködését indokoltnak tartja, valamint azt is be kell mutatnia, hogy miért a választott szerkezetátalakítási szakértőt tartja a feladat elvégzésére alkalmasnak. Fontos eleme a kérelemnek az, hogy a kérelmezőnek pontosan meg kell adnia azokat a feladatokat, amelyeket a szerkezetátalakítási szakértőnek el kell látnia, ugyanis a bíróság e kérdésben is kérelem alapján tud dönteni.
+
+A jelentős állami részesedéssel működő vállalkozásoknál ugyanaz az állami szervezet jár el szerkezetátalakítási szakértőként, amely a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti stratégiailag kiemelt gazdálkodó szervezetek esetében ellátja a fizetésképtelenségi szakértői feladatokat.
+
+Elképzelhető, hogy a kérelmező konkrét szerkezetátalakítási szakértőt nem tud megnevezni, azonban mégis fontosnak tartja, hogy szerkezetátalakítási szakértő vegyen részt a szerkezetátalakításban. Ekkor a kirendelés szabályainak alkalmazásával a bíróság választja ki a listáról a szerkezetátalakítási szakértőt a végrehajtási jogszabályban meghatározott módszertan szerint, ilyenkor viszont a kirendelés szabályait kell alkalmazni.
+
+A jóváhagyás iránti kérelem elutasítása esetén a kérelmező élhet fellebbezéssel.
+
+A 29. §-hoz
+
+A Javaslat a szerkezetátalakítási szakértő hivatalból történő bírósági kirendelése körében kötelező eseteket és bírósági mérlegelésen alapuló eseteket állapít meg.
+
+A szerkezetátalakítási szakértő kirendelésének esetei szélesebb körűek, mint azt Irányelvben meghatározott minimális kör, általános moratórium esetén például mindig kötelező, nemcsak akkor, ha a felek érdekei alapján szükséges [ld. Irányelv 5. cikk (3) bekezdés a) pontjában], tehát külön vizsgálat nélkül meg kell, hogy történjen a kirendelés, ha korábban nem került kijelölésre szakértő (pl. az adós vagy biztosított hitelező korábban előterjesztett kérelme alapján). Ugyanígy a terv osztályokon átívelő kényszeregyezségi hatállyal történő jóváhagyása iránti kérelem esetén, vagy ha a jóváhagyás iránti kérelemmel szemben ellenirat kerül benyújtásra. Ezek már a terv elfogadása után, a bírósági jóváhagyáskor bekövetkező körülmények, előbbi esetben a kötelező kijelölést az Irányelv 5. cikk (3) bekezdés b) pontja tartalmazza.
+
+A bíróság a mérlegelésen alapuló egyik esetben a hitelezők kérelme alapján dönt, illetve a jóváhagyás iránti kérelemmel szemben benyújtott hitelezői ellenirat esetén speciális lehetőség a bíróság számára, hogy akkor is kirendeljen szakértőt, ha már van közreműködő szakértő az eljárásban (pl. az általános moratóriumra tekintettel).
+
+A szerkezetátalakítási szakértő kirendelése nyilvános, átlátható és ellenőrizhető módszertan szerint történik, amely figyelembe veszi az adós gazdasági tevékenységének és pénzügyi nehézségeinek sajátosságait, és az adott ügy ellátásához szükséges szakértelmet. A kirendelési módszertant végrehajtási rendelet állapítja meg.
+
+A jelentős állami részesedéssel működő vállalkozásoknál ugyanaz az állami szervezet jár el szerkezetátalakítási szakértőként, amely a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti stratégiailag kiemelt gazdálkodó szervezetek esetében ellátja a fizetésképtelenségi szakértői feladatokat.
+
+A 30. §-hoz
+
+A szerkezetátalakítási szakértő díját, ha kérelemre történik a kijelölés, az fizeti, aki azt vállalta, vagyis a bíróságnak nincsen szerepe a díj meghatározásában. Az Irányelv 5. cikk (3) bekezdés c) pontja ezzel kapcsolatban annyit rögzít, hogy ha a hitelezők többsége kéri a szakértő kijelölését, a szakértő díját ők viselik.
+
+A szerkezetátalakítási szakértő díjának megállapítására azokban az esetekben kerül sor, ahol a szerkezetátalakítási szakértőt a bíróság rendelte ki.
+
+A díj mértékét a Javaslat a Cstv-ben a vagyonfelügyelő díjához hasonlóan a mérleg szerinti eszközök könyv szerinti értékéhez viszonyítva sávosan, a díjmértékre nézve degresszíven állapítja meg.
+
+A díj mértékét a szerkezetátalakítási szakértőnek az adott ügyben végzett munkaterhe, adminisztratív feladatai, a kijelölés megszüntetésének körülményei figyelembevételével állapítja meg a bíróság annyiban, hogy ezen szempontok alapján csökkentheti annak előző rendelkezések alapján megállapított mértékét. A szerkezetátalakítási szakértő a díjon felül költségtérítést nem számolhat fel.
+
+A Javaslat rendelkezik a díjelőleg intézményéről és a bíróság díjmegállapítási kötelezettségéről is.
+
+A 31. §-hoz
+
+A szerkezetátalakítási szakértő felmentésére - kijelölésének megszüntetésére - az eljárásban részt vevő felek kezdeményezésére vagy hivatalból kerülhet sor. A kijelölés megszüntetés iránti („felmentési”) indokok elsődlegesen megegyeznek a Javaslatban meghatározott összeférhetetlenségi és kizáró okokkal. Kérelmezni lehet a szerkezetátalakítási szakértő kijelölésének megszüntetését a bíróságtól akkor is, ha a feladatainak nem megfelelően tesz eleget, mulasztást követ el, valamint akkor, ha a szerkezetátalakítása befejezése előre láthatóan nem lesz sikeres, így a szakértő további munkája, díjának fizetése feleslegessé vált. Ha a szerkezetátalakítás meghiúsult, a szerkezetátalakítási szakértő felmentése szintén szükséges.
+
+Ha a szerkezetátalakítási eljárásban szerkezetátalakítási szakértő részvétele a Javaslat szerint kötelező (kötelező hivatalbóli kirendelés), akkor a bíróság hivatalból intézkedik újabb szakértő kirendelése iránt.
+
+A 32. §-hoz
+
+A szerkezetátalakítási szakértő a kijelölés megszüntetésekor köteles a tevékenységével elszámolni és minden dokumentumot átadni az adósnak és a bíróságnak is. Mulasztása vagy késedelme esetén a bíróság pénzbírságot szab ki.
+
+A 33-34. §-hoz
+
+Az Irányelv is biztosítja a fizetésképtelenségi jogban ismert, az adós - hitelezői jogok korlátozásával megvalósuló - védelme érdekében elrendelhető egyedi végrehajtási intézkedéseket felfüggesztő moratórium intézményét (’stay of individual enforcement actions’). Ahogy a fogalom bevezetéséhez kapcsolódó indokolásban már kifejtésre került, a kötelezettségei teljesítése alóli haladékot az adós a hitelezői jogok korlátozásán keresztül kapja. A védelem célja, hogy az adósnak elegendő ideje legyen arra, hogy a jövőbeli teljesítőképességére, életképességére tekintettel többek között a kötelezettségei teljesítésére készített szerkezetátalakítási tervről az érintett hitelezőkkel tárgyaljon, a terv elfogadását elérje.
+
+Az Irányelv a moratórium két típusát különbözteti meg az általános és a korlátozott moratóriumot. A Javaslatban is megjelenik mind a két típus, illetve az ideiglenes moratórium bevezetése, amely annak érdekében szükséges, hogy a moratórium jogerős elrendelése előtt a hitelezők érvényesíthessék érdekeiket, ha úgy látják, hogy az adós moratóriumhoz való joga nem áll fenn.
+
+A szerkezetátalakítási kerethez való hozzáférés irányelvi korlátozásaként kimondott okot: az adós (vezető tisztségviselője) által elkövetett számviteli vagy könyvelési kötelezettségek súlyos - bűncselekmény megállapítását eredményező - megsértését a Javaslat oly módon veszi át, hogy az elkövetett jogsértést kiterjeszti valamennyi gazdálkodás rendjét sértő bűncselekményre és a pénzmosásra, de megengedi, hogy ezen cselekményekkel érintett adósok szerkezetátalakítást határozzanak el (a folyamatban lévő büntetőeljárás azonban kizáró ok), moratórium elrendelését azonban nem kérhetik a bíróságtól a korábbi visszaélésre tekintettel. Indokolt, hogy ezzel a korlátozással összefüggésben ne az adós fennállásának ideje, hanem csak a megelőző 5 év kerüljön figyelembevételre.
+
+A Javaslat a moratóriumhoz az adóst korlátozó, felügyelő szabályokat kapcsol hitelezővédelmi szempontokra figyelemmel. Egyrészt utalni lehet rá, hogy általános moratórium esetén mindig kell, hogy legyen a szerkezetátalakításban közreműködő szakértő, másrészt korlátozott moratórium esetén is meghatároz a Javaslat olyan körülményt, amely fennállása esetén a bíróság szerkezetátalakítási szakértőt rendel ki, ha nem jelöltek ki korábban. A kijelölt szerkezetátalakítási szakértő megnövelt feladatkörrel jár el moratórium esetén akkor, ha a kijelölés szerint tevékenysége eredetileg nem terjed ki az adós gazdasági tevékenységének felügyeletére.
+
+Az Irányelv 6. cikk (4) bekezdése lehetőséget ad arra, hogy a tagállami szabályozás bizonyos követeléseket vagy ezek bizonyos kategóriáit kizárjon a moratórium hatálya alól, ha a hitelezői érdekérvényesítés valószínűsíthetően nem veszélyezteti a szerkezetátalakítást vagy méltánytalanul sértené ezen követelések hitelezőinek érdekeit. Figyelemmel arra, hogy az irányelvi kivétel-szabályozás olyan körülményeket nevesít, amelyek „szubjektív” elemek megjelenését (ezek vizsgálatát) eredményezhetik (pl. az adós vállalkozás méretétől függően mást jelenthet, hogy mely követelés érvényesítése nem veszélyezteti a szerkezetátalakítást), a Javaslat azt mondja ki, hogy a moratórium valamennyi hitelezőre és követelésre kiterjed. Ez alól azok a hitelezők és követelések képeznek kivételt, amelyek a szerkezetátalakítással nem érintettek.
+
+A Javaslat a hatályra vonatkozó rendelkezések között biztosítja különösen a munkavállalói érdek és közérdek védelmét azáltal, hogy a munkaviszonyból és egyéb foglalkoztatásra irányuló jogviszonyból származó követelések, valamint a költségvetést megillető foglalkoztatással kapcsolatos közterhekből és általános forgalmi adóból (amit főszabály szerint az adós a vevőjétől szed be) származó követelések jogosultjai (munkavállalók és az adóhatóság, az említett követelések tekintetében) nem vonhatók be a szerkezetátalakításba, a jogosultak nem tekinthetők érintett félnek.
+
+Az Irányelv moratóriumra vonatkozó 6. cikkében nem, de a (25) preambulumbekezdésében rögzítésre kerül, hogy a „tagállamok számára lehetővé kell tenni annak eldöntését, hogy a megelőző szerkezetátalakítási eljárás megindításának kezdeményezését vagy annak megindítását követően esedékessé váló vagy keletkező követelésekre alkalmazandók legyenek-e a megelőző szerkezetátalakítási intézkedések vagy az egyedi végrehajtási intézkedéseket felfüggesztő moratórium. A tagállamok számára lehetővé kell tenni annak eldöntését, hogy az egyedi végrehajtási intézkedéseket felfüggesztő moratórium hatással legyen-e a követelések kamatára.”
+
+Bár a preambulum bekezdéseknek a cikkekben foglalt rendelkezések értelmezése körében van elsősorban jelentősége (jogi erővel nem bírnak), a Javaslat kimondja, hogy a moratórium kiterjed a moratórium időtartama alatt esedékessé váló vagy keletkező követelésekre is.
+
+Az Irányelv nem korlátozza az adós lehetőségeit abban, hogy a moratórium keretét meghatározza. Lehetséges, hogy az érintett hitelezők, vagyis akikkel a szerkezetátalakítási tárgyalásokat lefolytatja, és a moratórium hatálya alá eső hitelezők, akiket a moratórium elrendelése iránti kérelemben megjelöl, ne ugyanazt a személyi kört jelentse.
+
+Az igényérvényesítési eljárásokban eljáró szervek intézkedési jogkörének megteremtése érdekében a Javaslatban konkrétan rögzítésre kerülnek azok a jogintézmények, amelyek a moratórium alatt az adóssal szemben nem kezdeményezhetők, illetve, ha végrehajtás a szerkezetátalakítási eljárás jogerős megindítását követően időközben már folyamatban van, annak szünetelése következik be. Fontos jelezni, hogy a szerkezetátalakítási eljárás jogerős megindítását követően nem hiúsul meg a szerkezetátalakítás, ha az adóssal szemben végrehajtás indul, figyelemmel arra, hogy ez a meghiúsulási okok között nem került feltüntetésre.
+
+Az adós fizetési kötelezettsége felfüggesztésének lehetőségéről szól az Irányelv (39) preambulumbekezdése, ezek szerint „[a]nnak biztosítása érdekében, hogy a szerkezetátalakítási eljárás megindítása vagy az egyedi végrehajtási intézkedéseket felfüggesztő moratórium előtt keletkezett követelésekkel rendelkező hitelezők ne gyakoroljanak nyomást az adósra annak érdekében, hogy az megfizesse azokat a követeléseket, amelyek egyébként a szerkezetátalakítási terv végrehajtása révén csökkennének, a tagállamok számára lehetővé kell tenni, hogy e követelések tekintetében az adós fizetési kötelezettségének felfüggesztéséről rendelkezzenek.”
+
+Ezen lehetőség az adós nagyfokú védelmét szolgálja. A Javaslat rögzíti, hogy a fizetési haladék a moratórium előtt esedékessé vált adósi kötelezettségekre vonatkozik, a moratórium alatt esedékessé váló kötelezettségeket az adósnak tehát teljesítenie kell. (A Javaslat szerinti fizetési haladék a szó köznapi értelmében azt jelenti, hogy az adós „mentesül” a fizetési kötelezettség alól.)
+
+Az adós részéről a moratóriummal kapcsolatos esetleges visszaélésszerű joggyakorlást kizárja az, hogy a hitelezőnek módjában áll a moratórium megszüntetését kérni, tehát az adósi jogszabályi érdekvédelemnek van „ellensúlya” a Javaslatban.
+
+Egyes, a gazdasági életben előforduló finanszírozási ügyletekre vonatkozóan rögzítésre kerül, hogy azon összeg, amelyet az adós a moratórium hatálya alá eső hitelezőnek faktoringszerződés, vagy követelés adásvételi szerződés alapján fennálló kötelezettsége alapján teljesít, olyan keretösszegnek tekinthető a felek viszonylatában, amelyet az adós rulírozó módon igénybe vehet, a visszafizetett összeg tehát újra az adós rendelkezésére áll.
+
+A Javaslat szabályozza azt is, hogy az adós és a hitelező közötti jogviszonyban a hitelező mely jogosultságai kerülnek korlátozásra a moratórium időszakára. A moratórium hatálya alá eső hitelezőt arra a követelésre, amelyre fizetési haladék érvényesül a késedelem esetére kiköthető vagy a jogosultat a polgári jogi szabályok alapján megillető jogkövetkezmények: késedelmi kamat, késedelmi pótlék, behajtási költségátalány, késedelemre tekintettel fizetendő kötbér nem illeti meg, természetesen az ügyleti kamat a hitelezőt megilleti.
+
+Az Irányelv 31. cikke hivatkozik azon uniós jogi aktusokra, amelyek alkalmazását (Irányelv esetén a tagállami átültetést megvalósító jogszabályok) az Irányelvben foglalt rendelkezések nem érinthetik, ezen követelmény megjelenését a Javaslat elsősorban a 2. §-sal biztosítja.
+
+Az Irányelvben foglalt rendelkezés indoka, hogy a biztosítékként nyújtott pénzügyi eszközök értéke nagyon ingadozó lehet, döntő fontosságú, hogy gyorsan értékesíteni őket, mielőtt értékük csökkenne (ld. az Irányelv (94) preambulumbekezdésében).
+
+A szerkezetátalakítással kapcsolatban ennek kiemelt jelentősége a hitelezői igényérvényesítést kizáró moratórium szempontjából van, ezért a Javaslatban itt külön kimondásra kerül, hogy az óvadékra és a pozíciólezáró nettósításra a Cstv. rendelkezéseit kell alkalmazni; ezen rendelkezésekkel valósult meg ugyanis a pénzügyi biztosítékokról szóló megállapodásokról szóló 2002. június 6-i 2002/47 európai parlament és tanácsi irányelv felszámolási, átszervezési eljárással érintett előírásainak átültetése a magyar jogrendszerbe.
+
+A pénzügyi biztosítékok érvényesítésével összefüggésben külön rögzítésre kerül az uniós szabályozás primátusa a moratóriummal szemben.
+
+Az Irányelv a moratóriumra vonatkozó előírások között engedi meg a tagállami szabályozás számára, hogy a fenti érvényesítési „kedvezményt” azon pénzügyi, energia- és az árupiacokon kötött nettósítási megállapodásokra is biztosítsa, amelyek nem esnek az előbbiekben hivatkozott szabályozás hatálya alá, a Javaslat így tartalmazza ezen kiterjesztést a szabályozás versenyképessége érdekében.
+
+A 35. §-hoz
+
+Az Irányelv hangsúlyos célja, hogy az adós vállalkozásának sikeres megmentése érdekében, partnerei a szerkezetátalakítás elhatározása vagy moratórium elrendelése okán, amelyek az adós pénzügyi nehézségére utaló jelek, ne kezdeményezhessék az adóssal fennálló szerződések, és ezzel a részére nyújtott szolgáltatások megszüntetését.
+
+Az Irányelv az alapvető, még nem teljesített szerződések esetén mondja ki azon korlátozást a moratórium hatálya alá eső hitelezőkre nézve - akik attól függően, hogy az adós tárgyal-e követeléseikről, lehetnek érintett hitelezők és egyéb hitelezők - hogy azon szerződések szerinti teljesítést, amelyekből származó kötelezettségeit az adós a moratórium előtt nem egyenlítette ki, nem lehet visszatartani, és a szerződéseket nem lehet felmondani, az adós kárára módosítani.
+
+Az Irányelv megadja a lehetőséget, hogy fentieket a tagállami szabályozás valamennyi szerződésre kiterjessze, a Javaslat ezzel a lehetőséggel az adósi és hitelezői érdekvédelem egyensúlyának szem előtt tartása miatt nem él.
+
+Az Irányelv megadja az alapvető, még nem teljesített szerződésekre vonatkozó fogalmat: a vállalkozás napi üzletmenetének folytatásához szükséges szerződések, ideértve azokat is, amelyek felfüggesztése az adós tevékenységének leálláshoz vezetne.
+
+A normaszöveg az irányelvi meghatározás szó szerinti átvételét tartalmazza, és példálózó felsorolást sem ad ezen szerződéstípusokra, ugyanis a konkrét esetben, az adós gazdasági jellemzőire figyelemmel határozható meg kellő pontossággal az, hogy mely szerződések tartoznak egyértelműen ezen körbe, A fogalomban a szolgáltatási szerződés kifejezést a szó köznapi értelmében, tágan kell értelmezni, ez adott esetben az ügylet egyéb szempontból történő minősítését tekintve lehet olyan szerződés is, amely alapján az adósnak terméket értékesítenek vagy a beszállító „komplex szolgáltatást” (a termékértékesítés mellett ezzel összefüggő további szolgáltatást) nyújt az adós számára.
+
+Az Irányelv, így a Javaslat is csak egy körülményt: a moratórium előtt keletkezett követelés meg nem fizetése okán történő felmondást zárja ki, egyéb okra nézve így a tilalom nem áll fenn, a hitelező egyéb szerződésszegési okra hivatkozva kezdeményezheti annak megszüntetését.
+
+A gazdasági életben a szerződésekben alkalmazott „ipso facto” záradék alapján a szerződéses félnek jogában állhat a szerződések - így például a beszállítói szerződések - fizetésképtelenség ténye miatti felmondása, akkor is, ha az adós megfelelően teljesítette kötelezettségeit. Ezen záradék alkalmazható lehet szerkezetátalakítási intézkedés alkalmazása esetére is. Az Irányelv a záradék aktiválását kizárja a szerkezetátalakítási tárgyalások, a moratórium kérése esetére, mert a szerződés idő előtti felmondása kedvezőtlenül befolyásolhatja az adós vállalkozását és a vállalkozás sikeres megmentését [ld. Irányelv (40) preambulumbekezdésében].
+
+A Javaslat az Irányelv rendelkezésével összhangban előírja, hogy a hitelezők, erre vonatkozó szerződéses kikötés esetén sem mondhatják fel vagy módosíthatják az adós kárára a szerződést, ha az adós szerkezetátalakítását határozta el, ha szerkezetátalakítási eljárást kezdeményezett, ha moratórium elrendelését kérelmezte vagy a moratóriumot a bíróság elrendelte.
+
+Az Irányelv szövege itt a hitelezők vonatkozásában nem a „moratóriummal érintett hitelezők” szöveget használja, így az ipso facto záradék alkalmazására vonatkozó korlátozás az adós valamennyi hitelezőjére kiterjed.
+
+Az Irányelv garanciális szabályának átültetésével a Javaslat kimondja, hogy önmagában az a tény, hogy a szerkezetátalakítás eredménytelen, tehát nem kerül megszavazásra - és ha ez elő van írva bíróság által jóváhagyásra - a szerkezetátalakítási terv, ez nem járhat az adós számára olyan jogkövetkezménnyel, hogy erre hivatkozva a bíróság hivatalból megállapítsa fizetésképtelenségét. Ezen szabály elvi jelentőségű, e szabállyal kapcsolatosan a bíróságnak nincs eljárásjogi feladata, azt megállapítania nem kell.
+
+Másfelől azonban ilyen esetekben megszűnik az adóst védő moratórium, tehát ha volt a moratórium miatt szünetelő végrehajtás, azt folytatni lehet, továbbá, az adóssal szemben felszámolás is kezdeményezhető.
+
+A hitelezői érdeket védő tételes rendelkezés, hogy a moratórium hatálya alá nem eső tartozásait (a moratórium hatálya alá nem tartozó hitelezők követeléseit) az adósnak teljesítenie kell, illetve a moratórium előtt esedékessé vált és fizetési haladék hatálya alá eső követelések is az érintett felekre irányadó szerkezetátalakítási tervben foglalt eltérő megállapodás hiányában a moratórium lejártával esedékessé válnak.
+
+Garanciális szabály, hogy az adós a moratórium időtartama alatt új tartós jogviszonyon (új szerződésen) alapuló kötelezettséget átmeneti finanszírozásként vállalhat, tehát nem részesíthet előnyben egyes szállítói csoportokat a többi hitelező rovására, mert a Javaslat szerinti átmeneti finanszírozásra vonatkozó követelményeket (pl. szerkezetátalakítási szakértő ellenőrzési jogköre a gazdasági tevékenység felügyelete esetén) teljesíteni kell.
+
+A 36. §-hoz
+
+Az Irányelv alapján a moratórium lehet általános (minden hitelezőt érintő) vagy lehet csak egyes érintett hitelezőkre, vagy hitelezői csoportokra kiterjedő. A Javaslat szabályozza mind a két lehetőséget, bevezeti az általános és a korlátozott moratórium lehetőségét is, az Irányelv terminológiájára is figyelemmel, azzal, hogy korlátázott moratóriumot az adós csak olyan hitelezőkre kérhet, akiket a tervbe is bevon.
+
+Az általános moratóriumnál - mivel a törvényben foglalt kivétellel az minden hitelezőre kiterjed (tehát nemcsak a tervvel érintett hitelezőkre) - a nyilvános közzététel nem sérti a felek érdekeit, sőt inkább ez segítheti az adós védelmét. Az általános moratórium (már ideiglenes moratórium fázisában) - hasonlóan a Cstv. szerinti csődeljárásban alkalmazandó fizetési haladékhoz - a közzétételétől illeti meg az adóst.
+
+A korlátozott moratóriumnál azonban, mivel ennek igénybevétele olyankor fordulhat inkább elő, amikor az adós érdeke az, hogy a szerkezetátalakítás „szűkebb körben” (nem valamennyi kötelezettsége jogosultját vagy ezek nagyobb hányadát érintve) valósuljon meg, a nyilvános közzététel a jogintézmény célját rontaná le. A gazdasági élet szereplői részéről nagy igény mutatkozik arra, hogy abban az esetben is, ha a vállalkozás ugyan nem fizetésképtelen, de pénzügyi nehézséggel küzd, ne váljon nyilvánossá a szerkezetátalakításra vonatkozó adat, mert ez akadályát képezheti - a partnerek bizalmatlansága miatt - a további működésnek is. Az Irányelv szerint a korlátozott moratórium csak azon hitelezők tekintetében alkalmazandó, akiket tájékoztattak a szerkezetátalakítási tervre vonatkozó tárgyalásról vagy a moratóriumról. A hitelezőknek tehát a moratóriumról tájékoztatást kell kapniuk, amely a Javaslat alapján a bíróság által történik meg, mert a hitelezőket a moratórium elrendeléséről szóló végzés (ideiglenes elrendeléséről szóló végzés) megküldésével tájékoztatja.
+
+A korlátozott moratórium alkalmazásának kezdete a moratórium elrendeléséről szóló végzés, az ideiglenes elrendeléséről szóló végzés adós általi kézhezvételének időpontja, amely adat a bíróság rendelkezésére áll, így erről az időpontról értesíti a kérelemben megjelölt hitelezőket. Utalni lehet arra, hogy a kötelező jogi képviselet révén az adós a bírósággal elektronikusan tartja a kapcsolatot, így a bíróság azonnali elektronikus értesítést kap, ha az adós (jogi képviselője) átvette a végzést, tehát az átvétel időpontja gyorsan ismertté válik és közölhető a hitelezőkkel.
+
+Egyes vélekedések szerint az adós számára visszaélésre adhat lehetőséget az, hogy ő határozza meg mely hitelezők követeléseire kér moratóriumot, illetve kiket von be a szerkezetátalakításba. A Javaslat annak elkerülésére, hogy a szerkezetátalakítással az abba bevont hitelezők kijátszása legyen megvalósítható (pl. a moratórium kérésével az igényérvényesítéstől való elzárásuk), számos eszközt ad a hitelezők kezébe, mert amennyiben nem valósul meg a szükséges támogatásuk ez a szerkezetátalakítás meghiúsulásához vezethet 120 napon belül, illetve a moratórium meghosszabbítását sem tudja kérni az adós, valamint az elfogadott tervvel szemben is a nemmel szavazó hitelező elleniratot nyújthat be.
+
+A fentebb már hivatkozott, a gazdasági élet szereplőinek igénye alapján meg kell teremteni a lehetőségét egy bizalmi jellegű eljárás igénybevételének is, amelynek bevezetésére az Irányelv előírásai alapján lehetőség van.
+
+Az Irányelv tételesen meghatározza, hogy a moratórium időtartama legfeljebb négy hónap lehet, azzal, hogy kellően indokolt esetben lehetőség biztosítható a moratórium időtartamának meghosszabbítására vagy új moratórium elrendelésére.
+
+A Javaslat az irányelvi rendelkezések alapján előírja, hogy a moratórium teljes időtartama, a meghosszabbítása és esetleges új moratórium elrendelése időtartamával együtt sem haladhatja meg a 12 hónapot.
+
+A visszaélések elkerülése és a hitelezői érdekek védelme érdekében a Javaslatban fontos garanciális elemként rögzíteni azt, hogy ha a moratórium időtartama alatt a bíróság a szerkezetátalakítási tervet nem hagyja jóvá vagy a hitelezői osztályokon átívelő kényszeregyezségi hatállyal történő jóváhagyást megtagadja, az erről szóló jogerős döntéssel a még fennálló moratórium a törvény erejénél fogva szűnik meg, illetve akkor is, ha erre irányuló kérelmeket a bíróság visszautasítja.
+
+A szerkezetátalakítási terv bírósági jóváhagyásával a moratórium szintén megszűnik, mert a moratórium az Irányelv szerint a tárgyalások támogatására szolgáló jogintézmény, ekkor a jogerős jóváhagyás már védi is az adózói vagyont.
+
+A Javaslat meghatározza az ideiglenes moratórium megszűnésének az eseteit is.
+
+A 37. §-hoz
+
+Az Irányelv a moratóriummal kapcsolatos eljárási szabályokat nem ad meg, azt a tagállamok alakítják ki.
+
+A Javaslat szerint moratórium elrendelése iránti kérelmet csak az adós nyújthat be a bírósághoz, a szerkezetátalakítási szakértő nem. Az Irányelv szabályozása alapján, ha az adós általános moratóriumot kér, ez maga után vonja azt, hogy szerkezetátalakítási szakértő is kijelölésre kerüljön (ha korábban ez még nem történt meg).
+
+A Javaslat szerinti szerkezetátalakítási eljárással adott „többlet” a Javaslat hatálya alá nem tartozó „szerződésen alapuló szerkezetátalakítással” szemben éppen a moratórium igénybevételének lehetősége lehet, így nem is indokolt a moratórium iránti kezdeményezési jogot a többi érintettre kiterjeszteni, figyelemmel arra is, hogy a kialakult pénzügyi nehézségről legátfogóbb képpel maga az adós rendelkezik.
+
+Itt is fontos felhívni a figyelmet arra, hogy az Irányelv nem korlátozza az adós lehetőségeit abban, hogy a moratórium keretét meghatározza. Lehetséges, hogy az érintett hitelezők és a moratórium hatálya alá eső hitelezők köre ne ugyanazt a személyi kört fedje le, vagy hogy az érintett hitelezői követelések közül csak egyesek kerüljenek a moratórium hatálya alá eső követelések közé.
+
+A hitelezői érdek védelmében indokolt korlátozni az adós moratórium elrendelése iránti kérelem benyújtására vonatkozó jogát. Így a Javaslat kimondja, hogy ha az adós a szerkezetátalakítási tervet már két alkalommal szavazásra bocsátotta, de azt az elfogadáshoz vagy hitelezői osztályokon átívelő kényszeregyezségi hatállyal történő jóváhagyáshoz szükséges hitelezői arány nem támogatja, az adós nem kérhet moratóriumot. Az előírás azt a célt is szolgálja, hogy az adós olyan tervet bocsásson szavazásra, amely kellően átgondolt és megfelelően veszi figyelembe a hitelezői érdekeket, a részére biztosított szerkezetátalakítási kereteket ne használja ki úgy, hogy a szerkezetátalakítás során formális, a végrehajtásra nem alkalmas szerkezetátalakítási tervet bocsát akár több alkalommal is a hitelezők rendelkezésére.
+
+A Javaslat meghatározza az eljárás megindítására szolgáló kérelem szükséges tartalmi elemeit és mellékleteit.
+
+Ha a kérelem nyilvánvaló formai hibában nem szenved, vagyis a kérelmet a bíróságnak nem kell visszautasítani, végzéssel ideiglenesen elrendeli a moratóriumot. Általános moratórium esetén ezt a Cégközlönyben közzéteszi, korlátozott moratórium esetén a végzést a moratórium hatálya alá eső hitelezőknek megküldi. Az ideiglenes moratórium időtartama alatt ugyanazok a szabályok érvényesülnek, amelyeket a Javaslat a moratóriumra előír.
+
+A moratórium hatálya alá eső hitelezők a Javaslatban meghatározott határidőn belül vitathatják, hogy az adós képes lesz-e fizetni a moratórium alatt esedékessé váló kötelezettségeit, amelyre a fizetési haladék nem terjed ki.
+
+A bíróság 15 munkanapon belül dönt a kérelemről. Ha a szükséges feltételek fennállnak, a kérelem megfelelő, a bíróság a moratóriumot elrendeli.
+
+Az Irányelv a tagállamnak lehetőséget ad arra, hogy olyan szabályozást vezessen be, ahol a bíróság hivatalból, érdemben vizsgálja a moratórium szükségességének indokát, adott esetben megtagadhatja az elrendelést. A Javaslat ezen lehetőséggel nem él, ezzel ugyanis szükségtelenül húzódna el az eljárás, mert annak vizsgálata, hogy a moratórium szükséges-e vagy mennyiben segíti elő a tervre vonatkozó tárgyalásokat az adós vagyoni viszonyai, teljesítőképessége, a szerkezetátalakításba bevont hitelezői követelésállománya részletes gazdasági szempontú vizsgálata lenne szükséges, amely indokolatlanul elhúzná az eljárást. Az Irányelv azon követelményének pedig, hogy a bíróság szerkezetátalakításba való bevonása a szükséges és arányos mértékben valósuljon meg, a Javaslat ezen szabályozása megfelel.
+
+A 38. §-hoz
+
+A Javaslat - élve az Irányelv biztosította lehetősséggel - rendezi a moratórium meghosszabbítása és új moratórium elrendelésére vonatkozó szabályokat. Az eljárási szabályok, a kérelem alapján történő bírósági döntés dinamikája alapvetően azonos a moratórium elrendelése iránti kérelem esetén követendő szabályokkal.
+
+A két lehetőség az adós érdekeit szolgálja elsősorban, ezért a szabályozáson keresztül a hitelezői érdekek védelmének biztosítása is meg kell, hogy valósuljon.
+
+Ennek érdekében - az Irányelvvel összhangban - a Javaslatban garanciaként kimondásra kerül, hogy a kérelmezőnek nyilatkoznia kell és alá kell támasztania, hogy a tervről folytatott tárgyalások során számottevő előrelépés történt, és be kell mutatnia azt, hogy a meghosszabbítás vagy új elrendelés nem sérti méltánytalanul egyik fél jogait sem.
+
+Ezen célt szolgálja az is, hogy az adós nem élhet a hosszabbítás vagy az új elrendelés lehetőségével, ha tárgyalást még nem tartott a szerkezetátalakítási tervről vagy olyan terveket dolgozott ki, hogy azokat a hitelezők a végrehajthatósághoz szükséges arányban nem támogatták. Itt már feltételezhető, hogy a szerkezetátalakítás nem lesz sikeres, mert nem látható esély arra, hogy ha az eredeti moratórium - négy hónap - alatt komolynak tekinthető előrelépés nem történt a terv vonatkozásában, akkor ez a moratórium meghosszabbítása vagy új moratórium elrendelése alatt megtörténne.
+
+A meghosszabbítás és új moratórium elrendelése iránti kérelem benyújtásával nemcsak az adós, hanem a szerkezetátalakítási szakértő és a hitelező is élhet.
+
+A kérelemhez szükséges csatolni a megalapozottságot alátámasztó okokat igazoló dokumentumokat. A moratórium meghosszabbítása és új moratórium elrendelése miatti érdeksérelem elsősorban hitelezői oldalon merül fel, ezért annak igazolására, hogy ezen érdek nem sérül méltánytalanul, kötelező csatolni nem a terv elfogadásához szükséges arányban, de ennek 75%-át kitevő hitelezői támogató nyilatkozatot. Ez a nyilatkozat annak igazolására is szolgálhat, hogy az adós és a hitelezők között a tárgyalások eredményesen haladnak.
+
+Az Irányelv kimondja, hogy „ha egy tagállam úgy határoz, hogy egy vagy több olyan eljárás vagy intézkedés révén hajtja végre az et, amelyek nem felelnek meg az (EU) 2015/848 rendelet A. melléklete szerinti bejelentés feltételeinek, akkor az említett eljárásokat felfüggesztő moratórium teljes időtartama legfeljebb négy hónap lehet, amennyiben az adós a megelőző szerkezetátalakítási eljárás megindítására vonatkozó kérelem benyújtásától számított három hónapos időszakon belül egy másik tagállamból helyezte át a fő érdekeltségi központját.” Ennek érdekében a Javaslat rögzíti, hogy korlátozott moratórium esetén, ha az adós fő érdekeltségi központját az eljárást kezdeményező 3 hónapon belül másik tagállamból helyezte át, az őt megillető moratórium a meghosszabbítással és új moratórium elrendelésével sem haladhatja meg a 4 hónapot.
+
+Irányelvi előírás [6. cikk (7) bekezdés c) pont], hogy fizetésképtelenségi eljárás megindítása esetén nincs helye a moratórium meghosszabbításának és új moratórium elrendelésének. Ezen rendelkezés implementálására a Javaslat ezen részében azért nem kerül sor, mert ha ezen ok - mint a szerkezetátalakítás elhatározását kizáró ok - már a szerkezetátalakítási eljárás jogerős megindítása utána következik be az a szerkezetátalakítás meghiúsulását eredményezi.
+
+Az Irányelv (65) preambulumbekezdése írja elő, hogy „A nemzeti jogban kell rendelkezni arról, hogy hogyan kezelendő egy esetleges új moratórium vagy a moratórium meghosszabbítása abban az esetben, ha az igazságügyi hatóság úgy határozott, hogy a fellebbezés felfüggesztő hatályú.” Figyelemmel arra, hogy a Javaslat szabálya szerint a jóváhagyás és hitelezői osztályokon átívelő kényszeregyezségi jóváhagyás ellen benyújtott fellebbezés nem érinti a terv végrehajtását, és a fellebbezésben biztosíték adása és nem felfüggesztés kérhető, erre vonatkozó szabály bevezetése a Javaslatba nem szükséges.
+
+A 39. §-hoz
+
+Az Irányelv alapján a tagállami szabályozásnak biztosítania kell, hogy a bíróság megszüntethesse a moratóriumot, ennek keretében előírható az a minimális időtartam, amely alatt ezt nem lehet megtenni. A Javaslat 90 napban (3 hónapban) határozza meg azt az időtartamot, amely alatt a moratórium megszüntetésére - a törvényben szabályozott kivételtől eltekintve - nem kerülhet sor.
+
+Fontos hangsúlyozni, hogy a bíróság a moratórium megszüntetéséről is csak kérelemre határozhat. A kérelem benyújtására jogosult az adós, a hitelező és a szerkezetátalakítási szakértő is. A Javaslat - az Irányelvvel összhangban - rögzíti azt, hogy a hitelező által benyújtott kérelemben a kérelmezőnek elő kell adnia azt, hogy mely körülmények alapján látja úgy, hogy a moratórium már nem alkalmas a tervről folytatott tárgyalások támogatására. Az Irányelv alapján a Javaslat is egy körülményt, a hitelezői támogatásmegvonást emeli ki, amelyre többek között hivatkozni lehet. Ennek olyan mértékűnek kell lennie, hogy a terv elfogadásához szükséges többség se legyen meg.
+
+Az irányelvi rendelkezések alapján a tagállamnak lehetősége van arra, hogy olyan előírást vezessen be, hogy megszüntethető a moratórium, ha az méltánytalanul sérti vagy sértené egy vagy több hitelező, hitelezői osztály érdekeit. Az Irányelvben nevesített másik ok, amikor a hitelező a moratórium megszüntetését kérheti az, ha a moratórium az ő fizetésképtelenségét okozza.
+
+A Javaslat fenti keretek között lehetővé teszi, hogy a hitelezők érdeksérelmükre hivatkozva kérhessék a moratórium megszüntetését, ha okiratokkal tudják valószínűsíteni azt, hogy az adós fedezetelvonó tevékenységet végez (pl. erre alkalmas ügyletek megkötésével). Az adósi fedezetelvonó tevékenység esetén az érdeksérelem ugyanis nyilvánvalóan fennáll, mert a hitelező igényérvényesítését a moratórium akadályozza, miközben kielégítési alapja csökkenését eredményezi az adós tevékenysége.
+
+A lánctartozások kialakulásának megelőzése és a hitelezői érdekek védelemében lehetőség van arra is, hogy ha az adóst védő moratórium a hitelező fizetésképtelenségét okozza, a hitelező a maga vonatkozásában kérje a moratórium megszüntetését. A fizetésképtelenség alátámasztására a hitelezőnek igazolnia szükséges azt, hogy a társasági jogban a fizetésképtelenség kezelésére előírt intézkedéseket megtette.
+
+A 40. §-hoz
+
+A szerkezetátalakítási terv érdekében az adósnak - szükség szerint a szerkezetátalakítási szakértő szakmai segítségével - a saját nyilvántartásai alapján - már a szerkezetátalakításról szóló döntés meghozatalához - össze kell állítania azon hitelezők listáját, akiknek a követelése a szerkezetátalakítás keretein belül egyeztetést igényel (a szerkezetátalakítási tervbe történő bevonás érdekében). Ezeket nevezzük érintett hitelezői követeléseknek. Az esetleges visszaélések megelőzése érdekében, a beszámítási jog és az engedményezés figyelembevétele csak korlátozásokkal lehetséges. A beszámítás és az engedményezés alatt a Ptk. szabályai szerinti jogügyleteket kell érteni. A rendelkezés hasonló szabályozási célt fogalmaz meg, mint a Cstv. 36. §-a szerinti előírás, tehát azt, hogy az adós és a hitelező egymás közötti követelései (amikor a hitelezőnek is van kötelezettsége az adóssal szemben) összevezetésekor - a többi hitelező érdekei védelmében - korlátot állítson fel. Ha ugyanis az egymás közötti követelések esetlegesen nem valósak, akkor e szabály nélkül a hitelező a beszámítás révén a teljes követeléséhez hozzájut, ellentétben a többi hitelezővel, aki a teljes követelését az eljárásban lehet, hogy nem kapja meg, mert pl. a terv az adósi kötelezettség elengedésre tesz javaslatot.
+
+A 41. §-hoz
+
+Az adós hitelezői nyilvántartását az érintett hitelezőkkel egyezteti, majd az adatokat az esetleges észrevételek alapján javítja, módosítja.
+
+Az érintett hitelezőkkel való egyeztetés után az adósnak meg kell állapítani a végleges hitelezői osztályba sorolást. A hitelezői osztályokat, és azt, hogy azt egyes hitelezői osztályba milyen követelések tartozhatnak, a Javaslat tételesen meghatározza. A Javaslat meghatározza, hogy az egyes hitelezői osztályon belül, milyen adatokkal kell osztályba sorolni az érintett hitelezőket.
+
+Annak érdekében, hogy a szerkezetátalakítás során ne változzon, ne mozogjon az érintett hitelezők száma, az érintett hitelezői követelések összege, és ezzel a szavazatszám, a hitelezői osztályba sorolással lezárul az érintett hitelezők meghatározásának köre. Új érintett hitelező - az átmeneti és új finanszírozást nyújtó hitelező és az általános moratórium közzétételét követően bejelentkezett hitelező kivételével - a szerkezetátalakításba nem kapcsolódhat be, és az érintett hitelezők sem jelenthetnek be új követelést. E rendelkezés hiányában a hitelezői osztályba sorolással kapcsolatos kérelem nem tudná betölteni célját.
+
+A 42-43. §-hoz
+
+A szerkezetátalakítási terv érintett hitelezőkkel történő megszavaztatásához az adós az érintett hitelezői követeléseket a törvény által megszabott szempontok szerint csoportosítja, azaz hitelezői osztályba sorolja.
+
+A Javaslat kimondja, hogy hitelezői osztályok törvényben felsorolt sorrendje nem jelent kielégítési sorrendet. A hitelezői osztályok törvényben való meghatározásának célja az, hogy a törvény maga biztosítsa, hogy a szerkezetátalakítási terv elfogadásakor, a hitelezői osztályokra vonatkozó szerkezetátalakítási intézkedések meghatározása során kiegyensúlyozott módon jelennek meg a különböző hitelezői csoportok érdekei. A hitelezői osztályok meghatározásának másik gyakorlati célja, hogy világosan meg lehessen határozni az egyes hitelezői osztályokban a szavazatszámot. A hitelezői osztályok felsorolása azonban normatív tartalommal olyan értelemben nem bír, mint a Cstv. szerinti kielégítési sorrend. Azt, hogy az egyes hitelezői osztályba tartozó követelések tekintetében a szerkezetátalakítási tervnek milyen alapelvi kritériumoknak kell megfelelnie, a szerkezetátalakítási terv szabályai rögzítik.
+
+A hitelezői követeléseket az alábbi osztályokba kell sorolni:
+
+- biztosított hitelezői követelések (pl. zálogjoggal, óvadékkal, biztosítéki célú vételi joggal, végrehajtási joggal biztosított követelések)
+
+- gazdasági tevékenységhez kapcsolódó hitelezői követelések (az adós működéséhez szükséges beszállítók, az adós működésének fenntartásához alapvetően szükséges feltételeket biztosító hitelezők részére járó ellenszolgáltatások)
+
+- egyéb (tehát máshová nem sorolt) hitelezői követelések
+
+- az adós érdekkörében álló ügyletből származó hitelezői követelések (pl. adós tulajdonosának, kapcsolt vállalkozásának kölcsönkövetelése).
+
+A Javaslat nem él az Irányelv által nyújtott azon lehetőséggel, hogy a kkv. adósoknak a hitelezőket nem kell külön osztályokba sorolnia.
+
+A besoroláskor minden egyes követeléshez szavazatszámot is kell kapcsolni, a követelés összege alapján.
+
+Az esetleges visszaélések elkerülése érdekében a Javaslat kimondja, hogy ha a hitelezők egymásra engedményezik az eljárás során a követelésüket, az nem befolyásolja a követelés besorolását (pl. az adós érdekkörében álló ügyletből származó követelés jogosultja engedményezi egy másik személyre követelését).
+
+A 44. §-hoz
+
+A Javaslat az Irányelv (46) preambulumbekezdésében foglaltakra tekintettel biztosítja, hogy az osztályba sorolást az érintett hitelezők meghatározott határidőn belül vitathassák. Az érintett hitelező vitathatja magát az osztályba sorolását - akár a maga, akár más hitelező tekintetében -, vitathatja az adós által figyelembe vett követelése összegét is. Ha az adós vitatott hitelezői követeléssel rendelkező hitelezőként sorolta osztályba az érintett hitelezőt, a hitelező ezzel szemben az osztályba sorolás felülvizsgálatát kezdeményezheti.
+
+A Javaslat biztosítja azt is, hogy az adós kérje, hogy az osztályba sorolást a bíróság előzetesen hagyja jóvá.
+
+Előfordulhat, hogy több kérelem is benyújtásra kerül, így a Javaslat lehetővé teszi, hogy a bíróság egy döntés keretében határozzon azokról.
+
+A 45. §-hoz
+
+A Javaslat részletesen szabályozza a szerkezetátalakítási tervvel kapcsolatos követelményeket, és annak minimális kötelező tartalmát, az Irányelv alapján kötelezően átültetendő előírásokkal összhangban. A szerkezetátalakítási terv a szerkezetátalakítás központi eleme, hiszen ennek hitelezők általi megszavazása szükséges a szerkezetátalakítás sikeréhez.
+
+Az Irányelv a szerkezetátalakítási tervvel kapcsolatosan alapelveket nem rögzít, azonban az irányelvi rendelkezésekből, különösen a hitelezői osztályon átívelő kényszeregyezség szabályaiból mégis körvonalazható néhány alapvető szabály.
+
+A Javaslat szinte evidenciaként, normatív módon rögzíti a szerkezetátalakítási terv alakisági követelményét, vagyis, hogy a szerkezetátalakítási tervet írásba kell foglalni. Kimondja továbbá, hogy a törvény által előírt minden tartalmi elemnek szerepelnie kell a szerkezetátalakítási tervben.
+
+A Javaslat alapelvi igénnyel kimondja az azonos hitelezői osztályba tartozó érintett hitelezők tekintetében az egyenlő elbánás elvét. A Javaslat a hitelezői osztályok törvényi meghatározásával előmozdítja azt, hogy a szerkezetátalakítási terv elfogadáskor minden érintett hitelezői érdekkör egyenlő súllyal jelenhessen meg, ugyanakkor az egyes hitelezői osztályon belül is többféle hitelezői kör lehet jelen. Utalni lehet arra, hogy az adós tagja is lehet hitelező, és ha követelése biztosított hitelezői követelésnek minősül, egy osztályban szavaz más biztosított hitelezővel, például pénzintézettel. A példaként említett mindkét fél számára fontos lehet, hogy követelésük szerkezetátalakítási tervben való rendezése, kezelése azonos elvek szerint történjen.
+
+Figyelemmel arra, hogy a szerkezetátalakítás fogalmából is következően az adósnak a működését érintő, a pénzügyi egyensúlyának tartós helyreállatását célzó intézkedéseket kell megvalósítania, a Javaslat kimondja, hogy a szerkezetátalakítási terv nem irányulhat kizárólag arra, hogy az adós a vele szemben fennálló követelések elengedésére bírja rá az érintett hitelezőket.
+
+A Javaslat megelőzve azt, hogy a hitelezői osztályok besorolását kielégítési sorrendnek lehessen értelmezni, kimondja, hogy a szerkezetátalakításban a hitelezői osztályok kialakítása a szerkezetátalakítási terv elfogadásához szükséges érintett hitelezői csoportok és szavazati osztályok meghatározását szolgálja, azonban az Irányelv kényszeregyezségi szabályából mégis levezethető az az elv, hogy a szerkezetátalakítás során a hitelezői osztályok közül az ún. hátrasorolt osztály, osztályok tekintetében érvényesülnie kell valamilyen „hátrasorolt” elbánásnak is (rangsor elvének részleges érvényesülése). Erre tekintettel a Javaslat kimondja, hogy a Javaslat szóhasználatában az adós érdekkörében álló ügyletből származó hitelezői követelések hitelezői osztálynál a többi hitelezői osztálynak kedvezőbb elbírálásban kell részesülnie.
+
+A 46. §-hoz
+
+A szerkezetátalakítási tervnek megfelelő áttekintést kell adnia az adós vagyonáról, kötelezettségállományának összetételéről. Minden érintett hitelezői követelést be kell sorolni a 42. § szerinti hitelező osztályba, a 43. § szerinti kritériumok szerint. A szerkezetátalakítási terv nemcsak a hitelezőktől várt fizetési kedvezményekre fókuszál, hanem ennek fejében az adós által vállalt intézkedéseket is tartalmazza. Az adósnak továbbá alá kell támasztania, hogy ezzel a szerkezetátalakítási tervvel reálisan megelőzhető a fizetésképtelenségének bekövetkezte és biztosítható a gazdasági tevékenységének fenntartása.
+
+Ha szerkezetátalakítási szakértő is részt vesz az eljárásban a szerkezetátalakítási tervet meg kell vizsgálnia, többek között abból a szempontból, hogy az közgazdaságilag és jogilag alkalmas nemcsak az adós fizetésképtelenségének elhárítására, hanem az adós vállalkozás működőképessége ezzel a szerkezetátalakítási tervvel fenntartható-e. A szerkezetátalakítási szakértő továbbá azt is megvizsgálja, hogy a terv nem ellentétes-e a jóhiszemű joggyakorlás követelményeivel, nem sérti-e nyilvánvalóan és kirívóan valamely hitelezői osztály méltánylandó érdekeit.
+
+A szerkezetátalakítási terv mellékletét képezi az adós kimutatása arról, hogy a tervvel nem érintett hitelezők követeléseire is biztosítva van a szükséges fedezet, ezzel összefüggésben nyilatkoznia kell arról, hogy a tervben foglaltak teljesítése a nem érintett hitelezők kielégítési alapját nem vonja el.
+
+Az Irányelv (46) preambulumbekezdése tartalmazza, hogy „A tagállamok számára lehetővé kell tenni annak szabályozását, hogy a vitatott követelések miként kezelendők a szavazati jogok kiosztása szempontjából.” Garanciális rendelkezésként a Javaslat előírja, hogy a szerkezetátalakítási tervben tartalékot kell elkülöníteni a vitatott hitelezői igényekre. Tehát a vitatott követeléssel rendelkező hitelezők a szerkezetátalakítási terv megszavazásában nem vehetnek részt, azonban ha a vitatott hitelezői igényről a külön eljárásban kiderül, hogy az megalapozott, az adós a szerkezetátalakítási tervben az erre elkülönített összeget ennek a hitelezőnek ki tudja fizetni. A tartalékképzés a számviteli előírások szerint is kötelező a függő kötelezettségre is akkor, ha a vállalkozó a szükséges fedezetet nem biztosította más módon. Itt a tartalékképzés lényege, hogy az adós a hitelezői követelés megalapozottsága esetén a neki járó összeget tudja teljesíteni.
+
+Az Irányelv szintén kkv-k érdekeit szolgáló előírása, hogy a tagállamoknak online átfogó ellenőrzőlistát kell közzé tenniük, ebben gyakorlati iránymutatást adva ahhoz, hogy miként kell kidolgozni a szerkezetátalakítási tervet. A Javaslat ennek jogszabályi alapját teremti meg azzal, hogy rögzíti, hogy a kkv ezen ellenőrzőlista alapján is összeállíthatja szerkezetátalakítási tervét.
+
+A 47. §-hoz
+
+Az esetek jó részében az adós önmagában a saját forrásaiból, önerejéből nem tudja a hitelezők által elvárt intézkedéseket megvalósítani. Ezért a Javaslat lehetővé teszi, hogy a szerkezetátalakítási tervhez az adós támogatása érdekében a tőketulajdonosok vagy akár a vállalatcsoport kapcsolt vállalkozásai is csatlakozhassanak. Például jognyilatkozatot tesznek az adós egyes kötelezettségeinek átvállalására, elvállalására, járulékos kötelezettséget vállalnak az adós szerkezetátalakítási tervben foglalt kötelezettségei teljesítéséért. Ezen túlmenően a szerkezetátalakítási tervhez csatlakozhatnak olyan harmadik személyek is, akik bizonyos feltételek mellett az adós számára átmeneti vagy új finanszírozást ígérnek, erre vonatkozóan tesznek jognyilatkozatot.
+
+A Javaslat kimondja, hogy a szerkezetátalakítási tervhez az állam, önkormányzat, más államháztartási szervezet, az adó- és más köztartozás behajtására jogosult szervezetek (azaz a közszféra hitelezői) az adós számára fizetési könnyítéseket (fizetési halasztás, részletfizetési kedvezmény) engedélyezhetnek, továbbá az adóssal szemben fennálló követelésüket engedményezhetik, azokról részben vagy egészben le is mondhatnak.
+
+A 48-50. §-hoz
+
+Célszerű, hogy az adós a szerkezetátalakítási tervet az érintett hitelezőkkel többször is egyeztesse, és a javaslataiknak megfelelően - a szerkezetátalakítási szakértő segítségét igénybe véve - átdolgozza, annak érdekében, hogy a szükséges többség megszavazza azt.
+
+A szerkezetátalakítás eredményességét előmozdító rendelkezés, hogy az adós döntéshozó szervének vagy a létesítő okiratban ezen döntés meghozatalára kijelölt szervének előzetesen el kell fogadnia a szavazásra bocsátandó tervet.
+
+A tőketulajdonos ellenirat benyújtási jogával kapcsolatban van jelentősége annak, hogy mely szerv dönt az előzetes elfogadáskor, ha nem a döntéshozó szerv, a tőketulajdonos a hitelezők legjobb érdekei módszertani tesztnek való megfelelés sérelmére hivatkozással nyújthat be elleniratot (a másik elleniratbenyújtási ok, mely szerint a terv nem biztosítja az életképességet, a tőketulajdonos viszonylatában nem értelmezhető annyiban, hogy ezen szempont szerint az adós és a tőketulajdonos egy érdeket képvisel, így itt a tőketulajdonosnak nincs ellenirat benyújtási joga).
+
+A szerkezetátalakítási tervre vonatkozó tárgyalások és a szerkezetátalakítási tervre vonatkozó határozathozatal (döntés) történhet személyes megjelenést igénylő szerkezetátalakítási hitelezői gyűlésen vagy hitelezői gyűlés ülés tartása nélküli írásos döntéshozatallal. A szerkezetátalakítási tervre vonatkozó egyeztetés lehetőségét minden hitelező számára biztosítani kell.
+
+A gyakorlati tapasztalatok alapján - ahol a felek egymás közötti viszonyaiban egyre inkább teret hódított az elektronikus úton való kapcsolattartás - valamint az eljárás gyorsítása, egyszerűbbé tétele érdekében a Javaslat a tárgyalás és a terv elfogadása körében is megteremti a lehetőségét annak, hogy az adós, az érintett hitelezők és ha az eljárásban közreműködik szerkezetátalakítási szakértő, akkor az ő viszonylatában is a felek elektronikus levél útján közöljék egymással nyilatkozataikat.
+
+A hitelezői ülést az adós vezetője meghívó küldésével hívja össze, amiből ki kell derülnie, hogy a gyűlés célja a szerkezetátalakítási terv részletes tartalmának megbeszélése, vagy pedig arról szavazás (is) történik. A hitelezői gyűlésre felkészülési időt biztosítani kell, és minden megtárgyalásra kerülő, vagy ahhoz kapcsolódó dokumentumot csatolni kell a meghívóhoz.
+
+A Javaslat értelmében az adós lehetővé teheti, hogy a hitelezők személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével vegyenek részt a hitelezői gyűlésen. Ebben az esetben a meghívóban kell meghatározni az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját, úgy, hogy a hitelező (egyéb résztvevő) azonosítása, és az ülésen részt vevők közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.
+
+A hitelezői ülés megtartásához nincs megszabva a résztvevők minimális létszáma. Mód van arra is, hogy a részvételben akadályozott hitelező előre írásban megküldje a szavazatát az adósnak.
+
+A hitelezői ülésen történteket megfelelően dokumentálni kell, ezért az ülésről jegyzőkönyvet kell készíteni, ennek minimálisan kötelező tartalmát is meghatározza a Javaslat. Ha a szerkezetátalakítási tervről döntést hoznak a hitelezők, akkor hitelezői követelésenként rögzíteni kell a leadott szavazatok és ellenszavazat számát, valamint azt is, ha valamely hitelező a szavazástól tartózkodott vagy abban nem vett részt. A jegyzőkönyvet az adós vezető tisztségviselője, az ülésen erre megválasztott hitelező (képviselője) és - ha kijelölésre került - a szerkezetátalakítási szakértő írja alá. Az aláírt jegyzőkönyvből minden meghívottnak küldeni kell egy másolatot.
+
+A Javaslat tartalmazza a hitelezői ülés megtartása nélküli, írásos szavazás eljárásrendjét. Erre akkor kerülhet sor, ha ezt egyik hitelező sem ellenzi, vagyis a hitelezői ülés összehívását nem kéri.
+
+Az 51-52. §-hoz
+
+Az Irányelv a szavazati jog vonatkozásában azt írja elő, hogy az érintett feleknek szavazati joggal kell rendelkezniük, azzal, hogy a tőketulajdonosok, valamint azon hitelezők, akiknek követelései a szokásos kielégítési sorrendben a nem biztosított hitelezők követelései mögé soroltak, vagy az adóssal vagy az adós vállalkozásával kapcsolatban álló bármely olyan fél, akinek az esetében összeférhetetlenség áll fenn, szavazati joga kizárható.
+
+A Javaslat valamennyi hitelezői osztályra egységesen a követelés összegéhez igazodóan rendeli megállapítani a szavazati jogot, az adós „érdekkörébe tartozó személyek” (például a kapcsolt felek) tehát nem kerülnek kizárására a szavazásból, azzal, hogy követeléseik egyébként az adós érdekkörében álló ügyletből származó követelések hitelezői osztályba tartoznak. A Javaslat azonban a tőketulajdonosokat nem vonja az érintett hitelezői körbe, vagyis a magyar jog él azzal az irányelvi lehetőséggel, hogy a tőketulajdonosokat (az adós tagjait) nem tekinti „kvázi vagy közvetett” hitelezőnek. A tőketulajdonosok tehát a szerkezetátalakítási terv elfogadásánál az adósi oldalon játszanak szerepet, ugyanis a 48. § előírása alapján olyan terv bocsátható csak szavazásra, amelyet az adós jóváhagyott. Ez az adósi jóváhagyás elsődlegesen az adós döntéshozó szervének, vagyis a tagok (tőketulajdonosok) határozatát jelenti.
+
+A Javaslat alapján, ha vannak vitatott hitelezői követelések, ezekhez nem kell szavazatszámot hozzárendelni és ezt a hitelezőt a határozathozatalnál nem kell figyelembe venni. Ezen hitelezők tehát nem szavazhatnak, követelésük fennállása ugyanis bizonytalan annyiban, hogy igényük érvényesítésével kapcsolatban még hatósági vagy bírósági eljárás van folyamatban.
+
+A szerkezetátalakítási terv akkor minősül megszavazottnak (elfogadottnak), ha az minden hitelezői osztályban megkapta a hitelezők számszerű többségének szavazatát és a követelések összegéhez igazodó szavazatszámok többségét is. Ha az adós kkv., az érdekkörében álló ügyletek hitelezői egyharmadának támogatása is elegendő. A rendelkezés világosan rögzíti, hogy a többségi szavazatokat és többségi hitelezők számát nem ahhoz képeset kell meghatározni, hogy kik vesznek részt aktívan, ténylegesen a szavazásban, hanem ahhoz a teljes szavazatszámhoz és létszámhoz kell viszonyítani, akik a törvény rendelkezése alapján részt vehetnek - a hitelezői osztályban - a szavazásban.
+
+Az esetleges hitelezői „visszaélést” akadályozó garanciális előírás, hogy nem lehet nemmel szavazónak tekinteni az ellenirat benyújtási jog szempontjából azt a hitelezőt, aki nem tesz egyértelmű nyilatkozatot a szavazás során vagy távol marad a szavazástól (ülésen nem jelenik meg, írásbeli döntéshozatalnál az átvett küldeményre nem reagál). Ezen előírás alapján a távolmaradó hitelező nem hátráltathatja a szerkezetátalakítást oly módon, hogy a szavazástól távol marad, majd utóbb mégis elleniratot terjeszt elő.
+
+A fenti szabályok azt célozzák, hogy minden hitelező érdekelt legyen a szavazásban való részvételben. A Javaslatban nincs tételes szabály arra, hogy ezen rendelkezésben nevesített hitelezői kör szavazatát a nemmel szavazók körében kellene figyelembe venni, ahogy ez a hatályos csődeljárásban kifejezetten rögzítésre kerül. A távolmaradásnak, tartózkodásnak a terv elfogadása szempontjából így az érvényességnél lesz jelentősége, ahol a leadható szavazatok többségének meg kell lennie az elfogadáshoz.
+
+A vitatott hitelezői igényekre az elfogadásra bocsátott tervben azt kell biztosítani, hogy ezen jogosultak hasonló elvek szerint kapjanak majd kifizetést az adóstól, mint a velük azonos hitelezői osztályba sorolt többi hitelező, amennyiben jogi úton sikerül bizonyítaniuk követelésük megalapozottságát.
+
+Az 53. §-hoz
+
+Ha szerkezetátalakítási szakértő került a bíróság által kijelölésre, az elfogadott szerkezetátalakítási tervet és annak mellékleteit a szerkezetátalakítási szakértő is aláírja.
+
+Az 54-55. §-hoz
+
+Az adós által eredményesen megszavaztatott szerkezetátalakítási tervhez minden esetben bírósági jóváhagyásra is szükség van. Ennek indoka, hogy nem minden esetben vesz részt szakértő az eljárásban, illetve ha igen, lehetséges, hogy nem adta hozzájárulását az elfogadott szerkezetátalakítási tervhez (jegyzőkönyvhöz) és fontos érvényt szerezni többek között a 45. §-ban nevesített, szerkezetátalakítási tervvel szembeni alapkövetelményeknek is, pl. annak, hogy az adós érdekkörében felmerülő ügyletek hitelezői ne jussanak előnyhöz úgy, hogy a többi „előbbre sorolt” osztály számára valós kedvezőbb elbánás nem biztosított.
+
+A kérelemhez az adós csatolhatja azokat a közgazdasági és jogi elemzéseket, kimutatásokat is, amelyeket a bíróságnak a szerkezetátalakítási terv jóváhagyásakor javasol figyelembe venni.
+
+Az 56. §-hoz
+
+A bíróság a benyújtott dokumentumokat megvizsgálja abból a szempontból, hogy a szerkezetátalakítási terv hitelezőkkel történő egyeztetése és megszavaztatása megfelelt-e a törvényi követelményeknek. A vizsgálati szempontokat a (2) bekezdés tartalmazza. Fontos rámutatni arra, hogy a szerkezetátalakításban a szerkezetátalakítási terv gyakorlati értelemben vett elfogadása az adós és az érintett hitelezők kezében van. A szerkezetátalakítási terv jóváhagyásának nem feltétele, hogy az abban foglalt intézkedések gazdasági tartalmát és célszerűségét, részletes jogi tartalmát a bíróság vizsgálja, vagy felülvizsgálja (a Javaslat ebben a körben az Irányelv alapján rendelkezik arról, hogy a szerkezetátalakítási szakértőnek nyilatkoznia kell arról, hogy a terv megakadályozza a fizetésképtelenséget és biztosítja az életképességet, valamint, hogy megfelel a jóhiszemű joggyakorlás követelményeinek). A törvényi rendelkezések alapján a bíróság a jóváhagyás körében alapvetően a szerkezetátalakítási terv tartalmi elemeinek hiánytalan meglétét vizsgálja. A szerkezetátalakítási terv vonatkozásában előírt alapelvek tekintetében a bíróság azt vizsgálja, hogy a szerkezetátalakítási terv kirívóan ellentétes-e ezen elvekkel. A bíróság abban az esetben vizsgálja a szerkezetátalakítási tervben foglalt intézkedések jogi tartalmát, gazdasági következményeit, ha ellenirat beadására kerül sor. Ebben az esetben is azonban az ellenirat tárgya tekintetében folytatja le a vizsgálatot.
+
+Ha a bíróság megállapítja, hogy a szerkezetátalakítási terv elfogadása során az adós intézkedései nem feleltek meg a törvényi követelményeknek, azonban ezek az eljárási hiányosságok, illetve szabálytalanságok a szerkezetátalakítási terv ismételt megszavaztatásával kiküszöbölhetők, a bíróság ezt határidő tűzésével elrendeli. Ha a szerkezetátalakítási terv elfogadására vonatkozó intézkedések szabálytalanságai nem küszöbölhetők ki a szavazás megismétlésével, vagy ha az adós nem teljesíti a szavazás megismétlésére vonatkozó kötelezettségét, a bíróság a szerkezetátalakítási terv jóváhagyását megtagadja.
+
+Az adós védelme érdekében a Javaslat kimondja, hogy ha a bírósági kérelem benyújtásának időpontjában a korábban elrendelt moratórium még hatályban van, a jóváhagyás iránti nemperes eljárás alatt az ezzel érintett követelések vonatkozásában a végrehajtás továbbra is szünetel.
+
+Az 57. §-hoz
+
+A szerkezetátalakítási tervre nemmel szavazó hitelezők, valamint az adós tőketulajdonosai elleniratot nyújthatnak be annak érdekében, hogy a bíróság vizsgálja meg azt is, hogy a megszavazott szerkezetátalakítási terv megfelel-e az összhitelezői érdekeknek, azaz az ún. hitelezők legjobb érdekei módszertani tesztnek, amelynek keretében az kerül áttekintésre, hogy a szerkezetátalakítás ellen szavazó hitelezőket a szerkezetátalakítási terv nem érinti-e hátrányosabban, mintha az adós ellen felszámolás indult volna, és abba kapcsolódnának be hitelezőként. A hitelezők legjobb érdekei módszertani teszt fogalmában a többesszám használata normatív jelentőséggel bír. A bíróságnak ebben a körben nem azt kell vizsgálnia, hogy az elleniratot benyújtó az érintett hitelező hogyan járna egy következő legjobb alternatíva esetén, hanem azt kell vizsgálnia, hogy általában a nemmel szavazó hitelezők jobban járnának-e egy más megoldással.
+
+Kiemelhető, hogy a tőketulajdonosokat az ellenirat benyújtásának joga akkor illeti meg, ha a szerkezetátalakítási tervről nem az adós döntéshozó szerve határozott a hitelezői jóváhagyás előtt. E rendelkezéssel összefüggésben tehát fontos elem, hogy ha a döntéshozó szerv határozott a szerkezetátalakítási terv elfogadásáról és a hitelezőknek történő szavazásra bocsáthatóságáról, akkor a tőketulajdonos nem jogosult ellenirat benyújtására akkor sem, ha egyébként a döntéshozó szerv határozathozatala során nemmel szavazott. A döntéshozó szerv határozatát ugyanis nem a szerkezetátalakítási nemperes eljárásban támadhatja meg az ellenirat révén, hanem az adósra vonatkozó anyagi jogi szabályok szerint. A másik fontos elem, hogy a normaszöveg feltételes módban utal a döntéshozó szervre („ha nem az adós döntéshozó szerve”). Ennek az az oka, hogy a Ptk. Harmadik könyve a jogi személyekre vonatkozó szabályok között a jogi személy szervei, az egyes jogi személy típusoknál szabályozott szervek hatáskörét - törvényben meghatározott kógens rendelkezést kivéve - nem határozza meg kötelező erővel, tehát a jogi személyek, gazdasági társaságok stb. a működési kérdéseikben szabadon döntenek. Nem kizárt tehát, hogy például a szerkezetátalakítással összefüggő egyes kérdésekben - a szerkezetátalakítás elhatározásának kivételével, amelyet a törvény kógens módon az adós döntéshozó szervére telepít - a jogi személy adós úgy határozzon - az anyagi jogi szabályok betartása mellett -, hogy más adósi szervre delegálja. Elképzelhető, hogy csak egyes kérdésekben való döntést ruházza át, de a főbb döntéseket a döntéshozó szerv hatáskörében tartja, és elképzelhető az is, hogy minden kérdésben egy kijelölt szerv dönt (például felügyelőbizottság). Erre figyelemmel került a rendelkezés feltételes módban megfogalmazásra (ld. még a 12. §-hoz fűzött indokolást is).
+
+Az 58. §-hoz
+
+Olyan hivatkozással is benyújtható az ellenszavazó hitelező részéről ellenirat, hogy az adós pénzügyi helyzetének helyreállítására nem alkalmas a szerkezetátalakítási terv. Az ellenirat benyújtóját terheli a bizonyítás arra vonatkozóan, hogy a szerkezetátalakítási terv miért nem alkalmas a célja elérésére. A bíróság a terv jóváhagyását nem tagadja meg, ha a hitelezők által a szükséges arányban elfogadott szerkezetátalakítási terv alapján ésszerűen megalapozottak a kilátások arra, hogy a szerkezetátalakítási tervben foglalt intézkedésekkel elkerülhető az adós fizetésképtelensége, illetve biztosítható működőképessége. Megjegyezhető, hogy a Javaslat az Irányelv alapján a szerkezetátalakítási szakértő részére előírja, hogy záradékával igazolja, hogy a terv alkalmas arra, hogy megakadályozza az adós fizetésképtelenségét és biztosítja életképességét, valamint nyilatkozik arra is, hogy a terv megfelel a jóhiszemű joggyakorlás követelményeinek. Szakértő részvétele esetén tehát a bíróság a jóváhagyás keretében nagyban támaszkodhat ezen záradékra, nyilatkozatra.
+
+Az 59. §-hoz
+
+A szavazás érvényességéhez kapcsolódóan az 56. § (2) bekezdésben meghatározott, az érintett hitelezők tárgyalásba történő szabályszerű bevonása, az osztályba sorolás és a szavazatszám megállapítása valamint a vitatott követelésként történő minősítés megalapozottsága és a hitelezői ülés, a tervről való döntéshozatal szabályszerűsége vizsgálata érdekében a nemmel szavazó, a tartózkodó és a távolmaradó hitelező nyújthat be elleniratot. Ezek a szabályszerűséggel kapcsolatos körülmények akkor vizsgálandók, ha kétség merül fel, hogy az adós a Javaslatban előírt adminisztratív kötelezettségeit nem megfelelően teljesítette, pl. nem volt szabályszerű a meghívó kézbesítése és a hitelező ezért maradt távol a szavazástól.
+
+A 60. §-hoz
+
+Ellenirat benyújtása esetén a bíróság szerkezetátalakítási szakértőt rendel ki, és ha a bíróság által kijelölt szakértő már közreműködik a szerkezetátalakításban, akkor másik szerkezetátalakítási szakértőt rendelhet ki, ha a felmerülő szakkérdés azt indokolttá teszi.
+
+Az Irányelv is előírja, hogy a tagállami szabályozásnak biztosítania kell, hogy a Javaslat szerinti ellenirat benyújtására jogosító kérdésekben az igazságügyi hatóság megfelelő képesítéssel rendelkező szakértőket jelölhessenek ki vagy hallgathassanak meg [ld. 14. cikk (2) bekezdés].
+
+Ezekben az esetekben a bíróságnak a szerkezetátalakítási terv jóváhagyásáról vagy jóváhagyás megtagadásáról szóló döntésében meg kell indokolnia, hogy a döntését mely körülmények, megállapítások, adatok tekintetében alapította a szakkérdésben kirendelt szerkezetátalakítási szakértő véleményére, megállapításaira.
+
+A szabályozás indoka, hogy az elleniratok megalapozottsága tekintetében a szerkezetátalakítási terv részletesebb gazdasági szempontú vizsgálata is szükségessé válik. Fontos felhívni a figyelmet, hogy ebben az esetben a szerkezetátalakítási szakértő nem a III. Fejezet szerinti feladatokat látja el, hanem valójában szakértőként működik közre a nemperes eljárásban.
+
+Ezekben az esetekben a bíróság megjelöli azokat a főként közgazdasági jellegű szakkérdéseket, amelyek megválaszolására kéri fel a szerkezetátalakítási szakértőt. A Javaslat szabályozza, hogy ezekben az esetekben ki előlegezi, és ki viseli a bíróság által kirendelt szerkezetátalakítási szakértő díját.
+
+A 61. §-hoz
+
+Ha a szerkezetátalakítási terv hiányosságai - adott esetben figyelemmel a rendelkezésre álló szakértői véleményre is - kiküszöbölhetők, azaz, ha a szerkezetátalakítási terv átdolgozásával (pl. megfelelő értékeléssel) és ismételt megszavazásával az összhitelezői érdekek elve megvalósítható, a bíróság kötelezi az adóst arra, hogy a szerkezetátalakítási terv átdolgozásával, egyeztetésével, majd ismételt elfogadásával kapcsolatos intézkedéseket hozza meg, és az újra elfogadott átdolgozott szerkezetátalakítási tervet jóváhagyásra ismételten nyújtsa be. A határidő eredménytelen eltelte esetén a bíróság a szerkezetátalakítási terv jóváhagyása iránti kérelmet elutasítja.
+
+Ha az ellenirat állítása arra irányul, hogy a tervvel nem előzhető meg az adós fizetésképtelensége és a bíróság is azt állapítja meg, hogy alappal feltételezhető az, hogy a tervben foglaltak nem biztosítják a szerkezetátalakítás célját, vagyis a fizetésképtelenség megelőzését, az adós életképességének, működőképességének biztosítását, akkor a bíróság a szerkezetátalakítási terv jóváhagyása iránti kérelmet szintén elutasítja. Ebben az esetben a fenti, kijavítást biztosító megoldást a bíróság nem alkalmazza, nem is alkalmazhatja. Ha az elleniratban foglaltak megtagadáshoz alkalmas ok fennállását igazolják (pl. olyan jövőbeli pénzáramokkal számol a terv, amelynek realizálása észszerűen nem várható), a bíróság a szabályszerűen beterjesztett szerkezetátalakítási tervet nem hagyhatja jóvá.
+
+A fellebbezés elbírálásáig az adós jogosult a jóváhagyott tervben foglaltak szerint eljárni, ha az elsőfokú bírósági végzés a tervet jóváhagyta.
+
+A 62-63. §-hoz
+
+Ha a szerkezetátalakítási terv megszavazása nem hozta meg az elfogadáshoz szükséges konszenzust minden hitelezői osztályban, az adós, az adós legalább többségi befolyással rendelkező tőketulajdonosa vagy az adós egyetértésével bármelyik érintett hitelező kérelmet nyújthat be a bírósághoz annak érdekében, hogy a bíróság a hitelezői osztályokon átívelő kényszeregyezségi hatállyal hagyja jóvá a szerkezetátalakítási tervet.
+
+A hitelezői osztályokon átívelő kényszeregyezségi hatállyal történő jóváhagyás azt eredményezi, hogy az egyet nem értő hitelezőre (osztályra) is kiterjed a terv hatálya. Az Irányelv kényszeregyezségről szóló 11. cikke visszautal a jóváhagyás feltételeit tartalmazó 10. cikk (2) és (3) bekezdésére (a terv elfogadása és a hitelezői értesítés szabályszerűsége, hitelezők legjobb érdekei módszertani tesztre és az életképességet biztosító tervre vonatkozó hivatkozás), így ezen feltételek vizsgálata hitelezői osztályokon átívelő kényszeregyezségnél is felmerül.
+
+További feltétel, hogy a hitelezői osztályok többségének a tervet jóvá kell hagynia (ezek közül legalább egynek biztosított hitelezői osztálynak, vagy a nem biztosított osztálynál előrébb sorolt osztálynak kell lennie) vagy ha nincs meg ezen többség, akkor elegendő egy szavazási osztály jóváhagyása, vagy a nemzeti jog rendelkezése alapján legalább egy olyan osztály jóváhagyásának meg kell lennie, amely olyan személyeket tömöríti, akik kifizetéshez jutnának a felszámolási eljárás szerinti kielégítési sorrend szerint.
+
+A Javaslat szerint a jóváhagyásnak szigorúak a feltételei: a hitelezői osztályok többségében meg kell lennie a szükséges hitelezői támogató szavazatnak, és ezek között is legalább az egyik támogató hitelezői osztálynak a biztosított hitelezői osztálynak vagy a gazdasági tevékenységhez kapcsolódó hitelezői osztálynak kell lennie. Ha ez nem teljesül, elegendő, ha legalább egy olyan hitelezői osztály támogatja a szerkezetátalakítási tervet, amely a felszámolási eljárásban várhatóan nem kapna kielégítést.
+
+A szerkezetátalakítási tervnek továbbá meg kell felelnie az Irányelvben főszabályként kimondott relatív elsőbbségi szabálynak is, mely szerint az egyet nem értő hitelező hitelezők hitelezői osztályai legalább ugyanolyan kedvező elbánásban részesüljenek, mint bármely más azonos besorolású osztály, és kedvezőbb elbánásban, mint a hátrasorolt osztályok. A Javaslat tehát nem él az Irányelvben biztosított azon lehetőséggel, hogy az abszolút elsőbbségi szabálynak - ilyenkor az egyet nem értő hitelezőket teljes mértékben ki kell elégíteni, ha egy hátrébb sorolt osztály kielégítést kap - való megfelelést kelljen teljesíteni a tervben.
+
+A Javaslat továbbá kimondja azt az irányelvi szabályt is, hogy egyetlen hitelezői osztály és egyetlen érintett hitelező sem kaphat többet a követelésének teljes összegénél (pl. további hozamot annak „ellentételezéseként”, hogy finanszírozza az adóst a tervben foglaltak szerint).
+
+Ha a bíróság helyt ad a szerkezetátalakítási terv hitelezői osztályokon átívelő kényszeregyezségi hatállyal történő jóváhagyására irányuló kérelemnek, akkor ennek ugyanaz lesz a hatálya, mint a bíróság által jóváhagyott szerkezetátalakítási tervnek.
+
+A 64. §-hoz
+
+Fontos jelezni, hogy míg az elsőfokú eljárásban a szerkezetátalakítási terv és általában a szerkezetátalakítási terv elfogadásának érdemi hibái is javíthatóak, ha a bíróság javíthatónak ítéli a hiányosságot és felhívja a módosításra és a szükséges intézkedés megtételére az adóst, addig a másodfokú eljárásban erre már nincs mód.
+
+Ha a szerkezetátalakítási terv elfogadásához szükséges okirat valamely hibában szenved, de ez orvosolható, ennek kiküszöbölése esetén a másodfokú bíróság megváltoztathatja az elsőfokú bíróságnak a terv jóváhagyását megtagadó végzését, és a szerkezetátalakítási tervet jóváhagyó végzést hozhat másodfokon.
+
+A szerkezetátalakítási tervet jóváhagyó bírósági végzés, valamint a szerkezetátalakítási tervet hitelezői osztályokon átívelő kényszeregyezségi hatállyal jóváhagyó bírósági végzés ellen benyújtott fellebbezés nem érinti a terv végrehajtására vonatkozó jogokat és kötelezettségeket mindaddig, amíg a másodfokú bíróság nem hoz olyan végzést, amelyben úgy változtatja meg az elsőfokú bíróság döntését, hogy megtagadja a szerkezetátalakítási terv jóváhagyását. Az ellenérdekű felek kérhetik a másodfokú bíróságot, hogy biztosítékadásra kötelezze az adóst, ha a hitelező valószínűsíti érdekeinek a másodfokú eljárás alatt bekövetkező méltánytalan sérelmét.
+
+Rendkívüli jogorvoslati kérelmek benyújtására a jogerős döntéssel szemben nincs lehetőség.
+
+A 65. §-hoz
+
+A rendelkezés a szerkezetátalakításhoz kapcsolódó ügyletek, finanszírozások védelmére fogalmaz meg szabályokat, az Irányelv 17. és 18. cikkének megfelelően.
+
+Az új finanszírozás, az átmeneti finanszírozás és az észszerű, a szerkezetátalakítási tervre vonatkozó tárgyalásokhoz haladéktalanul szükséges ügyletek az adós esetleges későbbi fizetésképtelenné válása esetén nem minősülhetnek semmisnek vagy megtámadhatónak, és nem lehet a teljesítés lehetetlenné válására hivatkozni önmagában azon okból, hogy a finanszírozás vagy az ügylet a hitelezők összességére nézve káros. Erre tekintettel a Javaslat módosítja a Cstv. 40. §-át is, annyiban, hogy az ott felsorolt megtámadási okok gyakorlásakor ezen szempontra figyelemmel kell eljárni. Tehát ezen, az Irányelv implementációjaként átvett megtámadás kizárási ok nem érinti a Cstv. szerinti megtámadási okokat, vagyis azokkal szemben nem jelent „védelmet”, így a hitelezők kijátszására irányuló csalárd ügylettel szemben a felszámolás során a jogosult ugyanúgy felléphet.
+
+Az ügylet megtámadásával szembeni védelem a szerkezetátalakítási terv végrehajtásához szükséges ügyletekre is kiterjed, amelyek végrehajtása a bíróság által jóváhagyott szerkezetátalakítási tervvel kapcsolatban merülnek fel.
+
+Ez a szabály a később esetleg az adós ellen megindított felszámolási eljárásokban akkor védi azokat a vállalkozásokat, akik pénzügyi kötelezettségvállalásokkal (új finanszírozás) támogatták a korábbi szerkezetátalakításban az adóst, ha ezeket a jogügyleteket a bíróság a szerkezetátalakítási terv részeként megvizsgálta, szabályszerűnek találta és jóváhagyta. A Javaslat az átmeneti finanszírozással kapcsolatban valamennyi biztosított hitelező és a további hitelezők minősített többségének támogatását (legalább a 75%-át képviselő szavazatszám) írja elő, míg a tárgyalásokhoz szükséges ügyletek akkor részesülhetnek a védelemben, ha azt a valamennyi biztosított hitelező és a további hitelezők minősített többsége (legalább a 75%-át képviselő szavazatszám) jóváhagyta, vagy a szerkezetátalakítási tervet a bíróság jóváhagyta. Az átmeneti és új finanszírozást biztosító az adós felszámolása esetén a kielégítési sorrendben kedvező pozíciót kap, élve az Irányelv adta lehetőséggel.
+
+Az Irányelv 18. cikk (3) bekezdésének implementálásával kimondásra kerül, hogy ha az adós a Cstv. szerinti fenyegető fizetésképtelenségi helyzetbe kerül, a részére nyújtott átmeneti és új finanszírozással kapcsolatban nem áll fenn az Irányelv alapján biztosított védelem.
+
+A 66. §-hoz
+
+A rendelkezés a törvényi szabályozást nem igénylő végrehajtási rendeletek megalkotására ad felhatalmazást.
+
+-----STARTING---POINT---VEGE---
+
+A 67. §-hoz
+
+A törvény hatálybalépésének időpontját határozza meg, az új eljárásra történő felkészüléshez szükséges időszak figyelembevételével.
+
+A 68. §-hoz
+
+Átmeneti rendelkezés annak érdekében, hogy a Javaslattal bevezetendő képzések teljesítésére az érintetteknek megfelelő idő álljon rendelkezésükre. Ezen időpontig - annak érdekében, hogy a szakértői listába történő feltétel teljesíthető legyen - felsőfokú végzettséget igazoló oklevél fogadható el a képzési követelmény teljesítéseként.
+
+A 69. §-hoz
+
+A § az uniós jogszabályoknak történő megfelelésre vonatkozó hivatkozásokat tartalmaz, és a szerkezetátalakítási szakértő tekintetében a belső piaci szolgáltatási irányelvből következő notifikációs kötelezettségre utal.
+
+A 70. §-hoz
+
+Az illetékekről szóló 1990. évi XCIII. törvény (Itv.) módosításában a szerkezetátalakítási polgári nemperes eljárás tételes eljárási illetékei kerülnek megállapításra. A vagyonszerzési illetékkötelezettség körében, hasonlóan a fizetésképtelenségi eljárásokhoz, a szerkezetátalakítási eljárásban a hitelezők által az adós számára elengedett követelések a legtöbb esetben nem esnek ajándékozási illeték alá, az adós mentesül az illetékkötelezettség alól.
+
+A 71. §-hoz
+
+A Cstv. kiegészítése azért szükséges, hogy a szerkezetátalakításról szóló törvényben szabályozott eljárás és a Cstv.-ben szabályozott fizetésképtelenségi eljárások szabályai egymással koherensek legyenek és elősegítsék, hogy ahol indokolt, a szerkezetátalakításnak legyen elsőbbsége a fizetésképtelenségi eljárásokkal szemben.
+
+Annak érdekében, hogy ne legyen az adós ellen folyamatban szerkezetátalakítás és fizetésképtelenségi eljárás, nem lehet csődeljárást kezdeményezni, ha az adós szerkezetátalakítást is kezdeményezett. Az ilyen kérelmeket a bíróság visszautasítja. Az adósok esetleges visszaéléseinek elkerülése érdekében mindaddig nem nyújthat be az adós csődeljárás iránti kérelmet, amíg le nem zárult a szerkezetátalakítás, és ha ebben a bíróság jóváhagyta a szerkezetátalakítási tervet, akkor az adós a szerkezetátalakítási terv végrehajtásának időtartama alatt nem kezdeményezhet csődeljárást. A moratórium visszaélésszerű gyakorlásának kizárása érdekében nem kezdeményezhető csődeljárás akkor sem, ha a meghiúsult szerkezetátalakítási eljárásban az adós moratóriumot kapott, és a meghiúsulástól számított egy év még nem telt el.
+
+A szerkezetátalakítás alatt álló adós érdekeinek védelme érdekében a bíróság akkor, ha a szerkezetátalakítási eljárásban elrendelt moratórium hatálya alá tartozó hitelező a Cstv. 27. § (2) bekezdés a) vagy b) pontja alapján (az adós nem fizette meg a jogerős határozatban meghatározott vagy a szerződésen alapuló, nem vitatott követelését) kezdeményezi a felszámolást köteles a kérelmet visszautasítani [ld. a 10. § (4) bekezdését is].
+
+A Cstv.-t ki kell egészíteni a veszélyhelyzet során a vállalkozások reorganizációjáról szóló 179/2021. (IV. 6.) Korm. rendelettel bevezetett reorganizációs eljárás szabályaival való összhang érdekében, tekintettel arra, hogy a szerkezetátalakítási törvény hatályba lépését megelőzően a kormányrendelet szabályai szerint indulhattak, illetve még folyamatban lehetnek reorganizációs eljárások.
+
+A bíróság köteles felfüggeszteni az elsőfokon még el nem bírált felszámolás iránti kérelmek elbírálását, ha a felszámolás elrendelése iránti kérelmet az adós ellen a Cstv. 27. § (2) bekezdés a) vagy b) pontja szerinti okból nyújtották be, és az adós igazolja, hogy szerkezetátalakítást indított, és a bíróság ennek során a szerkezetátalakítás során egyedi végrehajtási intézkedéseket felfüggesztő moratóriumot (szerkezetátalakítási moratórium) rendelt el vagy a moratórium elrendelése iránt a kérelem még a felszámolás elrendelésére irányuló kérelem benyújtását megelőzően került benyújtásra. Az adósnak nyilatkoznia kell arról is, hogy nem következett be a Szát. törvény alapján a szerkezetátalakítás meghiúsulását eredményező tény. A felfüggesztésre a szerkezetátalakításban érintett hitelező kérelmére kerülhet sor.
+
+A felszámolás elrendelésére irányuló eljárás felfüggesztése a szerkezetátalakítási moratóriumhoz igazodik, a moratórium engedélyezésére irányuló eljárás és a moratórium (a meghosszabbított moratórium) időszaka alatt a bíróság nem rendelheti el az adós felszámolását.
+
+A felfüggesztés megszüntetése és a felszámolás iránti kérelem elbírálása a szerkezetátalakításban megvalósuló intézkedésekhez igazodik: a szerkezetátalakítási moratórium iránti kérelem elutasítása vagy a moratórium megszűnését követően a bíróság folytatja a felszámolás elrendelése iránti kérelem elbírálására irányuló eljárást. Ettől akkor tekint el, ha az adós igazolja, hogy a szerkezetátalakítási terv jóváhagyása iránti kérelmet a bírósághoz benyújtotta és vállalja, hogy a felszámolást kezdeményező, de a tervvel nem érintett hitelezővel megállapodik a tartozásáról.
+
+Ha az előzőek nem teljesülnek vagy a terv jóváhagyását a bíróság jogerősen megtagadta a kérelem elbírálása folytatódik.
+
+Ha azonban a felszámolás elrendelését kérelmező hitelezők az eljárás szünetelését kérik a Cstv. 26. § (4) bekezdésére hivatkozva, vagy ha a felszámolási eljárás iránti kérelmét a hitelező visszavonja, a felfüggesztés megszüntetése után a bíróság ezen körülményekre tekintettel dönt a felszámolás iránti kérelem tárgyában.
+
+A Cstv. 27/A. §-a kiegészül annak érdekében, hogy ha sikertelen szerkezetátalakítást követően indul az adós ellen felszámolási eljárás, akkor nem járhat el felszámoló szervezetként, illetve felszámolóbiztosként a korábbi szerkezetátalakításban kijelölt szerkezetátalakítási szakértő. Ez a módosítás a szerkezetátalakítási szakértők szakmai pártatlanságának erősítése érdekében kerül kimondásra.
+
+A Cstv.-t módosítani kell az (EU) 2019/1023 parlamenti és tanácsi irányelv 17-18. cikkének történő megfelelés érdekében is. A Cstv. szerinti megtámadási okok csak a hivatkozott cikkekben foglaltakra figyelemmel gyakorolhatók, ha a felszámolás során megtámadott ügylet a szerkezetátalakításhoz kapcsolódó, a tárgyalásokhoz vagy a terv végrehajtásához haladéktalanul szükséges ügylet, illetve átmeneti vagy új finanszírozás.
+
+A Javaslat további módosítása alapján az állam felszámoló tevékenységi köre kibővül a szerkezetátalakítási tevékenység végzésének lehetőségével.
+
+A 72. §-hoz
+
+A magáncsőd szabályozás egyéni vállalkozókra vonatkozó szabályainak kiegészítéséhez az állami bérgarancia juttatásokat szabályozó 1994. évi LXVI. törvény (Bga. tv.) módosítása is szükséges. A Bga. tv. hatálya jelenleg a jogi személyek felszámolási eljárására terjed ki, tehát azokra a szervezetekre, akik a Cstv. szerint adósként felszámolási eljárás alá kerültek, és pénzeszközeik a bérfizetési napokon nem elegendők a munkabérek kifizetésére. Ezekben az esetekben a felszámoló a Bérgarancia Alap költségvetési előirányzatot kezelő állami foglalkoztatási szervhez fordul kérelemmel az iránt, hogy a munkabérek, illetve a végkielégítések kifizetéséhez nyújtson visszatérítendő állami támogatást. A bérgarancia támogatást nem a felszámoló kapja kézhez, hanem azt közvetlenül a munkavállalónak folyósítja az állami foglalkoztatási szerv, levonva belőle a munkavállalót terhelő, jogszabályban meghatározott közterheket. A Javaslat szerint hasonló lenne a konstrukció a fizetésképtelenségük miatt bírósági adósságrendezési eljárás alá került egyéni vállalkozók esetében is. A bérgarancia támogatás igénylése iránt az adós mellé kirendelt családi vagyonfelügyelő, bíróságon kívüli adósságrendezési eljárás esetén pedig az illetékes területi családvédelmi szolgálat jár el, az adós nevében. A Javaslat tehát gondoskodik arról, hogy az adósságrendezési eljárás alá került egyéni vállalkozók és más önálló vállalkozók munkavállalói a bérüket akkor is megkapják állami támogatásból, ha a bér kifizetésének a vállalkozónál ideiglenesen nincs meg a fedezete. A bérgarancia támogatás az adós által visszatérítendő állami juttatás.
+
+A Javaslat megállapítja az adósságrendezési eljárás alatt álló egyéni vállalkozók munkavállalói bérgarancia támogatásának igénylésére vonatkozó eljárásrendet, meghatározza a támogatás igényléséhez és elbírálásához szüksége adatok körét. A támogatási kérelem formanyomtatványon nyújtható be, amelyet az állami foglalkoztatási szerv teszi közzé.
+
+A Bga. tv. terminológiájának egységesítése érdekében kivezetésre kerül a jelenleg létező jogcímekre vonatkozó pénzügyi támogatás fogalom és egységesen a támogatás fogalom kerül bevezetésre a jogszabályba.
+
+A 73. §-hoz
+
+A fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről 2003. évi XXIII. törvény módosításában a fizetést korlátozó eljárások körét ki kell egészíteni a szerkezetátalakításban a bíróság által elrendelt moratóriummal.
+
+A 74-75. §-hoz
+
+A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása (kiegészítése) a nyilvános szerkezetátalakítási eljárással összefüggésben szükséges, hogy az eljárásra utaló tény megjelenjen az adós adataiban.
+
+A 76. §-hoz
+
+A megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (EU) parlamenti és tanácsi 2019/1023 irányelv III. címe a fizetésképtelen önálló vállalkozó magánszemélyek adósságrendezési és adósságmentesítési eljárásáról szól. A tagállami jogalkotónak biztosítania kell, hogy legalább egy olyan adósságrendezési eljárást igénybe vehessenek a fizetésképtelen önálló vállalkozók, amelynek során - meghatározott feltételek szerint - adósságmentesítésben is részesülhetnek.
+
+Az adósságmentesítési eljárásban elfogadott adósságtörlesztési terv az adós egyes vagyontárgyai eladását és a bevétel adósságrendezésre fordítását is előírhatja. Ha az adósságmentesítés megtörténik, akkor, ha az adós el volt tiltva a gazdasági tevékenysége gyakorlásától, ezt a tilalmat legkésőbb az adósságmentesítéskor fel kell oldani. Az adósságmentesítést a tagállami jog ahhoz kötheti, hogy az adós legalább a felhalmozott adósságai egy részét visszafizesse. Ennek a visszafizetési tervnek (adósságtörlesztési tervnek) azonban figyelembe kell vennie az adós egyedi vagyoni-pénzügyi helyzetét, de a hitelezők méltányos érdekeit is.
+
+Az Irányelv 21. cikke szerinti főszabály, hogy az adósságok alól történő mentesítést a tagállami jognak legfeljebb három év adósságtörlesztési időszakot követően biztosítania kell a fizetésképtelen vállalkozók számára. Az adósok helyzetének megkönnyítése érdekében a tagállami jogalkotó nem követelheti meg az adóstól egy új eljárás megindítását a mentesítés iránt. A hároméves adósságmentesítési főszabálytól az Irányelv az alábbi eltéréseket teszi lehetővé a tagállami jogalkotók számára:
+
+Az adósságmentesítésből részben vagy egészben kizárható, vagy a mentesítés visszavonható az olyan önálló vállalkozótól, aki tisztességtelenül vagy rosszhiszeműen járt el a hitelezőkkel szemben, akár az eladósodásával összefüggésben, akár az adósságrendezési eljárás során, nem teljesítette a visszafizetési tervet, vagy a hitelezők érdekeit sértő tevékenységet fejt ki, nem teljesíti a tagállami jog által megkövetelt tájékoztatási és együttműködési kötelezettségét, visszaélésszerűen kezdeményezi az adósságmentesítést, azelőtt kezdeményez újabb adósságmentesítést, mielőtt a korábbi adósságmentesítés feltételeit teljesítette, nem tudja biztosítani még eljárás költségeit sem, vagy a mentesítés az adóst méltánytalanul kedvezményezné egyes hitelezőivel szemben, akiket az adós tartozásai nehéz helyzetbe sorolnak (pl. tartásra szoruló személyek).
+
+Három évnél hosszabb adósságmentesítési időszakot állapíthat meg a tagállami jogalkotó, ha az adós lakásául szolgáló ingatlant nem kell az eljárásban az adósságmentesítés érdekében értékesíteni, vagy az adós vállalkozása folytatásához szükséges alapvető vagyontárgyaknak a védelme céljából.
+
+A tagállami jogalkotó indokolt esetekben három évnél hosszabb adósságmentesítési feltételeket szabhat meg, vagy akár ki is zárhatja az adósságmentesítésből a következő hitelezői követeléseket: a biztosítékkal fedezett hitelezői követeléseket, a büntetőjogi szankciókból eredő vagy azokkal összefüggésben keletkezett követeléseket, a jogellenes károkozásból eredő kártérítési követeléseket, a gyermektartási és rokontartási követeléseket, az adósságrendezési eljárást követően felhalmozott adósságokat, valamint az adóst terhelő eljárási költségeket.
+
+A mentesítési feltételeknél a tagállamok figyelembe vehetik az adós előre nem látható vagyongyarapodását (pl. örökség, nyeremény) vagy az adós vagyoni helyzetének az adóson kívül álló okból történő kedvezőtlen alakulását. A mentesítés feltételeinek teljesítését a bíróság ellenőrizheti.
+
+A fizetésképtelen önálló vállalkozó gazdasági tevékenység gyakorlásától történő eltiltását a tagállami jog hosszabb időre is fenntarthatja az olyan önálló vállalkozói szakmákban, amelyek különleges etikai követelményekhez kötöttek, vagy ha az adós gazdasági tevékenysége más vagyonának a kezelésére irányul.
+
+A fogyasztói és az önálló vállalkozói adósságmentesítési eljárások összevonását vagy koordinálását az Irányelv a tagállamokra bízza. Az Irányelv tehát figyelembe veszi, hogy az adós vállalkozónak lehetnek olyan tartozásai is, amelyek nem függenek össze a vállalkozói tevékenységével vagy olyan tartozások, amelyeknél nem választható el, hogy az adós vállalkozásával összefüggésben keletkeztek vagy a személyes életvitelével kapcsolatosak. Az adósnak továbbá lehetnek olyan vagyontárgyai, amelyeket jellegénél fogva kizárólag az üzleti tevékenységére használ, és lehetnek olyan javai, amelyeket a személyes szükségleteire is. Ezekben az esetekben célszerű a vállalkozói és a fogyasztói magáncsőd eljárást egyetlen eljárásként lefolytatni. Ha viszont szétválaszthatók az adós szakmai és személyes adósságai, akkor ezekre két külön magáncsőd eljárás is indulhat, de ezeket az eljárásokat megfelelően össze kell hangolnia a tagállami jogalkotónak, tekintettel arra, hogy az adós vállalkozó a személyes vagyonával is felel a vállalkozói minőségében keletkezett tartozásokért.
+
+A Javaslat az Irányelv III. címének átültetésére a következőket tartalmazza.
+
+A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény (továbbiakban: Are. tv.), azaz a magáncsőd szabályozás kerül módosításra, tehát nem kerül megalkotásra egy új törvény az önálló vállalkozók adósságrendezésére és az adósságmentesítésre.
+
+A Javaslat szerint nem célszerű egy külön önálló vállalkozói magáncsőd eljárásrendet kialakítani, hiszen az önálló vállalkozók a személyes vagyonukkal végzik vállalkozási tevékenységüket, személyes és vállalkozói minőségükben keletkezett adósságaik fedezete a magánvagyonuk, a vállalkozói és magántartozásaik sok esetben nem különíthetők el. Ráadásul az önálló vállalkozó személyek vagyona sok esetben családtagjaikkal közös tulajdonban van, és a családtagjaikkal közösen halmozták fel a tartozásokat, pl. lakáscélú jelzáloghitelt az adós a családtagjával közösen vette fel, ezért adóstársként egyetemlegesen felelnek a hitel visszafizetéséért. Ha pedig a lakóingatlan a családtagok közös tulajdonában van, a tulajdonostársakat terhelik a közös lakásra vonatkozóan a közműtartozások, valamint a társasházi közös költségre vonatkozó fizetési kötelezettség.
+
+A fentieken túlmenően az önálló vállalkozói minőség csak ideiglenes állapot, mert pl. lehet, hogy az egyéni vállalkozó vagy az őstermelő megszünteti ezt a tevékenységét vagy szünetelteti azt, és a korábban a vállalkozása céljára vásárolt vagyontárgyat személyes és családi szükségleteire használja.
+
+Mindezekre tekintettel az Irányelv célkitűzéseit úgy célszerű a magyar jogban megvalósítani, hogy az Are. tv.-ben az önálló vállalkozókra vonatkozóan csak a legszükségesebb sajátos szabályok kerülnek megalkotásra, egyebekben az Are. tv.-t kell alkalmazni.
+
+Az Irányelv értelmezése alapján önálló vállalkozónak azt a természetes személyt kell tekinteni, aki önfoglalkoztatóként, saját kockázatára folytat üzletszerű vállalkozói tevékenységet, tehát nem áll foglalkoztatásra irányuló jogviszonyban, és nem is alapít céget, cégalapítással a saját vagyonából nem választja le a vállalkozói vagyonát. A magyar jogban ilyen önfoglalkoztatónak minősül az egyéni vállalkozó, a mezőgazdasági őstermelő, az önálló közjegyző és az önálló bírósági végrehajtó, az önálló ügyvéd, európai közösségi jogász, egyéni szabadalmi ügyvivő, állatorvosi tevékenységet végző személy. Az adó- és társadalombiztosítási jogszabályok ezeket az önálló szakmagyakorlókat összefoglalóan egyéni vállalkozónak nevezik, ezt a fogalmat veszi át az Are. tv. módosítása.
+
+A Javaslat élni kíván az Irányelvben a tagállami jogalkotók számára lehetővé tett opciókkal, mert ezek a szabályozás rugalmasságát segítik elő.
+
+Az adósságcsapdába került, fizetésképtelen családoknak az Are. tv.-ben szabályozott magáncsőd eljárás lehetőséget biztosít az adósságaik kedvezőbb feltételekkel történő megfizetésére, esetenként jelentősebb összegű tartozás elengedésre, és ha a törlesztési időszak alatt teljesítik a kötelezettségeiket, a fennmaradó adósságaik megfizetése alól a bíróság mentesíti őket, azaz végrehajtási eljárásokat is meg kell szüntetni.
+
+Az Are. tv. kétlépcsős eljárást tartalmaz. Az adós először a jelzálogjogosult pénzügyi intézmény aktív közreműködésével bíróságon kívüli adósságrendezési eljárásban kísérli meg, hogy valamennyi hitelezőjével megállapodást kössön a tartozásai egyedi, könnyített feltételekkel történő rendezéséről. Ha ez az eljárási szakasz nem sikeres, akkor az eljárás bírósági adósságrendezési eljárásként folytatódik, polgári nemperes eljárásban, ún. kollektív fizetésképtelenségi eljárásként. Az adós mellé a bírósági eljárásban családi vagyonfelügyelő kerül kirendelésre, aki a megyei kormányhivatalokban működő családi csődvédelmi szolgálat foglalkoztatottja. A családi vagyonfelügyelő - fizetésképtelenségi szakértőként - a bíróság igazságszolgáltatási feladatait is segíti, az adós gazdálkodását felügyeli, segíti az adós és a hitelezők között az adósságrendezési egyezség létrehozását, továbbá a bíróság számára döntés-előkészítő feladatokat lát el, azaz hasonló teendőket, mint a vállalkozói csődeljárásban kirendelt vagyonfelügyelő. Ha a hitelezőkkel nem lehet az egyezséget megszavaztatni, akkor újabb eljárási szakasz következik, az ún. adósságtörlesztési eljárás, ahol a törvény által megállapított módszertan szerint kell az öt évre szóló adósságtörlesztési tervet kidolgozni, amit a bíróság foglal végzésbe. Az adósságtörlesztési terv vagyonértékesítést is előírhat. Az adós megtarthatja a jövedelméből a legszükségesebb mindennapi kiadásaihoz szükséges összeget, és az alapvető mindennapi használati tárgyakat, továbbá a szociális és családtámogatási ellátásokat. Ugyanakkor azonban az öt éves adósságtörlesztési időszak alatt a hitelezőknek legalább a törvényben garantált mértékű megtérüléshez kell jutniuk az adóstól, ez a feltétele annak, hogy az adós az öt éves időszakot követően a bíróságtól a még fennmaradó adósságaira mentesítést kapjon, és végleg megszüntessék az ellene indított, de a magáncsőd eljárásra tekintettel felfüggesztett végrehajtási eljárást.
+
+Tekintettel arra, hogy a bíróságon kívüli adósságrendezéskor és a bírósági adósságrendezési eljárás egyezségkötési szakaszában az adós és a hitelezők konszenzust alakíthatnak ki az adósságok visszafizetésének módjára, ütemezésére, az adós tartozásainak részben elengedésére, ezeknél az eljárási szakaszoknál az Irányelv átültetésekor nem szükséges jogszabályt módosítani. Ha azonban ezek az eljárási szakaszok eredménytelenek, az Are. tv. szerint a bíróság ún. adósságtörlesztési eljárásban dönt arról, hogy az adós mely vagyontárgyait kell értékesíteni, és a bevételből a tartozásokat megfizetni. Ugyancsak az adósságtörlesztési eljárásban kerül megállapításra, hogy az adós a jövedelméből hogyan törleszti az adósságait. Lényeges, hogy az ötéves adósságtörlesztési időszak alatt mindegyik hitelező a törvényben előírt mértékű megtérülésre tarthat igényt. Ha ez megtörténik, a még fennmaradó adósságokat a bíróság ún. mentesítő határozattal elengedi az adósnak.
+
+Az Irányelv átültetésekor az igényelt megfontolást, hogy lehet-e eltérő időtartamú adósságtörlesztési időszakot megszabni a vállalkozókra és az egyéb magánszemélyekre. Mivel az adósságtörlesztési időszak alatt kötelező a hitelezők számára az előírt mértékű kifizetéseket teljesíteni, az Irányelv által elvárt hároméves törlesztési időszak az adósok számára rendkívül hátrányos lehet, ezért nem célszerű ezt főszabállyá tenni. Ezt a lehetőséget az adós választhatja. Annak érdekében, hogy az adós családnak ne kelljen eladnia a jelzáloggal terhelt lakóingatlanát, a Javaslat lehetővé teszi, hogy a jelzáloghitel tőkerészének törlesztésére három éves haladékot kapjanak, ez alatt az időszak alatt azonban a többi tartozásaikat az előírt mértékben rendezniük kell. Ha ez megtörténik, ezekre az adósságokra nézve a bíróság meghozza a mentesítő határozatot. Az adós ezt követően kezdi törleszteni a jelzáloghitelének a tőkerészét is havi részletekben, két évig. Ha ezt teljesítette, a bíróság mentesítő határozatot hoz a jelzáloghitel tartozásról is, lényegében elengedésre kerül a késedelmi kamat. Mivel a lakáscélú hitelek futamideje az esetek többségében öt évnél jóval hosszabb, a futamidő hátralévő részére vonatkozón a hitelezőnek át kell strukturálnia a szerződési feltételeket olyan módon, hogy az igazodjon az adós jövedelmi helyzetéhez aktuális törlesztőképességéhez.
+
+Az Are. tv. egyéb módosításai az egyéni vállalkozókra vonatkozóan a vállalkozása folytatásához szükséges vagyontárgyak megtartását célozzák, mert az adós a gazdasági tevékenysége folytatásával tudja a törlesztési kötelezettségei teljesítéséhez szükséges bevételeket megszerezni.
+
+A § (1) bekezdéséhez:
+
+Tekintettel arra, hogy a magáncsődeljárások főként a lakáscélú jelzáloghitelek törlesztési nehézségei miatt indulnak, az Are. tv. az eljárás bíróságon kívüli szakaszában jelentős szerepet ad az adós lakóingatlanán zálogjoggal rendelkező pénzügyi intézménynek (ún. főhitelező) annak érdekében, hogy koordinálja és szervezze a bíróságon kívüli egyezkedési folyamatot az adós és a hitelezők között. Annak érdekében, hogy az érintett pénzügyi intézmények a jogszabályban előírt feladataikat megfelelően teljesítsék, a Magyar Nemzeti Bank fogyasztóvédelmi ellenőrzési jogkörének kimondására kerül sor a Javaslatban.
+
+A § (2) bekezdéséhez:
+
+Az Irányelv 3. cikkének megfelelően a kormányzati honlapokon módszertani útmutatások és egyéb tájékoztató anyagok kerülnek közzétételre annak érdekében, hogy a mikro- és kisvállalkozások a vagyoni- és pénzügyi helyzetüket körültekintőbben tudják megvizsgálni és áttekinteni, és el tudják kerülni a fizetésképtelenségüket okozó üzleti kockázatokat, valamint a pénzügyi helyzetük fizetésképtelenséghez vezető kedvezőtlen alakulását.
+
+A § (3) bekezdéséhez:
+
+Az Are. tv.-ben kiegészítésre kerül, hogy milyen önfoglalkoztató személyek kezdeményezhetnek magáncsőd eljárást. A § (4) bekezdéséhez:
+
+Az állami bérgarancia támogatásokra vonatkozó visszafizetési kötelezettséget a Javaslat a magáncsődeljárásban az ún. közérdekkel összefüggő hitelezői követelések közé sorolja.
+
+A § (5)-(6) bekezdéséhez:
+
+Az új társadalombiztosítási törvényre tekintettel a Tbj-re történő hivatkozásokat pontosítja. A § (7) bekezdéséhez:
+
+A Javaslat kimondja, hogy a magáncsőd eljárás alatt az egyéni vállalkozóknak folyamatosan fizetniük kell a vállalkozásuk folytatásához használt vagyontárgyak vagyonbiztosítási és felelősségbiztosítási díjait, továbbá, ha folytatják a magáncsődeljárás alatt a vállalkozói tevékenységüket, és ehhez munkavállalót is foglalkoztatnak, akkor a munkabér és a munkabért terhelő közterhek kifizetését is teljesíteniük kell. Ha a munkabérek kifizetéséhez ideiglenesen nincsenek meg a források, a bírósági eljárásban korlátozott időtartamra az állam ehhez megelőlegező, de visszatérítendő támogatást biztosít a bérgaranciát szabályozó törvényben.
+
+A § (8) és (16) bekezdéshez:
+
+A Javaslat célja, hogy azok az egyéni vállalkozók, akik fizetésképtelenek lettek, lehetőség szerint folytatni tudják a vállalkozói tevékenységüket, hiszen az ebből származó jövedelemből tudják törleszteni az adósságaikat. Ennek érdekében az adósságtörlesztési tervet a családi vagyonfelügyelő úgy állítja össze, hogy ezeket a vagyontárgyakat nem kell értékesíteni a magáncsőd eljárásban.
+
+A § (9)-(12) és (15) bekezdéséhez:
+
+Az Irányelv 21. cikke azt várja el a tagállami jogalkotóktól, hogy az önálló vállalkozók lehetőség szerint - rövid időtartamú fegyelmezett adósságtörlesztést követően - bírósági mentesítést kaphassanak a még fennmaradó adósságaik megfizetése alól annak érdekében, hogy elháruljanak a gazdasági tevékenységük folytatásának gazdasági és jogi akadályai.
+
+Az Irányelv ezért fő szabályként 3 éves adósságtörlesztést irányoz elő az adósságok törlesztésére oly módon, hogy a fizetési fegyelem jutalma az, hogy a vállalkozót a bíróság a még meg nem fizetett tartozásai alól mentesíti, és ha a magáncsőd eljárás miatt el volt tiltva a vállalkozása folytatásától, ezt a tilalmat is fel kell oldani.
+
+A főszabály alól az Irányelv számos kivételt enged, annak érdekében, hogy a szabályozás ne eredményezze a vállalkozások fizetési fegyelmének romlását és a csődvédelemmel való visszaéléseket, továbbá ne érintse méltánytalanul azokat a hitelezőket, akiknek a vállalkozó magánszemély tartásdíjjal, kártérítéssel tartozik, vagy azokat, akik bűncselekménnyel okozott vagyoni hátrány kompenzálására jogosultak. A tagállam ezért egyes hitelezői követeléseket kivehet a 3 éves adósságmentesítésből vagy pedig 3 évnél hosszabb időszakot határozhat meg az adósságmentesítéshez.
+
+A hatályos magyar magáncsőd szabályozás a fent említett kivételeknek megfelel, azonban nem határoz meg olyan esetköröket, ahol 3 év alatt is teljesítheti az adós a magáncsőd eljárás sikeres lezárásának feltételeit.
+
+A fentiekre tekintettel ki kell egészíteni az Are. tv. adósságtörlesztési eljárásra vonatkozó szabályait egy olyan lehetőséggel, hogy az adós választhasson 3 éves adósságtörlesztési időszakot is, ha ez alatt is képes a törvény által elvárt mértékben kifizetni a hitelezőit.
+
+Az adósok lakástulajdonának megőrzése érdekében a Javaslat lehetővé teszi, hogy az adósok két szakaszban teljesíthessék az adósságtörlesztési tervet. Az első 3 év alatt az ún. nem biztosított hitelezői követeléseket rendezzék, ez alatt a jelzáloghitelre vonatkozóan csak a kamatrészt kell fizetniük. A 3 éves adósságtörlesztést követően a nem biztosított követelésekre megkaphatják a mentesítést, a jelzáloghitelre vonatkozóan pedig a tőkerészleteket fogják tovább fizetni. Ha az öt éves adósságtörlesztési időszak végéig ennek is eleget tesznek, akkor a bíróság a még fennálló lejárt esedékességű részletekre megadja a mentesítést. Annak érdekében, hogy az adós a jelzáloghitel futamidejének hátralévő részében is fizetőképes maradjon, a hitelnyújtónak úgy kell átstrukturálnia a hitelszerződést, hogy a törlesztő részletek összege ne haladja meg a törvényben előírt mértéket.
+
+A § (13)-(14) bekezdéshez:
+
+Átmeneti és az EU jogharmonizációs kötelezettségek teljesítésére vonatkozó rendelkezéseket tartalmaz.
+
+A 77. §-hoz
+
+Az adóhatóság által foganatosítandó végrehajtások esetén a szabályozás kiegészítésre kerül azzal, hogy a szerkezetátalakítási eljárásban elrendelt moratórium időtartama, valamint a bíróság által jóváhagyott szerkezetátalakítási terv végrehajtásának időtartama alatt a tartozás végrehajtásához való jog elévülése nyugszik.

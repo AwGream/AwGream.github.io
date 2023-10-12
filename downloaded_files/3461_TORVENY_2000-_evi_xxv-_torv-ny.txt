@@ -1,0 +1,653 @@
+2000. évi XXV. törvény
+
+a kémiai biztonságról
+
+Az Országgyűlés - figyelembe véve az ember legmagasabb szintű testi és lelki egészségéhez, valamint az egészséges környezethez fűződő alapvető alkotmányos jogait - a Magyarországon tartózkodó természetes személyek kémiai biztonsághoz kapcsolódó jogosultságainak biztosítása érdekében, a veszélyes anyagok és veszélyes készítmények káros hatásainak megfelelő módon történő azonosítása, megelőzése, csökkentése, elhárítása, valamint ismertetése céljából a következő törvényt alkotja.
+
+I. Fejezet
+
+FOGALOMMEGHATÁROZÁSOK ÉS A TÖRVÉNY HATÁLYA
+
+Fogalommeghatározások
+
+1. § E törvény alkalmazásában
+
+a) kémiai biztonság: a kemizációból, a vegyi anyagok életciklusából származó, a környezetet és az ember egészségét károsító kockázatok kezelését - csökkentését vagy elkerülhetővé tételét - célul kitűző, illetőleg megvalósító intézmények, tevékenységek olyan összessége, amely egyidejűleg tekintetbe veszi a fejlődés fenntarthatóságának szükségességét;
+
+b) vegyi anyag életciklusa: a vegyi anyag országon belüli előállításától vagy behozatalától az országból való kiviteléig, újrahasznosításának vagy ártalmatlanításának befejezéséig terjedő, a vegyi anyaggal végzett tevékenységek által szakaszolt időszakok összessége;
+
+c) EINECS: az 1981. szeptember 18-án az Európai Közösség piacán jelen lévő valamennyi anyagot tartalmazó Létező Kereskedelmi Anyagok Európai Jegyzéke;
+
+d) ELINCS: az 1981. szeptember 18-át követően az Európai Közösségben, illetve az Európai Unióban (a továbbiakban: EU) törzskönyvezett új anyagokat tartalmazó Törzskönyvezett Vegyi Anyagok Európai Jegyzéke;
+
+e) anyag, vegyi anyag: természetes állapotában előforduló vagy ipari termelőfolyamatból származó kémiai elemek vagy ezek vegyületei, amelyek a termék stabilitásához szükséges adalékokat és az előállításból/gyártásból származó szennyeződéseket is tartalmazhatnak, de nem tartalmaznak olyan oldószereket, amelyek az anyag stabilitásának vagy összetételének megváltozása nélkül elkülöníthetők;
+
+f) új anyag: az EINECS-ben nem szereplő anyag;
+
+g) veszélyes anyag: valamennyi, az e törvény 3-5. §-a, illetőleg e törvény hatálybalépéséig irányadó jogszabályok alapján veszélyesként osztályozott anyag;
+
+h) veszélyes anyagok magyarországi jegyzéke: az e törvény hatálybalépéséig irányadó jogszabályok szerint veszélyesnek minősülő anyagok jegyzéke, kiegészítve az e törvény alapján bejelentett vagy törzskönyvezett veszélyes anyagokkal;
+
+i) közösségi jegyzék: a 67/548/EGK Irányelv I. számú melléklete szerinti veszélyes anyagok jegyzéke;
+
+j) új veszélyes anyag: az EINECS-ben nem szereplő veszélyes anyag;
+
+k) készítmény: két vagy több anyagot tartalmazó keverék vagy oldat;
+
+l) veszélyes készítmény: egy vagy több veszélyes anyagot tartalmazó keverék vagy oldat, amely az osztályozás során veszélyes besorolást kap;
+
+m) veszélyes készítmények nyilvántartása: a bejelentett veszélyes készítményekről a Fodor József Országos Közegészségügyi Központ Országos Kémiai Biztonsági Intézetében (a továbbiakban: OKK-OKBI) működő Egészségügyi Toxikológiai Tájékoztató Szolgálatnál (a továbbiakban: ETTSZ) vezetett terméknyilvántartás;
+
+n) veszélyes anyagok, illetve veszélyes készítmények bejelentése: eljárás, melynek keretében a gyártó, illetve az importáló közli az e törvényben meghatározott adatokat az OKK-OKBI-vel;
+
+o) törzskönyvezés: eljárás, melynek keretében az OKK-OKBI a törzskönyvezésre bejelentett új anyaghoz benyújtott dokumentációt elfogadja, törzskönyvezési számmal látja el, meghatározza az anyag egészség- és környezetkárosító kockázatát. A veszélyes anyag környezetkárosító kockázatának meghatározásához a környezetvédelmi miniszter vagy az általa kijelölt szerv egyetértése szükséges, melyet az OKK-OKBI szerez be;
+
+p) importáló: az a természetes vagy jogi személy, aki (amely) Magyarország területére anyagot vagy készítményt hoz be az országon belül történő értékesítés vagy kizárólagos saját felhasználás céljából;
+
+q) értékesítés (piaci forgalmazás): anyagnak, illetve készítménynek harmadik személy számára történő elérhetővé tétele. E törvény alkalmazásában az ország vámterületére történő behozatalt is értékesítésnek kell tekinteni;
+
+r) termék: minden ingó dolog - abban az esetben is, ha utóbb más ingó vagy ingatlan alkotórészévé vált - kivéve ez alól a növénytermesztés, az állattenyésztés, az erdőgazdálkodás, a halászat és a vadászat feldolgozatlan termékeit;
+
+s) műszaki dosszié: új anyag törzskönyvezéshez szükséges fizikai-kémiai, toxikológiai, ökotoxikológiai vizsgálatok eredményeit és ezek alapján az egészség-, a környezet-, a fogyasztó- és a munkavédelem követelményeit, valamint az e követelmények megvalósítása érdekében szükséges teendőket tartalmazó dokumentáció;
+
+t) biztonsági adatlap: a veszélyes anyag, illetve a veszélyes készítmény azonosítására, veszélyességére, kezelésére, tárolására, szállítására, a hulladékkezelésre, valamint az egészséget nem veszélyeztető munkavégzés feltételeire vonatkozó dokumentum;
+
+u) tevékenység: a veszélyes anyaggal, illetve a veszélyes készítménnyel kapcsolatos előállítás - ideértve a bányászatot (feltáró fúrás, kitermelés) is -, a gyártás, a feldolgozás, a csomagolás, a tárolás, az anyagmozgatás, a forgalmazás, az értékesítés, a felhasználás, továbbá a veszélyes anyagok, illetve a veszélyes készítmények elemzésével, ellenőrzésével kapcsolatos vizsgálat;
+
+v) kitapintható jelkép: olyan jelkép, mely gyengén látó vagy vak személy részére jelöli a veszélyes anyag vagy a veszélyes készítmény által előidézhető veszélyt;
+
+w) R mondat és R szám: a veszélyes anyagok, illetve a veszélyes készítmények kockázataira utaló mondat, illetőleg e mondat sorszáma;
+
+x) S mondat és S szám: a veszélyes anyagok, illetve a veszélyes készítmények biztonságos használatára utaló mondat, illetve e mondat sorszáma;
+
+y) GLP: a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) és az EU irányelvei alapján meghatározott helyes laboratóriumi gyakorlat.
+
+A törvény hatálya
+
+2. § (1) E törvény hatálya
+
+a) az embert és a környezetet veszélyeztető, a 3. § szerint veszélyesnek minősülő veszélyes anyagokra és készítményekre, illetőleg az ezekkel folytatott tevékenységekre,
+
+b) a törzskönyvezési eljárás befejeztéig - a veszélyességtől függetlenül - valamennyi új anyagra,
+
+c) az 5. § (1) bekezdése szerinti osztályozásig - az osztályba sorolhatóságtól függetlenül - valamennyi anyagra kiterjed.
+
+(2) E törvény hatálya - a külön jogszabályi rendelkezésekre tekintettel - a 23. § (6) bekezdésében foglalt, valamint a d) pont tekintetében a 20. § (6) bekezdésében meghatározott kivétellel nem terjed ki
+
+a) az emberi vagy az állatgyógyászati célra használt gyógyszerekre (késztermékekre);
+
+b) a pszichotrop anyagokra, illetve a kábítószerekre;
+
+c) a kozmetikai termékekre;
+
+d) a külön jogszabály szerint hulladéknak minősülő anyagkeverékekre;
+
+e) a radioaktív anyagokra;
+
+f) az élelmiszerekre;
+
+g) a takarmányokra;
+
+h) a növényvédő szerekre és a termésnövelő késztermékekre;
+
+i) az egyéb veszélyes anyagokra vagy veszélyes készítményekre, amelyekkel kapcsolatban jogszabály olyan bejelentési, engedélyezési vagy egyéb közigazgatási eljárást ír elő, amelynek során érvényesített követelmények megfelelnek az e törvényben meghatározott követelményeknek.
+
+(3) Az emberi egészség és a környezet védelme érdekében jogszabály elrendelheti e törvény egyes rendelkezéseinek alkalmazását a (2) bekezdés a)-i) pontjában felsoroltakra.
+
+(4) E törvény rendelkezéseit nem kell alkalmazni a veszélyes áruk szállítására vonatkozó, Magyarország által is aláírt nemzetközi egyezmények hatálya alá is tartozó veszélyes anyagok, illetőleg veszélyes készítmények tekintetében, amennyiben e nemzetközi egyezmények a csomagolásra, a feliratozásra (címkézésre), a szállítás részét képező átmeneti tárolásra, a be- és kirakásra eltérő rendelkezéseket állapítanak meg.
+
+(5) Abban a kérdésben, hogy valamely anyag vagy készítmény e törvény hatálya alá tartozik-e - kétség esetén - a 25. § szerinti tárcaközi bizottság állásfoglalása az irányadó.
+
+II. Fejezet
+
+AZ ANYAGOK ÉS A KÉSZÍTMÉNYEK EMBERRE ÉS KÖRNYEZETRE VALÓ VESZÉLYESSÉGÉNEK MEGHATÁROZÁSA, A VESZÉLY AZONOSÍTÁSA
+
+A veszélyesség meghatározása
+
+3. § E törvény alkalmazása szempontjából veszélyesnek minősül az az anyag, illetve az a készítmény, amely az osztályozás során az alábbi veszélyességi csoportok bármelyikébe besorolható:
+
+a) az anyagok és készítmények fizikai, fizikai-kémiai és kémiai tulajdonságai alapján, tűz- és robbanásveszélyesség szerint:
+
+aa) robbanó anyagok és készítmények - az olyan folyékony, képlékeny, kocsonyás vagy szilárd anyagok és készítmények, amelyek a légköri oxigénnel vagy anélkül, gyors gázfejlődéssel járó hőtermelő reakcióra képesek, és amelyek adott kísérleti körülmények között, illetőleg nyomásra vagy hőre felrobbannak,
+
+ab) oxidáló anyagok és készítmények - azok az anyagok és készítmények, amelyek más, elsősorban gyúlékony anyagokkal érintkezve erősen hőtermelő reakciót adnak,
+
+ac) fokozottan tűzveszélyes anyagok és készítmények
+
+- azok a folyékony anyagok és készítmények, amelyeknek lobbanás- és forráspontja rendkívül alacsony,
+
+- azon gázok, amelyek a környezeti hőmérsékleten és nyomáson a levegővel érintkezve gyúlékonyak,
+
+ad) tűzveszélyes anyagok és készítmények - azok az anyagok és készítmények, amelyek
+
+- a levegőn, normális hőmérsékleten öngyulladásra képesek,
+
+- szilárd halmazállapotban valamely gyújtóforrás rövid ideig tartó behatására könnyen meggyulladnak, majd a gyújtóforrás eltávolítása után tovább égnek vagy bomlanak,
+
+- olyan folyékony anyagok és készítmények, amelyek nagyon alacsony lobbanásponttal rendelkeznek,
+
+- vízzel vagy nedvességgel érintkezve könnyen gyulladó gázt fejlesztenek, veszélyes mennyiségben,
+
+ae) kevésbé tűzveszélyes anyagok és készítmények
+
+- olyan folyékony anyagok és készítmények, amelyek alacsony lobbanásponttal rendelkeznek;
+
+b) az anyagok és készítmények mérgező (toxikológiai) tulajdonságai alapján, toxikológiai sajátosságok szerint:
+
+ba) nagyon mérgezőek - azok az anyagok és készítmények, amelyek belégzésük, lenyelésük vagy a bőrön át történő felszívódásuk esetén igen kis mennyiségben - a közepes halálos dózis szájon át kisebb, mint 25 mg/testtömegkilogramm, bőrön át kisebb mint 50 mg/testtömegkilogramm - halált, heveny egészségkárosodást okoznak,
+
+bb) mérgezőek - azok az anyagok és készítmények, amelyek belégzésük, lenyelésük vagy a bőrön át történő felszívódásuk esetén kis mennyiségben - a közepes halálos dózis szájon át 25-200 mg/testtömegkilogramm, bőrön át 50-400 mg/testtömegkilogramm - halált, heveny egészségkárosodást okoznak,
+
+bc) ártalmasak - azok az anyagok és készítmények, amelyek a belégzésük, lenyelésük vagy a bőrön át történő felszívódásuk esetén halált, heveny egészségkárosodást okozhatnak, és nem sorolhatóak a ba)-bb) alpont szerinti veszélyességi osztályba,
+
+bd) maró (korrozív) anyagok és készítmények - amelyek élő szövettel érintkezve azok elhalását okozzák,
+
+be) irritáló vagy izgató anyagok és készítmények - olyan nem maró anyagok és készítmények, amelyek a bőrrel, szemmel vagy a nyálkahártyával való pillanatszerű, hosszan tartó vagy ismételt érintkezésük esetén gyulladást okoznak,
+
+bf) túlérzékenységet okozó (allergizáló, szenzibilizáló) anyagok és készítmények - amelyek ismételt belégzésüket, illetőleg a bőrön vagy a nyálkahártyán történő ismételt felszívódásukat követően túlérzékenységet okoznak. A túlérzékenység gyulladásos (bőr, nyálkahártya, kötőhártya), fulladásos reakcióban (tüdő) vagy a keringés összeomlásának formájában jelenhet meg,
+
+bg) karcinogén anyagok és készítmények - olyan anyagok és készítmények, amelyek belégzéssel, szájon át, a bőrön, a nyálkahártyán keresztül vagy egyéb úton a szervezetbe jutva daganatot okoznak, vagy előfordulásának gyakoriságát megnövelik,
+
+bh) mutagén anyagok és készítmények - amelyek belégzéssel, szájon át, a bőrön, a nyálkahártyán keresztül vagy egyéb úton a szervezetbe jutva genetikai károsodást okoznak vagy megnövelik a genetikai károsodások gyakoriságát,
+
+bi) reprodukciót és az utódok fejlődését károsító anyagok és készítmények - amelyek belégzéssel, szájon át, a bőrön, a nyálkahártyán keresztül vagy egyéb úton a szervezetbe jutva megzavarják, általában gátolják a reprodukciót, illetve az utódokban morfológiai, illetőleg funkciós károsodást okoznak;
+
+c) az anyagok és készítmények környezetkárosító (ökotoxikológiai) tulajdonságai alapján, ökotoxikológiai sajátosságok szerint:
+
+ca) környezetre veszélyes anyagok és készítmények - amelyek a környezetbe jutva a környezet egy vagy több elemét azonnal vagy meghatározott idő elteltével károsítják, illetve a környezet állapotát, természetes ökológiai egyensúlyát, biodiverzitását megváltoztatják.
+
+Az anyagok és a készítmények tulajdonságainak a vizsgálata
+
+4. § (1) Az anyagok veszélyességét a 3. § szerinti veszélyességi jellemzők meghatározására irányuló, a veszélyesség tekintetében mindenre kiterjedő vizsgálatokkal kell megállapítani. A veszélyesség meghatározásának alapelveit, valamint a vizsgálatok módszereit az EU irányelveinek, az OECD ajánlásainak és a GLP követelményeinek figyelembevételével az egészségügyi, a környezetvédelmi, valamint a belügyminiszter együttesen rendeletben határozza meg.
+
+(2) Az (1) bekezdésben meghatározott vizsgálattól eltérő módszerrel korábban nyert adatok esetében az e törvénynek megfelelő új vizsgálat szükségességéről esetenként a Fodor József Országos Közegészségügyi Központ (a továbbiakban: OKK) főigazgatója dönt. A döntés során tekintetbe kell venni a gerinces állatokon végzett vizsgálatok minimálisra szorításának szükségességét is.
+
+(3) A gerinces állatokon végzett vizsgálatok számának, illetőleg terjedelmének csökkentése nem eredményezheti a vizsgálati eredmények megbízhatóságának csökkenését.
+
+(4) A veszélyes anyagok magyarországi jegyzékében már szereplő, osztályba sorolt veszélyes anyagokat nem kell ismételten megvizsgálni.
+
+III. Fejezet
+
+AZ ANYAGOK ÉS KÉSZÍTMÉNYEK VESZÉLYESSÉG SZERINTI OSZTÁLYOZÁSA, BEJELENTÉSE, AZ ÚJ ANYAGOK TÖRZSKÖNYVEZÉSE
+
+Osztályozás, jegyzékbe vétel
+
+5. § (1) A veszélyesség meghatározása érdekében az anyagokat tulajdonságaik, a készítményeket a bennük lévő veszélyes anyagok tulajdonságai szerint osztályozni kell a 3. §-ban meghatározott kategóriáknak megfelelően.
+
+(2) Az anyagok, illetve a készítmények osztályozását a gyártó, illetve az importáló végzi. Az osztályozás alapján veszélyesként osztályba sorolható anyagokat, illetve készítményeket - veszélyességüknek megfelelően - szimbólummal, veszélyjellel, R számmal és mondattal, valamint S számmal és mondattal látja el.
+
+(3) Az (1)-(2) bekezdésben előírtak szerint osztályba sorolt veszélyes anyagok magyarországi jegyzékét - osztályba sorolásukkal és feliratozásukkal együtt - az egészségügyi miniszter közreadja, és gondoskodik a bekövetkezett változások rendszeres - legalább 3 havonta történő - közzétételéről.
+
+(4) A veszélyes anyagok magyarországi jegyzékében nem szereplő, új veszélyes anyagnak nem minősülő, valamint az ELINCS-ben feltüntetett veszélyes anyagot a veszélyes anyagok magyarországi jegyzékébe történő felvétel céljából, az osztályba sorolást követően, a gyártó vagy az importáló bejelenti a 6-7. §-ban foglaltak szerint.
+
+(5) A veszélyes készítményt a gyártó vagy az importáló az osztályba sorolást követően bejelenti a 8. §-ban foglaltak szerint.
+
+(6) Ismert összetételű, osztályba sorolt veszélyes készítmény újraosztályozandó minden olyan esetben, amikor összetételében változás történt. Az újraosztályozást akkor is el kell végezni, ha valamely összetevő helyettesítése vagy további anyagok hozzáadása történt, függetlenül a helyettesítő, illetve a hozzáadott anyag veszélyességétől. Ha a veszélyes készítmény veszélyes összetevőinek száma megváltozik, illetve valamely veszélyes összetevője más veszélyes összetevőre változik, vagy a veszélyes készítmény veszélyessége bármely egyéb okból módosul, akkor a változás tényére - egyes, külön jogszabályban meghatározott kőolajipari termékek kivételével - a készítmény elnevezésében utalni kell. A készítmény elnevezésének megváltoztatása alól az OKK főigazgatója - a gyártó vagy az importáló indokolt kérelme alapján - felmentést adhat olyan esetekben, amikor az összetétel változása sem a készítmény veszélyességében, sem pedig a használati értékében nem okoz változást. A készítmény elnevezésének változatlansága esetén is a termék összetételének feltüntetése során az összetétel, illetőleg a veszélyesség megváltozására utalni kell.
+
+(7) A gyártók, illetve az importálók minden szükséges intézkedést kötelesek megtenni a veszélyes anyag, illetve veszélyes készítmény veszélyességére vonatkozó új információk beszerzése érdekében, de új adatok szerzése végett - jogszabály eltérő rendelkezése hiányában - állatkísérletek elvégzésére nem kötelezhetőek.
+
+(8) A veszélyesség szerinti besorolást az új tudományos ismeretek alapján, a gyakorlatban szerzett, illetőleg az emberi mérgezésekkel kapcsolatos tapasztalatok megismerését követően haladéktalanul felül kell vizsgálni.
+
+Bejelentés
+
+6. § (1) A veszélyes anyagokat és a veszélyes készítményeket - az ELINCS-ben nem szereplő új veszélyes anyagok, valamint a (2) bekezdésben foglaltak kivételével - a gyártó, illetve az importáló (a továbbiakban együtt: bejelentő) az azzal kapcsolatos tevékenység megkezdését megelőzően bejelenti, amennyiben a tevékenység során alkalmazott veszélyes anyag a magyarországi jegyzékben, illetve veszélyes készítmény a terméknyilvántartásban még nem szerepel. Az új veszélyes anyagok jegyzékbevételét az OKK-OKBI a törzskönyvezési eljárás lefolytatását követően, külön bejelentés nélkül, hivatalból végzi.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően nem kell bejelenteni a kizárólag ellenőrzött körülmények között végzett kutatási és fejlesztési célra, kísérleti gyártásra és nem termelőüzemi méretű kipróbálásra gyártott, illetőleg importált veszélyes anyagokat vagy veszélyes készítményeket. A gyártó, illetőleg az importáló a rendelkezésre álló, a veszélyesség meghatározása, a tevékenységet végző egészsége és biztonsága szempontjából lényeges adatokat ebben az esetben is köteles a tevékenységet végző rendelkezésére bocsátani. Minden olyan gyártónak vagy importálónak, aki (amely) a bejelentés mellőzésének lehetőségével élni kíván, az OKK-OKBI által elérhető írásos nyilvántartást kell vezetnie a gyártott, illetve importált veszélyes anyagról, illetőleg veszélyes készítményről, a feliratozási és mennyiségi adatokról. A gyártót, illetve importálót a bejelentés mellőzésének lehetősége a gyártástól, illetőleg a behozataltól vagy ezek megkezdésétől számított egy évig illeti meg, mely indokolt esetben az OKK főigazgatójának engedélyével egy évvel meghosszabbítható, ha a gyártó, illetve az importáló a meghosszabbítás szükségességét indokolja.
+
+(3) A veszélyes anyagok, illetőleg a veszélyes készítmények bejelentésére vonatkozó e törvényben foglalt rendelkezéseket Magyarország EU-hoz történő csatlakozásáig kell alkalmazni azzal, hogy az ELINCS-ben szereplő új veszélyes anyagok tekintetében ezen időponttól a 9. §-ban foglalt rendelkezések irányadóak.
+
+Veszélyes anyag bejelentése
+
+7. § (1) A veszélyes anyagokat az egészségügyi miniszter által meghatározott bejelentőlapon kell bejelenteni.
+
+(2) A bejelentő a veszélyes anyag bejelentéséhez csatolja a magyar nyelvű biztonsági adatlapot és címketervet, amelyeken feltünteti az anyag veszélyesség szerinti besorolását is. A benyújtott dokumentációhoz a jegyzékbevételt végző adatkiegészítést kérhet.
+
+(3) Az ELINCS-ben közreadott veszélyes anyag bejelentése során a bejelentőlaphoz csatolni kell a veszélyes anyagot az EU területén törzskönyveztető írásbeli hozzájárulását a bejelentéshez, valamint a törzskönyveztető által kiadott, a rendelkezési jog biztosítását igazoló iratot, továbbá a hazai jegyzékbevételhez szükséges adatokat.
+
+(4) A veszélyes anyag bejelentésével kapcsolatos valamennyi adatszolgáltatásért, az adatok hitelességéért a bejelentő a felelős.
+
+(5) A veszélyes anyagra vonatkozó bejelentési eljárást nem kell alkalmazni a 2%-nál kevesebb monomert tartalmazó műanyagok - ideértve valamennyi polimert is - továbbá azon veszélyes anyagok esetében, amelyeknek az egyébként bejelentésre kötelezett által évenként gyártott vagy importált tömege nem éri el a 100 kg-ot, vagy halmozott össztömege az 1 tonnát, illetőleg a robbanó, a fokozottan tűzveszélyes, a maró, a nagyon mérgező, a karcinogén, a mutagén, valamint a reprodukciót és az utódok fejlődését károsító anyagok esetén az 1 kg-ot, vagy halmozott össztömege a 10 kg-ot.
+
+(6) Nem kell ismételten bejelenteni az (1)-(2) bekezdések szerint már bejelentett nagy tömegben - évente 10 tonnát meghaladó mennyiségben - gyártott vagy importált veszélyes anyagokat.
+
+(7) A bejelentés tudomásulvételéről az OKK-OKBI az előírt mellékletekkel rendelkező bejelentőlap beérkezésétől számított 15 napon belül, a bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt, valamint az ETTSZ-t. A bejelentett veszélyes anyagot az OKK-OKBI felveszi a magyarországi jegyzékbe.
+
+(8) Bármely gyártó vagy importáló, aki (amely) e törvény hatálybalépését megelőző 3 évben, illetve az azt követő évben legalább egy alkalommal évi 10 tonnát meghaladó mennyiségben veszélyes anyagot gyárt(ott) vagy importált(t), az egészségügyi miniszter által meghatározott információt köteles bejelenteni. Amennyiben a veszélyes anyag szerepel a közösségi jegyzéken, a bejelentést 12, amennyiben a veszélyes anyag szerepel az EINECS-ben, de a közösségi jegyzéken nem, illetve a fentiek szerint gyártott vagy importált mennyisége nem haladja meg az 1000 tonnát, a bejelentést 24 hónapon belül kell megtenni.
+
+Veszélyes készítmények bejelentése
+
+8. § (1) A veszélyes készítményeket az egészségügyi miniszter által meghatározott bejelentőlapon kell bejelenteni. A bejelentő a bejelentőlaphoz köteles csatolni a veszélyes készítmények magyar nyelvű biztonsági adatlapját.
+
+(2) Kizárólag a már bejelentett veszélyes anyagot, illetőleg törzskönyvezett anyagot tartalmazó veszélyes készítmény jelenthető be.
+
+(3) A veszélyes készítmények bejelentésével kapcsolatosan megkövetelt adatok hitelességéért a bejelentő a felelős.
+
+(4) Nem kell bejelenteni azokat a készítményeket, amelyeket e törvény hatálybalépését megelőzően a gyártó, illetve az importáló már bejelentett, illetőleg amelyek országos forgalmazási engedélyt kaptak.
+
+(5) A bejelentés tudomásulvételéről az OKK-OKBI az előírt mellékletekkel rendelkező bejelentőlap beérkezésétől számított 15 napon belül, a bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt és az ETTSZ-t.
+
+Új anyagok törzskönyvezése
+
+9. § (1) Új anyaggal - a (2)-(4), valamint a (14) bekezdésre figyelemmel, valamint az egészségügyi miniszter által meghatározott kivételekkel - csak törzskönyvezést követően lehet tevékenységet végezni.
+
+(2) Magyarország területén új anyag önmagában vagy készítmény összetevőjeként akkor hozható kereskedelmi vagy bármely más gazdasági tevékenység céljából forgalomba, ha azt a hazai törzskönyvező hatóság törzskönyvezte. Nincs szükség törzskönyvezésre azon új anyagok tekintetében, amelyek esetén a magyarországi forgalomba hozatalt végző
+
+a) gyártó az adott új anyagot az EU valamely tagállamának vagy az EU-val társulási megállapodást kötött bármely állam területén már előállítja, vagy
+
+b) importáló az új anyagot az EU valamely tagállamába, illetve az EU-val társulási megállapodást kötött bármely államba már importálja,
+
+és az érintett állam illetékes hatóságánál a 35. §-ban foglaltaknak megfelelően a forgalomba hozni szándékozott új anyagot már törzskönyvezték.
+
+(3) Az ELINCS-ben szereplő, az EU valamely tagállamában már törzskönyvezett új anyag esetében valamennyi új gyártó, illetőleg a törzskönyveztető írásbeli hozzájárulásával nem rendelkező új importőr köteles az anyag ismételt törzskönyveztetésére. Egyéb esetben ezen új anyagok törzskönyvezése, illetve ismételt hazai törzskönyvezése nem szükséges. Ismételt törzskönyveztetés esetén a törzskönyveztető az állatkísérletek megismétlésének lehetőség szerinti elkerülése érdekében az első, illetve bármely korábbi törzskönyveztetővel megállapodhat arról, hogy megkapja ezen kísérletek adatait.
+
+(4) Az e törvény hatálybalépését megelőzően már törzskönyvezett új anyagokat a törzskönyvezést korábban teljesítőnek ismételten törzskönyveztetnie nem kell.
+
+(5) Magyarországon előállított új anyagok esetében a törzskönyvezéshez szükséges dokumentációt a gyártó, külföldön előállított új anyagok esetén a magyarországi forgalomba hozatalt végezni szándékozó, illetőleg a külföldi gyártó magyarországi képviseletére jogosult természetes vagy jogi személy nyújtja be a törzskönyvezési eljárás lefolytatására.
+
+(6) Az új veszélyes anyag törzskönyvezésekor a kérelemhez a törzskönyveztető csatolja a műszaki dossziét, a vizsgálati bizonylatokat, a biztonsági adatlapot és a címketervet, valamint nyilatkozatot a gyártani, illetve importálni tervezett mennyiségekről (tonna/év) és a javasolt felhasználási és hulladékkezelési módról. Az osztályozás során veszélyes anyagként nem besorolható új anyagok törzskönyvezéséhez a vizsgálati bizonylatokat, valamint a műszaki dossziét kell csatolni.
+
+(7) A törzskönyvezési eljárás során a veszélyes anyag környezetkárosító kockázatának meghatározásához a környezetvédelmi miniszter vagy az általa kijelölt szerv egyetértése szükséges. A szakhatósági hozzájárulást a törzskönyvezést végző hatóság szerzi be.
+
+(8) Új anyag fizikai, fizikai-kémiai, kémiai, toxikológiai és ökotoxikológiai sajátosságait feltáró vizsgálatokat GLP minősítésű, illetőleg akkreditált laboratóriumok végezhetnek.
+
+(9) Új anyag (8) bekezdés szerinti sajátosságait feltáró vizsgálatok eredményéért a vizsgálatot végző laboratórium a felelős.
+
+(10) A vizsgálatot végző laboratórium (9) bekezdés szerinti felelőssége nem érinti a vizsgálatot elvégeztető felelősségét a vizsgálati anyag megfelelő szolgáltatásáért, a vizsgálatot megrendelő, illetőleg az anyaggal bármely tevékenységet végző felelősségét az e törvénynek megfelelő felhasználásáért, valamint a 21. § szerint a termékfelelősség körébe tartozó helytállási kötelezettséget.
+
+(11) A műszaki dosszié összeállítása, a törzskönyvezendő anyag osztályba sorolása, a magyar nyelvű biztonsági adatlap és címketerv elkészítése, illetve elkészíttetése a törzskönyveztető feladata.
+
+(12) A törzskönyvezéssel kapcsolatos valamennyi adatszolgáltatásért, az adatok hitelességéért a törzskönyveztető a felelős.
+
+(13) A törzskönyveztető a vizsgálatot végző laboratórium nevéről és címéről tájékoztatja az OKK-OKBI-t, egyidejűleg igazolást nyújt be arról, hogy jogosult a benyújtott vizsgálati adatok felhasználására. Ennek hiányában az OKK-OKBI az új anyag törzskönyvbe vételét, az OKK főigazgatója a törzskönyvezési okirat kiadását megtagadja.
+
+(14) Az ELINCS-ben szereplő veszélyes anyagok tekintetében e törvénynek a veszélyes anyagok törzskönyvezésére vonatkozó rendelkezéseit Magyarországnak az EU-hoz történő csatlakozásától kell alkalmazni.
+
+10. § Abban az esetben, ha az új anyag gyártani, illetve importálni tervezett tömege nem éri el az 1 tonna/év/gyártó, illetve importáló mennyiséget, a törzskönyvezési eljárás az egészségügyi miniszter által meghatározott, a törzskönyvezési eljárás módjának általános szabályaitól eltérő rend szerint folytat le.
+
+11. § A törzskönyvező hatóság a törzskönyvezési eljárást 60 napon belül lefolytatja, és az OKK főigazgatója a törzskönyvezésről okiratot állít ki, egyidejűleg a hatóság a törzskönyvezett veszélyes anyagot felveszi az 1. § h) pontja szerinti jegyzékbe. Az OKK főigazgatója a törzskönyvezési okiratot egy-egy példányban megküldi a törzskönyveztetőnek, valamint az ETTSZ-nek. Az ETTSZ-nek megküldött okirathoz a biztonsági adatlap és a műszaki dosszié egy példányát is csatolja.
+
+12. § (1) A törzskönyveztetőnek tájékoztatnia kell a törzskönyvező hatóságot a törzskönyvezett új veszélyes anyag
+
+a) gyártott vagy importált éves vagy halmozott mennyiségének változásáról;
+
+b) emberre, illetve környezetre kifejtett hatásaival kapcsolatos új ismeretekről;
+
+c) új felhasználásairól;
+
+d) összetételének változásairól;
+
+e) gyártójának, illetőleg importálójának adataiban bekövetkezett változásokról.
+
+(2) A törzskönyvezett, veszélyesként nem osztályozható új anyag esetén a törzskönyveztető tájékoztatási kötelezettsége az (1) bekezdés a) pontjában meghatározottakra nem terjed ki.
+
+A bejelentési és törzskönyvezési eljárás közös szabályai
+
+13. § A törzskönyvezési, továbbá bejelentési eljárások lefolytatása során az OKK-OKBI, az OKK főigazgatója, illetőleg az ETTSZ - a törzskönyveztető vagy a bejelentő eltérő nyilatkozata hiányában - a tudomására jutott adatokat, információkat nyilvánosságra nem hozhatja. Nem tekinthető üzleti titoknak, illetőleg bizalmasan kezelendő adatnak az anyag, illetve a veszélyes készítmény kereskedelmi neve, fő alkalmazási területe, a veszélyességének megítélése szempontjából jelentős fizikai, kémiai tulajdonsága, a toxikológiai és az ökotoxikológiai vizsgálatokból levont következtetés, a vizsgálatok értelmezése, valamint a vizsgálatokért és adatokért felelős intézet, szervezet, személy neve, címe, továbbá az elsősegélynyújtásra, mentésre, óvintézkedésekre, dekontaminálásra vonatkozó adat, illetve eljárás. A törzskönyvező hatóság felülvizsgálhatja, hogy a törzskönyveztető által titkosítani kívánt adat képezheti-e üzleti titok tárgyát.
+
+IV. Fejezet
+
+A VESZÉLYES ANYAGOK, ILLETVE VESZÉLYES KÉSZÍTMÉNYEK CSOMAGOLÁSA, FELIRATOZÁSA (CÍMKÉZÉSE), TÁROLÁSA, SZÁLLÍTÁSA, REKLÁMOZÁSA
+
+A csomagolás, tárolás, szállítás
+
+14. § (1) A veszélyes anyag, illetve a veszélyes készítmény kiszerelt, nem ömlesztett formában - a fogyasztóvédelemről szóló 1997. évi CLV. törvényben (a továbbiakban: Fvt.) foglalt követelmények megfelelő alkalmazásán kívül - olyan csomagolóeszközben, zárással, felirattal (címkével), szükség szerint egyéb jelzésekkel ellátva hozható forgalomba, hogy az veszélyes anyag, illetőleg veszélyes készítmény felhasználásáig biztosítsa az egészségkárosodás, illetve környezetszennyezés vagy -károsodás elkerülését.
+
+(2) Az (1) bekezdésben meghatározott károsodások elkerülése végett a csomagolóeszközt úgy kell megválasztani, hogy
+
+a) akadályozza meg a tartalom kiszóródását, kiszivárgását, kiömlését;
+
+b) azokat a csomagolóanyagokat, amelyekből a csomagolóeszköz és a záróelem készül, a tartalom ne károsíthassa, vele ártalmas vagy káros vegyületeket ne alkosson;
+
+c) a csomagolóeszközök és a záróelemek sérülés nélkül feleljenek meg a megfelelő anyagmozgatás, és bármilyen más, a felhasználás során történő rendeltetésszerű igénybevétel követelményeinek;
+
+d) az ismételt visszazárásra alkalmas záróelemmel ellátott csomagolóeszközből többszöri lezárást követően is megakadályozza a tartalom kijutását;
+
+e) a csomagolóeszközön, amely lakossági felhasználásra kereskedelmi forgalomba hozott
+
+ea) nagyon mérgező, mérgező, maró anyagokat, illetve készítményeket tartalmaz, gyermekbiztos zárás és veszélyre utaló, kitapintható jelkép (figyelmeztetés),
+
+eb) ártalmas, fokozottan tűzveszélyes, tűzveszélyes anyagokat, illetve készítményeket tartalmaz, veszélyre utaló, kitapintható jelkép (figyelmeztetés)
+
+is legyen;
+
+f) a csomagolóeszközön - az egészségügyi miniszter által meghatározott esetben - olyan záróelem vagy kiegészítő elem legyen, amely az első alkalommal történő felnyitáskor helyrehozhatatlanul megsérül.
+
+(3) Veszélyes anyagot vagy veszélyes készítményt tilos előállítani, gyártani, csomagolni élelmiszernek, illetőleg takarmánynak minősülő terméket előállító üzemben.
+
+(4) Eredetileg veszélyes anyaghoz vagy veszélyes készítményhez gyártott vagy használt csomagolóeszköz még tisztított, közömbösített állapotban és átmenetileg sem használható élelmiszer, takarmány, valamint ezek alapanyagainak tárolására.
+
+(5) Eredetileg élelmiszerekhez gyártott, illetve használt csomagolóeszköz veszélyes anyag vagy veszélyes készítmény tárolására nem használható.
+
+15. § (1) A veszélyes anyagok és a veszélyes készítmények tárolásáért szervezett munkavégzés esetében a munkáltató, nem szervezett munkavégzés során a vállalkozó, illetve - egyéb nem szervezett munkavégzés esetén - a tevékenység végzésére a tevékenység bejelentésével jogot szerző természetes vagy jogi személy felelős. Bejelentéshez nem kötött tevékenység esetén a veszélyes anyagok és a veszélyes készítmények megfelelő módon történő tárolásáért a tevékenységet végző felel.
+
+(2) A veszélyes anyagok, illetve a veszélyes készítmények tárolásáért az (1) bekezdés szerint felelős személyek biztosítják, hogy a tárolt veszélyes anyag, illetve veszélyes készítmény a biztonságot, az egészséget, illetve testi épséget ne veszélyeztesse, illetőleg a környezetet ne szennyezhesse, károsíthassa.
+
+16. § A veszélyes anyagok és a veszélyes készítmények szállítása során az élet, a testi épség, valamint a környezet veszélyeztetésének kockázatát a minimálisra kell csökkenteni. Ennek érdekében a veszélyes anyagok, illetve a veszélyes készítmények csomagolását, illetőleg a szállítóeszközt úgy kell megválasztani, hogy a szállított anyag, készítmény a rakodás és szállítás során az egészséget, illetve a környezetet ne veszélyeztethesse, illetőleg ne károsíthassa.
+
+A veszélyes anyagok, illetve a veszélyes készítmények feliratozása, címkézése
+
+17. § (1) Bármely bejelentéshez kötött tevékenység csak a (2)-(8) bekezdés szerint feliratozott (címkézett) veszélyes anyaggal, illetve veszélyes készítménnyel végezhető.
+
+(2) A feliratot (címkét) a tevékenység során alkalmazott valamennyi csomagolási egységen el kell helyezni. A felirat (címke) magyar nyelven jól olvashatóan és letörölhetetlen módon tartalmazza
+
+a) a termék nevét, a benne lévő veszélyes anyag megnevezését a magyarországi jegyzékben szereplő valamely megnevezés szerint, vagy - a jegyzékbevételig - valamely hivatalos nemzetközi elnevezés magyar megfelelőjét;
+
+b) a gyártó, az importáló vagy a magyarországi forgalmazó megnevezését és teljes címét, telefonszámát;
+
+c) a veszélyes anyag, illetve a veszélyes készítmény használatával felmerülő veszély megjelölését és a veszély jelképét (szimbólumát);
+
+d) a veszélyes anyag, illetve a veszélyes készítmény használatával járó különös kockázatokat megjelölő, az egészségügyi miniszter által meghatározott szabványmondatokat (R mondat);
+
+e) a veszélyes anyag, illetve a veszélyes készítmény biztonságos használatával kapcsolatos, az egészségügyi miniszter által meghatározott szabványmondatokat (S mondat);
+
+f) az Európai Közösségben (EU-ban) jegyzékbe vett veszélyes anyagok esetén az EINECS, illetve az ELINCS szerinti jegyzékszámot. Az e jegyzékekben szereplő anyagok esetében - a lakossági forgalomba kerülő veszélyes anyagok esetén 2002. január 1. napjától - a feliraton (címkén) szerepelnie kell az „EK felirat” szavaknak is;
+
+g) a Magyarországon törzskönyvezett veszélyes anyagok esetében a magyar törzskönyvezési számot.
+
+(3) Az irritáló, oxidáló, tűzveszélyes, kevésbé tűzveszélyes veszélyességi osztályba sorolt, valamint a lakosság számára nem forgalmazott ártalmas anyagok és ártalmas készítmények esetében az R mondatokat és az S mondatokat nem kell feltüntetni azokon a csomagolási egységeken, amelyek nem tartalmaznak 125 ml-nél nagyobb mennyiséget.
+
+(4) A feliraton (címkén) a (2) bekezdés szerinti információkat olyan módon kell feltüntetni, hogy azok a háttértől szembeötlő módon elkülönüljenek és a jól olvashatóságot lehetővé tévő méretűek legyenek.
+
+(5) A veszélyt jelző szimbólumot fekete színnel narancssárga alapra kell nyomtatni. A felirat (címke) vagy a csomagolás színének és megjelenésének olyannak kell lennie, hogy a veszélyt jelző szimbólum és annak háttere jól látható legyen.
+
+(6) A feliratot (címkét) a csomagolás egy, illetve több oldalán úgy kell elhelyezni, hogy ha a csomagot szabályosan teszik le, azt vízszintesen lehessen olvasni.
+
+(7) A veszélyes anyagok és veszélyes készítmények felirata (címkéje) megtévesztő jelölést vagy szöveget nem tartalmazhat.
+
+(8) Az (1)-(7) bekezdésben foglalt rendelkezések nem érintik az Fvt.-ben az áruk címkézésére vonatkozó szabályok megfelelő alkalmazását.
+
+(9) Kivételes esetekben, saját ipari célra továbbhasznált veszélyes anyagok és készítmények esetében az eredeti nyelven történő feliratozás megváltoztatása (újracímkézése) abban az esetben nem szükséges, ha az eredeti címkén a veszélyt jelző szimbólum, veszélyjel, CAS-szám, R és S szám jól olvasható, és a biztonsági adatlappal megegyező tartalmú írásos használati utasítást, dokumentációt bocsátanak magyar nyelven a tevékenységet végző rendelkezésére.
+
+A veszélyes anyagok, illetve a veszélyes készítmények reklámozása
+
+18. § (1) Veszélyes anyagok, illetve veszélyes készítmények külön törvényben foglalt egyéb feltételek mellett csak abban az esetben reklámozhatóak, ha a reklám tartalmazza a reklámozott termék 3. § szerinti veszélyességi osztályának egyértelmű megjelölését.
+
+(2) Tilos a forgalomba hozandó veszélyes anyagot, illetve veszélyes készítményt nem veszélyesként reklámozni, illetőleg olyan kifejezést, megjelölést használni, amely a veszély nem megfelelő értékelését eredményezheti.
+
+(3) Csomagküldés útján történő értékesítés esetén a termékre vonatkozó reklámhordozónak és a termék leírásának egyértelműen utalnia kell a megrendelhető termék veszélyességére.
+
+V. Fejezet
+
+KOCKÁZATBECSLÉS, KOCKÁZATCSÖKKENTÉS
+
+19. § (1) A veszélyes anyag egész életciklusa alatt a veszélyes anyagokkal, illetve a veszélyes készítményekkel végzendő tevékenység megkezdése előtt a tevékenységet végző az adott tevékenység emberi egészséget és környezetet károsító kockázatairól becslést készít, a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) rendelkezéseire figyelemmel. A kockázatbecslés elvégzéséért szervezett munkavégzés esetén a munkáltató, egyéb esetben a vállalkozó, nem vállalkozás keretében végzett tevékenység esetén a tevékenységet végző a felelős.
+
+(2) A kockázatbecslés érdekében a következők elvégzése szükséges:
+
+a) a veszély azonosítása;
+
+b) az expozíció-hatás (koncentráció/dózis-hatás) összefüggés elemzése;
+
+c) az expozíció becslése;
+
+d) a kockázat minőségi, illetve mennyiségi jellemzése.
+
+(3) Az OKK-OKBI a törzskönyvezendő veszélyes anyagok esetében a törzskönyvezési eljárás során, illetve a bejelentendő veszélyes anyagok bejelentését követően - a legalább 10 tonna/év mennyiségben gyártott, illetve forgalmazott veszélyes anyag esetén - a környezetvédelmi miniszter vagy az általa kijelölt szerv szakhatósági közreműködésével elvégzi a környezetvédelmi és az egészségügyi miniszter által meghatározott adatszolgáltatás elemzését, illetve kockázatbecslést.
+
+(4) A (3) bekezdés szerinti kockázatbecslés elvégzése nem érinti az (1) bekezdés alapján a tevékenység megkezdését megelőzően elvégzendő kockázatbecslést.
+
+(5) A veszélyes anyaggal, illetőleg a veszélyes készítménnyel tevékenységet végző a kockázat kezelése, csökkentése érdekében intézkedéseket dolgoz ki. Ez a kötelezettség nem érinti az Mvt.-ben, illetőleg a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvényben foglalt egyéb követelmények teljesítését.
+
+(6) Az (1)-(2), valamint az (4)-(5) bekezdésben foglalt rendelkezéseket nem kell alkalmazni a magáncéllal, nem foglalkozás körében végzett tevékenység megkezdését megelőzően.
+
+VI. Fejezet
+
+A KOCKÁZAT KEZELÉSE
+
+Egészségvédelem, munkavédelem, lakosság- és fogyasztóvédelem, környezetvédelem, termékfelelősség
+
+20. § (1) A veszélyes anyagok, illetve a veszélyes készítmények előállításának, gyártásának, feldolgozásának, továbbá felhasználásának megkezdése előtt - ideértve a külföldről történő behozatalt is - a tevékenységhez az azonos célra alkalmas veszélyes anyagok, illetve veszélyes készítmények közül - lehetőség szerint - a kevésbé veszélyes anyagot (készítményt) kell kiválasztani. A kiválasztás indokolására a tevékenységet végző elvégzi a szükséges kockázatbecslést, valamint költség-haszon elemzést és azt az ellenőrzést végző hatóságnak - kérésére - bemutatja.
+
+(2) A tevékenységhez legalkalmasabb veszélyes anyag, illetve veszélyes készítmény kiválasztásához - szükség esetén - az OKK-tól vélemény kérhető.
+
+(3) A veszélyes anyaggal, illetve a veszélyes készítménnyel kapcsolatos tevékenységet úgy kell megtervezni és végezni, hogy a tevékenység az azt végzők és más személyek egészségét ne veszélyeztesse, a környezet károsodását, illetve szennyezését ne idézze elő, illetőleg annak kockázatát ne növelje meg. A tevékenység egészséget nem veszélyeztető és biztonságos végrehajtásáért, valamint a környezet védelméért szervezett munkavégzés keretében végzett tevékenység esetén a munkáltató, nem szervezett munkavégzés esetén a vállalkozó, illetve - egyéb nem szervezett munkavégzés esetén - a munkavégző a felelős.
+
+(4) A munkavállalók, illetőleg a lakosság egészségét vagy a környezetet nem megengedhető mértékben érintő kockázatok megfelelő szintre csökkentése érdekében - amennyiben a kockázat megfelelő csökkentése más módon nem lehetséges - egyes veszélyes anyagok, illetve veszélyes készítmények alkalmazása, illetőleg egyes, ezekkel végzett tevékenységek betilthatóak, korlátozhatóak.
+
+(5) A lakosság részére kiszerelt, nem ömlesztett formában forgalomba hozott veszélyes anyaghoz, illetve veszélyes készítményhez a forgalmazó mellékeli a biztonsági adatlapnak a rendeltetés szerinti használattal összefüggő adatainak felhasználásával elkészített, magyar nyelvű használati utasítást. A használati utasítást a gyártó vagy az importáló készíti el.
+
+(6) A környezet veszélyes anyagokkal történő szennyezésének megismerése érdekében egyes, a környezetvédelmi miniszter által meghatározott veszélyes anyagok levegőbe, vizekbe, közcsatornákba, talajra kibocsátott mennyiségeit, illetőleg hulladék formájában történő átadását a szennyezést okozó tevékenységet végző a Környezetvédelmi Minisztérium felügyelete mellett nyilvántartja. A nyilvántartott adatok alapján - az adatok rendszeres gyűjtésével és feldolgozásával - a Környezetvédelmi Minisztérium a kibocsátott szennyezésekről, illetőleg átadott hulladékokról regisztert állít fel, és hoz nyilvánosságra.
+
+(7) A fel nem használt és nem hasznosítható veszélyes anyagok, illetőleg veszélyes készítmények biztonságos kezeléséről a tevékenységet végző gondoskodik, és az erre vonatkozó dokumentációt az ellenőrzést végző hatóság részére - felhívására - rendelkezésre bocsátja.
+
+21. § (1) Az eredeti csomagolásban forgalomba hozott veszélyes anyagok, illetve veszélyes készítmények minőségéért - a termékfelelősségről szóló külön törvényben foglaltak szerint - a gyártó, illetőleg az importáló felelős.
+
+(2) A veszélyes anyag, illetve veszélyes készítmény, valamint a csomagolás alkalmasságát, minőségét a külön törvényben foglaltak szerint a Fogyasztóvédelmi Felügyelőség ellenőrzi. A veszélyes anyag, illetve veszélyes készítmény előállítója, illetőleg forgalmazója az ellenőrzést tűrni köteles.
+
+(3) A veszélyes anyagok, illetve a veszélyes készítmények felett rendelkezési jogosultsággal rendelkező személy, valamint az, akinek munka-, illetve feladatkörébe tartozik ezen anyagok, illetve készítmények megfelelő őrizete, gondoskodik arról, hogy azok a megszerzésükre jogosulatlan vagy biztonságos alkalmazásukra nem képes személyek birtokába ne kerüljenek.
+
+(4) A veszélyes anyagot, illetve a veszélyes készítményt az eredeti csomagolóeszközből tárolás, illetve továbbadás, forgalmazás céljából más, az azonosítást szolgáló feliratozás (címkézés) nélküli csomagolóeszközbe áttenni nem lehet.
+
+(5) A (3)-(4) bekezdésben foglalt rendelkezéseket a nem foglalkozásszerűen végzett, magáncélú tevékenység során is megfelelően alkalmazni kell.
+
+Biztonsági adatlap
+
+22. § (1) A munkahelyi egészség és biztonság, illetőleg a környezetvédelem érdekében szükséges intézkedések megtétele céljából veszélyes anyag, illetve veszélyes készítmény a tevékenységet foglalkozásszerűen végző személy számára a gyártó vagy az importáló által elkészített magyar nyelvű biztonsági adatlappal hozható forgalomba. Az adatlap tartalmazza az egészség és a környezet védelméhez szükséges információkat.
+
+(2) A tevékenységet végzőt a forgalmazó legkésőbb a termék első alkalommal történő kiszolgálásakor látja el a biztonsági adatlappal. A termék ismételt kiszolgálásakor a forgalmazónak a tevékenységet végzőt annak külön kérésére kell csak a biztonsági adatlappal ismételten ellátnia.
+
+(3) A biztonsági adatlap írásban vagy a felhasználó hozzájárulásával elektronikus úton rögzített módon is átadható.
+
+(4) A forgalmazó a biztonsági adatlap átvevőjéről nyilvántartást vezet, és a tudomására jutott új információkról őt haladéktalanul tájékoztatja. A forgalmazó ezen kötelezettsége az átvett veszélyes anyag vagy veszélyes készítmény szavatossági idejének lejártáig áll fenn.
+
+(5) A biztonsági adatlap tartalmának, illetve formájának részletes szabályait az egészségügyi miniszter határozza meg.
+
+VII. Fejezet
+
+A KOCKÁZATOK ISMERTETÉSE, KÖZLÉSE, INFORMÁCIÓCSERE
+
+A veszélyes anyagok, illetve a veszélyes készítmények nyilvántartása, információ-szolgáltatás
+
+23. § (1) Az ETTSZ a veszélyes anyagok, illetve a veszélyes készítmények országos nyilvántartása, illetőleg a terméknyilvántartás keretében gyűjti, feldolgozza és rendszerezi a felsoroltakkal kapcsolatos toxikológiai, közegészségügyi és klinikai adatokat.
+
+(2) Az ETTSZ az (1) bekezdés szerinti országos nyilvántartást, illetve - veszélyes készítmények esetén a terméknyilvántartást - a bejelentett adatok alapján vezeti. A veszélyes anyagok, illetve a veszélyes készítmények törzskönyvezését, jegyzékbe vételét, illetőleg nyilvántartásba vételét végző szerv az (1) bekezdésben megjelölt adatokat az ETTSZ-nek megküldi.
+
+(3) Az ETTSZ a veszélyes anyagokra, illetve a veszélyes készítményekre vonatkozó, általa nyilvántartott adatokról - a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvénynek a közérdekű adatok nyilvánosságára irányadó rendelkezései szerint - megkeresésre felvilágosítást ad. Az ETTSZ biztosítja az ezen adatokhoz történő folyamatos - napi 24 órás hozzáférés lehetőségét.
+
+(4) Az ETTSZ az (1) bekezdésben meghatározott adatokon kívül megkeresésre felvilágosítást ad az ELINCS és az EINECS, valamint az Európai Közösség (EU) e törvény alkalmazásával összefüggő irányelveinek tartalmáról.
+
+(5) Az ETTSZ az általa szolgáltatott felvilágosításról nyilvántartást vezet.
+
+(6) A Magyarország területén előforduló bármilyen eredetű, vegyi anyag okozta emberi mérgezési esetet az egészségügyi miniszter által meghatározott módon az ETTSZ-hez be kell jelenteni.
+
+Információs Központ a hazai és a nemzetközi adatok fogadására és feldolgozására
+
+24. § (1) Az OKK-OKBI-ben Információs Központ (a továbbiakban: Központ) működik.
+
+(2) A Központ végzi a kémiai biztonsággal összefüggő nemzetközi információk gyűjtését, a fontosabb információk magyar nyelvre fordítását és valamennyi, a kémiai biztonságban érintett szervezet, forgalmazó és felhasználó számára történő hozzáférhetővé tételét. A Központ egyidejűleg gyűjti, elemzi és értékeli a kémiai biztonsággal, a veszélyes anyagok kezelésével kapcsolatos hazai adatokat, és a nemzetközi, illetve hazai adatokból levont következtetéseiről tájékoztatja a 25. § szerinti, valamint a kémiai biztonság területén döntések előkészítésére, illetőleg döntések meghozatalára jogosult egyéb közigazgatási szerveket.
+
+(3) A Központ végzi az OECD tagországok részére a veszélyes anyagokra vonatkozó adatok cseréjét. Az információcsere célja kizárólag a veszélyes anyagokra vonatkozó kockázat elbírálása, illetve az emberi élet és egészség védelme, továbbá a környezetvédelem lehet. Adat kizárólag olyan tagország részére közölhető, amelynek jogszabályai a közölt adat védelmét legalább a hazai jogszabályoknak megfelelően biztosítják.
+
+A kémiai biztonságot koordináló tárcaközi bizottság
+
+25. § (1) A kémiai biztonság irányításának koordinálása, részfeladatainak áttekinthetősége, az egységes és hatékony döntés-előkészítés céljából, a kémiai biztonság biztosításában való aktív nemzeti részvétel elősegítése érdekében tárcaközi bizottság működik.
+
+(2) A tárcaközi bizottság kidolgozza a kémiai biztonság nemzeti politikáját és programját - beleértve a közoktatási, illetve felsőoktatási intézmények tanulói, magánszemélyek és a szakemberek kémiai biztonsági oktatásának, képzésének rendszerét, módját is -, továbbá koordinálja a nemzeti program végrehajtását.
+
+(3) A tárcaközi bizottság javaslattételi, valamint véleményezési joggal részt vesz bármely, a kémiai biztonságot érintő jogszabály, illetőleg hatósági intézkedés előkészítésében, felülvizsgálatában.
+
+(4) A tárcaközi bizottság tagjai az egészségügyi, a környezetvédelmi, a gazdasági, a földművelésügyi és vidékfejlesztési, a közlekedési, hírközlési és vízügyi, az oktatási, a belügy, a pénzügy, a honvédelmi, valamint a szociális és családügyi miniszterek által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett társadalmi szervezetek által a Kormány rendeletében meghatározott módon delegált legfeljebb hat személy.
+
+(5) A tárcaközi bizottság operatív tevékenységét az OKK-ban működő titkárság segíti.
+
+26. § Amennyiben a 25. § szerinti tárcaközi bizottság bármely tagjának vagy a 32. § (1) bekezdésének alapján ellenőrzésre jogosult hatóságoknak kezdeményezésére a rendelkezésére álló új adatok alapján megállapítja, hogy valamely, a közösségi jegyzékben nem szereplő veszélyes anyag e törvény osztályozási, feliratozási (címkézési) vagy csomagolási előírásainak betartása mellett is veszélyt jelenthet az emberre, illetve a környezetre, a tárcaközi bizottság a Magyarországon osztályozott veszélyes anyag újraosztályozását javasolhatja, illetve - az újraosztályozás elvégzéséig vagy egyéb módon meghatározott időre - javaslatot tehet a 32. § (2) bekezdésének a) pontja szerinti hatóság számára a forgalomba hozatalnak az ország területén történő megtiltására, vagy külön feltételekhez kötésére, és - a 20. § (4) bekezdésére figyelemmel - az illetékes minisztereknél kezdeményezheti a 34. § (4) bekezdés db) alpontja és f) pontja szerinti rendelkezés meghozatalát, illetőleg annak módosítását.
+
+Oktatás
+
+27. § A kémiai biztonság, illetőleg a veszélyes anyagok, illetve a veszélyes készítmények helyes kezelésének alapelveit, legfontosabb szabályait - különösen a veszélyes anyagok, a veszélyes készítmények felismerésére, az általánosan használt veszélyes anyagok (készítmények) tárolására, felhasználására vonatkozó ismereteket - a Nemzeti Alaptantervnek tartalmaznia kell.
+
+VIII. Fejezet
+
+A VESZÉLYES ANYAGOKKAL, ILLETVE VESZÉLYES KÉSZÍTMÉNYEKKEL VÉGZETT TEVÉKENYSÉG FELTÉTELEI, A KÉMIAI BIZTONSÁG HATÓSÁGI ELLENŐRZÉSE
+
+A veszélyes anyagokkal, veszélyes készítményekkel végzett tevékenység feltételei
+
+28. § (1) Bármely tevékenység - a 6. § (2) bekezdésében meghatározott időtartamig az ellenőrzött körülmények között végzett kutatás, kísérleti gyártás és nem termelőüzemi méretű kipróbálás kivételével, a 7. § (5)-(6) bekezdésében foglalt rendelkezésekre figyelemmel - csak igazolható módon bejelentett vagy törzskönyvezett veszélyes anyaggal, illetve bejelentett veszélyes készítménnyel végezhető.
+
+(2) Az (1) bekezdésben meghatározott feltételeken kívül bármely veszélyes készítménnyel tevékenység csak akkor végezhető, ha a veszélyes készítményt alkotó veszélyes anyagoknak a bejelentése, illetve a törzskönyvezése megtörtént.
+
+(3) A veszélyes anyagokkal, illetőleg a veszélyes készítményekkel foglalkozásszerűen végzett tevékenység a felhasznált anyag vagy készítmény adatait tartalmazó biztonsági adatlap, egyéb tevékenység a használati utasítás birtokában kezdhető meg.
+
+29. § (1) E törvény hatálybalépését követően a hatálya alá tartozó tevékenységet folytatni kívánó természetes vagy jogi személy - a (3)-(4) bekezdésben foglalt kivételekkel - a tevékenységének megkezdése előtt ezt köteles bejelenteni az ÁNTSZ tevékenység gyakorlásának helye szerint területileg illetékes városi, fővárosi kerületi (a továbbiakban együtt: városi) intézetének.
+
+(2) A bejelentést meg kell ismételni a bejelentő, illetőleg a bejelentett tevékenység azonosításához szükséges bármely adat megváltozása esetén. A 7. § (8) bekezdésében foglalt esetben a gyártott vagy az importált mennyiségben bekövetkezett változásokat a gyártó, illetve az importáló 3 évenként jelenti be.
+
+(3) A magánszemélyek részére magáncélú, nem foglalkozás körében történő felhasználás céljából kereskedelmi forgalomba hozott veszélyes anyag, illetve veszélyes készítmény vásárlását, illetve felhasználását nem kell bejelenteni.
+
+(4) Az engedély visszavonásáig, illetve érvényességének lejártáig nem kell bejelenteni azt a tevékenységet, amelyet az arra jogosult e törvény hatálybalépésének napján érvényes tevékenységi engedély, illetve országos forgalmazási engedély alapján végez. Az e törvény hatálybalépése előtt kiadott általános tevékenységi engedély, illetőleg országos forgalmazási engedély csak abban az esetben vonható vissza, ha a tevékenység végzése nem felel meg az e törvényben, illetőleg a végrehajtásáról szóló jogszabályokban foglalt feltételeknek.
+
+(5) A veszélyes anyaggal, illetve a veszélyes készítménnyel végzett tevékenység előzetes bejelentése nem helyettesíti a veszélyes anyag, illetve a veszélyes készítmény előállításához, gyártásához, feldolgozásához vagy felhasználásához szükséges egyéb hatósági engedélyeket.
+
+30. § Veszélyes anyag, illetve veszélyes készítmény foglalkozás körében történő felhasználás céljából csak a tevékenység végzésére jogosult és a veszélyes anyag, illetőleg a veszélyes készítmény biztonságos alkalmazására képes olyan nagykorú természetes személy vagy jogi személy, illetve a képviseletében eljáró nagykorú személy részére szolgáltatható ki, aki (amely) a 29. § szerinti bejelentés tényét, illetőleg a veszélyes anyag, illetve a veszélyes készítmény átvételére való jogosultságát hitelt érdemlő módon igazolni tudja.
+
+31. § Az e törvényben foglalt követelményeknek megfelelő veszélyes anyagok, illetve veszélyes készítmények hazai forgalmazása kizárólag a 20. § (4) bekezdésében, valamint a 26. §-ban meghatározott esetben korlátozható vagy tiltható meg.
+
+A kémiai biztonság hatósági ellenőrzése
+
+32. § (1) A kémiai biztonság megvalósítását szolgáló jogszabályok betartásának ellenőrzését
+
+a) a közegészségügy szempontjából történő megfelelőség tekintetében az ÁNTSZ,
+
+b) a környezetvédelem vonatkozásában a környezetvédelmi felügyelőség,
+
+c) a munkabiztonság körében a munkabiztonsági és munkaügyi felügyelet szervei,
+
+d) a tűzvédelem szempontjából a tűzvédelmi hatóság,
+
+e) a fogyasztóvédelem tekintetében a fogyasztóvédelmi felügyelőség
+
+végzi. Az ellenőrzést végző felügyeletek feladat- és hatáskörére a rájuk vonatkozó külön jogszabályok rendelkezései az irányadóak.
+
+(2) A tevékenység ellenőrzésére az (1) bekezdés b)-e) pontja szerint jogosult hatóság feladatkörében eljárva - a rá vonatkozó külön jogszabályokban meghatározott intézkedések alkalmazásán túl - az e törvényben, illetőleg a végrehajtásáról szóló jogszabályokban foglalt rendelkezések megsértése esetén
+
+a) kezdeményezi az ÁNTSZ tevékenység végzésének helye szerint illetékes városi intézeténél
+
+aa) a gyártás korlátozását,
+
+ab) a tevékenység meghatározott időpontig vagy feltétel teljesítéséig történő megtiltását,
+
+ac) a 33. § szerinti bírság alkalmazását;
+
+b) a szabálysértési eljárás általános szabályai szerint szabálysértési eljárás, külön törvényben meghatározott esetben büntetőeljárás lefolytatását kezdeményezheti.
+
+(3) A városi intézet a (2) bekezdés szerinti intézkedéseket feladatkörében hivatalból, illetőleg az ellenőrzést végző felügyelet megkeresésére alkalmazza. Amennyiben az intézkedés alkalmazására nem az illetékes szakhatóság kezdeményezésére kerülne sor, úgy a határozathozatalt megelőzően kikéri annak hozzájárulását. A szakhatóság közreműködésére az államigazgatási eljárásról szóló 1957. évi IV. törvény 20-21. §-a az irányadó.
+
+(4) A (2) bekezdésben meghatározott intézkedések - értelemszerűen - egyidejűleg is alkalmazhatóak.
+
+(5) A városi intézet az élet, a testi épség, az egészség, valamint a környezet védelme érdekében elrendelheti a (2) bekezdés aa)-ab) alpontja alapján hozott határozatának azonnali végrehajtását.
+
+33. § (1) A városi intézet az e törvényben, illetőleg a végrehajtásáról rendelkező jogszabályokban foglalt, a veszélyes anyagokkal, illetve a veszélyes készítményekkel végzett tevékenységre vonatkozó rendelkezések megsértése esetén 5 millió forintig terjedő kémiai terhelési bírságot szabhat ki.
+
+(2) Az (1) bekezdés szerinti bírság konkrét összegét az eset összes körülményeire - így különösen az emberi egészség, illetőleg a környezet sérelmének, illetve a veszélyeztetésének mértékére, a jogsértő magatartás időtartamára, esetleges ismételt tanúsítására, valamint a hatékonyság, az arányosság és a visszatartó hatás elvére - tekintettel kell meghatározni.
+
+(3) A bírságot az Egészségügyi Minisztériumnak a Magyar Államkincstárnál vezetett számlájára kell befizetni. A bírság megfizetéséből származó bevétel kizárólag a kémiai biztonság hazai fejlesztésének, továbbá kutatásának, oktatásának, informatikai rendszerének bővítése érdekében szükséges állami, helyi önkormányzati vagy egyéb kezdeményezésű beruházások, más intézkedések költségvetési támogatásához használható fel.
+
+(4) A bírságot meg nem fizetése esetén adók módjára kell behajtani.
+
+-----STARTING---POINT---VEGE---
+
+IX. Fejezet
+
+ZÁRÓ RENDELKEZÉSEK
+
+34. § (1) Ez a törvény - a (2) bekezdés kivételével - 2001. január 1. napján lép hatályba, egyidejűleg az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 15. §-ának (5) bekezdése a hatályát veszti.
+
+(2) Az Állami Népegészségügyi és Tisztiorvosi Szolgálatról szóló 1991. évi XI. törvény 4. §-a (6) bekezdésének e) pontjában az „és engedélyezi ezek forgalomba hozatalát” szövegrész 2000. július 1. napján a hatályát veszti.
+
+(3) Felhatalmazást kap a Kormány, hogy
+
+a) a kémiai biztonság területén működő tárcaközi bizottság működésének,
+
+b) a kémiai terhelési bírság alkalmazásának
+
+részletes szabályait rendeletben meghatározza.
+
+(4) Felhatalmazást kap
+
+a) az egészségügyi miniszter, hogy
+
+aa) a veszélyes anyagok, illetve a veszélyes készítmények osztályba sorolásához szükséges R és S mondatok, R és S számok, továbbá a veszélyszimbólumok és jelek körét;
+
+ab) az e törvényben meghatározott eljárások során használt bejelentőlap, biztonsági adatlap, címketerv, műszaki dosszié, törzskönyvezési okirat, mérgezési eset bejelentő lap tartalmi és formai követelményeit,
+
+ac) a műszaki dosszié összeállításához szükséges adatszolgáltatási szempontokat, valamint a polimerekkel kapcsolatos műszaki dosszié összeállításának különös szabályait,
+
+ad) a csomagolás, a feliratozás (címkézés) részletes szabályait, a 2. § (4) bekezdésére figyelemmel,
+
+ae) a veszélyes anyagokra, illetve a veszélyes készítményekre vonatkozó bejelentési és a törzskönyvezési eljárás részletes szabályait,
+
+af) a vegyi anyagok okozta mérgezési esetek kötelező bejelentésének szabályait,
+
+ag) az osztályba sorolt veszélyes anyagok jegyzékbe vételének, a veszélyes készítmények nyilvántartásának rendjét, valamint a jegyzék közzétételére és rendszeres felülvizsgálatára vonatkozó részletes szabályokat,
+
+ah) a veszélyes anyagokkal és a veszélyes készítményekkel végzett tevékenység előzetes bejelentésének, a bejelentési eljárásnak a részletes szabályait,
+
+ai) a veszélyes anyagok és a veszélyes készítmények teljes életciklusára vonatkozó, a kémiai biztonsággal kapcsolatos helyes laboratóriumi gyakorlat alkalmazásának és ellenőrzésének részletes szabályait,
+
+b) az egészségügyi miniszter, hogy a környezetvédelmi miniszterrel egyetértésben a veszélyes anyagok, illetve veszélyes készítmények osztályozásának szempontjait,
+
+c) az egészségügyi, a környezetvédelmi és a belügyminiszter, hogy a veszélyes anyagok, illetve veszélyes készítmények emberre vagy a környezetre való veszélyessége meghatározásának alapelveit, a veszélyesség megállapítását célzó vizsgálatok módszereit és a vizsgálatok eredményének értékelését,
+
+d) az egészségügyi és a szociális és családügyi miniszter, hogy a
+
+da) veszélyes anyaggal, illetve veszélyes készítménnyel munkahelyen végzett tevékenység kémiai biztonsági szabályait,
+
+db) a munkavállalók egészségének védelme érdekében korlátozandó veszélyes anyagok, veszélyes készítmények, illetve tevékenységek körét, valamint a korlátozás módját,
+
+e) az egészségügyi, a földművelésügyi és vidékfejlesztési, a környezetvédelmi, valamint a gazdasági miniszter, hogy a nemzetközi információs rendszerben (PIC) megjelölt egyes veszélyes anyagok exportjának, importjának, forgalmazásának, használatának korlátozását,
+
+f) az egészségügyi, valamint a környezetvédelmi miniszter, hogy a lakosság egészségének, illetve a környezet védelme érdekében korlátozni indokolt veszélyes anyagok, illetve veszélyes készítmények, valamint tevékenységek körét, valamint a korlátozás módját,
+
+g) a környezetvédelmi és az egészségügyi miniszter, hogy a kockázatbecslés és a kockázatcsökkentés részletes szabályait, a munkavállalók kémiai biztonsághoz fűződő jogát érintő szabályok tekintetében a szociális és családügyi miniszterrel egyetértésben,
+
+h) az egészségügyi, a földművelésügyi és vidékfejlesztési miniszter, valamint a környezetvédelmi miniszter, hogy a biocid anyagok - ideértve a faanyag-védőszereket, az irtószereket, valamint a fertőtlenítő szereket - előállításának, gyártásának, forgalomba hozatalának, felhasználásának e törvénytől eltérő rendelkezéseit,
+
+i) a gazdasági miniszter, hogy az egészségügyi miniszterrel egyetértésben a veszélyes anyagok, illetve veszélyes készítmények gazdasági célú reklámozásának részletes szabályait,
+
+j) a környezetvédelmi miniszter, hogy
+
+ja) a veszélyes anyagok, illetve a veszélyes készítmények, valamint a veszélyes anyagot tartalmazó hulladékok környezetkárosító és -szennyező hatásainak megelőzését,
+
+jb) a környezetbe kerülő, szennyezést okozó veszélyes anyagok nyilvántartásának rendjét,
+
+k) a honvédelmi miniszter, hogy
+
+ka) a honvédségnél alkalmazott veszélyes anyagokkal, illetve veszélyes készítményekkel munkahelyen végzett tevékenység kémiai biztonsággal összefüggő szabályait,
+
+kb) a katonai célú robbanó- és pirotechnikai anyagok telephelyen kívüli szállításának, szállítási csomagolásának szabályait, valamint ezen anyagok felhasználásának e törvénytől eltérő részletes szabályait,
+
+l) a gazdasági miniszter a pénzügyminiszterrel egyetértésben meghatározza a vámellenőrzés alatt álló veszélyes anyagok és veszélyes készítmények tárolására vonatkozó, e törvény rendelkezéseitől eltérő szabályokat,
+
+m) a közlekedési, hírközlési és vízügyi miniszter, hogy e törvénnyel, illetőleg a vonatkozó Magyarország által is elfogadott nemzetközi egyezményekkel összhangban, a veszélyes anyagok, illetve veszélyes készítmények közúti, vasúti, légi, vízi fuvarozását, szállítását, a fuvarozásban, szállításban alkalmazott eszközök rakodását
+
+rendeletben meghatározza.
+
+(5) Az egészségügyi miniszter az EU-ban osztályozott, valamint az EINECS-ben szereplő anyagok jegyzékét 2000. november 30-ig közzéteszi.
+
+35. § Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival és azok módosításaival összeegyeztethető szabályozást tartalmaz:
+
+a) a Tanács 67/548/EGK irányelve a veszélyes anyagok osztályozására, csomagolására és címkézésére vonatkozó rendeletek összehangolásáról,
+
+b) a Tanács 88/379/EGK irányelve a veszélyes készítmények osztályozására, csomagolására és címkézésére vonatkozó rendeletek összehangolásáról,
+
+c) a Tanács  76/769/EGK irányelve a tagállamoknak az egyes veszélyes anyagok és készítmények értékesítésével kapcsolatos korlátozásokról szóló jogi és igazgatási előírásainak összehangolásáról,
+
+d) a Tanács 2455/92/EGK rendelete egyes veszélyes vegyi anyagok exportjáról és importjáról (PIC),
+
+e) a Tanács 793/93/EGK rendelete a létező vegyi anyagok emberekre és környezetre való veszélyességének értékeléséről és ellenőrzéséről,
+
+f) a Tanács 1488/94/EGK rendelete a kockázatértékelés alapelveiről,
+
+g) a Tanács 93/67/EGK irányelve a 67/548/EGK irányelvvel összhangban törzskönyvezett anyagok emberekre és környezetre való kockázatának megállapítására vonatkozó elvek meghatározásáról,
+
+h) a Tanács 98/8/EK irányelve a biocid termékek forgalmazásáról,
+
+i) a Tanács 87/18/EGK irányelve a helyes laboratóriumi gyakorlat (GLP) alkalmazására vonatkozó törvények, előírások és adminisztratív rendelkezések egyeztetéséről, továbbá azoknak a vegyi anyagokon végzett kísérleti alkalmazásának ellenőrzéséről,
+
+j) a Tanács 88/320/EGK irányelve a helyes laboratóriumi gyakorlat (GLP) felügyeletéről és ellenőrzéséről,
+
+k) a Tanács 98/24/EK irányelve a munkavállalók munkahelyi kémiai kóroki tényezőkkel szembeni védelméről,
+
+l) a Tanács 80/1107/EGK irányelve a munkavállalóknak a vegyi, fizikai és biológiai károsító anyagok munkavégzés közbeni veszélye elleni védelméről,
+
+m) a Tanács 88/364/EGK irányelve a munkavállalók védelmére, egyes hatóanyagok, illetőleg tevékenységek betiltására.

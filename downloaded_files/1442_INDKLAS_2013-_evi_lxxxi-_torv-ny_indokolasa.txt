@@ -1,0 +1,307 @@
+2013. évi LXXXI. törvény indokolása
+
+egyes, az elektronikus ügyintézéssel kapcsolatos törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az Országgyűlés 2011 decemberében elfogadta a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvénynek (a továbbiakban: Ket.) azt a módosítását, amely teljesen átalakította az elektronikus ügyintézés addigi rendszerét. A Ket. és a hozzá kapcsolódó más jogszabályok egyes szakaszai ütemezetten léptek hatályba és fognak hatályba lépni (pl. összerendelési nyilvántartásra vonatkozó szabályok hatálybalépése 2013. július 1.). Ezekre az eltolt határidőkre azért volt szükség, mert uniós projektek kapcsolódnak az egyes szabályozott elektronikus ügyintézési szolgáltatások (a továbbiakban: szeüsz) fejlesztéséhez, így nem érdemes korábbi határidőt megállapítani a teljesítéshez, mint a projektzárás határideje. A projektek elindultak és ezzel párhuzamosan kiderült, hol kell pontosítani a jogszabályokon, finomhangolni a rendszereket. Megjegyzendő, hogy a Ket. és hozzá kapcsolódó más törvények jelenlegi módosítása csak néhány esetben jelent új szabályozást (pl. új szeüsz-ök, iratkezelési rendszerek tanúsítása), a többi részében viszont csak a jelenlegi szabályozás pontosítása történik meg a jogalkalmazók visszajelzése alapján.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A hagyományos papíralapú iratok hatóság közti átadásának feltétele volt valamely konkrét kézbesítési szereplő (kézbesítő, posta) közreműködése, és az iratok kezeléséhez mind kiadáskor, mind átvételkor több adminisztratív lépés tartozott. Az elektronikus ügykezelés alapja ugyanakkor már egy olyan irat, ahol mind a dokumentum, mind annak metaadatai (benyújtó stb.) elektronikus formában az irat- és dokumentumkezelő rendszerben rendelkezésre állnak. A közigazgatás hatékonyság növelésében egy fontos elemet jelent, ha a hatóságok közti iratátadás minél magasabb fokon automatizálható, a szokásos iratátadás/átvétel egyedi lépések helyett az iratkezelő rendszerek között a metaadatok átadásával együttesen, egyetlen összevont lépésben kerülhet át az irat egyik hatóságtól a másikhoz.
+
+A kormányablak összetett rendszer, ezért az általános szabályokon túl itt szükséges külön szabályozni az elektronikus út igénybevehetőségének lehetőségét.
+
+A 2. §-hoz
+
+Az ügyintézési rendelkezés az ügyfélnek a jogszabályban kijelölt szerv által nyilvántartásba vett nyilatkozata. A Ket. 162. §-ban szabályozott elektronikus ügyintézési rendelkezés tételének lehetőségét szükséges volt összekötni a meghatalmazás szabályaival.
+
+Az ügyintézési rendelkezés szolgáltatás lényeges funkciója a meghatalmazás adása, hiszen ez az új lehetőség jelentős egyszerűsödést jelenthet az ügyintézésben. Az így adott meghatalmazás felhasználható mind e-ügyintézés, mind hagyományos ügyintézés keretében.
+
+Figyelemmel arra, hogy egyes jogszabályok legalább a teljes bizonyító erejű magánokiratba foglalt meghatalmazás szintjét kívánják meg az ügyintézési rendelkezés hatékonyságához és tényleges működőképességéhez, szükséges annak kimondása, hogy az ügyintézési rendelkezés keretében adott meghatalmazás teljes bizonyító erejű magánokiratnak minősül.
+
+A polgári perrendtartásról szóló 1952. évi III. törvény alapján a teljes bizonyító erejű magánokirat az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy kiállítója az abban foglalt nyilatkozatot megtette, illetőleg elfogadta, vagy magára kötelezőnek ismerte el, feltéve, hogy a törvényben rögzített valamely feltétel fennáll. Ez esetben tehát - összhangban a polgári perrendtartással - az ügyintézési rendelkezés keretében adott meghatalmazás törvény erejénél fogva tekinthető teljes bizonyító erejű magánokiratnak.
+
+A meghatalmazott képviseleti jogát az ügyintézési rendelkezésekre irányadó szabályok szerint, a meghatalmazásnak a beadványában történő meghivatkozásával igazolja.
+
+Az ügyintézési rendelkezések nyilvántartásának nem feladata sem a meghatalmazás, sem a képviseleti jog ellenőrzése, a nyilvántartás mindössze az ügyfél rendelkezését rögzíti, és abból lekérés alapján adatot szolgáltat az érintett hatóságok számára. Az, hogy az adott eljárásban az ügyfél által hivatkozott meghatalmazás felhasználható-e (van-e lehetőség meghatalmazott eljárására, elfogadható-e a meghatalmazás tartalma stb.), olyan érdemi ügyintézési mozzanat, amelynek elvégzése a hatóság (az ügykezelést végző szakrendszer, illetve az eljáró ügyintéző) feladata. A rendelkezési nyilvántartás voltaképpen egy - a rendszer működésének megkönnyítését célzó - rendszer, amely adatokat rögzít és szolgáltat.
+
+A 3. §-hoz
+
+A rendelkezés pontosítása szükséges, mert egyrészt a módosított ügyintézési szabályok a kor követelményeinek megfelelően nagyobb teret engednek a nem írásbeli kapcsolattartásnak, és emellett a hivatalos irat fogalmánál a postai kézbesítésre vonatkozó szabályok, illetve az egyes ágazati eljárásrendek, hatóságok iratkezelési szabályzatai következetesen csak a papíralapú iratot értik, és e fogalom mechanikus kiterjesztése jelentős megértési és jogalkalmazási zavarokat okozhatna.
+
+A 4. §-hoz
+
+Tekintettel arra, hogy a Ket. 161. §-ába új szabályok kerülnek az Elektronikus Ügyintézési Felügyeletről, ezért az adatvédelemmel és információszabadsággal kapcsolatos szakaszok kikerülnek onnan és átkerülnek a 160. §-ba.
+
+Az 5. §-hoz
+
+A bejelentés és engedélyezés rendszere teljesen átalakul. A szolgáltatás nyújtásának feltétele lesz, hogy azt be kell jelenteni az Elektronikus Ügyintézési Felügyeletnek (a továbbiakban: EÜF), így az EÜF-nél rendelkezésre fog állni egy tudásanyag a magyarországi elektronikus ügyintézés helyzetéről. A bejelentést követően a Felügyelet nyilvántartásba vételi eljárást indít. A bejelentést követő 30 napon belül kezdhető meg a tevékenység. A Kormány felhatalmazást kap arra, hogy bizonyos szolgáltatásokat engedélykötelessé nyilvánítson, amelyeknek így engedély iránti kérelmet kell benyújtaniuk. A bejelentési és engedélyezési eljárás részletes szabályait végrehajtási rendelet fogja meghatározni.
+
+Ugyanez a teendő a szolgáltatás nyújtásában bekövetkező módosítás esetén is.
+
+A szolgáltatás megszüntetése esetén pedig a befejezés előtt 60 nappal kell megtenni a bejelentést a Felügyeletnek. A Felügyelet ellenőrzi a szolgáltatások jogszabályoknak való megfelelőségét és az egyes szolgáltatások nyújtását megkönnyíti azzal, hogy ajánlásokat bocsát ki.
+
+A 6. §-hoz
+
+Mivel egyes jogszabályok valamely jognyilatkozat tekintetében írásba foglalást vagy teljes bizonyító erejű magánokiratba foglalást írnak elő, így az ügyintézési rendelkezési szolgáltatás teljes körű funkcionalitásához szükséges annak kimondása, hogy az ügyintézési rendelkezésben tett jognyilatkozat az ilyen formai követelményeket teljesíti.
+
+A (2) bekezdés módosítása csupán szövegpontosító jellegű, a mostani (2) bekezdés és az (5) bekezdés utolsó mondatának összevonását jelenti.
+
+Miután jelen módosítással az összerendelési nyilvántartás teljes körű szabályozást kap az 1996. évi XX. törvényben (a továbbiakban: Szaz. tv.), így a Ket.-ben az ügyintézési rendelkezések nyilvántartása és az összerendelési nyilvántartás közötti kapcsolati kód képzése és kezelése kapcsán elég csupán az összerendelési nyilvántartás Szaz. tv.-beli rendelkezéseire hivatkozni. A módosítás csupán szövegpontosító jellegű, az ügyintézési rendelkezés működését nem alakítja át.
+
+A 7. §-hoz
+
+Számos szeüsz esetében a szeüsz hatóság általi igénybevétele ügyintézői szinten történik. Ilyen például az iratérvényességi nyilvántartás, ahol az eljáró ügyintéző személyes azonosítása szükséges a naplózás, az eljárási jogosultság ellenőrzése érdekében. A jogszerű eljárás lefolytatásához a szeüsz szolgáltatónak természetes személy szinten kell azonosítania az eljáró személyt.
+
+Az azonosítás és a jogosultság ellenőrzése a szeüsz szolgáltató oldalán megvalósítható oly módon, hogy ő maga személyazonosításra alkalmas adatot nem tárol a kérdéses személyekről, hanem pl. csak felhasználói azonosítókat és jogosultsági adatokat. Ez a megoldás segít abban, hogy a jogosultságkezelés személyes adatok kezelése nélkül is megvalósulhasson, a szolgáltatás nyújtása és igénybe vétele a lehető legkevesebb személyes adat kezelésével járjon.
+
+E modell működésének azonban előfeltétele, hogy az igénybe vevő hatóság oldalán rendelkezésre álljon az itt szabályozott jogosultsági nyilvántartás. A törvény ezért szabályozza e nyilvántartás működését és adattartamát. A nyilvántartást a hatóság köteles folyamatosan frissíteni, és annak változásáról (pl. valamely ügyintéző áthelyezése) haladéktalanul értesítenie kell a szeüsz szolgáltatót.
+
+Az (1) bekezdésben nevesített és ismertetett modellben a szabályozott elektronikus ügyintézési szolgáltatás hatóság általi igénybe vétele gépi (automatizált) adatkapcsolat és manuális hozzáférés esetén az itt leírtak szerint történik.
+
+A rendszerek közötti közvetlen kapcsolat, közvetlen adathozzáférés esetén az adatkapcsolat természetesen nem ügyintéző-, hanem rendszerszintű. Az eljáró ügyintéző személyes azonosítását a szakrendszer végzi el, majd a rendszerszintű adatkapcsolat keretében - naplózás céljából - átadja a törvény szerinti (2) bekezdésben meghatározott adatokat a szabályozott elektronikus ügyintézési szolgáltató részére. A szabályozott elektronikus ügyintézési szolgáltató így nem kezel személyes adatokat.
+
+Nem közvetlen adathozzáféréssel (hanem pl. egyszerű böngésző útján) történő használat esetén az ügyintéző szintű azonosítást a szabályozott elektronikus ügyintézési szolgáltató végzi el, a hozzáférést pedig attól függően adja meg a felhasználó részére, hogy korábban a hatóság az adott felhasználónak biztosított-e jogosultságot az (1) bekezdés szerinti jogosultsági nyilvántartásában. Így az érintett szereplők közötti felelősségi viszonyok egyértelműen rendezettek.
+
+A 8. §-hoz
+
+Az iratérvényességi nyilvántartás egyik megvalósítási formája, amikor a teljes tartalom tárolásra kerül, csak technikai megoldás (jellemzően titkosítás) gátolja meg az illetéktelen hozzáférést, és csak az eredeti iratban szereplő adatok ismerete (jellemzően a titkosítást feloldó kulcs ismerete) birtokában lehet a tárolt irat tartalmát megismerni. Az ezzel kapcsolatos kötelezést törvényi szinten szükséges előírni.
+
+A 9. §-hoz
+
+A Ket. elektronikus ügyintézéssel kapcsolatos végrehajtási rendeletének címében ezzel a szóösszetétellel szerepel a fogalom, ezért az egységesítés miatt szükséges javítani a törvény fogalmát. A felvezető szöveg módosítása tehát szövegpontosító jellegű.
+
+A módosítás által bevezetett további új szabályozott elektronikus ügyintézési szolgáltatásokat (pl. központi érkeztetési ügynök) az állam által kötelezően nyújtandó szolgáltatásként szükséges meghatározni.
+
+A bevezetésre kerülő új szolgáltatások:
+
+- személyre szabott ügyintézési felület: A kormányablakokban lesz egy olyan ügysegéd, amely azoknak az ügyfeleknek fog segíteni, akik egyáltalán nem ismernek egy eljárást, így az első lépéstől az utolsóig végig kell kísérni őket a folyamaton. Ugyanakkor vannak olyan ügyfelek, akik bizonyos eljárást már nagyon jól ismernek, ezért tudják, hogy mire van szükségük. Ez a szolgáltatás nekik biztosít egy olyan felületet, amelyre összegyűjthetik maguknak a többi szeüsz-szel kapcsolatban azokat, amelyekre szükségük van (pl. mindennap használatos űrlapok, funkciók). Tehát ez a szolgáltatás a „haladó” felhasználóknak nyújt többletszolgáltatást.
+
+- iratkezelő rendszerek közötti iratáthelyezés szolgáltatás: A hatóságok elektronikus iratkezelő rendszerei eltérő üzemelési rend szerint és eltérő biztonsági körülmények között működhetnek, az irat metaadatokkal együtt történő átadásának, átvételének megvalósítása, annak bizonyító erejű dokumentálása igényli a 28. § (2a) bekezdésben meghatározott iratáthelyezési lehetőség állam által kötelezően nyújtandó szolgáltatásként történő biztosítását.
+
+- központi érkeztetési ügynök: Az elektronikus formában érkező iratok már lehetővé teszik az iratkezeléshez kapcsolódó feladatok egy részének magasabb fokú automatizálását.
+
+Ezek egy részének hatóságoknál történő külön-külön megvalósítása felesleges terhet jelent az érintett szervezeteknek (például a beadvány olvashatóságának ellenőrzése, a nem megengedett formátumok szűrése, az aláírt dokumentum esetében az aláírás érvényességének ellenőrzése), ezek központi szolgáltatásként elérhetővé tétele különösen a kisebb, önálló komplex szakigazgatási rendszerrel nem rendelkező hatósági ügyintézési helyeket jelentősen segíti az elektronikus ügyintézés bevezetésében.
+
+Központi kézbesítési ügynök: A belső működésében elektronikus iratokra áttért hatóság számára az ügyfelekkel való kapcsolattartásnál mind az elektronikus értesítési csatorna, mind az ügyfél által igényelhető papíralapú értesítési mód figyelemmel kísérése, és az ezzel járó egymástól jelentősen eltérő műszaki megoldások együttes megvalósítása jelentős terhet jelenthet. Az állam által kötelezően nyújtandó szolgáltatás ezt a terhet veszi át az igénybe vevő hatóságoktól, számukra egységes értesítési felületet biztosítva, az eltérő csatornákon történő kézbesítéshez kötődő műszaki eltéréseket lekezelve.
+
+A 10. §-hoz
+
+Az azonosítási eljárás leírásának pontosítása az adatvédelmi előírások pontos érvényesíthetősége, a regisztrációs eljárás megfelelő működése miatt szükséges.
+
+A regisztráció elvégezhető személyes megjelenéssel, vagy egy korábban, személyes megjelenéssel elvégzett regisztráción alapuló elektronikus azonosítás használatával. Az azonosításon túl a megadott adatok a vonatkozó közhiteles nyilvántartásokban is ellenőrzésre kerülnek.
+
+Sikeres azonosítás esetén az azonosító adatok átvételre kerülnek a megfelelő nyilvántartásból. A hatóságnak minősülő regisztrációs szerv (pl. okmányiroda) egyúttal felajánlja a regisztráló ügyfélnek az ügyintézési rendelkezés tételének lehetőségét, ha ennek műszaki feltételei adottak. E kiegészítés az elektronikus ügyintézés széleskörű elterjedését, az ügyfél egyszerű rendelkezését mozdítja elő.
+
+Sikertelen azonosítás esetén az ügyfél-regisztrációs szerv az ügyfél-regisztrációt megtagadja, és az esetleg már rögzített adatokat helyreállíthatatlanul törli.
+
+A regisztrált adatokról a szerv igazolást állít ki; az erre vonatkozó garanciális szabályt törvényi szinten szükséges rögzíteni.
+
+A szabályozás kiegészül a nem természetes személyek regisztrációja esetén alkalmazandó szabályokkal is. A nem természetes ügyfelek képviseletében csak a törvényes képviselő járhat el az ügyfél-regisztrációs eljárásban.
+
+A 11. §-hoz
+
+Vannak olyan személyek, akik nem szerepelnek sem a személyi adat- és lakcímnyilvántartásban, sem a központi idegenrendészeti és menekültügyi nyilvántartásban, mert olyan külföldiek, aki pl. csak egy lakást vásároltak maguknak, olyan balesetet okoztak, amiből személyi sérülés nem származott, turistaként egy gyomorrontással kórházba kerültek, de egyébként semmilyen egyéb szál nem köti őket Magyarországhoz. Ahhoz, hogy ezeknek a személyeknek ezen ügyeik elintézéséhez ne kelljen Magyarországra utazniuk, lehetőségük van az ügyeiket elektronikusan intézni. Csakhogy ezekhez az adatokhoz tartozó titkos kapcsolati kódok csak akkor szerepelnek az összerendelési nyilvántartásban, amennyiben erre létrejön egy külön nyilvántartás (a külföldi természetes személyek nyilvántartása), amelyből fel lehet tölteni a titkosított kapcsolati kódot az összerendelési nyilvántartásba.
+
+A 12. §-hoz
+
+A kormányablak is használ szabályozott elektronikus ügyintézési szolgáltatásokat, tehát ezeknek meg kell jelennie a törvény szövegében is.
+
+Szükséges a jogszabályban kijelölt szervezet (kihelyezett ügyintézési pont) által nyújtható hatósági szolgáltatások körének pontosítása, bővítése annak érdekében, hogy az ügyfelek a lehető leghatékonyabban tudják intézni ügyeiket e kijelölt szervezet előtt.
+
+A kihelyezett ügyintézési pont előtti eljárás különleges szabályait egy újonnan kiadásra kerülő kormányrendelet tartalmazza majd. Az ehhez szükséges felhatalmazás beépítésére vonatkozó szövegtervezetet szintén e törvény tartalmazza.
+
+A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEKKH) üzemelteti az országos telefonos ügyfélszolgálatot. Ahhoz, hogy a KEKKH olyan hatóságok számára is tudja nyújtani a telefonos ügyfélszolgálatát, akik nem tartoznak a jelen törvény hatálya alá, mint jogszabályban kijelölt szolgáltatónak törvényben kell meghatározni azokat az ügycsoportokat, amikben a telefonos ügyfélszolgálat használata megengedett, így más jogszabályok be tudnak utalni erre a jogszabályhelyre.
+
+A 13. §-hoz
+
+Szükséges a korábbi szabályozás alapján létrehozott ügyfélkapuk további működése szabályainak pontosítása. Mivel a további üzemeltetés a regisztrációs adatbázis átvételével, így személyes adatok kezelésével függ össze, így a további üzemeltetés törvényi szintű kimondása szükséges.
+
+Az Elektronikus Ügyintézési Felügyelet működésének folytonossága érdekében az átmeneti szabályokban szükséges rendezni, hogy mit kell tenniük a 2012. április 1. után, de még a jelen módosítás előtt bejelentést tett vagy engedélyt szerzett szolgáltatóknak.
+
+A 14. §-hoz
+
+A bevezetett új szabályozott elektronikus ügyintézési szolgáltatásokat azok felsorolásánál is indokolt szerepeltetni. Az egyes szolgáltatásokra vonatkozó részletes előírásokat a végrehajtási rendeletek tartalmazzák majd. A jobb áttekinthetőség kedvéért a teljes § módosul.
+
+A 15. §-hoz
+
+Szükséges a jogszabályban kijelölt szervezet (kihelyezett ügyintézési pont) által nyújtható hatósági szolgáltatások keretében biztosított ügyintézés, eljárás különleges szabályainak jogszabályi rendezése. Ezeket az eljárási szabályokat célszerűen egy újonnan kiadásra kerülő kormányrendelet tartalmazhatja. Az ehhez szükséges felhatalmazást e törvény tartalmazza.
+
+A 16. §-hoz
+
+Az igazgatási szolgáltatási díj megállapításának nem példa nélküli esete, hogy kormányrendeletbe került, de hasznosabbnak látszik ezt miniszteri rendeleti szinten szabályozni, ezért egészül ki a 175. § egy ennek megalkotására vonatkozó felhatalmazással.
+
+A Kormánynak lehetősége van arra, hogy egyes szeüsz szolgáltatásokat engedélykötelessé nyilvánítson, ennek részletszabályaihoz szükséges az új felhatalmazás.
+
+A 17. §-hoz
+
+Az ügyfél adataiban bekövetkező változás átvezetés szabályozott elektronikus ügyintézési szolgáltatás bevezetésére jelenleg nem áll rendelkezésre forrás, annak kialakítására várhatóan a következő években sem kerül sor. Így a szolgáltatás kormány általi kötelező biztosítása előírásának fenntartása nem célszerű.
+
+Tekintettel arra, hogy az információs önrendelkezési jogról és információszabadságról szóló törvény rendezi ezt a kérdést, ezért nincs szükség a Ket.-en belül egy elektronikus tájékoztatási szeüsz-re.
+
+A biztonságos elektronikus igazolási szolgáltatás a hatályos szabályozás alapján Kormány által kötelezően nyújtandó szolgáltatás, ilyen szolgáltatás központi bevezetése azonban nem célszerű. A szabályozás rendeleti szintre kerülése miatt a Ket. szintű szabályok deregulálása szükséges.
+
+Az igazgatási szolgáltatási díj megállapításának nem példa nélküli esete, hogy kormányrendeletbe került, de hasznosabbnak látszik ezt miniszteri rendeleti szinten szabályozni, ezért a 174/A. § egy ennek megalkotására vonatkozó felhatalmazással egészül ki (l. lentebb), egyúttal a Ket. 175. § (3) bekezdésének f) alpontja hatályon kívül helyezésre kerül.
+
+A Ket. elektronikus ügyintézéssel kapcsolatos végrehajtási rendeletében volt szabályozva az összerendelési nyilvántartás ún. ősfeltöltése, amely a NAIH kérése alapján átkerül törvényi szintre, a Szaz. törvénybe.
+
+A 18. §-hoz
+
+A 2011. évi módosítás olyan új kezelési módot vezetett be a különböző azonosítók használatára, amely az adatvédelmi követelmények kielégítése mellett képes biztosítani az egyes különböző azonosítót használó szakrendszerek közti elektronikus adatcserét. A kialakított megoldás általánosan használható az egyes ágazati rendszerekben, a Szaz. törvény hatálya azonban ennél szűkebb körre terjedt ki, ezért szükséges az általános alkalmazhatósághoz a hatály kiterjesztése.
+
+A 19. §-hoz
+
+A törvény jelenlegi szövege kiegészítendő azzal, hogy az azonosító kód használatára vonatkozó hozzájárulást a polgár nemcsak írásbeli nyilatkozatával, hanem az ügyintézési rendelkezésben is megadhatja.
+
+A 20. §-hoz
+
+Az összerendelési nyilvántartás személyi adatokat tartalmazó nyilvántartások szabályozott összerendelhetőségét biztosítja, így az adatvédelmi szempontok érvényesítéséhez indokolt törvényi szinten tételesen megadni a nyilvántartással összerendelhető azonosítókat.
+
+Pontosításra kerül az összerendelési nyilvántartás folyamatos feltöltésének folyamata. Ez az eljárás nem azonos a lentebb szabályozásra kerülő kezdeti feltöltés folyamatával: a kezdeti feltöltés a nyilvántartás eredeti létrehozatalakor megtörténő feltöltés, míg az itt szabályozott eljárás a nyilvántartás működése során keletkező új bejegyzések folyamatát írja le (pl. újszülött gyermek esetén).
+
+Új bejegyzés létrehozására a személyi azonosító, az idegenrendészeti nyilvántartási azonosító, az adóazonosító jel, vagy az ügyfélkapu azonosító képzése nyomán kerülhet sor. Ezen azonosítók képzésekor ugyanis a nyilvántartó értesíti az összerendelési nyilvántartást, aki szükség szerint (a) meglévő bejegyzéshez csatolja az új titkosított kapcsolati kódot, vagy (b) ha az adott személyhez még nincs összerendelési bejegyzés, úgy új összerendelési bejegyzést hoz létre.
+
+A többi nyilvántartás hasonlóan jár el új azonosító képzésekor azzal, hogy itt minden esetben a már meglévő összerendelési bejegyzés kiegészítésére kerül sor.
+
+Fontos garanciális szabály, hogy az összerendelési nyilvántartás kizárólag külön-külön titkosított kapcsolati kódokat tartalmaz, egyéb azonosítót vagy azonosító adatokat nem tárol.
+
+A 21. §-hoz
+
+A törvény az összerendelési nyilvántartás egyik lényegi felhasználásának törvényi szabályait pontosítja. Az összerendelési nyilvántartás szolgáltatás lehetővé teszi, hogy a polgár valamely azonosító adatát (pl. személyi azonosítóját) ne az erre szolgáló igazolvánnyal, hanem más igazolvánnyal igazolja. Ha ugyanis a polgár valamely olyan azonosítóját tudja megfelelő hatósági igazolvánnyal igazolni (pl. adószám), amely az összerendelési nyilvántartásban szerepel, akkor az összerendelési nyilvántartás felhasználásával a megfelelő közhiteles nyilvántartásból megbízható módon lekérdezhető a szükséges másik azonosító (pl. TAJ szám).
+
+A 22. §-hoz
+
+A törvény a 10/C. § rendelkezéseihez hasonló módon szabályozza annak lehetőségét, hogy a polgár valamely azonosítóját ne hatósági igazolvánnyal, hanem megfelelően biztonságos elektronikus azonosítás alapján, az összerendelési nyilvántartás felhasználásával történő lekérdezés útján igazolja.
+
+Erre példa lehet, ha az ügyfél ügyfélkapujával azonosítja magát. Az ügyfélkapus azonosító alapján ugyanis az összerendelési nyilvántartás felhasználásával, az e §-ban leírt eljárásrendben lekérdezhető az ügyintézéshez szükséges azonosító. E rendelkezések tehát lehetővé teszik, hogy az ügyfél akár teljes mértékben azonosító okmány nélkül azonosítsa magát, és teljeskörűen képes legyen ügyeit intézni.
+
+A 23. §-hoz
+
+A rendelkezés egyszerűbb adatszolgáltatási eljárást, egyszerűbb műszaki folyamatot tesz lehetővé a személyiadat- és lakcímnyilvántartásból, valamint a Kormány rendeletében meghatározott további nyilvántartásokból. A személyiadat- és lakcímnyilvántartásra irányadó szabályozás számos olyan esetkört határoz meg, ahol valamely hatóság vagy egyéb személy lekérdezéseket végezhet. Az ilyen lekérdezéshez meghatározott adatok megadására van szükség; e rendelkezések az ilyen adatmegadások tekintetében biztosítanak egyszerűbb eljárásrendet.
+
+Ez a könnyített lekérdezési lehetőség azon adatkezelők számára adott, amelyek valamely, az összerendelési nyilvántartás hatálya alá tartozó azonosító vagy azonosító kód használatára jogosultak. Ilyen esetben az adatkezelő által kezelt azonosító megadásával történhet a lekérdezés; a lekérdezéshez szükséges azonosító a megadott azonosító alapján az összerendelési nyilvántartás használatával kerül beszerzésre.
+
+A 24. §-hoz
+
+A jelenleg hatályos szabályozás egészül ki azzal a (2) bekezdéssel, hogy az adóazonosító jel megismerhetővé tételét az összerendelési nyilvántartás használatával is meg lehet tenni.
+
+A 25. §-hoz
+
+A 15. § és 33 § szövegezéséhez hasonló szöveg megállapítása.
+
+A 26. §-hoz
+
+A jelenleg hatályos szabályozást kiegészül (2) bekezdéssel, a személyi azonosító megismerhetővé tételét az összerendelési nyilvántartás használatával is meg lehet tenni.
+
+A 27. §-hoz
+
+A törvény jelenlegi szövege kiegészítendő azzal, hogy a személyi azonosító használatára vonatkozó hozzájárulást a polgár nemcsak írásbeli nyilatkozatával, hanem az ügyintézési rendelkezésben is megadhatja.
+
+A 28. §-hoz
+
+A szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet 174. §- a szabályozta az ún. ősfeltöltést, amely a NAIH kérésére törvényi szintre kerül, így kikerült a végrehajtási rendeletből és bekerült a törvénybe a korábban már hatálybalépett szövegrész kisebb finomításokkal.
+
+A 29. §-hoz
+
+A törvény az összerendelési nyilvántartás bevezetésének az útlevélszámmal összefüggő jogszabályi kapcsolódását teremti meg, a vonatkozó törvény módosításával.
+
+A 30. §-hoz
+
+A törvény az összerendelési nyilvántartás bevezetésének a közúti közlekedési nyilvántartással összefüggő jogszabályi kapcsolódását teremti meg, a vonatkozó törvény módosításával.
+
+Az Európai Parlament és Tanács vezetői engedélyekről szóló, 2006. december 20-i 2006/126/EK irányelvének (a továbbiakban: Irányelv) 7. cikk (5) bekezdése szerint:
+
+a) Senki nem rendelkezhet egynél több vezetői engedéllyel.
+
+b) A tagállam megtagadja a vezetői engedély kiállítását, amennyiben megállapítja, hogy a kérelmező már rendelkezik vezetői engedéllyel.
+
+c) A tagállamok megteszik a b) pont szerinti szükséges intézkedéseket. Amennyiben alapos a gyanú, hogy a kérelmező már rendelkezik másik vezetői engedéllyel, a vezetői engedély kiállításához, pótlásához, megújításához vagy cseréjéhez ellenőrzést kell végezni a többi tagállamnál.
+
+d) A b) pont szerinti ellenőrzések megkönnyítése érdekében a tagállamok igénybe veszik a vezetői engedélyek európai uniós hálózatát, amint e hálózat működőképes lesz.
+
+A vezetői engedélyt kiállító tagállamok - a 2. cikk sérelme nélkül - kellő körültekintéssel járnak el annak biztosítása érdekében, hogy az adott személy megfeleljen az e cikk (1) bekezdésében megállapított követelményeknek, és nemzeti rendelkezéseiket alkalmazzák a járművezetési jogosultság megszüntetésére, illetve visszavonására, amennyiben megállapításra kerül, hogy a vezetői engedélyt a követelményeknek való megfelelés nélkül állították ki.
+
+Az Irányelvben a fentiek szerint megfogalmazott adatcsere technikai megvalósítása az EUCARIS RESPER rendszerén keresztül fog megvalósulni. Az EUCARIS nemzeti kapcsolattartó pontja a KEKKH Központi Hivatal. Az Irányelvben megfogalmazott automatizált adatcsere biztosításához szükséges nemzeti rendelkezések megalkotása a végrehajtás szempontjából elengedhetetlen.
+
+A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 19. § (6) bekezdése rendelkezik arról, hogy kétség esetén a Hivatal közreműködésével a vezetői engedély kiállításához, pótlásához vagy cseréjéhez a kiadó EGT-állam hatóságának megkeresése útján ellenőrzést kell végezni.
+
+A fentiek szerint indokolt a Kknyt. 43. §-sa teljes szövegének ismételt megállapítása, valamint a 2006/126/EK irányelv 7. cikk (5) bekezdésére való hivatkozással történő kiegészítése.
+
+A Kknyt. 43. § szövegének ismételt megállapítását jogalkotási technikai probléma feloldása indokolja, ugyanis a 2012. évi CLXX. törvény 7. § (3) bekezdésével megállapított Kknyt. 43. § szövege és a 2012. évi CLXXXI. törvény 54. § (17) bekezdése által megállapított Kknyt. 43. § (2) és (3) bekezdése ellentmondóan került elfogadásra és kihirdetésre. A Kknyt. 43. §-ának a jogalkotói szándék szerinti megállapítása e szakasz szövegének ismételt megállapítását és kihirdetését igényli.
+
+A 31. §-hoz
+
+A korábban jelzett jogalkalmazói szándék módosult, ezért nincs szükség ennek a szakasznak a hatálybalépésére.
+
+A 32. §-hoz
+
+A hatályos szabályozásban félreérthetően keveredett a természetes és nem természetes személy által végzett, illetve nevében történő aláírás, ezért vált szükségessé a fogalmak pontosítása.
+
+A 33. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 34. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 35. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 36. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 37. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 38. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 39. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 40. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 41. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 42. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 43. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 44. §-hoz
+
+A „Jó állam” koncepcióból adódóan indokolt az Állami Számvevőszék esetében is az elektronikus kapcsolattartás lehetőségének általános szabályok szerinti biztosítása (aminek az elektronikus aláírás használatára épülő kapcsolattartás része, és hatóság az egyes formák fogadását korlátozhatja), és ehhez a Ket. szerinti szabályozott elektronikus ügyintézési szolgáltatások igénybe vételének lehetővé tétele.
+
+A 45. §-hoz
+
+A szabálysértési hatóságoknak a szabálysértési eljárás során is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 46. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+A 47. §-hoz
+
+A kamara számára is indokolt lehetővé tenni a Ket. szerinti új elektronikus szolgáltatások alkalmazását.
+
+-----STARTING---POINT---VEGE---
+
+A 48-49. §-hoz
+
+A törvény hatálybalépését és sarkalatos rendelkezésének megállapítását tartalmazza.

@@ -1,0 +1,1059 @@
+2015. évi CCXXII. törvény indokolása
+
+az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvény célja - a XXI. század technikai fejlődéséhez igazodva - az elektronikus úton történő ügyintézés kiterjesztése; az ehhez szükséges jogi feltételek és a technikai fejlesztések jogalapjának megteremtése, valamint az ügyfelek széles körének ügyintézési szolgáltatásokat nyújtó állami és nem állami szervezetek egységes elvek mentén történő elektronikus ügyintézésre szorítása.
+
+Az elektronikus ügyintézés mint fogalom olyan komplex folyamatot takar, mely nagyon sokféleképpen határozható meg. A szakirodalom mindmáig adós egy olyan konszenzusos definícióval, amely valamennyi szakember számára elfogadhatóan határozná meg, hogy pontosan mit is értünk elektronikus ügyintézés alatt.
+
+Az eEurope 2002 akciótervben az Európai Bizottság (COM (2000) 330 final) az elektronikus közszolgáltatások elterjedésének mérésére meghatározta a 20 leggyakrabban igénybe vett elektronizálható szolgáltatást és definiálta az ezek fejlettségi szintjeinek jellemzőit.
+
+Az e-ügyintézés szintjei ez alapján:
+
+- Az első szint az információnyújtás elektronikus módja, ilyen például, ha valamely minisztérium honlapján lehet tájékozódni a nyitvatartási időről és az ügyintézés módjáról.
+
+- A második szint az egyirányú kapcsolat, vagyis amikor elektronikusan letölthetők az ügyintézéshez szükséges nyomtatványok.
+
+- A harmadik szinten megjelenik az interaktivitás, vagyis on-line módon kitölthetők az űrlapok, beleértve a hitelesítést. Mivel az illetékek befizetését ez a szint nem teszi lehetővé, az ügyfél egyszeri megjelenése továbbra is szükséges.
+
+- A negyedik szinten, melyet a tranzakció névvel jeleznek, a teljes ügymenet elektronizált, beleértve az illetékek lerovását is.
+
+- Az utóbbi időben pedig bizonyos szolgáltatások esetében megjelent az ötödik szint, a perszonalizáció, ami lehetővé tesz bizonyos automatizálást, így például ha az adott kormányszervnek rendelkezésére állnak más adminisztratív forrásból az állampolgár meghatározott adatai, azokat már eleve feltüntetik a személyre szabott űrlapban, s az állampolgárnak ezeket nem kell újra beírnia.
+
+A normaszöveg alapján az elektronikus ügyintézést biztosító szerv köteles olyan, elektronikus ügyintézést biztosító információs rendszer működtetésére, amely biztosítja legalább
+
+a) az ügyfél ügyintézési rendelkezésének lekérdezését (pl. kinek adott meghatalmazást ügyei vitelére),
+
+b) a személyre szabott ügyintézési felületen keresztül történő ügyintézés lehetőségét,
+
+c) a törvényben szabályozott elektronikus azonosítási megoldások ügyfél általi használatát,
+
+d) a Kormány rendeletében meghatározott biztonságos kézbesítési szolgáltatáson keresztül történő kézbesítést, a neki címzett üzenetek fogadását,
+
+e) az ügyfél által elektronikus úton tett jognyilatkozatok, elküldött iratok kézhezvételének jogszabályban meghatározott módon történő haladéktalan igazolását,
+
+f) a legalább fokozott biztonságú és közigazgatási követelményeknek megfelelő elektronikus aláírással ellátott, illetve elektronikus bélyegzővel ellátott elektronikus dokumentumok feldolgozását,
+
+g) e törvény szerint hitelesített dokumentumok előállítását,
+
+h) az ügyfél részére kézbesítendő iratok kézbesítését, és
+
+i) - fő szabályként - az eljárásért fizetendő terhek elektronikus fizetését.
+
+Ennek megvalósításához a törvény azt hivatott biztosítani, hogy
+
+- az állami szerveket, valamint azon közszolgáltatókat, akik nagyszámú ügyben találkoznak a lakossággal, egyrészt rászorítsa az ügyek elektronikus intézésére, másrészt olyan rendszereket alapozzon meg, mely alapján bárki, aki ügyét - tekintet nélkül arra, hogy az egy közigazgatási vagy közszolgáltatási ügy - elektronikusan kívánja intézni, ugyanazon elvek mentén intézhesse azt;
+
+- biztosítsa, hogy a szükséges fejlesztések úgy valósuljanak meg, hogy a kialakított rendszerek alkalmazása egyrészt minden igénybevevő számára lehetséges legyen anélkül, hogy a már kialakított elektronikus rendszereiket jelentősen át kellene alakítani; másrészt ott, ahol ilyen rendszerek nincsenek, ezeket a rendszereket minél egyszerűbben és kisebb költséggel lehessen létrehozni.
+
+A törvény alapvetően két, egymástól logikailag elkülönülő, ám témájában az elektronikus folyamatok szabályozása miatt mégis közös alapon álló részből áll. Ezek céljai és szabályozási elvei az alábbiak szerint strukturálhatóak.
+
+Az ügyek intézésének és az ügyféli/fogyasztói kapcsolattartásnak elektronikus útra terelése
+
+A törvény értelmében a törvény szerinti elektronikus ügyintézésre kötelezettek az alábbiak (személyi hatály):
+
+a) az államigazgatási szervek,
+
+b) a helyi önkormányzat tisztségviselői és szervei,
+
+c) a törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb jogalanyok,
+
+d) a bíróságok,
+
+e) az alapvető jogok biztosa,
+
+f) az ügyészségek,
+
+g) a közjegyzők,
+
+h) a bírósági végrehajtók,
+
+i) a köztestületek (kivéve a hegyközségeket),
+
+j) azok a közüzemi szolgáltatók, melyek havonta - éves átlagban - legalább 150 ezer fogyasztói számlát bocsátanak ki, valamint
+
+k) a törvényben vagy kormányrendeletben erre kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalanyok, valamint
+
+l) azok a szervek, akik ezt önként vállalják.
+
+A törvény tárgyi hatálya (mely ügyekben kell elektronikusan eljárni) három jellemzővel határozható meg:
+
+- egyrészt minden olyan kapcsolattartásra kötelezően az elektronikus formát írja elő, mely az elektronikus ügyintézésre kötelezett szerv és az ügyfél/fogyasztó között értelmezhető;
+
+- ezekben az ügyekben a szervek egymás közötti kapcsolattartását is elektronikus útra tereli;
+
+- harmadrészt viszont nem cél az elektronikus ügyintézésre kötelezett szervek olyan belső ügyviteli folyamatainak szabályozása, mely az ügyfelek/fogyasztók ügyeit közvetlenül nem érintik (pl. belső pénzügyi folyamatok, vagy fegyelmi ügyek stb.).
+
+Az elektronikus ügyintézéshez szükséges részfolyamatok szabályozásának egységesítése
+
+A törvény egyik célja - és e rendszerek szabályai vonatkozásában a hatálya is ehhez igazodik -, hogy jogi és erre alapozva technikai segítséget nyújtson az elektronikus ügyintézésre kötelezettek számára az ilyen ügyintézést biztosító rendszereik létrehozásához, valamint az egymással való elektronikus kapcsolattartáshoz. Ehhez - a jelenleg a közigazgatási hatósági eljárási törvényben szabályozott - építőelemeket, az ún. SZEÜSZ-ök-et (szabályozott elektronikus ügyintézési szolgáltatás) a teljes elektronikus ügyintézésre kötelezett szervi kör számára elérhetővé teszi és ebben a megközelítésben szabályozza újra.
+
+A SZEÜSZ-ök rendszere azon az elvi alapon nyugszik, hogy az elektronikus ügyintézési folyamat olyan atomi részekre bontható fel, melyekből építőkockaként - az éppen adott eljáráshoz igazodó sorrendben összeállítva bármely elektronikus eljárás felépíthető.
+
+Példával illusztrálva: ha létezik egy szabványosított informatikai alkalmazás az elektronikus azonosításra, egy az elektronikus kommunikációra, az elektronikus dokumentumhitelesítésre, valamint lehetséges egy szabványos modullal elektronikus fizetést teljesíteni, akkor egy alapvető eljárástípus elektronikus támogatása e modulok egyszerű összefűzésével megoldható. Ha ezek a modulok az informatikában szabványosított illesztésekkel (ún. interfész) rendelkeznek, akkor ezek az érintett szerveknél már eleve rendelkezésre álló informatikai rendszerekhez (pl. elektronikus iratkezelő rendszerek) viszonylag egyszerűen és alacsony költséggel hozzáilleszthetőek.
+
+Ha mindezeket a szolgáltatásokat az állam központilag, állami szolgáltató útján és ingyen biztosítja (a törvény szóhasználatában: központi elektronikus ügyintézési szolgáltatás, KEÜSZ), akkor ezek felhasználásával az elektronikus ügyintézésre kötelezett szerv a törvény által megkövetelt mértékben biztosítani tudja az elektronikus ügyintézés lehetőségét.
+
+Az elektronikus ügyintézésre kötelezett szervek egymás közötti elektronikus kapcsolatai
+
+A törvény harmadik része az elektronikus ügyintézésre kötelezett szervek egymás közötti elektronikus kapcsolatait szabályozza. A szabályozás lényege, hogy amennyiben valamely jogszabály - pl. egy eljárási törvény - az érintett szervek között valamiféle információáramlást ír elő - pl. a közigazgatási eljárásban a belföldi jogsegély jogintézménye - akkor az információáramlást elektronikusan, a törvényben szabályozott módon kell megvalósítani.
+
+Kizárólag az állami és önkormányzati nyilvántartások együttműködéséről jelenleg is van hatályos szabályozás: az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló 2013. évi CCXX. törvény (a továbbiakban: Ioptv.).
+
+Ez a törvény - címéből is adódóan - kizárólag a nyilvántartások együttműködésére koncentrál. Alapvető szabályozási elve az adatok elsődleges, illetve származtatott adatokra történő csoportosítása azzal, hogy az elsődleges adatot tartalmazó, kormányrendeletben meghatározott - ún. „etalon” - nyilvántartások adatainak valamennyi olyan jogilag szabályozott nyilvántartásba, ahol ezek az adatok megjelennek, ezekből az etalon nyilvántartásokból kell átadni. Az első ilyen már megvalósult nyilvántartási rendszer a központi címregiszter.
+
+Az interoperabilitási törvényben kidolgozott rendszer továbbfejlesztésével a törvény nem csupán a nyilvántartások, hanem minden, elektronikus formában megjelenő adat elektronikus ügyintézésre kötelezett szervek közötti áramlását szabályozza.
+
+E szabályozással, valamint a SZEÜSZ/KEÜSZ építőelemek szabályaival még egy cél, az előkészítés alatt álló nagy eljárási kódexeknek a kapcsolattartás elektronikus módját jogi és informatikai eszközökkel történő támogatása is megvalósul.
+
+A törvény ugyanakkor nem teremt önálló adatkezelési jogcímet vagy előírást. Ezeket a rendelkezéseket az egyes nyilvántartásokra vonatkozó ágazati szabályoknak, illetve az eljárási kódexeknek kell tartalmazniuk; a törvény csupán a „hogyan” kérdésére válaszol azzal, hogy egyrészt elektronikus útra tereli a kommunikációt, másrészt meghatározza, hogy ez az elektronikus kommunikáció milyen módon valósulhat meg úgy, hogy az a szükséges joghatás kiváltására alkalmas legyen.
+
+Az Elektronikus Ügyintézési Felügyelet
+
+A törvény mögött meghúzódó elvi koncepció lényegi eleme, hogy az elektronikus ügyintézésre kötelezett szervek elektronikus ügyintézési tevékenységét egy erős jogosultságokkal rendelkező felügyeleti szervnek kell összehangolnia és kikényszerítenie.
+
+A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény már létrehozta az Elektronikus Ügyintézési Felügyeletet (jelenleg: az e-közigazgatásért felelős miniszter), azonban ez a szerv a törvény a jelenleginél nagyságrendekkel több szervezet és a jelenleginél jelentősen tágabb tevékenységi kör felügyeletét látja el.
+
+Új feladatként jelenik meg a koordinációs tevékenység (az elektronikus ügyintézés biztosításához szükséges intézkedések és az e törvény szerinti együttműködés kialakításának, valamint módosításának e törvényben foglaltak szerinti megvalósítása tekintetében) és műszaki irányelvek elfogadása.
+
+Bővül a Felügyelet által alkalmazható szankciók köre is (az elektronikus ügyintézést biztosító szervet a jogsértés megállapítása mellett határidő tűzésével intézkedési terv elkészítésére kötelezheti, az elektronikus ügyintézést biztosító szerv feladatkörrel rendelkező vezetőjét az elektronikus ügyintézéssel kapcsolatos képzés elvégzésére kötelezheti.
+
+Az elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról szóló uniós szabályozáshoz való igazodás
+
+Az e-aláírásokról irányelv (1999/93/EK irányelv) rendelkezett. A legtöbb tagállamban ez alapján született meg törvényi szabályozás az e-aláírásokra, Magyarországon ez az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eatv.).
+
+Az irányelvet 2014-ben rendelet váltotta fel: a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról szóló 910/2014/EU rendelet (a továbbiakban: eIDAS-rendelet).
+
+Ennek fokozatos hatálybelépése által folyamatosan történik a rendeleti szintű részletszabályok elfogadása és a jogharmonizáció (a tagállamoknak hatályon kívül kell helyezniük e-aláírás szabályozásuk nagy részét, mivel a rendelet szövege és a végrehajtási szabályok közvetlenül és kötelezően alkalmazandóak).
+
+Az eIDAS-rendelet főbb újdonságai:
+
+- a felügyeleti szervek nagyobb mértékben vannak együttműködésre kötelezve egymással és az Európai Bizottsággal.
+
+- az e-azonosítási rendszerek terén együttműködési kötelezettség jelenik meg: ez tartalmilag a többi tagállam e-azonosítási megoldásainak kötelező vizsgálata, és sikeres vizsgálat után kényszerű elfogadása. Ezáltal a valamely tagállam bejelentett, megfelelő (alacsony, jelentős vagy magas) biztonsági szintű e-azonosítási megoldását használó természetes vagy nem természetes személy képes lesz másik tagállam elektronikus szolgáltatásaihoz hozzáférni, határokon átívelő módon.
+
+Általános háttérszabályok az elektronikusan hiteles iratok átalakítására
+
+A törvény pótolja azt a hiányosságot, hogy jelenleg nincs általános háttérszabály arra, hogy az elektronikusan hiteles iratok hogyan alakíthatóak át hiteles papír alapú kiadmánnyá.
+
+Nem életszerű ugyanis, hogy hiányzik annak jogi lehetősége, hogy egy közfeladatot ellátó szerv a saját elektronikus iratáról hiteles másolatot tudjon készíteni.
+
+Ennek feloldása céljából - abban az esetben, ha jogszabály bizonyos körben nem rendelkezik másképp - az egyéb megoldásoktól (központilag kijelölt hitelesítő, iratérvényességi nyilvántartás) függetlenítve a törvény kimondja, hogy a közfeladatot ellátó szerv által kiállított hiteles elektronikus iratról a kiállító szerv vagy jogutódja - tehát csak saját maga - hiteles papír alapú másolatot állíthat ki, megfelelő záradék felvezetésével.
+
+A törvény háttérszabályt ad arra az esetre is, hogy ha az akarategység szempontjából lényeges egy okirat több fél általi hiteles aláírása, melyik kiadmány minősül hitelesnek, ha az egyik fél elektronikus aláírást kíván használni, a másik fél pedig hagyományosan ír alá (a törvény értelmében az elektronikusan kiadmányozott iratról készült, záradékkal hitelesített papír alapú másolaton a másik fél aláírásával hitelesített irat).
+
+Egyéb pontosítások
+
+1. Az e-kártya megvalósításához szükséges egyes törvények, valamint az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosításáról szóló 2015. évi CXXX. törvénnyel a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény az elektronikus tároló elemet tartalmazó személyazonosító igazolvány bevezetése kapcsán módosul. Jelen módosítás ehhez kapcsolódóan tartalmaz pontosító, illetve kiegészítő rendelkezéseket.
+
+Az előterjesztő részben ettől függetlenül jelzi, hogy az e-kártya bevezetésével lehetséges lesz a közúti közlekedési ügyekben eljáró hatóságok számára a járművezető személyazonosságának automatizált lekérdezése és - ha egyúttal a közúti közlekedési nyilvántartással való automatizált kapcsolat is kialakításra kerül - az ellenőrző hatóságok vezetői engedély hiányában is ellenőrizni tudják az ellenőrzött személy gépjárművezetői jogosultságának meglétét.
+
+Ez ahhoz vezethet, hogy vezetői engedélyt belföldön nem feltétlenül indokolt a tárcában tartani vezetés közben (ezt jelenleg törvénynél alacsonyabb szintű szabályok írják elő).
+
+2. A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatások igénybevevőiről, köztük a tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás igénybevevőiről az e-ügyintézési törvény hatálybalépésétől, azaz 2017. január 1-jétől a személyazonosság hiteles igazolása érdekében egységes ügyfél-regisztrációs nyilvántartást (a továbbiakban: Központi Ügyfél-regisztrációs Nyilvántartást) kell vezetni.
+
+A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) hatályos szabályai alapján a tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatáshoz kapcsolódóan ügyfél-regisztrációs nyilvántartást kell vezetni. A 2016. január 1-jétől bevezetésre kerülő ezen azonosítási szolgáltatáshoz tehát 2016. január 1-jétől önálló ügyfél-regisztrációs nyilvántartást kellene létrehozni, 2017. január 1-jétől pedig a Központi Ügyfél-regisztrációs Nyilvántartásba tagozódna be.
+
+A fentiek kétszeres fejlesztési és erőforrás igénnyel járnak. Ennek elkerülése érdekében a törvény a Ket. módosításával a Központi Ügyfél-regisztrációs Nyilvántartást bevezeti 2016. január 1-jei időponttal a tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás regisztrációs nyilvántartásaként, majd 2016. december 31-ig megvalósul a Központi Ügyfél-regisztrációs Nyilvántartás teljes funkcionalitással a többi, Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás ügyfél-regisztrációs nyilvántartásában szereplő személyek adatainak migrálásával.
+
+3. A törvény keretei között módosításra kerül az információbiztonságról szóló 2013. évi L. törvény is. A technikai módosítások mellett indokolt az elektronikus információs rendszerek biztonsági felügyeletét ellátó hatóságok hatásköreinek egyértelmű elhatárolása, továbbá, hogy a besorolást végző szervezet - az alacsonyabb kockázati kitettséget leíró indoklást előterjesztve - a hatóság előzetes jóváhagyásával a jogszabályban meghatározottnál alacsonyabb - a rendszert fenyegető kockázatokkal arányosabb - biztonsági osztályt és biztonsági szintet állapíthasson meg.
+
+Az egyértelmű jogalkalmazási gyakorlat érdekében pontosításra kerül azon szervek köre, melyek tekintetében állami szerv végzi a sérülékenységvizsgálatot.
+
+A hatályos rendelkezések szerint az állami szerven kívül gazdasági társaság végezhet sérülékenységvizsgálatot. A módosítás értelmében bővül ez a kör, s a jövőben gazdálkodó szervezetek végezhetnek ilyen tevékenységet.
+
+Részletes összefoglaló:
+
+A törvény 6 Részből épül fel:
+
+- az I. Rész a törvény által használt fogalmakat tartalmazza,
+
+- a II. Rész az elektronikus ügyintézés általános szabályait tartalmazza, a polgár és az elektronikus ügyintézést biztosító szerv, valamint az elektronikus ügyintézés felügyeletét ellátó szerv viszonyait szabályozza,
+
+- a III. Rész az elektronikus ügyintézést biztosító szervek egymás közötti kapcsolattartását, az interoperabilitás megújításának szabályait tartalmazza,
+
+- a IV. Rész az eIDAS-rendelet átültetéséhez szükséges törvényi rendelkezéseket tartalmazza,
+
+- az V. Rész az elektronikus és papír alapú okiratok (más jogszabály által nem érintett) hitelességének szabályait tartalmazza,
+
+- a VI. Rész a törvény hatálybalépéséhez szükséges záró rendelkezéseket tartalmazza.
+
+A II. Rész összefoglalása:
+
+A szabályozás hatályát tekintve három szempontból is eltér a jelenlegi szabályozástól:
+
+a) egységesen szabályozza valamennyi közhatalmi eljárás és közszolgáltatás tekintetében az elektronikus ügyintézést,
+
+b) lehetővé teszi, hogy - bizonyos ésszerű korlátok között - bármely, akár magánjogi jogalany önként vállalhassa, hogy szolgáltatása, termékértékesítése tekintetében az elektronikus ügyintézést a törvényben meghatározottak szerint biztosítja, valamint
+
+nem terjed túl az elektronikus ügyintézést biztosító szerv és az ügyfél között érvényesülő alapvető, törvényi szintet igénylő, elsődlegesen garanciális jellegű szabályok meghatározásán.
+
+Egységes Digitális Ügyintézési Tér
+
+A törvény a lehető legtöbb közhatalmi eljárás és közszolgáltatás esetében egységesen szabályoz. Ennek megfelelően az állami és önkormányzati szervek, a köztestületek, az alapvető jogok biztosa, az igazságszolgáltatás szervei, valamint a közüzemi szolgáltatók is a törvénynek megfelelően lennének kötelesek biztosítani az elektronikus ügyintézés lehetőségét. Sőt a törvény alapján jogszabály más közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany számára is előírhatja a törvény követelményeinek érvényesítését.
+
+A törvény nem csupán e szervek közhatalom-gyakorlása körében, hanem az e szervek által jogszabály alapján nyújtandó szolgáltatásai igénybevétele tekintetében is egységes minimumszabályozást vezet be. Ennek megfelelően az ügyfél fogalmát is tágan értelmezi, abba beletartozik az elektronikus ügyintézést biztosító szerv feladat- és hatáskörébe tartozó ügyben ügyfélként, félként, vagy egyébként az eljárás alanyaként, az eljárás egyéb résztvevőjeként, a szolgáltatás igénybevevőjeként, ezek képviselőjeként részt vevő bármely személy is.
+
+A fentieknek köszönhetően a széles értelemben vett ügyfél - megfelelő átmeneti időszakot követően - a közszférával kapcsolatos valamennyi ügyét
+
+a) egységes felületen,
+
+b) egységes feltételek mellett és logikával,
+
+c) egységes eszközökkel
+
+jogosult és képes lesz elektronikus ügyintézés keretében elintézni. Az Egységes Digitális Ügyintézési Tér tehát nem egy önálló, elkülönült informatikai rendszerként jön létre, hanem egy logikai egységként, amely számos különböző, azonban egységes felületen elérhető és azonos logikájú szolgáltatáscsomagként.
+
+A szabályozás nem kívánja szabályozási úton megszüntetni az elektronikus ügyintézést biztosító szervek által már kialakított, bejáratott, működő elektronikus ügyintézési lehetőségeket, hanem ezekkel párhuzamosan tenné kötelezővé, hogy az így nyújtott ügyintézési szolgáltatásokhoz az egységes felületen és feltételek mellett is biztosítsák a hozzáférést.
+
+Ezzel a törvény a meglévő megoldásokra is építve létrehozza az Egységes Digitális Ügyintézési Teret, amelyben az ügyfél számára egy helyen, személyre szabottan nyílik lehetőség valamennyi elektronikusan intézhető ügye elintézésére.
+
+Kapcsolat az eljárási törvényekkel - az elektronikus kapcsolattartás
+
+A törvény célja, hogy a különböző eljárási törvényekben rögzített elektronikus ügyintézési szabályokat a lehető legszélesebb körben kiváltsa. Ennek megfelelően a törvény az egyes eljárásrendekben található jó megoldásokat - mint például a polgári perrendtartásnak a jegyzőkönyv elektronikus megküldésére vonatkozó szabályait - kiemeli, és általános jelleggel, valamennyi eljárásban és elektronikus ügyintézés során igénybe vehető megoldásként szabályozza. Az egységes használat, jogalkalmazás érdekében az eljárások vagy az egyes eljárási cselekmények elektronikus úton történő lefolytatásához szükséges minimumszabályokat egységesen, valamennyi eljárásrendben alkalmazható módon rögzíti.
+
+Az elektronikus ügyintézéshez való jog
+
+A törvény - összhangban a Ket. jelenleg hatályos szabályozásával - a törvényben biztosított ügyféli jogok anyajogaként nevesíti az elektronikus ügyintézéshez való jogot. Ez a jog kiterjed arra, hogy a törvény hatálya alá tartozó szervek előtt az ügyfél bármely jognyilatkozatot elektronikus úton is megtehessen, illetve az erre alkalmas eljárási cselekményt elektronikus úton is elvégezhessen. Ez alól csak törvény vagy eredeti jogalkotó hatáskörben megalkotott kormányrendelet adhat szabályozási szintű felmentést. Ezen jogszabályok is csak akkor adhatnak felmentést, ha az ügyfél személyes jelenléte vagy valamely okirat eredetisége másként nem pótolható.
+
+Az ügyfél a törvény alapján arra is jogosulttá válik, hogy valamennyi, általa elektronikusan intézhető ügyet egyetlen egységes és személyre szabott ügyintézési felületen (az Egységes Digitális Ügyintézési Térben) is elintézhessen.
+
+A rendelkezés szorosan összefügg azzal, hogy a törvényben foglaltak megtartásának felügyeletét ellátó közigazgatási hatóság az elektronikus ügyintézést biztosító szervekről és az elektronikusan intézhető ügyekről nyilvántartást vezet (mind a kötelezett, mind az önkéntesen szolgáltató alanyokra vonatkozóan), mely adatbázis bárki számára regisztráció, díjfizetés és azonosítás nélkül is hozzáférhető.
+
+Az elektronikus ügyintézés elterjedésének elősegítése érdekében indokolt, hogy az elektronikus ügyintézést biztosító szervezet azokat az előnyöket, melyek nála abból erednek, hogy az ügyfél elektronikusan intézi az ügyét, az ügyféllel megoszthassa.
+
+Fontos garanciája az elektronikus ügyintézéshez való jognak a technológiasemlegesség követelménye, azaz, hogy egy szerv vagy jogszabály sem írhat elő elektronikus ügyintézéshez olyan technikai követelményt, amely az általában az ügyfelek rendelkezésére álló technikai feltételek megteremtésén, illetve a minden körülmények között szükséges eszközök (mind hardver, mind szoftver) megszerzésén túl többletkötelezettséget eredményezne.
+
+A törvény garanciális jelleggel mentesíti az ügyfelet a hátrányos jogkövetkezmények alól, ha önhibáján kívül - az elektronikus ügyintézést biztosító szerv hibájából vagy üzemzavar miatt - nem képes az adott ügyben elektronikus ügyintézésre, ideértve azt az esetet is, ha papír alapú formanyomtatvány előírása esetén nem érhető el annak elektronikusan letölthető és kitölthető változata.
+
+Kötelező elektronikus ügyintézés
+
+A hatályos szabályozásnak megfelelően természetes személyek esetében az elektronikus ügyintézés kötelező használata továbbra is csak törvényben lenne előírható.
+
+Gazdálkodó szervezetek esetében ugyanakkor - bár megfelelő felkészülési idő mellett - maga a törvény írja elő az elektronikus ügyintézést minden esetben, ahol csak erre lehetőség van. Gazdálkodó szervezet a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet (vállalkozások, államháztartási és civil szervezetek, továbbá az egyéb jogi személyek).
+
+Ehhez hasonlóan, kötelező jogi képviselet esetén is előírja a törvény, hogy a jogi képviselő köteles elektronikusan intézni az ügyeket, ahol ez lehetséges.
+
+Természetesen az előző pontban jelzett garanciális mentesítés itt érvényesül, ha az ügyfél (illetve képviselője) önhibáján kívül nem képes az ügyeket elektronikusan intézni.
+
+A gazdálkodó szervezetek számára kötelezettségként szerepel, hogy az adott ügyekért teljesítendő fizetési kötelezettségüket elektronikusan kötelesek megfizetni.
+
+Elektronikus fizetés a törvény szerint:
+
+a) a pénzforgalmi számláról történő átutalás,
+
+b) az elektronikus fizetési és elszámolási rendszeren keresztül történő átutalás,
+
+c) az elektronikus fizetési és elszámolási rendszeren keresztül történő egyszerűsített elektronikus fizetés,
+
+d) bankkártyával történő fizetés,
+
+e) az elektronikus fizetési és elszámolási rendszeren keresztül POS terminál útján történő bankkártyás fizetés
+
+A természetes személyeknek nem kötelezettségük, de jogosultak az elektronikus fizetésre valamennyi esetben.
+
+Rendelkezési jog
+
+A törvény ezért - megtartva és továbbfejlesztve a hatályos szabályozás logikáját - széles körben teszi lehetővé, hogy az ügyfél - nem csak elektronikus ügyintézésére vonatkozóan, személyesen vagy elektronikus úton - rendelkezhessen az ügyei intézésével kapcsolatos eljárási igényeiről. Az ügyintézési rendelkezés tartalma a kapcsolattartási forma és mód, azonosítási mód megválasztásától, az értesítési cím, a képviseletre vonatkozó meghatalmazás bejelentésén keresztül, az ügyintézési rendelkezései megismerésére vonatkozó engedélyek megadásáig rendkívül sokféle lehet. A jelenleg a Ket.-ben szabályozott jogintézmény továbbgondolásával az ügyfél ügyintézési rendelkezése keretében egyetlen bejelentéssel akár valamennyi elektronikus ügyintézést biztosító szervnél bejelentheti adatai megváltozását.
+
+Az elektronikus ügyintézést biztosító szerv kötelezettségei
+
+A fent vázolt logika mentén a törvény az elektronikus ügyintézést biztosító szerv kötelezettségeit sokkal szűkszavúbban szabályozza, mint az ügyféli jogokat és kötelezettségeket. Ennek nyilvánvalóan az is az oka, hogy ami az ügyfél oldalán jogként jelenik meg, az az elektronikus ügyintézést biztosító szerv oldalán olyan kötelezettség, amelyet nem kell ismételten rögzíteni.
+
+A törvény ennek megfelelően kifejezetten rögzíti, hogy az ügyfél számára az elektronikus ügyintézés lehetőségét biztosítani kell. Ennek érdekében az elektronikus ügyintézést - akár kötelezően, akár önkéntesen - biztosító szervnek erre alkalmas informatikai rendszert kell működtetnie (melynek főbb garanciális jellegű követelményeit törvény, részletes technikai szabályait végrehajtási rendelet tartalmazza).
+
+A törvény rögzíti, hogy az elektronikus ügyintézést biztosító szervezetnek nem elegendő csupán mechanikusan, az ügyintézés belső összefüggéseinek tisztázása nélkül elektronizálnia eljárásait, hanem azt végig is kell gondolnia, optimalizálnia kell, és a teljes ügyintézési folyamatot támogató, ügyfélbarát megoldást kell választania.
+
+E körben kiemelendő, hogy a törvény kifejezetten támogatja és formanyomtatványt (elektronikus űrlapot) előíró jogszabályi rendezés esetén is lehetővé teszi interaktív, az ügyfelet lépésről-lépésre vezető alkalmazás segítségével az ügyintézéshez szükséges adatok felvételét, de úgy, hogy az ügyfél maga is megfelelő bizonyítékkal rendelkezzen a szolgáltatott adatokról.
+
+Hasonlóképpen biztosítja a törvény az automatizált döntéshozatali eljárás lehetőségét, ha az elektronikus ügyintézés során az ügyfél kezdeményezésére olyan ügy intézésére kerül sor, amely mérlegelést nem igényel, és amely esetében a döntéshez szükséges információk már az ügyindításkor rendelkezésre állnak. A törvény biztosítja a hivatalbóli eljárások során is az automatikus döntéshozatal lehetőségét, kizárva ezáltal ezen ügyekben a humán tényezőt.
+
+Tekintettel arra, hogy az elektronikus ügyintézés sok esetben oda vezethet, hogy a valóságban teljesen mindegy, hogy az eljáró hatóság vagy más szerv Magyarország területén hol található, a törvény sajátos ügyelosztási lehetőségeket teremt. Lehetővé teszi, hogy a jogalkotó az elektronikus eljárásban történő eljárásra az azonos hatáskörű szervek közül egy szervet jelöljön ki, vagy pedig - a fizetési meghagyásos eljárásban érvényesülő szabályozáshoz hasonlóan - az ügyelosztást más módon, nem területi alapon, de objektív szempontok, például az aktuális ügyteher figyelembevételével oldja meg.
+
+Ki kell emelni, hogy a törvény által előírt minimum követelményekhez szükséges szabályozott elektronikus ügyintézési szolgáltatásokat, valamint központi elektronikus ügyintézési szolgáltatásokat az állam a meghatározott jogalanyok számára díjmentesen köteles biztosítani, így valamennyi államigazgatási szerv (akár a legkisebb önkormányzat) is képes lesz az e-ügyintézéshez szükséges feltételeket biztosítani.
+
+Elektronikus kapcsolattartás
+
+A törvény valamennyi eljárási jog és ezen túlmenően valamennyi ügy elektronikus intézése során egységesen szabályozza az elektronikus kapcsolattartás kérdéseit. Elsősorban ez az a fejezete a törvénynek, amely kapcsolatot biztosít az eljárásjogi kódexekkel.
+
+A szabályozási logika dogmatikai alapját az adja, hogy akár bírósági, akár hatóság, akár más eljárásról van szó, elektronikus ügyintézés keretében elsősorban azok az eljárási cselekmények teljesíthetőek, amelyek az eljárás valamely szereplője nyilatkozatának közlésével vagy valamely irat továbbításával járnak.
+
+Ennek megfelelően a közös nevezőt biztosító szabályozásnak ki kell terjednie arra, hogy
+
+a) e jognyilatkozatokat a nem elektronikus kapcsolattartással azonos joghatás kiváltására alkalmas módon milyen elektronikus kapcsolattartási (dokumentálási) formában tehetik meg az eljárások szereplői,
+
+b) ezen elektronikus kapcsolattartási módok közül mi alapján választanak az eljárások egyes szereplői,
+
+c) e szereplők azonosítására - ha ez szükséges - hogyan kerülhet sor, valamint
+
+d) a nyilatkozatokat mely kapcsolattartásra szolgáló elérhetőségre kell továbbítani.
+
+A kapcsolattartás módja
+
+Azok a feltételek kerülnek meghatározásra a törvényben, amelyek alkalmazásával a nyilatkozat közlésének a joghatásai megegyeznek a nem elektronikus úton írásban vagy szóban megtett nyilatkozatok közlésének a joghatásaival. Ennek megfelelően, ha jogszabály írásbeliséget ír elő, annak az olyan elektronikus kapcsolattartással lehet eleget tenni, melyben a nyilatkozattevő azonosítására sor került, valamint az elküldött és a megérkezett nyilatkozat megegyezősége biztosított (ezt a követelményt azonban a hagyományos papír alap esetén is biztosítani kell). Ezen felül más törvény is megfeleltetheti más elektronikus kapcsolattartási módokon való kapcsolattartás joghatásait, az írásbeli kapcsolattartáséval. A hangkapcsolatot biztosító elektronikus úton megtett nyilatkozat joghatásai pedig megegyeznek a szóbeli nyilatkozatokéval. Ha jogszabály a nem elektronikus úton megtett nyilatkozat megtételét nem köti valamilyen kapcsolattartási mód alkalmazásához, akkor elektronikus ügyintézés során is bármely elektronikus kapcsolattartási mód alkalmazható.
+
+A kapcsolattartásra alkalmazható elérhetőségek, kézbesítési vélelem
+
+Az elektronikus ügyintézést biztosító szerv az elérhetőségeit köteles közzétenni a honlapján közzétett tájékoztatóban. Értelemszerűen minden elektronikus ügyintézést biztosító szervnek kötelező biztosítania biztonságos kézbesítési szolgáltatáson keresztül küldemények fogadását, legalább fokozott biztonságú és közigazgatási követelményeknek megfelelő elektronikus aláírással ellátott elektronikus dokumentumok feldolgozását.
+
+A gazdálkodó szervezet ügyfelek részére a szabályozás előírja, hogy az elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét a nyilvántartásba vételét (ennek hiányában létesítését) követő 8 napon belül, annak változását viszont előre be kell jelentenie.
+
+Biztosítani kell, hogy a gazdálkodó szervezet rendelkezzen olyan hivatalos elektronikus elérhetőséggel, amelyen keresztül az e-ügyintézési törvény hatálya alá tartozó ügyekben a biztonságos kézbesítés követelményeinek megfelelő módon kommunikál, tehát
+
+a) egyértelműen azonosítható, hogy kizárólag az adott gazdálkodó szervezeté,
+
+b) alkalmas a küldés és fogadás időpontjának, valamint az átvevő személyének egyértelmű azonosítására,
+
+c) garantálja a dokumentum sértetlenségét,
+
+d) kezeli a sikertelen kézbesítés eseteit.
+
+Ez az elektronikus elérhetőség szerepeljen a rendelkezési nyilvántartásban és az adott gazdálkodó szervezetre vonatkozó közhiteles nyilvántartásban (cégnyilvántartás, egyéni vállalkozók nyilvántartása, civil szervezetek nyilvántartása).
+
+A Kormány felhatalmazást kapott arra, hogy határozza meg azon gazdálkodó szervezetek körét, amelyeknek az állam ezt az elektronikus elérhetőséget és a biztonságos kézbesítés követelményeinek megfelelő módon történő kommunikációt ingyenesen biztosítja (pl. felszámolás alatt álló szervezetek, KKV-k, civil szervezetek egy része).
+
+A természetes személyek számára a hivatalos értesítési cím megadása továbbra is lehetőség marad. Ha ilyen címet a természetes személy ügyfél nem ad meg, de az elektronikus ügyintézést biztosító szerv számára ismert az ügyfél valamely elektronikus kapcsolattartásra alkalmas címe, és azt az ügyfél ügyintézési rendelkezésében nem zárta ki, megkísérelheti vele ezen a címen felvenni a kapcsolatot. A hivatalos értesítési címre kézbesített küldeményekre vonatkozóan a törvény kézbesítési vélelmet állít fel, amely a postai küldemények kézbesítési vélelmének az elektronikus kapcsolattartásra alkalmazott változata. Természetesen a kézbesítési vélelem megdöntésére vonatkozó, eljárási kódexekben alkalmazott szabályok e vélelem esetében is alkalmazhatóak.
+
+Azonosítás
+
+Az elektronikus ügyintézési cselekmények nem feltétlenül igénylik az ügyfél azonosítását. Abban az esetben, ha a nem elektronikus ügyintézéshez a jogszabály nem igényli személyazonosító adat megadását, elektronikus ügyintézés esetében sem várható el azonosítás.
+
+Minden más esetben az ügyfélnek azonosítania kell magát az ügyintézés azon pontján, ahol az adatok kezelése ezt szükségessé teszi. A szabályozás biztosítja, hogy bármely elektronikus ügyintézési cselekmény megtehető legyen az azonosítási szolgáltatás használatát követően.
+
+A törvény ezen felül lebontja az akadályokat a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az eIDAS-rendelet szerinti azonosító eszközzel való azonosítás elől, és lehetővé teszi azt is, hogy az elektronikus ügyintézést biztosító szerv további azonosítási lehetőségeket is kínáljon.
+
+Az állam által biztosított azonosítási szolgáltatások közül a törvény nevesíti az ügyfélkaput, az e-kártyát, valamint a részleges kódú telefonos azonosítást. Ezen azonosítási szolgáltatások egységes ügyfél-regisztrációs nyilvántartásból épülnek fel, a felhasználó elég, hogy egy azonosítási szolgáltatásra regisztráljon, a többit szándéknyilatkozata alapján igénybe veheti.
+
+A gazdálkodó szervek azonosítására a gazdálkodó szervezet természetes személy képviselőjének azonosítása és képviseleti jogának igazolása útján is lehetőséget nyújt a szabályozás. Sőt, ha a képviseleti jogosultság közhiteles nyilvántartásból vagy a nem természetes személy ügyintézési rendelkezéséből következik, a képviseleti jog további igazolása sem szükséges vagy követelhető meg.
+
+A külföldi - Magyarországon például lakóhely hiányában nyilvántartásba nem vett - ügyfelek, azonosításhoz kötött elektronikus ügyintézés céljából, önként regisztrálhatnak az elektronikus ügyintézést igénybe vevő külföldi személyek nyilvántartásába. Természetesen e nélkül is jogosultak elektronikus ügyintézésre az eIDAS-rendelet által biztosított megoldások használatával.
+
+Szabályozott és Központi Elektronikus Ügyintézési Szolgáltatások (SZEÜSZ és KEÜSZ)
+
+Az elektronikus ügyintézés teljes folyamata az egyes részfolyamatokat megtestesítő elektronikus ügyintézési szolgáltatásokból építhető fel.
+
+Egyes elektronikus ügyintézési szolgáltatások külön szabályozás nélkül folytathatóak, azonban az ügyfelek érdekeinek védelme, a megfelelő szolgáltatási színvonal biztosítása érdekében a legfontosabb szolgáltatások esetében rögzíteni kell azok nyújtásának és működésének alapvető szabályait, ez utóbbiak a szabályozott elektronikus ügyintézési szolgáltatások (SZEÜSZ). Ahhoz, hogy ezen szolgáltatások szolgáltatói számon kérhetőek legyenek, szükséges, hogy azokat kifejezetten csak a Felügyeletnek tett bejelentés és a szolgáltatás részletes dokumentációjának becsatolása mellett lehessen nyújtani.
+
+A hatályos szabályozás (Ket.) 28 szabályozott elektronikus ügyintézési szolgáltatást jelöl meg, a jelen törvény azonban csak azokat nevesíti, amelyeknél a személyes adatok kezelése miatt törvényi felhatalmazás szükséges. A többi SZEÜSZ szükségességének felülvizsgálata jelenleg zajlik, a kormányrendeleti szabályozás szintjén kerülnek szabályozásra.
+
+Az elektronikus ügyintézés működésének elősegítése érdekében elengedhetetlen, hogy egyes SZEÜSZ-ök létezése mindenképp biztosítva legyen. Mindez azt jelenti, hogy az állam köteles gondoskodni, hogy akkor is, ha nem nyújtja azt piaci alapon egyetlen szolgáltató, ezen SZEÜSZ létezzen, működtesse valaki. Ebben az esetben a Kormány köteles a SZEÜSZ működését biztosítani (Kormány által kötelezően biztosítandó SZEÜSZ-ök), azaz vagy saját szervén vagy kijelölt szolgáltatón keresztül azt nyújtani. Ezen SZEÜSZ-ök esetében a Kormány által kijelölt szerv résztvevője lesz a piacnak, azaz az adott SZEÜSZ-t nem csak a Kormány, hanem más szerv is nyújthatja, az elektronikus ügyintézést biztosító szerv vagy az ügyfél pedig választhat, hogy melyik SZEÜSZ-t veszi igénybe.
+
+A hatályos szabályozással összhangban a SZEÜSZ nyújtását az elektronikus ügyintézés felügyeletét ellátó szervnek be kell jelenteni, a további SZEÜSZ-ök szabályozása, valamint a törvényben nevesített SZEÜSZ-ök részletes, törvényi szintet nem igénylő szabályozása kormányrendeletben történne.
+
+Az elektronikus ügyintézés felügyelete
+
+A SZEÜSZ-ök, KEÜSZ-ök, valamint az elektronikus ügyintézési szolgáltatások megvalósítása során kulcskérdés a megvalósítás és a szolgáltatásnyújtás hatékony felügyelete, koordinációja.
+
+A szabályozás jelenleginél szélesebb felügyeleti lehetőségeket és jogköröket biztosít a helyzetelemzésben leírt problémák kezelése érdekében (bár a törvénynek közvetlenül nem feladata, de itt is jelezni kell, hogy a korábban e szervezetekre telepített feladatok ellátása a jelenlegi erőforrásoknál lényegesen nagyobbakat igényel).
+
+A felügyeleti jogkörök széles körű vizsgálati jogosultságon és az alkalmazható jogkövetkezmények széles palettáján alapulnak. Ugyanakkor a felügyeleti tevékenység hangsúlya várhatóan mégis a szabályozásban - jellegénél fogva - kisebb terjedelemmel megjelenő konzultációs, koordinációs eljáráson nyugszik majd.
+
+Fontos hangsúlyozni, hogy a felügyeleti tevékenység minden esetben hivatalbóli közigazgatási hatósági eljárás lesz, melynek kezdeményezésére az elektronikus ügyintézési jogaik megsértésére hivatkozó ügyfelek bejelentőként és nem ügyfélként vesznek részt.
+
+A felügyeleti jogkörben alkalmazható jogkövetkezmények értelemszerűen részben elkülönülnek az elektronikus ügyintézést kötelezően és önkéntesen biztosító szervek között. Ez utóbbiak esetében a legsúlyosabb szankció az elektronikus ügyintézést biztosító szervek köréből történő kizárás, és az ezzel járó negatív következmények.
+
+Az elektronikus ügyintézés felügyelete emellett nem képzelhető el a felügyeleti szerv megfelelő informáltsága nélkül, ezért a törvény - végrehajtási rendeletben kibontandó tartalommal - az ellenőrzéshez szükséges, és az elérni kívánt közcéllal arányos, az elektronikus ügyintézési szervek számára aránytalan és indokolatlan adminisztratív terhet nem generáló adatszolgáltatási kötelezettségeket állapít meg.
+
+A III. Rész összefoglalása
+
+Háttér
+
+A szabályozás megalkotásának célja
+
+A törvényi szabályozás megalkotásának három fő mozgatórugója:
+
+a) az ügyeiket elektronikus úton intéző ügyfelek adminisztratív terheinek csökkentése,
+
+b) az ügyeiket nem elektronikus úton intéző ügyfelek adminisztratív terheinek csökkentése, a mögöttes, több elektronikus ügyintézést biztosító szervet érintő eljárási folyamatok elektronikus útra terelésével, hatékony kereteinek megteremtésével,
+
+c) az érintett szervek adminisztratív terheinek, költségeinek mérséklése, hatékonyságuk növelése az ügyféli kezdeményezésre és a nem ügyféli kezdeményezésre indult ügyekben is, a szervek közötti együttműködés elektronikus útra terelésével, hatékony kereteinek megteremtésével.
+
+Az ügyfelek szempontjából a szabályozás megalkotásának legáltalánosabb célja, hogy a hatékony állami működés érdekében, amit csak lehet, a közfeladatot ellátó, és egyébként az elektronikus ügyintézést biztosító szervek, szervezetek (a továbbiakban együtt: együttműködő szervek) az ügyfelek szükségtelen beavatkozása, terhelése nélkül, egymással együttműködve intézzenek el. Így lesz szükség nemzetgazdasági szinten a legkevesebb erőforrásra az adott feladat megoldásához. Ez például azt jelenti, ha más szervnél lévő iratra, adatra (a továbbiakban együtt: információ) van szükség az ügy elintézéséhez, azt az ügy elintézéséért vagy közfeladat ellátásáért felelős szerv ezen információforrástól maga szerezze be.
+
+A szabályozás természetesen nem vonja el az ügyfél azon jogát, hogy maga igazolja az adatait. A szabályozásnak arra az esetre kell választ adnia, ha az ügy megoldása, közfeladat ellátása akár az ügyfél helyzetét, akár az érintett szervezetek belső működését vagy együttműködését javítandó az együttműködő szervek közötti együttműködést igényli.
+
+Egy törvényben, de szerkezetileg elkülönülten jelenik meg az elektronikus ügyintézés és az interoperabilitás szabályozása. Ez egyfelől biztosítja az egymással összefüggő szabályok egységes kezelését, de a szerkezeti elkülönítés garantálja azt is, hogy a jogalkalmazás során biztosítottak legyenek a jogbiztonsági szempontok, hogy a két tárgyában összefüggő, de mégis eltérő hatályú és eltérő szabályozási logikát követő törvény egymás mellett tudja kifejteni hatását.
+
+Állami és önkormányzati szervek nyilvántartásainak együttműködése
+
+A szabályozás egyik fő oszlopát természetesen az Ioptv. rendelkezései által megteremtett eszközök, intézmények biztosítják. Az ott kidolgozott rendszer továbbfejlesztése, továbbgondolása, nem nyilvántartásban szereplő adatokra, iratokra való kiterjesztése az Ioptv. logikájának megtartása mellett tudja garantálni az elektronikus ügyintézésre vonatkozó szabályozás megfelelő érvényesülése mellett az ügyeiket nem elektronikus úton intéző ügyfelek adminisztratív terheinek csökkentését, egyszerűbb, kényelmesebb ügyintézését is, valamint együttműködő szervek terheinek csökkentését, hatékonyabb, magasabb színvonalú eljárását, ügyintézését is.
+
+Az új szabályozásnak meg kell teremtenie a kapcsolatot az eljárási kódexekkel, azaz biztosítania kell azt, hogy az egyes eljárásokban ne csupán az ügyfél-hatóság/bíróság/más szerv, hanem az együttműködő szervek közötti kapcsolattartás minimumkövetelményei is rögzítve legyenek. Ennek megfelelően szabályozni szükséges
+
+a) az egyes, nem elektronikus kapcsolattartási formákkal azonos joghatás kiváltására alkalmas elektronikus kapcsolattartási formák minimumfeltételeit,
+
+b) azt, hogy az igénybe vehető kapcsolattartási formák közül az egymás közötti kapcsolattartás során hogyan válasszanak az elektronikus ügyintézést biztosító szervek,
+
+c) az elektronikus ügyintézést biztosító szervek egymás számára nyitva álló elérhetőségei esetében az elektronikus ügyintézési szabályozáshoz hasonlóan folyamatos figyelési kötelezettséget,
+
+d) az elektronikus ügyintézést biztosító szervek egymás közötti kapcsolattartása során megvalósuló azonosítás speciális kérdéseit,
+
+e) az egyes (elektronikus és nem elektronikus) formátumok közötti átjárhatóság és a hitelesítés kérdéseit,
+
+f) azt, hogy elektronikus úton mikor minősül feladottnak, közöltnek, kézbesítettnek egy másik elektronikus ügyintézést biztosító szervnek küldött nyilatkozat,
+
+g) a nyilatkozat kézhezvételének visszaigazolása kérdését.
+
+Joghatás kifejtésére alkalmas közlések esetén cél ugyanakkor a biztonsági követelményeknek meg nem felelő elektronikus kapcsolattartási formák (például egyszerű email) visszaszorítása, ehelyett pl. kötelező hivatali kapu vagy más biztonságos hivatalos elérhetőség (egyébként az elektronikus ügyintézési szabályozásban is előírt) biztosítása.
+
+Információátadás
+
+Természetesen az elektronikus ügyintézést biztosító szervek közötti együttműködés legalapvetőbb és leggyakoribb formája az, hogy információkat adnak át egymásnak. Ezt, egy a jelenlegi koncepcióban megcélzottnál szűkebb körben az Ioptv. szabályozza jelenleg. A kiterjesztés, továbbfejlesztés többirányú:
+
+A) Egyrészt ne csupán adatokra, információkra, hanem adott esetben az ügy elintézéséhez szükséges iratok továbbítására is terjedjen ki a szabályozás tárgyi hatálya. E körben például hatósági, bírósági döntések, az elektronikus ügyintézést biztosító szervvel kötött szerződések, a neki címzett nyilatkozatok, illetve az általa megtett nyilatkozatok az információ fogalmába és így az együttműködés körébe ugyanúgy beletartozhatnak, mint például az elektronikus ügyintézést biztosító szervhez benyújtott kérelmek és különösen kötelező mellékleteik.
+
+B) Másrészt fontos az is, hogy az adatok közül se csupán a nyilvántartásban szereplő adatokra, hanem minden olyan adatra terjedjen ki az együttműködési kötelezettség, amelyről az együttműködő szerveknek tudniuk kell, hogy más együttműködő szervnél rendelkezésre állnak.
+
+C) Ugyancsak fontos kiterjesztés lehet, hogy az adat- és iratátadásra - az ügyfél megfelelő tájékoztatása mellett - minden kérelemre indult olyan eljárásban kerülhessen sor, amelynek elintézéséhez az adott adatra, iratra szükség van. Biztosítandó természetesen az érintett eljárásjogi kódexekkel, valamint a készülő EU-szintű adatvédelmi szabályozással való összhang.
+
+E körben úgy érdemes szabályozni, hogy
+
+a) a tömegesen előforduló és egyszerű megítélésű esetekben az információátadás - megfelelő garanciákkal körülhatárolt módon - kérésre automatikus legyen,
+
+b) míg a ritkábban előforduló esetekben a hagyományos - az adatkezelés célja és jogalapja megjelölését tartalmazó - megkereséses módszerrel működjön, azzal az eltéréssel, hogy ez főszabály szerint elektronikus úton, a jelenleginél sokkal rövidebb, legfeljebb 3 munkanapos határidővel történjen, és az adatkérés jogszerűségéért való felelősség (igazából a jelenlegi rendszerhez hasonlóan) elsősorban a megkereső szervet terhelje.
+
+D) E körben indokolt szabályozni az iratkezelő rendszerek közötti iratátadás szolgáltatás (mint technikai szolgáltatás, eszköz) működését is.
+
+Döntéshozatali és nyilatkozattételi együttműködés
+
+A törvény túllép az információk átadásán alapuló együttműködés keretein és elvi jelleggel írja elő azt, hogy ha valamely együttműködő szervnek közfeladata ellátásához vagy az ügyfél ügyének elintézéséhez más együttműködő szerv még nem létező döntése vagy nyilatkozata szükséges, akkor ennek beszerzéséről maga gondoskodjon. Erre döntések esetében természetesen csak akkor nyílik lehetőség, ha a döntés meghozatala az együttműködő szerv kérelmére vagy kezdeményezésére lehetséges.
+
+E jogintézmények elsősorban azt hivatottak biztosítani, hogy az ügyintézés hatékonysága ne csak az egyes eljárásrendeken belül, hanem eljárásrendek között vagy akár eljárásrenden kívül is javuljon. Ideértve például azokat az eseteket, amikor közigazgatási szervnek valamely közszolgáltató nyilatkozatára vagy közszolgáltatónak valamely közigazgatási szerv döntésére van szüksége ahhoz, hogy ügyfelét kiszolgálja.
+
+Interoperabilitási nyilvántartás, adatbázis
+
+Az Ioptv. szerinti nyilvántartások regiszterét az adatkapcsolatokhoz, adatátadásokhoz hasonlóan, azzal párhuzamosan fejleszteni kell, azaz a nyilvántartásnak tartalmaznia kell minden olyan adat, irat metaadatait, amely potenciálisan hozzáférhető más szervek számára.
+
+Fontos ezen felül, hogy - szintén az Ioptv. mezsgyéjén haladva - az informatikai együttműködéshez szükséges információk és adatok (ideértve az API-kat is) egy helyről elérhetőek legyenek minden együttműködő szerv számára. Ez adatszolgáltatási kötelezettség előírásával biztosítható.
+
+Technikai követelmények
+
+A törvényi szabályozásnak az elektronikus ügyintézést biztosító szervek közötti együttműködés technikai feltételeit csak a szükséges legszűkebb körben indokolt tartalmaznia. Ennek egyik indoka az, hogy az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény e kérdések egy részét kezeli, a másik, hogy e szabályok nem igényelnek törvényi szintű rögzítést. Törvényi szintet igényelnek például az - adott esetben az ügyfelekre vagy a közigazgatás zavartalan működésére kihatással lévő - üzemzavar, üzemszünet alapvető szabályai vagy az elektronikus ügyintézést biztosító szervek SZEÜSZ és KEÜSZ igénybevételére való technikai alkalmasságának az előírása, illetve az együttműködési képesség mint tervezési alapkövetelmény, továbbá az ezt elősegítő eljárási rendek megfogalmazása.
+
+Adatkezelés, titokvédelem
+
+A közfeladatot ellátó szervek belső kapcsolatai az elektronikus ügyintézési szabályozásnál komolyabban érintenek adatkezelési és titokvédelmi kérdéseket. A törvény főszabály szerint nem írja felül az adat- és titokvédelmi szabályokat, nem biztosít új jogcímet védett adatok megismerésére. Ez alól kivételt képeznek az ügyfél kérelmére intézett ügyek, ahol - az ügyfél megfelelő előzetes tájékoztatása esetén - a törvény alapján vélelmezni kell az ügyfél hozzájárulását ahhoz, hogy az ügy elintézéséhez szükséges, akár személyes adatot is tartalmazó információkat az ügy elintézéséért felelős szerv más együttműködő szervtől beszerezze.
+
+Fontos, hogy az adatkezelési jogosultságok bővülése, illetve a modern technológiák alkalmazásával az adatkezelés tényleges bővülése az adatvédelmi garanciák bővülésével párhuzamos legyen, amelyre épp az elektronikus úton megvalósuló együttműködés kiváló lehetőségeket is biztosít.
+
+Felügyelet
+
+A törvényi szabályozás - kerettörvény jellegéből eredően - szükségszerűen csak az alapelveit, alapkövetelményeit tudja lefektetni egy a jelenleginél hatékonyabb, gyorsabb állami működésnek. E követelmények nem lehetnek egyedileg, eljárásról-eljárásra, ügyről-ügyre, közfeladatról-közfeladatra törvényben meghatározottak. E követelmények érvényesítése, a mindennapi ügyintézés és közfeladat-ellátás során történő „aprópénzre váltása” az együttműködő szervek feladata, amely nem feltétlenül áll összhangban e szervek szervezeti érdekeivel.
+
+Éppen ezért a szabályozásnak, az elektronikus ügyintézési szabályozáshoz hasonlóan sarokköve, hogy megfelelő, széles körű hatósági és koordinatív eszközökkel rendelkező felügyeleti tevékenység garantálja az érvényesülését, és azok számára a jogorvoslás lehetőségét, akiknek jogait, jogos érdekeit ezen alapkövetelmények teljesítésének elmulasztása sérti. A felügyelet szabályozásának - a szükséges eltérések mellett - lényegében egységesnek kell lennie az elektronikus ügyintézési és az interoperabilitási szabályozás tekintetében.
+
+Bejelentés informatikai fejlesztési szándékról
+
+Az informatikai fejlesztések egységességének, az informatikai rendszerek együttműködési képességének biztosítása érdekében minden állami szerv köteles bejelenteni informatikai fejlesztési terveit a Kormány rendeletében kijelölt szervnek.
+
+A kijelölt szerv az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs infrastruktúrához történő illeszkedés szempontjára figyelemmel kialakított álláspontjáról tizenöt munkanapon belül tájékoztatja a bejelentő szervet.
+
+A IV. Rész összefoglalása
+
+Az eIDAS-rendelet 2016. július 1-jével hatályon kívül helyezi az 1999/93/EK irányelvet, és ugyanezen naptól már az eIDAS-rendelet előírásait kell alkalmazni.
+
+Az eIDAS-rendelet célja, hogy átfogó uniós keretet adjon az elektronikus tranzakciók biztonságának és megbízhatóságának érdekében, jelentősen kibővítve az 1999/93/EK irányelv hatókörét. Ez egyaránt lefedi az e-kormányzati megoldásokat és a piaci szereplők által használt elektronikus biztonsági megoldásokat is. A fenti célt az eIDAS Rendelet két, eltérő eszközzel kívánja megvalósítani.
+
+Az online szolgáltatásoknál használt elektronikus azonosítás körében az eIDAS Rendelet a tagállami önkéntesség és a kölcsönös elismerés elvére építi a szabályozást. Azaz egy tagállam szabadon eldöntheti, hogy a tagállamban használt valamely elektronikus azonosítási rendszerét bejelenti-e a Bizottságnak, de ha bejelenti, akkor ezt a rendszerét (adott biztonsági szinten belül) minden más tagállam is köteles elismerni, aki már tett ilyen bejelentést. Pontosabban ez az elismerés csak azon közigazgatási szervek által nyújtott szolgáltatások online elérésére terjed ki, amelyek a tagállamon belül a bejelentett rendszert használják. E körben tehát a tagállami szabályozási szabadság a rendeleti szabályozási szint ellenére is alapvetően érintetlen marad.
+
+Az eIDAS-rendelet másik eszköze a bizalmi szolgáltatások uniós kerete. Itt az elektronikus aláírások kapcsán már kialakult egyes szolgáltatástípusok alapján határozzák meg az általánosabb „bizalmi szolgáltatás” fogalomkörét, és az ilyen szolgáltatások felügyeletének uniós rendjét, beleértve a minősített és nem minősített szolgáltatások közötti különbségtételt is. Az eIDAS-rendelet tételesen nevesít néhány bizalmi szolgáltatást is, és egyes bizalmi szolgáltatásokhoz uniós szinten joghatásokat is rendel (pl. a minősített elektronikus aláírás a saját kezű aláírással azonos joghatású, minősített időbélyegző esetében vélelmezni kell a feltüntetett dátum és időpont pontosságát és a hozzá kapcsolt adatok sértetlenségét stb.). Az azonosítástól eltérően azonban a bizalmi szolgáltatások uniós kerete jelentősen meghatározza a hazai szabályozási mozgásteret is.
+
+A rendeleti formából és a kiterjedt hatályos magyar elektronikus aláírási szabályozásból következően az átültetést meghatározó feladat a deregulációs kötelezettség, másrészről azonban be kell azonosítani azokat a rendelkezéseket is, amelyekre az eIDAS-rendelet végrehajtása miatt van szükség. Az eIDAS-rendeletben kifejezetten előírt, a tagállamra ruházott kötelező végrehajtási jogalkotás terjedelme igen szűk, ugyanakkor jelentős az olyan szabályok köre, amelyre azért van szükség, hogy a kötelezően alkalmazandó uniós szabályok hatékonyan alkalmazhatóak legyenek (lásd C-31/78. számú, Bussone-ügyben [1978] EBHT 2429], 32. pont).
+
+A fentiekre tekintettel a jelen törvény a hatályos elektronikus aláírásról szóló törvény rendelkezéseit és a meglévő hatósági gyakorlatot próbálja megőrizni úgy, hogy egyúttal e rendszert hozzáillessze az eIDAS-rendelet szerkezetéhez és fogalmaihoz.
+
+A törvény szerkezetét illetően először a valamennyi bizalmi szolgáltatásra vonatkozó általános feltételeket rögzíti (beleértve a tanúsítványt kibocsátó bizalmi szolgáltatásokra vonatkozó olyan közös szabályokat is, amelyek nem kifejezetten az aláírás vagy bélyegző létrehozással kapcsolatosak, hasonlóan az eIDAS-rendelet 24. cikkéhez.) Ezen fejezetben találhatóak a szolgáltatás nyújtásának megkezdésével, a szolgáltatási szerződéssel és a tanúsítványokkal összefüggő ellenőrzéssel kapcsolatos kötelezettségek, valamint a bizalmi szolgáltatás keretében kibocsátott tanúsítványok ideiglenes felfüggesztésével és visszavonásával kapcsolatos szabályok.
+
+Ezt követően egy külön fejezetben olvashatóak a bizalmi szolgáltatás nyújtásának befejezésével kapcsolatos szabályok, amelyeket a bizalmi szolgáltatókat terhelő adatszolgáltatási kötelezettségek és a felügyeleti szabályok fejezete követ. Ez utóbbi fejezet jelöli ki az eljáró hatóságot (a Nemzeti Média- és Hírközlési Hatóságot), amelynek eljárására a Ket. 13. § (2) bekezdésének d) pontja szerinti rendelkezések figyelembe vételével a Ket. is irányadó (a termékek és a szolgáltatások forgalmazására, illetve értékesítésére, valamint az ezekkel összefüggő kereskedelmi gyakorlatokra vonatkozó követelmények ellenőrzésével, illetve a piacszabályozással kapcsolatos eljárás.) Ez a fejezet tartalmazza a nem megfelelés esetén alkalmazható jogkövetkezményeket és az alkalmazható bírságok mértékét is.
+
+Az V. Rész összefoglalása
+
+Az állami szervek működése során keletkező iratok tekintetében feltétlenül gondoskodni kell arról, hogy a nem hatósági eljárás/bírósági eljárás során keletkező iratok, szerződések elektronizálása, valamint az elektronikus és papír alapú iratok közötti átjárás biztosított legyen.
+
+A törvény rendezi, hogy a hivatalos iratokhoz hasonló módon szabályozva legyen az átjárhatóság, valamint az elektronikus kézbesítés lehetősége.
+
+Az elektronikus aláírási eljárás egy olyan hitelesítési folyamat, amely során az elektronikusan aláíró személy az adott dokumentum tekintetében az adott időpontban aláírásával igazolja a dokumentum tartalmának valódiságát. Ezután a dokumentum - a hitelesség megóvása érdekében - megváltoztathatatlan állapotba kerül.
+
+A fokozott biztonságú elektronikus aláírás olyan elektronikus aláírás, amely
+
+a) alkalmas az aláíró azonosítására,
+
+b) egyedülállóan az aláíróhoz köthető,
+
+c) olyan eszközökkel hozták létre, amelyek kizárólag az aláíró befolyása alatt állnak, és
+
+d) a dokumentum tartalmához olyan módon kapcsolódik, hogy minden - az aláírás elhelyezését követően a dokumentumon tett - módosítás érzékelhető.
+
+A jogi-technológiai alapok tehát elviekben rendelkezésre állnak.
+
+Hiányoznak, vagy csak jogági szinten léteznek azonban azok a szabályok, melyek egyértelmű választ tudnak adni a gyakorlatban jelentkező néhány problémákra.
+
+A felmerülő kérdéseket
+
+a) a jogrendszer egészét érintő módon, az alapokat illetően törvényben,
+
+b) szubszidiárius módon (ha az ágazati törvény eltérően nem rendelkezik),
+
+c) a gyakorlatban legegyszerűbben és legéletszerűbben megvalósítható módon
+
+kell megalkotni.
+
+Ezzel az egyes jogágakra vonatkozó speciális elvárások továbbra is érvényesíthetőek maradnak, ugyanakkor - a szubszidiaritás miatt - nem marad szabályozatlan terület.
+
+Az elektronikusan hiteles kiadmányok kézbesítése kapcsán a normaszöveg - ha nincs eltérő ágazati szabályozás - az elektronikus ügyintézésre vonatkozó kézbesítési szabályok alkalmazását rendeli el.
+
+Ez lényegében egymásra épülő megoldások alkalmazását jelenti
+
+- az ügyfélkapu alkalmazása (ha van és ismert),
+
+- az ügyfél által megadott elektronikus elérhetőség használata;
+
+- ilyen elérhetőségek hiányában vagy ha a kapcsolódó vélelmek alapján sem megállapítható a kézbesítés, papír alapú kiadmány készítése és annak postázása.
+
+A törvény pótolja azt a hiányosságot, hogy jelenleg nincs általános háttérszabály arra, hogy az elektronikusan hiteles iratok hogyan alakíthatóak át hiteles papír alapú kiadmánnyá.
+
+A jelenleg létező szabályozások problémája a jogági elkülönülés. Ennek feloldása céljából - lehetőségként - az egyéb megoldásoktól (központilag kijelölt hitelesítő, iratérvényességi nyilvántartás) függetlenítve a törvény kimondja, hogy a közfeladatot ellátó szerv által kiállított hiteles elektronikus iratról a kiállító szerv vagy jogutódja hiteles papír alapú másolatot állíthat ki, megfelelő záradék felvezetésével, valamint - saját maga által előállított elektronikus irat kapcsán - ezt a természetes személy is megteheti.
+
+A törvény háttérszabályt ad arra az esetre is, hogy ha az akarategység szempontjából lényeges egy okirat több fél általi hiteles aláírása, melyik kiadmány minősül hitelesnek, ha az egyik fél elektronikus aláírást kíván használni, a másik fél pedig hagyományosan ír alá. (A törvény értelmében az elektronikusan kiadmányozott iratról készült, záradékkal hitelesített papír alapú másolaton a másik fél aláírásával hitelesített irat.)
+
+Kiemelten fontos, hogy az informatikai fejlesztések megfelelő színvonalon és egységes rendszer keretében történjenek meg. Ezért a Kormány által kijelölt szerv véleményezési jogkört kap az állami szervek meghatározott célból történő informatikai fejlesztéseinek vizsgálatára.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény által használt fogalmakat határozza meg.
+
+A 2. §-hoz
+
+A törvény II. részének tárgyi hatályát határozza meg.
+
+Az elektronikus ügyintézést biztosító szervek a következők:
+
+1. az államigazgatási szervek,
+
+2. a helyi önkormányzat tisztségviselői és szervei,
+
+3. a törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb jogalanyok,
+
+4. az OBH és a bíróságok,
+
+5. az alapvető jogok biztosa,
+
+6. az ügyészségek,
+
+7. a közjegyzők,
+
+8. a bírósági végrehajtók,
+
+9. a hegyközségek kivételével a köztestületek,
+
+10. a közüzemi szolgáltatók (amelyeknél a havi kibocsátott számla mennyisége a 150 000-et meghaladja), valamint
+
+11. a törvényben vagy kormányrendeletben erre kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalanyok.
+
+Egyéb szerv az Elektronikus Ügyintézési Felügyelethez (a továbbiakban: Felügyelet) történő bejelentés útján önként vállalhatja a törvény alkalmazását.
+
+Ezen szervek és az ügyfelek közötti ügyek (azaz a szerv és a szerv részét nem képező ügyfél közötti valamennyi, a szerv hatáskörébe tartozó ügyek) tartoznak a törvény hatálya alá.
+
+A 3-7. §-hoz
+
+A törvény II. részének további alapelveit tartalmazza:
+
+- az ügyfél elektronikus ügyintézéshez való joga
+
+- az elektronikus ügyintézéshez kapcsolódó kedvezmények,
+
+- technológiai semlegesség alapelve,
+
+- jóhiszeműség és tisztesség, valamint ügyfélcentrikusság alapelve,
+
+- adatvédelmi alapelv
+
+A 8. §-hoz
+
+Az ügyfél főszabály szerint jogosult a törvény hatálya alá tartozó szervek előtti ügyekben az elektronikus ügyintézésre. A korábbi hatályos szabályozáshoz képest a törvény előírja, hogy csak akkor korlátozható törvényben vagy korm. rendeletben az elektronikus ügyintézés, ha a személyes megjelenés vagy okirat eredetisége másként nem pótolható.
+
+A 9. §-hoz
+
+A törvény kiemeli, hogy a hatálya alá tartozó ügyekben a gazdálkodó szervezetek, valamint a jogi képviselők kötelesek az elektronikus ügyintézésre, nem gazdálkodó szervezet természetes személy azonban csak törvényben kötelezhető erre. Kimondja a törvény, hogy az elektronikus kapcsolattartási kötelezettség megszegésével benyújtott nyilatkozat érvénytelen.
+
+A 10. §-hoz
+
+Deklarálja, hogy elektronikus ügyintézést vagy az Egységes Digitális Teret megtestesítő Személyre szabott Ügyintézési Felületen (a továbbiakban: SZÜF), vagy az elektronikus ügyintézést biztosító szerv által jelzett módon lehet folytatni.
+
+A 11. §-hoz
+
+Az automatikus döntéshozatali eljárás szabályait ismerteti. Az automatikus döntéshozatal során az elektronikus ügyintézést biztosító szerv emberi közbeavatkozás nélkül, kizárólag az ügyfél által megadott, a rendelkezésre álló, valamint közvetlen információátvétel útján beszerzett adatokból hoz döntést. A törvény lehetőséget ad mind a kérelemre, mind a hivatalból történő eljárások automatizálására.
+
+A 12. §-hoz
+
+A rendelkezés biztosítja az elektronikus és papíralapú okiratok hitelességét, másolatok hitelesítését.
+
+A 13. §-hoz
+
+Az elektronikus kapcsolattartás esetén fontos tisztázni, hogy az elsősorban - ha jogszabály kivételt nem tesz - az írásbeliséget helyettesíti.
+
+A hangkapcsolat útján történő kapcsolattartás szabályait is rendezi a rendelkezés. Mind a hangkapcsolat útján, mind az egyéb elektronikus úton történő ügyintézés minősülhet szóbelinek, ha a törvény 18. § (3) és (4) bekezdésben foglalt feltételeknek eleget tesz.
+
+A 14-15. §-hoz
+
+A rendelkezés az elektronikus kapcsolattartás/kézbesítés alapvető szabályait rendezi gazdálkodó szervezetek, valamint egyéb személyek esetében.
+
+I.
+
+1. Biztosítani kell, hogy a gazdálkodó szervezet rendelkezzen olyan hivatalos elektronikus elérhetőséggel, amelyen keresztül az e-ügyintézési törvény hatálya alá tartozó ügyekben a biztonságos kézbesítés követelményeinek megfelelő módon kommunikál, tehát
+
+a) egyértelműen azonosítható, hogy kizárólag az adott nem természetes személyé,
+
+b) alkalmas a küldés és fogadás időpontjának, valamint az átvevő személyének egyértelmű azonosítására,
+
+c) garantálja a dokumentum sértetlenségét,
+
+d) kezeli a sikertelen kézbesítés eseteit.
+
+2. Ez az elektronikus elérhetőség szerepeljen a rendelkezési nyilvántartásban és az adott nem természetes személyre vonatkozó közhiteles nyilvántartásban (cégnyilvántartás, egyéni vállalkozók nyilvántartása, civil szervezetek nyilvántartása).
+
+3. Meg kell határozni azon nem természetes személyek körét, amelyeknek az állam ezt az elektronikus elérhetőséget és a biztonságos kézbesítés követelményeinek megfelelő módon történő kommunikációt ingyenesen biztosítja (pl. felszámolás alatt álló szervezetek, KKV-k, civil szervezetek egy része).
+
+II.
+
+Természetes személy ügyfelek esetében:
+
+- ha az ügyfél rendelkezik a gazdálkodó szervezetekéhez hasonló biztonságos kézbesítési szolgáltatáshoz tartozó címmel, és ezt a rendelkezési nyilvántartásában megadja vagy az e-ügyintézést biztosító szervvel ezen kommunikál, a felé való elektronikus kézbesítés szabályai megegyeznek a gazdálkodó szervezet felé történő kézbesítés szabályaival,
+
+- ha ezek a feltételek nem állnak fenn, akkor is lehetséges az elektronikus kézbesítés, de a kézbesítési vélelmek nem állnak be, visszajelzés hiányában más módon kell a kézbesítést foganatosítani.
+
+A 16. §-hoz
+
+A kapcsolattartás módjának szabályairól szóló rendelkezés.
+
+A 17. §-hoz
+
+A rendelkezés kimondja, hogy akkor minősül egyértelműen írásbelinek az elektronikus úton tett nyilatkozat, ha az azonosítás megtörtént és a dokumentum hitelessége garantált. Jogszabály ezen követelményektől eltérhet.
+
+Hangkapcsolat útján történő kapcsolattartás szóbeli kapcsolattartásnak minősülhet, ha jogszabály nem zárja ki.
+
+A 18-19. §-hoz
+
+A rendelkezések az azonosítási szolgáltatásokat nevesítik. A törvény alapján elektronikus ügyintézés történhet
+
+- azonosítási szolgáltatás,
+
+- az eIDAS rendelet szerinti azonosítás,
+
+- vagy az e-ügyintézést biztosító szerv követelményeinek megfelelő egyéb azonosítási szolgáltatás útján.
+
+Gazdálkodó szervezet vagy önmagát igazolja az eIDAS rendelet alapján, vagy a képviselője igazolja saját magát, illetve képviseleti jogosultságát.
+
+A 20. §-hoz
+
+A törvény alapján elektronikus ügyintézést biztosító szerv az ügyféltől nem kérheti olyan adat igazolását, amely nyilvános, vagy amelyet valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített közhiteles nyilvántartásának tartalmaznia kell. Az adat beszerzéséről szóló megkeresés határideje legfeljebb három napig az ügyintézési határidőbe nem számít bele, azaz - szemben a mostani hatósági eljárási logikával - a megkereső szerv lesz érdekelt abban, hogy az adat minél hamarabb megérkezzen hozzá.
+
+A 21. §-hoz
+
+A Szaz. tv.-ben nevesített összerendelési nyilvántartás révén lehetőség nyílik arra, hogy egyes személyazonosság igazolására alkalmas azonosító kódok helyett a polgár más ágazati azonosítójával/igazolványával is igazolja magát (azaz pl. TAJ-szám helyett a személyazonosító igazolványa önmagában is elégséges lesz az egészségügyi szolgáltatás igénybevételéhez szükséges igazolásra).
+
+A 22. §-hoz
+
+A rendelkezési nyilvántartás olyan nyilvántartás, ahol az ügyfél a törvényben meghatározottak szerint előre rendelkezhet arról, hogy mely ügyet miként és milyen képviselettel kívánja ellátni. Fontos jelezni, hogy a képviseletre csak olyat jelölhet meg, aki az adott jogszabály vonatkozásában is eljárhat. A jogszabállyal ellentétes rendelkezés érvénytelen.
+
+A 23. §-hoz
+
+Az e-ügyintézést biztosító szerv számára kötelezettség, hogy az ügymenetről tájékoztatást adjon.
+
+A 24. §-hoz
+
+Nem gazdálkodó szervezet természetes személy ügyfél csak törvényben vagy eredeti jogalkotói hatáskörben kiadott korm. rendeletben kötelezhető elektronikus fizetésre, azonban minden, a rész hatálya alá tartozó ügyben jogosult azt igénybe venni.
+
+A 25-28. §-hoz
+
+Az e-ügyintézést biztosító szerv fontos feladata, hogy lehetőség szerint egységes ügymenetmodellben a következő elektronikus ügyintézési lehetőségeket biztosítsa:
+
+a) az ügyfél ügyintézési rendelkezésének lekérdezését,
+
+b) a személyre szabott ügyintézési felületen keresztül történő ügyintézés lehetőségét,
+
+c) elektronikus azonosításhoz kötött szolgáltatás nyújtása esetén a központi azonosítási ügynök szolgáltatáson keresztül elérhető elektronikus azonosítási megoldások ügyfél általi használatát,
+
+d) a Kormány rendeletében meghatározott biztonságos kézbesítési szolgáltatáson keresztül történő kézbesítést, a neki címzett üzenetek fogadását,
+
+e) az ügyfél által elektronikus úton tett jognyilatkozatok, elküldött iratok kézhezvételének jogszabályban meghatározott módon történő haladéktalan igazolását,
+
+f) a legalább fokozott biztonságú és közigazgatási követelményeknek megfelelő elektronikus aláírással ellátott, illetve elektronikus bélyegzővel ellátott elektronikus dokumentumok feldolgozását,
+
+g) e törvény szerint hitelesített dokumentumok előállítását,
+
+h) az ügyfél részére kézbesítendő iratok kézbesítését a 14. § szerint valamennyi típusú kézbesítés útján,
+
+i) - az 1. § 17. pont a)-i) alpontjában foglalt szervek esetében - az eljárásért fizetendő terhek elektronikus fizetését,
+
+j) az elektronikus űrlap kitöltés támogatási szolgáltatással létrehozott elektronikus űrlapok kezelését. Az állam ezen felülethez szükséges szolgáltatásokat a törvényben meghatározott szerveknek díjmentesen biztosítja.
+
+A rendelkezés mindezek mellett szabályozza az e-ügyintézést biztosító szerv adatszolgáltatási kötelezettségét, valamint az üzemzavar, -szünet eseteit is.
+
+A 29-37. §-hoz
+
+A törvény szakít a hatályos szabályozott elektronikus ügyintézési szolgáltatásokról (a továbbiakban: SZEÜSZ) szóló szabályozási modellel és új megközelítésbe helyezi azokat. Egyrészt elválasztja a SZEÜSZ-öktől a központi elektronikus ügyintézési szolgáltatásokat (KEÜSZ), azon logika mentén, hogy a SZEÜSZ-ök a piaci szabályok alapján bárki által nyújthatóak, míg a KEÜSZ-öket kizárólag az állam biztosíthatja. A tételes felsorolás helyett csak azon SZEÜSZ-ök lettek nevesítve, amelyeknek adatkezelési szabályait e törvénynek rendeznie kell.
+
+Külön nevesítésre került az azonosítási szolgáltatás is, amelynek szabályai a hatályos szabályozáshoz képest egyértelművé váltak, egyértelmű, hogy ez a szolgáltatás az e-ügyintézés kezdete, azonban nem szükséges minden SZEÜSZ alkalmazásához külön ügyfél-regisztráció.
+
+A Kormány által nyújtandó azonosítási szolgáltatások külön alcímet kaptak, elhatárolandó a többi azonosítási szolgáltatástól. A törvény szigorúbb adatkezelést, profilalkotásra alkalmatlan azonosítási szolgáltatást követel meg a Kormány által nyújtandó azonosítási szolgáltatások esetében. A törvény alapján ezen azonosítási szolgáltatások (az e-kártyához kapcsolódó azonosítási szolgáltatás, az ügyfélkapu és a részleges kódú telefonos azonosítás) külön szolgáltatások, azonban egységes ügyfél-regisztrációs nyilvántartás (a Központi Ügyfél-regisztrációs Nyilvántartás), valamint biztonságos kézbesítési szolgáltatás és tárhely-szolgáltatás működik mögötte. Az egyes szolgáltatások könnyített aktiválással, külön regisztrációval is igénybe vehetőek. Kiemelendő, hogy a 2016. január 1-jétől kiváltható, tároló elemmel rendelkező személyazonosító igazolvány (a továbbiakban: e-kártya) iránti kérelem ekvivalens lesz a Központi Ügyfél-regisztrációs Nyilvántartásba történő regisztráció iránti kérelemmel is.
+
+A 38-42. §-hoz
+
+A törvény meghatározza a legfontosabb KEÜSZ-öket és azok alapvető szabályait. A részletes szabályokat - a SZEÜSZ-ökhöz hasonlóan - Korm. rendelet fogja tartalmazni.
+
+A 43-45. §-hoz
+
+Az elektronikus ügyintézést igénybe vevő külföldi személyek nyilvántartása egyfajta harmadik nyilvántartásként biztosítja, hogy az eIDAS rendelet hatálya alá nem tartozó, se lakcím-, se az idegenrendészeti nyilvántartásban nem szereplő személyek is könnyedén végezhessenek Magyarországon elektronikus ügyintézést. A regisztrációjuk megkönnyíti az egyes azonosítási szolgáltatások igénybevételét, képesek lesznek a hazai elektronikus rendszert használni. A regisztrációjuk ideje az ahhoz használt okmány érvényességéhez kötött. Az arcképmás és aláírás rögzítése a visszaélések elkerülését szolgálja: ha valaki ugyanis hamis okmánnyal regisztrál ebben a nyilvántartásban, a hatályos szabályozás alapján nincs semmi olyan adat róla, amivel később azonosítani lehetne.
+
+A 46-51. §-hoz
+
+A törvény megerősíti az elektronikus ügyintézés felügyeletét. A Felügyelet immáron nem csak a SZEÜSZ (és KEÜSZ) felügyeleti szerve, hanem az egész elektronikus ügyintézést átlátó, hatósági, koordinációs és tanácsadói jogkörrel felruházott szerv. A Felügyelet a törvényben szereplő feladatai alapján képes lesz az Egységes Digitális Tér őreként eljárni, figyelemmel tudja követni az egyes szolgáltatások működését, beindulását, az általa vezetett nyilvántartás pedig valamennyi polgár számára áttekinthetővé teszi az elektronikus ügyintézés rendszerét.
+
+Az 52-56. §-hoz
+
+Az együttműködés alapelvei az alábbiak:
+
+1. Az együttműködő szerv az ügy elintézéséhez vagy a feladatának ellátásához szükséges adatokat, iratokat, nyilatkozatokat, döntéseket az ügyfél terhelése nélkül maga szerzi be a másik együttműködő szervtől;
+
+2. Az együttműködő szervek egymással elektronikus úton kommunikálnak;
+
+3. Az informatikai rendszereket úgy kell kialakítani és fejleszteni, hogy elősegítsék az együttműködést;
+
+4. Az informatikai együttműködés során a legegyszerűbb és legköltségkímélőbb megoldást kell választani;
+
+5. Az informatikai együttműködés fő szabályként nem köthető ellenérték fizetéséhez;
+
+6. Az együttműködéssel kapcsolatos rendelkezések nem érintik az adatvédelmi és titokvédelmi követelmények érvényesülését.
+
+Az interoperabilitás elősegítése érdekében az állami szerveknek be kell jelenteniük informatikai fejlesztési terveiket a Kormány rendeletében kijelölt szervnek.
+
+Rögzítésre kerül az együttműködő szervek informatikai rendszereinek kialakításával, fejlesztésével és működtetésével kapcsolatos követelményrendszer, az ennek teljesítésével kapcsolatos törvényi vélelem, valamint az együttműködést akadályozó vagy korlátozó technikai tevékenység, üzemzavar esetén követendő eljárás.
+
+Az 57-59. §-hoz
+
+Az együttműködő szervek elektronikus kapcsolattartására vonatkozó rendelkezéseket tartalmazzák.
+
+Az együttműködő szervek kötelesek közzétenni biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségüket és elektronikus levélcímüket.
+
+Az együttműködő szervek közötti kapcsolattartás csak biztonságos elektronikus kapcsolattartás útján történhet, amely biztosítja a nyilatkozattevő azonosíthatóságát, a küldemény sértetlenségét, a küldemény kézbesítésének igazolását és a kézbesítés időpontjának megállapíthatóságát. Kivétel:
+
+- ha a kézbesítéshez jogszabály nem fűz jogkövetkezményt;
+
+- a tájékoztatás céljából történő elektronikus kapcsolattartás.
+
+A 60-69. §-hoz
+
+Az informatikai együttműködés általános szabályai.
+
+A 2013. évi CCXX. törvény hatályos szabályozásához képest komoly előrelépést jelent az információátadással kapcsolatban, hogy
+
+- az együttműködési kötelezettség nem csak a nyilvántartásban szereplő adatokra vonatkozik, hanem kiterjed az együttműködő szerveknél rendelkezésre álló minden adatra;
+
+- az együttműködési kötelezettség nem csak adatok átadására és átvételére vonatkozik, hanem a rendelkezésre álló iratokra is kiterjed;
+
+- az ügyfél kezdeményezésére indult ügyekben az együttműködő szerv vélelmezi az ügyfél hozzájárulását és hivatalból beszerzi az információt.
+
+Az együttműködő szerv elektronikus úton más együttműködő szervtől veszi át az információt, ha
+
+- az nem áll a rendelkezésére vagy annak hitelessége kétséges;
+
+- arra az ügy elintézéséhez vagy feladata ellátásához szüksége van;
+
+- hitelt érdemlő tudomása van arról, hogy az más együttműködő szervnél rendelkezésre áll, és
+
+- az információ átvételét törvény nem zárja ki.
+
+Az információt elsődleges információforrásból kell beszerezni, ha ott rendelkezésre áll.
+
+Az információ elektronikus továbbítása egyszerű információátadással vagy automatikus információátadás útján történhet. Kormányrendelet fogja meghatározni azokat az együttműködő szerveket, amelyek automatikus információátadási felületet hoznak létre. Ha rendelkezésre áll automatikus információátadási felület, az információátadás ennek igénybevételével történik.
+
+Az együttműködő szervek információátadási szabályzatot fogadnak el, amelyet legalább 15 nappal a szolgáltatás nyújtásának megkezdése előtt közzétesznek és elektronikusan megküldenek az együttműködési felügyeletnek (a továbbiakban: Felügyelet). Indokolt esetben a szabályzattól információátadási megállapodásban eltérhetnek.
+
+Az együttműködő szervek adminisztrációs terheinek csökkentése érdekében egységes információátadási szabályzatot fogad el
+
+- a helyi önkormányzatok tekintetében a helyi önkormányzatokért felelős miniszter;
+
+- azonos hatáskörű területi államigazgatási szervek tekintetében az irányító államigazgatási szerv;
+
+- területi kamarák tekintetében az országos kamara.
+
+Az egységes információátadási szabályzat hatálya alá tartozó szervek - indokolt esetben -saját információátadási szabályzatot fogadhatnak el és információátadási megállapodást köthetnek. A saját információátadási szabályzat az egységes információátadási szabályzat kiegészítésére szolgál, azzal ellentétes csak akkor lehet, ha az eltérést az egységes információátadási szabályzat kifejezetten megengedi.
+
+A Felügyelet nyilvános nyilvántartást (az információforrások regisztere) vezet az együttműködő szerveknél rendelkezésre álló információk köréről, valamint az együttműködő szervek által működtetett automatikus információelérési felületekről. Elektronikus jegyzéket vezet az informatikai együttműködés biztosítása szempontjából jelentőséggel bíró információk köréről, valamint azok megnevezéséről (adat- és iratmegnevezések jegyzéke).
+
+A 70-74. §-hoz
+
+A sajátos együttműködési formákkal (a döntéshozatali és nyilatkozattételi együttműködés, valamint a címadatot tartalmazó nyilvántartások együttműködési képessége) és az együttműködést elősegítő központi elektronikus ügyintézési szolgáltatásokkal kapcsolatos szabályozást tartalmazzák.
+
+Fontos, az ügyfelek érdekét szem előtt tartó új rendelkezés, hogy az együttműködő szerv kezdeményezi a másik együttműködő szerv döntésének meghozatalát vagy nyilatkozattételét az ügyfél helyett, ha ez a folyamatban lévő ügy elintézéséhez vagy feladata ellátásához szükséges.
+
+A címadatot tartalmazó nyilvántartások együttműködési képességének elősegítésére és az egységes címkezelés biztosítására szolgáló központi címregiszter tekintetében alapvetően a hatályos szabályozás kerül átvételre.
+
+Három, az együttműködést elősegítő központi elektronikus ügyintézési szolgáltatás kerül itt meghatározásra:
+
+- a központi érkeztetési rendszer;
+
+- az elektronikus dokumentumtárolás;
+
+- az iratkezelő rendszerek közötti iratáthelyezés.
+
+A 75-78. §-hoz
+
+Az együttműködés felügyeletével kapcsolatos rendelkezések. Meghatározzák a Felügyelet feladatkörét, a felügyeleti vizsgálatra, az együttműködés koordinációjára és a műszaki irányelvek elfogadására és közzétételére vonatkozó szabályokat.
+
+A felügyeleti teendőket az Elektronikus Ügyintézési Felügyelet látja el. Az információbiztonságot érintő kérdések tekintetében a felügyeleti vizsgálattal kapcsolatos feladatai ellátásába bevonja az elektronikus információs rendszerek biztonságának felügyeletéért felelős hatóságot.
+
+A Felügyelet az együttműködő szerv kérelmére vagy hivatalból koordinációs eljárást folytat le az együttműködés kialakításának, módosításának az e törvény III. részében foglaltak szerinti megvalósítása érdekében. Műszaki irányelveket fogad el az informatikai együttműködés elősegítésére, hatékonyságának, biztonságának javítására, az információátadási szolgáltatás módjára, valamint az információátadási szabályzat kialakítására vonatkozóan.
+
+A 79. §-hoz
+
+A rendelkezés deklarálja a IV. rész szabályozási tárgyát. A törvény hatályát és a szabályozási mozgásteret alapvetően az eIDAS-rendelet határozza meg, de tartalmát jelentősen befolyásolják a jövőben tervezett (opcionálisan kiadásra kerülő) bizottsági végrehajtási aktusok, és az Eat. megközelítése is.
+
+Az Eat. már az 1999/93/EK irányelvet úgy értelmezte, hogy csak a Magyarországon letelepedett szolgáltatókra vonatkozik, azaz a határon átnyúló szolgáltatásokat nyújtó EU-s szolgáltatókra nem, amely értelmezés helyességét az eIDAS-rendelet is már alátámasztotta.
+
+A 80. §-hoz
+
+A bizalmi szolgáltatás nyújtásának megkezdésének feltételeit egyrészről az eIDAS-rendelet szabályozza, további részletes szabályok meghozatalára a Bizottság is felhatalmazást kapott, így a hazai szabályozásnak törvényi szinten arra kell szorítkoznia, hogy az eljáró felügyelet által rendszeresített űrlapot kell majd erre használni. Az elektronikus eljárást itt is biztosítani kell, de ennek részleteit az elektronikus ügyintézési szabályok fogják rögzíteni.
+
+Minősített szolgáltatás esetén a törvény előírja az előzetes bejelentést. Nem minősített szolgáltatás esetén ilyen előzetes értesítést az eIDAS-rendelet nem tesz lehetővé, hiszen ez utóbbi körben csak az utólagos felügyelet engedélyezett, azaz a hatóság csak akkor járhat el, ha az irányadó követelmények megsértéséről szerzett tudomást (és az így lefolytatott ellenőrzés alapján előírhatja akár a nem minősített szolgáltató nyilvántartásból való törlését is.) Ezért nem minősített szolgáltatók a bizalmi szolgáltatási tevékenységüket a bejelentés megtételét követően rögtön megkezdhetik.
+
+Ugyanebből kifolyólag csak minősített szolgáltató esetén írható elő, hogy a változásokról előre értesítse a felügyeletet.
+
+A bejelentéssel kapcsolatos további részletes szabályokat, igazolásokat a végrehajtási rendelet határozza meg.
+
+A 81. §-hoz
+
+Ez a § a szolgáltató és ügyfele közötti szerződéssel és a szerződéskötéskor szükséges tájékoztatással kapcsolatos általános követelményeket határozza meg, de a részletes szabályokat (a szerződések és tájékoztatások minimum tartalmát, kötöttségeit) rendelet határozza meg.
+
+A hatályos Eat. amikor előírja a szolgáltatási szerződés írásba foglalási kötelezettséget (, valójában csak azt írja elő, amit most egyértelműsíteni kíván a törvény, azaz azt, hogy az ügyfélnek rendelkezésre kell bocsátani egy „tartós adathordozón” a megállapodás tartalmát. Összhangban azonban a fogyasztóvédelmi jellegű 45/2014. (II. 26.) Korm. rendelet 4. § 9. pont szerinti fogalmával, tartós adathordozó alatt ez esetben az emailben megküldött szerződést is érteni kell.
+
+Az ügyfél ismeretével kapcsolatos kötelezettségek (ún. KYC-előírások) alapján a törvény előírja, hogy a szolgáltató - tanúsítvány igénylésétől függetlenül - köteles a képviselővel eljáró ügyfél képviseleti jogát is ellenőrizni. Ez természetesen nem jelenti, hogy minden bizalmi szolgáltatás esetén a képviselő személyes jelenlétére volna szükség, de a szolgáltató úgy köteles eljárni, mintha egy tanúsítványt adna ki az illetőnek.
+
+A 82. §-hoz
+
+A § rögzíti, hogy ha a bizalmi szolgáltatás keretében tanúsítvány kerül kibocsátásra, akkor milyen feltételekkel kell a tanúsítvány tartalmát ellenőrizni. Ez a bizalmi szolgáltatások szempontjából kritikus kérdés, mert egyértelmű szabályozás hiányában előfordulhat, hogy a szolgáltató olyan adatokat rögzít a tanúsítványban, amiben harmadik fél megbízik, noha a szolgáltató az adatot nem is ellenőrizte.
+
+A példálózó felsorolás célja, hogy útmutatást adjon, milyen tanúsítvány esetén milyen ellenőrzések lehetnek szükségesek. Például ún. „domain validation” tanúsítványok esetén, ahol csak egy IP cím és a domain kapcsolatát igazolják, és nem igazolják az érintett személyt, akkor a hitelesítésszolgáltatónak ezt a tényt kell ellenőriznie. Valamely személyt azonosító tanúsítvány esetén pedig az illető személyazonosságát. Az is fontos, hogy álneves tanúsítványt a szabványokkal összhangban csak úgy lehet kiadni, ha az álnév minőség magából a tanúsítványból kitűnik, azaz nem elég pl. az álnév tartalmát egy hitelesítési rendben vagy szolgáltatási szabályzatban rögzíteni.
+
+Az eIDAS-rendelet 24. cikke szerinti rendelkezés csak minősített szolgáltatókra vonatkozik, ugyanakkor a személyazonosság ellenőrzésének kötelezettségét indokolt nem minősített szolgáltatás esetén is előírni, ahogyan ez eddig is előírás volt. Más kérdés természetesen, hogy az ellenőrzés során minősített szolgáltatás esetén csak az eredeti igazolvány alapján lehet ellenőrizni az illetőt, míg nem minősített szolgáltatás esetén erre lehetőség volna a jelenlegi gyakorlathoz hasonlóan beszkennelt igazolványképek alapján is.
+
+A törvénynek ki kell térnie azokra az esetekre is, amikor egy ellenőrizendő személy nem tartozik az Nytv. hatálya alá. Ilyen esetekben alapvetően a szolgáltató bölcsességére, felkészültségére és felelősségvállalására kell bízni a megfelelő ellenőrzés mikéntjét, de azért a törvényben erre is megfelelő útmutatást kell adni.
+
+A törvény előírja azt is, hogy egy okmány vagy irat alapján elvégzett személyazonosság megállapítást követően az alapul szolgáló okmány vagy irat érvényességét és az abban foglalt adatok megfelelőségét, valódiságát is ellenőrizni kell, ha van rá lehetőség (pl. a KEKKH nyilvántartásában vagy más közhiteles és nyilvános nyilvántartásban.) Az eljárás mikéntjét a szolgáltatóknak kell szolgáltatási szabályzatukban vagy ügyviteli rendjükben kidolgozniuk.
+
+Ugyanígy kötelező a nem természetes személyeket és a képviseleti jogot is ellenőrizni.
+
+A 83-87. §-hoz
+
+A képviseleti jogot igazoló tanúsítványok esetén az előírt értesítésekre a képviseleti joggal kapcsolatos erős kontrollok biztosítása miatt van szükség.
+
+A szolgáltatók tanúsítványokkal kapcsolatos adatmegőrzési kötelezettségét a törvény10 évben határozza meg, az Eat.-tal összhangban. Az ETSI EN 319 411 szabvány legalább hét éves megőrzési időt ír elő, ehhez képest továbbra is a hosszabb adatmegőrzési idő és a szofisztikáltabb, az esetlegesen megindult bírósági eljárásokat is figyelembe vevő időtartam meghatározása indokolt.
+
+A törvény az ügyfélnek a szolgáltató felé terhelő értesítési kötelezettséget írja elő. Természetesen a szolgáltatási szerződés ezt meghaladóan is előírhat további értesítési kötelezettséget az ügyfél számára.
+
+A törvény egyértelműen rögzíti, hogy a szolgáltatók döntése, kívánják-e az ügyfeleiknek biztosítani a tanúsítvány felfüggesztésének lehetőségét. (Ez az Eat.-ban minden szolgáltató kötelezettsége volt.) A tanúsítvány felfüggesztésének feltételei egyebekben megegyeznek az Eat.-ban már leírtakkal.
+
+A 88-89. §-hoz
+
+Az Eat. 16. §-a a bizalmi szolgáltatás befejezéséről rendelkezett, a befejezés szóhasználat helyett az eIDAS-rendelet miatt át kellett térni a „megszüntetés” szóhasználatra. Nem minősített szolgáltató esetén a 3. § indokolása kapcsán már leírt okból nem lehet előzetes felügyeleti tájékoztatást megkövetelni. Az Eat. 16. § (1)-(2) bekezdéssel és a 45/2005. (III. 11.) Korm. rendelet 6. §-ával megegyezően ez a § a „szolgáltató által választott” megszüntetés esetét, annak folyamatát szabályozza, amelyre a hazai piacon is az elmúlt 14 évben már kellő gyakorlat alakult ki.
+
+Az Eat. 16. § (3)-(7) bekezdésével megegyezően ez a § szabályozza azt az esetet is, amikor a szolgáltató nem teljesíti a megszüntetéssel kapcsolatos kötelezettségeit, és így a felügyeletnek kell intézkednie.
+
+A 90. §-hoz
+
+Tekintettel arra, hogy a bizalmi szolgáltatók személyes adat és más (Ket. szerinti értelemben vett) védett adat megosztására csak törvényben kötelezhetőek, a 3/2005. (III. 18.) IHM rendelet 6. §-ában szereplő kiegészítő előírásokat is indokolt volt az Eat.-ban meghatározott adatszolgáltatási kötelezettségekkel együtt, törvényi szinten meghatározni.
+
+Ugyanez a § rögzíti az Eat. többi, nem a felügyeletnek történő adatátadással és adatszolgáltatással kapcsolatos rendelkezését is [Eat. 11. § (2)-(5) bekezdések.]
+
+A 91-94. §-hoz
+
+A törvény az eIDAS-rendelet 17. cikkében meghatározottak szerinti, a bizalmi szolgáltatások felügyeletére kijelölt szervként a Nemzeti Média- és Hírközlési Hatóságot jelöli ki. A kijelölés oka, hogy ezt a felügyeleti tevékenységet az elektronikus aláírással kapcsolatos szolgáltatások körében már 2001 óta végzi ez a szervezet, a tevékenység ellátásához szükséges szakértelem, erőforrások, gyakorlat és a megfelelő szervezeti felépítés is rendelkezésre áll, az uniós és nemzetközi szervezetekben (így különösen az elektronikus aláírással kapcsolatos európai felügyeleti hatóságok szervezetében, a FESA-ban) jól ismert, kiépített kapcsolatokkal rendelkezik.
+
+A mai műszaki előírások alapján a bizalmi szolgáltatások felügyelete is alapvetően a hitelesítésszolgáltatói, időbélyegzési és archiválási szolgáltatási tevékenység felügyeletét fogja jelenteni, tehát a felügyelet által végzendő tevékenység is alapvetően megegyezik a korábbi elektronikus aláírás szolgáltatási felügyeleti tevékenységgel.
+
+Mindez azt támasztja alá, hogy indokolt a bizalmi szolgáltatási felügyeleti tevékenységre a fent nevezett szervezetet kijelölni.
+
+Az Eat. 18-19. §-ában meghatározott feladatok közül az eIDAS-rendelet 17. cikkének részletes előírásai miatt csak szűkebb körben kell bizonyos feladatokat nevesíteni, illetve a felügyelet által vezetendő (személyes adatot nem tartalmazó és közhitelesnek sem minősülő) nyilvántartások konkrét körét elegendő alacsonyabb szintű jogszabályban megemlíteni.
+
+A törvény nevesíti az ún. algoritmus határozatokkal kapcsolatos feladatkört, természetesen ez alkalommal minden bizalmi szolgáltatásra megfogalmazva.
+
+A felügyelet feladata alapvetően piacszabályozási, így a Ket. 13. § (2) bekezdés d) pontja szerinti szabály a felügyelet tevékenységére is irányadó.
+
+Az eljárási határidőket illetően az Eat.-ban is már megfogalmazott két hónapos eljárási határidőt indokolt megtartani, figyelemmel az eljárások összetettségére (különösen minősített bizalmi szolgáltatás esetén kell nagyszámú követelmény teljesülését vizsgálni), és figyelemmel az eIDAS-rendeletben foglalt, maximum három hónapos eljárási határidőre is.
+
+A kijelölt felügyelet saját szervezeti felépítésével és az elektronikus hírközlésben és médiaszolgáltatások felügyeletében megszokott fellebbezési renddel összhangban, valamint az eddigi szolgáltatói gyakorlatokra figyelemmel itt is indokolt elsőfokon az NMHH Hivatalára telepíteni a hatáskört, míg a fellebbezést az NMHH Elnöke bírálja el.
+
+A törvény rögzíti a felügyeletnek történő adatszolgáltatási kötelezettségeket (az Eat. 8/A. §-ból átvéve.)
+
+A törvény tartalmazza a 45/2005. (III. 11.) Korm. rendelet 9. § (2) bekezdése és 10. §-a szerinti nyilvántartások vezetésére való hivatkozást, és egyes, a felügyelet által vezetett nyilvántartások közhitelessé minősítését.
+
+A 95-96. §-hoz
+
+Ezek a §-ok az ellenőrzési tevékenység szabályait, a jogkövetkezményeket és a bírság mértékét határozzák meg, az Eat. 20-23. §-ai alapján. Az ellenőrzési tevékenység tartalma itt is az eIDAS-rendelet miatt eltérően szabályozandó minősített és nem minősített szolgáltatások esetén. Nem minősített szolgáltatást nyújtó szolgáltató esetén éves ellenőrzést sem lehet elrendelni, csak ha a jogszabályok megsértésére utaló információ jutott a felügyelet tudomására.
+
+A 97-98. §-hoz
+
+A rendelkezés az Eat. 4. § szerinti egyes jogkövetkezményeket kívánja megőrizni, amely összhangban van az eIDAS-rendelet előírásával is [lásd például az eIDAS-rendelet (22) és (27) preambulumbekezdéseit].
+
+Ezen kívül ez a § veszi át az Eat. olyan, aláírással kapcsolatos rendelkezéseit is, amelyek nem tanúsítványhoz, hanem pl. az aláírás létrehozó eszközhöz kötődnek [pl. a kompromittálódás esete, lásd Eat. 14. § (1) bekezdés c) pontja vagy az Eat. 14. § (2) bekezdés d) pontja], vagy kifejezetten az aláíró tanúsítványokhoz kötődnek [lásd pl. az Eat. 13. § (4) bekezdése.]
+
+A 98. § egyértelművé teszi, hogy bírság szabható ki akkor is, ha az elektronikus aláírással vagy bélyegzővel kapcsolatos bizalmi szolgáltatást nyújtó bizalmi szolgáltató nem teszi meg a saját elektronikus aláírás vagy bélyegző létrehozásához használt adatának megfelelő védelméhez szükséges intézkedéseket.
+
+A 99. §-hoz
+
+Az Eat. hatályon kívül helyezésével az eddig az Eat. 3. § (2) bekezdésében szabályozott, az elektronikus aláírások családjogi és öröklési jogi alkalmazásának tilalmát kimondó rendelkezést célszerű megőrizni.
+
+A 100. §-hoz
+
+Az archiválással kapcsolatos megdönthető vélelmet állapítja meg.
+
+A 101-103. §-hoz
+
+Az állami szervek működése során keletkező iratok során feltétlenül gondoskodni kell arról, hogy a nem hatósági eljárás/bírósági eljárás során keletkező iratok, szerződések elektronizálása, valamint az elektronikus és papír alapú iratok közötti átjárás biztosított legyen.
+
+Az törvény rendezi, hogy a hivatalos iratokhoz hasonló módon rendezve legyen az átjárhatóság, valamint az elektronikus kézbesítés lehetősége.
+
+Az elektronikus aláírási eljárás egy olyan hitelesítési folyamat, amely során az elektronikusan aláíró személy az adott dokumentum tekintetében az adott időpontban aláírásával igazolja a dokumentum tartalmának valódiságát. Ezután a dokumentum - a hitelesség megóvása érdekében - megváltoztathatatlan állapotba kerül.
+
+A fokozott biztonságú elektronikus aláírás olyan elektronikus aláírás, amely
+
+a) alkalmas az aláíró azonosítására,
+
+b) egyedülállóan az aláíróhoz köthető,
+
+c) olyan eszközökkel hozták létre, amelyek kizárólag az aláíró befolyása alatt állnak, és
+
+d) a dokumentum tartalmához olyan módon kapcsolódik, hogy minden - az aláírás elhelyezését követően a dokumentumon tett - módosítás érzékelhető.
+
+A jogi-technológiai alapok tehát elviekben rendelkezésre állnak.
+
+Hiányoznak, vagy csak jogági szinten léteznek azonban azok a szabályok, melyek egyértelmű választ tudnak adni a gyakorlatban jelentkező néhány problémára.
+
+A felmerülő kérdéseket
+
+a) a jogrendszer egészét érintő módon, az alapokat illetően törvényben,
+
+b) szubszidiárius módon (ha az ágazati törvény eltérően nem rendelkezik),
+
+c) a gyakorlatban legegyszerűbben és legéletszerűbben megvalósítható módon
+
+kell megalkotni.
+
+Ezzel az egyes jogágakra vonatkozó speciális elvárások továbbra is érvényesíthetőek maradnak, ugyanakkor - a szubszidiaritás miatt - nem marad szabályozatlan terület.
+
+Az elektronikusan hiteles kiadmányok kézbesítése kapcsán a normaszöveg - ha nincs eltérő ágazat szabályozás - az elektronikus ügyintézésre vonatkozó kézbesítési szabályok alkalmazását rendeli el.
+
+Ez lényegében egymásra épülő megoldások alkalmazását jelenti
+
+- az ügyfélkapu alkalmazása (ha van és ismert),
+
+- az ügyfél által megadott elektronikus elérhetőség használata;
+
+- ilyen elérhetőségek hiányában vagy ha a kapcsolódó vélelmek alapján sem megállapítható a kézbesítés, papír alapú kiadmány készítése és annak postázása.
+
+A törvény pótolja azt a hiányosságot, hogy jelenleg nincs általános háttérszabály arra, hogy az elektronikusan hiteles iratok - saját kibocsátójuk által - hogyan alakíthatóak át hiteles papír alapú kiadmánnyá. A gyakorlati élet során azonban ez az elvárás számtalan szituációban felmerülhet.
+
+Ennek feloldása céljából - lehetőségként - az egyéb jogi és technikai megoldásoktól függetlenítve a törvény kimondja, hogy a közfeladatot ellátó szerv által kiállított hiteles elektronikus iratról a kiállító szerv vagy jogutódja hiteles papír alapú másolatot állíthat ki, megfelelő záradék felvezetésével, valamint - a saját maga által előállított elektronikus irat kapcsán - ezt a természetes személy is megteheti.
+
+A törvény háttérszabályt ad arra az esetre is, hogy ha az akarategység szempontjából lényeges egy okirat több fél általi hiteles aláírása, melyik kiadmány minősül hitelesnek, ha az egyik fél elektronikus aláírást kíván használni, a másik fél pedig hagyományosan ír alá (a törvény értelmében az elektronikusan kiadmányozott iratról készült, záradékkal hitelesített papír alapú másolaton a másik fél aláírásával hitelesített irat).
+
+A 104. §-hoz
+
+Az informatikai fejlesztések összehangolását biztosító rendelkezés.
+
+-----STARTING---POINT---VEGE---
+
+A 105-106. §-hoz
+
+Felhatalmazó rendelkezéseket tartalmaz.
+
+A 107. §-hoz
+
+A törvény hatálybalépését tartalmazza. A törvény egyes sürgős, vagy az átmenethez szükséges rendelkezései 2016. január 1-jén, az eIDAS rendelet harmonizációjához szükséges rendelkezések pedig 2016. július 1-jén lépnek hatályba. Az e-ügyintézéssel kapcsolatos II. és III. rész 2017. január 1-jén lép hatályba.
+
+A 108-109. §-hoz
+
+Az elektronikus ügyintézés új szabályaira történő áttérést biztosító rendelkezéseket tartalmazza. Lényeges kiemelni, hogy a teljes körű e-ügyintézésre történő áttérést biztosító szabályokat 2018. január 1-jétől kell alkalmazni (ha törvény kivételt nem tesz).
+
+A törvény 101. §-a (amely 2016. január 1-jén lép hatályba) olyan szabályokra hivatkozott vissza, amelyek csak 2017. január 1-jén lépnek hatályba. Ennek elkerülése érdekében, a 2016-os szabályoknak és fogalomrendszernek megfelelően, átmeneti rendelkezésként kerültek meghatározásra a 2016. december 31-ig alkalmazandó kézbesítési szabályok .
+
+A 110. §-hoz
+
+Az Eat. és a jelen törvény közötti átmenetet biztosító rendelkezéseket tartalmazza.
+
+A 111-112. §-hoz
+
+Jogharmonizációs záradékot tartalmaz.
+
+A 113. §-hoz
+
+A Pp. módosítás célja, hogy a Pp. 195-196. §-ában szereplő, elektronikus aláírással kapcsolatos szabályok legyenek kiegészítve úgy, hogy a csak elektronikus aláírásra utaló rendelkezések helyébe az elektronikus aláírásra és bélyegzőre egyaránt utaló szabályok kerüljenek, amely szóhasználatbeli változásra az eIDAS-rendelet elektronikus bélyegző fogalmának bevezetése miatt van szükség.
+
+A törvény megteremti annak az alapját, hogy az aláíró személy egyértelmű azonosítása után, a kiállító személy biometrikai információjával (elsősorban sajátkezű aláírásával) záradékolt, feljogosított tanúsító által értékelt rendszert használó bizalmi szolgáltató által készített, elektronikusan aláírt vagy bélyegzett dokumentum felhasználható legyen bizonyító erejű magánokiratként. Ez lehetőséget biztosít arra, hogy a kézi aláírásra visszavezetett dokumentumhitelesítéssel, az aláíró személyes jelenléte mellett, az aláírónak előzetesen kiadott aláírt tanúsítvány és kulcs nélkül is létre lehessen hozni az elektronikusan aláírt, hiteles dokumentumot.
+
+Ezen pont szerint keletkezetett okiratok esetében az alábbi feltételeknek kell együttesen teljesülniük:
+
+- a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli,
+
+- a szolgáltató a személyhez rendelést a kiállító sajátkezű aláírására egyértelműen visszavezethető adatokkal együtt hitelesen igazolja,
+
+- a szolgáltató bizalmi szolgáltatások vagy bizalmi szolgáltatást megvalósító termékek megfelelőségének értékelésére feljogosított és kijelölt szervezet által értékelt rendszer felhasználásával az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább fokozott biztonságú elektronikus bélyegzővel és legalább fokozott biztonságú időbélyegzővel lássa el.
+
+A dokumentumok elektronikus aláírással történő ellátására a jelenleg használt összes algoritmus és szabvány maximálisan támaszkodik az ún. lenyomatképzési (hasj) eljárásokra. A lenyomatképzési eljárás segítségével egy elektronikus dokumentumról olyan egyedi, rövidített adathalmaz készíthető, amely csak az eredeti dokumentumra jellemző, és elméletileg nem készíthető egy másik olyan dokumentum, aminek a lenyomata megegyezik az eredeti dokumentummal. Ha a lenyomatképző algoritmus „kijátszható”, azaz valaki el tud készíteni két olyan, értelmezhető dokumentumot, amelyeknek a lenyomata ugyanolyan, akkor az adott lenyomatképző eljárással készített elektronikusan aláírt dokumentum az érvényességét elveszíti. A bizonyító erejű magánokirat hitelességének megőrzése érdekében az algoritmusok gyengülése ellen az okirat keletkezése után is védekezni kell. Ezért a bizonyító erejű elektronikus magánokiratoknak a hosszútávú megőrzési rendszerbe történő elhelyezése garantálni tudja, hogy az elektronikus dokumentumok keletkezésénél használt algoritmuscsalád meggyengülése esetén is megmarad a dokumentum egyértelmű hitelessége.
+
+A rendelkezés lehetővé teszi, hogy már 2016. január 1-jétől a polgári eljárásban is valamennyi SZEÜSZ használható legyen.
+
+A 114. §-hoz
+
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény az elektronikus tároló elemet tartalmazó személyazonosító igazolvány bevezetése kapcsán módosulni fog. Jelen módosítás ehhez kapcsolódóan tartalmaz pontosító, illetve kiegészítő rendelkezéseket. Az új személyazonosító igazolványhoz kapcsolódó elektronikus aláírás funkció végleges feladatrendszerét tükrözi le.
+
+Az eredeti rendelkezés szerint a KEKKH is végzett volna az Eat. szerinti elektronikus aláírással kapcsolatos szolgáltatást. A módosítás alapján a tároló elemmel rendelkező személyazonosító igazolvány elektronikus aláírás funkciójához kapcsolódó - az elektronikus aláírásról szóló törvény szerinti - szolgáltatásokat Korm. rendeletben erre kijelölt szolgáltató végzi csak. Az aláírás létrehozó adatot a központi szerv helyezi el a tároló elemen, de ezt a szolgáltatást nem mint Eat. szerinti szolgáltató végzi, hanem a kijelölt szolgáltató megbízásából látja el. A normaszöveget ennek egyértelműsítése érdekében kell pontosítani.
+
+A 115. §-hoz
+
+A rendelkezés lehetővé teszi, hogy a büntetőeljárásban is valamennyi SZEÜSZ használható legyen már 2016. január 1-jén.
+
+A 116. §-hoz
+
+2016. január 1-jétől, még a hatályos Eat. alatt is biztosítani kell annak lehetőségét, hogy a hitelesítésszolgáltató csak akkor legyen köteles az igénybevevők kérésére a tanúsítványok felfüggesztését biztosítani, ha ezt a lehetőséget a szolgáltató maga nyújtani kívánja.
+
+A 117. §-hoz
+
+2016. január 1-jével bevezetésre kerül a tároló elemet tartalmazó személyazonosító igazolvány, amelynek ún. eID (e-azonosítás) kártyafunkciója kibővíti annak a lehetőségét, hogy az állampolgárok azonosításhoz/hitelesítéshez kötött elektronizált hatósági eljárásokat vehessenek igénybe. A normaszöveg a tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatást mint Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatást nevesíti.
+
+A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatások igénybevevőiről, köztük a tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás igénybevevőiről az e-ügyintézési törvény hatálybalépésétől, azaz 2017. január 1-jétől a személyazonosság hiteles igazolása érdekében egységes ügyfél-regisztrációs nyilvántartást (a továbbiakban: Központi Ügyfél-regisztrációs Nyilvántartást) kell vezetni.
+
+A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (Ket.) hatályos szabályai alapján a tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatáshoz kapcsolódóan ügyfél-regisztrációs nyilvántartást kell vezetni. A 2016. január 1-jétől bevezetésre kerülő ezen azonosítási szolgáltatáshoz tehát 2016. január 1-jétől önálló ügyfél-regisztrációs nyilvántartást kell létrehozni, 2017. január 1-jétől pedig a Központi Ügyfél-regisztrációs Nyilvántartásba tagozódik be.
+
+A fentiek kétszeres fejlesztési és erőforrás igénnyel járnak. Ennek elkerülése érdekében a törvény a Ket. módosításával a Központi Ügyfél-regisztrációs Nyilvántartás bevezeti 2016. január 1-jei időponttal a tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás regisztrációs nyilvántartásaként, majd 2016. december 31-ig megvalósul a Központi Ügyfél-regisztrációs Nyilvántartás teljes funkcionalitással a többi Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás ügyfél-regisztrációs nyilvántartásában szereplő személyek adatainak migrálásával.
+
+A 118. §-hoz
+
+A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény felhatalmazó rendelkezése alapján jelenleg csak miniszteri rendelet rögzítheti az egyes termékekkel kapcsolatosan a megfelelőségértékelési kijelöléshez szükséges részletes szabályokat (így a felelősségbiztosítás feltételeit, a kijelölési irat részletes tartalmát), így az NMHH rendelet erre a célra nem volna alkalmas, noha e téren 2001 óta az NMHH a felelős szabályozó, és ezt a különbségtételt semmi nem indokolja. A kijelölés szabályait korábban egy IHM rendelet rendezte, indokolt azonban a megfelelőségi értékelési szabályrendszert a 2009. évi CXXXIII. törvény által meghatározott mederbe terelni és az indokolatlan speciális szabályokat nem fenntartani.
+
+A törvény ezért a miniszteren kívül az adott termék szabályozásáért felelős önálló szabályozó szerv vezetőjét (így az NMHH elnökét) is felhatalmazza ilyen részletes szabályok kiadására.
+
+A 119. §-hoz
+
+Az elektronikus információs rendszerek biztonsági felügyeletét ellátó hatóságok hatásköreinek egyértelmű elhatárolása érdekében a törvény rögzíti, hogy a katasztrófavédelemi hatóság hatáskörébe az európai vagy nemzeti létfontosságú létesítménnyé, rendszerré törvény alapján kijelölt létesítmények, rendszerek elektronikus információs rendszerei csak akkor tartoznak, ha azt nem az Ibtv. 2. § (1) bekezdése szerinti állami vagy önkormányzati szerv működteti.
+
+Az elektronikus információs rendszerek, így a létfontosságú létesítmények elektronikus információs rendszerei vonatkozásában is, illetve ez utóbbi rendszereket üzemeltető vagy fejlesztő szervek tekintetében előfordul, hogy bár a vonatkozó kritériumrendszer alapján magasabb besorolás lenne indokolt az irányadó biztonsági osztályhoz, illetve szinthez képest, azonban a rendszert fenyegető kockázatok alapján, a tényleges védelmi igény az előírt biztonsági osztály vagy szint követelményeinél alacsonyabb. A módosítás lehetővé teszi, hogy ezen esetekben a besorolást végző szervezet - az alacsonyabb kockázati kitettséget leíró indoklást előterjesztve - a hatóság előzetes jóváhagyásával a jogszabályban meghatározottnál alacsonyabb - a rendszert fenyegető kockázatokkal arányosabb - biztonsági osztályt és biztonsági szintet állapítson meg. Az osztályba sorolás helytállósága a hatósági ellenőrzések során megállapítható.
+
+Az egyértelmű jogalkalmazási gyakorlat érdekében pontosítja a törvény azon szervek körét, melyek tekintetében az állami szerv végzi a sérülékenységvizsgálatot.
+
+A felhatalmazó rendelkezés módosítása alapján az e-közigazgatásért felelős miniszternek nem kell rendelkeznie a biztonsági események jelentésének és közzétételének rendjéről. Ez a kérdés a biztonságiesemény-kezelési eljárás körében került szabályozásra a kormányzati eseménykezelő központ és az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének, a biztonsági események műszaki vizsgálatának és a sérülékenységvizsgálat lefolytatásának szabályairól szóló 185/2015. (VII. 13.) Korm. rendeletben.
+
+Az Ibtv. hatályos rendelkezései szerint az állami szerven kívül gazdasági társaság végezhet sérülékenységvizsgálatot. A módosítás értelmében bővül ez a kör, s a gazdálkodó szervezetek végezhetnek ilyen tevékenységet.
+
+A 120. §-hoz
+
+A Nektv. technikai pontosítását tartalmazza.
+
+A 121. §-hoz
+
+Hatályon kívül helyező rendelkezéseket tartalmaz.

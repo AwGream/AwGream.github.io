@@ -1,0 +1,51 @@
+2005. évi LXXXVI. törvény indokolása
+
+a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvénynek, valamint az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvénynek az elektronikus bírósági eljárással összefüggő módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény (Ctv.) és a hozzá kapcsolódó törvények 2003. évi átfogó módosításának (2003. évi LXXXI. törvény) célja az elektronikus cégeljárás bevezetéséhez és a cégiratok elektronikus úton való megismerésének biztosításához szükséges szabályozás megteremtése volt, ami a gyakorlatban az elektronikus ügyintézés lehetőségének ügyfelek, cégek irányába történő megnyitását jelentette.
+
+2003. júniusában az európai közösségi jog olyan irányú változásáról született döntés, amely - egyebek mellett - az informatikai lehetőségek fejlődésével állt összefüggésben, és egyúttal implementációs kötelezettséget is teremtett Magyarország számára. A Tanács és az Európai Parlament által elfogadott új irányelv lehetővé teszi ugyanis a hatálya alá tartozó társaságok (korlátolt felelősségű társaság és részvénytársaság) számára, hogy cégbejegyzés iránti kérelmüket, illetve az annak mellékletét képező iratokat - választásuk szerint - elektronikus vagy papíralapú dokumentum formájában juttathassák el regisztráló hatóságukhoz (a cégbírósághoz). A tagállamoknak erre tekintettel kötelezővé teszi, hogy az online regisztrációhoz szükséges jogi és technikai feltételeket biztosítsák, azaz az elektronikus úton érkező okiratokat elektronikusan tartsák nyilván, és elektronikus úton adjanak ezekről az okiratokról felvilágosítást. A közösségi norma azt is előírja, hogy a jövőben - tíz évre visszamenően - azokat az okiratokat is elektronikus formában kell nyilvántartani, amelyeket a társaság hagyományos formában, papíralapú iratként nyújt be a cégbírósághoz.
+
+Az irányelv átültetésére született törvénymódosítás rendezi azt az igen fontos kérdést, hogy az elektronikus ügyintézés során az elektronikusan készített okiratokat milyen aláírással kell ellátni. E körben a Ctv. módosítás átvette 2001. évi XXXV. törvény (Eat.) rendszerét, az abban szabályozott- már ma is létező - aláírási formákat használja, azokon sem elnevezésükben, sem tartalmi követelményeiben nem változtatva.
+
+Az Eat. alapján a fokozott biztonságú elektronikus aláírás olyan elektronikus aláírás [azaz az elektronikus dokumentummal összekapcsolt elektronikus adat], amely alkalmas az aláíró azonosítására, kizárólag hozzá köthető, az ő befolyása alatt áll, és a dokumentumon tett valamennyi aláírást követő módosítás érzékelhető általa. A minősített elektronikus aláírás ehhez képest annyival több, hogy biztonságos aláírás-létrehozó eszközzel hozzák létre, és hitelesítése céljából minősített tanúsítványt bocsátanak ki.
+
+2005. szeptember 1-jét követően az elektronikus cégbejegyzési (változásbejegyzési) eljárás során az elektronikus okiratokat minősített elektronikus aláírással és időbélyegzővel kell ellátni. Az időbélyegző elsődleges funkciója az, hogy annak alapulvételével megállapítható legyen, hogy az okirat aláírásának időpontjában a minősített elektronikus aláírás alkalmazására való jogosultság fennállt-e. Fontos az időbélyegző alkalmazása azért is, mert Ctv. a bejegyzési (változásbejegyzési) kérelmek benyújtását határidőhöz köti, és a határidő elmulasztásához szankciót fűz.
+
+Ugyancsak 2005. szeptember 1-je után a korlátolt felelősségű társaságok és a részvénytársaságok papír alapú formátumban érkező bejegyzési (változásbejegyzési) kérelmeit is elektronikus okirattá kell alakítani a cégbíróságokon. Az elektronikus okirattá történő átalakítás folyamatához szükséges, hogy a cégbíróságok cégirodán dolgozó nem jogi végzettségű munkatársai fokozott biztonságú aláírási jogosítvánnyal rendelkezzenek
+
+Mindezek alapján az elektronikus cégeljárás elindításához szükség van arra, hogy a fenti határidőig mind a bírák, mind az igazságügyi alkalmazottak rendelkezzenek a munkavégzésükhöz szükséges minősített vagy fokozott biztonságú aláírást lehetővé tevő, illetve az azokhoz kapcsolódó időbélyegzés szolgáltatással.
+
+Mindkét szolgáltatás nyújtására az Eat. alapján kerül sor, azonban tekintettel arra, hogy a bírák és az igazságügyi alkalmazottak szolgálati jogviszonyban állnak, a jogállásukról szóló törvények kiegészítése is indokolt az alábbiak szerint.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvénynek (Bjt.) a bíró jogairól és kötelezettségeiről rendelkező II. fejezetét egészíti ki egy új szakasszal, amely az elektronikus aláírással kapcsolatos szabályokat tartalmazza.
+
+A törvény definiálja a bíró hivatali [azaz nem magáncélú] aláírásának fogalmát azzal, hogy azt a kérdést, hogy a bíró milyen-eljárásban milyen dokumentumon milyen típusú aláírást helyez el, külön jogszabály rendezi. Ilyen külön jogszabály jelenleg a polgári perrendtartásról szóló 1952. évi III. törvény, amely a közokirati formához minősített aláírást ír elő, vagy a Ctv., amely alapján szintén minősített aláírással kell ellátni az elektronikus okiratokat.
+
+A törvény az Eat. rendelkezésein alapul, azonban a bírósági eljárás jellegéből, és a bírák szolgálati viszonyából adódóan néhány ponton kiegészítő szabályozás megalkotása szükséges. Az Eat. által szabályozott rendszer az elektronikus aláírással kapcsolatos szolgáltatások esetében a Szolgáltató és az aláíró jogait és kötelezettségeit, azaz a két szereplő közötti jogviszonyt szabályozza. Ezzel szemben a bírák számára az elektronikus aláírás szolgáltatást (hivatali elektronikus aláírásukhoz) az Országos Igazságszolgáltatási Tanács Hivatala (a továbbiakban: Hivatal) biztosítja, igénybevétele nem a bíró döntése, hanem - az elektronikus cégeljárás intézése során - munkaköri kötelezettsége. Ebből következően a bíró csak a Hivatal által kiválasztott Szolgáltatóval köthet szerződést, és a szolgáltatás felfüggesztése vagy visszavonása sem lehet a bíró önálló döntése, hanem az szolgálati viszonyával, beosztásával összefüggő kérdés. Ezt a problémát - az Eat. rendszerét nem érintve - a törvény akként hidalja át, hogy a Hivatal számára is előír adatszolgáltatási kötelezettséget a Szolgáltató részére, amely a Hivatal bejelentése alapján is köteles lesz intézkedni. Ez az előírás ugyanakkor nem mentesíti a bírót az Eat. 13. §-ában szabályozott, aláírót terhelő tájékoztatási kötelezettség teljesítése alól, személyazonosító adatainak megváltozásáról, az aláírás-létrehozó adatnak illetéktelen személy tudomására jutásáról vagy elvesztéséről, az észlelt rendellenességekről, illetve az általa aláírt elektronikus dokumentummal kapcsolatos jogvita megindulásáról - az OIT Hivatalának értesítése mellett - haladéktalanul informálnia kell a Szolgáltatót is. Az OIT Hivatalának önálló eljárását az indokolja, hogy előfordulhat olyan eset, amikor a bíró (betegség, szabadság miatt vagy egyéb okból) nincs olyan helyzetben, hogy a tájékoztatási kötelezettségének haladéktalanul eleget tegyen. Ebben az esetben a jogbiztonság érdekében feltétlenül szükséges, hogy az esetleges visszaélések megakadályozása érdekében az OIT Hivatala önállóan is haladéktalanul intézkedni tudjon az aláírást igazoló tanúsítvány visszavonása iránt.
+
+A törvény mindezeken túl felhatalmazást ad a bíróságok központi igazgatását végző Országos Igazságszolgáltatási Tanácsnak arra, hogy az elektronikus aláírással kapcsolatos részletes igazgatási szabályokat meghatározza.
+
+A 2-3. §-hoz
+
+A törvény kiegészíti a bírák személyi nyilvántartásának adatkörét az elektronikus aláírási jogosultsággal, amely - a bíró nevéhez, beosztásához és szolgálati helyéhez hasonlóan - közérdekből nyilvános adatnak minősül. Az elektronikus aláírással kapcsolatos szolgáltatások [így a hitelesítés-szolgáltatás, az időbélyegzés, illetve az archiválás] létesítése, fenntartása és megszüntetése érdekében az OIT Hivatalán belül létre kell hozni az ehhez szükséges adatokból egy, a személyi nyilvántartás adataitól elkülönült önálló nyilvántartást, melyből a törvény felhatalmazása alapján az OIT Hivatala a Szolgáltató részére adatokat továbbíthat.
+
+A 4. §-hoz
+
+A törvény az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (Iat.) szolgálati viszony létesítését, módosítását és megszűnését rendező fejezetét egészíti ki egy új alcímmel, amely az igazságügyi alkalmazottak hivatali elektronikus aláírásával kapcsolatos kérdéseket rendezi a bírákra vonatkozó szabályozással gyakorlatilag azonos módon. Figyelemmel arra, hogy esetükben az adott igazságügyi szerven belüli beosztásról a munkáltató dönt, ezért a különböző típusú aláírási joggal történő felruházásuk (ami a beosztás, konkrétan az alkalmazott által ellátandó munkakör függvénye) szintén az igazságügyi szerv döntését indokolja. A bíróságokkal és az OIT Hivatalával létesített igazságügyi szolgálati viszonyban álló igazságügyi alkalmazottak vonatkozásában az igazságügyi szervet megillető jogokat és terhelő kötelezettségeket az elektronikus aláírási jogosultsággal kapcsolatos kérdésekben a szolgáltatás egységes igénybevétele érdekében az OIT Hivatala gyakorolja, és nem az a bíróság, mellyel az igazságügyi alkalmazott szolgálati jogviszonyt létesített.
+
+Az 5-7. §-hoz
+
+A központi, OIT Hivatalában vezetett személyi nyilvántartással és adattovábbítással kapcsolatos kérdéseket az igazságügyi alkalmazottak vonatkozásában a bírákkal azonos módon rendezi a törvény.
+
+-----STARTING---POINT---VEGE---
+
+A 8. §-hoz
+
+A törvény a kihirdetését követő nyolcadik napon lép hatályba, annak érdekében, hogy az elektronikus cégeljárás 2005. szeptember 1-jei indulásáig a szükséges elektronikus aláírások a bírák és az alkalmazottak részére beszerezhetők legyenek, és használatukat a megadott időpontig a leendő aláírók elsajátíthassák.

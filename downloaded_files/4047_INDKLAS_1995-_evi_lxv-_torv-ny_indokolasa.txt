@@ -1,0 +1,353 @@
+1995. évi LXV. törvény indokolása
+
+az államtitokról és a szolgálati titokról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+1. A demokratikus államberendezkedés egyik meghatározó ismertető jegye a közigazgatás nyitottsága, az állampolgár részéről történő átláthatósága. E nélkül a demokratizmus legfontosabb jellemzőjének a részvételnek, a képviseletnek és az ellenőrzésnek a megvalósulása pusztán formalitás. Ezért alapvető jelentőséggel bírnak azok a törvények, amelyek megteremtik az állampolgárok számára a közigazgatás, különösen a kormányzati igazgatás átláthatóságát, azaz garantálják a közérdekű adatok nyilvánosságát. Köztudomású tény, hogy az információ, a tájékozottság hatalom. Ott, ahol a hatalmat már évtizedek óta a köz gyakorolja, és kialakult az információszabadság szinte teljes feltételrendszere, a gyakorlat még ott sem tekinthető kiforrottnak és véglegesnek. Napjainkban az információáramlás határok nélkülivé válása, a számítástechnika fejlődése újra és újra kényszerítő körülményként hat a rendszer folyamatos alakítására, korszerűsítésére.
+
+Az információszabadság azonban - még az előbbiek tükrében - sem lehet korlátlan. A személyekre, szervezetekre vonatkozó adatok teljes nyilvánossága ugyanis egyet jelenthet a teljes kiszolgáltatottsággal, a magán vagy az állami életbe való illetéktelen beavatkozás állandó veszélyével, a jogok csorbításával. Ezért minden jogállam szigorúan védi a személyes adatokat, melyekről az állampolgár csak maga rendelkezhet, illetve annak felhasználását mások részére csak törvény engedi meg.
+
+Az eddigiekkel összhangban az önrendelkezés joga nemcsak a természetes személyeket, hanem azok közösségeit is megilleti, függetlenül attól, hogy az egyesülés, a közös tulajdonlás, a közös gazdálkodás vagy a demokratikus önkormányzat joga alapján működnek. Ennél fogva megilleti az adatokkal való önrendelkezési jog az emberek legszélesebb társadalmi közösségét az államot is. Az állam biztonsága, a nemzeti szuverenitás, az államapparátus zavartalan, illetéktelen befolyástól mentes működése legszélesebb egyéni érdekeket megtestesítő közérdek, ezért az ezzel összfüggő információk egy behatárolt részét a személyes adatokhoz hasonlóan védelem illeti meg.
+
+A közérdekű adatok nyilvánossága és az információszabadság fő szabálya mellett a védelem pontosan körülhatárolt kivételek útján valósulhat meg, szigorú törvényi előírások mellett. Ezek hiányában ugyanis könnyen kialakulhat olyan állami információs monopólium, amely az állampolgárt elzárja az alapvető jogai gyakorlásához szükséges ismeretektől. Ennek következtében a részvétel, az ellenőrzés és a képviselet jogának gyakorlása ellehetetlenül, így a kontroll nélküli állam könnyen a diktatórikus berendezkedés útjára téved.
+
+Ezért tulajdonít a Javaslat, a nemzetközi egyezményekkel és ajánlásokkal együtt, különös jelentőséget az információszabadság fő szabályként történő érvényesülésének.
+
+2. Az információszabadság, adatbiztonság felé az első lépést a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992.évi LXIII. törvény (a továbbiakban: Avt.) tette meg, amely csak törvény alapján államtitokká vagy szolgálati titokká minősített adatok tekintetében engedi meg a nyilvánosság korlátozását. A korlátozásra nézve azonban eddig törvény nem született.
+
+Az államtitok és a szolgálati titok védelmére hivatott 1987. évi 5. tvr. (továbbiakban: Ttvr.) főbb rendelkezései az Avt. hatályba léptével annak legtöbb rendelkezésével összeütközésbe kerültek, számos jogintézménye kiüresedett.
+
+Az elmúlt 40 év "társadalmi tulajdon szemlélete" átsugárzott a közigazgatásba is. A "mindenki tulajdonában" lévő információhordozó, a közirat elvesztette presztízsét. A védelem rendszere fellazult. Ugyanakkor a társadalmi szervezetek saját információi szigorú védelmére külön titkosítási, ügyiratkezelési rendszert vezettek be, saját titkosítási jelölésekkel (szigorúan bizalmas, bizalmas). Ezáltal mintegy kivonták magukat a rendelkezések alól.
+
+A hatályos szabályozás komoly hiányossága, hogy középpontjában a hagyományos adathordozó, az irat áll, védelmi előírásai ezért nem alkalmazhatók az informatikai rendszerekre.
+
+Elsősorban amiatt, mert a titkos adatot kezelő információs rendszerek biztonságos létesítésének és működésének rendjére vonatkozóan nem ad kellő eligazítást.
+
+Ezeknél a minősítő személye sem egyértelmű abban az esetben, amikor a rendszerbe bekerülő külön-külön még titkot nem tartalmazó adatok a feldolgozással együttesen válnak a védelem szempontjából jelentőssé, azaz titokká. Ugyanakkor az információs rendszerben is az adat titoktartalma határozza meg az információszabadság korlátait, ezért kétséget kizáróan kell megjelölni a minősítésért felelős személyt. További paradox helyzetet eredményezett, hogy egy információs rendszerben több adatból álló, ún. adatbázis képződhet, amelyekre nézve szintén eltérhetnek a minősítők személyei. A hatályos szabályozás nem ad választ arra, hogy miként kell tekinteni az ilyen adatbázisokat.
+
+Komoly gondot jelentett az is, hogy a hatályos Ttvr. szinte légüres térben kívánta érvényesíteni azt a jogelvet, hogy a mindenkori titokbirtokosnak, a titokkal rendelkező szerv vezetőjének kötelessége a titokvédelem. A helyesen előírt, elsőként a személyi és a tárgyi feltételek megteremtésére vonatkozó rendelkezések ezért nem hatályosultak maradéktalanul. Ennek legfőbb okaként a titkosítási döntésre jogosult vezetők erősen eltérő jogalkalmazási gyakorlata említhető. Bebizonyosodott, hogy e tevékenység jogszerű gyakorlása rendkívül komoly szakmai felkészültséget, a szerv feladatkörébe tartozó állami érdekeket hordozó információk vonatkozásában teljes körű áttekintést, naprakészséget igényel. Még a hierarchia csúcsain működő állami, illetve közfeladatot ellátó szervek vezetői sem ismerték fel teljes körűen a titokvédelem sajátos jellegét, ezzel alapot szolgáltatva az indokolatlan titkosításról szóló vádakhoz.
+
+A szakszerűtlen és egyben jogellenes titkosítás az állami érdekek sérelmével is járt. A titoktartalmat nélkülöző információk - presztizsszempontok, hibák elfedése miatti - államtitokká, szolgálati titokká minősítése lejáratta a titokvédelmet, és természetesen irritálta mindazokat, akiket a hatóságok az állampolgári alapjogaikban ily módon korlátoztak. Különösen az keltett jogos ellenérzést, hogy a titoktartási ügyekben hiányzott mind a bírósági, mind a civil kontroll.
+
+3. A Ttvr. említett problémakörén túl az Alkotmánybíróság behatóan foglalkozott a részletszabályok alkotmányosságának kérdésével. A 34/1994.(VI.24.) AB határozatában egyértelműen kimondja, a Ttvr. alkotmánysértő, és ezért 1995. június 30-ával hatályon kívül helyezte a végrehajtásról szóló rendelkezésekkel együtt. Döntését a következők szerint indokolta:
+
+a) A közérdekű adatok megismeréséhez való alkotmányos jog nem korlátozhatatlan alapjog, de a szabad véleménynyilvánításhoz való jog gyakorlásának egyik feltételeként és annak részeként kitüntetett alkotmányos védelemben részesül. Ez azt jelenti, hogy az információszabadságot korlátozó törvényeket is megszorítóan kell értelmezni, mert az információszabadság, a közhatalom gyakorlásának nyilvánossága, a végrehajtó hatalom tevékenységének átláthatósága, ellenőrizhetősége feltétele a bírálat jogának, a kritika szabadságának, a szabad véleménynyilvánításnak. A közérdekű adatok megismerésének joga tehát - az alkotmányos korlátok megítélésével összefüggésben - legalább annyi alkotmányos védelmet élvez, mint az "anyajog", a véleménynyilvánítás szabadságjoga. A nyílt és ellenőrizhető közhatalmi tevékenység, a végrehajtó hatalom nyilvánosság előtti működése a demokratizmus egyik alapköve, a jogállami berendezkedés garanciája.
+
+b) Az Alkotmány 8. §-ának (2) bekezdése szerint az alapvető jogokra és kötelességekre vonatkozó szabályokat törvény állapítja meg, de alapvető jog lényeges tartalmát nem korlátozhatja. A Ttvr. 3. § (1) bekezdésének a) pontja a törvény mellett "más jogszabály"-t is feljogosít arra, hogy államtitokköröket állapítson meg. Ez a felhatalmazás a formai alkotmányellenességen túl tartalmilag is alkotmányellenes, mert az Alkotmány hivatkozott rendelkezésével kifejezetten szembeállva lehetővé teszi, hogy törvénynél alacsonyabb szintű jogszabály is megállapítson alapjogi korlátozást. Valamely adatkörnek államtitokkörré nyilvánítása minden esetben közvetlenül érinti a közérdekű adatok megismeréséhez való alkotmányos jogot, a szoros és intenzív összefüggés folytán az ilyen korlátozás kizárólag törvényi szinten történhet. Ezt mondja ki az Európai Emberi Jogi Egyezmény (a továbbiakban: Egyezmény) 10. Cikk 2. pontja is, miszerint az információszabadság csak törvényben meghatározott alakszerűségeknek, feltételeknek és korlátozásoknak vethető alá.
+
+c) A Ttvr. 3. § (1) bekezdés b) pontja az adatok államtitokká nyilvánítására jogosultak személyi körét azokra is kiterjeszti, akik közhatalmi jogkörrel nem rendelkeznek. Ez a szabály a jogállam alapvető elvét, a joguralmi elvet sérti, így az Alkotmány 2. § (1) bekezdésével összeegyeztethetetlen. A nem állami közérdekű adat, illetőleg a nem állami szervek által titkosított közérdekű adat fogalmilag sem minősülhet államtitoknak. Az államtitoknak a közhatalomtól való elválasztása sérti a jogbiztonságot, és azon túl is különleges veszélyt jelent az információszabadságra.
+
+d) A Ttvr. 3. § (2) bekezdése - az államtitokkörök példálózó felsorolásával szinte teljes körű mérlegelési lehetőséget biztosít arra, hogy közérdekű adatokat titkosítsanak. Közérdekű adatoknak a nyilvánosság előli elzárhatósága, a titkosítás diszkrecionális jogkörbe utalása - ahogy erre az Alkotmánybíróság a 32/1992. (V.29.) AB határozatában is rámutatott - önmagában alkotmányellenes, mert az a közérdekű adatok megismerésének jogát alkotmányos garanciák nélkül korlátozza. Az Egyezmény 10. Cikk 2. pontjában meghatározott "necessary in a democratic society" zsinórmértékét szabja az információszabadság korlátjaként (pl. Weber v. Switzerland, 1990), de a szükséges korlátozások a titokvédelem körében csak az európai országok elismert titokköreihez - így a honvédelemhez, a nemzetbiztonsághoz, a külügyi kapcsolatokhoz, a közbiztonsághoz, a bűnmegelőzéshez, bizalmas pénzügyi-államháztartási adatokhoz, bírósági eljárásokhoz - kapcsolódnak.
+
+e) A Ttvr. 4. § (1) bekezdése megengedhetetlenül széles körben határozza meg az ún. szolgálati titokká minősítésre jogosultak alanyi körét, ugyanakkor tárgyi kört egyáltalában nem állapít meg, ezzel a titkosítást az alanyok teljes diszkréciójába utalja. Az alapjogi korlátozás alkotmányossága minimálisan feltételezi a korlátozó norma tartalmi megállapíthatóságát. A szolgálati titok meghatározatlan minősége, teljes fogalmi tisztázatlansága önmagában is alkotmányellenes, mert az nem felel meg a jogállamiság lényegét adó jogbiztonság (Alkotmány 2. § (1) bekezdése) követelményének, egyúttal kifejezetten sérti az Alkotmány 8. § (1) bekezdése és 61. § (1) bekezdése által meghatározott alapjog védelmi kötelezettséget. A felhívott alkotmányi rendelkezés szerint az alapvető jogok tiszteletben tartása és védelme az állam elsőrendű kötelessége.
+
+f) A Ttvr. 7. § (1) bekezdése értelmében a titokkörbe tartozó adatot minősíteni kell, a (2) bekezdés alapján pedig fel kell tüntetni a minősítés érvényességi idejét. Ez történhet "visszavonásig" meghatározással is, azaz akár az idők végezetéig. Így a szabályozás lehetővé teszi, hogy az információ megismerése elől elvont adat korlátlan ideig megőrizze "titkos" minőségét. Ez a szabályozási konstrukció az Alkotmány 61. § (1) bekezdésében biztosított alapjog lényegi tartalmát érinti, mert a közérdekű információt végérvényesen elzárja a megismerhetőség elől, márpedig alkotmányos alapjog lényeges tartalmát az Alkotmány 8. § (2) bekezdése alapján törvény sem korlátozhatja.
+
+4. Az Alkotmány és az azt értelmező AB határozatok, továbbá az Avt. konkrétan meghatározzák az új titokvédelmi törvény lehetséges célját, a szabályozás tárgyát, vagyis az információszabadság korlátjaként szóba jöhető kivételeket.
+
+Egyértelmű a szabályozási feladat abban a tekintetben is, hogy megengedett kivételt csak meghatározott adatfajtára és adatkezelőre együttesen lehet megállapítani.
+
+Az Avt. 19. §-ában akként rendelkezik a közérdekű adatok nyilvánosságáról, hogy az állami vagy helyi önkormányzati feladatot ellátó szervek kötelesek lehetővé tenni, hogy a kezelésükben lévő közérdekű adatot bárki megismerhesse. A nyilvánosság korlátozása csak akkor lehetséges, ha az adatot törvény alapján az arra jogosult szerv állam- vagy szolgálati titokká nyilvánította.
+
+A titokvédelemhez szorosan kapcsolódó jogszabályi környezetre részben az elavult szabályozás (pl. levéltári szakterület, tudományos kutatás) vagy a halaszthatatlan kodifikációs szükséglet (pl. informatika) a jellemző.
+
+Az államtitok, illetve a szolgálati titok védelmének újraszabályozásán túl a különböző titkokkal, titoksértésekkel kapcsolatos más jogszabályok felülvizsgálatának és a különböző titokfajták közötti összhang megteremtésének igénye is felmerült.
+
+Jogrendszerünkre a heterogén titokfajták és a titoktárgykör többsíkú, szinte valamennyi jogágban előforduló szabályozása a jellemző. Jelentős a különböző szintű jogforrások száma (törvény, tvr., MT rendelet, miniszteri rendelet), amelyekben az államtitkon vagy szolgálati titkon kívül valamilyen más titokfajtára (üzemi, üzleti, magántitok, levéltitok stb.) vonatkozó rendelkezés, vagy csak önmagában a titoktartási kötelezettség előfordul.
+
+Néhány nemzetközi szerződésben is találunk utalást a titokbantartás mikéntjére, pl: "ugyanúgy kell titokban tartani, mint az állam belső jogszabályai szerinti titkos információkat".
+
+Az általános titoktartási kötelezettség bizonytalan jogi kategóriájával találkozunk például a kettős adóztatás elkerülésére, a jövedelem- és vagyonadók, műszaki-tudományos, távközlés vagy más témában való együttműködés tárgyában kötött két- vagy többoldalú nemzetközi szerződések kihirdetéséről szóló jogszabályokban.
+
+Több jogszabály foglalkozik egyes titokfogalmak szabályozási kérdéseivel. A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. §-a szerint személyhez fűződő jogot sért, aki a levéltitkot, magántitkot, üzemi titkot, üzleti titkot megsérti.
+
+A polgári perrendtartásról szóló 1952. évi III. törvény 7. § (2) bekezdése az államtitok, a szolgálati titok, az üzleti titok megőrzése érdekében rendelkezik.
+
+A tisztességtelen piaci magatartásról szóló 1990. évi LXXXVI. törvény az üzleti titokkal való visszaélést tiltja, és megadja a fogalommeghatározást.
+
+A pénzintézetekről és a pénzintézeti tevékenységről szóló 1991. évi LXIX. törvény 18/A §-a szintén meghatározza az üzleti titkot, de megjeleníti a szakmai titkot is, mint az üzleti titok egy lehetséges formáját.
+
+A postáról szóló 1992. évi XLV. törvény - a levéltitok és a magántitok mellett - üzleti és üzemi titkot is ismer.
+
+Az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény 29. §-a a Pp.-vel megegyezően említi a hivatásbeli titkot.
+
+A Munka Törvénykönyve 103. §-ának (3) bekezdése is rendelkezik az üzemi (üzleti) titokról és ennek védelméről.
+
+Valójában itt olyan titokról van szó, amelyeket termelő, szolgáltató vagy pénzintézeti tevékenységet végző gazdasági szervezetek határoznak meg a saját tevékenységük körében annak érdekében, hogy versenytársaik e titkok megismerése révén ne jussanak előnyhöz. Az üzleti titok védelmének két oldala van. Az egyik a munkaadó és a munkavállaló közötti viszonyban rendezi a védelmet. A másik az egymással gazdasági kapcsolatba kerülő üzleti partnerek között érvényesül, és polgári jogi kategória.
+
+A banktitok fogalmát a köznyelv két értelemben is használja. Sokan tévesen e fogalom alatt a pénzintézetek üzleti titkait (források, üzleti módozatok, kialakítás alatt lévő új üzleti konstrukciók stb.) értik. Valójában a banktitok a bank (pénzintézet) és az ügyfél közötti kapcsolatban jelenik meg, és az a tartalma, hogy az ügyfél vagyoni helyzete illetéktelenek számára ne legyen megismerhető. Ezért a banktitok álláspontunk szerint a személyes adatok védelmének intézményrendszerébe sorolható magántitok.
+
+Az orvosi titok, az ügyvédi titok, a gyónási titok - itt most fel nem sorolt társaikkal együtt - azon titokfajták körébe tartozik, amelyet a büntetőeljárásról és a polgári perrendtartásról szóló törvények a tanúvallomás megtagadása körében a foglalkozási titok (foglalkozásánál fogva titoktartásra kötelezett személy) körében említ meg. Ezek a titokfajták ugyancsak magántitkok, hiszen a természetes személy valamilyen életviszonyával (egészségi állapotával, családi vagy vagyoni viszonyaival, legbensőbb gondolataival stb.) függenek össze.
+
+A szabályozásra vonatkozó javaslatok kialakításánál nem lehetett feladat az említett, titkok körébe tartozó különféle titokfajták mélyreható további elemzése. Az államtitok, szolgálati titok törvényi szabályozása körében nem vállalható fel a védelmi intézményrendszerük kialakítására vonatkozó javaslattétel. Ezt a kérdéskört az állami szervek, mint adatkezelők és a jogi, valamint természetes személyek közötti viszonyban, továbbá az utóbbi személyek egymás közötti viszonyában részben az Avt. rendezi. A magántitok megsértését polgári jogi (a jogsértés megállapítása, eltiltás a további jogsértéstől, adat helyesbítése, törlése, tájékoztatás megadása, kártérítés stb.) és büntetőjogi (szabálysértési) úton lehet szankcionálni.
+
+A törvényjavaslat azzal, hogy az államtitok és a szolgálati titok fogalmát pontosan meghatározza, lehetőséget nyújt az egyéb, főleg a magánszférában jelentkező titokfajtáktól való elhatároláshoz.
+
+5. A Javaslat mindezekre tekintettel a szabályozás rendszerének felépítésénél két egyenrangú célt kíván megvalósítani: a titkosítási tevékenység alkotmányosságát és a jogbiztonságot.
+
+A közérdekű adatok megismeréséhez fűződő alapjog érvényesítésével összefüggésben alapvető fontosságúnak tartja, hogy:
+
+- a korlátozó norma tartalma alkotmányosan értelmezhető és egyértelműen megállapítható legyen,
+
+- a törvényből világosan kitűnjön a titkosításra felhatalmazottak köre, annak tartalma, terjedelme, időbeli korlátja, eljárási rendje,
+
+- a minősítés csak alkotmányos okból védelmet igénylő adatokra vonatkozhat, ezért nem a megismerhetőség kategorikus kizárása, hanem az alkotmányos indok fennállása miatti megóvás lehet a feladata,
+
+- a korlátozásnak az elérendő céllal arányban kell állnia.
+
+A Javaslat úgy kíván eleget tenni az Avt.-ben megfogalmazott kötelezettségnek, hogy a kivételek útján határozza meg a közérdekű adat megismerésének korlátozását. A Javaslat csak az alkotmányos korlátokat kijelölő, valamint a titokvédelmi kötelezettségről rendelkező szabályokat állapít meg. A Javaslat melléklete tartalmazza az általánosan, illetve adatkezelőnként meghatározott olyan adatfajtákat, amelyek körébe tartozó adat a törvényi feltételek fennállása esetén államtitokká minősíthető.
+
+A minősített adatok védelmének és kezelésének az alapjogi korlátozásra közvetlen hatással nem bíró eljárás részletes szabályait a törvény felhatalmazása alapján kormányrendelet határozza meg, amelyik egyúttal tartalmazza a minősített adatok védelméhez szükséges technikai jellegű előírásokat is.
+
+Az előkészítés során felvetődött, hogy indokolt-e külön jogszabályban meghatározni a minősített adatok védelmével kapcsolatos adminisztratív rendelkezéseket akkor, amikor a különböző szervezetek iratkezelési feladatait a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvénytervezet önálló tárgykörrel kívánja megoldani.
+
+A Javaslat szerint a minősített adatok adminisztratív védelmének egyik legfontosabb része a kezelés rendjének az általános iratokénál szigorúbb meghatározása, amely attól függetlenül irányadó, hogy a minősített adat állami szerv, közfeladatot ellátó szerv, gazdálkodó szervezet vagy más szervezet birtokában van. Kizárólag így adható garancia arra, hogy a megfelelő jogosítvánnyal felruházott szervek által, valamint más állam vagy nemzetközi szervezet részéről titokká minősített és átadott adatok védhetők legyenek.
+
+Természetesen ezzel a megoldással egy adott szervezetnél kettős iratkezelési rendszer alakul ki. Ezzel reálisan számolhatunk, azonban valódi intézményes védelem az európai országokban már bevezetett minimális követelmények nélkül nem lehetséges. Fontos ugyanis, hogy a minősített adathordozók kezelése az egyéb adatoknál, iratoknál szigorúbb eljárási rendben történjen, és azoktól fizikailag is elkülönüljön. Ez csak mindenkire egyaránt vonatkozó, egységes rendszerben képzelhető el.
+
+-----STARTING---POINT---RESZLETES---
+
+I. fejezet
+
+ÁLTALÁNOS RENDELKEZÉSEK
+
+A törvény célja
+
+Az 1. §-hoz
+
+A Javaslat a törvény céljának meghatározásánál a lehető legegyszerűbb megoldásra törekszik. A preambulummal összhangban azt kívánja kifejezni, hogy a közérdekű adatoknak csak a legszükségesebb mértékű korlátozását vállalja fel, és ebben a körben mind anyagi jogi, mind eljárásjogi szabályokat kíván életbe léptetni. Jelzi azt is, hogy csak az államtitok körében határoz meg a minősítésnél szóba jöhető adatfajtákat, valamint azt is, hogy az Avt.-ben nevesített államtitok és szolgálati titok körén túl nem kíván meghatározást adni más titokfajtákra.
+
+Értelmező rendelkezések
+
+A 2. §-hoz
+
+1. A Javaslat viszonylag részletesen foglalkozik az értelmező rendelkezések körében egyes fogalmak meghatározásával. Ez két ok miatt fontos. Egyrészről azért, mert a titokvédelem is adatokra vonatkozik, azonban sajátos adatkörre, emiatt jelentős mértékben el kell térni az Avt. fogalom-meghatározásától. Másrészről a fogalmak pontosítása lényegesen egyszerűsíti a szabályozás rendszerét, jól szolgálja a közérthetőséget, segíti a "rokon" jogterületekhez való illeszkedést.
+
+2. A Javaslatnak a minősítési eljárásra adott meghatározása amellett, hogy utal annak eljárási jellegére, ki akarja hangsúlyozni annak lényegét. Eszerint az adat egyértelműen a tartalmánál fogva eshet minősítési eljárás alá, és csak akkor, ha egyben valamelyik titokköri kategóriában nevesített adatfajtába tartozik. Ezért az eljárás fő célja az adat hovatartozásának megállapítása, és ezt követi a döntés, mely alapján a minősítési jelölést feltünteti.
+
+A Javaslat nem kívánja alkalmazni azt a külföldön több helyen ismert megoldást, miszerint a nyílt iratot is jelöléssel kell ellátni (pl. "Nem titkos", "Nyílt irat"). Abból a meggondolásból indul ki, hogy amelyik iraton a minősítési jelölés nincs feltüntetve, e törvény szerint korlátozás alá nem esik.
+
+3. A minősített adat értelmezésénél a Javaslat változtatni kíván az eddigi felfogáson. A hatályos szabályozás az iratalapú adathordozó bázisán épült fel, rendelkezései is iratszemléletet tükröznek. A fogalom meghatározásánál a Javaslat abból a gyakorlati tapasztalatból indul ki, hogy iraton kívül más dolog is hordozhat védendő információt, pl. magának egy objektumnak a léte, annak földrajzi helye vagy rendeltetése. Figyelembe kell venni azt is, hogy a korszerűsödő közigazgatásban a bizalmi elv érvényesülése a szóbeli rendelkezések bővülésével jár együtt, így a szóban adott információban is megjelenhetnek a védendő adatok. A fogalommeghatározás egyben igyekszik feloldani a taxációt, kiterjesztve azt a titkot hordozó eljárási módra vagy bármilyen más ismeretanyagra. Mindennek célja az is, hogy a törvény időállóságát biztosítsa.
+
+Tekintettel kell lenni arra is, hogy bizonyos védett információkat hordozó objektumokon - sajátosságuknál fogva - a minősítési jelölés nem tüntethető fel, így a megkülönböztetés arra is lehetőséget nyújt, hogy a minősítési eljárás során ezekre nézve eltérő szabály érvényesüljön.
+
+4. A minősített adat továbbítása és a minősített adattal való rendelkezés esetén a Javaslat egyrészről az Avt. fogalommeghatározásától való eltérés miatt ad definíciót. Lényeges különbség van ugyanis az Avt. adattovábbításról szóló meghatározása és a Javaslatban adott között. Ez utóbbinál ugyanis ki kellett hangsúlyozni, hogy a továbbítás milyen, a minősítő engedélyén alapuló magatartást takar.
+
+A minősített adattal való rendelkezés a titokvédelem területén olyan eljárás, amelynek részcselekményeihez jelentős jogok, kötelezettségek tapadnak. Ugyanakkor a minősített adattal való rendelkezés joga lehet bővebb vagy szűkebb attól függően, hogy a minősítő vagy más rendelkezésre jogosult, mely jogosítványait adhatja vagy adja át. Ennek világosan nyomonkövethető volta különösen akkor fontos, ha felmerül a felelősség kérdése. Az egyértelműség okából a Javaslat abból indul ki, hogy a rendelkezés részcselekményeinek kizárólagos felsorolása adja a legegyértelműbb megoldást. Ezzel nyílik megfelelő mód arra is, hogy a rendelkezési jog átadására jogosult a felhatalmazásban pontosan meg tudja határozni, milyen részműveletek elvégzésére szól a felhatalmazás.
+
+5. Az értelmező rendelkezések között külön foglalkozik a Javaslat a rendvédelmi szerv fogalmával. Erre azért van szükség, mert számos törvényünk használja ezt a fogalmat, azonban ezen más-más szervezeteket ért (pl. a rendőrségi törvény). A Javaslatban az eltérést az indokolja, hogy a katonai nemzetbiztonsági szolgálatok a honvédség keretében működnek, és így rájuk a honvédelemről szóló 1993. évi CX. törvény 10. §-ának k) pontja alapján eltérő szabályok vonatkozhatnak.
+
+A Javaslat ugyanakkor fel kívánja oldani az értelmezésből adódó összeütközéseket azáltal, hogy az itt nem szabályozott kérdésekre részben az Avt., részben a köziratokra vonatkozó szabályokat terjeszti ki.
+
+II. fejezet
+
+TITOKFAJTÁK
+
+Államtitok
+
+A 3. §-hoz
+
+1. A Javaslat egyik súlyponti része a titokfajták meghatározásáról szóló fejezet. Itt egyrészről figyelembe kell venni, hogy az államtitok fogalma megfeleljen az Avt. rendelkezéseinek, az Alkotmánybíróság határozatában adott iránymutatásnak, másrészről ne kerüljön ellentétbe a hatályos törvények, különösen a Btk. rendelkezéseivel. Mindenképpen biztosítsa, hogy egy meghatározott körbe (államtitokkör) tartozó adat csak akkor képezhessen államtitkot, ha nyilvánossága az Avt.-ben is meghatározott, jelentős állami érdekeket sérthet vagy veszélyeztethet és a nemzetközi gyakorlatnak, továbbá az általunk parafált egyezményeknek is megfelel. Az államtitok meghatározása tehát feltételezi egy zárt államtitokköri jegyzék létét, amely a törvény elválaszthatatlan mellékletét képezi.
+
+A Javaslat rendezi az államtitokká nyilváníthatóság leghosszabb érvényességi idejét is. Ezt 90 évben állapítja meg, míg az államtitokköri jegyzék az egyes adatfajtákra nézve adatkezelőnként határozza meg a speciális maximumot, amely csak bizonyos minősített objektumok létezése, fekvése, minősített adatai tekintetében lenne egy ízben meghosszabbítható, figyelemmel azok 90 évnél is hosszabb létezésére.
+
+2. A Javaslat szakít a hatályos szabályozás államtitok fogalmával, amely csak akkor ismerte el egy adat államtitokká való minősítését, ha illetéktelen személy tudomására jutása bizonyos állami érdekek veszélyeztetésével járhatott, és azt az arra jogosult vagy jogszabály, az államtitoknak tekintendő adatok körébe utalta. Az államtitoknak tekinthető adatok körét példálózó jelleggel adja meg. Ez a megoldás bár látszólag a kivétel elvén működött, ám a titokká minősíthető adatok körét parttalanná tette.
+
+A Javaslat az államtitok meghatározásánál egyrészről megköveteli annak megállapítását, hogy a védendő adat nyilvánosságra hozatala, megszerzése vagy felhasználása valóban jelent-e sérelmet vagy veszélyt, vagyis az adat tartalma valóban érdemes-e a védelemre. Ezáltal igyekszik elejét venni a pusztán formai okokból történő minősítésnek. Nem elegendő tehát a titokkörbe tartozás puszta ténye, vizsgálni kell az esetleges nyilvánosságra kerülés által kialakuló sérelem vagy veszélyeztetettség fokát. Másrészről új elemként építi be a Javaslat a Btk.-val való összhang érdekében a titoksértés tényállási elemeit.
+
+3. A Javaslat a mellékletét képező ún. államtitokköri jegyzék összeállításánál arra törekszik, hogy az Avt. 1. §-ának (3) bekezdésében foglaltaknak megfelelően adatkezelőre és az általa kezelt adatfajtákra együttesen és kizárólagosan sorolja fel a titokköröket. Bővítésük vagy szűkítésük így csak törvény által lehetséges. Az együttes meghatározás egyben azt is jelenti, hogy egy-egy adatkezelő kizárólag a "saját" titokkörében jogosult minősítésre. Ez azért fontos, mert megfelelő biztonsággal az adatkezelő csak saját területéhez tartozó adatok tekintetében tud megalapozott döntést hozni. Ha olyan adatfajta keletkezik nála, amely más adatkezelő titokkörébe tartozik, úgy az arra jogosultnál kezdeményezheti a minősítést.
+
+A titokköri jegyzékre vonatkozó indítványokat az érintett adatkezelők tették meg a kodifikációs eljárás során. Azok megfelelnek a nemzetközi egyezségokmányokban és ajánlásokban megfogalmazott azon kivételi körnek, miszerint honvédelmi és nemzetbiztonsági, külügyi és nemzetközi, pénzügyi és költségvetési, közbiztonsági és bűnmegelőzési, igazságszolgáltatási adatok körében elismerik a közérdekű adatok nyilvánosságának meghatározott rend szerinti korlátozását.
+
+Szolgálati titok
+
+A 4. §-hoz
+
+A Javaslat az eddigi gyakorlatnak megfelelően az államtitok mellett fenntartja a szolgálati titok intézményét, de a szolgálati titok meghatározásánál is eltér a hatályos szabályozás megoldásától.
+
+A hatályos szabályozás által meghatározott szolgálati titok fogalom egyik lényeges eleme az állami, társadalmi szervezet érdekeinek sérelme, mint titokfajtát keletkeztető elem. Az érdeksérelem azonban olyan tág fogalom, amely alkalmas arra, hogy a szolgálati titokká való minősítést, és így a nyilvánosság korlátozását beláthatatlanul széles közérdekű adatkörre terjessze ki.
+
+A Javaslat a hatályos rendelkezésektől eltérő megoldás kialakításánál abból indul ki, hogy az államtitok megfelelő védelmet nyújt az államtitokköri jegyzékben meghatározott adatfajták körébe tartozó közérdekű adat védelmére. A szolgálati titok kategóriával történő nyilvánosságkorlátozás célja kizárólag az állami szerv eljárása zavartalanságának, illetéktelen befolyástól mentes gyakorlásának biztosítását szolgálja. Természetesen nem azt jelenti, hogy a közigazgatási eljárás átláthatóságát elzárná az ügyfél vagy az érintett elől. Az ügyfél jogait az eljárásjog (betekintés joga) garantálja, az Avt. pedig széles körben biztosítja az érintett jogait. A szolgálati titok esetében arról van szó, hogy egyrészről éppen az előbb említettek jogait is védi az illetéktelenek által történő megismeréstől, másrészről a közigazgatási döntés-előkészítő eljárás dokumentumaiban foglaltak nyilvánosságra kerülése ellen ad védelmet a döntés pártatlansága, jogszerűsége és illetéktelen befolyásmentes meghozatala érdekében.
+
+A szolgálati titokfajta meghatározásánál a Javaslat eltér az államtitoknál alkalmazott megoldástól. Itt ugyanis a szervezetek működésének sokféleségére való tekintettel nem lehet egyetlen törvény által alkalmazni rendelt szolgálati titokköri jegyzéket összeállítani. Az eltérés további indoka az, hogy szervezetenként más és más olyan érdekkör merült fel, melynek nyilvánossága akadályozná az illetéktelenek befolyástól mentes működését vagy a döntések pártatlanságát.
+
+A szolgálati titokká minősítésnek a legindokoltabb körre történő korlátozása céljából a Javaslat az államtitokhoz hasonlóan kizárólag törvény által meghatározott állami szervek részére engedi meg a szolgálati titokká minősítést, az általuk összeállított nyilvános szolgálati titokköri jegyzék alapján. A jegyzéket az említett szerveknek a záró rendelkezések között megállapított határidőig a Magyar Közlönyben közlemény formájában, a jogalkotásról szóló 1987. évi XI. tv. 57. §-a szerint nyilvánosságra kell hozniuk.
+
+A szolgálati titok esetében a Javaslat kevésbé kívánja korlátozni a nyilvánosságot, ezért a szolgálati titoknál az államtitokhoz képest jelentősen alacsonyabb a generális maximumként meghatározott védelmi idő és szélesebb körű a betekintési lehetőség is. A Javaslat megtiltja bizonyos adatfajták szolgálati titokká minősítését. Ezeket az adatokat az Avt. 19. § (2) bekezdése egyértelműen meghatározza.
+
+Külföldi minősített adat
+
+Az 5. §-hoz
+
+A Javaslat a nem hazai eredetű minősített adatok védelméről is szól. Ebben a körben a gondot leginkább az jelentheti, hogy más államok vagy nemzetközi szervezetek a Javaslatban említettnél több vagy más titokkategóriát ismernek (pl. szolgálati használatra, bizalmas, titkos, szigorúan titkos stb.) Ezek megfeleltetése a törvény keretei között a hatályos és a tervezett titokfajtákkal szükségtelen, mert az ilyen tárgyú kötelezettségvállalásunknak a magyar jogrendszerben hagyományosan kialakult titokkategóriákkal is eleget tehetünk.
+
+A Javaslat abból indul ki, hogy államtitok, szolgálati titok közérdekű adatként csak a Magyar Köztársaság közhatalommal felruházott szervénél keletkezhet. A hatályos rendelkezés, amely lehet, hogy jól megfelelt a korábbi függőségi viszonyok követelményeinek, ma már tarthatatlan. Más kérdés az, hogy a nemzetközi partner által történt minősítést elismerjük, a minősített adatot nemzetközi kötelezettség alapján védjük. Ezért a megfeleltetést, a védelem módját a Javaslat nemzetközi szerződésre bízza azzal, ha nemzetközi szerződés vagy megállapodás másképpen nem rendelkezik, úgy a végrehajtási rendelkezésekben meghatározott védelmi szabályokat kell alkalmazni a külföldi eredetű minősített adatra.
+
+III. FEJEZET
+
+A MINŐSÍTÉSRE JOGOSULTAK ÉS A MINŐSÍTÉSI ELJÁRÁS
+
+A minősítésre jogosultak
+
+A 6. §-hoz
+
+1. A Javaslat úgy kíván eleget tenni az Avt. és az Alkotmánybíróság határozatában megjelenített alkotmányos elvnek, hogy csak a közhatalmi jogosítványokkal felruházott közjogi és közigazgatási szervezetek vezetői számára ad minősítési jogkört a törvényekben és jogszabályokban meghatározott feladat- és hatáskörök gyakorlása körében. Ezzel a megoldással gyökeresen szakít a hatályos szabályozás alapján kialakult helyzettel. A Ttvr. széles körű lehetőséget adott a különböző szervezetek vezetői számára a minősítésre, így minősíthettek önkormányzatok, társadalmi szervezetek is. Ez a megoldás azon túl, hogy alkotmányellenes, azzal a veszéllyel is járt, hogy a választás útján létrejött különböző közfeladatot ellátó szervezetek saját választóik, tagjaik elől is elrejthettek információkat. A minősítésből való kizárásuk nem jelenti azt, hogy a közfeladatot ellátó szervezetek, az önkormányzatok nem kaphatnak az állami feladataik végrehajtásához minősített adatot. Az államtitkon és szolgálati titkon kívüli titkaik kívül esnek a Javaslat szerinti szabályozás körén, védelmüket a különböző, más törvényekben, jogszabályokban meghatározott adatvédelmi rendszerek kielégítik.
+
+A Javaslat azonban egy ponton áttöri az állami szervek kizárólagos minősítési jogosultságának elvét. A honvédelmi érdekek védelmében - a honvédelemről szóló 1993. évi CX. törvény 66. §-ának keretei között - a honvédelmi felkészülési és az országmozgósítási feladatokkal felruházott szervek vezetői részére megadja a minősítési jogot.
+
+2. A minősítési jogkörök átruházását a hatályos rendelkezésekhez hasonlóan a Javaslat is lehetővé teszi. Az államtitokkal kapcsolatban azonban ezt a lehetőséget csak a lehető legszűkebb vezetői körre, a helyettesek körére terjeszti ki, amire a gyorsabb ügymenet, a zökkenőmentes ügyintézés miatt elengedhetetlenül szükség van.
+
+A szolgálati titokká történő minősítés esetén a Javaslat az ügydöntő hatáskörrel rendelkező munkatársak minősítési joggal való felruházását is megengedi. Míg az államtitok esetén a vezetői felelősség fenntartása egyben korlátja is a minősítés parttalanná válásának, addig a szolgálati titokká minősítésnél a centralizáció nem szolgálná a kívánt cél elérését. Az ügydöntő jogkörrel bíró köztisztviselő ugyanis közvetlenül fel tudja mérni a minősítés indokoltságát, az illetéktelen beavatkozás veszélyének felismerése és elhárítása az ő feladatkörében jelentkezik.
+
+Mivel a szolgálati titok ugyanakkor korántsem jelent olyan hozzáférési korlátot mint az államtitok, így a hatáskör átadás szélesebb körre való kiterjesztése itt kevésbé veszélyezteti a közérdekű adatok nyilvánosságát. A Javaslat csak a minősítő részére adja meg az átruházás jogát. Annak továbbadására (szubdelegáció) nem ad lehetőséget.
+
+3. Az általános szabály alól a Javaslat meghatározott igazgatási területeken kivételt tesz. Vannak ugyanis az állam működésének olyan területei, ahol az ügyek természete eleve megkívánja az adatokhoz való hozzáférés legszűkebb körre való korlátozását, és így a teljesen zártkörű kezelést. Ezekben az ügyekben az információk általában az üggyel közvetlenül foglalkozóknál keletkeznek. A minősítés elmaradása vagy késedelme pedig azzal a veszéllyel jár, hogy az adat, ha átmenetileg is, de védtelen marad. Ilyen területei az állam működésének a honvédelem, a nemzetbiztonság és a bűnüldözés, vagyis azok a területek, ahol törvényi felhatalmazás alapján gyakorlat a titkos információszerzés, az idegen titkos információszerzés elhárítása, és ahol az intézkedés gyorsasága, az intézkedés leplezett szervezése a siker egyértelmű feltétele. Ezért a Javaslat igen szűk körben, de lehetőséget ad az általános szabályoktól való eltérésre, meghatározva azt is, milyen feladatok körében kerülhet sor, az eltérő szabályok alkalmazására, és milyen módon történhet a jogkör átruházása.
+
+Minősítés
+
+A 7-9. §-hoz
+
+1. A Javaslat a minősítési eljárás tekintetében szakít a hatályos szabályozás gyakorlatával. A Ttvr. meglehetősen szűkszavú rendelkezései mindössze a minősítésnek az iraton való feltüntetését és az érvényességi idő jelölését írták elő. A minősítő személye így ismeretlen maradt. A minősítés érvényességi idejére vonatkozó előírás hiányában gyakorlattá válhatott a "visszavonásig", a "nyilvánosságra hozatalig" stb. időtartam meghatározás, ami végső soron időtlenné tette a tilalmat.
+
+A Javaslat az eljárási rend kialakításával - amely egyszerű - mintegy kényszeríti a minősítés követelményeinek megfelelni látszó adattal találkozót arra, hogy a minősítés szükségességét, törvényességét átgondolja. Az indokolási kötelezettség teljesítése pedig szembesítheti a kezdeményezés indokolatlan voltával. A minősítési eljárás során keletkezett ügyiratok ezzel a megoldással bármikor visszakereshetően igazolják az eljárás megalapozottságát, ami különösen azért fontos, mert a későbbi jogvitában az indokolás bizonyító erővel is bírhat.
+
+A minősítési kezdeményezés elbírálására a Javaslat az államigazgatási eljárás általános szabályainak megfelelő határidőt határoz meg annak érdekében, hogy az eljárás időtlenné válása ne vezethessen visszaélésekhez. A 30 napos határidő, egyszeri ugyanilyen tartamú meghosszabbítása után az adat nyilvánossá válik, ezzel mintegy kizárja, hogy a döntéshozó mulasztásával indokolatlan titkosítási előnyhöz jusson, erősítve ezzel az adatok közérdekűsége elvének érvényesülését.
+
+A szolgálati titokká minősítési eljárást a Javaslat egyszerűsíteni kívánja. A külön indokolást nem teszi kötelezővé.
+
+A Javaslat a minősítés formai követelményeiben a hatályos szabályozáshoz képest jelentős módosítást vezet be. A tervezett megoldás szerint a titok fokozatának jelölése, az érvényességi idő feltüntetése mellett a minősítési jelölésnek tartalmaznia kell a minősítő nevét és beosztását. Ezzel megszűnik az eddigi gyakorlatban kialakult névtelenség, egyértelműen megállapítható a minősítés eredete. A minősítő személyének ismerete a jogviták kezdeményezését, a hatáskör és illetékesség megállapítását is megkönnyíti.
+
+2. A Javaslat szerint a Miniszterelnöki Hivatal tekintetében annak vezetője, a fegyveres erő, a rendvédelmi szerv esetében az irányításra jogosult miniszter eltérően is megállapíthatja a minősítési eljárás rendjét. Ezt az eltérést az teszi indokolttá, hogy a Kormány, illetve az ügyrendje alapján működő testületek (kabinetek, kormánybizottságok) üléseinek a Miniszterelnöki Hivatalban történő előkészítésével kapcsolatos adatok, az üléseken elhangzottakat, történteket rögzítő dokumentumok nyilvánosságát indokolt korlátozni. Ez természetesen nem jelentheti az ülések elé kerülő napirendi anyagok, előterjesztések automatikus minősítését. Azokat tartalmuknál fogva az előterjesztő minősíti. Fontos államérdek, hogy e testületek előkészítésével kapcsolatos munkálatokat a nyilvánosság befolyásától mentesen végezzék. A testület tagjai felkészülését szolgáló munkadokumentumok, feljegyzések és javaslatok tartalma csak a címzettnek szól. Nem szabad a felkészítést végző szakértőket arra kötelezni, hogy ezt a felelősségteljes munkájukat a nyilvánosság előtt végezzék.
+
+Ugyancsak nem tartozik a nyilvánosság elé az üléseken elhangzott véleményeket, ellenvéleményeket és érveket tartalmazó dokumentum, hiszen számos esetben az érveket és ellenérveket minősített adatokkal, vagy egyéb titokfajták körébe tartozó tényekkel, körülményekkel kell alátámasztani. Ezért célszerű lehetővé tenni, hogy a minősítési eljárás során a kivétel érvényesüljön, és egyszerűsített eljárással, például indokolás készítése nélkül az említett adatok minősíthetők legyenek.
+
+A fegyveres erő, a rendvédelmi szerv minősítési eljárására nézve az eltérést e szervezetek sajátos feladatköre és szigorú hierarchikus működési rendje indokolja, ugyanúgy mint a minősítői jogköröknél meghatározott kivétel esetében (lásd a 6. §-hoz fűzött indokolás 2. pontját). Nem teszi lehetővé a Javaslat azt, hogy az irányító miniszter a minősítési jelöléstől eltérjen, csak az eljárás gyorsítása érdekében állapíthat meg eltérő szabályokat.
+
+A minősítés felülvizsgálata
+
+A 10. §-hoz
+
+1. A Javaslat a közérdekű adatok nyilvánosságának legszükségesebb korlátozása elvének megfelelően előírja a minősített adatok rendszeres felülvizsgálatát. Ennek során a felülvizsgálatot végző fenntarthatja, törölheti és szükség esetén módosítja a minősítést. Ez azért is indokolt, mivel a minősítés után bekövetkezhetnek olyan tények, körülmények, amelyek okafogyottá tehetik az eredeti döntést, így a minősítés megszüntethető, érvényességi ideje csökkenthető.
+
+2. Az egyes szervezetek jogutód nélküli megszűnésének esetére is szabályt ad a Javaslat. Ilyenkor valamennyi minősített iratot felül kell vizsgálni, függetlenül a korábbi felülvizsgálattól eltelt időtartamtól. Erre azért van szükség, hogy a jogutód nélkül megszűnt szervezetek iratanyagának megfelelő elhelyezéséről szabályszerűen gondoskodjanak, és valóban csak az indokolt esetekben maradjon fenn a minősítés.
+
+3. A Javaslat a minősítések saját hatáskörben történő felülvizsgálata mellett lehetővé teszi, hogy a legfőbb ügyész, a kormány tagja, a határőrség parancsnoka, a rendvédelmi szerv vezetője felülbírálhassa az irányítása alatt álló szervezet felhatalmazottjának minősítését. Erre különösen azokban az esetekben van szükség, ahol a minősítés az általános szabályoktól eltérően alacsonyabb szintre is leadható (6. § (4) bekezdés). Ez egyrészről visszatartó erővel bír a minősítési túlkapások ellen, másrészről lehetővé teszi a jogsérelem irányítói jogkörben történő orvoslását.
+
+IV. FEJEZET
+
+A MINŐSÍTETT ADAT MEGISMERÉSE
+
+A megismerés és engedélyezése
+
+A 11-14. §-hoz
+
+1. A Javaslat a minősített adat megismerésére alanyi jogon hatalmazza fel a minősítőt, a titokbirtokost, a titokvédelmi felügyelőt. Természetesen nem zárja ki, hogy megismerhesse a minősített adatot az, aki erre törvényi felhatalmazást kapott. Mindenki más csak engedéllyel ismerheti meg a minősített adatot, akkor is, ha az adattal érintett. Ez a korlátozás az Avt. 16. §-ában adott felhatalmazás alapján épült be a Javaslatba azzal, hogy a szolgálati titok tekintetében ezt a korlátozási lehetőséget nem kívánja érvényesíteni, hanem más törvényre bízza a tilalom megállapítását. Ennek oka, hogy a szolgálati titok csak olyan adatokra terjed ki, amelyek a szerv zavartalan működése érdekében bírnak jelentőséggel. Az érintett által történő megismerés itt veszélyt általában nem hordoz. Azt viszont lehetővé kell tenni, hogy törvény pl. nemzetbiztonsági okokból az érintettet a megismerési jogában korlátozza, erre utal a Javaslatban szereplő kivétel.
+
+2. A Javaslat külön rendelkezést tartalmaz az állami feladat végrehajtásába bevont közreműködő nem állami szervekre nézve. A gyakorlatban rendszerint előfordul, hogy állami feladat végrehajtásába bevonnak gazdálkodó szervezeteket, társadalmi szervezeteket, magánszemélyeket. A közreműködőkre is vonatkozik az általános szabály, miszerint csak engedély alapján juthatnak a minősített adat birtokába. Az adat tényleges megismeréséhez azonban a Javaslat külön feltételt támaszt. A minősített adat csak akkor adható át a közreműködőnek, ha megteremtette a védelemhez szükséges jogszabályban előírt személyi, szervezeti, technikai feltételeket. Ezek meglétét nemcsak átadáskor, hanem folyamatosan indokolt ellenőrizni. E jogkör gyakorlására nézve a felek között a feladat végrehajtása érdekében kötött szerződésben is meg lehet állapodni.
+
+A megismerési kérelem elintézése
+
+A 15. §-hoz
+
+A megismerési kérelem elbírálására a Javaslat szerint csak a minősítő jogosult, hiszen ő rendelkezik a minősítés indokoltságát megalapozó információkkal. A kérelemre nézve nincs formakényszer, elegendő a kért adat megjelölése. A Javaslat nem kíván az eljárással részletesebben foglalkozni, mivel célszerű elkerülni a párhuzamos megoldásokat. Ezért az Avt. eljárási szabályait rendeli alkalmazni, csupán a bírósági eljárás tekintetében ad kiegészítő szabályt. Az eltérésre azért van szükség, mert adott esetben előfordulhat, hogy a megtagadó nem azonos a minősítővel, illetve a szolgálati titokká történő minősítés államtitokká minősített adaton alapul.
+
+V. FEJEZET
+
+A MINŐSÍTETT ADAT VÉDELME
+
+Általános szabályok
+
+A 16-18. §-hoz
+
+1. A Javaslat a minősített adat megismerésére jogosultak részére egyértelműen meghatározza a kötelezettségeket függetlenül attól, hogy a megismerésre törvényadta joga van, vagy engedély alapozta meg e jogát. A titok megtartása ugyanis mindenkire kötelező, arra is, aki véletlenül jutott titok birtokába (pl. minősített iratot talál). Aki viszont tisztségénél, hivatásánál, beosztásánál fogva rendszeresen államtitkot ismer vagy ismerhet meg, és az erről szóló törvény nemzetbiztonsági okokból azt fontosnak tartja, köteles alávetni magát a törvényben előírt biztonsági ellenőrzésnek.
+
+Köztudomású, hogy a minősített adatok kiszivárgása, illetéktelenek birtokába jutása veszélyhelyzetet idézhet elő. A minősített adat nem csak szándékosan hozható illetéktelenek tudomására, ez megtörténhet gondatlanságból is. Az ellenőrzés egyik célja például a gondatlanságra való hajlam kiszűrése, valamint esetleg olyan, a megismerésre jogosult személyiségében rejlő okoknak, biztonsági kockázati tényezőknek a felkutatása, amelyek eleve veszélyeztetik a titok megtartását.
+
+2. A Javaslat törvényi szinten kívánja szabályozni a titoktartási kötelezettség alóli felmentést, amelyet eddig külön kormányrendelet szabályozott, és általában a legmagasabb (miniszteri) szintre emelte az engedélyezési hatáskört. A Javaslat abból indul ki, hogy a minősítő képes eldönteni azt, hogy a kérdéses minősített adatról engedélyezi-e a nyilatkozattételt. Ez a legegyszerűbb és leggyorsabb megoldás, mivel a minősítési jelölésből a minősítő személye ismert.
+
+3. A Javaslat rendezni kívánja a jogellenesen vagy illetéktelenül megismert, birtokba vett minősített adattal kapcsolatos kötelezettségeket, a nyilvánosságrahozatal rendjét és a külföldre való továbbítás módját.
+
+Ha valakinek minősített adat jut a birtokába, de annak birtoklására, megismerésére nem jogosult (találás), úgy az adatot a minősítőhöz kell eljuttatnia. Ez feltételezi a minősítési jelölés ismeretét. Ha erre nincs mód, pl. az irat zárt borítékban van elhelyezve, akkor a legközelebbi rendőri szervnek kell átadnia, mert ennek további őrzése itt biztosított, és megfelelő eljárás során a rendőrség tudja kideríteni, ki a minősítő, és így hozzá eljuttatni.
+
+4. A Javaslat biztonsági okokból a megismerés engedélyezéséhez képest szigorúbb szabályokat állapít meg az államtitok nyilvánosságra hozatalára, külföldi részére történő átadásra, a külföldre vitelre, a honvédelmi és külügyi érdekből minősített adatok tekintetében. Ezeknél az adatoknál csak a miniszter, illetve a rendvédelmi szerv vezetője adhat ki engedélyt, függetlenül attól, hogy ki minősítette. Az államtitkot képező adatot külföldre csak megfelelő mentességet élvező személy továbbíthat. Ellenkező esetben pl. a határ- és vámvizsgálatnál az adatot illetéktelenek is megismerhetnék.
+
+A titokbirtokos szerv vezetőjének feladat- és hatásköre
+
+A 19-20. §-hoz
+
+1. A Javaslat a titokbirtokos szerv vezetőjének feladatát a hatályos rendelkezésekhez hasonlóan határozza meg. A titokbirtokos - mint arra az értelmező rendelkezések is utalnak - a minősítő, illetve az, akinek a minősített adatot jogszerűen továbbították. A minősítő, valamint a minősítési jogkörrel nem rendelkező titokbirtokos titokvédelemmel kapcsolatos legfontosabb feladatait a Javaslat azonosan állapítja meg. Aki viszont úgy válik titokbirtokossá, hogy részére az adatot továbbították, de nem minősítő, nem rendelkezhet minősítő részére megállapított jogokkal.
+
+2. A Javaslat lehetővé teszi, hogy a titokbirtokos az irányítása alatt álló szervezeten belül titokvédelmi felügyelőt jelöljön ki, akire átruházhatja a titokvédelemmel kapcsolatos jogosítványait. Természetesen a titokvédelmi felügyelő kinevezése nem kötelező, kisebb létszámú vagy alacsony minősített iratforgalommal rendelkező szervezeteknél a vezető maga is elláthatja a titokvédelmi feladatokat. A Javaslat külön kiemeli, hogy amennyiben a titokbirtokos szerv vezetője minősítő is, úgy a saját minősített adata tekintetében teljes körűen megilletik a rendelkezési jogok. Ha a titokbirtokos szervhez más személy által minősített adat kerül, az intézkedési jogok csak korlátozottan illetik meg, bizonyos intézkedéseket önállóan is megtehet, bizonyos intézkedéseket csak abban a körben amire vonatkozóan a minősítő arra felhatalmazást adott. Az intézkedési jogosítványok szétválasztása azért fontos, mert a titkosított adat "ura" a minősítő, így bizonyos jogköröket - ha a törvény kivételt nem tesz - csak ő ruházhat át titokbirtokosra.
+
+Betekintő
+
+A 21. §-hoz
+
+A Javaslat külön meghatározza a betekintő jogkörét. Betekintőnek azt tekinti, aki a megismerésen kívül a minősített adattal, ha korlátozottan is, de rendelkezhet. A betekintési engedély mindig visszavonásig érvényes, mert ez a jog általában meghatározott beosztásokhoz, munkakörökhöz tapad. A betekintő azonban ezt a jogát másra nem ruházhatja át, az személyesen illeti meg, és az eddig kialakult gyakorlat szerint a betekintési jogot a kinevezéssel, illetve a megbízással egyidejűleg kapja meg. Ez természetesen nem zárja ki, hogy a munkavégzéssel összefüggő jogviszony keletkezésétől időben elváljon. A jogviszony megszűnésével viszont e jogosítvány is visszavonásra kerül.
+
+Titokvédelmi felügyelő
+
+A 22. §-hoz
+
+A titokvédelmi felügyelő a titokbirtokos szerv vezetőjének megbízása alapján jár el. A Javaslat azonban fontosnak tartja, hogy meghatározott jogosítványait kiemelje, amelyek átruházásától az őt megbízó személy nem tekinthet el. Ellenkező esetben a feladatát nem tudná megfelelően ellátni. Természetesen nincs akadálya annak, hogy a törvényben meghatározott jogkörökön túl a titokbirtokos más jogkörét átruházhassa, azonban, ha a titokbirtokos egyben minősítő is, a minősítés jogát nem ruházhatja át.
+
+A titkos ügykezelés vezetője, a titkos ügykezelő
+
+A 23-24. §-hoz
+
+A Javaslat a minősített adatok kezelése körében nevesített feladatot állapít meg bizonyos ügyekezelési feladatokat ellátó személy részére is. A minősített iratok útjának nyomonkövetése szükségessé teszi, hogy azok elkülönítetten, külön ügykezelési rendszerben mozoghassanak, és az általános ügykezelés szabályainál szigorúbb rendben kerüljenek továbbításra, nyilvántartásra, tárolásra. A biztonság érdekében a Javaslat megfelelő szakismereteket követel meg az ügykezelőktől, és a középfokú végzettségen túl külön, a titkos ügykezelés szabályai ismeretéből vizsga letételét írja elő.
+
+VI. FEJEZET
+
+A TITOKVÉDELEM FELÜGYELETE
+
+A belügyminiszter felügyeleti jogköre
+
+A 25. §-hoz
+
+A Javaslat a minősített adatok védelmének szakmai felügyeletét a hatályos szabályozáshoz hasonlóan a belügyminiszterre bízza. E jogkörénél fogva a belügyminiszter jogosult és köteles ellenőrizni a titokbirtokosnál a titokvédelem adminisztratív szabályainak megtartását. Eljárására az államigazgatási eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni azzal, hogy a feltárt szabálytalanság esetén csak a Javaslatban meghatározott intézkedéseket teheti meg. A Javaslat a szakmai felügyelet gyakorlásánál fontosnak tartja, hogy bizonyos területeken csak az irányító miniszterrel együttesen lehet gyakorolni ezt a jogkört. A honvédelmi és a nemzetbiztonsági érdekek különös védelme indokolja, hogy a szakmai felügyelet gyakorlásában az irányító miniszter is részt vehessen. Ez azért is fontos, mivel az említett igazgatási területeken az irányító miniszter eltérő szabályozást érvényesíthet.
+
+Tájékoztatási és intézkedési kötelezettség
+
+A 26. §-hoz
+
+A Javaslat fontosnak tartja, hogy általános kötelezettséget állapítson meg mindazok tekintetében, akik a törvény erejénél fogva tisztségük vagy megbízatásuk alapján minősített adat védelmére kötelezettek. Ezek a személyek kötelesek intézkedni, ha tudomásuk szerint a titok védelme bármely okból veszélybe került vagy ilyen veszélyhelyzet áll fenn. A minősítőn kívül a belügyminisztert is tájékoztatni rendeli annak érdekében, hogy az adat védelem alá helyezésén túl a titoksértés körülményei egy kívülálló, de szakmai felügyeletet ellátó szerv által megállapíthatók legyenek.
+
+-----STARTING---POINT---VEGE---
+
+VII. FEJEZET
+
+ZÁRÓ RENDELKEZÉSEK
+
+Hatálybalépés
+
+A 27. §-hoz
+
+A Javaslat a hatályba lépés napjául 1995. július 1-jét határozza meg, ugyanis ettől a naptól válna szabályozatlanná az Alkotmánybíróság döntése következtében a titokvédelem. Ennek megfelelően a Javaslat csak az államtitokra és a szolgálati titokra vonatkozó titoktartás kötelezettsége alóli felmentésről szóló 81/1987.(XII.24.) MT rendelet hatályon kívül helyezését rendeli el, mivel erről az Alkotmánybíróság határozatában rendelkezés nem történt.
+
+A hatálybalépés napjától számítva 3 hónap határidőt ad a szolgálati titokkörök összeállítására és közzétételére, jelezve, hogy annak naprakész állapotban tartásáról is gondoskodni kell. Egyúttal a hatálybalépés évének végéig adott határidővel kötelezi az érintett szervezeteket a minősített iratok kezelésére vonatkozó szabályzataik módosítására.
+
+Átmeneti rendelkezések
+
+A 28-29. §-hoz
+
+A Javaslat viszonylag részletesen határozza meg az új szabályozás hatálybalépését követő időszakban végrehajtandó azon feladatokat, amelyek a hatályos szabályozásról a Javaslatban foglalt megoldásra való áttérés következtében jelentkeznek. A hatályos szabályozás alkotmánysértő rendelkezéseiből adódóan feltehető, hogy a korábbi években minősített adatok közül számos irat minősítése már nem felel meg az alkotmányos követelményeknek. Ezért a korábban szokásos minősítési jelzéssel ellátott valamennyi irat felülvizsgálatát elrendeli, melyet 1999. december 31-ig kell végrehajtani. Kivételt képeznek ezen általános szabály alól az 1980 előtt keletkezett minősített iratok, melyek tekintetében lényegesen rövidebb, 1 éves határidő kitűzését tartja indokoltnak a Javaslat, mely határidő eredménytelen eltelte esetén a minősítésük e törvény erejénél fogva megszűnne.
+
+Figyelemmel arra, hogy a felülvizsgálat során különböző problémák merülnek fel, a Javaslat részletesen meghatározza az eljárás rendjét, az 50 évvel korábban minősített iratok esetében a jogosultat felhatalmazza a minősítés törlésére és csak különösen indokolt esetben teszi lehetővé a további titkosítást, viszont ehhez új, már a Javaslat szerinti minősítési eljárást kell lefolytatni. Ha az irat minősítése 50 éven belül történt, úgy a minősítés fenntartható, amennyiben az adat a Javaslat szerint is minősíthető lenne. A minősítés fenntartása esetén azonban a minősítésnek már meg kell felelni a a Javaslatban meghatározott rendelkezéseknek.
+
+A Javaslat rendezni kívánja azt a joghézagot, ami azáltal keletkezik, hogy az eredeti minősítő vagy annak jogutódja nem állapítható meg. Erre az esetre a Belügyminisztérium kivételes hatáskörét állapítja meg.
+
+A felülvizsgálat egyszerűbb lefolytatása érdekében a Javaslat megadja a felülvizsgálat és a minősítés jelölése megszüntetésének jogát a levéltárak vezetőinek is abban az esetben, ha a minősítés nem államtitokra vonatkozik.
+
+Felhatalmazás
+
+A 30. §-hoz
+
+A Javaslat a titokvédelemnek csak a legfontosabb kérdéseit rendezi. A titokvédelem adminisztratív- és technikai szabályait a hatályos rendelkezésekhez hasonlóan kormányrendelet állapítaná meg. A közigazgatás fejlesztésével, különösen a számítógépes rendszerek működésének terjedésével számítani lehet arra, hogy a védelem adminisztratív szabályait az új igényeknek megfelelően folyamatosan karban kell tartani. Erre kormányszintű szabályozás alkalmasabb, és ez felel meg annak az igénynek is, amely a kormányzati rendeletalkotás bővítését tartja indokoltnak.
+
+Kiegészítő rendelkezések
+
+A 31. §-hoz
+
+A Javaslat nem kívánja módosítani azokat a törvényeket, amelyek meghatározott személyeket felhatalmaznak a minősített adatok megismerésére. Az országgyűlési képviselők jogállásáról szóló törvény rendelkezései azonban kiegészítésre szorulnak. A hatályos szabály szerint az országgyűlési képviselők részére mindenki köteles a szükséges felvilágosítást megadni, hogy közfeladataikat elláthassák. A hatályos törvényszöveg nem differenciál nyílt közérdekű információ, illetve minősített közérdekű adat átadása között. A Javaslat ezt a hiányt igyekszik pótolni azzal, hogy konkrétan meghatározza az országgyűlési képviselők minősített adat megismerésével kapcsolatos jogosítványait. Ennek megfelelően kiegészíti az említett törvényt. Az Országgyűlés által létrehozott bizottság tagjait teljes körűen felhatalmazza az államtitok megismerésére, az országgyűlési határozatban megjelölt államtitokkörök esetében.

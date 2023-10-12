@@ -1,0 +1,197 @@
+2020. évi CLXII. törvény végső előterjesztői indokolása
+
+a Kormányzati Személyügyi Döntéstámogató Rendszerről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvényjavaslat célja a XXI. század kihívásainak is megfelelő, korszerű informatikai alapokon álló, moduláris szerkezetű Kormányzati Személyügyi Döntéstámogató Rendszer (a továbbiakban: KSZDR) törvényi alapjainak megteremtése, amelyhez több közszolgálati jogállási törvény megfelelő módosítása is szükséges. A KSZDR szabályozási környezetét egyrészt a törvényi szabályozás, másrészt a felhatalmazás alapján megalkotandó kormányrendeleti szabályozás fogja biztosítani.
+
+Jelen törvényjavaslat végzi el továbbá a 23/2020. (VIII. 4.) AB határozatban megállapított mulasztásban megnyilvánuló alaptörvény-ellenesség megszüntetéséhez szükséges törvénymódosításokat, valamint az Európai Bizottság által a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről szóló 2012. július 4-i 2012/18/EU európai parlamenti és tanácsi irányelv átültetésével kapcsolatos hiányosság kiküszöböléséhez szükséges módosítást.
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. § (2) bekezdés a) pontja alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1-17. §-hoz
+
+A KSZDR létrehozásának alapvető célja a közszolgálatban működő emberi erőforrás gazdálkodás hatékonyságát és szakszerűségét támogató, a közszolgálatot átfogó kormányzati információs rendszer kidolgozása és bevezetése, amely
+
+a) pontos és naprakész információkat képes szolgáltatni a tágabb közszolgálat (közigazgatás, rendvédelem) személyi állományának az állam működésének és fejlesztésének szempontjából releváns adatairól;
+
+b) segítségével a kormányzat a jelenleginél nagyságrendileg gyorsabban, automatizált módon juthat hozzá a közszolgálati szervek ellenőrzött adataiból származó statisztikákhoz, és a korábbinál jobban megalapozhatja döntéseit;
+
+c) teljes körű információt ad a hatálya alá tartozó állami szervek szervezeti és létszám viszonyairól;
+
+d) tartalmazza az állami szervek álláshelyei, illetve munkakörei alapján készült munkakör- és feladatkatasztert;
+
+e) az alapvető és a kiegészítő HR-funkciók becsatornázásával monitoring rendszert működtet az állami szervek humánerőforrás-gazdálkodásáról;
+
+f) által javul az intézményi erőforrások felhasználásának hatékonysága, az automatizáció lehetőségeit kihasználva jelentősen csökkenthető és egyszerűsíthető az adatszolgáltatással kapcsolatos munkaterhelés;
+
+g) által megvalósítható lesz az összegyűjtött információk egyszerű újrafelhasználása az intézmények számára is;
+
+h) segíti a személyügyi témájú nemzetközi adatszolgáltatási kötelezettségek teljesítését;
+
+i) olyan monitoring, reporting rendszert működtet, amely képes a politikai felsővezetők, szakmai vezetők, munkáltatók (felhasználók) aktuális információs igényeinek, illetve az államtudományi és a közszolgálati tudományterületek kutatási célú igényeinek kielégítésére.
+
+A KSZDR bevezetésével a Kormány a jelenleginél nagyságrendileg gyorsabban, automatizált módon juthat hozzá a közszolgálati szervek ellenőrzött személyügyi alapadataiból származó statisztikákhoz, valamint más állami forrásrendszerek, adatbázisok kiegészítő adatainak felhasználásával készített elemzésekhez és ezáltal a kormányzati személyzetpolitikai döntés-előkészítés a korábbinál megalapozottabbá válik.
+
+A KSZDR-t a közszolgálati életpálya kidolgozásáért felelős miniszter működteti, üzemeltetését a Kormány rendeletében meghatározott szervezet végzi.
+
+A KSZDR a következő jogállások tekintetében kerül bevezetésre:
+
+1. a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti központi kormányzati igazgatási szerveknél és ezek területi, helyi szerveinél foglalkoztatottak,
+
+2. a Kit. szerinti területi kormányzati igazgatási szerveknél foglalkoztatottak,
+
+3. az Országgyűlés Hivatala és az Országgyűlési Őrség kivételével a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) hatálya alá tartozó szerveknél foglalkoztatottak,
+
+4. a polgári nemzetbiztonsági szolgálatok és az Országgyűlési Őrség kivételével a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti rendvédelmi feladatokat ellátó szerveknél foglalkoztatottak,
+
+5. a Nemzeti Adó- és Vámhivatal személyi állományáról szóló törvény (a továbbiakban: Nsztv.) szerint a Nemzeti Adó- és Vámhivatal személyi állományába tartozók,
+
+6. a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató foglalkoztatottjai kivételével az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Esztv.) szerinti állami vagy felsőoktatási intézmény által fenntartott egészségügyi szolgáltatónál, illetve működtetett klinikai központnál és egyetemi kórháznál, valamint az önkormányzati fenntartású egészségügyi szolgáltatóknál foglalkoztatottak.
+
+A javaslat meghatározza a KSZDR kialakításának célját, továbbá a rendszerelemeit. Két elem kerül rögzítésre valamennyi jogállási törvény vonatkozásában: az adatgyűjtő modul és a statisztikai modul, két további elem pedig specifikusan, egyes jogállások tekintetében kerül majd alkalmazásra. Ezen elemek közül az egyik az Álláshely Nyilvántartó Rendszer, amely csak a kormányzati igazgatási szerveknél értelmezhető, a másik pedig a személyügyi alapnyilvántartó és ügyviteli rendszer, amely egyrészt a központi kormányzati igazgatási szerveknél, másrészt a rendvédelmi feladatokat ellátó szerveknél kerül bevezetésre a személyügyi nyilvántartások kezelésére. Ahhoz hogy a KSZDR céljai megvalósuljanak, szervezeti és személyes adatokra van szükség, ebből készíthetők az elemzések, a kormányzati döntés-előkészítő anyagok.
+
+A személyes adatok egyrészt a KSZDR szempontjából releváns adatokat tartalmazó nyilvántartásból kerülnek az adatgyűjtő modulba, másrészt a különböző szakrendszerekből. Ezen adatok kezelője az adatot feltöltő szervezet, rögzítését minden esetben a szervek végzik a nyilvántartásukban, illetve szakrendszereikben, a közszolgálati életpálya kidolgozásáért felelős miniszter adatfeldolgozóként tartozik felelősséggel.
+
+A statisztikai modulban személyazonosításra alkalmatlan módon történik az adatok nyilvántartása.
+
+Az adatgyűjtő modulba feltöltésre került adatokhoz csak és kizárólag azok rendelkeznek hozzáféréssel, akik egyébként a különböző jogállási törvényekben szabályozott személyügyi alapnyilvántartásokhoz is hozzáférnek. A statisztikai modulból közvetlen statisztikai lekérdezésekre, illetve megkeresés útján történő adatszolgáltatásra lesz lehetőség, azonban ebben a modulban már semmilyen személyes adat nem kerül nyilvántartásra, így ezen lekérdezési lehetőségek személyes adatok kezelését nem érintik.
+
+A KSZDR számos külső rendszerrel áll kapcsolatban, az adatot szolgáltató szakrendszerek részben függnek attól is, hogy mely jogállási törvény szerint foglalkoztatottakra vonatkozó adatokról van szó: van olyan szakrendszer, amely valamennyi jogállás esetében értelmezhető, míg vannak olyan szakrendszerek, amelyek csak jogállás-specifikusan szolgáltatnak adatot. Az érintett szakrendszerek:
+
+a) a kincstár által működtetett központosított illetményszámfejtési rendszer (KIRA), valamint annak részeként a statisztikai létszám- és bérgazdálkodási információs rendszer,
+
+b) a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartás (KTÖRZS),
+
+c) a Központi Statisztikai Hivatal munkaügyi statisztikai adatszolgáltatása keretében gyűjtött statisztikai adatok (együttműködési megállapodás alapján),
+
+d) az Esztv. hatálya alatt állók tekintetében: egészségügyi szakrendszerek,
+
+e) a Kttv. hatály alatt állók tekintetében: a tartalékállományban lévők információs rendszere (TARTINFO),
+
+f) a Hszt. hatálya alatt állók tekintetében: a továbbképzési rendszer (RVTV), az egyéni teljesítményértékelési rendszer (TÉR), a Komplex Kompetencia Alapú Kiválasztási és Képzési Rendszer (KOMP-rendszer), a tartalékállományban lévők információs rendszere (TARTINFO).
+
+g) a Kit. hatálya alá tartozók tekintetében: a továbbképzési rendszer (PROBONO), a teljesítményértékelési rendszer (TÉR), a tartalékállományban lévők információs rendszere (TARTINFO), a közszolgálati állásportál (KÖZIGÁLLÁS).
+
+A javaslat szerint a KSZDR a működését több ütemben kezdi meg:
+
+1. alapvetően január 1-jén és március 1-jén kezdi meg a működését azon szervezetek foglalkoztatottjai vonatkozásában, ahol az új személyügyi alapnyilvántartó és ügyviteli rendszer alkalmazása nem kerül bevezetésre,
+
+2. április 1-jén kezdi meg a működését azon szervezetek foglalkoztatottjai vonatkozásában, ahol az új személyügyi alapnyilvántartó és ügyviteli rendszer alkalmazása is bevezetésre kerül,
+
+3. július 1-jén kezdi meg a működését a Nemzeti Adó- és Vámhivatal személyi állománya vonatkozásában.
+
+Az alkalmazás megkezdésekor jogviszonyban álló foglalkoztatottak korábbi adatainak átadására, migrálására - a szükséges adattisztítások elvégzésével együtt - az átmeneti rendelkezések meghatározzák azt a határidőt, ameddig az adatok átadását el kell végezni.
+
+A különböző személyügyi alapnyilvántartások adatkörei nem változnak. A KSZDR szempontjából releváns adatokat tartalmazó mellékletek határozzák meg azokat a személyes adatokat, amelyeket az egyes személyügyi alapnyilvántartások által nyilvántartott adatok közül tartalmazni fog a KSZDR.
+
+-----STARTING---POINT---VEGE---
+
+A 18-19. §-hoz
+
+A sarkalatossági és jogharmonizációs záradékot tartalmazza.
+
+A 20-21. §-hoz
+
+A rendelkezés módosítja a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) szerinti megbízhatósági vizsgálatra vonatkozó szabályozást. A módosítás révén a jövőben a Kormány vagy a Kormány tagjának irányítása, felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottja vonatkozásában lehetővé válik a megbízhatósági vizsgálat elvégzése. Ezen költségvetési szervek esetében a Kormány felhatalmazást kap, hogy rendeletben határozza meg - a feladatkör mérlegelése alapján - azon szervek körét, amelyek foglalkoztatottjaira nem végezhető megbízhatósági vizsgálat. Mindemellett az egészségügyi szolgálati jogviszonyban állókra is indokolt kiterjeszteni a megbízhatósági vizsgálat lehetőségét.
+
+A 22. §-hoz
+
+A KSZDR működési elvével összefüggésben szükséges módosítás, tekintettel arra, hogy a társadalombiztosítási azonosító jel az a közös nyilvántartott adat, amely révén az egyes szakrendszerekből érkező adatok megfelelően összerendelhetőek a különböző személyügyi alapnyilvántartásokból érkező adatokkal is, emiatt azonban indokolt a társadalombiztosítási azonosító jelen ezen funkciójának feltüntetése a tárgykört szabályozó törvényben.
+
+A 23-24. §-hoz
+
+A veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről szóló 2012. július 4-i 2012/18/EU európai parlamenti és tanácsi irányelv (Seveso III irányelv) átültetésével összefüggésben a Bizottság felszólító levelének 2.30. pontjában foglaltak szerint a Bizottság megállapította, hogy az átültető nemzeti jogszabály nem jogosítja fel kifejezetten a hatóságot arra, hogy az üzem biztonságával kapcsolatos egyes adatokat - a 2003/4/EK irányelv 4. cikkében foglalt okok alapján - védendő adatnak minősítse, ezért szükséges a nemzeti szabályozás kiegészítése.
+
+A védendő adat fogalmát a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (Kat. tv.) tartalmazza, azonban az csak az üzemeltető által meghatározott üzleti titokra terjed ki, a hatóságot nem jogosítja fel adat védetté nyilvánítására. A Seveso III irányelv vonatkozó rendelkezésének megfelelő átültetése érdekében szükséges a Kat. tv. módosítása.
+
+A 25-26. §-hoz
+
+A módosítással egyértelművé válik, hogy az önkormányzati képviselő és a polgármester méltatlanságát csak abban az esetben kell kimondani a képviselő-testületnek, ha a megbízatás időtartama alatt születik meg a jogerős ítélet. A módosítás nem érinti az Alaptörvényben és a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvényben meghatározott passzív választójogi feltételeket és kizárja annak a lehetőségét, hogy esetleges újraválasztás esetén ismételten megállapításra kerüljön a méltatlanság.
+
+A szabályozás értelmében a méltatlanság kimondásával az adott megbízás megszűnne, de mivel a passzív választójog nem kerül szűkítésre, így akit felfüggesztettek a megbízatása alól, az a következő választáson akár újra megválasztható lehet. E megoldási lehetőség a mentesítéstől függetlenül biztosítja, hogy a méltatlansági ok bekövetkezése esetén minden esetben a választópolgárok dönthessenek. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXIX. törvény 38. § (1) bekezdés b) pontjának módosítása esetén szükség van a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 107. § (1) bekezdés c) pontjának a módosítására is annak érdekében, hogy egységes legyen a kérdésben a szabályozás.
+
+A 27-28. §-hoz
+
+Az államháztartásról szóló 2011. évi CXCV. törvény kincstári adatkezelésre vonatkozó alcímében kerül sor a KSZDR-rel összefüggésben két kötelezettség törvényi jogalapjának megteremetésére. E szabályozás alapján a kincstár egyedi azonosítóhoz kötötten ad át létszámadatokat, kereseti adatokat és illetményadatokat, továbbá szervezeti adatokat a KSZDR részére. Az adatszolgáltatás rendjét a Kormány rendeletben állapítja meg.
+
+A 29-33. §-hoz
+
+A törvényjavaslat módosítja a Kttv. adatkezelésre vonatkozó rendelkezéseit a közszolgálati alapnyilvántartás vonatkozásában, továbbá a Kormányzati Személyügyi Döntéstámogató Rendszerrel való kapcsolat megteremtése érdekében.
+
+Az alapnyilvántartás vezetésének célja tekintetében nincs változás, alapvetően a munkáltatói intézkedések előkészítéséhez, a jogviszonnyal összefüggő jogok gyakorlásához és kötelezettségek teljesítésének biztosításához szükséges az adatkezelés, összhangban a valamennyi foglalkoztatási jogviszonyra vonatkozó szabályozással. Az alapnyilvántartásba betekintésre jogosultak köre annyiban változik, hogy a közszolgálati életpálya kidolgozásért felelős miniszter - mint a KSZDR-t működtető miniszter - lesz betekintésre jogosult, ahogy a statisztikai célokból eddig is jogosult volt betekintésre.
+
+A Kormányzati Személyügyi Döntéstámogató Rendszer vonatkozásában a törvénybe egy utaló szabály kerül beépítésre.
+
+A munkavállalók tekintetében továbbá rögzíti a javaslat a munkaügyi nyilvántartással összefüggő adatkezelés szabályait, összhangban a Kit. szabályozásával, biztosítva az egységes nyilvántartási rendszer kialakítását.
+
+A 34. §-hoz
+
+Az egészségügyi, pszichológiai és fizikai alkalmasságvizsgálati rendszer törvényi szabályozása 2021. január 1-jén megváltozik, amely részeként hatályba lép az a rendelkezés, amely szerint bizonyos szabályok megalkotása közjogi szervezetszabályozó eszköz (az Országgyűlési Őrség esetében belső szabályzat) tárgykörébe tartozik. Ezzel összefüggésben merült fel igényként, hogy ezen tárgykörök tételesen jelenjenek meg a törvényben. A javaslat ezt a módosítást végzi el.
+
+A 35-36., 43. §-hoz
+
+A központi gondozott árvák és özvegyek vonatkozásában indokolt a honvédek jogállásáról szóló 2012. évi CCV. törvényben már kimunkált szabályozás adaptálása a rendvédelmi feladatokat ellátó szervek hivatásos állományára is, tekintettel arra, hogy a hivatásos szolgálat során elhunyt, a rendvédelemben szolgálatot teljesítő állomány hozzátartozóiról való gondoskodás ugyanúgy indokolt a rendvédelem területén is.
+
+A 37-39. §-hoz
+
+A módosítás a Hszt. XXV. fejezetében a 272-276. §-t érinti. A szabályozás a hivatásos állományra vonatkozó rendelkezéseket tartalmaz, de a Hszt. 289/W. §-a alapján ezt a rendvédelmi alkalmazottakra is megfelelően alkalmazni kell.
+
+A nyilvántartási szabályozás jelentősen átalakul: az alap- és központi nyilvántartás a jelenlegi formájában megszűnik. A KSZDR bevezetésével a továbbiakban csak személyügyi alapnyilvántartás vezetésére kerül sor a rendvédelmi szerveknél.
+
+A rendvédelmi szervek hivatásos állományának tagja esetében a munkáltatói jogkör gyakorlója az állományilletékes parancsnok. Ennek megfelelően a Kit.-es munkáltatói modellhez - amelyben a munkáltatói jogkörgyakorló a Kormány - igazodó nyilvántartási szabályok átvételére nem kerül sor, a rendvédelmi szervi sajátosságokra tekintettel, de a kormányzati elvárásokhoz igazodó KSZDR fejlesztésre figyelemmel az alábbi szabályrendszer kerül rögzítésre. A személyügyi alapnyilvántartásban szereplő adatokat minden esetben az állományilletékes parancsnok kezeli. A nyilvántartást ugyanakkor a rendvédelmi szerv szervezeti felépítéséből adódó sajátosságokból fakadóan nem feltétlenül az állományilletékes parancsnok által vezetett szervezeti egység fogja vezetni, így például a helyi rendőrkapitányságok vonatkozásában előfordulhat, hogy nem a rendőrkapitányságon, hanem a megyei rendőr-főkapitányságon kerül majd sor a nyilvántartás vezetésére, ahogy az Országos Rendőr-főkapitányság vagy a Készenléti Rendőrség esetében sem az egyes - állományilletékes parancsnoknak minősülő főigazgató vagy igazgatók - fogják ténylegesen, technikailag vezetni a nyilvántartást. Ezek ugyanakkor olyan részletszabályok, amelyeket nem indokolt törvényi szinten rögzíteni, továbbá rendvédelmi szervenként, de még azokon belül területi szervenként is eltérő szabályozást igényelhetnek, ezért ezeket a technikai szabályokat a személyügyi igazgatás rendjéről szóló miniszteri rendeletben indokolt szabályozni.
+
+A személyügyi alapnyilvántartást az állományilletékes parancsnok vezeti, elektronikus rendszerben, amely a rendvédelmi szervek körében az új személyügyi alapnyilvántartó és ügyviteli rendszer lesz. Az új személyügyi alapnyilvántartó és ügyviteli rendszer a központosított illetményszámfejtést végző rendszerrel kapcsolatban áll.
+
+Az alapnyilvántartás vezetésének célja tekintetében nincs változás; alapvetően a munkáltatói intézkedések előkészítéséhez, a szolgálati viszonnyal összefüggő jogok gyakorlásához és kötelezettségek teljesítésének biztosításához szükséges az adatkezelés, összhangban a valamennyi foglalkoztatási jogviszonyra vonatkozó szabályozással.
+
+Új rendelkezés, hogy az alapnyilvántartási adatokról, továbbá a szervezeti adatokból feltöltésre kerül sor a KSZDR-be.
+
+Az alapnyilvántartásba betekintésre jogosultak köre nem változik, mindössze egy, eddig hiányzó rendelkezés kerül rögzítésre, a más szervhez vezénylésre és a miniszter által vezetett minisztériumba vezénylésre vonatkozó speciális rendelkezésként. A Hszt. 51. §-a tartalmazza a rendvédelmi szerven kívüli szolgálatteljesítés eseteit. Ezek között szerepel, hogy a hivatásos állomány tagja a szolgálatát a rendvédelmi szerven kívül teljesítheti a miniszter által vezetett minisztériumban vagy közigazgatási, államigazgatási szervnél is.
+
+A rendvédelmi szervet irányító miniszter által vezetett minisztérium és a közigazgatási szerv (az új terminológia szerint kormányzati igazgatási szerv) a Kit. hatálya alá tartozó kormányzati igazgatási szerv, az ide vezényeltek álláshelyre kerülnek vezénylésre. A Kit. 54. § (3) bekezdése szerint az álláshely betölthető a kormányzati igazgatási szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személlyel is, azzal, hogy ebben az esetben - a hivatásos szolgálati jogviszony szünetelése esetének kivételével - nem jön létre új jogviszony, és a hivatásos szolgálati jogviszony továbbra is fennáll.
+
+A hivatásos állomány tagja esetében a Kormány nem gyakorol munkáltatói jogkört, azonban az álláshely nyilvántartás KSZDR-be integrálásával megvalósul a személyes adatok álláshelyhez rendelése, így a Miniszterelnöki Kormányiroda részére betekintési jog biztosítása szükséges.
+
+A 40. §-hoz
+
+A rendvédelmi szervnél foglalkoztatott munkavállalók tekintetében rögzíti a rendvédelmi szerv által vezetett munkaügyi nyilvántartással összefüggő adatkezelés szabályait, összhangban a Kit. szabályozásával, biztosítva az egységes nyilvántartási rendszer kialakítását.
+
+A 41-42. §-hoz
+
+Az Országgyűlési Őrségre és a polgári nemzetbiztonsági szolgálatokra vonatkozó eltérő szabályt tartalmazza. E szervek állományának adatai nem kerülnek feltöltésre a KSZDR-be, kizárólag alapnyilvántartást vezetnek.
+
+A 44. §-hoz
+
+A rendvédelmi igazgatási szolgálati jogviszonyban foglalkoztatottak 2021. évi 5 százalékos illetményfejlesztésére vonatkozóan szükséges az alsó és felső határokat meghatározó 12. melléklet újramegállapítása.
+
+A 45-46. §-hoz
+
+A rendelkezés alapvetően a Hszt. belső összefüggéseire tekintettel szükséges szövegcseréket és hatályon kívül helyezéseket végzi el.
+
+A Hszt. 265. § (4) bekezdésének módosítására vonatkozó javaslat egy új lehetőséget teremt a szolgálati nyugdíjasok rendfokozatban történő előléptetésében, a hatályos szabályozás ezen személyi kör előléptetését egyszeri lehetőségként határozza meg, azonban bizonyos meghatározott esetekben indokolttá válhat a szolgálati nyugdíjas rendfokozatban történő előléptetését második alkalommal is lehetővé tenni.
+
+A 47-53. §-hoz
+
+A Kit. adatkezelésre vonatkozó egyes rendelkezéseit módosítja.
+
+A Kit. szerinti közszolgálati személyügyi nyilvántartás fogalma (alapnyilvántartás és központi közszolgálati nyilvántartás) megszűnik, a jövőben csak a közszolgálati alapnyilvántartás jogintézménye marad fenn, ezzel egyidejűleg egy utaló szabály épül be a Kormányzati Személyügyi Döntéstámogató Rendszer vonatkozásában.
+
+A közszolgálati alapnyilvántartást elektronikus rendszerben kell vezetni, amely a kormányzati igazgatási szervek körében - kivéve a kormányhivatalokat - az új személyügyi alapnyilvántartó és ügyviteli rendszer lesz. Az új személyügyi alapnyilvántartó és ügyviteli rendszer a központosított illetményszámfejtést végző rendszerrel kapcsolatban áll.
+
+Az alapnyilvántartás vezetésének célja tekintetében nincs változás, alapvetően a munkáltatói intézkedések előkészítéséhez, a jogviszonnyal összefüggő jogok gyakorlásához és kötelezettségek teljesítésének biztosításához szükséges az adatkezelés, összhangban a valamennyi foglalkoztatási jogviszonyra vonatkozó szabályozással. Új rendelkezés, hogy az alapnyilvántartási adatok, továbbá a szervezeti adatok feltöltésre kerülnek a KSZDR-be.
+
+A Kit. speciális jogintézménye az Álláshely Nyilvántartó Rendszer (a továbbiakban: ÁNYR), amely a KSZDR egyik rendszerelemeként kerül meghatározásra. A jogintézmény szabályozása ugyanakkor megmarad a Kit.-ben. Az ÁNYR adatkezelője továbbra is a Kit.-ben megjelölt szerv lesz.
+
+Az ÁNYR vonatkozásában szükséges egy kiegészítő rendelkezés beépítése a kormányzati igazgatási szervhez nemzetbiztonsági szolgálatoktól hivatásos szolgálati jogviszonyból vagy katonai szolgálati jogviszonyból vezényelt, kirendelt személyek esetében. Ezen kiegészítő szabály rögzíti, hogy e személyi kör esetében a betöltött álláshely vonatkozásában személyazonosító adatok helyett álnevesítéssel személyhez kötötten egyedileg kialakított kódot kell szerepeltetni az álláshely-nyilvántartásban. Ezen kód a vezénylő vagy kirendelő nemzetbiztonsági szolgálatra utalással jelöli meg azt is, hogy az adott álláshely mely nemzetbiztonsági szolgálat állományába tartozó személlyel kerül betöltésre.
+
+A 54-56. §-hoz
+
+A COVID-19 okozta járványhelyzetben kiemelkedő fertőzésveszélyt jelentenek az ország határain kívülről, ellenőrizetlen körülmények között érkezők. A tranzitzóna alkalmasnak bizonyult arra, hogy meggátolja a fertőzés terjedését, azáltal, hogy onnan Magyarország területére nem lehetett belépni. Az EU Bíróság 2020. május 14-én C 924/19. PPU. és C 925/19. PPU. számú ügyekben hozott ítélete alapján a tranzitzóna kiürítése vált szükségessé. A járvány elterjedésének további akadályozása érdekében egy új eljárásrend került bevezetésre az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében elrendelt veszélyhelyzet során a menekültügyi eljárás szabályairól szóló 233/2020. (V. 26.) Korm. rendelettel, amely eljárásrend a veszélyhelyzet megszüntetését követően is, 2020. december 31-éig meghosszabbításra került. A járvány elleni sikeres védekezés elősegítése érdekében a bevezetett szabályozást továbbra is indokolt fenntartani 2021. június 30-áig.
+
+A 57. §-hoz
+
+A javaslat a KSZDR-re való hivatkozás beépítését és azzal összefüggésben szükséges belső hivatkozások módosítását végzi el.

@@ -1,0 +1,69 @@
+2020. évi XXIV. törvény végső előterjesztői indokolása
+
+az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az e törvényjavaslathoz tartozó indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában kerül közzétételre.
+
+A törvénymódosítás a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (a továbbiakban: AVMS irányelv) a változó piaci körülményekre tekintettel való módosításáról szóló 2018. november 14-i, 2018/1808/EU európai parlamenti és tanácsi irányelv átültetését szolgálja. Az irányelv amellett, hogy a folyamatosan változó digitális világ igényeihez igyekezett igazítani a már lassan 10 éve meglévő szabályozást, egy viszonylag új területet is a szabályozás hatálya alá vont. Az AVMS irányelv tárgyi hatályát az európai jogalkotó kiterjesztette a videómegosztóplatform- szolgáltatásokra is, elismerve az online szolgáltatások médiatartalom-fogyasztásban betöltött egyre növekvő szerepét, és kifejezve azt az ebből jogosan fakadó igényt, hogy egyes közvetítő szolgáltatók a korábbi passzív szerepüktől eltávolodva viseljenek bizonyos fokú felelősséget harmadik személyek tartalmaiért.
+
+A módosított AVMS irányelv a videómegosztóplatform-szolgáltatásokat önálló szolgáltatási kategóriaként definiálja, egyértelműen és világosan elhatárolva a médiaszolgáltatásoktól és az egyéb tartalomszolgáltatásoktól az alábbi ismérvek mentén. A szolgáltatás jelentős mennyiségű olyan műsorszám, vagy a felhasználó által előállított videó tárolását jelenti, amelyért a videomegosztóplatform szolgáltatója nem tartozik szerkesztői felelősséggel, továbbá a tárolt tartalom rendszerezését a szolgáltatás nyújtója végzi, például automatikus úton vagy algoritmussal, különösen megjelenítés, megjelölés és sorba rendezés révén, valamint a szolgáltatásnak, illetve a szolgáltatás valamely elkülöníthető részének elsődleges célja az, hogy a videómegosztóplatform-szolgáltató tárhelyén tárolt műsorszámokat, illetve a felhasználók által előállított videókat eljuttassa a nyilvánossághoz tájékoztatás, szórakoztatás vagy oktatás céljából elektronikus hírközlő hálózaton keresztül.
+
+Az AVMS irányelv értelmében, továbbá a fenti ismérvek alapján a videómegosztóplatform-szolgáltató médiatartalmat megosztó, azt továbbító közvetítő szolgáltatónak, azon belül is tárhelyszolgáltatónak minősül, mivel kizárólag a szerverére feltöltött műsorszámok, videók tárolását és továbbítását végzi.
+
+Mindezekre tekintettel a videómegosztóplatform-szolgáltatókra vonatkozó szabályokat el kell különíteni a médiaszolgáltatókra, felhasználókra és a szolgáltatásban megjelenő médiatartalmakra vonatkozó szabályozástól.
+
+A videómegosztóplatform-szolgáltatókra, mint információs társadalommal összefüggő szolgáltatást nyújtó közvetítő szolgáltatókra az AVMS irányelvben megállapított rendelkezések a közvetítő szolgáltatókra vonatkozó szabályozással megegyezően, az elektronikus kereskedelmi szolgáltatásokról, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben kerülnek elhelyezésre. ezáltal az azonos típusú szolgáltatókra és szolgáltatásokra vonatkozó rendelkezések egy jogszabályban szerepelnek, amely által elkerülhető a párhuzamos szabályozás kialakítása, és fennmarad a jogrendszer koherenciája.
+
+A törvény a szabályozás tárgyi és személyi hatályát, illetve a joghatósági vizsgálat alapját képező szempontrendszert az AVMS irányelvben rögzített feltételek szerint határozza meg. A Magyarország joghatósága alá tartozó videómegosztóplatform-szolgáltatók a videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot nyilvántartásba vétel céljából kötelesek bejelenteni a Nemzeti Média- és Hírközlési Hatósághoz (a továbbiakban: NMHH). A jogszabály meghatározza a nyilvántartásba vétel garanciális szabályait, továbbá azt, hogy a nyilvántartásba vétel nem feltétele a szolgáltatás nyújtásának, vagyis nem a nyilvántartásba vétel ténye keletkezteti a szolgáltatás nyújtási jogosultságot.
+
+Az uniós szabályozás alapján a videómegosztóplatform-szolgáltatók a hagyományos médiaszolgáltatóktól eltérően nem tartoznak szerkesztői felelősséggel az elérhetővé tett tartalom vonatkozásában. míg a médiaszolgáltató a műsorszámok kiválasztása és összeállítása felett tényleges ellenőrzést gyakorol, addig a videómegosztóplatform- szolgáltatónak a tartalom szervezésén, rendszerezésén túl a tényleges tartalomra nincs befolyása. A szabályozás a videómegosztóplatform-szolgáltatók tekintetében műsortartalmi, műsorszerkezeti követelményeket ezért csak a legszűkebb körben állapít meg, tehát a videómegosztóplatform-szolgáltatók nem a szerkesztői felelősség körében kell előzetes intézkedéseket tennie.
+
+Tartalmi követelményként rögzíti a törvény, hogy a videómegosztóplatform-szolgáltató által forgalmazott, értékesített, szervezett kereskedelmi közleménynek meg kell felelnie a médiatartalmakra vonatkozó legáltalánosabb, alkotmányos követelményeknek, tehát a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény 20. § (1)-(7) bekezdései és a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 24. §-a szerinti követelményeknek.
+
+Amennyiben a videómegosztóplatform-szolgáltatásban a nyilvánossághoz eljuttatott médiatartalom a kiskorúakra káros lehet, vagy ha nem felel meg a törvényben meghatározott alapvető, alkotmányos követelményeknek, akkor a videómegosztóplatform-szolgáltató megfelelő intézkedéseket köteles tenni. A jogszabály az uniós szabályozáshoz hasonlóan nem határozza meg konkrétan, hogy az egyes káros médiatartalmak esetében mi minősül megfelelő és hatékony intézkedésnek, hanem általános elvként rögzíti, hogy az intézkedéseknek és a hatékony műszaki megoldásoknak arányban kell állniuk a tartalom által okozható hátránnyal és ártalommal. A jogszabály rögzíti továbbá, hogy az intézkedés arányossága körében mely szempontokra kell figyelemmel lenni. Fontos továbbá, hogy az intézkedések és a hatékony műszaki megoldások nem vezethetnek előzetes ellenőrzési intézkedésekhez, vagy nem eredményezhetik a tartalom feltöltésének az Ekertv. által meg nem engedett szűrését.
+
+A kiskorúakra káros tartalmak esetében hatékony műszaki megoldásokat kell alkalmazni, így különösen hatékony életkor-ellenőrzés és szülői felügyeleti rendszert kell biztosítani. Az intézkedésekre és a hatékony műszaki megoldásokra vonatkozó legjobb gyakorlatokról az NMHH Hivatala ajánlást tehet közzé.
+
+A videómegosztóplatform-szolgáltató a felhasználók és a szolgáltatást igénybe vevők megfelelő tájékoztatása és a tartalomra vonatkozó követelmények érvényre juttatása érdekében köteles az általános szerződési feltételeibe foglalni az egyes médiatartalmakkal szembeni követelményeket, így különösen azt, hogy a videómegosztóplatformra feltöltött videónak, kereskedelmi közleménynek milyen tartalmi feltételeknek kell megfelelnie. Az általános szerződési feltételeknek tartalmaznia kell továbbá a felhasználók és a videómegosztóplatform-szolgáltató közötti, az egyes médiatartalmakkal szembeni intézkedések alkalmazásával kapcsolatos jogviták peren kívüli és bírósági rendezésére szolgáló igényérvényesítési lehetőségeket.
+
+A videómegosztóplatform-szolgáltató átlátható és felhasználóbarát módon köteles kialakítani a szolgáltatását, amelynek során a felhasználóknak lehetőségük van egyszerű módon megjelölni, bejelenteni a szolgáltatónak a kiskorúakra káros tartalmakat, vagy az általános szerződési feltételeikben is rögzített követelményeket megsértő tartalmakat. A videómegosztóplatform-szolgáltató köteles olyan átlátható és felhasználóbarát mechanizmust, funkciót biztosítani, amely megfelelő tájékoztatást ad az igénybe vevőnek az olyan tartalmakról, amelyek károsíthatják a kiskorúak fizikai, szellemi, lelki vagy erkölcsi fejlődését.
+
+Az Ekertv. a fentieken túl a hatékony jogérvényesülés előmozdítása érdekében komplex szabályozással megteremti az ön- és társszabályozás feltételrendszerét a videómegosztóplatform-szolgáltatásokkal összefüggésben. Az Ekertv.-ben szabályozott rendszer sajátossága, hogy a videómegosztóplatform-szolgáltatók szakmai önszabályozó szervezeteit és alternatív vitarendező fórumait a szabályozás, megosztott jogérvényesítés keretébe vonja. Az önszabályozó szervezet számára e körben a lehető legerősebb felhatalmazást biztosít az Ekertv., mégpedig azt, hogy együttműködési tartalmú közigazgatási szerződésben az NMHH Hivatala felhatalmazhatja az önszabályozó szervezetet arra, hogy hatósági hatáskörök tekintetében, de nem hatósági jogkörrel az NMHH Hivatala hatáskörgyakorlása helyett önigazgatási rendben eljárjon tagjai és mindazok irányában, akik az adott társszabályozási eljárásnak önként alávetik magukat. A közigazgatási szerződés nem hatósági hatáskörként szabályozott, de az Ekertv. szabályaival összhangban álló feladatok együttműködésben történő ellátása érdekében is megköthető. A közigazgatási szerződésben szereplő hatósági ügyekben tehát a közhatalmi, hatósági jogalkalmazás „visszavonul”, és teret enged az önigazgatásnak, a „társszabályozásnak”. ezáltal a szakmai önszabályozó szervezetek a jogérvényesülés folyamatában és az Ekertv. által meghatározott célok és elvek mentén a joggyakorlat kialakításában jelentős szerephez jutnak.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény kiegészíti az Ekertv. hatályára vonatkozó rendelkezéséket a videómegosztóplatform-szolgáltatókkal összefüggésben, e körben az AVMS irányelvvel összhangban meghatározza a magyar joghatóságra vonatkozó szabályokat.
+
+A 2. §-hoz
+
+Az Ekertv. értelmező rendelkezéseinek kiegészítése a videómegosztóplatform-szolgáltatásokkal összefüggésben.
+
+A 3. §-hoz
+
+A 3. § megállapítja a bejelentési kötelezettségre vonatkozó szabályokat, valamint keretszabályozási jelleggel meghatározza a videómegosztóplatform-szolgáltatók által teljesítendő kötelezettségeket, meghozandó intézkedéseket. ezek ellenőrzésére - a társzabályozás keretében, közhatalmi, hatósági oldalról - az NMHH Hivatalát jelöli ki, és meghatározza a jogsértés esetén alkalmazható jogkövetkezmények típusait és azok mértékét. ez a szakasz tartalmazza továbbá az ön- és társzabályozási rendszer részletes szabályait.
+
+A 4. §-hoz
+
+Átmeneti rendelkezés, ami megfelelő felkészülési időt biztosít a szabályozás alanyainak.
+
+Az 5. §-hoz
+
+A módosítás a kéretlen elektronikus hirdetéssel kapcsolatos felügyeleti eljárás és a videómegosztóplatform- szolgáltatásokkal kapcsolatos hatósági eljárás háttérszabályozásaként alkalmazni rendeli az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (Ákr.) rendelkezéseit.
+
+A 6. §-hoz
+
+Módosító rendelkezés jogharmonizációs záradék beépítése érdekében.
+
+-----STARTING---POINT---VEGE---
+
+A 7. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 8. §-hoz
+
+Jogharmonizációs záradék.

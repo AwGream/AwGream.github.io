@@ -1,0 +1,363 @@
+2021. évi XLIII. törvény végső előterjesztői indokolása
+
+a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvény megalkotásával Magyarország uniós kötelezettségének tesz eleget azzal, hogy biztosítja az EU 4. pénzmosás elleni irányelv, valamint az azt módosító, 2018. június 19-én megjelent 5. pénzmosás elleni irányelv (a módosításokkal egységes szerkezetbe foglalt uniós jogszabályok a továbbiakban együtt: Irányelv) tényleges tulajdonosi nyilvántartás, valamint a bankszámla- és széfnyilvántartás tagállamok számára előírt létrehozására és működtetésére vonatkozó rendelkezéseinek hazai jogba történő átültetését.
+
+Az Irányelv nyomán pontosításra kerültek a tényleges tulajdonlásra, valamint a központi tényleges tulajdonosi adatbázisra vonatkozó kötelezettségek. Minden tagállamnak létre kell hoznia a tényleges tulajdonosi adatok központi nyilvántartását valamennyi - az adott tagállamban bejegyzett, illetve nyilvántartott - gazdasági és non-profit szervezetről. Az Irányelv követelményként írja elő, hogy a nyilvántartásban tárolt információ megfelelő, pontos és időszerű legyen.
+
+Szintén irányelvi követelmény, hogy az illetékes hatóságok (pénzmosás elleni felügyeletek, nyomozóhatóságok, az ügyészség és a bíróság) és a pénzügyi információs egységek minden esetben korlátozás nélkül férjenek hozzá a tényleges tulajdonosra vonatkozó információkhoz. A kötelezett szolgáltatók hozzáférését az általuk végzendő ügyfél-átvilágítás érdekében kell biztosítani. A lakosság bármely tagja számára pedig minimálisan a tényleges tulajdonos nevére, születési évére és hónapjára, a tartózkodási helye szerinti ország nevére és a tényleges tulajdonos állampolgárságára, valamint a tényleges tulajdonosi érdekeltség jellegére és mértékére vonatkozó adatokhoz való hozzáférés biztosítását írja elő az Irányelv. Bizalmi vagyonkezelési jogviszony esetében a tényleges tulajdonosi információkhoz való hozzáférés feltétele a jogos érdek igazolása.
+
+A Magyarországon működő nyilvántartások (pl. cégnyilvántartás, civil szervezetek bírósági nyilvántartása) jelenleg nem tartalmazzák a tényleges tulajdonosi adatokat. Az előterjesztésben javasolt megoldás kialakítását megelőzően felvetődött egy olyan modell, amely a meglevő nyilvántartások kibővítésével, illetve a már meglevő eljárási szabályok és csatornák felhasználásával biztosította volna az adatbázisok működését. Ugyanakkor a középtávú kormányzati célok között szerepel a Jogi Személyek Egységes Nyilvántartásának felállítása, amely 2022-2024-ben kezdené meg működését, és venné át a jelenleg szétaprózott formában működő nyilvántartások szerepét - e fejlesztésre tekintettel született meg az a döntés, hogy a pénzmosás elleni központi adatbázisok felállítása miatt ne kelljen fejleszteni a meglevő, de belátható időn belül leváltásra kerülő rendszereken.
+
+Az előterjesztésben bemutatott működési modell a lehető legnagyobb mértékben épít a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) alapján már jelenleg is működő keretekre és fennálló kötelezettségekre, így széles körben használja fel az annak alapján az érintett szereplőknél már rendelkezésre álló adatokat. Ennek megfelelően a tényleges tulajdonosi adatok központi nyilvántartásának működése a fizetési számlát vezető pénzforgalmi szolgáltatók adatszolgáltatásán alapul, csökkentve ezzel az adatszolgáltatók adminisztratív terhét. Az irányelvben meghatározott nyilvántartások felállításának és működtetésének felelőse Magyarországon a Nemzeti Adó- és Vámhivatal, mint nyilvántartó hatóság. A nyilvántartások működtetését a NAV nem adóhatósági feladatkörének keretében, sem pedig hatósági tevékenységként, hanem szolgáltatási jellegű feladatként végzi.
+
+A tényleges tulajdonosi nyilvántartásba adatszolgáltatásra kötelezett minden, Magyarországon bejegyzett, illetve nyilvántartásba vett gazdálkodó szervezet, civil szervezet; a bizalmi vagyonkezelési jogviszony esetén a bizalmi vagyonkezelő; valamint azok a részben állami tulajdonú szervezetek, amelyek legalább 25% nem állami tulajdoni hányaddal rendelkeznek.
+
+Az említett adatszolgáltatásra kötelezett szervezetek tényleges tulajdonosi adatait a fizetési számlát vezető pénzintézetek továbbítják a központi nyilvántartás felé mind a nyilvántartás üzembe helyezéséhez szükséges, első körben történő adatszolgáltatás keretében, mind pedig az azt követő rendes működés során. A tényleges tulajdonosi adatokat az adatszolgáltatásra kötelezett szervezet nyilvántartási száma segítségével a NAV nyilvántartó szervként összesíti, és a szervezethez egyedi nyilvántartási azonosítót rendel.
+
+Ha a Pmt. szerinti szolgáltatók (a fizetési számlát vezető pénzforgalmi szolgáltatók kivételével) az ügyfél-átvilágítás keretében vagy azt követően a tényleges tulajdonosi nyilvántartásban tárolt adatoktól eltérő adatot rögzít, ezt jelzi a nyilvántartást vezető szervnek és közli az általa rögzített adatot. Az illetékes felügyeleti és nyomozóhatóságok, valamint az ügyészség és a bíróság is közölheti az általa megismert adatot a hatósággal, ha eltérést észlel az általa ismert és a tényleges tulajdonosi nyilvántartásban rögzített tényleges tulajdonosi adatok között.
+
+A szolgáltatói, illetve hatósági, ügyészségi, bírósági és a felügyeletet ellátó szerv által közölt eltérésjelzést a központi nyilvántartás - a bejelentő szervezet feltüntetésével - rögzíti, egyúttal csökkenti az adatszolgáltató tényleges tulajdonosi adatának megbízhatósági indexét, amelyre vonatkozóan a jelzés érkezett. E jelzés alapján a nyilvántartó szerv tájékoztatja az érintett adatszolgáltatót, és felkínálja az adatmódosítás, illetve adat-megerősítés lehetőségét, illetve - jelentősebb fokú csökkenés esetében - felszólítja az adatmódosításra vagy az adat megerősítésére, 60 napos határidő megadásával. A 60 napos határidő eredménytelen elteltét követően az adott szervezettel szemben a törvény alapján, külön hatósági intézkedés nélkül beállnak a jogkövetkezmények.
+
+Az Irányelv alapján szükséges továbbá kialakítani egy központi nyilvántartást vagy központi elektronikus adat-visszanyerési rendszert, amely segítségével időben azonosíthatók a hitelintézetek által az adott tagállam területén kezelt, fizetési számlával, illetve széffel rendelkező vagy ezek felett ellenőrzést gyakorló természetes vagy jogi személyek (a bankszámlák, illetve a széfszolgáltatások központi nyilvántartása).
+
+Az előterjesztés szerint javasolt modell alapján a központi bankszámla- és széfnyilvántartás esetében az e szolgáltatást nyújtó pénzintézetek, illetve széfszolgáltatók küldik meg a szükséges adatokat a nyilvántartást vezető szerv részére. A bűnüldözési szervek hatékony fellépéséhez megfelelő, naprakész adatok rendelkezésre állása érdekében az adatváltozásokról rövid határidővel szükséges tájékoztatást adni.
+
+A fentieken túlmenően az előterjesztés biztosítja a Pmt. ügyfél-átvilágításra vonatkozó egyes rendelkezései módosítását, tekintettel arra, hogy gyakorlati tapasztalatok alapján szükségessé vált az ügyfél-átvilágításra vonatkozó rendelkezések felülvizsgálata: az előterjesztés elsősorban az egyszerűsített ügyfél-átvilágításra vonatkozó rendelkezések rugalmasabbá tételére tesz javaslatot, csökkentve az adatszolgáltatók adminisztratív terheit, egyúttal biztosítva a hatékony végrehajtást.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1-2. §-hoz
+
+Az Irányelv alapján az EU egyes tagállamainak területén bejegyzett társaságok és egyéb jogi entitások kötelesek a tényleges tulajdonosaikról megfelelő, pontos és naprakész információkat beszerezni és nyilvántartani, valamint ezen információkat kötelesek a szolgáltatók részére átadni az ügyfél-átvilágítás során. A tagállamok kötelesek továbbá arra, hogy ezen tényleges tulajdonosi információkat egy központi nyilvántartásban tárolják. Az Irányelv kiterjeszti ezen kötelezettséget a bizalmi vagyonkezelési jogviszonyokra is.
+
+Az Irányelv rendelkezéseinek megfelelően a törvényjavaslat meghatározza, hogy mely szervezetek minősülnek adatszolgáltatásra kötelezettnek a tényleges tulajdonosi nyilvántartásba, amelyre tekintettel a törvényjavaslat hatálya kiterjed a Magyarország területén nyilvántartásba vett a (polgári perrendtartásról szóló törvény szerinti) gazdálkodó szervezetek jelentős részére, meghatározott civil szervezetekre, a részben állami tulajdonú szervezetek (az állam, a helyi önkormányzat, a költségvetési szerv, jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy) közül a legalább 25%-os nem állami tulajdoni hányadúakra, valamint bizalmi vagyonkezelési jogviszony esetén a bizalmi vagyonkezelőre.
+
+Fentieknek megfelelően a törvényjavaslat hatálya kiterjed a Magyarország területén nyilvántartásba vett következő szervezetekre: betéti társaság, közkereseti társaság, korlátolt felelősségű társaság, részvénytársaság, európai részvénytársaság, egyesülés, európai gazdasági egyesülés, európai területi társulás, szövetkezet, lakásszövetkezet, európai szövetkezet, vízgazdálkodási társulat, erdőbirtokossági társulat, a külföldi székhelyű vállalat magyarországi fióktelepe, állami vállalat, egyéb állami gazdálkodó szerv, egyes jogi személyek vállalata, közös vállalat, végrehajtói iroda, közjegyzői iroda, ügyvédi iroda, szabadalmi ügyvivői iroda, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, egyéni cég, egyesület, alapítvány, köztestület, valamint a jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy.
+
+A törvényjavaslat bizonyos szervezetek hatály alá tartozása vonatkozásában speciális (kivételi) rendelkezéseket határoz meg, a Pmt. tényleges tulajdonos fogalmával és azonosításával kapcsolatos kötelezettségeivel való összhang megteremtése érdekében.
+
+Nem tartozik a törvény hatálya alá részvénytársaságok és európai részvénytársaságok közül a szabályozott piacon jegyzett azon részvénytársaság és európai részvénytársaság, amelyre a közösségi jogi szabályozással vagy azzal egyenértékű nemzetközi előírásokkal összhangban lévő közzétételi követelmények vonatkoznak; az egyesületek közül a párt, a szakszervezet és a kölcsönös biztosító egyesület; az alapítványok közül a közalapítvány és a pártalapítvány.
+
+Az állami vállalat és a jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy pedig kizárólag abban az esetben tartozik a törvényjavaslat hatálya alá, amennyiben annak állami vagy önkormányzati tulajdoni hányada közvetlenül vagy közvetve nem éri el a 75%-ot.
+
+A törvényjavaslat hatálya a fentieken túlmenően kiterjed a bizalmi vagyonkezelési jogviszonyokra is, amennyiben a bizalmi vagyonkezelő: bizalmi vagyonkezelői tevékenységét Magyarország területén végzi; bizalmi vagyonkezelői tevékenységét nem Magyarország területén vagy az Európai Unió más tagállamában végzi, de a bizalmi vagyonkezelési jogviszony keretében Magyarország területén üzleti kapcsolatot létesít vagy ingatlant szerez; továbbá a felsoroltaktól eltérő jogviszony keretében végez bizalmi vagyonkezelői tevékenységet Magyarország területén, és e jogviszony keretében Magyarország területén üzleti kapcsolatot létesít vagy ingatlant szerez. A bizalmi vagyonkezelési jogviszonyok esetén a bizalmi vagyonkezelő köteles adatszolgáltatóként a törvényjavaslat szerinti kötelezettségekből adódó feladatok teljesítésére.
+
+A törvényjavaslat hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag a felügyeleti tevékenysége, továbbá azon rendelkezések tekintetében terjed ki, ahol a törvényjavaslat az MNB-t kifejezetten nevesíti (ezen rendelkezések a törvényjavaslat központi bankszámla-nyilvántartásra vonatkozó rendelkezései, az MNB által vezetett fizetési számlák kapcsán fennálló adatközlési kötelezettségére tekintettel).
+
+A törvényjavaslat alapján a tényleges tulajdonosi nyilvántartás felé történő adatszolgáltatás a fizetési számlát vezető pénzforgalmi szolgáltatókon (számlavezetőkön) keresztül történik, a Pmt. szerinti ügyfél-átvilágítás, valamint adatmódosulás miatti frissítés alapján. A számlavezetők felé történő adatszolgáltatás azonban az adatszolgáltatók kötelezettsége és felelőssége.
+
+A tényleges tulajdonos fogalmát a törvényjavaslat az értelmező rendelkezések között definiálja és a fogalom a Pmt. tényleges tulajdonos fogalmára tartalmaz visszautalást (a természetes személy ügyfél tényleges tulajdonosára vonatkozó rendelkezés kivételével).
+
+A törvényjavaslat alapján az adatszolgáltatási háttér megteremtéséhez és működtetéséhez kapcsolódó feladatokat, azaz a tényleges tulajdonosi nyilvántartás, valamint a központi bankszámla- és széfnyilvántartás felállításának és működtetésének feladatait a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) látja el, nem adóhatósági feladatkörének keretében. Erre tekintettel a NAV a központi nyilvántartásokat nem hatósági nyilvántartásként vezeti.
+
+A 3. §-hoz
+
+A törvényjavaslat Értelmező rendelkezései a törvényjavaslat alkalmazása szempontjából legfontosabb kategóriák, fogalmak magyarázatát tartalmazzák (így többek között tényleges tulajdonosi nyilvántartás, a központi bankszámla- és széfnyilvántartás, a számlavezető, a tényleges tulajdonos, valamint a TT index meghatározását).
+
+A 4. §-hoz
+
+A törvényjavaslat alapján a tényleges tulajdonosi nyilvántartás az adatszolgáltatók következő adatait tartalmazza: nemzeti nyilvántartási száma; neve, rövidített neve; székhelye, természetes személy bizalmi vagyonkezelő esetén lakcíme (ennek hiányában tartózkodási helye); adószáma (ha ilyennel rendelkezik); cégjegyzékszáma vagy egyéb nyilvántartási száma; európai egyedi azonosítója (ha ilyennel rendelkezik).
+
+A tényleges tulajdonosi nyilvántartás ezen túlmenően tartalmazza az adatszolgáltató tényleges tulajdonosának (vagy tulajdonosainak) következő adatait is: családi és utóneve; születési családi és utóneve, állampolgársága; születési helye, ideje; lakcíme (ennek hiányában tartózkodási helye); a tulajdonosi érdekeltség jellege és mértéke (szavazati jog vagy tulajdoni hányad és ennek százalékos aránya; meghatározó befolyás; az alapítvány esetében meghatározott tényleges tulajdonosi kategóriák; a bizalmi vagyonkezelési jogviszonyra meghatározott tényleges tulajdonosi kategóriák; vezető tisztségviselő.
+
+A nemzeti nyilvántartási szám a nyilvántartó szerv által az adatszolgáltató mellé rendelt azonosító szám. Az adatszolgáltató és az adatszolgáltató tényleges tulajdonosának meghatározott adatai pedig a Pmt. alapján elvégzett ügyfél-átvilágítási intézkedések (a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél azonosítása és személyazonosságának igazoló ellenőrzése a Pmt. 7. §-a alapján, valamint a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosának azonosítása és személyazonosságának igazoló ellenőrzése a Pmt. 9. §-a alapján) végrehajtása során kerülnek a számlavezető szolgáltató által rögzítésre.
+
+A törvényjavaslat rögzíti, hogy a tényleges tulajdonosi nyilvántartás nem minősül közhiteles hatósági nyilvántartásnak.
+
+Az 5-6. §-hoz
+
+Az Irányelv alapján az EU egyes tagállamainak területén bejegyzett gazdasági társaságok és egyéb jogi entitások kötelesek a tényleges tulajdonosaikról megfelelő, pontos és naprakész információkat beszerezni és nyilvántartani, valamint ezen információkat kötelesek a szolgáltatók részére átadni az ügyfél-átvilágítás során. Ezen túlmenően a gazdasági társaságok és egyéb jogi entitások tényleges tulajdonosai kötelesek a gazdasági társaságok és egyéb jogi entitások rendelkezésére bocsátani valamennyi olyan információt, amelyekre ezen kötelezettségnek való megfelelés érdekében szükségük van.
+
+Az Irányelv alapján az EU egyes tagállamainak területén működő bizalmi vagyonkezelők is kötelesek a tényleges tulajdonosaikról megfelelő, pontos és naprakész információkat beszerezni és nyilvántartani. Bizalmi vagyonkezelők esetében e tényleges tulajdonosi információk kiterjednek a vagyonrendelő(k)re, a vagyonkezelő(k)re, a vagyonkezelést ellenőrző személyekre, a kedvezményezettre vagy a kedvezményezettek csoportjára, valamint a kezelt vagyon fölött tényleges irányítást gyakorló más természetes személy adataira is.
+
+Erre tekintettel a törvényjavaslat kimondja, hogy az adatszolgáltatók kötelesek nyilvántartani a tényleges tulajdonosaikra vonatkozó [a tényleges tulajdonosi nyilvántartásban rögzítendő, a törvényjavaslat 4. § (1) bekezdés g) pontjában meghatározott] adatokat, valamint kötelesek gondoskodni ezen adatok naprakészen tartásáról.
+
+Ezen kötelezettség teljesítése érdekében a törvényjavaslat alapján az adatszolgáltató köteles gondoskodni arról is, hogy tényleges tulajdonosa ezen [a tényleges tulajdonosi nyilvántartásban rögzítendő, a törvényjavaslat 4. § (1) bekezdés g) pontjában meghatározott] adatok megváltozása esetén tizenöt napon belül tájékoztassa őt a megváltozott adatokról.
+
+A 7. §-hoz
+
+Az Irányelv alapján a tagállamok kötelesek arra, hogy a megfelelő, pontos és időszerű tényleges tulajdonosi információkat egy központi nyilvántartásban tárolják. Az Irányelv kiterjeszti ezen kötelezettséget a bizalmi vagyonkezelési jogviszonyokra is.
+
+Az irányelvi kötelezettségek teljesítése érdekében a törvényjavaslat megállapítja a tényleges tulajdonosi nyilvántartás első alkalommal történő feltöltésének (ősfeltöltésének), valamint ezt követő rendes adatfeltöltésének (adatmódosításának) végrehajtásához szükséges rendelkezéseket. A tényleges tulajdonosi nyilvántartás első alkalommal történő feltöltését (ősfeltöltését) biztosító részletszabályok a törvényjavaslat későbbi szakaszában (az Átmeneti rendelkezések között) kerülnek meghatározásra, a 7. § a rendes adatfeltöltésről (adatmódosításról) rendelkezik.
+
+A törvényjavaslat alapján az adatfeltöltés (adatmódosítás) a fizetési számlát vezető pénzforgalmi szolgáltatókon (számlavezetőkön) keresztül történik, a Pmt. szerinti ügyfél-átvilágítás, valamint adatmódosulás miatti frissítés alapján. A számlavezetők felé történő adatszolgáltatás azonban az adatszolgáltatók kötelezettsége és felelőssége.
+
+A törvényjavaslat alapján a fizetési számlát vezető pénzforgalmi szolgáltató (számlavezető) a fizetési számla vezetéséhez kapcsolódóan az adatszolgáltató vonatkozásában a Pmt. alapján az ügyfél-átvilágítás keretében rögzített tényleges tulajdonosi adatokat továbbítja a nyilvántartó szervhez. A számlavezető az ügyfél-átvilágítás keretében a Pmt. 9. §-a alapján köteles a tényleges tulajdonost azonosítani (alapesetben az adatszolgáltató által adott nyilatkozat alapján) és a személyazonosság igazoló ellenőrzését elvégezni. A Pmt. 12. § (3) bekezdése alapján pedig az adatszolgáltató köteles értesíteni a számlavezetőt az adatokban bekövetkezett változásról 5 munkanapon belül.
+
+A számlavezető a nyilvántartásában rendelkezésre álló tényleges tulajdonosi adatokat, valamint az egyes adatok rögzítésének dátumát összesítetten küldi meg a nyilvántartó szervnek, minden naptári hónap utolsó napját követő 5 napon belül.
+
+A törvényjavaslat rendelkezik arról, hogy a tényleges tulajdonosi nyilvántartásban a számlavezető által végzett adattovábbítás alapján rögzített tényleges tulajdonosi adatok TT indexe 10 pont. (A TT index eltérésjelzések alapján történő módosítására és ennek jogkövetkezményeire vonatkozó részletszabályokról a törvényjavaslat a későbbi szakaszaiban rendelkezik.)
+
+A törvényjavaslat alapján a számlavezetőt jóhiszeműség esetén abban az esetben sem terheli polgári jogi vagy büntetőjogi felelősség a nyilvántartó szerv felé történő adattovábbítás vonatkozásában, ha az adatszolgáltató tényleges tulajdonosi adatai „bizonytalan” vagy megbízhatatlan minősítést kapnak, vagy ha az adatszolgáltató vonatkozásában jogkövetkezmények kerülnek alkalmazásra.
+
+A törvényjavaslat az adatvédelmi követelményekre tekintettel rendelkezik az adatok rögzítésének és megőrzésének szabályairól a tényleges tulajdonosi nyilvántartás esetében. A törvényjavaslat rögzíti, hogy a nyilvántartó szerv mely adatok rögzítésére köteles és jogosult: a nyilvántartó szerv rögzíti a tényleges tulajdonosi nyilvántartásban a számlavezető által továbbított tényleges tulajdonosi adatokat és azok változását, valamint az adatbenyújtás és az adatváltoztatás időpontját. A nyilvántartó szerv egy adott adatszolgáltatóról érkező több adatszolgáltatásból kizárólag azokat az adatokat jeleníti meg aktuálisként, amelyeket a számlavezető későbbi időpontban rögzített (azaz amelyek a legkésőbbi adatrögzítési időponthoz köthetőek). Ezen rendelkezés alapján tehát a központi adatbázisok az első alkalommal történő feltöltéstől (ősfeltöltéstől) kezdve minden adatot és adatváltozást tárolnak, az adatváltozás időpontjának rögzítésével.
+
+A törvényjavaslat alapján a nyilvántartó szerv az adatszolgáltatónak a tényleges tulajdonosi nyilvántartásban tárolt adatait az adatszolgáltató jogutód nélküli megszűnésétől számított 8 évig köteles megőrizni. (Mindez összhangban áll a Pmt. 56-57. §-ában a szolgáltatók számára meghatározott Pmt. szerinti kötelezettségek teljesítésével, így többek között az ügyfél-átvilágítással, illetve az üzleti kapcsolat létesítésével összefüggésben keletkezett adatok megőrzésére előírt határidővel.)
+
+A 8-9. §-hoz
+
+Az Irányelv értelmében a felállított központi adatbázis tartalmához az illetékes hatóságok és a pénzügyi információs egységek számára korlátozás nélküli hozzáférés biztosítása szükséges, míg a szolgáltatók hozzáférését az ügyfél-átvilágítás keretében szükséges biztosítani. Harmadik személyek pedig alapesetben kizárólag meghatározott (a tényleges tulajdonos nevére, születési évére és hónapjára, a tartózkodási helye szerinti ország nevére, állampolgárságára, valamint a tényleges tulajdonosi érdekeltség jellegére és mértékére vonatkozó) adatokhoz férhetnek hozzá.
+
+A bizalmi vagyonkezelőkre vonatkozó információk esetében pedig az Irányelv harmadik személyeknek kizárólag abban az esetben biztosít hozzáférést, ha bizonyítani tudják jogos érdeküket, vagy olyan bizalmi vagyonkezelési konstrukció tekintetében nyújtanak be kérelmet, amely gazdasági társaságban többségi befolyással rendelkezik. Ezen túlmenően fontos korlátozás ezen esetben is, hogy harmadik személyek alapesetben kizárólag meghatározott (a tényleges tulajdonos nevére, születési évére és hónapjára, a tartózkodási helye szerinti ország nevére, állampolgárságára, valamint a tényleges tulajdonosi érdekeltség jellegére és mértékére vonatkozó) adatokhoz férhetnek hozzá.
+
+Az Irányelv alapján a tagállamok a hozzáférést online regisztrációhoz és/vagy díjfizetéshez is köthetik. Biztosítani szükséges továbbá, hogy az adatbázisban szereplő információkat az illetékes hatóságok és a pénzügyi információs egységek időben és díjmentesen képesek legyenek továbbítani más tagállamok illetékes hatóságainak és pénzügyi információs egységeinek.
+
+Az Irányelv rendelkezéseinek való megfelelés érdekében a törvényjavaslat részletes rendelkezéseket tartalmaz a tényleges tulajdonosi nyilvántartásban tárolt adatokhoz való hozzáférés vonatkozásában.
+
+Az Irányelv rendelkezéseinek megfelelően a törvényjavaslat 8. §-a a tényleges tulajdonosi nyilvántartásban tárolt valamennyi adathoz korlátlan és azonnali hozzáférést biztosít [a Központi Kormányzati Szolgáltatás Busz (KKSZB) Központi Elektronikus Ügyintézési Szolgáltatás (KEÜSZ) igénybevételével]: a hatóságok [azaz a pénzügyi információs egységként működő hatóság (NAV Pénzmosás és Terrorizmusfinanszírozás Elleni Iroda), a nyomozó hatóság, a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a rendőrség terrorizmust elhárító szerve, továbbá az állami adó- és vámhatóság (NAV)], az ügyészség, a bíróság és a felügyeletet ellátó szervek részére, jogszabályban meghatározott feladataik ellátása érdekében. A hatóságok, az ügyészség, a bíróság és a felügyeletet ellátó szervek a hozzáférésért díj fizetésére nem kötelesek. A nyilvántartó szerv a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 40. § (1) bekezdésére tekintettel alakítja ki és működteti az információátadás rendszerét. A hatóságok, az ügyészség, a bíróság és a felügyeletet ellátó szervek a tényleges tulajdonosi nyilvántartás adatait jogosultak kiadni az EU tagállamok, illetve harmadik országok társhatóságainak, a törvényjavaslatban meghatározott adatvédelmi garanciák biztosítása mellett.
+
+A törvényjavaslat alapján a Pmt. hatálya alá tartozó szolgáltatók a Pmt. szerinti ügyfél-átvilágítási intézkedések végrehajtása érdekében hozzáféréssel rendelkeznek a tényleges tulajdonosi nyilvántartásban tárolt adatokhoz. A Pmt. hatálya alá tartozó szolgáltatók a hozzáférésért díj fizetésére nem kötelesek, tekintettel arra, hogy kötelesek a nyilvántartást figyelemmel kísérni, és a nyilvántartó szervvel közölni, ha eltérést észlelnek az általuk ismert és a tényleges tulajdonosi nyilvántartásban rögzített tényleges tulajdonosi adatok között, ezzel hozzájárulva a nyilvántartás adatminőségének javításához.
+
+Az Irányelv rendelkezéseinek megfelelően a szolgáltatók (a Pmt. 9. §-a alapján) az ügyfél-átvilágítási intézkedések végrehajtása (és ennek keretében a tényleges tulajdonos azonosítása és személyazonosságának igazoló ellenőrzése) során nem hagyatkozhatnak kizárólag a tényleges tulajdonosi nyilvántartás adataihoz történő hozzáférésre, azaz a tényleges tulajdonosi nyilvántartásból történő adatlekérdezés önmagában nem elegendő intézkedés a tényleges tulajdonos azonosítására, adatainak ellenőrzésére.
+
+Az adatszolgáltatók és a tényleges tulajdonosok a róluk, illetve tényleges tulajdonosaikról nyilvántartott adatokat, valamint az azok kapcsán érkezett eltérési jelzésekhez kapcsolódó adatokat megismerhetik.
+
+A törvényjavaslat rendelkezik arról, hogy harmadik személyek - az adatszolgáltató nevének vagy rövidített nevének megadásával - megismerhetik az adatszolgáltató tényleges tulajdonosának a tényleges tulajdonosi adatbázisban nyilvántartott adatait [azaz a törvényjavaslat 4. § (1) bekezdés g) pontjában meghatározott adatokat], egyedi adatszolgáltatási kérelmet nyújthatnak be ezen adatok megismerése érdekében. Harmadik személyek nem jogosultak azonban az adatszolgáltató tényleges tulajdonosi adatbázisban nyilvántartott egyéb adatai [azaz a törvényjavaslat 4. § (1) bekezdés a)-f) és h) pontjában meghatározott adatok] megismerésére.
+
+A törvényjavaslat alapján harmadik személy abban az esetben igényelhet adatot (egyedi adatszolgáltatás keretében vagy írásbeli kérelem benyújtásával) a bizalmi vagyonkezelési jogviszony tényleges tulajdonosi adataira [azaz a törvényjavaslat 4. § (1) bekezdés g) pontjában meghatározott adatokra] vonatkozóan, ha az adat felhasználásának célját és az adat megismeréséhez fűződő (pénzmosás és terrorizmus finanszírozás elleni küzdelemhez kapcsolódó) jogos érdekét okirattal igazolja. A törvényjavaslat példálózó jelleggel felsorolja azokat az eseteket, amelyeknél az adatigénylő jogos érdeke igazoltnak tekintendő.
+
+Ezen túlmenően a harmadik személy írásbeli kérelem benyújtásával adatot igényelhet a bizalmi vagyonkezelési jogviszony tényleges tulajdonosi adataira [azaz a törvényjavaslat 4. § (1) bekezdés g) pontjában meghatározott adatokra] vonatkozóan abban az esetben, ha a bizalmi vagyonkezelési jogviszony keretében kezelt vagyon jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben közvetlen vagy közvetett módon többségi befolyásra feljogosító vagyonelemet tartalmaz.
+
+Harmadik személyek a hozzáférésért díj fizetésére kötelesek. Ezen díjfizetési kötelezettség alól az adatszolgáltató a saját tényleges tulajdonosi adataihoz való hozzáférés esetén mentesül.
+
+A törvényjavaslat 9. §-a rendelkezik a bizalmi vagyonkezelési jogviszony tényleges tulajdonosi adataira vonatkozó harmadik személyek általi adatigénylés esetén benyújtandó előzetes engedélyezés iránti kérelemről és az ehhez kapcsolódó eljárási részletszabályokról.
+
+A törvényjavaslat alapján harmadik személy a bizalmi vagyonkezelési jogviszony tényleges tulajdonosi adataira vonatkozó adatigénylés teljesítése érdekében előzetes engedélyezés iránti kérelmet köteles benyújtani a felhasználási cél és a jogos érdek, valamint a többségi befolyásra feljogosító vagyonelem fennállásának igazolása érdekében a pénz-, tőke- és biztosítási piac szabályozásáért felelős pénzügyminiszterhez.
+
+A kérelmének tartalmaznia kell a felhasználási célra és a jogos érdek fennállására, valamint a többségi befolyásra feljogosító vagyonelemre vonatkozó összes adatot, tényt, körülményt, valamint mellékelni kell az ezeket igazoló okiratokat. A kérelem elbírálása során a miniszter 30 napos ügyintézési határidővel, egyebekben az általános közigazgatási rendtartásról szóló törvény előírásai szerint vizsgálja meg az adathozzáférés feltételeinek teljesülését. A harmadik személy a nyilvántartást vezető szervhez benyújtott adatigénylés iránti kérelméhez köteles mellékelni a miniszter által kiadott előzetes engedélyt (ezen előzetes engedély nélkül adatigénylést nem tud benyújtani ezen esetben).
+
+A 10-12. §-hoz
+
+Az Irányelv alapján a tagállamok kötelesek biztosítani, hogy a tényleges tulajdonosi nyilvántartásban tárolt információk megfelelőek, pontosak és időszerűek legyenek, és ennek érdekében kötelesek megfelelő mechanizmusok (eljárásrendek) bevezetésére. E mechanizmusok (eljárásrendek) többek között elő kell, hogy írják a szolgáltatók és adott esetben az illetékes hatóságok részére, hogy jelentsék, ha bármilyen eltérést észlelnek a tényleges tulajdonosokra vonatkozóan a tényleges tulajdonosi nyilvántartásban található, illetve a rendelkezésükre álló információk között.
+
+Eltérésekre vonatkozó jelentés esetén a tagállamok kötelesek gondoskodni az eltérések időben történő rendezését szolgáló megfelelő intézkedésekről, és arról, hogy - adott esetben - ezt időközben külön jelezzék a tényleges tulajdonosi nyilvántartásban.
+
+Az Irányelv ezen kötelezettséget a bizalmi vagyonkezelési jogviszonyok tényleges tulajdonosi adataira is előírja.
+
+Az Irányelv rendelkezéseinek végrehajtása érdekében a törvényjavaslat részletes rendelkezéseket határoz meg az eltérések hatósági és szolgáltatói jelzése vonatkozásában.
+
+A törvényjavaslat 10. §-a alapján a hatóságok, az ügyészség, a bíróság és a felügyeletet ellátó szervek jelezhetik a nyilvántartást vezető szervnek, ha eltérést észlelnek az általuk ismert és a tényleges tulajdonosi nyilvántartásban rögzített tényleges tulajdonosi adatok között, és közlik az általuk ismert tényleges tulajdonosi adatokat. A törvényjavaslat alapján a hatóságok, az ügyészség, a bíróság és a felügyeletet ellátó szervek saját döntési jogkörükben mérlegelhetik a jelzés megtételének szükségességét, ez nem kötelezettségként kerül előírásra a számukra.
+
+A törvényjavaslat 11. §-ának rendelkezései alapján a szolgáltatók kötelesek az általuk észlelt eltérések jelzésére és az általuk ismert tényleges tulajdonosi adatok közlésére, a törvényjavaslatban meghatározott feltételek fennállása esetén. Ezen kötelezettség alól kivételt képeznek a számlavezetők (tekintettel az általuk végzett rendes adatfeltöltési kötelezettségre). A törvényjavaslat rendelkezik arról, hogy amennyiben a szolgáltató a Pmt. szerinti ügyfél-átvilágítás (Pmt. 7-10. §) keretében vagy azt követően, a tényleges tulajdonos azonosítása és személyazonosságának ellenőrzése során (Pmt. 9. §) a tényleges tulajdonosi nyilvántartásban tárolt adatoktól eltérő adatot rögzít, ezt 5 munkanapon belül köteles jelezni a nyilvántartást vezető szervnek. A szolgáltató ezen jelzés keretében köteles közölni az általa rögzített adatokat és az adatrögzítés időpontját is. A szolgáltatók esetében tehát fontos feltétele az eltérések jelzésének, hogy a szolgáltató legalább megkezdje a Pmt. szerinti ügyfél-átvilágítást, és fontos kötelezettség, hogy az eltérés jelzése esetén közölnie kell az általa rögzített eltérő adatokat és az adatrögzítés időpontját is. A törvényjavaslat ezen esetben kimondja, hogy a szolgáltató az eltérés jelzését követően ugyanarra a tényleges tulajdonosi adatra vonatkozó eltérésről 30 napon belül nem jogosult újabb jelzés küldésére.
+
+Fontos megjegyezni azonban, hogy az eltérési jelzésekre csak akkor van szükség, ha az észlelt eltérés a tényleges tulajdonosok személyét vagy a tényleges tulajdonosi érdekeltség jellegét érinti. Ezzel szemben nem szükséges eltérési jelzés akkor, ha az csak elírást vagy a nyilvántartott adatok olyan eltérését mutatja, amelynek nincs érdemi hatása a tényleges tulajdonosok azonosítására, a tényleges tulajdonosi viszonyok meghatározására.
+
+A törvényjavaslat 12. §-a a nyilvántartó szerv eljárási szabályairól rendelkezik az eltérések hatósági és szolgáltatói jelzéséhez kapcsolódóan, valamint szabályozza a TT index módosulására vonatkozó részletszabályokat.
+
+A törvényjavaslat alapján a nyilvántartó szerv a hatóságok, az ügyészség, a bíróság és a felügyeletet ellátó szervek, valamint a szolgáltatók által jelzett eltérést és a jelzett tényleges tulajdonosi adatot rögzíti a tényleges tulajdonosi nyilvántartásban, valamint csökkenti a megbízhatósági indexet a törvényjavaslat erre vonatkozó részletszabályai alapján. [A törvényjavaslat [7. § (2) bekezdése)] rendelkezik arról, hogy a tényleges tulajdonosi nyilvántartásban a számlavezető által végzett adattovábbítás alapján rögzített tényleges tulajdonosi adatok TT indexe 10 pont.] A törvényjavaslat rendelkezései szerint a TT index hatósági bejelentés esetén 2 ponttal, szolgáltatói bejelentés esetén 1 ponttal csökken.
+
+Amennyiben a TT index a bejelentések nyomán 8 pont alá csökken, úgy az adatszolgáltató tényleges tulajdonosi adatai (automatikusan) „bizonytalan” besorolást kapnak. A nyilvántartást vezető szerv a „bizonytalan” minősítés tényéről 5 munkanapon belül írásban tájékoztatja az adatszolgáltatót (közvetlenül a Cégkapun vagy Hivatali Kapun keresztül), és felhívja figyelmét a nyilvántartásban tárolt tényleges tulajdonosi adatok megerősítésének vagy módosításának lehetőségére (a számlavezetőn keresztül, a törvényjavaslat 7. §-ában szabályozott rendes adatfeltöltésre előírt eljárásnak megfelelően). Amennyiben az adatszolgáltató ezt követően megerősíti vagy módosítja a tényleges tulajdonosi adatokat, a nyilvántartást vezető szerv a TT index értékét 10 pontra állítja vissza (azaz teljes mértékben megbízhatónak fogadja el).
+
+Amennyiben a további jelzések nyomán a TT index 6 pont alá csökken, arról a nyilvántartást vezető szerv 5 munkanapon belül írásban tájékoztatja az adatszolgáltatót (közvetlenül a Cégkapun vagy Hivatali Kapun keresztül) és felszólítja a tényleges tulajdonosi adatok megerősítésének vagy módosításának elvégzésére, 5 napos határidő megadásával (a számlavezetőn keresztül, a Pmt. 12. §-ában szabályozott eljárásnak megfelelően) annak érdekében, hogy az adatok legkésőbb az értesítés átvételétől számított 60 napon belül a nyilvántartásban naprakészen rendelkezésre állhassanak. Amennyiben az adatszolgáltató ezt követően megerősíti vagy módosítja a tényleges tulajdonosi adatokat, a nyilvántartást vezető szerv a TT index értékét 10 pontra állítja vissza (azaz teljes mértékben megbízhatónak fogadja el). Ha a kérdéses adathoz kapcsolódóan 60 napos határidőn belül nem érkezik módosítás vagy megerősítés, az adatszolgáltató „megbízhatatlan” minősítést kap.
+
+A 13-14. §-hoz
+
+A törvényjavaslat rendelkezik arról, hogy a „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltató vonatkozásában mely jogkövetkezmények állnak be a törvény erejénél fogva a nyilvántartó szerv által nyilvánosan közzétett adatok alapján, külön hatósági intézkedés nélkül az adatszolgáltató vonatkozásában.
+
+Ha az adatszolgáltató a TT index 6 pont alá csökkenését követő 60 napon belül nem intézkedik az adatok módosításáról vagy megerősítéséről, úgy a tényleges tulajdonosi adatok „megbízhatatlan” minősítést kapnak. A „megbízhatatlan” minősítésű vagy 180 napot meghaladó ideig „bizonytalan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltatók esetében a nyilvántartó szerv az adatszolgáltató nevét és nyilvántartási számát, valamint a minősítés tényét honlapján közzéteszi (azaz nyilvános listát készít ezen adatszolgáltatókról).
+
+A törvényjavaslat alapján a „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltatót a szolgáltató köteles a Pmt. szerint magas kockázatúnak tekinteni és köteles végrehajtani a Pmt.-ben meghatározott fokozott ügyfél-átvilágítási intézkedéseket. [A „megbízhatatlan” minősítés ténye a Pmt. 16. § (1) bekezdésében is feltüntetésre kerül, mint magas kockázatú esetkör, és ez alapján a szolgáltató köteles a Pmt. 16. § (2)-(3) bekezdésében meghatározott fokozott ügyfél-átvilágítási intézkedéseket elvégezni.] Ezen túlmenően a szolgáltató megtagadja a „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltató által kezdeményezett, négymillió-ötszázezer forintot elérő összegű ügylet teljesítését (a tényleges tulajdonosra vonatkozó adat megerősítéséig vagy módosításáig).
+
+A 15-16. §-hoz
+
+Az adatszolgáltató jogos érdekeinek védelme érdekében a törvényjavaslat biztosítja, hogy az általánosan nyitva álló adatmódosítási lehetőségen, illetve a törvényjavaslatban meghatározott jogkövetkezmények bekövetkeztében megteendő adatmódosításon vagy adat-megerősítésen túl az adatszolgáltató panasszal élhessen abban az esetben, ha rá a tényleges tulajdonosi nyilvántartásban rögzített adatok nem kielégítő megbízhatósága miatt valamely negatív jogkövetkezmény beáll.
+
+A panaszt a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterhez kell benyújtani. A panasz benyújtásának feltétele, hogy az adatszolgáltató ezt megelőzően valamely számlavezetőjénél már kezdeményezte a jogkövetkezményt kiváltó tényleges tulajdonosi adatának módosítását vagy megerősítését, ez azonban nem szüntette meg a jogkövetkezményt. Az adatszolgáltató által benyújtandó panasznak tartalmaznia kell az adatszolgáltatónak a tényleges tulajdonosi nyilvántartásban való azonosítását elősegítő azonosító adatait. A panaszban be kell mutatni a jogkövetkezmény fennállásának tényét, valamint a számlavezetőnél elvégzett adatmódosítást. Az adatszolgáltatónak meg kell jelölnie, hogy mely nyilvántartott adatainak módosítását kéri, megjelölve a nyilvántartásban általa rögzíteni kérte tényleges tulajdonosi adatokat. A panasznak tartalmaznia kell azokat a bizonyítékokat (pl. cégkivonatok), amelyekre hivatkozva az adatszolgáltató kéri az adatok módosítását.
+
+A panaszt a miniszter 30 napos határidővel, egyebekben az általános közigazgatási rendtartás szabályai szerint bírálja el. Hiányos panasz esetén 15 napos határidővel hiánypótlásra van lehetőség. A panasz kedvező elbírálása esetén a miniszter utasítja a nyilvántartó hatóságot az adatszolgáltató által kért adatmódosítás elvégzésére, és az új adatokhoz kapcsolódó TT index 10 pontra való módosítására. Az Ákr. 47. § (1) bekezdése alapján a feltételeknek eleget nem tevő panasz (az adatszolgáltatóra nincs érvényben egyetlen jogkövetkezmény sem; jogkövetkezmény fennállása ellenére nem történt meg a számlavezetőnél az adatmódosítás), illetve az eredménytelen hiánypótlás esetén a panaszkezelési eljárást hivatalból meg kell szüntetni. Az Ákr. 116. § (4) bekezdése értelmében a panaszkezelési eljárás megszüntetése, illetve az elsőfokú érdemi döntés ellen fellebbezésnek nincs helye, tekintettel arra, hogy az elsőfokú döntést központi államigazgatási szerv vezetője hozza.
+
+A 17. §-hoz
+
+Az Irányelv alapján a tagállamok kötelesek gondoskodni a tényleges tulajdonosi nyilvántartások összekapcsolásáról az (EU) 2017/1132 európai parlamenti és tanácsi irányelvvel létrehozott európai központi platformon keresztül, a központi nyilvántartások összekapcsolására szolgáló, az (EU) 2015/849 európai parlamenti és tanácsi irányelvben említett rendszerhez szükséges műszaki előírások és eljárások megállapításáról szóló 2020. március 10-i, (EU) 2021/369 bizottsági végrehajtási rendeletnek megfelelően.
+
+A nyilvántartó szerv az európai központi platform részére az Európai Parlament és a Tanács (EU) 2015/849 irányelvében meghatározott központi nyilvántartások összekapcsolásához szükséges műszaki előírásokat és eljárásokat megállapító bizottsági végrehajtási rendeletnek megfelelően a nyilvántartó szerv biztosítja az Európai Unió más tagállamaiban működő tényleges tulajdonosi nyilvántartásban tárolt adatokhoz hozzáféréssel rendelkező adatigénylők számára is az adatszolgáltatást.
+
+A 18-20. §-hoz
+
+Az Irányelv alapján a tagállamok kötelesek olyan központi automatizált mechanizmust (például központi nyilvántartást) létrehozni, amelynek segítségével időben azonosíthatóak a hitelintézetek által az adott tagállam területén kezelt, nemzetközi bankszámla-azonosítóval azonosított fizetési számlával vagy bankszámlával, illetve széffel rendelkező vagy ezek felett ellenőrzést gyakorló természetes vagy jogi személyek. Az Irányelv részletes rendelkezéseket tartalmaz ezen központi mechanizmusok (központi nyilvántartások) kötelező adattartalma, valamint az ezekhez történő hozzáférés vonatkozásában.
+
+Az Irányelv alapján a törvényjavaslat részletes rendelkezéseket határoz meg a központi bankszámla- és széfnyilvántartás létrehozása és működtetése vonatkozásában.
+
+A törvényjavaslat alapján a központi bankszámla- és széfnyilvántartás felállításának és működtetésének feladatait (a tényleges tulajdonosi nyilvántartáshoz hasonlóan) a NAV látja el, nem adóhatósági feladatkörének keretében. Erre tekintettel a NAV ezen nyilvántartásokat nem hatósági nyilvántartásként vezeti.
+
+Az irányelvi kötelezettségek teljesítése érdekében a törvényjavaslat megállapítja a központi bankszámla- és széfnyilvántartás első alkalommal történő feltöltésének (ősfeltöltésének), valamint ezt követő rendes adatfeltöltésének (adatmódosításának) végrehajtásához szükséges rendelkezéseket. Az első alkalommal történő feltöltését (ősfeltöltését) biztosító részletszabályok a törvényjavaslat későbbi szakaszában (az Átmeneti rendelkezések között) kerülnek meghatározásra, a 18-19. § a rendes adatfeltöltésről (adatmódosításról) rendelkezik.
+
+Az adatfeltöltés (adatmódosítás) a fizetési számlát vezető pénzforgalmi szolgáltatókon (számlavezetőkön) és a széfszolgáltatókon keresztül történik, az adatfeltöltés (adatmódosítás) ezen szolgáltatók felelőssége és kötelezettsége.
+
+Az Irányelv rendelkezéseinek megfelelően a törvényjavaslat 18. §-a alapján a központi bankszámla-nyilvántartás esetében a számlavezető a nyilvántartó szervet a nemzetközi bankszámla-azonosítóval (IBAN) azonosított fizetési számlák következő adatairól tájékoztatja: a számla tulajdonosának családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve (nem természetes személy esetén a tulajdonos szervezet neve és cégjegyzékszáma vagy más nyilvántartási száma); a számla felett rendelkezni jogosult személy(ek) családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; a számla tulajdonosa tényleges tulajdonosának családi és utóneve; a számla száma; a számlavezető neve, rövidített neve; a számlavezetés devizaneme; a számla megnyitásának, illetve megszüntetésének időpontja. A számlavezető az adatközlést legkésőbb a fizetési számlaszerződés megkötését követő 5 munkanapon belül, ezt követően pedig az adatokban bekövetkezett változást követő 5 munkanapon belül köteles teljesíteni. Az adatszolgáltatási kötelezettség nem vonatkozik a SZÉP-kártyák működéséhez megnyitott fizetési számlákra.
+
+A törvényjavaslat rendelkezik az MNB központi bankszámla-nyilvántartás felé fennálló adatközlési kötelezettségéről is az MNB által vezetett fizetési számlák vonatkozásában. Az MNB a nyilvántartó szervet az IBAN-nal azonosított fizetési számlák következő adatairól tájékoztatja: a számla tulajdonosának családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve (nem természetes személy esetén a tulajdonos szervezet neve); a számla száma; a számlavezető neve, rövidített neve; a számlavezetés devizaneme; a számla megnyitásának, illetve megszüntetésének időpontja.
+
+A törvényjavaslat 19. §-a alapján a központi széf-nyilvántartás esetében a széfszolgáltató a nyilvántartó szervet a széfszolgáltatási szerződés következő adatairól tájékoztatja: a széf bérlőjének családi és utóneve; születési családi és utóneve, születési helye és ideje, anyja születési neve; (nem természetes személy bérlő esetén a tulajdonos szervezet neve és cégjegyzékszáma vagy más nyilvántartási száma); a széf felett rendelkezni jogosult személy(ek) családi és utóneve; születési családi és utóneve, születési helye és ideje, anyja születési neve; a széfszolgáltató neve, rövidített neve; a széfszolgáltatási szerződés időtartama. A széfszolgáltató az adatközlést legkésőbb a széfszolgáltatási szerződés megkötését követő 5 munkanapon belül, ezt követően pedig az adatokban bekövetkezett változást követő 5 munkanapon belül köteles teljesíteni.
+
+Az Irányelv rendelkezéseinek való megfelelés érdekében a törvényjavaslat részletes rendelkezéseket tartalmaz a központi bankszámla- és széfnyilvántartásban tárolt adatokhoz való hozzáférés vonatkozásában.
+
+Az Irányelv rendelkezéseinek megfelelően a törvényjavaslat 20. §-a a központi bankszámla- és széfnyilvántartásban tárolt valamennyi adathoz korlátlan hozzáférést biztosít [a Központi Kormányzati Szolgáltatás Busz (KKSZB) Központi Elektronikus Ügyintézési Szolgáltatás (KEÜSZ) igénybevételével] a hatóságok [azaz a pénzügyi információs egységként működő hatóság (NAV Pénzmosás és Terrorizmusfinanszírozás Elleni Iroda), a nyomozóhatóság, az általános rendőri feladatok ellátására létrehozott szerv; a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a rendőrség terrorizmust elhárító szerve, továbbá az állami adó- és vámhatóság (NAV), valamint az önkormányzati adóhatóság és a gazdasági kamarák], az ügyészség, a bíróság és a felügyeletet ellátó szervek számára, jogszabályban meghatározott feladatai ellátása érdekében. A nyilvántartó szerv a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 40. § (1) bekezdésére tekintettel alakítja ki és működteti az információátadás rendszerét. A hatóságok, az ügyészség, a bíróság és a felügyeletet ellátó szervek a központi bankszámla- és széfnyilvántartásban tárolt adatokat jogosultak kiadni más európai uniós tagállamok, illetve harmadik országok hatóságának, ügyészségének, bíróságának, és felügyeletet ellátó szervének, a törvényjavaslatban meghatározott adatvédelmi garanciák biztosítása mellett.
+
+A 21. §-hoz
+
+A törvényjavaslat alapján a szolgáltatók feletti felügyeletet (azaz a szolgáltatók törvényjavaslatban meghatározott kötelezettségeknek való megfelelésének biztosítását) a Pmt.-ben meghatározott felügyeletet ellátó szervek látják el. A felügyeletet ellátó szervek a felügyeleti tevékenységük gyakorlása során a Pmt.-ben meghatározott eljárást és intézkedéseket (szankciókat) alkalmazzák. [A felügyeletet ellátó szervek eljárására vonatkozó rendelkezéseket, valamint az alkalmazandó intézkedéseket (szankciókat) és azok kiszabásának szabályait a Pmt. 66-71. §-ai tartalmazzák.]
+
+A törvényjavaslat alapján a szolgáltató a törvényjavaslatban meghatározott kötelezettségek körébe tartozó feladatok teljesítésére köteles belső szabályzatot készíteni, amelyre a Pmt. belső szabályzatra vonatkozó speciális rendelkezéseit kell alkalmazni. (A belső szabályzatra vonatkozó legfontosabb rendelkezéseket a Pmt. 65. §-a tartalmazza.) A törvényjavaslat szerinti belső szabályzat (a szolgáltató döntése alapján) részét is képezheti a Pmt. szerinti belső szabályzatnak, de külön dokumentumként is megjelenhet. Ahol viszont a Pmt. speciális előírásokat tartalmaz egyes szolgáltatói szektorok számára, abban az esetben e külön szabályok érvényesülnek az adott szolgáltatók törvényjavaslat szerinti belső szabályzata tekintetében is.
+
+-----STARTING---POINT---VEGE---
+
+A 22. §-hoz
+
+A törvényjavaslat felhatalmazást ad a Kormánynak arra, hogy a tényleges tulajdonosi nyilvántartás, valamint a központi bankszámla- és széfnyilvántartás vonatkozásában a nyilvántartó szervet rendeletben jelölje ki. Felhatalmazást kap továbbá a Kormány arra, hogy rendeleti szinten határozza meg központi nyilvántartások vezetésére vonatkozó részletes végrehajtási szabályokat.
+
+A 23. §-hoz
+
+A § hatályba léptető rendelkezéseket tartalmaz. A törvényjavaslat főszabályként a kihirdetését követő napon lép hatályba. Az általános hatálybalépési időponttól eltérően biztosítani szükséges, hogy ne lépjenek hatályba a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2019. évi CXIX. törvény azon rendelkezései, amelyek a központi adatbázisokhoz kapcsolódóan 2021. június 1-én léptek volna hatályba, de a törvényjavaslat miatt aktualitásukat veszítették.
+
+A tényleges tulajdonosi adatok rendszeres frissítésére egy kezdeti adattisztítási időszakot követően, 2021 októberétől kerül sor. A tényleges tulajdonosi adatokhoz a hatósági szereplők és a szolgáltatók 2022. február 1-től kapnak hozzáférést. Szintén a központi adatbázisok 2022. február 1-i működési szakaszától kapnak adathozzáférést a hatóságok a bankszámla- és széfnyilvántartásban tárolt adatokhoz.
+
+Az általános betekintési lehetőség 2022. július 1-től nyílik meg, és ekkortól lesz lehetőség panaszkezelési eljárás kezdeményezésére is. Ugyanezen időponttól állhatnak be a nem megfelelő adatminőségből adódó jogkövetkezmények - ez utóbbiak keretében a Pmt. szerinti kockázati szint megállapításához 2022. július 1-től kell figyelembe venni a tényleges tulajdonosi adatok minősítését. Az egyes rendelkezések eltérő időpontban történő hatályba léptetését a jogintézmény újdonsága következtében az érintettek részére szükséges felkészülési idő indokolja.
+
+A lépcsőzetes hatályba léptetés biztosítja, hogy az átmeneti intézkedések szerinti eredeti adatfeltöltést követően az adatszolgáltatók és tényleges tulajdonosaik a róluk nyilvántartásba vett adatokat megismerjék, szükség szerint módosítsák a törvényjavaslat szerinti általános eljárási rend szerint [a Pmt. 12. § (3) bekezdésében rögzített adatközléssel a számlavezetőik felé], így mind a hatóságok, mind a harmadik személyek adathozzáférésére úgy nyílik lehetőség, hogy az adatok ellenőrzése, frissítése megtörténhetett.
+
+A 24-26. §-hoz
+
+A törvényjavaslat az átmeneti rendelkezései között megállapítja a központi nyilvántartások első alkalommal történő feltöltésének (ősfeltöltésének) végrehajtásához szükséges rendelkezéseket.
+
+A törvényjavaslat 25. §-a alapján a számlavezető a törvényjavaslat hatálybalépését követő 15 napon belül elektronikus adatkapcsolatot köteles kialakítani a nyilvántartó szervvel a központi nyilvántartások működéséhez szükséges adatok továbbítása érdekében. A törvényjavaslat általános hatálybalépési időpontjára tekintettel, valamint a törvényjavaslat szerinti központi adatbázisok működési ütemezésének összhangja érdekében a törvényjavaslat egységesen a törvény hatálybalépésének napjától induló 15 napos határidőt állapít meg az adatkapcsolat létrehozására.
+
+A számlavezető a törvényjavaslat hatálybalépését követő 21 napon belül ezen elektronikus adatkapcsolat útján köteles átadni a nyilvántartó szerv részére a tényleges tulajdonosi nyilvántartás első alkalommal történő feltöltésének (ősfeltöltésének) végrehajtása érdekében azon adatszolgáltatók tényleges tulajdonosi adatait, amely adatszolgáltatók számára a törvényjavaslat hatálybalépésének napján fizetési számlát vezet (azaz velük a fizetési számla vezetésére tekintettel a Pmt. szerinti üzleti kapcsolatban áll). Ezen adatátadás során a törvényjavaslat 4. § (1) bekezdésében meghatározott adatokon felül a számlavezető a fizetési számla megnyitásának időpontját is köteles közölni.
+
+A nyilvántartó szerv a beérkezett adatokat a tényleges tulajdonosi nyilvántartásban rögzíti. Amennyiben egy adott adatszolgáltatóra vonatkozóan több számlavezetőtől érkezik adat, a nyilvántartó szerv a későbbi időpontban rögzített adatot rögzíti aktuálisként (azonban a korábban rögzített adatokat is feltünteti az előzmények között).
+
+A törvényjavaslat rendelkezik továbbá arról, hogy a tényleges tulajdonosi nyilvántartásban az első alkalommal történő feltöltés (ősfeltöltés) végrehajtása során rögzített tényleges tulajdonosi adatok TT indexe 10 pont.
+
+A törvényjavaslat 26. §-a a központi bankszámla- és széfnyilvántartás első alkalommal történő feltöltésének (ősfeltöltésének) végrehajtásához szükséges rendelkezéseket határozza meg. A törvényjavaslat általános hatálybalépési időpontjára tekintettel, valamint a törvényjavaslat szerinti központi adatbázisok működési ütemezésének összhangja érdekében a törvényjavaslat egységesen a törvény hatálybalépésének napjától induló 21 napos határidőt állapít meg a kezdeti adatfeltöltésre.
+
+A központi bankszámla-nyilvántartás első alkalommal történő feltöltése (ősfeltöltése) érdekében a számlavezető a törvényjavaslat hatálybalépését követő 21 napon belül elektronikus adatkapcsolat útján köteles továbbítani a nyilvántartó szerv részére a nemzetközi bankszámla-azonosítóval (IBAN) azonosított fizetési számlák kapcsán rendelkezésére álló, a törvényjavaslat 16. § (1) bekezdésében taxatíve meghatározott adatokat.
+
+A központi széf-nyilvántartás első alkalommal történő feltöltése (ősfeltöltése) érdekében pedig a széfszolgáltatást nyújtó szolgáltató köteles a törvényjavaslat hatálybalépését követő 21 napon belül elektronikus adatkapcsolat útján továbbítani a nyilvántartó szerv részére a széfszolgáltatási szerződés kapcsán rendelkezésére álló, a törvényjavaslat 19. § (1) bekezdésében taxatíve meghatározott adatokat.
+
+A törvényjavaslat 21. § (3) bekezdése alapján a szolgáltatóknak a törvényjavaslatban foglalt kötelezettségekből fakadó feladatok elvégzésének módját és eljárásrendjét rögzítő belső szabályzatot kell készíteniük, amely beépülhet a Pmt. alapján készítendő belső szabályzatba. Tekintettel arra, hogy a törvényjavaslatból új feladatok adódnak, szükséges átmeneti rendelkezést hozni a törvényjavaslat szerinti belső szabályzat első elkészítésének határidejéről.
+
+A 27. §-hoz
+
+A törvényjavaslat 27. §-a tartalmazza a jogharmonizációs záradékot, az Európai Unió jogának való megfelelésre utaló rendelkezéseket.
+
+A 28. §-hoz
+
+A törvényjavaslat alapján létrehozandó tényleges tulajdonosi nyilvántartás a Pmt. több rendelkezéséhez is kapcsolódik. Erre tekintettel a törvényjavaslat kiegészíti a Pmt. értelmező rendelkezéseit a törvényjavaslatban meghatározott tényleges tulajdonosi nyilvántartás fogalmával.
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált annak egyértelművé tétele, hogy a Pmt.-ben a többségi állami tulajdonú vállalatra vonatkozó rendelkezések a teljes mértékben állami vagy helyi önkormányzati tulajdonban álló vállalatra, a többségi állami tulajdonban álló vállalatra, valamint a helyi önkormányzat többségi tulajdonában álló vállalatra egyaránt alkalmazandóak. Erre tekintettel a törvényjavaslat kiegészíti a Pmt. értelmező rendelkezéseit a többségi állami tulajdonú vállalat fogalmával.
+
+A 29. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az ügyfél személyazonosságának igazoló ellenőrzése vonatkozásában a nyilvántartásokból történő ellenőrzésre vonatkozó rendelkezések felülvizsgálata és módosítása.
+
+A törvényjavaslat által bevezetett módosítás elsődleges célja az ügyfél személyazonosságának ellenőrzésére vonatkozó Pmt. 7. § (3), (7) és (8) bekezdései közötti összhang megteremtése és ezáltal a vonatkozó kötelezettségek pontosítása.
+
+A Pmt. 7. § (3) bekezdése kimondja, hogy a szolgáltató a személyazonosság igazoló ellenőrzése érdekében (saját döntése alapján) köteles okiratok bemutatását megkövetelni vagy közhiteles nyilvántartásból adatlekérést végezni. Ehhez kapcsolódóan a törvényjavaslat a Pmt. 7. § (7) bekezdésének módosításával a személyazonosság igazoló ellenőrzése érdekében rendelkezésre álló eszköztár (kiegészítő jelleggel történő) bővítéséről rendelkezik: lehetővé válik a nem közhiteles nyilvántartások verifikációs célra történő alkalmazása (kiegészítő lehetőségként). Az egyes szektorok tekintetében az alkalmazható nem közhiteles nyilvántartásokról (és annak feltételrendszeréről) a felügyeletet ellátó szervek adnak iránymutatást.
+
+Ezzel egyidejűleg a törvényjavaslat pontosítja a Pmt. 7. § (7) bekezdését annak egyértelművé tétele érdekében, hogy a szolgáltató a nyilvántartások alapján kizárólag a személyazonosság igazoló ellenőrzésére jogosult (kiegészítő jelleggel), a Pmt. 7. § (2) bekezdésében meghatározott azonosító adatok rögzítésére nem. [Ennek érdekében törlésre kerül a Pmt. 7. § (2) bekezdésére utalás, a (3)-(6) bekezdésre történő utalás fenntartása mellett.]
+
+Ezen túlmenően a törvényjavaslat a Pmt. 7. § (3) bekezdésében biztosított opciókhoz (okiratok bemutatása vagy közhiteles nyilvántartásból történő adatlekérés) kapcsolódóan módosítja a Pmt. 7. § (8) bekezdését annak egyértelművé tétele érdekében, hogy a szolgáltató vagy okiratmásolat elkészítésére, vagy a közhiteles nyilvántartásból történő adatlekérdezés rögzítésére és nyilvántartására köteles.
+
+A 30. §-hoz
+
+Az Irányelv rendelkezései alapján az ügyfél-átvilágítás során fel lehet használni a tényleges tulajdonosi nyilvántartásból megismert adatokat, ugyanakkor nem lehet kizárólag azokra támaszkodni az ügyfél tényleges tulajdonosi adatainak rögzítésekor. A Pmt. 9. § (4) bekezdése már hatályos formájában lehetővé teszi a tényleges tulajdonosi nyilvántartás használatát a megismert adatok ellenőrzésére, de szükséges annak rögzítése, hogy a tényleges tulajdonosi nyilvántartásból kinyert adatok - más nyilvántartások párhuzamos használatával - kiválthatják az ügyfél nyilatkozatát is.
+
+Ezen túlmenően a törvényjavaslat rendelkezik a szolgáltató azon kötelezettségéről, amely szerint a tényleges tulajdonos személyazonosságának igazoló ellenőrzése érdekében megtett intézkedéseket követően a szolgáltató a tényleges tulajdonosi adatok rögzítésének dátumát is köteles nyilvántartásában rögzíteni.
+
+A 31. §-hoz
+
+A törvényjavaslat 13-14. §-ai alapján „megbízhatatlan” minősítést kapnak azok az adatszolgáltatók tényleges tulajdonosi adatai, akiknek a TT indexe 6 pont alá csökken, és ennek korrekciója a 60 napos határidőn belül nem valósul meg. A „megbízhatatlan” minősítés következtében ezen adatszolgáltatókat magas kockázatúnak kell a Pmt. szerint tekinteni.
+
+Ennek megfelelően a törvényjavaslat rögzíti, hogy a Pmt. 10. §-a szerinti kockázati szint megállapítás során figyelembe kell venni a törvényjavaslat alapján a „megbízhatatlan” minősítést kapott adatszolgáltatókról a nyilvántartó szerv által nyilvánosságra hozott adatokat.
+
+A 32. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált az egyszerűsített ügyfél-átvilágításra vonatkozó rendelkezések felülvizsgálata és módosítása.
+
+A törvényjavaslat által bevezetett módosítás elsődleges célja a pénzmosás és a terrorizmus-finanszírozás elleni küzdelem vonatkozásában fennálló nemzetközi követelmények keretein belül az egyszerűsített ügyfél-átvilágításra vonatkozó rendelkezések olyan módon történő átalakítása, amely biztosítja a hatékony végrehajtást, ugyanakkor nem generál aránytalan adminisztratív terhet a szolgáltatók számára.
+
+Fentiekre tekintettel a törvényjavaslat módosítja a Pmt. 15. § (1) bekezdésében az egyszerűsített ügyfél-átvilágítás esetén alkalmazandó ügyfél-átvilágítási intézkedéseket, igazodva a szolgáltatói döntés alapján egyszerűsített ügyfél-átvilágítás alá tartozó esetek alacsony kockázatához.
+
+A törvényjavaslat a Pmt. 15. § (1) bekezdés a) pontjában rögzíti, hogy a szolgáltatók az azonosítás során az ügyfél vonatkozásában mely adatokat kötelesek rögzíteni („minimum adatkör”), valamint ezen túlmenően kockázatérzékenységi megközelítés alapján mely adatokat rögzíthetik („maximum adatkör”).
+
+A szolgáltató az azonosítás érdekében legalább a következő adatokat köteles rögzíteni: természetes személy ügyfél esetében a családi és utónevét, állampolgárságát, lakcímét (ennek hiányában tartózkodási helyét), valamint azonosító okmányának típusát és számát; jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében pedig a nevét és rövidített nevét, székhelyének és külföldi székhelyű vállalkozás esetén (amennyiben ilyennel rendelkezik) magyarországi fióktelepének címét, valamint cégjegyzékszámát vagy egyéb nyilvántartási számát.
+
+A szolgáltató a kötelezően rögzítendő adatkörön túlmenően kockázatérzékenységi megközelítés alapján a következő adatokat is rögzítheti: természetes személy ügyfél esetében születési családi és utónevét, születési helyét és idejét, valamint anyja születési nevét; jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében pedig a főtevékenységét, a képviseletére jogosultak nevét és beosztását, a kézbesítési megbízottjának (ha rendelkezik ilyennel) meghatározott adatait, valamint adószámát.
+
+A törvényjavaslat a Pmt. 7. § (3) bekezdésében foglaltakkal való összhang megteremtése érdekében kiegészíti a Pmt. 15. § (1) bekezdés b) pontjában foglaltak, amely alapján lehetővé válik a személyazonosság igazoló ellenőrzése érdekében az okiratok másolatának beszerzése mellett a közhiteles nyilvántartásból történő adatlekérdezés is (azzal, hogy a szolgáltató a közhiteles nyilvántartásból történő adatlekérdezés eredményét rögzíteni és nyilvántartani köteles).
+
+A törvényjavaslat egyértelművé teszi a Pmt. 15. § új (1a) bekezdésében, hogy a szolgáltató főszabályként az üzleti kapcsolat létesítése előtt köteles elvégezni az ügyfél azonosítását és személyazonosságának igazoló ellenőrzését, valamint a tényleges tulajdonos kilétével és a kiemelt közszereplői jelleg meghatározásával kapcsolatos eljárásokat.
+
+A törvényjavaslat kivételi szabályként rendelkezik azonban arról a Pmt. 15. § új (1b) bekezdésében, hogy a szolgáltató kockázatérzékenységi megközelítés alapján az üzleti kapcsolat során is elvégezhet bizonyos ügyfél-átvilágítási intézkedéseket: az ügyfél személyazonosságának igazoló ellenőrzését (azaz az okiratok másolatának beszerzését vagy a közhiteles nyilvántartásból történő adatlekérést); a tényleges tulajdonos személyazonosságának igazoló ellenőrzését (azaz intézkedések megtételét a tényleges tulajdonos személyéről történő megbizonyosodás érdekében, valamint a személyazonosságára vonatkozó adatok ellenőrzését); és a kiemelt közszereplői jelleg meghatározása érdekében megtett nyilatkozat ellenőrzését. Ezen ügyfél-átvilágítási intézkedések üzleti kapcsolat során történő végrehajtására csak abban az esetben kerülhet sor, ha a pénzmosás vagy a terrorizmus finanszírozásának valószínűsége csekély és pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény nem merül fel. Fontos feltétel továbbá, hogy a Pmt. 15. § új (1c) bekezdése alapján ezen ügyfél-átvilágítási intézkedéseket a szolgáltató legkésőbb a meglévő ügyfelek vonatkozásában előírt időszakos adatellenőrzési kötelezettség során köteles elvégezni.
+
+Ezen túlmenően a törvényjavaslat bővíti az ügyfél-átvilágítási intézkedések végrehajtásának módjára jelenleg rendelkezésre álló lehetőségeket. A Pmt. 15. § (3) bekezdése alapján az ügyfél-átvilágítási intézkedések a korábban is rendelkezésre álló lehetőségek mellett (auditált elektronikus hírközlő rendszer, postai út) az ügyfél által az ügyfél azonosított elektronikus levelezési címéről (e-mail címéről) biztonságosan küldött vagy a szolgáltató által az ügyféllel való kapcsolattartás érdekében üzemeltetett elektronikus felületre feltöltött okiratmásolatok és nyilatkozatok alapján, valamint (meghatározott feltételeknek megfelelő) elektronikus dokumentumok alapján is elvégezhetőek.
+
+A szolgáltató előzetesen a saját belső szabályzatában köteles rögzíteni azon (kiemelten alacsony kockázatú) esetköröket, amelyek esetében a biztonságos elektronikus levelezési címről történő beküldés vagy a szolgáltató által üzemeltetett elektronikus felületre történő feltöltés lehetővé válik az ügyfél számára.
+
+A 33. §-hoz
+
+A törvényjavaslat 13-14. §-ai alapján „megbízhatatlan” minősítést kapnak azok az adatszolgáltatók tényleges tulajdonosi adatai, akiknek a TT indexe 6 pont alá csökken, és ennek korrekciója a 60 napos határidőn belül nem valósul meg. A „megbízhatatlan” minősítés következtében ezen adatszolgáltatókat magas kockázatúnak kell a Pmt. szerint tekinteni.
+
+Ennek megfelelően a törvényjavaslat kibővíti a Pmt. 16. §-ában megállapított fokozott ügyfél-átvilágítási esetköröket azokkal az ügyfelekkel, akiknek tényleges tulajdonosi adatai „megbízhatatlan” minősítést kapnak.
+
+Ezen felül a Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján indokolttá vált a Pmt. fokozott ügyfél-átvilágításra vonatkozó egyes rendelkezései pontosítása az állami tulajdonú vállalatok tényleges tulajdonosai kiemelt közszereplői státusza és az ebből adódó fokozott ügyfél-átvilágítási kötelezettség vonatkozásában.
+
+A Pmt. 16. § (1) bekezdése (a kockázatok megfelelő kezelése és enyhítése céljából) a magas kockázatú ügyfelek esetében mondja ki a fokozott ügyfél-átvilágítási intézkedések alkalmazásának kötelezettségét. A Pmt. 16. § (1) bekezdés d) pontja alapján magas kockázatúnak kell tekinteni, ha az ügyfél vagy tényleges tulajdonosa kiemelt közszereplő vagy a kiemelt közszereplő közeli hozzátartozója vagy a kiemelt közszereplővel közeli kapcsolatban álló személy.
+
+A teljes mértékben vagy többségi állami tulajdonban álló vállalatok jelentős hányada esetében a vezető tisztségviselő tekintendő tényleges tulajdonosnak.
+
+A többségi állami tulajdonú vállalkozás vezető tisztségviselői azonban kiemelt közszereplőnek is minősülnek a Pmt. 4. § (1) bekezdés g) pontja szerint, amelyre tekintettel ezen esetben a Pmt. 16. § (1) bekezdés d) pontja alapján a többségi állami tulajdonú vállalkozás, mint ügyfél vonatkozásában fokozott ügyfél-átvilágítás alkalmazandó.
+
+Ezzel ellentétben az EU 4. pénzmosás elleni irányelvének a potenciálisan alacsony kockázatra vonatkozó tényezőket tartalmazó II. melléklete az alacsony ügyfélkockázati tényezők között jeleníti meg az állami vállalatokat.
+
+Fentiekre tekintettel a törvényjavaslat rögzíti a Pmt. 16. § (1) bekezdés d) pontjában, hogy kivételt képez a fokozott ügyfél-átvilágítás alól, ha a többségi állami tulajdonú vállalat 3. § 38. pont f) pont alapján megállapított tényleges tulajdonosa, azaz vezető tisztségviselője a kiemelt közszereplő.
+
+A 34. §-hoz
+
+Az (EU) 2015/849 európai parlamenti és tanácsi irányelvnek a nemzeti kockázatértékelés rendszeres felülvizsgálatára vonatkozó rendelkezésének az Európai Bizottság által kezdeményezett, pontos átültetéséhez szükségessé vált a felülvizsgálati kötelezettség törvényi szintű rögzítése. A pénzmosás és a terrorizmus finanszírozás elleni nemzeti kockázatértékelésről szóló intézkedési tervről szóló 1333/2017. (VI. 9.) Korm. határozat, illetve az annak alapján kialakított módszertan alapján a felülvizsgálatra hároméves rendszerességgel kerül sor, a pénzügyminiszter és a belügyminiszter főfelelőssége mellett felállított szakértői munkacsoportok által.
+
+A 35. §-hoz
+
+A Pmt. 66. § új (2a) bekezdéssel történő kiegészítése egyértelművé teszi, hogy a törvényjavaslat alapján a szolgáltatók feletti felügyeletet (azaz a szolgáltatók törvényjavaslatban meghatározott kötelezettségeknek való megfelelésének biztosítását) a Pmt.-ben meghatározott felügyeletet ellátó szervek látják el.
+
+A 36. §-hoz
+
+A Pmt. 8. § (4) bekezdése és 9. § (3) bekezdése alapján a tényleges tulajdonos kilétével kapcsolatban felmerülő kétség esetén a szolgáltató köteles megtenni minden további, a felügyeletet ellátó szerv által meghatározott intézkedést mindaddig, amíg nem bizonyosodik meg a tényleges tulajdonos személyéről.
+
+Erre tekintettel a törvényjavaslat a Pmt. 77. §-ában felhatalmazást ad a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter és a Magyar Nemzeti Bank elnöke számára, hogy rendeletben (útmutatóban) határozza meg meghatározott szolgáltatói szektorok tekintetében a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre vonatkozó részletszabályokat.
+
+A 37. §-hoz
+
+Szükséges a Pmt. jogharmonizációs záradékának kiegészítése a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvre való hivatkozással.
+
+A 38. §-hoz
+
+A törvényjavaslat kibővíti a Pmt. fokozott ügyfél-átvilágítási esetköreit azokkal az ügyfelekkel, amelyek tényleges tulajdonosi adatai a törvényjavaslat alapján „megbízhatatlan” minősítést kapnak (13-14. §). Az esetkörök kibővülése nyomán a törvényjavaslat rendelkezik a Pmt. ezen esetkörökre való hivatkozásainak pontosításáról.
+
+A 39. §-hoz
+
+Szükséges az MNBtv.-ben az MNB által a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében végzett felügyeleti feladatainak kiegészítése az MNB által felügyelt szolgáltatók e törvényből fakadó kötelezettségeinek felügyeletével.
+
+A 40. §-hoz
+
+Szükséges az MNBtv. jogharmonizációs záradékának kiegészítése a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvre való hivatkozással.
+
+A 41-42. §-hoz
+
+A törvényjavaslat rendelkezik a fizetési titok, illetve a banktitok megtartásának kötelezettsége alóli kivételek körének kiszélesítéséről az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény, illetve a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosításával annak érdekében, hogy a központi bankszámla-nyilvántartásba történő adatszolgáltatás során a természetes személyek adatai is átadhatóak legyenek a nyilvántartó hatóság részére.
+
+A 43. §
+
+A törvényjavaslat rendelkezik Pmt.-nek a tényleges tulajdonosi adatbázishoz, valamint a központi bankszámla- és széfszolgáltatási nyilvántartásokhoz kapcsolódó azon rendelkezéseinek hatályon kívül helyezéséről, amelyek a törvényjavaslat elfogadását követően az új törvényben jelennek meg, vagy a törvényjavaslat rendelkezései alapján elavulttá válnak.
+
+A 44. §-hoz
+
+A törvényjavaslat biztosítja, hogy az önkormányzati adóhatóságok és a gazdasági kamarák is hozzáférjenek a központi bankszámla-nyilvántartásban rögzített adatokhoz. Így szükségtelenné válik az adózás rendjéről szóló 2017. évi CL. törvényben meghatározott pénzintézeti adatszolgáltatási kötelezettség, és indokolt hatályon kívül helyezni az erre vonatkozó rendelkezést.
+
+A 45. §-hoz
+
+A törvényjavaslat biztosítja, hogy ne lépjenek hatályba a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2019. évi CXIX. törvény azon rendelkezései, amelyek a központi adatbázisokhoz kapcsolódóan 2021. június 1-én léptek volna hatályba, de a törvényjavaslat miatt aktualitásukat veszítették.

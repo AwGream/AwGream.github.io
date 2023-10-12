@@ -1,0 +1,177 @@
+2020. évi CLXIII. törvény végső előterjesztői indokolása
+
+a szőlészetről és borászatról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése és a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. § (2) bekezdés a) pontjában foglaltak alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+A törvény célja a magyarországi szőlő-bor ágazat hatékonyságának, fenntarthatóságának és jövedelmezőségének javítása, csökkentve egyúttal az adminisztrációs terheket. Az adminisztrációs tehercsökkentés technikai alapjaként szolgál a szőlő és bor ágazat elektronikus ügyintézési és ellenőrzési rendszerének kialakítása és az elektronikus pincekönyv vezetési lehetőség biztosítása című KÖFOP-1.0.0-VEKOP-15-2018-00055 számú projekt (a továbbiakban: ePincekönyv projekt) keretében kifejlesztendő ePincekönyv rendszer, amely összeköti a már létező informatikai rendszereket és biztosítja az elektronikus ügyintézés felületét.
+
+A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: 2004. évi XVIII. törvény) Magyarország európai uniós csatlakozásakor lépett hatályba, és az elmúlt évek során több jelentős módosításon esett át. Ezek közül a legjelentősebb 2009-ben, az Európai Unió legutolsó borreformjához kapcsolódó uniós jogi aktusok hatálybalépését követően történt, de átfogó módosításra került sor 2012-ben is. Ezek mellett kisebb-nagyobb technikai módosítások is átvezetésre kerültek a törvény szövegén az elmúlt 16 év során. Mindezek következményeként számos rendelkezés már nincsen hatályban és a törvény szövege elvesztette koherenciáját. Szükségessé vált emellett a borágazatra vonatkozó előírások összhangba hozása az általános közigazgatási rendtartásról szóló 2016. évi CL. törvénnyel (a továbbiakban: Ákr.) is.
+
+Az európai uniós oltalom alatt álló eredetmegjelölések és földrajzi jelzések (a továbbiakban együtt: földrajzi árujelzők) közösségi márkaként való működésének fontos előfeltétele, hogy legyen valós jogosultsággal bíró kezelő szervezetük. Ennek érdekében a törvény definiálja a földrajzi árujelzőt kezelő hegyközségi szervezet fogalmát, valamint - a korábbiak megtartása mellett - a termelői közösségek részére új jogosultságokat határoz meg az oltalom alatt álló földrajzi árujelző felhasználásának korlátozására, menedzselésére.
+
+A Nemzeti Infokommunikációs Stratégia 2014-2020 a szükséges intézkedések között meghatározza az ePincekönyv projekt szempontjából is releváns feladatként az interoperabilitás megteremtéséhez szükséges jogszabályi háttér kialakítását, továbbá a jogi környezet „digitális akadálymentesítését”. Az ePincekönyv projekt a szervezet-, folyamat-, és informatikai fejlesztésekre alapoz, meghatározva az elektronikus ügyintézéssel kapcsolatos jogszabályi környezetet a már megvalósult, e-közigazgatásra vonatkozó jogi szabályozáson (Ákr., az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény) felül.
+
+A 2004. évi XVIII. törvényt és a végrehajtására kiadott rendeleteket felváltó új jogi szabályozás az ePincekönyv projekttel és az Ákr.-rel összhangban kerül kialakításra. Első lépésként a szőlő-bor ágazatra vonatkozó törvényi keretek kerülnek megállapításra a szőlészetről és borászatról szóló törvény megalkotásával, meghatározva az ágazat egységes fogalomrendszerét, a szőlőtermő ültetvényekre és telepítésükre, a termékelőállításra, nyomon követésre és forgalomba hozatalra, az oltalom alatt álló földrajzi jelzések és oltalom alatt álló eredetmegjelölések használatára, az ellenőrzésekre és a jogkövetkezményekre, továbbá az ePincekönyv rendszerre vonatkozó alapvető követelményeket.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A rendelkezés meghatározza a törvényjavaslat értelmezéséhez szükséges fogalmakat.
+
+A 2. §-hoz
+
+A szőlő termőhelyi kataszter olyan közhiteles hatósági nyilvántartás, amely a szőlőtermesztésre való alkalmasság szempontjából ökológiailag minősített, osztályozott és lehatárolt földterületeket tartalmazza. Árutermő szőlőültetvény csak ilyen, szőlő termőhelyi kataszterben nyilvántartott földterületen telepíthető. A szőlő termőhelyi kataszteri nyilvántartás célja, hogy a nyilvántartásban szereplő területek elsősorban szőlőműveléssel hasznosuljanak. Ezért a törvény meghatározza, hogy szőlő termőhelyi kataszterbe sorolt területeken szőlőtől eltérő hasznosítás milyen feltételek mellett történhet. A termőhelyi kataszterbe sorolt területeken csemegeszőlő-telepítés kivételével gyümölcsös, erdő, fásítás telepítéséhez, halastó és nádas létesítéséhez, valamint a termőföld más célú hasznosításához hegyközségi hozzájárulás szükséges.
+
+A szőlőültetvényként nyilvántartott földterület határától számított ötven méteren belül új erdő, új fásítás telepítése nem végezhető, továbbá az ilyen földrészletnek a szőlő termőhelyi kataszterből való kivonása erdőtelepítés vagy fásítás céljából nem kezdeményezhető. Ezen rendelkezés indoka, hogy amennyiben az új erdő telepítése, új fásítás és egy szőlőültetvény között nem biztosított a megfelelő távolság, az ültetvény művelése néhány éven belül ellehetetlenül. A beárnyékoltság és a talajvíz elszívása révén a gazdaságos művelés már nem biztosítható.
+
+A 3. §-hoz
+
+A szőlőfajták osztályba sorolását uniós rendelet írja elő. Az osztályba soroláshoz szükséges termesztési alkalmassági vizsgálatok célja, hogy a szőlőfajta tulajdonságairól hazai körülmények között széleskörűen meg lehessen győződni. Ezen vizsgálatok engedélyhez kötöttek, annak érdekében, hogy az így eltelepített ültetvényekről összegyűjtött adatok az osztályba sorolásra vonatkozó döntést megalapozhassák.
+
+A 4. §-hoz
+
+A törvény a szőlőtelepítéseket a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendeletnek (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) megfelelően engedélyhez köti.
+
+A törvény az új telepítési engedélyek kiadására irányuló eljárásra az Ákr. szerinti eljárási határidőhöz képest hosszabb ügyintézési határidőt, 70 napot határoz meg, figyelemmel arra, hogy a telepítési engedély kiadása során komplex engedélyezési folyamat megy végbe, melybe különösen beletartozik a telepítési jogosultságok meglétének ellenőrzése, valamint az érintett földterület helyszíni szemléje. Emellett az adott naptári évben telepítések számára engedélyezhető területnagyságot meghaladó területre beérkezett kérelmek esetén a törvény végrehajtására kiadott rendeletben foglaltak szerint sor kerülhet a kérelmek rangsorolására is, mely szintén hosszabbítja az eljárás idejét.
+
+A szőlőültetvények telepítésének és kivágásának tényét az ültetvény használója a törvény értelmében köteles bejelenteni a hegybírónak. A hegybíró a telepítés vagy a kivágás megtörténtét a bejelentését követő 120 napon belül ellenőrzi, figyelemmel arra, hogy adódhat olyan eset, amikor a helyszíni ellenőrzést csak a vegetációs időszak során lehetséges érdemben elvégezni.
+
+Az 5. §-hoz
+
+A szőlőültetvény művelési kötelezettségének elmulasztása veszélyezteti a szomszédos ültetvényeket és jelentős kárt okozhat. A bortermő szőlőterületek megóvása és kártevőkkel szembeni védelme rendkívül fontos. A szabályozás megelőző jelleggel a szőlőültetvény rendeltetésének megfelelő művelési kötelezettséget ír elő, amelynek elmaradása esetén szankció alkalmazására kerülhet sor.
+
+A 6. §-hoz
+
+A borászati termékek eredetét nyomon kell követni. A nyomon követés a borászati termékek készítéséhez felhasznált szőlő eredeténél kezdődik, ezért a törvény alapján minden szüretről szüreti bejegyzés készül az ePincekönyvben. Ez tartalmazza a szüretelő mellett a szüretelt terület azonosítására vonatkozó adatokat, továbbá a szüretelt szőlő mennyiségét és cukortartalmát. A szüreti bejegyzések teremtik meg a borászati termékek további nyomon követhetőségének alapját.
+
+Amennyiben a szőlőt az ültetvényhasználóval azonos borgazdasági egységbe tartozó személy dolgozza fel, a szüreti bejegyzést az első származási bizonyítvány kérelem alapján kell elkészíteni. Ha a szőlőtermést nem az ültetvény használója dolgozza fel, a törvény előírja a szőlőtermés értékesítéséhez felvásárlási jegy alkalmazását, mint a szüreti bejegyzés adattartalmát alátámasztó bizonylatot. Az adminisztráció optimalizálása érdekében ez a dokumentum az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti felvásárlási okirat is lehet, amennyiben az tartalmazza a szüretelt szőlő mennyiségét és cukortartalmát is.
+
+A törvény végrehajtására kiadott kormányrendelet határozza meg azon szőlőfeldolgozást végzők körét, akik a felvásárolt szőlő mennyiségének és cukortartalmának mérését a hegybíróval vagy a borászati hatósággal az ePincekönyv rendszeren keresztül folyamatos kapcsolatban lévő berendezésekkel kötelesek megállapítani.
+
+A 7. §-hoz
+
+Az uniós jogi aktusok által a borászati termékek előállítása és forgalmazása tekintetében megállapított előírások betartását a tagállamoknak folyamatosan ellenőriznie kell. Magyarországon ezt a feladatot a borászati hatóság végzi. A borászati termékek előállítását, kiszerelését és tárolását végző borászati üzemek ellenőrzése érdekében - a 2004. évi XVIII. törvényben foglalt követelményt megtartva - a törvény előírja, hogy borászati üzem kizárólag a borászati hatóság engedélyével működhet. A borászati üzemengedély kiadása iránti eljárás során a borászati hatóságnak lehetősége nyílik arra, hogy ellenőrizze a borászati üzem működésével kapcsolatos követelmények, így különösen a formai, technikai és higiéniai feltételek betartását.
+
+A törvény értelmében nem szükséges valamennyi borászati termék tárolásához üzemengedélyt beszerezni, e kötelezettség alól kivételt jelentenek a már kiszerelt és forgalomba hozatali azonosítóval rendelkező termékek.
+
+A kiadott borászati üzemengedélyekről a borászati hatóság nyilvántartást vezet. A nyilvántartás törvényjavaslatban meghatározott adatainak közzététele az ágazati és kereskedelmi partnerek tájékoztatását szolgálja.
+
+A 8. §-hoz
+
+Az uniós előírások értelmében borászati termék Európai Unión belül történő előállítása és tartósítása során kizárólag engedélyezett borászati eljárások alkalmazhatók. Az uniós szabályozás azonban lehetővé teszi, hogy a tagállam engedélyezze borászati eljárás kísérleti célú alkalmazását. A törvény ezzel a lehetőséggel élve előírja, hogy az uniós előírások értelmében nem engedélyezett borászati eljárás kísérleti célra kizárólag engedély alapján alkalmazható.
+
+Az egyedi engedélyezési eljárás biztosítja a nem engedélyezett borászati eljárások kísérleti célú alkalmazása feletti tagállami felügyeletet és ezáltal az uniós előírásoknak való megfelelést.
+
+A 9. §-hoz
+
+A bürokratikus terhek csökkentése érdekében a borászati termékek forgalomba hozatal engedélyét bejelentés váltja fel. Borászati terméket (a mustok és a murci kivételével) közfogyasztásra forgalomba hozni vagy Magyarország területéről kiszállítani csak végső származási bizonyítvány, a kémiai összetétel megfelelőségét igazoló analitikai vizsgálat, valamint (amennyiben azt a termékleírás vagy a törvény végrehajtására kiadott kormányrendelet előírja), az érzékszervi jellemzők megfelelőségét igazoló érzékszervi bírálat birtokában, a borászati hatóság által kiadott forgalomba hozatali azonosítóval lehetséges.
+
+A szőlő-bor ágazati ellenőrzések során kulcsfontosságú az adott borászati terméktételek és az elkészítésükhöz felhasznált szőlőt adó ültetvény összekapcsolása. Ennek alapbizonylata a szüreti bejegyzés. Ennek hiánya esetén a borászati hatóság számára nem minden esetben lehet elegendő 60 nap a kapcsolat minden kétséget kizáró megállapítására, így a törvény a borászati hatóság számára az igazolás kiállítására 90 napot határoz meg.
+
+A 10. §-hoz
+
+A törvény megállapítja a nem Magyarországon előállított borászati termékek forgalmazására vonatkozó követelményeket. Az Európai Gazdasági Térség valamely szerződő államában már közfogyasztásra forgalomba hozott borászati termék származási bizonyítvány és forgalomba hozatali azonosító nélkül forgalmazható Magyarországon.
+
+Borászati termék Európai Gazdasági Térségen kívüli országból történő behozatalához azonban szükség van analitikai és érzékszervi vizsgálati eredményre, valamint forgalomba hozatali azonosítóra, megteremtve a további feldolgozásra Magyarország területére behozott borászati termékek megfelelő ellenőrzésének feltételeit.
+
+A 11. §-hoz
+
+A törvény meghatározza az uniós jog által megkülönböztetett földrajzi árujelző típusok (eredetmegjelölés és földrajzi jelzés) használatára vonatkozó legalapvetőbb nemzeti szintű követelményeket.
+
+A 12. §-hoz
+
+A hagyományos kifejezés oltalma, az oltalom alatt álló hagyományos kifejezés módosítása és a hagyományos kifejezés oltalmának törlése iránti eljárás hossza meghaladja az Ákr. szerint egyébként irányadó 60 napot, ezért az eljárási határidőt törvényben kell megállapítani.
+
+A hagyományos kifejezések oltalmával kapcsolatos eljárás tagállami szakasza (nemzeti eljárás) során kell a tagállamnak meggyőződnie arról, hogy teljesülnek-e az oltalomnak a vonatkozó uniós rendeletekben (1308/2013/EU európai parlamenti és tanácsi rendelet, az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazati eredetmegjelölésekre, földrajzi jelzésekre és hagyományos kifejezésekre vonatkozó oltalom iránti kérelmek, a kifogásolási eljárás, a használatra vonatkozó korlátozások, a termékleírások módosítása, az oltalom törlése, valamint a címkézés és a kiszerelés tekintetében történő kiegészítéséről szóló, 2018. október 17-i (EU) 2019/33 felhatalmazáson alapuló bizottsági rendelet, valamint az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az alkoholtartalom-növelés engedélyezésére vonatkozó lehetőség által érintett szőlőtermő területek, az engedélyezett borászati eljárások és a szőlőből készült termékek előállítására és tartósítására alkalmazandó korlátozások, a melléktermékek százalékos arányban megadott minimális alkoholtartalma és a melléktermékek kivonása, valamint az OIV adatlapjainak közzététele tekintetében történő kiegészítéséről szóló, 2019. március 12-i (EU) 2019/934 felhatalmazáson alapuló bizottsági rendelet) meghatározott feltételei. Emellett a tagállamnak ezen eljárás során gondoskodnia kell a legalább 2 hónapig tartó kifogásolási eljárás lefolytatásáról is.
+
+A 13. §-hoz
+
+A földrajzi árujelzők közösségi márkaként való működésének fontos előfeltétele, hogy legyen valós jogosultsággal bíró kezelő szervezetük. Ennek érdekében a törvény definiálja a földrajzi árujelzőt kezelő hegyközségi szervezet fogalmát, valamint - a korábbiak megtartása mellett - a termelői közösségek részére új jogosultságokat határoz meg az oltalom alatt álló földrajzi árujelző felhasználásának korlátozására, menedzselésére.
+
+A magyarországi bortermőhelyek igen nagy változatosságot mutatnak, sokszor még egy borvidéken belül is komoly különbségek vannak a termőhelyi sajátosságok között. Ezt a sokszínűséget csak egy jól működő eredetvédelmi rendszer tudja rendezetté tenni, és ezáltal hatékonyan kommunikálni ezt az értéket a piacon. Ezért a magyar szőlő-bor ágazat általános és stratégiai érdeke, hogy eredetvédelmi rendszer kifejező legyen mind a fajtaszerkezetet, mind pedig a minőségi szintet illetően.
+
+A termelői közösségek a miniszter jóváhagyásával meghatározhatják az általuk kezelt földrajzi árujelző termőterületén telepíthető szőlőfajtákat. Ez elősegítheti, hogy kizárólag olyan fajtákat telepítsenek ezeken a területeken, amelyek a korábbi termesztési tapasztalatok alapján alkalmasak arra, hogy az adott termőterület adottságai mellett megfelelő minőségű és mennyiségű termést hozzanak.
+
+A törvény emellett megteremti a piaci viszonyokhoz való gyors alkalmazkodás lehetőségét a termelői közösségek számára a minőségi szint minimumának meghatározásakor. A termelői közösségek (a földrajzi árujelzőt kezelő hegyközségi szervezetek, jellemzően a borvidéki, valamint a borrégiós tanácsok) ezáltal lehetőséget kapnak arra, hogy indokolt esetben, az agrárpolitikáért felelős miniszter hozzájárulásával éves szinten eseti eltérést állapítsanak meg a minimális cukortartalomra, valamint a maximális hozamra vonatkozó szabályok alól. Ezen intézkedés egyrészt a piaci viszonyokhoz való jobb alkalmazkodást segíti elő, másrészt ez a fajta rugalmasság arra ösztönzi a termelőket, hogy a minőségi szint minimumát ne az elképzelhető leggyengébb évjáratok feltételezett viszonyaira szabják. Így a termelői közösségek kisebb kockázattal dönthetnek a szigorúbb névhasználati szabályok bevezetése (vagyis a közösségi márkákhoz kapcsolódó minimális minőségi szint emelése) mellett.
+
+A miniszter fenti esetekben hozzájárulását akkor tagadhatja meg, ha a földrajzi árujelzőt kezelő hegyközségi szervezet tervezett intézkedése a szőlő-bor ágazat általános érdekeivel ellentétes.
+
+A 14. §-hoz
+
+A földrajzi árujelzők közösségi márkaként való működésének további előfeltétele, hogy a termelői közösségek megfelelő súlyú szankciókat is hozhassanak az általuk kezelt földrajzi árujelzővel rendelkező borászati terméket hamisító vagy hamis termékjelölést alkalmazó hegyközségi tagokkal szemben. A rendelkezés értelmében a termelői közösség az ilyen tagokat legfeljebb 5 évre eltilthatja az adott földrajzi árujelző vagy annak termékleírásában meghatározott kisebb földrajzi egység nevének használatától. E rendelkezést a 2004. évi XVIII. törvény is tartalmazta.
+
+A 15. §-hoz
+
+Egyre gyakrabban lehet találkozni a kereskedelemben olyan szőlőt vagy bort tartalmazó, borászati terméknek nem minősülő termékkel, amelynek címkéjén a borászati termék földrajzi árujelzőjével azonos földrajzi név szerepel. A törvényjavaslat értelmében ezeken a termékeken földrajzi árujelzőt feltüntetni - a 2004. évi XVIII. törvény rendelkezését átemelve - a jövőben is csak a földrajzi árujelzőt kezelő hegyközségi szervezet engedélyével lehetséges.
+
+A 16. §-hoz
+
+A termőhelyi elővásárlási opciónak nevezett eljárás célja közvetlen piaci beavatkozási eszköz biztosítása a Tokaj, illetve az Eger eredetmegjelölést kezelő hegyközségi szervezet (mint a termelői közösség képviselője) részére az eredetmegjelölés piaci értékének megőrzése. A Bortörvény által biztosított lehetőség alkalmazásáról tehát helyben döntenek.
+
+Az eljárás kizárólag a hegyközségi tagok közötti borászati termék tranzakcióira terjed ki. Az intézkedés elővásárlási jogot biztosít az eredetmegjelölést használó vagy annak használatára potenciálisan jogosult borászati termék más hegyközségi tagnak történő értékesítése során azon hegyközségi tagoknak, akik az adott borvidéken belül végzik borászati tevékenységüket.
+
+A 17. §-hoz
+
+A világörökség részét képező Tokaj-hegyaljai történelmi borvidék kultúrtáj, illetve a terület évezredes borászati kultúrája, a tokaji borkülönlegességek kiemelkedő egyetemes értéket képviselnek, ezért a magyar jogtörténeti hagyományokhoz híven a indokolt az 1737 óta zárt borvidékként működő Tokaj-hegyaljai történelmi borvidékre, illetve a tokaji borokra vonatkozóan külön rendelkezések szerepeltetése a törvény szövegében.
+
+A 18. §-hoz
+
+Törvényi szinten szükséges meghatározni az ePincekönyv rendszer által kezelt adatok körét, továbbá az üzemeltető Hegyközségek Nemzeti Tanácsa, valamint a borágazatban adatokat kezelő és használó egyes hatóságok, intézmények közötti adatátadás módját és az adatok felhasználásának céljait.
+
+A 19. §-hoz
+
+Az ePincekönyv rendszer - az eSZJA mintájára - a termelői adatszolgáltatások alapján automatikusan előállítja a borjogban meghatározott jelentések tervezetét. Ezeket a termelők - szükség esetén - javíthatják, pontosíthatják vagy kiegészíthetik. Az elkészített jelentéstervezeteket a rendszer termelői beavatkozás nélkül elfogadottnak tekinti.
+
+A 20. §-hoz
+
+A hegybíró a szőlő-bor ágazat szereplőiről és a használatukban lévő szőlőparcellákról gazdasági aktát vezet. Ez a nyilvántartás jelenti az alapját a kérelmezéseknek, adatszolgáltatásoknak, jelentéseknek, bejelentéseknek és a mezőgazdasági és vidékfejlesztési támogatási szerv által megítélt támogatásoknak. A gazdasági akták összessége alkotja a szőlőkatasztert, amelynek vezetése Európai Uniós kötelezettség.
+
+Az 1308/2013/EU európai parlamenti és tanácsi rendelet 145. cikke alapján kötelező a szőlőkataszter és a termelési potenciálra vonatkozó jegyzék összeállítása és karban tartása, amennyiben egy tagállamok a szőlőültetvények engedélyezésére vonatkozó rendszert vagy az EMGÁ-ból finanszírozott szőlő-bor nemzeti támogatási programot alkalmaz. Magyarország élni kíván mindkét lehetőséggel, így szükséges ezen adatbázisok vezetése. Az egyértelműség kedvéért Magyarország továbbra is a korábbi elnevezést (gazdasági akta) használja gyűjtőfogalomként.
+
+Az adatbázisok minimális adattartalmát uniós jogi aktusok (az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőtelepítésekre vonatkozó engedélyezési rendszer, a szőlőkataszter, a kísérőokmányok és a kapcsolódó tanúsítás, a bevételezési és kiadási nyilvántartás, a kötelező bejelentések, az értesítések és a bejelentett információk közzététele tekintetében történő kiegészítéséről, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a releváns ellenőrzések és szankciók tekintetében történő kiegészítéséről, az 555/2008/EK, a 606/2009/EK és a 607/2009/EK bizottsági rendelet módosításáról, továbbá a 436/2009/EK bizottsági rendelet és az (EU) 2015/560 felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2017. december 11-i (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet, valamint az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőtelepítésekre vonatkozó engedélyezési rendszer, a tanúsítás, a bevételezési és kiadási nyilvántartás, a kötelező bejelentések és értesítések tekintetében, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a releváns ellenőrzések tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, továbbá az (EU) 2015/561 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2017. december 11-i (EU) 2018/274 bizottsági végrehajtási rendelet) határozzák meg, amelyeket figyelembe véve sorolja fel a törvény a gazdasági akta személyes adatot is magába foglaló tartalmát.
+
+A 21. §-hoz
+
+A törvény megállapítja a Hegyközségek Nemzeti Tanácsa éves ellenőrzési terv készítésére vonatkozó kötelezettségét, valamint a borászati hatóság kormánytisztviselőjének jogosultságait a helyszíni ellenőrzés végzése során.
+
+A borászati hatóság jogosult próbavásárlás végzésére is, amely tekintetében a törvény az Éltv. szabályainak alkalmazását rendeli el.
+
+A 22. §-hoz
+
+A törvény felsorolja a hegybíró, a borászati hatóság, valamint a növénytermesztési hatóság által alkalmazható intézkedéseket az előírásoknak való meg nem felelés észlelése esetén. Ezek alapján jogkövetkezmény lehet többek között az ültetvény átalakításának, kivágásának elrendelése, a borászati üzemengedély visszavonása vagy felfüggesztése, mulasztási bírság, minőségvédelmi bírság kiszabása, továbbá a borászati termék zárlatának, megsemmisítésének vagy lepárlásának elrendelése.
+
+A törvényben foglalt jogkövetkezmények mellett lehetőség van a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szankciók kiszabására is. Ilyen szankció a figyelmeztetés, a tevékenységtől eltiltás, a bírság kiszabása vagy az elkobzás. A hegybíró így például figyelmeztetheti az ültetvény használóját a szőlőültetvény rendeltetésszerű művelésére, a telepítési engedély módosításának kérelmezésére, a szőlőültetvény átalakítására, telepítése, kivágása megkezdésére vagy befejezésére, valamint mulasztási bírságot szabhat ki.
+
+-----STARTING---POINT---VEGE---
+
+A 23. §-hoz
+
+A törvény felhatalmazást ad a Kormány, valamint az agrárpolitikáért felelős miniszter számára a végrehajtási rendeletek megalkotására.
+
+A 24. §-hoz
+
+A törvény rendelkezései a kihirdetését követő borpiaci év első napján, 2021. augusztus 1-jén lépnek hatályba.
+
+A 25. §-hoz
+
+Átmeneti rendelkezés annak érdekében, hogy a törvény hatálybalépésekor már forgalmazott, Tokaji borkülönlegességekre utaló nevet viselő nem borászati termékek forgalmazhatósága ne sérüljön.
+
+A 26. §-hoz
+
+A rendelkezés felsorolja azon uniós jogi aktusokat, amelyek végrehajtását szolgálja a törvényjavaslat.
+
+A 27-34. §-hoz
+
+A törvénnyel való összhang megteremtése érdekében szükségessé vált a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: Hktv.) módosítása is, melynek keretében többek között pontosításra kerül a hegybíró feladatköre, módosulnak a Hktv. értelmező és felhatalmazó rendelkezései, valamint átvezetésre kerülnek a származási bizonyítvánnyal kapcsolatos változások a Hktv. szövegén.
+
+A 35-36. §-hoz
+
+A törvényjavaslat módosítja a jövedéki adóról szóló 2016. évi LXVIII. törvényt, előírva az állami adó- és vámhatóság számára, hogy egyszerűsített adóraktári engedély visszavonásáról értesítse a borászati hatóságot, megteremtve annak lehetőségét, hogy a borászati hatóság visszavonhassa a borászati termék előállítására, kezelésére vagy tárolására kiadott borászati üzemengedélyt.
+
+A 37. §-hoz
+
+A törvény hatályon kívül helyezi a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvényt.

@@ -1,0 +1,45 @@
+2016. évi LIV. törvény indokolása
+
+a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az elektronikus közigazgatás kiterjesztésének lényegi eleme az önkormányzatoknál folyó, lényegében a teljes lakosságot érintő közigazgatási munka számítástechnikai eszközökkel történő támogatása. Az önkormányzati feladatellátás egységességének biztosítása, az ország pénzügyi stabilitásának megőrzése érdekében a feladatellátáshoz az állam ad központi számítástechnikai támogatást.
+
+Jelentős számú ügyfél központi kiszolgálásához az ASP technológia alkalmazása indokolt, amelynek lényege, hogy az ügyfél nem magát a számítógépes programot vásárolja meg, telepíti fel a gépére és kezdi el annak használatát, hanem egy szolgáltató központtól szolgáltatásként veszi igénybe az alkalmazásokat.
+
+Az ASP technológia használata jelenleg már több önkéntesen közreműködő önkormányzat esetében megvalósult, a törvény célja, hogy a technológia alkalmazása országosan elterjedjen és így egységes informatikai rendszer álljon rendelkezésre az önkormányzati feladatellátáshoz. Továbbá egy olyan adattárház kialakítása, amely biztosítja az önkormányzatok gazdálkodásával kapcsolatos adatok elemzését, illetve az önkormányzati adatszolgáltatások központi alapokra helyezését.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása biztosítja, hogy a helyi önkormányzatok országosan egységesen a pénzügyi, ügyviteli, ügyintézési és egyéb alapvető feladatok egységes szabályok szerinti elvégzését, átláthatóságát biztosító - az állami informatikai rendszerrel összekapcsolható - informatikai rendszert működtessenek, mely a folyamatos pénzügyi állami ellenőrzés eszközeként is szolgál.
+
+A törvény a továbbiakban előírja a helyi önkormányzatok számára egy adott, az állam által biztosított - a helyi önkormányzatok feladatellátását támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó - konkrét informatikai rendszerhez (a továbbiakban: önkormányzati ASP rendszer) való kötelező csatlakozást. Így a törvény kimondja az önkormányzati ASP rendszer országosan egységes, kötelező alkalmazását, annak érdekében, hogy a helyi önkormányzatok egyes kötelező feladatai megfelelő informatikai támogatással valósulhassanak meg. A csatlakozás további szabályait - a csatlakozás módját, végső határidejét és az önkormányzati ASP rendszer szakrendszereinek részletezése - a törvény kormányrendeleti szinten rendeli meghatározni.
+
+Tekintettel arra, hogy a törvény előírja az önkormányzatok kötelező csatlakozását az önkormányzati ASP rendszerhez, a törvény arról is rendelkezik, hogy a csatlakozást követően a helyi önkormányzatok új - az önkormányzati ASP rendszer szakrendszerei által egyébként támogatott feladatok ellátására - szerződést ne kössenek.
+
+A törvény kötelezővé teszi továbbá - az önkormányzati eladósodási folyamatok megindulásának felismerése és megakadályozása, a közpénzek önkormányzati felhasználása, a feladatfinanszírozás és a likviditási helyzet folyamatos nyomon követése céljából, a helyi önkormányzat gazdálkodási feladatainak támogatása és a folyamatos állami pénzügyi ellenőrzés feltételeinek biztosítása érdekében - egy adattárház felállítását. Az adattárházzal kapcsolatos részletszabályok megalkotására szintén a Kormány kap felhatalmazást.
+
+A 2. §-hoz
+
+A Kormány annak rendeletben történő meghatározására kap felhatalmazást, hogy az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati ASP rendszer szakrendszereit, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit meghatározza.
+
+A 3. §-hoz
+
+Tekintettel arra, hogy az önkormányzati ASP központhoz kapcsolódó szabályok nem érintik a Mötv. sarkalatos rendelkezéseit, ezért az e feladatokhoz kapcsolódó jogalkotási felhatalmazás sem sarkalatos szabály.
+
+A 4. §-hoz
+
+A Mötv. 114. § (2) bekezdése szerinti önkormányzati ASP rendszerhez való kötelező csatlakozás végső határidejével kapcsolatban a törvény előírja, hogy a csatlakozás kormányrendeletben meghatározott végső határideje nem lehet korábban, mint a Mötv.-t módosító törvény felhatalmazása alapján megalkotott, a csatlakozás végső határidejét szabályozó kormányrendelet hatálybalépését követő 90. nap.
+
+A törvény a továbbiakban az önkormányzati ASP rendszerhez való csatlakozás megvalósulásáig terjedő átmeneti időszak vonatkozásában szabályozza az esetlegesen érintett új szerződések megkötésének szabályát is. Továbbá elrendeli a törvény a meglévő szerződések felülvizsgálatát, illetve hogy az önkormányzat a felülvizsgálat eredménye alapján a meglévő szerződését úgy módosítsa, hogy az az ASP rendszerhez történő csatlakozás időpontjára felmondható, vagy az a csatlakozás egy kormányrendeletben meghatározott módon megvalósítható legyen. A meglévő, de a csatlakozás időpontjáig lejáró szerződések pedig legfeljebb a csatlakozás időpontjáig hosszabbíthatóak meg.
+
+A rendelkezés ugyanakkor azt is biztosítja, hogy ha a szerződések módosítása nem lehetséges úgy, hogy annak eredményeképpen megvalósulhasson egy a kormányrendeletben meghatározott feltételeknek megfelelő csatlakozási forma, akkor a szerződések kényszerű felmondásából adódó, az önkormányzatot terhelő, jogerős bírósági döntésben megítélt összeg erejéig az állam az önkormányzatot utólag kártalanítja.
+
+-----STARTING---POINT---VEGE---
+
+Az 5. §-hoz
+
+Hatályba léptető rendelkezést tartalmaz.

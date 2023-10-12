@@ -1,0 +1,153 @@
+2015. évi CLII. törvény indokolása
+
+a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény és azzal összefüggésben más törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) hatályos rendelkezései alapján az ujj- és tenyérnyomat, valamint a DNS-mintához tartozó azonosító kódokat ügyhöz kötötten kezeli a bűnügyi nyilvántartási rendszer az egyes bűnügyi résznyilvántartásokban. Egy személynek tehát akkor is leveszi az eljárást folytató nyomozó hatóság, az ügyészség vagy az elítéltet befogadó büntetés-végrehajtási intézet a mintáit, ha egy korábban elkövetett bűncselekmény miatt folytatott büntetőeljárás okán már szerepelnek a biometrikus adatai a nyilvántartásban. Ez azt jelenti, hogy ugyanattól a személytől az újabb büntetőeljárások esetén az ismételt mintavétel tulajdonképpen felesleges, ez pedig komoly költséget jelent, illetve indokolatlan munkaterhet okoz mind a mintavétel, mind a minták elemzése, feldolgozása során. Az megállapítható, hogy az ujj- és tenyérnyomatok esetében fenn kell tartani a jelenlegi mintavételi eljárás rendszerét, mert azok időközben az életkorral vagy külső körülmények miatt (például egy mélyre hatoló sérülés) megváltozhatnak, de a szájnyálkahártya-törletekkel, illetve az ebből megállapított DNS-profilokkal kapcsolatban szükségesnek és lehetségesnek mutatkozik a mintavételi kötelezettség szűkítése és ennek megfelelően új eljárásrend kialakítása. Ez alapján pedig olyan mintavételi protokoll kialakítását tartalmazza a törvény, amely révén elérhető, hogy ha egy személlyel kapcsolatban a nyilvántartásban már szerepel az új szabályoknak megfelelő DNS-profil, akkor az esetlegesen lefolytatandó újabb büntetőeljárásban ne legyen szükség ismételt mintavételre. A törvény adatbiztonsági szempontok miatt, illetve a későbbi azonosítás megbízhatóságának biztosítása érdekében olyan esetekben teszi lehetővé a DNS-profil-nyilvántartásba történő felvétel céljából történő későbbi mintavétel mellőzését, ha a nyilvántartásban már kettő DNS-profil szerepel az érintettől.
+
+Az ujj- és tenyérnyomatok esetében pedig az új eljárásrend biztosítaná, hogy egy személytől levett valamennyi ilyen biometrikus adat megőrizhető legyen a bűnügyi nyilvántartási rendszerben mindaddig, ameddig egyébként az érintett személy bűnügyi adatai a nyilvántartásban szerepelnek. Ez növelheti a daktiloszkópiai adatok alapján végzendő, később szükségessé váló személyazonosítás hatékonyságát.
+
+A módosítást követően a biometrikus adatokhoz tartozó azonosító kódok (tehát nem maguk a biometrikus adatok) a személyazonosító adatok és fényképek nyilvántartásának adattartalmává válnak, ami sokkal hatékonyabb és átláthatóbb adatkezelést eredményez. Ezen túlmenően az adatkezelés terén egy hatékonyabb, költségkímélőbb és alacsonyabb munkaleterhelést eredményező nyilvántartás kialakítása érhető el azáltal, hogy a módosítás ésszerűsíti a mintavételi eljárást, az adatkezelést és az adatigénylést is.
+
+A törvény másik lényeges pontja a Bnytv.-t érintő módosításokhoz is kapcsolódóan, hogy jelentősen átalakítja a büntetés-végrehajtási intézetekben a befogadás során az elítéltek személyazonosításával kapcsolatos eljárást. A módosítás egyik célja, hogy elkerülhetővé váljon a felesleges ujjnyomatvétel a személyazonosítás során. A felesleges mintalevételek kizárásával mentesíteni lehet a Bűnügyi Szakértői és Kutatóintézetet (a továbbiakban: BSZKI) is a felesleges szakértői munka elvégzésétől.
+
+A másik cél, hogy az új eljárásrend révén hatékony eljárási eszközöket biztosítson a jogalkotó az ún. bérrabság jelensége ellen. A törvény tehát azon társadalmi érdek érvényre juttatását kívánja elősegíteni, hogy minden esetben biztosan annak a személynek a személyi szabadságát vonja el az állam, akivel szemben a bíróság jogerős ítéletet hozott. Ennek érdekében rendelkezik a törvény arról, hogy minden befogadott elítélt esetén el kell végezni az ujjnyomat révén történő személyazonosítást az ujjnyomatok összehasonlítását egyszerűen és gyorsan biztosító megoldással. Ennek érdekében a büntetés-végrehajtási intézetekben olyan elektronikus berendezések rendszerbe állítására van szükség, amelyek segítségével elektronikus úton, csekély idő alatt lehetőség nyílik az érintett ujjnyomatának a BSZKI által vezetett bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt daktiloszkópiai adatokkal való összehasonlítására.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1-5. §-hoz
+
+A törvénynek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) módosítására vonatkozó rendelkezései a büntetés-végrehajtási intézetekben a befogadás során az elítéltek személyazonosításával kapcsolatos eljárás módosítására vonatkoznak. Ezen rendelkezések alapján, ha a bűnügyi nyilvántartási adatok, illetve az ujjnyomat összehasonlítása során kétség merül fel a befogadni kívánt személy személyazonosságával kapcsolatban, akkor a büntetés-végrehajtási intézetnek lehetősége nyílik arra, hogy a különböző, a személyazonosítást lehetővé tevő állami nyilvántartásokból történő adatlekérdezés révén az érintett kétséges személyazonosságát tisztázni tudja. A törvény ennek megfelelően, a megfelelő adatkezelési szabályozás kialakítása érdekében módosítja a szóban forgó nyilvántartásokra vonatkozó törvényeket és megjeleníti azokban a büntetés-végrehajtási intézetek adathozzáférési jogosultságát, illetve pontosan meghatározza a nyilvántartásokból átvehető személyes adatok körét. A következő nyilvántartásokból vehet át adatokat a büntetés-végrehajtási intézet: a személyiadat- és lakcímnyilvántartásból, a közúti közlekedési nyilvántartás engedély-nyilvántartásából, az útiokmány-nyilvántartásból, illetve az idegenrendészeti nyilvántartásokból.
+
+A 6., 14. és a 42. § 1-5. pontjához
+
+A Bnytv. módosítása a gyakorlatban betöltött, illetve a módosítás alapján betölteni tervezett tényleges funkciója alapján határozza meg a belső azonosító kód új fogalmát és végzi el ezzel egyidejűleg az új funkciónak megfelelő technikai módosításokat.
+
+A 7. §-hoz
+
+A hatályos szabályozás alapján az ujj- és tenyérnyomathoz, valamint a DNS-mintához tartozó azonosító kódokat ügyhöz kötötten kezeli a bűnügyi nyilvántartási rendszer az egyes bűnügyi résznyilvántartásokban. A módosítást követően ezek az adatok a személyazonosító adatok és fényképek nyilvántartásának adattartalmává válnak, ami sokkal hatékonyabb és átláthatóbb adatkezelést eredményez.
+
+A módosítás abból indul ki, hogy a mintaadási kötelezettség az érintett személyt terheli, amely kötelezettség teljesítése során adott ujj- és tenyérnyomat, valamint DNS-minta a személyt azonosítja, ezért az ezekre vonatkozó azonosító kódok nyilvántartása a személyazonosító adatok között célszerű.
+
+Ezen túlmenően az adatkezelés terén egy hatékonyabb, költségkímélőbb és alacsonyabb munkaterhelést eredményező nyilvántartás kialakítása érhető el a módosítással. Az adatigénylőnek elegendő lesz a saját eljárásában érintett személyről a személyazonosító adatok és fényképek nyilvántartásában tárolt adatokat megismerni a szükséges információhoz, nem kell lekérdeznie az összes bűnügyi nyilvántartást, valamint nem kell hozzáférnie a bűnügyi és biometrikus adatok nyilvántartásaihoz sem. Az adatkezelőknek pedig egy, a jelenleginél kevesebb adatot tartalmazó nyilvántartást kell naprakészen tartaniuk annak ellenére, hogy egy új adatkör is a nyilvántartás részévé válik.
+
+Ez az új adatkör arról ad az adatigénylőnek információt, hogy a mintaadásra kötelezett személlyel szemben fennáll-e a mintavételi kötelezettség, vagyis a személy rendelkezik-e a jogszabály által meghatározott feltételnek megfelelő DNS-profillal.
+
+A 8. §-hoz
+
+Ha az ujj- és tenyérnyomat, illetve a DNS-profil nyilvántartásban történő kezelésének feltételei fennállnak, a nyilvántartásba vételhez szükséges adatokat a bűnügyi nyilvántartó szerv küldi meg a szakértői nyilvántartó szerv részére.
+
+Az a tény, hogy kezelnek-e az érintett személyről a jogszabályban meghatározott feltételeknek megfelelő DNS-profilt, kizárólag a szakértői nyilvántartó szerv által ismert és vizsgálható információ, ezért azt a bűnügyi nyilvántartó szerv részére a szakértői nyilvántartó szerv küldi meg a szakrendszeri azonosító kód megküldésével.
+
+A szakértői nyilvántartó szerv a minta elemzését követően az ujj-és tenyérnyomatot, valamint a DNS-profilt szakrendszeri azonosító kóddal látja el, amelyet megküld a bűnügyi nyilvántartó szerv részére. Ezzel egyidejűleg azokat az adatokat, amelyek a nyilvántartásba vételhez és a két szerv közötti kommunikációhoz ugyan szükségesek, de azok további kezelése a szakértői nyilvántartó szerv számára nem indokolt, törli.
+
+A 9., a 20-21. és a 27-28. §-hoz
+
+Az érintettnek a személyazonosító adatok és fényképek nyilvántartásában kezelendő adatainak nyilvántartási ideje kétféle lehet, a módosítás a hatályos szabályozáshoz képest újdonságot hoz. Egyrészt az érintettel szemben történt mintavétel tényét, másrészt a minták eredményes feldolgozásának tényét jelentő azonosító kódok addig képezhetik a személyazonosító adatok és fényképek nyilvántartásának adattartalmát, amíg az érintettel szemben fennáll a mintavételi kötelezettség.
+
+Az ujj- és tenyérnyomatot, valamint a DNS-profilt a hozzájuk tartozó kódokkal együtt csupán addig lehet kezelni, amíg annak törvényi alapja fennáll. Ezt az alapot pedig az érintettel szemben folyó büntetőeljárás alapjául szolgáló bűncselekmény, illetve a büntetőeljárásban kiszabott szankció határozza meg. Ez a szabály egyformán érvényesül mind a két biometrikus azonosító tekintetében.
+
+A 10-13. §-hoz
+
+A külföldi ítélet érvényének elismerése esetén a külföldi bíróság által kiszabott szankcióra vonatkozó végrehajtási adatok a bűnügyi nyilvántartási rendszer adattartalmát képezik. Ezen adatok adatközlője az a bíróság, amely előtt az eljárás befejeződött, illetve amely előtt a határozat jogerőre emelkedett.
+
+Az egyes külföldi elítéléseknek magyar bíróság általi elismerésekor és ezáltal a magyar bűnügyi nyilvántartási rendszerbe történő nyilvántartásba vételekor azonban sok esetben a nyilvántartó szerv még nem rendelkezik végrehajtási adatokkal, mert a bíróság azokat nem közli a nyilvántartó szervvel vagy azok csak később szerezhetőek be. Ha a szabadságvesztés büntetés végrehajtását nem adják át Magyarországnak, úgy ezek az adatok kizárólag a külföldi szervektől szerezhetők be.
+
+A módosítás a fentiek érdekében lehetővé teszi a bűnügyi nyilvántartó szervnek, hogy a külföldi hatóságtól adatközlés útján megkapott, illetve hiteles irattal igazolt végrehajtási adatokat bejegyezhesse az egyes résznyilvántartásokba, meghatározza továbbá, hogy mely időpont tekinthető a foganatba vétel időpontjának. A törvény rendezi továbbá azt a kérdést is, hogy a külföldi ítélet elismerése esetén az adatok meddig szerepelhetnek a bűnügyi nyilvántartásokban. Ennek érdekében a módosítás vélelmeket állít fel arra vonatkozóan, hogy mikor kell kitöltöttnek tekinteni a szankciót.
+
+A Bnytv. 13. § új (2) bekezdése azt az esetet rendezi, ha a magyar bíróság a külföldi ítélet érvényének az elismerésekor közli a Bnytv. 11. § (1) bekezdés k) pont kg) pontjában szereplő adatot, azaz a törvényi mentesítés várható időpontját. A Bnytv. 13. § új (3) bekezdésében megfogalmazott rendelkezés pedig azt a helyzetet hivatott szabályozni, amikor az elismerésről döntő bíróság nem közli a törvényi mentesítés várható időpontját és erre tekintettel állapítja meg azon szabályt, amely révén minden esetben egyértelműen kiszámítható a bűntettesek nyilvántartásából történő törlés időpontja.
+
+A 15-19. és a 35. §-hoz
+
+Az ujj- és tenyérnyomathoz tartozó belső azonosító kód és szakrendszeri azonosító kód addig képezi a bűnügyi nyilvántartási rendszer részét, amíg a személlyel szemben fennáll az ujj- és tenyérnyomat kezelésének jogalapja és egyben kötelezettsége. Ellentétben tehát a jelenlegi szabályozással és gyakorlattal, a levett minták nem kerülnek selejtezésre akkor, amikor a mintavételt megalapozó büntetőügy adatai törlődnek, hanem addig maradnak a nyilvántartás részei, amíg a személlyel szemben az adatkezelés jogalapja fennáll. Az újonnan levett minták nem is váltják fel a korábbit, a mintákat a nyilvántartás egymás mellett kezeli majd. A korábban levett minta ugyanis referenciamintaként bír jelentőséggel, hiszen az újonnan levett minták esetén az a tény, hogy a személy ugyanazon személy, mint akitől a legelső mintát levették, kizárólag így igazolható. Emellett ennek a megoldásnak praktikus oka is van, hiszen egy később levett minta minősége lehet rosszabb, mint a már nyilvántartotté.
+
+A 22-26. és a 36. §-hoz
+
+A mintavétel a DNS-profil meghatározása érdekében az új szabályozás révén úgy változik, hogy ha az érintettről a nyilvántartás adatai szerint kezelnek kettő darab, a külön jogszabálynak megfelelő DNS-profilt, akkor nem kerül sor újabb mintavételre.
+
+A törvény adatbiztonsági szempontok miatt, illetve a későbbi azonosítás megbízhatóságának biztosítása érdekében olyan esetekben teszi lehetővé a DNS-profil-nyilvántartásba történő felvétel céljából történő későbbi mintavétel mellőzését, ha a nyilvántartásban már kettő DNS-profil szerepel az érintettől. Ennek oka, hogy csak legalább két különböző mintavétel azonos vizsgálati eredménye zárhatja ki az esetleges mintacseréből, adminisztratív hibából következő téves adatkapcsolatot a DNS-profil és az érintett személy között.
+
+A módosítás szabályozza a büntetőeljárás alá vont személyek DNS-profiljának nyilvántartásába felvett adatok nyilvántartási idejét, valamint meghatározza, hogy a bűncselekmény miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartásában kinek az adatait kell nyilvántartani.
+
+A módosítás rendezi az adatkezelés rendjét arra az esetre nézve, amikor az érintett személynek a büntetőeljárás során nyilvántartásba vették a DNS-profilját, majd a bíróság bűnösséget megállapító ítélet hozott, illetve arra az esetre nézve is, amikor a büntetőeljárás során a DNS-minta felvételének feltételei nem álltak fenn, de ez a bíróság ítéletével megváltozott.
+
+A módosítás meghatározza az új rendszerű DNS-mintavétel szabályait, és ezzel egyidejűleg a személyazonosítás egy új eljárási rendjét.
+
+A 29. §-hoz
+
+A módosítás azt célozza, hogy a büntetés-végrehajtási szervezet a feladata végrehajtásához szükséges valamennyi adathoz hozzá tudjon férni.
+
+A 30. és 33. §-hoz
+
+A bűnügyi nyilvántartásból származó információk tagállamok közötti cseréjének megszervezéséről és azok tartalmáról szóló, 2009. február 26-i 2009/315/IB tanácsi kerethatározat (a továbbiakban: kerethatározat) 6. cikk (2) és (3) bekezdésének a teljes és hézagmentes átültetését szolgálják ezek a rendelkezések.
+
+A kerethatározat 6. cikk (2) bekezdése szerint bárki - akár magyar állampolgár Magyarországon - terjeszthet elő kérelmet a rá vonatkozó információkkal kapcsolatban, és ekkor a kérelem benyújtásának helye szerinti tagállam a nemzeti joga alapján megkeresheti azt a további tagállamot, amellyel - tudomása szerint - a megkereső személy kapcsolatba hozható (pl.: lakóhely, állampolgárság). A megkereső tagállam a megkeresett tagállam által küldött információt a saját adattovábbításával egyidejűleg megküldi az érintett személynek. Ez egy lehetőség és nem kötelezettség, amelyet a Bnytv. jelenleg nem szabályoz. A Bnytv. 79/A. § (1) bekezdése ezt a hiányosságot pótolja.
+
+A kerethatározat 6. cikk (3) bekezdése arról rendelkezik, hogy ha a megkereső személy állampolgársága a kérelem benyújtásának helye szerinti tagállamétól eltérő, akkor az állampolgárság szerinti tagállam megkeresése nem csak lehetőség, hanem kötelezettség. A megkereső tagállam a megkeresett tagállam által küldött információt a saját adattovábbításával egyidejűleg megküldi az érintett személynek. Ezt a szabályt sem tartalmazza jelenleg a Bnytv., a Bnytv. 79/A. § (2) bekezdése ezt a rendelkezést iktatja be a törvénybe.
+
+A 31-32. és 34. §-hoz
+
+A gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 10. cikke a gyermekek sérelmére elkövetett bűncselekmények ismételt elkövetésének elkerülése érdekében előírja a tagállamok számára, hogy tegyék lehetővé, hogy a munkáltató tájékozódni tudjon arról, hogy az alkalmazni kívánt személyt nem ítélték-e el ilyen bűncselekmény elkövetéséért vagy nem áll-e a kiskorúakkal való közvetlen és rendszeres kapcsolattartással járó tevékenység gyakorlásától való eltiltás hatálya alatt. A szóban forgó irányelvi rendelkezés az ilyen irányú információcserét az Európai Bűnügyi Nyilvántartási Információs Rendszeren (a továbbiakban: ECRIS) keresztül rendeli megvalósítani.
+
+A hatályos magyar szabályozás értelmében az ECRIS rendszeren keresztül valamely tagállam illetékes hatóságától érkező adatigénylésre a bűnügyi nyilvántartásban kezelt adatok csak büntetőeljárás céljából adhatók át. A büntetőeljárástól eltérő célból - mint amilyen az irányelv szerint a munkáltató tájékoztatása - adat kizárólag az érintett személy írásbeli kérésére, írásbeli hozzájárulásával továbbítható, és kizárólag az érintett személy részére, az ECRIS rendszeren keresztül nem.
+
+Az irányelv 10. cikk (1) bekezdése azt a kötelezettséget írja elő a tagállamok számára, hogy lehetővé kell tenniük, hogy az irányelv hatálya alá tartozó bűncselekmény miatt elítélt természetes személy átmenetileg vagy véglegesen eltiltható legyen legalább az olyan szakmai tevékenység gyakorlásától, amely a gyermekekkel való közvetlen és rendszeres kapcsolattartással jár.
+
+Az irányelv 10. cikk (2) bekezdése meghatározza továbbá, hogy a tagállamoknak biztosítaniuk kell azt is, hogy ha egy munkáltató gyermekekkel való kapcsolattartással járó tevékenységre kíván alkalmazni egy munkavállalót, akkor a munkáltató jogosult legyen a nemzeti joggal összhangban bármely megfelelő módon tájékozódni arról, hogy a bűnügyi nyilvántartásban szerepel-e bejegyzés az irányelv hatálya alá tartozó bűncselekmény miatti elítélésről. Az irányelv utal arra is, hogy ezen információról a munkáltató például megkeresés alapján vagy az érintett személyen keresztül tájékozódhat.
+
+A kizárólag az eredmény tekintetében kötelező 10. cikk (2) bekezdésében meghatározott cél - vagyis az, hogy a munkáltató a szükséges információkkal rendelkezzen - jelenleg az érintett személyen keresztül történő tájékoztatásnyújtás lehetőségével valósul meg. Az érintett a részére kiállított hatósági erkölcsi bizonyítvány bemutatásával tudja tájékoztatni a munkáltatót.
+
+Az irányelv 10. cikk (3) bekezdése alapján a tagállamoknak meg kell tenniük a szükséges intézkedéseket ahhoz, hogy az irányelv hatálya alá tartozó bűncselekményekkel összefüggő elítélésekről szóló információkat a kerethatározat által megállapított eljárásokkal összhangban továbbítsák, amennyiben hozzájuk erre irányuló, az érintett hozzájárulásával és a kerethatározat 6. cikke alapján benyújtott kérelem érkezik.
+
+A kerethatározat szerinti adatcsere nemzeti szintű részletszabályairól a Bnytv. 80-80/A. §-a rendelkezik.
+
+A fentiek alapján a Bnytv. olyan irányú módosítása vált indokolttá, amely a büntetőeljárástól eltérő célból érkező kérelmek közül kizárólag az irányelvre hivatkozva érkezett kérelmek tekintetében teszi lehetővé az ECRIS-en keresztüli adattovábbítást. Ilyen kérelem esetén kizárólag az irányelv hatálya alá tartozó bűncselekmények miatti korábbi elítélésekről szolgáltatható adat a megkereső tagállamnak.
+
+A módosítást követően tehát, ha a bűnügyi nyilvántartó szervhez olyan kérelem érkezik, amelynek célja a gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes tevékenység folytatásával összefüggő munkáltatói információkérés, akkor a magyar hatóság az ECRIS-en keresztül fog választ adni.
+
+A 37. és a 42. § 7. pontjához
+
+A módosítás felhatalmazást ad a rendészetért felelős miniszternek, hogy az arcképmás, az ujj- és tenyérnyomat, a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, továbbá az ujj- és tenyérnyomat, valamint szájnyálkahártya-törlet levételének részletes technikai szabályait, továbbá a DNS-profil meghatározásának szakmai-módszertani követelményeit, és a nyilvántartás technikai vezetésének részletes szabályait rendeletben állapítsa meg, ezzel egyidejűleg elvégzi a szükséges technikai módosítást.
+
+A 38. §-hoz
+
+Jogharmonizációs záradékot tartalmaz.
+
+A 39. §-hoz
+
+A módosítás új alcím címet iktat be a Bnytv.-be.
+
+A 40. §-hoz
+
+A módosítás átmeneti rendelkezésekkel egészíti ki a Bnytv.-t, amelyben kimondja, hogy a biometrikus adatokhoz kapcsolódó mintavételi rendre, az adatok nyilvántartására és az adatigénylés szabályaira vonatkozó rendelkezéseket a hatálybalépést követően elrendelt mintavételek esetében kell alkalmazni.
+
+A 41. §-hoz
+
+Az a) pont technikai jellegű módosítást tartalmaz. A b) pontban foglalt módosítás révén egyértelművé válik, hogy a nyomozó hatóság, az ügyészség vagy a bíróság közvetlen hozzáféréssel jogosult átvenni az európai unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásából az adatokat.
+
+A 42. § 6. pontjához
+
+A törvény 33. §-ához kapcsolódó technikai jellegű módosítást tartalmaz.
+
+A 43. §-hoz
+
+A törvény alapján - ellentétben a Bv. tv. hatályos 89. § (1) bekezdésével - minden befogadott elítélt esetén el kell végezni egyrészt a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásában kezelt adatokkal való összevetést, másrészt az ujjnyomat révén történő személyazonosítást. Az utóbbi elvégzése érdekében a büntetés-végrehajtási intézetekben olyan elektronikus berendezések rendszerbe állítására van szükség, amelyek segítségével elektronikus úton, csekély idő alatt lehetőség nyílik az érintett ujjnyomatának a BSZKI által vezetett bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt daktiloszkópiai adatokkal való összehasonlítására.
+
+A rendszer automatikusan jelzi az egyezést. Ez biztos módszert kínál arra, hogy minden elítélt esetében gyors és költséghatékony módon lehessen meggyőződni arról, hogy az a személy kezdi el a büntetés letöltését, akivel szemben a bíróság erről határozott. Ha a BSZKI arról tájékoztatja a büntetés-végrehajtási intézetet, hogy nem volt eredményes az összehasonlítás, akkor a törvény további lehetőségeket biztosít a büntetés-végrehajtás részére annak érdekében, hogy a különböző, a személyazonosítást lehetővé tevő állami nyilvántartásokból történő adatlekérdezés révén az érintett kétséges személyazonosságát tisztázni tudja.
+
+Ha a nyilvántartásokban szereplő adatokkal való összevetés sem hozott eredményt, végső esetben a büntetés-végrehajtási intézet az érintett személyazonosságának megállapítása érdekében a székhelye szerint illetékes rendőri szervet keresi meg.
+
+A 44-49. §-hoz
+
+A fentebb ismertetett, a befogadás során történő személyazonosítási eljárás nem minden büntetőjogi szankció, illetve kényszerintézkedés végrehajtása esetén alkalmazható. A törvény ezen rendelkezései ezért minden olyan szankció, kényszerintézkedés esetén, amelyek esetében csak iratok alapján történő személyazonosításra van szükség, kifejezetten rögzítik ezt. A törvény alapján a szabadságvesztés (ideértve a pénzbüntetés vagy közérdekű munka helyébe lépő szabadságvesztést is) és az elzárás esetén történő befogadás esetén alkalmazandó a fentebb ismertetett, hatékony személyazonosítást biztosító eljárásrend.
+
+-----STARTING---POINT---VEGE---
+
+Az 50. §-hoz
+
+A rendelkezés a hatálybaléptetés időpontját tartalmazza.
+
+Az 51. §-hoz
+
+Jogharmonizációs záradékot tartalmaz.

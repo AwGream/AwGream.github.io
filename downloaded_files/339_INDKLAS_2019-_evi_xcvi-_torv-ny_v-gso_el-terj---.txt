@@ -1,0 +1,605 @@
+2019. évi XCVI. törvény végső előterjesztői indokolása
+
+az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+A törvényjavaslat célja egyrészt az (EU) 2016/399 rendeletnek a határregisztrációs rendszer (EES) alkalmazása tekintetében történő módosításáról szóló (EU) 2017/2225 európai parlamenti és tanácsi rendelet, továbbá a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló (EU) 2017/2226 európai parlamenti és tanácsi rendelet (a továbbiakban: EES rendelet) végrehajtásához szükséges hazai szabályozás bevezetése.
+
+A törvényjavaslat célja másrészt az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló (EU) 2018/1240 európai parlamenti és tanácsi rendelet (a továbbiakban: ETIAS rendelet) végrehajtásához szükséges hazai szabályok bevezetése, valamint az ETIAS rendelet szerinti munkafolyamatok szabályozásának előkészítése.
+
+1. Az EES rendelet jogharmonizációja
+
+1.1. Az Európai Határregisztrációs Rendszer
+
+Az EES rendelet létrehozza a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló uniós határregisztrációs rendszert (Európai Határregisztrációs Rendszer, a továbbiakban: EES). Az EES éles működésbe lépésére az Európai Bizottság által az EES rendelet 66. cikk (1) bekezdése szerint meghozandó határozatban megjelölt időpontban kerül sor, amely a jelenlegi ütemezés szerint legkorábban 2022 első negyedéve.
+
+Az EES műszakilag az eu-LISA által létrehozandó és működtetendő központi rendszerből, a tagállami nemzeti egységes interfészekből, az interoperabilitás biztosítása céljából az Európai Határregisztrációs Rendszer és a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről szóló 767/2008/EK európai tanácsi rendelettel (a továbbiakban: VIS-rendelet) létrehozott Vízuminformációs Rendszer (a továbbiakban: VIS) közötti biztonságos kommunikációs csatornából, továbbá a központi rendszer és a nemzeti egységes interfészek közötti kommunikációs infrastruktúrából áll. A nemzeti egységes interfészek teszik lehetővé a központi rendszer biztonságos összekapcsolását a tagállamok nemzeti határinfrastruktúráival. Az Európai Határregisztrációs Rendszerhez egy központilag, az eu-LISA által működtetett webes szolgáltatás is tartozik, amely egyrészt lehetőséget ad az érintettek számára, hogy tájékozódjanak a rájuk vonatkozóan engedélyezett tartózkodás hátralevő idejéről, másrészt biztosítja a fuvarozók számára az EES rendelet 13. cikk (3) bekezdésében előírt ellenőrzés végrehajtásának infrastruktúráját.
+
+Az EES adatkezelési szempontból egy egységes uniós adatbázis, amely főszabályként rögzíti és tárolja az ezt működtető tagállamok schengeni külső határait átlépő
+
+a) rövid távú (bármely 180 napos időszakban legfeljebb 90 nap tartamú) tartózkodás céljából belépésre jogosult, határforgalom-ellenőrzés alá eső harmadik országbeli állampolgárok és
+
+b) a szabad mozgás és tartózkodás jogával rendelkező személyek tartózkodási kártyával, illetve tartózkodási engedéllyel nem rendelkező családtagjainak adatait, továbbá
+
+c) az olyan harmadik országbeli állampolgárok adatait, akiknek rövid távú tartózkodás céljából történő beléptetését a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet (a továbbiakban: SBC) 14. cikke alapján megtagadták.
+
+A fenti személyek vonatkozásában az EES az EES rendelet 15-18. cikkében foglalt adatokat tartalmazó egyéni aktát, továbbá belépési, illetve kilépési adatrekordokat vagy a beléptetés megtagadására vonatkozó adatrekordot tárol.
+
+Az EES éles működésének megkezdését követően az első határátlépés alkalmával a határforgalom-ellenőrzést végző hatóságnak minden érintett személyről egyéni aktát kell létrehoznia.
+
+Az akta tárolja az adott személy alfanumerikus (vezetéknév, utónév, születési idő, állampolgárság, nem; úti okmány típusa, száma, kiállító ország kódja, érvényességének lejárati dátuma; továbbá adott esetben, ha az az érintett személy valamely tagállam által bevezetett nemzeti könnyítési program kedvezményezettje, az erre vonatkozó jelzés), illetve biometrikus (arckép, 12 éven felüli, vízummentességet élvező személy ujjnyomata) személyazonosító adatait is.
+
+Az EES alkalmas azon utasok előzetes regisztrálására és a határellenőrzés ezirányú gyorsabbá és hatékonyabbá tételére is, akik a nemzeti könnyítési programban foglaltak alapján a rájuk vonatkozó belépési feltételek közül valamely belépési feltételek alól előzetesen mentesültek. A törvényjavaslat nem tartalmaz rendelkezést a könnyítési program bevezetésére.
+
+Az egyéni aktát minden határátlépés alkalmával frissíteni kell, és ahhoz kapcsolódóan belépési, illetve kilépési adatrekordot kell rögzíteni. Ez tartalmazza a be-, illetve kilépés dátumát, időpontját, az igénybe vett határátkelőhelyet, illetve belépés esetén az azt engedélyező hatóság megnevezését.
+
+Tartalmazza továbbá a vízumkötelezett személyek vonatkozásában a vízummal kapcsolatos egyes adatokat (rövid távú tartózkodásra jogosító vízumbélyeg száma a kiadó tagállam kódjával, vízum típusa, engedélyezett maximális tartózkodás lejárati dátuma, adott esetben érvényességének lejárati dátuma; első beutazáskor a vízumbélyegen megjelölt, engedélyezett beutazások száma és az engedélyezett tartózkodási idő; adott esetben a vízum korlátozott területi érvényessége).
+
+Végezetül tartalmazza a szabad mozgás és tartózkodás jogával rendelkező személyek tartózkodási kártyával, illetve tartózkodási engedéllyel nem rendelkező családtagjainak ilyen jogállását (mivel e személyek adataira az általánostól eltérő adatmegőrzési idő vonatkozik, illetve az ő esetükben az Európai Határregisztrációs Rendszer nem alkalmazza a jogszerű tartózkodás időtartamának automatizált számítását).
+
+Ha a határforgalom-ellenőrzést végző hatóság az SBC 14. cikke és V. melléklete alapján határozatot hoz a harmadik állampolgár rövid távú tartózkodás céljából történő beléptetésének megtagadásáról, az egyéni aktához kapcsolódóan a beléptetés megtagadására vonatkozó adatrekordot kell rögzíteni.
+
+Ez tartalmazza a beléptetés megtagadásának dátumát és időpontját, a határátkelőhely nevét, a beléptetést megtagadó szerv megnevezését és a beléptetés megtagadásának okát, továbbá a vízumkötelezett személyek vonatkozásában a vízummal kapcsolatos egyes adatokat.
+
+Az EES rendelet szerint az egyéni akta létrehozását - a valamely jogalapon a tagállam területén legálisan alkalmazkodó személy e tartózkodási jogcíme lejártát követően - határátlépés hiányában is kezdeményezheti a tagállam érintett idegenrendészeti, vagy vízumhatóságánál. A vízumok visszavonásáról vagy megsemmisítéséről, illetve az engedélyezett tartózkodás időtartamának vagy a vízum érvényességi idejének meghosszabbításáról hozott döntés esetében, illetve az olyan esetekben, amikor a harmadik országbeli állampolgár megdönti az engedélyezett tartózkodás időtartamára vonatkozó feltételeknek való meg nem felelés vélelmét, az EES rendelet 18-19. cikkeivel összhangban a határforgalom-ellenőrzést végző hatóság, a vízumhatóság, illetve az idegenrendészeti hatóság megfelelően kiegészíti, illetve frissíti az egyéni akta adatait, továbbá a releváns belépési, illetve kilépési adatrekordokat.
+
+Annak érdekében, hogy az illetékes hatóságok eljárását támogassa, az EES rendelet a 11. cikkében meghatározott automatizált kalkulátort működtet. A kalkulátor a rögzített adatok alapján az érintett harmadik országbeli állampolgárok tekintetében jelzi az engedélyezett tartózkodás maximális időtartamát és automatikusan azonosítja azokat a belépési, illetve kilépési adatrekordokat, amelyekben nem szerepel közvetlenül az engedélyezett tartózkodás lejárta utáni időpontra eső kilépési adat, valamint azokat az adatrekordokat, amelyek esetében túllépték az engedélyezett tartózkodás maximális időtartamát. Az EES az azonosított túltartózkodó személyekről a szükséges intézkedések megtétele céljából az EES rendelet 12. cikke szerint tájékoztatja a tagállamok illetékes hatóságait.
+
+Az EES három évig őrzi meg az egyes adatrekordokat, ami a belépési, illetve kilépési adatrekordok esetén a kilépési adatrekord dátumától, míg a beléptetés megtagadására vonatkozó adatrekord esetén annak dátumától számítandó. Az egyéni akta és az ahhoz kapcsolt adatrekordok megőrzési ideje három év és egy nap, ami az utolsó kilépési adatrekord dátumától, illetve a beléptetés megtagadására vonatkozó adatrekord dátumától számítandó abban az esetben, ha az ezek rögzítését követő három évben nem rögzítenek belépési adatrekordot.
+
+Amennyiben egy adott személyre vonatkozóan az engedélyezett tartózkodás időtartamának lejárati dátumát követően nem rögzítenek kilépési adatrekordot, az adatokat az EES az engedélyezett tartózkodás utolsó napjától számítva öt évig tárolja. Az ilyen személyek adatainak tervezett törlése előtt az EES automatikus értesítést küld a tagállamoknak.
+
+Az általános adatmegőrzési időtől eltérően az EES a szabad mozgás jogával rendelkező személyek családtagjainak adatait a kilépési adatrekord dátumától számított 1 évig, míg kilépési adatrekord hiányában a belépési adatrekord dátumától számított 1 évig őrzi meg.
+
+Az EES az adatokat az előbbiekben ismertetett adatmegőrzési idő lejártát követően automatikusan törli.
+
+Az EES adatait a tagállamok az EES rendelet 9. cikk (2) bekezdése alapján felhatalmazott határforgalom-ellenőrzést végző, bevándorlási, illetve vízumhatóságai - feladataikkal összhangban - a határforgalom-ellenőrzése, a vízumkérelmek vizsgálata és az ezekkel kapcsolatos döntéshozatal céljából használhatják fel.
+
+Felhasználhatják továbbá a nemzeti könnyítési programokban való részvétel iránti kérelmek vizsgálata és az ezekkel kapcsolatos döntéshozatal, továbbá a személyazonosság, illetve a belépési és tartózkodási feltételek tagállamok területén történő ellenőrzése, valamint az Európai Határregisztrációs Rendszerben más személyazonossággal rögzített, vagy a belépési, illetve tartózkodási feltételeket nem vagy már nem teljesítő harmadik országbeli állampolgárok személyazonosságának megállapítása céljából is.
+
+Az ilyen célú adathozzáférések feltételeit az EES rendelet 23-27. cikke részletesen szabályozza. Az így megszerzett adatokat a tagállamok illetékes hatóságai kizárólag az EES rendelet 41. cikk (1)-(4) bekezdésében meghatározott szigorú feltételek szerint továbbíthatják harmadik országoknak, illetve az EES rendelet II. mellékletében meghatározott nemzetközi szervezeteknek.
+
+Az EES és a VIS közötti interoperabilitás a két rendszer közötti közvetlen lekérdezés lehetőségét biztosítja azokban az esetekben, amikor azt mind az EES rendelet, mind a VIS-rendelet előírja.
+
+Az interoperabiltás alapján az EES-t használó határforgalom-ellenőrzést végző hatóságok a vízumokra vonatkozó adatokat közvetlenül a VIS-ből kérdezik le és onnan importálják az EES-be annak érdekében, hogy a vízumbirtokosok adatrekordját létrehozzák, illetve frissítsék, valamint ellenőrizzék az adott vízum eredetiségét és érvényességét, továbbá azt, hogy a vízummentességet élvező harmadik országbeli állampolgárt korábban a VIS-ben már nyilvántartásba vették-e. Végezetül, ha a vízumbirtokos személyazonosságát ujjnyomat alapján ellenőrzik, az a vízumbirtokos ujjnyomatainak a VIS-ben tárolt ujjnyomatokkal történő összehasonlításával valósul meg.
+
+A VIS-t használó vízumhatóságok számára az interoperabilitás biztosítja, hogy a VIS-ből lekérdezést végezzenek az EES-ben a vízumkérelmek vizsgálata és az azokkal kapcsolatos döntés, valamint a vízum megsemmisítése, visszavonása vagy meghosszabbítása esetén a belépési, illetve a kilépési adatrekordban tárolt, vízumokra vonatkozó adatok frissítése érdekében.
+
+Az EES rendelet 29. cikk (1) bekezdése felhatalmazza a tagállamok erre kijelölt hatóságait, hogy a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló (EU) 2017/541 irányelv szerinti bűncselekmények (a továbbiakban: terrorista bűncselekmények), valamint az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló 2002/584/IB kerethatározat 2. cikk (2) bekezdésében foglalt bűncselekmények (a továbbiakban: súlyos bűncselekmények) megelőzése, felderítése és nyomozása céljából a 29. cikk (3) bekezdése szerint kijelölt nemzeti központi hozzáférési ponton keresztül lekérdezzék az EES adatait. Az EES rendelet 3. cikk 26. pontja szerint e bűnüldözési célú hozzáférésre a terrorista vagy egyéb súlyos bűncselekmények megelőzéséért, felderítéséért vagy nyomozásáért felelős tagállami hatóság jelölhető ki.
+
+Az EES rendelet 32. cikk (1) bekezdése határozza meg a bűnüldözési célú hozzáférés általános feltételeit. E szerint a kijelölt hatóságok akkor férhetnek hozzá az EES-hez, ha meghatározott terrorista és súlyos bűncselekmények megelőzése, felderítése, illetve nyomozása céljából szükséges, az adott egyedi esetben a hozzáférés szükséges és arányos és bizonyíték áll rendelkezésre vagy alapos okkal feltételezhető, hogy az EES lekérdezése hozzájárul az adott bűncselekmény megelőzéséhez, felderítéséhez, illetve nyomozásához.
+
+Az EES rendelet 32. cikk (2) bekezdése a fenti általános feltételek mellett további feltételeket ír elő arra az esetre, ha a kijelölt hatóságok az EES-hez ismeretlen gyanúsított, elkövető, illetve áldozat esetén személyazonosítási célból arckép, illetve ujjnyomat (beleértve a látens ujjnyomatot) alapján végzett kereséssel kíván hozzáférni. Ebben az esetben szükséges, hogy az érintett hatóság az ilyen célból rendelkezésre álló nemzeti adatbázisokban előzetes keresést végezzen, illetve az ujjnyomat alapján végzendő keresés esetén feltétel az is, hogy a prümi típusú automatizált adatcsere keretében a többi tagállam rendszerében előzetes keresést végezzen vagy annak megindításától két nap elteltével az ilyen keresés még ne legyen elvégezve. Sürgős esetben (ha a bűncselekménnyel összefüggésbe hozható, életet fenyegető közvetlen veszély elhárítása érdekében szükséges vagy ha alapos okkal feltehető, hogy az összehasonlítás a többi tagállam rendszerével nem vezetne a személyazonosság megállapításához) indokolt kérelem alapján e két további feltétel teljesítése nélkül el lehet végezni az EES lekérdezését.
+
+A VIS rendelet alapján az arra feljogosított kijelölt hatóságok az EES adataihoz való hozzáférési kérelemmel egyidejűleg a VIS-ben való keresésre vonatkozó kérelmet is benyújthatják, tekintettel arra, hogy az EES kizárólag a vízummentes harmadik országbeli állampolgárok ujjnyomatát tárolja.
+
+Az EES rendelet 32. cikk (3) bekezdése szerint a kijelölt hatóságok az EES adataihoz valamely ismert gyanúsított, elkövető vagy áldozat korábbi utazásaira, illetve engedélyezett tartózkodására vonatkozó adatok lekérdezése céljából a 32. cikk (1) bekezdésében meghatározott általános feltételek mellett jogosult hozzáférni az adott személyre vonatkozó bármely, az EES-ben kezelt adatkörnek megfelelő adata vagy adatai alapján végzett keresés útján.
+
+Az EES-ből a bűnüldözési célú hozzáférés során megszerzett adatokat a tagállamok kijelölt hatóságai kizárólag az EES rendelet 41. cikk (5)-(6) bekezdésében és a 42. cikkben meghatározott szigorú feltételek szerint továbbíthatják harmadik országoknak, illetve az EES-t nem működtető tagállamoknak.
+
+Az EES rendelet 39-59. cikkei részletes adatvédelmi előírásokat tartalmaznak, amelyeket a fentiek alapján adatkezelésre feljogosított hatóságoknak a rendelet végrehajtása során be kell tartaniuk.
+
+1.2. Az EES működésével összefüggésben szükséges jogharmonizáció
+
+A rendőrség a határrendészeti adatkezelése körében a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 91/L. § (1) bekezdése alapján a jelenlegi nemzeti határellenőrzési infrastruktúrában - amelynek informatikai hátterét a rendőrség Határellenőrző és Regisztrációs Rendszere (a továbbiakban: HERR) adja - kezel az EES rendelet alapján az EES-ben is megtalálható alfanumerikus adatokat. Emiatt a nemzeti határellenőrzési infrastruktúra és az EES közötti reláció rendezése igényel szabályozást, különös tekintettel az EES rendelet 40. cikk (1)-(2) bekezdésére, amely lehetővé teszi, hogy a tagállamok - az uniós joggal összhangban - a nemzeti határregisztrációs rendszerükben tárolják az EES-ben általuk rögzített alfanumerikus adatokat az EES rendelet 34. cikkében meghatározott adatmegőrzési időn belül.
+
+A hatályos szabályozás szerint a HERR-ben rögzítésre kerülő adatok, az adatkezelés célja, időtartama, illetve a feladataikkal összefüggésben az adatokhoz hozzáférni jogosult hatóságok köre fokozatosan alakult ki és érte el a jelenlegi szabályozási szintet, amely - beleértve a bűnmegelőzési, bűnüldözési célt is - a jogalkalmazói tapasztalatok szerint megfelel a különböző hatóságok elvárásainak. A határrendészeti és idegenrendészeti feladatok ellátásán túl a HERR adatbázis elsődlegesen a magyar nyomozó hatóságoknak (vámhatóság, rendőrség, ügyészség) és a nemzetbiztonságért felelős szolgálatoknak biztosítja a feladataik ellátásához szükséges információkat.
+
+Az EES-ben tárolandó, az EES rendelet 15-18. cikkében meghatározott alfanumerikus és biometrikus adatok kezelésének elsődleges célja az EES rendelet (6) cikk (1) bekezdése szerint a jogszerű tartózkodás idejének számítása, ellenőrzése, illetve betartásának biztosítása. Az EES adatainak bűnüldözési célú felhasználása csak másodlagos célként jelenik meg az EES rendeletben, amely kizárólag az uniós szinten meghatározott terrorista és súlyos bűncselekmények esetében biztosít hozzáférést az erre kijelölt hatóságoknak az EES adataihoz.
+
+Tekintettel a jelenlegi nemzeti határellenőrzési infrastruktúrához a hazai szerveknek és hatóságoknak biztosított hozzáférés céljaira és az EES rendelet 40. cikk (1) bekezdése szerinti opcióra, a jövőben is indokolt a HERR fenntartása annak érdekében, hogy az államhatáron átlépő harmadik országbeli állampolgárokról a Magyarország schengeni külső határai vonatkozásában rögzített adatok nemzeti célú felhasználásának lehetősége ne vesszen el, azok továbbra is az érintett hazai hatóságok rendelkezésére álljanak.
+
+Ha a jogalkotó nem él az EES rendelet 40. cikk (1) bekezdése szerinti opcióval, a Magyarország által rögzített alfanumerikus adatok kizárólag az EES központi rendszerében lennének tárolva és az ezekhez való hozzáférés az EES rendelet szerint korlátozva lenne.
+
+Az EES rendelet szerinti korlátozott hozzáférés egyértelmű visszalépést jelentene a jelenlegi helyzethez képest, azzal nemcsak a szervezett és a határon átnyúló bűnözés, illetve az illegális migrációhoz kapcsolódó bűncselekmények elleni küzdelem lehetőségei szűkülnének be, de ez kihatással lenne más rendőrségi területekre is. Például a nem megfelelő bűnügyi felderítés hiányában a határrendészeti szolgálati ág sem tudna időben és megfelelően reagálni az illegális migráció módszereinek, irányának változására a határőrizetben, illetve a határforgalom-ellenőrzésben.
+
+A fentiekre tekintettel tehát indokolt élni a tagállamok számára a 40. cikk (1) bekezdésében adott felhatalmazással, és a következő módosításokkal fenntartani a hazai határellenőrzési infrastruktúrára vonatkozó szabályozást. E körben indokolt egyrészt a nemzeti határinfrastruktúra vonatkozásában az Rtv. 91/L. § (1) bekezdésében szereplő adatkezelési célok felülvizsgálata, és azok közül az EES rendelet 6. cikk (1) bekezdése szerinti elsődleges cél deregulációja; másrészt az EES rendelet 40. cikk (1) bekezdése adta lehetőség teljes körű kihasználása céljából szükséges - az EES rendelet szerint kezelendő alfanumerikus adatok teljes körének lefedése érdekében - a hazai határellenőrzési infrastruktúrában jelenleg is kezelt, az Rtv. 91/L. § (1) bekezdésében meghatározott adatok kiegészítése a beutazás, illetve a kiutazás pontos időpontjával és az igénybe vett határátkelőhely megnevezésével. Harmadrészt pedig, annak érdekében, hogy a Magyarország által rögzítendő alfanumerikus adatok hazai határellenőrzési infrastruktúrában történő kezelése megfeleljen a 40. cikk (2) bekezdésben foglalt feltétlenek, a jelenlegi szabályozás szerinti 5 éves adatkezelési időtartam helyett szükséges az EES rendelet 34. cikkében meghatározott adatmegőrzési időn belül lehetővé tenni az adatok hazai határellenőrzési infrastruktúrában történő tárolását.
+
+Az EES rendelet 9. cikk (2) bekezdésével összhangban szükséges kijelölni azon illetékes nemzeti hatóságok körét, amelyek határforgalom-ellenőrző hatóságként, továbbá bevándorlási, illetve vízumhatóságként az EES rendeletben meghatározott célokból, közvetlen hozzáférés útján jogosultak az EES-ben adatokat kezelni. Ennek érdekében szükséges az EES rendelet szerinti feladataival összefüggésben az általános rendőrségi feladatokat ellátó szerv, valamint az Országos Idegenrendészeti Főigazgatóság kijelölése az Rtv., a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény (a továbbiakban: Szmtv.) és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) jelen törvényjavaslat szerinti módosításával.
+
+A vízumhatóságok kijelölésére az Szmtv. és a Harmtv. végrehajtási rendeleteiben kerül majd sor e törvényjavaslat elfogadását követően.
+
+Az EES elsődleges céljával összhangban a jelen törvényjavaslat az előbbiek szerint kijelölendő illetékes hatóságok közül az általános rendőrségi feladatokat ellátó szerv központi szervét jelöli ki az EES rendelet 39. cikk (1) bekezdése szerinti, az EES-el összefüggésben a Magyarország általi adatkezelésért központilag felelős szervként. Az EES rendelet 35. cikke és 52. cikke szerint jogosult a hazai hatóságok által rögzített adatokat hivatalból, vagy valamely más illetékes hatóság vagy érintett kérelmére helyesbíteni, kiegészíteni vagy törölni. E folyamatok során szükség lehet hatósági döntés meghozatalára, illetve az érintettel összefüggésben adatot rögzítő más tagállammal folytatott konzultációra. Az adatok helyesbítésével, kiegészítésével és törlésével, illetve az erre irányuló kérelmekkel kapcsolatos döntésekkel összefüggésben szükséges a központi szerv és az adatok bevitelére jogosult más hazai hatóságok feladataira vonatkozó eljárási szabályok meghatározása kormányrendeleti szinten, amelynek megalkotására a jelen törvényjavaslat ad felhatalmazást.
+
+Az EES rendelet 29. cikk (1) bekezdésével összhangban a tagállamoknak ki kell jelölniük azon hatóságaikat, amelyek a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló (EU) 2017/541 irányelvben foglalt bűncselekmények, valamint az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló 2002/584/IB kerethatározat 2. cikk (2) bekezdésében foglalt bűncselekmények megelőzése, felderítése és nyomozása céljából közvetetett hozzáférés útján betekinthetnek az EES adataiba. Ezzel összefüggésben ki kell jelölni azt a szervet, amely ellátja e körben az EES rendelet 29. cikk (3) bekezdése szerinti nemzeti központi hozzáférési pont feladatait.
+
+A jelen törvényjavaslat a Btk. 314-318/A. §-ában és 331. §-ában, továbbá az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú mellékletében meghatározott bűncselekmények megelőzése, felderítése és nyomozása céljából az Rtv. 64. §-a alapján bűncselekmény elkövetésének megelőzése céljából titkos információgyűjtést végző szervet, az előkészítő eljárást folytató szervet és a büntetőügyben eljáró nyomozó hatóságot, ügyészséget és bíróságot jelöli ki az EES adataihoz való bűnüldözési célú hozzáférés kérésére jogosult hatóságként, és az általános rendőrségi feladatokat ellátó szerv központi szervét hatalmazza fel a központi hozzáférési pont működtetésére. A bűnüldözési célú hozzáférés kérésével, továbbá a kérelmek vizsgálatával és teljesítésével kapcsolatban további eljárási szabályok meghatározása szükséges kormányrendeleti szinten, amelynek megalkotására a jelen törvényjavaslat ad felhatalmazást.
+
+Végezetül az EES rendelet 13. cikk (3) bekezdése szerint a fuvarozók az EES rendelet szerinti webes szolgáltatáson keresztül kötelesek ellenőrizni, hogy az egy vagy két beutazás céljából kiadott, rövid távú tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgárok felhasználták-e már a vízumuk által engedélyezett beutazásukat. Az ellenőrzés céljából a fuvarozók az EES rendelet 16. cikk (1) a)-c) pontjaiban meghatározott adatokat használhatják fel. A webes szolgáltatás OK/NOT OK válaszüzenetet küld az ellenőrzés eredményeként.
+
+Az ellenőrzéssel érintett személyi körre, és a vízumokkal kapcsolatban a fuvarozó számára megállapított hatályos felelősségi szabályokra tekintettel a jelen törvényjavaslat az Szmtv. és a Harmtv. módosításával rendelkezik a fuvarozó ellenőrzési kötelezettségéről. Az EES rendelet 13. cikk (3) bekezdése felhatalmazást ad a fuvarozóknak az ellenőrzés során elküldött adatok és a kapott válasz tárolására nemzeti jogukkal összhangban. Az ellenőrzési kötelezettség teljesítésének igazolása céljából a jelen törvényjavaslat előírja, hogy a fuvarozók az érintett adatokat - összhangban a fuvarozók által a webes szolgáltatáson keresztül végzett adatkezelési műveletekkel kapcsolatos naplók megőrzési idejére vonatkozóan az eu-LISA számára a 13. cikk (4) bekezdésében előírt kötelezettséggel - két évig őrizzék meg.
+
+2. Az ETIAS rendelet jogharmonizációja
+
+2.1. Az Európai Utasinformációs és Engedélyezési Rendszer
+
+Az Európai Bizottság által 2016 áprilisában közzétett, a határigazgatás és a biztonság erősítését szolgáló, szilárd és intelligens információs rendszerekről szóló közlemény rámutatott arra, hogy az Európai Uniónak meg kell erősítenie és javítania kell a határigazgatás, bűnüldözés és terrorizmus elleni küzdelem terén használatos informatikai rendszereit, adatarchitektúráját és információcseréjét. A kitűzött célok megvalósítása érdekében az Európai Bizottság 2016 novemberében az EES-hez szorosan kapcsolódó Európai Utasinformációs és Engedélyezési Rendszer (a továbbiakban: ETIAS) létrehozására tett javaslatot, amelynek elfogadására 2018 szeptemberében került sor.
+
+Az Európai Unió Hivatalos Lapjában (HL L236., 2018.09.19., 1. oldal) 2018. szeptember 19-én megjelent és a kihirdetést követő huszadik napon, 2018. október 9-én hatályba lépett rendelet létrehozza az ETIAS-t a vízummentességet élvező, a schengeni térségbe rövid távú (bármely 180 napos időszakon belül 90 napot meg nem haladó) tartózkodás céljából belépni kívánó harmadik országbeli állampolgárok vonatkozásában.
+
+Az ETIAS lehetővé teszi annak értékelését, hogy a harmadik országbeli állampolgárok jelenléte a tagállamok területén biztonsági, illegális bevándorlási vagy magas járványügyi kockázattal járna-e, továbbá meghatározza az utazási engedély kiadására vagy megtagadására vonatkozó feltételeket és eljárásokat.
+
+Az ETIAS rendszer az ETIAS információs rendszerből, az Európai Határ- és Partvédelmi Ügynökségen (a továbbiakban: Frontex) belül létrehozandó ETIAS központi egységből, továbbá a tagállamok által létrehozandó ETIAS nemzeti egységekből áll.
+
+Az ETIAS rendelet 4. cikke szerint a tagállamok illetékes hatóságainak támogatása révén az ETIAS rendszernek hozzá kell járulnia a magas szintű biztonsághoz a kérelmezők jelentette biztonsági kockázatnak a külső határokon található határátkelőhelyekre való megérkezésüket megelőző alapos elemzése révén.
+
+Hozzá kell járulnia az illegális bevándorlás megelőzéséhez, hozzá kell járulnia a közegészség védelméhez, növelnie kell a határforgalom-ellenőrzések hatékonyságát, támogatnia kell a SIS célkitűzéseit, valamint hozzá kell járulnia a terrorista bűncselekmények vagy más súlyos bűncselekmények megelőzéséhez, felderítéséhez és nyomozásához.
+
+Az ETIAS rendszer egyik legfontosabb funkciója a vízummentes harmadik országok állampolgárai által a határátlépést megelőzően benyújtott információk ellenőrzése, azt vizsgálva, hogy e személyek jelentenek-e biztonsági, illegális bevándorlással kapcsolatos vagy magas szintű járványügyi kockázatot.
+
+Az ETIAS rendszer éles működésbe lépését követően - amelynek időpontját az Európai Bizottság az ETIAS rendelet 88. cikk (1) bekezdése szerinti határozatában fogja megjelölni, és amely a jelen tervek szerint legkorábban 2022 negyedik negyedévére várható - a vízummentes harmadik országok állampolgárainak a schengeni területre történő beutazásukat megelőzően utazási engedélyt kell igényelniük, amelyre internetes felületen (nyilvánosan elérhető honlapon vagy mobil eszközökre telepíthető alkalmazáson) keresztül lesz lehetőségük.
+
+Az utazási engedély igénylése során a kérelmezőnek közölnie kell - többek között - a személyazonosságával (vezetéknév, utónév, születési idő, születési hely, születés helye szerinti ország, nem, jelenlegi állampolgárság, a kérelmező szüleinek utóneve, egyéb nevek) és az úti okmányával (típusa, száma, okmányt kibocsátó ország, úti okmány kibocsátásának dátuma és érvényességének lejárati dátuma) kapcsolatos adatokat.
+
+Meg kell adnia egyéb állampolgárságát, lakóhelyét vagy állandó tartózkodási helyét, elérhetőségeit (e-mail cím, és ha rendelkezésre áll telefonszám), iskolai végzettségét, jelenlegi foglalkozását, valamint az első tervezett tartózkodás helye szerinti tagállamot. Válaszolnia kell továbbá a bűnügyi előéletével és korábbi elítélésével, háborús övezetben vagy konfliktuszónában való tartózkodásával, valamint korábbi kiutasításával kapcsolatos kérdésekre.
+
+Emellett nyilatkoznia kell arról, hogy családtagja-e a szabad mozgás uniós jogával rendelkező személynek, valamint kiskorúak esetén a felügyeleti jogot gyakorló személy személyazonosságáról. A kérelmezőknek minden egyes kérelem tekintetében 7 euró utazásengedélyezési díjat kell majd fizetniük. Az engedély elektronikus, az elbírálás eredménye a központi adatbázisban automatikusan tárolásra kerül.
+
+Az utazási engedély központi, ETIAS központi egységénél megvalósuló elbírálása automatizált rendszeren keresztül történik, amelynek folyamán sor kerül a kérelmező által közölt adatok releváns uniós és nemzetközi adatbázisokban (ETIAS központi rendszerében, a SIS-ben, az EES-ben, a VIS-ben, az Eurodacban, az Europol által működtetett adatbázisokban, valamint az Interpol adatbázisaiban) történő ellenőrzésére.
+
+Ha a rendszer találatot jelez, vagy további elemzést igénylő adatot talál, a kérelmet a Frontex az ETIAS rendelet 22. cikk szerinti, az ETIAS központi egysége által végzett ellenőrzés szabályai szerint ellenőrzi. Az ETIAS központi egysége a kérelemfájl kézhezvételétől számított legfeljebb 12 órán belül köteles elvégezni a manuális feldolgozást.
+
+Amennyiben a kérelemfájlban rögzített adatok megfelelnek a találatot eredményező adatoknak (vagyis egyezés esetén), vagy ha az egyezés továbbra is kétséges, a kérelmet az ETIAS rendelet szerint a felelős tagállam ETIAS nemzeti egységének kell feldolgoznia. Az engedély kiadására vagy a találatot eredményező kérelem elutasítására legkésőbb a kérelem benyújtásától számított 96 órán belül - vagy ha a kérelmezőnek további információkat kell benyújtania, a további információk kézhezvételétől számított 96 órán belül - kerül sor. A kérelem kiadására vonatkozó jogorvoslati eljárást a kérelemről szóló határozatot meghozó tagállamban, e tagállam nemzeti jogának megfelelően kell lefolytatni.
+
+A légi fuvarozóknak és a tengeri fuvarozóknak adatokat kell lekérdezniük az ETIAS információs rendszerből annak ellenőrzése céljából, hogy az utazási engedély megszerzésére kötelezett harmadik országbeli állampolgárok rendelkeznek-e érvényes utazási engedéllyel. A fuvarozóknak beszállítás előtt a fuvarozói portálon keresztül kell végrehajtaniuk az adatlekérdezést az úti okmány géppel olvasható vizsgálati zónájában található adatok megadása és a beutazás helye szerinti tagállam megjelölése útján. Az ETIAS információs rendszer a fuvarozói portálon keresztül OK/NOT OK válaszüzenetet küld a fuvarozóknak, amelyben jelzi, hogy az adott személy rendelkezik-e érvényes utazási engedéllyel. Az ETIAS működésének megkezdésétől számított három év elteltével ezek a kötelezettségek a szárazföldön távolsági busszal csoportokat szállító nemzetközi fuvarozókra is vonatkozni fognak. Abban az esetben, ha harmadik országbeli állampolgárok beléptetését megtagadják, az őket légi, tengeri vagy szárazföldi úton a külső határokhoz szállító fuvarozók haladéktalanul kötelesek ismét felelősséget vállalni értük. A határforgalom-ellenőrzést végző hatóságok felszólítására a fuvarozók kötelesek visszaszállítani a harmadik országbeli állampolgárokat vagy abba a harmadik országba, amelyből odaszállították őket, vagy abba a harmadik országba, amely kiállította az utazáshoz használt úti okmányukat vagy bármely más olyan harmadik országba, amelybe biztosan beengedik őket.
+
+Az ETIAS rendszer létrehozásával az érvényes utazási engedély a schengeni térségbe való beutazás új feltételeként jön létre, az ETIAS rendszer által kiadott, érvényes utazási engedély hiánya pedig a schengeni térségbe való beléptetés megtagadásához vezet. Az engedély megléte azonban önmagában még nem biztosít automatikus belépést a tagállamok területére, pusztán lehetőséget biztosít arra, hogy a tagállamok az utas előszűrését még a határátkelőhelyre történő megérkezése előtt megkezdhessék. Az utazási engedély három évig, vagy ha kérelemben megadott úti okmány érvényességi ideje ennél rövidebb, annak lejártáig érvényes.
+
+2.2. Az Európai Utasinformációs és Engedélyezési Rendszerrel kapcsolatos hazai szabályozási feladatok
+
+Az ETIAS rendelet hatálybalépése miatt szükséges jogharmonizációs kötelezettségek teljesítése keretében szükséges az ETIAS nemzeti egységként működő hazai szervként a TIBEK kijelölése, az ETIAS nemzeti egység feladatainak meghatározása, az ETIAS központi rendszeréhez való bűnüldözési célú hozzáféréssel rendelkező hatóságok (kijelölt hatóságok) és a központi hozzáférési pont kijelölése, valamint az ETIAS rendelet végrehajtása érdekében szükséges további törvényi szintű rendelkezések bevezetése.
+
+2.2.1. Az ETIAS nemzeti egység feladatai
+
+Az ETIAS nemzeti egység tevékenységével összefüggésben a Nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása révén szükséges rendelkezni a feladatok meghatározásáról - így többek között - az ETIAS nemzeti egység által a kérelmek feldolgozásáról, az utazási engedély kiadásáról, megtagadásáról, megsemmisítéséről, visszavonásáról, a kérelemfájl adatokkal való kiegészítéséről, a kérelmező értesítéséről, a tagállamokkal vagy az Europollal folytatott konzultáció lehetőségéről.
+
+Az ETIAS nemzeti egység feladataira vonatkozó részletszabályokról, illetve a kapcsolódó eljárási szabályok meghatározásáról kormányrendeleti szinten indokolt rendelkezni, amelynek megalkotására jelen törvényjavaslat ad felhatalmazást.
+
+2.2.2. Az ETIAS határforgalom-ellenőrzést végző hatóságok és bevándorlási hatóságok általi használata
+
+Az ETIAS rendelet 47. cikke szerint a külső határokon működő határátkelőhelyeken határforgalom-ellenőrzést végző illetékes hatóságoknak az úti okmány géppel olvasható vizsgálati zónájában szereplő adatok felhasználásával lekérdezést kell végrehajtaniuk az ETIAS központi rendszerében.
+
+A lekérdezés biztosítása érdekében indokolt az Rtv. módosítása a feladat törvényi szintű meghatározása, illetve a határforgalom-ellenőrzés során lekérdezendő adatbázisok listájának kiegészítése révén.
+
+Az ETIAS rendelet 49. cikk (1) bekezdése alapján a tagállamok bevándorlási hatóságai számára hozzáférést kell biztosítani továbbá az ETIAS központi rendszeréhez, amely rendelkezés végrehajtása érdekében jelen előterjesztés javaslatot tesz az Szmtv. és a Harmtv. módosítására oly módon, hogy az idegenrendészeti hatóság az Szmtv. és a Harmtv. szerinti eljárásai során közvetlen hozzáférés útján jogosult az ETIAS-ban tárolt adatokat lekérdezni.
+
+Az ETIAS rendelet (39) preambulum bekezdése alapján a tagállamok bevándorlási hatóságai számára hozzáférést kell biztosítani az ETIAS központi rendszerében tárolt bizonyos információkhoz, különösen a visszaküldések céljából. A kényszerintézkedési szakterület eljárásainak vonatkozásában az ETIAS hozzáférés elsősorban az első fokú idegenrendészeti hatóság azon eljárása során szükséges, amelyben a harmadik országbeli állampolgárok magyarországi tartózkodásának jogszerűségét vizsgálja, a kiutasító döntés meghozatalát megelőzően.
+
+Az ETIAS határforgalom-ellenőrzést végző hatóságok és bevándorlási hatóságok általi használatára vonatkozó részletszabályokról, illetve a kapcsolódó eljárási szabályok meghatározásáról kormányrendeleti szinten indokolt rendelkezni, amelynek megalkotására jelen törvényjavaslat ad felhatalmazást.
+
+2.2.3. Az ETIAS utazási engedély
+
+Az ETIAS rendszer létrehozásával az érvényes ETIAS utazási engedély a schengeni térségbe való beutazás új feltételeként jön létre, az ETIAS rendszer által kiadott, érvényes utazási engedély hiánya pedig a schengeni térségbe való beléptetés megtagadásához vezet.
+
+Tekintettel arra, hogy az ETIAS rendelet szerinti utazási engedély egy új engedély, így indokolt az Szmtv. és a Harmtv. módosítása és a fogalom törvényi szintű bevezetése.
+
+2.2.4. Az ETIAS-hoz bűnüldözési célból hozzáférésre jogosult hatóságok és a központi hozzáférési pont kijelölése
+
+Az ETIAS rendelet 50. cikk (1) bekezdése szerint a tagállamoknak ki kell jelölniük azon hatóságaikat, amelyek a terrorista bűncselekmények vagy egyéb súlyos bűncselekmények megelőzése, felderítése és nyomozása céljából jogosultak kérelmezni az ETIAS központi rendszerében rögzített adatok lekérdezését.
+
+Az ETIAS rendelet 50. cikk (2) bekezdése szerint minden tagállamnak ki kell jelölnie egy központi hozzáférési pontot, amely hozzáféréssel rendelkezik az ETIAS központi rendszeréhez és jogosult a tagállamok kijelölt hatóságainak az ETIAS központi rendszerében rögzített adatokhoz való hozzáférésre vonatkozó feltételek vizsgálatára. Ezen feladatokat a Magyarország által az ETIAS rendelet alapján végzett adatkezelésért központilag felelős hatóságra, a TIBEK-re célszerű telepíteni.
+
+A rendelet 40. preambulum bekezdése alapján a terrorista bűncselekmények és egyéb súlyos bűncselekmények elleni küzdelem céljából, valamint a bűnözői hálózatok globalizálódásának figyelembevételével nélkülözhetetlen, hogy a terrorista bűncselekmények és egyéb bűncselekmények megelőzéséért, felderítéséért és nyomozásáért felelős kijelölt hatóságok rendelkezzenek a feladataik ellátásához szükséges információkkal.
+
+Az ETIAS rendelet alkalmazásában terrorista bűncselekmény az olyan bűncselekmény, amely azonos vagy egyenértékű a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló (EU) 2017/541 irányelvben említett valamely bűncselekménnyel.
+
+Az ETIAS rendelet alkalmazásában súlyos bűncselekmény az olyan bűncselekmény, amely azonos vagy egyenértékű az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló 2002/584/IB kerethatározat 2. cikk (2) bekezdésében említett valamely bűncselekménnyel.
+
+Az ETIAS rendelet hivatkozott céljaival összhangban jelen törvényjavaslat a kijelölendő illetékes hatóságok tekintetében az Rtv-ben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, a Nemzeti Adó- és Vámhivatal, a polgári nemzetbiztonsági szolgálatok, a Katonai Nemzetbiztonsági Szolgálat, továbbá büntetőeljárás során az ügyészség és a bíróság vonatkozásában tesz javaslatot az ETIAS rendszerből a központi hozzáférési ponthoz benyújtott, indokolással ellátott kérelem alapján az adatok lekérdezésére.
+
+Ezzel összefüggésben ki kell jelölni a TIBEK-et, hogy ellássa e körben az ETIAS rendelet 50. cikk (2) bekezdése szerinti nemzeti központi hozzáférési pont feladatait és hozzáféréssel rendelkezzen az ETIAS központi rendszeréhez. A TIBEK a kijelölés alapján jogosult lesz a tagállamok kijelölt hatóságainak az ETIAS központi rendszerében rögzített adatokhoz való hozzáférésre vonatkozó feltételek fennállásának vizsgálatára.
+
+A bűnüldözési célú hozzáférés kérésével, a központi hozzáférési pont feladataival, a kérelmek vizsgálatával és teljesítésével kapcsolatban további eljárási szabályok meghatározása szükséges kormányrendeleti szinten, amelynek megalkotására a jelen törvényjavaslat ad felhatalmazást.
+
+2.2.5. Az ETIAS-ban történő ellenőrzésre vonatkozó fuvarozói kötelezettség
+
+Az ETIAS rendelet 45. cikke szerint a légi fuvarozóknak és a tengeri fuvarozóknak adatokat kell lekérdezniük az ETIAS információs rendszerből annak ellenőrzése céljából, hogy az utazási engedély megszerzésére kötelezett harmadik országbeli állampolgárok rendelkeznek-e érvényes utazási engedéllyel.
+
+Az ETIAS rendelet 45. cikk (2) bekezdése felhatalmazást ad a fuvarozóknak az ellenőrzés során elküldött adatok és a kapott válasz tárolására az alkalmazandó jogszabályoknak megfelelően.
+
+A fuvarozóknak beszállítás előtt a fuvarozói portálon keresztül kell végrehajtaniuk az adatlekérdezést az úti okmány géppel olvasható vizsgálati zónájában található adatok megadása és a beutazás helye szerinti tagállam megjelölése útján. Az ETIAS információs rendszer a fuvarozói portálon keresztül OK/NOT OK válaszüzenetet küld a fuvarozóknak, amelyben jelzi, hogy az adott személy rendelkezik-e érvényes utazási engedéllyel.
+
+Az ellenőrzéssel érintett személyi körre, illetve a fuvarozók számára megállapított hatályos felelősségi szabályokra tekintettel jelen előterjesztés az Szmtv. és a Harmtv. módosításával rendelkezik a fuvarozók ellenőrzési kötelezettségéről az ETIAS utazási engedélyek tekintetében is.
+
+Az ETIAS rendelet 55. cikk (5) bekezdése szerint, ha egy harmadik országbeli állampolgár megszerezte egy tagállam állampolgárságát, az adott tagállam hatóságainak ellenőrizniük kell, hogy az adott személy rendelkezik-e érvényes utazási engedéllyel, és adott esetben haladéktalanul törölniük kell a kérelemfájlt az ETIAS központi rendszeréből. Ezen rendelkezés végrehajtásához elengedhetetlen, hogy az ETIAS nemzeti egység értesüljön a magyar állampolgárságok megszerzéséről. Erre figyelemmel indokolt a magyar állampolgárságról szóló 1993. évi LV. törvényben (a továbbiakban: Áptv.) megteremteni a törvényi kötelezettséget arra, hogy magyar állampolgárság megszerzéséről az illetékes szerv - kizárólag az ellenőrzés végrehajtásához szükséges adatkörben - tájékoztassa az ETIAS nemzeti egységet.
+
+Az ETIAS rendelet rendelkezései szerint azon kérelmezőket, akiknek elutasították az utazási engedély iránti kérelmét, akiknek az utazási engedélyét megsemmisítették, továbbá akiknek az utazási engedélyét visszavonták, megilleti az adott ETIAS nemzeti egység nemzeti joga szerinti jogorvoslathoz való jog.
+
+Erre figyelemmel - az utazási engedélynek a belépés és tartózkodás új feltételeként történő meghatározására - a vízum kiadása iránti kérelmet elutasító, a vízumot megsemmisítő vagy a vízum visszavonása tárgyában hozott közigazgatási döntéssel szemben előterjeszthető bírósági jogorvoslat mintájára indokolt az ETIAS esetében is a bírósági jogorvoslattal kapcsolatos eljárás törvényi szintű szabályozása.
+
+A közigazgatási perrendtartásról szóló 2017. évi I. törvény (a továbbiakban: Kp.) XXI. fejezete szerinti egyszerűsített per szabályai alkalmazásának előírása a 15 napos, érdemi elbírálásra tervezett törvényi határidő megtartásával könnyebben összeegyeztethető.
+
+A jellemzően okiratok, adatbázisok vizsgálatát jelentő érdemi bírósági jogorvoslat az egyszerűsített közigazgatási per formájában kellő jogvédelmet biztosít.
+
+Az egyszerűsített közigazgatási perben a pervezetésére vonatkozóan a Kp. 125. § c) pontja alapján rendezett a törvényi határidők bíróság által történő csökkentése, törvényitől eltérő megállapítása.
+
+Az ügy iratainak, valamint a védiratnak az egyidejű megküldésére vonatkozó külön előírás indokolt arra tekintettel, hogy az Nbtv. 52/N. §-a a Kp-hoz képest önálló szabályozást jelent. Ugyanakkor a bíróság rövid törvényi határidős eljárását az segíti elő, ha a rendelkezésre álló iratok és a védirat megküldése nem tér el a keresetlevél továbbításának időpontjától.
+
+A bírósági jogorvoslat telepítése az általános hatáskörű közigazgatási és munkaügyi bírósági szintre indokolt, ezért a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 9. § (7) bekezdésének mintájára indokolt a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességének kimondása.
+
+Az ETIAS rendelet 1. cikk (1) bekezdése szerint az utazási engedély annak eldöntése érdekében kerül bevezetésre, hogy a vízummentességet élvező, a schengeni térségbe rövid távú tartózkodás céljából belépni kívánó harmadik országbeli állampolgárok beutazása, illetve a tagállamok területén való jelenlét jelentene-e biztonsági, illegális bevándorlással kapcsolatos vagy magas szintű járványügyi kockázatot.
+
+Ennek megfelelően az ETIAS rendelet 56. cikk (2) bekezdése alapvetően az általános adatvédelmi rendelet, míg bizonyos esetekben a 2016/680 (EU) irányelv alkalmazását írja elő az ETIAS rendelettel összefüggő adatkezelésekre.
+
+Tekintettel arra, hogy Magyarországon az ETIAS nemzeti egység feladataira a TIBEK kerül kijelölésre, ezért az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) nemzetbiztonsági célú adatkezelésre vonatkozó 3. § 10b. pontjának kiegészítése is szükséges.
+
+A jelen törvényjavaslat a fentieknek megfelelően javaslatot tesz az Áptv., az Rtv., nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény, az Szmtv., a Harmtv., illetve az Infotv. módosítására.
+
+Kormányrendeleti szintű jogalkotás
+
+Az ETIAS-hoz való csatlakozás informatikai fejlesztést és az EES rendelet végrehajtását célzóhoz hasonló jogalkotást igényel, figyelemmel kell lenni ugyanakkor arra, hogy az ETIAS rendelettel összefüggésben uniós szinten a teljes jogalkotási folyamat (végrehajtási jogi aktusok és felhatalmazáson alapuló jogi aktusok elfogadása) még nem zárult le, a kötelező erővel bíró jogi aktusok elfogadását követően - elsősorban várhatóan kormányrendeleti szinten - további szabályozási igények merülhetnek fel.
+
+Jelen törvényjavaslat javaslatot tesz arra, hogy felhatalmazást adjon a Kormánynak, hogy rendeletben megállapítsa az ETIAS rendeletből fakadó egyes hazai feladatok részletes szabályait, amelynek tartalmára indokolt a kötelező erővel bíró jogi aktusok elfogadásával kapcsolatos uniós szintű jogalkotás befejezését követően javaslatot tenni, hiszen azok tartalma hatással lesz a magyar szabályozás kialakítására is.
+
+-----STARTING---POINT---RESZLETES---
+
+A 1. §-hoz
+
+Az (EU) 2018/1240 európai parlamenti és tanácsi rendelet (a továbbiakban: ETIAS rendelet) 55. cikk (5) bekezdése szerint, ha egy harmadik országbeli állampolgár megszerezte egy tagállam állampolgárságát, az adott tagállam hatóságainak ellenőrizniük kell, hogy az adott személy rendelkezik-e érvényes utazási engedéllyel, és adott esetben haladéktalanul törölniük kell a kérelemfájlt az ETIAS központi rendszeréből. Ezen rendelkezés végrehajtásához elengedhetetlen, hogy az ETIAS nemzeti egység értesüljön a magyar állampolgárságok megszerzéséről. Erre figyelemmel indokolt az Áptv.-ben megteremteni a törvényi kötelezettséget arra, hogy magyar állampolgárság megszerzéséről az illetékes szerv - kizárólag az ellenőrzés végrehajtásához szükséges adatkörben - tájékoztassa az ETIAS nemzeti egységet. Az ETIAS rendelet 55. cikke által előírt törlési kötelezettség teljesítéséhez elengedőek az Áptv. 14. § (1) bekezdés a) pontjában és 20/A. § (1) bekezdésében meghatározott adatok.
+
+A 2. §-hoz
+
+Jogharmonizációs záradék.
+
+A 3. §-hoz
+
+Kodifikációs jellegű módosítás a jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet 41. § (4) és 50. § (2) bekezdés d) pontjára tekintettel.
+
+A 4. §-hoz
+
+A személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendeletnek (a továbbiakban: SBC) az (EU) 2016/399 rendeletnek a határregisztrációs rendszer (EES) alkalmazása tekintetében történő módosításáról szóló, 2017. november 30-i (EU) 2017/2225 európai parlamenti és tanácsi rendelettel beiktatott 11. cikk (1) bekezdése lehetővé teszi a tagállamok számára, hogy az általuk kiadott tartózkodási engedéllyel vagy hosszú távú tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgárok úti okmányait az adott tagállam területére történő belépés, illetve az onnan történő kilépés alkalmával bélyegzőlenyomattal lássák el.
+
+Tekintettel arra, hogy a hivatkozott Rendelet 11. cikk (1) bekezdése opcionális lehetőségként biztosítja az úti okmányok bélyegzőlenyomattal történő ellátását, ezen rendelkezés jogszabályi szinten történő rögzítése szükséges a tagállam nemzeti jogában.
+
+Erre tekintettel Magyarország élni kíván a fenti lehetőséggel, mivel az okmányok bélyegzőlenyomattal történő ellátása információtartalommal bír az okmánybirtokosok egyébként másként nem ellenőrizhető utazási szokásaival kapcsolatban, amely a határátkelőhelyeken az elkülönített helyen történő ellenőrzések, idegenrendészeti eljárások során nyújthat támpontot az eljáró hatóságok szolgálati személyei számára. Figyelemmel arra, hogy a be- és kiléptető bélyegzőket az Európai Határregisztrációs Rendszer mellett is fenn kell tartani - tartalékeljárás céljából -, ennek költségvetési kihatása nem lesz.
+
+Az ETIAS rendelet (38) preambulumbekezdése, valamint 36. cikk (2) bekezdése szerint amennyiben a felelős tagállam ETIAS nemzeti egysége úgy ítéli meg, hogy az utazási engedély iránti kérelem egyes elemeit a határforgalom-ellenőrzést végző hatóságoknak alaposabban meg kell vizsgálniuk, úgy az általa kiadott utazási engedélyhez megjelölést csatolhat, amellyel a határátkelőhelyen végrehajtandó, elkülönített helyen történő ellenőrzést javasolhat a határforgalom ellenérzést végrehajtó hatóságok számára.
+
+Ezekben az esetekben a felelős tagállam ETIAS nemzeti egysége kiadja ugyan az utazási engedélyt a kérelmező számára, de azt egy olyan megjelöléssel látja el, amelyben a határforgalom-ellenőrzést végző hatóságok számára azt javasolja, hogy az érintett személy elkülönített helyen történő ellenőrzésére kerüljön sor.
+
+Ez a megjelölés kizárólag a határforgalom-ellenőrzést végző hatóságok számára látható és a megjelölést automatikusan el kell távolítani, amint a határforgalom-ellenőrzést végző hatóságok elvégezték az ellenőrzést és bevitték a megfelelő beutazási adatrekordot a határregisztrációs rendszerbe.
+
+Tekintettel arra, hogy a rendőrség az ETIAS nemzeti egység által kiadott, megjelöléssel ellátott utazási engedélyhez kapcsolódóan hajtja végre a kért intézkedést - amelyet követően az EES rendszerben rögzített információk alapján a megjelölés automatikusan törlésre is kerül az ETIAS rendszerből -, ezért szükséges megteremteni a törvényi kötelezettséget arra, hogy a rendőrség a megjelölés alapján elvégzett intézkedésekről, a megállapított adatokról és a beszerzett információkról tájékoztassa a TIBEK-et. A tájékoztatási kötelezettség törvényi szintű előírása nélkül a TIBEK nem kapna visszacsatolást az általa kezdeményezett esetekben a rendőrség által végrehajtott intézkedésekről és azok eredményéről. Az utazási engedélyek elbírálásának hatékonyságához, illetve a kapcsolódó kockázatelemzések végrehajtásához jelentősen hozzájárulhat az ezen speciális esetekhez kapcsolható kiegészítő információk rendelkezésre bocsátása.
+
+A 5. §-hoz
+
+Az EES tartalmazza a tagállamok területére rövid távú tartózkodás céljából belépésre jogosult harmadik országbeli állampolgárok, a szabad mozgás jogával rendelkező állampolgárok tartózkodási kártyával vagy tartózkodási engedéllyel nem rendelkező harmadik országbeli állampolgár családtagjai, valamint azon harmadik országbeli állampolgárok adatait, akiknek a tagállamok területére való rövid távú tartózkodás céljából történő beléptetését az SBC alapján megtagadták.
+
+Az EES rendelet 23. cikke előírja, hogy a tagállamok a határforgalom-ellenőrzése során a harmadik országbeli állampolgárok személyazonosságának és korábbi regisztrációjának ellenőrzése, továbbá az abban szereplő adatok frissítése érdekében végezzék el az Európai Határregisztrációs Rendszer lekérdezését.
+
+A határforgalom-ellenőrzés során lekérdezendő adatbázisok felsorolását az Rtv. 97/K. § (1) bekezdése tartalmazza. E listát az EES rendelet 23. cikkének végrehajtása céljából szükséges kiegészíteni az Európai Határregisztrációs Rendszerrel.
+
+Az ETIAS rendelet 47. cikke előírja, hogy a külső határokon működő határátkelőhelyeken határforgalom-ellenőrzést végző illetékes hatóságoknak az úti okmány géppel olvasható vizsgálati zónájában szereplő adatok felhasználásával lekérdezést kell végrehajtaniuk az ETIAS központi rendszerében.
+
+A határforgalom-ellenőrzés során lekérdezendő adatbázisok felsorolását az Rtv. 97/K. § (1) bekezdése tartalmazza, amelyet az ETIAS rendelet 47. cikkének végrehajtása céljából szükséges kiegészíteni az Európai Utasinformációs és Engedélyezési Rendszerrel.
+
+A 6. §-hoz
+
+Az Rtv. 91/L. § (1) bekezdésének módosításához
+
+A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) hatályos 91/L. §-a a jogalapja a jelenlegi nemzeti határellenőrzési infrastruktúrának, amelynek informatikai hátterét a rendőrség Határellenőrző és Regisztrációs Rendszere (a továbbiakban: HERR) adja. A rögzítésre kerülő adatok, az adatkezelés célja, időtartama, illetve a feladataikkal összefüggésben az adatokhoz hozzáférni jogosult hatóságok köre fokozatosan alakult ki és érte el a jelenlegi szabályozási szintet.
+
+A jelenlegi nemzeti szabályozás (beleértve a bűnmegelőzési, bűnüldözési célt is) megfelel a különböző hatóságok elvárásainak, hosszú idő óta nem jeleztek új igényt ennek bármilyen irányú lényegi megváltoztatására. A határrendészeti, idegenrendészeti feladatok ellátásán túl a HERR adatbázis elsődlegesen a magyar nyomozó hatóságoknak (vámhatóság, rendőrség, ügyészség) és a nemzetbiztonságért felelős szolgálatoknak biztosítja a feladataik ellátásához szükséges információkat.
+
+A nem határrendészeti célú megnövekedett adatigények miatt a HERR rendszeréhez a különböző nemzeti hatóságok számára biztosított a külön hozzáférés a jogszabályban meghatározott feladataik ellátása érdekében.
+
+Az EES-ben tárolandó, az EES rendelet 15-18. cikkében meghatározott alfanumerikus és biometrikus adatok kezelésének elsődleges célja az EES rendelet (6) cikk (1) bekezdése szerint a jogszerű tartózkodás idejének számítása, ellenőrzése, illetve betartásának biztosítása. Az EES adatainak bűnüldözési célú felhasználása csak másodlagos célként jelenik meg az EES rendeletben, amely kizárólag az uniós szinten meghatározott terrorista és súlyos bűncselekmények esetében biztosít hozzáférést az erre kijelölt hatóságoknak az EES adataihoz.
+
+Az EES rendelet 40. cikk (1)-(2) bekezdése ugyanakkor lehetővé teszi, hogy a tagállamok - az uniós joggal összhangban - a nemzeti határregisztrációs rendszerükben tárolják az EES-ben általuk rögzített alfanumerikus adatokat az EES rendelet 34. cikkében meghatározott adatmegőrzési időn belül.
+
+Tekintettel a jelenlegi nemzeti határellenőrzési infrastruktúrához a hazai szerveknek és hatóságoknak biztosított hozzáférés céljaira, a jövőben is indokolt a HERR fenntartása annak érdekében, hogy legalább a Magyarország schengeni külső határai vonatkozásában az államhatáron átlépő harmadik országbeli állampolgárok rögzített adatai ne vesszenek el, továbbra is az érintett hazai hatóságok rendelkezésére álljanak. Nemzeti célú adatkezelés hiányában ugyanis e Magyarország által rögzített adatok kizárólag az EES központi rendszerében lennének tárolva, az ezekhez való hozzáférés az EES rendelet szerint korlátozva lenne.
+
+Az EES rendelet szerinti korlátozott hozzáférés egyértelmű visszalépést jelentene a jelenlegi helyzethez képest, azzal nemcsak a szervezett és a határon átnyúló bűnözés, illetve az illegális migrációhoz kapcsolódó bűncselekmények elleni küzdelem lehetőségei szűkülnének be, de ez kihatással lenne más rendőrségi területekre is. Például a nem megfelelő bűnügyi felderítés hiányában a határrendészeti szolgálati ág sem tudna időben és megfelelően reagálni az illegális migráció módszereinek, irányának változására a határőrizetben, illetve a határforgalom-ellenőrzésben.
+
+A fentiekre tekintettel tehát indokolt élni a tagállamok számára a 40. cikk (1) bekezdésében adott felhatalmazással, és a következő módosításokkal fenntartani a hazai határellenőrzési infrastruktúrára vonatkozó szabályozást:
+
+a) a nemzeti határinfrastruktúra vonatkozásában szükséges az Rtv. 91/L. § (1) bekezdésében szereplő adatkezelési célok felülvizsgálata, és azok közül az EES rendelet 6. cikk (1) bekezdése szerinti elsődleges cél deregulációja;
+
+b) az EES rendelet 40. cikk (1) bekezdése adta lehetőség teljes körű kihasználása céljából szükséges - az EES rendelet szerint kezelendő alfanumerikus adatok teljes körének lefedése érdekében - a hazai határellenőrzési infrastruktúrában jelenleg is kezelt, az Rtv. 91/L. § (1) bekezdésében meghatározott adatok kiegészítése a beutazás, illetve a kiutazás pontos időpontjával és az igénybe vett határátkelőhely megnevezésével;
+
+c) annak érdekében, hogy a Magyarország által rögzítendő alfanumerikus adatok hazai határellenőrzési infrastruktúrában történő kezelése megfeleljen a 40. cikk (2) bekezdésben foglalt feltételnek, a jelenlegi szabályozás szerinti 5 éves adatkezelési időtartam helyett az EES rendelet 34. cikkére hivatkozással szükséges meghatározni az adatok hazai határellenőrzési infrastruktúrában történő tárolásának időtartamát.
+
+Az Rtv. 91/L. § új (4)-(5) bekezdéséhez
+
+Az Rtv. 91/L. § új (5) bekezdése az EES rendelet 9. cikk (2) bekezdésének megfelelően rendelkezik a rendőrség kijelöléséről, amely határforgalom-ellenőrzési és idegenrendészeti feladataival összefüggésben jogosult az EES-ben történő adatkezelésre az EES rendeletben foglaltak szerint.
+
+A rendőrség a határforgalom-ellenőrzés során az EES rendelet 15-18. cikkeiben meghatározott adatok bevitelével létrehozza az érintett személy egyéni aktáját az Európai Határregisztrációs Rendszerben, amelyhez esettől függően belépési, illetve kilépési vagy a beléptetés megtagadására vonatkozó adatrekordot hoz létre. Az egyéni akta létrehozását követő további határátlépések alkalmával szükség szerint frissíti az egyéni aktát és az esettől függően további adatrekordokat rögzít. Ha az adatok bevitele technikailag kivitelezhetetlen vagy az EES meghibásodik, a rendőrség az EES rendelet 21. cikkében előírtak szerint gondoskodik az adatok tárolásáról és beviteléről.
+
+A rendőrség az adatok bevitelével kapcsolatos jogosultságai mellett, illetve azokkal összefüggésben az EES rendelet 23. és 26-27. cikkei szerint a határforgalom ellenőrzése, a Magyarország területén történő jogszerű tartózkodás feltételei teljesítésének ellenőrzése valamint személyazonosítás céljából lekérdezheti az EES-ben tárolt adatokat.
+
+Az Rtv. 91/L. § új (6) bekezdéséhez
+
+Az EES rendelet 39. cikk (1) bekezdése előírja a tagállamok számára, hogy jelöljék ki azt a nemzeti hatóságot, amely az általános adatvédelmi rendelet 4. cikkének 7. pontjával összhangban az EES rendelet szerinti adatok vonatkozásában adatkezelőnek tekintendő és egyúttal a Magyarország által az EES rendelet alapján végzett adatkezelésért központilag felelős.
+
+Tekintettel arra, hogy az EES rendelet elsődleges uniós szintű jogalapja a külső határokat átlépő személyek ellenőrzésének a szabályozása, az EES-el kapcsolatos hazai adatkezelésért első helyen és központilag felelős adatkezelő hatóságként az általános rendőrségi feladatok ellátására létrehozott szerv az Rtv. 4/A. § (1) bekezdésében meghatározott központi szerve, azaz az Országos Rendőr-főkapitányság kijelölése indokolt.
+
+Az Rtv. 91/L. § új (7)-(8) bekezdéséhez
+
+Az EES rendelet 35. cikke lehetővé teszi a tagállam számára, hogy a saját hatóságai által bevitt adatokat hivatalból, vagy az érintett 52. cikke szerinti kérelmére helyesbítse, kiegészítse vagy törölje. E folyamatok során szükség lehet hatósági döntés meghozatalára, illetve az érintettel összefüggésben adatot rögzítő más tagállammal folytatott konzultációra. E feladatokat célszerű a Magyarország által az EES rendelet alapján végzett adatkezelésért központilag felelős hatóságra telepíteni. Az Rtv. 91/L. § új (8) bekezdésének a) és b) pontja az Országos Rendőr-főkapitányság által működtetendő központi hozzáférési pontot jelöli ki a rendeletben szabályozott e feladatok végrehajtására. Az adatok helyesbítésével, kiegészítésével és törlésével, illetve az erre irányuló kérelmekkel kapcsolatos döntésekkel összefüggésben szükséges a központi hozzáférési pont és az adatok bevitelére jogosult más hazai hatóságok feladatainak az ezekkel kapcsolatos eljárási szabályok meghatározása végrehajtási rendeleti szinten.
+
+Az EES rendelet 29. cikk (1) bekezdése alapján a tagállamoknak ki kell jelölniük azon hatóságaikat, amelyek a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló (EU) 2017/541 irányelvben foglalt bűncselekmények, valamint az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló 2002/584/IB kerethatározat 2. cikk (2) bekezdésében foglalt bűncselekmények megelőzése, felderítése és nyomozása céljából, a 31. és 32. cikkekkel összhangban, a 29. cikk (3) bekezdése szerint kijelölt nemzeti központi hozzáférési ponton keresztül lekérdezhetik az EES adatait.
+
+Az Rtv. 91/L. § új (7) bekezdésének c) pontja az Rtv. 4/A. § (1) bekezdésében meghatározott központi szerve, azaz az Országos Rendőr-főkapitányság által működtetendő központi hozzáférési pont feladataként írja elő az EES-hez való bűnüldözési célú hozzáférés EES rendelet 32. cikkében meghatározott feltételei fennállásának ellenőrzését és a feltételek teljesülése esetén a hozzáférés biztosítását. Ugyancsak e szervezeti egységhez szükséges telepíteni az EES rendelet 72. cikk (8) bekezdése szerinti, az EES adatainak bűnüldözési célú felhasználásával kapcsolatban az Európai Bizottság felé teljesítendő éves adatszolgáltatási kötelezettséget.
+
+Az Rtv. 91/L. § új (8) bekezdése rendelkezik az EES rendelet 29. cikk (1) bekezdése szerinti célból adatigénylésre feljogosított hatóságokról.
+
+Az Rtv. 91/L. § új (9)-(10) bekezdéséhez
+
+Az ETIAS rendelet 47. cikke előírja, hogy a külső határokon működő határátkelőhelyeken határforgalom-ellenőrzést végző illetékes hatóságoknak az úti okmány géppel olvasható vizsgálati zónájában szereplő adatok felhasználásával lekérdezést kell végrehajtaniuk az ETIAS központi rendszerében. Az ETIAS rendelet 48. cikke szerint rendelkezik arról az esetről, ha az adatokhoz a külső határokon technikai okokból nem lehet hozzáférni.
+
+Erre figyelemmel indokolt az Rtv.-ben a rendőrség feladatai között meghatározni az ETIAS rendelet 47. cikke, valamint az ETIAS rendelet 48. cikk szerinti feladatok végrehajtásának kötelezettségét.
+
+Az ETIAS rendelet 47. cikke szerinti lekérdezésre az ETIAS központi rendszere által küldött válasznak jeleznie kell, hogy a szóban forgó személy rendelkezik-e érvényes utazási engedéllyel (a 44. cikk szerint kiállított korlátozott területi érvényességű utazási engedély esetében azon tagállam, amelyre az engedély érvényes), az utazási engedélyhez van-e megjelölés csatolva, annak ténye, hogy az utazási engedély le fog-e járni a következő 90 napon belül, illetve az érvényesség fennmaradó időtartama. A válasznak jeleznie kell továbbá az ETIAS rendelet 17. cikk (2) bekezdésének k) és l) pontjában említett adatokat. (Kiskorúak esetén a szülői felügyeletet gyakorló személynek vagy a kérelmező törvényes gyámjának nevét, lakcímét, e-mail címét és telefonszámát, míg ha a harmadik országbeli állampolgár családtag jogállásával rendelkezik, úgy a családi jogállás megnevezését, annak a családtagnak az adatait, akihez a kérelmezőt családi kötelék fűzi.)
+
+Ha az utazási engedély a következő 90 napon belül le fog járni, a határforgalom-ellenőrzést végző hatóságoknak tájékoztatniuk kell az utazási engedély birtokosát az érvényesség fennmaradó időtartamáról, illetve arról a lehetőségről, hogy új utazási engedély iránti kérelmet a tagállamok területén való tartózkodás során is benyújthat, továbbá arról a kötelezettségről, hogy a rövid távú tartózkodás teljes időtartama alatt érvényes utazási engedéllyel kell rendelkeznie.
+
+Az ETIAS rendelet 48. cikke szerint amennyiben az ETIAS rendelet 47. cikk (1) bekezdésében említett lekérdezés technikailag kivitelezhetetlen az ETIAS információs rendszer bármely részének meghibásodása miatt, az ETIAS központi egységének értesítenie kell a határforgalom-ellenőrzést végző hatóságokat és a tagállamok ETIAS nemzeti egységeit.
+
+Amennyiben az ETIAS rendelet 47. cikk (1) bekezdésében említett keresés technikailag kivitelezhetetlen valamely tagállam nemzeti határinfrastruktúrájának meghibásodása miatt, a határforgalom-ellenőrzést végző hatóságoknak értesíteniük kell az ETIAS központi egységét és az érintett tagállam ETIAS nemzeti egységét.
+
+A hivatkozott esetekben a határforgalom-ellenőrzést végző hatóságok a nemzeti veszélyhelyzeti terveik szerint kötelesek eljárni.
+
+A külső határokon végzett ellenőrzés ETIAS rendelettel összefüggő egyes eljárási szabályainak a kidolgozása, valamint az ETIAS információs rendszer meghibásodása, a nemzeti határinfrastruktúra meghibásodása esetén szükséges értesítési kötelezettségre vonatkozó hazai eljárásoknak a meghatározása szükséges végrehajtási rendeleti szinten, amelynek megalkotására a jelen törvényjavaslat ad felhatalmazást.
+
+A 7. §-hoz
+
+Indokolt az EES rendelet végrehajtása céljából módosítandó hazai jogszabályokban bevezetni az Európai Határregisztrációs Rendszer fogalmat az EES rendelet által létrehozott adatbázis vonatkozásában, különös tekintettel a hatályos szabályozás alapján működő és a jövőben is fenntartani kívánt nemzeti Határellenőrző és Regisztrációs Rendszertől történő elhatárolás szükségességére.
+
+Indokolt továbbá az ETIAS rendelet végrehajtása céljából módosítandó hazai jogszabályokban az Európai Határregisztrációs Rendszer mellett bevezetni az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) fogalmát is, amely alatt az ETIAS központi rendszere értendő.
+
+Ebből a határforgalom-ellenőrzést végző hatóságoknak lekérdezést kell végrehajtaniuk, ahhoz a tagállamok bevándorlási hatóságai közvetlen hozzáféréssel kell, hogy rendelkezzenek, illetve amelyből a bűnüldözési célú hozzáférésre vonatkozó eljárás során a kijelölt hatóságok az ETIAS rendeletben meghatározott feltételek fennállása esetén lekérdezhetik az abban tárolt adatokat.
+
+A 8. §-hoz
+
+Az EES rendelet 35. cikke lehetővé teszi a tagállam számára, hogy a saját hatóságai által bevitt adatokat hivatalból, vagy az érintett 52. cikke szerinti kérelmére helyesbítse, kiegészítse vagy törölje. E folyamatok során szükség lehet hatósági döntés meghozatalára, illetve az érintettel összefüggésben adatot rögzítő más tagállammal folytatott konzultációra. E feladatokat az Rtv. 91/L. § új (7) bekezdésének a) és b) pontja az Országos Rendőr-főkapitányság által működtetendő központi hozzáférési pontra telepíti. Az adatok helyesbítésével, kiegészítésével és törlésével, illetve az erre irányuló kérelmekkel kapcsolatos döntésekkel összefüggésben szükséges a központi hozzáférési pont és az adatok bevitelére jogosult más hazai hatóságok feladatainak az ezekkel kapcsolatos eljárási szabályok meghatározása végrehajtási rendeleti szinten.
+
+Az EES rendelet 29. cikk (1) bekezdése szerinti feladatot az Rtv. 91/L. § új (7) bekezdésének c) pontja az Rtv. 4/A. § (1) bekezdésében meghatározott központi szerve, azaz az Országos Rendőr-főkapitányság által működtetendő központi hozzáférési pont látja el. A bűnüldözési célú hozzáférésre az Rtv. 91/L. § új (8) bekezdése alapján kijelölt szervek operatív egységeinek az EES adataihoz - a nem közvetlen hozzáférés ellenére - leggyorsabb hozzájutást lehetővé tevő megoldás érdekében az adatigénylés részletszabályai kidolgozást igényelnek.
+
+A 9. §-hoz
+
+Jogharmonizációs záradék.
+
+A 10. §-hoz
+
+Az ETIAS rendelet 8. cikk (1) bekezdése rendelkezik az ETIAS nemzeti egységek létrehozásának szükségességéről, amely szerint minden tagállamnak ki kell jelölnie az ETIAS nemzeti egységként működő illetékes hatóságot. A vonatkozó döntés értelmében az ETIAS nemzeti egységként működő hazai szervként a Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban: TIBEK) kerül kijelölésre.
+
+Az ETIAS nemzeti egységek fő feladatai közé tartozik - többek között - az utazási engedély iránti kérelmek feldolgozása és vizsgálata, az ezzel kapcsolatos határozathozatal, az elvégzett feladatok és eredmények kérelemfájlban való rögzítése, az adatok naprakészen tartása, a korlátozott területi érvényességű utazási engedély kiadása, a kérelmezőknek a követendő eljárással kapcsolatos tájékoztatása a jogorvoslati eljárás esetén, az utazási engedélyek megsemmisítése vagy visszavonása, illetve a más ETIAS nemzeti egységekkel és az Europollal való konzultáció lefolytatása.
+
+Az ETIAS rendeletben meghatározott feladat- és hatáskörében eljáró ETIAS nemzeti egység feladatait és az azzal kapcsolatos főbb feladatokat jelen előterjesztés 10. §-a tartalmazza.
+
+Az ETIAS rendelet 9. cikke rendelkezik az ETIAS vizsgálatokért felelős tanácsadó testületének létrehozásáról, amelynek tagjai az ETIAS nemzeti egységek, az Európai Határ- és Partvédelmi Ügynökség és az Europol egy-egy képviselője.
+
+Az ETIAS nemzeti egységnek az évente legalább kétszer ülésező tanácsadó testület tevékenységével kapcsolatos tagállami képviseleti feladatokat is el kell látnia.
+
+Az ETIAS rendelet 50. cikk (2) bekezdése szerint minden tagállamnak ki kell jelölnie egy központi hozzáférési pontot, amely hozzáféréssel rendelkezik az ETIAS központi rendszeréhez és jogosult a tagállamok kijelölt hatóságainak az ETIAS központi rendszerében rögzített adatokhoz való hozzáférésre vonatkozó feltételek vizsgálatára. Ezen feladatokat a Magyarország által az ETIAS rendelet alapján végzett adatkezelésért központilag felelős hatóságra, a TIBEK-re célszerű telepíteni.
+
+A központi hozzáférési pontnak a kijelölt hatóságoktól teljesen függetlenül kell eljárnia, illetve azoktól el kell különülnie. A tagállamoknak értesíteniük kell az eu-LISA-t és a Bizottságot mind a központi hozzáférési pontról, mind a kijelölt hatóságokról, míg nemzeti szinten minden tagállamnak listát kell vezetnie a kijelölt hatóságok operatív egységeiről, amelyek számára engedélyezték, hogy a központi hozzáférési pontokon keresztül kérelmezhessék az ETIAS központi rendszerében tárolt adatok lekérdezését.
+
+A tagállamok kijelölt hatóságainak az ETIAS központi rendszerében rögzített adatokhoz való hozzáférés feltételei vonatkozásában az ETIAS rendelet 52. cikk (1) bekezdése szerint az adatok lekérdezését kizárólag akkor lehet kérelmezni, ha az alábbi feltételek mindegyike teljesül:
+
+a) a lekérdezés céljából történő hozzáférés terrorista bűncselekmény vagy egyéb súlyos bűncselekmény megelőzése, felderítése vagy nyomozása céljából szükséges,
+
+b) a lekérdezés céljából történő hozzáférés egyedi esetben szükséges és arányos,
+
+c) bizonyíték áll rendelkezésre, vagy alapos okkal feltételezhető, hogy az ETIAS központi rendszerében tárolt adatok lekérdezése hozzá fog járulni a szóban forgó bűncselekmények valamelyikének megelőzéséhez, felderítéséhez vagy nyomozásához.
+
+Az ETIAS rendelet 51. cikke szerint a bűnüldözési célú hozzáférésre vonatkozó eljárás keretében a kijelölt hatóságok operatív egységeinek indokolással ellátott elektronikus vagy írásbeli kérelmet kell benyújtaniuk. A hozzáférés iránti kérelem kézhezvételét követően a központi hozzáférési pontnak ellenőriznie kell, hogy az ETIAS rendelet 52. cikkben említett hozzáférési feltételek teljesülnek-e, beleértve annak ellenőrzését, hogy az ETIAS rendelet 17. cikk (2) bekezdés i) pontjában (a jelenlegi foglalkozás, foglalkozási csoport megnevezése), valamint az ETIAS rendelet 17. cikk (4) bekezdésében (a kérelmező bűnügyi előéletével és korábbi elítélésével, háborús övezetben vagy konfliktuszónában való tartózkodásával, valamint korábbi kiutasításával kapcsolatos kérdések) említett adatok lekérdezése iránti kérelem indokolt-e.
+
+Amennyiben az ETIAS rendelet 52. cikkben említett hozzáférési feltételek teljesülnek, a központi hozzáférési pontnak fel kell dolgoznia a kérelmet. A központi hozzáférési pont által az ETIAS központi rendszeréből lekérdezett adatokat az adatbiztonságot nem veszélyeztető módon kell továbbítani a kérelmet benyújtó operatív egység részére.
+
+Sürgős esetben, amikor terrorista bűncselekményből vagy egyéb súlyos bűncselekményből eredő, egy személy életét fenyegető közvetlen veszélyt kell elhárítani, a központi hozzáférési pontnak azonnal fel kell dolgoznia a kérelmet, és csak utólagosan kell ellenőriznie, hogy teljesült-e az ETIAS rendelet 52. cikkben foglalt valamennyi feltétel. Az utólagos ellenőrzést késedelem nélkül, de legkésőbb hét munkanapon belül kell elvégezni. Amennyiben az utólagos ellenőrzés során megállapítást nyer, hogy az adatokhoz való hozzáférés indokolatlan volt, úgy intézkedni kell arról, hogy minden olyan hatóság, amely az ETIAS központi rendszeréből származó adatokhoz hozzáfért, törölje azokat.
+
+Az ETIAS központi rendszerében végrehajtott lekérdezéseket a kérelemfájlban rögzített, alábbi egy vagy több adatelem alapján végzett keresésre kell korlátozni: vezetéknév (és ha rendelkezésre áll utónév), egyéb név, úti okmány száma, lakcím, e-mail cím, telefonszámok, IP cím. A keresés leszűkítése érdekében ezeket az adatokat az ETIAS központi rendszerében történő lekérdezés esetén kombinálni lehet a kérelemfájlban szereplő adatokkal: állampolgárság, nem, születési idő vagy korosztály.
+
+Az ETIAS rendelet 52. cikk (4) bekezdése szerint abban az esetben, ha a kérelemfájlban rögzített adatok találatot eredményeznek, az ETIAS központi rendszere lekérdezésének hozzáférést kell biztosítania az ETIAS rendelet 17. cikk (2) bekezdésének a)-g) pontjában, továbbá az ETIAS rendelet j)-m) pontjában említett, kérelemfájlban rögzített adatokhoz. Az ETIAS központi rendszer hozzáférést biztosít továbbá az érintett kérelemfájlba az utazási engedély kiadása, kiadásának megtagadása, az engedély megsemmisítése vagy visszavonása vonatkozásában bevitt további adatokhoz.
+
+Az ETIAS rendelet 17. cikk (2) bekezdés i) pontjában, valamint az ETIAS rendelet 17. cikk (4) bekezdésében említett, kérelemfájlban rögzített adatokhoz való hozzáférés csak akkor biztosítható, ha az operatív egységek kifejezetten kérelmezték a szóban forgó adatok lekérdezését az indokolással ellátott kérelmükben és a kérelmet a központi hozzáférési pont ellenőrizte és jóváhagyta.
+
+Szükséges továbbá a bűnüldözési célú hozzáférésre kijelölt szervek operatív egységeinek az ETIAS adataihoz - a nem közvetlen hozzáférés ellenére - leggyorsabb hozzájutást lehetővé tevő megoldás érdekében az adatigénylés részletszabályainak kidolgozása végrehajtási rendeleti szinten.
+
+Az ETIAS rendelet 57. cikk (2) bekezdése szerint a személyes adatoknak az ETIAS központi rendszerében történő, valamely tagállam általi kezelése tekintetében az ETIAS nemzeti egység adatkezelőnek tekintendő, illetve az adott tagállam által az ETIAS központi rendszerében végzett személyesadat-kezelésért központilag felelős. E tevékenységi körében felelős az adatok módosításáért és előrehozott törléséért, valamint a személyes adatok helyesbítéséért, kiegészítéséért, valamint törléséért.
+
+Az adatok helyesbítésével, kiegészítésével és törlésével, illetve az erre irányuló kérelmekkel kapcsolatos döntésekkel összefüggésben szükséges a vonatkozó eljárási szabályok meghatározása kormányrendeleti szinten, amelynek megalkotására a jelen törvényjavaslat ad felhatalmazást.
+
+A 11. §-hoz
+
+A kérelemfájlok ETIAS központi egységénél megvalósuló elbírálása automatizált rendszeren keresztül történik, amelynek folyamán sor kerül a kérelmező által közölt adatok releváns uniós és nemzetközi adatbázisokban történő ellenőrzésére. Ha a rendszer találatot jelez, vagy további elemzést igénylő adatot talál, a kérelmet a Frontex az ETIAS rendelet 22. cikk szerinti, az ETIAS központi egysége által végzett ellenőrzés szabályai szerint ellenőrzi. Az ETIAS központi egysége a kérelemfájl kézhezvételétől számított legfeljebb 12 órán belül köteles elvégezni a manuális feldolgozást. Amennyiben a kérelemfájlban rögzített adatok megfelelnek a találatot eredményező adatoknak (vagyis egyezés esetén), vagy ha az egyezés továbbra is kétséges, a kérelmet az ETIAS rendelet szerint a felelős tagállam ETIAS nemzeti egységének kell feldolgoznia. Az engedély kiadására vagy a találatot eredményező kérelem elutasítására legkésőbb a kérelem benyújtásától számított 96 órán belül - vagy ha a kérelmezőnek további információkat kell benyújtania, a további információk kézhezvételétől számított 96 órán belül - kerül sor.
+
+Az ETIAS rendelet 20. cikke megállapítja, hogy a kérelmekben szereplő adatokat az ETIAS központi rendszerének össze kell hasonlítania az uniós információs rendszerekben vagy adatbázisokban [az ETIAS központi rendszerben, a Schengeni Információs Rendszerben (SIS), a Vízuminformációs Rendszerben (VIS), a határregisztrációs rendszerben (EES) vagy az Eurodacban], továbbá az Europol vagy az Interpol adatbázisaiban [az Interpol ellopott és elvesztett úti okmányokat tartalmazó adatbázisában (SLTD) vagy az Interpol-körözésben megjelölt úti okmányok adatbázisában (TDAWN)] nyilvántartott adatokkal, fájlokkal vagy figyelmeztető jelzésekkel.
+
+Az ETIAS kérelmek feldolgozásáért felelős tagállamot az ETIAS központi rendszerének kell meghatároznia az ETIAS rendelet 25. cikke szerinti felelősségi rend figyelembevételével.
+
+Amennyiben csak egy olyan tagállam van, amely az ETIAS rendelet 20. cikknek megfelelő találatot eredményező adatot vitt be vagy bocsátott rendelkezésre, akkor az a tagállam a felelős tagállam.
+
+Amennyiben több olyan tagállam van, amely az ETIAS rendelet 20. cikknek megfelelő találatot eredményező adatot vitt be vagy bocsátott rendelkezésre, akkor az a tagállam a felelős tagállam, amelyik:
+
+a) Az ETIAS rendelet 20. cikk (2) bekezdés d) pontjában (európai elfogatóparancs alapján átadási letartóztatás céljából körözött személyekre vonatkozó figyelmeztető jelzés, illetve kiadatási letartóztatás céljából körözött személyekre vonatkozó figyelmeztető jelzés a SIS-ben) említett figyelmeztető jelzésre vonatkozó legfrissebb adatokat bevitte vagy rendelkezésre bocsátotta;
+
+b) Ha a figyelmeztető jelzés nem felel meg a 20. cikk (2) bekezdés d) pontjában említett figyelmeztető jelzésnek, akkor az a tagállam, amely a 20. cikk (2) bekezdésének c) pontjában (beutazási és tartózkodási tilalmat elrendelő figyelmeztető jelzés a SIS-ben) említett figyelmeztető jelzésre vonatkozó legfrissebb adatokat bevitte vagy rendelkezésre bocsátotta;
+
+c) Ha a figyelmeztető jelzés nem felel meg a 20. cikk (2) bekezdés c) vagy d) pontjában említett figyelmeztető jelzések egyikének sem, akkor az a tagállam, amely a 20. cikk (2) bekezdésének a) pontjában (SIS-ben elveszett, ellopott, jogellenesen használt vagy érvénytelenített úti okmányként nyilvántartott okmány) említett figyelmeztető jelzésre vonatkozó legfrissebb adatokat bevitte vagy rendelkezésre bocsátotta.
+
+Amennyiben több olyan tagállam is van, amely a 20. cikknek megfelelően találatokat eredményező adatokat vitt be vagy bocsátott rendelkezésre, de az említett adatok közül egyik sem a 20. cikk (2) bekezdése a), c) vagy d) pontjában említett figyelmeztető jelzésnek megfelelő adat, az a tagállam a felelős tagállam, amelyik a legfrissebb adatokat bevitte vagy rendelkezésre bocsátotta.
+
+Amennyiben a kérelem feldolgozását nem tagállam (pl. harmadik ország vagy Europol) által bevitt vagy rendelkezésre bocsátott adat eredményezi, akkor a felelős tagállam az első tervezett tartózkodás helye szerinti tagállam.
+
+A kérelmek ETIAS nemzeti egységek által elvégzett manuális feldolgozására tehát abban az esetben kerül sor, amikor az automatizált eljárás találatot eredményezett, így a tagállamok nemzeti egysége által végzett ellenőrzés a kérelmezőkkel kapcsolatos biztonsági fenyegetések komplex vizsgálatára, a belépéshez kapcsolódó kockázatok azonosítására és kiszűrésére, illetve a terrorista bűncselekmények vagy egyéb súlyos bűncselekmények megelőzésére irányul.
+
+Az ETIAS rendelet 8. cikke rendelkezik az ETIAS nemzeti egységek felelősségéről, míg az ETIAS rendelet 26. cikke rendelkezik a kérelmek ETIAS nemzeti egységek által elvégzett manuális feldolgozásának részletesebb szabályairól.
+
+Az ETIAS rendelet 8. cikk (1) bekezdése rendelkezik az ETIAS nemzeti egységek létrehozásának szükségességéről, amely szerint minden tagállamnak ki kell jelölnie az ETIAS nemzeti egységként működő illetékes hatóságot. A vonatkozó döntés értelmében szükséges intézkedni az ETIAS nemzeti egységként működő hazai szervként a Terrorelhárítási Információs és Bűnügyi Elemző Központ kijelölésére.
+
+Az ETIAS nemzeti egység felelős az utazási engedély iránti kérelmek vizsgálatáért, és az ezzel kapcsolatos határozathozatalért, az elvégzett feladatok és a kapott eredmények kérelemfájlban való rögzítéséért, a kérelemfájlba bevitt adatok naprakészen tartásért, a korlátozott területi érvényességű utazási engedély kiadásáról. Felel továbbá más ETIAS nemzeti egységekkel és az Europollal való konzultációért, az utazási engedély iránti kérelem elutasítása esetén a kérelmezők jogorvoslati eljárásról való tájékoztatásért, az utazási engedély megsemmisítéséért, illetve az utazási engedély visszavonásáért.
+
+Az ETIAS nemzeti egységnek a kérelmeket az ETIAS rendelet szerint fel kell dolgoznia, amelyet követően a felelős tagállamnak ki kell adnia vagy meg kell tagadnia az utazási engedélyt.
+
+Az ETIAS rendelet 37. cikke tartalmazza az utazási engedély kiadásának megtagadásának kötelező eseteit. Az utazási engedély kiadását a felelős tagállam ETIAS nemzeti egységének meg kell tagadnia, ha a kérelmező olyan úti okmányt használt, amelyet a SIS-ben elveszettként, ellopottként, jogellenesen használtként vagy érvénytelenítettként jelentettek, ha a kérelmező biztonsági kockázatot, illegális bevándorlással kapcsolatos kockázatot vagy magas szintű járványügyi kockázatot jelent. A kérelmezőre vonatkozóan a SIS-ben beutazási és tartózkodási tilalmat elrendelő figyelmeztető jelzést rögzítettek, illetve ha nem válaszol a további információk vagy dokumentumok benyújtására irányuló felszólításra vagy nem jelenik meg a személyes meghallgatáson.
+
+Az ETIAS rendelet 50. cikk (2) bekezdése szerint minden tagállamnak ki kell jelölnie egy központi hozzáférési pontot, amely hozzáféréssel rendelkezik az ETIAS központi rendszeréhez és jogosult a tagállamok kijelölt hatóságainak az ETIAS központi rendszerében rögzített adatokhoz való hozzáférésre vonatkozó feltételek vizsgálatára.
+
+A központi hozzáférési pontnak a kijelölt hatóságoktól teljesen függetlenül kell eljárnia, illetve azoktól el kell különülnie. Az ETIAS rendelet szerint a tagállamoknak értesíteniük kell az eu-LISA-t és a Bizottságot mind a központi hozzáférési pontról, mind a kijelölt hatóságokról.
+
+Ezen feladatokat az ETIAS rendelet alapján végzett adatkezelésért központilag felelős hatóságra, az ETIAS nemzeti egységként kijelölt Terrorelhárítási Információs és Bűnügyi Elemző Központra célszerű telepíteni. Az adatok helyesbítésével, kiegészítésével és törlésével, illetve az erre irányuló kérelmekkel kapcsolatos döntésekkel összefüggésben szükségessé válik a későbbiekben az ezekkel kapcsolatos eljárási szabályoknak a meghatározása végrehajtási rendeleti szinten.
+
+Jelen törvényjavaslat javaslatot tesz a nemzeti központi hozzáférési egység feladatainak törvényi szinten történő meghatározására, amelyekkel kapcsolatban az eljárási szabályok, illetve a kapcsolódó részletszabályok meghatározása végrehajtási szinten indokolt.
+
+A törvényjavaslat javasolt 8/C. § (1) a)-c) pontja meghatározza az ETIAS rendelet nemzeti központi hozzáférési pont feladatait a bűnüldözési célú hozzáférés feltételeinek fennállásának vizsgálatára, és a feltételek fennállása esetén a hozzáférés biztosítására, az ETIAS rendelet 92. cikk (8) bekezdése szerinti adatszolgáltatási kötelezettség teljesítésére, valamint a nemzeti központi hozzáférési pont ETIAS rendelet szerinti további feladataira is.
+
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) új 8/C. § (2) bekezdése tesz javaslatot bűnüldözési célú hozzáféréssel rendelkező kijelölt hatóságokra, amelyek a meghatározott feltételek fennállásának teljesülése esetén az ETIAS rendszerből a központi hozzáférési ponthoz benyújtott, indokolással ellátott kérelem alapján az adatok lekérdezésére lesznek jogosultak.
+
+A törvényjavaslat 10. §-a az Nbtv. azon kiegészítését tartalmazza, amely az utas-nyilvántartási adatállomány (PNR) és az ETIAS adatok tekintetében az európai uniós jogi normák által meghatározott feladatok végrehajtásához kapcsolódó kockázatelemzés lehetőségét vezeti be. A PNR adatok kezelésének legfontosabb hozzáadott értéke abban rejlik, hogy azok az utasok tervezett utazása előtt rendelkezésre állnak, hasonlóan az ETIAS kérelemfájlok információihoz.
+
+A már meglévő rendszerek, illetve az EES és ETIAS jelentette lehetőségek felhasználásával a személyek utazásával (utazási szokásaival, mintázataival) kapcsolatban rendelkezésre álló utazási adatok tekintetében a kockázatelemzés lehetőségének törvényi szintű rögzítése a terrorista és súlyos bűncselekmények megelőzéséhez, felderítéséhez és kivizsgálásához jelentős mértékben hozzájárulhat.
+
+Az Nbtv. új 8/D. §-a rögzíti, hogy a TIBEK utasadat-információs egységként és ETIAS nemzeti egységként végzett feladatai keretében a rendelkezésére álló utasadatok és információk tekintetében kockázatelemzést végezhet.
+
+A 12. §-hoz
+
+Mind az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása érdekében történő felhasználásáról szóló 2016. április 27-i (EU) 2016/681 európai parlamenti és tanácsi irányelvben, mind az ETIAS rendeletben foglalt szabályozás deklarált célja a terrorista és súlyos bűncselekmények elleni küzdelem, erre figyelemmel indokolt felhatalmazást teremteni az e körben végzett tevékenység során az Európai Határregisztrációs Rendszer adataihoz történő hozzáférésre.
+
+Az EES rendelet lehetőséget ad a tagállamok kijelölt hatóságainak a rendszerben tárolt adatokhoz való bűnüldözési célú hozzáférésre is a súlyos bűncselekmények és a terrorizmus elleni küzdelem céljából, míg az EES rendelet 3. cikkének 23. pontja szerint a „bűnüldözés” a terrorista bűncselekmények vagy egyéb súlyos bűncselekmények megelőzését, felderítését vagy nyomozását is lefedi.
+
+A TIBEK számára a meghatározott feladat- és hatásköréhez kapcsolódóan a központi hozzáférési ponthoz benyújtott, indoklással ellátott elektronikus kérelem alapján az EES által kezelt adatokba való betekintés lehetőségének törvényi szintű szabályozása jelentősen hozzájárulhat Magyarország biztonságához, valamint a terrorizmus és a szervezett bűnözés elleni harc eredményességéhez.
+
+Az EES adataihoz való bűnüldözési célú hozzáférésre jogosult hatóságként a TIBEK kijelölése lehetőséget teremt az utazási adatok teljes spektrumának megismerésére. Mindez jelentősen hozzájárul az ETIAS nemzeti egység által végzett kérelem feldolgozás folyamatának eredményességéhez, a biztonsági kockázatok értékeléséhez, a kérelmezőkkel kapcsolatos biztonsági fenyegetések komplex vizsgálatához, a belépéshez kapcsolódó kockázatok azonosításához és kiszűréséhez, illetve a terrorista bűncselekmények vagy egyéb súlyos bűncselekmények megelőzéséhez.
+
+A 13. §-hoz
+
+Az eljárásra a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint - a vízummal kapcsolatos eljárás mintájára - indokolt az ETIAS esetében is a bírósági jogorvoslattal kapcsolatos eljárás törvényi szintű szabályozása.
+
+A közigazgatási perrendtartásról szóló 2017. évi I. törvény (a továbbiakban: Kp.) XXI. fejezete szerinti egyszerűsített per szabályai alkalmazásának előírása a 15 napos, érdemi elbírálásra tervezett törvényi határidő megtartásával könnyebben összeegyeztethető.
+
+A jellemzően okiratok, adatbázisok vizsgálatát jelentő érdemi bírósági jogorvoslat az egyszerűsített közigazgatási per formájában kellő jogvédelmet biztosít.
+
+Az egyszerűsített közigazgatási perben a pervezetésére vonatkozóan a Kp. 125. § c) pontja alapján rendezett a törvényi határidők bíróság által történő csökkentése, törvényitől eltérő megállapítása.
+
+Az ügy iratainak, valamint a védiratnak az egyidejű megküldésére vonatkozó külön előírás indokolt arra tekintettel, hogy az Nbtv. 52/N. §-a a Kp-hoz képest önálló szabályozást jelent. Ugyanakkor a bíróság rövid törvényi határidős eljárását az segíti elő, ha a rendelkezésre álló iratok és a védirat megküldése nem tér el a keresetlevél továbbításának időpontjától.
+
+A 14. §-hoz
+
+Az Nbtv. értelmező rendelkezéseit indokolt kiegészíteni az Európai Határregisztrációs Rendszer, valamint az Európai Utasinformációs és Engedélyezési Rendszer fogalmának meghatározásával.
+
+A 15. §-hoz
+
+Az ETIAS rendeletből fakadó egyes hazai feladatok végrehajtásának részletes szabályai, így az ETIAS nemzeti egységnek az utazási engedély iránti kérelmek feldolgozásának, a rendszerhez való bűnüldözési célú hozzáférésnek, illetve a kijelölt központi hozzáférési pontnak az eljárásának meghatározása érdekében szükséges egy új kormányrendelet megalkotása, amelyre jelen törvényjavaslat ad felhatalmazást.
+
+A 16. §-hoz
+
+Jogharmonizációs záradék.
+
+A 17. §-hoz
+
+Indokolt az EES rendelet végrehajtása céljából módosítandó hazai jogszabályokban bevezetni az Európai Határregisztrációs Rendszer fogalmat a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet által létrehozott adatbázis vonatkozásában, különös tekintettel a hatályos szabályozás alapján működő és a jövőben is fenntartani kívánt nemzeti Határellenőrző és Regisztrációs Rendszertől történő elhatárolás szükségességére.
+
+A fentiekhez hasonlóan indokolt meghatározni az ETIAS rendelet alapján létrehozott Európai Utasinformációs és Engedélyezési Rendszer fogalmát is.
+
+A 18. §-hoz
+
+Az ETIAS rendelet szerint az utazási engedély megléte követelmény ahhoz, hogy a rendelet hatálya alá tartozó harmadik országbeli állampolgár teljesítse az (EU) 2016/399 rendelet 6. cikke (1) bekezdésének b) pontjában meghatározott beutazási feltételt, így a beutazás és rövid távú tartózkodás egy új feltételeként szükségszerű az Szmtv. rendelkezéseinek kiegészítése.
+
+Az EES rendelet 13. cikk (3) bekezdése szerint a fuvarozók az EES rendelet szerinti webes szolgáltatáson keresztül kötelesek ellenőrizni, hogy az egy vagy két beutazás céljából kiadott, rövid távú tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgárok felhasználták-e már a vízumuk által engedélyezett beutazásukat. Az ellenőrzés céljából a fuvarozók az EES rendelet 16. cikk (1) bekezdés a)-c) pontjaiban meghatározott adatokat használhatják fel. A webes szolgáltatás OK/NOT OK válaszüzenetet küld az ellenőrzés eredményeként.
+
+A 19. §-hoz
+
+Az ellenőrzéssel érintett személyi körre és a fuvarozók számára megállapított hatályos felelősségi szabályokra tekintettel célszerű az Szmtv. 65. § új (1a) bekezdésében előírni a fuvarozó ellenőrzési kötelezettségét a harmadik ország állampolgárságával rendelkező családtagok vonatkozásában.
+
+Az EES rendelet 13. cikk (3) bekezdése felhatalmazást ad a fuvarozóknak az ellenőrzés során elküldött adatok és a kapott válasz tárolására nemzeti jogukkal összhangban. Az ellenőrzési kötelezettség teljesítésének igazolása céljából indokolt annak előírása, hogy a fuvarozók az érintett adatokat - összhangban a fuvarozók által a webes szolgáltatáson keresztül végzett adatkezelési műveletekkel kapcsolatos naplók megőrzési idejére vonatkozóan az eu-LISA számára a 13. cikk (4) bekezdésében előírt kötelezettséggel - két évig őrizzék meg.
+
+Az ETIAS rendelet 45. cikke szerint a légi fuvarozóknak és a tengeri fuvarozóknak adatokat kell lekérdezniük az ETIAS információs rendszerből annak ellenőrzése céljából, hogy az utazási engedély megszerzésére kötelezett harmadik országbeli állampolgárok rendelkeznek-e érvényes utazási engedéllyel. A fuvarozóknak beszállítás előtt a fuvarozói portálon keresztül kell végrehajtaniuk az adatlekérdezést az úti okmány géppel olvasható vizsgálati zónájában található adatok megadása és a beutazás helye szerinti tagállam megjelölése útján. Az ETIAS információs rendszer a fuvarozói portálon keresztül OK/NOT OK válaszüzenetet küld a fuvarozóknak, amelyben jelzi, hogy az adott személy rendelkezik-e érvényes utazási engedéllyel. Az ETIAS rendelet 45. cikk (9) bekezdése szerint ez a kötelezettség a szárazföldön távolsági busszal csoportokat szállító nemzetközi fuvarozókra az ETIAS működésének megkezdésétől számított három év elteltével áll fenn.
+
+Az ellenőrzéssel érintett személyi körre és a fuvarozók számára megállapított hatályos felelősségi szabályokra tekintettel célszerű az Szmtv. 65. § új (1b) bekezdésében előírni a fuvarozók ellenőrzési kötelezettségét a harmadik ország állampolgárságával rendelkező családtagok vonatkozásában.
+
+A 20. §-hoz
+
+Az idegenrendészeti, illetve a vízumhatóság az EES rendelet 14. cikk (8) bekezdése, valamint a 18-19. cikkek szerint adatokat vihet be az EES-be. E hatóságok az adatok bevitelével kapcsolatos jogosultságaik mellett az EES rendelet 24. és 26-27. cikke szerint a vízumkérelmek vizsgálata és az azokkal kapcsolatos döntéshozatal, a Magyarország területén történő jogszerű tartózkodás feltételei teljesítésének ellenőrzése valamint személyazonosítás céljából lekérdezhetik az EES-ben tárolt adatokat.
+
+A hazai vízumhatóságok kijelölésére a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet e törvényjavaslattal összefüggésben történő módosításával kerül sor.
+
+A 21. §-hoz
+
+Az ETIAS rendelet 45. cikk (9) bekezdése szerint a szárazföldön, távolsági autóbuszokkal csoportokat szállító fuvarozók számára az ETIAS rendszer működésbe lépésétől számított első három évben az ETIAS-ban végzett ellenőrzés opcionális, erre tekintettel átmeneti rendelkezés megalkotása indokolt.
+
+A 22. §-hoz
+
+Jogharmonizációs záradék.
+
+A 23. §-hoz
+
+Az EES rendelet végrehajtása céljából szükséges a módosítandó hazai jogszabályokban bevezetni az Európai Határregisztrációs Rendszer fogalmat a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet által létrehozott adatbázis vonatkozásában, különös tekintettel a hatályos szabályozás alapján működő és a jövőben is fenntartani kívánt nemzeti Határellenőrző és Regisztrációs Rendszertől történő elhatárolás szükségességére.
+
+A fentiekhez hasonlóan indokolt meghatározni az ETIAS rendelet alapján létrehozott Európai Utasinformációs és Engedélyezési Rendszer, valamint a tagállamok területére történő beutazás új feltételeként megjelenő ETIAS utazási engedély fogalmát.
+
+A 24. §-hoz
+
+Az ETIAS rendelet szerint az utazási engedély megléte követelmény ahhoz, hogy a rendelet hatálya alá tartozó harmadik országbeli állampolgár teljesítse az (EU) 2016/399 rendelet 6. cikke (1) bekezdésének b) pontjában meghatározott beutazási feltételt, így a beutazás és rövid távú tartózkodás egy új feltételeként szükségszerű a Harmtv. rendelkezéseinek kiegészítése.
+
+A 25. §-hoz
+
+Az EES rendelet 13. cikk (3) bekezdése szerint a fuvarozók az EES rendelet szerinti webes szolgáltatáson keresztül kötelesek ellenőrizni, hogy az egy vagy két beutazás céljából kiadott, rövid távú tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgárok felhasználták-e már a vízumuk által engedélyezett beutazásukat. Az ellenőrzés céljából a fuvarozók az EES rendelet 16. cikk (1) a)-c) pontjaiban meghatározott adatokat használhatják fel. A webes szolgáltatás OK/NOT OK válaszüzenetet küld az ellenőrzés eredményeként.
+
+Az ellenőrzéssel érintett személyi körre és a fuvarozók számára megállapított hatályos felelősségi szabályokra tekintettel célszerű Harmtv. 69. § új (1a) bekezdésében előírni a fuvarozók ellenőrzési kötelezettségét a harmadik ország állampolgárságával rendelkező személyek vonatkozásában.
+
+Az EES rendelet 13. cikk (3) bekezdése felhatalmazást ad a fuvarozóknak az ellenőrzés során elküldött adatok és a kapott válasz tárolására nemzeti jogukkal összhangban. Az ellenőrzési kötelezettség teljesítésének igazolása céljából indokolt annak előírása, hogy a fuvarozók az érintett adatokat - összhangban a fuvarozók által a webes szolgáltatáson keresztül végzett adatkezelési műveletekkel kapcsolatos naplók megőrzési idejére vonatkozóan az eu-LISA számára a 13. cikk (4) bekezdésében előírt kötelezettséggel - két évig őrizzék meg.
+
+Az ETIAS rendelet 45. cikke szerint a légi fuvarozóknak és a tengeri fuvarozóknak adatokat kell lekérdezniük az ETIAS információs rendszerből annak ellenőrzése céljából, hogy az utazási engedély megszerzésére kötelezett harmadik országbeli állampolgárok rendelkeznek-e érvényes utazási engedéllyel. A fuvarozóknak beszállítás előtt a fuvarozói portálon keresztül kell végrehajtaniuk az adatlekérdezést az úti okmány géppel olvasható vizsgálati zónájában található adatok megadása és a beutazás helye szerinti tagállam megjelölése útján. Az ETIAS információs rendszer a fuvarozói portálon keresztül OK/NOT OK válaszüzenetet küld a fuvarozóknak, amelyben jelzi, hogy az adott személy rendelkezik-e érvényes utazási engedéllyel. Az ETIAS rendelet 45. cikk (9) bekezdése szerint ez a kötelezettség a szárazföldön távolsági busszal csoportokat szállító nemzetközi fuvarozókra az ETIAS működésének megkezdésétől számított három év elteltével áll fenn.
+
+Az ellenőrzéssel érintett személyi körre és a fuvarozók számára megállapított hatályos felelősségi szabályokra tekintettel célszerű a Harmtv. 69. § új (1b) bekezdésében előírni a fuvarozók ellenőrzési kötelezettségét a harmadik ország állampolgárságával rendelkező családtagok vonatkozásában.
+
+A 26. §-hoz
+
+Az idegenrendészeti, illetve a vízumhatóság az EES rendelet 14. cikk (8) bekezdése, valamint a 18-19. cikkek szerint adatokat vihet be az EES-be. E hatóságok az adatok bevitelével kapcsolatos jogosultságaik mellett az EES rendelet 24. és 26-27. cikke szerint a vízumkérelmek vizsgálata és az azokkal kapcsolatos döntéshozatal, a Magyarország területén történő jogszerű tartózkodás feltételei teljesítésének ellenőrzése valamint személyazonosítás céljából lekérdezhetik az EES-ben tárolt adatokat.
+
+A hazai vízumhatóságok kijelölésére a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet e törvényjavaslattal összefüggésben történő módosításával kerül sor.
+
+Az ETIAS rendelet 49. cikk (1) bekezdése szerint a tagállamok területére történő beutazás vagy ott-tartózkodás feltételei teljesülésének vizsgálata vagy ellenőrzése, valamint az ehhez kapcsolódó megfelelő intézkedések meghozatala céljából a tagállamok bevándorlási hatóságai számára hozzáférést kell biztosítani az ETIAS központi rendszeréhez, hogy meghatározott személyes adatok tekintetében keresést végezhessenek. A javasolt szabályozás megteremti az idegenrendészeti hatóság számára az ETIAS-ban tárolt adatokat lekérdezéséhez szükséges felhatalmazást.
+
+Az ETIAS rendelet (39) preambulumbekezdése alapján a tagállamok bevándorlási hatóságai számára hozzáférést kell biztosítani az ETIAS központi rendszerében tárolt bizonyos információkhoz, különösen a visszaküldések céljából. A kényszerintézkedési szakterület eljárásainak vonatkozásában az ETIAS hozzáférés elsősorban az első fokú idegenrendészeti hatóság azon eljárása során szükséges, amelyben a harmadik országbeli állampolgárok magyarországi tartózkodásának jogszerűségét vizsgálja, a kiutasító döntés meghozatalát megelőzően.
+
+Az ETIAS rendelet 3. cikk 22. pontja szerint a „bevándorlási hatóság” az az illetékes hatóság, amely a nemzeti jognak megfelelően az alábbiak közül egy vagy több intézkedésért felel:
+
+a) a tagállamok területén annak ellenőrzése, hogy teljesülnek-e a tagállamok területére történő beutazás, illetve a tagállamok területén való tartózkodás feltételei;
+
+b) a harmadik országbeli állampolgárok tagállamok területén való tartózkodása feltételeinek vizsgálata és az e tartózkodással kapcsolatos döntések meghozatala annyiban, amennyiben ez a hatóság nem minősül a 2013/32/EU európai parlamenti és tanácsi irányelv (1) 2. cikkének f) pontjában meghatározott „eljáró hatóságnak”, továbbá adott esetben tanácsadás a 377/2004/EK tanácsi rendelettel (2) összhangban;
+
+c) a harmadik országbeli állampolgárok visszaküldése valamely Unión kívüli származási vagy tranzitországba.
+
+Az ETIAS rendelet fogalom-meghatározása szerinti bevándorlási hatóság lefedi az Országos Idegenrendészeti Főigazgatóságot, illetve a Rendőrséget is mint idegenrendészeti hatóságot.
+
+A fentiekkel összefüggésben az idegenrendészeti hatóság számára az ETIAS-ban tárolt adatok lekérdezésére vonatkozó részletszabályokról, illetve a kapcsolódó eljárási szabályok meghatározásáról kormányrendeleti szinten indokolt rendelkezni, amelynek megalkotására jelen törvényjavaslat ad felhatalmazást.
+
+A 27. §-hoz
+
+Az ETIAS rendelet 45. cikk (9) bekezdése szerint a szárazföldön, távolsági autóbuszokkal csoportokat szállító fuvarozók számára az ETIAS rendszer működésbe lépésétől számított első három évben az ETIAS-ban végzett ellenőrzés opcionális, erre tekintettel átmeneti rendelkezés megalkotása indokolt.
+
+A 28. §-hoz
+
+Jogharmonizációs záradék.
+
+A 29. §-hoz
+
+A menedékjogi törvénynek a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló (EU) 2011/95 európai parlamenti és tanácsi irányelvvel (Kvalifikációs irányelv) való teljesebb összhangja érdekében indokolt pontosítani, hogy a menedékjogi kérelem elbírálása során a korábbi üldözés vagy súlyos sérelem ténye vagy az ettől való megalapozott félelem - változatlan körülmények esetén - a menedékjogi kérelem vizsgálata során milyen módon vehető figyelembe.
+
+A 30. §-hoz
+
+Az ETIAS rendelet 56. cikk (2) bekezdése alapvetően az általános adatvédelmi rendelet alkalmazását írja elő a személyes adatoknak a kérelmeket vizsgáló ETIAS nemzeti egységek, a határfogalom-ellenőrzést végző hatóságok és a bevándorlási hatóságok általi kezelése vonatkozásában, illetve az ETIAS nemzeti egység utazási engedély kiadásáról, kiadásának megtagadásáról, visszavonásáról vagy megsemmisítéséről történő határozathozatala esetén.
+
+Az ETIAS rendelet 56. cikk (2) bekezdése szerint, amennyiben a személyes adatoknak az ETIAS nemzeti egységek általi kezelésére a terrorista bűncselekmények vagy egyéb súlyos bűncselekmények megelőzése, felderítése vagy nyomozása céljából kerül sor, úgy a 2016/680 (EU) irányelv alkalmazása az irányadó.
+
+Az ETIAS rendelet végrehajtása érdekében szükséges jogharmonizációs eljárás során indokolt rendelkezni arról, hogy a TIBEK ETIAS nemzeti egysége az ETIAS rendeletben meghatározott feladat- és hatáskörében végzett adatkezelése nem minősül nemzetbiztonságú célú adatkezelésnek. Ezzel összefüggésben az Infotv. nemzetbiztonsági célú adatkezelésre vonatkozó 3. § 10b. pontjának pontosítása is szükséges.
+
+-----STARTING---POINT---VEGE---
+
+A 31. §-hoz
+
+Hatályba léptető rendelkezés. Az EES és az ETIAS működésének kezdő időpontját az Európai Bizottság fogja meghatározni. Erre tekintettel a magyarországi EES és ETIAS vonatkozásában is indokolt a törvényjavaslat szerinti módosítások hatálybalépésének időpontját a Bizottság határozatához mint jövőbeli feltételhez kötni.
+
+A 32. §-hoz
+
+Sarkalatossági záradék.
+
+A 33. §-hoz
+
+Jogharmonizációs záradék.

@@ -1,0 +1,383 @@
+2017. évi XCIII. törvény indokolása
+
+a titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az Országgyűlés megalkotta az új büntetőeljárásról szóló törvényt, amely új rendszer szerint, leplezett eszközök megnevezéssel átalakítja a titkos információgyűjtés és a titkos adatszerzés hatályos szabályozását. Az átalakítás legfontosabb célja annak egyértelművé tétele, hogy konkrét bűncselekmény miatt, büntetőeljárási célból titkos tevékenység kizárólag a büntetőeljárási törvény keretei között legyen folytatható. A büntetőeljárásról szóló új törvényben kialakított szabályozás révén egyértelművé válik, hogy a bűnüldözési célú titkos információgyűjtés olyan különleges, leplezett tevékenység, amely a büntetőeljárásnak képezi szerves részét, azaz információk mellett eredendően bizonyítékok megszerzésére is irányul. Az új büntetőeljárási kódex olyan rendszer kialakítását célozza, amely e különleges nyomozási tevékenységet egyszerűen, átláthatóan és a többi büntetőeljárási rendelkezéssel koherensen szabályozza. Ennek részeként az új törvény a hatályos szabályozásnál részletesebben rendelkezik a büntetőeljárásban alkalmazható leplezett eszközökről és módszerekről, új eljárási szakaszt vezet be, meghatározza a büntetőeljárás és az egyéb célokból folytatott titkos információgyűjtés viszonyát, továbbá a rendőrség titkos információgyűjtésre feljogosított olyan szervei számára is biztosítja büntetőeljárási cselekmények végrehajtását, amelyek nyomozó hatósági jogkörrel egyébként nem rendelkeznek.
+
+A bűnüldözési célú titkos információgyűjtés büntetőeljárási törvénybe történő integrálása miatt vált szükségessé a nyomozást megelőző új eljárási szakasz, az ún. előkészítő eljárás kialakítása is. A büntetőeljárás főszabály szerint továbbra is bűncselekmény gyanúja alapján indul, azonban a büntetőeljárás proaktív képességének elősegítése érdekében az új büntetőeljárási kódex az előkészítő eljárással lehetőséget biztosít egyfajta előzetes felderítésre, amelynek célja a bűncselekmény gyanújának megállapítása, illetve kizárása. Hangsúlyozni kell, hogy a hatályos keretek között is végezhetnek az erre feljogosított szervek ilyen céllal titkos információgyűjtést, erre vonatkozóan azonban nem a büntetőeljárási törvény alapján járnak el, hanem az egyes szervezetekre vonatkozó ágazati törvények alapján. Az új büntetőeljárási törvény ezzel a megoldással biztosítja, hogy az eddig az ágazati törvények alapján eljáró szervek a bűncselekmények gyanújának megállapítása érdekében immáron a büntetőeljárási törvény biztosította garanciális keretek között végezzék ezt a típusú tevékenységet, ezzel egyben a valós idejű büntetőeljárás folytatására is ösztönözve az előzetes felderítést végző szerveket. A fenti újítással érhető el egyebek mellett az is, hogy a hatályos rendszerhez képest megteremtődjön az ilyen jellegű titkos felderítési tevékenység fölött is a külső, ügyészi kontroll lehetősége.
+
+Az új büntetőeljárási kódex önmagában még nem teszi teljessé a bűnüldözési célú titkos információgyűjtés reformját. A fentebb bemutatott, az új büntetőeljárási kódexben szereplő jelentős átalakítások miatt elengedhetetlen a titkos információgyűjtés folytatásáról jelenleg rendelkező ágazati törvények, így a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.), a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.), bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény (a továbbiakban: Tv.), a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: NAV tv.) és az ügyészségről szóló 2011. évi CLXIII. törvény (a továbbiakban: Ütv.) módosítása, amelyet a törvény az alábbi főbb célkitűzések és megfontolások mentén kíván végrehajtani.
+
+Fontos hangsúlyozni, hogy sem az új büntetőeljárási törvény leplezett eszközökre vonatkozó rendelkezéseinek, sem a törvénynek nem célja a jogrendszerben most is meglévő tartalmi keretek átlépése vagy jelentős megváltoztatása. A törvény például nem változtat a bírói engedélyhez kötött és bírói engedélyt nem igénylő eszközök körén. A szabályozás nem teremt olyan új állami fellépési lehetőséget, amely a hatályos rendszerben valamilyen módon ne jelenne meg. A cél a jelenleg meglévő, közel húsz éve fennálló, ellentmondásokkal terhelt, jogalkalmazási bizonytalanságokkal is jellemezhető jogi szabályozás felülvizsgálata és precízebb, pontosabb, hatékonyabb eljárást eredményező szabályozás kialakítása.
+
+A titkos információgyűjtés szabályozásáról a módosítással érintett két legfontosabb ágazati törvény, az Rtv. és a NAV tv. - a rendőrség és a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) eltérő szervezeti felépítése indokolta különbségeket ide nem értve - nagyrészt egyezően rendelkezik, emiatt a két szabályrendszer hiányosságai is azonosak. Koncepcionális jelentőségű zavart okoz, hogy a titkos információgyűjtés céljai között mindkét törvény olyan feladatokat határoz meg, amelyek a büntetőeljárással párhuzamosan értelemzavaró és ekként az alkalmazás során bizonytalanságot okozó átfedést mutatnak. Ilyen hibás rendelkezésnek tekinthető, hogy az Rtv. 63. § (1) bekezdése és a NAV tv. 51. § (1) bekezdése is az ágazati törvény szerint folytatható titkos információgyűjtés céljai között sorolja fel a bűncselekmény elkövetésének megszakítását, az elkövető kilétének megállapítását és elfogását, vagy a bizonyítékok megszerzését. Az egyéb, rendészeti jellegűnek minősíthető célok esetén mindkét törvényről egyaránt elmondható, hogy az egyes célok és a titkos információgyűjtést folytató szervek törvényben meghatározott feladatai közötti kapcsolat szabályozottsága nem kellően kimunkált, különösen igaz ez például a rendőrségnek egyes különleges feladatok ellátása céljából létrehozott szervezeti egységei esetén. A jogbiztonság fenntartása és a célhozkötöttség magasabb garanciális szintre emelése érdekében ezért nélkülözhetetlen egyrészt az egyes szervek úgynevezett feladatmeghatározó rendelkezéseinek - különösen az Rtv. 1. §-ának, 7. §-ának, 7/E. §-ának és a NAV tv. 13. §-ának - pontosítása, másrészt az egyes célok olyképpeni definiálása, amely megteremti a mérlegelés normatív alapokon álló lehetőségét. Mind az Rtv., mind a NAV tv. esetén megállapítható, hogy a titkos információgyűjtés egyes eszközeire vonatkozó szabályok nem koherensek, az ugyanazon eszközökhöz tartozó rendelkezések a vonatkozó fejezeten belül szétszórva helyezkednek el. Más esetben - főként az új büntetőeljárásról szóló törvény rendszerével összevetve - egyes rendelkezések nem kellően cizelláltak, különösen a fedett nyomozók és a titkos információgyűjtés bírói engedélyhez kötött eszközei esetén.
+
+A fentiekben részletezett koncepcionális átalakítás következményeként az új büntetőeljárási törvény elfogadását követően a nyomozásra jogosult szervekre vonatkozó ágazati törvények alapján nem lesz végezhető valamely konkrét bűncselekményt vizsgáló bűnüldözési célú titkos információgyűjtés, ilyen célú tevékenységet kizárólag a büntetőeljárásról szóló törvény alapján, a leplezett eszközökre vonatkozó rendelkezések szerint lehet majd folytatni. Elkerülhetetlen tehát a vonatkozó ágazati törvények cél- és eszközrendszerének korrekciója. A leplezett eszközöknek az új büntetőeljárási kódexben kialakított cél- és eszközrendszerére tekintettel az ágazati jogszabályokban kizárólag a konkrét bűncselekményhez nem kapcsolódó titkos információgyűjtésre vonatkozó szabályok maradhatnak. Az egyes törvényeket érintő módosítások legfontosabb része tehát az új büntetőeljárásról szóló törvényben a leplezett eszközök alkalmazásának rendszerével való koherencia megteremtése érdekében szükséges tartalmi, rendszerszintű változtatásokat jeleníti meg. E koncepcionális szempont jelenik meg az Rtv. és a NAV tv. tekintetében a titkos információgyűjtés folytatását megalapozó, a törvény által megengedett célokat érintő módosításokban, így a törvényben foglalt módosítások eredményeként például a konkrét bűncselekmény felderítése, megszakítása, a bűncselekmény elkövetéséből eredő vagyon felkutatása, az elkövető elfogása és a bizonyítékok megszerzése, mint cél kikerül e törvényekből. A titkos információgyűjtésnek az említett törvényekben meghatározott, rendészeti jellegű egyes céljait illetően a törvény szerinti új rendelkezések a titkos információgyűjtést folytató szervek törvényben meghatározott feladataihoz igazítva, immár egyértelműen határozzák meg az egyes célok tartalmát és egyben az engedélyezés során alkalmazható szempontrendszert is szolgáltatnak. Hangsúlyozni kell, hogy a célok tekintetében a törvény az Rtv.-ben, illetve a NAV tv.-ben jelenleg is meglévő célok következetes, precíz megfogalmazásával és megjelenítésével a normavilágosság követelményének jobban megfelelő szabályozást kíván megvalósítani. Az új büntetőeljárási kódex változásai miatt továbbá a titkos információgyűjtés azon eszközei és módszerei, amelyek alkalmazása konkrét bűncselekményt feltételez - pl. a csapda, az álvásárlás egyes formái - a büntetőeljáráson kívül értelemszerűen nem lesznek alkalmazhatók.
+
+E tekintetben kiemelhető, hogy a törvényben foglalt rendelkezések mind az elrendelés, mind az eszközök alkalmazásának a folyamata során előrelépést jelentenek a hatályos szabályozáshoz képest. Utalni lehet arra, hogy például az Rtv.-ben jelenleg nem jelenik meg olyan normatív tartalmi szempont, amelyet a bírónak lehetősége lenne mérlegelni az engedélyezéskor. Mind a hatályos, mind az új büntetőeljárási törvény általános követelményként fogalmazza meg az arányosság, szükségszerűség és a bizonyíték más módon való be nem szerezhetőségének a követelményét, a törvényben is szerepel ennek megfelelő általános szempontrendszer. Az alkalmazás folyamata során - a büntetőeljáráshoz hasonlóan - a törvény megteremti az engedélyező bírónak a felülvizsgálat lehetőségét annak ellenőrzése érdekében, hogy az engedélynek megfelelően zajlik-e a folyamat. Garanciális szempontból fontos eleme a törvénynek továbbá a titkos információgyűjtés határidejére vonatkozó szabályozás. Hangsúlyozni kell, hogy a hatályos törvényekben többféle értelmezésre okot adó rendelkezés van azzal kapcsolatban, hogy meddig folytatható titkos információgyűjtés egy adott ügyben.
+
+Mivel az új büntetőeljárási kódex a leplezett eszközökre vonatkozó, de az egyéb célú titkos információgyűjtés során is ugyanúgy rendezendő szabályozási kérdéseket pontosította, illetve részletesebbé tette, ezért a törvény a leplezett eszközökre vonatkozó, a titkos információgyűjtés folytatása során is érvényesülő, ugyanolyan jellegű rendelkezések esetében - például az egyes eszközök megfogalmazása, az engedélyezési eljárás szabályai - az egységes megfogalmazás érdekében szükséges, az új kódexben alkalmazott megfogalmazásokat követő technikai jellegű módosításokat is elvégzi.
+
+Végül a törvényben foglalt módosítások harmadik nagyobb csoportját az érintett törvényeknek a titkos információgyűjtésre vonatkozó rendelkezései esetében jelen lévő technikai következetlenségek, nyilvánvaló pontatlanságok és észszerűtlen kodifikációs megoldások korrigálása jelenti.
+
+A törvény legfontosabb változtatásai tehát az Rtv.-t és a NAV tv.-t érintik. Az Nbtv.-t illetően a törvény a nemzetbiztonsági feladatokat, a nemzetbiztonsági szolgálatok tevékenységét tartalmilag nem érinti, kizárólag az új büntetőeljárási törvény tervezetében végrehajtott terminológiai változások átvezetése miatt szükséges módosításokat tartalmazza. Az Ütv. tekintetében az érdemel kiemelést, hogy a hatályos szabályozás szerinti, az Rtv.-re történő utaló jellegű szabályozással szemben e törvény tekintetében is az önálló, részletes szabályozás kialakítását hajtja végre, kizárólag azon szűk körben és célból felhatalmazva az ügyészséget titkos információgyűjtésre, amely alkotmányos feladataival is összhangban, a hatékony büntetőeljárási célok elérését biztosítja.
+
+A törvény második, a fenti tárgykörtől elkülönülő módosítási iránya, hogy a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek (a továbbiakban: Vht.) a bűncselekmények sértettjeinek kielégítési sorrendjére vonatkozó rendelkezései módosításával a jogalkotó úgy szabályozza a végrehajtási kielégítési sorrendet, hogy a sértett kártérítési igényének a kielégítése megelőzze az állami igényeket, így például a bűnügyi költség behajtását. Ezzel a jogalkotó egy régóta fennálló, a sértettekre nézve méltánytalannak minősíthető helyzetet kezelne. Az előterjesztés ezen része kifejezetten kapcsolódik az új büntetőeljárási kódex megalkotása során is érvényesített azon kormányzati célkitűzéshez, amely alapján elvárás volt a büntetőeljárás során a sértettekre nézve kedvezőbb jogszabályi környezet kialakítása.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A titkos információgyűjtés szabályozásának az új büntetőeljárási törvényben, az Rtv.-ben és a NAV tv.-ben érvényesített koncepciója szerint a titkos információgyűjtés speciális eszközök összessége az egyes szervek törvényben meghatározott feladatainak ellátásához. Ennek megfelelően az Rtv. módosítása a titkos információgyűjtésre vonatkozó célhozkötöttséget úgy érvényesíti következetesen, hogy a titkos információgyűjtés céljait a rendőrség Alaptörvényben és az Rtv.-ben meghatározott feladataihoz igazítja. Az Rtv. alapján folytatható titkos információgyűjtés és leplezett eszközök büntetőeljárásról szóló törvény alapján történő alkalmazásának egyértelmű elhatárolásához ezért mindenekelőtt a rendőrség egyes feladatainak egyértelmű meghatározása szükséges.
+
+A törvény ezért külön-külön pontban határozza meg a rendőrség büntetőeljárásban meghatározott feladatait és az ún. bűnmegelőzési tevékenységét, előbbit az 1a. pontban, utóbbit az 1. pontban. A módosítás a bűnmegelőzési tevékenységet olyan bűnügyi hírszerző tevékenységként határozza meg, amelynek tárgya nem egy adott bűncselekmény, hanem a Magyarország társadalmi rendjét veszélyeztető bűnözés. A rendőrség ezen információszerző, értékelő, kockázatelemző tevékenységének eredményéhez tartozik a rendőrség intézkedési kötelezettsége is, amelynek része lehet egy adott bűncselekmény elkövetésének megakadályozása is. A módosítás következtében a hatályos Rtv.-ben külön nevesítve megjelölt „bűncselekmények megakadályozása” a továbbiakban nem képezi a titkos információgyűjtés külön nevesített célját, hanem egyrészt a bűnmegelőzési tevékenység részeként értelmezhető, másrészt olyan bűncselekmények esetén, amelyek előkészületét a törvény büntetni rendeli, a büntetőeljárás szolgál a beavatkozás kereteként. A törvény ezért a „megakadályozás” kifejezést valamennyi olyan esetben mellőzi, amely esetben azt az Rtv. önálló célként jeleníti meg.
+
+A törvény pontosítja az Rtv. hatályos rendelkezéseit annak érdekében, hogy a normaszövegben világosabban elkülönüljön a rendőrség személyi védelem ellátásával, illetve a Védelmi Program végrehajtásával kapcsolatos feladatköre a Magyarország szempontjából különösen fontos személyek, illetve létesítmények védelmével kapcsolatos feladatoktól. A precízebb elhatárolásnak kiemelt jelentősége elsősorban az említett célokból folytatható titkos információgyűjtés szabályainak a kialakítása során van, így biztosítható a normavilágosságnak megfelelő szabályozás.
+
+A 2. §-hoz
+
+A törvény az Rtv. új 2/A. §-ában változatlan tartalommal, pontosabb megfogalmazással helyezi el az Rtv. hatályos 69. § (4) bekezdésében szereplő rendelkezést. Ennek oka, hogy az érintett rendelkezés logikailag nem a titkos információgyűjtés intézményéhez tartozik, hanem olyan általános szabály, amely a rendőrség és a nemzetbiztonsági szolgálatok feladatkörét határolja el el egyes bűncselekményeket illetően.
+
+A 3. §-hoz
+
+A törvény az Rtv. 1. § (2) bekezdés 1. és 1a. pontjához írt indokolásban kifejtett koncepció részeként megszünteti a bűncselekmények megakadályozását, mint a titkos információgyűjtés külön nevesített célját. Emellett az Rtv. alapján a bűncselekmények vonatkozásában folytatható tevékenységeknek a büntetőeljárástól való egyértelmű elhatárolása érdekében a módosítás pontosítja, hogy a bűncselekmények felderítése alatt a büntetőeljárásról szóló törvény által lehetővé tett eljárási cselekmények értendők. A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve esetén a bűncselekmények felderítése a büntetőeljárás előkészítő eljárásának lefolytatásaként vagy a nyomozás során közreműködőként való eljárásként értelmezhető.
+
+A 4. §-hoz
+
+A törvény ezen rendelkezése a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének büntetőeljárással összefüggésben történő eljárásának a szabályait rendezi. A módosítás az Rtv. szabályait az új büntetőeljárási kódex eljárási szakaszokat érintő változásaihoz igazítja, amely az előkészítő eljárás keretében biztosítja a büntetőeljárás megindítását a gyanú megállapítását - és ekként a nyomozást - megelőzően. Az új büntetőeljárási törvény emellett lehetőséget biztosít arra, hogy a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve előkészítő eljárást folytasson, valamint arra, hogy a nyomozó hatóság és az ügyészség egyes büntetőeljárási feladatai végrehajtásához a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervét igénybe vegye. Az Rtv. 7. § (3) és (4) bekezdésének a módosítása tehát a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének a büntetőeljárást illetően megváltozott szerepe következtében indokolt rendelkezéseket vezeti be.
+
+Az 5. §-hoz
+
+A törvény arra figyelemmel fogalmazza át az Rtv. 7/B. § (1) bekezdését, hogy a titkos információgyűjtésre vonatkozó szabályok - ideértve azt is, hogy mely célokból mely eszközök alkalmazásának lehet helye - egységesen a VII. Fejezetben szerepelnek.
+
+A törvény hatályon kívül helyezi az (1) bekezdés utolsó mondatát. Ennek indoka, hogy az Rtv. nem határoz meg a titkos információgyűjtés során ügyészi engedéllyel alkalmazható eszközöket. Az adatkérés körében egyes adatkezelőktől történő adatszolgáltatás kérése ugyan ügyészségi engedélyhez kötött, azonban annak szabályai elkülönült rendben egyértelműen értelmezhetők, emellett a büntetőeljárásról szóló új törvény az adatkérést nem a leplezett eszközök között szabályozza. A megbízhatósági vizsgálat folytatása esetén pedig a megbízhatósági tervet az ügyészségnek jóvá kell hagynia, azaz maga a megbízhatósági vizsgálat sem folytatható az ügyészség jóváhagyása nélkül.
+
+Az Rtv. hatályos 7/C. § (1) bekezdésének a hatályon kívül helyezése és a 7/B. § (3) bekezdését érintő módosítás miatt szükséges technikai módosítás.
+
+A 6. §-hoz
+
+A törvény az új büntetőeljárási kódex és az Rtv. fedett nyomozókra vonatkozó rendelkezéseivel azonos megfogalmazást vezet be a megbízhatósági vizsgálat során leplezetten eljáró rendőrök által elkövetett bűncselekmények és szabálysértések esetén. A módosítás azon jogszabályi felhatalmazás egyértelmű megfogalmazása, amely a fedett nyomozó eljárásának legalitását is biztosítja, ugyanakkor megteremti a büntető anyagi jogban már létrehozott büntethetőséget kizáró okkal való kapcsolatot.
+
+A 7. §-hoz
+
+A törvény az Rtv. 7/E. § (1) bekezdés a) pontját és b) pontját illetően - a „megakadályozás” kifejezést érintő módosítások tekintetében a törvény 1. § (1) bekezdéséhez fűzött indokolásban foglaltakra tekintettel, míg a bűnmegelőzési és a bűnüldözési tevékenység elhatárolása érdekében a bűncselekmények „megelőzése” és „felderítése” kifejezéseket érintő módosítások tekintetében a törvény 1. § (2) bekezdéséhez, valamint a törvény 3. §-ához fűzött indokolásban foglaltakra tekintettel - a Terrorelhárítási Központ feladatainak tartalmi változtatása nélkül alapvetően technikai, jogszabály-szerkesztési módosításokat tartalmaz.
+
+A 8. §-hoz
+
+Az Rtv. hatályos 7/E. § (2) és (3) bekezdésében szereplő rendelkezések a titkos információgyűjtésre vonatkozó rendelkezések egységes elhelyezése érdekében és ekként a jogszabályi koherencia megteremtése céljából, változatlan tartalommal átkerülnek a VII. Fejezetbe. Az Rtv. törvény szerinti új 7/E. § (3)-(5) bekezdése a rendőrség terrorizmust elhárító szervének a büntetőeljárást illetően megváltozott szerepe következtében indokolt rendelkezéseket vezeti be. A módosítás - a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervéhez hasonlóan - a rendőrség terrorizmust elhárító szerve eljárásának kapcsolatát is rendezi a büntetőeljárással, a módosítások az Rtv. ezen szabályait is az új büntetőeljárási törvény eljárási szakaszokat érintő változásaihoz igazítja. Az új kódex ugyanis az előkészítő eljárás keretében biztosítja a büntetőeljárás megindítását a gyanú megállapítását - és ekként a nyomozást - megelőzően is. Az új büntetőeljárási szabályozás emellett lehetőséget biztosít a rendőrség terrorizmust elhárító szervének előkészítő eljárás folytatására, valamint arra, hogy a nyomozó hatóság és az ügyészség egyes büntetőeljárási feladatai végrehajtásához igénybe vegye rendőrség terrorizmust elhárító szervét.
+
+A 9. §-hoz
+
+A titkos információgyűjtésre vonatkozó terminológiai változásokra tekintettel eszközölt pontosítás.
+
+A 10. §-hoz
+
+A törvény az Rtv. VII. Fejezetének a teljes újraszabályozását tartalmazza.
+
+Az Rtv. új 63. §-ához
+
+A titkos információgyűjtés átfogó reformjának egyik koncepcionális eleme, hogy a titkos információgyűjtést szabályozó valamennyi törvény azonos módon határozza meg e különleges tevékenységet és folytatásának általános feltételeit. A törvény ezért az Rtv. esetében is az új büntetőeljárási kódexszel összhangban álló definíciót állapít meg a titkos információgyűjtésre, a szabályozás rendszerét pedig azonos szerkezetben építi fel.
+
+A titkos információgyűjtés folytatásának garanciális feltételeként a (3) bekezdés általános szabályként írja elő az intézkedés arányosságának fokozott vizsgálatát.
+
+A rendőrség egyik fő feladata a bűnüldözés, azonban konkrét bűncselekmény felderítése miatt bűnüldözési célú titkos információgyűjtést az új büntetőeljárási törvényben végrehajtani kívánt reform alapján kizárólag a büntetőeljárásról szóló törvény alapján lehet folytatni a leplezett eszközökre vonatkozó szabályok alapján. Ennek az elkülönítésnek a titkos információgyűjtésre vonatkozó szabályozásban való megjelenítése is szükséges, e célt szolgálja a 63. § új (4) bekezdése. A (4) bekezdés alapján az Rtv.-ben is egyértelműen rögzíti a törvény, hogy a rendőrség az adott feladatai ellátása érdekében mely törvény alapján folytathat titkos információgyűjtést.
+
+A rendőrség általános feladatokat ellátó szerve mellett a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve és a terrorizmust elhárító szerve is folytathat titkos információgyűjtést. Utóbbi szerv kettős feladatrendszere miatt indokolt külön rendelkezésben meghatározni azt, hogy mely részfeladatai esetén jár el a rendőrségi törvény és mely feladatok ellátása érdekében a nemzetbiztonsági szolgálatokról szóló törvény alapján, ez a rendelkezés tartalmát tekintve nem tér el a hatályos Rtv. szerinti szabályoktól.
+
+Az Rtv. új 64. §-ához
+
+Az Rtv. titkos információgyűjtésre vonatkozó, törvény szerinti általános szabályai egyértelműen meghatározzák azon célokat, amelyek érdekében titkos információgyűjtés folytatható. Az általános indokolásban is kifejtettekre tekintettel a törvény nem törekszik arra, hogy az állami fellépés lehetséges céljait a hatályos szabályozáshoz képest bővítse, a törvény újítása ebben a tekintetben elsősorban abban áll, hogy az eddigi szabályozással ellentétben az Rtv.-ben egy helyen, áttekinthető rendben és normatív szempontból kellő konkrétsággal határozza meg a titkos információgyűjtés lehetséges, rendészeti jellegűnek tekinthető, a büntetőeljárási keretek között végezhető tevékenységtől elkülönítendő céljait.
+
+A titkos információgyűjtést szabályozó törvények közötti összhang és a szabályozás egységességének megteremtése érdekében a törvény a hatályos törvényi keretekhez képest csak minimális mértékben egészíti ki a célok körét. A 64. § (1) bekezdés f) pontja a büntetőeljárásról szóló új törvény 233. § (2) bekezdés b) pontjára figyelemmel teszi lehetővé titkos információgyűjtés folytatását a bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében. Az Rtv. 64. § (1) bekezdés g) és h) pontjában meghatározott célok csak az Rtv.-t illetően tekinthetők újnak, mivel a hatályos NAV tv. 51. § (1) bekezdése a fedett nyomozó, a fedőintézmény védelmét, illetve a rendőrséggel titkosan együttműködő személy védelmét, bevonását, ellenőrzését külön nevesíti a titkos információgyűjtés céljaként. Ez utóbbival kapcsolatban jelezni kell továbbá, hogy az Rtv. új 65/A. § (3) bekezdése alapján ilyen célból kizárólag bírói engedélyhez nem kötött eszközök alkalmazhatóak.
+
+A bűncselekmények megelőzését, mint a titkos információgyűjtés egyik lehetséges célját illetően hangsúlyozni kell, hogy azt a hatályos törvényi rendelkezések is tartalmazzák, az Rtv. 63. § (1) bekezdésében kifejezetten szerepel a célok felsorolása között. Tehát a törvény ebben a körben nem fogalmaz meg teljesen új titkos információgyűjtési célt. E tekintetben a probléma leginkább az a hatályos szabályozásban, hogy hiányzik annak normatív definiálása, hogy mit kell érteni bűnmegelőzés alatt, illetve mit takar az ilyen jellegű titkos információgyűjtő tevékenység. A törvény ezt a hiányosságot kívánja pótolni azzal a megfontolással, hogy az a jogállamiság követelményének megfelelő megoldás, ha a törvény határolja körül, hogy mire irányulhat az ilyen célú tevékenység. A törvény ebben a tekintetben egy lépcsőzetes meghatározási megoldást kíván kialakítani. Erre tekintettel a törvény a legáltalánosabb jelleggel, a rendőrség mint szervezet feladatai között, az Rtv. 1. § (2) bekezdésének új 1. pontjában rögzíti, hogy mit kell általában bűnmegelőzési tevékenység alatt érteni. Ez a meghatározás nem kizárólag a rendőrség ilyen célú titkos információgyűjtő tevékenységére vonatkozik, hanem minden olyan típusú feladatellátásra, amelyet jelenleg is bűnmegelőzési céllal végez a rendőrség. Ezt az általános feladat-meghatározást követi már kifejezetten a titkos információgyűjtésre vonatkozón az Rtv. új 65. § (1) bekezdésében szereplő normatív szempontrendszer, amely azt rögzíti, hogy milyen feltételek esetén folytatható általában titkos információgyűjtés bűnmegelőzési céllal. Ez a feltételrendszer szűkebb, mint a rendőrség feladatai között megadott általános bűnmegelőzési definíció. Ez a megfogalmazás általában vonatkozik a titkos információgyűjtésre, azaz a nem bírói engedélyhez kötött eszközökre is. Végül a szabályozás utolsó lépcsője a legsúlyosabb jogkorlátozást megvalósító, bírói engedélyhez kötött eszközök alkalmazására vonatkozik. Az Rtv. új 72. § (1) bekezdése az előzőhöz képest is szűkebb és konkrétabb feltételeket állapít meg a bírói engedélyhez kötött eszközök bűnmegelőzési célú alkalmazásával szemben. Rá kell mutatni, hogy a törvény ezen rendelkezése kizárólag a szervezett bűnözéssel szembeni fellépés során engedi meg a bírói engedélyhez kötött titkos információgyűjtést bűnmegelőzési céllal.
+
+Az Rtv. új 65. §-ához
+
+A titkos információgyűjtés szabályrendszerének egyik legfontosabb eleme a célhozkötöttség következetes érvényesítése. Ehhez nem elegendő az egyes célok nevesítése, hanem az egyes célokhoz olyan normatív feltételrendszert, definíciót is társítani szükséges, hiszen a titkos információgyűjtés törvényességének érdemi megítélését akár az engedélyezés, akár a végrehajtás keretében csak meghatározott szempontrendszer alapján lehet elvégezni. A 65. § ezt a szempontrendszert állítja fel, minden egyes cél esetében külön-külön konkretizálva, hogy pontosan milyen feltételek teljesülése esetén végezhető titkos információgyűjtés. Az ebben a rendelkezésben szereplő szempontrendszer általában a titkos információgyűjtési tevékenységre vonatkozik, azaz a bírói engedélyhez nem kötött és a bírói engedélyhez kötött eszközökre egyaránt. Utalni kell arra, hogy a bűnmegelőzési cél és az Európai Unió tagállama megkeresésére történő, bírói engedélyhez kötött eszközök alkalmazhatóságával kapcsolatban ennél is szigorúbb feltételeket állapít meg az Rtv. új 72. §-a.
+
+Az Rtv. új 65/A. §-ához
+
+A 65/A. § a titkos információgyűjtés eszközeinek alkalmazása tekintetében állapít meg korlátokat, egyfajta negatív feltételrendszerrel kiegészítve az általános szabályokat. Az (1) bekezdés a hatályos Rtv. 7/B. § (1) bekezdésével tartalmilag egyezve nem teszi lehetővé bírói engedélyhez kötött eszközök alkalmazását a megbízhatósági vizsgálat során. A (2) bekezdés arányossági szempontok mérlegelése alapján nem teszi lehetővé bírói engedélyhez kötött eszközök alkalmazását a büntetőeljárásról szóló törvény alapján a tanú személyazonossága vagy elérhetőségének megállapítása érdekében elrendelt körözés végrehajtása során. A NAV tv.-ből átvett és az Rtv-ben is nevesített új cél, a rendőrséggel titkosan együttműködő személy védelme, bevonása, ellenőrzése céljából folytatott tikos információgyűjtés esetén a hatályos NAV tv. 51. § (1) bekezdés utolsó mondatának megfelelően bírói engedélyhez kötött eszköz szintén nem alkalmazható.
+
+Az Rtv. új 66. §-ához
+
+A törvény az új büntetőeljárási szabályozásra figyelemmel határozza meg a titkos információgyűjtés bírói engedély nélkül alkalmazható eszközeit. Az összhang megteremtése egyrészt az azonos eszközök azonos megfogalmazásában nyilvánul meg, másrészt abban, hogy azon eszköz esetében, amelyik fogalmilag feltételezi valamely bűncselekmény gyanúját, nem alkalmazható az Rtv.-ben meghatározott, nem bűnüldözési célok esetén, hanem kizárólag büntetőeljárás vagy bűnügyi jogsegély keretében lehetséges az ilyen eszköz alkalmazása.
+
+Erre figyelemmel a hatályos Rtv. 64. §-ban meghatározott csapda, a mintavásárlás, az álvásárlás, a bizalmi vásárlás, a fedett nyomozó bűnszervezetbe való beépülése, illetve az ellenőrzött szállítás folytatása a törvény szabályai szerint nem alkalmazható az Rtv. alapján, utóbbira is kizárólag bűnügyi jogsegély és nem a bűnüldöző szervek nemzetközi együttműködése keretében kerülhet sor.
+
+A törvény továbbá a hírközlési rendszerekből és egyéb adattároló eszközökből való információgyűjtés meghatározását pontosítja, elősegítve az egyéb - adott esetben bírói engedélyhez kötött - eszközöktől való elhatárolást is.
+
+A törvény az értelmező rendelkezések között, az Rtv. 97. § (1) bekezdés új g) pontjában az új büntetőeljárási törvénnyel azonos módon határozza meg a fedett nyomozó fogalmát, e szerint a rendelkezés szerint a fedett nyomozó a rendőrséghez tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen munkakörben foglalkoztatott rendőr, így az új büntetőeljárási törvénnyel összhangban az Rtv. is megkülönbözteti a rendőrség kilétét leplező tagját a fedett nyomozótól.
+
+Az Rtv. új 66. § (2) bekezdésében a hatályos Rtv. 7/B. § (3) bekezdés a) pontjában és a 69. § (7) bekezdés második mondatában szabályozott speciális, a megbízhatósági vizsgálat során igénybe vehető eszköz szerepel, változatlan tartalommal.
+
+Az Rtv. új 66/A. §-ához
+
+A törvény szerinti új rendelkezés egyrészt azon törvényi felhatalmazás egyértelmű megfogalmazása, amely a fedett nyomozó eljárásának legalitását biztosítja, másrészt megteremti a büntető anyagi jogban már létrehozott büntethetőséget kizáró okkal való kapcsolatot. Nem büntethető a fedett nyomozó az alkalmazása során elkövetett olyan bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, amelynek az elkövetése az alkalmazása során a meghatározott célból vagy érdekből szükséges volt, és amely esetében a fedett nyomozó alkalmazásával elérni kívánt érdek jelentősebb, mint a fedett nyomozó felelősségre vonásához fűződő érdek. A módosítás egyértelműen rögzíti, hogy a fedett nyomozó nem követhet el más életének szándékos kioltásával járó vagy maradandó fogyatékosságot okozó bűncselekményt, az Emberi Jogok Európai Bíróságának joggyakorlatára figyelemmel mást bűncselekmény elkövetésére nem bírhat rá, és nem terelheti az érintett személyt annál súlyosabb bűncselekmény elkövetése felé, mint amelyet eredetileg elkövetni tervezett.
+
+Az Rtv. új 67. §-ához
+
+A törvény egy szakaszon belül, áttekinthetőbb formában helyezi el a rendőrség és a titkos információgyűjtés során vele titkosan együttműködők tevékenységére vonatkozó, a hatályos Rtv.-ben széttagolt szabályokat. A módosítással érintett törvények közötti koherencia megteremtése érdekében a rendelkezések tartalmilag és megfogalmazásukat illetően igazodnak az új büntetőeljárási kódex azonos tárgyú rendelkezéseihez.
+
+Az Rtv. új 68. §-ához
+
+A törvény egy szakaszon belül, áttekinthetőbb formában helyezi el a fedőadatra, a fedőokiratra és a fedőintézményre vonatkozó, a hatályos Rtv.-ben széttagoltan található szabályokat. Az egyes szabályok megfogalmazását illetően a törvény az új büntetőeljárási törvény megfogalmazását veszi át.
+
+Az Rtv. új 69. §-ához
+
+Az adatkérés jogintézménye esetében a törvény mellőzi az adatszolgáltatás kérésének minden olyan jogcímét, amelyek valamely konkrét bűncselekmény felderítésére vonatkozik a hatályos szabályozás alapján, mivel ilyen célból az új büntetőeljárási törvény alapján kizárólag büntetőeljárás során kérhető adatok szolgáltatása. Az egyéb célokat a módosítás nem érinti, az adatkérés szabályait illetően kizárólag a szöveg egyszerűsítése volt indokolt.
+
+Az Rtv. új 70. §-ához és 71. §-ához
+
+A 70. § (1) bekezdése a bírói engedélyhez kötött eszközök alkalmazásának általános feltételeként előírja az arányosság és szükségesség vizsgálatát. Ilyen jellegű, általános mérlegelési szempontrendszer az Rtv. hatályos rendszerében nincs, ez ugyanakkor fontos előrelépés a bírói engedélyhez kötött eszközök alkalmazása, illetve engedélyezése során.
+
+A törvény alapján az Rtv. az új büntetőeljárási kódexszel azonos módon határozza meg a titkos információgyűjtés során alkalmazható bírói engedélyhez kötött eszközöket, amelyek a titkos kutatás, a hely titkos megfigyelése, a küldemény titkos megismerése, a lehallgatás és az információs rendszer titkos megfigyelése. Ebben a tekintetben nincs tartalmi jellegű változás a hatályos szabályozáshoz képest, a törvény az egyes leplezett eszközök definícióját illetően érdemben nem tér el az új kódex rendelkezéseitől.
+
+Az Rtv. új 72. §-ához
+
+Az Rtv. új 72. §-a egyrészt a bírói engedélyhez kötött eszközök alkalmazásának korlátait állapítja meg, másrészt pontosítja az engedélyezés során mérlegelendő szempontokat. Az (1) bekezdés a bűnmegelőzés absztrakt célját illetően törvényi szinten rögzít arányossági szempontú korlátokat, kizárólag a szervezett bűnözés elleni fellépésre korlátozva a bírói engedélyhez kötött titkos információgyűjtés lehetőségét. A (2) és (3) bekezdés rendelkezései a Tv. 37. §-ában szereplő, azonban a szabályozás tárgyát illetően a titkos információgyűjtéshez tartozó rendelkezéseket határozzák meg.
+
+Az Rtv. új 73-75/A. §-ához
+
+A módosítás alapján az Rtv. a bírói engedélyhez kötött eszközök alkalmazásának engedélyezésére vonatkozóan a jelenleginél részletesebb szabályokat tartalmaz. Az engedélyezés kezdeményezésére, a döntéshozatalra és a határozat tartalmára vonatkozó szabályok az új büntetőeljárási törvénynek a bírói engedélyhez kötött leplezett eszközök engedélyezésére vonatkozó szabályaival azonos tartalmat és megfogalmazást kaptak.
+
+Az Rtv. új 75/B. §-ához
+
+A módosítás célja a bírói engedélyhez kötött eszközök alkalmazásának időtartamára vonatkozó szabályok egyértelművé tétele. A módosítás okaként kell megemlíteni azt a tényt, hogy a hatályos Rtv. 71. § (3) bekezdésének értelmezése vitatott a joggyakorlatban, nem egyértelmű, hogy a titkos információgyűjtés kilencven nappal való meghosszabbítására egy vagy több alkalommal kerülhet sor. Az Alkotmánybíróság 32/2013. (XI. 22.) AB határozata is tett olyan megállapítást, amely szerint az Rtv. a büntetőeljárásról szóló 1998. évi XIX. törvénnyel szemben nem tartalmaz korlátozást a határidő meghosszabbítását illetően.
+
+A módosítás a titkos információgyűjtés időtartamának maximumát az egyes célok szerint cizelláltan, az egyes célok sajátosságaira figyelemmel határozza meg. Az időtartamra vonatkozó szabályok kialakítása során a módosítás a bírói engedélyhez kötött eszköz alkalmazását veszi a határidő számításának alapjául. Azon célok esetén, amelyeknél a módosítás egyértelművé teszi, hogy a titkos információgyűjtés időtartamára vonatkozóan nem ír elő abszolút értelemben vett felső határt, garanciális okokból többletfeltétel teljesülését írja elő a további hosszabbítás engedélyezésére. Ennek megfelelően, ha az addig engedélyezett legfeljebb háromszáz hatvan nap alatt az alkalmazás nem érte el a célját, a további engedélyezésnek akkor van helye, ha új tény vagy körülmény ezt megalapozza.
+
+Az Rtv. új 75/C. §-ához
+
+A bírói engedélyhez kötött eszközök alkalmazása esetén a titkos információgyűjtés egyik kiemelt garanciája az, hogy az engedélyező a végrehajtás során is törvényességi kontrollt gyakoroljon. Ezért a törvény a büntetőeljárásról szóló új törvény 242. §-ával azonos módon valamennyi, a titkos információgyűjtést szabályozó törvényben erősíti az ellenőrzés intézményt. A bíróság ennek megfelelően vizsgálhatja, hogy az általa engedélyezett bírói engedélyhez kötött eszköz alkalmazása az engedélynek megfelel-e. E feladatának ellátása érdekében a törvény a bíróságnak nem csupán az engedélyezés körében, hanem a bírói engedélyhez kötött eszközök alkalmazása során is iratbetekintési, és ezzel egyfajta felügyeleti jogot biztosít.
+
+Az Rtv. új 75/D. §-ához
+
+A törvény az alkalmazás megszüntetésének tartalmi szabályait illetően érdemben nem tér el az Rtv. hatályos rendelkezéseitől. A titkos információgyűjtés megszüntetésére vonatkozó szabályok az egyes célokhoz, az alkalmazás szükségességének és arányosságának feltételeihez, a bírói engedélyhez kötött eszközök esetén az engedély kereteihez igazodnak. A törvény új szabályként írja elő, hogy a bírói engedélyhez kötött eszközök alkalmazásának megszüntetéséről garanciális okból tájékoztatni kell a bíróságot.
+
+A módosítás az információs önrendelkezéshez való alapvető jog tiszteletben tartását és ekként az Alaptörvénynek való megfelelést biztosítja azzal az (5) bekezdésben megfogalmazott garanciális rendelkezéssel, amely főszabályként írja elő, hogy a bírói engedélyhez kötött eszközök alkalmazásának végrehajtását követően, az engedélyben megjelölt érintett személyt az eszközök alkalmazásának tényéről tájékoztatni kell. Ettől kizárólag a büntetőeljárás eredményessége és más titkos információgyűjtés érdekére figyelemmel lehet eltekinteni.
+
+Az Rtv. új 75/E. §-ához
+
+A módosítás a bírói engedélyhez kötött leplezett eszközök végrehajtásához kapcsolódóan az új büntetőeljárási szabályozással azonos módon rendelkezik arról, hogy az egyes, bírói engedélyhez kötött eszközök alkalmazásához szükségszerűen igénybe vett berendezések, technikai eszközök telepítése miként, milyen módszerekkel történhet, és arról, hogy a végrehajtását követően azokat haladéktalanul el kell távolítani.
+
+Az Rtv. új 75/F. §-ához
+
+A törvény az Rtv. új 75/F. §-ában az új büntetőeljárási kódexhez hasonlóan rendezi a titkos információgyűjtés végrehajtására vonatkozó kérdéseket. A titkos információgyűjtést az azt folytató szerv maga hajtja végre, a titkos információgyűjtés végrehajtásában való közreműködésre kijelölt rendőri szerv közreműködésével hajtja végre, vagy a végrehajtáshoz a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálatot veszi igénybe.
+
+Az Rtv. új 75/G. §-ához
+
+A titkos információgyűjtés során megszerzett adatok bizalmassága a rendőrségi feladatok ellátásának nyilvánvaló és elfogadott érdeke. A módosítás az új büntetőeljárási szabályozással egyezően rendelkezik arról, hogy titkos információgyűjtés engedélyezése, végrehajtása, illetve az annak eredményeként keletkezett adatok felhasználása során gondoskodni kell arról, hogy az intézkedések és az adatok bizalmassága megőrizhető legyen, a tevékenységről illetéktelen személyek ne szerezzenek tudomást. E cél érdekében a titkos információgyűjtés folytatására feljogosított szervek, illetve a bíróság, ha annak feltételei fennállnak, a titkos információgyűjtéssel összefüggő adatokat a minősített adat védelméről szóló törvényben meghatározott szabályok szerint minősített adatként védhetik.
+
+Az Rtv. új 75/H. §-ához
+
+A módosítás a 75/H. §-ban foglalja össze az Rtv. titkos információgyűjtésre vonatkozóan meghatározott különleges adatkezelési rendelkezéseit, így magában foglalja a hatályos Rtv. 69. § (2) bekezdését és az Rtv. 73. § (2)-(3) bekezdését.
+
+Alapvető adatvédelmi szempontú és az Alaptörvénynek való megfelelést biztosító garanciális rendelkezés, hogy a titkos információgyűjtés során minden, a megszerzése idején is nyilvánvalóan érdektelen adatot törölni kell. A következő lépésként, a titkos információgyűjtés befejezését követően kell törölni azon adatokat, amelyek az eljárás eredményeképpen és más adatokkal történt elemzést követően érdektelennek tekinthetők. Törölni kell azt az adatot is, amelyet a halaszthatatlan elrendelés során szereztek be, ha az utólagos engedélyezés iránti indítványt a bíróság elutasította, továbbá azon adatokat, amelyek olyan eszköz alkalmazása során keletkeztek, amelyre vonatkozóan a bíróság az engedélyét visszavonta.
+
+Az Rtv. új 75/I. §-ához
+
+A 75/I. § rendezi a titkos információgyűjtés és a büntetőeljárás kapcsolatát, az egyes részletszabályok az új büntetőeljárási törvény XLII. Fejezetéhez igazodnak.
+
+A titkos információgyűjtés eredményének bizonyítékként történő felhasználása esetén a hatályos joganyagban nincs rendezve az a kérdés, hogy a bírói engedélyhez kötött eszköz alkalmazásának tényét a bíróság milyen határidőn belül igazolja, és az igazolást mely szervnek kell beszereznie. A törvény e kérdést illetően egyértelmű szabályokat állapít meg.
+
+Az Rtv. új 75/J-75/L. §-ához
+
+A titkos információgyűjtéssel és a leplezett eszközök alkalmazásával kapcsolatos sajátos gazdálkodási szabályokat a törvény a VII. Fejezet végére helyezi, a hatályos Rtv.-hez képest csupán technikai és terminológiai módosításokat hajt végre.
+
+A 11. §-hoz
+
+(1)-(3) és (9) bekezdéshez
+
+Az Rtv. terminológiájának egységesítése érdekében végrehajtott módosítás.
+
+(4) bekezdéshez
+
+A titkos információgyűjtés jogállami szabályrendszerének egyik hangsúlyos eleme a célhozkötöttség, amelyet a törvényben meghatározott feladatra épülő és szorosan ahhoz igazodó cél- és eszközrendszerre vonatkozó rendelkezések mellett, a titkos információgyűjtéssel megszerzett adatok kezelésére vonatkozó szabályokban is érvényre kell juttatni.
+
+A törvény külön bekezdésekben, a rendőrség egyes feladatai szerint részletezve alakítja ki az Rtv.-ben a titkos információgyűjtés, illetve a büntetőeljárás során a leplezett eszközök alkalmazása során szerzett adatok adatkezelési határidejére vonatkozó szabályrendszert. Az Rtv. 91/A. § (1a) bekezdés a rendőrség Rtv. alapján végzett titkos információgyűjtő tevékenysége alapján megszerzett adatok kezelésére vonatkozó szabályokat foglalja össze, míg az (1b) bekezdés a büntetőeljárás során alkalmazott leplezett eszközökkel megszerzett adatok kezelésére vonatkozik. A cizellált adatkezelési szabályok célja a készletező adatgyűjtés lehetőségének egyértelmű kizárása.
+
+Az (1a) bekezdés a titkos információgyűjtés azok alapján meghatározott egyes céljai szerint - az egyes célok sajátosságaira és a célok különbözőségeire figyelemmel - határozza meg azt, hogy az egyes adatkörök mennyi ideig kezelhetők a rendőrség adatállományában.
+
+A büntetőeljárásban nem értelmezhető a rendőrség komplex feladatellátása, pontosabban a büntetőeljárásban a leplezett eszközök alkalmazásának célja az egyes eljárási szakaszok céljához igazodik. Az (1b) bekezdés tehát - figyelemmel arra, hogy a büntetőeljárás célrendszere más logikát követ - nem az (1a) bekezdés rendszere szerint, hanem a büntetőeljárás egyes eljárási szakaszaira figyelemmel alakítja ki az adatkezelés szabályrendszerét.
+
+(5) bekezdéshez
+
+A törvény nyilvánvaló rendészeti érdekekre tekintettel kifejezetten rögzíti, hogy a fedőadatot elhelyező szerv kérheti, hogy tájékoztassák arról, ha a fedőadatra vonatkozóan adattovábbítási kérelem érkezik.
+
+(6) és (7) bekezdéshez
+
+A törvény az értelmező rendelkezések között az új büntetőeljárási törvényben szereplő meghatározással egyezően szabályozza a fedett nyomozó és az információs rendszer fogalmát.
+
+(8) bekezdéshez
+
+A rendőrség személyi védelemmel kapcsolatos feladataihoz, az ezen feladatok ellátása során folytatható titkos információgyűjtés szabályaihoz kapcsolódóan szükséges megteremteni az Rtv.-ben az ilyen célú feladatellátás pontos szabályait tartalmazó kormányrendeleti szabályok megalkotására vonatkozó felhatalmazó rendelkezést. A vonatkozó, jelenleg hatályos kormányrendelet szabályainak megalkotására a Be. 604. § (1) bekezdés a) pontjában foglalt felhatalmazó rendelkezés alapján van lehetőség, azonban az új büntetőeljárási kódex - az elvégzett felülvizsgálat eredményeként és tekintettel arra, hogy a személyi védelem ellátása tisztán rendészeti jellegű feladat - ilyen jellegű felhatalmazó rendelkezést nem tartalmaz. Ez indokolja, hogy a törvény megteremtse a szükséges felhatalmazást az Rtv.-ben.
+
+(10) bekezdéshez
+
+A titkos információgyűjtés és az új büntetőeljárásról szóló törvény leplezett eszközökre vonatkozó rendelkezéseinek szoros kapcsolata miatt a módosítások hatálybalépését az új büntetőeljárásról szóló törvény hatálybalépéséhez indokolt igazítani. Az új büntetőeljárásról szóló törvény hatálybalépését követően rendezni indokolt, hogy a már megkezdett titkos információgyűjtéseket miként és meddig lehet a jelenleg hatályos szabályok szerint folytatni. Az Rtv. 103. § (4) és (5) bekezdésében meghatározott átmeneti rendelkezések az új büntetőeljárási kódex 872. §-ával összhangban rendezik ezt a kérdést.
+
+A 12. §-hoz
+
+Az Rtv. sarkalatossági záradékát a törvény érintett rendelkezéseinek változása miatt kell módosítani.
+
+A 13. §-hoz
+
+Szövegcserés módosítások.
+
+A 14. §-hoz
+
+Hatályukat vesztő rendelkezések.
+
+A 15-17. §-hoz
+
+A törvény következtében a végrehajtási eljárás során a természetes személy sértettek érdekeinek védelme hangsúlyosabbá válik azzal, hogy a kielégítési sorrendben a büntető- és a büntetés-végrehajtási, valamint a szabálysértési eljárásban az adóssal szemben megállapított, az állam javára fizetendő összeget megelőzően kerülnek kielégítésre azok a polgári jogi igények, melyek a bűncselekmény következtében keletkeztek és az adóssal szemben természetes személy sértett javára kerültek - akár büntetőeljárásban, akár polgári perben - megállapításra. Az igazságos egyensúly megköveteli, hogy a végrehajtási eljárások során a bűncselekmény következtében keletkezett és a természetes személy sértettek javára megítélt polgári jogi igények kielégítése megelőzze az állam javára fizetendő összegeket, ha a befolyt összeg nem fedezi a végrehajtás során behajtani kívánt valamennyi követelést. A módosítással érintett természetes személy sértettek érdekeinek hatékonyabb védelme következtében a sértetti jogok erősödnek.
+
+A 18. §-hoz
+
+A módosítások az Nbtv. és a titkos információgyűjtést szabályozó egyes törvények közötti koherencia megteremtése érdekében szükséges terminológiai változtatásokat jelenítik meg.
+
+A 19. §-hoz
+
+(1) bekezdéshez
+
+A módosítás a büntetőeljárásról szóló új törvény rendszerének megfelelően a Terrorelhárítási Információs és Bűnügyi Elemző Központ eljárásának a büntetőeljárással való kapcsolatát rendezi. A módosítás az Nbtv. szabályait az új büntetőeljárási szabályozás eljárási szakaszokat érintő változásaihoz igazítja, figyelemmel arra, hogy az az előkészítő eljárás bevezetésével a büntetőeljárás megindítását a gyanú megállapítása- és ekként a nyomozás elrendelése - előtt is lehetővé teszi.
+
+Az Nbtv. 8/A. § (3) bekezdés i) pont ic) alpontját illetően a rendőrség terrorizmust elhárító szervét a terrorizmussal összefüggő feladataira figyelemmel indokolt megjeleníteni a rendelkezésben.
+
+(2) bekezdéshez
+
+Az Rtv. hatályos 7/F. § (2) bekezdés második mondatában szereplő, a rendőrség terrorizmust elhárító szervére vonatkozó, a bűncselekményre vonatkozó információ átadásának feltételeire vonatkozó szabályt, a tartalmi azonosságra tekintettel indokolt a nemzetbiztonsági szolgálatok tekintetében is törvényben rögzíteni.
+
+(3) és (4) bekezdéshez
+
+A módosítás a büntetőeljárásról szóló új törvény rendszerének megfelelően a Terrorelhárítási Információs és Bűnügyi Elemző Központ eljárásának a büntetőeljárással való kapcsolatát rendezi, valamint anyagi jogi dogmatikai szempontból pontosítja a bűncselekmények gyanújára vonatkozó rendelkezést.
+
+(5) bekezdéshez
+
+Az egyéb törvényekben szereplő, hasonló jellegű rendelkezésekkel összhangban a törvény az Nbtv.-ben is rögzíti a titkos információgyűjtés végrehajtásának alapvető szabályát.
+
+A 20. §-hoz
+
+A titkos információgyűjtést szabályozó egyes törvényeket - ideértve az új büntetőeljárási törvényben a leplezett eszközök alkalmazásának rendszerét is - érintő módosítások egyik célja, hogy a titkos információgyűjtés folytatásának az egyes törvényekben tartalmilag megegyező rendelkezései - így a titkos információgyűjtés folytatása során alkalmazható, külső engedélyhez nem kötött eszközök - egységes megfogalmazást kapjanak. A törvény ennek megfelelően az egyes törvények közötti koherencia megteremtése érdekében szükséges tartalmi és terminológiai változtatásokat jeleníti meg.
+
+A 21. §-hoz
+
+A NAV összetett szervezeti tagozódására figyelemmel végrehajtott pontosítás.
+
+A 22. §-hoz
+
+A törvény alapján a titkos információgyűjtés folytatását szabályozó törvények közötti koherencia megteremtése érdekében a nemzetbiztonsági szolgálatok és a velük titkosan együttműködők tevékenységének szabályaira vonatkozó rendelkezések módosítása tartalmilag és a megfogalmazást illetően az új büntetőeljárási kódex azonos tárgyú rendelkezéseihez igazodik.
+
+A titkos információgyűjtést szabályozó törvények módosításának egyik célja, hogy a titkos információgyűjtésnek az egyes törvényekben tartalmilag megegyező rendelkezései - így például az együttműködő személyekkel történő megállapodások megkötésének feltételei - egységes tartalmi szabályozást kapjanak. A módosítás az egyes törvények közötti koherencia megteremtése érdekében az Nbtv. esetében is kizárja a megállapodás megkötését olyan személlyel, aki olyan bűncselekményt követett el, amely maradandó fogyatékosságot vagy súlyos egészségromlást szándékosan okozott.
+
+A 23. §-hoz
+
+A titkos információgyűjtést szabályozó egyes törvényeket érintő módosítások egyik célja, hogy a titkos információgyűjtés folytatásának az egyes törvényekben tartalmilag megegyező rendelkezései - így a titkos információgyűjtés folytatása során alkalmazható, külső vagy bírói engedélyhez kötött eszközök - egységes megfogalmazást is kapjanak. A módosítás az egyes törvények közötti koherencia megteremtése érdekében szükséges terminológiai változtatásokat jeleníti meg.
+
+A 24. §-hoz
+
+(1) bekezdéshez
+
+A titkos információgyűjtés eredményének bizonyítékként történő felhasználása esetén a hatályos joganyagban nincs rendezve az a kérdés, hogy a bírói engedélyhez kötött eszköz alkalmazásának tényét a bíróság milyen határidőn belül igazolja, és az igazolást mely szervnek kell beszereznie. A törvény e kérdést illetően egyértelmű szabályokat állapít meg.
+
+(2)-(5) bekezdéshez
+
+Az Nbtv. és a titkos információgyűjtést szabályozó egyes törvények terminológiája közötti koherencia megteremtése érdekében végrehajtott módosításokat tartalmazzák a törvény ezen rendelkezései.
+
+A 25. §-hoz
+
+A felhatalmazó rendelkezések módosítását a leplezett eszközök, mint új jogintézmény bevezetése indokolja.
+
+A 26. §-hoz
+
+Szövegcserés módosítások.
+
+A 27. §-hoz
+
+Hatályát vesztő rendelkezés.
+
+A 28. §-hoz
+
+A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény módosítása azért vált szükségessé, mert az új büntetőeljárási kódexben érvényesíteni kívánt új szabályozási rendszer alapján egyértelművé válik, hogy ellenőrzött szállításra, illetve a jelenleg az ez a törvény alapján végzett, bűnüldözési célú titkos információgyűjtésre a jövőben nem kerülhet sor, csak és kizárólag büntetőeljárás keretében. Ez azt is jelenti, hogy ilyen jellegű külföldi megkeresést a hazai hatóságok az új büntetőeljárási törvény hatálybalépését követően csak bűnügyi jogsegély keretében teljesíthetnek. Ezért az előterjesztés céljaként megfogalmazott, az új büntetőeljárási törvénynek megfelelő rendészeti, illetve nemzetbiztonsági célú titkos információgyűjtés rendszerének a teljességéhez az is hozzátartozik, hogy a jogalkotó világossá teszi a nemzetközi bűnügyi együttműködés keretében végezhető titkos információgyűjtés szabályait.
+
+A törvény ezen módosításai a titkos információgyűjtést szabályozó egyes törvényekkel való koherencia megteremtése érdekében szükségesek, a módosítást a terminológiai egységesítése indokolja.
+
+A 29. §-hoz
+
+Szövegcserés módosítások.
+
+A 30. §-hoz
+
+Hatályukat vesztő rendelkezések.
+
+A 31. §-hoz
+
+A NAV tv.-t érintő módosítást illetően az általános indokolásban kifejtettek az irányadók. Az egyes törvényeket érintő módosítások az új büntetőeljárásról szóló törvényben a leplezett eszközök alkalmazásának rendszerével való koherencia megteremtése érdekében szükséges tartalmi, rendszerszintű változtatásokat jelenítik meg. Ezért a titkos információgyűjtés normarendszerének az egyes törvényekben megegyező elemeire ugyanazon szabályok meghatározása indokolt. Ennek megfelelően a NAV tv.-t érintő módosítások csak a NAV tv.-ben meghatározott egyes feladatait és egyes szerveit illetően térnek el az Rtv.-nek a törvény szerint megállapított rendelkezéseitől, egyébként tartalmilag minden esetben ugyanazon rendelkezések megállapítása volt indokolt.
+
+Az Rtv.-t érintő módosításoknál kifejtettekre visszautalva a titkos információgyűjtés szabályozásának koncepciója a titkos információgyűjtést szabályozó valamennyi törvény, így a NAV tv. esetén is úgy érvényesíti a célhozkötöttséget, hogy a titkos információgyűjtés céljait a NAV tv.-ben meghatározott feladataihoz igazítja. A NAV tv. alapján folytatható titkos információgyűjtés és a leplezett eszközöknek az új büntetőeljárásról szóló törvény alapján történő alkalmazásának egyértelmű elhatárolásához mindenekelőtt a NAV bűnözéssel, bűncselekményekkel kapcsolatos egyes feladatainak egyértelmű meghatározása szükséges. A módosítás ezt a pontos elhatárolást alapozza meg.
+
+A 32. §-hoz
+
+A törvény a NAV tv. IV. Fejezetének teljes újraszabályozását tartalmazza. A szabályozás szerkezetileg és tartalmilag az Rtv. VII. Fejezetével megegyezően épül fel, ide nem értve a NAV esetén - a törvényben meghatározott feladatok eltérése miatt - nem értelmezhető vagy eltérő megfogalmazást igénylő célokat, illetve rendelkezéseket. Így a NAV tv.-ben nem szerepelnek az Rtv.-hez képest a megbízhatósági vizsgálat, a körözési eljárás, a Védelmi Program végrehajtása, valamint a személybiztosítási és létesítményvédelmi feladatok ellátása során, illetve érdekében végezhető titkos információgyűjtésre vonatkozó szabályok.
+
+A 33. §-hoz
+
+A törvény az Rtv. adatkezelésre vonatkozó rendelkezéseinek megfelelő rendelkezéseket emeli be a NAV tv.-be, ezért a módosítás indokait illetően az e törvény 11. § (4) bekezdéshez (Rtv. 91/A. §) írtak megfelelően irányadók.
+
+A bírói engedélyhez kötött eszközök alkalmazása indítványozásával, engedélyezésével, illetve igénybevételével kapcsolatos részletes szabályokat illetően a kijelölt miniszter kap felhatalmazást rendelet alkotására.
+
+A 34. §-hoz
+
+A NAV tv. IV. Fejezete szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök NAV általi alkalmazásának részletes szabályait a kijelölt miniszter utasításban állapítja meg.
+
+A 35. §-hoz
+
+A titkos információgyűjtés és az új büntetőeljárásról szóló törvény leplezett eszközökre vonatkozó rendelkezéseinek szoros kapcsolata miatt a módosítások hatálybalépését az új büntetőeljárásról szóló törvény hatálybalépéséhez indokolt igazítani. Az új büntetőeljárásról szóló törvény hatálybalépését követően rendezni indokolt, hogy a már megkezdett titkos információgyűjtéseket miként és meddig lehet a jelenleg hatályos szabályok szerint folytatni. A NAV tv. 103/A. §-ban meghatározott átmeneti rendelkezések az Rtv.-hez hasonlóan az új büntetőeljárási kódex 872. §-ával összhangban rendezik ezt a kérdést.
+
+A 36. §-hoz
+
+A NAV tv. sarkalatos rendelkezéseinek módosítása a törvény érintett rendelkezéseinek változása miatt indokolt.
+
+A 37. §-hoz
+
+Szövegcserés módosítások.
+
+A 38. §-hoz
+
+Hatályát vesztő rendelkezés.
+
+A 39. §-hoz
+
+A törvénynek az Ütv.-t érintő módosításának fő okait illetően az általános indokolásban kifejtettek az irányadók. Az egyes törvényeket érintő módosítások az új büntetőeljárásról szóló törvényben a leplezett eszközök alkalmazásának rendszerével való koherencia megteremtése érdekében szükséges tartalmi, rendszerszintű változtatásokat jelenítik meg. Ezért a titkos információgyűjtés normarendszerének az egyes törvényekben megegyező elemeire ugyanazon szabályok meghatározása indokolt.
+
+A törvény új III/A. Fejezettel egészíti ki az Ütv.-t, amelynek szabályozása szerkezetileg és tartalmilag az Rtv. VII. Fejezetével megegyezően épül fel. Az Rtv.-t érintő módosításoknál kifejtettekre visszautalva a titkos információgyűjtés szabályozásának koncepciója a titkos információgyűjtést szabályozó valamennyi törvény, így az Ütv. esetén is úgy érvényesíti a célhozkötöttséget, hogy a titkos információgyűjtés céljait az ügyészség törvényben meghatározott feladataihoz igazítja. A módosítás következtében az ügyészség kizárólag a leplezett eszközök büntetőeljárásról szóló törvény alapján történő alkalmazásához kapcsolódóan jogosult titkos információgyűjtést folytatni. Emiatt az Ütv.-ben a titkos információgyűjtés két céljának meghatározása volt indokolt, ezek a bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása, továbbá az ügyészséggel a büntetőeljárás során titkosan együttműködő személy védelme, bevonása és ellenőrzése. A III/A. Fejezet további szakaszai az ezen célokhoz szükséges eszközök és módszerek meghatározásáról és az alkalmazásuk részletszabályairól rendelkeznek.
+
+A 40. §-hoz
+
+A titkos információgyűjtés mellett értelemszerűen a leplezett eszközökre vonatkozó jogállami szabályrendszernek is hangsúlyos eleme a célhozkötöttség, amely szabályozási elvet a büntetőeljárásról szóló törvényben meghatározott cél- és eszközrendszer mellett a leplezett eszközök alkalmazásával megszerzett adatok kezelésére vonatkozó szabályokban is érvényre kell juttatni. Az Ütv. 32. §-ának (7)-(7b) bekezdésében meghatározott új rendelkezések az Rtv. és a NAV tv. azonos tárgyú rendelkezéseivel tartalmilag azonos módon - az ügyészség eljárásának speciális jellege miatt indokolt különbségekkel - határozzák meg a büntetőeljárás során alkalmazott leplezett eszközökkel, továbbá a titkos információgyűjtés során megszerzett adatok kezelésének szabályait. A cizellált adatkezelési szabályok célja ebben az esetben is a készletező adatgyűjtés lehetőségének egyértelmű kizárása. A módosítás további indokait illetően az Rtv. 91/A. §-ához írtak megfelelően irányadók.
+
+A 41. §-hoz
+
+A titkos információgyűjtés és az új büntetőeljárásról szóló törvény leplezett eszközökre vonatkozó rendelkezéseinek szoros kapcsolata miatt a módosítások hatálybalépését az új büntetőeljárásról szóló törvény hatálybalépéséhez indokolt igazítani. Erre tekintettel az új büntetőeljárásról szóló törvény hatálybalépését követően rendezni kell, hogy a már megkezdett titkos információgyűjtéseket miként és meddig lehet a jelenleg hatályos szabályok szerint folytatni. Az Ütv. 41/B. §-ában meghatározott átmeneti rendelkezések az Rtv.-hez hasonlóan az új büntetőeljárási kódex 872. §-ával összhangban rendezik ezt a kérdést.
+
+A 42. §-hoz
+
+Szövegcserés módosítás.
+
+A 43. §-hoz
+
+Hatályukat vesztő rendelkezések.
+
+-----STARTING---POINT---VEGE---
+
+A 44. §-hoz
+
+A törvény hatálybalépésének az időpontja az új büntetőeljárási kódex hatálybalépéséhez igazodik.
+
+A 45. §-hoz
+
+A sarkalatossági záradékot tartalmazza az Alaptörvénynek megfelelően.

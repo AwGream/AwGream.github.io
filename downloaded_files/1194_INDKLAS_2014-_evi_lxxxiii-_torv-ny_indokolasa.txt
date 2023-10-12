@@ -1,0 +1,173 @@
+2014. évi LXXXIII. törvény indokolása
+
+az egységes elektronikuskártya-kibocsátási keretrendszerről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A polgárok az egyes gazdasági, állami, önkormányzati szolgáltatásokat elektronikus kártyával történő azonosítás, elektronikus kártyák segítségével, informatikai rendszerek útján veszik igénybe.
+
+A szolgáltatások számának növekedésével azonban a különböző platformon működő elektronikus kártyák száma is növekszik, hiszen az egyes rendszerek közötti koordinációt és technológiai egységesítést senki sem valósítja meg.
+
+A kártyakibocsátók száma folyamatosan nő, viszont jellemző, hogy a szigetszerűen megvalósított fejlesztések egymással nem kompatibilisek, nem átjárhatóak.
+
+Nem áll tehát rendelkezésre egy olyan rendszer, mely egységesen és hitelesen, az állam által garantált módon, elektronikus úton tudná biztosítani a felhasználók azonosítását; és ezzel személyhez kötött - akár az állam, akár piaci szereplők által garantált - szolgáltatások nyújtását, jogosultságok, kedvezmények igénybevételét.
+
+Egy ilyen keretrendszer kiépítése esetén, a rendszerben garantált hitelességi, azonosítási funkciók segítségével az eddig szigetszerűen megvalósuló fejlesztések - erre irányuló szándék esetén - sokkal olcsóbban lennének megvalósíthatóak vagy kiválthatóak. Ebben az esetben ugyanis az egyes szakrendszereknek már nem kellene a kártyakibocsátás folyamatának valamennyi aspektusát (azonosítás, arckép-készítés, rendszerfejlesztés, gyártás stb.) megszervezniük; piaci felhasználás esetén elegendő csupán az egységes kártyarendszerhez történő csatlakozást biztosító, jogszabályban meghatározott csatolófelület technikai előírásainak való megfelelést biztosítani, állami felhasználás esetén pedig az ágazati jogszabályok szintjén elrendelni a csatlakozás kötelezőségét és meghatározni a kapcsolódó ágazati adatkezelés szabályait.
+
+Az egységes elektronikuskártya-kibocsátási keretrendszer (a továbbiakban: NEK) tehát nem közvetlen kártya-kibocsátást és -felhasználást jelent, hanem egy olyan jogi-műszaki keretrendszert takar, amely
+
+- megteremti az elektronikus kártyakibocsátás egységesítésének legfontosabb, alapvető technológiai, eljárási, szervezeti és egyéb keretfeltételeit, és
+
+- az állam által biztosított azonosítási szolgáltatással, valamint háttér-adatbázissal (a törvény értelmében: a személyi adat-, és lakcímnyilvántartás segítségével) megszünteti az azonosításhoz kapcsolódó hitelességi hiányosságot (a nyilvántartás tartalmazza az egyes személyekhez tartozó kártyák adatait, biztosítja az ágazati vagy kereskedelmi rendszerekkel való kapcsolatot, ezzel garantálva azt, hogy az egyes jogosultságok nem a kártyákhoz kapcsolódnak, hanem a ténylegesen arra jogosult személyhez).
+
+Az egyes konkrét felhasználói alkalmazások így a keretrendszernek nem részei, hanem annak megfelelően létrehozott önálló fejlesztések eredményei.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Ez a rendelkezés a NEK rendszerével kapcsolatos főbb alapelveket határozza meg.
+
+A törvény alapján a NEK rendszerében kibocsátott kártya betölthet
+
+- piaci funkciókat (ez esetben kártyakibocsátó az lehet, akit a kijelölt állami szerv - alapos műszaki és nemzetbiztonsági vizsgálatot követően - hatósági eljárásban kártyakibocsátásra feljogosít);
+
+- állami funkciókat (ebben az esetben a kártyakibocsátó kijelölése ágazati törvényben történik meg, kibocsátó pedig csak költségvetési szerv és közfeladatot ellátó más szerv lehet).
+
+Az állami funkcióhoz kötődő konkrét kártyakibocsátásokat - mivel azok az ágazati nyilvántartásokhoz kötődnek -, valamint az e rendszerekhez kapcsolódó adatkezelési szabályokat az ágazati törvények szintjén kell szabályozni, ez a szabályozás - figyelemmel arra, hogy a NEK keretrendszer - a jelen törvénynek nem része és nem is lehet része.
+
+Szintén az ágazati jogszabályok szintjén szükséges szabályozni az egyes kártyákra vonatkozó speciális okmánybiztonsági előírásokat is.
+
+Az ágazatok oldalán jelentkező informatikai fejlesztési igény mindössze a saját (ágazati törvényben meghatározott) adatbázis (pl. társadalombiztosítási adatokat tartalmazó adatbázis) és a NEK-nyilvántartás közötti informatikai csatolófelület fejlesztésére korlátozódik, az egyéb feltételeket - felhasználó azonosítása, hitelesség biztosítása, kártya adatokkal történő ellátása stb. - a keretrendszer biztosítja.
+
+A 2. §-hoz
+
+A törvényi alapfogalmakat határozza meg.
+
+A törvény értelmében elsődleges - fizikailag létező -, valamint ún. másodlagos, azaz közvetlenül, elkülönülten, kézzel fogható valóságban nem létező, hanem valamely elsődleges kártyához elektronikusan hozzárendelt (~virtuális) kártya kibocsátására van lehetőség.
+
+A másodlagos kártyákkal kapcsolatos szabályozás teszi lehetővé azt, hogy - ha a felhasználó így akarja és adott kártyák vonatkozásában az ágazati törvény nem zárja ki - egyetlen fizikai kártyán elméletileg végtelen funkció legyen hordozható.
+
+A 3. §-hoz
+
+A törvény értelmében a működtető a NEK-rendszer kulcsszereplője, mely végzi a NEK nyilvántartás adatkezelését, biztosítja annak folyamatos működését, gyakorolja a kártyakibocsátói engedélyezéssel kapcsolatos hatósági jogköröket. Éppen ezért a törvény kimondja, hogy működtetőként csak hatósági jogkörrel rendelkező államigazgatási szerv jelölhető ki.
+
+A 4. §-hoz
+
+A kártyára vonatkozó rendelkezéseket tartalmazza.
+
+A másodlagos kártyákkal kapcsolatos szabályozás teszi lehetővé azt, hogy - ha a felhasználó így akarja és adott kártyák vonatkozásában az ágazati törvény nem zárja ki - egyetlen fizikai kártyán elméletileg végtelen funkció legyen hordozható.
+
+A törvény - adatvédelmi okokból - lehetővé teszi, hogy a különböző kártyafunkciókat (másodlagos kártyákat) a kártyánként korlátozza. Ennek technikai megoldása meghatározását (pl. PIN kód vagy egyéb) a törvény miniszteri rendeleti szintre utalja.
+
+Garanciális elemként jelenik meg a szabályozásban, hogy állami funkcióhoz rendelt kártya csak akkor lehet másodlagos (virtuális) kártya, ha annak fizikai hordozója is állami funkcióhoz rendelt kártya. Piaci kártya - másodlagos kártyaként - csak akkor rendelhető hozzá állami funkciót hordozó fizikai kártyához, ha a hozzárendelést ágazati törvény megengedi.
+
+Az 5. §-hoz
+
+Ez a rendelkezés a kártyán vizuálisan megjelenített (rányomtatott), valamint a kártyára elektronikusan felvitt adattartalmat szabályozza.
+
+A keretszabályozás lehetővé teszi a külön jogszabályban meghatározott okmánybiztonsági feltételeknek megfelelő kártyák kibocsátását; valamint lehetséges külön biztonsági követelmények nélküli, minimális adattartalommal (arckép, név, lakhely város-megjelölése) ellátott kártyák kibocsátása és - kivételesen - csak elektronikus információt hordozó, rányomtatott tartalom nélküli (anonim) kártya kibocsátása is.
+
+A 6-7. §-hoz
+
+A törvény értelmében a kártyafelhasználói regisztrációra személyesen kerül sor és a regisztráció - a redundancia elkerülése érdekében - nagymértékben a személyiadat-, és lakcímnyilvántartás adatain alapul.
+
+Éppen ezért a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény kiegészül egy „egységes arcképmás- és aláírás-felvételezési” eljárással, melynek egyik funkciója a NEK kiszolgálása, a másik a személyiadat-, és lakcímnyilvántartás frissítése az új adatokkal.
+
+A 8. §-hoz
+
+A központi kártyanyilvántartás (NEK központi nyilvántartás) funkciója, hogy a kártyafelhasználó egyes személyi adataihoz rendelten, kártyánként elkülönülten tartalmazza a felhasználónak a rendszerben kibocsátott kártyáinak egyedi azonosítóit és azok kibocsátóját (a kártya elektronikusan ezen kívüli információt csak külön törvény kifejezett rendelkezése alapján tartalmazhat).
+
+A NEK központi nyilvántartás a kártyákhoz kötődő jogosultsági adatokat nem tartalmaz, ilyen adatokat nem gyűjt; csupán származtatott adatokat tartalmazó háttér-nyilvántartásként működik abból a célból, hogy a kártya felhasználása során a kártya elfogadójának elektronikus információt adjon arról, hogy a kibocsátás alapját képező jogosultságra vonatkozó adatok mely ágazati szereplő nyilvántartásában találhatóak meg.
+
+A 9. §-hoz
+
+Ez a szakasz garanciális rendelkezéseket tartalmaz azzal, hogy a kártya érvényességi idejét korlátozhatóvá teszi, egyúttal kimondja, hogy jogszabály, vagy a kártyakibocsátó által meghatározott korlát hiányában a kártya öt évig érvényes, a másodlagos (virtuálisan hordozott) kártyák érvényessége pedig értelemszerűen nem lehet hosszabb, mint az azt hordozó elsődleges (fizikai) kártyáé.
+
+Az (5) bekezdés értelmében a NEK központi nyilvántartás kártyafelhasználóra vonatkozó adatait a működtető törvény eltérő rendelkezése hiányában a kártyafelhasználó törlés iránti kérelme esetén, és a kártyafelhasználó halála esetén két év elteltével törli. Az adatkezelés fennmaradása törlési kérelem esetén a kártyával kapcsolatos esetleges visszaélések megismerhetőségének lehetővé tételét célozza, halál esetén pedig a haláleset körülményeinek esetlegesen szükségessé váló tisztázása miatt indokolt.
+
+A § ehhez kötődően rendelkezéseket tartalmaz továbbá az érvénytelen kártyákra vonatkozó adatok törlésére vonatkozóan is.
+
+A 10. §-hoz
+
+A kártyafelhasználóra vonatkozó adatok törlése nem érinti a kártya egyedi azonosítójára vonatkozó adatot. A törléssel érintett kártya egyedi azonosítóját a működtető a NEK központi nyilvántartásban érvénytelenként jelöli meg; ennek célja, hogy egy adott azonosítójú kártya érvénytelensége tekintetében a rendszer mindig tudjon információkat szolgáltatni.
+
+A 11. §-hoz
+
+Az ebben a §-ban rögzített, a kártyaelfogadó számára történő adatszolgáltatást lehetővé tévő szabály a kártya funkcionális használatát teszi lehetségessé.
+
+A 12. §-hoz
+
+Ez a § teszi lehetővé, hogy a bíróság, az ügyészség és a nemzetbiztonsági szolgálatok feladataik ellátása érdekében, - a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén - a nyomozó hatóságok bűnüldözési tevékenységük ellátásához, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a jogszabályban meghatározott feladatai ellátásához adatokat igényeljen. Az adatigénylés nem irányulhat az egy felhasználóhoz tartozó összes funkció megismerésére; az adatigénylésnek a kártyakibocsátó oldaláról kell indulnia (külön-külön kell megkeresni az egyes kártyakibocsátókat). Ez a garanciális szabály kizárja a NEK központi adatbázis alapján személyiségprofil felállítását.
+
+A 13. §-hoz
+
+A törvény alapján az állami (ágazati törvényben vagy az alapján kijelölt) kártyakibocsátó a működtetővel kötött szerződés, a piaci szolgáltató a működtetővel kötött hatósági szerződés alapján veszi igénybe a NEK szolgáltatásait. A piaci szolgáltató csatlakozása a rendelkezés alapján díjfizetés ellenében történik.
+
+A 14. §-hoz
+
+A rendelkezés a piaci, illetve a nem törvényben vagy az alapján, hanem önkéntesen csatlakozó költségvetési szerv és közfeladatot ellátó más szerv csatlakozásával kapcsolatos hatósági eljárást szabályozza.
+
+A kártyakibocsátó kapcsán a működtető, mint hatóság, a jogszabályban meghatározott műszaki, technikai, biztonsági feltételeket vizsgálja, az Alkotmányvédelmi Hivatal szakhatóságként a nemzetbiztonsági kockázatot méri fel.
+
+A 15. §-hoz
+
+Ez a rendelkezés a működtető hatósági ellenőrzésének lehetőségét teremti meg a jogszabályban kijelölt kártyakibocsátó kapcsán. Piaci kártyakibocsátó esetén ez azért nem szükséges, mert azzal a működtető hatósági szerződést köt, és ebből adódóan a hatósági ellenőrzésre ez alapján van lehetősége.
+
+A 16-19. §-hoz
+
+A rendelkezések a kártyakibocsátás szabályait határozzák meg.
+
+A kártyakibocsátást a törvényben kijelölt, vagy hatósági eljárás alapján erre feljogosított kártyakibocsátó végzi, a kártyafelhasználói regisztrációval rendelkező személyek részére, kártyaigénylő lap kitöltésével.
+
+A kártyaigénylő lapon megadott adatokat a kártyakibocsátó elektronikusan összeveti a NEK központi nyilvántartásban szereplő kártyafelhasználó regisztrációs adatokkal, és egyezés esetén a kártya megszemélyesítőjének a megszemélyesítéshez szükséges adatokat átadja.
+
+A megszemélyesítési technológiai folyamat lezárultával a megszemélyesítést végző az adatokat törli.
+
+A kártyakibocsátó a kibocsátott kártyák adatairól nyilvántartást vezet. Ennek a nyilvántartásnak a része a kártyafelhasználóra vonatkozó, a kibocsátási célt képező jogosultság vagy tény fennállására vonatkozó adat (azaz az a funkció, ami miatt a kibocsátás történik, pl. ágazati nyilvántartás).
+
+A 20. §-hoz
+
+A rendelkezés a kártyaelfogadás folyamatát szabályozza. A kártyaelfogadónak a törvény felhatalmazó rendelkezése alapján megalkotott rendelet szerinti műszaki követelményeknek megfelelő elektronikus kártyaleolvasóval kell rendelkeznie.
+
+A § rögzíti, hogy a kártya érvényességére vonatkozó adat valamennyi esetben lekérdezhető.
+
+A rendszer működési elve, hogy a kártya egyedi elektronikus azonosítója alapján a NEK központi adatbázisból információt kap arról, hogy az adott kártya által hordozott funkciót mely ágazati vagy piaci nyilvántartás tartalmazza. A jogosultságra vagy tényre vonatkozó adat ezt követően az ágazati vagy piaci nyilvántartásból kérdezhető le, ilyen adatot a NEK központi nyilvántartás nem tartalmaz.
+
+A törvény lehetőséget biztosít arra, hogy jogszabály, vagy a kártyakibocsátók által a kártya kibocsátását követően megkötött szerződés alapján az egyik kártyakibocsátó által kiállított kártyával a másik kártyakibocsátó jogosultságot tartalmazó adatbázisához is hozzáférést biztosítson.
+
+-----STARTING---POINT---VEGE---
+
+A 21. §-hoz
+
+A felhatalmazó rendelkezéseket tartalmazza.
+
+A 22. §-hoz
+
+A hatályba léptető rendelkezést tartalmazza.
+
+A 23. §-hoz
+
+Figyelemmel arra, hogy az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendeletben foglaltak szerint kiállított oktatási igazolvány NEK kártyának minősül, szükséges rendelkezni arról, hogy milyen formában és határidővel kerül sor az igazolványok adatainak a NEK működtetője részére történő átadására.
+
+A 24. §-hoz
+
+A törvény értelmében a kártyafelhasználói regisztrációra személyesen kerül sor és a regisztráció - a redundancia elkerülése érdekében - nagymértékben a személyiadat-, és lakcímnyilvántartás adatain alapul.
+
+Éppen ezért a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény kiegészül egy „egységes arcképmás- és aláírás-felvételezési” eljárással, melynek egyik funkciója a NEK kiszolgálása, a másik a személyiadat-, és lakcímnyilvántartás frissítése az új adatokkal. A szükséges módosításokat e § tartalmazza.
+
+A 25. §-hoz
+
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása a kártyakibocsátás iránti kérelem elbírálására irányuló hatósági eljárásban szabályozott szakhatósági hatáskör megalapozása miatt szükséges.
+
+A 26. §-hoz
+
+A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása annak érdekében szükséges, hogy a NEK kártya egyedi azonosítója is az összerendelési nyilvántartás részévé váljon, így az „ágazati” azonosítókon keresztül összerendelhetővé váljanak az egyes rendszerek.
+
+A 27. §-hoz
+
+Az átmeneti rendelkezéseket hatályon kívül helyező rendelkezés.
+
+A 28. §-hoz
+
+A sarkalatossági záradékot tartalmazó rendelkezés.

@@ -1,0 +1,193 @@
+2009. évi LII. törvény indokolása
+
+a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Általános társadalmi elvárás a bírósági, közigazgatási, illetve más hatósági eljárások felgyorsítása az információs társadalom adta lehetőségek kihasználásával. Jelen törvény elsődleges célja az elektronikus kommunikáció - azon belül a megfelelően dokumentált, biztonságos elektronikus kézbesítés - feltételeinek megteremtése. A kormányzat több évre visszamenő törekvése az, hogy az igazságszolgáltatás valóban gyors és hatékony segítséget nyújtson a jogkereső állampolgároknak, illetve vállalkozásoknak. A vállalkozások esetében sikeres működésükhöz elengedhetetlen, hogy az anyagi jog által a gazdasági élet szereplői számára biztosított anyagi jogosultságok érvényre jutását az állam hatékonyan biztosítsa. Ez hozzájárul a gazdasági életben meglévő visszásságok felszámolásához: a jogviták könnyebb és gyorsabb rendezése nagy mértékben elősegítheti például a körbetartozások számának csökkenését.
+
+A különböző szabályozási elemek - például a Polgári perrendtartásról szóló 1952. évi III. törvény 2008. évi módosítása, és annak ez évi továbbfejlesztése - között kiemelt szerepe van a jelen törvénynek. A hivatalos iratok elektronikus kézbesítésének lehetősége, és ezáltal általában az elektronikus kommunikáció bevezetése mind az igazságszolgáltatásban, mind a hatósági eljárásokban még inkább meggyorsítja a pereskedést és az egyéb hivatalos eljárásokban való részvételt is.
+
+A szabályozás kiindulópontja az, hogy az elektronikus kommunikációban megjelenik a feladótól és a címzettől független szerv, amelynek a feladata a kézbesítés lebonyolítása. A kézbesítési feladatok ellátására a már jelenleg is létező központi elektronikus szolgáltató rendszer kijelölése tűnik ésszerűnek, amely „Állami Elektronikus Kézbesítési Szolgáltató” elnevezéssel jelenik meg a törvény szövegében.
+
+Az elektronikus kézbesítési folyamat lényege, hogy az Állami Elektronikus Kézbesítési Szolgáltató rendszerén keresztül szabályszerűen kézbesített iratokhoz a különböző jogszabályokban foglalt joghatás fűződhet. Ahhoz, hogy az elküldött iratok átvételéhez joghatás fűződjön, elengedhetetlenül szükséges az, hogy a feladó egyrészt hitelt érdemlően tudomást szerezzen a címzett számára küldött elektronikus okiratok szabályszerű átvételéről (az elektronikus tértivevény alapján), másrészt az át nem vett elektronikus iratokkal kapcsolatban megállapíthassa a kézbesítési vélelem beálltát. Jóllehet a hivatalos iratok elektronikus kézbesítésére elsősorban a bíróság, közigazgatási szerv, illetve más hatóság és a felek között zajlik majd, de a rendszer a jövőben alkalmas lehet arra - a jogszabály lehetőséget ad rá -, hogy a feladói és a címzetti oldalon is természetes személyek vagy hivatalos szervek is küldhessenek közvetlenül egymásnak iratokat.
+
+Az elektronikus kézbesítés egyszerűségét - és széles körben történő elterjeszthetőségét - hivatott biztosítani az a megoldás, hogy a rendszer által az iratra elhelyezett időbélyegző védi a dokumentumot az utólagos módosítástól. Így megengedhető az, ha a hivatalos szerv kívánja hivatalos iratát elektronikusan kézbesíteni, akkor az Állami Elektronikus Kézbesítési Szolgáltató rendszerén keresztül kézbesített okirat közokiratnak minősül. Ha pedig természetes személy által benyújtandó okirat vonatkozásában jogszabály teljes bizonyító erejű okirati formát ír elő, akkor az e rendszeren keresztül kézbesített okirat tekintetében ezt a formai előírást teljesítettnek kell tekinteni anélkül, hogy a feladó saját minősített elektronikus aláírással és időbélyegzővel rendelkezne.
+
+Aki az elektronikus kézbesítési rendszerbe be kíván kapcsolódni, az Állami Elektronikus Kézbesítési Szolgáltatóra vonatkozó külön jogszabály szerinti regisztrációs folyamattal juthat hozzá az elektronikus kézbesítési tárhelyéhez. Későbbi jogalkotási feladat részét képezheti, hogy mely szervek vagy szervezetek részére mikor és mely eljárásban nyílik lehetőség az elektronikus kézbesítési rendszer igénybevételére.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az 1. § a hatályra vonatkozó rendelkezéseket tartalmazza, és a törvény által használt fogalmakat határozza meg. A hatály meghatározására széles körben került sor abból a célból, hogy törvényben írt elektronikus kézbesítési rend minél több eljárásban alkalmazható legyen. Ennek megfelelően a törvény rendelkezéseit akkor kell alkalmazni, ha törvény kötelezővé, illetve ha törvény vagy törvény felhatalmazása alapján kiadott kormányrendelet lehetővé teszi a hivatalos iratok - különösen a polgári, a büntető, a közigazgatási és más hatósági eljárásokban történő - elektronikus kézbesítését. A hatály nem terjed ki az azonnali üzenetváltáson (párbeszéden, licitáláson) alapuló eljárásban küldött elektronikus üzenetekre akkor sem, ha arra egyébként hatósági eljárásban kerül sor. Ez utóbbi kivétel meghatározására azért van szükség, mert vannak olyan hatósági eljárások, amelyek elektronikus párbeszédre, azaz azonnali üzenetváltásra épülnek, azonban a törvényben foglalt eljárási rend nem ezt szabályozza.
+
+A törvény összefoglaló néven hivatalos iratnak tekinti azt az elektronikus okiratot és egyéb elektronikus adatállományt, amelyet meghatározott eljárásában a bíróság, közigazgatási szerv, illetve más hatóság (a továbbiakban együtt: hivatalos szerv) az ügyfél (fél) részére elektronikusan, joghatás kiváltására alkalmas módon kézbesíttet, továbbá amelyet a hivatalos szervek eljárásuk során egymásnak küldenek meg, valamint amelyet az ügyfél (fél) kézbesíttet a hivatalos szerv részére.
+
+A hivatalos irat kézbesítésének igazolására szolgáló elektronikus tértivevény fogalmát is meghatározza a törvény, e szerint elektronikus tértivevény az az elektronikus okirat, amely alapján a hivatalos iratot feladó hivatalos szerv hitelt érdemlő módon megbizonyosodhat arról, hogy az átvételre jogosult személy az elektronikusan kézbesített küldeményt átvette, és ez mely időpontban történt meg. Az elektronikus tértivevény közokirat, melynek tartalmaznia kell a feladó és a címzett nevét (azonosítóját), az ügy számát (vagy egyéb azonosítóját), a kézbesített hivatalos irat egyértelmű azonosítására alkalmas hivatkozást és a hivatalos irat átvételének az időpontját. Az elektronikus tértivevény funkciójának kialakításakor figyelemmel kellett lenni a papír alapú tértivevény jellemzőire, és azt ki kellett egészíteni az elektronikus kézbesítés miatt felmerülő további adatokkal.
+
+A törvény megengedi a minősített elektronikus aláírás nélküli iratküldést, mivel informatikailag biztosítani tudja ugyanazokat a körülményeket a küldő és a fogadó számára, mintha ők rendelkeznének saját minősített elektronikus aláírással. Ezért kimondja, hogy az Állami Elektronikus Kézbesítési Szolgáltatón keresztül, közokirat kiállítására jogosult feladó által kézbesíttetett hivatalos irat - a hivatalos szerv saját minősített elektronikus aláírása nélkül is - elektronikus közokirat, továbbá ha jogszabály azt írja elő, hogy a benyújtandó beadványnak teljes bizonyító erejű magánokiratnak kell lennie, akkor ezt az előírást teljesítettnek kell tekinteni, ha a hivatalos szerv részére - a feladó saját minősített elektronikus aláírása nélkül is - e törvényben foglalt eljárási rend alapján történik a kézbesítés.
+
+Az állampolgárok jogbiztonságát és az Állami Elektronikus Kézbesítési Szolgáltatóba vetett bizalmát erősíti az a szabály, amely kimondja, hogy az okiratokra elektronikus aláírás akkor is elhelyezhető, ha az egyébként nem kötelező. Külön törvény által szabályozott eljárásokban kötelező az elektronikus aláírás használata.
+
+A 2. §-hoz
+
+A 2. § az Állami Elektronikus Kézbesítési Szolgáltatóról szól, csak a fő feladatait határozza meg tekintettel arra, hogy a Állami Elektronikus Kézbesítési Szolgáltatóra vonatkozó részletes informatikai-biztonsági előírásokat már hatályos kormányrendeletek tartalmazzák. A hivatalos iratok elektronikus kézbesítése technikai hátterének biztosítása állami feladat. Ezt a feladatot központi elektronikus szolgáltató rendszert működtető szervezet végzi. Az Állami Elektronikus Kézbesítési Szolgáltató a feladó által kézbesíteni rendelt hivatalos iratokat a címzett részére kézbesíti, valamint a kézbesítés megtörténtét, illetve az elektronikus kézbesítéssel kapcsolatos egyéb körülményeket hitelt érdemlő módon - az elektronikus tértivevénnyel, illetve szükség esetén a rá vonatkozó külön jogszabályok szerinti naplózással - a feladó, illetve a címzett számára igazolja. Az Állami Elektronikus Kézbesítési Szolgáltatónak elektronikus kézbesítési tárhelyet kell fenntartania, amelyhez a kézbesítési folyamatban részt vevő feladó és címzett számára biztosítania kell a hozzáférést, és el kell látnia az elektronikus kézbesítéssel kapcsolatos további feladatokat.
+
+Az Állami Elektronikus Kézbesítési Szolgáltató biztosítja, hogy az irat elküldésekor a feladó az Állami Elektronikus Kézbesítési Szolgáltató időbélyegzőjével ellátott irat egy példányát megkapja, így mind a feladónak, mint a címzettnek ugyanolyan tartalmú, időbélyegzővel ellátott irat fog a rendelkezésére állni.
+
+A törvénybe beépülnek olyan adatvédelmi rendelkezések is, amelyek egy része már ma is vonatkozik az Állami Elektronikus Kézbesítési Szolgáltatóra.
+
+A 3. §-hoz
+
+Ez a § a természetes személyek elektronikus iratainak a hivatalos szervhez történő beküldését szabályozza. Tekintettel arra, hogy az Állami Elektronikus Kézbesítési Szolgáltató rendszeréhez jelenleg természetes személyként ügyfélkapun, illetve hivatalos szervként hivatali kapun keresztül lehet csatlakozni, ezért a törvény kimondja, hogy annak alkalmazása során az eljárásban részt vevő személy képviseletében eljáró jogi képviselőre, az eljárásban részt vevő vállalkozás törvényes képviselőjére, valamint az igazságügyi szakértői tevékenység végzésére feljogosított természetes személy és gazdasági társaság igazságügyi szakértőre a természetes személyre vonatkozó rendelkezéseket kell alkalmazni
+
+A természetes személy a kézbesítendő hivatalos iratát - ügyfélkapuján belépve - az adott eljárásra vonatkozó elektronikus formanyomtatványon nyújtja be. Annak a formanyomtatványnak, amelyet adott eljárásban első hivatalos iratként nyújt be a természetes személy, akkor is kell tartalmaznia a természetes személy lakcímét (tartózkodási helyét vagy levelezési címét), ha azt jogszabály kifejezetten nem írja elő. Azért kell ezeket az adatokat feltüntetnie, mert ha papír alapú kézbesítésre kell átállni, akkor a hivatalos szerv rendelkezésére fog állni a(z ügy)fél címe. Ha a természetes személy elektronikusan kezdeményezi az eljárást, akkor az eljárást kezdeményező elektronikus formanyomtatványának mellékletét kell, hogy képezze az illeték megfizetéséről szóló igazolás.
+
+Célszerűnek mutatkozik, hogy az elektronikusan beküldő félnek ne kelljen külön nyilatkozatot tennie arról, hogy ő az elektronikus kézbesítési utat választotta, ezért a törvény kimondja, hogy az elektronikus úton benyújtott hivatalos irat a természetes személy utaló magatartása arra vonatkozóan, hogy abban az eljárásban vállalja az elektronikus kézbesítést, továbbá beadványait kizárólag elektronikus úton nyújtja be. Az elektronikus kézbesítés vállalására vonatkozó bejelentést a természetes személy az eljárás bármely szakaszában megteheti az eljáró hivatalos szervnél.
+
+Az elektronikus irat beküldésekor az Állami Elektronikus Kézbesítési Szolgáltató a kézbesíttetni kívánt formanyomtatványon informatikai, ún. formai megfelelőségi ellenőrzést végez. Ha a formanyomtatvány megfelel az informatikai követelményeknek, akkor azt befogadja rendszerébe, és a formanyomtatványon elhelyezi időbélyegzőjét. Ha a formanyomtatvány nem felel meg az informatikai követelményeknek, erről a feladót közvetlenül, a benyújtási folyamat részeként tájékoztatja.
+
+A feladó biztonsága érdekében a befogadásról az Állami Elektronikus Kézbesítési Szolgáltató - a rá vonatkozó külön jogszabályok alapján - visszaigazolást küld a feladó részére, amelynek tartalmaznia kell legalább a feladó és a címzett nevét, a befogadott irat elnevezését, az érkeztetési számot, a befogadás időpontját és a benyújtott dokumentum egyértelmű azonosítására alkalmas információt. A befogadás visszaigazolásban megjelölt időpontban a hivatalos iratot a címzett hivatalos szervhez megérkezettnek kell tekinteni.
+
+A hivatalos szervek lehetősége, hogy a hivatali kapujuk kezelésére ügyintézőjüket jogosultsággal ruházzák fel, ezért a hivatalos szervnek küldött hivatalos irat átvételére (megnyitására, letöltésére) jogosult személy kijelölésére a hivatali kapura vonatkozó külön szabályok alapján kerül sor.
+
+Értelemszerűen az elektronikusan kézbesíttetni kívánt hivatalos iratból egy címzett tekintetében egy példányt kell kézbesíttetni akkor is, ha más törvény a papír alapú benyújtásra egynél több példányt ír elő.
+
+A 4. §-hoz
+
+A 4. § azt az esetet szabályozza, amikor a hivatalos szerv a természetes személy részére kézbesíti a hivatalos iratokat. Tekintettel arra, hogy nem kényszeríthető senki arra, hogy kézbesítési tárhelyét úgy ellenőrizze, hogy nem is számíthat hivatalos irat érkezésére, de egyébként ha tudna róla, igénybe venné a szolgáltatást, ezért kimondja a törvény azt, hogy ha az eljárás hivatalból indul, és a hivatalos szerv eljárásában helye van a beadvány elektronikus benyújtásának, akkor a hivatalos szerv az elsőként megküldött hivatalos iratát papír alapon azzal a kiegészítő tájékoztatással kézbesítteti a címzett részére, hogy beadványát a hivatalos szerv részére elektronikus úton is benyújthatja.
+
+Az elektronikusan kézbesíteni kívánt hivatalos iratot a hivatalos szervnek a címzett részére a hivatali kapun keresztül kell kézbesíttetnie. Az Állami Elektronikus Kézbesítési Szolgáltató a hivatalos iratot a címzett ideiglenes tárhelyén helyezi el harminc napra. Ezt az iratot a címzett ügyfélkapuján belépve veheti át. A címzett az átvétel előtt megismerheti legalább a feladó nevét, a hivatalos irat tárhelyére történt érkezésének időpontját, valamint - a kézbesíteni rendelt hivatalos irat jellegétől függően, illetve ha az rendelkezésre áll - annak ügyszámát (egyéb azonosítószámát), tehát az ún. tájékoztató adatokat, de magát a hivatalos iratot nem.
+
+A kézbesíteni kívánt hivatalos iratot egy internetes hivatkozás testesíti meg, a címzettnek erre kell rákattintania. Ekkor az elektronikus tértivevény automatikusan létrejön és azt az Állami Elektronikus Kézbesítési Szolgáltató a feladó tárhelyére visszaküldi, valamint maga a hivatalos irat a címzett számára letölthetővé válik. Ekkor a címzett a hivatalos iratot letöltheti saját számítógépére vagy megnyithatja a megfelelő programmal. Lehetősége van arra is, hogy azt az ideiglenes tárhelyéről a tartós tárhelyére helyezze. Ha a hivatalos iratot az ideiglenes tárhelyéről nem törli, az az elhelyezésétől számított harminc nap elteltével automatikusan törlődik onnan, ez tehermentesíti az Állami Elektronikus Kézbesítési Szolgáltató rendszerét.
+
+Az iratok kézbesítésének sikeres megtörténtét hivatott biztosítani az a rendszer, hogy az Állami Elektronikus Kézbesítési Szolgáltató tájékoztató üzenetben hívja föl a címzett figyelmét arra, hogy hivatalos irat érkezett a tárhelyére. Ez úgy történik, hogy a hivatalos iratnak az elektronikus kézbesítési tárhelyére történt érkezését követően e-mail címére értesítést kap. Ha a címzett nem veszi át a hivatalos iratot öt munkanapon keresztül, akkor az át nem vett küldemények tekintetében egy második értesítést is kap e-mail címére.
+
+Ki kell emelni, hogy ezek a tájékoztató üzenetek joghatás kiváltására nem alkalmasak. A hivatalos irat elektronikus kézbesítéséhez kapcsolódó kézbesítési vélelem megdöntése során a címzett nem hivatkozhat arra, hogy nem kapta meg bármelyik tájékoztató üzenetet. Az e-mailes értesítés ugyanis olyan technológiára épül, amely nem garantálja, hogy az valóban megérkezik a címzetthez. Éppen ezért a szabályozás kiküszöböli azt a lehetőséget, hogy e tájékoztató üzenetekre hiányára hivatkozhasson.
+
+Az 5. §-hoz
+
+Ez a § a hivatalos szervek egymás közötti elektronikus iratküldését szabályozza. Az iratküldés fő szabály szerint elektronikus tértivevény nélkül, egyszerű visszaigazolással történik. Lehetősége lesz különböző szervezeteknek (pl. ügyvédi irodáknak, szakértői cégeknek) is - bár nem hivatalos szervek - hivatali kapu igénylésére. Ebben az esetben a törvény lehetővé teszi, hogy hivatali kapujukon keresztül egymással közvetlenül, elektronikus tértivevényes kézbesítéssel történő iratküldést.
+
+Kivételes esetben lehetőség van az iratok papír alapú megküldésére abban az esetben, ha a hivatalos szervnél meglévő nagy mennyiségű, papír alapú irathalmaz digitalizálása fölöslegesen terhelné és lassítaná az eljárást.
+
+A 6. §-hoz
+
+Előfordulhat az a helyzet, hogy a hivatalos iratot a címzett nem veszi át határidőben, vagy nem ő veszi át a küldeményt. A törvény kimondja azt, hogy ha a címzett a hivatalos iratnak az elektronikus kézbesítési tárhelyen történő elhelyezését követő ötödik munkanapon (ez a gyakorlatban kb. hét-nyolc napot jelent) sem veszi át a küldeményt, akkor a hivatalos iratot az ezt követő munkanapon kézbesítettnek kell tekinteni Ha kézbesítési vélelem beállta megállapításának van helye, a címzettet és a feladót az Állami Elektronikus Kézbesítési Szolgáltató automatikusan tájékoztatja az elektronikus kézbesítési tárhelyükön.
+
+A kézbesítési vélelem beálltától függetlenül fontos körülmény, hogy a címzett megismerhesse az irat tartalmát, ezért a kézbesítési vélelem alapján kézbesítettnek tekintett hivatalos irat annak elhelyezésétől számított harminc napig a címzett ideiglenes tárhelyén marad, ahol azt a címzett továbbra is átveheti, de a joghatások - ha a kézbesítési vélelem megdöntésére nem kerül sor - a kézbesítési vélelem beálltához fűződnek. A harminc nap elteltével automatikusan törlődő irat tájékoztató adatait a címzett egy évig megismerheti.
+
+Az ügyfélkapuval rendelkező természetes személyek megjelölhetik a helyettes átvevőt, aki saját ügyfélkapuján belépve jogosult a természetes személy címzett helyett átvenni a címzett részére elektronikusan kézbesített hivatalos iratot. A helyettes átvevő által átvett hivatalos iratot joghatás szempontjából úgy kell tekinteni, mintha azt a címzett vette volna át. A helyettes átvevővel kapcsolatos további szabályokat az Állami Elektronikus Kézbesítési Szolgáltatóra vonatkozó külön jogszabály határozza meg.
+
+A 7. §-hoz
+
+A törvény nem kíván külön terhet róni a kézbesítési folyamatban részt vevőkre abban a tekintetben, hogy részükre kötelező elektronikus archiválási vagy irattározási kötelezettséget ír elő. Természetesen ennél szigorúbb szabályt más jogszabály előírhat, de e törvény csak azt mondja ki, hogy a feladó és a címzett az elektronikusan kézbesített hivatalos iratot - a rájuk vonatkozó külön jogszabály (vagy szabályzat) alapján - elektronikus formában is megőrizhetik, természetesen ez kívánatos, célszerű.
+
+Az elektronikusan kézbesített hivatalos irat és az elektronikus tértivevény papír alapú másolatát is meg kell őrizni, ha a papír alapú irattározást vagy iratmegőrzést külön jogszabály (vagy szabályzat) előírja.
+
+Adódhatnak olyan rendkívüli esetek, amikor a valami miatt nem lehetséges az elektronikus kézbesítés, ezért a törvény külön szabályozza azokat a körülményeket, amikor lehetőség van az elektronikus kézbesítésről a papír alapú kézbesítésre való áttérésre. A szabályozás kialakításánál különös jelentősége volt annak, hogy az elektronikus kézbesítésben részt vevő személyek ne „váltogathassák” a kézbesítési módot. Ha a természetes személy a hivatalos iratait elektronikus úton kézbesítteti, indokolt kérelmében adott eljárás során egy alkalommal kérheti a papír alapú kézbesítésre való áttérést. E jog nem gyakorolható visszaélésszerűen. Ha a hivatalos szerv hozzájárul a papír alapú kézbesítéshez, abban az eljárásban nem lehet visszatérni az elektronikus kézbesítésre. Ha a természetes személy a papír alapú kézbesítésről áttér az elektronikus kézbesítésre, vagy az elektronikus kézbesítésről áttér a papír alapú kézbesítésre, nem kérheti a korábban már - bármilyen formában - részére szabályszerűen kézbesített hivatalos irat újbóli kézbesítését. Ha a természetes személy az elektronikus kézbesítésről áttér a papír alapú kézbesítésre, akkor a részére - különös méltánylást érdemlő ok (különösen olyan elháríthatatlan esemény, amelynek következtében a korábban továbbított adatok megsérültek vagy megsemmisültek) valószínűsítése esetén - helye van az elektronikus úton szabályszerűen kézbesített hivatalos újbóli, papír alapú megküldésének azzal a megkötéssel, hogy a joghatások a szabályszerű elektronikus kézbesítéshez fűződnek.
+
+Előfordulhat olyan eset is, amikor a természetes személynek megszűnik a kézbesítési tárhelye. Ebben az esetben e természetes személy részére papír alapú okiratot kell kézbesíteni.
+
+Abban az esetben, ha az Állami Elektronikus Kézbesítési Szolgáltató a hivatalos iratok elektronikus kézbesítésével kapcsolatos feladatait folyamatosan, legalább három napon keresztül nem tudja ellátni, a hivatalos irat papír alapú kézbesítésére abban az esetben is át lehet térni. Az akadály elhárultával természetesen lehet folytatni az elektronikus kézbesítést.
+
+A (8)-(9) bekezdés egy jelentős és fontos technikai könnyítést enged az elektronikusan kézbesítő hivatalos szerveknek. Lehetővé teszi ugyanis, hogy 2011. július 1. napjától - amikor várhatóan már nagy számban lesznek olyan eljárások, ahol túlnyomórészt elektronikus az iratforgalom - a hivatalos szervek megbízzanak a papír alapú okiratok előállításával és kézbesíttetésével ezzel foglalkozó szolgáltatót. A papír alapú kézbesítés ugyanis nem küszöbölhető ki minden eljárásból, hiszen annak ellenére, hogy a hivatalos szerv más hivatalos szervekkel, vállalkozásokkal, jogi képviselőkkel elektronikusan kommunikál, az eljárásban részt vevő természetes személy esetében ez nem várható el. E rendelkezéssel az eljáró hivatalos szerv adminisztratív feladatok alól mentesül, hiszen miután meghozza a határozatát elektronikus formában, ezt követően a papír alapú okirat létrehozásáról és kézbesíttetéséről már nem neki kell gondoskodnia.
+
+A törvény megengedi azt is, hogy a benne foglalt elektronikus kézbesítés teljesítésén túl további kézbesítési lehetőséget írjon elő másik jogszabály adott eljárásokra vonatkozóan.
+
+A törvény azt is kimondja, hogy más törvény enyhébb vagy szigorúbb szabályokat is megállapíthat a papír alapú és az elektronikus kézbesítés közötti váltásra vonatkozó szabályokat.
+
+A 8. §-hoz
+
+Ez a § a határidők számításának módját határozza meg úgy, hogy azt az egyes eljárásokra vonatkozó külön törvényekben meghatározott szabályokkal együtt kell alkalmazni.
+
+Az órákban számított határidővel kapcsolatban kimondja, ha törvény eltérően nem rendelkezik, kezdő időpontnak az az időpont (óra, perc) számít, amikor a hivatalos iratot a címzett átvette.
+
+Kivételes esetben - és az Állami Elektronikus Kézbesítési Szolgáltatónál ezidáig nem fordult elő ilyen - megtörténhet, hogy meghatározott időn keresztül nem tudja a szolgáltatását nyújtani. Ezért került kimondásra, hogy a határidőbe az a nap (a továbbiakban: üzemszüneti nap) nem számít bele, amelyen az Állami Elektronikus Kézbesítési Szolgáltató bármilyen okból (ideértve a vis maior esetét is) négy órát meghaladó időtartamban nem tudta ellátni a törvényben meghatározott feladatait (így különösen azokat, amelyek a kézbesíttetni kívánt irat feltöltését, vagy az átvenni kívánt irat letöltését akadályozták). Az üzemszüneti nap megállapításakor a nem egybefüggő időtartamú üzemszünetek időtartamait egybefüggőnek kell tekinteni.
+
+Törvény eltérő rendelkezésének hiányában az üzemszünet esetén az Állami Elektronikus Kézbesítési Szolgáltatónak - az utolsó üzemszüneti napot követő munkanapon - a rá vonatkozó külön jogszabály szerint rögzítenie és archiválnia kell annak az egy vagy több munkanapnak a dátumát, amely a határidőbe nem számít bele. Az erre vonatkozó adatok nyilvánosak, azokat az Állami Elektronikus Kézbesítési Szolgáltató a hozzá beérkezett megkeresés alapján ki kell adnia. Ezzel összhangban az üzemszünettel érintett határidő az üzemszüneti napok számával meghosszabbodik.
+
+A 9. §-hoz
+
+E § a közbeszerzési eljárásokra vonatkozó külön szabályokat tartalmazza. A közbeszerzési eljárásban az ajánlatkérőnek hivatali kapuval, az ajánlattevőnek, illetve részvételre jelentkező képviselőjének ügyfélkapuval kell rendelkeznie. Az ajánlatkérőnek a közbeszerzési eljárásban használatos elektronikus formanyomtatványait honlapján kell elhelyeznie. E formanyomtatványok tartalmazzák az ajánlatkérő - Állami Elektronikus Kézbesítési Szolgáltató által biztosított - nyilvános titkosító kulcsát, amelyet a közbeszerzési eljárás lezárulásáig használhat. Az ajánlattevő ajánlatát, a részvételre jelentkező részvételi jelentkezését és egyéb, a közbeszerzési eljárásban benyújtani kívánt iratot ezen az elektronikus formanyomtatványon nyújtja be az ajánlatkérőhöz.
+
+Az ajánlatkérő az ajánlattételi, illetve a részvételi határidő lejártának időpontjában az Állami Elektronikus Kézbesítési Szolgáltatótól kapott, az elektronikus formanyomtatványhoz tartozó privát titkosító kulccsal kezdi meg a beérkezett ajánlatok, illetve részvételi jelentkezések bontását. Az ajánlatkérő az új közbeszerzési eljárásában - az Állami Elektronikus Kézbesítési Szolgáltatótól igényelt - új nyilvános kulccsal teszi közzé formanyomtatványát. Ezt az eljárást az Állami Elektronikus Kézbesítési Szolgáltató díj fizetéséhez kötheti.
+
+-----STARTING---POINT---VEGE---
+
+A 10. §-hoz
+
+Ez a § a hatályba léptető rendelkezéseket tartalmazza.
+
+A 11. §-hoz
+
+Ez a § a Pp. módosítására vonatkozó szabályokat tartalmazza, amely nagyrészt új szabályokból, kisebb részt módosító szabályokból áll. A Pp. kiegészül egy új fejezettel, amely az elektronikus kézbesítés szabályait lépcsőzetesen, 2010. július 1. és 2011. július 1. napjaival rendeli alkalmazni. A szakértőkre és a bíróságok egymás közötti, illetve más hatóságokkal történő kommunikációjára már 2010. január 1. napjától lehetőség lesz.
+
+A Pp. 394/B. §-ához
+
+A második lépcsőfok szerint a polgári perben 2010. július 1. és 2011. június 30. napja között kiszélesedik az elektronikus ügyintézés köre - az első lépcsőfok logikájára építve - a következők szerint:
+
+Ha a vállalkozások közötti perben kötelező a jogi képviselet, a keresetlevél és minden egyéb beadvány, okirati bizonyíték benyújtására kizárólag elektronikus úton kerülhet sor, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti; az elektronikus úton benyújtott keresetlevelet a bíróság az alperes részére papír alapú okiratként kézbesíti azzal a kiegészítő tájékoztatással, hogy az eljárásban kötelező a jogi képviselet, ezért védekezését, nyilatkozatát jogi képviselővel eljárva, kizárólag elektronikus úton nyújthatja be.
+
+Az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti.
+
+Kötelező jogi képviselet esetén, ha a fél - bármely okból - nem rendelkezik jogi képviselővel, akkor a bíróság a jogi képviselő képviseleti jogosultságának igazolásáig a félnek papír alapon kézbesíti a hivatalos iratokat.
+
+A megyei bíróság elsőfokú hatáskörébe tartozó ügyekben a fél, illetve a jogi képviselő a b) pont szerinti elektronikus kézbesítést vállalhatja akkor is, ha nem kötelező a jogi képviselet; ha jogi képviselő nélkül eljáró fél vállalta az elektronikus kézbesítést, indokolt kérelmében az eljárás során egy alkalommal kérheti a papír alapú kézbesítésre való áttérést; a fél e jogát nem gyakorolhatja visszaélésszerűen;
+
+Ha az eljárásban nem kötelező az elektronikus kézbesítés, akkor a fél jogutódjára nem vonatkozik az, hogy a jogelőd elektronikus kézbesítést vállalta, kivéve, ha a jogi képviselő vállalta az elektronikus kézbesítést, és a jogi képviselő személye nem változott.
+
+Ha a fél, illetve a jogi képviselő - a kötelező jogi képviselet esetét nem számítva - nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítést a másik fél, illetve jogi képviselője vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait papír alapon kézbesíti a másik fél, illetve jogi képviselője számára.
+
+Az általános meghatalmazottal kapcsolatban 2010. július 1. napja és 2011. június 30. napja között a következő rendelkezéseket kell alkalmazni:
+
+Ha a fél általános meghatalmazottal rendelkezik, akkor a meghatalmazott bejelentheti a bíróságnál, hogy ezen fél tekintetében vállalja a hivatalos iratok elektronikus kézbesítését; ebben az esetben a bíróság a meghatalmazott - mint az alperes, illetve a kötelezett képviselője - részére elektronikusan kézbesíti a hivatalos iratokat (a keresetlevelet, illetve a fizetési meghagyást is). Az elektronikus vagy papír alapú okiratban tett bejelentésnek tartalmaznia kell a jogi képviselő természetes személyazonosító adatait (név, születési hely és idő, anyja neve). A bejelentés megtételekor nem kell illetéket leróni abban az esetben, ha a bejelentést a korábban benyújtott általános meghatalmazás kiegészítéseként teszik meg; ekkor a bejelentést a korábban benyújtott általános meghatalmazáshoz kell csatolni.
+
+A Pp. 394/C. §-ához
+
+A harmadik lépcsőfokban már bármelyik bíróság előtt lehetőség van a jogi képviselő nélkül eljáró feleknek is az elektronikus kommunikációra, a jogi képviselők és a vállalkozások pedig már kizárólag elektronikusan érintkezhetnek a bírósággal. Ennek megfelelően a polgári perben és a fizetési meghagyásos eljárásban 2011. július 1. napjától a következő rendelkezéseket kell alkalmazni:
+
+A vállalkozás az Állami Elektronikus Kézbesítési Szolgáltatónál kézbesítési tárhellyel rendelkezik; a fizetési meghagyás kibocsátása iránti kérelmet és a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti. Ha a vállalkozás az eljárásban a kötelezettként vagy alperesként vesz részt, részére a bíróság elektronikusan kézbesít, és a vállalkozás a beadványait, okirati bizonyítékait kizárólag elektronikusan nyújthatja be.
+
+Ha a fél jogi képviselővel jár el, akkor a jogi képviselő a fizetési meghagyás kibocsátása iránti kérelmet és a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a jogi képviselő részére.
+
+Az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti.
+
+A jogi képviselő nélkül eljáró fél az elektronikus kézbesítést vállalhatja polgári perben és a fizetési meghagyásos eljárásban; ha az eljárásban nem kötelező az elektronikus kézbesítés, akkor a fél jogutódjára nem vonatkozik az, hogy a jogelőd elektronikus kézbesítést vállalta, vagy a papír alapú kézbesítésre való áttéréshez megtörtént.
+
+Az elektronikus úton benyújtott keresetlevél vagy egyéb beadvány a fél vagy a jogi képviselő utaló magatartása arra vonatkozóan, hogy abban az eljárásban vállalja az elektronikus kézbesítést, továbbá beadványait kizárólag elektronikus úton nyújtja be; az elektronikus kézbesítés vállalására vonatkozó bejelentést a fél vagy a jogi képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál.
+
+Ha a jogi képviselő nélkül eljáró fél nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítés a másik fél számára kötelező vagy azt vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait papír alapon kézbesíti a másik fél számára.
+
+A Pp. 394/D. §-ához
+
+E § a szakértők és a bíróság elektronikus kommunikációjának lehetőségét és módját határozza meg. 2010. január 1. és 2011. június 30. napja között csak a megyei bíróságokkal lesz lehetőség elektronikusan érintkezni, ezt követően bármelyik bírósággal. Ennek megfelelően a törvény kimondja, hogy a szakértőkre vonatkozó szabályokat 2011. június 30-ig csak a megyei bíróságok első fokú hatáskörébe tartozó, 2010. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2011. július 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
+
+Ha a szakértő az igazságügyi szakértői névjegyzék adatai alapján az elektronikus kézbesítést vállalja, a polgári perben a hivatalos és egyéb iratokat, ide érve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, - bizonyos kivételekkel - elektronikusan kézbesíti a bíróság részére, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a szakértőnek. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott hivatalos és egyéb iratot a felek és más perbeli személyek számára papír alapon megküldje. A bíróság - kivételes jelleggel - indokolt kérelemre az elektronikus kézbesítési szabályok alkalmazása esetén is engedélyt adhat a szakértőnek a szakvélemény (vagy annak egy részének) papír alapú benyújtására.
+
+A bíróság papír alapon vagy egyéb adathordozón bocsátja rendelkezésre a szakértő részére a hivatalos irat mellékletét, ha annak nagy mennyisége miatt vagy az adathordozó jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, valamint ha a papír alapú okirat valódisága vitás. Ha a bíróság által megküldött hivatalos irathoz a (4) bekezdés szerinti melléklet kapcsolódik, a határidő számításának alapja a melléklet kézhezvételének időpontja.
+
+A fél - kivéve ha számára e törvény szerint az elektronikus kézbesítés kötelező - papír alapon vagy elektronikus adathordozón a szakértő rendelkezésére bocsáthatja a hivatalos irat mellékletét. A szakértőnek, ha az elektronikus kézbesítést vállalta és ennek technikai lehetőségei adottak, a szakvélemény részévé tett mellékleteket digitalizálnia kell. Ha a fél számára az elektronikus kézbesítés kötelező és a szakértő az elektronikus kézbesítést vállalta, a fél a mellékletet a szakértő részére elektronikusan küldi meg.
+
+Ha a szakértő az elektronikus kézbesítést nem vállalja, az iratokat papír alapon kell kézbesíteni, tehát a törvény nem teszi kötelezővé az elektronikus utat a szakértők számára. Ez azért fontos, mert van olyan szakértő, aki évente csak néhány szakvéleményt készít el, esetleg nincs meg a megfelelő számítástechnikai infrastruktúrája, így célszerűtlen lenne őt kényszeríteni az elektronikus út igénybevételére.
+
+A Pp. 394/E. §-ához
+
+Ez a § szabályozza azokat az eseteket, amikor a bíróságok egymással, illetve a közigazgatási szervekkel vagy más hatóságokkal történő elektronikusan kommunikálnak. Itt is két lépcsőben történik a bevezetés: 2010. január 1. napjától kezdődően a bíróságok számára az elektronikus kommunikáció lehetőség lesz másfél éven keresztül. 2011. július 1. napjától kötelező lesz a bíróságok egymás közötti elektronikus kommunikációja, és a közigazgatási szerveket, illetve más hatóságokat is csak így kereshetik meg. Nagyon szűk körben lesz csak kivétel a papír alapú iratküldésre.
+
+A 12-13. §-hoz
+
+E §-okban a Polgári perrendtartásról szóló 1952. évi III. törvény további módosításai kerültek rögzítésre.
+
+A 14. §-hoz
+
+Ahhoz, hogy az igazságügyi szakértők az elektronikus iratküldési folyamatba be tudjanak kapcsolódni, a szakértői törvény kiegészítése, módosítása is szükséges. Ennek megfelelően az új szabályok a szakértőkre vonatkozóan további adatközlési kötelezettséget írnak elő. A szakértőnek egyrészt nyilatkoznia kell, ha vállalja-e elektronikus kézbesítést, és ebben az esetben a természetes személyazonosító adatait (a nevén kívül születési helyét, idejét és anyja nevét) is közölnie kell a nyilvántartó szervvel. Erre azért van szükség, mert e természetes személyazonosító adatok alapján tudja őt a bíróság, közigazgatási szerv vagy más hatóság az Állami Elektronikus Kézbesítési Szolgáltatón keresztül elektronikusan megszólítani. Az új szabályok figyelemmel vannak arra is, hogy a szakértői tevékenység során vizsgált tárgyak elektronizálására nem minden esetben van lehetőség, természetesen ezek a dolgok kivételt képeznek az elektronikus megküldés alól.
+
+A 15. §-hoz
+
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvényt módosító rendelkezések az elektronikus kézbesítés bevezetéséhez igazítják ezen ügyek elektronikus intézési lehetőségét.
+
+A 16. §-hoz
+
+A Pp. a 395. § (4) bekezdésében két h) pontot is tartalmazott, ezért ennek a bekezdésnek a szövegét a módosítás újra megállapítja úgy, hogy a második h) pont betűjelét i) pontra változtatja (egyébként a felhatalmazó rendelkezések szövege nem változik).

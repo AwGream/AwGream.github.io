@@ -1,0 +1,275 @@
+1992. évi LXIII. törvény indokolása
+
+a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A XX. század utolsó évtizedeinek - az egyes országok társadalmi berendezkedésétől függetlenül - egyik általános érvényű jelensége, hogy az állam és a gazdaság működéséhez, a társadalmi tevékenységek tervezéséhez és szervezéséhez egyre több információra van szükség. A nagytömegű információt viszont mind kevésbé lehet a hagyományos módszerekkel kezelni, ezért növekszik az informatika jelentősége, ami azonban veszélyeket is hordoz magában.
+
+E veszélyek abból adódnak, hogy egyedi adatokat és információkat vagy széttagolt információrendszereket egymással kapcsolatba hozva olyan elemzések elvégzésére, majd azok alapján olyan következtetések levonására - vagyis új információk létrehozására - adódik alkalom, amelyek sértik vagy sérthetik azoknak az érdekeit, akikre az egyedi adatok és információk vonatkoznak. Ez a helyzet oda vezet, hogy különböző, külön-külön vizsgálva indokoltnak tűnő érdekek alakulnak ki, és kerülnek egymással összeütközésbe.
+
+Az államnak általában és egyes állami szerveknek különösen is fontos érdeke fűződik ahhoz, hogy ha már nagy költségek árán kialakítanak és naprakész állapotban tartanak információrendszereket, akkor azok adattartama minél szélesebb körben felhasználható legyen a legkülönbözőbb célokra. Ezzel ellentétben áll az adatalanyoknak - és nem csupán az állampolgároknak, hanem a jogi személyeknek és a jogi személyiséggel nem rendelkező szervezeteknek (röviden: szervezeteknek) is - az az érdeke, hogy bizonyos, a magánélet szűkebb szférájába vagy az üzleti titok fogalmi körébe tartozó adataik vagy egyáltalán ne kerülhessenek be a külső szervek nyilvántartásaiba, vagy ha ez elkerülhetetlen, hatékony garanciák előzzék meg az említett adatoknak illetéktelenek tudomására jutását. Ugyancsak alapvető érdeke az adatalanyoknak, hogy a rájuk vonatkozó információkat még az állam illetékes szervei is csupán meghatározott és az adatalanyok által ismert célra használhassák fel.
+
+Rendkívül fontos, hogy az állampolgárok és a szervezetek szükség esetén (jogaik megóvása, jogos érdekeik érvényre juttatása céljából) hozzáférhessenek más természetes vagy jogi személyek vagy szervezetek adataihoz, ám ez az esetek jelentős részében nem találkozik az utóbbiak tetszésével, és nem esik egybe egyedi érdekeikkel. A demokratikus folyamatok kibontakozása magával hozza, sőt megköveteli, hogy az állampolgárok e jogállásukból eredően - azaz minden külön felhatalmazás vagy engedély nélkül - hozzájuthassanak bizonyos közérdekű információkhoz, amelyek az általuk választott szervek működésére, közpénzek felhasználására stb. vonatkoznak. Mindan adatalanynak érdeke lehet, hogy róla a különböző nyilvántartások pontos, a valóságnak megfelelő adatokat tartalmazzanak, és e célból kellő jogvédelmi eszközök is álljanak rendelkezésre; de adott esetben az is előfordulhat: az adatalanynak éppen ahhoz fűződik érdeke, hogy róla (pl. jövedelmének nagyságáról) pontatlan adatok kerüljenek a nyilvántartásba.
+
+A vázolt érdekek összeütközése számos jogi problémát vet fel. Ilyen például, hogy ki és milyen formában jogosult adatszolgáltatást elrendelni, milyen jogvédelmi eszközök szolgálják az információrendszerek egyedi adatainak pontosságát, melyek a magánszféra védelmét szolgáló garanciák, ki dönti el, hogy az adatok kik számára és milyen célból hozzáférhetők stb.
+
+Az adatok nyilvántartására és feldolgozására vonatkozó hatályos joganyag különböző időpontokból származó és különböző szintű jogszabályok összessége, amely nélkülözi az egységes elvi alapokat. A jogi szabályozás az esetenként felmerült igények szerint alakult ki, mint a bűnügyi nyilvántartás, a cégnyilvántartás, az ingatlannyilvántartás, a gépjárműnyilvántartás, a népességnyilvántartás stb. jogi szabályozása. Az átfogó, általános jellegű szabályozás hiányzik, illetőleg csupán egyes részletkérdésekben alakult ki, ott sem mindig megfelelő szinten.
+
+Az ismertetett okok miatt gyakori a jogbizonytalanság, főleg annak megítélésében, hogy a meglévő adatállományhoz mely szervek és személyek, milyen célból férhetnek hozzá. Reális az a veszély, hogy esetenként az érintett fél nem jut hozzá a jogai vagy jogos érdekei megóvásához szükséges információhoz, és ennek az ellenkezője is, hogy a magánszféra körébe tartozó adatokat indokolatlanul kiszolgáltatják a megismerésükre nem jogosult szervnek.
+
+Ezért indokolt az olyan magas szintű és átfogó jogi szabályozás, amely kiterjed minden olyan lényeges kérdésre, mint amilyen az adatgyűjtés módja, a kötelező adatszolgáltatás elrendelése, az adatvédelem technikai biztonsága, az adatkezelési tevékenység központi ellenőrzése, stb. A javasolt szabályozás nem pótolja az egyes adatkezelésekre vonatkozó jogszabályokat, hanem éppen ezek megalkotásához és egymással való összhangjuk megteremtéséhez nyújt garanciális jelentőségű rendelkezéseket.
+
+A törvényjavaslat (a továbbiakban: Javaslat) rendelkezéseiben tükröződő alapelveknek - a társadalmi indokoltság, a személyes részvétel, az érintettek és az adatfajták korlátozása, a célhoz kötöttség, a továbbadás korlátozása, az adathelyesség, az időbeli korlátozás, a nyíltság, a biztonsági óvintézkedések és a felelősség elvének - a törvény konkrét tárgyán túlmutató jelentősége van. Ebben a nemzetközi mércéhez kell igazodnunk; a minimális követelményeket az Európa Tanács Adatvédelmi Egyezménye és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) irányelvei tartalmazzák.
+
+-----STARTING---POINT---RESZLETES---
+
+I. FEJEZET
+
+ÁLTALÁNOS RENDELKEZÉSEK
+
+A törvény célja
+
+Az 1. §-hoz
+
+A törvény céljának megvalósítása a demokratikus jogállamiság alapján szavatolja az emberi méltóság védelmét és a személyiség kibontakozásának szabadsága érdekében az információs önrendelkezési jog korlátozásának törvényes kereteit, támpontot nyújt a személyes információkkal kapcsolatos egyéni és közösségi érdekek ütközése esetén az elsőbbség eldöntéséhez, továbbá az információszabadság, a közérdekű adatok nyilvánosságának szabályozásával hozzájárul olyan társadalmi környezet kialakulásához, melyben mindenki azonos tájékozódási feltételek mellett vehet részt a közügyek intézésében.
+
+A személyes adatok alkotmányos védelmének alapja az információs önrendelkezései jog megvalósulása. Ennek törvényes garanciáit tartalmazza a §.
+
+Értelmező rendelkezések
+
+A 2. §-hoz
+
+A törvény alkalmazásához szükséges fogalmi meghatározásokból egyértelmű, hogy minden, az országban folyó adatkezelés esetén alkalmazni kell a rendelkezéseit. A személyes adatok körébe mindaz beletartozik, ami tetszőleges élő személlyel, az érintettel kapcsolatos bárminemű információt hordoz, függetlenül attól, hogy arra az érintett mennyire érzékeny, hiszen ez kizárólag tőle, egyéniségétől, körülményeitől, társadalmi helyzetétől, az adott tényállástól stb. függ. Személyes adat az érintettre vonatkozó vélemény, minősítés, továbbá az adatokból levonható következtetés is, hiszen számos adatkezelésnek éppen az a célja, hogy a felvett adatokból az érintettre vonatkozó következtetéseket vonjon le, amelyek az érintettel kapcsolatos döntések alapját képezik (hitelképesség, jogosultság szolgáltatásokra és kedvezményekre, munkahelyi előmenetel vagy alkalmasság adott munkakör betöltésére stb.). A meghatározás értelmezése szerint azok az adatok is személyes adatnak tekintendők, amelyek önmagukban ugyan nem, de az adatkezelő birtokában lévő egyéb személyes adatokkal összevetve az érintettel kapcsolatba hozhatók.
+
+Egyes olyan adatok, amelyek az egyén nemzetiségére, faji és etnikai eredetére, magánéletére, felfogására, előéletére, társadalmi csoportosulásokhoz való tartozására, testi vagy szellemi állapotára stb. vonatkoznak, a nemzetközi gyakorlatban ún. különleges adatnak minősülnek, és fokozottabb törvényes védelemben részesülnek. Az esély- és jogegyenlőség, az egyenlő méltóság minden ember számára csak úgy biztosítható, ha a hátrányos vagy kivételes megkülönböztetésre lehetőséget nyújtó adatok kiszolgáltatásában a lehető legnagyobb mértékben meghagyjuk az egyén információs önrendelkezésének a jogát. Csak a különleges adatra vonatkozó korlátozással kezelhetők olyan, egyébként nem különleges adatok is, amelyekből az érintett különleges adatára vonatkozó következtetés vonható le.
+
+Az információs önrendelkezési jog szükségképpen az adattal érintett élő személyt illeti meg. A meghalt személy adatainak védelméről, illetőleg a velük való rendelkezésről - az adattal vagy az adatkezeléssel összefüggő - külön jogszabályok szólnak (pl. Ptk., levéltári, anyakönyvi jogszabályok).
+
+Az adatkezelés az adatokra alkalmazható minden elképzelhető műveletet felölel. Ha nem így lenne, egyes adatkezelési technikák alkalmazásával megkerülhetővé válnának a törvényes előírások. Azáltal viszont, hogy a tevékenység van meghatározva, feleslegessé válik az alkalmazott eljárások körülírása. Nem szükségszerű, hogy a felsorolt valamennyi adatkezelési tevékenységet ugyanaz végezze, de az adatkezelésnek minden szakaszában meg kell felelnie a törvényes előírásoknak. Ha bármilyen okból - pl. költségkímélés - az adatfelvételre nem közvetlenül az érintettől kerül sor, hanem adattovábbítás útján, e törvény egyéb rendelkezéseit akkor is alkalmazni kell, és az érintett hozzájárulását vagy már az adatfelvételkor, vagy a továbbítás előtt meg kell szerezni, annak hiányában pedig a 3. § egyéb rendelkezései alapján szabad eljárni. Az egyes adatkezelési tevékenységek kiemelését szokatlanságuk, negatív jellegük indokolja: az érintett érdekei súlyosan károsulhatnak, vagy éppen ellenkezőleg, az érintett jogtalan előnyhöz juthat, ha adatai nem a valóságos helyzetet tükrözik, megsemmisülnek vagy kezelésüket fizikailag - mechanikus vagy elektronikus módszerrel - korlátozzák.
+
+Az adattovábbításból és az adat nyilvánosságra hozatalából származó fokozott veszély miatt e fogalmakat - bár mindkettő adatkezelés - indokolt külön is meghatározni, annál is inkább, mivel számos esetben ezek az adatkezelés céljai, s nemcsak a közhiteles nyilvántartások esetében, hanem az információkereskedelmi szolgáltatásokban is. E két művelet sem függ az alkalmazott eljárás eszközétől vagy módjától, s nem korlátozódik az adatot rögzítő hordozó átadására. Ily módon továbbításnak vagy nyilvánosságra hozatalnak kell tekinteni, ha az adat informatikai eljárással - pl. távközlési hálózaton keresztül - megismerhető vagy nyilvánosságra kerül. A célhoz kötöttség azonban ekkor is biztosítja az érintettnek az adatvédelemhez fűződő, valamint egyéb személyiségi jogait. Harmadik személy minden, az érintettel vagy az adatkezelővel (megbízottjával) nem azonos személy. Arról egyébként, hogy mely adatokat és kinek, milyen feltétellel lehet továbbítani, vagy mely adatokat lehet nyilvánosságra hozni, az érintett személy vagy az adatkezelést elrendelő jogszabály rendelkezik.
+
+II. FEJEZET
+
+A SZEMÉLYES ADATOK VÉDELME
+
+Adatkezelés
+
+A 3. §-hoz
+
+Az információs önrendelkezési jog (1. §) alkalmas arra, hogy az érintett összes, adatkezeléssel kapcsolatos személyiségi jogának foglalatát adja. E jog csak fontos közösségi érdekből (amit a jogszabályi rendelkezés fejez ki) vagy az érintett érdekében (ha a helyzetből következően jogainak gyakorlására bármilyen okból képtelen) törvényes alapon korlátozható. A korlátozó okok megszűntével azonban alkalmat kell adni az érintettnek arra, hogy az adatkezeléshez utólag hozzájáruljon, vagy egyéb, a II. fejezetben részletezett jogait érvényesítse.
+
+A Javaslat szerint az adatkezelést törvény vagy a helyi önkormányzatnak a feladatkörében hozott rendelete rendelheti el. Az információs önrendelkezést mint állampolgári jogot törvény korlátozhatja, kifejezve az adatkezeléshez fűződő közérdeket. A helyi önkormányzatok feladatkörének bővülése, önállóságuk növekedése azzal jár, hogy feladatuk ellátása szükségessé teheti a területükön a lakosság vagy az ott működő szervezetek olyan adatainak a kezelését, amelyekről központi jogszabály nem rendelkezik. Ezért a helyi önkormányzat számára is lehetővé kell tenni, hogy - törvényben meghatározott körben - rendeletében az adatkezelést elrendelje. Az indokolatlan adatkezelés megakadályozását szolgálja a Javaslat 5. §-ának (3) bekezdésében foglalt rendelkezés.
+
+A különleges - ún. szenzitív (érzékeny) - adatokat az érintett kifejezett írásbeli hozzájárulásával lehet kezelni. Bizonyos esetekben a társadalom érdeke szükségessé teheti különleges adatok kötelező kezelését (bűnüldözés, bűnmegelőzés, közegészségügy, menekültügy). Az ilyen adatkezeléseket csak törvény rendelheti el, a megfelelő garanciák biztosításával. A különleges adatok kezelésének törvényi elrendelésére a nemzetközi adatvédelmi egyezmények és ajánlások is lehetőséget adnak.
+
+A gazdaságstatisztikai célú adatkezelések a gazdasági folyamatok naprakész megfigyelését és elemzését szolgálják. A Javaslat lehetővé teszi, hogy ezeket a statisztikai adatgyűjtéseket, amelyek a statisztikai törvényben meghatározott személyek és szervezetek kizárólag gazdasági tevékenységére vonatkoznak, az éves statisztikai program keretében a Kormány is elrendelhesse.
+
+A személyes adat nyilvánosságra hozatalát csak törvény rendelheti el (önkormányzati nem), figyelemmel arra, hogy ez az érintett személyiségi jogait erősen korlátozó intézkedés. (Így pl. arra nincs lehetőség, hogy a szociális segélyben részesülők nevét önkormányzati rendelet alapján bárki számára hozzáférhetővé tegyék.) Nyilvánosságra hozatalnak számít az olyan közhitelű nyilvántartásba való felvétel is, amelybe bárki betekinthet (pl. ingatlan-, cégnyilvántartás). Ha törvény nem rendelkezik az adat nyilvánosságra hozataláról, akkor arra csak az érintett beleegyezésével kerülhet sor.
+
+Az érintett - jogi jártasság és tájékozottság híján - többnyire képtelen megítélni, hogy az általa kezdeményezett eljárás vagy mindennapos ügylet alkalmával kiszolgáltatott adatainak mi lesz a további sorsuk. Az önkéntesség vélelmezése ezért nem nyújt számára elegendő szabadságot arra, hogy információs önrendelkezési jogát gyakorolja. Az ilyen ügyletekhez kötődő adatok további kezelésére ezért figyelmét fel kell hívni, mert így van alkalma arra, hogy az ügylettől - esetleges kedvezőtlen adatkezelési következményei miatt - elálljon. A tájékoztatási kötelezettség nem terjed ki a jogszabályban meghatározott adatkezelési következményekre, így pl. a bizonyítási eljárás lehetséges adatkezeléseire.
+
+A 4. §-hoz
+
+Az érintett objektív kiszolgáltatottsága és a nagy adatkezelők szervezeti túlsúlyából adódó erősebb érdekérvényesítési lehetőség teszi szükségessé a személyiségi jogok érvényesítésének elsőbbségét az érdekmérlegelések során. A tipikus érdekmérlegelési helyzetben az önrendelkezési jog áll szemben az adatkezelő gazdasági vagy hatalmi érdekével. Ilyen mérlegelésre az adattovábbítástól kezdve a betekintési jogig sokszor sor kerülhet. Az érintett érdekének elsőbbségét mindazonáltal a törvény egyes esetekben nem engedi érvényesülni (15. §).
+
+Az érintett személy adatainak, jogainak védelme a közérdekű adat megismerését is korlátozza. Személyes adat közérdekű adatként bárki számára általában nem tehető hozzáférhetővé, kivéve ha törvény ezt lehetővé teszi (pl. levéltári kutatás).
+
+Jogi személyeknek is vannak olyan adataik, amelyek e törvény szerint is jogvédelemben részesülnek, jóllehet védik őket más - pl. titokvédelmi - jogszabályok is. A védelem kiterjesztése összhangban van a Ptk. előírásaival.
+
+A jogi személyiséggel nem rendelkező szervezetek - polgári kezdeményezések, ténylegesen létező (de facto) csoportosulások - adatainak védelmét ugyancsak szavatolni kell.
+
+Az adatkezelés célhoz kötöttsége
+
+Az 5. §-hoz
+
+A célhoz kötöttség az adatkezelésre vonatkozó egyik legfontosabb elv, amelynek összekötése a jogok gyakorlására és kötelezettségek teljesítésére vonatkozó felvételekkel egy másik fontos elvnek, a társadalmi indokoltságnak az elvét is kifejezi, tehát az információs önrendelkezést és törvényes korlátozását egyaránt felöleli. A célhoz kötöttség követelménye az adatkezelés valamennyi szakaszára kiterjed, beleértve az adattovábbítást is.
+
+Az adatszolgáltatási kötelezettség elrendelését a társadalmi cél indokolja. Az érintett információs önrendelkezését így a közérdek korlátozza, érintetlenül hagyva a személyes adatok védelmével kapcsolatos egyéb jogait.
+
+Az adatkezelés célja határozza meg az adatfelvételbe bevont érintettek körét és a cél eléréséhez szükséges adatfajtákat. Ez a rendelkezés kizárja, hogy olyan adatok felvételére kerüljön sor, amelyeket csak később meghatározott célból készleteznek.
+
+A 6. §-hoz
+
+Az információs önrendelkezés akkor gyakorolható, ha az adatfelvétel az érintettől és az érintett tudtával történik. A két feltétel lehetséges egyéb variációi - tudtával vagy tudomása nélkül, de mástól, valamint tudta nélkül, de róla vagy tőle (pl. titkos megfigyeléssel, lehallgatással) - megengedhetetlen mértékben veszélyeztetik személyiségi jogait. Ilyen adatfelvételre csak e Javaslat egyéb rendelkezéseiben meghatározott esetben kerülhet sor. A tudomás nem azonos a beleegyezéssel, s különösen nem azonos a tájékoztatás utáni beleegyezéssel. Ezért függetlenül attól, hogy az adatszolgáltatás önkéntes-e vagy kötelező, az érintett megalapozott döntést csak úgy hozhat, ha tisztában van az adatszolgáltatás megtagadásának következményeivel. Ezért kell megjelölni az adatszolgáltatásra vonatkozó jogszabályt, az adatkezelés célját és az adatkezelő személyét is. A következmények, célok és jogosultságok kötelező tisztázása visszatart jogtalan követelésektől.
+
+Az érintettet tájékoztatni kell arról, hogy ki az adat kezelője, és mely adatkezelők jutnak hozzá az adathoz továbbítás útján. (Természetesen az adatkezelő szervezetekről és nem a személyekről van szó.)
+
+Adattovábbítás, az adatkezelések összekapcsolása
+
+A 7. §-hoz
+
+Ez a § kizárja a különböző célokból kezelt adatok önkényes és mértéktelen továbbításának, valamint összekapcsolásának lehetőségét. Adattovábbításra, adatkezelések összehangolására csak akkor kerülhet sor, ha az adatkezelés feltételei a címzettnél egyébként fennállnak. A továbbított adatok fajtáját és az érintettek körét a címzett adatkezelési céljai korlátozzák, vagyis csak azoknak és csak az olyan adatait szabad továbbítani, akiknek és amilyen adataira a címzett adatkezelésének céljaira feltétlenül szükség van.
+
+Mivel egy adatkezelést mindenekelőtt a célja azonosít, a célhoz kötöttség elvének következetes érvényesítése az adatkezelések összekapcsolását egyetlen szervezeten - így a közigazgatási szervezeteken - belül is korlátozza. Az adattovábbítás, az összekapcsolás független annak megvalósítási módjától és eszközeitől, továbbá attól, hogy az egyszeri vagy többszöri, s eredményeképpen létrejön-e új adatkezelés.
+
+Az adattovábbítás, az összekapcsolás feltételeit az adattovábbadó adatkezelő ellenőrizni köteles, mert az általa kezelt személyes adatokért az érintettel szemben felelőséggel tartozik, s őt adott esetben tájékoztatnia kell arról, kiknek és milyen célból adta vagy adja tovább adatait.
+
+Adattovábbítás külföldre
+
+A 8. §-hoz
+
+E § az Európa Tanács Adatvédelmi Egyezményének a külföldre történő adatáramlásra vonatkozó részében meghatározott feltételekkel teremt összhangot. Alkalmazásával felesleges korlátozni az adattovábbítást olyan célországba, amely az Egyezményt törvénybe iktatta. Más esetben viszont meg kell vizsgálni, hogy a magyarországival azonos védelem feltételeit a célország törvényes rendelkezései tartalmazzák-e, s amennyiben nem, azokról egyéb módon - pl. két- vagy többoldalú szerződésben - gondoskodni kell.
+
+Adatbiztonság
+
+A 9. §-hoz
+
+E § a személyes adatokhoz való jogosulatlan hozzáférést és felhasználást gátló intézményes biztosítékok egyike. Lehetőséget hagy az adatkezelőnek annak eldöntésére, hogy az adatkezelés helyszínére és eszközeire, valamint a lehetséges hagyományos és elektronikus hozzáférés módszereire tekintettel sajátos biztonsági intézkedéseket foganatosítson, ugyanakkor növeli a felelősségét is, mert ha az alkalmazott védelem nem bizonyul elegendőnek, polgári és büntetőjogi felelőssége akkor is fennáll.
+
+Az érintettek jogai és érvényesítésük
+
+A 10. §-hoz
+
+Az adatok felvételére ésszerű okból - pl. költségkímélés, az érintett tehermentesítése - nem mindig az érintettől magától kerül sor. Azt a jogát azonban meg kell hagyni, hogy tudomást szerezzen arról, adatait ki, hol, milyen célból kezeli, azokhoz milyen forrásból jutott hozzá, továbbá hogy meggyőződhessen kezelt adatai helyességéről, az adatkezelés jogszerűségéről. E jogok kimondása képezi az adatkezelés jogszerűségének egyik garanciáját. Egyéb garanciális jogokat célszerűbb az adatkezelő kötelességeiként szabályozni.
+
+Törvény az érintett jogait kivételesen [pl. 12. § (1) bek., 15. §] korlátozhatja, de az adatvédelmi nyilvántartásba való betekintést nem.
+
+A 11. §-hoz
+
+Az adatkezelő kötelezettségei az érintett jogainak érvényesítését szolgálják. A tájékoztatást közérthető formában kell megadni. Ez különösen az informatikai eszközökkel végzett adatkezelések esetében fontos, ahol adott esetben nem elegendő a kezelt adatok egyszerű közlése, hanem azokhoz értelmező magyarázatot is kell fűzni.
+
+A 12. §-hoz
+
+Az érintett jogainak érvényesítését törvény korlátozhatja (15. §). Ennek indokoltságát azonban az adatvédelmi biztos is ellenőrzi. Ha az elutasított kérelmek felülvizsgálata során jogszabályellenes gyakorlatot tapasztal, arra az adatkezelő, illetőleg felettes szerve figyelmét felhívja, s javaslatot tesz a helyes gyakorlat kialakítására. A jogsértő gyakorlatról éves jelentésében beszámol az Országgyűlésnek vagy - ha a jogszabály sérti az adatvédelemhez vagy a személyiséghez fűződő jogokat - kezdeményezi a jogszabály módosítását.
+
+A 13. §-hoz
+
+Személyes adatai helyességéhez az érintettnek anyagi és erkölcsi érdeke fűződik. A valóságnak meg nem felelő adatot az adatkezelő hivatalból is, illetve bárki kezdeményezésére helyesbíteni köteles. A helyesbítés az adatkezelésre vonatkozó külön jogszabály szerint történik, ennek hiányában (pl. megállapodás alapján való adatkezelésnél) a Javaslat rendelkezései alapján.
+
+A jogellenesen kezelt adat törlése hivatalból kötelező. Szorosan véve az adatkezelés céljának eléréséhez szükségtelen adat kezelése is jogellenes, itt azonban az érintett érdeke vagy akarata is szerepet kap. Informatikai adatkezelés esetében - ha az azonnali fizikai törlés aránytalanul nagy ráfordítással járna - a törlés ideiglenesen a hozzáférést megakadályozó logikai zárolással is helyettesíthető.
+
+A 14. §-hoz
+
+Az érintett érdekeinek következetes érvényesítése megkívánja, hogy a helyesbítést vagy törlést a másodlagos adatkezelésekben is elvégezzék.
+
+A 15. §-hoz
+
+E § - az Európa Tanács Adatvédelmi Egyezményének rendelkezéseivel egyezően - meghatározza, hogy milyen indokok alapján korlátozhatja törvény az érintett jogát.
+
+Bírósági jogérvényesítés
+
+A 16. §-hoz
+
+A törvény érvényesülésének a legfőbb garanciája a bíróság előtti jogérvényesítés. A bíróság szerepe a személyiségi jogok érvényesítésében mindig is döntő volt, s a törvény figyelembe veszi ezt a jellegzetességet.
+
+A perindítás előtt - az alaptalan perlés megelőzésére - célszerű az adatkezelő szervezeten belül lehetséges egyéb eljárást kezdeményezni (pl. a biztosítónál, a társadalmi szervezet központi szerveinél). A § - tekintettel a közigazgatási vagy bírósági adatkezelések (nyilvántartások) külön eljárási szabályaira - rendelkezik arról, hogy ez a 16. § szerinti bírósági eljárásra csak akkor kerülhet sor, ha más jogszabályok szerint bírósági eljárásra nincs lehetőség.
+
+Kártérítés
+
+A 17. §-hoz
+
+Az adatkezelésből eredő károkért az adatkezelő objektív felelősséggel tartozik, amit az érintetthez viszonyított túlereje, az érintett által gyakorolt befolyásolási lehetőség hiánya, a bizonyítási nehézség indokol. Egy téves adatból származó következményeket figyelembe véve az adatkezelés a veszélyes üzemhez hasonlítható. A törvény a Ptk. megoldását követve nem tesz különbséget az objektív alapon megtérítendő vagyoni és a szubjektív alapú nem vagyoni károk között. Ugyanaz az erőviszonybeli különbség, amely az objektív felelősséget indokolja, megalapozza azt is, hogy kimentő okként csak az érintett szándékos vagy súlyosan gondatlan magatartása szolgáljon.
+
+III. FEJEZET
+
+A KÖZÉRDEKŰ ADATOK NYILVÁNOSSÁGA
+
+A 18. §-hoz
+
+Az állampolgárok és szervezeteik az állami vagy helyi önkormányzati feladatok ellátását akkor tudják ellenőrzésük alá vonni, ha erről kellő információjuk van. A Javaslat szerint az ilyen feladatot végző szerveknek kötelességük, hogy e tájékozódást segítsék. Ennek érdekében az az általános szabály, hogy az általuk kezelt adatokat bárki számára hozzáférhetővé kell tenniük. Ez alól kivételt csak törvény tehet. A legfontosabb kivétel a személyes adatok, illetőleg az államtitok és a szolgálati titok védelméhez kapcsolódik (ld. a Ptk.-nak a személyhez fűződő jogok védelmére vonatkozó rendelkezéseit és az 1987. 5. tvr.-t). Ezen túlmenően más törvények is meghatározhatják, hogy az egyes adatkezelések pl. mely időponttól nyilvánosak (az állami döntések előkészítésének adatai stb.). A személyes adatok esetén az alapvető szabály, hogy azok csak akkor általánosan hozzáférhetők, ha erről törvény rendelkezik, vagy az érdekelt az adatok nyilvánosságához hozzájárult [3. § (4) bek.]. A közérdekű adatok nyilvánossága alapján nem lehet az egyes hatósági, bírósági eljárások adatait hozzáférhetővé tenni. Ezekre külön szabályok irányadók. Bíróság esetén pl. közérdekű adatként a működésére, tevékenységére vonatkozó általános tájékoztatást (statisztikai adatok, személyi, tárgyi feltételek stb.) lehet kérni.
+
+A közérdekű adat kiadását bárki kérheti, anélkül hogy abban közvetlenül érintett lenne. A tájékoztatást egyszerűsíti, gyorsítja, ha az arra egyébként köteles szervek (minden állami, önkormányzati szerv) a tevékenységükre jellemző vagy a közérdeklődésre számottartó más adatokat "hivatalból" nyilvánosságra hozzák, vagy más módon hozzáférhetővé teszik. A 19. §-ban szabályozott tájékoztatási kötelezettségnek úgy is eleget lehet tenni, hogy az adat (pl. statisztikai adat) lelőhelyét megjelölik.
+
+A 19. §-hoz
+
+A közérdekű adat iránti kérelem teljesítésére vonatkozó szabályok figyelembe veszik, hogy ezek a kérelmek - tartalmuktól függően - eltérő munkaigényű feladatot jelentenek, ugyanakkor esetenként szükséges a sürgős válasz (pl. a sajtó részére). Az információ megtagadása rövidebb határidőn belül közölhető. Az adatok reprodukálása, összeállítása esetenként külön költségterhet róhat az adatközlésre kötelezett szervre, aminek megtéríttetése indokolt, hiszen ilyen kérést bárkinek a részére és akárhányszor teljesíteni kell. (A költség mértéke általánosan nem állapítható meg, de ismétlődő, szokásossá váló adatközlésekre a szerv vezetője azt akár díjszabásszerűen megállapíthatja.)
+
+A 20. §-hoz
+
+Az adatközlés nem teljesítése esetén a bírósághoz való fordulás lehetősége az információszabadság garanciája. E § a bírósági jogorvoslati eljárásnak a Pp-hez képest sajátos rendelkezéseit tartalmazza. A kért közérdekű adathoz fűződő érdek gyors múlása indokolja a soron kívüli eljárás előírását, a speciális illetékességi szabályt pedig a szakmai szempontok indokolják.
+
+A 21. §-hoz
+
+A közhitelű nyilvántartások bárki számára hozzáférhetők, az azokból történő adatszolgáltatást külön törvények szabályozzák. A Javaslat ezért ezeket kivonja e fejezet hatálya alól.
+
+IV. FEJEZET
+
+AZ ADATVÉDELMI BIZTOS ÉS AZ ADATVÉDELMI NYILVÁNTARTÁS
+
+Adatvédelmi biztos
+
+A 22. §-hoz
+
+Az első hasonló törvények megjelenése óta a törvény hatályosulásának fő biztosítéka a független, csak a törvénynek alárendelt ellenőrző szerv. Ennek legelterjedtebb és leghatékonyabb típusa a döntési jogkör és kötelezési jogosítvány nélküli köztisztviselő. Intézményesítésének indoka, hogy a korszerű informatikai eszközök alkalmazásával az adatkezelés a technikában járatlan érintett számára áttekinthetetlenné válik, így az adatvédelmi biztos a szakismeretével az érintett érdekeinek szakavatott képviselője lesz. Ez a követelmény indokolja, hogy a Javaslat az adatvédelmi biztos választását speciális ismeretekhez köti. Az adatvédelmi biztos függetlenségét az biztosítja, hogy az Országgyűlés választja és hívhatja vissza, tevékenységét is az hivatott megítélni.
+
+A Javaslat szerint az adatvédelmi biztosra az állampolgári jogok országgyűlési biztosáról szóló törvény rendelkezéseit kell alkalmazni. Ennek megfelelően eljárása során ajánlást tesz a tapasztalt visszásság megszüntetésére az azt előidézőnek vagy felügyeleti szervének, az Alkotmánybírósághoz fordulhat, törvényességi vagy ügyészi óvást, felelősségre vonást kezdeményezhet, jogi szabályozásra tesz javaslatot, tájékoztatja az ügyről az Országgyűlést.
+
+A 23. §-hoz
+
+E § az adatvédelmi biztos operatív feladatait határozza meg. Az adatvédelmi biztos hatásköre az adatkezelésre és a közérdekű adatok nyilvánosságára vonatkozó jogszabályok megtartásának ellenőrzésére terjed ki. Azt kifogásolhatja, ha olyan adatkezelést végeznek, amelynek jogszabályi feltételei hiányoznak. Arra azonban már nincs joga, hogy ellenőrizze, jogszerű volt-e pl. a cégnyilvántartásba, anyakönyvbe való bejegyzés. Így tehát nem merül fel, hogy az adatvédelmi biztos a bíróság vagy más hatóság érdemi döntései felett ellenőrzést gyakorolhat.
+
+A 24. §-hoz
+
+E § az adatvédelmi biztos elvi feladatait szabályozza. A Javaslatból egyértelmű, hogy elnevezésétől függetlenül nemcsak a személyes adatok védelmére vonatkozó törvényes rendelkezések betartását, hanem a közérdekű adatok nyilvánosságának, az információszabadságnak az érvényesülését is ellenőrzi. Ezen túlmenően azonban javaslataival és véleményével számottevő hatást gyakorol a Javaslat két tárgyát képező további törvényalkotási és jogalkalmazási tevékenységre is.
+
+A 25. §-hoz
+
+Az adatvédelmi biztos jogaiból következik, hogy előtte a működési területén nem lehet adatkezelést, személyes vagy közérdekű adatot eltitkolni. Az állam külső és belső biztonságának követelményei miatt azonban egyes állami szerveknél az ellenőrzést az adatvédelmi biztos csak személyesen gyakorolhatja, és csak külön törvényben meghatározott adatkezelések irataiba tekinthet be.
+
+A 26. §-hoz
+
+Bárki kezdeményezheti saját ügyében az adatvédelmi biztos fellépését, aki ennek alapján a 22. §-hoz fűzött indokolásban említett intézkedéseket teheti, eljárása azonban nem sértheti a bíróságok függetlenségét. Általános jellegű bejelentés is tehető pl. egyes adatkezelő jogsértő gyakorlatával szemben. Ezek azonban az adatvédelmi biztos ellenőrzési tevékenységét segítő (23. § a) pont) jelzések, külön szabályozásuk szükségtelen.
+
+Adatvédelmi nyilvántartás
+
+A 27. §-hoz
+
+Az adatvédelmi nyilvántartás deklaratív hatályú, adatai az adatkezelőt kötelezik. Az adatvédelmi biztos - bár a nyilvántartásba vételt nem tagadhatja meg - már a bejelentéssel egyidőben felléphet, ha a bejelentett adatkezelés nem felel meg a törvényes előírásoknak.
+
+Az adatvédelmi nyilvántartás egyrészt az adatkezelések jogszerűségének ellenőrzésére szolgál, másrészt az érintettnek ad lehetőséget arra, hogy adatai kezeléséről tudomást szerezzen, különösen abban az esetben, ha információs önrendelkezési jogát közvetlenül nem gyakorolhatja.
+
+A 28. §-hoz
+
+Az adatvédelmi nyilvántartási szám az adat útjának követését szolgálja, mert egy adatkezelő valamennyi, céljában különböző adatkezelését ugyanazon szám alatt kell nyilvántartani.
+
+A 29. §-hoz
+
+E §-ban felsorolt esetekben az indokolja az adatvédelmi nyilvántartásba való bejelentés mellőzését, hogy az adatkezelés célja egyrészt az érintett számára ismert és az adatfelvétel közvetlenül tőle történik (a)-d) pont), másrészt célja az érintett személyes érdekén túlmutat (e)-i) pont), vagy ki sem kerül a személyes szférából (j) pont). Egyes esetekben az adatkezelés szorosan kötődik a jogi személyek működéséhez, s a személyes adatok kezelése az érintettel fennálló jogviszonyhoz vagy szolgáltatáshoz kapcsolódik (a)-d) pont), más esetekben a személyes adat kezelése közérdeket szolgál (e)-i) pont), vagy a cél teljesüléséhez a személyes jelleg megőrzésére csak az adatkezelés meghatározott szakaszában van szükség (f) pont). E kivételekben meghatározott adatkezeléseket is be kell jelenteni, ha céljuk vagy tartalmuk több vagy más - például a továbbítást, nyilvánosságra hozást vagy egyéb hasznosítást illetően -, vagy a statisztikai előkészítés során személyes azonosítóiktól nem fosztják meg őket. Az érintett ugyanis vagy úgy tájékozódik arról, hogy adatait ki, hol, milyen célból és meddig használja, vagy pedig az adatvédelmi nyilvántartásból, a hatósági, ügyészségi vagy bírósági eljárás adott szakaszában pedig - más törvénynek megfelelően - tudomására hozzák az eljárásban kezelt adatait.
+
+Adatvédelmi iroda
+
+A 30. §-hoz
+
+Az adatvédelmi biztos jogállásának lényegét az is kifejezi, hogy a feladatai ellátásához szükséges dologi és személyi feltételeket - az országgyűlési biztos hivatalára vonatkozó szabályoknak megfelelően - az Országgyűlés biztosítja.
+
+V. FEJEZET
+
+ZÁRÓ RENDELKEZÉSEK
+
+Módosuló jogszabályok
+
+A 31. §-hoz
+
+A módosítás a Ptk.-nak és e törvénynek az összhangját teremti meg azáltal, hogy a Ptk. 3. § (1) bekezdésének hatályát kiterjeszti a nem számítógéppel történő adatkezelésekre is.
+
+A 32. §-hoz
+
+Jogosulatlanul folytat adatkezelést az, aki az adatkezelést az adatvédelmi nyilvántartásba - bár ez kötelezettsége - nem jelenti be, egyes adatfajtákat a bejelentett törlési határidejükön túl is kezel. A céltól eltérő az adatkezelés abban az esetben, ha bármely szakaszában nem felel meg az adatvédelmi nyilvántartásba bejelentett célnak, a bejelentett adatfajtáktól eltér, vagy az érintettek bejelentett körét bővíti (a) pont).
+
+Az adatkezelés adatvédelmi nyilvántartásba való bejelentési kötelezettségének szándékos elmulasztása az adatkezelés eltitkolásának minősül (c) pont).
+
+Az adattovábbítás külföldi adatkezelő részére a belföldi adatkezelés adataihoz való hozzáférés külföldről informatikai eszközök segítségével. A jogosultság egyéb feltételei mellett különösen fontos a belföldivel azonos védelem követelményének az érvényrejuttatása (d) pont).
+
+Az adatkezelések jogosulatlan összekapcsolásáért mind az adattovábbító, mind pedig a címzett adatkezelő felelős (e) pont).
+
+A technikai adatvédelem informatikai eszközök alkalmazása esetében a fejlődéssel változó védelmi eszközök és eljárások bevezetését teszi szükségessé. Az adatkezelő nem védekezhet azzal, hogy az általa foganatosított óvórendszabályok mindezidáig elegendőnek bizonyultak, ha azokat a műszaki fejlődés túlhaladta. Az alkalmazott védelmet a mindenkori veszélyforrásokhoz kell igazítani (f) pont).
+
+-----STARTING---POINT---VEGE---
+
+Hatálybalépés
+
+A 33-36. §-hoz
+
+A törvény megalkotásával az adatkezelők adatkezelése széles körben válna jogellenessé, pl. a közigazgatáson belüli adattovábbítás miatt. A törvény megtartása így - az adatkezelések felülvizsgálata nélkül - hátrányosan érintené a közigazgatást, de gyakran az állampolgárokat is ügyeik intézése során. Felkészülési idő kell a törvényben előírt kötelezettségek teljesítésére is. Ezért célszerű, ha a törvény a kihirdetés után mintegy félévvel lép csak hatályba.
+
+A közérdekű adatok nyilvánosságáról szóló III. fejezetben foglaltak végrehajtásához nincs szükség hosszabb felkészülési időre, mivel ezek az adatok a törvényben meghatározott szerveknél [18. § (1) bek.] eleve rendelkezésre állnak. Ezért e fejezet rendelkezései a törvény kihirdetését követő 15. napon rögtön hatályba lépnek.
+
+Az adatvédelmi biztos megválasztása és eljárása során - az e törvényben foglalt eltérésekkel - az állampolgári jogok országgyűlési biztosáról szóló törvény rendelkezéseit kell alkalmazni. Az adatvédelmi biztos megválasztására és az adatvédelmi nyilvántartás létrehozására csak e másik törvény kihirdetése után kerülhet sor. Ezért állapít meg külön hatálybaléptető szabályokat a törvény a IV. fejezetben foglaltakra.
+
+A törvény hatálybalépését követően, meghatározott időn belül el kell készíteni azokat a szükséges törvényi szabályozásokat, amelyek a kötelező jellegű, területspecifikus ágazati adatkezelések részletes szabályait állapítják meg.
+
+A törvény kihirdetését megelőzően kiadott jogi iránymutatások a kihirdetést követően már nem alkalmazhatók, tekintettel arra, hogy ezek olyan alacsony szintű jogi normák, amelyek fenntartása a személyiségi jogok védelmét sértenék.
+
+A törvény hatálybalépésével jogellenessé vált adatkezeléseket haladéktalanul meg kell semmisíteni.

@@ -1,0 +1,89 @@
+2021. évi CXLIV. törvény végső előterjesztői indokolása
+
+a Földmegfigyelési Információs Rendszerről, valamint ezzel összefüggésben egyes törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvényjavaslat célja, hogy a Földmegfigyelési Információs Rendszer (a továbbiakban: FIR) földmegfigyelési adatinfrastruktúra és szolgáltatások kialakítása elnevezésű projekt megvalósítását követően létrejött FIR működésének a törvényi kereteit lefektesse. A FIR olyan átfogó központi kormányzati rendszer, amely a közigazgatást, a szakigazgatási rendszereket, a privát szférát, továbbá a teljes magyar társadalmat releváns, részletes, könnyen hozzáférhető és naprakész földmegfigyelési adatokkal látja el.
+
+A FIR elsődleges jogi hátterét a Kopernicus-program létrehozásáról és a 911/2010/EU rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 377/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: EU rendelet) adja. 2005-ben az Európai Unió stratégiai döntést hozott arról, hogy az Európai Űrügynökséggel (European Space Agency, a továbbiakban: ESA) közösen a környezetvédelmi és biztonsági szolgáltatások nyújtására szolgáló független európai földmegfigyelési kapacitást fejleszt ki. Az így létrehozott Földmegfigyelési program (Copernicus-program) alapját az Európai Unió, az ESA és a tagállamok közötti partnerség képezi, amelynek a meglevő európai és nemzeti kapacitásokra kell épülnie közösen kidolgozott új eszközökkel kiegészülve. Az EU rendelet értelmében a Copernicus-programnak olyan, a felhasználók sajátos igényeinek megfelelő, pontos és megbízható információkat kell nyújtania a környezetvédelem és a biztonság területén, amelyek támogatnak más, különösen a belső piacra, a közlekedésre, a környezetvédelemre, az energiára, a polgári védelemre és a polgári biztonságra, a harmadik országokkal folytatott együttműködésre és a humanitárius segítségnyújtásra vonatkozó uniós szakpolitikákat.
+
+Az EU rendelettel összhangban a FIR elsősorban a földművelésügyi, az erdőgazdálkodási, a honvédelmi, a vízügyi, valamint a katasztrófavédelmi, elsősorban közigazgatási hatósági ügyek vonatkozásában olyan új adatbázist biztosít, amely az űrtávérzékelési adatok és a földi megfigyelési adatok hosszú távú felhasználását teszik lehetővé. A FIR adatbázis alapját képező űrtávérzékelési adatok a Sentinel műholdak segítségével érkeznek. Az űrtávérzékelési adatok gyűjtése és feldolgozása állami feladat, ezért a törvényjavaslat az állami feladatok ellátásához szükséges eszközrendszert és intézményi kereteket határozza meg.
+
+A fenti eljárásokhoz az ESA által a Sentinel műholdakról szolgáltatott (jelenleg optikai úton, illetve radar technológiával előállított) nyersadatokból, informatikai úton, automatikusan olyan téradatok állnak elő, melyeket hatósági eljárásokban bizonyítási eszközként lehet felhasználni. Fontos megjegyezni, hogy a rendszer és az ESA-tól kapott nyersadatok kapacitása minimális fejlesztéssel bővíthető annak érdekében, hogy más hatóságok is használhassák eljárásaikhoz. A FIR indulásakor többek között a következő hatósági eljárásokhoz nyújt támogatást: fa- és erdőhasználatok térbeli lehatárolása, erdő művelési ágból való kivonása, erdő más földhasználati kategóriába kerülése és faállomány megszűnése, erdő-, fásítás-, szabadrendelkezésű erdő nyilvántartása, a légi távérzékelés engedélyezési eljárása, a távérzékelési adatok használatának szakfelügyelete, a területalapú támogatások távérzékeléses ellenőrzéséhez kapcsolódó változásvezetéses növénytérkép előállítása, kiemelt jelentőségű vízilétesítmények műszaki megfigyelése.
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény hatályát annak tárgyától közelíti meg, konkrétan meghatározva a kivételeket is. A kivételek tekintetében külön jogszabályok rendelkeznek az adott rendszerekről, adatbázisokról.
+
+A 2. §-hoz
+
+A törvény értelmező rendelkezéseit meghatározó §, amely bevezeti a törvényi normaszövegben előforduló szakmai fogalmak jelentését. Az értelmező rendelkezések alapvetően az EU rendeletben meghatározott fogalmakra épülnek, figyelembe véve a hazai sajátosságokat.
+
+A FIR alapelve a felhasználó-központúság, ami szükségessé teszi a felhasználók folyamatos, tényleges bevonását, különös tekintettel a szolgáltatási követelmények meghatározására és validálására.
+
+A törvényben használt fogalmak egymásra épülő adatsorokat jelentenek.
+
+Az első szint a földmegfigyelési alapadat a célzott programokból származó adat EU rendeletbeli definíciójára épül, amely az űrtechnológián alapuló Föld-megfigyelés során a Copernicusban való felhasználás céljára nyújtott adatok közül a FIR-ben felhasználni kívánt Sentinel-1, Sentinel-2, Sentinel-3 műholdas missziók által nyújtott adatot jelenti.
+
+A földmegfigyelési alapadatból kerül sor a földmegfigyelési előfeldolgozott adatnak a FIR-ben való előállítására. A földmegfigyelési előfeldolgozott adat feldolgozásához és minőségbiztosításához szárazföldön, tengeren vagy levegőben telepített érzékelőkből származó megfigyelési adatok - a törvénybeli definíció szerint helyi adatok - használhatók fel.
+
+A földmegfigyelési alapadat és a földmegfigyelési előfeldolgozott adat bárki számára elérhető a FIR publikus felületén, az eFöld-ön keresztül, egy egyszeri regisztrációt követően, amelynek részletes szabályozását a törvény végrehajtási rendelete tartalmazza. A FIR-ben kifejlesztett eFöld modul feladata a projekt alapját adó Sentinel műholdakból érkező távérzékelési adatok egységes megjelenítése és rendelkezésre bocsátása a felhasználók számára.
+
+A FIR rendeltetése többek között a földmegfigyelési tematikus adat előállítása, amely a földmegfigyelési előfeldolgozott adatból a FIR által előállított földmegfigyelési adat. A földmegfigyelési tematikus adat elsősorban a csatlakozó szervezet által a feladata ellátásához megrendelt adat, melyet a földmegfigyelési előfeldolgozott adatból állít elő a FIR teljesen automatizált eljárásban. Csatlakozó szervezetként jönnek számításba többek között a mezőgazdasági támogatással, víz-, erdőgazdálkodással, katasztrófavédelemmel kapcsolatos feladatokat ellátó költségvetési szervek. A csatlakozó szervezetek fogalmát és a csatlakozás feltételeit a törvény végrehajtási rendelete szabályozza.
+
+A helyi adat a földmegfigyelési előfeldolgozott adat feldolgozásához és minőségbiztosításához szükséges referencia és kiegészítő adatokat jelenti, mely a csatlakozó szervezet által meghatározott paraméterek szerint előállított, és feldolgozásra alkalmas formátumban a FOK rendelkezésére áll.
+
+A FIR egyik alkotóeleme az Űrfelvétel Megrendelő és Érkeztető Rendszer (a továbbiakban: ŰMÉR), amely a kereskedelmi űrfelvételek, azaz a nyilvános kereskedelmi forgalomban beszerezhető űrfelvételek központosított közbeszerzés útján megvalósuló beszerzését támogatja.
+
+A 3. §-hoz
+
+A rendelkezés a FIR pontos meghatározását adja, az állami feladatok deklarálásával. A FIR alapvető célja, hogy átfogó nemzeti földmegfigyelési képesség kerüljön kialakításra, amelynek eredményeként a kormányzati igazgatási szervek, közfeladatot ellátó szervezetek, a privát szféra és a teljes társadalom a műholdakról származó földmegfigyelési adatokhoz hozzáférhessen. A FIR működtetését a térképészetért felelős miniszter felügyeli.
+
+A FIR működésének részletes szabályait a Kormány rendeletben állapítja meg.
+
+A 4. §-hoz
+
+A rendelkezés a törvényben meghatározott állami feladatok ellátására a FOK-ot jelöli ki. A rendelkezés rögzíti, hogy a FOK által ellátott állami feladatok közfeladatnak minősülnek. A javaslat rendelkezik arról, hogy a FIR meghatározott rendszeréhez csatlakozó szervezetekkel a FOK megállapodást köt, ami szabályozza a csatlakozással együtt járó jogokat, kötelezettségeket, a FIR-en keresztül történő szolgáltatás igénylés és nyújtás rendjét. A törvényjavaslat szerint a csatlakozás részletes szabályait, valamint a FOK feladatait, azok ellátásának részletes szabályait a Kormány rendeletben állapítja meg.
+
+A kereskedelmi űrfelvételek beszerzéséhez szükséges keretmegállapodásokat az a szervezet köti meg, látja el a kapcsolódó feladatokat, amelyet a végrehajtási kormányrendelet erre kijelöl, és ehhez az ŰMÉR-t használja fel.
+
+A javaslat rendelkezik a FOK hazai és nemzetközi szakmai szervezetekkel való kapcsolattartásáról is.
+
+A 5. §-hoz
+
+A rendelkezés meghatározza a földmegfigyelési adatbázis adatainak pontos körét.
+
+A 6. §-hoz
+
+A rendelkezés meghatározza a FIR adataihoz való hozzáférés szabályait, kiemelve a FIR adatbázishoz történő ingyenes hozzáférést. Az ingyenes hozzáférés biztosítása nem jár releváns kiadásokkal, mivel az adatok előállítása már megtörtént, a hozzáférés mindössze egy adminisztrációs eljárást igényel, amelynek szabályait a végrehajtási kormányrendelet állapítja meg.
+
+Arra tekintettel, hogy a FIR adatai csak monitoron értelmezhetőek, papír alapon nem, ezért szükséges előírni az elektronikus ügyintézés kizárólagosságát a természetes személyek számára is. Annak érdekében, hogy az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény közérdekű adatokra, közérdekből nyilvános adatokra, illetve személyes adatkezelésre vonatkozó szabályozása biztosított legyen, az elektronikus ügyintézés nem jár személyazonosító adatok megadásával járó ügyfél-azonosítással, illetve a technológia-semlegesség elvének figyelembevétele érdekében a FOK biztosítja, hogy az elektronikus hozzáféréssel nem rendelkező ügyfelek is a FOK saját számítástechnikai eszközén megismerhessék, letölthessék az adatokat. Az adatok nyilvánossága csak a földmegfigyelési tematikus adat esetében korlátozható, ez csak akkor hozzáférhető a nyilvánosság számára, ha az a szervezet, amelynek a FOK azt előállította, ahhoz hozzájárult. Ez a rendelkezés azzal van összefüggésben, hogy a földmegfigyelési tematikus adat szerzői műnek számít, szerzői jogvédelem alá esik, az adat feletti szerzői vagyoni jogokat az azt megrendelő szervezet gyakorolja.
+
+A javaslat alapján, ha a FIR adatok megismerése Magyarország honvédelmi, bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekeit sérti, az adatok megismerése iránti igény teljesítését az igény alapjául szolgáló adat keletkezésétől számított 30 évig meg kell tagadni. A javaslat kitér arra is, hogy az adatigény teljesíthetőségéről a FOK a Kormány rendeletében meghatározott szerv véleménye alapján dönt. Emellett indokolt megjegyezni, hogy speciális jogorvoslati lehetőséget nem indokolt biztosítani tekintettel arra, hogy az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 31. §-a jelen esetben is alkalmazható. A javaslat rögzíti, hogy a FOK a nemzetbiztonsági szolgálatok részére köteles adatot szolgáltatni a nemzetbiztonsági szolgálatokról szóló törvényben foglaltak szerint.
+
+A 7. §-hoz
+
+A rendelkezés biztosítja a FOK közfeladatainak ellátásához szükséges központi költségvetési forrást.
+
+-----STARTING---POINT---VEGE---
+
+A 8. §-hoz
+
+A § a Kormány részére adott felhatalmazó rendelkezéseket tartalmazza. Ennek alapján felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a FOK feladatait ellátó szervezetet és megállapítsa feladatait. A Kormány továbbá rendeletben határozza meg a FIR működésének, üzemeltetésének, a FIR-hez való csatlakozás, továbbá FIR adatbázisok adataihoz való hozzáférés részletes szabályait.
+
+A 9. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 10. §-hoz
+
+Jogharmonizációs záradék.
+
+A 11-12. §-hoz
+
+A törvény végrehajtásával kapcsolatos rendelkezések módosítása a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvényben.

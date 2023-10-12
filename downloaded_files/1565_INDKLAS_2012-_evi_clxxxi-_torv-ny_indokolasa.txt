@@ -1,0 +1,525 @@
+2012. évi CLXXXI. törvény indokolása
+
+a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+I. SIS II
+
+A Schengeni Információs Rendszer (Schengen Information System - röviden: SIS) egy európai nyilvántartást foglal magába, amely tartalmazza a körözés alatt álló személyek és bizonyos tárgyak (különösen gépjárművek, okmányok, lőfegyverek), valamint a schengeni beutazási és tartózkodási tilalom hatálya alatt álló személyek adatait. Ezáltal a rendszer a belső határok nélküli európai térség egyik legfontosabb biztonsági garanciális eszköze. A rendszer második generációjának (a továbbiakban: SIS II) fejlesztése uniós szinten már 2002 óta tart. Az éles üzembe állás jelenlegi céldátuma 2013 első negyedéve. A jelenleg alkalmazott SIS uniós szintű jogalapja a Schengeni Végrehajtási Egyezmény, amelyet felváltott a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet, a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 2006. december 20-i, 1986/2006/EK európai parlamenti és tanácsi rendelet, valamint a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i, 2007/533/IB tanácsi határozat.
+
+A hazai jogban a SIS alkalmazásáról elsősorban a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvény (a továbbiakban: SVEtv.) rendelkezik.
+
+A törvény hatályon kívül helyezi az SVEtv.-t, valamint módosítja a SIS II kapcsán érintett ágazati törvényeket.
+
+A törvényi szintű szabályozás mellett szükséges egy általános végrehajtási rendelet megalkotása, illetve számos hatályos rendeleti szintű jogforrás módosítása.
+
+Az Európai Unió kötelező jogi aktusainak való megfelelés tekintetében különleges helyzetet teremt, hogy a SIS II uniós szabályozása párhuzamosan - rendeleti és határozati formában - történt. A rendeleti szabályozás közvetlenül hatályos és alkalmazandó, ezért a hazai jogalkotásban kizárólag a végrehajtáshoz szükséges szabályokat kell megalkotni. A határozat azonban tagállami átültetést igényel, amelyet a hazai szabályozásban kell biztosítani. A határozat és az 1978/2006/EK tanácsi rendelet jelentős részben átfedéseket tartalmaz, különösen az általános szabályok tekintetében.
+
+A SIS II-re vonatkozó uniós jogszabályok a rendszer többletfunkcióinak leírása mellett a Schengeni Végrehajtási Egyezményhez képest sokkal részletesebb szabályokat és több adatvédelmi garanciát tartalmaznak.
+
+A SIS II rendszer hazai részének műszaki felépítése eltér a jelenleg alkalmazott SIS modelltől. Az eltérés lényege, hogy a SIS II esetében sokkal nagyobb szerepet kap a jelzéskezelő hatóságok automatikus jelzéselhelyező képessége, mivel közvetlenül kapcsolódnak a hazai rendszer központi részéhez. A jelzések elhelyezése főszabályként a nyilvántartási rendszerek között kiépített kapcsolat útján történik, de lehetőség van a figyelmeztető jelzésekkel kapcsolatos műveletek elvégzésére az erre a célra kialakított webes felületen is.
+
+A törvény egyszerűbbé és átláthatóbbá kívánja tenni azon szabályokat is, amelyek a gyakorlati használat során problémát jelentettek (pl.: SIS II-beli figyelmeztető jelzések alapján lefoglalt tárgyak visszaszármaztatásának szabályozása).
+
+A törvény tartalmazza a SIS II-vel kapcsolatos általános szabályokat és a figyelmeztető jelzések és egyéb adatok kezelésével kapcsolatos feladatok meghatározását, valamint adatvédelmi és garanciális szabályokat, illetve a SIS II alkalmazása kapcsán érintett további ágazati törvények kisebb mértékű módosítását.
+
+A SIS II projekt megvalósulási céldátuma jelenleg uniós szinten 2013 első negyedéve, az éles üzembeállás pontos idejéről külön tanácsi határozat rendelkezik majd. Műszaki rendszerek közötti átállás esetében rutin eljárásnak számít, hogy egy ideig a régi rendszer tartalékként még elérhető marad arra az esetre, ha az új rendszerrel kapcsolatban műszaki hibák merülnek fel. Ez a SIS 1-ről a SIS II-re való átálláskor is így lesz, ezért egy rövid átmeneti ideig a jelen törvény hatályba lépését követően még az SVEtv. is hatályban marad, majd az átmeneti időszak végén hatályát veszti, ekkor a SIS 1 rendszer végérvényesen leállításra kerül és a SIS II marad az egyedüli működő rendszer.
+
+II. Úti okmány
+
+A Magyary Program intézkedési tervének 15. pontjában feladatként került meghatározásra a lakosságra nehezedő adminisztratív terhek mértékének az Egyszerűsítési Program keretében történő csökkentése.
+
+A törvény tartalmazza az ügyintézési határidők csökkentésére vonatkozó szabályokat. Az úti okmányokkal kapcsolatos eljárásokban, illetve a külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) 28. § (1) és (2) bekezdése szerinti adatszolgáltatás iránti kérelmekre vonatkozó eljárásokban 20 napra csökkenjen a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) általános szabályai szerint jelenleg 30 napban megállapított általános ügyintézési határidő. Az Utv. szerinti adatszolgáltatási eljárásban továbbá a törvény egyértelművé teszi, hogy az adatszolgáltatás keretében a hatályos jogszabályi rendelkezéseknek megfelelően benyújtott „hivatalos igazolás” kiállítása iránti kérelem voltaképpen a hatósági bizonyítvány kiállítására vonatkozó kérelemnek minősül. Ilyen esetben pedig a Ket. 83. § (3) bekezdése alapján az ügyintézési határidő a kérelem előterjesztésétől számított 10 nap.
+
+Az ügyintézési határidő mértékének a jelenleginél rövidebb időtartamban történő meghatározásán túl az ügyintézési idő csökkentését a törvény által megvalósítani kívánt szabályozási újítások, valamint informatikai és szervezési fejlesztések is megalapozzák. Ezek számtalan esetben csökkentik a felesleges eljárási lépések, az ügyintézésben részt vevő vagy abba bevonandó szervek és az ügyfelek által benyújtandó dokumentumok számát, valamint az eljáró szervek közötti kapcsolattartáshoz, adattovábbításhoz szükséges idő tartamát, illetve a felesleges hiánypótlások kiküszöbölését elősegítő megoldások bevezetését szolgálják.
+
+A törvény teljesen új alapokra helyezi a külföldre utazási korlátozás bejegyzésére, törlésére vonatkozó eljárás szabályait.
+
+A törvény alapján az adattovábbításra kötelezett szerv csak azon érintett személyekkel kapcsolatban értesíti az útlevél hatóságot, akik érvényes úti okmánnyal rendelkeznek. Ezt az információt a bíróság, az ügyész, illetve a nyomozó hatóság a számára lekérdezési lehetőségként jelenleg is rendelkezésre álló útiokmány-nyilvántartásban ellenőrzi.
+
+A törvény megteremti annak nyilvántartási alapját is, hogy ne csak az érvényes úti okmánnyal rendelkező személyek esetében legyen lehetőség a külföldre utazási korlátozás ellenőrzésére, ha a bűnügyi nyilvántartási rendszerben külön nyilvántartást hoz létre az utazási korlátozás alatt álló személyekkel kapcsolatban. E külön nyilvántartás minden külföldre utazási korlátozás hatálya alatt álló személy adatait tartalmazza, így az érvényes útlevél hiányában az útiokmány-nyilvántartásban nem szereplő (mindazonáltal személyazonosító igazolványukkal külföldre utazni képes) személyek kiutazása is megakadályozható. A módosítás nyomán tehát a határforgalom-ellenőrzés során a személyazonosító igazolvánnyal külföldre utazó állampolgárok esetében is ellenőrizhetővé válik az utazási korlátozás megléte, illetve hiánya.
+
+A törvény kibővíti a külföldre utazási korlátozás okait két új korlátozási esetkörrel. Az egyik ezek közül a javítóintézeti nevelés intézkedés időtartama, illetve ehhez kapcsolódóan a javítóintézeti nevelésből történő ideiglenes elbocsátás időtartama. A másik új korlátozási ok az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló T/7984. számú törvényben foglalt új jogintézményhez kapcsolódik. Ez alapján a törvény alapján ugyanis európai uniós bűnügyi együttműködés keretében folytatott eljárásokban, bizonyos esetekben lehetőség nyílik a jövőben arra, hogy a bíró megtiltsa az ország elhagyását és az úti okmány leadására kötelezze az érintettet. A törvény továbbá pontosítja a külföldre utazási korlátozás okainak és terjedelmének a szabadságvesztés büntetés tekintetében történő meghatározását.
+
+A korlátozási okok egyrészt kiegészülnek azokkal az esetkörökkel, amikor eredetileg a terhelttel szemben nem végrehajtandó szabadságvesztést rendeltek el, azonban egy későbbi döntés eredményeképpen mégis büntetés-végrehajtási intézetbe kell vonulnia. Így a törvény tartalmazza, hogy a külföldre utazási korlátozás abban az esetben is fennálljon, ha a felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetés végrehajtását rendelik el, illetve, ha a feltételes szabadságra bocsátását megszüntetik. Ezen változtatás átvezetése ugyanakkor koherens szabályozást teremt, amelynek kapcsán érvényesül azon logika, miszerint a jogrendszernek a külföldre utazási korlátozás elrendelése révén is ki kell zárnia a büntetés-végrehajtási intézetbe történő bevonulásra kötelező jogerős bírósági döntés előli külföldre menekülés lehetőségét.
+
+A törvény mindemellett pontosabbá teszi a szabadságvesztés büntetés miatti külföldre utazási korlátozás egyik lehetséges befejezési időpontját jelentő „büntetésének kitöltéséig” meghatározást.
+
+A külföldre utazási korlátozás eseteinek pontosításával, valamint az adattovábbítás pontos határidejének megállapításával a bíróságok, ügyészségek, nyomozó hatóságok túlterheltsége mellett is biztosítható, hogy arra a személyi körre, amelynél valóban fennáll annak a veszélye, hogy a büntetőeljárás alól külföldre utazással kivonják magukat, valós időben elhelyezésre kerüljön a külföldre utazási korlátozás.
+
+A törvény megteremti továbbá a koherenciát az Utv. és a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 64. §-a, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 66. §-a között a külföldre utazási korlátozás terén.
+
+Az eljárás egyszerűsítése érdekében a törvény magába foglalja az adatszolgáltatási kérelem, megkeresés adattartalmának meghatározását, kötelező elemeinek jogszabályban történő rögzítését. Az ennek alapján elkészítendő formanyomtatvány értelemszerű kitöltésével csökkenthető a későbbi hiánypótlások száma, miáltal az ügyintézési idő csökkenne, az ügyfelek elégedettsége ugyanakkor nőne.
+
+A törvény több ponton az adatszolgáltatással kapcsolatban a jelenleginél pontosabban szabályoz, miáltal a jogalkalmazásban felmerülő értelmezési problémák kiküszöbölésére nyílik lehetőség, illetve egyszerűsödhet, gyorsabbá válhat az ügyintézés.
+
+A jogszabály-módosítás nyomán egyértelművé válik, hogy az adatszolgáltatás keretében hatósági bizonyítvány kiállítását lehet kérni a jelenleg miniszteri rendeletekben szereplő, bizonytalan jelentésű „hivatalos igazolás” helyett. Ezáltal pedig világossá válna, hogy ezekben az esetekben a Ket. hatósági bizonyítványok kiállítására vonatkozó szabályozása lesz az irányadó.
+
+A törvény azt is tisztázza, hogy abban az esetben, ha a kérelmező a saját adatairól kér tájékoztatást - ide nem számítva azt az esetet, ha hatósági bizonyítvány kiállítását is kéri -, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) rendelkezései szerint kell eljárni.
+
+A törvény által módosított eljárás alapján a szülő (törvényes képviselő) meghatalmazást is adhat a hatóság előtt megjelenő másik szülő részére, amelyben rögzítésre kerül a meghatalmazó hozzájáruló nyilatkozata is (teljes bizonyító erejű magánokirat).
+
+A törvény másrészt tartalmazza, hogy hozzájáruló nyilatkozatát a szülő - a fent megjelölt szervek mellett - a büntetés-végrehajtási, illetve a fogvatartást végrehajtó intézet vezetője előtt is megtehesse, adott esetben az előzetes letartóztatásának tartama alatt is.
+
+A törvény következtében az elektronikus anyakönyvi nyilvántartáshoz történő közvetlen hozzáféréssel szükségtelenné válik, hogy az ügyfél az anyakönyvet bemutassa, ezáltal csökken az eljárás dokumentációs igénye. Az adathelyesbítés során pedig az anyakönyvvezető megkeresésére sem lesz szükség, ezáltal csökken az ügyben résztvevők száma, illetve ezen eljárási lépés elhagyásra kerül az eljárásból.
+
+Az egyszerűsítést követően valamennyi magyar állampolgár vonatkozásában általánosan érvényesülő szabály lesz, hogy ha a személyi adat- és lakcímnyilvántartásban magyar állampolgárként szerepel, akkor nem szükséges külön igazolni a magyar állampolgárságot. Ezáltal csökkenthető azon esetek száma, amikor az útlevélhatóságnak vagy az eljárásban közreműködő hatóságnak az állampolgárság megállapítása érdekében a Bevándorlási és Állampolgársági Hivatalt kell megkeresnie (lényegében csak akkor merülhet fel ennek lehetősége, ha a kérelmező nem szerepel magyar állampolgárként a személyi adat- és lakcímnyilvántartásban és nem rendelkezik az állampolgársága igazolására alkalmas okmánnyal sem).
+
+A törvény alapján az érvénytelen úti okmányt nemcsak a hivatásos, hanem a tiszteletbeli konzul is elveheti; emellett az érvénytelenség esetköreinek módosításával az az úti okmány is elvehető, amely esetében a szülő a korábban adott hozzájárulását visszavonta, illetve a szülő szülői felügyeleti joga megszűnt vagy szünetel.
+
+A törvény által módosított eljárás alapján a visszahagyott úti okmányt nemcsak az új úti okmány személyes átvételekor lehet leadni, hanem postai úton is.
+
+A törvény alapján az elkészült útlevél az okmányirodában is átvehető meghatalmazott útján. Az új szabály vonatkozik a külügyi szolgálati útlevelek átvételére is, tehát ezek esetében is lehetőség van a meghatalmazott útján történő átvételre akár a külügyminiszternél, akár - külföldi kérelmezés esetén - a konzuli tisztviselőnél.
+
+A törvény megteremti a jogi feltételeit annak, hogy a jövőben a diplomata és a külügyi szolgálati útlevelek kiadásával kapcsolatos hatósági eljárásban is részt vehessenek - mint közreműködők - a konzuli tisztviselők. Az útlevélkérelem konzuli tisztviselőnél történő benyújtásának informatikai támogatása a diplomata és a külügyi szolgálati útlevél esetében is biztosított, ugyanakkor a jelenleg hatályos Vhr. kizárólag a konzuli tisztviselő magánútlevél kiadásával kapcsolatos közreműködői feladatait részletezi. Indokolt ezért a konzuli tisztviselőnek az említett hivatalos útlevelekkel kapcsolatos közreműködői feladatainak pontos kifejtése a Vhr.-ben.
+
+A törvény több pontosítást is tartalmaz a hajós szolgálati útlevélre való jogosultság, illetve annak igazolása kapcsán. Egyrészt a határvízen különböző feladatokat végző vízügyi dolgozók a jövőben hajós szolgálati útlevél helyett szolgálati útlevélre lesznek jogosultak, ezzel a törvény alapján ezen személyi kör tekintetében az eljárás a szolgálati útlevél kiadásával lesz összevonva. Másrészt a törvény pontosítja, hogy a hajós szolgálati útlevél esetében nem elrendelő vagy javaslatot tevő szervről, hanem arról a gazdálkodó szervezetről van szó, amely igazolja, hogy az alkalmazásában áll a hajón, a szolgálatot teljesítő személy. Ezzel egyértelművé válnak a jogszabályokban jelenleg az elrendelő vagy javaslatot tevő szervre telepített feladatok, csökkentve ezzel a bizonytalan jogszabályi rendelkezésekből fakadó jogalkalmazási nehézségeket, felesleges jogalkalmazói lépéseket.
+
+A jelenlegi szabályozás szerint a biometrikus adatok kezelésére az útlevélhatóság kizárólag a tároló elemet tartalmazó úti okmány kiadásáig jogosult.
+
+A törvény elfogadása nyomán az adatok kezelésére az ügyfél hozzájárulása esetén az úti okmány érvényességi idejével megegyező időtartamig lesz jogosult az útlevélhatóság. Ezáltal lehetővé válik, hogy az eredeti úti okmány elvesztése, eltulajdonítása vagy megsemmisülése esetén az ügyfélnek ne kelljen ismételten megjelennie a hatóság előtt a biometrikus adatok rögzítése érdekében, hanem akár egy elektronikus úton elindított kérelemmel is kérelmezheti új útlevél kiállítását. Ugyanez kiterjeszthető azokra is, akik érvényes magánútlevelük mellett második magánútlevelet igényelnek, ennek kérelmezését szintén megtehetnék a biometrikus adatok ismételt rögzítése nélkül.
+
+III. Hatósági erkölcsi bizonyítvány
+
+A törvény a Magyary Program Egyszerűsítési programjának elfogadásáról szóló 1304/2011. (IX. 2.) Korm. határozatban (a továbbiakban: Korm. határozat) megfogalmazott célokat - az annak 1. melléklet 150. és 151. pontjában található ügyek tekintetében - a hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás és az érintett kérelmére saját adatairól történő adattovábbítási eljárás összevonásával valósítja meg.
+
+A Korm. határozat által kitűzött cél eléréséhez szükséges a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) módosítása, amely egyben a jogszabály nyelvezetét is közérthetőbbé teszi a módosítással érintett szöveghelyek világosabb logikai sorrendbe történő rendezésével.
+
+A hatályos szabályozás alkalmazása során számos esetben fordult elő a hatósági bizonyítvány és a hatósági erkölcsi bizonyítvány összetévesztése, amit részben a bonyolult jogszabályi nyelvezet, részben az adatkörök és felhasználási célok egymást átfedő meghatározása idézett elő.
+
+A törvény célja, hogy egyértelműen meghatározza a hatósági erkölcsi bizonyítvány tartalmát, kérelmezési folyamatát. Az egyszerűsítés következtében a korábbi adattovábbítás iránti kérelemre kiállított hatósági bizonyítvány megszűnik, az abban igazolható tények a megújuló adattartalmú hatósági erkölcsi bizonyítványban jelennek meg. Az új közokirattal az egyes törvényeknek való megfelelés, a büntetlen előélet, továbbá az a tény igazolható, hogy a kérelmező nem áll közügyektől eltiltás hatálya alatt, vagy áll-e valamely foglalkozástól eltiltás hatálya alatt. A hatósági erkölcsi bizonyítvány kiállítása iránti eljárás során kiadott közokirat elnevezése hatósági erkölcsi bizonyítvány marad és „A” okmányvédelmi kategóriába sorolt biztonsági okmányként kerül kiállításra.
+
+Ezzel párhuzamosan megvalósul az eljárás jogi szabályozásának felülvizsgálata, az eljárásban a különleges adatok kezelése kapcsán jelentkező fokozott figyelem érvényesítéséhez szükséges speciális eljárási szabályok megalkotása.
+
+Az egyszerűsítés eredményeként egyértelmű és egyszerűbben kitölthető kérőlap kerül kialakításra, amelynek célja a lakossági ügyfelekre háruló adminisztratív teher csökkentése.
+
+A Bnytv. módosítása kiterjed az elektronikus ügyintézés lehetőségének kiszélesítésére. A részletszabályokat miniszteri rendelet határozza meg, ezáltal a technológiai változásokat gyakorlatiasabban követni tudó szabályozás kerül kialakításra.
+
+Új elemként jelenik meg, hogy a hatósági erkölcsi bizonyítvány kiállításának ténye, érvényessége vagy visszavonása a bűnügyi nyilvántartó szervnél elérhető elektronikus felületen ellenőrizhető. Ennek következtében az okmány felhasználója ellenőrzési lehetőséget kap, amelynek különös jelentősége van a külföldről érkező kérelmezés esetén. Mindez nem sérti a kérelmező önrendelkezési jogát, illetve az adatvédelmi rendelkezéseket, ugyanis az ellenőrzés céljából történő hozzáférés lehetősége (a tájékoztatás során a teljes adatkör megadásának előírásával) kizárólag az általa felhatalmazott személy részére válik biztosítottá.
+
+A törvény további célja, hogy megteremtse a külföldön történő kérelmezés lehetőségét és annak speciális eljárási rendelkezéseit. A Külügyminisztérium javaslatának figyelembe vételével a külföldi kérelmezés során a konzul kiemelkedő szereppel rendelkezik.
+
+Ezen eljárás tekintetében azért vált szükségessé az eljárás egyszerűsítése, mert az Alkotmánybíróság a 144/2008. (XI. 26.) AB határozatában - 2009. június 30. napjával - hatályon kívül helyezte a bűnügyi nyilvántartásról és a hatósági erkölcsi bizonyítványról szóló 1999. évi LXXXV. törvény (a továbbiakban: Régi Bnytv.) általa aggályosnak tartott rendelkezéseit, így többek között annak 16. §-át. Döntésének indokai között szerepelt, hogy a Régi Bnytv. 16. §-ában foglalt rendelkezések a büntetlen előéletű személyek közötti különbségtételt tették lehetővé. A 16. § értelmében a Régi Bnytv.-ben meghatározott ideig, egy nyilvántartáson belül, a bűntettesek nyilvántartásában kezelték a büntetett előéletű, valamint a büntetett előélet alól már mentesült személyeket. A mentesítés folytán azonban a büntetett előéletű személyekkel szemben megszűnnek a terhelti állapothoz fűződő alapjogi korlátozások, így a már mentesült személyek adatainak a még büntetett előéletű személyek adataival való azonos megítélés alá eső kezelése alkotmányellenes.
+
+Az Alkotmánybíróság ugyanakkor elismerte azt is, hogy vannak olyan, alkotmányosan igazolható indokok, amelyek szükségessé teszik az adatalanyok egyes bűnügyi személyes adatainak a mentesítést követő időn túli kezelését, megismerését, valamint felhasználását. Ehhez egy olyan nyilvántartás vezetése szükséges, amelyben a már mentesült személyek adatait tartják nyilván, és amelyre vonatkozóan a jogalkotó - ezen nyilvántartás célját figyelembevéve - a többi nyilvántartásra vonatkozó szabályoktól eltérő, szigorúbb szabályokat alkothat (többek között ilyen szabály az eltérő nyilvántartási idő vagy a nyilvántartásból adatigénylésre jogosultak eltérő köre). Mindezeknek megfelelően hozta létre a Bnytv. a büntetett előéletű személyek nyilvántartásától (bűntettesek nyilvántartása) elkülönülten a büntetett előélet alól már mentesült személyek nyilvántartását, vagyis a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartását.
+
+A fentieken túl a Bnytv. - az új és korszerű adatszolgáltatást lehetővé tevő eljárásként - bevezette a kérelmező saját adataira vonatkozó, kérelemre történő adattovábbítást. A bűnügyi nyilvántartó szerv az adattovábbítási kérelemben megjelölt adatokat hatósági bizonyítványban igazolja. A jogalkotó célja az volt, hogy a hatósági erkölcsi bizonyítványhoz képest megnövelt, az egyes törvényeknek való megfelelést igazoló speciális adattartalom is igazolható legyen. A hatósági bizonyítvány kibővített adatkörén túl eltérés a két bizonyítvány között az is, hogy a hatósági bizonyítvány kapcsán a jogalkotó abból a feltevésből indult ki, hogy a kérelmező már ismeri azt a szervet, amelynél az igényelt adatokat fel kívánja használni. A hatósági bizonyítvány ezért az „A” okmányvédelmi kategóriába sorolt biztonsági okmánynak minősülő hatósági erkölcsi bizonyítványhoz képest más módon kerül kiállításra: hagyományos anyagú, A/5-ös formátumú iratként, amellyel szemben a védelmi jelleget a kérelmező által megjelölt címzettnek történő közvetlen továbbítás biztosítja, amivel párhuzamosan a kérelmező másolati példányt kap.
+
+2010. január 1-jén hatályba lépett a bűnügyi nyilvántartási rendszer átalakításával összefüggő törvénymódosításokról szóló 2009. évi CXLIX. törvény (a továbbiakban: Bnytv. kapcsolódó módosító), amely széleskörűen megteremtette az egyes tevékenységek végzéséhez szükséges azon törvényi feltételeket, amelyek már kizárólag a speciális (egyes konkrét törvényi előírásoknak való megfelelőséget igazoló) hatósági bizonyítvány adattovábbítási rendszerében igazolhatók. A jogszabályi környezet változásával párhuzamosan kialakításra került az okmányok elektronikus úton történő kérelmezésének lehetősége. Az így kialakult rendszerben az ügyfélkapu regisztrációval rendelkező kérelmezők elektronikus űrlap kitöltése és beküldése, valamint ezt követő elektronikus átutalás segítségével akár otthonról is kérelmezhették az okmányokat. A kiállított bizonyítványok postai úton hivatalos irat küldeményként jutottak el a címzetthez.
+
+A hatósági erkölcsi bizonyítvány és a hatósági bizonyítvány alap kérelmezési profilja a jogszabály módosulások következtében ellentétessé vált a kialakított gyakorlattal. A Bnytv. kapcsolódó módosító hatálybalépésével minden releváns területen kialakultak azok a törvényi feltételek, amelyeket a speciális hatósági bizonyítvánnyal igazolni lehet. A gyakorlatban a hatósági erkölcsi bizonyítvánnyal igazolható adatkör nagyrészt megszűnt, ezáltal a változatlan formában történő igénylés és kiállítás kevésbé elégíti ki a célhoz kötöttség elvét.
+
+A hatósági bizonyítványok főszabály szerinti kérelmezési adatlapja (profilja) olyan mélységű jogi ismereteket vár el az egyszerű felhasználótól, amelyek a bűnügyi nyilvántartási rendszer, továbbá a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben (a továbbiakban: Btk.) meghatározott, a mentesítésre vonatkozó szabályok részletes ismeretét, valamint a büntetés és intézkedés közötti eltérés ismeretét feltételezik.
+
+A két bizonyítvány részben párhuzamos adatköre és az ebből következően nagymértékben hasonló kérőlapok gyakran okoznak tévedést az ügyfeleknek: 2010-ben például hatósági erkölcsi bizonyítvány esetében 11 582 esetben, míg hatósági bizonyítványok kiadása során 12 180 esetben került sor hiánypótlási felhívás kibocsátására. 2009. július 1-jével került bevezetésre az adattovábbítás iránti kérelemre kiállítandó hatósági bizonyítvány, amely szintén alkalmas ugyanazon adatok igazolására is, mint a hatósági erkölcsi bizonyítvány, így részben felváltotta azt. Ezért csökkent a kiállított hatósági erkölcsi bizonyítványok száma.
+
+Az adattovábbítás iránti kérelemre kiállítandó hatósági bizonyítvány - a hatósági erkölcsi bizonyítvánnyal igazolható adatokon túl - az egyes szakági törvények által támasztott, speciális feltételeknek való megfelelés igazolására is alkalmas.
+
+A gyakorlati életben nem érvényesült a jogalkotó azon feltevése, miszerint a kérelmező az egyes törvényeknek való megfelelés kapcsán alapszabályként ismeri és meg tudja határozni azt a szervet, amelynek eljárásában a bizonyítványt felhasználni kívánja. Emiatt a kérelmező gyakran más szervet, illetve címet adott meg az adattovábbítás valódi címzettje helyett.
+
+A hatósági bizonyítvány közvetlen eljáró szervnek kötelező jelleggel történő megküldése gyakran jelent adatkezelési problémát is, hiszen a bizonyítvány esetenként hamarabb megérkezik a címzett szervhez, minthogy a kérelmező a címzett szervnél egyáltalán megindította volna az eljárást.
+
+A hatósági bizonyítvány másolati példánya (a benne foglalt különleges személyes adatok miatt) a hatósági erkölcsi bizonyítványhoz hasonlóan csak hivatalos iratként továbbítható (holott csak az érintett tájékoztatására szolgál, joghatás kiváltására alkalmatlan), az átvétel kapcsán sok esetben felesleges sorbaállást okozva ezzel az ügyfélnek.
+
+A külföldről történő kérelmezés lehetősége és módja jelenleg nem szabályozott, ezért szükséges ezen rendelkezések törvényi szintű megalkotása.
+
+IV. Idegenrendészeti munkacsoport
+
+A Magyary Egyszerűsítési Program keretében a 217. és a 218. eljárások egyszerűsítésének kidolgozására létrejött szakértői munkacsoport (a továbbiakban: idegenrendészeti munkacsoport) meghatározta, hogy az érintett ügyeket mely szempontokból lehetséges egyszerűsíteni. Az egyszerűsítés fő célkitűzése az átlagos „bruttó” ügyintézési idők csökkentése, részben a meglévő nyilvántartási rendszerek jobb kihasználása, részben - ahol lehetséges - a formanyomtatvány adattartalmának csökkentése révén.
+
+A törvény a Korm. határozat 1. mellékletében az „Állampolgárság, bevándorlás” ügycsoportba sorolt eljárások körében a nemzeti letelepedési engedély kiállítása tárgykört érintő törvénymódosításokat tartalmazza.
+
+A Magyary Program által kitűzött célok közül jelen módosítás az ügy dokumentációs és információs igénye csökkentését valósítja meg azáltal, hogy a nemzeti letelepedési engedély vonatkozásában az együttes adóigazolás helyett elegendővé válik a köztartozásmentes adózói adatbázisban történő szereplés ténye, így tovább csökken az eljárás összköltsége (3000 forinttal).
+
+A törvényben a menekültügyi eljárásokkal kapcsolatos uniós jogból fakadó kötelezettségek maradéktalan implementálása miatt szükségessé vált egyes migrációs tárgyú jogszabályok jogharmonizációs célú módosítása is, ugyanis a kötelezettségszegési eljárások számát mérsékelni hivatott EU Pilot programon keresztül az Európai Bizottságtól 2012. április 13-án megkeresés érkezett a magyar kormány részére a menekültügyi eljárásokkal kapcsolatban (3322-12-HOME EU Pilot ügy). Erre való tekintettel a nemzeti jogi szabályozást módosítani szükséges annak biztosítása érdekében, hogy kizárjuk annak lehetőségét, hogy egy menedékkérő Magyarországról történő kiutasításának elrendelésére vagy végrehajtására sor kerüljön azelőtt, hogy kérelmét a magyar hatóságok érdemben megvizsgálták volna.
+
+V. Származás-ellenőrzési munkacsoport
+
+A Magyary Program keretében sort kell keríteni a külföldről belföldi üzemeltetés céljából behozott használt járművek származás-ellenőrzésére irányuló eljárás olyan jellegű átalakítására, aminek eredményeként az eljárás gyorsabbá, egyszerűbbé válik.
+
+A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEKKH) feladat- és hatáskörébe tartozóan végzi a külföldről belföldi üzemeltetés céljából behozott használt járművek származásellenőrzését, amelyre a jármű származásellenőrzési nyilvántartásba vételét követően, az első magyarországi forgalomba helyezését megelőzően kerül sor. A jelenlegi szabályozás szerint a KEKKH a származásellenőrzés elvégzése során a külföldi hatóság nyilvántartásaiban, valamint a külföldi és nemzetközi körözési nyilvántartásokban történő ellenőrzés adatai alapján tisztázza a jármű származását és ennek eredményéről a közlekedési igazgatási hatóságot elektronikus úton tájékoztatja.
+
+A fentiek szerint a külföldről behozott használt járművek származásának ellenőrzéséhez a körözési nyilvántartásokban történő vizsgálaton túl minden esetben szükséges a külföldi hatóság nyilvántartásában történő ellenőrzés is, ezért erre való tekintettel - nemzetközi jogsegély keretében - a KEKKH mint a származás-ellenőrzést végző hatóság az eljárások során az érintett jármű vonatkozásában megkeresi a származási ország hatóságát.
+
+Az utóbbi évek eljárási tapasztalatai alapján megállapítható, hogy a származás-ellenőrzési eljárás a jelenlegi szabályozásnak megfelelően - amely az eljáró hatóság számára kivétel nélkül, minden esetben előírja a származási ország hatóságának megkeresését - egyes országok esetében a nemzetközi jogsegélyeljárás eredményes befejezéséig - a megkeresett külföldi hatóság válaszáig - akár több hónapot is igénybe vehet. Bár a Ket. előírásai értelmében az ügyintézési határidőbe nem számít bele a jogsegélyeljárás időtartama, azonban az ügyfelek türelmét igencsak próbára teszi a hosszadalmas eljárás, hiszen az érintett járműveket a származás-ellenőrzési eljárás eredményes lezárásáig nem lehetséges forgalomba helyezni.
+
+A fentiekre tekintettel szükségessé vált az eljárás felülvizsgálata, illetve a jogszabály módosítása oly módon, hogy annak eredményeként az eljárás gyorsabbá, egyszerűbbé, rugalmasabbá váljon, ugyanakkor a bűncselekmény-gyanús esetek továbbra is kiszűrhetők legyenek. Az eljárás ezen szempontok mentén történő felülvizsgálatát követően megállapítható, hogy a harmadik országból származó használt jármű származásának ellenőrzése során az esetek nagy részében megalapozott döntés hozható a származási ország nyilvántartásában történő ellenőrzés nélkül is. A KEKKH mint a származás-ellenőrzést végző hatóság közvetett, illetve közvetlen hozzáféréssel rendelkezik a körözési nyilvántartásokhoz. Ezzel a származás-ellenőrzési eljárások nagy részének ügyintézési ideje számottevően csökkenthető.
+
+A jogszabály-módosítás nyomán a jövőben kizárólag abban az esetben lesz szükség a külföldi hatóság megkeresésére, ha a harmadik országból származó használt jármű esetében az ügyfél kérelem benyújtásakor nem tudja bemutatni a járműhöz kiadott forgalmi engedélyt, valamint, ha a forgalmi engedély KEKKH általi vizsgálata során kétség merül fel annak eredetiségét illetően. Továbbra is szükséges a származási ország hatóságának megkeresése abban az esetben - figyelemmel a Tanács 1999/37/EK irányelvére -, ha a más EGT tagállamból származó használt jármű esetében a harmonizált forgalmi engedély I. és II. részből áll, és a II. rész hiányzik, vagy ha nem áll rendelkezésre a nem harmonizált forgalmi engedély eredeti vagy kiállító hatóság által hitelesített másolati példánya.
+
+VI. Hallgatói hitelrendszer munkacsoport
+
+A törvény bővíti a Diákhitel szervezet által a polgárok személyi adatainak és lakcímének nyilvántartásából igényelhető adatok körét. Hosszabb távon kapcsolati kód használatának biztosításával a Diákhitel szervezet automatikusan értesítést kaphatna a hitelfelvevő személyi adatainak és lakcímének nyilvántartásából a hitelfelvevő adatainak változásáról. Ennek megvalósulása esetén a Diákhitel szervezet ügyfelei az adatváltozások személyes benyújtása és egyeztetése helyett elektronikus úton is bejelenthetnék a változásokat.
+
+-----STARTING---POINT---RESZLETES---
+
+A törvény preambuluma meghatározza a szabályozás célját, amely a SIS II-ben való részvételünk lehetővé tétele.
+
+Az 1. §-hoz
+
+A törvény az uniós jogszabályokkal összhangban meghatározza a SIS II-vel kapcsolatos alapvető fogalmakat. Ez kiterjed egyrészt a SIS II különböző komponenseire, adattartalmára, másrészt a rendszer alkalmazásában érintett főbb hazai szereplőkre, mint az N.SIS II Hivatal, a SIRENE Iroda, valamint a jelzéskezelők, vagyis mindazon hatóságok, amelyek a rendszerbe adatokat helyeznek el.
+
+A 2-5. §-hoz
+
+E rendelkezések részletesen meghatározzák a legfontosabb szereplők, mint az N.SIS II Hivatal, a SIRENE Iroda és a jelzéskezelők feladatait. Mindhárom körben meghatározásra kerülnek az adatkezelői feladatok, mivel a SIS II esetében az osztott adatkezelés elve érvényesül. Az osztott adatkezelés azt jelenti, hogy a figyelmeztető jelzés elhelyezésére irányuló folyamat során az adatok több szerven mennek keresztül, míg megtörténik a SIS II központi rendszerében való rögzítésük. Erre a rendszer összetett műszaki felépítése és az adatok többszöri ellenőrzése miatt van szükség. A folyamat során érintett szervek saját tevékenységükkel kapcsolatban adatkezelői feladatokkal és felelősséggel rendelkeznek.
+
+Az N.SIS II Hivatal - a KEKKH - a SIS II hazai részének informatikai központja, amelyhez valamennyi további szereplő csatlakozik. Minden jelzésművelet és lekérdezés a KEKKH által üzemeltetett rendszeren keresztül kerül továbbításra a központi SIS II-be.
+
+A SIRENE Iroda a rendszer humán interfésze. A SIRENE Iroda központi kapcsolattartóként egyrészt ellátja a többi SIS II-t alkalmazó állam SIRENE Irodájával való kommunikációt, másrészt ide érkeznek az ország területén elért találatokról szóló értesítések a további teendők koordinálása érdekében. A SIRENE Iroda szerepet játszik abban, hogy a magyar figyelmeztető jelzések megfeleljenek a SIS II követelményeinek, valamint gondoskodik a Magyarországon végre nem hajtható jelzések megjelöléséről. A SIS II esetében új funkció a figyelmeztető jelzések összekapcsolásának lehetősége.
+
+A jelzéskezelő mindazon hatóságok, amelyek a rendszerben figyelmeztető jelzéseket helyeznek el, illetve adatokat továbbítanak. Ennek részletes szabályait az 5-11. §-ok tartalmazzák.
+
+A 6. §-hoz
+
+A jelenleg hatályban lévő, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvénytől (a továbbiakban: SVEtv.) eltérően az új törvény az egyértelműség és átláthatóság jegyében figyelmeztető jelzés típusonként részletesen határozza meg az elhelyezés szabályait.
+
+A 6. § az elfogatóparancsok alapján körözött személyekkel kapcsolatos eljárást határozza meg. Ennek a figyelmeztető jelzésnek az a sajátossága, hogy a kibocsátó bíróság az illetékes rendőri szervnek küldi meg az elfogatóparancsot és a rendőrség intézkedik a jelzés elhelyezéséről. További sajátosság, hogy e jelzéstípus alapjogokat érintő kiemelkedő jelentősége miatt az elhelyezése előtt a SIRENE Iroda is ellenőrzi az adatokat, valamint egy külön erre a célra rendszeresített formanyomtatványon megküldi a többi tagállam SIRENE Irodájának a 14-15. §-okban foglalt kiegészítő információkat. Maga az európai elfogatóparancs a rendszer egyik újdonságaként közvetlenül tárolható a SIS II-ben.
+
+A 7. §-hoz
+
+A 7. § a rejtett ellenőrzés - a hatályos jogszabályok szóhasználata szerint: „leplezett figyelés” - elrendelésének szabályait határozza meg. Ennek háttérszabályait az uniós jogi keretek alapján a rendőrségről szóló törvény, a Nemzeti Adó- és Vámhivatalról szóló törvény, valamint a nemzetbiztonsági szolgálatokról szóló törvény tartalmazza. A rejtett ellenőrzéssel kapcsolatban hangsúlyozandó, hogy nem operatív eszközről van szó, mindössze arról, hogy az igazoltatás (határátlépés) során az intézkedő rendőr, illetve pénzügyőr kérdéseket tesz fel az érintettnek útvonalával, úti céljával kapcsolatban, majd ezeket az információkat továbbítja a SIRENE Irodán keresztül a jelzést elhelyező hatóságnak. A jelzés eredményeként kirajzolódhat az érintett nemzetközi mozgása különösen akkor, ha rendszeresen átlépi a schengeni külső határokat. Az új szabályozás nem tartalmaz érdemi eltérést a jelenleg hatályos szabályokhoz képest.
+
+A 8. §-hoz
+
+A védelem alá helyezés, illetve a tartózkodási hely megállapítása érdekében körözött személyekre vonatkozó szabályokat tartalmazza. E körben nincs eltérés a hatályos törvényhez képest.
+
+A 9. §-hoz
+
+A beutazási és tartózkodási tilalom okán elhelyezendő figyelmeztető jelzésekről szól. A szabályozás visszautal a közvetlenül hatályos és alkalmazandó uniós rendeletre.
+
+A 10-11. §-hoz
+
+A 10-11. §-ok a tárgyakra vonatkozó figyelmeztető jelzések elhelyezésének szabályait tartalmazzák.
+
+A 10. § határozza meg a Rendőrség Körözési Információs Rendszeréből elhelyezendő tárgyak jegyzékét.
+
+A 11. § tartalmazza mindazokat az esetköröket, amikor valamely okmány nyilvántartásáért felelős hatóság figyelmeztető jelzést helyez el az adott okmányra. Tekintettel arra, hogy a kitöltetlen okmányokra vonatkozóan nem minden esetben létezik hatósági nyilvántartás, az (5) bekezdés kimondja, hogy ezekben az esetekben a jelzéselhelyezés nem a főszabályt jelentő automatikus rendszer-rendszer kapcsolattal, hanem az NS.CP Portál felületén keresztül történik.
+
+A (6) bekezdés megszorító arányossági szabályt állít fel az érvénytelenített okmányok esetében annak érdekében, hogy ne kelljen indokolatlanul sok figyelmeztető jelzést elhelyezni a SIS II-ben.
+
+A (7) bekezdés biztosítja, hogy ellopott jármű esetében maga a jármű kerüljön körözésre, ne csupán annak rendszáma, mivel a gyakorlatban előfordult, hogy a SIS találatot elérő külföldi hatóság nem a járművet, hanem csak annak rendszámát küldte vissza a magyar hatóság részére.
+
+A 12. §-hoz
+
+A 12. § a személyre vonatkozó figyelmeztető jelzések adattartalmát határozza meg a vonatkozó uniós előírásokra való utalással.
+
+A 13-16. §-hoz
+
+E rendelkezések szabályozzák a kiegészítő információk továbbítását. A feladat címzettje a SIRENE Iroda.
+
+A kiegészítő információként továbbítandó adatok körét uniós normák határozzák meg, amelyekre a 13-14. §-okban utalás történik, a 15. § pedig biztosítja a 2007/533/IB tanácsi határozat 29. cikkének hazai jogba történő átültetését.
+
+A 16. § szabályozza, hogy a SIRENE Iroda a kiegészítő információk beszerzése és továbbítása érdekében mely hazai nyilvántartásokból kaphat adatokat.
+
+A 17. §-hoz
+
+A megjelölés csatolásával egy tagállam jelezheti, hogy a kért intézkedést nem hajtja végre. A (2) bekezdés meghatározza azokat az eseteket, amikor már előre látható, hogy a figyelmeztető jelzésben kért intézkedés Magyarországon nem lesz végrehajtható. Az elfogatóparancsok körében ilyen eset a törvény erejénél fogva az a mindenki számára könnyen érzékelhető körülmény, ha az elkövető a Büntető Törvénykönyv szerint gyermekkorú. A végre nem hajtás további két esete a bíróság ilyen értelmű döntéséhez kapcsolódik. A magyar jog szerint nem alkalmazzuk az uniós jogszabályok által lehetővé tett célzott ellenőrzés jogintézményét (amely esetben az eljárás jellegének leplezése nélkül kerülhet sor személyek kikérdezésére és személyek vagy tárgyak átvizsgálására). Erre való tekintettel nem szükséges, hogy valamennyi ilyen figyelmeztető jelzéshez külön-külön megjelölést csatoljunk. Ehelyett az NS.CP automatikusan rejtett ellenőrzést jelenít meg a célzott ellenőrzés helyett. Erre a 2007/533/IB tanácsi határozat 37. cikk (4) bekezdése ad felhatalmazást.
+
+A 18. §-hoz
+
+A figyelmeztető jelzések közötti kapcsolatok létrehozásának lehetősége egyike a SIS II új funkcióinak. Ezt a hatáskört a SIRENE Irodához célszerű telepíteni, mivel itt van lehetőség a legszélesebb körben a több figyelmeztető jelzés kategóriát érintő beavatkozásra. A SIRENE Iroda az érintett jelzésekért felelős jelzéskezelő hatóságok együttes kérésére hozza létre a jelzések közötti kapcsolatot.
+
+A 19. §-hoz
+
+Ez a § határozza meg, hogy mely hatóság mely figyelmeztető jelzés kategóriákhoz férhet hozzá. E körben mindössze annyi az eltérés a jelenlegi szabályozáshoz képest, hogy a közúti közlekedési nyilvántartó szerv a forgalomba helyezési eljárást megelőzően elvégzendő származásellenőrzési eljárás keretében is hozzáférhet a vonatkozó SIS adatokhoz. Ez az eljárások jelentős egyszerűsítését és gyorsítását jelenti.
+
+A 20. §-hoz
+
+A törvény 19. §-ában meghatározott szervezetek személyzetének erre feljogosított tagjai rendszer-rendszer kapcsolat útján, vagy az NS.CP Portál felületén keresztül végezhetnek lekérdezéseket a SIS II-ből. A Portál lehetővé teszi, hogy a SIS II adatok a rendszer-rendszer kapcsolat üzemzavara esetén is elérhetőek legyenek.
+
+A 21. §-hoz
+
+A törvény említés szintjén utal a technikai másolatok készítésének és alkalmazásának lehetőségére. Ez a lehetőség az 1987/2006/EK rendelet 31. cikk (2) bekezdéséből ered. A technikai másolatokra vonatkozó részletes szabályokat a Rendőrségről szóló törvény tartalmazza.
+
+A 22-23. §-hoz
+
+E rendelkezések tartalmazzák a figyelmeztető jelzések megőrzési időtartamát, valamint a meghosszabbításukra vonatkozó szabályokat, összhangban a vonatkozó uniós rendelkezésekkel.
+
+A 24-25. §-hoz
+
+E §-ok tartalmazzák az 1987/2006/EK rendelet 38. cikkében foglalt rendelkezések végrehajtásához szükséges szabályokat. Adatvédelmi okokból korlátozni szükséges azokat az eseteket, amikor a SIS II kapcsán kicserélt személyes adatokat egyéb nyilvántartásokban tárolják. Az ilyen adattárolást időben is szigorúan korlátozni kell, ezért a törvény egyéves korlátot állapít meg. Ugyanakkor a saját figyelmeztető jelzésekkel, illetve azon figyelmeztető jelzésekkel kapcsolatos adatokat, amelyek okán belföldön intézkedést foganatosítottak, a hazai jog szerint lehet kezelni.
+
+A 26. §-hoz
+
+Az 1987/2006/EK rendelet 41. cikke rendelkezik arról, hogy a személyek megismerhetik, hogy a SIS II-ben róluk milyen adatokat tárolnak, illetve kérhetik ezek helyesbítését, törlését. Ezen túl az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 14-19. §-ai is előírják az érintett tájékoztatáshoz és helyesbítéshez, illetve törléshez való jogát valamennyi adatkezelés esetében. Jelen § ezen szabályok végrehajtásához szükséges rendelkezéseket tartalmazza. A tájékoztatásadás feladatát azért célszerű főszabályként a SIRENE Irodához telepíteni, mert itt van lehetőség a SIS II adattartalmának legszélesebb körű megismerésére, valamint a hazai jelzéskezelőkkel és a partner államokkal való kapcsolattartásra, így az érintett egyszeri kérelmére teljes körű tájékoztatást kaphat a róla kezelt adatokról. Az Infotv. rendelkezéseivel való összhang érdekében ugyanakkor azt is lehetővé kell tenni, hogy az érintett közvetlenül forduljon az egyes jelzéskezelőkhöz.
+
+A 27-28. §-hoz
+
+Ezek a rendelkezések szólnak a hazánkban elért SIS II találatot követő eljárásról. A főszabály, hogy a foganatosítandó intézkedést a hatályos jogszabályoknak megfelelően kell végrehajtani. A gyakorlatban a figyelmeztető jelzések alapján lefoglalt tárgyak sorsának rendezetlensége okozta a legtöbb problémát, így erre a törvény részletes szabályokat állapít meg. A tipikusnak tekinthető forgatókönyv szerint abban az esetben, ha egy külföldi államban ellopnak egy járművet, megindul a büntetőeljárás, és figyelmeztető jelzést helyeznek el a SIS-ben. A büntetőeljárás általában rövid időn belül eredménytelenül lezárul, a figyelmeztető jelzés azonban 10 évig is a rendszerben maradhat. Ha ez alatt az idő alatt Magyarországon megtalálják a járművet, azt le kell foglalni. A jelenlegi szabályozás szerint bűnügyi együttműködés keretében, vagyis jogsegély iránti megkeresés alapján lehet ezeket a járműveket átadni. Tekintettel azonban arra, hogy a jelzést elhelyező külföldi államban ekkor már nincs folyamatban lévő büntetőeljárás, jogsegély iránti megkeresést sem tudnak küldeni. A 28. § egyrészt rendelkezik az ilyen tárgyak (az eddig tipikusan előforduló járművek mellett a SIS II-ben egyéb tárgykategóriák is érintettek lehetnek) visszaszármaztatásáról, illetve ennek meghiúsulása esetén értékesítéséről.
+
+A 29. §-hoz
+
+A hasonló jellemzőkkel rendelkező személyek megkülönböztetéséről az 1987/2006/EK rendelet kellően világos szabályokat tartalmaz, ezért a törvény csak utal annak 35. cikkére.
+
+A 30. §-hoz
+
+A személyazonossággal való visszaélés esetén az érintett fél kérésére lehetséges lesz a SIS II-ben elhelyezni biometrikus adatait. Ennek szabályait az 1987/2006/EK rendelet 36. cikke határozza meg, a magyar törvény pedig gondoskodik ezek végrehajtásáról. Az adatrögzítéshez szükséges technikai felszerelés valamennyi rendőrkapitányságon rendelkezésre áll, ezért az érintett a lehető legkevesebb utánajárással megteheti az adatai rögzítésére irányuló kérelmét.
+
+A 31-32. §-hoz
+
+E rendelkezések adatvédelmi jellegű szabályokat állapítanak meg. Az osztott adatkezelői jogkör miatt fontos általános éllel kimondani, hogy valamennyi érintett a saját eljárása során felel az adatvédelmi, adatminőségi, adatbiztonsági szempontok érvényesítéséért.
+
+A 33. §-hoz
+
+Annak érdekében, hogy a rendőrség megfelelő minőségű adattartalommal helyezze el a SIS II-be a figyelmeztető jelzéseket és kiegészítő adatokat, szükséges, hogy kizárólag ebből a célból hozzáférhessen bizonyos nyilvántartások adataihoz. Ezen nyilvántartásokhoz a SIRENE Iroda is hozzáférhet a kiegészítő információk beszerzése és továbbítása céljából, ezért itt a törvény visszautal a 16. § érintett pontjaira.
+
+A 34-35. §-hoz
+
+Ezek a rendelkezések állapítják meg az 1987/2006/EK rendelet 44. cikkében szabályozott nemzeti ellenőrző hatóságra vonatkozó szabályokat. Magyarországon ezt a feladatkört a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH) látja el, mivel így biztosítható a független külső ellenőrzés a SIS II-vel összefüggésben végzett adatkezelés tekintetében.
+
+A 36. §-hoz
+
+Ez a § szabályozza a SIS II-be történő adatbevitel, adattovábbítás és lekérdezések nyilvántartásának (naplózásának) szabályait. Az adatforgalom naplózása valamennyi információs rendszer estében alapvető garanciális szabály. A naplózás legcélszerűbben központi szinten az N.SIS II Hivatalban, illetve egyes esetekben a jelzéskezelőknél és speciális körben a SIRENE Irodában biztosítható. E tekintetben tehát ismét az osztott adatkezelői felelősség érvényesül.
+
+A 37-38. §-hoz
+
+A jogosultság nyilvántartás vezetésére vonatkozó szabályok jelenleg az N.SIS informatikai központ feladatait ellátó szerv kijelöléséről, a SIS-be történő adatbevitel elrendelésének és végrehajtásának, valamint az N.SIS Hivatal és a SIRENE Iroda technikai és adminisztratív feladatai ellátásának részletes szabályairól szóló 242/2007. (IX. 21.) Korm. rendeletben szerepelnek, azonban a személyes adatok érintettségére való tekintettel indokolt ezen szabályok törvényi szintre való emelése.
+
+A 39. §-hoz
+
+A SIS II adataihoz hozzáférő személyeknek a SIS II adatok különleges fontossága miatt, titoktartási kötelezettsége áll fenn.
+
+A 40. §-hoz
+
+A SIS II nem rendelkezik önálló jogorvoslati rezsimmel, mivel abba különböző államok különböző hatóságai továbbíthatnak információkat. A hatóságok aktusaival szemben a rájuk vonatkozó törvények szerint van lehetőség jogorvoslatra. Külföldi hatóságok esetében a kapcsolattartás a SIRENE Irodán és a NAIH-on keresztül történhet.
+
+-----STARTING---POINT---VEGE---
+
+A 41-42. §-hoz
+
+Tekintettel arra, hogy nem minden szabályt szükséges törvényi szinten megalkotni, ezért szükséges felhatalmazó rendelkezést biztosítani kormányrendelet megalkotására.
+
+Az egyes rendelkezések több eltérő időpontban lépnek hatályba. Általános hatályba lépési időpont a kihirdetést követő 15 nap. A (2) bekezdésben a 2013. január 1-jei időpont kerül meghatározásra, mely a Magyary Zoltán Közigazgatás-fejlesztési Programmal érintett egyszerűsítéseket lépteti hatályba.
+
+A (3) bekezdésben a külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) módosítását tartalmazó egy bekezdés hatályba lépése kerül meghatározásra 2013. január 2-án. Ennek indoka, hogy az Utv. 16. §-át az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény is módosítja 2013. január 1-jével.
+
+A (4) bekezdésben foglalt rendelkezés hatálybalépése külön törvényhez - az anyakönyvi eljárásról szóló 2010. évi I. törvény - igazodik, azzal egyidejűleg lép hatályba.
+
+Az (5) bekezdés a (4) bekezdéshez hasonlóan a hatálybalépést egy külön időpontban hatályba lépő rendelkezéshez igazítja. Ehhez kapcsolódik a (6) bekezdésben foglalt rendelkezés is.
+
+A 43. §-hoz
+
+A SIS II projekt megvalósulási céldátuma jelenleg uniós szinten 2013 első negyedéve, az éles üzembeállás pontos idejéről külön tanácsi határozat rendelkezik majd. Műszaki rendszerek közötti átállás esetében rutin eljárásnak számít, hogy egy ideig a régi rendszer tartalékként még elérhető marad arra az esetre, ha az új rendszerrel kapcsolatban műszaki hibák merülnek fel. Ez a SIS 1-ről a SIS II-re való átálláskor is így lesz, ezért egy rövid átmeneti ideig a jelen törvény hatályba lépését követően még az SVEtv. is hatályban marad, majd az átmeneti időszak végén hatályát veszti, ekkor a SIS 1 rendszer végérvényesen leállításra kerül és a SIS II marad az egyedüli működő rendszer.
+
+A 44. §-hoz
+
+E §-ban megjelölt rendelkezések az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősülnek.
+
+A 45. §-hoz
+
+Az Európa Unió jogának megfelelő ún. jogharmonizációs záradékot tartalmazza.
+
+A 46. és 63. §-hoz
+
+Az anyakönyvi eljárásról szóló törvény alapján 2013. január 1-jétől létrejön az elektronikus anyakönyvi nyilvántartás. A törvény módosítja az elektronikus anyakönyvből közvetlen hozzáféréssel az anyakönyvi kivonat adattartalmát képező adatok átvételére jogosultak körét, kiegészítve a felsorolást az útlevélhatósággal, az úti okmány kiadására irányuló eljárás lefolytatása érdekében.
+
+A 47. §-hoz
+
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény technikai jellegű módosításai a személyi igazolványok adatainak SIS II-be történő zökkenőmentes elhelyezését hivatottak biztosítani.
+
+A törvény módosítja a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben szereplő, a személyi adat- és lakcímnyilvántartásból történő adatigénylésre jogosultakat meghatározó szabályozást. Részben módosul a jogosultak köre, a törvény értelmében a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője is jogosulttá válik az adatigénylésre. Másrészt módosításra kerül azon adatok köre is, amelyek igénylésére az útlevélhatóság - és a konzuli tisztviselő - jogosult, így a továbbiakban a személyazonosító jelet is megismerhetik a jelenlegi adatkör mellett (a természetes személyazonosító adatok és lakcímadatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje adatok).
+
+A törvény bővíti a hallgatói hitelrendszert működtető szervezet által igényelhető adatok körét a hallgatói hitel folyósításával, törlesztésével, valamint a hitelhez kapcsolódó célzott kamattámogatás igénylésével kapcsolatos feladatai ellátása érdekében.
+
+A 48. §-hoz
+
+A § elsősorban a rejtett ellenőrzés szabályait vezeti át a Rendőrségről szóló törvényben. Ezek a szabályok nem tartalmaznak lényegi eltérést a hatályos szövegben található leplezett figyeléshez képest. A § rendelkezik továbbá a folyamatosan frissülő on-line technikai másolatok létesítésének lehetőségéről, mivel a hatályos szabályozás off-line másolatokra épülő szabályozása már nem felel meg a korszerű technológiai és operatív követelményeknek.
+
+Az alapvető jogok biztosa a 2012. július 11-én a KÖZGÉP Építő- és Fémszerkezetgyártó Zrt. telephelyén tartott rendezvény tárgyában készített AJB-5662/2012. számú Jelentésében az egységes jogalkalmazás érdekében felkérte az országos rendőrfőkapitányt, hogy tegyen intézkedéseket annak érdekében, hogy egy rendezvény feloszlatásakor az eljáró rendőrök a feloszlatás tényét és jogalapját minden alkalommal a gyülekezési jogról szóló 1989. évi III. törvény rendelkezéseinek megfelelően közöljék a rendezvény résztvevőivel.
+
+A jelenleg hatályos szabályozás, a rendezvények rendjének biztosításával kapcsolatos rendőri feladatokról szóló 15/1990. (V. 14.) BM rendelet (a továbbiakban: R.) az oszlatást megelőző felhívás részeként az annak indokairól való tájékoztatást nem teszi az eljáró hatóság kötelezettségévé, ezért szükséges egy, az oszlatással kapcsolatos felhívás tartalmát részletekbe menően meghatározó jogszabály megalkotása. Ezzel összefüggésben megállapítható, hogy az R. kiadása még a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) által már 1994. október 1-től hatályon kívül helyezett, a rendőrségről szóló 39/1974. (XI. 1.) MT rendelet felhatalmazásán alapul. A jogalkotásról szóló 2010. évi CXXX. törvény 10. § (5) bekezdése értelmében így az R. már nem módosítható, csupán hatályon kívül helyezésére van lehetőség még akkor is, ha csak az R. módosítására volna szükség.
+
+A 49. §-hoz
+
+A rejtett ellenőrzés szabályait az Rtv., valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: NAVtv.) módosításához fűzött indokolással azonos okokból a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényen (a továbbiakban: Nbtv.) is át kell vezetni, illetve erre való tekintettel szükséges a törvény jogharmonizációs klauzulájának frissítése.
+
+Az 50. §-hoz
+
+A törvény a kapcsolati kód alkalmazásával lehetővé teszi, hogy a hallgatói hitelrendszert működtető szervezet a hitelfelvevő adatainak változása esetén értesítést kaphasson a polgárok személyi adatait és lakcímét nyilvántartó szervtől.
+
+Az 51. §-hoz
+
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvénynek a költségviselésről szóló kiegészítése garanciális jellegű, a módosításban foglaltak teljes mértékben megfelelnek a jelenlegi gyakorlatnak, és alapjuk a privatizációs szerződés, amely alapján a Repülőtér hosszú évek óta üzemel.
+
+A módosítás célja, hogy a belügyminiszter felhatalmazást kapjon az önkéntes tűzoltó egyesületek szakmai tevékenységet ellátó tagjaira, valamint a gazdálkodó tevékenységet folytató magánszemélyeknél, a jogi személyeknél, jogi személyiséggel nem rendelkező szervezeteknél a katasztrófavédelem, a polgári védelem és a tűzvédelem szakágazatokban, illetve a tűzvédelmi szolgáltatás területén foglalkoztatókra és foglalkoztatottakra vonatkozóan a szakmai képesítési követelményekről és a szakmai képzésről szóló szabályozás kiadására. A szabályozás hatálya kiterjed a képzési költségmentességre és az egyéb költségek viselésére is.
+
+Az 52. §-hoz
+
+Az Utv. módosításában megjelenik az a működési elv, miszerint a SIS II esetében a KEKKH mint központi adatkezelő szerv ellátja majd a jelenleg a Külügyminisztérium feladatkörébe tartozó diplomata és külügyi szolgálati útlevelek SIS II-be történő elhelyezését is. Ennek átvezetése mellett a módosítások technikai elemeket tartalmaznak.
+
+Valamennyi útlevél-típus kiállítására vonatkozóan meghatározásra kerül az útlevél kiállításának ügyintézési határideje. A hatályos szabályozás szerint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben (a továbbiakban: Ket.) meghatározottak szerint érvényesülő 30 napos általános ügyintézési határidőn belül kell kiállítani az útleveleket. A törvény ezen általános ügyintézési határidő helyett 20 napos ügyintézési határidőt ír elő, ami azt jelenti, hogy a határidő lejárta előtt elkészült úti okmányok esetében a határidő 20. napját nem kell megvárni.
+
+A törvény az Utv. szerinti adatszolgáltatási eljárásban is 20 napos ügyintézési határidőt állapít meg, továbbá jogszabályi szinten is egyértelművé teszi, hogy ha az adatszolgáltatás keretében - a hatályos jogszabályi rendelkezések szerint - „hivatalos igazolás” kiállítását kérik, akkor tulajdonképpen hatósági bizonyítvány kiállítására vonatkozó kérelemről van szó. Erre tekintettel pedig a Ket. 83. § (3) bekezdése alapján ilyen esetben az ügyintézési határidő a kérelem előterjesztésétől számított 10 nap.
+
+A törvény lehetővé teszi, hogy az útlevélhatóság az elektronikus anyakönyvből elektronikus úton adatokat vegyen át: e szabályozás révén csökken az eljárások dokumentációs igénye, hiszen a továbbiakban szükségtelen papír alapon csatolni az anyakönyvi kivonatokat. Ha az adatokban az útlevélhatóság eltérést tapasztal, a továbbiakban nem lesz szükséges az anyakönyvvezető megkeresése, az adategyeztetéshez elegendő lesz mindössze az elektronikus anyakönyvi nyilvántartásból történő lekérdezés, ezáltal maga az eljárás is egyszerűsödik.
+
+A törvény lehetővé teszi továbbá, hogy az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatait (a biometrikus adatokat) az útlevélhatóság a tároló elemet tartalmazó úti okmány érvényességi idejének megfelelő időtartamig kezelje. Ezen szabályozás lehetővé teszi, hogy az úti okmány elvesztése, eltulajdonítása vagy megsemmisülése esetén az elveszett, eltulajdonított, megsemmisült okmány pótlására a biometrikus adatok ismételt rögzítése nélkül sor kerülhessen. Ugyanígy lehetővé válik, hogy az első magánútlevél érvényességi időtartamán belül a második magánútlevelet a biometrikus adatok ismételt rögzítése nélkül ki lehessen állítani. Ezáltal lehetővé válik az is, hogy az útlevél kiállítására irányuló kérelmet személyes megjelenés nélkül, akár elektronikus úton terjessze elő az igénylő.
+
+A törvény a hajós szolgálati útlevelek esetében több pontosítást is elvégez, amelyek eredményeképpen egyrészt módosulnak a jogosultsági feltételek, másrészt a jogi szabályozásban egyértelműbben jelennek meg a hajós szolgálati útlevél kiadása iránti kérelmet benyújtó személyt alkalmazó hajózási tevékenységet végző gazdálkodó szervezetet terhelő kötelezettségek. Így a határvízen különböző feladatokat végző vízügyi dolgozók a hajós szolgálati útlevél helyett jogosulttá válnak szolgálati útlevélre, azaz ezen személyi kör tekintetében az eljárás a szolgálati útlevél kiadásával kerül összevonása. E pontosítás nyomán egyértelművé válnak a jogszabályokban jelenleg az elrendelő vagy javaslatot tevő szervre telepített feladatok, csökkentve ezzel a bizonytalan jogszabályi rendelkezésekből fakadó jogalkalmazási nehézségeket, felesleges jogalkalmazói lépéseket.
+
+A törvénymódosítás nyomán a külföldre utazási korlátozás új korlátozási esetkörökkel (javítóintézeti nevelés intézkedés időtartama, az Európai Unió tagállamaival folytatott bűnügyi együttműködés alapján alkalmazható új jogintézmény: az ország elhagyásának megtiltása és az úti okmány leadására kötelezés) kerül kiegészítésre, másrészt pontosításra kerül a külföldre utazási korlátozás okainak és terjedelmének a szabadságvesztés büntetés tekintetében történő meghatározása.
+
+A korlátozási okok egyrészt kiegészülnek azokkal az esetkörökkel, amikor eredetileg a terhelttel szemben nem végrehajtandó szabadságvesztést rendeltek el, azonban egy későbbi döntés eredményeképpen mégis büntetés-végrehajtási intézetbe kell vonulnia. Így a törvény tartalmazza, hogy a külföldre utazási korlátozás abban az esetben is fennálljon, ha a felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetés végrehajtását rendelik el. Semmilyen ésszerű különbség sem fedezhető fel ugyanis azon eset között, ha valakit már eleve végrehajtandó szabadságvesztésre ítéltek és ezért áll külföldre utazási korlátozás hatálya alatt, illetve azon eset között, ha valamely más, nem végrehajtandó szabadságvesztés büntetése később bekövetkező vagy észlelt körülmények miatt utóbb válik végrehajtandó szabadságvesztéssé.
+
+A törvény mindemellett pontosabbá teszi a szabadságvesztés büntetés miatti külföldre utazási korlátozás egyik lehetséges befejezési időpontját jelentő „büntetésének kitöltéséig” meghatározást. Ez a fogalom ugyanis többféleképpen értelmezhető, így nehezen határozható meg a külföldre utazási korlátozás megszűnésének időpontja, ami - a polgárok alapvető jogának korlátozásáról lévén szó - alkotmányossági szempontból aggályos. A törvény ezért a külföldre utazási korlátozás végének az időpontját abban a napban határozza meg, amikor a határozott tartamú szabadságvesztés büntetés végrehajthatósága megszűnt, vagy a szabadságvesztés végrehajtásának utolsó napjában.
+
+Az Utv. 28. §-a szerinti adatszolgáltatási eljárással kapcsolatban a törvénymódosítás nyomán egyértelművé válik, hogy az adatszolgáltatás keretében hatósági bizonyítvány kiállítását lehet kérni a jelenleg miniszteri rendeletekben szereplő, bizonytalan jelentésű „hivatalos igazolás” helyett. Ezáltal pedig ezen esetekben a Ket.-ben a hatósági bizonyítványok kiállítására vonatkozó szabályozás lesz az irányadó.
+
+A törvény azt is tisztázza, hogy abban az esetben, ha a kérelmező a saját adatairól kér tájékoztatást - ide nem számítva azt az esetet, ha hatósági bizonyítvány kiállítását is kéri -, az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint kell eljárni.
+
+A törvény egy új felhatalmazó rendelkezéssel egészíti ki az Utv.-t, eszerint a külföldre utazás szabályozásáért felelős miniszter rendeletalkotási felhatalmazást kap annak érdekében, hogy meghatározza az adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát. Az így kialakítandó formanyomtatvány értelemszerű kitöltésével csökkenthető a később szükségessé váló hiánypótlások száma, miáltal az ügyintézési idő csökken, az ügyfelek elégedettsége ugyanakkor nő.
+
+A törvény módosítja az érvénytelen úti okmányok elvételére jogosultakra vonatkozó szabályozást. A hatályos szabályozás szerint az érvénytelen úti okmányt a magyar külképviselet hatósági intézkedésre feljogosított konzuli tisztviselője hivatalos eljárása során elveszi. Ezen rendelkezés kiegészítésre kerül - az elvételre jogosultak köre tekintetében - az érvénytelen okmányok elvétele esetében a tiszteletbeli konzuli tisztviselő személyével. E módosítás következtében megnő annak a valószínűsége, hogy a visszavont okmányok elvételre kerüljenek a birtokostól.
+
+A törvény mindemellett kiegészíti az érvénytelenségi okokat azzal az esetkörrel, amikor a szülő a korábban adott hozzájárulását visszavonta vagy a szülő szülői felügyeleti joga megszűnt vagy szünetel. A hatályos szabályozás szerint ezen esetekben nem érvénytelen az okmány, de azt vissza kell vonni, ugyanakkor jelenleg ezen esetekben a visszavont úti okmányt sem a konzuli tisztviselő, sem a tiszteletbeli konzuli tisztviselő nem jogosult elvenni. A módosítás következtében ezen - immár érvénytelennek minősülő - úti okmányok elvételére is jogosulttá válik a konzuli tisztviselő és a tiszteletbeli konzuli tisztviselő.
+
+Az 53. §-hoz
+
+A törvény értelmében megszűnik a büntetőügyben eljáró hatóságoknak az úti okmányok visszatartásával kapcsolatos kötelezettsége, mivel a külföldre utazási korlátozás elsősorban a szükséges nyilvántartásokban való bejegyzés útján érvényesíthető hatékonyan.
+
+Az 54. §-hoz
+
+A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosításai a SIS II-be továbbítandó okmányokra vonatkozó figyelmeztető jelzésekkel kapcsolatos technikai szabályokat állapítják meg.
+
+Az 55. §-hoz
+
+A módosítandó § rendelkezései részben ellentétesek, részben átfedésben állnak SIS II tv.-ben foglaltakkal.
+
+A SIS II tv. 3. § (1) bekezdése kimondja, hogy a SIRENE Iroda feladatait a NEBEK látja el, ezeket a feladatokat a törvény részletesen szabályozza, ezért az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvényben elegendő utalni a SIS II tv-re.
+
+Az utaló szabály beépítése miatt indokolt a törvény jogharmonizációs záradékát is kiegészíteni, mivel az áttételesen a SIS II-ről szóló uniós jogi eszközöknek való megfelelést is szolgálja.
+
+Az 56. §-hoz
+
+E § (1) bekezdése biztosítja, hogy a jelenlegi rövid szabályozáshoz képest a személy és tárgykörözésről szóló 2001. évi XVIII. törvény (a továbbiakban: Sztktv.) pontosabban - és a SIS II-be elhelyezendő figyelmeztető jelzés típusokkal összhangban - határozza meg a körözés fogalmát.
+
+A szakasz (2) bekezdése a SIS II törvénnyel való összhang megteremtését célozza. A rendőrség rendelkezik általános hatáskörrel a személyek és tárgyak körözésére. Ez alól a hatályos szabályozásnak megfelelően ugyanakkor kivételt képez a SIS II-be elhelyezendő, Magyarországon előállított és elveszett, eltulajdonított vagy érvénytelenített okmányok, illetve gépjármű hatósági jelzések köre (ideértve a kiállított és a még kitöltetlen okmányokat is), amelyeket az adott okmány nyilvántartásáért felelős hatóság jegyez be a nyilvántartásba és innen kerülnek elhelyezésre a SIS II-be. A szabályozás a (2) bekezdéssel egyszerűsíti a körözés elrendelését. Ha az a körözési információs rendszerbe való bejegyzéssel megvalósul, az elrendelésről nem szükséges külön alakszerű határozatot hozni. A büntetőügyekben ugyan a rendőrség jár el, de ilyenkor is szükség van az adott okmánytípus nyilvántartásáért felelős hatóság értesítésére a figyelmeztető jelzés elhelyezése érdekében. Ezek a nyilvántartások ugyanakkor nem kezelik a külföldi kiállítású okmányokat, ezért ezeket a körözési információs rendszerből kell elhelyezni a SIS II-be.
+
+A körözés elrendelésének logikája vonatkozik a körözés visszavonására is, e feladat tehát szintén a rendőrséget, illetve az adott okmánytípus nyilvántartását kezelő hatóságot érinti.
+
+A (4) bekezdésben található rendelkezés technikai jellegű. A rendőrség természetesen csakis az eljáró igazságügyi szerv döntése alapján vonhatja vissza a SIS II-be továbbított körözéseket.
+
+A hatályos Sztktv. 12. § j) pontban található rendelkezéséből elhagyható a központi személyiadat- és lakcímnyilvántartásra való utalás, mivel a (8) bekezdés megteremti az automatikus adatkapcsolatot a nyilvántartás és a körözési információs rendszer között. Ugyanezen szakasz k) és l) pontokban foglalt rendelkezések a SIS II-vel való technikai és terminológiai összhangot célozzák. Az m) pontban foglalt szabályozás nem változik, az n) pont ugyanakkor lehetővé teszi rendszámfelismerő rendszer üzemeltetését, aminek révén nagyobb eséllyel találhatók meg a keresett járművek és - áttételesen - a személyek.
+
+E § (6) bekezdésében található módosítás a SIS II logikájával egyezően a körözési célok körében megjeleníti a védelem alá helyezést, összhangban az Rtv. 49. § szerinti módosításával.
+
+Az Sztktv. 16. § (1) bekezdését szükséges módosítani, hogy a törvény lefedje azokat az eseteket is, amikor nem a rendőrség döntött a körözés elrendeléséről. Ilyenkor természetesen csak a kompetens szerv döntésének kézhezvételét követően lehet bejegyezni a körözési információs rendszerbe. A (3) bekezdés célja, hogy ha egy személyre valamely cselekmény miatt már kiadásra került az európai, vagy nemzetközi elfogatóparancs, és az ilyen elfogatóparancs kiadásának feltételei más ügyben is fennállnak, akkor minden ügyben mielőbb kerüljön sor az elfogatóparancs kiadására. Ellenkező esetben, ha a SIS II-ben elhelyezett elfogatóparancs alapján nem lehetséges a személy átadása Magyarország részére, a specialitás elve miatt más ügyben sem kerülhet arra sor, és a személyt szabadon kell bocsátani. Ha minden lehetséges ügyben kiadásra kerül az európai, illetve a nemzetközi elfogatóparancs, az jelentősen növeli a személy valamelyik elfogatóparancs alapján történő átadásának esélyét.
+
+A törvény további célja annak biztosítása, hogy a körözési információs rendszerben és ezáltal a SIS II-ben mindig naprakész adatok szerepeljenek, amelyek alkalmasak a keresett személy azonosítására. A gyakorlatban ugyanis megtörténik, hogy egy körözött személy nevet változtat, amely változás nem kerül automatikusan átvezetésre a körözési információs rendszerben és a SIS-ben, így a körözött személyre indított lekérdezés sem jelezhet találatot. Az automatikus adatkapcsolat bevezetése orvosolja ezt a problémát.
+
+Az Sztktv.-be szükséges beépíteni a jogharmonizációs záradékot. A törvény módosításai a korábbi harmadik pilléres (bel- és igazságügyi együttműködés) 2007/533/IB tanácsi határozatban szabályozott figyelmeztető jelzés típusoknak megfelelően alakítja ki a körözés hazai szabályait.
+
+Az Sztktv. 14/A. § hatályon kívül helyezendő, mivel a SIS II törvény 5-11. §-ai pontosan meghatározzák a rendőrség figyelmeztető jelzések elhelyezésével kapcsolatos feladatait, így ezeket nem szükséges az Sztktv.-ben is megismételni.
+
+Az 57. §-hoz
+
+A törvény a konzuli védelemről szóló 2001. évi XLVI. törvényre is kiterjed, amely jogszabály ennek nyomán rögzíti, hogy a jövőben az érvénytelen útlevél átvétele is a tiszteletbeli konzuli tisztviselő feladatai közé tartozik.
+
+Az 58. §-hoz
+
+A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény módosítását a 2011. április 5-én kihirdetett, az emberkereskedelem megelőzéséről és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló Európai Parlament és a Tanács 2011/36/EU irányelve (a továbbiakban: Emberkereskedelmi Irányelv) megjelenése tette szükségessé, amely uniós norma átültetési határideje 2013. április 6. Az Emberkereskedelmi Irányelv a tagállamokat olyan egységesített rendszerek kialakítására kötelezi, amelyek célja az emberkereskedelem áldozatainak azonosítása és irányítása. A rendszer lényege, hogy a hatóságok, segítő szervezetek a látókörükbe került személyekkel kapcsolatban - egységes szempontrendszer alapján - gyorsvizsgálatot hajtanak végre. Ha e vizsgálat alapján valószínűsíthető az áldozati minőség, az azonosító szerv az áldozatként azonosított személyt hozzásegíti az őt megillető ellátásokhoz: védett szálláshoz, dologi támogatáshoz (pl. ruhaneműk, tisztálkodó szerek, stb.), tanácsadáshoz és pszichológiai támogatáshoz.
+
+Az 59-61. §-hoz
+
+A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) módosítása technikai szabályokat tartalmaz annak érdekében, hogy összhangot teremtsen a SIS II törvény elveszett, eltulajdonított, érvénytelenített okmányokra vonatkozó szabályaival.
+
+A harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i, 2008/115/EK európai parlamenti és tanácsi irányelv (a továbbiakban: Visszatérési Irányelv) átültetését vizsgáló európai bizottsági jelentés alapján készített, 2012. június 22-én kelt válaszlevélben a Belügyminisztérium arra tett ígéretet, hogy a Visszatérési Irányelv 3. cikk (9) bekezdésében foglalt, az irányelv terminológiájában „sérülékeny személyek” elnevezésű csoport definícióját a migrációs joganyagban is megjeleníti. Ez a definíció - „különleges bánásmódot igénylő személy” kifejezés alakjában - már most is létezik a menedékjogi törvényben, így a jogrendszeri koherencia és a fogalom tartalmának azonossága okán Harmtv. szintén ezt az értelmező rendelkezést veszi át. Tekintettel azonban arra, hogy a Visszatérési Irányelv több jogintézmény (önkéntes távozás, kitoloncolás, őrizet) vonatkozásában említi e csoportot, így ezt is meg kell jeleníteni a magyar joganyagban. A fogalom meghatározása mellett ki kell tehát egészíteni a Harmtv. szabályait, hogy a fogalom tartalommal is megteljen. Mindez megteremti az érdemi összhangot a Visszatérési Irányelv említett rendelkezésével.
+
+A menedékjog iránti kérelmet előterjesztő külföldieket az idegenrendészeti hatóság látja el humanitárius tartózkodási engedéllyel. A menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) határozza meg azt, hogy mely esetekben jogosult a kérelmező humanitárius tartózkodási engedélyre. A Harmtv. és a Met. összhangjának megteremtése érdekében indokolt a Harmtv. kiegészítése a Met.-re történő utalással.
+
+Ha a harmadik országbeli állampolgár a kiutasítását követően, a kiutasítás végrehajtásának időtartama alatt terjeszt elő menedékjogi kérelmet, és a Met. alapján a kérelmezőt megilleti a területen maradás joga, indokolt a Harmtv. olyan irányú módosítása, hogy ez esetben az idegenrendészeti hatóság a kiutasítás végrehajtását a menedékjogi eljárás jogerős befejezéséig felfüggessze. Erre tekintettel a menedékjog iránti kérelmet előterjesztő kiutasítás hatálya alatt álló harmadik országbeli állampolgár - ha a Met. szerint a területen maradás jogát élvezi - nem toloncolható ki Magyarországról. Ha a menedékjogot kérő a Met. alapján a területen maradás jogát nem élvezi, a kiutasítása végrehajtható. A menedékjogi kérelem előterjesztése mindazonáltal nem jár az őrizet megszüntetésével.
+
+A menekültügyi eljárás hatálya alatt álló harmadik országbeli állampolgárral szemben - ha a Met. alapján megilleti a területen maradás joga - az idegenrendészeti hatóság kiutasítást, illetve visszairányítást nem alkalmazhat, ezért indokolt a Harmtv. módosítása. Ez esetben az idegenrendészeti eljárást a hatóság a Ket. szabályai alapján felfüggeszti.
+
+A törvény a Harmtv.-ben foglalt szabályozásra is kiterjed. A nemzeti letelepedési engedély vonatkozásában az együttes adóigazolás helyett elegendővé válik a köztartozásmentes adózói adatbázisban történő szereplés ténye. A módosítás lehetővé teszi, hogy az idegenrendészeti hatóság adatot igényelhessen a köztartozásmentes adózói adatbázisból, amelynek révén az ügyfél mentesülhet az együttes adóigazolás beszerzésének kötelezettsége, illetve ezen eljárás - 3000 forint összegű - illetékének megfizetése alól. Ennek köszönhetően csökken az ügyfél adminisztrációs terhe.
+
+A kérelem írásban történő visszavonása a többi megszüntető októl elkülönülten kezelendő, tekintettel arra, hogy a kérelmező az ügy ura, és kifejezett akarata ellenére a menekültügyi eljárás nem folytatható.
+
+A menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól szóló, 2005. december 1-i, 2005/85/EK tanácsi irányelv (a továbbiakban: Eljárási Irányelv) 20. cikke lehetővé teszi a kérelem hallgatólagos visszavonása eseteiben (pl. ismeretlen helyre távozás) mind a kérelem elutasítását, mind az eljárás megszüntetését. Ennek megfelelően - különösen a megszüntető döntést követően előterjesztett, ismételt kérelmekre vonatkozó szabályok tükrében - indokolt biztosítani a lehetőséget a menekültügyi hatóság számára ahhoz, hogy a felderített tényállású ügyekben ne kelljen szükségszerűen megszüntető döntést hozni.
+
+A módosítás célja a megszüntető végzésekkel szemben benyújtott jogorvoslati lehetőség egységes szabályozása.
+
+A menekültügyi hatóság a nyilvánvaló megalapozatlanság esetében az 53. § (2) bekezdés értelmében határozatot hoz, így az egységes szóhasználat érdekében a „végzés” kifejezés helyett a „döntés” kifejezés használata indokolt. Az Eljárási Irányelv 7. cikke a területen maradás jogát a menedékkérőknek csupán a közigazgatási eljárás időtartamára biztosítja, így - a hatékony jogorvoslat követelményére is tekintettel, amely alapján a területen maradási jog az első eljárás esetében a jogorvoslati szakra is kiterjedően biztosított - indokolatlan az automatikus halasztó hatály biztosítása az azonos ténybeli alapon benyújtott ismételt kérelmek esetében. Az ezzel ellenkező rendelkezés akadályozná a kiutasítások hatékony végrehajtását, illetve megteremtené a joggal való visszaélés lehetőségét. A korlátozás nem jár jogsérelemmel a kérelmezők oldalán, hiszen ha a bíróság úgy ítéli meg, az ügyfél kérelmére a folyamatban lévő menekültügyi eljárásra tekintettel biztosíthatja a kiutasítás végrehajtásának felfüggesztését.
+
+A módosítás mindemellett egyértelművé teszi, hogy a kérelmező nem utasítható ki, illetve a korábbi kiutasítás nem hajtható végre mindaddig, amíg menedékjog iránti kérelme tárgyában legalább egyszer jogerős elutasító döntés nem születik. Ez alól kivételt képez az az eset, amikor a kérelmező mint az ügy ura, a saját kérelmével rendelkezve, visszavonja azt. Kérelme visszavonása esetében a menekültügyi hatóságnak kötelessége megszüntetni az eljárást. A joggal való esetleges visszaélést zárja ki az, hogy a kérelem visszavonása miatti megszüntetést követően ismételten előterjesztett kérelem nem akadálya a kiutasítás elrendelésének, illetve a korábban elrendelt kiutasítás végrehajtásának. Ha a Harmtv. alapján egyéb tartózkodási jogcímmel rendelkező személy - jellemzően: befogadott jogállású külföldi - kér menedékjogot, ám azt nem kapja meg, a más jogcímen élvezett jogokat (például a területen maradás jogát) nem veszíti el az ismételt kérelem előterjesztése miatt.
+
+Az (1)-(4) bekezdésekben foglalt módosítások a Met. 66. §-ára vonatkoznak.
+
+A Met. 66. § (1) bekezdését szükséges módosítani, tekintettel arra, hogy indokolatlan a kérelmező halála esetén az eljárás megszűnésének megállapítását a hatóság döntéséhez kötni. A jogszabály koherenciáját is megbontja az a tény, hogy ha a haláleset az előzetes vizsgálati eljárásban következik be, az törvény erejénél fogva beálló megszűnési ok, míg ha részletes vizsgálati eljárásban, akkor hatósági döntéshez kötött.
+
+A kérelem írásban történő visszavonása a többi megszüntető októl elkülönülten kezelendő, tekintettel arra, hogy a kérelmező az ügy ura, és kifejezett akarata ellenére a menekültügyi eljárás nem folytatható.
+
+A Met. 66. § (3) bekezdésben található rendelkezés azért szükséges, mert az Eljárási Irányelv 20. cikke nem teszi kötelezővé az eljárás megszüntetését a kérelem hallgatólagos visszavonása esetén (pl. ismeretlen helyre távozás), csupán az elutasítás alternatívájaként szerepelteti. Ennek megfelelően - különösen a megszüntető döntést követően előterjesztett, ismételt kérelmekre vonatkozó szabályok tükrében - indokolt biztosítani a lehetőséget a menekültügyi hatóság számára, hogy ha az ügy tényállása felderített, akkor ne megszüntető döntést hozzon, hanem az ügy érdemében döntsön. Egyes esetekben előfordulhat, hogy a hatóság az ügyfélnek fel nem róható módon későn, a részletes vizsgálati eljárásra utalást követően észleli, hogy a kérelem vonatkozásában részletes vizsgálat nélküli elutasítást megalapozó körülmény áll fenn. Ezekben az esetekben indokolatlan a részletes eljárásban meghozott döntéssel szembeni peres bírósági felülvizsgálat lehetőségét biztosítani, ugyanakkor a módosítás eredményeként az ügyfél jogai sem sérülnek, hiszen az ilyen alapon megszüntetett döntéssel szemben nemperes úton bírósági felülvizsgálatnak van helye.
+
+Szükségtelen a különbségtétel a humanitárius tartózkodási engedély visszavonása tekintetében azon az alapon, hogy mi volt a megszüntetés indoka. Ha a kérelmező részére humanitárius tartózkodási engedély került kiállításra, és az arra való jogosultsága a menekültügyi eljárás megszüntetése miatt megszűnt, úgy minden esetben gondoskodni kell az okmány visszavonásáról.
+
+Továbbá szükségtelen a részletes vizsgálati eljárásban hozott megszüntető döntéssel szembeni jogorvoslat szabályait egyetlen megszüntetési okra korlátozni, hiszen valamennyi esetben azonos szabályozásnak kell érvényesülnie.
+
+A Met. koherenciáját megbontja, hogy - a Ket. általános szabályaival összhangban - valamennyi más eljárási határidő naptári napokban van meghatározva: az egységesség érdekében célszerű e határidőt is naptári napokban meghatározni.
+
+A hatályon kívül helyező rendelkezés a menedékkérők befogadása minimumszabályainak megállapításáról szóló, 2003. január 27-i, 2003/9/EK tanácsi irányelv - az ún. Befogadási Irányelv - 16. cikkében foglalt szabályokkal való teljes összhang megteremtését szolgálja.
+
+A 62. §-hoz
+
+A törvény megteremti annak a nyilvántartási alapját, hogy ne csak az érvényes úti okmánnyal rendelkező személyek esetében legyen lehetőség a külföldre utazási korlátozás ellenőrzésére. A bűnügyi nyilvántartási rendszerben külön nyilvántartást hoz létre az utazási korlátozás alatt álló személyekkel kapcsolatban. E külön nyilvántartás valamennyi, külföldre utazási korlátozás hatálya alatt álló személy adatait tartalmazza, így azon személyek külföldre utazását is meg lehet akadályozni, akik érvényes útlevél hiányában nem szerepelnek az útiokmány-nyilvántartásban (személyazonosító igazolvánnyal azonban utazhatnak). A módosítás nyomán tehát a személyazonosító igazolvánnyal külföldre utazó állampolgárok esetében is lehetővé válik az utazási korlátozás esetleges meglétének, illetve hiányának a határforgalom-ellenőrzés során történő ellenőrzése.
+
+A hatályos jogszabályi rendelkezések alapján a nyomozó hatóságnak, ügyészségnek, bíróságnak valamennyi esetben értesítenie kellene az útlevélhatóságot, amikor az Utv. 16. § (1) bekezdésében meghatározott külföldre utazási korlátozás alapjául szolgáló ok elrendelésére, megszüntetésére vagy megszűnésére kerül sor. Ez elvileg olyan esetekben is adattovábbítási kötelezettséget keletkeztet, amikor az érintettnek nincs érvényes úti okmánya, vagyis az útiokmány-nyilvántartásban külföldre utazási korlátozást bejegyezni nem lehet. A törvény alapján az adattovábbításra kötelezett szerv ezért csak azon érintett személyekkel kapcsolatban értesíti az útlevélhatóságot, akik érvényes úti okmánnyal rendelkeznek. Ezt az információt a bíróság, illetve az ügyész a számára lekérdezési lehetőségként jelenleg is rendelkezésre álló útiokmány-nyilvántartásban ellenőrizné. A bíróság, illetve az ügyész az utazási korlátozással érintett személlyel kapcsolatos adatok megküldésével értesíti az útlevélhatóságot.
+
+Az útlevélhatóság a törvénymódosítás nyomán a jövőben az érvényes úti okmány kapcsán a határozathozatalt mellőzve jegyzi be az utazási korlátozást, erre a Ket. 86. § (2) bekezdése alapján lehetőség van a „hatósági nyilvántartásba történő hivatalbóli, mérlegelés nélküli bejegyzés” esetén.
+
+A törvény a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) 71. §-át is érinti, - a jelenlegi szabályozással ellentétben - egyaránt meghatározásra kerül a hatósági erkölcsi bizonyítvány fogalma, kiállításának célja és a kiállítás eljárási rendje, valamint az azzal igazolható tények köre. E hatósági bizonyítványban igazolható például, hogy a kérelmező a kérelemben megjelölt törvényekben meghatározott feltételeknek megfelel, büntetlen előéletű, nem áll közügyektől eltiltás, foglalkozástól eltiltás vagy meghatározott foglalkozástól eltiltás hatálya alatt. A kérelemben megjelölt, törvényben meghatározott feltételnek való megfelelést igazoló tény - értelemszerűen - önállóan, míg a többi tény önállóan vagy egymás mellett, illetve együttesen is igazolhatóvá válik az eljárásban.
+
+Módosul a Bnytv. 72. §-a, amelyben kötelező érvénnyel meghatározásra az adattovábbítás iránti kérelem benyújtásának módja, amelyet űrlapon vagy elektronikus úton kell teljesíteni. Egyértelműen meghatározásra kerülnek továbbá a hatósági erkölcsi bizonyítvány kiállítása iránti kérelem tartalmi elemei, külön kiemelve a valamely törvényi feltételeknek való megfelelés esetén a pontos törvényi hivatkozás szükségességét.
+
+A módosítás változatlanul rögzíti a kérelemre történő adattovábbítási eljárásért az igazgatási szolgáltatási díj fizetésének kötelezettségét.
+
+A módosítás a Bnytv. 73. §-át is érinti. E szakasz a hatósági bizonyítvány kiállításának megtagadását, illetve az eljárás megszüntetésének esetét szabályozza. Rendelkezik az ügyintézés eljárási menetéről, az ügyintézési határidő indokolt esetben történő meghosszabbításáról, az eljárás felfüggesztésének eseteiről, valamint az eljárásban a kérelmező részéről az okirati bizonyítás kizárólagosságáról.
+
+A Bnytv. 74. §-át érintő módosítás meghatározza a hatósági erkölcsi bizonyítvány tartalmi elemeit, érvényességi idejét, formai és biztonsági követelményeit, továbbá az elektronikus kézbesítés lehetőségét, illetve elektronikus kézbesítés esetén a kiadmányozás feltételeit.
+
+A Bnytv. 75. §-a rendelkezik arról, hogy a kérelem külföldön kizárólag személyesen, Magyarország diplomáciai és konzuli képviseletén nyújtható be, tartalmazza továbbá a külföldről kérelmezett hatósági bizonyítvány kiállítására és kézbesítésére vonatkozó szabályokat. A külföldön, külföldi kézbesítési címre kérelmezett hatósági bizonyítvány főszabály szerint elektronikus formátumban kerül kiállításra és a kérelmező részére a konzul útján történik a kézbesítése. E bizonyítványt elektronikus aláírással és időbélyegzővel kell ellátni, amelyről a konzul hiteles másolatot készíthet a kérelmező számára. A kérelmező ugyanakkor külföldön benyújtott kérelmében is kérheti, hogy a hatósági erkölcsi bizonyítványt az által megjelölt belföldi címzett részére kézbesítsék. Ebben az esetben a bizonyítvány alakiságára a belföldön kérelmezett bizonyítványra irányadó rendelkezések alkalmazandók. A kérelmezésért és a hitelesítésért a kérelmezőnek a külön jogszabályban meghatározott konzuli és általános konzuli díjat kell megfizetnie.
+
+A Bnytv. új 75/A. §-a szerint a bűnügyi nyilvántartó szerv - új szolgáltatásként - elektronikus felületen keresztül ad tájékoztatást a hatósági bizonyítvány érvényességének ideje alatt a kiállítás tényéről, a bizonyítvány érvényességéről, valamint visszavonásáról. Ennek feltétele, hogy a szolgáltatást igénybevevő személy rendelkezésére álljon a hatósági bizonyítványban található valamennyi adat.
+
+A törvény továbbá átmeneti rendelkezésben rögzíti azon szabályokat, határidőket, amelyek alapján a bűnügyi nyilvántartási rendszerben 2013. január 1-jét követően a nyilvántartott adatok, illetve az útlevél hatóság által nyilvántartott adatok alapján fel tud állni a törvény által kialakítandó új nyilvántartási alrendszer, azaz a külföldre utazási korlátozás hatálya alatt állók nyilvántartása. Ki kell emelni, hogy - tekintettel arra, hogy ezen személyi körre vonatkozóan jelenleg a bűnügyi nyilvántartási rendszer nem tart nyilván adatot, illetve, hogy a második esetkörben új, 2013. január 1-jét követően működésbe lépő új jogintézményről van szó - a kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban és ideiglenes végrehajtási letartóztatásban lévő személyek, illetve az olyan személyek esetében, akiknek az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján megtiltják Magyarország területének elhagyását és úti okmányuk átadására kötelezik, az átmeneti rendelkezés nem vonatkozik, ezen esetekben a törvény hatálybalépését követően elrendelt ilyen korlátozások adatait a bíróságok adatszolgáltatása alapján fogja bejegyezni a bűnügyi nyilvántartó szerv.
+
+A 64. §-hoz
+
+Az Rtv. rejtett ellenőrzéssel kapcsolatos módosításával összhangban szükséges a NAVtv. módosítása is.
+
+Ezeket a rendelkezéseket - az Rtv.-vel összhangban - rendszertanilag az intézkedések körében indokolt szabályozni, mivel nem a hazai szabályozásban ismert titkos információgyűjtésről van szó.
+
+A rejtett ellenőrzés szabályait az Rtv. és az Nbtv. módosításához fűzött indokolásban jelzettekkel azonos okokból a NAVtv. szövegén is át kell vezetni, amire tekintettel a törvény jogharmonizációs klauzuláját is pontosítani szükséges.
+
+A 65. és 67. §-hoz
+
+A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 43. § (1) bekezdése úgy rendelkezik, hogy az ügyész törvényességi ellenőrzési hatáskörébe a szabálysértési hatóságok eljárása és intézkedése tartozik, ezért nem élhet felhívással a helyszíni bírság kiszabására jogosultak jogszabálysértő intézkedésének orvoslása érdekében.
+
+A 2012. április 15. után hatályba lépett új szabálysértési jogi rendszerben kiemelt jelentőséggel bír a helyszíni bírságolás, amelyre olyan szervek és személyek is kaptak hatáskört, amelyek/akik korábban e területen gyakorlattal nem rendelkeztek. Jelentősen megnőtt a helyszínen kiszabható bírság összege, amely meghatározott tényállások esetén meghatározott mértékű („fix-bírság”). Nem indokolt tehát, hogy éppen a helyszíni bírság kiszabására jogosultak intézkedése vonatkozásában ne érvényesüljön felügyeleti intézkedés.
+
+A Szabs. tv. módosításával megteremthető annak a lehetősége, hogy a helyszíni bírság kiszabására jogosult szerv vagy személy, valamint a bíróság hivatalból, illetve kérelemre megállapítsa, hogy a kiszabott helyszíni bírság jogszabályt sért. Erre csak igen szűk körű és kirívó jogszabálysértések esetében nyújtható lehetőség.
+
+A 66. §-hoz
+
+Az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 125. §-ának kiegészítése rögzíti, hogy a személyvédelmi és létesítménybiztosítási feladatok során az Országgyűlési Őrség kizárólagos hatáskörrel és országos illetékességgel jár el.
+
+Az Alaptörvény 9. cikk (4) bekezdés e) pontja szerint a köztársasági elnök kinevezi és előlépteti a tábornokokat, f) pontja szerint a törvényben meghatározott kitüntetéseket, díjakat és címeket adományoz, valamint engedélyezi külföldi állami kitüntetések viselését, míg j) pontja szerint dönt mindazokban az ügyekben, amelyeket törvény a hatáskörébe utal. Az Alaptörvény 9. cikk (5) bekezdése értelmében a köztársasági elnöki döntésekhez a Kormány tagjának ellenjegyzése szükséges.
+
+2013. január 1-jén hatályba lépő 128. § (1) bekezdése alapján az Országgyűlési Őrség személyi állománya a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott hivatásos állományúakból, köztisztviselőkből, valamint munkavállalókból áll.
+
+A kitüntetések, díjak és címek adományozása nem csak a hivatásos állományú országgyűlési őröket érintheti, hanem az Országgyűlési Őrségnél foglalkoztatott köztisztviselőket és munkavállalókat is. A köztársasági elnök döntését a miniszterelnök ellenjegyzi. A három foglalkoztatási jogviszony esetében a Kormány irányítása alatt álló szervek esetében jelenleg három különböző miniszter lehet érintett, így nem indokolt miniszterhez telepíteni az ellenjegyzést.
+
+Ugyanakkor a döntésre vonatkozó javaslatnak a köztársasági elnökhöz történő előterjesztésére is a miniszterelnök jogosult, tekintettel arra, hogy a politikai felelősséget az ellenjegyzés alapján a miniszterelnök fogja viselni. Az Országgyűlési Őrséget azonban a Kormánytól teljesen független házelnök irányítja, aki azonban politikai felelősséget nem tud vállalni az Alaptörvény 9. cikk (5) bekezdése alapján. Ezért kizárólag a házelnök kezdeményezheti a miniszterelnöknél a javaslat előterjesztését, a miniszterelnök a házelnök kezdeményezése nélkül nem tehet javaslatot.
+
+Az Ogytv. 2013. január 1-jén hatályba lépő 129. § (1) bekezdés b) pontja értelmében a házelnök - ha törvény eltérően nem rendelkezik - gyakorolja a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) meghatározott, a fegyveres szervet irányító miniszter részére meghatározott feladat- és hatásköröket.
+
+Az Ogytv. 132. § (2) bekezdése ugyanakkor kimondja, hogy az országgyűlési őr tekintetében a miniszter részére a Hszt.-ben biztosított munkáltatói jogköröket az Országgyűlési Őrség parancsnoka gyakorolja. Ezen szabályozás részben ellentmond a már hivatkozott 129. § (1) bekezdés b) pontjában szereplő rendelkezésnek, részben több ponton értelmezhetetlen, tekintettel arra, hogy ezen rendelkezés alapján pl. magának az Országgyűlési Őrség parancsnokának tábornoki kinevezésére irányuló javaslatot magának az Országgyűlési Őrség parancsnokának kellene felterjeszteni a köztársasági elnökhöz.
+
+A 68. §-hoz
+
+Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: rendészeti tv.) 35. § (1) és (2) bekezdése módosította a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: SzVMt.) 5. § (4) bekezdését, valamint 5/A. § (5) bekezdését. Míg a személy-és vagyonvédelmi tevékenység esetében valóban indokolt az 5. § (4) bekezdése nyitó szövegrészének módosítása is annak érdekében, hogy az ott felsorolt feltétételek már a működési engedélyezés kiadására irányuló eljárásban is vizsgálhatók legyenek, addig a tervező-szerelő, valamint a magánnyomozói tevékenység esetében ez nem értelmezhető, hiszen az SzVMt. alapján e tevékenységek nem engedélyköteles, csupán bejelentés-köteles tevékenységnek minősülnek. A rendészeti tv.-nek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 35. § (2) bekezdése technikai okból tévesen módosította az SzVMt. 5/A. § (5) bekezdésének nyitó szövegrészét is, ez esetben valóban csak a tevékenység gyakorlása során ellenőrizhetőek a felsoroltak.
+
+A 69. §-hoz
+
+A hazai jogban a SIS alkalmazásáról elsősorban a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvény rendelkezik, amelyet felvált az új SIS II rendszer, illetve az ehhez tartozó törvény.

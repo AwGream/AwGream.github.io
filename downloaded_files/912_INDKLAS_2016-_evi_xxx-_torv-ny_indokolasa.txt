@@ -1,0 +1,383 @@
+2016. évi XXX. törvény indokolása
+
+a védelmi és biztonsági célú beszerzésekről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) a védelmi és biztonsági célú beszerzések szabályozását törvényi szintre utalta, figyelemmel arra, hogy a honvédelem és a biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról, valamint a 2004/17/EK és 2004/18/EK irányelv módosításáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelv (a továbbiakban: védelmi irányelv) a „klasszikus” közbeszerzésektől elválasztva, azok irányelvi szabályozásától függetlenül határozza meg a védelmi és biztonsági terület beszerzéseinek szabályozását, így szükséges a védelmi irányelvet is egy, a Kbt.-vel azonos szintű jogszabályban átültetni.
+
+A védelmi beszerzéseket jelenleg a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokról szóló 228/2004. (VII. 30.) Korm. rendelet (a továbbiakban: R1.) szabályozza, melynek hatályban tartását a Kbt. lehetővé tette az új törvényi szabályozás hatálybalépéséig. A védelmi beszerzések szabályozásának kialakítása során e kormányrendeletet és - azon kérdésekben, amelyekben a „klasszikus” közbeszerzések irányelvi szabályozása és a védelmi irányelv tartalmilag megegyezik - törekedtünk az azonos szövegezésre, kiegészítve a gyakorlati jogalkalmazás során felmerült tapasztalatokkal, valamint azon pontosításokkal, amelyek az uniós jogértelmezés alapján indokoltak.
+
+A biztonsági beszerzéseket a BM szabályozási hatáskörébe tartozó, a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet (a továbbiakban: R2.) szabályozta, mely azonban az Európai Bizottság által jelzett, a védelmi beszerzési irányelvvel szemben fennálló összeütközések miatt 2014. november 7-ével hatályát vesztette. A tárgykör újraszabályozására az IM 2015. első félévében megkezdte egy új kormányrendelet előkészítését, mely azonban nem került elfogadásra. Figyelemmel arra, hogy az ebben foglalt szakmai tartalmat az előterjesztő szakmailag támogathatónak tartotta, a biztonsági beszerzések szabályozásánál e tervezetet is alapul vette.
+
+A védelmi és biztonsági beszerzésekről szóló törvény hatálya alá a védelmi beszerzések, a biztonsági beszerzések, valamint a törvény 2. és 3. melléklete szerinti szolgáltatások tartoznak, ha azok kifejezetten katonai célt szolgálnak, vagy biztonsági célt szolgálnak és egyben minősített adatot érintenek, tartalmaznak vagy követelnek meg. A 3. melléklet szerinti szolgáltatások tekintetében a törvény csak korlátozottan alkalmazandó. A védelmi beszerzések körébe tartozó beszerzési tárgyak közös vonása, hogy azok kifejezetten katonai célt szolgálnak, figyelemmel arra, hogy az uniós joggyakorlat következetes abban, hogy az akár több funkció ellátására alkalmas árukat, szolgáltatásokat, építési beruházásokat csak akkor engedi a védelmi az irányelv hatálya alatt beszerezni, ha azok eredeti vagy átalakított formájukban kifejezetten katonai célt szolgálnak. A védelmi beszerzési tárgyköröket a törvény csak keretjelleggel tartalmazza, az Európai Unió Közös Katonai Listája szerinti részletes felsorolás kormányrendeleti szinten kerül kiadásra. A biztonsági beszerzések fogalma alatt a védelmi beszerzések közé nem tartozó, példálózóan felsorolt, Magyarország belső és külső biztonságát érintő, egyben minősített adatot tartalmazó vagy keletkeztető beszerzéseket kell érteni. A korábban alkalmazott, „minősített beszerzés” fogalom helyett ezen új terminológiával is az irányelvi megfelelést kívánja a törvény elősegíteni, hangsúlyozva, hogy a minősített adat érintettsége a beszerzésben önmagában még nem alapozza meg a védelmi irányelv, illetve az azt átültető jogszabály alkalmazását, önmagában ez nem helyezi a biztonság területére a beszerzést.
+
+A védelmi irányelv ajánlatkérő-fogalmának teljes átültetése érdekében a törvény a korábbi szabályozással ellentétben nem konkrét szerveket sorol fel a hatálya alá tartozóként, hanem szervtípusokon keresztül határozza meg az ajánlatkérők körét, a biztonsági beszerzések tekintetében ajánlatkérőként említve a közszolgáltatókat is.
+
+A védelmi irányelv szerinti kivételi köröket a törvény felsorolásszerűen említi, azok tekintetében a törvényi előírásokat még korlátozott formában sem rendeli alkalmazni, mivel álláspontunk szerint a törvény nem szabályozhat olyan tárgykört, ami nem tartozik a hatálya alá, ilyen kötelezettség a védelmi irányelvből sem következik.
+
+A törvény, a korábbi szabályozástól eltérően külön nemzeti és külön uniós eljárásrendet szabályoz. A védelmi beszerzések tekintetében a törvény nemzeti értékhatárt nem határoz meg, míg a biztonsági beszerzések tekintetében a törvény csak akkor alkalmazandó, ha azok becsült értéke eléri vagy meghaladja a mindenkori nemzeti közbeszerzési értékhatárnak megfelelő összeget. Mind a védelmi, mind a biztonsági beszerzések tekintetében irányadó alkalmazandó továbbá a védelmi és biztonsági beszerzések uniós értékhatára, az ezt elérő, vagy meghaladó becsült értékű beszerzések tekintetében a nemzeti eljárásrendhez kapcsolt, enyhébb szabályok nem alkalmazhatóak.
+
+A törvény szerkezetét illetően elmondható, hogy az általánosan követendő eljárási és szerződési szabályokat a védelmi és biztonsági beszerzések uniós értékhatárait elérő vagy meghaladó becsült értékű védelmi beszerzésekre nézve állapítja meg, ehhez képest speciális szabályt képez az ezen értékhatárokat el nem érő becsült értékű védelmi beszerzések szabályozása. Ezek értékhatártól függően háttérszabályul szolgálnak a biztonsági beszerzésekkel kapcsolatos különös szabályoknak.
+
+A jogorvoslat szabályait az eddigi szabályok csak a mindenkori közbeszerzési törvényre mutató hivatkozások útján tartalmazták, figyelemmel arra, hogy a korábbi közbeszerzési törvények maguk is kiterjesztették jogorvoslati rendelkezéseiket a védelmi és minősített beszerzésekre. Mivel a Kbt. ezt már csak külön törvény ez irányú rendelkezése esetére, lehetőségként említi, a törvényben teljes körűen megjelennek a jogorvoslati eljárásokra vonatkozó rendelkezések. A törvény a Közbeszerzési Döntőbizottság és a bíróság hatáskörébe telepíti a kapcsolódó hatásköröket, figyelemmel arra, hogy a jogalkalmazói gyakorlat szerint a Közbeszerzési Döntőbizottság előtti jogorvoslati eljárás hatékonynak bizonyult, egyben kellő rugalmasságot is biztosított a beszerzési eljárások eredményes lefolytatásához. A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárás tekintetében a törvény a kérelemhez kötöttség elvét érvényesíti. A bíróságok hatáskörébe a Közbeszerzési Döntőbizottság döntéseinek felülvizsgálata, illetve a beszerzésekkel, beszerzési szerződésekkel kapcsolatos polgári jogi igények elbírálása tartozik, melyhez kapcsolódóan a törvény a védelmi és biztonsági beszerzések tekintetében is létrehozza a Kbt.-ből már ismert speciális pertípusokat.
+
+A törvény egyes részletszabályok, iratminták meghatározását végrehajtási rendeletek szintjére utalja, melyek megalkotásával párhuzamosan a jogrendszer kormány- és miniszteri rendeleti szintjének e törvény hatálybalépéséhez kapcsolódó felülvizsgálatát is szükséges elvégezni.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1-2. §-hoz
+
+Az alapelvi rendelkezések a védelmi és a minősített beszerzésekre vonatkozó korábbi szabályozás alapulvételével határozzák meg a törvény értelmezési kereteit, különös tekintettel a honvédelmi és a nemzetbiztonsági érdekek, továbbá a minősített adatok védelmére, valamint a közpénzek hatékony felhasználására. A törvény kógenciájának kimondása mellett e rendelkezések előírják a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerződésekre vonatkozó rendelkezéseinek háttérszabályként való alkalmazását. A Ptk. 6:60. § (1) bekezdésére figyelemmel emellett természetesen alkalmazandók a szerződés tárgyából adódóan esetlegesen ágazati jogszabályban megjelenő, a szerződés kötelező tartalmára vonatkozó rendelkezések is. A 2. § lehetővé teszi bizonyos beszerezésekkel összefüggő, közérdekű, illetve közérdekből nyilvános adatok nyilvánosságának honvédelmi vagy nemzetbiztonsági érdekből történő korlátozását.
+
+A 3. §-hoz
+
+Az értelmező rendelkezések a korábbi szabályozáshoz képest bővebben határozzák meg a törvény értelmezése tekintetében releváns fogalmak körét. Mivel a klasszikus közbeszerzési irányelvi háttér, valamint a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról, valamint a 2004/17/EK és a 2004/18/EK irányelv módosításáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelv (a továbbiakban: védelmi beszerzési irányelv) több ponton azonos átültetendő szabályokat ír elő, a törvény a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) fogalomhasználatával azonos terminológia meghatározására törekszik ott, ahol a védelmi és biztonsági szakterület specialitásai nem követelnek meg eltéréseket.
+
+A § a katonai célú építési beruházás fogalmának kiegészítését tartalmazza a hazai költségvetési forrásra utalással, figyelemmel arra, hogy az Európai Unió (a továbbiakban: EU) következetes gyakorlata szerint katonai célú beruházásra uniós támogatás nem biztosítható. Újdonság továbbá, hogy a törvény meghatározza a válsághelyzet fogalmát a magyar jogrendszer releváns jogintézményeinek hivatkozásával, annak érdekében, hogy a törvény válsághelyzetben alkalmazható rendelkezései tekintetében támpontot biztosítson.
+
+A 4. §-hoz
+
+A törvény a korábbi szabályozáshoz képest pontosítva határozza meg a védelmi irányelv előírásai következtében a hatálya alá tartozó beszerzések körét. A védelmi beszerzések köre nem fedi le teljeskörűen az R1. tárgyi hatályát, figyelemmel arra, hogy az uniós szabályozással való összhang érdekében kizárólag a katonai célú áruk, szolgáltatások és építési beruházások beszerzését foglalja magában. A szabályozás a katonai célú áruk és szolgáltatások tekintetében keretjellegű, ugyanis az 1. melléklet a törvény hatálya alá tartozó katonai célú áruk és szolgáltatások az Európai Uniós közös katonai listájának alapulvételével felsorolt kategóriáit tartalmazza, azzal, hogy a részletes paraméterek kormányrendeleti szinten kerülnek meghatározásra. A biztonsági beszerzések fogalmában az új szabályozás példálózó jelleggel felsorolja az érintett beszerzéseket, továbbá kötelező tartalmi elemként írja elő minősített adat felmerülését. A felsorolás példálózó jellegére figyelemmel a biztonsági cél fennállásának megállapítása és igazolása az ajánlatkérő felelősségi körébe tartozik, erre figyelemmel a felsorolásban nem nevesített szempontok is alapot adhatnak az eljárások biztonsági beszerzésként történő lefolytatására.
+
+Szintén a törvény tárgyi hatálya alá tartoznak a kifejezetten katonai célú, vagy biztonsági célú és minősített adatot érintő, 2. és 3. melléklet szerinti szolgáltatások, azzal, hogy a 3. melléklet szerinti szolgáltatások beszerzése esetén e törvénynek csak bizonyos rendelkezései alkalmazandóak.
+
+Az 5. §-hoz
+
+A törvény a korábbi szabályozáshoz képest hiánypótló jelleggel meghatározza a „vegyes”, tehát részben e törvény, részben a Kbt. hatálya alá vagy az e törvény alóli kivételnek minősülő elemeket tartalmazó beszerzések esetén alkalmazandó jogot, mind az objektíve szét nem válaszható, mind a szétválasztható, de objektív okból egy szerződés tárgyát képező elemek tekintetében.
+
+A 6. §-hoz
+
+A törvény - az irányelvi egyezőségre való tekintettel részben megismételve a Kbt. szerinti ajánlatkérők körének meghatározását - meghatározza azon szerv- és szervezettípusokat, amelyek az e törvény tárgyi hatályában meghatározott beszerzéseik vonatkozásában e törvény alapján kötelesek a beszerzési eljárás lefolytatására. Az R1.-hez képest a törvény nem határoz meg konkrét, a hatálya alá tartozó szerveket, ebből következően valamennyi, a 6. § alá tartozó szerv, szervezet e törvény alapján köteles lefolytatni a 4. § szerinti beszerzéseit. Az Európai Bizottság gyakorlata alapján a 6. §-ban felsorolt kör nem szűkíthető arra hivatkozással, hogy bizonyos szervek alapfeladataikból adódóan nem folytathatnak le védelmi és biztonsági beszerzéseket, ugyanis az irányelv - és ezzel a törvény - személyi hatálya alá valamennyi, a védelmi irányelv szerinti ajánlatkérői fogalomnak megfelelő szervtípust be kell vonni az irányelvi szabályozás teljes körű átültetése érdekében.
+
+A 7. §-hoz
+
+A rendelkezés a védelmi irányelv 13. cikkét átültetve meghatározza azokat a beszerzéseket, amelyek védelmi vagy biztonsági jellegüktől függetlenül nem tartoznak a törvény hatálya alá. Ezen beszerzések vonatkozásában a törvény nem tartalmaz rendelkezéseket. Szükséges megemlíteni, hogy az (1) bekezdés 4. pontja szerinti beszerzések csak akkor mentesülnek e törvény hatálya alól, ha az erre hatáskörrel felhatalmazott döntéshozó formalizált eljárásban döntött a mentesítés tárgyában. Az R1. a mentesítés tárgyában történő döntést a Kormány hatáskörébe telepítette, amely a jogalkalmazói tapasztalatok alapján biztosította ezen eljárások hatékony lebonyolítását. Erre figyelemmel a mentesítést a törvény továbbra is a Kormány egyedi döntési jogkörébe telepíti, a mentesítésre irányuló eljárás részletes szabályait e törvény felhatalmazása alapján kiadásra kerülő kormányrendelet fogja tartalmazni.
+
+A 8. §-hoz
+
+E rendelkezés előírja az ajánlatkérő részére, hogy kialakítsa a beszerzési eljárások előkészítésének és lefolytatásának belső eljárásrendjét, meghatározva az ehhez kapcsolódó felelősségi köröket, továbbá meghatározza a bírálóbizottsággal kapcsolatos előírásokat.
+
+A 9. §-hoz
+
+A rendelkezés a Kbt. hasonló tartalmú szakaszainak alapulvételével meghatározza az ajánlatkérői oldalon, illetve a gazdasági szereplők részéről összeférhetetlenséget eredményező körülményeket, illetve az ennek bejelentésére vonatkozó kötelezettséget, továbbá azon helyzeteket, melyek ugyan a beszerzések előkészítéséhez kapcsolódnak, de nem eredményeznek önmagukban összeférhetetlenséget.
+
+A 10-11. §-hoz
+
+E szakaszok a Kbt. azonos tárgyú rendelkezéseit lekövetve meghatározzák a több gazdasági szereplő közös részvételre jelentkezésének, illetve ajánlattételének szabályait, valamint a gazdasági szereplők egy beszerzési eljáráson belüli összefonódását gátló tilalmakat.
+
+A 12-13. §-hoz
+
+A rendelkezések meghatározzák a több ajánlatkérő által közösen megvalósításra kerülő beszerzések szabályait, különös tekintettel a felelősség megosztására, valamint arra az esetkörre, amikor az EU eltérő tagállamaiból származó ajánlatkérők folytatnak le közösen beszerzési eljárást.
+
+A 14. §-hoz
+
+A rendelkezés az R1. alapelvi rendelkezéseiből külön alcímbe emelve tartalmazza pontosított formában a védett foglalkoztatók beszerzési eljárásban való részvételének fenntartására vonatkozó lehetőséget, valamint annak lehetőségét, hogy a szerződés teljesítését védett munkahely-teremtési program keretében írja elő.
+
+A 15. §-hoz
+
+A rendelkezés kimondja, hogy a beszerzések csak - az értelmező rendelkezésekben meghatározott fogalmak szerinti - árubeszerzésre, szolgáltatás, vagy építési beruházás megrendelésére vonatkozó szerződés megkötésére irányulhatnak, vegyes tárgyú beszerzés esetén pedig a becsült érték alapján domináns beszerzési tárgyra vonatkozó szabályok szerint kell eljárni.
+
+A 16-21. §-hoz
+
+A törvény meghatározza a becsült érték fogalmát, valamint az annak kiszámítására vonatkozó részletszabályokat, valamint ezek szabályok visszaélésszerű alkalmazásának tilalmát. Itt jelenik meg továbbá a részekre bontás tilalma, valamint a „leválasztási szabály”.
+
+A 22. §-hoz
+
+E rendelkezés definiálja a törvény alkalmazásában irányadó értékhatárokat, azok konkrét összegének megjelölése nélkül. Átvéve a korábbi szabályozást a védelmi beszerzések tekintetében nem állapít meg nemzeti értékhatárt, bármekkora becsült érték esetén e törvény szabályait rendeli alkalmazni. A biztonsági beszerzések tekintetében azonban nemzeti értékhatárként a mindenkori nemzeti közbeszerzési értékhatárt köti ki.
+
+A 23-25. §-hoz
+
+A törvény az alkalmazandó eljárási szabályok tekintetében rögzíti, hogy a védelmi beszerzési eljárásokra vonatkozó eljárási szabályok általános háttérszabályként érvényesülnek a biztonsági beszerzések szabályaihoz képest, melyek csak a biztonsági beszerzések tekintetében alkalmazandó eltéréseket tartalmazzák. A 2. melléklet szerinti, kifejezetten katonai vagy biztonsági célú szolgáltatások tekintetében a védelmi, illetve a biztonsági beszerzési eljárásokra vonatkozó szabályok teljes körű alkalmazását írja elő, míg a védelmi irányelv könnyítését átültetve a 3. melléklet szerinti szolgáltatások esetében csak a hivatkozott rendelkezések alkalmazását követeli meg.
+
+A 26. §-hoz
+
+A rendelkezés az átláthatóság biztosítása érdekében előírja a beszerzési eljárások írásbeli dokumentálására, valamint a keletkezett iratok megőrzésére vonatkozó kötelezettséget.
+
+A 27-28. §-hoz
+
+A törvény meghatározza az ajánlatkérő és a gazdasági szereplők közötti kommunikáció szabályait, az érvényesítendő követelményeket, tekintettel különösen az esélyegyenlőségre, az elektronikus kommunikáció követelményeire és a minősített adatok védelmére.
+
+A 29. §-hoz
+
+A rendelkezés meghatározza az eljárási cselekmények gyakorlására meghatározott határidők számításával kapcsolatos szabályokat.
+
+A 30. §-hoz
+
+A védelmi irányelv megfelelő rendelkezésének átültetése érdekében a törvény az R1.-hez képest újdonságként tartalmazza annak lehetőgét, hogy az ajánlatkérő előzetes összesített tájékoztató közzététele útján nyilvánosságra hozza a törvény hatálya alá tartozó egyes beszerzési tárgyak tekintetében a következő tizenkét hónapban lefolytatni tervezett beszerzési eljárásaira vonatkozó adatokat.
+
+A 31-32. §-hoz
+
+A törvény meghatározza a védelmi és biztonsági beszerzések uniós értékhatárait elérő, vagy meghaladó értékű beszerzésekkel kapcsolatos hirdetményeknek az Európai Bizottság felé való megküldését, illetve az ahhoz kapcsolódó szabályokat. A törvény a Kbt.-től eltérően csak közvetlen úton teszi lehetővé a hirdetmények megküldését, a Közbeszerzési Hatóság útján nem, figyelemmel arra, hogy a gyakorlatban ez a megküldési mód a védelmi beszerzések esetében nem érvényesült.
+
+A 33. §-hoz
+
+A törvény az R1.-hez képest részletezőbben, a Kbt. vonatkozó rendelkezéseinek alapulvételével határozza meg az eljárást megindító felhívás kötelező, illetve opcionálisan szerepeltethető tartalmi elemeit, melyhez az egyes eljárásfajták szabályai az eljárás részletszabályaiból adódóan többletelemeket kapcsolnak. A jogalkotási tendenciákat lekövető változás, hogy a törvény a részvételi felhívások hirdetménymintáit, valamint a közvetlen úton megküldésre kerülő ajánlattételi felhívás mintáját nem tartalmazza, mivel a kötelező tartalmi elemeket a törzsszöveg meghatározza, a szükséges hirdetményminták meghatározásához pedig miniszteri rendeleti szint is elegendő.
+
+A 34. §-hoz
+
+A rendelkezés a dokumentáció készítésének és rendelkezésre bocsátásának szabályait tartalmazza az R1. szabályozásának pontosított átvételével, ugyanis újdonságként lehetővé teszi, hogy az ajánlatkérő előírja, hogy a dokumentációt részvételi jelentkezésenként, vagy ajánlatonként legalább egy részvételre jelentkezőnek, ajánlattevőnek vagy alvállalkozónak át kell vennie, vagy elektronikus úton el kell érnie.
+
+A 35. §-hoz
+
+A törvény újdonságként arra az esetre, ha a részvételi szakaszban a dokumentáció nem kerül rendelkezésre bocsátásra, lehetővé teszi, hogy az ajánlatkérő kiegészítő iratok rendelkezésre bocsátásával segítse a gazdasági szereplőket részvételi jelentkezéseik összeállításában.
+
+A 36. §-hoz
+
+A rendelkezés az R1. szerinti szabályozást átvéve meghatározza a műszaki leírás kialakítása során figyelembe veendő szempontokat. A korábbi szabályozás kiegészítésre került annak felsorolásszerű megadásával, hogy az egyes beszerzési tárgyak tekintetében mely tartalmi elemeknek kell szerepelnie a műszaki leírásban.
+
+A 37-40. §-hoz
+
+A rendelkezések valamennyi eljárásfajtára nézve érvényes, közös háttérszabályokat határoznak meg az ajánlattételi és a részvételi határidő meghatározására és módosítására, a felhívások és a dokumentáció módosítására és visszavonására nézve. Lehetővé teszik továbbá feltételes beszerzési eljárás megindítását, valamint meghatározza az ajánlati kötöttség beálltának időpontját.
+
+Az R1. szabályozásához képest a törvény nem állapít meg konkrét minimumot az ajánlattételi és részvételi határidőre nézve, továbbá elhagyásra került a törvényből a felhívás módosítására, illetve visszavonására vonatkozó hirdetményminta is.
+
+A 41. §-hoz
+
+A törvény a Kbt. szerinti szabályozás átvételével, a korábbiakhoz képest részletezőbben határozza meg a kiegészítő tájékoztatás kérésére és megadására vonatkozó rendelkezéseket.
+
+A 42. §-hoz
+
+A rendelkezés az ajánlati biztosítékra vonatkozó R1. szerinti szabályozás pontosítva veszi át, meghatározza ugyanis az ajánlati biztosíték teljesítésének lehetséges módozatait.
+
+A 43-44. §-hoz
+
+A törvény - nem taxatív módon - felsorolja azokat az ajánlatkérő által az ajánlatban megkövetelhető tartalmi elemeket, melyek a minősített adatok védelméhez és az ellátásbiztonság garantálásához szükséges feltételek fennállását igazolják.
+
+A 45-46. §-hoz
+
+A törvény meghatározza az ajánlatkérő által kötelezően, illetve opcionálisan alkalmazandó kizáró okokat, valamint azok igazolásának módjait. A kizáró okok meghatározása - az egységes irányelvi háttér érdekében - a Kbt. szerinti megfogalmazást követi le.
+
+A 47-50. §-hoz
+
+A törvény e rendelkezései meghatározzák a gazdasági szereplők pénzügyi-gazdasági, illetve műszaki-szakmai alkalmassága igazolásának lehetséges módozatait, a beszerzési tárgyaktól függően.
+
+Az 51-52. §-hoz
+
+A törvény meghatározza az ajánlatok és részvételi jelentkezések összeállítására vonatkozó szabályokat, mely a szabályozás szerkezeti átalakításának következtében is pontosításra került.
+
+Az 53. §-hoz
+
+A törvény a Kbt.-vel azonos tartalommal szabályozza az ajánlatok és részvételi jelentkezések benyújtását, valamint felbontását.
+
+Az 54-55. §-hoz
+
+A törvény meghatározza, hogy az ajánlatkérő milyen lépések mentén köteles az ajánlatok és a részvételi jelentkezések elbírálására, továbbá hogy a bírálati kötelezettsége alól mely esetekben mentesül. Lehetőséget biztosít az ajánlatkérő részére arra is, hogy az ajánlattevőket ajánlati kötöttségük fenntartására hívja fel abban az esetben, ha az ajánlatok elbírálására az ajánlati kötöttség eredeti időtartama alatt nem kerül sor.
+
+Az 56. §-hoz
+
+A törvény a korábbiakhoz képest részletezőbb módon, a Kbt.-vel azonos tartalommal teszi lehetővé, hogy a bírálat során a gazdasági szereplők pótolhassák az ajánlatuk, illetve részvételi jelentkezésük hiányait, illetve hogy a bírálat elvégzése érdekében az ajánlatkérő felvilágosítást kérjen tőlük. A számítási hibák javítását a törvény az ajánlatkérő feladatkörébe telepíti.
+
+Az 57. §-hoz
+
+A törvény a korábbi szabályozást a Kbt.-re figyelemmel pontosítva meghatározza, hogy az ajánlatban szereplő, aránytalannak tűnő vállalások vizsgálatát az ajánlatkérő mely keretek között köteles elvégezni, annak során mely szempontokra támaszkodhat.
+
+Az 58-59. §-hoz
+
+A rendelkezések a korábbi szabályozás tendenciáinak figyelembe vételével határozzák meg az ajánlatok és részvételi jelentkezések érvénytelenné nyilvánításának taxatívan felsorolt okait, az ezek alkalmazásához kapcsolódó szabályokat, továbbá az érvénytelenné nyilvánítás és a kizáró okok közötti kapcsolatot megteremtő rendelkezéseket.
+
+A 60. §-hoz
+
+A törvény meghatározza az eljárás eredménytelenné nyilvánítását megalapozó okokat. A részajánlattétel lehetősége esetén a részleges eredménytelenség a főszabály, kivéve, ha az az ajánlatkérő érdekmúlását eredményezné.
+
+A 61-63. §-hoz
+
+A törvény alapján értékelési szempontként az ajánlatkérő a legalacsonyabb összegű ellenszolgáltatást vagy az összességében legelőnyösebb ajánlat kiválasztását határozhatja meg. Utóbbi tekintetében a törvény előírja, hogy a részszempontok alapján mely számítási móddal kell az ajánlatok pontszámait kiszámítani.
+
+A 64-65. §-hoz
+
+A törvény a részvételi és az ajánlattételi szakasz tekintetében is az írásbeli összegezés megküldését határozza meg a gazdasági szereplők tájékoztatásának eszközeként. Meghatározza ennek kötelező tartalmi elemeit, illetve annak utólagos, érdemi vagy technikai módosításának lehetséges eseteit. E helyen határozza meg továbbá a beszerzési eljárás lezárultaként figyelembe veendő időpontokat is.
+
+A 66. §-hoz
+
+A törvény meghatározza az előzetes vitarendezés szabályait.
+
+A 67. §-hoz
+
+A törvény a védelmi irányelv 25. cikkével összhangban határozza meg az alkalmazható eljárásfajtákat, így e törvény alapján nyílt eljárás nem folytatható le. Hasonlóan a Kbt. új kategorizálásához, a keretmegállapodások megkötését a törvény nem az eljárásfajták között említi, hanem azoktól elkülönítve, speciális beszerzési technikaként.
+
+A 68-70. §-hoz
+
+A törvény az R1.-től eltérő szerkezetben, egy helyen szerepelteti a meghívásos eljárás valamennyi, az általános háttérszabályokhoz kapcsolódó részletszabályát. Az ajánlattételi felhívás tekintetében a törvény iratmintát nem tartalmaz, ehelyett annak kötelező tartalmi elemeit határozza meg. A minimális határidők tekintetében a törvény a védelmi irányelv szerinti minimális határidőket emeli át.
+
+A 71-74. §-hoz
+
+Figyelemmel arra, hogy a törvényben mind az általános eljárási szabályok, mind a meghívásos eljárás szabályai a tárgyalásos eljárás háttérszabályait képezik, a tárgyalásos eljárásról szóló alcímben a tárgyalás lebonyolításának szabályai, valamint az ajánlatkérő ezzel kapcsolatos tájékoztatási kötelezettségei jelennek meg hangsúlyosan. Az eljárási határidők tekintetében is a meghívásos eljárás szabályai érvényesülnek, így itt is a védelmi irányelv szerinti minimális határidők az irányadóak.
+
+A 75-79. §-hoz
+
+A hirdetmény nélküli tárgyalásos eljárás szabályaiban az eljárás alkalmazására jogalapot biztosító esetkörök az R1. vonatkozó felsorolásának megfelelően szerepelnek, továbbá a felsorolás a védelmi irányelv 28. cikk 5. pontjának átültetésének érdekében kiegészült egy további esetkörrel. Az alcím tartalmazza továbbá az egyes jogalapokhoz rendelet kiegészítő szabályokat, továbbá a - háttérszabályként érvényesülő - tárgyalásos eljárás szabályaihoz képest szükséges eltéréseket, illetve kiegészítéseket.
+
+A 80-84. §-hoz
+
+E rendelkezések a versenypárbeszédre vonatkozó szabályokat tartalmazzák.
+
+A 85-86. §-hoz
+
+A törvény az irányelvi egyezőségre tekintettel a közbeszerzési szabályozással döntően azonos tartalommal határozza meg a keretmegállapodásos beszerzési technika alkalmazásának feltételeit, és a keretmegállapodásban részes ajánlattevők számától és a szerződéses feltételek előreláthatóságától függő, lehetséges eljárási konstrukciókat. A védelmi irányelv 29. cikk (2) bekezdése szerint a keretmegállapodás leghosszabb időtartamát hét évben határozza meg, ezen felső korlát is áttörhető azonban a beszerzés tárgyának várható élettartamára, illetve az új ajánlattevő bevonása által eredményezett műszaki nehézségekre figyelemmel. Az irányelvi háttér különbözősége miatt a törvény továbbá eltérően határozza meg a több ajánlattevővel kötött keretmegállapodás alapján lefolytatásra kerülő beszerzésekre vonatkozó szabályokat.
+
+A 87. §-hoz
+
+A törvény a védelmi és biztonsági beszerzések uniós értékhatárait el nem érő értékű védelmi beszerzések tekintetében további kivételi köröket határoz meg a hatály alól. Ezek közül a b) pont szerinti eset konkrét értékhatárral ugyan, de szerepelt az R1.ben is. Az a) és c) pont a Kbt. 9. § i) és k) pontja szerinti, szintén csak nemzeti rezsimben alkalmazható kivételi eseteket képezi le a védelmi beszerzésekre.
+
+A 88. §-hoz
+
+A rendelkezés az uniós értékhatárokat el nem érő védelmi beszerzések esetében a hirdetmények tekintetében csak a honlapon történő közzétételt követeli meg, az Európai Bizottság részére történő megküldést nem.
+
+A 89-91. §-hoz
+
+A törvény az uniós értékhatárokat el nem érő értékű védelmi beszerzések tekintetében egyszerűsített eljárási szabályokat határoz meg a kiegészítő tájékoztatás megadása, valamint a kizáró okok fenn nem állásának és az alkalmasság igazolása tárgyában. További kötelező eredménytelenné nyilvánítási okot határoz meg a törvény arra az esetre, ha a nyertes ajánlat értéke a becsült értékhez képest magasabb, egyúttal ezen magasabb becsült érték alapján az alkalmazott eljárási szabályok már nem lettek volna alkalmazhatóak.
+
+A 92-94. §-hoz
+
+A törvény az uniós értékhatárt el nem érő értékű védelmi beszerzések tekintetében könnyítéseket határoz meg az egyes eljárásfajták tekintetében, különös tekintettel a minimális határidőkre, továbbá egy további jogalapot határoz meg a hirdetmény nélküli tárgyalásos eljárás alkalmazására. Az ennek alapjául szolgáló értékhatárok magasabbak, mint a Kbt. hasonló, szintén csak nemzeti rezsimben alkalmazható eljárásánál, azonban ennek oka az, hogy a védelmi és biztonsági beszerzések uniós értékhatárai is magasabbak az uniós közbeszerzési értékhatárnál.
+
+A 95-98. §-hoz
+
+A törvény a szerződés megkötésére és tartalmára alkalmazandó szabályokat határozza meg. Kiemelendő, hogy a sajátos szerződés elemek között rendezhetőek az alvállalkozói szerződésekkel kapcsolatos kérdések, valamint nemzetbiztonsági szolgálatnak minősülő ajánlatkérő esetén a kiegészítő ellenőrzéssel kapcsolatos sajátos feltételek. A törvény tartalmazza továbbá a tartalékkeret kikötésére vonatkozó szabályokat.
+
+A 99-107. és 109. §-hoz
+
+A törvény e helyen szabályozza a szerződéses biztosítékok, a szerződés teljesítésével kapcsolatos rendelkezések, az érvénytelenség és a teljesítésben részt vevők tárgykörét, valamint a szerződések megszüntetésének szabályait. A törvény 104. § (1) bekezdés c) pontjával kapcsolatban kiemelést érdemel, hogy az abban foglaltak konjunktív feltételeknek minősülnek. A törvény 104. § (1) bekezdés d) pontja és (3) bekezdése a védelmi irányelv alapján a hatályos szabályozáshoz képest új semmisségi esetkört állapít meg a keretmegállapodások alapján lefolytatásra kerülő beszerzések tekintetében.
+
+A 108. §-hoz
+
+E rendelkezés a szerződésmódosítás szabályait tartalmazza. A Kbt.-hez képest kiegészíti a törvény a szerződésmódosítás korlátait az ellenszolgáltatás rezsimváltást eredményező módosításának esetével.
+
+A 110-113. §-hoz
+
+A törvény e rendelkezései a védelmi irányelv 50-54. és 64. cikkének átültetéséhez szükséges rendelkezéseket tartalmazzák.
+
+A védelmi beszerzéseket jellemző sajátosság az alvállalkozók ajánlatkérő által előírható versenyeztetésének lehetősége. A rendelkezések célja a verseny lehetőségének megteremtése olyan beszerzések esetében, ahol a beszerzés jellegénél, vagy ahhoz kapcsolódó kizárólagos jognál fogva nincsen versenyhelyzet a piacon.
+
+A 114. §-hoz
+
+Figyelemmel arra, hogy az Európai Bizottság a minősített beszerzések tekintetében a korábbi szabályozás kapcsán hiányosságként jelezte, hogy a közszolgáltatók ajánlatkérői státusza nem került leszabályozásra, a törvény pótolja ezt a hiányosságot, és - figyelemmel arra, hogy esetükben csak a biztonsági beszerzéseket látjuk értelmezhetőnek - a biztonsági beszerzések vonatkozásában a törvény hatályát e körre is kiterjeszti.
+
+A 115. §-hoz
+
+A 2. és 3. melléklet szerinti szolgáltatások biztonsági célú, a védelmi és biztonsági beszerzések uniós értékhatárát el nem érő értékű beszerzését kivételként nevesíti a törvény alól, ha a beszerzés külpolitikai érdekkel függ össze. A külpolitikai érdek fogalmát e szakasz (2) bekezdése határozza meg.
+
+A 116-117. §-hoz
+
+A törvény megteremti az Alkotmányvédelmi Hivatal (a továbbiakban: AH) által a gazdasági szereplőkről vezetett jegyzék jogalapját, lehetővé téve az azon szereplők további, kiegészítő ellenőrzés alá vetését is. Meghatározza továbbá a jegyzéken történő szereplés, illetve az arra való felvétel és az arról való törlés biztonsági beszerzésekkel kapcsolatos joghatásait is.
+
+A 118. §-hoz
+
+A törvény meghatározza az AH által vezetett jegyzékre kerüléshez szükséges előzetes minősítés eljárási szabályait, az AH és a Katonai Nemzetbiztonsági Szolgálat közötti feladatmegosztást.
+
+A 119-121. §-hoz
+
+E szakaszok meghatározzák a beszerzési eljáráshoz kötődő minősítés eljárási szabályait, a jegyzék tartalmát, valamint a gazdasági szereplők és az AH a jegyzék naprakészen tartásával kapcsolatos kötelezettségeit.
+
+A 122-127. §-hoz
+
+A törvény meghatározza azokat az ajánlatkérő által érvényesítendő követelményeket, amelyek az eljárásban érintett minősített adatok védelmét szolgálják, Lehetővé teszi továbbá a gazdasági szereplők részére, hogy a korábbi biztonsági beszerzésekben való részvételükre referenciaként hivatkozzanak.
+
+A 128-129. §-hoz
+
+A törvény a biztonsági beszerzések tekintetében további, a gazdasági szereplőkkel szemben kötelezően érvényesítendő kizáró okokat határoz meg, illetve a nemzetbiztonsági kockázatok elkerülése érdekében többletelemeket kapcsol az általános szabályokban szereplő kizáró okokhoz. Előírja továbbá az eljárásból kizárt gazdasági szereplőkre nézve a beszerzéssel kapcsolatos dokumentumok visszaszolgáltatásának kötelezettségét, valamint meghatározza az ennek elmulasztása esetén alkalmazandó jogkövetkezményeket.
+
+A 130. §-hoz
+
+A törvény az alkalmasság igazolásához többletszabályokat kapcsol a biztonsági beszerzések vonatkozásában, mely alapján az ajánlatkérő maga köteles elvégezni a minősített adatok kezelésére való jogosultság, a minősített adatok védelmének biztosítására való képesség meglétének ellenőrzését.
+
+A 131-133. §-hoz
+
+A törvény meghatározza a beszerzési eljárások menetét érintő, a biztonsági beszerzések esetében alkalmazandó eltérő szabályokat.
+
+A 134-137. §-hoz
+
+E rendelkezések meghatározzák a biztonsági beszerzési eljárások eredményeképpen megkötött szerződésekkel kapcsolatos, következő többletszabályokat:
+
+- a törvény a csak az AH által vezetett jegyzéken szereplő gazdasági szereplők által létrehozott projekttársaságot is a jegyzéken szereplőként rendeli kezelni,
+
+- a szerződés törvény erejénél fogva való megszűnését írja elő a jegyzékről való törlés esetére,
+
+- az általános szabályok mellett további kötelező felmondási, illetve elállási okokat határoz meg.
+
+A 138-139. §-hoz
+
+A korábbi közbeszerzési szabályozás a Közbeszerzési Döntőbizottság (a továbbiakban: Döntőbizottság) hatáskörébe utalta a védelmi és a minősített beszerzéseket, így a kormányrendeleti szabályozás csak a mindenkori közbeszerzési törvényre történő, sommás hivatkozással határozta meg a jogorvoslat szabályait. A Kbt. 145. § (6) bekezdése a védelmi és biztonsági beszerzésekkel kapcsolatos jogorvoslati eljárást csak törvény ilyen tartalmú rendelkezése esetére utalja döntőbizottsági hatáskörbe, melyre figyelemmel a törvény megalapozza ezen jogorvoslati hatáskört, azzal, hogy a kapcsolódó polgári jogi igények elbírálását a bíróságok hatáskörébe utalja. A törvény a Döntőbizottság hatáskörét és illetékességét a törvény a Kbt.-vel azonos módon határozza meg azzal, hogy az Országgyűlés bizottságának felmentést megadó döntését nem vizsgálhatja felül.
+
+A 140-141. §-hoz
+
+A törvény a beszerzési ügyben eljárni jogosult közbeszerzési biztosokkal kapcsolatos szabályozást a közbeszerzések tekintetében irányadó rendelkezésekkel azonos tartalommal állapítja meg, azonban a minősített adatok fokozott jelenlétére tekintettel kifejezetten előírja, hogy minősített adatot érintő eljárásban valamennyi eljáró közbeszerzési biztosnak nemzetbiztonsági ellenőrzéssel kell rendelkeznie.
+
+A 142-150. §-hoz
+
+A törvény a Döntőbizottság eljárása tekintetében specialitásként csak a kérelemre történő eljárást teszi lehetővé. Törvényi szinten határozza meg továbbá az irányadó igazgatási szolgáltatási díjakat, valamint az azok teljesítésével és visszafizetésével kapcsolatos rendelkezéseket. Az ideiglenes intézkedésként a szerződés megkötésének engedélyezését megalapozó kiemelkedően fontos érdek vagy közérdek fogalmából a törvény példálózó jelleggel a honvédelmi, illetve a nemzetbiztonsági érdeket emeli ki.
+
+A 151. §-hoz
+
+A törvény az eljárásjogi kódexekkel azonos módon szabályozza a védelmi és biztonsági beszerzésekkel kapcsolatos jogorvoslati eljárásban is az Európai Bíróság előzetes döntéshozatali eljárásnak kezdeményezésére vonatkozó eljárásrendet.
+
+A 152-157. §-hoz
+
+A Döntőbizottság vizsgálatának terjedelmét a törvény a kérelem tartalmához köti, azon a Döntőbizottság túl nem terjeszkedhet. Tárgyalás tartása esetén a törvény csak zárt tárgyalás tartását teszi lehetővé, továbbá a Kbt.-hez képest szigorúbban határozza meg az iratbetekintés engedélyezését is. Egyebekben a rendelkezések megegyeznek a közbeszerzések felülvizsgálata esetén irányadó szabályokkal.
+
+A 158. §-hoz
+
+A Döntőbizottság a védelmi és biztonsági beszerzésekkel kapcsolatos ügyekben ugyanazon döntések meghozatalára jogosult, mint a közbeszerzési eljárások vonatkozásában, értelemszerűen azzal az eltéréssel, hogy a hivatalbóli eljárás hiányában a jogsértés hiányának megállapítása csak a kérelmet elutasító végzés formájában történhet.
+
+A 159. §-hoz
+
+A törvény a Döntőbizottság beszerzési ügy befejezését eredményező döntésének, a szerződés megkötését engedélyező végzésének, valamint az érdemi határozat bírósági felülvizsgálata esetén a döntés közzétételét nem teszi kötelezővé. Egyebekben ezen adatok megismerhetőségére a minősített adat védelméről szóló törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései irányadóak.
+
+A 160-167. §-hoz
+
+A törvény a korábbi szabályozással azonos módon szabályozza a védelmi és biztonsági beszerzési eljárásokkal, illetve beszerzési szerződésekkel kapcsolatos bírósági peres és nemperes eljárások szabályait.
+
+A 168. §-hoz
+
+A törvény panasz formájában jogorvoslatot biztosít a jegyzékre való felvétel elutasítása, illetve a jegyzékről való törlés tárgyában hozott döntés ellen, mely kizárólag objektív, az eljáró nemzetbiztonsági szolgálat mérlegelési jogkörét nem érintő kérdésben érvényesíthető.
+
+A 169. §-hoz
+
+A törvény a védelmi is biztonsági beszerzések esetén is tartalmazza az Európai Bizottság ajánlatkérővel szembeni eljárásának lehetőségét.
+
+A 170. §-hoz
+
+A törvény a védelmi és biztonsági beszerzési eljárásokkal kapcsolatos jogorvoslati eljárásért beszedett igazgatási szolgáltatási díjak felhasználásáról, kezeléséről, nyilvántartásáról rendelkezik, továbbá alkalmazni rendeli azokra az illetékekről szóló törvény egyes rendelkezéseit is.
+
+A 171. §-hoz
+
+A törvény az R1. szerinti szabályozás átvételével szabályozza az Európai Bizottság felé megküldendő statisztikai jelentések készítését és az Európai Bizottság részére történő megküldését.
+
+-----STARTING---POINT---VEGE---
+
+A 172. §-hoz
+
+A törvény kormányrendeleti szintű felhatalmazást biztosít az 1. melléklet szerinti kategóriák alapján a törvény hatálya alá tartozó beszerzési tárgyak részletes meghatározására, valamint az Európai Unió Működéséről szóló Szerződés 346. cikke szerinti kivételi kör e törvény alkalmazása alóli mentesítési eljárásnak részletes szabályaira.
+
+A törvény miniszteri rendeleti szintű felhatalmazást ad a hirdetményekkel és egyéb iratmintákkal, valamint az Alkotmányvédelmi Hivatal által vezetett jegyzék tartalmával, és a jegyzékre kerüléssel összefüggő formanyomtatványokkal kapcsolatos szabályok megállapítására.
+
+A 173-174. §-hoz
+
+A rendelkezés a törvény hatályba lépésének időpontját határozza meg, azzal, hogy azt csak a hatálybalépését követően megkezdett eljárásokra, megkötött szerződésekre, és kezdeményezett jogorvoslati, illetve vitarendezési eljárásokra kell alkalmazni.
+
+A 175. §-hoz
+
+A rendelkezés módosítja a Polgári Perrendtartásról szóló 1952. évi III. törvényt, megteremtve a védelmi és biztonsági beszerzésekkel összefüggő közigazgatási perek illetékességi szabályát.
+
+A 176-177. §-hoz
+
+A törvény módosítja a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvényt és az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényt annak érdekében, hogy fogalomhasználata megegyezzen jelen törvény terminológiájával.
+
+A 178. §-hoz
+
+A törvény több ponton módosítja a Kbt.-t, a következő okokból:
+
+A törvény hatálybalépésére figyelemmel a Kbt. 9. § (1) bekezdés a) pontjában szükségtelen a továbbiakban utalni az eddig fennálló kormányrendeleti szabályra.
+
+A Kbt. 9. §-át szükséges kiegészíteni új bekezdésekkel, ugyanis a 9. § (1) bekezdés b) pontja szerinti beszerzésekkel kapcsolatos közérdekű, illetve közérdekből nyilvános adatok nyilvánosságának nemzetbiztonsági érdekből való korlátozásának lehetőségét indokolt megteremteni.
+
+A Kbt. 198. § (1) bekezdés 12. pontja szerinti felhatalmazó rendelkezés tekintetében a törvény egyszerűsítést tartalmaz.
+
+A 179. §-hoz
+
+A rendelkezés szükségtelenné válása okán hatályon kívül helyezi a Kbt. azon felhatalmazó rendelkezését, mely jelen törvény hatályba lépéséig felhatalmazást biztosított a védelmi beszerzések kormányrendeleti szintű szabályozására. A Kbt. 198. § (1) bekezdés 22. pontja szerinti felhatalmazó rendelkezést is szükséges törölni, mivel a Kbt. hatálya nem terjed ki az ezen törvény alóli kivételekre. Hatályon kívül helyezésre kerül továbbá a Kbt.-ben már feleslegessé vált, a védelmi irányelvre mutató jogharmonizációs záradék is.
+
+A 180. §-hoz
+
+A rendelkezés a törvény jogharmonizációs záradékát tartalmazza.

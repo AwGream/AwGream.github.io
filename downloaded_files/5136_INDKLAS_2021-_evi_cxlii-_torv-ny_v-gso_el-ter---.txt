@@ -1,0 +1,191 @@
+2021. évi CXLII. törvény végső előterjesztői indokolása
+
+a határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. § (2) bekezdés a) pontja alapján kerül közzétételre.
+
+A törvényjavaslat célja az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a határok és a vízumügy területén, továbbá a 767/2008/EK, az (EU) 2016/399, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1726 és az (EU) 2018/1861 európai parlamenti és tanácsi rendelet, valamint a 2004/512/EK és a 2008/633/IB tanácsi határozat módosításáról szóló, 2019. május 20-i (EU) 2019/817 európai parlamenti és tanácsi rendelet és az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet hazai végrehajtásához szükséges módosítások elvégzése.
+
+Az interoperabilitási rendeletek szerint a tagállami rendőri szerv felhatalmazható bizonyos feltételek fennállása esetén arra, hogy az ellenőrzött személy biometrikus adataival lekérdezést hajtson végre uniós információs rendszerekben, ezért a Rendőrségről szóló 1994. évi XXXIV. törvény módosítása az igazoltatás és a kiemelt biztonsági intézkedés körében e szabályok megalkotását tartalmazza. Bizonyos esetekben a tagállami hatóságoknak manuálisan is ellenőrizniük kell az információs rendszerekben tárolt adatokat, adatkapcsolatokat, erre tekintettel további törvények kisebb mértékű módosítását tartalmazza a javaslat.
+
+A törvény emellett a rendőrség szervezetében létrehozott fegyveres biztonsági őrség egyes határrendészettel összefüggő feladatokba történő bevonásának szabályait, az online terrorista tartalom terjesztésével szembeni fellépést övező európai uniós jogi szabályozás végrehajtásához szükséges jogintézményi kereteket teremti meg, és az Alaptörvény kilencedik módosításának 2023. július 1-jén hatályba lépő, a különleges jogrendi fejezetre vonatkozó rendelkezéseinek következményeként, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvényben meghatározott új rendszerének megfelelő szükséges szövegszerű módosításokat jeleníti meg az érintett sarkalatos törvényekben.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az (EU) 2019/817 európai parlamenti és tanácsi rendelet, valamint az (EU) 2019/818 európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés f) pontja szerint az interoperabilitás révén a rendeletek célkitűzése a terrorista bűncselekmények és egyéb súlyos bűncselekmények megelőzéséhez, felderítéséhez és nyomozásához való hozzájárulás. A hivatkozott európai uniós jogi normák 22. cikke rendelkezik a terrorista bűncselekmények vagy egyéb súlyos bűncselekmények megelőzése, felderítése vagy kivizsgálása céljából a Közös Személyazonosítóadat-tárba (CIR) való betekintés szabályairól.
+
+A terrorizmust elhárító szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7/E. § (1) bekezdés a) pont ad) alpontja alapján megelőzi, felderíti és elhárítja azokat a törekvéseket, amelyek Magyarország területén terrorcselekmény elkövetésére irányulnak, továbbá részt vesz az aa) alpontban foglalt bűncselekmények közvetlen következményeinek elhárításához szükséges, e törvényben meghatározott intézkedések végrehajtásában, ezért - e feladata ellátása érdekében - a módosítás révén lekérdezheti a CIR adatait.
+
+A 2-3. §-hoz
+
+Ezen rendelkezés a személyazonosítás pontos céljainak meghatározására, az ellenőrzésre irányadó feltételek és kritériumok megállapítására jön létre. Célja a biometrikus adatok kezelése jogalapjának a megteremtése. Jelenleg az Rtv. csak a személyazonosság igazolásának megtagadása esetére, illetve a VIS-ben történő ellenőrzés esetére teszi lehetővé az ujjnyomat adatok kezelését igazoltatás esetén.
+
+Az interoperabilitási rendeletek 20. cikk (2) bekezdése - kizárólag valamely személy azonosítása céljából és a 20. cikk (1) bekezdésében meghatározott körülmények valamelyikének fennállása esetén - lehetővé teszi az eljáró rendőr részére, hogy a közös személyazonosítóadat-tárhoz (a továbbiakban: CIR) hozzáférjen az ellenőrzött személytől a helyszínen nyert biometrikus adatok közvetlen felhasználása útján. Ehhez tagállami jogalkotás szükséges.
+
+A fentiek alapján az igazoltatás során az Rtv. felhatalmazza az igazoltatás során eljáró rendőrt a biometrikus adat levételére és annak felhasználására a CIR-ben történő kereséshez.
+
+Emellett az interoperabilitási rendeletek 20. cikk (4) bekezdése szerint tagállami hatáskör annak szabályozása is, hogy az eljáró rendőri szerv - kizárólag a személyazonosságát igazolni nem tudó személy vagy az azonosítatlan emberi maradvány azonosítása céljából - e személyek biometrikus adataival lekérdezést hajtson végre a CIR-ben. Ennek további feltétele a természeti katasztrófa vagy baleset bekövetkezése (ennek szabályai kerültek az igazoltatás intézkedés szabályai közé), vagy a terrortámadás esete (ennek szabályai kerültek a kiemelt biztonsági intézkedés szabályozásába).
+
+A 4. §-hoz
+
+[Rtv. 91/K. § új (2) bekezdés]
+
+Az (EU) 2019/817 és (EU) 2019/818 európai parlamenti és tanácsi rendeletekben maghatározott biometrikus azonosításhoz, figyelemmel az Európai Határregisztrációs Rendszerrel kapcsolatos feladatokra is, szükséges a rendőrséget felhatalmazni az utasok biometrikus adatainak ellenőrzésére. Továbbá a határforgalom ellenőrzéshez kapcsolódó feladatok végrehajtása érdekében nemzeti szinten is rögzíteni kell, hogy az utasok adatainak összevetéséhez az interoperabilitási rendeletekben meghatározott elemek [az európai keresőportál (ESP); a közös biometrikus megfeleltetési szolgáltatás (közös BMS); a közös személyazonosítóadat-tár (CIR); a többszörös személyazonosságot észlelő rendszer (MID)] is felhasználhatók.
+
+[Rtv. 91/K. § új (4) bekezdés]
+
+A határforgalom ellenőrzés során - amennyiben az szükséges - a biometrikus adatok elemzéséhez szakértői szerv igénybevétele lehet indokolt. A javaslat az adatátadás jogalapját teremti meg.
+
+Az 5. §-hoz
+
+Az (EU) 2019/817 és (EU) 2019/818 európai parlamenti és tanácsi rendeletek feladatokat határoznak meg a határforgalom ellenőrzésért felelős hatóságok - Magyarországon tehát a rendőrség - számára. Ennek megfelelően a módosítás a rendőrség számára lehetővé teszi az interoperabilitási rendeletekben meghatározott feladatok ellátását, illetve a kapcsolódó adatok kezelését.
+
+A 6. §-hoz
+
+Jogharmonizációs záradék.
+
+A 7. §-hoz
+
+Az (EU) 2019/817 és (EU) 2019/818 európai parlamenti és tanácsi rendeletekben maghatározott biometrikus azonosításhoz, figyelemmel az Európai Határregisztrációs Rendszerrel kapcsolatos feladatokra is, szükséges a rendőrséget felhatalmazni az utasok biometrikus adatainak ellenőrzésére. Továbbá a határforgalom ellenőrzéshez kapcsolódó feladatok végrehajtása érdekében nemzeti szinten is rögzíteni kell, hogy az utasok adatainak összevetéséhez az interoperabilitási rendeletekben meghatározott elemek [az európai keresőportál (ESP); a közös biometrikus megfeleltetési szolgáltatás (közös BMS); a közös személyazonosítóadat-tár (CIR); a többszörös személyazonosságot észlelő rendszer (MID)] is felhasználhatók.
+
+A 8. §-hoz
+
+A Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban: TIBEK) - mint az ETIAS nemzeti egység - számára az (EU) 2019/817 európai parlamenti és tanácsi rendelet (a továbbiakban: interoperabilitási rendelet) számos feladatot, kötelezettséget és jogosultságot határoz meg.
+
+Az interoperabilitási rendelet szerint a különböző személyazonosságok manuális ellenőrzését annak a hatóságnak kell biztosítania, amely létrehozta vagy aktualizálta azokat az adatokat, amelyek más uniós információs rendszerben tárolt adatokkal kapcsolatot létrehozva egyezést eredményeztek.
+
+Az interoperabilitási rendelet 29. cikk (1) bekezdés c) pontja szerint az ETIAS kérelemfájlnak a létrehozása vagy frissítése nyomán a különböző személyazonosságok manuális ellenőrzéséért felelős hatóságként az ETIAS központi egységének vagy az ETIAS nemzeti egységeinek kell eljárnia. Amennyiben nincs elegendő információ a manuális ellenőrzés megfelelő végrehajtásához, úgy külső adatforrás igénybevételének lehetősége szükségessé is válhat, ideértve - a célhoz kötött - adatkérés eseteit is.
+
+A 9. §-hoz
+
+Felhatalmazó rendelkezés.
+
+A 10. §-hoz
+
+Jogharmonizációs záradék.
+
+A 11. §-hoz
+
+A fegyveres biztonsági őrségről, a természetvédelmi és mezei őrszolgálatról szóló 1997. évi CLIX. törvény (a továbbiakban: Fbő. tv.) 1. § (6) bekezdése a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében létrehozott fegyveres biztonsági őrség esetén lehetővé teszi az adott szerv tevékenységi körébe tartozó objektum-, illetve személyőrzési vagy kísérési feladatok ellátását.
+
+Az általános rendőrségi feladatok ellátására létrehozott szerv szervezetében létrehozott és működtetett fegyveres biztonsági őrség által ellátandó határrendészeti és határőrizeti feladatok nemcsak objektum-, illetve személyőrzési vagy kísérési feladatok lehetnek, ezért szükséges a rendőrség határrendészeti és határőrizeti feladatainak egyéb módon történő támogatása is.
+
+A 12. §-hoz
+
+A határrendészeti és határőrizeti feladatot a fegyveres biztonsági őr csak e feladatra teljeskörűen kiképzett és a rendőrt megillető jogosultságok teljes körével rendelkező rendőrrel közösen, annak közvetlen felügyelete és irányítása alatt végezheti, tekintettel arra, hogy a fegyveres biztonsági őr által elvégzett feladat csak kiegészítő, támogató jellegű.
+
+E támogató, biztosító tevékenység nem korlátozódik a fegyveres biztonsági őr jelenlétére, hanem aktív magatartást is jelent. Ennél fogva a fegyveres biztonsági őr közreműködik a visszatartott személy szökése esetén annak felkutatásában és elfogásában, a rendőr ellen irányuló támadás esetén a rendőr védelme érdekében fellép, és mindezekhez az Fbő. tv-ben szabályozott módon kényszerítő eszközt is igénybe vehet.
+
+A 13-16. §-hoz
+
+Az Európai Unió Hivatalos Lapjában megjelent az online terrorista tartalom terjesztésével szembeni fellépésről szóló, 2021. április 29-i (EU) 2021/784 európai parlamenti és tanácsi rendelet (a továbbiakban: EU Rendelet), amely uniós norma a hatálya alá tartozó jogsértő digitális tartalmakkal szembeni tagállami hatósági fellépés egységes eljárási szabályait hivatott megállapítani.
+
+Jóllehet saját jogforrási természetéből következően az EU Rendelet a többi tagállamhoz hasonlóan Magyarországon is teljes egészében kötelező és közvetlenül alkalmazandó, a szóban forgó hatósági eljárásokat övező szabályrendszert az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény önálló alcímeként szükséges jogszabályba iktatni annak érdekében, hogy az alapul fekvő európai uniós jogi előírások végrehajthatósága a hazai jogrendszerben is maradéktalanul biztosított legyen.
+
+A 17-18. §-hoz
+
+Az interoperabilitási rendeletek végrehajtása érdekében a módosítási javaslat célja a biometrikus adatok (ujjnyomat és arcképmás) kezelése jogalapjának megteremtése, valamint az adatkezelési szabályok meghatározása, tekintettel arra, hogy a különböző személyazonosságok manuális ellenőrzését annak a hatóságnak kell biztosítania, amely létrehozta vagy aktualizálta azokat az adatokat, amelyek más uniós információs rendszerben tárolt adatokkal kapcsolatot létrehozva egyezést eredményeztek.
+
+A 19. §, 23. §-hoz
+
+Felhatalmazó rendelkezés, mely alapján az idegenrendészeti és a menekültügyi hatóság interoperabilitásból fakadó feladatok részletes szabályait alkotja meg a Kormány.
+
+A 20. §, 24. §, 27. §-hoz
+
+Jogharmonizációs záradék.
+
+A 21-22. §-hoz
+
+Az interoperabilitási rendeletek végrehajtása érdekében a módosítási javaslat célja a biometrikus adatok (ujjnyomat és arcképmás) kezelése jogalapjának megteremtése, valamint az adatkezelési szabályok meghatározása, tekintettel arra, hogy a különböző személyazonosságok manuális ellenőrzését annak a hatóságnak kell biztosítania, amely létrehozta vagy aktualizálta azokat az adatokat, amelyek más uniós információs rendszerben tárolt adatokkal kapcsolatot létrehozva egyezést eredményeztek.
+
+A 25. §-hoz
+
+A jelenlegi szabályozás a mostani súlyos munkaerőhiány idején felesleges korlátot szab a diákok munkavállalásának, illetve a cégek munkaerő igényeinek kielégítésének. Tekintettel arra, hogy lehetnek olyan hetek, amikor a diák többet is tudna dolgozni, mert a tanulmányai átmenetileg megengedik, a munkavégzéssel tölthető órák száma megemelésre kerül.
+
+A harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről (átdolgozás) szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv 24. cikk (3) bekezdése szerint minden tagállam meghatározza, hogy hetente legfeljebb hány óra, illetve évente legfeljebb hány nap vagy hónap engedélyezett a hallgató számára ilyen tevékenység folytatására, amely pedig nem lehet kevesebb, mint heti 15 óra, illetve az éves szinten ennek megfelelő számú nap vagy hónap. Az érintett tagállamon belüli munkaerő-piaci helyzet figyelembe vehető.
+
+A jelenlegi heti 24 óra időtartam heti 30 órára történő emelése megfelel az Irányelv rendelkezéseinek, mivel a külföldi idejének nagyobb részét a tanulmányok folytatása teszi ki.
+
+A 26. §-hoz
+
+Az (EU) 2019/818 európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés e) pontja szerint az interoperabilitás biztosítása révén a rendelet egyik célkitűzése a nemzetközi védelem iránti kérelmek vizsgálatához történő segítségnyújtás. A 2. cikk (2) bekezdés a) és b) pontja szerint e célt a személyek helyes azonosításának biztosítása és a személyazonossággal való visszaélés elleni küzdelemhez való hozzájárulás révén kell megvalósítani. Ennek érdekében a módosítás megteremti az ujjnyomat-adat rögzítésének és tárolásának jogalapját az interoperabilitással kapcsolatban.
+
+A 28. §, 30. §-hoz
+
+A rendőrség a határforgalom ellenőrzés során harmadik országbeli állampolgárok ujjnyomat adatait rögzíti, mely kötelezettség az Európai Határregisztrációs Rendszer (EES) működéséhez kapcsolódik. Az interoperabilitás keretében a biometrikus adatok automatikus azonosítását az EES végzi el. Abban az esetben, ha manuális ellenőrzést kell végrehajtani, szükségessé válhat a kijelölt szakértői szerv bevonása az elemzésbe. Ennek érdekében a javasolt módosítás révén a rendőrség jogosulttá válik az összehasonlítás kezdeményezésére és az adatátvételre.
+
+A 29. §-hoz
+
+Az interoperabilitási rendeletek szerint a különböző személyazonosságok manuális ellenőrzését annak a hatóságnak kell biztosítania, amely létrehozta vagy aktualizálta azokat az adatokat, amelyek más uniós információs rendszerben tárolt adatokkal kapcsolatot létrehozva egyezést eredményeztek. Az (EU) 2019/817 európai parlamenti és tanácsi rendelet 29. cikk (1) bekezdés c) pontja szerint az ETIAS kérelemfájlnak a létrehozása vagy frissítése nyomán a különböző személyazonosságok manuális ellenőrzéséért felelős hatóságként az ETIAS központi egységének vagy az ETIAS nemzeti egységeinek kell eljárnia.
+
+Az interoperabilitás eredményeképpen bevezetésre kerülő működési mechanizmus alapján az érintett uniós adatbázisok között ún. sárga kapcsolat keletkezik, amely hivatkozást tartalmaz azokra a rendszerekre, amelyekben az összekapcsolt adatok találhatóak. A különböző személyazonosságok manuális ellenőrzésért felelős hatóságnak az ellentmondásokat kell feloldania és ennek keretében azt kell értékelnie, hogy indokoltan vagy indokolatlanul áll-e fenn az ugyanarra a személyre vonatkozó többszörös személyazonosság. A vizsgálat keretében hozzáféréssel rendelkezik a releváns, összekapcsolt információkhoz és késedelem nélkül meg kell vizsgálnia a különböző személyazonosságokat, és a vizsgálat végeztével frissítenie kell a kapcsolatokat.
+
+Ebbe a folyamatba szükségszerűen beletartozik a nemzeti bűnügyi nyilvántartásban szereplő adatok ellenőrzésének folyamata is, ezért indokolt a Bnytv. közvetlen hozzáféréssel történő adatátvételre vonatkozó rendelkezései között a Terrorelhárítási Információs és Bűnügyi Elemző Központ utasadat-információs egysége mellett az ETIAS Nemzeti Egységet is szerepeltetni.
+
+A 31. §-hoz
+
+A módosítás a szabályozás hatályos logikáját fenntartva az Alaptörvény kilencedik módosításából következő terminológia- és szakmai változásokat átvezeti, arra figyelemmel, hogy 2023. július 1-jétől a Honvédelmi Tanács megszűnik, a köztársasági elnök szükségállapoti jogosítványai módosulnak. A rendelkezés a különleges jogrendre vonatkozó, valamint a váratlan támadás kezelésével összefüggő szabályokat rögzíti annak érdekében, hogy az állampolgárok biztonságát szolgáló tájékoztatás megvalósulhasson.
+
+A 32. §-hoz
+
+A módosítás az Alaptörvény kilencedik módosításából és a Vbö. kihirdetett szövegéből következő terminológia- változásokat vezeti át.
+
+A 33. §-hoz
+
+Az (1) bekezdéshez
+
+A módosítás az Alaptörvény kilencedik módosításából és a Vbö. kihirdetett szövegéből következő terminológia- változásokat vezeti át.
+
+A (2) bekezdéshez
+
+A módosítás a hatályos szabályozás logikáját és szakmai tartalmát fenntartva biztosítja, hogy különleges jogrend idején és a Hvt. szerinti váratlan támadás esetén az irányítási feladatot ellátó szervek a központi médiaszolgáltató meghatározott tartalmakat tegyen közzé az általa kezelt csatornákon, ezzel segítve a válsághelyzetekben a lakosság tényszerű tájékoztatását, a biztonság fokozását.
+
+A 34. §-hoz
+
+A Médiatörvény módosuló 15. §-ával és ahhoz tartozó címével való koherenciát szolgáló rendelkezés.
+
+A 35. §-hoz
+
+Az Alaptörvény kilencedik módosítása alapján a rendkívüli állapot különleges jogrendi kategória megszűnik, szabályozási szempontból a hadiállapot kategóriájába olvad be. Szükséges ezért az ügyészek jogállását meghatározó törvényi rendelkezések technikai módosítása munkavégzésre való beosztás kivételes eseteinek meghatározása körében.
+
+A 36. §-hoz
+
+Értelmező rendelkezések a SIRENE Iroda új feladatköréhez kapcsolódóan.
+
+A 37. §-hoz
+
+Az (EU) 2019/817 európai parlamenti és tanácsi rendelet és az (EU) 2019/818 európai parlamenti és tanácsi rendelet feladatokat határoz meg a SIRENE Iroda számára, ezért a SIRENE Iroda számára lehetővé kell tenni a rendeletekben meghatározott feladatok ellátását.
+
+A 38. §-hoz
+
+Felhatalmazó rendelkezés.
+
+A 39. §-hoz
+
+Jogharmonizációs záradék.
+
+-----STARTING---POINT---VEGE---
+
+A 40. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 41. §-hoz
+
+Az interoperabilitási rendeletekkel létrehozott interoperabilitási elemek - vagyis az Európai Keresőportál (European Search Portal, ESP), a Közös biometrikus megfeleltetési szolgáltatás (Shared Biometric Matching Service, BMS), a Közös Személyazonosítóadat-tár (Common Identity Repository, CIR) és a Többszörös-személyazonosság Észlelő (Multiple-Identity Detector, MID) működésüket az Európai Bizottság által meghatározott időpontban kezdik meg.
+
+Az (EU) 2019/817 európai parlamenti és tanácsi rendelet 72. cikk (8) bekezdése, illetve az (EU) 2019/818 európai parlamenti és tanácsi rendelet 68. cikk (8) bekezdése szerint a tagállamok az (1), a (2), a (3), illetve a (4) bekezdéssel összhangban a Bizottság által meghatározott időponttól kezdik meg az egyes interoperabilitási elemek alkalmazását. Ebből következik, hogy a tagállamoknak folyamatosan együtt kell működniük az Európai Bizottsággal a nemzeti hatáskörbe tartozó fejlesztési feladatok elvégzése során, és az uniós szinten meghatározott ütemben kell haladniuk ahhoz, hogy az interoperabilitási elemek uniós szinten egységesen működésbe lépjenek. Emiatt átmeneti rendelkezés szól arról a legutolsó időpontról, ameddig a fejlesztéseket el kell végezniük a magyar hatóságoknak, az interoperabilitási elemek magyarországi beindításának időpontjáról pedig külön rendelkezés megalkotása nem indokolt, ahogy az sem, hogy a törvény hatályba lépését az egyes elemek beindításához kössük.
+
+E körben fontos hangsúlyozni azt is, hogy az interoperabilitással érintett egyes uniós szakrendszerek - például az EES, az ETIAS, vagy az új SIS - még nem kezdték meg a működésüket, azok fejlesztése folyamatban van. A hazai végrehajtásukról rendelkező jogszabályokat az Országgyűlés már elfogadta, de jelenleg még nem léptek hatályba, mivel a beindításukra vonatkozó bizottsági végrehajtási határozatok még nem születtek meg.
+
+A 42. §-hoz
+
+Sarkalatossági záradék.
+
+A 43. §-hoz
+
+Jogharmonizációs záradék.

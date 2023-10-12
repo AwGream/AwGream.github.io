@@ -1,0 +1,363 @@
+2007. évi CV. törvény indokolása
+
+a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+1. A teljes jogú schengeni tagság elérése Magyarország számára uniós csatlakozásunk kezdetétől fogva kiemelt célként szerepel. A Kormány programjában megjelenő kiemelt feladat schengeni csatlakozásunk előkészítése. E csatlakozás központi, elengedhetetlen eleme a Schengeni Információs Rendszer (a továbbiakban: SIS) alkalmazásának lehetővé tétele, ennek törvényi feltételeit teremti meg a törvény.
+
+Miután a Schengeni Információs Rendszer második generációja központi részének fejlesztésében olyan szintű késedelem következett be, amely alapján egyértelművé vált, hogy annak alkalmazására 2009-nél előbb nem kerülhet sor, az Európai Unió Bel- és Igazságügyi Tanácsa 2006. december 4-5-i ülésén elfogadta Portugáliának a jelenlegi SIS I+ új tagállamokra történő kiterjesztésére tett javaslatát, annak érdekében, hogy az új tagállamokban a belső határokon folytatott ellenőrzések megszüntetése ne szenvedjen további késedelmet.
+
+2. A törvény ennek megfelelően a Schengeni Végrehajtási Egyezmény (a továbbiakban: SVE) rendelkezései alapján kijelöli a SIS I+ információs rendszerben részt vevő hatóságokat. Eszerint a SIS I+ nemzeti része informatikai központja a Kormány által kijelölt szervként a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala. A korábbi kormányzati döntésnek megfelelően a SIRENE Iroda feladatait a NEBEK látja el.
+
+3. A törvény a SVE 94-100. cikkei alapján meghatározza, hogy a SIS-ben mikor helyezhető el figyelmeztető jelzés, és annak mi az adattartalma.
+
+A törvény részletesen szabályozza továbbá, hogy a figyelmeztető jelzések elhelyezése céljából mely hatóságok jogosultak adattovábbításra a SIS-be.
+
+A törvény ezt követően szabályozza a SIS-ben tárolt adatokhoz történő hozzáférést is, meghatározva, hogy mely szervek - feladat- és hatáskörük ellátása céljából - milyen adatokhoz férhetnek hozzá.
+
+4. A SVE 114. cikke független adatvédelmi hatóság kijelölését írja elő a tagállamok részére. Az adatvédelmi biztos a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.). rendelkezései szerint általánosan és mindenre kiterjedően látja el feladatát, azonban a törvény az egyértelmű szabályozás érdekében kifejezetten meghatározza, hogy az adatvédelmi biztos az adatkezelés jogszerűségét, illetve az ezt kifogásoló bejelentéseket az Avtv. rendelkezései alapján ellenőrzi, illetve vizsgálja ki.
+
+5. A Schengeni Információs Rendszer a jövőben mind magyar, mind nemzetközi viszonylatban nem kizárólag hazai bűnüldöző szervekkel, illetve nemzetközi bűnüldözési szervezetekkel tart kapcsolatot, hanem az illegális migráció megelőzése, illetve az elveszett, ellopott, megsemmisült hivatalos okmányok felkutatása érdekében az idegenrendészeti hatóságokkal, a személyiadat- és lakcímnyilvántartás központi szervével, a központi útiokmány-nyilvántartó szervvel, illetve a központi közúti közlekedési nyilvántartó szervvel is. Ezen új feladatokra tekintettel az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvényben (a továbbiakban: NEBEK tv.) a „nemzetközi bűnüldözési szervezet”, illetve a „magyar bűnüldöző szerv” fogalmakat új fogalommal kell felváltani. A törvény erre tekintettel ugyan több törvényhelyen, de lényegében azonos okból módosítja a NEBEK tv.-t a „nemzetközi bűnüldözési szervezet” helyett „nemzetközi bűnügyi együttműködés céljából létrehozott szervezet” kifejezést, a „magyar bűnüldöző szerv” helyett „magyar együttműködő szerv” kifejezést használva. Ezen túlmenően - arra tekintettel, hogy a SIRENE Iroda feladatait a NEBEK önálló szervezeti egysége látja el - a SIRENE Iroda figyelmeztető jelzéssel, adatvédelemmel, adatbiztonsággal kapcsolatos feladataival is kiegészíti a NEBEK tv. rendelkezéseit a törvény.
+
+6. Célszerűtlen, és nem szolgálja a SIS hatékony működése szempontjából alapvető adat-, és jogbiztonságot az a helyzet, ha a közigazgatási adatkezelésben elektronikusan rögzített, és hozzáférhető adat alapján a körözés elrendeléséről külön határozatot kell hozni, és a Rendőrség e határozat alapján rögzíti az okmánykörözési adatbázisában, az egyébként a közigazgatásban már rögzített adatokat, és az onnan kerülne a SIS-be.
+
+A törvény erre tekintettel tartalmazza azokat a rendelkezéseket is, amelyek lehetővé teszik, hogy az elveszett, eltulajdonított, megsemmisült okmányok körözését ne egyedi határozattal kelljen elrendelni, hanem azt az erre vonatkozó ténynek az adott okmány elvesztésére, eltulajdonítására, megsemmisülésére vonatkozó ténynek az okmányra vonatkozó központi hatósági nyilvántartásba történő bejegyzése alapján lehessen lefolytatni. Ennek megfelelően a törvény módosítja az Avtv.-t, a külföldre utazásról szóló 1998. évi XII. törvényt (a továbbiakban: Utv.), a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvényt (a továbbiakban: Kknyt.), és a személy- és tárgykörözésről szóló 2001. évi XVIII. törvényt (a továbbiakban: Sztk.tv.) is.
+
+7. A hatályos szabályozás szerint a magyar bíróság által kibocsátott nemzetközi elfogatóparancs és az európai elfogatóparancs hatálya nem terjed ki a Magyar Köztársaság területére, azaz, ha nemzetközi elfogatóparancs vagy európai elfogatóparancs alapján Magyarországon találják meg a terheltet, az eljárás belföldi elfogatóparancs hiányában nem folytatható le. A törvény ezen anomália orvoslása érdekében a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) - és ezzel összhangban a két érintett jogsegély törvény - módosításával megteremti a lehetőségét annak, hogy a nemzetközi elfogatóparancs és az európai elfogatóparancs hatálya a Magyar Köztársaság területére is kiterjedjen, továbbá, hogy a Be. alapján kibocsátott elfogatóparancsra vonatkozó rendelkezések alkalmazhatók legyenek a nemzetközi elfogatóparancs és az európai elfogatóparancs tekintetében is.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+E szakasz a törvény alkalmazási területét állapítja meg.
+
+A 2. §-hoz
+
+A törvény a normaszövegben többször előforduló, a SIS szempontjából lényeges fogalmakat határozza meg, mivel a SVE nem tekinthető közvetlenül alkalmazandó európai uniós jogi aktusnak.
+
+A SVE 92. cikke szerint a SVE-ben részes államok olyan közös információs rendszert hoznak létre, amely egyrészt áll egy ún. technikai támogató egységből (Központi SIS), valamint az egyes államok által saját költségükre létrehozott nemzeti részből (N.SIS), amelynek adatállományát a Központi SIS segítségével a többi SIS-t alkalmazó állam adatállományához tartalmilag azonossá alakítják. Az N.SIS az adott SIS-t alkalmazó állam területén való lekérdezések céljára szolgál.
+
+A SIS-t alkalmazó államok a figyelmeztető jelzések elhelyezéséhez, illetve az elrendelt intézkedés végrehajtásához szükséges, azonban a figyelmezető jelzés adattartalmában nem szereplő adatok kicserélésére, továbbítására egy speciális hatóságot kötelesek kijelölni (SIRENE Iroda), amelyek feladatukat egységes protokollok mentén végzik. Ezeket a szabályokat tartalmazza a SIRENE-kézikönyv.
+
+A 3. §-hoz
+
+A SVE 108. cikke minden SIS-t alkalmazni kívánó állam számára előírja, hogy jelöljön ki egy szervet, amely a Schengeni Információs Rendszer nemzeti része tekintetében központi hatáskörrel rendelkezik. A SIS-t alkalmazó államok ezen a szerven keresztül helyezik el a figyelmeztető jelzéseket. Ez a központi szerv felelős a Schengeni Információs Rendszer nemzeti részének zökkenőmentes működéséért, és ennek a szervezetnek kell meghoznia azokat az intézkedéseket, amelyek SVE-ben foglalt rendelkezések betartása céljából szükségesek. A törvény erre tekintettel rendelkezik úgy, hogy a Kormány kijelöl egy szervezetet, amely ellátja az N.SIS informatikai központjának (N.SIS Hivatal) feladatait. Ez a szerv a Kormány korábbi döntésének megfelelően a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala lesz. A törvény nevesíti továbbá az N.SIS Hivatal legfontosabb feladatait.
+
+A 4. §-hoz
+
+A NEBEK tv. által létrehozott szervezet, ezért a NEBEK részét képező, a SVE 92. cikk (4) bekezdése szerint létrehozandó SIRENE Iroda feladatait is törvényben kell megállapítani. Egyértelmű, hogy e feladatokat a NEBEK látja el e törvény, valamint az Európai Unió jogi aktusai rendelkezéseinek megfelelően.
+
+Az Európai Unió jogi aktusai alatt egyrészről a SIRENE-kézikönyvet közzétevő bizottsági határozatokat kell érteni, illetve ez a rendelkezés már figyelemmel volt arra, hogy a Schengeni Információs Rendszer második generációja már nem a SVE-n, hanem egy uniós rendeleten és egy határozaton alapul. A SIRENE Iroda feladata a kiegészítő információ cseréjének biztosítása, az N.SIS-ben figyelmezető jelzésként elhelyezett adatok minőségének ellenőrzése, szükség esetén az adatok helyesbítésének koordinálása.
+
+A SIRENE Iroda feladatai ellátásához hozzáféréssel kell, hogy rendelkezzen a SIS-ben tárolt adatokhoz.
+
+Az 5. §-hoz
+
+A törvény a SVE 94-100. cikkei alapján nevesíti a SIS-ben elhelyezhető figyelmeztető jelzések körét és azok adattartalmát. Azt, hogy a magyar hatóságok milyen esetben helyezhetnek el figyelmeztető jelzést, csak a magyar jogi terminológiával körülírt módon lehet meghatározni, a lehetőségek szerint úgy, hogy az a SVE-ben meghatározott fogalmakkal könnyen azonosítható legyen. A megfeleltethetőség a törvényben túlnyomórészt egyértelmű, a figyelmezető jelzések két típusának meghatározása igényel részletesebb kifejtést.
+
+1. A SVE 97. cikke alapján a SIS-ben az eltűnt személyekkel vagy az olyan személyekkel kapcsolatos figyelmeztető jelzés is elhelyezhető, akiket saját védelmük vagy fenyegető veszély elhárítása érdekében átmenetileg rendőri védelem alá kell helyezni. A SVE e cikke a későbbiekben kifejti, hogy ez a rendelkezés „különösen a kiskorúakra és azokra a személyekre vonatkozik, akiket a hatáskörrel rendelkező hatóság határozata alapján zárt intézetben kell elhelyezni”.
+
+A törvény az eltűnt személyekre vonatkozó figyelmeztető jelzés elhelyezéséről rendelkezik. Ennek oka, hogy a magyar jogi terminológiában a „saját védelme érdekében” és a „fenyegető veszély” kifejezések a szélesebb értelemben vett büntetőjog területén a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvényben és végrehajtási rendeleteiben jelennek meg. Ezek a fogalmak tehát nem használhatók a törvényben.
+
+A rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 36/A. §-a (2) bekezdésének b) pontja szerint eltűnt személynek kell tekinteni azt az ismeretlen helyen lévő személyt, aki cselekvőképtelen vagy korlátozottan cselekvőképes, illetve egészségi állapota, kora vagy más ok miatt képtelen magáról gondoskodni, ennek alapján az eltűnt személy fogalmába egyértelműen beletartoznak a SVE 97. cikkében példaként felsorolt személyek, akikre a SIS-ben részt vevő államok gyakorlata szerint az előbb említett fogalom vonatkozik.
+
+2. A SVE 99. cikke szerinti figyelmeztető jelzés alapján végrehajtandó célzott ellenőrzés, illetve leplezett megfigyelés lényegében az adott rendőri intézkedés céljának leplezésével, az intézkedéssel érintett személyről vagy tárgyról történő meghatározott információk összegyűjtését és továbbítását jelenti. Ennek az intézkedésnek leginkább az Rtv. 64. §-a (1) bekezdésének b) pontja szerinti leplezett információgyűjtés első fordulata feleltethető meg, amely szerint a Rendőrség az eljárás céljának leplezésével információt gyűjthet, adatot ellenőrizhet. Ennek alapján határozza meg a törvény, hogy leplezett megfigyelés kezdeményezésére a Rendőrség milyen feltételek mellett jogosult, és annak eredményéről milyen adatokat továbbíthat a SIRENE Irodán keresztül az ilyen célú figyelmeztető jelzés elhelyezését elrendelő külföldi hatóság felé (SVE 99. cikk).
+
+3. Egyébként a törvényben meghatározott figyelmeztető jelzések a következőképpen feleltethetőek meg a SVE szakaszaival:
+
+a) pont szerinti jelzések a SVE 95. cikkének,
+
+b) pont szerinti jelzések a SVE 97. cikkének,
+
+c) pont szerinti jelzések a SVE 98. cikk (1) bekezdés első fordulatának,
+
+d) pont szerinti jelzések a SVE 98. cikk (1) bekezdés második fordulatának,
+
+e) pont szerinti jelzések a SVE 96. cikkének,
+
+f) pont szerinti jelzések a SVE 99. cikkének,
+
+g)-h) pontok szerinti jelzések a SVE 100. cikkének
+
+feleltethető meg.
+
+A 6. §-hoz
+
+A SVE 94. cikk (3) bekezdése a személyekre vonatkozó figyelmeztető jelzések esetében meghatározza, hogy legfeljebb milyen adatokat (információt) lehet elhelyezni a SIS-ben, a törvény ennek megfelelően határozza meg személyekre vonatkozóan a figyelmeztető jelzések adattartalmát.
+
+A törvény úgy rendelkezik, hogy az érintett személy esetleges fegyverviselésére, illetve erőszakos viselkedésére vonatkozó figyelemfelhívás csak azokban az esetekben továbbítható, amikor ennek relevanciája, illetve igazolható célja van, nevezetesen akkor ha a figyelmeztető jelzést a személyt kiadatás vagy átadás céljából történő elfogása, illetve az érintett személlyel szemben leplezett információgyűjtés, illetve adatellenőrzés céljából adták ki. A figyelmezető jelzés alapján intézkedést végző hatóság ebben az esetben kerül olyan kapcsolatba az érintett személlyel, ahol az ilyen jellegű információnak a hatóság eljárása szempontjából hasznosítható célja van.
+
+A törvény a tárgyakra nézve a SVE 100. cikkének (2) bekezdésére figyelemmel határozza meg, hogy melyekre vonatkozóan lehet figyelmeztető jelzést elhelyezni.
+
+A 7. §-hoz
+
+A SVE 99. cikke (2) bekezdésének a) pontja szerint leplezett megfigyelésre vagy célzott ellenőrzésre leplezett információ gyűjtésre vagy adatellenőrzésre vonatkozóan figyelmeztető jelzés akkor helyezhető el, „amikor konkrét adatok utalnak arra, hogy az illető személy számos és különösen súlyos bűncselekményt tervez elkövetni, vagy követ el;…”. A törvény ennek megfelelően az Rtv. 97. §-a (1) bekezdése j) pontjában szereplő „súlyos bűncselekmény” fogalomnak megfelelően határozza meg azt a bűncselekményi kört, amelyre vonatkozóan a magyar hatóság ilyen figyelmeztető jelzést elhelyezhet, ha megalapozottan feltehető, hogy az információgyűjtéssel vagy adatellenőrzéssel érintett személy ilyen bűncselekményt fog elkövetni (készít elő). A törvény a „megalapozottan feltehető” fordulat használatával elkerüli a Be. szerinti, a büntetőeljárás egy konkrét személlyel szemben történő megindításához szükséges „megalapozott gyanú” kifejezést, amellyel jelzi, hogy itt még a felderítési szakban szerzett információk alapján kialakult feltételezésről van szó. Ezt erősíti meg a törvény azzal is, hogy kifejezetten rendelkezik arról, hogy a figyelmeztető jelzés akkor is elhelyezhető, ha az adott bűntett tekintetében az előkészület a magyar törvény szerint nem büntetendő.
+
+A törvény a SVE 99. cikke (4) bekezdésének megfelelően határozza meg, hogy melyek azok a leplezett információgyűjtéssel illetve adatellenőrzéssel szerzett információk amelyek a SIRENE Irodán keresztül továbbíthatók a figyelmeztető jelzést kibocsátó külföldi hatóságnak.
+
+A 8. §-hoz
+
+Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény jelenleg úgy rendelkezik, hogy az európai elfogatóparancsot a NEBEK-nek kell megküldeni. A hatályos rendelkezések alapján tehát az európai elfogatóparancs nem kerül be a körözési információs rendszerbe. Ezzel párhuzamosan a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) jelenleg úgy rendelkezik, hogy a nemzetközi elfogatóparancsot az igazságügyért felelős miniszternek kell megküldeni. Ez azt jelenti, hogy nemzetközi elfogatóparancs sem kerül be a belföldi körözési rendszerbe.
+
+A törvény 36. §-és a 41. §-a ezt a problémát kezeli a 2003. évi CXXX. törvény, az Nbjt., illetve az Sztk.tv. módosításával, amelyekben az kerül egyértelműen rögzítésre, hogy az európai elfogatóparancsot, valamint a nemzetközi elfogatóparancsot meg kell küldeni az illetékes rendőri szerv részére is.
+
+Figyelemmel arra, hogy az európai elfogatóparancs közvetlenül megküldésre kerül a NEBEK-hez, így nem szükséges azt előírni, hogy a figyelmeztető jelzés elhelyezése az egyébként a körözési információs rendszert kezelő Rendőrségen keresztül történjék. Ennek megfelelően rendelkezik úgy a törvény e szakasza, hogy a figyelmeztető jelzés elhelyezéséhez szükséges adatokat az európai vagy nemzetközi elfogató parancsot kibocsátó bíróság küldi meg a SIRENE Irodának, amely továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő elhelyezése céljából.
+
+A 9. §-hoz
+
+Annak a személynek a körözését, akinek az eltűnését bejelentik az Rtv. 36/A. §-ának (3) bekezdése szerint a bejelentést követő 24 órán belül el kell rendelni. A büntetőeljárásban tanúként vagy terheltként idézni kívánt olyan személyt érintően, akinek lakó- vagy tartózkodási helye ismeretlen - a lakó- vagy tartózkodási hely közlése céljából - akkor helyezhető el figyelmeztető jelzés, ha a körözését elrendelték. Ennek megfelelően rendelkezik a törvény úgy, hogy ezekben az esetekben a figyelmeztető jelzés elhelyezéséhez szükséges személyre vonatkozó adatokat a körözést folytató rendőri szerv küldi meg a SIRENE Irodának, amely továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő elhelyezése céljából.
+
+A Rendőrség és a Határőrség integrációját követően a Rendőrség és a Vám- és Pénzügyőrség végezhet leplezett információgyűjtést vagy adatellenőrzést. Ennek megfelelően a törvény úgy rendelkezik, hogy az ilyen információgyűjtésben, vagy adatellenőrzésben érintett személyre, illetve járműre vonatkozó - a figyelmeztető jelzés elhelyezéséhez szükséges - adatokat, a körözést folytató rendőri szerv küldi meg a SIRENE Irodának, amely továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő elhelyezése céljából.
+
+A gépjármű, utánfutó, lakókocsi, lőfegyver, bankjegy körözését, mint tárgykörözést az Sztk.tv. 4. §-ának megfelelően a Rendőrség végzi. Ennek megfelelően rendelkezik úgy a törvény, hogy a figyelmeztető jelzés elhelyezéséhez szükséges az adott tárgyra vonatkozó adatokat a körözést folytató rendőri szerv küldi meg a SIRENE Irodának, amely továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő elhelyezése céljából.
+
+A 10. §-hoz
+
+A SVE 96. cikke szerinti, beléptetési tilalmat - a hazai jogi terminológiában beutazási és tartózkodási tilalmat - elrendelő figyelmeztető jelzéseknek a SIS-be történő továbbítására az idegenrendészeti hatóság jogosult a SIRENE Irodán keresztül.
+
+Beutazási és tartózkodási tilalmat az idegenrendészeti hatóság rendelhet el a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvényben, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározott esetekben, saját hatáskörben, vagy a bíróság által a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (Btk.) alapján elrendelt kiutasítás végrehajtása érdekében.
+
+A törvény 5. § (1) bekezdésének e) pontja alapján a beutazási és tartózkodási tilalom hatálya alatt álló személyre vonatkozó adat akkor továbbítható a SIS-be, ha a beutazási és tartózkodási tilalom hatálya alatt álló külföldi nem a szabad mozgás és tartózkodás jogáról szóló 2007. évi I. törvény hatálya alá tartozó EGT-állampolgár.
+
+A beutazási és tartózkodási tilalom hatálya alatt álló személyre vonatkozó adatot nem lehet továbbítani a SIS-be abban az esetben, ha a beutazási és tartózkodási tilalom elrendelésének oka az volt, hogy az érintett harmadik országbeli állampolgár a kiszabott helyszíni bírságot vagy szabálysértési bírságot az előírt határidőig nem fizette meg, és annak behajtására nincs lehetőség vagy a behajtás sikertelen volt. Ez az elrendelési ok ugyanis nem feleltethető meg a SVE 96. cikkében meghatározott feltételeknek.
+
+A törvény a SVE 25. cikkének megfelelően rendelkezik arról, hogy amennyiben egy schengeni állam úgy dönt, hogy tartózkodási engedélyt állít ki beutazási és tartózkodási tilalmat elrendelő figyelmeztető jelzés hatálya alatt álló külföldi részére, akkor a SIS figyelmeztető jelzést az elrendelő államnak vissza kell vonnia. Ugyanez a teendő akkor is, ha a külföldi már tartózkodási engedéllyel rendelkezik, amelyet a Magyarország által elrendelt figyelmeztető jelzés és a hozzá kapcsolódó kiegészítő információk alapján a schengeni állam nem von vissza.
+
+Ilyen esetben a figyelmeztető jelzést - a külföldi SIRENE iroda értesítése alapján - a magyar SIRENE Iroda törli. Természetesen a jelzésnek a SIS-ből történő törlése nem érinti a beutazási és tartózkodási tilalom további fennállását, a magyar idegenrendészeti nyilvántartásból nem kell a beutazási és tartózkodási tilalmat törölni.
+
+A 11. §-hoz
+
+A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet 3. §-ának f) pontja, illetve 4. §-ának f) pontja értelmében a körzetközponti jegyző, illetve a személyiadat- és a lakcímnyilvántartást kezelő központi szerv rendeli el az elveszett, ellopott, megsemmisült személyazonosító igazolvány körözését.
+
+Az Utv. 27. §-ának (3) bekezdése szerint a központi útiokmány-nyilvántartó szerv rendeli el az elveszett, eltulajdonított vagy megsemmisült úti okmány körözését.
+
+Az elveszett vagy megsemmisült jármű okmányok, illetve hatósági jelzések körözését a Kknyt. 5. §-ának g) pontja, illetve a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 98. §-a értelmében a körzetközponti jegyző rendeli el.
+
+A fegyverekről és a lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 38. §-ának (5) és (6) bekezdése szerint a lőfegyver elvesztését az elvesztés helye szerint illetékes rendőrkapitányságon kell bejelenteni, amelynek alapján a körözést ez a rendőrkapitányság rendeli el.
+
+Tárgykörözés esetén a körözést elrendelő hatóság a határozatát - az Sztk.tv. rendelkezései szerint - a székhelye szerint illetékes rendőrkapitánysághoz továbbítja, így az elrendeléshez képest a gyakorlat alapján gyakran elég hosszú idő telik el, amíg az elveszett okmányok a körözési rendszerben megjelennek.
+
+A hatályos jogszabályok mindhárom okmánytípus esetében arról rendelkeznek, hogy az okmány tulajdonosa három napon belül bejelentési kötelezettséggel tartozik az okmányellátás feladatával felruházott hatóság felé. E hatóságok - szintén a hatályos jogszabályok rendelkezései szerint - kötelesek az okmánnyal kapcsolatos eseményt (elvesztés, eltulajdonítás, megsemmisülés) a okmánynyilvántartásban regisztrálni.
+
+Célszerűtlen, és nem szolgálja a SIS hatékony működése szempontjából alapvető adat-, és jogbiztonságot az a helyzet, ha a közigazgatási adatkezelésben elektronikusan rögzített, és hozzáférhető adat alapján a körözés elrendeléséről külön határozatot kell hozni, és a Rendőrség e határozat alapján rögzíti az okmánykörözési adatbázisában, az egyébként a közigazgatásban már rögzített adatokat, és az onnan kerülne a SIS-be.
+
+Erre tekintettel a törvény módosítja az Sztk.tv.-t, a módosítás értelmében az elveszett, eltulajdonított, megsemmisült okmányok tekintetében a körözést nem kell külön elrendelni, hanem - mivel valamely adat vagy tény hatósági nyilvántartásba történő bejegyzése a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 82. §-ának (2) bekezdése szerint határozatnak minősül - az adott okmány elvesztésére, eltulajdonítására, megsemmisülésére vonatkozó ténynek az okmányra vonatkozó központi hatósági nyilvántartásba történő bejegyzése alapján kell lefolytatni. E rendelkezéssel összefüggésben az okmányok nyilvántartásáról rendelkező törvények - a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, Utv., a Kknyt. - módosítása is szükséges, amelyet a törvény szintén elvégez.
+
+Az okmánykörözésre vonatkozó előbb említett szabályok módosítása alapján a törvény úgy rendelkezik, hogy az elveszett, eltulajdonított megsemmisült okmányok esetében az adott okmánynyilvántartást vezető központi hatóság közvetlenül továbbítja a figyelmeztető jelzés elhelyezéséhez szükséges adatokat az N.SIS Hivatalhoz a figyelmeztető jelzés N.SIS-ben történő elhelyezése céljából.
+
+A törvény szerint a SIS-be kell továbbítani azokra az úti okmányokra, valamint tartózkodásra jogosító engedélyekre vonatkozó adatokat is, amelyek elvesztését, eltulajdonítását vagy megsemmisülését az idegenrendészeti hatóságnak - a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvényben, illetve a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározottak szerint - bejelentették. Az adatokat a központi idegenrendészeti nyilvántartást kezelő szerv az idegenrendészeti nyilvántartásba történő bejegyzést követően továbbítja az N.SIS Hivatalnak.
+
+A 12. §-hoz
+
+A SIRENE kézikönyv tartalmazza egységesen, minden SIS-t alkalmazó állam SIRENE Irodájának az alkalmazottaira vonatkozóan azokat az utasításokat, amelyek a SVE egyes cikkei végrehajtásához szükséges kiegészítő információk cseréjére irányadó szabályokat és eljárásokat részletezi. A SIS-ben egy állam egy személyre vonatkozóan csak egy figyelmeztető jelzést helyezhet el, több állam egy személyre vonatkozóan csak akkor helyezhet el több figyelmeztető jelzést ha azok egymással összeegyeztethetőek. Annak vizsgálata, hogy a SIS-ben egy adott személyre vonatkozóan helyeztek-e el már figyelmeztető jelzést, illetve az összeegyeztethetőség vizsgálata is a SIRENE Iroda feladata.
+
+Az egymással összeegyeztethető figyelmeztető jelzéseket, illetve az egyes figyelmeztető jelzések elsőbbségi sorrendjét is a SIRENE kézikönyv határozza meg. Erre tekintettel a törvény általános jelleggel úgy rendelkezik, hogy a figyelmezető jelzés elhelyezéséhez szükséges adatokat a SIRENE kézikönyv rendelkezéseinek megfelelően, személyt érintő figyelmeztető jelzés elhelyezése esetén a SIRENE Iroda közreműködésével kell továbbítani.
+
+A 13. §-hoz
+
+A Avtv. 5. §-ának (1) bekezdése értelmében személyes adatot kezelni csak meghatározott célból, jog gyakorlása és kötelezettség teljesítése érdekében lehet. A törvény a SIRENE kézikönyvben szabályozott eseteket összegyűjtve határozza meg azokat a körülményeket, amikor a SIRENE Iroda kiegészítő információt továbbíthat másik SIS-t alkalmazó állam SIRENE Irodájának.
+
+A 14. §-hoz
+
+A SVE 95. cikkének (2) bekezdése előírja, hogy az ott meghatározott, az európai vagy nemzetközi elfogatóparancs végrehajtása céljából kibocsátott figyelmeztető jelzés elhelyezésével egyidejűleg, a lehető leggyorsabb módon el kell küldeni az adott büntető üggyel kapcsolatos lényeges információkat is. Az ott meghatározott információk az európai elfogatóparancshoz rendszeresített formanyomtatványról, illetve a nemzetközi elfogatóparancsról összegyűjthetők. A törvény erre tekintettel rendelkezik úgy, hogy SVE-ben meghatározott információknak megfelelő adatokat - az előbb említett figyelmeztető jelzés elhelyezésével egyidejűleg - a SIRENE Iroda kiegészítő információként továbbítsa a SIS-t alkalmazó államok részére.
+
+A 15. §-hoz
+
+Az SVE 92. cikkének (4) bekezdése szerint a „a tagállamok a nemzheti jogszabályokkal összhangban az e célra kijelölt hatóságokon keresztül (Sirene) kicserélnek minden olyan kiegészítő információt, amely szükséges a figyelmeztető jelzések beviteléhez és a megfelelő intézkedés megtételéhez azon esetekben, amikor az e rendszerben folytatott lekérdezés eredményeképpen olyan személyekre, illetve tárgyakra bukkannak, akikről, illetve amelyekről a Schengeni Információs Rendszerben már szerepel adat”. E feladat ellátásához adathozzáférési jogot kell biztosítani a Sirene Iroda részére mindazon adatokhoz, amelyek a találattal érintett személy vagy tárgy azonosításához illetőleg a jelzés elhelyezése alapján kezdeményezendő eljárás végrehajtásához szükségesek.
+
+A törvény a Sirene Iroda részére az adathozzáférési jogot konkrétan meghatározott nyilvántartások tekintetében és olyan adatkört érintően teszi lehetővé, amelyek az SVE-ben meghatározott feladat ellátásához szükségesek és elégségesek. Ezek az adatok elsősorban a személyek személyazonosító adatai, az okmányok azonosító adatai, a körözési adatok, a beutazási és tartózkodási tilalom alatt állókkal kapcsolatos adatok, valamint a fegyvertartási engedéllyel összefüggő adatok. A Sirene Irodának lehetőséget biztosít továbbá a törvény ahhoz, hogy a bíróságtól tájékoztatást kérjen az európai illetőleg nemzetközi elfogatási parancs kibocsátásának körülményeiről. Ezeket az adatokat a Sirene Iroda csak a kiegészítő információt kérő részre történő továbbításhoz használhatja fel és azt az alapul szolgáló jelzés törlésével egyidejűleg törölni köteles.
+
+A 16. §-hoz
+
+A SVE 100. cikkének (2) bekezdése értelmében az ellopott, jogellenesen használt, vagy elveszett tárgyakra vonatkozóan elhelyezett figyelmeztető jelzés alapján megtalált tárgyakkal (okmány, hatósági jelzés) kapcsolatos szükséges intézkedéseket annak az államnak a jogszabályai alapján kell megtenni, amelynek területén a tárgyat megtalálták.
+
+A 2003. évi CXXX. törvény 51. §-a rendelkezik az Unió tagállamai vonatkozásában azoknak a tárgyaknak a tulajdonos részére történő visszaadásáról, amelyekre bűncselekményt követtek el. E § rendelkezése szerint az ilyen tárgyat a tagállami igazságügyi hatóságon keresztül kell a tulajdonosnak visszajuttatni. Az 51. § meghatározza a tárgy visszaadásának feltételeit (az átadás csak akkor teljesíthető, ha igazolják az érintett személy kétséget kizáró tulajdonjogát, az átadás nem sértheti jóhiszemű harmadik személy jogait, nem veszélyeztetheti a Magyar Köztársaság területén folyó büntetőeljárás sikerét) a magyar hatóságok feladatait (tárgy lefoglalása, ismeretlen helyen lévő tárgy körözésének elrendelése).
+
+A törvény kiegészíti a 2003. évi CXXX. törvény 51. §-át egy új (6) bekezdéssel, amely azt az esetet szabályozza, amikor a tárgyra nem követtek el bűncselekményt, de azt a törvény alapján a SIS-t alkalmazó külföldi állam által elhelyezett figyelmeztető jelzés alapján találták meg. Az így megtalált tárgyat a figyelmeztető jelzést elhelyező hatóságnak kell visszajuttatni.
+
+A 17. §-hoz
+
+A SVE 101. és 102/A. cikkei kizárólagosan határozzák meg, hogy milyen feladatokat ellátó hatóságoknak lehet hozzáférési jogosultságuk a SIS-ben elhelyezett adatokhoz. Eszerint a teljes körű hozzáférési jogosultságuk lehet, a határellenőrzést, rendőrségi és vámellenőrzést végző hatóságoknak, a büntető ügyben eljáró igazságügyi hatóságok. Az idegenrendészeti hatóságok a SVE 101. cikkének (2) bekezdése szerint a beutazási és tartózkodási tilalom miatt elrendelt figyelmeztető jelzéshez, illetve az ellopott, jogellenesen használt, vagy elveszett kitöltött vagy kitöltetlen személyes dokumentumokra vonatkozóan elrendelt figyelmeztető jelzéshez kapcsolódó adatokhoz férhetnek hozzá.
+
+A SVE 102/A. cikke lehetővé teszi, hogy a „járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatok” kizárólag az előttük nyilvántartásba vételre bemutatott jármű jogszerű eredetének ellenőrzése céljából férhetnek hozzá tételesen meghatározott adatokhoz.
+
+A fentieknek megfelelően biztosítja a törvény a SIS-ben található adatokhoz való hozzáférést az érintett magyar szervek számára. Ennek értelmében a büntető ügyben eljáró bíróság és ügyészség a figyelmeztető jelzések teljes körét érintően, a Rendőrség nyomozó hatósági, közbiztonság-védelmi, körözési, valamint a Rendőrség és a Határőrség integrációjára tekintettel határrendészeti feladatainak, illetve a vámhatóság nyomozó hatósági feladatai ellátásához - a szintén a figyelmeztető jelzések teljes köréhez - rendelkezik hozzáférési jogosultsággal.
+
+Az idegenrendészeti hatóság a beutazási és tartózkodási tilalom hatálya alatt álló személyekre, valamint az azonosításukat lehetővé tevő kitöltött vagy kitöltetlen okmányokra vonatkozó adatokhoz férhet csak hozzá. A törvény végezetül a SIS-ben elhelyezhető gépjárműre, utánfutóra, lakókocsira, valamint az ezekhez kapcsolódó okmányokra, hatósági jelzésekre vonatkozó adatokhoz való hozzáférést is biztosítja a jármű forgalomba helyezésével kapcsolatos eljárásban a közlekedési igazgatási hatáskörben eljáró szerv, illetve a közúti közlekedési nyilvántartó szerv részére.
+
+A 18-19. §-hoz
+
+Az SVE 104. cikk (1) bekezdésének g) pontja szerint biztosítani kell, hogy utólag is ellenőrizhető és megállapítható legyen, milyen személyes adatokat vittek be a gépi adatfeldolgozó rendszerbe, hogy ki és mikor végezte az adatok bevitelét (beviteli ellenőrzés). E kötelezettség végrehajtását szolgálja a törvény, amely mind a SIRENE Iroda, mind az N.SIS tekintetében előírja az un. naplózási kötelezettséget.
+
+Az SVE 109. cikk (1) bekezdése szerint a szerződő feleknek saját joguk szerint kell biztosítaniuk a személyeknek azt a jogát, hogy tájékozódhassanak a SIS-be rájuk vonatkozóan bevitt adatokról. A hazai jog szerint - az Avtv. 12. §-ának (1) bekezdése alapján - az adatkezelő köteles a tájékoztatást megadni. A tájékoztatás lehetőségét szolgálja az ún. adattovábbítási nyilvántartás, amelynek vezetéséről rendelkezik a törvény.
+
+Az SVE 103. cikke előírja, hogy minden tagállamnak biztosítania kell a nemzeti a adatállományt kezelő hatóság a személyes adatok minden továbbítását rögzítse az adattovábbítás jogszerűségének ellenőrzése céljából (adattovábbítási nyilvántartás). E kötelezettség végrehajtását szolgálja a 18. § (2) bekezdés szerinti rendelkezés
+
+A tájékoztatás megadásáról történő döntés meghozatalakor figyelembe kell azonban venni az Avtv. 13. § illetőleg 16. §, és az SVE 109. cikk (2) bekezdése szerinti rendelkezéseket, amelyek szerint az érintett tájékoztatása megtagadható ha azt adattovábbításban érintett adatkezelésekre irányadó hazai törvények előírják, vagy ha azt az intézkedés jogszerű végrehajthatóságának vagy harmadik személy jogai védelmének érdeke szükségessé teszi.
+
+A 20-21. §-hoz
+
+Az SVE 114. cikk (1) bekezdése előírja, hogy a tagállamok jelöljenek ki független ellenőrző szervet, amelynek feladata annak ellenőrzése, hogy a bevitt adatok feldolgozása és felhasználása nem sérti-e az adatalany jogait. E feladat ellátására a törvény - az Avtv.-vel összhangban - az adatvédelmi biztost jelöli ki.
+
+A törvény a figyelmeztető jelzéssel összefüggésben kettős jogorvoslati lehetőséget biztosít az érintett részére. Egyrészt az adatvédelmi biztos az Avtv.-ben biztosított hatásköre alapján köteles a hozzá benyújtott bejelentéseket kivizsgálni, valamint az ellenőrzés során feltárt adatkezelési visszásságok megszüntetését kezdeményezni. Másrészt - figyelemmel az SVE 11. cikk (1) bekezdésében foglaltakra - a törvény utal arra, hogy az érintett a figyelmeztető jelzés elhelyezését elrendelő bíróság vagy hatóság eljárására vonatkozó törvényben biztosított jogorvoslati lehetőségekkel is élhet.
+
+A törvény az SVE-ben foglaltaknak megfelelően biztosítja a jogorvoslat lehetőségét abban az esetben is, ha a kifogásolt adatot külföldi hatóság helyezte el és előírja az e tárgyban benyújtott jogorvoslati kérelmeknek az illetékes külföldi hatóság, vagy felügyelő szerv részére történő továbbításának kötelezettségét.
+
+A 22. §-hoz
+
+A NEBEK a NEBEK tv. által létrehozott szervezet. A törvény szerint a SIRENE Iroda feladatait a NEBEK látja el. A SIS nem kizárólag bűnüldözési célt szolgáló információs rendszer, hanem annak célja a határellenőrzések elvégzését, illetve a külföldiek beutazásának és tartózkodásának ellenőrzését segítő információcsere is. Ennek megfelelően módosul a NEBEK tv. 1. §-a.
+
+A 23. §-hoz
+
+A SIS a jövőben mind magyar, mind nemzetközi viszonylatban nem kizárólag hazai bűnüldöző szervekkel, illetve nemzetközi bűnüldözési szervezetekkel tart kapcsolatot, hanem az illegális migráció megelőzése, illetve az elveszett, ellopott, megsemmisült hivatalos okmányok felkutatása érdekében az idegenrendészeti hatóságokkal, a személyiadat- és lakcímnyilvántartás központi szervével, a központi útiokmány-nyilvántartó szervvel, illetve a központi közúti közlekedési nyilvántartó szervvel is. Ezen új feladatokra tekintettel a NEBEK tv. a „nemzetközi bűnüldözési szervezet”, illetve a „magyar bűnüldöző szerv” fogalmakat új fogalommal kell felváltani. A törvény erre tekintettel - a későbbiekben még több törvényhelyen, de lényegében azonos okból - módosítja a NEBEK tv.-t, a „nemzetközi bűnüldözési szervezet” helyett „nemzetközi bűnügyi együttműködés céljából létrehozott szervezet” kifejezést, a „magyar bűnüldöző szerv” helyett „magyar együttműködő szerv” kifejezést használva. A törvény ennek megfelelően módosítja a vonatkozó két értelmező rendelkezést.
+
+A 24. §-hoz
+
+A törvény a NEBEK tv. 3. §-ának (1) bekezdésén is átvezeti az előbb részletesen kifejtett fogalomváltozást. Ezzel egyidejűleg a törvény új (4) bekezdéssel egészíti ki a NEBEK tv. e szakaszát, megjelenítve a NEBEK új, a Schengeni Információs Rendszerrel kapcsolatos feladatát, ami a SIRENE Iroda működtetését jelenti. A törvény egyben figyelemmel van arra is, hogy előreláthatólag, az Európai Unió jelenleg ismert menetrendje szerint 2009. januárjától üzemelni kezd a Schengeni Információs Rendszer második generációja (SIS II), amely a SVE helyett két rendeletből és egy határozatból álló uniós „jogszabálycsomagon” alapszik. A SIS II „jogszabálycsomag” hatálybalépését követően, pedig a külön törvény mellett a SIRENE Iroda feladatait az Európai Unió jogi aktusa is meghatározhatja.
+
+A 25. §-hoz
+
+A törvény az előbb kifejtett indokok alapján a NEBEK tv. 4. §-án is átvezeti az új értelmező rendelkezésnek megfelelő fogalmakat, valamint utal arra, hogy a jövőben a NEBEK feladatát - a SIRENE Iroda vonatkozásában - az Európai Unió jogi aktusa is meghatározhatja. Egyebekben a NEBEK tv. e szakaszának hatályos normaszövegén a törvény nem változtat.
+
+A 26. §-hoz
+
+A törvény az előbb kifejtett indokok alapján a NEBEK tv. 5. §-án is átvezeti az új értelmező rendelkezésnek megfelelő fogalmakat, valamint utal arra, hogy a jövőben a NEBEK feladatát - a SIRENE Iroda vonatkozásában - az Európai Unió jogi aktusa is meghatározhatja. Egyebekben a NEBEK tv. e szakaszának hatályos normaszövegén a törvény nem változtat.
+
+A 27. §-hoz
+
+A törvény az előbb kifejtett indokok alapján a NEBEK tv. 6. §-án is átvezeti az új értelmező rendelkezésnek megfelelő fogalmakat, valamint utal arra, hogy a jövőben a NEBEK feladatát - a SIRENE Iroda vonatkozásában - az Európai Unió jogi aktusa is meghatározhatja. Egyebekben a NEBEK tv. e szakaszának hatályos normaszövegén a törvény nem változtat.
+
+A 28. §-hoz
+
+A törvény az előbb kifejtett indokok alapján a NEBEK tv. 7. §-ának (1) bekezdésén is átvezeti az új értelmező rendelkezésnek megfelelő fogalmakat, valamint utal arra, hogy a jövőben a NEBEK feladatát, jelen esetben az adatfelhasználás célját - a SIRENE Iroda vonatkozásában - az Európai Unió jogi aktusa is meghatározhatja. Ezen túlmenően a törvény - az Avtv. 8. §-ának (1) bekezdésében foglalt rendelkezésnek megfelelően - úgy rendelkezik, hogy az adatigénylés, illetve továbbítás a szélesebb körű fogalmat jelentő jogszabály helyett csak törvényi felhatalmazás alapján lehetséges.
+
+Adatvédelmi szempontból az egyes adatállományok elkülönített kezelésének alapja az adatállományok létrehozásának különböző célja, és nem a létrehozásukat előíró nemzetközi szerződések különbözősége. A törvény ennek megfelelően módosítja a NEBEK tv. 7. §-ának (2) bekezdését.
+
+A 29. §-hoz
+
+A törvény az előbb kifejtett indokok alapján a NEBEK tv. 8. §-ában is utal arra, hogy a jövőben a NEBEK feladatát - a SIRENE Iroda vonatkozásában - az Európai Unió jogi aktusa is meghatározhatja.
+
+A 30. §-hoz
+
+A törvény az előbb kifejtett indokok alapján a NEBEK tv. 9. §-án is átvezeti az új értelmező rendelkezésnek megfelelő fogalmakat, valamint utal arra, hogy a jövőben a NEBEK feladatát - a SIRENE Iroda vonatkozásában - az Európai Unió jogi aktusa is meghatározhatja. Egyebekben a NEBEK tv. e szakaszának hatályos normaszövegén a törvény nem változtat.
+
+A 31. §-hoz
+
+A törvény 4. §-ának (1) bekezdése szerint a SIRENE Iroda feladatait a NEBEK, illetőleg annak önálló szervezeti egysége látja el. Ezért a SIRENE Iroda adatkezelési feladatait a NEBEK tv.-ben szükséges elhelyezni. A törvény tartalmazza a NEBEK-nek a figyelmeztető jelzés és a kiegészítő információk elhelyezésével, módosításával és kiegészítésével kapcsolatos feladatait. Az SVE alapján a törvény részletes rendelkezéseket tartalmaz a figyelmeztető jelzések és az azokhoz kapcsolódó kiegészítő információk törlésére vonatkozóan, valamint az ehhez kapcsolódó információs és értesítési feladatokról. E rendelkezések adatvédelmi szempontból alapvető garanciális szabályokat tartalmaznak.
+
+A 32. §-hoz
+
+A törvény az előbb kifejtett indokok alapján a NEBEK tv. 10. §-ában is utal arra, hogy a jövőben a NEBEK feladatát - a SIRENE Iroda vonatkozásában - az Európai Unió jogi aktusa is meghatározhatja, egyúttal egyértelművé teszi, hogy a NEBEK vezetője nemcsak a nemzetközi szerződésben meghatározott adatvédelmi, adatbiztonsági és titokvédelmi követelmények betartásáért felel, hanem értelemszerűen a külön törvényben (pl. Avtv.) meghatározott ilyen követelmények megtartásáért is.
+
+A 33. §-hoz
+
+A törvény az Európai Unió Tanácsa által meghatározott menetrend szerint a Schengeni Információs Rendszer alkalmazását a Tanács erről szóló határozatában megjelölt időponttól lehet alkalmazni. Az erről szóló határozat tárgyalása az Unió illetékes munkacsoportjában folyamatban van a végleges szöveg még nem ismert, az időpont a jelenleg ismert tervek szerint 2007. szeptember 1. A törvény ennek megfelelően módosítja a NEBEK tv.-nek a Schengeni Információs Rendszerrel kapcsolatos együttműködésre vonatkozó szabályait hatályba léptető rendelkezéseit.
+
+A 34. §-hoz
+
+A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. tvr. jelenleg csak a jogerősen kiszabott szabadságvesztését meg nem kezdő elítélt esetében teszi lehetővé a büntetés-végrehajtási bíró számára a körözés elrendelését. Nem zárható ki az az eset, amikor a terhelt, akivel szemben jogerősen kényszergyógykezelést rendeltek el, az elrendeléskor nem áll ideiglenes kényszergyógykezelés hatálya alatt.
+
+Erre tekintettel meg kell teremteni annak a lehetőségét, hogy az ilyen személyekkel szemben is elrendelhesse a büntetés-végrehajtási bíró az illető körözését.
+
+A 35. §-hoz
+
+Célszerűtlen, és nem szolgálja a SIS hatékony működése szempontjából alapvető adat-, és jogbiztonságot az a helyzet, ha a közigazgatási adatkezelésben elektronikusan rögzített, és hozzáférhető adat alapján a körözés elrendeléséről külön határozatot kell hozni, és a Rendőrség e határozat alapján rögzíti az okmánykörözési adatbázisában, az egyébként a közigazgatásban már rögzített adatokat, és az onnan kerülne a SIS-be.
+
+Erre tekintettel a törvény módosítja az Sztk.tv.-t, a módosítás értelmében az elveszett, eltulajdonított, megsemmisült okmányok tekintetében a körözést nem kell külön elrendelni, hanem - mivel valamely adat vagy tény hatósági nyilvántartásba történő bejegyzése a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 82. §-ának (2) bekezdése szerint határozatnak minősül - az adott okmány elvesztésére, eltulajdonítására, megsemmisülésére vonatkozó ténynek az okmányra vonatkozó központi hatósági nyilvántartásba történő bejegyzése alapján kell lefolytatni.
+
+A törvény korábban úgy rendelkezik, hogy az elveszett, eltulajdonított megsemmisült okmányok esetében az adott okmánynyilvántartást vezető központi hatóság közvetlenül továbbítja a figyelmeztető jelzés elhelyezéséhez szükséges adatokat az N.SIS Hivatalhoz a figyelmeztető jelzés N.SIS-ben történő elhelyezése céljából. A törvény ezt a feladatot megjeleníti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvényben is.
+
+A 36. §-hoz
+
+Az Nbjt. 24. §-ának (2) bekezdése szerint az ideiglenes kiadatási letartóztatás iránti megkeresést az Országos Rendőr-főkapitányság Interpol Magyar Nemzeti Iroda útján is elő lehet terjeszteni. Az Interpol Magyar Nemzeti Iroda a törvénnyel létrehozott NEBEK-en belül működik, annak szervezeti egysége, ezért az Nbjt.-ben nem az Interpolt, hanem a NEBEK-et szükséges megjeleníteni. A törvény ezt a módosítást végzi el.
+
+Az Nbjt. 32. §-a tartalmazza azokat az eseteket, amelyek szerint e törvény alapján elfogatóparancs kibocsátásának van helye. A Be. 266. §-ának (4) bekezdésében az e törvény alapján kibocsátott elfogatóparancs, nemzetközi elfogatóparancs elnevezéssel szerepel, és az Sztk.tv. 1. §-a (2) bekezdésének c) pontja is nemzetközi körözés elnevezést tartalmaz. Célszerű az azonos tárgykört szabályozó, különböző törvények egységes és egyértelmű fogalomhasználatát megteremteni. Ezért a törvény az Nbjt. 32. §-ának (1)-(3) bekezdéseibe beiktatja a nemzetközi elfogatóparancs elnevezést.
+
+A jelenlegi szabályozás szerint az Nbjt. alapján kibocsátott elfogatóparancs hatálya nem terjed ki a Magyar Köztársaság területére, ezért az nem is szerepel a magyar körözési rendszerben. Ennek következtében nem hajtható végre az elfogatóparancs, ha a terhelt, akivel szemben magyar bíróság nemzetközi elfogatóparancsot bocsátott ki, Magyarországon tartózkodik.
+
+A törvény a nemzetközi elfogatóparancs hatályát kiterjeszti a Magyar Köztársaság területére is, és rendelkezik arról is, hogy a nemzetközi elfogatóparancs kibocsátásáról, illetve visszavonásáról értesüljön az illetékes rendőri szerv. Ezért a nemzetközi elfogatóparancsot, illetve az annak visszavonásáról rendelkező végzést meg kell küldeni a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye - ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye - szerint illetékes rendőri szervnek is.
+
+Ez természetesen nem érinti azt a rendelkezést, miszerint a nemzetközi elfogatóparancsot, illetve az annak visszavonásáról szóló végzést, valamint a jogerős ítéletet meg kell küldeni a miniszternek.
+
+A 37. §-hoz
+
+A törvény az előbbiekben részletesen kifejtett az elveszett, eltulajdonított megsemmisült okmányok körözésére vonatkozó Sztk.tv. módosítására tekintettel elvégzi a szükséges módosításokat az Utv.-ben is.
+
+A 38. §-hoz
+
+A törvény módosítja a Be.-t, annak érdekében, hogy az európai elfogatóparancs, illetve az Nbjt. alapján nemzetközi elfogatóparancs kibocsátása esetén, a Be. szerinti (belföldi) elfogatóparancsra vonatkozó rendelkezések alkalmazhatók legyenek. A rendelkezés szorosan összefügg az Nbjt. 32. §-ának módosításával, a Be. törvény szerinti módosítása teremti meg ugyanis annak a lehetőségét, hogy az Nbjt.-be beiktatott szabályozást a büntetőeljárás során alkalmazni lehessen, ez indokolja a Be.-be egy új 73/A. § beiktatását, amelynek (1) bekezdése utal a Be. elfogatóparancs kibocsátását szabályozó 73. §-ára.
+
+A Be. alapján a bíróság, az ügyész, illetőleg a nyomozó hatóság - a Be.-ben meghatározott feltételek fennállása esetén - elfogatóparancsot bocsáthat ki a terhelt ellen. Előfordulhat, hogy más eljárásban ugyanezen terhelt ellen nemzetközi elfogatóparancs vagy európai elfogatóparancs kibocsátására kerül sor. Ha a terhelt elfogása nemzetközi elfogatóparancs vagy európai elfogatóparancs alapján megtörténik, a Be. szerinti elfogatóparancs a specialitás szabályára tekintettel (a kiadatás, átadás a nemzetközi illetve európai elfogatóparancsban megjelölt konkrét bűncselekményekre vonatkozik, az ott meg nem jelölt bűncselekmény tekintetében a büntetőeljárás nem folytatható le) nem lesz végrehajtható.
+
+Az Nbjt. 32. §-ának (1), illetve (2) bekezdése szerint nemzetközi elfogatóparancs kibocsátásának - a nemzetközi bűnügyi jogsegély általános feltételeinek fennállása esetén - akkor van helye, ha külföldön tartózkodó olyan terhelt ellen kell büntetőeljárást lefolytatni, akivel szemben kiadatásnak van helye, illetve, ha jogerősen kiszabott szabadságvesztést külföldön lévő terhelttel szemben kell végrehajtani.
+
+Kiadatásnak az Nbjt. 11. §-ának (2) bekezdése szerint büntetőeljárás lefolytatása céljából akkor van helye, ha az a cselekmény, amely miatt a kiadatást kérik, mind a magyar törvény, mind a megkereső állam törvénye szerint egy évet meghaladó szabadságvesztéssel büntetendő; szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtás céljából pedig akkor, ha a kiszabott szabadságvesztés vagy az alkalmazott intézkedés még végrehajtható része hat hónapot meghalad.
+
+A 2003. évi CXXX. tv. 25. §-ának (2) bekezdése szerint - a bűnügyi együttműködés általános feltételeinek fennállása esetén - az európai elfogatóparancs olyan cselekmények esetén bocsátható ki, amelyeknél a magyar büntetőtörvény szerint a büntetési tétel felső határa legalább egyévi szabadságvesztés vagy szabadságelvonással járó intézkedés. Ha a szabadságvesztést kiszabó vagy a szabadságelvonással járó intézkedést alkalmazó határozatot már meghozták, az európai elfogatóparancs csak akkor bocsátható ki, ha a kiszabott büntetés vagy az alkalmazott intézkedés tartama legalább négy hónap.
+
+Annak érdekében, hogy a Be. alapján kibocsátott elfogatóparancs végrehajtása megtörténjék olyan esetekben is, amikor a terhelttel szemben más eljárásban nemzetközi elfogatóparancsot vagy európai elfogatóparancsot bocsátottak ki, szükséges a Be. új 73/A. §-ának (2) bekezdése. A Be.-be a módosítással beiktatott rendelkezés szerint, ha a bíróság, az ügyész, illetőleg a nyomozó hatóság a terhelt ellen elfogatóparancsot bocsátott ki, és tudomást szerez arról, hogy más eljárásban a terhelt ellen európai elfogatóparancsot, illetve az Nbjt. alapján nemzetközi elfogatóparancsot bocsátottak ki, európai elfogatóparancsot, illetve nemzetközi elfogatóparancsot is kibocsát, illetve ennek érdekében intézkedik. A büntetőügyben eljáró szerv mindezt természetesen csak akkor teheti meg, ha a külön törvényekben meghatározott, az előző bekezdésekben részletezett feltételek a terhelt, valamint az adott büntetőeljárásban az elfogatóparanccsal érintett bűncselekmény tekintetében egyaránt fennállnak.
+
+A 39. §-hoz
+
+A törvény, figyelemmel arra a korábbi rendelkezésére, amely szerint a SIS-ben kezelt adatokhoz a közlekedési igazgatási hatáskörben eljáró szerv, illetve a közúti közlekedési nyilvántartó szerv meghatározott körben hozzáféréssel rendelkezik, megteremti e rendelkezés párját a Kknyt. 4. §-a ga) alpontjának szükséges kiegészítésével.
+
+A törvény az előbbiekben részletesen kifejtett az elveszett, eltulajdonított megsemmisült okmányok körözésére vonatkozó Sztk.tv. módosítására tekintettel elvégzi a szükséges módosításokat a Kknyt. vonatkozó rendelkezésein is.
+
+A 40. §-hoz
+
+Célszerűtlen, és nem szolgálja a SIS hatékony működése szempontjából alapvető adat-, és jogbiztonságot az a helyzet, ha a közigazgatási adatkezelésben elektronikusan rögzített, és hozzáférhető adat alapján a körözés elrendeléséről külön határozatot kell hozni, és a Rendőrség e határozat alapján rögzíti az okmánykörözési adatbázisában, az egyébként a közigazgatásban már rögzített adatokat, és az onnan kerülne a SIS-be.
+
+Erre tekintettel a törvény módosítja az Sztk.tv.-t, a módosítás értelmében az elveszett, eltulajdonított, megsemmisült okmányok tekintetében a körözést nem kell külön elrendelni, hanem - mivel valamely adat vagy tény hatósági nyilvántartásba történő bejegyzése a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 82. §-ának (2) bekezdése szerint határozatnak minősül - az adott okmány elvesztésére, eltulajdonítására, megsemmisülésére vonatkozó ténynek az okmányra vonatkozó központi hatósági nyilvántartásba történő bejegyzése alapján kell lefolytatni.
+
+A törvény úgy módosítja a Be.-t az Nbjt.-t és a 2003. évi CXXX. törvényt, hogy az európai elfogatóparancs, illetve a nemzetközi elfogatóparancs hatálya kiterjedjen a Magyar Köztársaság területére is, és rendelkezik arról is, hogy a nemzetközi elfogatóparancs kibocsátásáról, illetve visszavonásáról értesüljön az illetékes rendőri szerv. Erre tekintettel a törvény új c) ponttal egészíti ki az Sztk.tv. 16. §-ának (2) bekezdését is, annak érdekében, hogy ott is egyértelműen meghatározza, hogy a körözési információs rendszerben történő rögzítés annak a rendőrkapitányságnak, illetve rendőr-főkapitányságnak a feladata, amelynek a bíróság a nemzetközi, vagy az európai elfogatóparancs kibocsátásáról vagy visszavonásáról szóló határozatát megküldte.
+
+A SVE 94. cikkének (3) bekezdése a személyekre vonatkozó figyelmeztetőjelzés tekintetében lehetővé teszi az adattovábbítást arra vonatkozóan, hogy az érintett személynél van-e fegyver, illetve, hogy az érintett személy erőszakosan viselkedhet. A törvény 6. §-a ennek megfelelően határozza meg a figyelmeztető jelzés adattartalmát. Ezek az adatok az elrendelt körözés alapján intézkedő hatóság számára is hasznos, a hatékony intézkedést elősegítő információt hordoznak, így célszerű, hogy ezek az adatok a körözési információs rendszerben is megjelenjenek. A fentiekre tekintettel a törvény egy új alponttal egészíti ki az Sztk.tv. 18. §-át lehetővé téve, hogy a körözési információs rendszer a körözött személy elfogása esetén várható magatartására vonatkozó információt is tartalmazza.
+
+A törvény az Sztk.tv. 25. §-ának módosításával lehetővé teszi, hogy a körözési információs rendszerből a jogsegélykérelem elintézéséhez valamint a nemzetközi szerződésekben meghatározott, és a viszonossági gyakorlatból eredő feladatai teljesítéséhez jelenleg is adatigénylésre jogosult külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv mellett, a SIS-ből a SIRENE Iroda útján adatigénylésre jogosult külföldi hatóság is igényelhessen adatot.
+
+A 41. §-hoz
+
+A 2003. évi CXXX. törvény 20. §-ának (1) bekezdését azért indokolt módosítani, mert az Interpol Magyar Nemzeti Iroda a Nemzetközi Bűnügyi Együttműködési Központon (NEBEK) belül működik, ezért a törvényben nem az Interpolt, hanem a NEBEK-et szükséges megjeleníteni. A módosítás összhangban áll az Nbjt. 24. §-a (2) bekezdésének módosításával.
+
+A törvény az európai elfogatóparancs hatályát kiterjeszti a Magyar Köztársaság területére is, ezért rendelkezik arról is, hogy az európai elfogatóparancs kibocsátásáról, illetve visszavonásáról értesüljön az illetékes rendőri szerv. Ezért az európai elfogatóparancsot, illetve az annak visszavonásáról rendelkező végzést meg kell küldeni a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye - ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye - szerint illetékes rendőri szervnek is.
+
+Ez természetesen nem érinti azt a rendelkezést, miszerint az európai elfogatóparancsot, illetve az annak visszavonásáról szóló végzést meg kell küldeni a NEBEK-nek.
+
+A rendelkezés összefügg az Nbjt. 32. §-ának újraszabályozásával.
+
+A 2003. évi CXXX. törvény 51. §-a rendelkezik azon tárgyak tagállami igazságügyi hatóság részére történő átadásáról - mint az eljárási jogsegély egyik formájáról -, amelyekre a bűncselekményt elkövették. Külön törvény rendelkezése, valamint az Európai Unió jogi aktusa alapján azonban olyan tárgyak tekintetében is el kell helyezni a SIS-ben figyelmeztető jelzéseket, amelyre nézve nem követtek el bűncselekményt. Ilyen tárgyak a jogellenesen használt, elveszett vagy megsemmisült hivatalos okmányok, amelyekre vonatkozóan a 2003. évi CXXX. törvény 51. §-ának (1)-(4) bekezdéseiben foglaltakat alkalmazni kell. Ennek törvényi lehetőségét teremti meg a módosítás.
+
+A 42. §-hoz
+
+A törvény szerint a Vám- és Pénzügyőrség a SVE alapján is folytat együttműködést külföldi rendvédelmi szervekkel, amelynek kereteit a törvény, valamint a SIS II hatálybalépést követően a vonatkozó uniós jogi aktusok teremtik meg, erre tekintettel szükséges módosítani a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 7. §-át.
+
+-----STARTING---POINT---VEGE---
+
+A 43. §-hoz
+
+A törvény három lépcsőben lép hatályba, mivel az Európai Unió Tanácsának jelenleg ismert menetrendje szerint a Tanács első lépésben - előreláthatólag 2007. szeptember 1-jétől - a SIS alkalmazását tenné lehetővé a tagállamok számára úgynevezett „rendőrségi felhasználás” (police use) céljából, ami azt jelenti, hogy a beutazási és tartózkodási tilalommal kapcsolatos rendelkezések nem lennének alkalmazhatók. A rendszer működését az Unió illetékes szervei így élesben ellenőriznék, amelynek eredményeként döntenek a belső határok ellenőrzésének megszüntetéséről (előreláthatólag 2007. december 31-től). A beutazási és tartózkodási tilalommal kapcsolatos rendelkezések ez utóbbi időponttól lennének alkalmazhatók. A Tanács ezeket az időpontokat egy jelenleg még tervezet formájában tárgyalt határozatban határozná meg.
+
+Ugyanakkor ahhoz, hogy a rendszer 2007. szeptember 1-jétől működni tudjon a szükséges adatokat az N.SIS Hivatalnak fel kell töltenie, ami adatkezelést jelent, aminek a törvényi feltételeit addig is biztosítani kell.
+
+Ennek megfelelően a törvény meghatározó része, ami a figyelmeztető jelzések elhelyezésével kapcsolatos adatok feltöltéséhez szükséges a kihirdetését követő harmincadik napon hatályba lép. Azok a rendelkezések, amelyek az adatok Központi SIS-be történő továbbítását, kiegészítő információk megküldését, illetve az egyes hatóságok részére a SIS-ben tárolt adatokhoz való hozzáférést szabályozzák azon a napon lépnek hatályba, amelyen a Tanács a SIS alkalmazását a Magyar Köztársaság számára lehetővé teszi. A beutazási és tartózkodási tilalommal kapcsolatos rendelkezések pedig azon a napon lépnek hatályba, amelytől kezdve a Tanács a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására feljogosítja, azaz lehetővé teszi a belső határok ellenőrzésének megszüntetését.
+
+A törvény átvezeti az Nbjt., a NEBEK tv., illetve a 2003. évi CXXX. törvény szövegének azon a részein, ahol ez egyszerű kifejezés cserével megoldható azokat a módosításokat, amelyek indokai korábban részletesen kifejtésre kerültek.
+
+A törvény korábban úgy módosítja az Sztk.tv.-t, hogy az elveszett, eltulajdonított, megsemmisült okmányok tekintetében a körözést nem kell külön elrendelni, hanem az adott okmány elvesztésére, eltulajdonítására, megsemmisülésére vonatkozó ténynek az okmányra vonatkozó központi hatósági nyilvántartásba történő bejegyzése alapján kell lefolytatni. Erre figyelemmel a törvény hatálybalépésével egyidejűleg hatályon kívül helyezi a Kknyt.-nek az okmányok körözésének elrendelésére vonatkozó rendelkezését, valamint a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvénynek azt a rendelkezését, amely a körzetközponti jegyző, illetve a központi nyilvántartást kezelő szerv számára írja elő a Rendőrség értesítését annak a személyazonosító igazolványnak az adatairól, amelynek elvesztését, ellopását vagy megsemmisülését bejelentették.
+
+A 44. §-hoz
+
+2008. január 1-jéig a Határőrség még önálló szervezet, amelynek feladatai alapján figyelmeztető jelzés elhelyezését kezdeményezheti, illetve a SVE 101. cikke alapján hozzáférési jogosultsággal rendelkezik a SIS-ben tárolt adatokhoz. Ennek megfelelően a törvény átmeneti időre szóló rendelkezéssel határozza meg a Határőrség SIS-szel kapcsolatos feladatait és jogosultságait.
+
+A 45. §-hoz
+
+A módosítás a törvényi jogforrási szintet nem igénylő kérdések szabályozására felhatalmazást ad a Kormánynak, illetve a rendészetért és határrendészetért felelős miniszternek a rendeleti szintű szabályozásra.
+
+A 46. §-hoz
+
+A SIS hatékony működésének feltétele, hogy naprakész adatokat tartalmazzon, és jogszerűen elrendelt és érvényes hatósági intézkedés alapján tartalmazzon figyelmeztető jelzést. Ennek biztosítása érdekében a törvény elrendeli, hogy a figyelmeztető jelzés alapjául szolgáló intézkedést elrendelő hatóság vizsgálja meg az általa elrendelt intézkedés jogszerűségét és időszerűségét, és ennek megfelelően intézkedjék a figyelmeztető jelzés elhelyezése érdekében a SIS-be történő adattovábbításról.
+
+A 47. §-hoz
+
+A törvény az Európai Unió jogának való megfelelést hajtja végre, ennek megfelelően tartalmazza a jogharmonizációs záradékot.

@@ -1,0 +1,79 @@
+2018. évi LXXXIX. törvény indokolása
+
+az oktatási nyilvántartásról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az oktatásigazgatásban használt nyilvántartási szakrendszerek jelenleg a személyi adatokhoz kötve tárolják a személyes szakmai (pl. jogviszonyhoz, tanulmányokhoz, megszerzett végzettséghez stb. fűződő) adatokat. Ennek eredményeképpen az egyes személyekre vonatkozóan az oktatási nyilvántartások többsége tartalmazza az érintett természetes személyazonosító adatait, illetve egyéb személyi adatokat.
+
+A 2018. május 25-től alkalmazandó, az Európai Parlament és a Tanács 2016/679 rendelete (a továbbiakban: GDPR) alapján az egyes oktatási ágazati nyilvántartások felülvizsgálata során megállapításra került, hogy az adatvédelmi alapelvek érvényesüléséhez szükséges intézkedésekhez a hatályos jogszabályi rendelkezések módosítása indokolt. A GDPR-ral összhangban egy egységes oktatási nyilvántartás létrehozása szükséges, amelyben a személyi és szakmai adatok elkülönített kezelése, valamint a nagyszámú személyes adatot tartalmazó adatbázisok adatbiztonságának növelése, ezzel párhuzamosan az adatkezeléssel járó kockázatok optimalizálása, mérséklése valósul meg az alábbi adatkezelési elvek érvényesülése céljából.
+
+Az adatok pontossága, illetve naprakészen tartása érdekében az adatkezelő szervnek minden észszerű intézkedést meg kell tennie. Figyelemmel arra, hogy a személyi adatokra vonatkozó elsődleges információforrásokhoz (pl. a személyiadat- és lakcímnyilvántartáshoz közvetlenül, a központi idegenrendészeti nyilvántartáshoz az összerendelési nyilvántartáson keresztül) történő csatlakozás az E-ügyintézési tv. által támasztott követelményeknek megfelelően egy csatlakozási ponton történik, a személyi adatok időszerűségének biztosítása érdekében egy egységes személyi törzset kell létrehozni.
+
+A beépített és az alapértelmezett adatvédelem alapelvével összhangban az adatkezelő szerv a megfelelő technikai, szervezési intézkedések alkalmazásával köteles biztosítani a személyes adatok biztonságát. Tekintettel arra, hogy az oktatási nyilvántartási szakrendszerekben nagy mennyiségű személyes adat összpontosul, a személyi és a szakmai adatok elkülönítése indokolt. Az oktatási azonosító szám egységes használatával a személyek azonosítása, valamint a személyes adatok lekérdezhetősége a továbbiakban is biztosított lesz, sőt a lekérdezések egyszerűbbek, gyorsabbak, illetve hatékonyabbak lesznek, továbbá a személyes adatok fragmentált kezelése megszűnik.
+
+Az oktatásigazgatási közhiteles nyilvántartások szakrendszereiből és azok alrendszereiből rendszeres ágazati szintű statisztikai adatszolgáltatásokat (pl. OSAP létszámstatisztika, felsőoktatási végzettség statisztika, felvételi létszámadatokkal összefüggő statisztikai adatszolgáltatások stb.) nyújt az adatkezelő szerv. A rendszeres statisztikák mellett akár napi szinten eseti statisztikai adatszolgáltatásokat szükséges teljesíteni az ágazatirányítók számára az állami hatáskörök gyakorlásához, a nemzetgazdasági szintű tervezéshez, a fenntartói feladatok ellátásához, társhatóságok számára a közfeladataik ellátásához, továbbá nemzetközi szervek számára nemzetközi szintű statisztikákhoz, elemzésekhez, magyar és nemzetközi kutatási feladatokhoz egyéni ügyfelek (intézmények, szervezetek, kutatók, magánszemélyek) és nem utolsó sorban a sajtó számára.
+
+Jelenleg a statisztikai adatszolgáltatások szakrendszerek, alrendszerek szintjén egyesével valósulnak meg. Ebből adódóan az egyes adatok nem komplexitásukban és összefüggéseikben jelennek meg, hanem elemeikben, amely bizonyos adattorzulásokat, értelmezési problémákat eredményezhet. Az egy egységben integrált oktatási nyilvántartással elérjük azt a célt, hogy az adatok magasabb szintű összefüggéseikben, redundanciától és belső - nem is detektált - ellentmondásoktól mentesen tudnak megjelenni az adatszolgáltatások szintjén. Az oktatási nyilvántartás létrehozásával az a cél is megvalósul, hogy a személyek hatékony azonosítását elősegítse, és így az egyes statisztikákban a személyek anonimizáltan sem jelenjenek meg többszörösen, a torzító tényezők kizárásra kerüljenek.
+
+Az oktatási nyilvántartás létrehozásával elérjük azt is, hogy az ágazati nyilvántartásokban a személyek életútja a jelenlegi fragmentált adatok helyett egységesen, egészében is nyomonkövethető az élethosszig tartó tanulás, tanulói-hallgatói életútvizsgálatok során, az egyénsoros és anonimizált adatok már nemcsak az egyes nyilvántartások hatóköréből külön- külön, hanem az oktatási nyilvántartás teljes állományából kinyerhetők.
+
+A fentiekből következően a statisztikák, elemzések a jövőben még messzemenőbb pontossággal mutatják be az oktatás - köznevelés, felsőoktatás - helyzetét, valamint a nyelvvizsgákhoz kötődő statisztikai adatokat.
+
+Ahol a törvény az adatkezelés időtartamát nem határozza meg, a nyilvántartásokban kezelt adatok szükségességének felülvizsgálatára az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Info tv.) 5. § (5) bekezdésének előírásai vonatkoznak, vagyis az adatok nyilvántartásának szükségességét 3 évente felül kell vizsgálni.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A rendelkezés adatkezeléshez szükséges egységes célokat határozza meg.
+
+A 2. §-hoz
+
+A rendelkezés meghatározza azon személyes adatok körét, amelyek az egyes alrendszerekben tárolt személyhez fűződő szakmai adatokon túl egységesen szükséges kezelni.
+
+A 3. §-hoz
+
+Meghatározza azon adatok körét, amely az egyes természetes személyek azonosítása céljából átmenetileg tárolva kezelhetők. Ezen adatok más közhiteles nyilvántartásokhoz való kapcsolódások során alkalmazhatók, az adott személy beazonosítása, adatainak frissítése céljából. Meghatározza azon nyilvántartásokat, amelyek útján az azonosítás és adatfrissítés megvalósítható.
+
+A 4. §-hoz
+
+A rendelkezés nevesíti azon szakrendszereket, valamint azok alrendszereit, amelyek az oktatási nyilvántartás részeit képezve eltérő oktatásigazgatási feladatok teljesítéséhez eltérő szakmai adatköröket tartalmaznak.
+
+Az 5. §-hoz
+
+Az egyes szak- és alrendszerek közös eleme az oktatási azonosító szám, amely ugyanazon személyt azonosítja az egyes rendszereken belül. Szükséges meghatározni azon személyek körét, akik oktatási azonosító számmal kell, hogy rendelkezzenek.
+
+A 6. §-hoz
+
+Meghatározásra kerültek azon adatszolgáltatók, amelyek az oktatási nyilvántartásba adatot szolgáltatnak.
+
+A 7. §-hoz
+
+A rendelkezés meghatározza a szak- és alrendszerekben nyilvántartott adatok továbbíthatóságát, egyes rendszerek esetén az általános szabályoktól eltérő adatkezelési időtartamot.
+
+-----STARTING---POINT---VEGE---
+
+A 8. §-hoz
+
+Felhatalmazó rendelkezés.
+
+A 9. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 10. §-hoz
+
+Jogharmonizációs záradék.
+
+A 11. §-hoz
+
+Az Oktatási Hivatalnak a teljes körű adattisztázáshoz, az érintett polgárok adatainak a személyiadat- és lakcímnyilvántartásban történő ellenőrzéséhez szüksége van közvetlen - webservice - kapcsolaton történő adatszolgáltatásra a személyiadat- és lakcímnyilvántartásból. Az erre való közvetlen felhatalmazást teremti meg az Nytv. adatszolgáltatásra vonatkozó fejezetének módosítása.
+
+A 12. §-hoz
+
+A módosítás célja, hogy a hatályos rendelkezésben szereplő hallgatói jogviszony mellett a köznevelési terminológiában bevett tanulói jogviszonyra vonatkozó ellenőrzésre is kiterjedjen a kapcsolat az államigazgatási szervek között. Egyúttal koherenciát teremt a törvénnyel bevezetett új fogalmak végigvezetésével.
+
+A 13-16. §-hoz
+
+Az új szabályozással koherenciát teremtő módosító és hatályon kívül helyező rendelkezések.

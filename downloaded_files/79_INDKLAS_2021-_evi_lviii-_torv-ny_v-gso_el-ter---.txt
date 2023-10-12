@@ -1,0 +1,649 @@
+2021. évi LVIII. törvény végső előterjesztői indokolása
+
+a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pénzügyi közvetítőrendszert érintő jogharmonizációs célú törvénymódosításokról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvényjavaslathoz tartozó indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában kerül közzétételre.
+
+A jelzálog-hitelintézeteket érintő szabályozás módosítását alapvetően a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló európai (EU) 2019/2162 parlamenti és tanácsi irányelv (a továbbiakban: fedezett kötvény irányelv) hazai jogba való átültetése indokolja. A fedezett kötvény irányelv átültetését a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény (a továbbiakban: Jht.) és a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) módosítása biztosítja.
+
+Magyarországon csak a jelzáloglevelek tartoznak a fedezett kötvények közé, amelyeket kizárólag szakosított hitelintézetek, jelzálog-hitelintézetek bocsáthatnak ki az 1997-ben elfogadott Jht. alapján. Az irányelvben meghatározott keretszabályok a befektetők védelme érdekében a Jht. rendelkezéseinek módosítását, illetve kiegészítését teszik szükségessé többek között a jelzáloglevelek fedezetére, a jelzáloglevél-tulajdonosok tájékoztatásra és a különleges felügyeletre vonatkozóan.
+
+A Javaslat a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2020. október 7-i, (EU) 2020/1504 európai parlamenti és tanácsi irányelvnek való megfelelést és az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2020/1503 európai parlamenti és tanácsi rendelet] végrehajtásához szükséges rendelkezéseket biztosítja. A közösségi finanszírozási szolgáltatás olyan újonnan szabályozott közvetítési forma, amely keretében nyújtható szolgáltatások az európai uniós rendelet adta korlátok között, a tagállami joggal összhangban nyújthatóak. A rendelet meghatározza a szolgáltatók szervezetére, engedélyezésére, tájékoztatási kötelezettségére és felügyeletére, a közösségi finanszírozási platformok működésére, a közösségi finanszírozási szolgáltatások nyújtására és átláthatóságára vonatkozó egyes szabályokat. Az európai uniós szabályozás nem zárja ki, de nem is írja elő a tagállamok számára, hogy a pénzügyi vagy befektetési szolgáltatás nyújtására engedéllyel rendelkező szervezetek számára biztosítsák közösségi finanszírozási szolgáltatás nyújtásának lehetőségét. A Javaslat - elsősorban befektetővédelmi szempontok miatt - nem terjeszti ki a zárt szolgáltatási köröket, amely okán a pénzügyi intézmények és a befektetési vállalkozások közösségi finanszírozási szolgáltatást nem nyújthatnak.
+
+A Javaslat a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek való megfelelést is biztosítja. A jövőben az adatszolgáltatók engedélyezése és felügyelete 2022. január 1-jével az Európai Értékpapír-piaci Hatóság hatáskörébe kerül a belső piac szempontjából korlátozott jelentőségű adatszolgáltatók kivételével. A szabályozás e körben a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendeletbe (a továbbiakban: 600/2014/EU európai parlamenti és tanácsi rendelet) kerül, így a magyar szabályozást is igazítani szükséges e változáshoz.
+
+A páneurópai egyéni nyugdíjtermékről szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet (a továbbiakban: PEPP Rendelet) célja egy olyan egyéni nyugdíjtermék bevezetése az európai uniós kiegészítő nyugdíjpiacra, amely egyszerű, hordozható és olcsó megtakarításként alternatívát jelenthetne az európai uniós kiegészítő nyugdíjpiac III. pillérében a nemzeti szabályozás által elérhetővé tett nyugdíjcélú megtakarítások mellett. Hazánkban ilyen III. pilléres terméknek minősülnek az önkéntes nyugdíjpénztári megtakarítások, a nyugdíj- előtakarékossági számlák, továbbá a nyugdíjbiztosítások.
+
+A PEPP Rendelet alapján szolgáltató lehet a hitelintézet, a közvetlen életbiztosítással foglalkozó biztosító, az olyan foglalkoztatói nyugdíjszolgáltató intézmény, amely a nemzeti jog alapján egyéni nyugdíjtermék nyújtására engedéllyel rendelkezik, a portfólió kezelést is nyújtó befektetési vállalkozás, az ÁÉKBV-alapkezelő és az európai uniós ABAK. PEPP forgalmazására jogosultak még a fentieken túl a biztosításközvetítők, illetve a befektetési tanácsadásra jogosult befektetési vállalkozások is. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény (a továbbiakban: Fnyt.) jelenleg nem ad lehetőséget egyéni nyugdíjtermék szolgáltatására, így a javaslatok egy része az erre vonatkozó szabályozást tartalmazza.
+
+Az Európai Unió területén PEPP csak akkor szolgáltatható és forgalmazható, ha azt az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság (EIOPA) a központi nyilvános nyilvántartásába vette, miután a székhely szerinti illetékes hatóság döntött a nyilvántartásba vételről. A nyilvántartásba vétel az Európai Unió teljes területén hatályos. A PEPP-pel kapcsolatos felügyeletet a tagállami felügyeletek látják el, ehhez a PEPP Rendelet alapján a tagállamok valamennyi hatáskört biztosítani kötelesek.
+
+A PEPP egyik legfontosabb sajátossága a hordozhatóság. Ez azt jelenti, hogy a PEPP megtakarítók jogosultak arra, hogy lakóhelyük másik tagállamba való áthelyezése után is hozzájáruljanak a megtakarításukhoz, megőrizzék a termékhez kapcsolódó valamennyi előnyt és ösztönzőt. Ennek érdekében a PEPP szolgáltató a hordozhatósági szolgáltatás keretén belül nemzeti alszámlákat biztosít. A szolgáltatóváltás szintén része a terméknek, tehát a megtakarító legalább öt évente dönthet arról, hogy más, azonos tagállamban székhellyel rendelkező (belföldi váltás) vagy más tagállamban működő (határokon átnyúló váltás) szolgáltatóhoz viszi a megtakarítását. A PEPP Rendelet részletesen szabályozza a tagok számára nyújtandó információkat, a tájékoztatás módját, idejét és tartalmát, a tanácsadást, az alkalmazható kockázatcsökkentési technikákat, a biometriai kockázatra vonatkozó szabályokat, az alkalmazható költségeket és a befektetési szabályokat. A megtakarító a szerződéskötéskor, illetve ezt követően öt évente dönthet a befektetési módozatról. Minden szolgáltató biztosít PEPP alapterméket, amely alapértelmezett befektetési lehetőségként működik, és olyan garanciális elemeket tartalmaz, amelyek lehetővé teszik, hogy a megtakarító legalább a tőkét visszakapja a kifizetési szakasz kezdetén. A PEPP alaptermékhez kapcsolódó költségek és díjak nem haladhatják meg az évente felhalmozott tőke 1%-át. A kifizetési szakaszban a PEPP Rendelet alapján járadék, egyösszegű kifizetés, lehívásos kifizetés és ezek kombinációi biztosíthatóak. A tagállamok nem zárhatják ki egyik fizetési módot sem, azonban alkalmazhatnak ösztönzőket egyes kifizetési módozatok előnyben részesítése érdekében. A 2019/1238 európai parlamenti és tanácsi rendeletnek a páneurópai egyéni nyugdíjtermékhez kapcsolódóan az információkat tartalmazó dokumentumokra, a költségkorlátba tartozó költségekre és díjakra, valamint a kockázatcsökkentési technikákra vonatkozó követelményeket meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló, 2020. december 18-i (EU) 2021/473 felhatalmazáson alapuló bizottsági rendelet további részletszabályokat rögzít a PEPP-ek nyújtásával, fogalmazásával kapcsolatosan.
+
+A PEPP Rendelet meghatározza azokat a szabályozási területeket, amelyek tagállami hatáskörben maradnak. A törvényjavaslat a hazai szabályozási körbe utalt kérdésekről rendelkezik. Az új nyugdíjtermék kapcsán olyan szabályozás kialakítása indokolt, amely a páneurópai nyugdíjtermék számára valódi esélyt biztosít a piacon, azonban nem hozza előnybe a már ismert és kedvelt kiegészítő nyugdíjtermékekhez képest.
+
+A Javaslat a szakképesítési rendszer átalakításához kapcsolódóan is tartalmaz módosításokat annak érdekében, hogy a szakképesítési előírások koherensek legyen.
+
+-----STARTING---POINT---RESZLETES---
+
+1. törvény módosítása
+
+Az 1. §-hoz
+
+Kodifikációs módosítás.
+
+A 2. §-hoz
+
+A Javaslat meghatározza a Jht.-hoz tartozó fogalmakat a fedezett kötvény irányelv fogalom-meghatározásával összhangban.
+
+A 3. §-hoz
+
+A Javaslat szűkíti a származtatott (derivatív) ügyletek kötésének lehetőségét, valamint új követelményeket határoz meg az ilyen ügyletekkel kapcsolatban a fedezett kötvény irányelv 11. cikkében foglalt előírásokra tekintettel.
+
+A 4. §-hoz
+
+A Javaslat a fedezett kötvény irányelv 6. cikkében foglalt rendelkezések átültetésének biztosítása érdekében követelményeket ír elő többek között az ingatlan hitelbiztosítéki értékét megállapító értékbecslőkre.
+
+Az 5. §-hoz
+
+A jelzálog-hitelintézeteknek megfelelő dokumentációs rendszereket kell kialakítaniuk jelzáloglevél ügyleteik nyilvántartására annak érdekében, hogy a forgalomba hozott jelzáloglevél sorozatok kibocsátási, rábocsátási és visszavásárlási, valamint lejáratkori teljesítési ügyleteit megfelelően tartsa nyilván és dokumentálja.
+
+A 6. §-hoz
+
+A fedezett kötvény irányelv 15. cikkében meghatározott fedezeti követelményekhez igazodva a Javaslat kiegészíti a jelzáloglevelek fedezetére vonatkozó rendelkezéseket. A módosítás külön nevesíti a fedezeti eszközök között a rendes fedezet és a pótfedezet mellett a likvid eszközöket.
+
+A 7. §-hoz
+
+A Javaslat a fedezett kötvény irányelv 16. cikke alapján likviditási puffer biztosítását írja elő a jelzáloglevél- programhoz kapcsolódó kifizetések fedezetének biztosítása céljából.
+
+A fedezett kötvény irányelv 17. cikke lehetővé teszi meghosszabbítható lejárati szerkezetű fedezett kötvények kibocsátását megfelelő befektető-védelmi előírások fenntartása mellett. A meghosszabbítható lejárati struktúra lehetővé teszi a potenciális likviditási kockázatok, lejárati eltérések kezelését. Meghosszabbítható lejárati szerkezetű jelzáloglevelet kizárólag a törvényben meghatározott kiváltó esemény bekövetkezésekor lehet alkalmazni.
+
+A 8. §-hoz
+
+A javaslat pontosítja a vagyonellenőrként megbízható személyekre vonatkozó szabályozást.
+
+A 9. §-hoz
+
+A Javaslat egyszerűsíti, gyorsítja a pót- és likvid fedezetek fedezetbe vonására és átsorolására vonatkozó folyamatot.
+
+A 10. §-hoz
+
+A fedezett kötvény irányelv 14. cikkének átültetése érdekében a Javaslat módosítja a befektetők tájékoztatására vonatkozó szabályokat. A jelzáloglevél programról szóló tájékoztatásnak biztosítania kell, hogy a potenciális befektetők figyelembe tudják venni a program jellegét és kockázatát. A Javaslat részletesen meghatározza a negyedéves tájékoztatás tartalmi elemeit.
+
+A 11. §-hoz
+
+A Javaslat meghatározza az „európai fedezett kötvény” logó és az „európai (prémium) fedezett kötvény” logó használatának követelményeit. A logók célja, hogy a befektetők könnyebben értékelhessék a jelzáloglevelek minőségét, és ezáltal azok az Európai Unión belül és kívül egyaránt vonzóbbá váljanak befektetési eszközként.
+
+A 12. §-hoz
+
+Rész, illetve alcím cím módosítás.
+
+A 13. §-hoz
+
+A hatályos Jht. szerint a bíróság a felszámolást elrendelő végzésében felszámolón túl fedezeti gondnokot is kirendel. A módosítás szerint az irányelvi rendelkezésekkel összhangban a fedezeti gondnokot a Felügyelet rendeli ki, és nem csak felszámolás esetén, hanem szanálási eljárás megkezdése esetén is. A Javaslat pontosítja a fedezeti gondnok feladatát.
+
+A 14. §-hoz
+
+Meghatározásra kerül, hogy a fedezeti gondnokra a felügyeleti biztosra irányadó szabályokat milyen eltérésekkel kell alkalmazni.
+
+A 15. §-hoz
+
+A jelzáloglevél-tulajdonosok védelme érdekében a Felügyelet különleges felügyeletet gyakorol. A Javaslat meghatározza a különleges felügyelet keretében ellátandó feladatokat.
+
+A 16. §-hoz
+
+A Javaslat együttműködési kötelezettséget ró a Felügyeletre más EGT-államok fedezett kötvények különleges felügyeletét ellátó hatóságaival, továbbá az Európai Bankhatósággal. A Javaslat meghatározza, hogy a Felügyelet milyen információkat oszthat meg a másik hatósággal.
+
+A Javaslat meghatározza, hogy a különleges felügyelet keretében milyen információkat kell közzétenni a Felügyelet honlapján.
+
+A 17. §-hoz
+
+A Javaslat felsorolja, hogy a különleges felügyelet gyakorlása keretében a Felügyeletnek milyen esetekben szükséges intézkedéseket, kivételes intézkedéseket tennie.
+
+A 18. §-hoz
+
+A Javaslat meghatározza, hogy a Felügyelet az intézkedések alkalmazásakor milyen szempontokat vehet figyelembe.
+
+A 19. §-hoz
+
+Jogharmonizációs záradék.
+
+A 20. §-hoz
+
+A fedezett kötvény irányelv 30. cikke átmeneti rendelkezést fogalmaz meg annak érdekében, hogy az irányelv ne gyakoroljon hatást 2022. július 8. előtt kibocsátott fedezett kötvényekre. Ennek megfelelően a Javaslat rögzíti, hogy a 2022. július 8-a előtt kibocsátott jelzáloglevelekre a 2022. július 7-én hatályos rendelkezéseket kell alkalmazni.
+
+Az átmeneti rendelkezés meghatározott feltételek esetén az adagolt- és részkibocsátásra is alkalmazható.
+
+A 21. §-hoz
+
+Szövegcserés rendelkezések.
+
+A 22. §-hoz
+
+Hatályukat vesztő rendelkezések.
+
+A 23. §-hoz
+
+A Javaslat a Tpt. hatályát bővíti ki a közösségi finanszírozási szolgáltatásokra, valamint azok valamennyi résztvevőjére.
+
+A 24. §-hoz
+
+A Javaslat a Tpt. alkalmazásához szükséges fogalommeghatározásokat tartalmazza az (EU) 2020/1503 európai parlamenti és tanácsi rendelet fogalmaival összhangban.
+
+A 25. §-hoz
+
+A rendelkezés CCP RR rendelet 90. cikkének átültetését valósítja meg.
+
+A 26. §-hoz
+
+A Javaslat meghatározza a közösségi finanszírozás keretében közvetíthető „hitelnyújtás” fogalmát, mert annak hitelként történő meghatározása értelemzavaró lehet, pénzkölcsönnek feleltethető meg.
+
+Az (EU) 2020/1503 európai parlamenti és tanácsi rendelet előírja továbbá a tagállamok számára, hogy legalább mely személyek számára kell polgári jogi felelősséget megállapítania a tagállamoknak a befektetési információkat tartalmazó adatlap tartalmáért, amely okán a felelősségi kör szélesebb kiterjesztésére lehetőség van. A befektetők védelmének megfelelő szintű biztosítása érdekében a Javaslat közös kárfelelősséget állapít meg a társaság és annak ügyvezetése számára, figyelemmel arra is, hogy a polgári jogtól nem idegen azon felfogás, hogy a vezető tisztségviselők egyetemlegesen felelnek a társaság által okozott károkért.
+
+A 27. §-hoz
+
+Tekintettel arra, hogy az adatszolgáltatási tevékenység szabályozása az Európai Unióban rendeleti szabályozás tárgyává válik, a Javaslat tartalmazza a 600/2014/EU európai parlamenti és tanácsi rendeletre történő utalást.
+
+A 28. §-hoz
+
+A pozíciókezelési kontrollmechanizmus javítását szolgálja a pontosító rendelkezés, amely a 2014/65/EU irányelv tájékoztatási követelmények, termékirányítás és pozíciólimitek tekintetében, valamint a 2013/36/EU és az (EU) 2019/878 irányelv befektetési vállalkozásokra való alkalmazása tekintetében, a Covid19-válság utáni helyreállítás elősegítése érdekében történő módosításáról szóló, 2021. február 16-i (EU) 2021/338 európai parlamenti és tanácsi irányelv [a továbbiakban: (EU) 2021/338 európai parlamenti és tanácsi irányelv] 1. cikk 10. pont c) alpontjában foglalt rendelkezés átültetését valósítja meg.
+
+A 29. §-hoz
+
+A pozíciók jelentésére vonatkozó rendelkezést egészíti ki a rendelkezés, amely az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 11. pont a) alpontjában foglalt rendelkezés átültetését valósítja meg.
+
+A 30. §-hoz
+
+A Javaslat a Felügyelet az (EU) 2020/1503 európai parlamenti és tanácsi rendelet szerinti speciális hatásköreit állapítja meg azzal, hogy az MNBtv.-ben meghatározott általános hatásköreit is gyakorolhatja.
+
+A 31. §-hoz
+
+A Javaslat a speciális bírságolási szankció lehetőségét teremti meg, továbbá a Javaslat megállapítja az (EU) 2020/1503 európai parlamenti és tanácsi rendelettel összhangban alkalmazható bírság mértékét.
+
+A 32. §-hoz
+
+A Javaslat az (EU) 2020/1503 európai parlamenti és tanácsi rendelet előírásainak megfelelően az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztató küszöbértékhez igazítja a közösségi finanszírozásra vonatkozó szabályok alkalmazási kötelezettségét.
+
+A 33. §-hoz
+
+A Javaslat megállapítja a jogharmonizációs záradékot.
+
+A 34. §-hoz
+
+A Javaslat pontosító célzatú, amely megkönnyíti a felügyeleti jogalkalmazást.
+
+A 35. §-hoz
+
+Hatályon kívül helyező rendelkezés.
+
+A 36. §-hoz
+
+Az egyéni nyugdíjtermék, illetve az egyéni nyugdíjszolgáltatás bevezetéséhez szükséges fogalmakat meghatározó rendelkezés.
+
+A 37. §-hoz
+
+Az egyéni nyugdíjszolgáltatási tevékenység, a foglalkoztatói nyugdíjszolgáltatási tevékenységhez hasonlóan a Felügyelet engedélyével folytatható. A rendelkezés tartalmazza a kérelemhez csatolandó dokumentumokat. Az egyéni nyugdíjszolgáltatási tevékenységet a foglalkoztatói nyugdíjszolgáltató intézmény a foglalkoztatói nyugdíjszolgáltatástól elkülönítve végzi. Az elkülönített működéshez szükséges tárgyi és személyi feltételeket biztosítania kell az intézménynek, így például az elkülönített működéshez szükséges informatikai rendszert, vagy ha az egyéni nyugdíjszolgáltatáshoz kapcsolódik biometriai kockázat, akkor az aktuáriusi feladatkört ellátó biztosításmatematikus alkalmazását. Az elkülönített működés azt is jelenti, hogy az egyéni nyugdíjszolgáltatási tevékenységhez kapcsolódó eszközöket és kötelezettségeket nem lehet a foglalkoztatói nyugdíjszolgáltatási tevékenységhez kapcsolódó eszközökkel, kötelezettségekkel összevonni.
+
+Egyéni nyugdíjszolgáltatásról szóló szerződést bármely 16. életévét betöltött személy köthet, a tagsági jogviszony a szerződés megkötésével jön létre. Az egyéni nyugdíjszolgáltatási jogviszony nem kapcsolódik foglalkoztatáshoz, azonban ahogy az önkéntes pénztárak esetében, itt is van mód arra, hogy a munkáltató a tag részére befizetéseket teljesítsen. Tekintettel arra, hogy a jogviszony alapja nem munkaszerződés, feltételes jogszerzési időtartam kikötésére az egyéni nyugdíjszolgáltatásról szóló szerződésben nincs mód.
+
+A Javaslat tartalmazza az egyéni nyugdíjszolgáltatáshoz kapcsolódó tevékenységek meghatározását. Egyéni nyugdíjszolgáltatási tevékenységet kizárólag a foglalkoztatói nyugdíjszolgáltató intézmény végezhet, tevékenységeinek egy-egy elemét vagy egészét a vonatkozó szabályok figyelembevételével kiszervezheti.
+
+Az egyéni nyugdíjszolgáltatási tevékenységre, illetve az egyéni nyugdíjszolgáltatásra jogosult tag jogaira, kötelezettségeire vonatkozóan megfelelően alkalmazni kell az Fnyt. foglalkoztatói nyugdíjszolgáltatásra, illetve a tagra vonatkozó rendelkezéseket. Ez azt jelenti, hogy a foglalkoztatói nyugdíjszolgáltatásra vonatkozó, a foglalkoztató és a tag közötti kapcsolatot, a tag foglalkoztatási jogviszonyából fakadó jogait, kötelezettségeit szabályozó rendelkezéseket leszámítva valamennyi rendelkezést megfelelően alkalmazni kell az egyéni nyugdíjszolgáltatásra. Így alkalmazandóak különösen a tagsági jogviszonyra, annak megszűnésére, a panaszkezelésre, a tájékoztatásra, a tag halála esetén követendő eljárásra, a nyugdíjkonstrukcióra, illetve a nyugdíjszolgáltatásra vonatkozó rendelkezések. A PEPP szolgáltatása és forgalmazása is egyéni nyugdíjszolgáltatási tevékenységnek minősül.
+
+A 38. §-hoz
+
+A Felügyelet engedélye szükséges az egyéni nyugdíjszolgáltatási tevékenység elkezdéséhez.
+
+A 39. §-hoz
+
+A páneurópai nyugdíjtermékre vonatkozó rendelkezések az Fnyt.-ben kerülnek szabályozásra. A foglalkoztatói nyugdíjszolgáltató intézmények által nyújtott PEPP-re az Fnyt. rendelkezéseit a PEPP Rendeletben és a felhatalmazáson alapuló jogi aktusban foglalt eltérésekkel kell alkalmazni.
+
+A PEPP Rendelet 47. cikke tagállami hatáskörbe utalja a felhalmozási szakaszhoz kapcsolódó feltételek szabályozását. A felhalmozási szakasz kezdetére vonatkozó korhatár tekintetében a PEPP-szolgáltatás esetében az önkéntes nyugdíjpénztárakhoz igazodóan 16 év került rögzítésre. A felhalmozási szakasz minimális időtartamának meghatározása tagállami opcionális hatáskör. A Javaslat a PEPP-szerződésben legalább tíz éves várakozási időszak előírását teszi kötelezővé. A PEPP-szolgáltatások rugalmasságának biztosítása érdekében, illetve a hazai kiegészítő nyugdíjpiac gyakorlatának megfelelően a Javaslat nem alkalmaz minimális vagy maximális befizetési kötelezettséget. Tekintettel arra, hogy PEPP-et széles szolgáltatói kör nyújthat, várhatóan egymástól lényegesen eltérő jellegű termékek várhatók, indokolt rugalmas szabályozást kialakítani, azaz a PEPP-szolgáltató döntési körébe utalni a befizetés folyamatosságára és összegére vonatkozó kérdéseket is. Azonban a Javaslat tartalmaz a megtakarítókat védő rendelkezéseket, amelyek rendszeres fizetési kötelezettségre épülő konstrukcióban lehetővé teszik a befizetés rendkívüli nehézség esetén történő felfüggesztését. A szerződés kötelező elemei lesznek az ütemezésre és a befizetési nehézségekre vonatkozó rendelkezések, amennyiben folyamatos hozzájárulásra vállal a PEPP-megtakarító kötelezettséget.
+
+A PEPP Rendelet 53. cikk (2) bekezdéséhez kapcsolódó rendelkezés, a PEPP-tagnak írásban kell jelezni a szolgáltató- váltásra irányuló kérelmét.
+
+A PEPP Rendelet 57. cikke alapján a tagállamoknak kell rendelkezni a kifizetéshez kapcsolódó feltételekről. Ennek alapján került rögzítésre a Javaslatban a PEPP-nyugellátásra való jogosultság megnyílásának legkorábbi időpontja. A Javaslat alapján a várakozási idő letelte és a nyugdíjkorhatár betöltése után lehet az ellátást igényelni. Emellett 50 százalékos munkaképesség csökkenés mértékét meghaladó megrokkanás is megnyitja az ellátáshoz való jogosultságot, azonban ennek igénylésére is csak a legalább tíz éves várakozási idő eltelte után van mód. A nyugdíjkorhatárt az Fnyt. fő szabálya határozza meg, amely a társadalombiztosítási öregségi nyugdíjkorhatár mellett más, nyugdíjnak minősülő ellátásokra való jogosultságokat is magában foglal.
+
+A PEPP Rendelet 67. cikke alapján a tagállamok a nemzeti joggal összhangban biztosítják az illetékes hatóságok számára a megfelelő közigazgatási szankciók kiszabásának lehetőségét. A Javaslat a PEPP Rendeletben meghatározott szankciókat rögzíti, amelyeket akár együttesen is kiszabhat a Felügyelet a PEPP Rendeletben foglalt szabályok betartatása érdekében.
+
+A PEPP Rendelet 34. cikk (6) bekezdése alapján a tagállamok meghatározzák és közzéteszik a tanácsadást nyújtó személyek számára szükséges ismeretek, illetve a szakértelem értékeléséhez használt kritériumokat. A PEPP-re vonatkozó tanácsadást nyújtó természetes személynek a PEPP-ek vonatkozásában évente összesen legalább 15 órányi szakmai képzésen, illetve továbbképzésen kell részt vennie. A Javaslat szerint az Fnyt. 85/E. §-a, illetve az ahhoz kapcsolódó 1. melléklet tartalmazza a képzésre vonatkozó részletszabályokat.
+
+A 40. §-hoz
+
+Kodifikációs jellegű módosítás.
+
+A 41. §-hoz
+
+Kodifikációs jellegű módosítás.
+
+A 42. §-hoz
+
+Jogharmonizációs klauzula.
+
+A 43. §-hoz
+
+Az Fnyt. az 1. melléklettel egészül ki, amely a páneurópai nyugdíjtermék témájú általános szakmai továbbképzés ismeretanyagának minimumkövetelményeit tartalmazza.
+
+A 44. §-hoz
+
+Az Fnyt. 6. §-ához kapcsolódó szövegcserés módosító.
+
+A 45. §-hoz
+
+Tekintettel arra, hogy az adatszolgáltatási tevékenység szabályozása az Európai Unióban rendeleti szabályozás tárgyává válik, kizárólag azon tevékenységek engedélyezése és felügyelete marad hazai szabályozásban, amelyek a belső piac szempontjából - az Európai Bizottság aktusában meghatározott szempontok alapján - korlátozott jelentőségűek. A Javaslat a hatályt meghatározó rendelkezéseket módosítja ennek tükrében.
+
+A 46. §-hoz
+
+A pontosító rendelkezés az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 1. pont a) alpontjában foglalt rendelkezés átültetését valósítja meg.
+
+Az (EU) 2020/1504 európai parlamenti és tanácsi irányelv kizárja a MiFID II. hatálya alól a közösségi finanszírozási szolgáltatást. A Javaslat ennek átültetését tartalmazza.
+
+A 47. §-hoz
+
+A Javaslat a definíciók pontosítását tartalmazza, illetve a szabályozás során felmerülő új fogalmak meghatározását tartalmazza, összhangban az (EU) 2021/338 európai parlamenti és tanácsi irányelv rendelkezéseivel. Ezen kívül a Javaslat a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2034 európai parlamenti és tanácsi irányelvnek [a továbbiakban: (EU) 2019/2034 európai parlamenti és tanácsi irányelv] való megfelelést szolgálja.
+
+A 48. §-hoz
+
+A páneurópai nyugdíjtermék nyújtására a befektetési vállalkozások is jogosultak.
+
+A 49. §-hoz
+
+A kiegészítési záradékon kívül más beágyazott származékos terméket nem tartalmazó kötvények általában biztonságos és egyszerű termékeknek tekinthetők, amelyek a lakossági ügyfelek számára is elfogadhatók. Lejárat előtti visszaváltása esetén a kiegészítési záradékon kívül más beágyazott származékos terméket nem tartalmazó kötvény védelmet nyújt a befektetőknek a veszteségekkel szemben azáltal, hogy biztosítja a befektetők részére azon kamatszelvények nettó jelenértékének a kifizetését, amelyekre akkor lettek volna jogosultak, ha a kötvény lejárat előtti beváltására nem kerül sor. Ezért a kiegészítési záradékon kívül más beágyazott származékos terméket nem tartalmazó kötvényeket célszerű kivonni a termékirányítási követelmények hatálya alól, amelyek korlátozó hatással lehetnek a kötvények értékesítésére. Emellett az elfogadható partnerek a pénzügyi eszközzel kapcsolatban elegendő ismerettel rendelkezőknek tekinthetők. Ezért indokolt mentesíteni az elfogadható partnereket a kizárólag számukra értékesített vagy forgalmazott pénzügyi eszközökre vonatkozó termékirányítási követelmények alól.
+
+Az 50. §-hoz
+
+A Javaslat igazodik a szakképesítési rendszer átalakításához, biztosítva a jogrendszeri koherenciát.
+
+Az 51. §-hoz
+
+A Javaslat biztosítja, hogy a jogsértések jelentésére vonatkozó rendelkezések az adatszolgáltatók számára is irányadóak legyenek.
+
+Az 52. §-hoz
+
+A Javaslat értelmében a befektetési vállalkozások és ügyfeleik közötti kommunikáció megkönnyítése érdekében a befektetéssel kapcsolatos tájékoztatást a továbbiakban nem papíron, hanem alapértelmezett lehetőségként elektronikus formában kell nyújtani. A lakossági ügyfelek számára ugyanakkor lehetővé kell tenni, hogy e tájékoztatást papíron kérjék.
+
+Az 53. §-hoz
+
+A Javaslat az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 4. pont c) alpontjában foglalt rendelkezés átültetését valósítja meg azzal, hogy a tőkepiacok erősítése érdekében támogatni kívánja a kis és közepes piaci tőkeértékű kibocsátókra vonatkozó elemzések létrejöttét. Ezek az elemzések növelik a kibocsátók láthatóságát, és fontosak a kibocsátók és a befektetők közötti kapcsolatteremtésben.
+
+Az 54. §-hoz
+
+A szakmai ügyfelek és az elfogadható partnerek - az Európai Bizottsággal folytatott konzultációkon erősítették meg, hogy - nem igénylik a költségekre vonatkozó szabványos és kötelező tájékoztatást, mivel a szükséges információkhoz már a szolgáltatójukkal folytatott tárgyalások során hozzájutnak. Ezért az elfogadható partnereknek és a szakmai ügyfeleknek nyújtott szolgáltatásokat mentesíteni kell a költségekre és díjakra vonatkozó tájékoztatási követelmények alól, kivéve a befektetési tanácsadási és portfóliókezelési szolgáltatások tekintetében, mert a befektetési tanácsadási és portfóliókezelési jogviszonyt létesítő szakmai ügyfelek e téren nem szükségszerűen rendelkeznek elegendő szaktudással és ismeretekkel ahhoz, hogy ezeket a szolgáltatásokat mentesíteni lehessen e követelmények alól.
+
+Az 55. §-hoz
+
+Pontosító rendelkezés.
+
+Az 56. §-hoz
+
+A Javaslat a pénzügyi eszközök közötti váltást érintő szolgáltatás nyújtás esetén követendő eljárást szabályozza, és az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 5. pontjában foglalt rendelkezés átültetését valósítja meg.
+
+Az 57. §-hoz
+
+A Javaslat az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 9. pontjában foglalt rendelkezés átültetését valósítja meg azzal, hogy pontosít egyes hivatkozásokat.
+
+Az 58. §-hoz
+
+A Javaslat biztosítja, hogy az adatszolgáltatók működése során is biztosítva legyen a Felügyelet tájékoztatása abban az esetben, ha rá vonatkozóan könyvvizsgáló jogszabályi előírás alapján feladatot lát el.
+
+Az 59. §-hoz
+
+A Javaslat pontosító jellegű, az egységes fogalomhasználatot és az alanyi kör egyértelműsítését célozza.
+
+A 60. §-hoz
+
+A PEPP Rendelet szerinti PEPP-re vonatkozó hazai szabályozást az Fnyt. tartalmazza. A PEPP Rendelet alapján azonban a foglalkoztatói nyugdíjszolgáltatókon kívül PEPP-szolgáltató lehet a hitelintézet, a közvetlen életbiztosítással foglalkozó biztosító, a portfólió kezelést is nyújtó befektetési vállalkozás, az ÁÉKBV-alapkezelő és az uniós ABAK is. A befektetési vállalkozások által nyújtott PEPP-re a Bszt. szabályait a PEPP Rendeletben, illetve az Fnyt. vonatkozó szabályaiban foglalt eltérésekkel kell alkalmazni.
+
+A 61. §-hoz
+
+A Javaslat az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 11. pont b) alpontjában foglalt rendelkezés átültetését valósítja meg azzal, hogy pontosítja a pozíciók jelentésére vonatkozó rendelkezéseket.
+
+A 62. §-hoz
+
+A pozíciókezelési kontrollmechanizmus javítását szolgálja a pontosító rendelkezés, amely az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 10. pont c) alpontjában foglalt rendelkezés átültetését valósítja meg.
+
+A 63. §-hoz
+
+A pozíciók jelentésére vonatkozó rendelkezést egészíti ki a rendelkezés, amely az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 11. pont a) alpontjában foglalt rendelkezés átültetését valósítja meg.
+
+A 64. §-hoz
+
+A Javaslat összhangot és kapcsolatot teremt a 600/2014/EU európai parlamenti és tanácsi rendelet és a magyar szabályozás között, utalást tartalmaz a tekintetben is, hogy az engedélyezés részletszabályait maga a rendelet tartalmazza.
+
+A 65. §-hoz
+
+Az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 10. pontjában foglalt rendelkezésnek megfelelően a Javaslat értelmében a pozíciólimiteket a jövőben kizárólag a kritikus vagy jelentős, kereskedési helyszíneken kereskedett árualapú származtatott termékek, valamint az azokkal gazdaságilag egyenértékű tőzsdén kívüli ügyletek esetében kell alkalmazni. Kritikus vagy jelentős származtatott termék az olyan árualapú származtatott ügylet, amelyben egy egyéves időszakra vetítve, átlagosan legalább 300 000 tételnek megfelelő nyitott pozíció áll fenn. A mezőgazdasági áruknak a lakosság számára kritikus fontossága miatt a mezőgazdasági árualapú származtatott ügyletek, valamint az azokkal gazdaságilag egyenértékű tőzsdén kívüli ügyletek továbbra is a jelenlegi pozíciólimit-rendszer hatálya alá tartoznak.
+
+A 66. §-hoz
+
+Tekintettel arra, hogy a belső piac szempontjából korlátozott jelentőségű adatszolgáltatók engedélyezését és felügyeletét a Felügyelet látja el, a rájuk vonatkozó nyilvántartásokat is a Felügyelet vezeti.
+
+A 67. §-hoz
+
+A Javaslat rendelkezik arról, hogy a befektetési szektorban fennálló szankciórendszer is alkalmazandó legyen az adatszolgáltatókra.
+
+A 68. §-hoz
+
+A Javaslat az adatszolgáltatók engedélyezésére és ellenőrzésére vonatkozó hatáskör Európai Értékpapír-piaci Hatóságra való átruházásához szükséges átmeneti rendelkezéseket tartalmazza. Továbbá a Javaslat átmeneti szabályozást tartalmaz annak érdekében, hogy a módosítás hatályba lépését követően a korábban elfogadott képesítésekkel rendelkező személyek továbbra is megfeleljenek a jogszabály által támasztott követelményeknek.
+
+A kereskedési helyszínek, rendszeres internalizálók és más végrehajtási helyszínek számára előírt arra vonatkozó beszámolási kötelezettségek, hogy a megbízásokat milyen módon hajtották végre az ügyfél számára legkedvezőbb feltételek mellett, olyan technikai jelentéseket eredményeztek, amelyek nagyszámú részletes mennyiségi információt tartalmaznak a végrehajtási helyszínre, a pénzügyi eszközre, az árra, a költségekre és a végrehajtás valószínűségére vonatkozóan. A jelentéseket ritkán olvassák, amit a végrehajtási helyszínek honlapján mért megtekintések igen alacsony száma igazol. Mivel a jelentések nem teszik lehetővé a befektetők és más felhasználók számára, hogy a bennük foglalt információk alapján érdemi összehasonlítást végezzenek, a jelentések közzétételét - az (EU) 2021/338 európai parlamenti és tanácsi irányelv 1. cikk 6. pontjában foglalt rendelkezésnek megfelelően - átmenetileg fel kell függeszteni.
+
+A 69. §-hoz
+
+Jogharmonizációs záradék.
+
+A 70. §-hoz
+
+A 2019/2034 európai parlamenti és tanácsi irányelvnek való pontos megfelelés miatt szükséges helyesbítés, illetve pontosító jellegű módosítás.
+
+A (2) bekezdésben szereplő módosítás a szakképesítési rendszer átalakításához igazodva biztosítja a jogszabályi koherenciát a használt elnevezések tekintetében is.
+
+A 71. §-hoz
+
+Hatályukat vesztő rendelkezések.
+
+A 72. §-hoz
+
+A törvény a Kormány gazdaság-, valamint környezeti fenntarthatóságának politikáját is külön nevesíti, mint olyan területet, amelyet a Magyar Nemzeti Bank az elsődleges céljának veszélyeztetése nélkül a rendelkezésére álló eszközökkel támogat.
+
+A 73. §-hoz
+
+A Javaslat szerint az MNB kerül kijelölésre az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet 1. cikk 5. pontjában meghatározott 23b. cikk (5) bekezdés a) pontja szerinti nemzeti hatóságként.
+
+A Javaslat kijelöli a Magyar Nemzeti Bankot (a továbbiakban: MNB) a közösségi finanszírozási szolgáltatással kapcsolatos hatósági feladatok ellátására.
+
+A Javaslat kijelöli az MNB-t a PEPP Rendelettel kapcsolatos hatósági feladatok ellátására.
+
+A 74. §-hoz
+
+Az arányosság elvének a felügyeleti felülvizsgálat és értékelés alkalmazásakor a Felügyelet által nyilvánosságra hozott módon is szükséges érvényesülnie.
+
+A 75. §-hoz
+
+A rendelkezés láttató szabályként megerősíti az illetékekről szóló 1990. évi XCIII. törvény 2021. január 1-től hatályos azon módosítását, amely alapján az ügyfelek fizetési, továbbá a közigazgatási hatósági ügyek intézésében részt vevő hatóságok adminisztratív terheinek csökkentése, ezáltal a versenyképesség növelése érdekében általánosságban megszűnt többek között a másolatok készítésének illetékkötelezettsége is.
+
+A 76. §-hoz
+
+A fedezett kötvény irányelv 24. cikkének átültetése érdekében a Javaslat kiegészíti az MNB határozatának tartalmára vonatkozó rendelkezéseket.
+
+A 77. §-hoz
+
+A befektetők védelme érdekében szükséges, hogy az MNB engedélye vagy a szükséges bejelentés hiányában tevékenységet végzők az interneten se tudják a továbbiakban elérni a befektetőket. Ennek érdekében a Javaslat megteremti annak a lehetőségét, hogy az MNB akár ideiglenes biztosítási intézkedésként, akár biztosítási intézkedésként elrendelhesse azon elektronikus adat hozzáférhetetlenné tételét, amelynek hozzáférhetővé tétele engedély nélkül vagy bejelentés hiányában végzett tevékenységet készít vagy segít elő. Az elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtását a Nemzeti Média- és Hírközlési Hatóság ellenőrzi.
+
+A 78. §-hoz
+
+A módosítás a hiteles fordítás beszerzésének magas költségeire és időigényére tekintettel - a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény előírásainak analógiájára - az MNB felsorolt eljárásai tekintetében lehetővé teszi a szakfordító vagy szakfordító-lektor képesítéssel rendelkezők által készített fordítás elfogadását.
+
+A 79. §-hoz
+
+A § (1) bekezdése a PEPP Rendelet végrehajtása érdekében rögzíti, hogy az MNB a PEPP előállítására és forgalmazására vonatkozó szabályok megsértése miatt hozott, közzétett és véglegessé vált határozatában szintén megjelöli a jogsértő természetes személy nevét is.
+
+A (2) bekezdésben a fedezett kötvény irányelv 24. cikkének átültetése érdekében a Javaslat megfelelően módosítja az MNB határozatainak közzétételére vonatkozó szabályokat.
+
+A 80. §-hoz
+
+A Javaslat pontosítja azon személyek, illetve szervezetek körét, amelyeknél a Felügyelet legalább háromévente átfogó vizsgálatot végez.
+
+A 81. §-hoz
+
+A Javaslat a PEPP Rendelet végrehajtása érdekében rögzíti, hogy az MNB a PEPP-ek nyilvántartásba vétel nélkül történő kínálásának, illetve forgalmazásának gyanúja esetén is piacfelügyeleti eljárást indít.
+
+A 82. §-hoz
+
+A befektetők védelme érdekében szükséges, hogy az MNB engedélye vagy a szükséges bejelentés hiányában tevékenységet végzők az interneten se tudják a továbbiakban elérni a befektetőket. Ennek érdekében a Javaslat megteremti annak a lehetőségét, hogy az MNB akár ideiglenes biztosítási intézkedésként, akár biztosítási intézkedésként elrendelhesse azon elektronikus adat hozzáférhetetlenné tételét, amelynek hozzáférhetővé tétele engedély nélkül vagy bejelentés hiányában végzett tevékenységet készít vagy segít elő. Az elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtását a Nemzeti Média- és Hírközlési Hatóság ellenőrzi.
+
+A 83. §-hoz
+
+Az MNB gyakorlati tapasztalatai alapján az MNBtv.-ben is szükséges az adózás rendjéről szóló törvényben foglaltaknak megfelelő azon alapelvi rendelkezések rögzítése, miszerint a piacfelügyeleti eljárások során a szerződéseket tartalmuk szerint kell minősíteni, illetve az érvénytelen szerződést is figyelembe kell venni az eljárásban, ha annak van gazdasági eredménye.
+
+A 84. §-hoz
+
+A befektetők védelme érdekében szükséges, hogy az MNB engedélye vagy a szükséges bejelentés hiányában tevékenységet végzők az interneten se tudják a továbbiakban elérni a befektetőket. Ennek érdekében a Javaslat megteremti annak a lehetőségét, hogy az MNB akár ideiglenes biztosítási intézkedésként, akár biztosítási intézkedésként elrendelhesse azon elektronikus adat hozzáférhetetlenné tételét, amelynek hozzáférhetővé tétele engedély nélkül vagy bejelentés hiányában végzett tevékenységet készít vagy segít elő. Az elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtását a Nemzeti Média- és Hírközlési Hatóság ellenőrzi.
+
+A 85. §-hoz
+
+A fedezett kötvény irányelv 24. cikkének átültetése érdekében a Javaslat megfelelően kiegészíti az Európai Bankhatóság tájékoztatására vonatkozó szabályokat.
+
+A 86. §-hoz
+
+Az MNB a jövőben részt kíván venni a fenntarthatósággal kapcsolatos erőfeszítésekben, ezért a Javaslat lehetőséget ad arra, hogy bevételei egy részét környezetvédelmi célokra fordíthassa. Tekintettel arra, hogy az MNB környezetvédelmi tevékenysége csak abban az esetben lehet példaértékű, ha erről a nyilvánosság is értesül, az ilyen célból kötött szerződéseit az MNB közzéteszi. A rendelkezés átláthatóvá teszi az MNB szén-dioxid-lábnyomának enyhítését célzó kiadásait, valamint nem arra hatalmazza fel az MNB-t, hogy bevételeit általánosságban környezetvédelmi célok elősegítésére és támogatására fordítsa, hanem arra, hogy azokkal elkerülje, csökkentse és enyhítse az MNB saját tevékenységeinek környezetre gyakorolt hatását.
+
+A 87. §-hoz
+
+Jogharmonizációs záradék.
+
+A 88. §-hoz
+
+A Javaslat megállapítja a jogharmonizációs záradékot.
+
+A 89. §-hoz
+
+A Javaslat pontosító rendelkezéseket, illetve a PEPP Rendelet végrehajtásához szükséges módosítást tartalmaz.
+
+A 90. §-hoz
+
+A Javaslat elhatárolja a közösségi finanszírozási szolgáltatást a pénzügyi szolgáltatásoktól.
+
+A 91. §-hoz
+
+A páneurópai nyugdíjtermék nyújtására a hitelintézetek is jogosultak.
+
+A 92. §-hoz
+
+A Javaslat igazodik a szakképesítési rendszer átalakításához, biztosítva a jogrendszeri koherenciát.
+
+A 93. §-hoz
+
+Szövegpontosítás.
+
+A 94. §-hoz
+
+Indokolt, hogy bankcsoporton belül a leányvállalatok belső ellenőri feladatait a hitelintézet anyavállalat belső ellenőrzési szervezetébe tartozó munkavállaló is elláthassa.
+
+A 95. §-hoz
+
+A prudenciális és a pénzmosás elleni felügyelet közötti kapcsolat megerősítése érdekében szükséges, hogy a prudenciális felügyeleti tevékenység során feltárt, pénzmosásra vagy terrorizmusfinanszírozásra utaló jelekről, illetve ezek fokozott kockázatáról a Felügyelet tájékoztassa az Európai Bankhatóságot.
+
+A 96. §-hoz
+
+A PEPP Rendelet szerinti PEPP-re vonatkozó hazai szabályozást az Fnyt. tartalmazza. A PEPP Rendelet alapján azonban a foglalkoztatói nyugdíjszolgáltatókon kívül PEPP-szolgáltató lehet a hitelintézet, a közvetlen életbiztosítással foglalkozó biztosító, a portfólió kezelést is nyújtó befektetési vállalkozás, az ÁÉKBV-alapkezelő és az uniós ABAK is. A hitelintézetek által nyújtott PEPP-re a Hpt. szabályait a PEPP Rendeletben, illetve az Fnyt. vonatkozó szabályaiban foglalt eltérésekkel kell alkalmazni.
+
+A 97. §-hoz
+
+A bankszünnapra vonatkozó szabályozás módosítása.
+
+A 98. §-hoz
+
+A panaszt tevők köre tágabb lehet az ügyfelek körénél, mivel beleértendőek azon személyek is, akik szolgáltatás igénybevétele okán kerülnek kapcsolatba a pénzügyi intézménnyel, független közvetítővel.
+
+A 99. §-hoz
+
+A Javaslat átmeneti szabályozást tartalmaz annak érdekében, hogy a módosítás hatálybalépését követően a korábban elfogadott képesítésekkel rendelkező személyek továbbra is megfeleljenek a jogszabály által támasztott követelményeknek.
+
+A 100. §-hoz
+
+A Javaslat megállapítja a jogharmonizációs záradékot.
+
+A 101. §-hoz
+
+Az (1) bekezdésben foglalt módosítások szövegpontosításokat tartalmaznak.
+
+A (2) bekezdésben szereplő módosítások a szakképesítési rendszer átalakításához igazodva biztosítják a jogszabályi koherenciát a használt elnevezések tekintetében is.
+
+A 102. §-hoz
+
+Hatályon kívül helyező rendelkezések.
+
+A 103. §-hoz
+
+A rendelkezés a 2009/65/EK és a 2011/61/EU irányelvnek a kollektív befektetési vállalkozások határokon átnyúló forgalmazása tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1160 európai parlamenti és tanácsi irányelv [a továbbiakban: (EU) 2019/1160 európai parlamenti és tanácsi irányelv] 2. cikk 1. pontja szerinti definíció átültetését valósítja meg.
+
+A 104. §-hoz
+
+A PEPP Rendelet szerinti PEPP-re vonatkozó hazai szabályozást az Fnyt. tartalmazza. A PEPP Rendelet alapján azonban a foglalkoztatói nyugdíjszolgáltatókon kívül PEPP-szolgáltató lehet a hitelintézet, a közvetlen életbiztosítással foglalkozó biztosító, a portfólió kezelést is nyújtó befektetési vállalkozás, az ÁÉKBV-alapkezelő és az uniós ABAK is. Az ÁÉKBV-alapkezelő által nyújtott PEPP-re a Kbftv. szabályait a PEPP Rendeletben, illetve az Fnyt. vonatkozó szabályaiban foglalt eltérésekkel kell alkalmazni.
+
+A 105. §-hoz
+
+A PEPP Rendelet szerinti PEPP-re vonatkozó hazai szabályozást az Fnyt. tartalmazza. A PEPP Rendelet alapján azonban a foglalkoztatói nyugdíjszolgáltatókon kívül PEPP-szolgáltató lehet a hitelintézet, a közvetlen életbiztosítással foglalkozó biztosító, a portfólió kezelést is nyújtó befektetési vállalkozás, az ÁÉKBV-alapkezelő és az uniós ABAK is. Az ABAK által nyújtott PEPP-re a Kbftv. szabályait a PEPP Rendeletben, illetve az Fnyt. vonatkozó szabályaiban foglalt eltérésekkel kell alkalmazni.
+
+A 106. §-hoz
+
+A Javaslat a befektetési alapkezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében fogalmaz meg pontosító rendelkezéseket.
+
+A Javaslat a befektetési alapkezelő vezető állású személyére előírt szakmai gyakorlat tekintetében fogalmaz meg pontosító rendelkezéseket.
+
+A 107. §-hoz
+
+A Felügyelet eljárását érintő pontosítás az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 1. cikk 1. pontja szerinti rendelkezés átültetését valósítja meg.
+
+A 108. §-hoz
+
+A Felügyelet eljárását érintő pontosítás az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 2. cikk 5. pontja szerinti rendelkezés átültetését valósítja meg.
+
+A 109. §-hoz
+
+A módosítás célja, hogy a kockázati és magántőkealap jogutód nélküli megszűnése esetén a szabályozott piacra be nem vezetett eszközöket is fel lehessen természetben osztani a befektetési jegy tulajdonosok egyhangú határozata alapján a befektetési jegy tulajdonosok között.
+
+A 110. §-hoz
+
+A Felügyelet eljárását érintő pontosítás az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 1. cikk 4. pontja szerinti rendelkezés átültetését valósítja meg.
+
+A 111. §-hoz
+
+A befektetők rendelkezésére álló lehetőségek, eszközök korszerűsítését szolgálják a rendelkezések, amelyek egyúttal az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 1. cikk 5. pontjának való megfelelést biztosítják.
+
+A 112. §-hoz
+
+A rendelkezés a befektetők védelme érdekében szabályozza azt az esetet, amikor az ÁÉKBV más EGT-államban forgalmazott befektetési jegyeinek forgalmazását meg kívánja szüntetni. Az előírások az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 1. cikk 6. pont (1)-(5) és (7) bekezdésében foglaltak átültetését valósítják meg.
+
+A 113. §-hoz
+
+Az előírások az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 1. cikk 6. pont (6) bekezdésében foglaltak átültetését valósítják meg. A rendelkezés kiegészíti a más EGT-államban engedélyezett ÁÉKBV kollektív befektetési értékpapírjainak magyarországi forgalmazását érintő rendelkezéseket azzal, hogy meghatározza a Felügyelet rendelkezésére álló eszközöket ezen értékpapírok magyarországi forgalmazásának megszüntetése esetén.
+
+A 114. §-hoz
+
+A rendelkezés meghatározza az ABAK által az Európai Unióban végzett, forgalomba hozatalt megelőző tájékoztatás feltételeit, megvalósítva egyúttal az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 2. cikk 2. pontja szerinti alcímben foglaltak átültetését.
+
+A 115. §-hoz
+
+A rendelkezés arra az esetre határoz meg előírásokat, amikor az ABAK az ABA kollektív befektetési értékpapírjait lakossági befektetők számára kívánja forgalmazni. A határon átnyúló forgalmazás egységességét biztosító előírások az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 2. cikk 6. pontja szerinti alcímben foglaltak átültetését valósítják meg.
+
+A 116. §-hoz
+
+A Felügyelet eljárását érintő pontosítás az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 2. cikk 3. pontja szerinti rendelkezés átültetését valósítja meg.
+
+A 117. §-hoz
+
+A Javaslat a más EGT-államban engedélyezett ABAK által kezelt uniós ABA kollektív befektetési értékpapírjainak belföldi forgalmazására vonatkozó rendelkezéseket iktat be.
+
+A (4) bekezdés az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 2. cikk 4. pont (6) és (7) bekezdésében foglaltak átültetését valósítja meg. Ez a rendelkezés meghatározza a Felügyelet rendelkezésére álló eszközöket a más EGT-államban engedélyezett ABAK által kezelt uniós ABA kollektív befektetési értékpapírjai magyarországi forgalmazásának megszüntetése esetén.
+
+A rendelkezés a befektetők védelme érdekében szabályozza azt az esetet, amikor az ABA más tagállamban forgalmazott kollektív befektetési értékpapírjainak forgalmazását meg kívánja szüntetni. Az előírások az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 2. cikk 4. pont (1)-(5) és (8) bekezdésében foglaltak átültetését valósítják meg.
+
+A 118. §-hoz
+
+Jogharmonizációs záradék.
+
+A 119. §-hoz
+
+Az előírás az (EU) 2019/1160 európai parlamenti és tanácsi irányelv 2. cikk 8. pontjában foglaltak átültetését valósítja meg.
+
+A 120. §-hoz
+
+Pontosító jellegű javaslatok.
+
+A 121. §-hoz
+
+A hatályát vesztő rendelkezések egy része az (EU) 2019/1160 európai parlamenti és tanácsi irányelv egyes rendelkezéseivel való összhangot biztosítja.
+
+A teljes tevékenységet irányító személyre korlátozottan lehet olyan tevékenységeket telepíteni, amelyeknek az ügyvezető vagy a befektetés-kezelési tevékenységet irányító személy ne lehetne birtokában, ezért e tisztség deregulációját valósítják meg a hatályon kívül helyező rendelkezések.
+
+Az adminisztratív tevékenységet irányító személy külön nevesítése, feltételekhez kötése és engedélyeztetése nem indokolt, ezért e tisztség deregulációját valósítja meg a hatályon kívül helyező rendelkezés.
+
+A 122. §-hoz
+
+A rendelkezés a CCP RR rendelet 93. cikkének átültetését valósítja meg.
+
+A 123. §-hoz
+
+A fedezett kötvényekre vonatkozó egységes európai keretszabályozásra tekintettel módosítani kell a fedezeti kötvény fogalmát.
+
+A 124. §-hoz
+
+Ha a szanálási tervben a fizetésképtelenségi eljárás a stratégia, azt kell vizsgálni, hogy az MREL-követelményt elég-e a veszteségviselési mennyiségben korlátozni.
+
+A 125. §-hoz
+
+Az intézménynek minősülő, szanálás alá nem vonható leányvállalatra kötelező az egyedi MREL-követelmény előírása, amíg az 1. § (1) bekezdésének b) és c) pontja szerinti szervezetek esetén csak lehetőség a BRRD alapján.
+
+A 126. §-hoz
+
+A szanálási feladatkörében eljáró MNB csak az illetékességi körébe tartozó szanálás alá vonható szervezet és leányvállalatok tekintetében hozhat döntést.
+
+A 127. §-hoz
+
+A hitelezői feltőkésítéssel érintett ügyfelek egy része adott esetben nem ismert.
+
+A 128. §-hoz
+
+Az alcím címének pontosítása.
+
+A 129. §-hoz
+
+Nemcsak a harmadik országbeli leányvállalatnak, hanem valamennyi intézménynek és érintett szervezetnek biztosítania kell, hogy a harmadik ország joga alatti pénzügyi szerződések vonatkozásában a szanálási hatóság gyakorolni tudja hatásköreit.
+
+A 130. §-hoz
+
+A hatékonyság elvének érvényesülését a hiánypótlás eljárásjogi intézménye jobban elősegíti, mint a szankció automatikus alkalmazása.
+
+A 131. §-hoz
+
+Szövegpontosítások.
+
+A 132. §-hoz
+
+Hatályát vesztő rendelkezés.
+
+A 133. §-hoz
+
+A rendelkezés alapján a PEPP szolgáltatása és forgalmazása biztosítási tevékenységgel közvetlenül összefüggő tevékenységnek minősül.
+
+A 134. §-hoz
+
+A PEPP Rendelet szerinti PEPP-re vonatkozó hazai szabályozást az Fnyt. tartalmazza. A PEPP Rendelet alapján azonban a foglalkoztatói nyugdíjszolgáltatókon kívül PEPP-szolgáltató lehet a hitelintézet, a közvetlen életbiztosítással foglalkozó biztosító, a portfólió kezelést is nyújtó befektetési vállalkozás, az ÁÉKBV-alapkezelő és az uniós ABAK is. A biztosítók által nyújtott PEPP-re a Bit. szabályait a PEPP Rendeletben, illetve az Fnyt. vonatkozó szabályaiban foglalt eltérésekkel kell alkalmazni.
+
+A 135. §-hoz
+
+A PEPP Rendelet szerinti PEPP-re vonatkozó hazai szabályozást az Fnyt. tartalmazza. A PEPP Rendelet alapján azonban a foglalkoztatói nyugdíjszolgáltatókon kívül PEPP-szolgáltató lehet a hitelintézet, a közvetlen életbiztosítással foglalkozó biztosító, a portfólió kezelést is nyújtó befektetési vállalkozás, az ÁÉKBV-alapkezelő és az uniós ABAK is. A biztosításközvetítők által forgalmazott PEPP-re a Bit. szabályait a PEPP Rendeletben, illetve az Fnyt. vonatkozó szabályaiban foglalt eltérésekkel kell alkalmazni.
+
+A 136. §-hoz
+
+A Javaslat átmeneti szabályozást tartalmaz annak érdekében, hogy a módosítás hatálybalépését követően a korábban elfogadott képesítésekkel rendelkező személyek továbbra is megfeleljenek a jogszabály által támasztott követelményeknek.
+
+A 137. §-hoz
+
+Jogharmonizációs klauzula.
+
+A 138. §-hoz
+
+A Javaslat igazodik a szakképesítési rendszer átalakításához, biztosítva a jogrendszeri koherenciát, így többek között a használt elnevezések tekintetében is.
+
+A 139. §-hoz
+
+A Javaslat igazodik a szakképesítési rendszer átalakításához, biztosítva a jogrendszeri koherenciát.
+
+-----STARTING---POINT---VEGE---
+
+A 140. §-hoz
+
+Hatályba léptető rendelkezések.
+
+A 141. §-hoz
+
+Sarkalatossági záradék.
+
+A 142. §-hoz
+
+Az Európai Unió jogának való megfelelés.

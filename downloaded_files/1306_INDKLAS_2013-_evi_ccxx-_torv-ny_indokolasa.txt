@@ -1,0 +1,323 @@
+2013. évi CCXX. törvény indokolása
+
+az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az interoperabilitás célja, hogy nagymértékben megnövelje az állam versenyképességét. A gyorsabb és átláthatóbb eljárásokkal bíró területek több beruházásra számíthatnak, ezen versenyképes területeken történő beruházások pedig elősegítik a gazdaság növekedését.
+
+A közigazgatás megújulásának egyik feltétele a közigazgatásban kezelt adatháttér rendbetétele, az adatok megbízhatóságának növelése, a jogosult hozzáférések biztosítása. Ehhez szükséges a nyilvántartások igazgatásszervezési értelemben vett normalizálása, illetve az egyes adatok (adatkörök) egyértelmű felelősének kijelölése.
+
+Az összerendelési nyilvántartás már korábban előremutató volt az interoperabilitás szempontjából. Segítségével a különböző állami adatbázisokban úgy lehet az azonos személyhez tartozó, más és más azonosító típussal (személyi azonosító, adóazonosító jel, TAJ szám, személyazonosító igazolvány okmányszáma, stb.) nyilvántartott adatokat összekapcsolni, hogy az megfeleljen a hatályos adatvédelmi szabályoknak is.
+
+Az interoperabilitás kapcsán megjelenik az adatbázisok összekapcsolhatóságának az elvárása. Az összerendelési nyilvántartás ennek szellemében megteremti, és a továbbiakban biztosítja a főbb nyilvántartások egymás közötti kommunikációját, betartva az adatok védelmére vonatkozó előírásokat.
+
+Az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvény és a végrehajtásáról szóló rendelet(ek) a nemzetbiztonsági szempontból érzékeny nyilvántartások és a belső nyilvántartások kivételével valamennyi nyilvántartás tekintetében az alábbiakban felsorolt, alapelvi szinten megfogalmazott célok elérése érdekében megjelölt konkrét intézkedéseket vezetik be.
+
+A szabályozás legfontosabb eleme, hogy előírja a nyilvántartások elektronikus információs rendszerben történő vezetését. A legtöbb érintett nyilvántartás a szabályozás hatálybalépésekor már meg fog felelni ezen előírásnak, azonban a törvény elkészítésekor figyelemmel kellett lenni az olyan kisebb, például önkormányzati nyilvántartásokra, amelyek nem felelnének meg ennek a feltételnek, mivel például egy excel táblázat szolgál a nyilvántartás vezetésének informatikai környezetéül. Ezért az átmeneti rendelkezések közé beépítésre került egy halasztó hatály is, amellyel lehetőséget teremtünk a kötelezettségek teljesítésére való felkészülésre.
+
+Főszabály szerint, ha a közigazgatás valamely adatot már valamely (elsődleges adatot tartalmazó) nyilvántartásba felvett, ugyanazt az adatot csak úgy veheti fel további nyilvántartásba, ha azt az adatot már eredetileg tartalmazó nyilvántartásból veszi át. Ilyen, a közigazgatás által már nyilvántartásba vett adat tekintetében főszabályként senkit nem lehet adatszolgáltatásra vagy adatigazolásra kötelezni.
+
+A nyilvántartások és a nyilvántartó szervek közötti együttműködés biztosítása a fennálló rendszerek újraépítésének, illetve komolyabb fejlesztésének igénye nélkül azáltal válik biztosíthatóvá, hogy lehetőséget teremt a szabályozás az adatokhoz való hozzájutás adatkapcsolati módjainak megválasztására. Az adatkapcsolati módok egységes fogalmaként bevezetésre kerül az adatkapcsolat-szolgáltatás. Ez lényegében nem más, mint olyan szolgáltatás, amelynek keretében a nyilvántartó lehetővé teszi adatok átvételét e törvényben meghatározott egyszerű adatátvétel vagy automatikus adatátvétel útján. Ebben a tekintetben beszélhetünk tehát egyszerű adatátadási adatátvételi módokról, valamint az automatikus adatátvételről, mely magában foglalja az adatelérési felület vagy más automatikus adatkapcsolati forma igénybevételét is.
+
+Ezzel a szabályozás csak azt írja elő kötelező jelleggel, hogy az adatkapcsolatnak meg kell valósulnia, de azt, hogy milyen módon valósítják meg konkrétan az érintett szereplők, arra választási lehetőséget hagy. Azonban az adatátadás formáinak a meghatározása során fontos volt előtérbe helyezni az automatikus adatátvétel elsődlegességét, mindezek mellett lehetőséget teremtettünk egy speciális adatelérési felület használatára is az automatikus adatelérési felület tekintetében. Ez utóbbi esetében kijelölésre kerülnek azok a nyilvántartások, amiknek biztosítaniuk kell az automatikus adatelérési felületen történő adatátadásokat is.
+
+Mindaddig, amíg a nyilvántartások e követelménynek megfelelnek, a szabályozás nem érinti, hogy az adatok nyilvántartása hogyan és milyen formában történik.
+
+A nyilvántartások megbízhatóságának javítása érdekében meg kell határozni a más nyilvántartásból származó adatok szinkronizálásának előírásait, továbbá a szabályozási koncepció része az is, hogy ha valamely hatóság megállapítja, hogy az általa és más hatóság által is nyilvántartott adat helytelen, köteles azt haladéktalanul jelezni az eredetileg nyilvántartó hatóság felé.
+
+Az állam és önkormányzat által nyilvántartott adatok dokumentáltsága és transzparenciája kapcsán új elemként jelenik meg az adatkapcsolat-szolgáltatási szabályzat készítésének, aktualizálásának és bejelentésének előírása valamennyi nyilvántartás tekintetében, ezzel egyrészt nyomon követhetővé válnak az egyes változások, másrészt rendelkezésre áll egy egységes dokumentum, leírás az interoperabilitás szempontjából legszükségesebb adatokról, eljárási módokról, feltételekről.
+
+A kerettörvény csak azt írja elő kötelező jelleggel, hogy az adatkapcsolatnak meg kell valósulnia, de, hogy milyen módon valósítják meg konkrétan az érintett szereplők, arra választási lehetőséget hagy. Bizonyos esetekben viszont irányt mutat és kiemeli az automatikus adatátvétel és az automatikus adatelérési felület alkalmazását.
+
+Felállításra kerül a nyilvántartások regisztere, amely a rendeletben meghatározott adatok tekintetében bárki számára, regisztráció nélkül hozzáférhető módon tartalmazza a nyilvántartások adatait és az interoperabilitás szempontjából lényeges jellemzőit.
+
+A törvény több helyen is utal arra, hogy az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény előírásaira figyelemmel kell lenni.
+
+Az interoperabilitás megvalósításának feltétele az is, hogy egy erős állami irányítás és felügyelet alatt álljon a rendszer. Ennek érdekében létrehozásra kerül a nyilvántartások felügyeletéért felelős szerv.
+
+Feladatai között szerepel, hogy a felügyeleti vizsgálat keretében ellenőrzi az adatkapcsolat-szolgáltatási szabályzatokat és a nyilvántartások működésének gyakorlatát; hivatalból és panasz alapján is eljárhat; megállapításait vizsgálati jelentésbe foglalja, melyben intézkedési javaslatot és jogszabály-alkotási javaslatokat fogalmazhat meg; a jogszabályi rendelkezéseket megsértő szerv felügyeleti szervéhez fordulhat; közvetít az együttműködési képesség biztosítása érdekében a nyilvántartásokat vezető szervek között; évente beszámol az interoperabilitás helyzetéről Magyarországon, ajánlásokat fogalmaz meg, vezeti a nyilvántartások regiszterét, az Adatmegnevezések jegyzékét, és lefolytatja az új eljárásként megjelenő mentességi eljárást.
+
+A nyilvántartott adatok megjelölésének és formátumának egységesítése érdekében az Adatmegnevezések jegyzékének kialakítására van szükség. Az Adatmegnevezések jegyzéke egy eszköz arra, hogy a különböző nyilvántartásokban szereplő adatok mind megnevezésük, mind jelentéstartalmuk, mind formátumuk tekintetében egységes mederbe terelődjenek.
+
+Külön kormányrendeletben kerül kijelölésre a kerettörvényben megnevezett nyilvántartások felügyeletéért felelős szerv, valamint az egyes kerettörvényben megnevezett eljárások és feladatok kirészletezése is a végrehajtási rendelet szintjén történik meg. A törvény több felhatalmazást is ad a Kormány számára, azonban ezen szabályok megalkotásához és a kijelölések megtételéhez a jogrendszer bizonyos szintű átvizsgálása szükséges, ami hosszabb időt vesz igénybe.
+
+A későbbi kormányrendelet fogja megmondani, hogy mely adatok mely nyilvántartások vonatkozásában minősülnek elsődleges adatnak, ezzel kitöltve a törvényi szabályozás legfőbb alapelvét.
+
+A Felügyelet új feladatainak ellátásán kívül fontos kiemelni a törvény hatálya alá eső nyilvántartásokra és azok nyilvántartóira háruló kötelezettségeket, és azok ütemezését.
+
+A törvény az alábbi főbb kötelezettségeket határozza meg:
+
+- a nyilvántartásokat az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti elektronikus információs rendszerben kell vezetni;
+
+- A nyilvántartások közötti egyszerű adatátvételt, adatátadást és automatikus adatátvételt elektronikus úton kell teljesíteni;
+
+- adatkapcsolat-szolgáltatás nyújtása;
+
+- adatkapcsolat-szolgáltatási szabályzat elkészítése;
+
+- nyilvántartások regiszterébe való regisztráció;
+
+- elsődleges adatok átvételének a rendjéhez való igazodás (5. §).
+
+Ezeknek a kötelezettségeknek való megfelelés nem várható el a kötelezettektől egyik napról a másikra. Maga az interoperabilitás megvalósulása is egy hosszabb folyamat. Ezért megfelelő felkészülési időt kívánunk hagyni az egyes nyilvántartóknak a kötelezettségek teljesítésére.
+
+Az időben először megjelenő kötelezettség a nyilvántartások Regiszterbe történő bejelentése lesz. A Regiszter feltöltése megalapozza a további munkálatokat.
+
+Az elektronikus információs rendszerben való vezetésről már korábban szót ejtettünk.
+
+Az adatkapcsolat-szolgáltatási szabályzatok elkészítését is rögzítik az átmeneti rendelkezések.
+
+A törvény adatkapcsolatokra vonatkozó egyik alapvető szabálya, hogy az elsődleges adatot tartalmazó nyilvántartás köteles adni, a származtatott adatot kezelő nyilvántartás köteles lesz átvenni az adatokat az 5. §-ban meghatározott módon.
+
+A törvény felhatalmazása alapján kiadott kormányrendelet fogja meghatározni, hogy az egyes nyilvántartások vonatkozásában mi minősül elsődleges adatnak.
+
+Az elsődleges adatokra vonatkozó kijelölő rendeletben egyidejűleg meghatározásra kerülhet, hogy mely nyilvántartók kötelesek automatikus adatelérési felület biztosítására.
+
+Ezzel összefüggésben elmondható, hogy az elsődleges adatok átadásához, illetve átvételéhez kapcsolódó kötelezettségek csak az egyes kijelölések után bírhatnak relevanciával.
+
+Az adatkapcsolat-szolgáltatási szabályzat elkészítése azonban függetlenedhet ettől a kötelezettségtől, hiszen jelenleg is léteznek különböző nyilvántartók közötti adatkapcsolat-szolgáltatások, amelyekre az átmeneti rendelkezéseket kell majd alkalmazni.
+
+Mindezek mellett az is elmondható, hogy a szabályozás megalkotása eredményként egy kerettörvényt ad, ami egy hosszabb folyamat első lépését jelenti csak. A szabályozás következményeként a nyilvántartások felülvizsgálata elengedhetetlenné válik. Átgondolandó lesz az egyes adatok vonatkozásában a párhuzamos nyilvántartások további vezetésének indokoltsága, és az ágazati szabályoknak a törvény általános elveihez való igazításával a többszörös, és adott esetben szükségtelen adatbekérésekből származó, indokolatlan adminisztratív kötelezettségek felszámolására is sor kerülhet.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az interoperabilitás széles körű biztosítása megköveteli, hogy bizonyos mértékben ne csak a köztes, a nyilvántartások egymás közötti viszonyait, hanem a nyilvántartások működésének egyes kérdéseit is szabályozzuk. Kiváltképp igaz ez a nyilvántartások létrehozására, mivel a nyilvántartásokat érintő működési folyamat e pontján még komoly anyagi és szervezeti ráfordítások nélkül lehet az interoperabilitási szempontokat figyelembe venni és érvényesíteni.
+
+Ezért a kerettörvény tárgyi hatálya kiterjed az ott meghatározottak szerinti nyilvántartásokra.
+
+A fenti tevékenységi körökre vonatkozóan a jogszabály tárgyi hatálya elsősorban általános jelleggel rendezi, hogy a nyilvántartásokkal kapcsolatos tevékenységekre, valamint ezen tevékenységek felügyeletére, és a nyilvántartások nyilvántartásának vezetésére a törvény szabályait kell alkalmazni minden közfeladatot ellátó szerv által jogszabály alapján vezetett nyilvántartásra vonatkozóan.
+
+A nemzetbiztonsági szakszolgálatok, valamint a Nemzeti Biztonsági Felügyelet által vezetett nyilvántartások tekintetében a törvény szabályait nem kell alkalmazni. Ennek oka, hogy ezek a nyilvántartások nagyon speciálisak és nemzetbiztonsági okból sem indokolt, hogy a törvény együttműködésre vonatkozó szabályai kiterjedjenek rájuk.
+
+A nyilvántartások köréből kiemelésre kerültek még az úgynevezett belső nyilvántartások, melynek fogalmát az értelmező rendelkezések között meghatároztuk. A belső nyilvántartások tartalmuknál, felhasználásuknál fogva nem relevánsak az interoperabilitás szempontjából. Ezek a nyilvántartások elsősorban olyan adatokat tartalmaznak, amik kizárólag a nyilvántartást vezető szerv belső működésének elősegítése érdekében kerülnek kezelésre, így nem a szó hagyományos értelmében vett nyilvántartásokról beszélhetünk.
+
+A területi hatály alatt külön rögzítésre kerül, hogy a szükséges mértékben a törvény szabályait kelljen alkalmazni a Magyarországon vezetett nyilvántartások Európai Uniós kapcsolódásaira is, tehát az adatok átadására. Ez a kapcsolat fennállhat az Európai Unió egyes szerveivel, valamint az egyes tagállamok szerveivel is. Ezzel a kerettörvény megteremti a transzeurópai interoperabilitás alapjait a nyilvántartásokra vonatkozóan.
+
+Továbbá szükséges volt kihangsúlyozni az adatvédelmi szempontokra figyelemmel, hogy a törvény nem érinti az adatkezelők más jogszabályokban meghatározott jogait és kötelezettségeit. A szabályozás nem kíván új speciális adatkezelési felhatalmazásokat teremteni, sem a személyes, sem a nem személyes adatok esetében. A szabályozás ez irányú szándéka megjelenik a későbbiekben, az 5. §-ban, mivel kihangsúlyozásra került minden esetben, hogy csak a jogszabályi feltételek fennállása esetében valósulhat meg az adatkapcsolat-szolgáltatás. Ezzel a kerettörvény garanciális szabályokat fogalmaz meg arra vonatkozóan, hogy jogosulatlan módon nem ismerhetők meg az adatok, a személyes adatokat tartalmazó nyilvántartások indokolatlan és jogosulatlan módon való összekapcsolására nem kerülhet sor.
+
+A 2. §-hoz
+
+A jogszabály-szerkesztés során az értelmező rendelkezések célja az, hogy az adott szabályozási körre nézve a jogszabály alkalmazása szempontjából legfontosabb fogalmakat meghatározzák. A jogi definíció tehát azt határozza meg, hogy az adott kifejezésnek adott jogszabályban vagy jogszabályokban való alkalmazásakor milyen tartalmat kell tulajdonítani. Az értelmező rendelkezések megállapítása és a fogalom-meghatározás egymáshoz közel álló kodifikációs feladatok.
+
+Az értelmező rendelkezések konkrét alkalmazási lehetőségei kapcsán a jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet úgy rendelkezik, hogy ha egy fogalom jelentése az adott jogszabály alkalmazásában eltér a köznyelvi jelentésétől, a más jogszabályban meghatározott jelentésétől, és a fogalom jelentése a jogszabály egyéb rendelkezései alapján nem egyértelmű, akkor indokolt és lehetséges értelmező rendelkezések megalkotása. A nyilvántartások együttműködésével kapcsolatos fogalmak olyan speciális jelentéstartalommal bírnak, amelyek eltérnek a köznyelvi jelentésüktől (ha egyáltalán a köznyelvben alkalmazásra kerülnek), ezért a kerettörvény „Értelmező rendelkezések” részében indokolt meghatározni jelentésüket.
+
+A fogalom-meghatározások során úgy kellett eljárni, hogy az e törvény kapcsán alkalmazott fogalmak ne legyenek összetéveszthetők más jogszabályokban akár csak szinonimaként használatos fogalmakkal. Különös tekintettel kellett lenni az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infoszab. törvény) rendelkezéseire. Az ott meghatározott adattovábbítás, adatszolgáltatás fogalmak jelen törvénnyel összefüggésben nem használhatóak. Ezzel az elkülönítéssel egy határvonalat kívántunk húzni a jogszabályok között, annak érdekében, hogy ne legyenek összetéveszthetőek azok rendelkezései. Míg az Infoszab. törvény elsődlegesen az adatszolgáltatási módokról, lehetőségekről rendelkezik, ami elsősorban valamilyen ügyfél, kérelmező, hivatal kapcsolatot feltételez, addig a jelen törvény kizárólag az egyes nyilvántartások-nyilvántartók közötti kapcsolatot kívánja szabályozni.
+
+Ahhoz, hogy a törvény fogalomrendszerét és felépítését megérthessük, fontos tisztázni, hogy itt az egyes adatok átadása-átvétele azért történik, mert az adatot a másik nyilvántartó a saját jogszabály által létrehozott nyilvántartásában kezeli. Nem egy-egy eseti lekérdezésről van szó, amikor egy eljárás során szüksége van egy hatóságnak a tény igazolására, de egyébként azt nyilvántartásában nem kezeli. Ezekre az esetekre továbbra is az Infoszab. törvény és az egyes ágazati jogszabályok rendelkezései irányadóak.
+
+A törvény nem teremt egyedi felhatalmazásokat különböző adatkezelésekre, kizárólag a már jogszabály által meghatározott körben és felhatalmazás alapján kezelhetők továbbra is az egyes nyilvántartások adatai.
+
+A fogalmi rendszer alapköve az adatkapcsolat-szolgáltatás, ami még a későbbiekben tisztázásra kerül, így itt most nem részletezzük.
+
+Egy adatkapcsolat-szolgáltatás megvalósulása érdekében beszélni kell adatátadásokról, egyszerű adatátvételekről, automatikus adatátvételekről. Ezek közül kiemelni szükséges az automatikus adatátvétel fogalmat.
+
+A koncepció kidolgozása során felmerült az adatszinkronizáció, vagy adatszinkronizálás fogalmának a használata is, azonban a fogalom tartalma és a fogalom elnevezése nem tudott összhangba kerülni.
+
+Ez a kerettörvény nem kíván konkrét műszaki tartalmakat meghatározni. Az adatszinkronizáció kapcsán mégis fogalmi zavart okozott a használata. Elsősorban az időbeli dimenziók tekintetében, a „szinkronizál” kifejezés „egyidejűség” jelentésében értelmezték. Az alkalmazni kívánt adatszinkronizáció fogalom alatt vélhetőleg több értelmes informatikai fogalom húzódik meg. Így a szóhasználat alkalmazása nem volt indokolt.
+
+Azonban fontos hangsúlyozni, hogy az automatikus adatátvétel alatt érthető a műszaki értelemben vett szinkronizáció, az adatok egyezőségének biztosítására szolgáló bármilyen műszaki megoldás. Így a szinkronizáció, vagy szinkronizálás, mint az adatok egyezőségét biztosító megoldás került beépítésbe a törvény által használt jogi fogalomba.
+
+Mindezek mellett ki kell emelni, hogy egy másik fogalom elnevezés is hasonló kettős jelentéssel bírhat a jogi környezetben és a technikai környezetben. A származtatott adatok fogalom tartalmi leírása alapján egyértelmű irányt ad, hogy a jogalkotó mit kívánt ez alatt érteni. A technikai világban a származtatás nem feltétlen egyezik az itt használatos értelmével, abban az értelmében inkább adatátalakítást feltételez.
+
+Az értelmező rendelkezésként való meghatározásra ezért is volt szükség, mert a szabályozás keretében egy általánostól eltérő tartalommal ruháztuk fel a szó jelentését. A származtatott jelen esetben tehát nem azt jelenti, hogy valamilyen módon átalakított adatról van szó, hanem magára az átvételre utal, arra, hogy az adat valahonnan egy más nyilvántartásból származik.
+
+A 3. §-hoz
+
+A törvény alapelvi jellegű rendelkezései között olyan alapvető rendelkezések meghatározásaira kerül sor, amelyek a törvény céljainak általános megvalósulását segítik elő, emellett azonban akár konkrét jogok, vagy kötelezettségek is alapíthatóak rájuk.
+
+Olyan szabályok meghatározására került sor, amelyek a nyilvántartásokra tendenciaszerűen alkalmazhatóak; képesek a nyilvántartások kialakítására vonatkozó jogszabályalkotást is orientálni; és emellett képesek a kerettörvény értelmezését is segíteni; ugyanakkor azokra akár közvetlen jogok és kötelezettségek is telepíthetőek.
+
+A szabályozás legfontosabb eleme, hogy előírja a nyilvántartások elektronikus információs rendszerben történő vezetését. A legtöbb érintett nyilvántartás a szabályozás hatálybalépésekor már meg fog felelni ezen előírásnak, azonban a törvény elkészítésekor figyelemmel kellett lenni az olyan kisebb, például önkormányzati nyilvántartásokra, amelyek nem felelnének meg ennek a feltételnek, mivel például egy excel táblázat szolgál a nyilvántartás vezetésének informatikai környezetéül, ezért az átmeneti rendelkezések közé beépítésre került egy halasztó hatály is.
+
+Kimondásra kerültek az alábbiak:
+
+- elektronikus út és eszközök előnyben részesítése,
+
+- adminisztratív terhek csökkentése,
+
+- a tájékoztatási kötelezettség elve,
+
+- redundancia mentesség elve,
+
+- a nyilvántartások kialakításakor alkalmazandó alapvető rendelkezések,
+
+- az információbiztonsággal kapcsolatos összhang megteremtése.
+
+A 4. §-hoz
+
+Ez a § határozza meg az alapvető generális szabályokat, amelyek valamennyi nyilvántartás számára egységesen alkalmazandóak.
+
+A rendelkezés arra vonatkozik, hogy a kerettörvény az együttműködéssel kapcsolatban egy olyan mechanizmust határozzon meg, amely általánosan használható a nyilvántartások közötti együttműködésre. Emellett nem indokolt, hogy a kerettörvény a nyilvántartások vezetésének részletes eljárásrendjét szabályozza, hanem e helyett inkább minimumkövetelményeket állapítson meg arra vonatkozóan, hogy mit szükséges a nyilvántartásoknak teljesíteniük az együttműködés gyakorlati megvalósítása érdekében.
+
+Az adatkapcsolat-szolgáltatás nyújtásának lehetőségét adja meg a törvény. Az alkalmazott megfogalmazás nem véletlenszerű, a „nyújthat” szónak fontos jelentése van. Ugyanis bármelyik e törvény hatálya alá tartozó nyilvántartó nyújthat adatkapcsolat-szolgáltatást. Ez a lehetősége nem függ az elsődleges adat mivoltától. Azonban, ha valamelyik nyilvántartó valamely adata vonatkozásában adatkapcsolat-szolgáltatást nyújt egy másik nyilvántartónak, akkor arra vonatkozóan szabályzatot kell készítenie.
+
+Az adatkapcsolat-szolgáltatás tartalma adatok átadása és átvétele nyilvántartók között, nem tartoznak bele az egyedi hozzáféréssel igénybe vehető olyan elektronikus szolgáltatások, amelyek kizárólag adatokhoz biztosítanak hozzáférést még akkor sem, ha az ilyen nyilvántartó által nyújtott szolgáltatások igénybe vevője egy másik nyilvántartó. Az adatkapcsolat-szolgáltatás módja lehet adatátadás vagy egyszerű adatátvétel, automatikus adatátvétel. Az adatátadás, az egyszerű adatátvétel és az automatikus adatátvétel egyaránt lehet ismétlődő. A lényegi különbség a két-három mód között az, hogy az automatikus adatátvétel esetében az adatok átadására és átvételére emberi beavatkozás nélkül kerül sor. Az adatkapcsolat-szolgáltatás szolgáltatási jellegéből adódóan a nyilvántartóknak meg kell állapodniuk az adatkapcsolat-szolgáltatás nyújtásának és igénybe vételének részleteiről. Az adatkapcsolat-szolgáltatási szabályzat léte nem teszi szükségtelenné az adatok átadására és átvételére vonatkozó megállapodás megkötését. Az adatkapcsolat-szolgáltatási szabályzat az általános szerződési feltételekhez hasonló szerepet tölt be az adatok átadása és átvétele érdekében a nyilvántartók között létre jövő kapcsolat szabályozásában.
+
+A személyes adatok tekintetében kiemeltünk néhány alapvető jelentőségű szabályt, és ide került beillesztésre az összerendelési nyilvántartás használatára vonatkozó „felhatalmazás”.
+
+A (3) bekezdés az adatkapcsolat-szolgáltatáson túl további lényeges elemét határozza meg a törvénynek. Megjelenik az elsődleges adat fogalma. Az adatok ilyen minőségének meghatározását egy kormányrendeletre bízza.
+
+Megjelenik az automatikus adatelérési felület is ebben a §-ban. A felület biztosítása bizonyos esetekben kötelező jellegű lesz, míg azokon felül a nyilvántartó számára továbbra is egy adatkapcsolat-szolgáltatási lehetőségként fog megjelenni.
+
+Az 5-6. §-hoz
+
+Az adatkapcsolatok és adatforrásokra vonatkozó rendelkezések megállapítása során indokolt, hogy a kerettörvény határozzon meg egyfajta hierarchiát az egyes adatok között. Ez a hierarchia az elsődleges adatra épül.
+
+Főszabály szerint az adatok átvétele csak az elsődleges adatot tartalmazó nyilvántartásból lehetséges.
+
+Ez így azt jelenti, hogy amennyiben több adatforrásból (ügyfél nyilatkozata, vagy más nyilvántartás) is be tudja szerezni az adatot a nyilvántartást vezető közfeladatot ellátó szerv, akkor az elsődleges adatot tartalmazó más nyilvántartásból köteles azt beszerezni.
+
+Ez azt a kötelezettséget támasztja a nyilvántartást vezető közfeladatot ellátó szervekkel kapcsolatban, hogy az adatok forrását körültekintően vizsgálják meg, és ne kérjenek be feleslegesen adatokat az ügyfelektől. Ez egyrészt az ügyfélterhek csökkenését is eredményezi, másrészt a redundáns adatkezeléseket is részben megszünteti. Ezáltal ugyanazon adat technikai előállításának, tehát a nyilvántartásba való bejegyzése technikai műveletének felesleges többszörözése is megszűnhet.
+
+Amennyiben ez a követelmény teljesül, a nyilvántartások esetében megszűnhet a redundáns adatkezelések és adatbekérések rendszere, mivel valamennyi, a törvény hatálya alá tartozó nyilvántartás köteles lesz beszerezni az olyan adatokat, amelyek egy másik nyilvántartásban elsődleges adatként vannak nyilvántartva.
+
+A törvény hatálya alá tartozó nyilvántartásokat jogszabályi rendelkezés alapján kezelik a közfeladatot ellátó szervek. Ezek a jogszabályok jelenleg sok esetben felesleges és párhuzamos adatbekéréseket írnak elő, így sok párhuzamos nyilvántartás létezik. Itt utalnánk arra, hogy a törvény nem ad új adatkezelési felhatalmazásokat a nyilvántartók számára. A törvény csupán a meglévő adatkezelési felhatalmazásokra építve, az egyes adatkapcsolatok szabályozását kívánja célul kitűzni.
+
+Az első bekezdéshez képest kivételeket, illetve többlet szabályokat állapít meg a § a továbbiakban.
+
+Erre tekintettel indokolt, hogy a kerettörvény mondja ki, hogy a nyilvántartást vezető szerv akkor is eljár e törvény szabályai szerint, és származtatott adatként akkor is bejegyezi az adatot, ha az adat bekérésére jogszabályi előírás alapján kerül sor. Ezzel megteremtődik a redundáns adatbekérések gyakorlati megszüntetésének lehetősége a jogrendszer ez irányú részletes átvilágításáig. Itt párhuzamosan rendelkezni kellett a személyes adatok tekintetében jelentkező többletkövetelményekről is.
+
+Mindezek mellett szükséges biztosítani az ügyfelek felé azt a lehetőséget, hogy saját maguk is felléphessenek a párhuzamos adatbekérések ellen, így indokolt, hogy a kerettörvény adjon felhatalmazást az ügyfeleknek a párhuzamos adatbekérések elleni fellépésre. Ennek gyakorlati megvalósítására indokolt az ügyfelek azon jogának a kerettörvény szintjén történő rögzítése, hogy a velük kapcsolatba kerülő, nyilvántartást vezető közfeladatot ellátó szervtől kérhessék, hogy az adott, más nyilvántartásban is elérhető adatot ne tőlük kérje be, hanem az ezen adatot nyilvántartó közfeladatot ellátó szervtől vegye át a kerettörvény szabályai szerint.
+
+Az összerendelési nyilvántartás (a továbbiakban: ÖR) nagymértékben könnyíti az együttműködés gyakorlati megvalósulását. Erre tekintettel indokolt, hogy az ÖR-ben elérhető adatok tekintetében legyen lehetőség ezen adatok ÖR-ből történő lekérdezése.
+
+Az interoperabilitás megvalósítása érdekében lehetőség van arra is, hogy egy nyilvántartás olyan nyilvántartással kapcsolódjon össze, amivel már esetleg jelenleg is kapcsolatban áll, és így attól a nyilvántartástól juthat hozzá az elsődleges adatokhoz, amivel számára egyébként is célszerű kapcsolatot kialakítania. A származtatott adatok további származtatására van ezáltal lehetőség, azonban az adatok biztonsági és tartalmi megfelelősége érdekében az ilyen fajta adatátvétel kizárólag automatikus adatátvétel során történhet, ez azonban nem zárja ki, hogy a végső nyilvántartás más adatkapcsolati módon jusson hozzá az adathoz.
+
+A hitelesség biztosításának további feltétele az is, hogy a közhiteles nyilvántartással folyamatos vagy rendszeres kapcsolat álljon fenn. Ha ez a kapcsolat naprakész, vagy meghatározott időközönként ellenőrzött, akkor nem fordulhat elő az az eset, hogy az átvett adat már nem fedi le a valóságot.
+
+Ezért indokolt a kerettörvényben rögzíteni, hogy az átvett adatok egyezőségét a származtatott adat bármilyen adatkapcsolati formában történő átadását, szolgáltatását vagy továbbítását, illetve a származtatott adatról történő bármilyen igazolás, hatósági bizonyítvány vagy más bizonyító erővel rendelkező közokirat kiállítását megelőzően ellenőrizni kell.
+
+Több gyakorlati tapasztalat alapján is az ellenőrzés leghatékonyabb módja a folyamatos vagy rendszeres automatikus adatátvétel, amikor a nyilvántartások adatait automatikusan leellenőrzik a felek.
+
+Az automatikus adatátvétel hasznára és gyakorlati elterjedtségére tekintettel indokolt, hogy a kerettörvény az adatok egyezésére irányuló ellenőrzést teljes mértékben megvalósító eljárásként definiálja az automatikus adatátvétel lehetőségét. Ugyanakkor az automatikus adatátvétel módja és gyakorisága meghatározásának lehetőségét indokolt az adatátvételben érintett felek számára meghagyni.
+
+Azokra az esetekre pedig, amikor nincs biztosítva folyamatos vagy rendszeres automatikus adatátvétel, további részletszabályok megállapítását indokolja. E körben célravezető és hatékony megoldásként kínálkozik, hogy az adat forrását képező nyilvántartást vezető szerv az adat megváltozásáról értesítse az átvevő szervet. Így az átvevő közfeladatot ellátó szerv megfelelő információkkal rendelkezhet az adatok állapotáról, és szükség esetén ismételten átveheti az adatokat.
+
+Az automatikus adatátvétel megvalósításával kapcsolatban az alábbi metodika általánossá tétele is célravezető eszköz lehet. Amikor az átadó nyilvántartás készen áll a csatlakozásra más nyilvántartásokhoz, akkor történjen meg e nyilvántartásnak az átadó nyilvántartás adataival való teljes feltöltése (informatikai szempontból nézve ezt a folyamatot). Ezt követően szinkronizáció kezdeményezése akkor is elégséges lenne, ha módosítás történik az átadó nyilvántartásban. Ha viszont az átadó nyilvántartás adatai nem változnak, úgy a meghatározott időközönként - egyébként feleslegesen - végrehajtandó szinkronizáció nem lenne kötelező.
+
+Mindemellett egyfajta önellenőrzési lehetőségként kell előírni azt is, hogy az átvevő szerv az adat valótlanságának észlelése (amelynek alapja akár lehet az ügyfél ez irányú jelzése is) esetén köteles legyen az adat átvételét vagy szinkronizálását saját hatáskörben megindítani. Ennek a szabálynak a felügyeleti tevékenységre vonatkozóan is jelentősége van, mivel ezt a normatív tartalmú rendelkezést a felügyelet ellenőrizhetné és felléphetne az olyan nyilvántartásokkal szemben, amelyeknek bár lehetőségük lenne a naprakész információk átvételére, valamilyen okból ennek mégsem tesznek eleget.
+
+Az adatok megbízhatóságának és naprakészségének érdekében a származtatott adatot kezelő nyilvántartást vezető szerv számára is előír egy minimális kötelezettséget, ami alapján értesítenie kell az „eredeti” nyilvántartást vezető szervet arról, hogy az adatok nem felelnek meg a valóságnak, valamint tájékoztatja az eljárásban érintett felet. Egyéb kötelezettséget nem ír elő, de ezzel is biztosítja azt a ki nem mondott alapelvet, hogy egy adat csak és kizárólag az „eredeti” nyilvántartási helye szerinti nyilvántartásban, eljárásban módosulhat.
+
+Például, ha egy nyilvántartásban szerepel a lakcím, és az adott hatóság eljárásában érintett fél szeretné bejelenteni a lakcím változását, hogy az az adott nyilvántartásban jól szerepeljen, az eljáró hatóság saját hatáskörében nem módosíthatja, hanem a fenti kötelezettsége alapján értesíti a személy- és lakcímnyilvántartó hatóságot és az a rá vonatkozó eljárási rend szerint elvégzi az elsődleges adata módosítását. Ezt követően valamennyi nyilvántartásban a már kijavított adat fog megjelenni a különböző adatkapcsolatoknak köszönhetően.
+
+A 7. §-hoz
+
+A nyilvántartások közötti együttműködés megfelelő rendezése érdekében mind a szabályozáshoz, mind a politikai döntéshozatalhoz elengedhetetlenül szükséges, hogy a döntéshozó a nyilvántartásokra, azok jelenlegi együttműködésére vonatkozóan megfelelő információkkal rendelkezzen. Jelenleg csak egyes nyilvántartásokkal kapcsolatban rendelkezünk tapasztalati ismeretekkel. Ahhoz azonban, hogy hosszú távú célokat is el lehessen érni az együttműködés területén, kiemelten fontos az adatkapcsolatok megfelelő dokumentáltságának biztosítása, amelyből már megfelelő döntés-előkészítő információkhoz lehet jutni. Jelenleg a dokumentáltság vagy teljesen hiányzik, vagy a meglévő dokumentumok eltérő módon, mélységben és formában tartalmazzák az információkat.
+
+Az adatkapcsolat-szolgáltatási szabályzattal kapcsolatban elsődlegesen azt szükséges kiemelni, hogy ez nem a nyilvántartások belső vezetésére vonatkozó dokumentum, hanem kifejezetten a nyilvántartások közötti kapcsolatokat leíró szabályzat. A szabályzat elkészítése kapcsán a törvény nem rendelkezik arról, hogy darabszámra hány szabályzatot kell elkészíteni, illetve benyújtani a Felügyelet felé, így akár egy dokumentációban több adatkapcsolat-szolgáltatási szabályzat is benyújtható.
+
+A nyilvántartások belső működése az együttműködés szempontjából csak kis mértékben releváns, így arra vonatkozóan információra sincs szükség, illetve azt szabályozni sem szükséges. Hétköznapi példával élve a nyilvántartás maga egy „fekete doboz”, amelynek működését nem szükséges látnunk. Arra viszont szükség van, hogy a fekete dobozban lévő adatokat ismerjük.
+
+Nagyon leegyszerűsítve ez az interoperabilitás megvalósulása. Ennek érdekében szabályozzuk, hogy a fekete doboz milyen kimeneti csatlakozókkal rendelkezzen és legyen egy használati utasítása, hogy ezt a felületet hogyan lehet használni. Ez az adatkapcsolat-szolgáltatási szabályzat.
+
+Az együttműködés szabályozása körében kiemelt figyelmet szükséges fordítani az adatkapcsolat dokumentáltságára, amelynek alapja az adatkapcsolat-szolgáltatási szabályzat.
+
+E szabályzat az együttműködés alapját szolgáló olyan dokumentum, amely a végrehajtási rendeletben meghatározott kötelező tartalmi elemek révén több cél együttes elérését eredményezhetné.
+
+A kerettörvény - koncepcióját tekintve - nem kívánja a nyilvántartások együttműködésével kapcsolatos részletes műszaki teendőket szabályozni, mivel a nyilvántartások és az alkalmazott műszaki intézkedések sokszínűsége ezt nem is teszi lehetővé.
+
+Egy adott nyilvántartásra vonatkozó adatkapcsolati szabályzat tartalma tehát nem csak a felügyeleti tevékenység szempontjából bírna jelentőséggel, hanem egyúttal azon nyilvántartásokat vezető szervek számára is kiemelt fontosságú lenne, amelyek vagy már csatlakoztak az adott nyilvántartáshoz és bizonyos adatokat e nyilvántartásból származtatnak, vagy éppen az adott nyilvántartáshoz való csatlakozás előtt állnak.
+
+A 8. §-hoz
+
+A szabályozás központi szereplőjeként kijelölésre kerül a nyilvántartások felügyeletéért felelős szerv. Az interoperabilitás megvalósítása érdekében szükséges egy felügyelő, koordináló, átfogó, az együttműködést elősegítő szerv megnevezése. A Felügyelet feladat-és hatáskörében több fontos tevékenységet is ellát.
+
+A négy fő feladatát a nyilvántartások regiszterének vezetése, az adatkapcsolat-szolgáltatási szabályzatok bejelentésével kapcsolatos eljárások, az adatmegnevezések jegyzékének vezetése valamint maga a felügyeleti vizsgálati eljárás teszi ki. Ez utóbbi lényegében egy ellenőrző tevékenysége a nyilvántartások együttműködési képességének megvalósulása vonatkozásában. Azonban ez az ellenőrzés nem a nyilvántartók szankcionálásán alapul, hanem segítséget kíván nyújtani a törvény fő elveiként megfogalmazott feladatok elvégzésére. A felügyeleti vizsgálat keretében ellátott további részletes feladatokat a második bekezdés sorolja fel.
+
+Ezek közül kiemelendő a mentességi eljárás és az ajánlások megfogalmazása.
+
+A mentességi eljárás részletszabályait a végrehajtási rendelet tartalmazza. Magának az interoperabilitásnak a megvalósítása egy hosszabb folyamat. A törvényben rögzített alapelv jellegű kötelezettségek önmagukban nem fogják eredményezni a teljes megvalósulását, de bizonyos szinteken már a helyes irányba tudják terelni a gyakorlatot is. Ennek érdekében megfogalmazásra került néhány olyan elvi jelentőségű kötelezettség, aminek a nyilvántartásoknak, nyilvántartóknak meg kell felelniük, azonban az a szabályozás előkészítő szakaszában elvégzett részletes felmérések alapján is megállapítható volt, hogy ezeknek a minimál szabályoknak sem fog tudni egyik napról a másikra megfelelni minden kötelezett. Így kidolgozásra került a mentességi eljárás, ami által lehetővé vált, hogy a törvény hatálybalépésének indokolatlan eltolása helyett azoknak a nyilvántartóknak bizonyos fokú mentesség legyen adható, akik nem tudnak megfelelni minden elvárásnak.
+
+Az ajánlások kiadása a Felügyelet részéről egy fontos eszköz. Az ajánlásoknak nincs kötelező ereje, azonban iránymutatást tudnak adni.
+
+A 9-10. §-hoz
+
+A szabályozás egyik alapköve a nyilvántartások regiszterének létrehozása. A Regiszter nem egy hagyományos értelemben vett nyilvántartás, inkább egy technikai jellegű informatív nyilvántartás. Tartalmát tekintve összegyűjti mindazokat az adatokat, információkat, amelyek a nyilvántartások együttműködési képességének biztosítása céljából relevanciával bírnak. A tartalmát és a nyilvántartásba vételre vonatkozó eljárási rendet a végrehajtási rendelet határozza meg. A nyilvántartásba vételi eljárás nem tartozik a Ket. hatálya alá, a Regiszter nem minősül hatósági nyilvántartásnak.
+
+A nyilvántartások bejelentésének minimum szabályait már törvényi szinten is megjelennek. A bejelentési határidő a nyilvántartás létrehozásához köthető. A már létező nyilvántartásokra vonatkozóan az átmeneti rendelkezések tartalmaznak információt.
+
+A 11-13. §-hoz
+
+A felügyeleti tevékenység megalapozásaként kell előírni azt, hogy a szabályzatot a tervezett hatálybalépése előtti 30. napig kötelesek legyenek a nyilvántartást vezető közfeladatot ellátó szervek megküldeni a nyilvántartások felügyeletéért felelős szervnek.
+
+Mivel a szabályzat adott esetben nagyon sokrétű és az üzleti titok körébe tartozó adatokat is tartalmazhat, ezért nem indokolt annak általános jelleggel történő nyilvánossá tétele.
+
+Szükséges egy olyan felügyeleti szerv felállítása, amely tényleges feladat- és hatáskörökkel rendelkezik, és hatékony eszközei vannak a nyilvántartások együttműködésének biztosítására. Mindemellett a témakör specialitása miatt a jogkövetkezmények területén a normaszöveg nem a klasszikus hatósági döntés és kötelezés/szankció együttesét bocsátja a felügyelet rendelkezésére, hanem tág teret biztosít az egyeztetésen alapuló megoldásoknak.
+
+A felügyeleti szerv feladat- és hatáskörei a nyilvántartások együttműködésével kapcsolatos, a kerettörvényben található előírásokhoz igazodnak.
+
+Így a nyilvántartások felügyeletéért felelős szerv feladat- és hatáskörében ellenőrzi, hogy a nyilvántartások megfelelnek-e a kerettörvényben és a végrehajtási rendeleteiben meghatározott követelményeknek; ellenőrzi és közzéteszi a hozzá bejelentett szabályzatokat; a közigazgatási hatósági eljárás és szolgáltatás általános szabályai szerint adatszolgáltatásra kötelezheti a kerettörvény hatálya alá tartozó nyilvántartást vezető közfeladatot ellátó szerveket a nyilvántartások létrehozásával, vezetésével és a nyilvántartás együttműködési képességével kapcsolatban; megvizsgálja a kerettörvény hatálya alá tartozó nyilvántartásokkal összefüggésben felmerült bejelentéseket és javaslatokat, amely alapján javaslattal élhet a feladat- és hatáskörrel rendelkező hatóság, illetve a jogalkotás kezdeményezésére jogosult szerv vagy személy felé; megvizsgálja a 5. §-sal kapcsolatban tett bejelentéseket, a tevékenységre vonatkozó jogszabályok alkalmazását segítő, kötelező erővel nem rendelkező általános ajánlást adhat ki; a nyilvántartások felügyeletével és nyilvántartásával kapcsolatos tevékenységéről, valamint az interoperabilitás helyzetéről évente beszámolót tesz közzé.
+
+A fenti feladat- és hatáskörökkel biztosítható mindaz a funkció, amely az együttműködéssel kapcsolatos felügyeleti szervtől elvárható. Fontos kiemelni, hogy ez a szerv nem lesz a hagyományos közigazgatási értelemben vett felügyeleti szerve a nyilvántartást vezető közfeladatot ellátó szerveknek, mivel felügyeleti tevékenysége kifejezetten a nyilvántartások vezetésére terjed csak ki.
+
+A felügyelet feladat- és hatásköreit ellenőrzésein és eljárásain keresztül gyakorolja. Általánosságban speciális eljárásrendet határoztunk meg azzal, hogy a külön nem szabályozott esetekben a Ket. hatósági ellenőrzésre és eljárásra vonatkozó szabályai kerüljenek megfelelően alkalmazásra.
+
+A felügyelet a speciális eljárásrend szerint felügyeleti vizsgálat keretében jár el, amely nem minősül hatósági ügynek. A felügyeleti vizsgálat nem egy hatósági döntéssel, hanem egyfajta zárójelentéssel zárul. A zárójelentés a vizsgálat célját, eredményeit és nem kötelező erejű javaslatokat tartalmaz az együttműködéssel kapcsolatosan vizsgált problémákra vonatkozóan.
+
+A törvény szerint a zárójelentést az érintettek megkapják, arra reagálniuk kell abban az esetben is, ha a javaslatokat elfogadják; továbbá a javaslatokban foglaltaknak megfelelően intézkedéseket kell tenniük abban az esetben is, ha a javaslatokban foglaltakat vitatják.
+
+A felügyelet kezében több lehetőség van az együttműködéshez szükséges jogszabályi előírások ellenőrzésére. Vizsgálja a szabályzatokat, valamint azok módosítását, hogy azok megfelelnek-e a kerettörvényben, annak végrehajtási rendeleteiben, illetve a felügyeleti ajánlásokban foglaltaknak.
+
+A felügyeletnek a szabályzatok vizsgálatára felügyeleti terv alapján is lehetősége van. A terv alapján végzett felügyeleti tevékenység fő szabályait a Ket. tartalmazza a hatósági ellenőrzés szabályai alatt. A felügyeleti terv alapján lefolytatott vizsgálatok elsősorban nem az egyedi, egyes nyilvántartások körében található problémák, hanem a rendszerszinten jelentkező problémák feltárását és megoldását célozzák meg, ezért az eljárás, illetve ellenőrzés végén a felügyelet nem egyedi döntést hoz, hanem összefoglaló jelentést készít, amelyet eljuttat az érintetteknek, illetve közzétesz.
+
+Amikor a felügyelet felesleges és indokolatlan párhuzamos adatkezelést tapasztal, akkor speciális eljárás lefolytatásával intézkedik az adatkezelés megszüntetése érdekében. A hatósági fellépés mellett indokolt az ilyen esetek kiküszöbölése érdekében az ügyfelek, azaz az adatforrások számára is bejelentési lehetőséget biztosítani, mivel sok esetben az ügyfelek tapasztalják elsődlegesen azt, hogy több helyről is bekérik tőlük ugyanazt az adatot.
+
+A felügyelet ezeken kívül gyakorolná a speciálisan nem kezelt, egyéb hatásköreit, mint például az ajánlások kibocsátása; továbbá eljár azokban az esetekben, amikor hozzá valamelyik nyilvántartást vezető szerv az együttműködéssel kapcsolatos problémát jelent be.
+
+A felügyelet ajánlás kibocsátásával kapcsolatos feladat- és hatáskörét az alábbi tárgykörökre vonatkozóan kell megállapítani: a nyilvántartásokban alkalmazott fogalmak szemantikai egységesítése; adatkapcsolati formák; valamint az adatkapcsolati szabályzattal kapcsolatos standardok megalkotása.
+
+Álláspontunk szerint a nyilvántartások együttműködésének felügyelete esetén nem indokolt a bírság szankció alkalmazásának lehetőségét biztosítani, több ok miatt sem. Egyrészt nem célravezető, hogy az állam egyik szerve a másikat bírságolja, hiszen ez nem jelent valódi pénzmozgást. Másrészt a nyilvántartások együttműködése olyan terület, amely szabályozása kezdeti szakaszán áll, és még hosszú időnek kell eltelnie ahhoz, hogy a nyilvántartások átálljanak az itt megkövetelt megközelítésmódra. Ezt a folyamatot pedig nem szankciókkal, hanem pozitív ösztönzés útján kell elősegíteni. Azt sem lehet továbbá figyelmen kívül hagyni, hogy a bírság szankción kívül léteznek más, ez esetben talán hatékonyabban alkalmazható jogkövetkezmények, mint az egyeztetési lehetőségek, felügyeleti eljárás kezdeményezése, kvázi mediációs eljárások lefolytatása is.
+
+A Felügyelet egy másik feladatát is kiemelve a 12. § kapcsán elmondható, hogy az adatmegnevezések jegyzéke az interoperabilitást, a nyilvántartók, nyilvántartások közötti kommunikációt elősegítő eszköz. A jegyzék lényegében egy jövőbeli közös nyelv bázisát képezheti azáltal, hogy a nyilvántartóknak be kell azonosítaniuk a nyilvántartásaikban szereplő adatokat leíró fogalmakat, megjelöléseket a jegyzékben szereplő fogalmakkal, jelentéstartalmakkal.
+
+A 14-15. §-hoz
+
+Az interoperabilitás megvalósításának egyik alapköve a közigazgatásban kezelt adatháttér rendbetétele, az adatok megbízhatóságának növelése, így különösen az állami adatbázisokban kezelt címadatok rendbetétele és a címadatokat kezel ő nyilvántartások közötti hatékony együttműködés megteremtése. Kiemelten fontos, hogy a nyilvántartásokban szereplő adatok - akár egyedileg, akár összességükben - megfelelően tükrözzék a valóságot, hiszen ezáltal segítik elő az állami feladatellátást.
+
+A központi címregiszter egy olyan nyilvántartás, amit a jogrendszerben még nem definiált módon, de az „etalon” jellemzővel ruházhaó fel. Ez a minősége szorosan kapcsolódik az interoperabilitáshoz, ezért indokolt a törvényben való elhelyezése. A nyilvántartás speciális helyzete abból adódik, hogy az állam belső működésének, az egyes címalapú nyilvántartások együttműködésének zálogául szolgál azzal, hogy hatékony állami „belső” adatforrást szolgáltat a címalapú nyilvántartások számára.
+
+Jelen törvény csak keretszabályokat állapít meg, így a központi címregiszter létrehozását csak deklarálja, annak tényleges megvalósítását és kialakítását, a hozzá kapcsolódó végrehajtási eljárások kidolgozását külön jogszabályokra bízza. A nyilvántartás létrehozása törvényi szinten kell, hogy megjelenjen az „etalon” jellege miatt. Jelen kerettörvény a részletszabályok kimunkálására nem szolgálhat, de megteremti a jogrendszerben való elhelyezhetőség alapvető feltételeit. A központi címregiszter létrehozását és a jogrendbe illesztését szolgáló jogszabályok, jogszabály módosítások kidolgozása folyamatban van.
+
+A 16. §-hoz
+
+Mivel a kerettörvény csak általános jellegű, magas szintű szabályokat tartalmaz, ezért a következő tárgykörökre vonatkozóan szükséges felhatalmazás a végrehajtási rendeletek megalkotására:
+
+- a nyilvántartások felügyeletéért felelős szerv kijelöléséhez;
+
+- a nyilvántartások felügyeletéért felelős szerv eljárására vonatkozó részletes szabályok;
+
+- a Regiszter, valamint az adatmegnevezések jegyzékének tartalmára és vezetésére vonatkozó részletes szabályok;
+
+- az adatkapcsolati szabályzat kötelező tartalmi elemeit, valamint a szabályzat bejelentésére vonatkozó részletes szabályok,
+
+- az elsődleges adatnak minősülő adatok körét és az azokat elsődleges adatként nyilvántartó nyilvántartások,
+
+- azon nyilvántartások körének, amelyek tekintetében a nyilvántartó automatikus adatelérési felület létrehozására köteles,
+
+- az automatikus adatelérési felületre vonatkozó követelmények, és
+
+- azon nyilvántartások körének megállapítására, amelyek nem kötelesek a Regiszterbe bejelentés tételére, illetve a nyilvántartás elektronikus információs rendszerben történő vezetésére.
+
+-----STARTING---POINT---VEGE---
+
+A 17. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 18. §-hoz
+
+Tekintettel arra, hogy a kerettörvény több olyan kötelezettséget is meghatároz, amelynek azonnali teljesítését nem lehet elvárni a nyilvántartást vezető közfeladatot ellátó szervektől, a legnagyobb terhet jelentő, illetve szervezési intézkedéseket igénylő szabályok tekintetében halasztott teljesítés előírása indokolt.
+
+Az átmeneti rendelkezések között indokolt az elektronikus információs rendszerben való vezetés, és az adatkapcsolat-szolgáltatási szabályzatok késleltetett, megszabott határidő lejártával való megfelelés előírása.
+
+A szabályok így már akkor lennének alkalmazandóak, amikor a mögöttes műszaki feltételek már adottak lesznek.
+
+A regisztrációs eljárásnak azonban rövidebb időn belül kell megfelelniük az érintetteknek, mivel a Regiszter feltöltése előfeltétele az együttműködési képességük megalapozásának.
+
+A 19. §-hoz
+
+Hatályát vesztő rendelkezés.

@@ -1,0 +1,925 @@
+2011. évi CLXXVI. törvény indokolása
+
+az egyes egészségügyi tárgyú törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvény célja a Semmelweis Tervben meghatározott egészségügyi struktúra-átalakítással járó feladatokról, a kiemelt feladatok végrehajtásához szükséges intézkedésekről szóló 1208/2011. (VI. 28.) Korm. határozatban foglaltak végrehajtása, az „Állami Népegészségügyi és Tisztiorvosi Szolgálat gyors reagálási képességet növelő komplex információs rendszerének fejlesztése a külső szolgáltatások és belső hatékonyság növelésének támogatására” című kiemelt projekt végrehajtásához szükséges törvénymódosítások megalkotása, valamint jogharmonizációs kötelezettségek teljesítése.
+
+A törvény a célok elérése érdekében az alábbi, egyes egészségügyi tárgyú törvények módosítását tartalmazza.
+
+- Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.)
+
+- Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.)
+
+- A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.)
+
+- Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.)
+
+- Az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény
+
+- Az önálló orvosi tevékenységről szóló 2000. évi II. törvény (a továbbiakban: Öotv.)
+
+- A kémiai biztonságról szóló 2000. évi XXV. törvény (a továbbiakban: Kbtv.)
+
+- Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.)
+
+- Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.)
+
+- Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény (a továbbiakban: Ekt.)
+
+- A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.)
+
+- Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.)
+
+A szociális biztonság területén az elektronikus adatcsere bevezetésével összefüggésben az alábbi törvények kerülnek módosításra:
+
+- A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
+
+- A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény
+
+- A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény
+
+- A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény
+
+- A családok támogatásáról szóló 1998. évi LXXXIV. törvény
+
+- A rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény
+
+- Az egyes egészségügyi tárgyú törvények módosításáról szóló 2009. évi CLIV. törvény
+
+- A magzati élet védelméről szőlő 1992. évi LXXIX. törvény
+
+- A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény
+
+A törvény - témánként - az alábbi módosításokat tartalmazza.
+
+Egészségügyi államigazgatási szerv projektje
+
+„Az Állami Népegészségügyi és Tisztiorvosi Szolgálat gyors reagálási képességet növelő komplex információs rendszerének fejlesztése a külső szolgáltatások és belső hatékonyság növelésének támogatására” című kiemelt projekt célja olyan elektronikus szolgáltatás-együttes és képesség kialakítása, amely
+
+- támogatja a sürgősségi ellátás feladatait;
+
+- kialakítja az ÁNTSZ és szakmai adatszolgáltatói között az elektronikus kapcsolatot, (a járványügy és a kémiai biztonság területén);
+
+- kialakítja a 112-riasztási központ köré szervezett társhatóságokkal való elektronikus kapcsolatot;
+
+- összehangolja az ágazat kormányzati szereplőinek együttműködését;
+
+- javítja a szakterületi - s ezzel közvetve az állami - szabályozás, tervezés - a politikaformálást és a stratégiai tervezést is;
+
+- biztosítja az egészség-kockázati információ szabad áramlását, valamint az egészségügyi tartalomszolgáltatás folyamatos fejlesztése révén hozzájárul a szolgáltató és esélyteremtő állam létrehozásához;
+
+- képessé teszi az ÁNTSZ-t és rajta keresztül más kormányzati szervet, hogy az ország egészségügyi Uniós kötelezettségeinknek megfeleljen, részt vegyen a nemzetközi hálózati munkában.
+
+A célok elérése érdekében a törvény az Eüak. módosítását tartalmazza:
+
+- A személyes adatokkal kötelezően jelentendő aktualizált fertőző betegségek és az egyedileg nem jelentendő fertőző betegségek által előidézett járványok surveillance-ának támogatása.
+
+- A kórházak és mentők sürgősséggel végzett betegellátásáról szóló adatszolgáltatásának elrendelése.
+
+- Az ország egészéről származó, standardizált, anonim, egyedi halálozási adatok napi bontásban történő valósidejű (középtávú cél: max. 72 óra) gyűjtése.
+
+- Az STD megbetegedések trendjének, a fertőzések terjedési módjának, a rizikócsoportoknak és a bekövetkezett változásoknak a nyomon követése. Az aggregált jelentést az esetlapú jelentés váltja fel. A duplikátumok kiszűrésével valid adatbázis létrehozása: a szexuális úton terjedő megbetegedések (fertőzések) az adatbázisban egy anonim kód alapján kerülnek elkülönítésre egymástól. Az egyedi azonosító kódot a beteg (fertőzött személy) TAJ számából generálja az OSZIR rendszere, egy olyan algoritmus alapján, amelyet csak a kódot fejlesztő informatikus ismer. A generált kód öt betűből és három számból áll.
+
+- A hazánkban kimutatott emberi kórokozók jellemzése előfordulási gyakoriságuk elemzése alapján, azért, hogy intézkedések legyenek megalapozhatók felügyeletükre, valamint megvalósítható legyen a kimutatásukat végző mikrobiológiai laboratóriumok működésének szakmai felügyelete. Továbbá kiszolgálható legyen a jelentendő fertőző betegségeket felügyelő más alrendszerek (fertőzőbeteg, STD/HIV-AIDS, influenza, nosocomiális, védőoltási alrendszer) laboratóriumi információs igénye.
+
+Próbavásárlás
+
+A próbavásárlás az illegális kereskedelmi tevékenység, a termékek hamisítása, valamint az egyes termékek forgalmazási körülményeinek vizsgálata/feltárása területén válhat fontos bizonyítási eszközzé (pl. szükséges tájékoztatások, címkék, biztonsági adatlapok meglétének ellenőrzése). A próbavásárlás által lehetőség nyílik az így vásárolt termékek egészségügyi kockázatának feltérképezésére is (pl. webshopokban forgalmazott betiltott étrend-kiegészítők, kozmetikumok vizsgálata). A próbavásárlás bevezetésével erősödnek az egészségügyi államigazgatási szerv hatósági jogosítványai, ezáltal a hatósági feladatok ellátása hatékonyabbá válik. Amennyiben a próbavásárlást a megvásárolt termék laboratóriumi vizsgálata követi, abban az esetben a próbavásárlás intézménye beilleszkedne a jelenlegi mintavételi gyakorlatba. A két eljárás alapvetően nem helyettesíti, hanem kiegészíti egymást. A próbavásárlás bevezetésének elsősorban nem a hagyományos forgalmazási csatornákon (nagykereskedelem, kiskereskedelem) keresztül történő értékesítés, hanem a multi-level marketinges, internetes, csomagküldő szolgálaton keresztüli forgalmazás esetében van jelentősége. A hagyományos (bolti) kereskedés esetében is jelentőséggel bír a próbavásárlás, hiszen a keresett termékek gyakran csak kis üzletekben, továbbforgalmazóknál találhatók meg. Ilyen esetben a szankció a továbbforgalmazót terheli, nem pedig az első forgalmazót. A próbavásárlás szabályai az Ehi.-be kerülnek beépítésre.
+
+Terhességi-gyermekágyi segélyre vonatkozó szabályozás
+
+A hatályos rendelkezések alapján terhességi-gyermekágyi segélyre kizárólag a szülő nő, illetve a csecsemőt örökbe fogadni szándékozó nő jogosult. Minden egyéb esetben a csecsemőt gondozó személy terhességi-gyermekágyi segély helyett jelenleg csak gyermekgondozási díjra lehet jogosult, amelynek összege maximálisan havonta a minimálbér kétszeresének 70%-a lehet, míg a terhességi-gyermekágyi segély összege nincs maximalizálva. Amennyiben a szülő nő egészségi állapota miatt a gyermekét nem tudja gondozni, vagy meghal, akkor a csecsemőt gondozó vér szerinti apa, a gyám, vagy az örökbefogadó férfi jelenleg nem lehet jogosult terhességi-gyermekágyi segélyre. A módosítás a diszkrimináció feloldását célozza azon néhány érintett számára, akik jelenleg nem szerezhetnek jogosultságot a terhességi-gyermekágyi segélyre.
+
+Az Országos Betegjogi és Dokumentációs Központ (OBDK) létrehozása
+
+Az OBDK 2012. január 1-jei, kormányrendeletben történő létrehozása érdekében szükséges a törvényi alapok megteremtése részben az Eütv.-ben, részben az Eüak.-ban. Az OBDK feladat lesz a jövőben a betegjogi képviseleti rendszer működtetése, valamint az egészségügyi dokumentáció megőrzése, archiválása.
+
+Működési nyilvántartás (Eütv. módosítása)
+
+1. Az egy évet meghaladó szabadságvesztés büntetés, valamint a foglalkozástól eltiltás működési nyilvántartásból törlési ok, ilyen esetben a szükséges, hogy a működési nyilvántartást vezető szerv minden esetben, haladéktalanul értesüljön ezen tények beálltáról, figyelemmel a működési nyilvántartás közhiteles jellegére is.
+
+2. A jövőben nem lenne törlési ok az az esetkör, ha az egészségügyi dolgozó határidőben nem újítja meg a nyilvántartását, illetve ha a meghosszabbítási kérelmét jogerősen elutasították, ugyanakkor egyértelműen szabályozva lenne, hogy akinek lejárt a nyilvántartása és a kötelező továbbképzését nem igazolja, az csak felügyelet mellett dolgozhat. Ezzel a működési nyilvántartásban szereplő személyeknek érvényes, lejárt illetve törölt státusza lenne.
+
+3. Törvényi szinten történő rendezése szükséges annak, hogy mely törlési okok esetében lehet felügyelet mellett dolgozni és melyek azok, amelyek esetében felügyelet mellett sem
+
+4. A szakorvosi szakvizsgák szervezésével kapcsolatos feladatokat az Egészségügyi Szakképzési és Továbbképzési Tanács albizottságaként a Nemzeti Vizsgabizottság látja el. A szakvizsga szervezéséhez és a szakorvosi bizonyítvány kiállításával kapcsolatos feladatok ellátásához nélkülözhetetlen a működési nyilvántartás adataihoz való folyamatos hozzáférés.
+
+Transzplantáció
+
+Tekintettel a hazai transzplantációs helyzetre, az Eurotransplant International Foundation szervezetével folyamatban levő előzetes együttműködési megállapodás megkötésére irányuló tárgyalásokra, valamint az Állami Számvevőszéknek a szervtranszplantáció, a donáció és az alternatív kezelések ellenőrzéséről szóló jelentésében foglaltakra, a Nemzeti Erőforrás Minisztérium kiemelt célja a jogszerű, biztonságos, átlátható, megfelelően finanszírozott, szakmailag megalapozott hazai transzplantációs tevékenység megteremtése és biztosítása. Az Eurotransplant International Foundation szervezetével való előzetes együttműködési megállapodás megkötése minőségbeli javulást eredményez a hazai szervátültetésben, illetve a transzplantációra szoruló betegek gyorsabban jutnak majd megfelelő szervhez. Ugyanakkor nagyon fontos eredménye lesz a megállapodásnak a szigorú, egységes szabályok között zajló, átlátható és nyomon követhető nemzetközi szervcsere. A majd megkötendő szerződésben olyan minőségi kritériumrendszer érvényesül, mely eleget tesz az átláthatóság, nyomonkövethetőség, biztonság követelményeinek. Így azokban az esetekben, amikor az állami vérellátó szolgálattal kötött egyezményen vagy megállapodáson alapul a külföldre történő szervszállítás, nem kötelező kikérni az egészségügyi államigazgatási szerv hozzájárulását. Egyéb esetekben az egészségügyi államigazgatási szerv egyetértése szükséges.
+
+Egészségbiztosítási szervek feladatának pontosítása
+
+Az Eütv.-ben pontosításra kerül az egészségbiztosítási szervek kötelességét szabályozó 154. §, mivel a jelenleg hatályos szövegrész alapján félreérthető az egészségbiztosítási szervek ellenőrzési és finanszírozási tevékenysége. A rendelkezés úgy is értelmezhető, hogy a teljesített és jelentett szolgáltatások már ellenőrzés után kerülnek finanszírozásra. Ilyen jogértelmezés az utólagos ellenőrzés és visszavonás jogszerűségét teszi kérdésessé. Az OEP több különböző típusú (pl.: elszámolás folyamatába épített, illetve utólagos) ellenőrzést is végez. Az OEP-nek a jelentett és teljesített szolgáltatások finanszírozását megelőzően az elszámolás folyamatába épített ellenőrzés elvégzésére van lehetősége a rendelkezésre álló rövid idő miatt. Az Ebtv. értelmében az egészségbiztosítónak lehetősége van a már kifizetett szolgáltatások ellenőrzésére is, így ha az ellenőrzést követően megállapításra kerül, hogy nem történt teljesítés, úgy lehetőség nyílik a finanszírozási összeg visszavonására. Ha az OEP kizárólag azon szolgáltatásokat finanszírozná, melyek tekintetében az ellenőrzés már lezajlott, az lényegesen megnehezítené és lelassítaná az egészségügyi szolgáltatások finanszírozását és igénybevételét.
+
+A praxisjogra vonatkozó szabályozás megújítása
+
+1. A működtetési jog elnevezés helyett a továbbiakban a praxisjog kifejezést kívánjuk használni, amely a konkrét területhez kötött praxisjogot jelentené, és ezzel kialakítanánk annak egységes értelmezését. A praxisjog egy adott körzetben értelmezhető, attól el nem választható vagyoni értékű jog, mely alapján területi ellátási kötelezettséggel, egy meghatározott háziorvosi körzetben, egy adott háziorvos kizárólagos joga az egészségügyi alapellátás nyújtása.
+
+Mivel a praxisjog elválaszthatatlan a területi ellátási kötelezettségtől, az új szabályozás szerint praxisjoga a területi ellátási kötelezettséggel bíró háziorvosoknak lesz, tehát azoknak, akik behatárolható földrajzi területen, az önkormányzat által meghatározott körzetben végeznek háziorvosi tevékenységet.
+
+A működtetési jog praxisjoggá transzformálása következtében azoknak a háziorvosoknak, akik ellenérték fejében szereztek működtetési jogot, azonban valamilyen okból nem rendelkeznek területi ellátási kötelezettséggel, a törvény lehetőséget biztosít, hogy a tartósan betöltetlen körzetekben helyezkedjenek el.
+
+2. Jelenleg a gyakorlatban az önkormányzat és a háziorvos közötti szerződések (a közalkalmazotti jogviszony kivételével) megbízási szerződések, azonban e sajátos jogviszony rendezéséhez a tartós megbízás szabályai nem bizonyulnak elegendőnek. Ezért szükséges az alapellátási biztonság megőrzése, fokozása és az egységes jogértelmezés érdekében törvényben meghatározni a feladat-ellátási szerződés kötelező tartalmi elemeit, amelynek részét képezi az önkormányzat kártalanítási kötelezettsége is a törvényben meghatározott esetekben. A már megkötött szerződések esetében legfeljebb 1 éven belül új szerződést kell kötni a kötelező tartalmi elemeknek megfelelően.
+
+3. Törvényben kívánjuk kimondani - az önkormányzati autonómiát is tiszteletben tartva - azt, hogy a praxisjog megszerzéséhez szükséges az azt megszerezni kívánó orvos és az önkormányzat között előszerződés kötése, valamint az önkormányzat nyilatkozata arról, hogy a praxisjogot megszerezni szándékozó orvossal kíván az adott körzetben a háziorvosi feladatok ellátására szerződést kötni.
+
+4. A praxiskezelő
+
+A praxiskezelő egyrészt segítené a gyakorlatilag forgalomképtelen praxisok piacának fellendítését, másrészt lehetőséget adhatna az új belépők számára a praxisjog megszerzésére. A praxiskezelő létrehozása, működtetése és jogi szabályozása szoros összefüggésben áll a praxisjog szabályozásával. A praxiskezelő feladatait - kormányrendeletben meghatározottak szerint - az Országos Alapellátási Intézet látja el.
+
+A kitűzött célok megvalósulása érdekében nemcsak az Öotv., hanem az Eütv., valamint a háziorvosi működtetési jog megszerzéséről és visszavonásáról, valamint a háziorvosi tevékenységhez szükséges ingó, ingatlan vagyon és működtetési jog megszerzésének hitelfeltételeiről szóló 18/2000. (II. 25.) Korm. rendelet módosítása is szükséges.
+
+Ügyeletre vonatkozó szabályozás módosítása (Eütev. módosítása)
+
+1. Az Eütev. módosításának célja a munkaidő-szervezetésre, elsősorban az egészségügyi ügyeletre vonatkozó rendelkezések rugalmasabbá tétele. A törvény alapján a heti 40 órás teljes munkaidőben foglalkoztatott egészségügyi dolgozó számára a rendes munkaidő terhére naptári heti 16 óra egészségügyi ügyeletet az egészségügyi szolgáltató egyoldalúan is elrendelhet. Erre jelenleg csak külön a felek között létrejött megállapodás esetén van lehetőség. A rendes munkaidőként elszámolt egészségügyi ügyeletet nem ügyeleti díjjal, hanem a személyi alapbérrel (illetménnyel) kell díjazni, és az ilyen módon ledolgoztatott időszak teljes egészében az alkalmazott egészségügyi dolgozó rendes munkaidő-alapjából kerül elszámolásra. A megállapodás alapján rendes munkaidő terhére vállalt egészségügyi ügyelettel szemben ez az ügyelettípus a heti pihenőnapon is elrendelhető, ebben az esetben azonban a Munka Törvénykönyve szerinti 100 vagy 50 százalékos mértékű pótlék jár. A törvény továbbá ezen ügyeletek esetében feloldja azt a korlátozást, hogy az ügyeletet csak az intézményre irányadó ügyeleti időtartam alatt lehet elrendelni.
+
+2. A törvény az Eütev. ügyeleti díj mértékét megállapító rendelkezéseinek pontosítását is tartalmazza.
+
+A szabályozás a fentiek szerint a munkáltatók számára az eddig ledolgoztatni nem tudott rendes munkaidő-órák ésszerű beosztásának lehetőségét teremti meg a folyamatos ellátás biztonságát is támogató, továbbá a jogbiztonságot elősegítő megoldásokkal.
+
+A kamarai törvény módosításai
+
+A törvény a nem egészségügyi alapdiplomával rendelkező, egészségügyi felsőfokú szakirányú szakképzettséggel rendelkező személyek tekintetében biztosítja az önkéntes kamarai tagság lehetőségét abban az esetben is, ha nem minősülnek egészségügyi dolgozónak.
+
+A törvény egyben rendezi, hogy az egészségügyi szakképesítéssel egyáltalán nem rendelkező, kizárólag felügyelet mellett tevékenységet gyakorló közreműködők - első szakképesítésük megszerzéséig - nem állnak a kötelező kamarai tagság hatálya alatt.
+
+A tagsági jogviszony kérelemre történő felfüggesztésének lehetőségét indokolt megszüntetni, egyben - az Ekt. 19/B. §-a alapján kamarai hatósági ügynek minősülő - a szüneteltetés jogintézményének kiterjesztésével biztosított a tagok számára, hogy ilyen irányú kérelmük esetén a tagsági viszonyból eredő valamennyi joguk és kötelezettségük szünetelhessen. A kérelemre megállapított szüneteltetés korlátlan időtartamú lehet, és szintén kérelemre állítható vissza a teljes jogú kamarai tagság.
+
+Struktúra-átalakítás (Eftv. módosítása)
+
+A törvény módosítja az egészségügyi rendszer működtetésében részt vevő szervezetek feladatait, megerősíti az állami szerepvállalást a közfinanszírozásban részesülő egészségügyi szolgáltatók kapacitás-módosításának, illetve az ellátási területek módosításának eljárásában, valamint a Semmelweis-tervben rögzített szakmai szempontok alapján újraszabályozza az ellátási területek kialakításának és módosításának szabályait.
+
+Gyógyszerellátás, orvostechnikai eszközök
+
+1. Az Eütv. módosításával cél az orvostechnikai eszközökkel kapcsolatos, nem az áruk biztonságosságát érintő szabályok megsértése esetén a hatóság szankcionálási lehetőségének megerősítése a jogkövető magatartás kikényszerítése annak érdekében is, hogy a hatóság az Európai Unió felé fennálló adatszolgáltatási kötelezettségének maradéktalanul eleget tudjon tenni.
+
+2. Az utóbbi 1-2 évben ugrásszerű növekedést figyelhetünk meg a nagyrészt interneten forgalmazott új típusú, úgynevezett „dizájner drogok” fogyasztásában. A dizájner drogokat valamely kábítószernek minősülő anyag kémiai szerkezetének módosításával hozzák létre abból a célból, hogy az új szer hatásában az eredetihez hasonló maradjon, de legálisan forgalmazható, használható legyen. Szükséges tehát a Magyarországon is gyakran előforduló új pszichoaktív anyagok az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény mellékletében történő megjelenítése annak érdekében, hogy a rendőrség a szükséges intézkedéseket megtehesse.
+
+3. A Gyftv. egyes rendelkezéseinek alkalmazása több esetben nehézséget okoz a hatósági munka során. A módosítások a jogalkalmazást segítik elő.
+
+4. A gyógyászati segédeszközök tárgyilagos bemutatásának a forgalmazás helyén, a szaküzletben, illetőleg a forgalomba hozó és/vagy forgalmazó honlapján történő lehetővé tétele segíti a betegek információhoz jutását az elérhető eszközökről.
+
+Jogharmonizációs kötelezettségek
+
+A törvény az alábbi uniós joganyag átültetését tartalmazza, illetve végrehajtását szolgálja:
+
+a) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+b) a Tanács 2010/32/EU irányelve (2010. május 10.) a HOSPEEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzéséről szóló keretmegállapodás végrehajtásáról;
+
+c) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+d) az Európai Parlament és a Tanács 2010. december 15-i 2010/84/EU IRÁNYELVE az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról;
+
+e) az Európai Parlament és a Tanács 2011/65/EU irányelve (2011. június 8.) egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról;
+
+f) a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet;
+
+g) a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1., 3., 4. és 5. §-hoz
+
+A törvény jogharmonizációs célú rendelkezéseket tartalmaz a HOSPEEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzéséről szóló keretmegállapodás végrehajtásáról szóló 2010. május 10-i 2010/32/EU tanácsi irányelv átültetése érdekében.
+
+A törvény az irányelv melléklete 3. szakasz 4. pontjának való megfelelés érdekében a beülteti a hazai jogrendszerbe az éles vagy hegyes eszközök fogalmát, továbbá a rendelkezik az egészségügyi szolgáltatók azon kötelezettségéről, hogy az egészségügyi dolgozók védelmét az egészségügyi tevékenység végzéséhez szükséges éles vagy hegyes eszközök használatából eredő kockázatokkal szemben biztosítani kell.
+
+A törvény az irányelv rendelkezéseinek betartatása érdekében kiegészíti az egészségügyi bírság tényállását is, továbbá felhatalmazó rendelkezést tartalmaz az irányelv átültetéséhez szükséges részletes szabályok miniszteri rendeletben történő megállapítása érdekében.
+
+A § emellett pontosító rendelkezést tartalmaz a Magyar Honvédség közegészségügyi-járványügyi feladatokat ellátó szervének kijelölésére vonatkozó felhatalmazó rendelkezésben. Ennek értelmében felhatalmazást kap a Kormány, hogy a Magyar Honvédség közegészségügyi-járványügyi feladatait ellátó szervét rendeletben kijelölje.
+
+A 2. §-hoz
+
+A jelenlegi gyakorlat szerinti helyszíni ellenőrzés során történő mintavétel elsősorban a termékek minőségének, összetételének, biztonságosságának ellenőrzésére irányul, míg a próbavásárlás alapvető célja, hogy a hatóság kétséget kizáróan meggyőződjön arról, hogy az adott, esetleg korábban hatósági intézkedéssel forgalomból kivont termékeket továbbra is forgalmazzák-e.
+
+A próbavásárlás az illegális kereskedelmi tevékenység, a termékek hamisítása, valamint az egyes termékek forgalmazási körülményeinek vizsgálata/feltárása területén válhat fontos bizonyítási eszközzé (pl. szükséges tájékoztatások, címkék, biztonsági adatlapok meglétének ellenőrzése).
+
+A próbavásárlás által lehetőség nyílik az így vásárolt termékek egészségügyi kockázatának feltérképezésére is (pl. a műanyag játékok veszélyes anyag- ftalát tartalmának meghatározása, webshopokban forgalmazott betiltott étrend-kiegészítők, kozmetikumok vizsgálata). A próbavásárlás bevezetésével erősödnek az egészségügyi államigazgatási szerv hatósági jogosítványai, ezáltal a hatósági feladatok ellátása hatékonyabbá válik. Amennyiben a próbavásárlást a megvásárolt termék laboratóriumi vizsgálata követi, abban az esetben a próbavásárlás intézménye beilleszkedne a jelenlegi mintavételi gyakorlatba. A két eljárás alapvetően nem helyettesíti, hanem kiegészíti egymást.
+
+A próbavásárlás bevezetésének elsősorban nem a hagyományos forgalmazási csatornákon (nagykereskedelem, kiskereskedelem) keresztül történő értékesítés, hanem a multi-level marketinges, internetes, csomagküldő szolgálaton keresztüli forgalmazás esetében van jelentősége.
+
+A multi-level marketing-rendszer (továbbiakban: MLM) lényege, hogy a hálózat keretében forgalmazott termékek értékesítése egy lépcsőzetesen kialakított ügynöki hálózaton keresztül, személyes fogyasztás, illetve az ismerősök felé történő ajánlás által történik, így a termékek közvetlenül, direkt módon jutnak el a fogyasztókhoz. Az MLM rendszer, az interneten és csomagküldő szolgálaton keresztül történő értékesítés esetében jelenleg a hatóságnak semmilyen bizonyítási eszköz nem áll rendelkezésére. A termékek ilyen formában történő értékesítése során a hatóság kizárólag próbavásárlás útján juthat hozzá a kérdéses termékekhez. A próbavásárlás során szerzett adatok a feltárt jogsértés miatt indított hatósági eljárást megalapozó bizonyítási eszközül szolgálhatnak.
+
+Az interneten sok esetben a fogyasztót megtévesztő, illetve félrevezető reklámok láthatóak. Csupán az internetes reklámra hivatkozva nehéz intézkedni, amennyiben nincs a konkrét termék a hatóság birtokában. Általános gyakorlat, hogy a forgalmazó elérhetősége nincs feltüntetve, illetve a feltüntetett címen forgalmazó nem található, így helyszíni ellenőrzésre, mintavételre nincs mód. Az interneten és csomagküldő szolgálaton keresztül ugyanakkor megvásárolható mindenféle azonosítás nélküli, esetenként engedély nélküli, illetőleg be nem jelentett, vagy akár hatóság által forgalomból kivont termék.
+
+A hagyományos (bolti) kereskedés esetében is jelentőséggel bír a próbavásárlás, hiszen a keresett termékek gyakran csak kis üzletekben, továbbforgalmazóknál találhatók meg. Ilyen esetben a szankció a továbbforgalmazót terheli, nem pedig az első forgalmazót.
+
+A 6. §-hoz
+
+Az eredményesség alapú finanszírozási rend kialakításához, mely magában foglalja a támogatáspolitikai elemeket szükséges, hogy ehhez kapcsolódóan az egészségügyi és a személyazonosító adatot kezelni lehessen.
+
+A 7. §-hoz
+
+Az Alkotmánybíróság a 67/2011. (VIII. 31.) AB határozatával alkotmányos olvasatot adott az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 10. § (1) bekezdésének alkalmazásához. Az Alkotmánybíróság által megfogalmazott adatvédelmi követelményt a jogalkalmazás elősegítése érdekében célszerű beépíteni a törvény szövegébe.
+
+A 8. §-hoz
+
+A magyar egészségügyi ellátórendszerre jellemző, hogy szereplői - köztük a háziorvosok is információhiányban szenvednek: a kezelését végző orvosok igen keveset tudnak pácienseik korábbi betegségeiről, más orvosok által nekik rendelt diagnosztikai és terápiás eljárásokról.
+
+Az információhiány sokszor vezet feleslegesen ismételt vizsgálatokhoz, vagy akár téves, más gyógyszerekkel együtt nem szedhet ő készítmények felírásához.
+
+Az Eüak. 2011. április 1-je óta biztosítja az elvi lehetőséget a háziorvos számára, hogy tiltakozás hiányában tudomást szerezzen a hozzá bejelentkezett beteg más egészségügyi szolgáltatónál - a társadalombiztosítás terhére - igénybevett ellátásairól. Ez a törvénymódosítás azonban célszerűtlen adminisztrációs kötelezettséget is ró a háziorvosokra, mert az első elektronikus lekérdezés előtt tájékoztatni kell a beteget a tiltakozás lehet őségéről és írásbeli nyilatkozatot is kell kérniük. Az írásbeli nyilatkozatot az egészségügyi dokumentáció részeként kell kezelni, ami miatt ezt minimum 30 évig meg kell őriznie a háziorvosnak. A háziorvosok jelentős része viszont már nem vezet már papír alapú betegdokumentációt, csak számítógépen tartja nyilván betegei adatait, így részükre gondot okoz a papír alapú dokumentumok tárolása.
+
+Egészségpolitikai cél, hogy a hatékony gyógykezelés érdekében a háziorvosok hozzáférjenek betegeik kórelőzményéhez, és vélhetően csak a betegek nagyon kis százaléka fogja ezt háziorvosának megtiltani. A törvény a fent jelzett problémákat kezeli, azzal, hogy a tiltó nyilatkozatot a betegnek az egészségbiztosítási szervhez kell eljuttatnia, személyesen vagy postán. Ez a megoldás abból a szempontból is előnyösebb, hogy az orvosnál sokan azok közül sem tudnának nemet mondani, akik egyébként a tiltakozás lehetőségével élni szeretnének.
+
+Mind emellett indokolt az, hogy az egészségbiztosítási szerv kezelje a tiltakozó nyilatkozatokat, hiszen az adat lekérdezésének informatikai megoldása is ott biztosított, vagyis tiltakozás esetén a háziorvos automatikusan nem kap lehetőséget az egészségügyi adatokba történő betekintésre.
+
+A 9. §-hoz
+
+2012-ben az e-health stratégia keretében bevezetésre kerül az elektronikus recept, mely mind adminisztratív tehercsökkenést jelent, mind pedig egyes a Széll Kálmán Tervben foglalt támogatáspolitikai elemek megvalósulását szolgálja. A törvénymódosítás az ehhez szükséges alapot teremti meg, a megfelelő felhatalmazás biztosításával.
+
+A 10-12. és 32. §-hoz
+
+1. A fertőző betegség gyanúja nem csak a beteg klinikai vizsgálata, hanem laboratóriumi vizsgálata során is felmerülhet, tehát a bejelentőnek és a bejelentésre kötelezett adatok fajtájának a korábban megcélzott körét bővíteni szükséges a meghatározott kórokozók kimutatását bizonyító mikrobiológiai vizsgálati eredmények államigazgatási szerv számára történő átadásával is. A kimutatott kórokozók négy csoportba lettek besorolva:
+
+- a személyazonosító adatokkal kötelezően bejelentendő fertőző betegségek kórokozói,
+
+- külön jogszabályban meghatározott veszélyes kórokozók (pl. B.anthracis), és védőoltással megelőzhető fertőző betegségek kórokozói, melyek jelenlétét vagy kizárását igazoló (pozitív és negatív) laboratóriumi leletek adatait személyazonosító adatokkal kell jelenteni;
+
+- a személyazonosító adatok nélkül kötelezően bejelentendő fertőzések (HIV/STD) kórokozói, melyek jelenlétét igazoló (pozitív) laboratóriumi leletek adatait személyazonosításra alkalmatlan módon kell jelenteni;
+
+- a fenti csoportokba nem tartozó, felügyelet alá vont kórokozókra vonatkozó pozitív laboratóriumi eredményeket személyazonosításra alkalmatlan módon kell jelenteni.
+
+Ezen csoportoktól függetlenül a laboratóriumoknak minden (pozitív és negatív) mikrobiológiai vizsgálati eredményt is jelenteniük kell az egészségügyi államigazgatási szerv adatbázisába, mely vizsgálatokat jogszabályi kötelezettség alapján, nem diagnosztikus céllal rendeltek el.
+
+2. Az EKOP kiemelt projekt révén a járványügyi szakrendszerek közé tartozó védőoltási alrendszer újratervezése során a védőoltásokra vonatkozóan eddig működött aggregált adatgyűjtés helyett áttérést tervezünk az oltandó személyek védőoltási nyilvántartásra. Ez megalapozza az oltóanyag szoros elszámolását, az oltások teljesítésének és megfelelő időzítésének folyamatos monitorozását. Ehhez pedig TAJ-alapon szükséges végezni nem csak az oltóanyag-igénylést, hanem a beadott védőoltások elszámolását is.
+
+3. Az Eüak. 15. § (7) bekezdésének módosítását az indokolja, hogy emberi nyugat-nílusi láz megbetegedés észlelése esetén az állategészségügyi hatóságnak tudomása kell legyen a vírusnak az expozíció helyén történt cirkulációjáról, hogy saját hatáskörében állategészségügyi (lovak oltása) illetve állat- és közegészségügyi intézkedéseket (szúnyogirtás) kezdeményezzen. Az állatcsoportok megnevezésének bővítését (vadon élő állat) az a pontosítási igény indokolta, hogy a felsorolt betegségeket nem csak házi és haszonállatok, hanem vadállatok is terjeszthetik, és ilyenkor nem minden esetben az állat egyedi azonosítása a cél, hanem annak az információnak az állategészségügyi hatóság részére történő átadása, hogy az adott területen a megnevezett, állategészségügyi szempontból is fontos betegség kórokozóját hordozó/beteg állat előfordul.
+
+4. Az újonnan előírt adatgyűjtések célja az összhalálozás, illetve a mentőkivonulás/sürgősségi betegellátás területén olyan adatok és jelentések biztosítása a döntéshozók, a szakemberek és az egészségügyi dolgozók számára, ami segíti a cselekvést megalapozó tájékozott döntéshozatalt, vagyis
+
+Az összhalálozás, illetve a mentőkivonulás/sürgősségi betegellátás
+
+- trendjének valós idejű monitorozása,
+
+- térben és időben történő előfordulásában, a halálozás, illetve a sürgősségi ellátást igénylő esetek okainak feltárása, a trendek környezeti tényezők alakulásával (pl. hőhullámok, légszennyezés), fertőző betegségek (pl. influenza) előfordulásával történő összevetése (pl. többlethalálozás becslése),
+
+- az előidéző okokban bekövetkezett változások valós időben történő észlelése,
+
+- időbeli-térbeli halmozódások előfordulásának valós idejű detektálása,
+
+- adatok szolgáltatása az összhalálozás és a sürgősségi ellátás társadalmi súlyának megítéléséhez,
+
+- fokozott kockázatának kitett lakosságcsoportok azonosítása,
+
+- a halottvizsgálati bizonyítványok adatainak összevetése más egészségügyi adatbázisokkal (pl. fertőzőbeteg-, influenza, HIV/AIDS alrendszer, rákregiszter)
+
+- a megelőző intézkedések (pl. környezeti tényezők előrejelzése) hatékonyságának értékelése
+
+azért, hogy ezen egészségügyi mutatók/jelenségek gyakorisága csökkenthető legyen, illetve a megalapozott megelőző intézkedéseket időben meg lehessen hozni.
+
+Ezen célok elérése érdekében a törvény mentőkivonulási és sürgősségi betegfelvételi adatgyűjtést, valamint a KSH rendelkezésére álló adatoknak az egészségügyi államigazgatási szerv részére történő adattovábbítását írja elő. Ennek érdekében szükséges a KSH felhatalmazása a TAJ kezelésére, valamint annak igénylésére az egészségbiztosítótól.
+
+A 13. §-hoz
+
+Az eredményesség alapú betegségregiszter olyan nyilvántartás, amely valamely kórkép vagy egyes gyógyszeres terápia, gyógyászati segédeszköz alkalmazása esetén a beteg egészségügyi és személyazonosító adataiból előállított, személyazonosításra alkalmatlan adatokat tartalmaz kapcsolati kóddal ellátva.
+
+Minden olyan esetben, amikor egyes gyógyszerekre, gyógyászati segédeszközökre, betegségekre vonatkozóan deperszonalizált aggregált adatkezelésre van szükség, a Betegségregiszter működtetője a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (GYEMSZI). A regiszter működtetője végzi a regiszter megtervezésével, felállításával, működtetésével és az abban gyűjtött adatok értékelésével kapcsolatos feladatokat.
+
+A deperszonalizált és összegzett adatokat a GYEMSZI-n keresztül - megfelelő adatkezelési szabályzatában rögzített módon - megismerheti az adott gyógyszerkészítmény gyártója, illetve statisztikai célú elemzés céljára a kutatóintézmény. Az Országos Egészségbiztosítási Pénztártól (OEP) a hozzá befutó személyes és a betegségregiszter szempontjából releváns egészségügyi adatok deperszonalizált formában kerülnek átadásra a GYEMSZI-nek. Az OEP a továbbiakban ezen átadott adatokat törli.
+
+A 14. §-hoz
+
+A § a tárolási időt lecsökkenti a képalkotó diagnosztikai eljárással készült felvétel esetében, tekintettel arra, hogy az archivált képek 10 év után már nem igazán értékelhetőek, mivel a minőségük csökken, valamint az archiválás nagy tárolási igénnyel jár, amely nehéz feladatot jelent az egészségügyi intézményeknek.
+
+A 15. §-hoz
+
+Új felhatalmazásként a Betegségregiszter kialakítására és az elektronikus receptre vonatkozó felhatalmazó rendelkezéseket tartalmaz, ezen kívül újra szabályozza a meglevő felhatalmazásokat, jogtechnikai okok miatt.
+
+A 16. §-hoz és 1. melléklethez
+
+Új betegségek, fertőzések bekerülése a mellékletbe:
+
+Új fogalomként kerül be az „egészségügyi ellátással összefüggő fertőzések” a listába, és ezzel együtt törlésre kerül a „nosocomiális fertőzések” és a „multirezisztens kórokozók által okozott, egészségügyi ellátással összefüggő fertőzések” kifejezés. Ennek indoka az, hogy a nosocomiális fertőzés fogalma csak a fekvőbeteg-ellátással összefüggő fertőzéseket fedi le, míg az egészségügyi ellátás ennél jóval szélesebb, és az adatgyűjtések köre nem csak az aktív fekvőbeteg-ellátó intézményeket, hanem az egészségügyi ellátórendszer más területeit (pl. járóbeteg-szakellátás) is magába foglalná a jövőben az egészségügyi ellátással összefüggő fertőzések megelőzéséről, e tevékenységek szakmai minimumfeltételeiről és felügyeletéről miniszteri rendelet alapján. Ezek a területek ugyanis még feltáratlanok a fertőzések számát és jellegét, valamint a legfontosabb terjedési módokat illetően, így a megelőzést szolgáló intézkedések sem megalapozhatóak. A nemzetközi terminológia is ebben az irányban változott az évek folyamán, ami szintén indokolja a megnevezés változtatását.
+
+Az egészségügyi ellátással összefüggő fertőzésekre vonatkozó adatgyűjtés legfontosabb célja, hogy azok előfordulási gyakoriságát, kórokozóit, az érintett betegek kockázati tényezőit megismerhessük, ezek ismeretében intézkedések, megelőző ajánlások kerüljenek kidolgozásra, így a fertőzések száma - különösen a multirezisztens kórokozók által okozott fertőzések száma - csökkenjen és a betegbiztonság (biztonságos betegellátás) erősödjön. Emellett megfelelően képzett minőségi indikátorok révén az egészségügyi szolgáltatók ezen a területen összehasonlíthatóvá válnak.
+
+A hazai járványügyi helyzet és az európai ajánlások alapján is szükségessé vált az újonnan diagnosztizált HBV- és HCV-fertőzésekre vonatkozó felügyelet kialakítása, mely a heveny tüneteket nem mutató, a kórokozót tünetmentesen hordozó személyek gyakoriságát, az e fertőzések előfordulásának trendjét hivatott vizsgálni. Ennek az a célja, hogy felderíthetők legyenek e fertőzések terjedési módjai, és intézkedéseket lehessen tervezni visszaszorításukra, csökkentve ezáltal a társadalmi egészségterheket (terápiás költségek, halálozás, stb.) is.
+
+Önálló néven kerül bejelentésre a rotavírus-gastroenteritis, mivel védőoltással megelőzhető betegség, és ezért pontosabb adatgyűjtésre van szükség mind az egészségteher (kórházi ápolási arány, stb.) mind a halálozás tekintetében. Eddig ugyanis a laboratóriumi vizsgálatok pozitív eredményei alapján kerültek regisztrálásra az esetek rotavírus-gastroenteritis néven. Ez összhangban áll az Európai Uniós elvárásokkal és EU határozatokkal, ECDC esetdefinícióval is.
+
+Új betegségként került fel a listára a nyugat-nílusi láz, mely EU által jelentendővé tett fertőző betegség (2007/875/EC Bizottsági Határozat, az Európai Betegségmegelőzési és Járványügyi Központ hat prioritásának egyike), továbbá hazai előfordulása esetén egyrészt az egészségügy területén, másrészt interszektoriálisan, humán és állategészségügyi járványügyi területen összehangolt intézkedések válnak szükségessé (közösségi szúnyogirtás, lakossági figyelemfelhívás, szúnyog elleni egyéni védekezés; vér, szövetdonáció esetén az expozíciónak kitett vagy a beteg személy adományának kizárása a donációból; lovak oltása).
+
+A vírusos haemorrhagiás lázak csoportja megbontásra került, külön nevesítve a hantavírus okozta megbetegedéseket, melyek hazai eredetűek (Hantavírus okozta veseszindróma - nephropathia epidemica), és nem igényelnek sürgős jelentést, valamint szigorú járványügyi intézkedéseket, szemben pl. a trópusokon akvirált, emberről emberre terjedni képes vírusok által okozott betegségekkel (krími-kongói haemorrhagiás láz, ebola, Lassa-láz stb.).
+
+Új bejelentendő diagnózis az influenzával összefüggésbe hozható halálos kimenetelű megbetegedés, melyet azért szükséges itt, a személyes adatokkal jelentendő kórképek között nevesíteni, mert az influenza egyébként aggreált adatokkal jelentendő. A halálos kimenetelű influenza egyedi adatokkal történő jelentése azért fontos, mert csak ilyen módon gyűjthető és kapcsolható össze a klinikai, a kórbonctani, a laboratóriumi és az egyéb járványügyi adat (oltottsági állapot, kockázati tényezők) és elemezhető, hogy mely influenzavírus esetén mely változók tekinthetők kockázati tényezőknek (pl. a pandémiás influenza A/H1N1 esetén a terhesség és a túlsúly, míg a szezonális influenza A/H3N2/B vírus esetén a kor, és a krónikus alapbetegség).
+
+Törlendő betegségek a mellékletből:
+
+Törlésre kerül az enteritis infectiosa tünetegyüttes (évente 25-40 000 megbetegedés). Ennek az az oka, hogy az 1998-ban történő bevezetés óta eltelt 13 év során kellő mennyiségű adat gyűlt össze e szindróma járványügyi jellemzőire vonatkozóan. Ennek alapján látható, hogy a megbetegedések zöme virális gastroenteritis. Közülük a tünetegyüttes előfordulását a leginkább meghatározó norovírusok (calicivírus-család) változékonyságuk és igen kis infektív dózisuk miatt járványpotenciáljuk igen jelentős, így a továbbiakban a norovírus gastroenteritisek járványügyi helyzetének megítéléséhez elegendő az általuk okozott járványokra vonatkozó adatgyűjtés, ezért az egyedi megbetegedések diagnosztikája, azonosítása, regisztrálása nem szükséges. A virális gastroenteritis megbetegedések esetén szükséges járványügyi intézkedések előírása a járványügyi szempontból kiemelt munkakörökben indokolt, ott kell ezeket megfogalmazni. A másik fontos virális gastroenteritis, a rotavírus által okozott megbetegedések járványügyi helyzete önálló néven történő bejelentésük révén monitorozható tovább, mivel a betegség védőoltással megelőzhető. A többi, önálló néven jelenleg nem bejelentendő enteritis infectiosa megbetegedés igen heterogén összetételű, közülük a legsúlyosabb és terápiás következményei valamint megelőzésük fontossága miatt a Clostridium difficile által okozott gastroenteritisek közül az egészségügyi ellátással összefüggő fertőzések körébe tartozók kerülnek felügyelet alá.
+
+A fakultatív kórokozók (C.perfringens, B.cereus, S.aureus) által előidézett gastroenteritisek járványos formája (ételmérgezés/ételfertőzés járványok) továbbra is felügyelet alatt marad. A többi, az EU számára is jelentendő fontos kórokozó által okozott betegség (salmonellosis, campylobacteriosis, giardiasis, cryptospirodiosis, stb.) önálló néven bejelentendők mind a klinikai gyanú, mind a laboratóriumi vizsgálattal megerősített esetük.
+
+Törlésre került továbbá a mononucleosis infectiosa, mellyel kapcsolatosan jelenleg nem tervezhető igazán hatékony járványügyi intézkedés (pl. védőoltás, aspecifikus megelőzés), így nem szükséges a betegség felügyelet alatt tartása, bejelentése.
+
+Törlésre került a staphylococcosis, mivel egyrészt a kórkép járványügyi jelentősége ma már elenyésző, másrészt az ételmérgezés nem ezzel a diagnózissal bejelentendő, továbbá az MRSA eseteket pedig az egészségügyi ellátással összefüggő fertőzések/ multirezisztens kórokozók felügyeleti rendszere kezeli.
+
+Az 1. számú melléklet B) pontjában, a személyazonosító adatok nélkül, anonim módon jelentendő fertőző betegségek csoportjában a HIV/AIDS mellett csupán négy, nemi úton terjedő fertőző betegség maradt, a condyloma acuminatum, a granuloma inguinale, a herpes genitalis, az ulcus molle, és az urethritis nongonorrhoica törlésre került részben azért, mert hazánkban nincs járványügyi jelentősége (granuloma inguinale, ulcus molle), részben pedig azért, mert az esetdefiníciója nem pontosan meghatározható és az európai adatgyűjtési rendszerben nem rendelkezik prioritással (condyloma acuminatum, herpes genitalis, urethritis nongonorrhoica).
+
+A fenti változások lehetővé teszik, hogy a jövőben nemcsak a bőr-és nemibeteg gondozó hálózat, hanem minden olyan egészségügyi szolgáltató, amely szexuális úton terjedő fertőzésben szenvedő beteget kezel vagy gondoz, illetve a törvényben meghatározott szexuális úton terjedő kórokozók valamelyikét diagnosztizálja, jelentési kötelezettségének könnyebben eleget tehessen.
+
+A 17-18. §-hoz
+
+A törvény megteremti a jogalapját az Országos Betegjogi és Dokumentációs Központ kormányrendeletben történő létrehozására, ezen túlmenően jogtechnikai módosításokat tartalmaz.
+
+A 19. §-hoz
+
+Az Ebtv. 2. §-a a Gyftv. vonatkozó támogatáspolitikai elemeire való hivatkozással egészül ki.
+
+A 20-24. §-hoz, 34. §-hoz és 35. § (1)-(3) és (4)-(5) bekezdéséhez
+
+Tekintettel arra, hogy az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvénynek a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény módosítása alapján az egészségügyi szakellátási kapacitástervezés és a betegút-szervezés alapja az egészségügyi térség lesz, indokolt a térségi várólisták létrehozása.
+
+Annak érdekében, hogy az egyes térségekben vezetett térségi várólisták és intézményi előjegyzések között ne legyen átfedés, szükséges egy országos várólista nyilvántartás létrehozása. Az országos várólista nyilvántartást vezető szerv által elvégzett előzetes ellenőrzés garantálja, hogy ne kerüljön fel a várólistára, illetve az előjegyzésre olyan személy fel, aki már ugyanazon ellátás tekintetében szerepel várólistán, illetve előjegyzésen.
+
+Az uniós fejlesztési források felhasználása érdekében (TÁMOP 6.1.2. Kistérségi egészségfejlesztési program) az egészségügyi ellátórendszerhez integráltan egészségfejlesztési irodák létrehozása, amelyek koordinálnák a kistérség egészségfejlesztési programjait, összekötő kapocsként működnének az egészségügyi alapellátás, a járóbetegszakellátás (önálló és fekvőbeteg szakellátáshoz integrált) és az egészségfejlesztési programokat megvalósító szervezetek között.
+
+Az egészségfejlesztési irodák az egészségfejlesztés medikalizációja nélkül egészségügyi intézményi hátteret biztosítanának a betegségmegelőzési, egészségfejlesztési tevékenységhez oly módon, hogy aktívan működtetnék, tartós helyi, kistérségi hálózatba integrálnák az egészségfejlesztési tevékenységet végző szervezeteket.
+
+Az egészségfejlesztési irodák - közvetlen kapcsolatot kialakítva az egészségfejlesztési programok célcsoportjaival - oly módon javítanák az egészségügyi ellátórendszer prevenciós tevékenységét, hogy a háziorvosi szolgálatoktól, a járóbeteg-szakrendelésről vagy fekvőbeteg-szakellátást követően az egészségfejlesztési irodákba irányított életmódváltásra szorulókat, vagy saját elhatározásukból életmódváltást kezdeményez őket kockázatbecslés alapján életmódváltó programokba vonnák be és követnék a programokban való részvételüket.
+
+A 25. §-hoz
+
+Mind a biztosítottak, mind az Egészségbiztosítási Alap érdeke, hogy a biztosítottak a társadalombiztosítási támogatással vásárolt vagy kölcsönzött gyógyászati segédeszközt a kihordási időn belül végig a funkciójának megfelelő állapotban tudják használni, ezért szükséges előírni az elvárható gondosság, a rendeltetésszerű használat, valamint az állagmegóvás kötelezettségét az eszközt használó biztosítottak számára.
+
+Tekintettel arra, hogy az Ebtv. jogkövetkezményeket rendel a szakmailag nem megfelelő gyógyszer-, gyógyászati segédeszköz rendeléshez, indokolt kötelezettségként előírni az orvosok számára, hogy gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás társadalombiztosítási támogatással történő rendelése során, illetve gyógyászati segédeszköz javításának és kölcsönzésének társadalombiztosítási támogatással történő rendelése során a rendelésre vonatkozó jogszabályokban foglaltakon túl a finanszírozási eljárásrendekben, ennek hiányában az érvényes szakmai protokollokban foglaltaknak, vagy mindezek hiányában az Eütv. 119. § (3) bekezdés b) pontjában foglalt szakmai előírásoknak megfelelően kell eljárni.
+
+A 26. §-hoz
+
+Jelenleg a jogszabály határt szab évi 50 fő beteg esetében alkalmazott azonos hatóanyaggal végzett terápia egyedi méltányosság körében történő támogatására. Fontos, hogy nagyobb betegszám esetén az érintett gyógyszerek támogatásba történő befogadását kezdeményezzék a cégek. Figyelemmel arra, hogy az egyedi méltányossági támogatás megszerzésének feltételei között a betegszám nagysága tekintetében van jogszabályi iránymutatás, ki kell ezt egészíteni egy vagylagosan meghatározott értékhatárral is, melynek mértéke - az egy főre eső GDP értékének négyszeresét figyelembe véve - az engedély időtartamára vonatkozóan betegenként 8 millió Ft.
+
+A 27. §-hoz
+
+A rendelkezés indoka, hogy bár a gyakorlatban sor kerül a jelzett költségek megtérítésére is (az eddigi gyakorlat szerint főként anonim őssejt-donáció esetén), azonban a jelenleg hatályos jogi környezet alapján az egészségbiztosítónak a kérdésben mérlegelési joga van. Aktualitást ad a kérdésnek a folyamatban lévő megállapodás az Eurotransplant International Foundation-nel, amelyben a magyar fél kötelezettséget vállal a külföldi szervkivétel és a szervszállítás finanszírozására. A törvény megteremti a jogalapját annak, hogy a jelzett költségeket az egészségbiztosító térítse meg, a részletes szabályokat kormányrendelet fogja meghatározni.
+
+A 28. §-hoz
+
+Indokolt az egészségügyi ellátórendszer átalakításának részeként előírni, hogy a finanszírozási szerződés, annak az egészségügyi szolgáltató által kezdeményezett módosítása és felmondása csak akkor válhat érvényessé, ha ahhoz az egészségügyi szakellátást nyújtó szolgáltató fenntartója hozzájárult.
+
+A 29. §-hoz
+
+A Semmelweis Terv részét képező struktúraátalakítás folyamán, valamint azt követően a szakellátórendszer működésének folyamatos figyelemmel kísérése és szükséges korrekciója során az egészségügyi szakellátást nyújtó szolgáltatók adósságállományára vonatkozó adatok döntési folyamatokat segítenek elő, támasztanak alá, ezért szükséges a szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók számára a finanszírozási helyzetükre vonatkozó adatok negyedévenkénti megküldését kötelezettségként előírni.
+
+Az egészségügyi szolgáltatók számára kötelezettségként írja elő a negyedévenkénti adatszolgáltatást a szolgáltatók pénzügyi helyzetére vonatkozóan. A kötelezettség nem teljesítésének következménye a szolgáltató finanszírozási szerződésének felmondása lenne. Jelen módosítás arra irányul, hogy ne azonnal a legsúlyosabb szankció kerüljön alkalmazásra a mulasztó egészségügyi szolgáltatóval szemben, hanem lehetőség legyen a kötelezettség utólagos teljesítésére.
+
+A 30. és 38. §-hoz
+
+A hatályos rendelkezések alapján terhességi-gyermekágyi segélyre kizárólag a szülő nő, illetve a csecsemőt örökbe fogadni szándékozó nő jogosult. Minden egyéb esetben a csecsemőt gondozó személy terhességi-gyermekágyi segély helyett jelenleg csak gyermekgondozási díjra lehet jogosult, amelynek összege maximálisan havonta a minimálbér kétszeresének 70%-a lehet, míg a terhességi-gyermekágyi segély összege nincs maximalizálva.
+
+Amennyiben a szülő nő egészségi állapota miatt a gyermekét nem tudja gondozni, vagy meghal, akkor a csecsemőt gondozó vér szerinti apa, a gyám, vagy az örökbefogadó férfi jelenleg nem lehet jogosult a terhességi-gyermekágyi segélyre. Az Ebtv. mindezekért jelenleg diszkriminatív ezen személyekkel szemben.
+
+A módosítás a diszkrimináció feloldását célozza azon néhány érintett számára, akik jelenleg nem szerezhetnek jogosultságot a terhességi-gyermekágyi segélyre.
+
+A 31. §-hoz
+
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény jelenleg nem egyértelmű abban a kérdésben, hogy az üzemi balesetből vagy foglalkozási megbetegedésből eredő egészségkárosodás miatt támogatással rendelt gyógyászati segédeszköz javítási díjához éppúgy százszázalékos mértékű támogatás jár, mint az eszköz megvásárlásához, ezért szükséges pontosítani a vonatkozó szabályozást.
+
+A 33. §-hoz, valamint a 154-159. §-hoz
+
+2010. május 1-jén hatályba lépett, illetve alkalmazandóvá vált a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet és az annak végrehajtásáról rendelkező 987/2009/EK rendelet, amelyek a rendeletek végrehajtásával érintett tagállami intézmények között - a korábbi papíralapú ügyintézés helyett - elektronikus úton történő kapcsolattartást (a továbbiakban: elektronikus adatcsere) irányoznak elő. A jelenleg irányadó uniós rendelkezések szerint 2014 májusától kerül bevezetésre az elektronikus adatcsere és a tagállamoknak ezzel a határidővel kell felkészülniük arra, hogy a vonatkozó uniós jogi kötelezettségeknek eleget téve felkészítsék intézményeiket az elektronikus adatcseréből eredő feladatok ellátására.
+
+Az elektronikus adatcserével összefüggő, uniós jogból eredő kötelezettségek teljesítése és az elektronikus adatcserére történő felkészülés érdekében szükséges kormányzati intézkedéseket a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet alapján bevezetésre kerülő elektronikus adatcserével kapcsolatos kormányzati feladatokról szóló 1148/2011. (V. 18.) Korm. határozat (a továbbiakban: Kormányhatározat) rögzíti. A Kormányhatározat alapján az elektronikus adatcserével összefüggő kormányzati feladatokat elsődlegesen a Nemzeti Erőforrás Minisztérium - mint ún. hozzáférési pont - és a rendeletek alkalmazását végző központi hivatalok (Országos Egészségbiztosítási Pénztár, Országos Nyugdíjbiztosítási Főigazgatóság, Magyar Államkincstár és Foglalkoztatási Hivatal) látják el.
+
+Az uniós jogból eredő kötelezettségek adatvédelmi szabályozást is szükségessé tesznek. Tekintettel arra, hogy a hozzáférési pontot befogadó NEFMI ezen feladatainak körében olyan tevékenységet végez, amely az adatvédelmi törvény alapján adatkezelésnek minősül, az elektronikus adatcserével érintett eljárásokat érintő törvények módosítása szükséges akként, hogy a NEFMI az érintett tevékenységét az elektronikus adatcsere bevezetésének időpontjától kezdve - törvényi felhatalmazás alapján - jogszerűen végezhesse.
+
+A 35. § (4) és (7) bekezdéséhez
+
+Az Ebtv. 83. §-a (3) bekezdésének c) pontja alapján az egészségbiztosításért felelős miniszter eddig csak a társadalombiztosítási támogatásba befogadott gyógyszerek esetében határozhatta meg rendeletében a hivatalból történő felülvizsgálat szempontjait, ezt szükséges kiegészíteni annak érdekében, hogy rendeletben lehessen szabályozni a gyógyászati segédeszközök hivatalból történő felülvizsgálatának szempontjait és eljárását.
+
+Az Ebtv. 83. §-a (6) bekezdésének g) pontjában megfogalmazott felhatalmazó rendelkezést szükséges kiegészíteni annak érdekében, hogy az egészségbiztosításért felelős miniszter az egészségbiztosító általi ellenjegyzéshez kötött gyógyászati segédeszközök ellenjegyzésével kapcsolatos eljárási szabályokat is meghatározhassa.
+
+A 36. §-hoz
+
+A § jogharmonizációs záradékot tartalmaz.
+
+A 37. §-hoz
+
+A törvény Magyarország Alaptörvényével teremti meg az összhangot, tekintettel arra, hogy 2012. január 1-jétől hazánk neve Magyarország.
+
+A 39. §-hoz és a 60. § (1) bekezdéséhez
+
+A §-ok az Országos Betegjogi és Dokumentációs Központ létrehozása érdekében szükséges felhatalmazásokat és kijelöléseket tartalmazza.
+
+A 40. §-hoz
+
+A gyógyászati segédeszközök közül a hatályos törvény csak azokra az eszközökre értelmezhető, amelyek egyben orvostechnikai eszközök is, ezért szükséges a jelenlegi szabályozás kiegészítése az erre történő utalással. A jelenlegi szabályozás alapján úgy tűnik, mintha azokat az eszközöket, amelyek rendelkeznek a megfelelő tanúsítványokkal egyben nyilvántartásba is kellene venni. Ezzel szemben a 93/42/EK irányelven alapuló, az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet rendelkezései szerint a tanúsítvánnyal rendelkező eszközöket a Hivatal nem veszi nyilvántartásba, de az a) pont megfelelőségi követelményei ezekre is vonatkoznak.
+
+A 41. §-hoz
+
+Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelettel összhangban törölni szükséges az egyszerhasználatos eszközök újrafelhasználhatóvá tételével kapcsolatos rendelkezést.
+
+A 42. §-hoz
+
+Az orvostechnikai eszközökkel kapcsolatos rendeletekben található, a gyártóval, meghatalmazott képviselővel kapcsolatos rendelkezések közül azokhoz, amelyek nem kifejezetten az áruk biztonságosságával kapcsolatosak (nem piacfelügyeleti eljárások), az áruk és szolgáltatások biztonságosságáról és az ezzel kapcsolatos piacfelügyeleti eljárásokról szóló 79/1998. (IV. 29.) Korm. rendeletben nevesített jogkövetkezmények nem rendelhetőek. Ezekben az esetekben a Ket. hatósági ellenőrzési eljárás szabályai alapján az Egészségügyi Engedélyezési és Közigazgatási Hivatal (EEKH) a gyártó/meghatalmazott képviselő figyelmét felhívhatja a jogsértésre és kötelezheti annak megszüntetésére, de csak a rendelkezést végre nem hajtó személlyel szemben szabhat ki végrehajtási bírságot. Az EEKH tapasztalatai alapján a rendelésre gyártók/meghatalmazott képviselők szűk körben tesznek eleget regisztrációs kötelezettségüknek, így az EEKH által a közös európai uniós adatbázisba teljesítendő adatszolgáltatás sem pontos.
+
+A 43. §-hoz
+
+A jövőben nem lesz törlési ok az az esetkör, ha az egészségügyi dolgozó határidőben nem újítja meg a nyilvántartását, illetve ha a meghosszabbítási kérelmét jogerősen elutasították, ugyanakkor egyértelműen szabályozva lenne, hogy akinek lejárt a nyilvántartása és a kötelező továbbképzését nem igazolja, az csak felügyelet mellett dolgozhat. Ezzel a működési nyilvántartásban szereplő személyeknek érvényes, lejárt illetve törölt státusza lenne. A lejárt státusz tehát a törvény erejénél fogva azt a jogkövetkezményt vonja maga után, hogy a továbbképzési ciklusa lejártát követő naptól az egészségügyi dolgozó csak felügyelet mellett dolgozhat a továbbképzési kötelezettsége teljesítésének az igazolásáig.
+
+Ez a módosítás a jogkövetkezmény szempontjából nem jelent a korábbiakhoz képest változást, hiszen a továbbképzési kötelezettségét nem teljesített személy, ha törlésre kerül a nyilvántartásból, akkor is ugyanúgy dolgozhatna felügyelet mellett, viszont nem kötné egyedi hatósági döntés meghozatalához a felügyelet melletti munkavégzést, ezzel a működési nyilvántartást vezető szervre nehezedő adminisztratív terheket csökkenti.
+
+Magyarország 2012. január 1-jétől csatlakozik a hollandiai székhelyű Eurotransplant International Foundation által működtetett szervcsere-rendszerhez. A transzplantáció a végstádiumú szervelégtelenségben szenvedő betegek számára nemcsak a túlélés esélyét növeli, hanem életminőségbeli változást is jelent. A megállapodás megkötése minőségbeli javulást eredményez a hazai szervátültetésben, illetve a transzplantációra szoruló betegek gyorsabban jutnak majd megfelelő szervhez. Ugyanakkor nagyon fontos eredménye lesz a megállapodásnak a szigorú, egységes szabályok között zajló, átlátható és nyomon követhető nemzetközi szervcsere.
+
+A nagyobb populációból történő megfelelő donor kiválasztásával, az ennek alapján várható sikeres szervátültetéssel javul a betegek életminősége, túlélési esélye. A leginkább rászoruló betegeknek - különösen az úgynevezett speciális betegeknek: a halaszthatatlan sürgősségű vese-, szív- és májátültetésre váró betegeknek, a hiperimmunizált vesebetegeknek, illetve a szervátültetésre váró, az Eurotransplant International Foundation kézikönyvében definiáltak szerinti gyermek betegeknek - növekednek a hozzáférési esélyei a nekik leginkább megfelelő szervhez való hozzájutásban. Mindehhez elengedhetetlen a szervek nemzetközi viszonylatban történő, megfelelően szabályozott körülmények között zajló kivételének szabályozása.
+
+Tekintettel arra, hogy a transzplantációs teamek tagjaként esetenként közreműködő orvosok tekintetében az Eütv.-ben foglalt tevékenységvégzési jogosultság megszerzése (felvétel a működési nyilvántartásba, előzetes tevékenység-engedélyezés vagy a csak EGT állampolgárok számára nyitva álló bejelentés lehetősége) elsősorban a szervkivételhez szükséges időfaktor miatt nem minden esetben életszerű, az szakemberek számára szükséges megteremteni annak feltételeit, hogy kormányrendeletben szabályozott bejelentés alapján jogszerűen végezhessenek Magyarországon egészségügyi tevékenységet.
+
+A 44. §-hoz
+
+Jelenleg az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásáról, valamint a működési nyilvántartásban nem szereplő személyek tevékenységének engedélyezéséről szóló 18/2007. (IV. 17.) EüM rendelet 8/D. §-a az alábbiak szerint rendelkezik:
+
+„(1) A működési nyilvántartásból történő törlésről rendelkező határozatban meg kell jelölni a törlés okát. A határozatban - a törlés okára figyelemmel - az ügyfelet tájékoztatni kell arról, hogy egészségügyi tevékenységet
+
+a) nem végezhet, vagy
+
+b) csak felügyelet mellett végezhet.”
+
+Ugyanakkor nincs szabályozva, hogy mely törlési okok esetében lehet felügyelet mellett dolgozni és melyek azok, amelyek esetében felügyelet mellett sem. Ennek rendezése törvényi szinten szükséges.
+
+A 45. §-hoz
+
+A szakorvosi szakvizsgák szervezésével kapcsolatos feladatokat az Egészségügyi Szakképzési és Továbbképzési Tanács albizottságaként a Nemzeti Vizsgabizottság látja el. A szakvizsga szervezéséhez és a szakorvosi bizonyítvány kiállításával kapcsolatos feladatok ellátásához nélkülözhetetlen a működési nyilvántartás adataihoz való folyamatos hozzáférés.
+
+A 46. §-hoz
+
+A törvény szerint a térségi egészségszervezésért felelős államigazgatási szerv elkészíti az adott egészségügyi térség egészségfejlesztési programját, amely figyelembe veszi az ellátandó lakosság egészségi állapotát, az egészségi állapotot befolyásoló területi, települési, környezeti tényezőket, a térségben működő egészségügyi szolgáltatókat, az általuk nyújtott egészségügyi szolgáltatásokat, a népegészségügyi feladatokból adódó fejlesztési igényeket és az ellátási struktúra változására, alakítására vonatkozó terveket. Az egészségfejlesztési program elkészítésénél figyelembe kell venni az ellátási kötelezettség teljesítésében részt vevő egészségügyi szolgáltatók és azok fenntartói, illetve tulajdonosai, valamint az önkormányzatok fejlesztési terveit. A fejlesztési programot meg kell küldeni a térségben működő valamennyi egészségügyi közszolgáltató fenntartójának és helyi önkormányzatnak, továbbá a miniszternek is.
+
+Az egészségügyi térség területén működő gyógyintézet a térségi egészségfejlesztési program alapján, azzal összhangban szakmai tervet készít. A szakmai terv tartalmazza a gyógyító-megelőző feladatok összetételének változtatásával, a belső szervezeti változásokkal, a jelentősebb felújításokkal és fejlesztésekkel, a minőségbiztosítással és minőségfejlesztéssel összefüggő koncepciókat, a működtetéshez szükséges humán erőforrások biztosításával és a szolgáltatások finanszírozásával kapcsolatos tervet. A törvény meghatározza a terv elfogadásának menetét és a térségi egészségszervezésért felelős államigazgatási szervnek való továbbítási kötelezettséget.
+
+A 47. §-hoz
+
+A törvény létrehozza a Térségi Egészségügyi Tanácsot, meghatározva a Tanács tagjait, feladatait, működésének szabályait és feltételeit. A Tanács működésének feltételeit a térségi egészségszervezésért felelős államigazgatási szerv biztosítja, ezzel is elősegítve a fővárosi és megyei kormányhivatalokkal való stratégiai együttműködést, illetve a területszervezésért és fejlesztésért felelős önkormányzatok, továbbá az egészségügyi szolgáltatókat fenntartó szervezetek, valamint az egyetemi centrumot és klinikát működtető egyetemek képviselőinek a bevonásával a felelős egészségpolitika térségi kialakítását.
+
+A 48. §-hoz
+
+Az orvostechnikai eszközökkel kapcsolatos tevékenységek is az egészségügyért felelős miniszter feladatkörébe tartoznak, ezt azonban a törvény jelenleg nem nevesíti.
+
+A 49. §-hoz
+
+A betegszervezetekkel való kapcsolattartás fórumaként létrejön a Nemzeti Betegfórum, amelynek részletszabályait miniszteri rendelet határozza meg.
+
+Az 51. §-hoz
+
+A módosítás az egészségbiztosítási szerv feladatának pontosítását tartalmazza.
+
+Az 52. §-hoz
+
+2012. január 1-jétől a Fővárosi Önkormányzat, valamint a megyei önkormányzatok, 2013. január 1-jétől valamennyi települési önkormányzat tulajdonában vagy fenntartásában lévő, fekvő- és járóbeteg-szakellátást nyújtó egészségügyi szolgáltató állami tulajdonba kerül, illetve a fenntartói jog az államra száll át. A tulajdonjog és a fenntartói jog átkerülésével a szakellátási felelősség is az államra száll át. A Magyar Államot megillető tulajdonosi jogokat és kötelezettségeket, továbbá a fenntartói jogot a miniszter gyakorolja. A fenntartói jogok gyakorlását a miniszter az általa rendeletben kijelöl központi államigazgatási szerv útján látja el. A tulajdonosi jogok gyakorlása és kötelezettségek teljesítése érdekében szükséges, hogy a legfontosabb irányítási jogok - alapítói jogok gyakorlása, a szervezeti és működési szabályzat jóváhagyása - a miniszter hatáskörében maradjanak.
+
+Az 53. §-hoz
+
+Az orvostechnikai eszközök fejlesztéséhez szükséges azok hatékonyságával, teljesítőképességével kapcsolatos klinikai adatok gyűjtése, amely orvostudományi kutatásnak minősül, így nevesíteni kell e szakaszban.
+
+Az orvostechnikai eszközökkel végzett klinikai vizsgálatok esetében is szakhatósági állásfoglalás ismeretében dönt a hatáskörrel rendelkező hatóság, ez azonban csak a kormányrendeletben jelenik meg, a törvényben nem. A módosítás ezt a hiányosságot pótolja.
+
+Az 56-57. §-hoz
+
+A módosítás a következő uniós jogi aktusoknak megfelelő fogalom-meghatározásokat tartalmaz:
+
+- az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról,
+
+- az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról.
+
+Az 58. §-hoz
+
+A módosítás a törvény szintjén is egyértelművé teszi, hogy a katasztrófa-egészségügyi ellátást az egészségügyért felelős miniszter irányítja
+
+Az 59. §-hoz
+
+A § átmenetei rendelkezéseket tartalmaz.
+
+A 60. §-hoz
+
+A § Az Országos Betegjogi és Dokumentációs Központra, a Nemzeti Betegfórumra vonatkozó felhatalmazásokat tartalmazza.
+
+Továbbá tekintettel arra, hogy az orvostechnikai eszközökre és az in vitro diagnosztikai eszközökre eltérő irányelvek vonatkoznak, szükséges nevesíteni az utóbbit is a felhatalmazó rendelkezések sorában.
+
+A 61. §-hoz
+
+A § alapvetően jogtechnikai módosításokat tartalmaz az Alaptörvénnyel történő összhang megteremtése érdekében.
+
+Ezen túlmenően előírásra kerül, hogy amennyiben az állami vérellátó szolgálat köt szervcsere tárgyában egyezményt vagy megállapodást, az egészségügyi államigazgatási szerv egyetértése ilyen esetben nem szükséges.
+
+A 62. §-hoz
+
+A § az Eütv. módosításaihoz kapcsolódóan hatályon kívül helyező rendelkezéseket tartalmaz.
+
+A 63. §-hoz
+
+Az utóbbi 1-2 évben ugrásszerű növekedést figyelhetünk meg a nagyrészt interneten forgalmazott új típusú, úgynevezett „dizájner drogok” fogyasztásában. A dizájner drogokat valamely kábítószernek minősülő anyag kémiai szerkezetének módosításával hozzák létre abból a célból, hogy az új szer hatásában az eredetihez hasonló maradjon, de legálisan forgalmazható, használható legyen. Szükséges tehát a Magyarországon is gyakran előforduló új pszichoaktív anyagok az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény mellékletében történő megjelenítése annak érdekében, hogy a rendőrség a szükséges intézkedéseket megtehesse.
+
+A 64. §-hoz
+
+A törvény a háziorvosok működtetési joga helyett a praxisjog kifejezést vezeti be, egyúttal egyértelművé teszi, hogy praxisjog körzethez kötött jog, amely alapján területi ellátási kötelezettséggel végezhető háziorvosi tevékenység.
+
+Az 50. és 65. §-hoz
+
+Garanciális szabályként a törvény előírja, hogy a praxisjog megszerzéséhez szükséges, hogy az önkormányzat és a praxisjogot megszerezni kívánó orvos előszerződést kössön, amely alapján az önkormányzat kinyilvánítja azon szándékát, hogy az orvost a praxisjog megszerzése esetén foglalkoztatni kívánja. Amennyiben az orvost az önkormányzat nem kívánja foglalkoztatni, erről nyilatkoznia kell.
+
+A törvény előírja továbbá a háziorvos és az önkormányzat között kötendő feladat-ellátási szerződés kötelező tartalmi elemeit.
+
+A törvény megteremti a praxiskezelő létrehozásának alapjait, valamint előírja főbb feladatait.
+
+A 66. §-hoz
+
+A § az Öotv. módosításához kapcsolódóan az alábbi átmeneti rendelkezéseket tartalmazza.
+
+A területi ellátási kötelezettséggel működő háziorvosok működtetési joga e törvény hatálybalépése napjával praxisjognak minősül, amely jog arra a körzetre terjed ki, ahol a háziorvos a törvény hatálybalépésének napján területi ellátási kötelezettséggel háziorvosi ellátást nyújt, ideértve a munkavégzésben akadályozott, működtetési joggal rendelkező orvost is.
+
+Azok a működtetési joggal rendelkező háziorvosok, akik e törvény hatálybalépése napján nem rendelkeznek területi ellátási kötelezettséggel, tartósan betöltetlen körzetben működtetési joguk alapján területi ellátási kötelezettséget vállalhatnak 2015. december 31-éig. A tartósan betöltetlen körzetek betöltésénél ezen háziorvosok előnyt élveznek, és működtetési joguk a tartósan betöltetlen körzet betöltésével - illetékmentesen - praxisjognak minősül.
+
+A törvény előírja továbbá, hogy az Öotv. módosításával megállapított, a feladat-ellátási szerződésre vonatkozó követelményeknek 2013. január 1-jétől kell megfelelniük az érintetteknek.
+
+A § egyebekben felhatalmazó rendelkezéseket tartalmaz.
+
+A 67. §-hoz
+
+Az Alaptörvénnyel és az Öotv. módosításával összefüggő technikai módosítások.
+
+Az 54-55. §-hoz, a 79-80. §-hoz, a 82-89. §-hoz, a 92. §-hoz és a 93. §-hoz
+
+2010. december 31-én jelent meg az Európai Unió hivatalos lapjában az Európai Parlament és a Tanács 2010/84/EU irányelve az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek (a továbbiakban: farmakovigilancia irányelv) a farmakovigilancia tekintetében történő módosításáról. A módosítás egyrészt a rendeleti szintű átültetés alapjait hivatott megteremteni, illetve a hatósági intézkedések keretében alkalmazott jogkövetkezményeket pontosítja. Ennek megfelelően a törvényben megjelennek a farmakovigilancia irányelv által bevezetett új fogalmak, valamint a feltételezett mellékhatás események nyilvántartásának és jelentésének szabályai mind a forgalomba hozatali engedély jogosultja, mind pedig a hatóságok oldalán. Részletes szabályok rendezik, hogy mely esetekben hozhat farmakovigilancia körébe tartozó okokból a hatóság intézkedéseket a gyógyszer forgalomba hozatali engedélyével kapcsolatban, és mikor elengedhetetlen az uniós szintű koordináció igénybevétele annak érdekében, hogy az azonos hatóanyagú gyógyszerek egyforma elbánásban részesüljenek. A módosítás mind a hatóság, mind a forgalomba hozatali engedély jogosultjai számára előírja farmakovigilancia rendszer létrehozásának és működtetésének kötelezettségét. A farmakovigilancia rendszer mindazon intézkedéseket jelenti, amelyek lehetővé teszik a gyógyszerek által képviselt kockázatok átfogó kezelését. A gyógyszerhatóság a lakosság megfelelő tájékoztatása érdekében nemzeti internetes gyógyszerportált köteles működtetni. Bevezetésre kerül az időszakos gyógyszerbiztonsági jelentések készítésének kötelezettsége, valamint a farmakovigilancia körébe tartozó rendelkezések megsértése esetén egy szélesebb körű szankcionálási lehetőség.
+
+A farmakovigilancia irányelv külön eljárásrendet vezet be az engedélyezést követő gyógyszerbiztonsági vizsgálatokra vonatkozóan. Az engedélyezés célja, hogy a beavatkozással nem járó vizsgálatok ezen típusa ténylegesen a gyógyszerbiztonsággal összefüggő kérdésekre (és ne pl. promócióra) irányuljon és eredményei megalapozzák a gyógyszer biztonságos felhasználását szolgáló intézkedéseket.
+
+A 68-71. §-hoz, valamint a 74. § a) és b) pontjához
+
+Az EKOP-projekt keretében a kémiai biztonság területén is szükséges az Állami Népegészségügyi és Tisztiorvosi Szolgálat gyors reagálási képességet növelő komplex információs rendszerének fejlesztése.
+
+Ennek érdekében a kémiai biztonságról szóló 2000. évi XXV. törvényben a veszélyes anyagok, a veszélyes keverékek, valamint az ezekkel végzett tevékenységek bejelentésére vonatkozóan kötelezettséget a jövőben elektronikus úton kell teljesíteni.
+
+Az új szabályozás alapján a már korábban bejelentett veszélyes anyag és keverék biztonsági adatlapjának változása és a forgalmazás megszüntetése is jelentésköteles lesz.
+
+A 72. és 73. §-hoz, valamint a 74. § c) pontjához
+
+A törvény az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 2011. június 8-i 2011/65/EU európai parlamenti és tanácsi irányelv átültetése érdekében a Kbtv. felhatalmazó rendelkezéseit módosítja. Az irányelv végrehajtása érdekében a környezetvédelmi hatóság jogkörének meghagyása mellett a veszélyes anyagok és a veszélyes keverékek környezetkárosító és -szennyező hatásai megelőzésére vonatkozó felelősségi, ellenőrzési jogkört indokolt a fogyasztóvédelmi hatóságra is kiterjeszteni. Ennek érdekében a felhatalmazó rendelkezés kormányrendeleti szintre történő emelése indokolt. A hulladékok vonatkozásában a hulladékgazdálkodásról szóló törvény tartalmazza a megfelelő szintű felhatalmazó rendelkezéseket, ezért az erre vonatkozó szövegrész a Kbtv.-ből hatályon kívül helyezésre kerül.
+
+A 75. §-hoz
+
+A törvény alapján a heti 40 órás teljes munkaidőben foglalkoztatott egészségügyi dolgozó számára a rendes munkaidő terhére naptári heti 16 óra egészségügyi ügyeletet az egészségügyi szolgáltató egyoldalúan is elrendelhet.
+
+A rendes munkaidőként elszámolt egészségügyi ügyeletet nem ügyeleti díjjal, hanem a személyi alapbérrel (illetménnyel) kell díjazni, és az ilyen módon ledolgoztatott időszak teljes egészében az alkalmazott egészségügyi dolgozó rendes munkaidő-alapjából kerül elszámolásra.
+
+A megállapodás alapján rendes munkaidő terhére vállalt egészségügyi ügyelettel szemben ez az ügyelettípus a heti pihenőnapon is elrendelhető, ebben az esetben azonban a Munka Törvénykönyve szerinti 100 vagy 50 százalékos mértékű pótlék jár. A törvény továbbá ezen ügyeletek esetében feloldja azt a korlátozást, hogy az ügyeletet csak az intézményre irányadó ügyeleti időtartam alatt lehet elrendelni.
+
+A 76. §-hoz
+
+A törvény a rendes munkaidő terhére elrendelhető heti 16 óra egészségügyi ügyeletre vonatkozó szabályokat a munkaidő-beosztás előzetes közlésére vonatkozó rendelkezésekkel hozza összhangba.
+
+Az ágazatban kialakult értelmezési kérdések egyértelmű rendezése érdekében rögzíti, hogy a beosztás szerinti napi munkaidőből a 12 óra fölé eső - a gyakorlatban kizárólag egészségügyi ügyeleti formában elrendelhető - időszak csak önként vállalt többletmunkaként rendelhető el, ami természetesen ezen órák díjazását is érinti. Ebből következően önkéntes többletmunka vállalására irányuló megállapodás hiányában az egészségügyi dolgozó egy naptári napon 12 óránál hosszabb időre nem osztható be.
+
+A 77. §-hoz
+
+Az Eütev. ügyeleti díj mértékét megállapító szabályozása két okból is pontosításra szorul.
+
+a) szükséges annak törvényi garantálása, hogy a felek a kollektív vagy egyéni megállapodásokban a törvényesnél alacsonyabb mértékű ügyeleti díjban ne állapodhassanak meg, azaz bérvédelmi célból tiltani szükséges az alkalmazott egészségügyi dolgozó hátrányára történő megállapodás lehetőségét.
+
+b) A törvénynek az a jelenleg hatályos kitétele, amely szerint kollektív vagy egyéni megállapodás hiányában az ügyeleti díj mértéke „nem lehet kevesebb” a törvényes mértékű díjtételnél, értelmezhetetlen. Kollektív vagy egyéni megállapodás „hiányában” nincs ugyanis olyan eszköz, amely ilyen esetben a törvényben meghatározottnál magasabb összegű ügyeleti díjtételt biztosíthatna az alkalmazott egészségügyi dolgozó számára. A felek között alkalmazott munkabér mértékére a munkaviszonyra vonatkozó szabályok közül - a törvényen kívül - csak a kollektív szerződés vagy a munkaszerződés (kinevezés) tartalmazhat rendelkezést. Erre tekintettel a „nem lehet kevesebb” kifejezés elhagyásával a bekezdés pontosítása szükséges.
+
+A heti pihenőnapon elrendelt ügyelet díjazására abban az esetben, ha azt pihenőidővel nem kompenzálják, az Eütev. jelenleg 80% helyett 100%-os mértékű ügyeleti díjat ír elő. Bár a bekezdés nyitó szövegrésze értelmében ez minimum összeg, jogértelmezési nehézségeket jelent az ügyeleti díj megállapítása azokban az esetekben, amikor helyi megállapodás alapján a heti pihenőnapon 80%-nál magasabb mértékű ügyeleti díj jár. Erre tekintettel a törvény egyértelművé teszi, hogy a pihenőnappal nem kompenzált, heti pihenőnapon elrendelt ügyeleti díj mértéke az egészségügyi dolgozóra mindenkor irányadó pihenőnapi ügyeleti díj 25%-kal emelt összege.
+
+A 78. §-hoz
+
+A törvény Magyarország Alaptörvényével teremti meg az összhangot, tekintettel arra, hogy 2012. január 1-jétől hazánk neve Magyarország.
+
+A 81. §-hoz
+
+A (nem emberen végzett) kutatási célú, harmadik országból történő gyógyszerbehozatal esetén gyártási engedélyre az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv alapján nincs szükség, ezt a módosítással át kell vezetni a törvényben. Egyúttal azonban elő kell írni a gyógyszerhatóság felé történő bejelentési kötelezettséget.
+
+A 82. §-hoz
+
+Az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv 24. cikk 3. bekezdése nem ad lehetőséget arra, hogy amennyiben egy gyógyszer forgalomba hozatali engedélyét nem korlátlan időre újítják meg, akkor 5 évtől eltérő időszakra is megújítható legyen. A jelenleg hatályos rendelkezés az irányelvi szabályozással ellentétes, azt korrigálni kell.
+
+A 86. §-hoz
+
+Az elmúlt időszak gyógyszerellátási problémái hívták fel arra a figyelmet, hogy a jelenlegi gyógyszerellátási hiányra vonatkozó szabályozás nem kellően szigorú, és nem biztosítja az ország lakosságának biztonságos ellátását. Ezért fontos a Gytv. szigorítása, szankciók bevezetése, valamint törzskönyvi törlés esetében az ellátási problémák vizsgálatának kötelező bevezetése. Szigorítani szükséges, hogy a gyártónak a forgalmazás várható megszüntetését olyan időben szükséges jeleznie, hogy még a várható felhasználás alapján saját készletben megfelelő tartalékkal rendelkezzen, ha a forgalomba hozatali engedély jogosultja a folyamatos betegellátást nem tudja biztosítani arról a megfelelő hatóságokat azonnal tájékoztatnia szükséges, továbbá a GYEMSZI meghatározhatja azon alapvető gyógyszerek körét, melyből a gyártó magyarországi készletei nem csökkenhetnek meghatározott mennyiség alá a folyamatos ellátás figyelembe vételével.
+
+A 90. §-hoz
+
+A rendelkezés pontosítása szükséges, mert a GYEMSZI-OGYI szakmai kompetenciája a terápiás eljárásokra nem terjed ki, ezért indokolt, hogy a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer alkalmazásáról szóló döntését a szakmai kollégium véleménye ismeretében hozza meg.
+
+A 91. §-hoz
+
+Felhatalmazó rendelkezés az ellátásbiztonságot garantáló hatóanyagkör, gyógyszerhiány megelőzésének és új pszichoaktív anyagok vonatkozásában.
+
+A 94. §-hoz és a 3. melléklethez
+
+A törvény a GYEMSZI által szedhető igazgatási-szolgáltatási díjak módosítását tartalmazza.
+
+A 97. §-hoz
+
+A törvény biztosítja annak lehetőségét, hogy a nem orvos- és egészségtudomány képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképesítésű személyek (klinikai szakpszichológusok, klinikai sugárfizikusok, klinikai biokémikusok, klinikai mikrobiológusok, valamint molekuláris biológiai diagnosztikusok) - elsősorban működési nyilvántartásba vételük vagy annak megújíthatósága érdekében - abban az esetben is önkéntesen kamarai tagságot létesíthessek, ha a tagfelvételi kérelem időpontjában nem minősülnek egészségügyi dolgozónak, azaz egészségügyi szolgáltatóval nem állnak egészségügyi tevékenység végzésére irányuló foglalkozatási jogviszonyban. A módosítást indokolja az is, hogy az egyéb egészségügyi képesítésű személyek esetében szintén fennáll az önkéntes tagság lehetősége abban az esetben, ha egészségügyi tevékenységet már - pl. nyugállományban vonulás miatt - nem folytatnak.
+
+A törvény emellett egyértelművé teszi, hogy az egészségügyi szakképesítéssel egyáltalán nem rendelőző közreműködő egészségügyi dolgozók az első egészségügyi szakképesítésük megszerzéséig nem állnak kötelező kamarai tagság alatt. Ennek indoka, hogy tevékenységüket az Eütv. alapján kizárólag felügyelet alatt végezhetik, és az egészségügyi alapnyilvántartásban sem szerepelnek.
+
+A 98-101. §-hoz
+
+Az Ekt. 19/B. §-a nem említi a közigazgatási hatósági ügyek között a kamarai tagság felfüggesztésére irányuló, kérelemre indítható eljárásokat, holott az Ekt. 17. § (1) bekezdés a) pontja értelmében a kamarai tagság felfüggesztéséről a kamarai tag kérelme esetén indokolt határozatban kell dönteni. Erre tekintettel jelenleg nem világos, hogy a kérelemre indult felfüggesztési eljárások illetékkötelesek-e, továbbá rendszertani problémát jelent, hogy a tagság felfüggesztésének további esetkörei minden esetben szankciós jellegűek és hivatalbóli eljárást feltételeznek.
+
+Erre tekintettel a tagsági jogviszony kérelemre történő felfüggesztésének lehetőségét indokolt megszüntetni, egyben - az Ekt. 19/B. §-a alapján kamarai hatósági ügynek minősülő - szüneteltetés jogintézményének kiterjesztésével kell biztosítani a tagok számára, hogy ilyen irányú kérelmük esetén a tagsági viszonyból eredő valamennyi joguk és kötelezettségük szünetelhessen.
+
+A kérelemre megállapított szüneteltetés korlátlan időtartamú lehet, és szintén kérelemre állítható vissza a teljes jogú kamarai tagság.
+
+A 102. §-hoz
+
+Az új támogatáspolitikai elemek (beteg-együttműködésre vonatkozó támogatási rend, biológiai, biohasonló gyógyszerek támogatása) megjelenésével szükséges definíciók megalkotása, valamint a lakosság biztonságos gyógyszerellátását garantáló folyamatos ellátás definíciójának kialakítása.
+
+A beteg-együttműködés fogalma az Egészségügyi Világszervezet „adherence” fogalmából indul ki. A preferált referencia ársávba tartozó gyógyszerekhez hasonlóan kerül bevezetésre a preferált referencia ársávba tartozó biológiai gyógyszer, mely azonban figyelembe veszi a biológiai gyógyszerek, és biohasonló gyógyszerek farmakológiai sajátságait.
+
+A folyamatos ellátás definíciója kapcsolódik a Gytv.-ben megjelenő ellátásbiztonsági garanciákhoz.
+
+A módosítás a jelenleg hatályos definíció mondatai közötti ellentmondást szünteti meg, hiszen a definíció első része szerint gyógyászati segédeszköznek minősülnek az önellenőrzést szolgáló in vitro diagnosztikai orvostechnikai eszközök, ugyanakkor ezek nem a testen belül vagy a testen alkalmazandók, hanem emberből származó minták (pl. vér, vizelet, stb.) in vitro vizsgálatára szolgálnak.
+
+A gyógyászati segédeszköz forgalmazó fogalom pontosítása a törvény és az egyéb jogszabályok közötti koherenciát állítja helyre, biztosítva az egységes jogértelmezést.
+
+Az egységes jogalkalmazás érdekében szükséges a munkavégzésre irányuló jogviszony tartalmának meghatározása.
+
+Jelenleg számos gyógyászati segédeszköz forgalmazó házhozszállítási tevékenység keretében (saját maga végzi vagy csomagküldés útján) juttatja el a segédeszközt a beteghez. Ennek során a beteg legtöbbször nem jut hozzá azokhoz az információkhoz, melyek számára szükségesek az eszköz használathoz, még akkor sem, ha a kiszállítást a forgalmazó maga végzi. A gyakorlati tapasztalatok alapján szükséges a törvényben a házhozszállítás pontos fogalmának meghatározása és a gyógyszer házhozszállítás fogalmától való elválasztása.
+
+A 103. §-hoz
+
+A Gyftv. 9. §-ának módosításával a jogalkotó a betegek teljesebb tájékoztatását, valamint a költségtakarékos gyógyszer, gyógyászati segédeszköz választását elősegítendő a továbbiakban a kiszolgáltatás során dokumentált módon szükséges a beteget tájékoztatni az egészségbiztosítási szerv által támogatott azonos hatóanyagú, illetve terápiás hatású alacsonyabb térítési díjú gyógyszerről, vagy azonos funkcionális csoportba tartozó alacsonyabb térítési díjú gyógyászati segédeszközről, valamint az adott termékek áráról, társadalombiztosítási támogatásáról és a térítési díjak közötti különbségekről.
+
+A 104. §-hoz
+
+A Széll Kálmán Tervben foglalt beteg-együttműködési támogatási rendhez kapcsolódóan meg kell határozni azon területeket, mely a támogatás megállapítása vonatkozásában, könnyen és objektíven mérhető paramétereket alkalmaz, és figyelembe veszi azt is, hogy a beteg esetében csak az általa befolyásolható tényezőkért vállalhat felelősséget. Ilyen elemek a betegek életmódja, gyógyszer-alkalmazási gyakorlata.
+
+A biológiai gyógyszerekre vonatkozó preferált referencia ársáv kialakítása során az ellátásbiztonság garantálása miatt szükséges, hogy a preferált feltételek szerint legalább két készítmény legyen elérhető.
+
+A 105. §-hoz
+
+A Gyftv. 34. §-ának (6) bekezdése eddig csak a társadalombiztosítási támogatással rendelt gyógyászati segédeszközök házhoz szállításának feltételeiről rendelkezett, amit a betegek érdekében szükséges kiterjeszteni valamennyi segédeszközzel kapcsolatos házhozszállításra, függetlenül attól, hogy a rendelés társadalombiztosítási támogatással történt-e.
+
+A 106. §-hoz
+
+A Gyftv. 14. § (11) bekezdése határozza meg, hogy az egészségügyi vagy tudományos tevékenységet folytató személy számára a szakmai rendezvényeken, tanfolyamokon történő részvétellel összefüggésben nyújtott támogatással kapcsolatban a gyógyszerészeti államigazgatási szerv felé történő bejelentésnek mit kell tartalmaznia. Továbbá a Gyftv. 16. § (2) bekezdése meghatározza, hogy a bejelentés 14. § (11) bekezdése szerinti adatokat közzé kell tenni a gyógyszerészeti államigazgatási szerv honlapján. Mivel a bekezdés a) pontjában a támogatott rendezvény megnevezése, helyszíne, időpontja valamint programja van felsorolva, mint kötelező tartalom, szükséges ezt a felsorolást a támogató nevével kiegészíteni. A támogatás tényének, bejelentésének és közzétételének abban az esetben van értelme, ha a támogató is megnevezésre kerül, ellenkező esetben csak egy rendezvényekről szóló felsorolás közzététele jelenik meg.
+
+A 107. §-hoz
+
+A fogalmilag reklámnak minősülő tevékenység reklámfogalom hatálya alóli kivétele helyett célszerűbb a társadalombiztosítási támogatással rendelhető gyógyászati segédeszközök reklámozásának a Gyftv. 17. § (4) bekezdésben előírt tilalmához kapcsolódóan kimondani, hogy a tilalom nem vonatkozik az OEP honlapján működtetett internetes gyógyászati segédeszköz katalógus adattartalmával egyező betegtájékoztatásra. E megoldás a reklámfogalom jogrendszerbeli egységességének megőrzése mellett biztosítja a kívánt joghatást.
+
+A támogatási listán szereplő egyedi méretvétel alapján készülő eszközök nem gyártóspecifikusak, vagyis egy-egy terméket több gyártó is elkészíthet, a támogatotti listán azonban mindössze egy eszköz szerepel, ezért az adott eszköz támogatásból való kizárása egy vagy több gyártó mulasztása miatt nem alkalmazható, mivel a kizárás az összes gyártót érintené. Mindezek mellett az egyedi méretvétel alapján készített eszközök gyártói számára nem kötelezettség a szállítójegyzékben szereplés, így a kizárás, mint szankció, szintén nem alkalmazható az ő esetükben.
+
+A legutóbbi törvénymódosítás óta eltelt időben megjelent gyakorlat alapján szigorítani szükséges a gyógyszertárak marketingtevékenységére vonatkozó szabályokat annak érdekében, hogy annak révén erősödjön a gyógyszertárak egészségügyi szolgáltató szerepe, és a betegellátás szempontjából fontos szerepet betöltő, de csekély marketing célú forrással rendelkező gyógyszertárak esélyegyenlősége és fenntarthatósága biztosított legyen.
+
+A 108. §-hoz
+
+A folyamatos lakossági ellátás biztosítása érdekében lényeges annak kimondása, hogy a referenciagyógyszer, kötelező preferált referencia ársávba tartozó gyógyszer, preferált biológiai gyógyszer forgalmazása a nagykereskedőknek, illetve a gyógyszertáraknak kötelező.
+
+A 109. §-hoz
+
+Az OEP honlapján az internetes gyógyászati segédeszköz katalógus (SEJK) működtetése törvényben előírt kötelezettség a támogatott eszközök vonatkozásában. Bár a forgalomba hozó számára a miniszteri rendelet eddig is előírta a SEJK feltöltéséhez szükséges adatoknak az OEP rendelkezésére bocsátásának a kötelezettségét, az adatszolgáltatás - vélhetően a szankció hiány miatt - az eszközök jelentős részénél nem történt meg. A SEJK emiatt nem teljeskörű. Az eszközellátási garanciák és a minőségbiztosítás alapelvei magukban foglalják azt, hogy az eszközválasztáshoz mind a beteg, mind az azt elrendelő orvos számára előzetesen rendelkezésre álljanak a szükséges adatok, de ezek ugyanígy a hatékony fogyasztóvédelem szempontjából is elengedhetetlenül fontosak. Mindezekre tekintettel, annak érdekében, hogy a releváns információk az érintettek számára hozzáférhetővé váljanak, szükséges az adatszolgáltatási kötelezettség és az ennek elmulasztása esetén alkalmazandó szankciók törvényi szinten történő előírása.
+
+A 110. §-hoz
+
+A Gyftv. 23. § (3)-(4) bekezdései, valamint a 29. § (2)-(3) bekezdései egyaránt az eljárási határidőket határozzák meg. A módosítás technikai jellegű a redundancia megszüntetése érdekében.
+
+A módosítással a már támogatásban részesülő gyógyszerek felülvizsgálatára irányuló eljárásokban a Ket.-től eltérő új eljárási szabályok kerülnek meghatározásra, amelyek figyelembe veszik ezen eljárások sajátosságait. Az egészségbiztosítási szerv több ezer határozatot ad ki a fixesítési, valamint felülvizsgálati eljárások eredményeképpen. A szabályozás - az ügyfelek jogainak és érdekeinek maximális figyelembe vétele mellett - az eljárásokat a hatóság szempontjából teszi egyszerűbbé.
+
+Az egészségbiztosítási szerv minden olyan hivatalból indított felülvizsgálati eljárásban, amelynek eredményeképpen az eljárással érintett gyógyszer nem kerül kizárásra, az eljárással érintett gyógyszerre vonatkozóan határozatot hoz, amelyet elektronikus úton közöl az ügyféllel. A határozat tartalmát a (11) bekezdés tartalmazza. A felülvizsgálati eljárások eredményeként kizárásra kerülő gyógyszerek tekintetében továbbra is a Ket. szerinti határozatát hozza meg az egészségbiztosító, melyek közlése tekintetében is az általános szabályok alkalmazandók.
+
+A 111. §-hoz
+
+A fixesítési gyakorlat pontosítása érdekében lényeges annak törvényi szintű megjelenítése, hogy a fixesítés során adott árajánlatok nem vonhatóak vissza, valamint az adminisztrációs terhelés mérséklése, valamint az ügyintézés gyorsítása érdekében az egészségbiztosítási szerv döntéseit elektronikus úton közli. Továbbá a biológiai gyógyszertámogatási rend kialakítására vonatkozó alapvető elvek, és a rendeleti szintű felhatalmazás biztosítása.
+
+A 112. §-hoz
+
+A biológiai gyógyszerek támogatási rendszerének kialakítása során a szakmai, farmakológiai sajátságok miatt szükséges, hogy a támogatás megszűnéséről, vagy nulla százalékra való csökkenéséről a többi gyógyszerrel ellentétben nem 90 nap, hanem 180 nap átmeneti időszak biztosítása szükséges.
+
+A módosítást követően továbbá az OEP honlapján nem a teljes beérkezett kérelmeket és jogerőssé vált határozatokat, hanem csupán azok legfontosabb adatait kell közzétenni. Az OEP-hez benyújtott kérelmek tekintetében eddig problémát jelentett, hogy a kérelmek közzététele mellett az eljárás megindításáról is végzést kellett hozni, tekintve, hogy az eljárásban ügyfélnek minősülhet a többi forgalomba hozó is. A módosítás arra irányul, hogy ezt az eljárás megindításáról szóló végzést, valamint a kérelmek közzétételét felváltsa egy olyan jogintézmény, amely adattartalmában megfelelő tájékoztatást nyújt, de az OEP számára is reális mértékű terheléssel jár.
+
+A 113. §-hoz
+
+A támogatásvolumen szerződési kör bővítése segíti a gyógyszerkassza betarthatóságát. Az eredményesség alapú támogatási rendszer bevezetéséhez szükséges azon gyógyszerkör meghatározása, melyek esetében eredményesség alapú támogatásvolumen szerződés köthető.
+
+Ezek az alábbi területek lesznek:
+
+- az újonnan támogatásba kerülő gyógyszerkészítmények, melyeknél meghatározott eredményesség alapú paraméter megállapítható és teljesíti a külön jogszabályban meghatározott betegszámra, és napi terápiás költségre vonatkozó paramétereket,
+
+- ritka betegségek kezelésére használt gyógyszerek,
+
+- méltányosságból támogatott gyógyszerek,
+
+- tételes elszámolás alá eső gyógyszerek, és
+
+- az egészségbiztosításért felelős miniszter rendeletében meghatározott kórképek kezelésére használt a vonatkozó rendeletben szereplő betegszám és napi terápiás költség értéket elérő gyógyszerek.
+
+Lényeges annak kimondása is, hogy az egészségbiztosító évente felülvizsgálja az eredményességalapú támogatásvolumen-szerződésben részesülő gyógyszerek körét.
+
+A 114. §-hoz
+
+A Gyftv. 27. §-ában foglalt szabályok szerint, amennyiben az egészségbiztosítási szervhez olyan új hatóanyagot tartalmazó gyógyszer támogatása, vagy új indikációs terület meghatározása iránt érkezik kérelem, amelyek befogadásához az egészségügyért felelős miniszter rendeletének módosítása szükséges, akkor az egészségbiztosítási szerv a gyógyszer támogatásba való befogadására irányuló eljárást az egészségügyért felelős miniszter - az államháztartásért felelős miniszter egyetértésével meghozott - rendeletének hatálybalépéséig, legfeljebb azonban a kérelem benyújtását követő 90 napig felfüggeszti és erről az ügyfelet értesíti. A törvény ezen §-a kiegészül a gyógyszerek befogadásához szükséges valamennyi miniszteri rendeletre való hivatkozással, amelyek módosítása szükséges ahhoz, hogy az egyes gyógyszerek támogatásba történő befogadása lehetővé váljon. Továbbá az eljárási idő tekintetében a felfüggesztés időtartama (legfeljebb 90 nap) a jövőben a kérelem hiánytalan rendelkezésre állásától számítódik.
+
+A 115. §-hoz
+
+A jelenleg alkalmazott gyógyszer támogatási formák kiegészítése szükséges a meghatározott összegben, valamint a betegek költségvédelme érdekében bevezetésre kerülő maximált térítési díjban korlátozott formával. Továbbá a beteg-együttműködéssel összefüggő támogatási rend esetében lehetőség biztosítása az eltérő százalékos, vagy meghatározott összegben korlátozott támogatás biztosítására.
+
+A 116. §-hoz
+
+A biológiai és biohasonló gyógyszerek támogatása évről évre növekszik, és várhatóan egyre több biohasonló gyógyszer válik elérhetővé. Mindezek alapján a biológiai és biohasonló gyógyszerek speciális szakmai szabályait is figyelembe véve egyedi, de ugyanakkor hosszú távú szabályozás kialakítása szükséges. Ennek során indokolt, egy preferált 10%-os biológiai gyógyszer ársáv kialakítása, továbbá abban az esetben ha ezen sávba csak egy gyógyszer esik bele, az ellátásbiztonsági szempontok miatt egy további készítmény azonos feltétellel való bevonása. A biológiai és biohasonló gyógyszercsoportjainak sajátságát figyelembe véve, az Egészségbiztosító, gyártó, és beteg közötti finanszírozási kockázatmegosztás szükséges, melynek alapelve a beteg térítési díj emelkedése elleni védelem. A preferált készítményeknél minimális térítési díj fizetése mellett a fennálló árkülönbséget az Egészségbiztosító teljesen finanszírozza. A csoportba tartozó legkedvezőbb napi terápiás költségű biológiai gyógyszer árát 10%-ban meghaladó, de 30%-nál nem nagyobb áreltérésnél a beteg maximált térítési díja mellett az Egészségbiztosító csak akkor nyújt támogatást, ha készítmény forgalomba hozatali engedélyének jogosultja a fogyasztói ár és maximált térítési díj különbözetéből, valamint a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer fogyasztói árát 10%-kal meghaladó összegéből adódó különbözetet megtéríti. Abban az esetben, ha a biológiai gyógyszer napi terápiás költsége legalább 30%-kal meghaladja a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét, az egészségbiztosító a készítményhez nem nyújt támogatást.
+
+A biológiai gyógyszerek támogatási rendje során is biztosítani kell, hogy az árcsökkentések elérése érdekében a delistázásra is lehetőség legyen. Azonban a szakmai szempontok biztosítása érdekében más gyógyszereknél alkalmazott 90 napjával szemben itt 180 napos átmenet áll rendelkezésre, valamint ellenjegyzés esetében megfelelő szakmai indokkal a kezelés folytatható.
+
+A preferált referencia ársáv képzése kapcsán szükséges annak kizárása, hogy a támogatásból törölt gyógyszer fél éven belüli újonnan való befogadásakor ne kaphassa meg a preferált ársávra vonatkozó támogatási összeget.
+
+A 117. §-hoz
+
+A módosítást követően az OEP honlapján nem a teljes beérkezett kérelmeket és jogerőssé vált határozatokat, hanem csupán azok legfontosabb adatait kell közzétenni. Az OEP-hez benyújtott kérelmek tekintetében eddig problémát jelentett, hogy a kérelmek közzététele mellett az eljárás megindításáról is végzést kellett hozni, tekintve, hogy az eljárásban ügyfélnek minősülhet a többi forgalomba hozó is. A módosítás arra irányul, hogy ezt az eljárás megindításáról szóló végzést, valamint a kérelmek közzétételét felváltsa egy olyan jogintézmény, amely adattartalmában megfelelő tájékoztatást nyújt, de az OEP számára is reális mértékű terheléssel jár.
+
+A 118. §-hoz
+
+A Gyftv. az OEP részére csak a kérelemre vagy bejelentésre indult eljárások vonatkozásában teszi lehetővé a közfinanszírozás alapjául elfogadott ár meghatározását. A transzparens gyógyászati segédeszköz befogadási rendszer bevezetése óta több esetben került sor régi csoportok visszaállítására, illetőleg új csoportok megnyitására, nem befogadási kérelem alapján. Ezekben az esetekben az OEP-nek árat kell meghatároznia a csoportba tartozó (átsorolt) termékek vonatkozásában. A jelenleg hatályos jogszabályi környezet erről nem rendelkezik. A törvény tartalmazza, hogy az OEP a hivatalból folytatott eljárása során is dönthessen a közfinanszírozás alapjául elfogadott árról, melynek részletszabályai miniszteri rendeletben kerülnek meghatározásra.
+
+A Gyftv. 32/A. §-a (6) bekezdésének módosításával a már támogatásban részesülő gyógyászati segédeszközök felülvizsgálatára irányuló eljárásokban a Ket.-től eltérő új eljárási szabályok kerülnek meghatározásra, amelyek figyelembe veszik ezen eljárások sajátosságait. Az egészségbiztosítási szerv több ezer határozatot ad ki a fixesítési, valamint felülvizsgálati eljárások eredményeképpen. A szabályozás - az ügyfelek jogainak és érdekeinek maximális figyelembe vétele mellett - az eljárásokat a hatóság szempontjából teszi egyszerűbbé. Az egészségbiztosítási szerv minden olyan hivatalból indított felülvizsgálati eljárásban, amelynek eredményeképpen az eljárással érintett gyógyszer nem kerül kizárásra, az eljárással érintett gyógyászati segédeszközre vonatkozóan hozott határozatot elektronikus úton közli az ügyféllel. A felülvizsgálati eljárások eredményeként kizárásra kerülő gyógyszerek tekintetében továbbra is a Ket. szerinti határozatát hozza meg az egészségbiztosító, melyek közlése tekintetében is az általános szabályok alkalmazandóak.
+
+A 119. §-hoz
+
+A preferált referencia ársáv rendszer bevezetésével elindított szabályozási változásokkal összhangban fontos a Gyftv. további módosítása a tekintetben, hogy azon csoportokban, ahol a preferált referencia ársáv nem került kialakításra, 2012. január 1-jétől csak a referencia vagy annál kedvezőbb napi terápiás költségű készítmény legyen írható a közgyógyellátás keretében.
+
+Az új szabályozás mutatott rá arra, hogy szükséges azt is rögzíteni, hogy ha egy adott gyógyszer valamely jogcímen preferált referencia ársávba tartozik, akkor a közgyógyellátottak számára történő rendelés esetében ennek a gyógyszernek minden más jogcímen történő rendelését is engedje meg a szabályozás.
+
+A korábbi évek gyakorlatával összhangban kedvezményekkel ösztönzi a kutatás-fejlesztési tevékenységet.
+
+A 120. §-hoz
+
+A gyógyszergyártói befizetések alól mentesíteni kell a közbeszerzéssel beszerzett különkeretes gyógyszerek mellett a Magyarországon nem befogadott készítményeket, melyekhez az Egészségbiztosítási Szerv egyedi méltányosság keretében támogatást nyújt.
+
+Továbbá meg kell határozni az új generikus program további élénkítése azon eseteket mely során, ha a gyártó a fixesítési eljárás első körében - mely a referencia készítmény, vagy a preferált referencia ársáv meghatározására szolgál - árat csökkent akkor mentesül a 20%-os gyógyszergyártói befizetés alól arányosan 50%-ot meg nem haladó árcsökkentési mértékben, vagy teljes mértékben mentesül ez alól az 50%-ot meghaladó árcsökkentés esetén.
+
+A 121. §-hoz
+
+A térben és időben folyamatos gyógyszerellátás biztosítás érdekében lényeges a kisforgalmú gyógyszertárak rendelkezésre álló források bővítése. A módosítás a díjfizetési kötelezettséget nem az egyes gyógyszertárak közfinanszírozott forgalma alapján állapítja meg, hanem a vállalkozás adószáma alapján, ami a szolidaritási díjak növekedését eredményezheti, mert az azonos tulajdonosi körhöz tartozó patikák forgalmát összegezve veszi figyelembe. A megnövelt szolidaritási díj a vidéki kisforgalmú gyógyszertárak támogatására fordítható.
+
+A 122. §-hoz
+
+A gyógyszerkassza időszakos egyenlegének biztosítása érdekében indokolt, hogy csak az első félévet követően lépjen életbe az egészségbiztosítási szerv és a gyártók közötti kockázatvállalás megosztása.
+
+Valamint indokolt, hogy a Gyftv. 36. § (1)-(2) és (4)-(4a) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyév január-december hónapjaira teljesített összeg helyett az adódó összeg kerüljön figyelembe vételre, nem büntetve azon gyártókat, amelyek befizetési kötelezettségüket időben teljesítik.
+
+A 123. §-hoz
+
+A betegek teljesebb tájékoztatását, valamint a költségtakarékos gyógyszer választását elősegítendő a továbbiakban a kiszolgáltatás során dokumentált módon szükséges tájékoztatni a beteget a megfelelő helyettesíthetőségi feltételeket figyelembe véve elérhető referencia vagy annál kedvezőbb árú készítményekről, vagy a preferált referencia ársávba tartozó készítményről.
+
+Indokolt, hogy a nemzetközi gyakorlatnak megfelelően a biohasonló gyógyszerek térnyerésének elősegítése céljából, valamint ezáltal a támogatáskiáramlás megfékezésének érdekében a preferált biológiai gyógyszerek esetében megfelelő évről évre emelkedő arányú minimális rendelési arány (kvóta) kerüljön előírásra. Ennek elérése a beteget ismerő és kezelő orvosok kompetenciája.
+
+A 124. §-hoz
+
+Megfelelő gyógyszerészi ösztönző alkalmazásával a generikus rendszer folyamatos fenntartása biztosítható, mely mind az Egészségbiztosítási Szervnek, mind pedig a betegeknek jelentős megtakarítást jelent. Az ösztönző pontosítása szükséges a preferált referencia ársávba tartozó gyógyszer expediálásának esetére, vagy a hatóanyagnéven történő rendelés esetén a legkedvezőbb árú gyógyszer expediálására.
+
+A 125. §-hoz
+
+A jogszabály módosítás a vényíró szoftverek esetében kötelezővé teszi a költségtakarékos gyógyszerfelírást támogató információk megjelenítését.
+
+A tételes elszámolás alá tartozó gyógyszerkör rendelésére bevezeti a speciális minősített szoftver alkalmazását, mely lehetővé teszi a felírás megfelelőségének ellenőrzését, valamint az eredmény alapú támogatáshoz is alapadatot szolgáltat.
+
+A 126. §-hoz
+
+A gyógyszertár létesítésére vonatkozó szabályok Budapest esetén a korábbi időszakhoz hasonlóan kerületekre vonatkoznak. Ezt szükséges kimondani az egységes jogalkalmazás és a normavilágosság érdekében.
+
+A 127. §-hoz
+
+A gyógyszertár működtetője minden olyan tervezett változást, amely érinti a működési engedély kiadásának feltételeit, illetve a működési engedélyben szereplő adatokat, köteles előzetesen írásban bejelenteni az egészségügyi államigazgatási szervnek. Amennyiben a változás érinti a működési engedély előírt kötelező tartalmát, a bejelentéssel egyidejűleg kérni kell a működési engedély módosítását. Ennek megfelelően az egészségügyi államigazgatási szerv a működési engedélyt csak módosíthatja, azt vissza nem vonhatja. Az engedély visszavonásának eseteit indokolt külön bekezdésben részletezni.
+
+A 128. §-hoz
+
+A Gyftv. 56. §-a alapján a személyi jog adott közforgalmú gyógyszertár vezetésére és működtetésére jogosít, ebből következően a személyi jog visszavonása vagy megszűnése esetén a gyógyszertár további működtetésére kizárólag a Gyftv. 60/B-60/C. §-ában szabályozott átruházás és öröklés, illetve a Gyftv. 60/D. §-ában és a 65. § b) pontjában foglaltak esetén van lehetőség, minden más esetben a létesítési és működési engedély visszavonása indokolt.
+
+A 129. §-hoz
+
+A személyi jog megszűnésének esetei között meg kell említeni az átruházás folytán való megszűnést is.
+
+A 130. §-hoz
+
+A Gyftv. 56. §-a alapján a személyi jog adott közforgalmú gyógyszertár vezetésére és működtetésére jogosít, ebből következően a gyógyszertár megszűnését követően a személyi jog engedély jogalapja is megszűnik, az önállóan másik gyógyszertár működtetésére nem alkalmas.
+
+A 131. §-hoz
+
+A Gyftv. előírja, hogy a közforgalmú gyógyszertárat a személyi jogos gyógyszerésznek személyesen kell vezetnie. Erre tekintettel szükséges kimondani, hogy a személyi jogos gyógyszerész nem csak gyógyszertárban vagy gyógyszertárat működtető gazdasági társaságban, hanem egyéb helyen sem létesíthet munkaviszonyt a tudományos, oktatói és a szerzői jogi védelem alá eső tevékenységek kivételével.
+
+Azokon a kistelepüléseken, amelyek gyógyszerellátását egy olyan közforgalmú gyógyszertár biztosítja, amely egy gyógyszerésszel működik, a gyógyszerész szabadsága idején is biztosítható a gyógyszerellátás, ha az érintett személyi jogos gyógyszerészek egymás helyettesítéséről megállapodás alapján gondoskodnak. Így a gyógyszertárat nem kell bezárni és a gyógyszertár nyitva tartása költségkímélő módszerrel, megfelelő szakmai színvonalon biztosítható. Ez a gyakorlat az egészségügyi államigazgatási szerv felügyeletével korábban megfelelően működött. A módosítás ennek a gyakorlatnak a helyreállítását célozza.
+
+A 132. §-hoz
+
+A házhoz szállítás definíciójának normatív tartalommal bíró rendelkezése került át az érintett bekezdésbe.
+
+A 133. §-hoz
+
+A § a Gyftv. módosításaihoz kapcsolódó átmeneti rendelkezéseket tartalmaz.
+
+A 134. §-hoz
+
+Felhatalmazza a Kormányt arra, hogy az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógussal kapcsolatos bírság összegét és befizetését rendeletben szabályozza, valamint az egészségügyért felelős minisztert arra, hogy a gyógyászati segédeszközök házhoz szállításának feltételeit és szabályait rendeletben állapítsa meg.
+
+A § felhatalmazó rendelkezéseket tartalmaz továbbá a beteg-együttműködésre vonatkozó támogatási rendhez, a preferált biológiai gyógyszerek rendelésének kötelező minimális arányának szabályozására, valamint az eredmény alapú támogatás egyes elemeinek kialakításához.
+
+A 135. §-hoz
+
+A már 2011. augusztus 1-jétől indult eljárás során elért árcsökkentéseket is figyelembe veszi a gyógyszergyártói befizetések során.
+
+A 136. §-hoz
+
+A működési engedély visszavonását a törvény a Gyftv. 54. § (2) bekezdésében a létesítési engedéllyel egyidejűleg rendeli visszavonni, a szövegezésből az következik, hogy az 54. § (1) bekezdésben foglalt esetekben is így kell eljárnia a hatóságnak. A módosítással egyértelművé válik a szabályozás.
+
+Egyebekben technikai jellegű módosításokat tartalmaz.
+
+A 137. §-hoz
+
+Technikai jellegű módosítás.
+
+A 138. §-hoz
+
+A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény alapján 2012. január 1-jétől egészségügyi szakellátási kötelezettsége (ideértve a fekvőbeteg-szakellátásokat, az integrált járóbeteg-szakellátást és az önálló járóbeteg-szakellátást) csak az államnak lesz, a helyi önkormányzatok a tulajdonukban, illetve a fenntartásukban lévő fekvőbeteg- és járóbeteg-szakellátó intézmények működtetéséről lesznek kötelesek gondoskodni. Ennek megfelelően szükséges az Eftv. szereplő fogalmakat felülvizsgálni és a törvényt új fogalom-meghatározásokkal kiegészíteni, így definiálásra kerül az egészségügyi szakellátási intézményműködtetési kötelezettség, a szakellátási kötelezettség és a szakellátási feladat, módosításra kerül az ellátási terület és a területi ellátási kötelezettség fogalma.
+
+A 139. és 141. §-hoz
+
+A 2011. évi CLIV. törvény alapján a helyi önkormányzatoknak 2012. január 1-jétől már nem lesz egészségügyi szakellátási kötelezettsége, szükséges az egészségügyi szakellátásokért való felelősség rendszerét az Eftv.-ben is átalakítani.
+
+Az új rendszerben az egészségügyi közszolgáltatásért felelős szervek közül a helyi önkormányzatok az Eütv. 152. §-ban foglaltakon alapuló egészségügyi szakellátási intézményműködtetési kötelezettségüknek, a Magyar Állam az Eütv. 141. §-ában foglaltakon alapuló egészségügyi szakellátási kötelezettségének, az előzőekben nem említett szervek (pl. egyházak) az Eftv.-n alapuló szakellátási feladatuknak kell, hogy eleget tegyenek. Ezen kötelezettség mértéke 2012. április 30-áig járó- és fekvőbeteg-szakellátások esetében egyaránt a 2010. december 31-én lekötött kapacitások mértékének és szakmai összetételének felel meg, amit az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen kell teljesíteni. Tekintettel azonban arra, hogy a 2011. évi CLIV. törvény alapján 2012. március 31-éig újra meg kell állapítani a fekvőbeteg-szakellátási kapacitásokat és az azokhoz tartozó ellátási területeket, 2012. május 1-jétől a fekvőbeteg-szakellátások estében már a kapacitások és ellátási területek nyilvántartásának mindenkori állapota határozza meg a szakellátási kötelezettség, intézményműködtetési kötelezettség és a szakellátási feladat mértékét és szakmai összetételét. Járóbeteg-szakellátások vonatkozásában 2013. január 1-jével lehet majd áttérni erre a rendszerre. Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási kötelezettségének, illetve az egészségügyi szakellátási intézményműködtetési kötelezettségének, vagy a szakellátási feladatának teljesítése érdekében továbbra is köthet más egészségügyi közszolgáltatásért felelős szervvel vagy más fenntartóval az ellátási kötelezettség teljesítéséről megállapodást, illetve egészségügyi ellátási szerződést.
+
+A 140. §-hoz
+
+Az Eftv. 2/D. §-ának (1) bekezdése alapján eddig minden, az egészségügyi ellátási szerződés alapján feladatot átvállaló és ellátást nyújtó egészségügyi szolgáltató köteles volt vagyoni biztosítékot adni. Tekintettel arra, hogy a vagyoni biztosíték célja az egészségügyi ellátórendszer folyamatos működésének biztosítása olyan helyzetben is, amikor a feladatot átvállaló és ellátó szolgáltató gazdaságilag nehéz helyzetbe kerül, indokolt a vagyoni biztosíték adási kötelezettség alól mentesíteni az ellátási szerződés tárgyát képező ellátás tekintetében szakellátási kötelezettséggel rendelkező fenntartóhoz tartozó egészségügyi szolgáltatót. Ha ugyanis egy ilyen szolgáltató nem tudja a továbbiakban folytatni a vállalt szakellátási feladatot, helyette az államnak - a szakellátási kötelezettsége alapján - egyébként is gondoskodnia kell a feladat ellátásának más módon történő megszervezéséről.
+
+A 142. §-hoz
+
+A szakellátási kapacitásokkal és az azokhoz tartozó ellátási területekkel kapcsolatos döntéshozatal olyan szerteágazó ismereteket, heterogén adatokat igénylő feladat, amellyel nem rendelkezhet egyetlen hatóság, ezért szükséges előírni, hogy az ilyen eljárásokban a Kormány által kijelölt szerv szakértői véleményét figyelembe kell venni.
+
+A 143. §-hoz
+
+A szakellátási rendszer átalakításának részét képezi a fekvőbeteg-szakellátási, majd félévvel később a járóbeteg-szakellátási kapacitások újbóli megállapítása. Az ehhez szükséges szempontrendszer felülvizsgálatra szorul. Szükséges továbbá rendezni, hogy mi történik azokkal a kapacitásokkal, amelyek esetleg nem kerülnek újból kiosztásra. A törvény szerint ezek a kapacitások tartalék kapacitásnak minősülnek, amelyek a rendszer későbbi korrekcióihoz szolgálhatnának eszközül.
+
+A kapacitások és az ellátási területek újbóli megállapítását követően az adatok hiteles forrása az egészségügyi államigazgatási szerv által vezetett, e törvény erejénél fogva közhitelesnek minősülő nyilvántartás lesz, ezért szükséges a végrehajtási rendeletben részletesen szabályozni a nyilvántartás tartamai elemeit és kezelésének szabályait, amire a törvény felhatalmazást ad.
+
+Tekintettel arra, hogy 2012. január 1. és 2012. április 30. között folyamatban lesz a fekvőbeteg-szakellátási kapacitások és ellátási területek felosztása, a rendelkezésre álló kapacitások és ellátási területek átláthatósága érdekében szükséges rendelkezni arról, hogy ez idő alatt nem lehet kapacitást átcsoportosítani, leépíteni és ellátási területet módosítani. Ez alól kivételt kell, hogy képezzenek azok az esetek, amikor az eljárás 2011. december 31-én már folyamatban volt, továbbá az eljárás az uniós pályázatokban foglaltakra tekintettel kezdeményezett kapacitás-módosításra irányul, vagy az eljárás lefolytatását rendkívüli ellátási érdek indokolja.
+
+A 144. §-hoz
+
+Az Eftv. eddig hatályos szabályai szerint a fenntartó csökkenthette - az érintett egészségügyi szolgáltató szakmai véleményének kikérését követően - a szakellátási kötelezettsége mértékét az átlagtól való eltérés mértékével, illetve megváltoztathatta szakmai összetételét. Tekintettel arra, hogy ezen döntések meghozatala során ütközhetett egymással a fenntartó érdeke és a biztosítottak érdeke, indokolt ezt az eljárást a tőlük független egészségügyi államigazgatási szervhez telepíteni.
+
+A 145. §-hoz
+
+Az Eftv. eddig hatályos szövege egységesen rendezte a fekvőbeteg-szakellátási és a járóbeteg-szakellátási kapacitásokhoz tartozó ellátási területek megállapítása, módosítása során figyelembe veendő szempontokat. Tekintettel azonban arra, hogy a 2011. évi CLIV. törvény a fekvőbeteg-szakellátási kapacitásokhoz tartozó ellátási területek - 2012. március 31-éig történő megállapításához - új szempontrendszert határoz meg, amely a járóbeteg-szakellátási kapacitásokhoz tartozó ellátási területekre nem alkalmazható, szükséges az Eftv.-ben az eddig hatályos szabályokat a járóbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területekre szűkíteni és a fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek vonatkozásában a 2011. évi CLIV. törvényben foglaltaknak megfelelő új szabályokat megállapítani.
+
+A 146. §-hoz
+
+Az Eftv. eddig hatályos szabályai szerint az ellátási területet az érintett egészségügyi szolgáltatók fenntartói megállapodásukban módosíthatták, amit tájékoztatásul meg kellett küldeni a kapacitásokat és ellátási területeket tartalmazó nyilvántartást vezető egészségügyi államigazgatási szerv részére. Mivel azonban az ellátási terület módosítása során is meg kell felelni az ellátási területtel szemben támasztott törvényi feltételeknek, indokolt előírni, hogy a módosítás csak abban az esetben válhat érvényessé, ha azt a feltételek teljesülésének ellenőrzésére kompetens egészségügyi államigazgatási szerv jóváhagyja.
+
+Eddig szabályozatlan volt az ellátási területek módosításának az az esete, amikor olyan egészségügyi szolgáltatók közötti területátcsoportosításról van szó, akik egy és ugyanazon fenntartóhoz tartoznak. Jelen módosítás eredményeként a fenntartó a fenntartásában működő egészségügyi szolgáltatók ellátási területeit a jövőben módosíthatja, amennyiben a módosítás nem érinti a más fenntartóhoz tartozó egészségügyi szolgáltatók ellátási területeit. A fentebb írt okok miatt ez a módosítás csak abban az esetben érvényes, ha azt az egészségügyi államigazgatási szerv jóváhagyja.
+
+A 147. §-hoz
+
+A szakellátási kapacitásokat és az azokhoz tartozó ellátási területeket megállapító, módosító határozatok azonnali végrehajthatóságához alapvető társadalmi érdek fűződik, mivel egy adott szolgáltató kapacitásainak és ellátási területeinek sorsa kihathat a környezetében működő - azonos ellátást nyújtó - többi egészségügyi szolgáltató kapacitásaira és ellátási területeire, ezért egy határozatnak - az annak helyébe lépő új határozatot megelőző - végre nem hajtása veszélyeztetheti egy adott térség lakosságának egészségügyi ellátását. Mindezekre tekintettel indokolt törvényben rögzíteni egyrészt azt, hogy az ilyen határozatokkal szemben fellebbezésnek nincs helye, másrészt pedig azt, hogy a szakellátási kapacitást, illetve ellátási területet megállapító, illetve módosító határozattal szembeni bírósági felülvizsgálati eljárásban nincs helye a határozat végrehajtása felfüggesztésének.
+
+A 148. §-hoz
+
+Az Eftv. eddig az egészségügyi szolgáltató számára biztosította annak lehetőségét, hogy - a fenntartója egyetértésével - kezdeményezhesse a jogszabályban előírt feltételek fennállása esetén a lekötött kapacitásának más ellátási formába történő átcsoportosítását, krónikus fekvőbeteg-szakellátási kapacitásainak a krónikus szakmák közötti átcsoportosítását, egyéb kapacitásainak más szakmákba történő átcsoportosítását. Tekintettel arra, hogy a kapacitások mértéke és szakmai összetétele a fenntartó szakellátási kötelezettségének, egészségügyi szakellátási intézményműködtetési kötelezettségének, illetve szakellátási feladatának mértékét és összetételét határozza meg, indokolt, hogy annak megváltoztatását az egészségügyi szolgáltató helyett a fenntartó kezdeményezhesse, ezért módosítani szükséges az Eftv. 7. §-át.
+
+A 149. §-hoz
+
+Az Eftv. 8. §-ának módosítása egyrészt az Eftv. 3. §-a (1) bekezdésének módosítása miatt szükséges, másrészt pontosítani szükséges a befogadott kapacitásokon nyújtott szakellátások finanszírozására vonatkozó rendelkezést, mivel befogadásra vonatkozó szabályokat az Eftv.-n kívül a végrehajtásáról szóló kormányrendelet is tartalmaz.
+
+Az Eftv. hatályos szövege szerint az egészségügyi szolgáltatóval csak azt követően köthető finanszírozási szerződés, hogy a szolgáltató ellátási területe megállapításra került. Tekintettel arra, hogy bizonyos esetekben a finanszírozási szerződésnek egyidejűleg kell életbe lépnie az ellátási terület megállapításával, módosításával, szükséges lehetővé tenni, hogy a kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható legyen a még nem jogerős határozat alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat jogerőre emelkedése napján válhat hatályossá.
+
+A 150. §-hoz
+
+A szakellátási felelősségi rendszernek a 2011. évi CLIV. törvény szerinti átalakítására tekintettel szükséges az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásait és az azokhoz tartozó ellátási területeket is újra megállapítani. A megállapított kapacitások és ellátási területek alapján az egészségbiztosító 2012. december 31-éig módosítja, illetve megköti az egészségügyi szolgáltatók finanszírozási szerződéseit.
+
+Mivel az egészségügyi régiót - 2012. május 1-jei hatálybalépéssel - felváltja a térségi rendszer, aminek a járóbeteg-szakellátásokhoz kapcsolódó ellátási területek a járóbeteg-szakellátási kapacitások és ellátási területek újbóli megállapításáig nem feltétlenül fognak megfelelni, szükséges előírni, hogy a járóbeteg-szakellátási kapacitások és a hozzá kapcsolódó ellátási területek megállapítása, átcsoportosítása, módosítása során 2012. december 31-éig az egészségügyi államigazgatási szerv nem hozhat elutasító döntést arra hivatkozással, hogy az egészségügyi térséghatároknak nem felel meg a kapacitás, illetve az ellátási terület megállapítása, átcsoportosítása, módosítása, azzal, hogy a térséghatárokat lehetőség szerint figyelembe kell venni.
+
+A 151. §-hoz
+
+A szakellátási kapacitásokkal és az ellátási területekkel kapcsolatos eljárások vonatkozásában szükséges kijelölni az eljáró államigazgatási szervet és az ezekben az eljárásokban véleményadásra jogosult szakértői szervet, amire jelen törvény a Kormánynak ad felhatalmazást.
+
+A 152. §-hoz
+
+Az Eftv. egyes részeinek szövegcserés módosítása egyrészt az egészségügyi térségi rendszer - 2012. május 1-jével történő - bevezetése miatt, másrészt pedig amiatt szükséges, hogy a fekvőbeteg-szakellátási kapacitások és ellátási területek tekintetében 2012. május 1-jével a szakellátási kötelezettség, intézményműködtetési kötelezettség és szakellátási feladat mértékére és szakmai összetételére vonatkozó adatok hiteles forrása az egészségügyi államigazgatási szerv által vezetett nyilvántartás lesz.
+
+A 153. §-hoz
+
+Jelen szakasz az Eftv. törvény szerinti módosításaival, valamint a 2011. évi CLIV. törvénnyel összefüggésben az Eftv. egyes rendelkezéseit hatályon kívül helyezi.
+
+A 160. §-hoz
+
+Az egyes egészségügyi tárgyú törvények módosításáról szóló 2009. évi CLIV. törvény 128. §-ának (1) bekezdése alapján az Ebtv. 10-17. §-a szerinti egészségügyi szolgáltatásokra 2011. december 31-ig - 2012. január 1-jei hatálybalépéssel - új finanszírozási szerződéseket kellene kötni az általános szerződési feltételek bevezetése miatt. Az új finanszírozási szerződések hatályának beálltával egyidejűleg a korábbi finanszírozási szerződések a törvény erejénél fogva megszűnnének. A 2011. évi CLIV. törvényben foglaltak szerint azonban 2012. március 31-éig 2012. május 1-jei hatálybalépéssel újra meg kell határozni a finanszírozási szerződéssel rendelkező, fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók fekvőbeteg-szakellátási kapacitásait és az azokhoz kapcsolódó ellátási területeket, amely alapján az egészségbiztosítási szervnek 2012. május 1-jéig módosítania kell a finanszírozási szerződéseket. A járóbeteg-szakellátások vonatkozásában ugyanez a folyamat jelen törvény 118. §-a alapján 2012. december 31-éig fog lezajlani. Mindezekre tekintettel indokolt, hogy a 2009. évi CLIV. törvény 128. §-ának (1) bekezdésében előírt szerződéskötési kötelezettség kerüljön hatályon kívül helyezésre. Annak érdekében pedig, hogy az ellátórendszer részét képező gyógyszertárak, gyógyászati segédeszközt forgalmazók és gyógyászati ellátás nyújtó szolgáltatók támogatási szerződései az egészségügyi szolgáltatók finanszírozási szerződéseinek módosításával egyidejűleg kerüljenek lecserélésre, szükséges a 2009. évi CLIV. törvény 128. §-ának (2) bekezdésében a határidőket módosítani.
+
+A 161. §-hoz
+
+Szövegcserés módosításokat tartalmaz, valamint új büntetőjogi tényállást illeszt be a Btk.-ba: visszaélés új pszichoaktív anyaggal.
+
+A 162. §-hoz
+
+A rendelkezés a Magyar Köztársaság 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel összefüggésben elfogadott módosításokkal való összhangot teremti meg.
+
+-----STARTING---POINT---VEGE---
+
+A 163. §-hoz
+
+A hatályba léptető rendelkezéseket tartalmazza.
+
+A 164. §-hoz
+
+A jogharmonizációs záradékot tartalmazza.

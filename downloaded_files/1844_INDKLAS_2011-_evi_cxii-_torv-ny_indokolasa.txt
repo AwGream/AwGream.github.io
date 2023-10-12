@@ -1,0 +1,423 @@
+2011. évi CXII. törvény indokolása
+
+az információs önrendelkezési jogról és az információszabadságról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az információs önrendelkezési jogról és az információszabadságról szóló törvény célja, hogy az Alaptörvény VI. cikke alapján, az ott biztosított alapjogok érvényesítése érdekében meghatározza az információs jogok tartalmát és biztosítsa e jogok hatékony érvényesülését. A személyes adatok védelméhez és a közérdekű adatok nyilvánosságához fűződő alapjogok érvényesítésének kereteit mindezidáig a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) határozta meg. Ez a minősített többséggel elfogadható törvény rögzítette a különböző adatkezelések jogszerűségének általános feltételeit, ezen belül egyrészt a személyes adatok kezelésének garanciális szabályait és az érintett információs önrendelkezési jogait, másrészt a közérdekű adatokhoz való hozzáférés módját, valamint az e jogok érvényesítésére rendelkezésre álló jogorvoslati lehetőségeket, létrehozva az adatvédelmi biztos jogintézményét és szabályozva hatáskörét. Az Avtv. által meghatározott magyar adatvédelmi rendszer európai összevetésben is kimagasló, csakúgy, mint az a nyilvánosságpárti megközelítés, amelyet a közérdekű adatok megismerhetősége kapcsán alkalmaz, a törvény közel két évtizedes alkalmazásának, valamint a biztosi intézmény másfél évtizedes működésének tapasztalataira építve azonban időszerű az információs önrendelkezési jogról, valamint az információszabadságról új törvényt alkotni.
+
+Erre ad lehetőséget az Alaptörvény elfogadása, amelynek VI. cikke - a vonatkozó alapjogok biztosítása mellett - rendelkezik arról is, hogy a személyes adatok védelméhez és a közérdekű adatok megismeréséhez való jog érvényesülését sarkalatos törvénnyel létrehozott, független hatóság ellenőrzi, alkotmányos szintre emelve ezzel az említett alapjogok ellenőrzésére hivatott szerv függetlenségét.
+
+Az adatvédelmi biztosi intézményt ugyanis az Alkotmány kifejezetten nem szabályozta, ellentétben az állampolgári jogok országgyűlési biztosával és a nemzeti és etnikai kisebbségek jogainak felügyeletével megbízott országgyűlési biztossal. A biztosi intézmény működése során bebizonyosodott, hogy az ombudsmani hatáskör és eszköztár nem nyújt megfelelő mozgásteret és lehetőséget a jogsértések kivizsgálására és szankcionálására. Az információtechnológia elterjedése, az ennek nyomán változó társadalmi szokások folytán, illetve a globalizáció által teremtett új helyzetben a ’90-es évek közepén létrehozott ombudsmani rendszernél lényegesen hatékonyabb hatósági fellépésre van szükség. Erre a szerepre megfelelőbb szervezeti forma a hatóság, így az ombudsmani intézmény helyett az új kihívásokkal szembenézni képes hatóságot kell kialakítani. Az új körülmények szükségessé teszik, hogy az Alaptörvény koncepciójába illeszkedő és az európai uniós elvárásoknak megfelelő új szabályozás és szervezet jöjjön létre ezen a területen.
+
+Az információszabadságra vonatkozó kötelező uniós jogi aktusokból nem következik a tagállamokra nézve olyan követelmény, hogy a közérdekű adatok megismeréséhez fűződő jogot ugyanaz a hatóság ellenőrizze, amely a személyes adatok védelméhez való jog érvényesülését is felügyeli. Ez modellválasztás kérdése, amelyben Magyarország hagyományosan a közös modellt alkalmazta, és ettől a törvény sem tér el a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: Hatóság) létrehozásával.
+
+A törvény a közérdekű adatok megismerhetősége kapcsán túlmutat a hagyományos megközelítésen, és az információs jogok keretei közé emeli a közfeladatot ellátó szervek arra vonatkozó kötelezettségét, hogy a közélet működésének átláthatósága szempontjából alapvető jelentőségű adatok nyilvánosságát az érintett szervek az elektronikus közzététel útján proaktív módon is biztosítsák. Ezért a törvény a saját keretei közé emeli az elektronikus információszabadságról szóló törvény vonatkozó rendelkezéseit is.
+
+-----STARTING---POINT---RESZLETES---
+
+Az I. fejezethez
+
+Az 1-2. §-hoz
+
+A törvény az általános szabályok között az Avtv. rendszerét követve határozza meg a törvény célját és hatályát. A közszféra információinak további felhasználásáról szóló, 2003. november 17-i 2003/98/EK európai parlamenti és tanácsi irányelvben foglaltak átültethetőségének biztosítására tekintettel azonban a törvény szűkíti a tárgyi hatályát annak érdekében, hogy egyértelműen el lehessen különíteni egymástól az Alaptörvény VI. cikke szerinti alapjogot és annak érvényesítését a közszférában keletkezett információk hasznosítására irányuló, alapvetően gazdasági jelenségtől, amelynek szabályozása nem igényel alapjogvédelmi garanciákat, és így külön törvény szabályozási tárgykörébe tartozik.
+
+A 3. §-hoz
+
+A törvény alapvetően követi az információs jogok magyar szabályozásában megszilárdult fogalomrendszert, de a jogalkalmazói gyakorlat tapasztalatai, valamint a nemzeti és közösségi jogrendszer fejlődése nyomán egyes pontokon eltér az Avtv. szerinti értelmező rendelkezésektől.
+
+A törvény a „személyes adat” fogalmából levezethető tartalommal azonosan meghatározza a személyes adatok védelmének rendszerében alapvető és eddig is alkalmazott „érintett” fogalmát.
+
+A „személyes adat” fogalmának meghatározása során a törvény a fogalom értelmezésére szorítkozik, az Avtv.-ben a fogalommeghatározások között szabályozott normatív tartalmat a törvény 4. § (3) bekezdésében, az érdemi rendelkezések között rögzíti, a személyes adat minőség pontosabb körülírásával.
+
+A törvény a különleges adatok körében a szexuális életre vonatkozó adatot áthelyezi abba a csoportba, amelynek kötelező kezelése szigorúbb feltételekhez kötött.
+
+A „közérdekű adat” fogalma egyértelművé teszi, hogy az elsődlegesen a közfeladat ellátásának funkciójához kapcsolódik, a fogalom továbbá kiegészül egy példálózó felsorolással.
+
+A „közérdekből nyilvános adat” fogalmában a törvény az Avtv. szerinti meghatározást a „megismerhetőség” alaptörvényi terminológiájával egészíti ki, nem érintve ezzel a fogalom érdemi tartalmát.
+
+A törvény az „adatmegjelölés” és „adatzárolás” tekintetében a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat (a továbbiakban: 2008/977 kerethatározat) szabályaihoz igazítja a magyar szabályozást.
+
+Az „adatfeldolgozás” új fogalma tisztázza, hogy nem bármilyen, az adatkezeléshez kapcsolódó technikai feladat, hanem csak az adatokon végzett technikai feladat minősül adatfeldolgozásnak. A definíció alapján egyértelművé válik, hogy az elektronikus hírközlési szolgáltatás, a kormányzati célú hírközlési szolgáltatás, az informatikai fejlesztés, elektromosáram-ellátás, épület vagy egyéb infrastruktúra biztosítása - mivel ezeket a technikai feladatokat nem az adatokon végzik - nem minősül adatfeldolgozásnak.
+
+Azzal, hogy a törvény az információszabadság keretein belül, egy törvényben szabályozza az elektronikus közzétételi kötelezettséget, szükségessé vált az elektronikus információszabadságról szóló törvény „adatfelelős” és „adatközlő” fogalommeghatározásainak jelen törvénybe való átültetése.
+
+Az „adatállomány” fogalmának pontosítása során a törvény figyelembe vette az Avtv. hatályba lépése óta a jogrendszerben lezajlott változásokat, és a „személyesadat-nyilvántartó rendszer” elhagyásával az általánosabb, és külön meghatározást nem igénylő „nyilvántartás” kifejezést veszi alapul.
+
+A II. fejezethez
+
+A személyes adatok védelme körében a törvény alapvetően megtartja az Avtv. rendszerét, de a szabályozást kiegészíti az Alkotmánybíróság gyakorlatából leszűrhető elvekkel, valamint a jogalkalmazói tapasztalatok alapján néhány tartalmi változtatást is tartalmaz.
+
+A 4. §-hoz
+
+Az adatkezelés elveihez kapcsolódóan a törvény elsőként a célhoz kötöttség elvét rögzíti, amely az adatkezelésre vonatkozó egyik legfontosabb, nemzetközileg kimunkált alapelv. Az alapelv tiszteletben tartása esetén az adatkezelő csupán olyan személyes adatokat kezel, amelyek feladatai, hatáskörei ellátásához szükségesek. Az adattakarékosság elvének törvénybe iktatásával a jogalkotó a nemzetközi gyakorlat tapasztalatait hasznosítja. Ezen alapelv figyelembe vétele szavatolja, hogy az adatkezelés céljára tekintettel csupán a legszűkebb, indokolt adatkör kezelésére kerül sor. Az adattakarékosság elvéhez kapcsolódóan biztosítani kell, hogy az adatok alapján az adott személy azonosítására csak a tárolás céljához szükséges ideig legyen lehetőség. A célhoz kötöttség és adattakarékosság követelménye az adatkezelés valamennyi szakaszára kiterjed, beleértve az adattovábbítást is. Az adatkezelés célja határozza meg az adatfelvételbe bevont érintettek körét és a cél eléréséhez szükséges adatfajtákat. Ez a rendelkezés kizárja a készletezésre történő adatkezelést, azaz hogy olyan adatok felvételére kerüljön sor, amelyeket csak később meghatározott célból gyűjtenek. Az adatok minőségének követelménye is a nemzetközileg kidolgozott alapelvek közé tartozik, amely a tisztességesség és törvényesség kritériumán túl a pontos, teljes és naprakész adatok kezelését teszi az adatkezelő kötelezettségévé.
+
+Az 5-6. §-hoz
+
+A törvény a személyes adatok kezelését főszabály szerint továbbra is két jogalapon teszi lehetővé: egyrészt az érintett - előzetes tájékoztatáson alapuló - hozzájárulása alapján, másrészt kötelező jelleggel, amennyiben azt törvény vagy törvény felhatalmazása alapján, az abban meghatározott körben helyi önkormányzat rendelete közérdeken alapuló célból elrendeli. A kötelező adatkezelés elrendelésének feltételei szigorúbbak a különleges adatok esetében, így az ilyen adatokat csak törvény alapján, a különleges adatok egy csoportja körében pedig emellett csak meghatározott célból lehet az érintett hozzájárulása nélkül kezelni. A hozzájárulás ebben a körben minden esetben írásbeli hozzájárulást jelent.
+
+A kötelező adatkezeléssel kapcsolatban garanciális jelentősége van annak, hogy az adatkezelést elrendelő jogalkotó - az adatkezelés elveinek figyelembe vétele mellett - mérlegelje az adatkezelés részleteit; e tekintetben a törvény - az Avtv.-hez hasonlóan - továbbra is előírja az adatkezelést elrendelő jogszabály kötelező tartalmi elemeit.
+
+A személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról szóló, 1995. október 24-i 95/46/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 95/46 irányelv) harmonizációs kötelezettséget ró a tagállamokra. A harmonizáció célja, hogy a személyes adatok magas szintű védelme mellett a személyes adatok a közös piacon szabadon áramolhassanak. A tagállamnak tehát az alapjog védelmének kialakítása során arra is figyelemmel kell lennie, hogy a nemzeti szabályok az adatok áramlását ne akadályozzák. A 95/46 irányelv a személyes adatok kezelésével járó jogviszonyok tipizálása során a következő kategóriákat különbözteti meg:
+
+1. az érintett hozzájárulásával jön létre a jogviszony;
+
+2. az érintettel kötött szerződés alapján jön létre jogviszony (vagy ezt a szerződést készítik elő az érintett kérésére);
+
+3. az adatkezelő jogi kötelezettsége teljesítéséhez van szükség személyes adatra (függetlenül attól, hogy az adatkezelésre vonatkozóan létrejött-e szerződés, vagy az érintett ahhoz előzetesen hozzájárulhatott);
+
+4. létfontosságú érdek védelméhez szükséges (itt az érintett hozzájárulását értelemszerűen vélelmezni kell);
+
+5. közérdekből elvégzendő feladat, hatáskör gyakorlásához szükséges (ez a kategória a törvény kötelező adatkezelés fogalma alá esik);
+
+6. az adatkezelő jogszerű érdekeinek érvényesítéséhez van szükség a személyes adatokra (itt az adatkezelés korlátja az érintett érdekeinek védelme; ebben az esetben sem az érintett hozzájárulása az adatkezelés legalitásának alapja).
+
+A törvény az Avtv. rendszerétől eltérően a magyar adatvédelmi rendszerben eddig elfogadott két jogalap mellett, azokat kiegészítve bevezeti a 95/46 irányelv 7. cikk c) és f) pontja szerinti új jogalapot is, amely szűk körben, és átfogó garanciális szabályok mellett lehetővé teszi, hogy bizonyos esetekben, speciális érdekekből az érintett hozzájárulása hiányában, és a jogalkotó közhatalmi aktusa nélkül is sor kerülhessen az adatkezelésre. Ily módon a magyar jogalkotó eleget tesz harmonizációs kötelezettségének a tekintetben is, hogy a többi tagállamban egyébként jogalapként szolgáló rendelkezés hazai hiánya miatt az adatok áramlása nem ütközik akadályokba a magyar szabályozás alapján. Ki kell emelni, hogy a magyar szabályozásban újdonságként megjelenő jogalapban rögzített mérlegelési lehetőség nem érvényesül a két hagyományos jogalapon végzett adatkezelésre, és nincs lehetőség az adatkezelésre az új jogalapon akkor, ha azt törvény már előírja, vagy ha arra az érintett hozzájárulása alapján került sor. Az érintett információs önrendelkezési jogának biztosítása érdekében a törvény előzetes tájékoztatási kötelezettséget fűz az ilyen adatkezeléshez, és a tiltakozási jog és a további érintetti jogok formájában hatékony eszköz áll az érintett rendelkezésére jogainak érvényesítéséhez. Emellett a megerősített jogosítványokkal felruházott Hatóság az adatkezelőkkel való szoros szakmai kapcsolat révén figyelemmel kísérheti a gyakorlatot és kikényszerítheti a helyes jogalkalmazást.
+
+A törvény a hozzájárulás érvényessége kapcsán rendezi a cselekvőképesség illetve nagykorúság hiányából következő kérdéseket, biztosítja az érintett számára a tájékoztatást a szerződés végrehajtása érdekében adott hozzájárulás kapcsán, valamint meghatározza azokat az eseteket, amikor a hozzájárulást vélelmezni kell.
+
+A 7. §-hoz
+
+Az adatbiztonság követelménye a személyes adatokhoz való jogosulatlan hozzáférést és felhasználást gátló intézményes biztosítékok egyike. Lehetőséget hagy az adatkezelőnek annak eldöntésére, hogy az adatkezelés helyszínére és eszközeire, valamint a lehetséges hagyományos és elektronikus hozzáférés módszereire tekintettel sajátos biztonsági intézkedéseket foganatosítson, ugyanakkor növeli a felelősségét is, mert ha az alkalmazott védelem nem bizonyul elegendőnek, polgári és büntetőjogi felelőssége akkor is fennáll. A törvény részletesen meghatározza a személyes adatok automatizált kezelése során a kötelező intézkedéseket. A magánszféra védelmét szolgáló intézkedések figyelembevétele az adatkezelés folyamatában az ún. „privacy by design” elvének magyar szabályozásba illesztését célozza. Ennek megfelelően az adatkezelő, tipikusan automatizált adatfeldolgozás körében, köteles az adatkezelés folyamatát úgy megtervezni és a hozzáférés szabályait úgy meghatározni, hogy a személyes adatok jogellenes felhasználásának lehetőségét elkerülje. Az adatkezelő köteles a rendelkezésre álló legjobb technológiát az érintettek magánszférájának védelme érdekében alkalmazni. Több lehetséges megoldás közül a magasabb szintű védelmet nyújtó megoldást kell alkalmazni.
+
+A 8. §-hoz
+
+A törvény a hatályos szabályozást a külföldre történő adattovábbítást érintő szabályok kapcsán pontosítja, figyelembe véve az ezzel kapcsolatos garanciális szabályok érvényesíthetőségét. A törvény az adatok megfelelő szintű védelmét biztosítottnak tekinti - a garanciális szabályokat tartalmazó nemzetközi szerződés fennállása mellett - mind abban az esetben, ha az Európai Bizottság az adott harmadik országot minősítette megfelelő szintű védelmet biztosítónak, mind akkor, ha az adatkezelő az Európai Bizottság által jóváhagyott modell szerinti általános szerződési feltételeket alkalmaz.
+
+A 9. §-hoz
+
+A törvény e rendelkezése a 2008/977 kerethatározat átültetése érdekében szükséges módosításokat tartalmazza.
+
+A 2008/977 kerethatározat 2. cikk c) és j) pontja meghatározza a „zárolás” és a „megjelölés” fogalmat, amelyet a törvény az értelmező rendelkezések között a kerethatározatban foglaltaknak megfelelő tartalommal definiál. Az adatzárolás végrehajtására kötelezett adatkezelő az érintett személyes adatot ennek megfelelően azonosító jelzéssel látja el, amely egyrészt kiemeli a személyes adatot az általa kezelt adattömegből, jelezve, hogy az érintett adat csak különös feltételekkel kezelhető, másrészt egyértelműen tartalmazza az adatkorlátozás terjedelmét is (a korlátozással érintett adatkezelési művelet, a korlátozás időtartama stb.).
+
+Az adatmegjelölés az adatkezelési jogosítványokat nem csorbítja, informatív szerepe van, jelzi az adatkezelő részére, hogy az általa kezelt személyes adattal kapcsolatban az adatkezelést potenciálisan befolyásoló információ áll rendelkezésére (kötelező pl. az adatmegjelölés, ha a személyes adat helyességét vagy pontosságát az érintett vitatja).
+
+A kerethatározat több rendelkezése [9. cikk, 11. cikk, 12. cikk, 16. cikk (2) bekezdés] tartalmaz olyan szabályokat, amelyek alapján a tagállamoknak biztosítaniuk kell, hogy ha az adattovábbító a továbbított adatok tekintetében valamely adatkezelési korlátot jelez, az adatátvevő az adatkezelési jogosultságát kizárólag e korlátozásoknak megfelelően gyakorolhassa, illetve az érintett jogainak gyakorlását a korlátozásoknak megfelelő módon biztosíthassa. A törvény elvégzi e rendelkezések átültetését a magyar jogrendszerbe.
+
+A törvény e körben egy alcímbe foglalva rendelkezik mindazon adatkezelési korlátozásokról, amelyeket a kerethatározat szabályai elszórtan tartalmaznak, rendezve mind azt az esetkört, ha a törvény hatálya alá tartozó adatátvevő fél, mind azt, ha a törvény. hatálya alá tartozó adattovábbító kötelezett e korlátozások érvényesítésére. A törvény - horizontális jellegéből fakadóan - e tekintetben csupán az adatkezelési korlátozásnak megfelelő adatkezelés alapjait teremti meg, a konkrétan érvényesítendő korlátozást azon belső jogi, európai uniós jogi vagy nemzetközi jogi aktusok tartalmazzák, amelyeken az adatcsere alapul.
+
+A törvény a kerethatározat rendelkezéseihez is igazodva meghatározza az adatkezelési korlátozások lehetséges eseteit, mellőzi ugyanakkor a szigorúan zárt taxációt, teret engedve az ágazati szabályozás alapján érvényesítendő korlátozásoknak. Tekintettel arra, hogy az információs önrendelkezési jog mint alapjog korlátozásáról a magyar jogban kizárólag törvényi szintű jogszabály rendelkezhet, az ágazati szabályozás tekintetében elegendő erre a belső jogi aktusra utalni.
+
+A (2) bekezdés lehetőséget biztosít az adatátvevőnek, hogy az adattovábbítóval egyeztetve, annak hozzájárulásával az adattovábbítás időpontjában jelzett egyes korlátozások figyelmen kívül hagyásával kezelje az átvett adatot.
+
+A (3) bekezdés az adatkezelési korlátozás jelzésére irányuló kötelezettséget telepít a törvény hatálya alá tartozó adattovábbítóra, ha az általa kezelt adat tekintetében ilyen korlátozást valamely belső, európai uniós vagy nemzetközi jogi aktus ír elő.
+
+A (4) bekezdés a törvény hatálya alá tartozó adattovábbító tekintetében a korlátozások mellőzéséhez való hozzájárulás megadását kizárólag abban az esetben teszi lehetővé, ha az nem ütközik a magyar jogrendbe.
+
+Az (5) bekezdés a 2008/977 kerethatározat 15. cikkében foglaltak átültetését célozza azzal, hogy előírja az adattovábbító kérelmére annak tájékoztatását az átvett adatok felhasználásáról.
+
+A 10. §-hoz
+
+A törvény 10. §-a az adatfeldolgozással kapcsolatos garanciákat állapítja meg.
+
+A 11. §-hoz
+
+A törvény 11. §-a a 95/46 irányelv szabályainak átültetését szolgálja, azzal, hogy pontosítja, új megfogalmazással váltja fel az automatizált egyedi döntés kifejezést, amely a közigazgatási hatósági eljárásról szóló törvény fogalomrendszerében részben eltérő jelentéssel bír.
+
+A 12-13. §-hoz
+
+A tudományos kutatás és a statisztikai célú adatkezelés az adatkezelésnek a törvény által elismert, a megfogalmazott korlátok között sajátos elbírálás alá eső esetei. A garanciális szabályok mind a magánszféra védelmét szolgáló jogalkotói törekvéssel, mind a szakmai etikai elvárásokkal összhangban állnak.
+
+A 14-19. §-hoz
+
+Az érintett jogaira és érvényesítésükre vonatkozóan a törvény lényegében megtartja a hatályos szabályozást.
+
+Az érintett tájékoztatáshoz fűződő joga keretében biztosítani kell, hogy tudomást szerezhessen arról, adatait ki, hol, milyen célból kezeli, azokhoz milyen forrásból jutott hozzá, továbbá hogy meggyőződhessen kezelt adatai helyességéről, az adatkezelés jogszerűségéről. E jogok kimondása képezi az adatkezelés jogszerűségének egyik garanciáját.
+
+Személyes adatai helyességéhez az érintettnek anyagi és erkölcsi érdeke fűződik. A valóságnak meg nem felelő adatot az adatkezelő saját észlelése alapján is, illetve bárki kezdeményezésére helyesbíteni köteles. A helyesbítés az adatkezelésre vonatkozó külön jogszabály szerint is történhet, ennek hiányában (pl. megállapodás alapján való adatkezelésnél) a törvény rendelkezései alapján. Az érintett helyesbítéshez fűződő jogának gyakorlása hozzájárul ahhoz, hogy az adatok minőségére vonatkozó követelmény érvényesüljön.
+
+A jogellenesen kezelt adat törlése kötelező. Az érintett érdekeinek következetes érvényesítése megkívánja, hogy a helyesbítést vagy törlést a másodlagos adatkezelésekben is elvégezzék.
+
+Az érintett jogainak korlátozására vonatkozó törvényi szintű rendelkezések mindig szűken értelmezendők, a kiterjesztő jogértelmezés ellentétes a jogalkotói szándékkal és Magyarország nemzetközi emberi jogi vállalásaival.
+
+A 20. §-hoz
+
+Az érintett jogai kapcsán a törvény a hatályos szabályozásnál részletesebb előírásokat állapít meg az előzetes tájékoztatás követelményével kapcsolatban, az érintettet az információs önrendelkezési jog alapján megillető egyéb jogosultságok és a jogérvényesítés lehetőségei - kiegészülve az adatvédelmi hatósági eljárás lehetőségével - továbbra is adottak. Az információs önrendelkezés akkor gyakorolható, ha az adatfelvétel az érintettől és az érintett tudtával történik. A két feltétel lehetséges egyéb variációi - tudtával vagy tudomása nélkül, de mástól, valamint tudta nélkül, de róla vagy tőle (pl. titkos megfigyeléssel, lehallgatással) - súlyos mértékben korlátozzák személyiségi jogait. Ilyen adatfelvételre csak e törvény egyéb rendelkezéseiben meghatározott esetben kerülhet sor. A tudomás nem azonos a beleegyezéssel, és különösen nem azonos a tájékoztatás utáni beleegyezéssel. Ezért függetlenül attól, hogy az adatszolgáltatás önkéntes-e vagy kötelező, az érintett megalapozott döntést csak úgy hozhat, ha tisztában van az adatszolgáltatás megtagadásának következményeivel. Ezért a törvény egyértelműen rögzíti, hogy az adatkezelőt előzetes tájékoztatási kötelezettség terheli, amelynek keretében meg kell jelölni az adatszolgáltatásra vonatkozó jogszabályt, az adatkezelés célját és az adatkezelő személyét is. Az érintettet tájékoztatni kell arról, hogy ki az adat kezelője, és mely adatkezelők jutnak hozzá az adathoz továbbítás útján. Az adatkezelő tájékoztatási kötelezettsége az érintett jogainak érvényesítését szolgálja. A tájékoztatást közérthető formában kell megadni. Ez különösen az informatikai eszközökkel végzett adatkezelések esetében fontos, ahol adott esetben nem elegendő a kezelt adatok egyszerű közlése, hanem azokhoz értelmező magyarázatot is kell fűzni. A törvény speciális, az egyszerűséget és az életszerű szabályozást szolgáló rendelkezéseket állapít meg a tájékoztatás vonatkozásában kötelező adatkezelés esetére, illetve a személyes tájékoztatás lehetetlenségére vagy aránytalan költségeire tekintettel.
+
+A 21. §-hoz
+
+A törvény az érintett tiltakozási jogát a korábbi adatvédelmi szabályozásnak megfelelően kívánja rendezni, pontosítja azonban az adatkezelő tájékoztatás megadására vonatkozó kötelezettségét. A törvény szabályozza továbbá az adatátvevő keresetindítási jogának gyakorlására vonatkozó előírásokat is oly módon, hogy az adatátvevő a tájékoztatás elmaradása esetén felvilágosítást kérhet az adatkezelőtől, és ilyen esetben az adatátvevő a felvilágosítás megadásától, de legkésőbb az arra nyitva álló határidő lejártától számított 15 napon belül fordulhat bírósághoz az adatkezelő ellen.
+
+A 22. §-hoz
+
+A törvény érvényesülésének a legfőbb garanciája a bíróság előtti jogérvényesítés. Az érintett joggyakorlásának megkönnyítése érdekében a jelenlegi szabályozáshoz hasonlóan indokolt megtartani a bizonyítási teherre irányadó szabályokat: az adatkezelés jogszerűségének bizonyítása változatlanul az adatkezelőt terheli, az adattovábbítás jogszerűségét pedig - bírósághoz fordulása esetén - az adatátvevő köteles bizonyítani.
+
+A 23. §-hoz
+
+Az adatkezelésből eredő károkért az adatkezelő objektív felelősséggel tartozik, amit az indokol, hogy az érintettel szemben az adatkezelő van döntési pozícióban az adatkezelés megvalósítása kapcsán, amelyre az érintettnek csak korlátozottan van ráhatása. A törvény nem tesz különbséget az objektív alapon megtérítendő vagyoni és a szubjektív alapú nem vagyoni károk között. Ugyanaz az erőviszonybeli különbség, amely az objektív felelősséget indokolja, megalapozza azt is, hogy kimentő okként csak vis maior vagy az érintett szándékos vagy súlyosan gondatlan magatartása szolgáljon.
+
+A 24. §-hoz
+
+A törvény célja a belső adatvédelmi felelősök szerepének erősítése. Kívánatos, hogy minél több szervezet nevezzen ki belső adatvédelmi felelőst, függetlenül attól, hogy a törvény erre kötelezi-e, vagy sem. A belső adatvédelmi szabályzat a szervezeten belüli folyamatok átláthatóságát, ezen keresztül az érintettek tájékozódását és jogaik gyakorlásának megkönnyítését szolgálja.
+
+A 25. §-hoz
+
+A törvény létrehozza a belső adatvédelmi felelősök konferenciáját; egy olyan fórumot, amelyen a Hatóság szervezésében alkalom nyílik a gyakorlat összehangolására és a jogalkalmazói tapasztalatok megosztására is. A konferencia létrehozásának célja többek között a belső adatvédelmi felelősök tevékenységének szakmai támogatása, szervezeten belül betöltött szerepük erősítése, ennek révén pedig az érintettek jogainak hatékonyabb védelme. A konferencia a belső adatvédelmi felelősök önkéntes részvételén alapul, azonban várhatóan a Hatósággal való kapcsolattartás legfontosabb fórumává válik. Ezért nevesíti a törvény a nem kötelező jelleggel kinevezett belső adatvédelmi felelősök részvételét is. A törvény megfogalmazása nem zárja ki továbbá egyéb szakmai szereplők részvételét sem. A konferencia tagjairól kapcsolattartás céljából vezetett nyilvántartás tartalmazza a belső adatvédelmi felelős nevét, postai és elektronikus levélcímét, továbbá a képviselt szervezetet. A nyilvántartás forrása a bejelentkező - illetve az adatvédelmi nyilvántartásban már szereplő - adatvédelmi felelős nyilatkozata, bejelentkezése.
+
+A III. fejezethez
+
+A 26. §-hoz
+
+A közérdekű adatok megismerésére vonatkozó általános szabályok körében a törvény követi az Avtv. megközelítését: a bárki általi megismerhetőség folytán az Alaptörvény VI. cikkében biztosított jogot nem lehet az adatigénylő személyében rejlő feltételhez (pl. állampolgársághoz, cselekvőképességhez) kötni. A törvény legfőbb újítása, hogy - a közérdekből nyilvános adatokkal kapcsolatos, 2005-ben megállapított szabályok egyértelmű alkalmazhatóságát elősegítve - az állam működésének átláthatósága érdekében egyértelműen rögzíti, hogy a közérdekű adatok megismerésére vonatkozó szabályok szerint nyilvános a közfeladatot ellátó szerv feladat- és hatáskörében eljáró személy neve, feladatköre, munkaköre, vezetői megbízása, a közfeladat ellátásával összefüggő egyéb személyes adata, valamint azok a személyes adatai, amelyek megismerhetőségét törvény előírja. Az érintettek törvényben fel nem sorolt egyéb személyes adatainak megismerése azonban már nem feltétlenül szolgálja a szerv működésének átláthatóságát, sőt, az információk nyilvánosságra kerülése akár a szerv befolyásolástól mentes működését is veszélyeztetheti. Indokolt tehát olyan keretet adni a nyilvánosságnak, amely a munkavégzésre irányuló jogviszony és a közfeladat sajátosságaira tekintettel van, és lehetővé teszi a különbségtételt a nyilvánosságra hozható személyes adatok tekintetében.
+
+A 27. §-hoz
+
+A törvény felsorolja azokat a kivételeket, amelyek esetében szükséges, vagy az adatfajta, illetve az egyedi eset körülményeinek mérlegelése alapján szükséges lehet a közérdekű adatok megismerhetőségének korlátozása. A minősített adatokhoz való hozzáférés szabályait a minősített adat védelméről szóló törvény tartalmazza, a szabályszerűen minősített adatok megismerhetőségére a törvény hatálya nem terjed ki.
+
+A törvény lehetővé teszi, hogy egyes speciális célokra tekintettel a jogalkotó törvényi szinten korlátozhassa a közérdekű adatok megismerhetőségét. A törvény a jogszerű korlátozást engedő célok körét kibővíti a környezet- vagy természetvédelmi érdekkel, valamint a szellemi tulajdonhoz fűződő joggal.
+
+Az üzleti titok továbbra is a polgári anyagi jogi szabályok szerint ismerhető meg, azzal, hogy a Polgári Törvénykönyv és a törvény közérdekből nyilvános adatokra vonatkozó 26. § (3) bekezdésének együttes értelmezése alapján a közpénzek felhasználásával kapcsolatos adatokat főszabály szerint nem lehet üzleti titoknak minősíteni.
+
+A döntés-előkészítő adatok megismerhetőségével kapcsolatban a törvény megtartja az Avtv. rendszerét. Eszerint a döntés megalapozását szolgáló adat főszabály szerint keletkezésétől számított tíz évig (vagy jogszabályban meghatározott rövidebb ideig) nem ismerhető meg, az adatkezelő azonban egyedi esetekben engedélyezheti az adat megismerését. Ha azonban a kérdéses adat alapján döntés született, akkor az adatkezelő csak a törvényben felsorolt indokok alapján utasíthatja el az adat hozzáférhetővé tételét, és ebben az esetben rá hárul a bizonyítás kötelezettsége az elutasítás indokainak megalapozottsága tekintetében.
+
+A 28. §-hoz
+
+A közérdekű adat megismerése iránti igény szabályozása kapcsán a törvény - követve az Avtv. rendszerét - továbbra sem követeli meg az igénylés céljának megjelölését, vagyis a közérdekű adatok megismerhetőségét a törvény szabályai szerint attól függetlenül biztosítani kell, hogy azt az igénylő milyen célból kéri. Ez az alapelv nem érinti azonban azt a lehetőséget, hogy az adatkezelő és az igénylő között az erre vonatkozó külön törvény rendelkezései szerint kötött szerződés alapján az adatkezelő a törvény hatálya alá nem tartozó speciális adatszolgáltatást nyújtson, összhangban a törvény hatályára vonatkozó 2. § (5) bekezdésével. Mivel az adat kiadására vonatkozó igény teljesítése az adat meglétét feltételezi, a fennálló bírói gyakorlatra is tekintettel ilyen szerződés hiányában sem köteles az adatkezelő az igény teljesítése érdekében maga előállítani a kért adatokat, a megismerhetőséget kizárólag a kezelésében lévő adatok tekintetében kell a törvény szabályai szerint biztosítania.
+
+Ha az adatigénylés nem egyértelmű, a törvény lehetővé teszi, hogy az adatkezelő az igénylőt a kérelme pontosítására hívja fel. Tekintettel arra, hogy az adatkezelő sok esetben információs monopóliummal rendelkezik, az igényelt adatok megjelölését kellően pontosnak kell tekinteni minden olyan esetben, ahol az igénylés részleteinek összessége alapján megállapítható az igényelt adatok köre, pl. ha az igénylés az adatokat azok tárgyára, keletkezésük időpontjára, az adatot létrehozó személyre tekintettel jelöli meg, értelemszerűen a döntés-előkészítő adatok körében érvényesülő korlátozások mellett.
+
+A 29-31. §-hoz
+
+Az adatszolgáltatás olykor váratlanul jelentős terhet ró az adatkezelőre, így nagyszámú adat igénylésekor indokolt lehet, hogy az adatkezelő egy alkalommal 15 nappal meghosszabbíthassa a válaszadás határidejét. A határidő meghosszabbításáról, annak indokával együtt még a 15 napos alaphatáridő letelte előtt értesíteni kell a kérelmezőt. A törvény nem határozza meg konkrétan, hogy milyen mennyiségű adat igénylése indokolja a határidő meghosszabbítását, ennek eldöntése a szerv teherbíró képességét is figyelembe véve az adatkezelő mérlegelésén múlik, nyilvánvaló időhúzásra azonban nem szolgálhat.
+
+A dokumentumok másolása a szerv számára többletköltséggel jár, így ennek megtéríttetése - a hatályos szabályokkal egyezően - indokolt, annak várható összegét az igénylővel előzetesen közölni kell. A nagy terjedelmű másolatra vonatkozóan a törvény a költségtérítés megfizetéséhez köti a másolat szolgáltatását az indokolatlan igénylésekből eredő felesleges költségek elkerülése érdekében.
+
+Az adatigénylés teljesítését nem lehet megtagadni azért, mert a kért adat olyan dokumentumban szerepel, amely az igénylő által valamilyen okból meg nem ismerhető adatot is tartalmaz (pl. személyes adatot, minősített adatot, üzleti titkot, döntés megalapozását szolgáló adatot stb.). Ilyen esetben a dokumentum kivonatát kell az igénylő rendelkezésére bocsátani.
+
+A törvény által megállapított új szabályok körében ki kell emelni, hogy amennyiben az igényelt adatokat a világhálón nyilvánosságra hozták, és az bárki számára elérhető, úgy elegendő az adatok fellelhetőségének helyét pontosan megadni. Ez a szabály csak adategyezőség esetén alkalmazható.
+
+A törvény a jogérvényesítés körében újításként tartalmazza, hogy az igénylő nemcsak adatigénylése elutasítása esetén, hanem akkor is bírósághoz fordulhat, ha a költségtérítés összegét nem szabályszerűen állapították meg, vagyis a másolatkészítés díja túlzott mértékű, a valós költségeket meghaladja, netán nyereségelemet is magában foglal. Lényeges új szabályt jelent az is, hogy a Hatóság az igénylő által indított perbe beavatkozhat. Egyebekben a törvény megtartja a közérdekű adatok igénylésére, és az ezzel kapcsolatban indított perekre vonatkozó korábbi szabályozást, azzal, hogy a bírósági jogérvényesítésre nyitva álló határidő kezdetét az érdemi jogorvoslati jog biztosítása érdekében - ha arra sor került - a Hatóság vizsgálatának lezárásától kell számítani.
+
+A IV. fejezethez
+
+A 32. §-hoz
+
+A törvény külön fejezetben szabályozza a közérdekű adatok egy köre tekintetében a közzététel proaktív kötelezettségét, ezen belül a 23. alcím állapítja meg az elektronikus közzététel normatív szabályait. A közzététel hagyományos (az elektronikustól eltérő) módja számos lehet: az erre köteles szerv az általa szerkesztett időszaki kiadványok, közkönyvtárak részére átadott kötetek, beszámolók, prospektusok útján juttathatja el a nyilvánossághoz a közérdekű adatokat. A mai technikai viszonyok között azonban kézenfekvő élni az elektronikus közzététel lehetőségével.
+
+A 33-36. §-hoz
+
+A törvény 23. alcíme az elektronikus információszabadságról szóló törvény vonatkozó rendelkezéseit emeli át a törvénybe, azzal azonban, hogy a jogrendszeri változásoknak megfelelően kibővíti a közzétételi listák nyilvánosságra hozatalára köteles személyi kört.
+
+A törvény a közzétételi listákon meghatározott adatokat kezelő szervek kötelezettségévé teszi az adatok interneten történő közzétételét. A törvény fenntartja az elektronikus információszabadságról szóló törvény rendszerét, és meghatározott szervezetek számára internetes honlap fenntartását írja elő, ami nem jelenti feltétlenül önálló honlap fenntartásának kötelezettségét. A kötelezett szervek gazdaságossági vagy más megfontolásokból együttműködhetnek, közösen is tarthatnak fenn honlapot, természetesen úgy, hogy a közzétett közérdekű adatok a szerveknek megfelelően elkülöníthetőek legyenek, vagyis legyen világos, hogy melyik adat melyik szervtől származik, és úgy, hogy az adatot kereső személy a közös honlapot fenntartó szervek honlapját könnyen megtalálja. Ez elsősorban az önkormányzatok számára jelenthet hatékony megoldást, hiszen a kistelepülések nem képesek minden esetben önállóan fenntartani honlapot, ehelyett a feladat ellátására társulást hozhatnak létre, vagy közérdekű adataikat az erre a célra kialakított központi honlapon is közzétehetik.
+
+A megyei (fővárosi) kormányhivatalok kivételével a területi és helyi szervek tekintetében általában nem indokolt az önálló honlap-fenntartási kötelezettség előírása, hiszen az részben felesleges ismétlődéseket, részben (frissítési hiányosságokból vagy félreértésekből adódóan) eltérő tartalmat eredményezhet, ami az ilyen típusú szerveknél nem kívánatos. A törvény ezért azt a megoldást követi, hogy egyrészt a felelősségi viszonyok tisztázása végett megkülönbözteti az adatfelelőst és az adatközlőt, másrészt a központi szervek honlap-fenntartási kötelezettségének előírása mellett azoknak, mint adatközlőknek a kötelezettségét határozza meg az irányításuk, illetve felügyeletük alatt álló területi és helyi szervek közérdekű adatainak közzétételére. Ez a közérdekű adatok elektronikus elérhetőségének biztosítása mellett a szektorok sokszínűségének megfelelő megoldásokat tesz lehetővé, így a helyi, területi szervek adatai elhelyezhetők a központi szerv honlapján, vagy - amennyiben az ágazat jellegzetességei ezt indokolják - a területi szervek saját honlapjain is.
+
+A közzététel, illetve a honlap-fenntartás kötelezettségének magában kell foglalnia a közzétett információ naprakészen tartásának kötelezettségét. Ennek előírása internetes közegben különösen indokolt, tekintettel egyrészt arra, hogy az állami és önkormányzati szervek honlapjai sok esetben elavult tartalmúak, másrészt pedig arra, hogy az elektronikus közzététel kötelezettségét éppen az indokolja, hogy ez a közzétételi mód teszi lehetővé a mindig aktuális tartalom elérhetőségét, a folyamatos pontosítást, aktualizálást, frissítést. A törvény szerint ezért kötelezővé kell tenni a tartalom naprakészen tartását, oly módon, hogy az adatfelelőst, vagyis azt a szervet teszi felelőssé a törvény a közzétett közérdekű adatok hitelességéért, pontosságáért, amelynek a tevékenyégével összefüggésben azok keletkeztek. Az adatfelelős, illetve az adatközlő a törvény végrehajtásának megfelelő biztosítása érdekében belső szabályzatban állapítja meg a közzétételi kötelezettség teljesítésének részletes szabályait.
+
+A közzététel módjának sajátosságaiból adódóan a közzétett közérdekű adatok átmeneti elérhetetlenségének technikai akadályai is lehetnek, amelyek elhárítása a honlap-fenntartás részét kell, hogy képezze. A törvény szerint a technikai akadályok elhárítása, a folyamatos elérhetőség a fenntartó, illetve az adatközlő felelősségébe tartozik.
+
+A honlapot fenntartók számára általános kötelezettség tájékoztatást adni a közérdekű adatok elérhetőségének más módjairól, az igénybe vehető jogorvoslatokról.
+
+Az egyértelműség érdekében fontos a törvényben is rögzíteni, hogy a kötelezően közzéteendő adatok nem fedik le az összes közérdekű adatot, tehát a közzétételi kötelezettség a listában nem szereplő közérdekű adatokra vonatkozóan nem érinti a közfeladatot ellátó szerveket a törvény egyéb rendelkezései alapján terhelő tájékoztatási kötelezettséget, a közzétett adatok tekintetében azonban - kizárólag adategyezőség esetén - a közfeladatot ellátó szervek mentesülhetnek az egyedi igények teljesítésének kötelezettsége alól, összhangban a törvény 30. § (2) bekezdésével.
+
+A 37. §-hoz
+
+A honlap-fenntartási kötelezettségnek és a honlapokon közzétett adatok megismerhetőségét szolgáló intézkedések megtételének előírása mellett meg kell határozni, hogy mely adatokat kell az azokat fenntartó szervezeteknek oly módon közzétenniük, hogy azok az érdeklődők számára folyamatosan elérhetők legyenek. Az elektronikus közzétételnek a közfeladatot ellátó szerv által kezelt közérdekű és közérdekből nyilvános adatok közül azokra az adatokra kell kiterjednie, amelyek a közfeladatot ellátó szervekkel való kapcsolatfelvételhez, az általuk nyújtott szolgáltatások hatékony igénybevételéhez nyújtanak segítséget, illetve biztosítják azok átlátható, demokratikus működését, a közéleti kérdésekben a véleménynyilvánításhoz nélkülözhetetlen információkhoz való hozzájutást, valamint az államháztartás forrásainak hatékony és átlátható felhasználását, a korrupció lehetőségének csökkentését. A kötelezően közzétett adatok továbbá tehermentesítik a közfeladatot ellátó szerveket is annyiban, hogy a tömegesen előforduló egyedi adatigénylések teljesítése helyett az arra vonatkozó igények a közfeladatot ellátó szerv eseti közreműködése nélkül is kielégíthetők.
+
+Az elektronikus közzétételi listák meghatározásában a nemzetközi minták, valamint a hazai állapot felmérése során szerzett tapasztalatok segítenek, meghatározásuk mégis nagy körültekintést igénylő munka. A kötelezően - kérelem nélkül - elektronikus úton közzéteendő adatok törvényi meghatározása adatfajtánként definiált közzétételi listákkal képzelhető el. Az állandóan hozzáférhető adatok két csoportba tartoznak: az egyik csoportot képezi a minden intézményre egyaránt kötelezően nyilvános adatkör (például postai, e-mail címek, struktúra, működésre vonatkozó jogi és belső szabályok stb.), a másodikat pedig az adott közintézmény által közzéteendő adatkörök, amelyek lehetnek különös (például egy adott ágazatba tartozó valamennyi szervre vonatkozó), és egyedi adatok.
+
+Az általános közzétételi listába összefoglalt adatokon kívül számos más jogszabály is rendelkezik egyes adatoknak valamely közfeladatot ellátó szerv honlapján történő közzétételéről, illetve - a közzététel módjának meghatározása nélkül - a nyilvánosságra hozhatóságáról. Ezek a szabályok azonban csak a közfeladatot ellátó szervek egy-egy csoportjára vonatkoznak, így az általános közzétételi listába való felvételük sem nem indokolt, sem nem lehetséges.
+
+Ez utóbbi körülmény (tudniillik, hogy számos jogszabály csak egy-egy adatfajta, vagy egy-egy szervtípus tekintetében rendelkezik adatok nyilvánosságra hozásáról) hatással volt a különös közzétételi listákra vonatkozó szabályok kialakítására is. A külföldi gyakorlatból ismert példa, miszerint a közfeladatot ellátó szervek az információs jogokért felelős szerv jóváhagyásával dolgozzák ki és teszik közzé a saját különös közzétételi listáikat, a jelenlegi hazai jogi környezetben nem lehet kizárólagos formája a különös közzétételi listáknak. A törvény ezért - fenntartva az elektronikus információszabadságról szóló törvény által létrehozott rendszert - azt a megoldást követi, amely szerint a különös, illetve egyedi közzétételi listákat jogszabály, illetve a közfeladatot ellátó szerv vezetője határozza meg.
+
+A Hatóság véleményezi a közérdekű adatok nyilvánosságát érintő jogszabályok tervezeteit, tehát a jogszabályba foglalt különös közzétételi listák esetén a véleménye megjelenhet a jogalkotásban. A közfeladatot ellátó szervek saját (illetve az alárendeltségükbe tartozó, közfeladatot ellátó más szervekre is kiterjedő) egyedi közzétételi listák létrehozására jogosultak.
+
+Az általános közzétételi lista három részből (a szervezeti, a tevékenységre és működésre, valamint a gazdálkodásra vonatkozó adatok listájából) áll. A szervezetre vonatkozó adatok kötelező közzétételének célja, hogy a közfeladatot ellátó szerv és vezető tisztségviselői legfontosabb adatai mellett a közfeladatot ellátó szervnek más (mind a neki alárendelt vagy általa alapított, mind pedig a felettes, felügyelő, ellenőrző) szervekkel való kapcsolata átlátható legyen.
+
+A tevékenységre, működésre vonatkozó adatok nem csupán a feladatok és hatáskörök katalógusát, hanem a közfeladatot ellátó szerv által kezelt adatokra, az általa nyújtott vagy költségvetéséből finanszírozott közszolgáltatásokra, a jogszabálytervezetek és egyéb előterjesztések nyilvánosságára vonatkozó információkat is tartalmaznak.
+
+Az általános és a különös közzétételi listák a jogalkotó, illetve a közfeladatot ellátó szervek döntését tükrözik a kötelezően közzéteendő adatok köréről. A közfeladatot ellátó szervekhez érkező, a nem kötelezően közzétett közérdekű (és közérdekből nyilvános) adatokra vonatkozó tömeges adatigénylés esetén biztosítani kell, hogy a honlapokra ez utóbbi adatok is kötelezően felkerüljenek, azaz a közzétételi listákat módosítsák. Ez az adatot kezelő szervnek látszólag teher, valójában azonban könnyebbség, hiszen jelentősen csökkenhet az adatigénylések teljesítésével kapcsolatos adminisztratív teher.
+
+A közzétételi listák tartalmának meghatározásán keresztül történik meg a közszféra információinak további felhasználásáról szóló 2003/98/EK irányelv egyes rendelkezéseinek átültetése is, így a további felhasználással kapcsolatos általános feltételek közzétételére irányuló kötelezettség meghatározása.
+
+Az V. fejezethez
+
+A 38. §-hoz
+
+A törvény az Alaptörvény VI. cikkének megfelelően rendelkezik a személyes adatok védelméhez, valamint a közérdekű adatok megismeréséhez való jog érvényesülését ellenőrző független hatóság létrehozásáról és feladatairól. Az autonóm államigazgatási szervként működő hatóság neve - kettős feladatkörének megfelelően - a törvény szerint Nemzeti Adatvédelmi és Információszabadság Hatóság.
+
+A 39. §-hoz
+
+A Hatóság függetlenségére vonatkozó, az Alaptörvényből és az európai uniós jogi kötelezettségekből is eredő követelményeknek megfelelően rendelkezik a törvény a Hatóság költségvetéséről és gazdálkodásáról.
+
+A 40. §-hoz
+
+A törvény értelmében a Hatóság elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki kilenc évre. A több kormányzati cikluson is átívelő megbízatási időtartam a személyi függetlenség egyik garanciája. A törvény komoly szakmai kritériumokat is meghatároz az elnök kinevezéséhez, emellett a magyar állampolgársági követelményt, valamint azt is előírja, hogy csak olyan személy nevezhető ki elnökké, aki az országgyűlési képviselők választásán választójoggal rendelkezik. Mivel az Alaptörvény értelmében az aktív és a passzív választójogra vonatkozó előírások egymástól elválhatnak, a törvény egyértelművé teszi, hogy az elnöknek passzív választójoggal kell rendelkeznie, azaz választhatónak kell lennie.
+
+A törvény rendelkezik arról is, hogy a Hatóság elnökének nem nevezhető ki az, aki a kinevezési javaslat megtételét megelőző négy évben a törvényben meghatározott politikai tisztségeket töltött be.
+
+A 41-42. §-hoz
+
+A kinevezési feltételekhez a törvény szigorú összeférhetetlenségi okokat is társít, amelyek biztosítják a Hatóság elnökének függetlenségét.
+
+A törvény a Hatóság elnökére irányadó összeférhetetlenségi okok felsorolása mellett előírja az elnök évenkénti vagyonnyilatkozat-tételi kötelezettségét és az országgyűlési képviselőkéhez hasonló módon szabályozza a vagyonnyilatkozat kifogásolásával kapcsolatos eljárást.
+
+A 43-44. §-hoz
+
+A törvény értelmében a Hatóság elnöke miniszteri illetményre és juttatásokra jogosult, azzal, hogy a vezetői illetménypótlék mértéke a miniszteri vezetői illetménypótlék másfélszerese. A kiemelt javadalmazás, a kvázi miniszteri jogállás az elnök anyagi befolyásolástól mentes munkavégzését segíti elő, illetve a közjogi tisztség magas rangját jelzi.
+
+A törvény szerint az elnök közjogi tisztségviselő, aki nem tartozik a köztisztviselők jogállásáról szóló törvény hatálya alá. Rögzíti azonban a törvény azt, hogy a Hatóság elnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül, továbbá a későbbi jogviszony-létesítések szempontjából az elnök megbízatásának időtartamát közigazgatási szervnél közszolgálati jogviszonyban töltött időnek kell tekinteni.
+
+A 45. §-hoz
+
+A Hatóság elnöke megbízatásának megszűnési eseteit a törvény a más közjogi tisztségviselőkre vonatkozó szabályokhoz hasonlóan rendezi. A Hatóság elnökének megbízatása a törvény szerint a megbízatási idejének lejártával, lemondásával, halálával, a kinevezéséhez szükséges feltételek hiányának megállapításával, az összeférhetetlensége megállapításával, a felmentésével, valamint a tisztségétől való megfosztással szűnhet meg.
+
+A Hatóság elnökének felmentésére kizárólag akkor kerülhet sor, ha neki fel nem róható okból (például hosszan tartó betegségből kifolyólag) kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak. A felmentéstől eltérően a törvény tisztségétől való megfosztásnak nevezi a megszűnési okot abban az esetben, ha az elnök neki felróható okból nem tesz eleget kilencven napon túlmenően a megbízatásából eredő feladatainak. Hasonlóképpen megfosztásra kerülhet sor, ha az elnök a vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl. A felmentés és a megfosztás közötti különbségtételnek abból a szempontból van jelentősége, hogy az utóbbi esetben az elnököt nem illeti meg a megbízatás megszűnésekor külön illetmény.
+
+A megszűnési, illetve a felmentési és megfosztási okok rendkívül szűk köre garanciát nyújt a Hatóság függetlenségére, illetve arra, hogy az elnökét nem lehet tisztségéből politikai megfontolásokból elmozdítani.
+
+A 46-49. §-hoz
+
+A törvény a hatósági eljárási jogkörökre figyelemmel várható munkateher megoszthatósága érdekében megteremti az államtitkári jogállású elnökhelyettesi funkciót. A Hatóság elnökhelyettesét az elnök nevezi ki határozatlan időre. Az elnökhelyettes - az elnökhöz hasonlóan - szintén közjogi tisztségviselőnek számít, aki nem tartozik a köztisztviselők jogállásáról szóló törvény hatálya alá.
+
+Az elnökhelyettes kinevezési feltételeire, összeférhetetlenségére, vagyonnyilatkozat-tételi kötelezettségére, társadalombiztosítási jogállására az elnökre irányadó szabályokat rendeli alkalmazni a törvény.
+
+Az elnökhelyettes megbízatása az elnökéhez hasonló okokból szűnhet meg, lehetőség van azonban arra, hogy az elnök bármikor, bármilyen okból felmenthesse az elnökhelyettest e tisztségéből. Ezáltal a törvény az elnökhelyettes megbízatását szorosan az elnök bizalmához kötődő közjogi tisztségnek tekinti. Az elnökhelyettes ily módon történő felmentése azonban lényegében csak az elnökhelyettes közjogi tisztségből való felmentését jelenti, mivel a felmentéssel egyidejűleg a Hatóság elnökhelyettesének a Hatóságnál köztisztviselői munkakört és - a kiemelt javadalmazással járó vizsgálói pozícióra egyébként meghatározott feltételek fennállásának hiányában is - vizsgálói megbízatást kell felajánlani.
+
+Az 50-51. §-hoz
+
+A törvény értelmében a Hatóság személyi állománya - az elnökön és az elnökhelyettesen kívül - köztisztviselőkből és munkavállalókból áll, akik felett a munkáltatói jogokat a Hatóság elnöke gyakorolja.
+
+A hatósági feladatok magas szintű ellátása, illetve a feladatellátás elismerése érdekében a törvény megteremti a vizsgálói cím adományozásának lehetőségét. A törvény szerint a Hatóság elnöke a Hatóság köztisztviselői létszámának legfeljebb húsz százalékáig vizsgálót nevezhet ki, a Hatóság azon köztisztviselői közül, akik jogi egyetemi vagy felsőfokú informatikai végzettségűek és legalább három évet adatvédelmi szakértő vagy adatvédelmi felelős munkakörben töltöttek, valamint közigazgatási vagy jogi szakvizsgával rendelkeznek. A vizsgáló vezetői pótlék nélkül számított osztályvezetői illetményre jogosult.
+
+A VI. fejezethez
+
+A törvény a Hatóság eljárásai körében szabályozza a Hatóság vizsgálati eljárását, az adatvédelmi és a titokfelügyeleti hatósági eljárást, a Hatóság perindítási jogát, az adatvédelmi nyilvántartás vezetésére irányuló eljárást és az adatvédelmi audit lefolytatását. Ezenkívül a fejezet tartalmaz egyes, a Hatóság eljárásaihoz kötődő egyéb szabályokat is, mint például az adatkezelésre, titoktartásra vonatkozó rendelkezéseket. Az egyes eljárástípusok - amelyeket a törvény összefoglalóan a Hatóság eljárásai megnevezéssel illet - egymástól elkülönülnek, eltérő jellegűek, és legfeljebb csak részben függenek össze egymással.
+
+Az 52. §-hoz
+
+A Hatóság vizsgálatára vonatkozó szabályok alapvetően egy ombudsmani típusú eljárást tükröznek, amelyre nem irányadó a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény.
+
+A Hatóság vizsgálatát bárki kezdeményezheti arra hivatkozással, hogy a személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye fennáll. Nem feltétlenül szükséges, hogy a jogsérelem a bejelentőnél jelentkezzen, a bejelentés bárkinél felmerülő jogsérelemnek, vagy a jogsérelem veszélyének észlelése esetén megtehető.
+
+Az 53. §-hoz
+
+Főszabály szerint a Hatóság minden bejelentést köteles érdemben megvizsgálni. A törvény ehhez képest kivételként határozza meg azokat az eseteket, amelyekben a Hatóság a bejelentést érdemi vizsgálat nélkül elutasíthatja, illetve amelyekben a bejelentést kötelezően el kell utasítani. Ez utóbbi esetek közé tartozik mindenekelőtt az, ha a bejelentés alapjául szolgáló ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született.
+
+A törvény értelmében azokban az ügyekben, amikor az érintettnek közvetlenül is van lehetősége a jogsérelem miatt bírósághoz fordulni, az érintett választhat, hogy közvetlenül bírósághoz fordul vagy ehelyett a Hatóság eljárását kezdeményezi. A bírósági eljárással párhuzamosan azonban a Hatóság nem járhat el.
+
+Az 54. §-hoz
+
+A törvény felsorolja a vizsgálat során a Hatóság rendelkezésére álló jogosítványokat (iratokba való betekintés, másolat kérése, helyiségekbe való belépés, írásbeli és szóbeli felvilágosítás kérése, stb.), amelyek a vizsgálat lefolytatása érdekében lehetővé teszik minden releváns, az adatkezelést érintő információ megszerzését. A törvény előírja a megkeresett személyek együttműködési kötelezettségét, a Hatóság kéréseinek a vizsgált adatkezelő, illetve az eljárási cselekménnyel érintett más szervezet vagy személy a Hatóság által megállapított határidőn belül köteles eleget tenni.
+
+Az 55-57. §-hoz
+
+Ha a vizsgálat alapján a Hatóság a bejelentésben foglaltakat megalapozottnak tartja, a törvény szerint többféle intézkedést is tehet. Egyrészt ombudsmani típusú eszközöket használhat, másrészt adott esetben hatósági eljárást is indíthat.
+
+Az ombudsmani típusú eszközök valamennyi olyan esetben a Hatóság rendelkezésére állnak, amikor a személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatos jogsérelem vagy annak közvetlen veszélye áll fenn. Ezekkel az eszközökkel élve a Hatóság az adatkezelőt, vagy - ha rendelkezik ilyennel - annak felügyeleti szervét a jogsérelem orvoslására, illetve a jogsérelem közvetlen veszélyének megszüntetésére szólíthatja fel. Emellett a jogsérelem, illetve annak közvetlen veszélye jövőbeni elkerülésének érdekében ajánlást tehet a jogszabályalkotásra, illetve a közjogi szervezetszabályozó eszköz kiadására jogosult szervnek is.
+
+A Hatóság továbbá, ha a bejelentést megalapozottnak tartja, az ombudsmani típusú eszközök alkalmazása helyett hatósági eljárást is indíthat. Hatósági eljárás indítására csak a személyes adatok védelméhez való jog érvényesülése érdekében (adatvédelmi hatósági eljárás), illetve a nemzeti minősített adat minősítése jogellenességének észlelése (titokfelügyeleti hatósági eljárás) esetén kerülhet sor. A törvény szerint a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogokkal kapcsolatban - ha az nem függ össze a nemzeti minősített adat jogellenes minősítésével - a Hatóság hatósági eljárást nem folytathat le. Ezekben az ügyekben csak ombudsmani típusú vizsgálódásra van lehetősége, illetve annak sikertelensége esetén, végső soron bírósághoz fordulhat a Hatóság. Emellett a közérdekű (és közérdekből nyilvános) adatok megismeréséhez fűződő jogait a törvény 31. §-ában foglaltak szerint az igénylő közvetlenül bíróságnál is érvényesítheti.
+
+Ha a bejelentésben foglaltakat a Hatóság nem tartja megalapozottnak, a vizsgálatot lezárja.
+
+Az 58. §-hoz
+
+Ha az ombudsmani típusú eszközök (felszólítás, ajánlás) alkalmazása nem vezetett eredményre, a Hatóság számára továbbra is nyitva áll annak lehetősége, hogy a személyes adatok érintettsége esetén adatvédelmi hatósági eljárást, illetve a nemzeti minősített adatok jogellenes minősítésének észlelése esetén titokfelügyeleti hatósági eljárást indítson. Az ombudsmani eszközök sikertelen használatát követően továbbá megnyílik a Hatóság lehetősége arra, hogy a közérdekű adatokkal és a közérdekből nyilvános adatokkal kapcsolatos jogsértés miatt a felszólításában foglaltakra vonatkozó válaszadási határidő lejártát követő harminc napon belül keresettel kérje a bíróságtól az adatkezelőnek a Hatóság felszólítása szerinti magatartásra való kötelezését.
+
+Az 59. §-hoz
+
+Ha az ombudsmani eszközök alkalmazása sikertelen volt, de valamilyen okból sem hatósági, sem pedig bírósági eljárás megindítására nem került sor, a Hatóság a bejelentés alapján lefolytatott vizsgálatáról - annak lezárásaként - jelentést készíthet, amelyet nyilvánosságra is hozhat.
+
+A 60. §-hoz
+
+A törvény szerint az adatvédelmi hatósági eljárás megindítására a személyes adatok védelméhez való jog érvényesülése érdekében kerülhet sor. A hatósági eljárás megindítása lehet az előzetes vizsgálati eljárás lefolytatásának folyománya, ez azonban nem szükségszerű. A Hatóság előzetes vizsgálati eljárás nélkül közvetlenül is megindíthatja a hatósági eljárást, ha olyan jogsértést észlel, amely azonnali, hatósági eszközökkel történő beavatkozást igényel. Az sem feltétlenül szükséges továbbá, hogy a vizsgálati eljárást hatósági eljárás is kövesse.
+
+A törvény e megoldással lehetővé teszi a határozott intézkedést igénylő, a jogkövető magatartásra való felhívással orvosolható, illetve a csekély súlyú vagy alaptalan bejelentések szétválasztását, és azok jellegüknek megfelelő kezelését.
+
+A hatósági eljárásra a törvényben meghatározott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvényt kell alkalmazni.
+
+Az adatvédelmi hatósági eljárás kizárólag hivatalból indulhat, az akkor sem minősül kérelemre indult eljárásnak, ha az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg.
+
+A törvény meghatározza azokat az eseteket, amelyekben kötelező az adatvédelmi hatósági eljárás megindítása. A hatósági eljárás megindítása akkor kötelező, ha a bejelentésen alapuló vizsgálat alapján vagy egyébként valószínűsíthető a személyes adatok jogellenes kezelése, és a jogellenes adatkezelés személyek széles körét érinti, különleges adatokat érint, vagy nagy érdeksérelmet vagy kárveszélyt idézhet elő.
+
+A 61. §-hoz
+
+A törvény meghatározza a Hatóság adatvédelmi hatósági eljárásában hozott határozatába foglalható intézkedések jellegét, a bírságkiszabás szempontjait és a bírság mértékét. A hatósági eszköztár az adatvédelmi hatóság jogköreire vonatkozó európai uniós követelményekkel összhangban kiterjed például arra, hogy megtilthassa az adatkezelés folytatását, előírhassa a jogellenes kezelt személyes adatok zárolását, elrendelhesse azok külföldre továbbításának megszüntetését.
+
+A Hatóság határozata elleni keresetindításnak a közigazgatási hatósági eljárás általános szabályairól szóló törvény főszabályának megfelelően nincs halasztó hatálya, ettől a törvény csak annyiban tér el, hogy annak alapján a bírósági felülvizsgálat kezdeményezésére irányadó keresetindítási határidő lejártáig, illetve felülvizsgálat kezdeményezése esetén a bíróság jogerős döntéséig a vitatott adatkezeléssel érintett adatok - a jogvita bíróság előtti eldönthetősége érdekében - nem törölhetők, illetve nem semmisíthetők meg.
+
+A 62. §-hoz
+
+A titokfelügyeleti hatósági eljárás megindítására akkor kerülhet sor, ha valószínűsíthető, hogy a nemzeti minősített adat minősítése jogellenes.
+
+A titokfelügyeleti hatósági eljárás megindításának módja az adatvédelmi hatósági eljáráséval hasonló. Ez is csak hivatalból indítható és a törvényben meghatározott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvényt kell rá alkalmazni. A titokfelügyeleti hatósági eljárás is lehet az előzetes vizsgálati eljárás lefolytatásának folyománya, ez azonban ebben az esetben sem szükségszerű.
+
+A 63. §-hoz
+
+A titokfelügyeleti hatósági eljárásban hozott határozatában a Hatóság a nemzeti minősített adat minősítésére vonatkozó jogszabályok megsértésének megállapítása esetén a minősítőt a nemzeti minősített adat minősítési szintjének, illetve érvényességi idejének a jogszabályoknak megfelelő megváltoztatására, vagy a minősítés megszüntetésére kötelezi. A törvény szerint az általános közigazgatási hatósági eljárási szabályoktól eltérően a keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya van.
+
+Tehát egyértelműen következik, hogy a minősítés megváltoztatására kötelezéssel a Hatóság, illetve a bíróság nem válik az adat minősítőjévé, a határozat alapján a megváltoztatás a minősítő kötelezettsége. Abban az esetben azonban, ha a minősítő határidőben nem fordul bírósághoz, a minősítés megváltozása vagy megszűnése a törvény erejénél fogva beáll. Egyértelműen rögzíti továbbá a törvény azt is, hogy a bíróság, illetve a Hatóság határozata nem érinti a minősítőnek a nemzeti minősített adat felülvizsgálatára vonatkozó, a minősített adat védelméről szóló törvény szerinti kötelezettségét, amelynek keretében adott esetben sor kerülhet a határozatban foglaltaktól eltérően alacsonyabb szintű minősítésre vagy a minősítés megszüntetésére.
+
+A Hatóság határozatának felülvizsgálatára irányuló perben a felperes minősítő és az alperes Hatóság értelemszerűen ismeri a minősített adat tartalmát. Rajtuk kívül a per során más személyek a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
+
+A 64. §-hoz
+
+Az ombudsmani eszközök sikertelen használatát követően megnyílik a Hatóság lehetősége arra, hogy a közérdekű adatokkal és a közérdekből nyilvános adatokkal kapcsolatos jogsértés miatt a felszólításában foglaltakra vonatkozó válaszadási határidő lejártát követő harminc napon belül keresettel kérje a bíróságtól az adatkezelőnek a Hatóság felszólítása szerinti magatartásra való kötelezését.
+
+A törvény 31. §-a lehetőséget ad arra, hogy az igénylő számára újra megnyíljon a bíróság előtti jogérvényesítés lehetősége akkor, ha a közérdekű adat igénylője a közvetlen, azonnali bírósághoz fordulás helyett előbb a Hatósághoz tett bejelentést, a Hatóság vizsgálati eljárása azonban eredménytelenül zárult. Ilyen esetben a törvény értelmében előfordulhat, hogy az igénylő (a 31. § szerint) és a Hatóság (a 64. § szerint) párhuzamosan fordul a bírósághoz. A törvény nem tartja szükségesnek az esetleges párhuzamosság kizárását, mivel a gyakorlatban egyébként is sor kerülhet a perek egyesítésére, a Hatóság fellépése pedig a közérdekre tekintettel - lévén, hogy bárki számára nyilvános közérdekű adatok kiadása iránti igényről van szó - az igénylő önrendelkezési jogát sem sérti.
+
+A 65. §-hoz
+
+A Hatóság a személyes adatokra vonatkozó adatkezelésekről adatvédelmi nyilvántartást vezet, amely az érintettek tájékozódását szolgálja és az adatkezeléseknek a bejelentés kötelezettségén keresztül jogi keretet ad. A törvény meghatározza az adatvédelmi nyilvántartás - az európai uniós jogi kötelezettségeknek is megfelelő - tartalmi elemeit, valamint azokat az adatkezeléseket, amelyek tekintetében a Hatóság a főszabálytól eltérően nem vezet nyilvántartást.
+
+A törvény értelmében az adatvédelmi nyilvántartás nyilvános, azt a Hatóság a honlapján bárki számára hozzáférhető módon közzéteszi.
+
+A 66. §-hoz
+
+A törvény szerint a személyes adatok kezelésének nyilvántartásba vételét az adatkezelőnek az adatkezelés megkezdése előtt kérelmeznie kell a Hatóságnál, és főszabály szerint az adatkezelés a nyilvántartásba vételt megelőzően nem kezdhető meg. Ez alól a kötelező adatkezelések esetében a törvény kivételt tesz, mivel a jogszabály által kötelezően elrendelt adatkezelések nem függhetnek a nyilvántartásba vételtől.
+
+A 67. §-hoz
+
+A törvény értelmében az adatvédelmi nyilvántartásba vételi eljárásra a törvényben meghatározott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvényt kell alkalmazni és a kötelező adatkezelés nyilvántartásba vétele kivételével a miniszteri rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni, amely a Hatóság önálló bevételét képezi.
+
+A 68. §-hoz
+
+A nyilvántartásba vételi eljárás szabályai tekintetében a törvény különbséget tesz a különböző adatkezelések között, és kiemelten kezeli a személyek széles körére vonatkozó nagy adatállományokkal kapcsolatos új adatkezeléseket, illetve az ilyen adatkezelések esetében alkalmazott új adatfeldolgozási technológiák alkalmazását. Ezekben az esetekben az adatkezelés nyilvántartásba vételének feltétele, hogy az adatkezelőnél a jogszerű adatkezelés feltételei biztosíthatók legyenek, és ennek ellenőrzése érdekében a nyilvántartásba vételi határidő is hosszabb, 40 napos. Egyebekben a Hatóság a nyilvántartásba vételi eljárást nyolc napon belül folytatja le, és azt vizsgálja, hogy a kérelem tartalmazza-e a nyilvántartásban feltüntetendő tartalmi elemeket.
+
+Mivel a törvény értelmében a nyilvántartásba vétel szempontjából az eltérő célú adatkezelések önálló adatkezelésnek minősülnek, abban az esetben is, ha a kezelt adatok köre azonos, az adatkezelési cél megváltozása esetén nem változásbejegyzési eljárásnak van helye, hanem az új adatkezelésre vonatkozó nyilvántartásba vételnek.
+
+A 69. §-hoz
+
+A törvény 2013. január 1-jei hatálybalépéssel rendelkezik az adatvédelmi audit lefolytatásának lehetőségéről.
+
+Az adatvédelmi auditnak eddig jogszabályi alapjai nem léteztek, a tevékenységet végző szereplők csupán az üzleti és szakmai gyakorlatra tudtak támaszkodni. A Hatóság által végezhető audit fontos eszköze a jogbiztonság növelésének, elősegíti az érintettek jogainak védelmét. Várható, hogy az audit a Hatósággal való kapcsolattartásban fontos szerepet fog betölteni, és illeszkedni fog a Hatóság szerepéhez.
+
+Az audit a Hatóság olyan, igazgatási szolgáltatási díj ellenében, kérelemre végezhető szolgáltatása, amelynek célja a végzett vagy tervezett adatkezelési műveletek a Hatóság által meghatározott és közzétett szakmai szempontok szerinti értékelésén keresztül a magas szintű adatvédelem és adatbiztonság megvalósítása.
+
+Az adatvédelmi audit keretében végzett értékelés a törvény értelmében nem képezi akadályát annak, hogy a Hatóság a törvény szerinti egyéb eljárást folytasson le abban az esetben, ha a korábbi értékelése ellenére a személyes adatok jogellenes kezelését észleli az érintett adatkezelőnél.
+
+A 70-71. §-hoz
+
+A törvény rendelkezik arról, hogy ha a Hatóság bármely eljárástípusának lefolytatása során bűncselekmény, szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, kezdeményezi az érintett eljárás lefolytatását az arra jogosult szervnél. Az eljáró szervnek a Hatóság felé az eljárás megindítására és eredményére vonatkozóan tájékoztatási kötelezettséget ír elő a törvény.
+
+A törvény a Hatóság valamennyi eljárására nézve általános adatkezelési és titoktartási szabályokat is megállapít, továbbá rögzíti a minősített adatok kezelésére vonatkozó előírásokat.
+
+-----STARTING---POINT---VEGE---
+
+A VII. fejezethez
+
+A 72. §-hoz
+
+A törvény mind a Kormánynak, mind a feladatkörrel rendelkező miniszternek megadja a törvény végrehajtásához szükséges jogalkotási felhatalmazásokat.
+
+A 73-74. §-hoz
+
+A törvény a hatályba lépés napját úgy határozza meg, hogy a Hatóság elnökének személyére a miniszterelnök 2011. november 15-éig javaslatot tehessen, és a köztársasági elnök 2012. január 1-jéig, azaz a törvény érdemi normatartalmának hatályba lépéséig kinevezhesse.
+
+A 75. §-hoz
+
+A törvény rendezi a hatályba lépésekor folyamatban lévő eljárások tekintetében alkalmazandó átmeneti szabályokat.
+
+A 76. §-hoz
+
+A törvény az Alkotmány VI. cikk (3) bekezdése alapján rögzíti, hogy a törvénynek a Hatóság jogállását szabályozó V. fejezete sarkalatos, így e fejezet elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+
+A 77-88. §-hoz
+
+A törvény átvezeti a jogrendszer törvényi szintű szabályain a Hatóság létrehozása, az adatvédelmi biztosi intézmény megszűnése, valamint az Avtv. hatályon kívül helyezése folytán szükségessé váló módosításokat. Ennek kapcsán érdemi deregulációra is sor kerül: a törvény az önálló normatartalommal nem bíró, csupán az Avtv. szabályainak alkalmazását felhívó törvényi rendelkezéseket hatályon kívül helyezi annak érdekében, hogy egyértelművé váljon, hogy az információs jogokkal kapcsolatos garanciális szabályok - a külön törvényi utalásoktól függetlenül - a jelen törvényből következnek.
+
+A 89. §-hoz
+
+A módosítás a törvénynek az adatbiztonság követelményeit érintő, azokat kiterjesztő rendelkezéseivel összefüggésben a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény előírásai közötti összhang megteremtését és az adatbiztonsági követelmények e törvényben való hangsúlyozottabb megjelenítését célozza. Egyértelművé teszi, hogy az abban szabályozott egyedi felmentés megadására akkor van lehetőség, ha a nyilvántartás vonatkozásában adatfeldolgozási korlátozást megállapító ágazati törvény ezt kifejezetten lehetővé teszi. Pontosítja emellett az egyedi felmentés kezdeményezésére jogosult személyének megjelölését. A felmentés egyedi, kivételes jellegét erősítendő az indokolt mértékre szűkíti az egyedi felmentés megadásának lehetőségét, továbbá ahhoz időbeli korlátokat társít. Előírja a Kormány arról való előzetes tájékoztatását is.
+
+A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozási szabályai fenti módosításának megfelelően módosítja a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 224/A. §-a szerinti nemzeti adatvagyon körébe tartozó állami nyilvántartás elleni bűncselekmény értelmező rendelkezését, megteremtve ezzel a koherenciát a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény és a Btk. vonatkozó rendelkezése között.

@@ -1,0 +1,911 @@
+2017. évi LXIX. törvény indokolása
+
+a pénzügyi piacok működését és a pénzügyi eszközök kereskedését szabályozó törvények jogharmonizációs célú módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A pénzügyi eszközök piacairól szóló 2004/39/EK irányelvet (a továbbiakban: MiFID) és a hozzá kapcsolódó 2006/73/EK bizottsági irányelvet átültető rendelkezéseket, valamint az 1287/2006/EK bizottsági rendeletet a tagállamokban 2007 novembere óta kell alkalmazni. Ezek a jogszabályok szabályozzák a befektetési vállalkozások és hitelintézetek által nyújtott befektetési szolgáltatásokat és a szabályozott piacok működtetését. A befektetési szolgáltatási útlevél alapján nyújtott szolgáltatások területén a MiFID rendelkezések alkalmazása óta nőtt a verseny, s ennek eredményeképpen a tranzakciós költségek csökkentek, az integráció mértéke emelkedett. Az elmúlt években azonban több probléma is felszínre került. A versenyből fakadó előnyök nem egyenlően oszlottak meg a piaci szereplők között, és nem minden esetben részesültek az előnyökből a befektetők sem. A technológiai fejlődés következtében néhány rendelkezés túlhaladottá vált. A pénzügyi válság a pénzügyi rendszer egy sor sérülékeny pontjára világított rá, s ennek következtében az európai pénzügyi piacok összes jelentős szereplőjére vonatkozó szabályozási és felügyeleti keretrendszer átfogó módosítása vált szükségessé.
+
+A 2014-ben elfogadott és 2018. január 3-tól alkalmazandó 2014/65/EU irányelvnek (a továbbiakban: MiFID 2) megfelelően a hazai szabályozás is módosításra kerül. A MiFID 2 jogharmonizációját biztosító rendelkezések átültetési határideje 2017. július 3., de a rendelkezések hatálybalépésére - az uniós előírásoknak megfelelően - 2018. január 3-án kerül sor. E közbeeső félév a piaci szereplők és a Felügyelet megfelelő felkészülését hivatott lehetővé tenni. Ez azt jelenti, hogy az új rendelkezéseknek való megfelelést biztosító átállás időveszteség nélkül történhet, hiszen ezen időszak alatt már az új rendelkezéseknek megfelelően tud a Felügyelet eljárni. Az előterjesztés főszabálykénti hatálybalépési dátuma 2017. július 1.
+
+Az új rendelkezések érintik a befektetési szolgáltatásnyújtás egyes elemeit, a befektetési vállalkozások és a kereskedési helyszínek szervezeti és üzletviteli követelményeit. Megerősítésre kerülnek a befektetési vállalkozások és a piacműködtetők vezető testületére vonatkozó rendelkezések is. A jövőben kibővül a pénzügyi eszközök listája az üvegházhatást okozó gázok kibocsátási egységeivel, s így az ezen egységekkel folytatott kereskedésre is a befektetési szolgáltatásnyújtást érintő szabályok lesznek irányadóak. A befektetői bizalom növelése érdekében került sor a MiFID 2-nek a strukturált betéteket értékesítő vagy ügyfeleiknek azokkal kapcsolatban tanácsadással szolgáló befektetési vállalkozásokra és hitelintézetekre való kiterjesztésére, ennek megfelelően módosul a hazai szabályozás is (anélkül, hogy a pénzügyi eszközök köre e tekintetben bővülne).
+
+A kereskedés kapcsán központi cél, hogy minden szervezett kereskedés szabályozott kereskedési helyszíneken - egyenlő feltételek mellett - folyjon, és ennek érdekében az eddig szabályozott kategóriák mellé (szabályozott piac, multilaterális kereskedési rendszer - MTF) egy újabb platform, a szervezett kereskedési rendszer (OTF) is bevezetésre és egységes szabályozásra kerül. Az OTF a nem részvényjellegű pénzügyi eszközökkel történő kereskedés új platformjaként szabályozott keretek közé tereli az eddigiekben lényegében OTC platformként működtetett összepárosító rendszereket (broker crossing network-öket). Emellett a már eddig is létező rendszeres internalizálóként (SI) működő befektetési vállalkozásra vonatkozó szabályok is bővülnek, pl. a részvényen kívüli likvid pénzügyi eszközökre is kereskedés előtti transzparencia követelmények vonatkoznak a jövőben.
+
+Új elemként jelenik meg a kis- és közepes vállalkozások növekedését előmozdító kereskedési helyszínek létrehozatalának lehetősége az MTF-eken belül.
+
+A technológiai fejlődés jelentős változásokat generált a pénzügyi piacok területén az elmúlt pár évben. Az új kereskedési technológiák előnyöket kínálnak a piaci résztvevők számára többek között a szélesebb piaci részvétel, a megnövekedett likviditás és az ügyfélmegbízások jobb végrehajtása okán. Ugyanakkor az algoritmikus kereskedés révén megnövelt és esetlegesen hibásan generált megbízások a potenciális kockázatok mértékét is erőteljesen növelik, amelynek kezelése érdekében szükséges a szabályozás és a felügyelet megerősítése.
+
+A befektető-védelem terén az alábbi változások emelendők ki:
+
+- a befektetési tanácsadás és portfóliókezelés szabályozási kereteinek erősítése,
+
+- az ösztönzők elfogadásának szigorúbb szabályozása és a független tanácsadásra vonatkozó új szabályozás,
+
+- komplex terméknek minősített pénzügyi eszközök bővítése, ezáltal a csak megbízás végrehajtásának esetére alkalmazható eljárások szűkülése,
+
+- az ügyfelek tájékoztatásának további javítása (a legkedvezőbb végrehajtással kapcsolatos információk bővítése).
+
+Új rendelkezések jelennek meg az adatszolgáltatást végzők engedélyezésére és folyamatos megfelelési követelményeire vonatkozóan. Az adatszolgáltatást végzők típusai:
+
+- jóváhagyott közzétételi mechanizmus (APA): a befektetési vállalkozások nevében közzéteszi a kereskedési jelentéseket,
+
+- összesített adat-szolgáltató (CTP): a kereskedési helyszínekről és az APA-tól összegyűjti a kereskedési jelentéseket, amelyeket élő, folyamatos adatfolyamba von össze, és pénzügyi eszközönként biztosít árfolyam- és volumenadatokat,
+
+- jóváhagyott jelentési mechanizmus (ARM): a befektetési vállalkozások nevében bejelenti a tranzakciós adatokat a Felügyeletek vagy az ESMA felé.
+
+A Bizottság általános törekvése, hogy az egyes előírások megsértése esetén alkalmazandó intézkedések egységesítése irányába mozduljanak el a tagállamok. E cél megvalósítása érdekében módosításra kerülnek a Felügyeletre vonatkozó rendelkezések.
+
+A MiFIR - rendeleti jellegéből adódóan - nem igényel implementációt, de a hazai jogszabályi megfeleltetés szükségessé teszi a Bszt. és a Tpt. módosítását, elsősorban a szankciók tekintetében.
+
+A másodszintű szabályok közül kiemelendő a Bizottság felhatalmazáson alapuló irányelve, amelynek részleges átültetését szintén tartalmazza a törvény. Miniszteri rendeletben kerülnek megállapításra azok a szabályok, amelyeket a befektetési vállalkozásoknak be kell tartaniuk, amikor díjat, jutalékot vagy bármely pénzbeli vagy nem pénzbeli juttatást nyújtanak, illetőleg kapnak. Az előírások mindenekelőtt pontosítják az arra vonatkozó feltételt, hogy az ösztönzőknek javítaniuk kell az ügyfeleknek nyújtott szolgáltatások minőségét, valamint meghatározzák az ösztönzők átvételére és fizetésére vonatkozó új szabályok alkalmazását azon befektetési vállalkozások tekintetében, amelyek független alapon befektetési tanácsadást vagy portfóliókezelési szolgáltatásokat nyújtanak.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A befektetési politikában szereplő szabályok ismerete nélkül a választható portfóliós rendszerre vonatkozó szabályzat engedélyezése iránti kérelem nem bírálható el érdemben.
+
+A 2. §-hoz
+
+Az Ltp.-ben jelenleg szereplő pénzügyi szolgáltatás közvetítése kizárólag a hitelintézeti törvény szerinti pénzügyi és kiegészítő pénzügyi szolgáltatásokra értelmezhető, terminológiailag indokolt ezért a rendelkezésben a biztosításközvetítői tevékenység megjelenítése is.
+
+A 3. §-hoz
+
+A hitelezési aktivitás növelése érdekében indokolt az áthidaló kölcsönök nyújtására felhasználható eszközállomány arányát 75%-ról 90%-ra felemelni, és egyúttal a szabad pénzeszközök készpénzben, számlapénzben kötelezően tartandó minimális arányát 25%-ról 10%-ra csökkenteni.
+
+A 4. §-hoz
+
+A jelzálog-hitelintézetről és a jelzáloglevélről szóló törvény alapján a jelzálog-hitelintézet kizárólag olyan jelzáloghitel-szerződésből vagy kapcsolódó kölcsönszerződésből eredő követelést vásárolhat meg pénzügyi intézménytől vagy biztosító részvénytársaságtól, amelyre az eladó pénzügyi intézmény könyvvizsgálója az eladott hitelekről problémamentességi nyilatkozatot ad ki. A problémamentesség kritériumait a hitelintézetek és a pénzügyi vállalkozások könyvvezetéséről és éves beszámoló készítési kötelezettségéről szóló 250/2000. (XII. 24.) Korm. rendelet 7. sz. melléklete határozta meg. Tekintettel arra, hogy ezen rendeletből a vonatkozó szabályozás 2017. január 1-jétől kikerült és a követelések prudenciális szabályozása tárgyában eltérő tartalommal 2017. január 1-jétől már MNB rendeletek rendelkeznek, szükségessé vált a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvény módosítása.
+
+Az 5. §-hoz
+
+A törvény hatályának pontosítása szükséges, tekintettel arra, hogy a tőzsdei kereskedők köre bővítésre kerül a 2014/65/EU irányelvnek megfelelően: a felügyeleti engedéllyel rendelkező befektetési vállalkozások és hitelintézetek mellett olyan (felügyeleti engedéllyel nem rendelkező) személyek is lehetnek a jövőben tőzsdei kereskedők, akik a tőkepiaci törvény által előírt szigorú követelményeknek megfelelnek. Ezért egyértelműsítésre kerül a törvény hatálya, megjelenítve a tőzsdei kereskedési joggal rendelkezőket a tőzsdei kereskedéssel összefüggő tevékenység vonatkozásában.
+
+A 6. §-hoz
+
+A tőkepiaci törvény számos új fogalommal bővül. Ezek jelentős része a Bszt.-ben meghatározott definíciók változatlan átemelése tekintettel arra, hogy a befektetési szolgáltatási szektor szabályozása nem kizárólag a Bszt.-ben történik, a tőzsdére vonatkozó rendelkezések a tőkepiaci törvényben kapnak helyet. Ennek következtében szükséges a fogalmak ebben a törvényben történő megjelenítése is.
+
+Tekintettel arra, hogy a tőzsdei szabályok a piacműködtető vezető testületére vonatkozó előírásokkal is bővülnek (amelyek alapvetően a hitelintézetek és befektetési vállalkozások vezetői testületeire vonatkozó szabályokat követik), szükséges egyértelműen definiálni a vezető testület és az ügyvezető fogalmakat.
+
+A 7. §-hoz
+
+Az értékpapírok multilaterális kereskedési rendszerekbe történő bevezetéséhez kapcsolódó tájékoztatatási szabályokat bővíti az információs dokumentum kapcsán, ideértve azt az esetet is, amikor nem szükséges ilyen dokumentum készítése. A módosítás alapvetően a tájékozatóhoz kapcsolódó rendelkezések logikáját követi: a jóváhagyott dokumentum érvényessége a tájékoztatóhoz hasonlóan 12 hónap, és fontos befektető-védelmi szabályként jelenik meg a dokumentum kiegészítésre vonatkozó kötelezettség, amennyiben új információ jut a kereskedés bevezetésében résztvevők tudomására.
+
+A 8. §-hoz
+
+Az egyértelmű jogalkalmazás érdekében szükséges szövegpontosítás.
+
+A 9. §-hoz
+
+A MiFID 2 az úgynevezett adatszolgáltatási tevékenységre, és az ilyen szolgáltatást nyújtó szervezetekre vonatkozó új keretrendszert vezet be, valamint kiegészíti a befektetési szolgáltatási tevékenységek körét a kereskedési helyszínek új típusának, a szervezett kereskedési rendszernek (OTF) működtetésével. Az új innovatív tevékenységek végzésének biztosítása érdekében indokolt a tőzsde által végezhető tevékenységek körének szélesítése. A tőzsde a továbbiakban informatikai szolgáltatást, valamint piac működtetésével kapcsolatos szolgáltatást is végezhet.
+
+A 10. §-hoz
+
+A 600/2014/EU rendeletben meghatározott ügyletjelentési kötelezettséget a befektetési szolgáltató nevében a tőzsde maga is elvégezheti. Ilyen nagy mennyiségű és érzékeny információk továbbítása esetén az engedélyezési szempontrendszer bővítése szükségszerű az ehhez használt technikai eszközökre vonatkozó feltételek, a hiteles adatbejelentést garantáló rendszerek előírásával.
+
+A 11. §-hoz
+
+Az EU-s tőkepiaci fogalomkörben szabályozott piacnak nevezzük azt a legnagyobb átláthatóságot biztosító, tradicionálisabb multilaterális rendszert, ahol pénzügyi eszközzel kereskednek. A szabályozott piac a Tpt. szerinti, közgazdaságtani megközelítésű tőzsdefogalom részhalmazának tekinthető, erre tekintettel a korábbi gyakorlatnak megfelelően a MiFID 2. sabályozott piacra vonatkozó rendelkezései alapvetően a tőzsdei előírások megfelelő rendelkezéseinek módosítása révén kerülnek implementálásra. Ez egy láttató szabály révén is pontosításra kerül, egyértelműsítve, hogy a szabályozott piacra a Kilencedik Részben foglalt tőzsdei rendelkezések megfelelően alkalmazandóak. Az átültetés e módon történő megvalósítása hozzájárult ahhoz is, hogy a jól működő és a jogalkalmazók által már ismert keretrendszer ne kerüljön megbontásra. Az átültetés során azonban fontos szempont volt az is, hogy a nem szabályozott piacként nyilvántartott tőzsdék - pl. az árutőzsdék - adott esetben ne kerülhessenek versenyhátrányba a MiFID 2 összes rendelkezésének való megfelelés előírásával. (Így például a vezető testületre vonatkozó új előírások nem a tőzsdére, hanem a piacműködtető vezető testületére vonatkoznak.)
+
+A 12. §-hoz
+
+A piacműködtető vezető testületére vonatkozó szabályok a 2014/65/EU irányelv rendelkezéseinek megfelelően kerülnek meghatározásra. E rendelkezések párhuzamba állíthatóak a hitelintézet és a befektetési vállalkozás vezető testületére vonatkozó rendelkezésekkel. Ide tartoznak többek között a személyi, tárgyi feltételek, a vezető testület feladataival kapcsolatos előírások, illetve a jelölőbizottság feladatai és felállításának feltételei. A technikai részletek tekintetében az Európai Értékpapír-piaci Hatóság által kiadott iránymutatások igazítanak el az alkalmazáshoz szükséges további kérdésekben.
+
+A 13. §-hoz
+
+Az irányelvi előírások mentén módosítja a tőzsdei kereskedők körét. A korábbi hazai előírások szerint kereskedési jog csak pénzügyi felügyeleti engedély birtokában volt szerezhető. A jövőben a felügyeleti engedéllyel rendelkező befektetési vállalkozások és hitelintézetek (azaz a befektetési szolgáltatók) mellett pénzügyi felügyeleti engedéllyel nem rendelkező személyek is rendelkezhetnek tőzsdei kereskedési joggal (azaz a tőzsde tőzsdetagságot biztosíthat). Ugyanakkor az irányelvi előírások mentén szigorú követelményeknek kell megfelelnie ennek a csoportnak is.
+
+A jó üzleti hírnév előírása, a megfelelő szakmai tudás, a megalapozott szervezeti megoldások biztosítása és a pénzügyi erőforrások garantálása révén biztosítható a befektető-védelmi szempontok maximális érvényesülése. Tekintettel arra, hogy ezen követelmények nem kerülnek pontosabban kifejtésre irányelvi szinten, a tőzsde számára szükséges azt a lehetőséget biztosítani, hogy a kereskedési jogra vonatkozó részletes feltételeket a saját szabályzatában határozhassa meg. Befektető-védelmi szempontból indokolt rögzíteni azt is, hogy a nem befektetési szolgáltató tőzsdei kereskedők kötelesek a Bszt.-ben meghatározott ügyfélvédelmi rendelkezéseket is alkalmazni. (A befektetési szolgáltatókra értelemszerűen vonatkoznak a Bszt. előírásai.) A tőzsdei tevékenység hatékony felügyeletét segíti elő az a rendelkezés, hogy a tőzsdei kereskedők jegyzékét a tőzsde rendszeresen elküldi a Felügyelet részére.
+
+A 14. §-hoz
+
+A tőzsde a tőkepiac központi intézménye, stabil működésének biztosításához szükséges előírni, hogy saját tőkéjének terhére ügyfélmegbízásokat, illetve egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést nem hajthat végre. E prudenciális szempontból szükségszerű előírás a másik két multilaterális rendszer, az MTF és OTF működtetőjére is alkalmazandó.
+
+A 15. §-hoz
+
+A tőzsde kereskedési jogot érintő szabályzatára vonatkozó előírást pontosítja azzal, hogy a közvetlen vagy távoli elérést érintő rendelkezéseket is szükséges a szabályzatban megjeleníteni.
+
+A 16. §-hoz
+
+A tőzsde által alkalmazott rendszerekre és eljárásokra az irányelvi előírások mentén új szabályok is alkalmazandóak lesznek. A tőzsde rendszerszintű jelentősége miatt különösen fontos, hogy az üzletmenet folytonosan biztosítható legyen. Ennek megfelelően a tőzsdének elegendő kapacitással kell rendelkeznie csúcsterhelések esetén, és fel kell készülnie piaci stresszhelyzetekre. További előírás, hogy az algoritmikus kereskedést folytató árjegyzőkkel a tőzsde írásos megállapodásokat kössön. (Az árjegyzőknek kiemelt szerepe van a likviditás biztosításában.) Az árjegyzési megállapodásokkal és rendszerekkel kapcsolatos követelményeket pedig részletszabály, azaz közvetlenül hatályosuló technikai sztenderd határozza meg. Újdonság annak előírása is, hogy a tőzsde képes legyen azon megbízásokat elutasítani, amelyek bizonyos árküszöböket meghaladnak, vagy egyértelműen tévesek; illetve bizonyos ügyleteket - szabályzatában meghatározott módon - töröljön. Ez biztosítja az ügyletkötésben résztvevők számára a hibás áron kötött ügyletekből fakadó károk minimalizálását.
+
+A közvetlen elektronikus hozzáférés nyújtását a tőzsde csak befektetési szolgáltatók részére engedélyezheti. Technikai sztenderdek vonatkoznak többek között az árjegyzési rendszerek megkülönböztetés mentes jellegére, az algoritmusok megfelelő tesztelésének biztosítására, a közvetlen elektronikus hozzáférés tekintetében végezhető ellenőrzési lehetőségek kialakítására.
+
+A törvény bizonyos részvényjellegű eszközök tekintetében előírja a tőzsde számára, hogy árlépésköz-rendszereket fogadjon el, amely célja a stabil és gördülékeny kereskedés elősegítése. Szintén újdonság, hogy a tőzsdének és tőzsdei kereskedőknek össze kell hangolniuk üzleti óráikat, amelynek célja az utólagos felügyeleti rekonstrukció megkönnyítése. Ezen rendelkezéseket érintően is technikai sztenderdek határozzák meg a részletszabályokat.
+
+A 17. §-hoz
+
+E § rendelkezései a tőzsdei szabályzatokra vonatkozó előírásokat pontosítják. A folyamatos pénzügyi megfelelés szükségességét alátámasztó rendelkezés, hogy a szabályzatok betartásának ellenőrzésére is megfelelő anyagi forrásokkal kell rendelkeznie a tőzsdének. Az ügyletek hatékony véglegesítésének és a megfelelő technikai eljárások biztosítása kiemelt jelentőségű, indokolt a részletes szervezeti megoldások előírása. A már elküldött megbízások figyelemmel kísérésének indoka, hogy a tőzsde azonosíthassa az esetleges szabálytalan kereskedési feltételeket, a piaci visszaéléseket. A kereskedési jogra vonatkozó szabályzatot érintő előírások - a kötelezettségek meghatározása tekintetében - szintén módosításra kerülnek.
+
+A 18. §-hoz
+
+A G20-ak pénzügyminisztereinek és jegybankelnökeinek 2011. április 15-i közleménye kijelentette, hogy az árualapú származtatott termékek piacának résztvevőit megfelelő szabályozás és felügyelet alá kell helyezni. Ezen elvárásnak megfelelve a 2014/65/EU irányelv előírja, hogy minden olyan kereskedési helyszínnek, ahol árualapú származtatott termékekkel kereskednek, rendelkeznie kell megfelelő pozíciókezelési kontrollmechanizmusokkal. E rendelkezéssel való összhangot biztosítja a törvény, amennyiben pozíciókezelési kontrollmechanizmus alkalmazását írja elő a piacműködtetőre. A pozíciókezelési kontrollmechanizmus keretében a piacműködtető megfelelő hatáskörrel rendelkezik legalább az árualapú származtatott termékek pozícióival kapcsolatos információk nyomon követése és az azokhoz való hozzáférés, valamint e pozíciók csökkentésének vagy megszüntetésének megkövetelése vonatkozásában, illetve az arra való kötelezés tekintetében, hogy a jelentős vagy domináns pozícióból fakadó hatások mérséklése érdekében a likviditás visszairányuljon a piacra.
+
+A 19. §-hoz
+
+Kiegészítő jelleggel tartalmaz rendelkezéseket a tőzsdei kereskedők tevékenységének ellenőrzése, a jogszabályoknak, illetve a tőzsdei szabályzatoknak történő megfelelés vonatkozásában.
+
+A 20. §-hoz
+
+Tekintettel arra, hogy az algoritmikus kereskedést érintő rendszerekkel kapcsolatos kiszervezésre vonatkozó követelményeket technikai sztenderdek állapítják meg, a tőkepiaci törvény előírásai ebben az esetben nem alkalmazandók.
+
+A 21. §-hoz
+
+A hatályos szabályozás pontosításra kerül a tőzsdei ügylet elszámolása tekintetében, az irányadó, központi szerződő felekre vonatkozó európai uniós rendeletre (648/2012/EU) való hivatkozással.
+
+A 22. §-hoz
+
+A tőzsdei termék felfüggesztésére és törlésére vonatkozó előírások az irányelv által meghatározott keretek mentén kerülnek kialakításra. Újdonság, hogy a tőzsde bizonyos termék felfüggesztése vagy törlése esetén a kapcsolódó termék (az alapul szolgáló pénzügyi eszköz) felfüggesztését vagy törlését is elrendelheti - akár más érintett tőzsde is a Felügyelet utasítására - az eredeti és a kapcsolódó termék közötti kapcsolat minőségétől függően. Az arányos alkalmazás szempontjait figyelembe véve és az indokoltnál nagyobb méretű beavatkozást elkerülendő, ebben az esetben a két termék közötti kapcsolat jellegére vonatkozóan technikai sztenderdek kerülnek meghatározásra. Szintén részletszabályok fogják meghatározni, hogy a piac rendezett működését és a befektetők érdekeit sértő mely esetkörökben nem megengedhető a felfüggesztés vagy törlés. Az irányelv új elemként előírja azt is, hogy akár más EU-tagállamban történő felfüggesztés vagy törlés esetén - amennyiben indokolt - a hazai kereskedési helyszíneken és rendszeres internalizáló esetén is elrendelhető a felfüggesztés vagy a törlés. Ezen szabályok bevezetését a tőkepiacokon tapasztalható nagyfokú korreláció, az ebből fakadó fertőzések elkerülése és a piaci stabilitási kockázatok csökkentésének igénye indokolja.
+
+Kiemelendő továbbá, hogy a felfüggesztés visszavonása esetén e § rendelkezései megfelelően alkalmazandók. Értelemszerűen a visszavonásról szóló határozatot is nyilvánosságra kell hozni a Felügyelet tájékoztatásával egyidejűleg, valamint adott esetben az egyéb érintett tőzsdének is el kell rendelnie a felfüggesztés visszavonását, akár kapcsolódó pénzügyi eszköz esetén is. Amennyiben más EU tagállam tőzsdéjén is visszavonják a felfüggesztést, a hazai székhelyű tőzsdén is hasonlóan kell eljárni az adott feltételeknek megfelelően. E §-ban foglalt rendelkezések mellett a Felügyeletnek is megmarad azon jogosítványa, amely alapján továbbra is felfüggesztheti tőzsdei kereskedést.
+
+A 23. §-hoz
+
+A tőzsde a pénzügyi piacok rendszerszinten jelentős intézménye, a modern tőkepiacok megkerülhetetlen szereplője. Nemcsak az engedélyezése időpontjában, hanem a működése során végig rendelkeznie kell megfelelő pénzügyi erőforrásokkal. Ezért a már korábban is engedélyezési feltételként szereplő alaptőke-követelmény mellett a folyamatos prudens működés biztosítása érdekében elő kell írni, hogy saját tőkéje nem csökkenhet a jegyzett tőke szintje alá.
+
+A 24. §-hoz
+
+A tőkepiaci törvényben indokolt a Felügyelet intézkedési lehetőségének bővítése az új előírásoknak meg nem felelő könyvvizsgálóval rendelkező kibocsátók vonatkozásában.
+
+A 25. §-hoz
+
+A Felügyelet intézkedéseit tartalmazó felsorolást szükséges kiegészíteni a 2014/65/EU irányelvben foglalt azon szankciókkal, amelyek az eltérő személyi hatály miatt mind a Tpt.-t, mind a Bszt.-t érintik, és azokat a Tpt. jelenleg nem tartalmazza a felügyeleti intézkedések között. Ilyen intézkedések többek között a pozíció vagy kitettség nagysága csökkentésének kérése, valamely természetes személy elmozdítása a piacműködtető vezető testületéből, a jogsértésért felelő személyt megjelölő közlemény kiadása, a jogsértő állapot megszüntetésének elrendelése, illetve a jogszabályba ütköző magatartás további folytatásának megtiltása. A tőzsdei felfüggesztésre és törlésre vonatkozó szabályok megváltozása szükségessé tette, hogy a vonatkozó felügyeleti hatáskörök is bővítésre kerüljenek. Emellett az EU-s szintű felügyeleti koordináció elősegítése is fontos szempont, tekintettel arra, hogy egy pénzügyi eszközzel akár több különböző EU-s tagállam piacán is kereskedhetnek. Ezért indokolt a felügyeleti értesítési eljárásokra vonatkozó szabályok kiegészítése is.
+
+A 26. §-hoz
+
+A rendelkezés megfeleltetési szabályt állapít meg a már engedélyezett szabályozott piac vezető testületének tagjára és ügyvezetőjére.
+
+A 27. §-hoz
+
+A mellékletbe a jogharmonizációs klauzula beillesztése történik.
+
+A 28. §-hoz
+
+Szövegcserés módosítások, amely egy pontosító rendelkezést is tartalmaz a Felügyelet fokozatos és arányos intézkedéseire vonatkozóan.
+
+A 29. §-hoz
+
+Hatályát vesztő rendelkezések.
+
+A 30. §-hoz
+
+A 2014/65/EU irányelv értelmében az árukhoz, így a villamos energiához kapcsolódó származtatott („hosszú távú”) ügyletek a pénzügyi eszközök kategóriájába esnek, ezért e termékekkel folytatott ügyletek, kereskedés is a pénzügyi szabályozás hatálya alá kerül. Ezt az indokolja, hogy ezen ügyletkötések a hagyományos pénzügyi eszközökhöz hasonló szabályozási kérdéseket vetnek fel. Ezért szükséges a szervezett villamosenergia-piacon történő ügyletkötést az azonnali ügyletekre korlátozni.
+
+A 31. §-hoz
+
+Jogharmonizációs klauzula beillesztése történik.
+
+A 32. §-hoz
+
+Szövegcserés módosítás.
+
+A 33-37. §-hoz
+
+A hatályos szabályozás alapján nincs szükség a Felügyelet engedélyére a foglalkoztatói nyugdíjszolgáltatóban történő minősített befolyás megszerzéséhez. Az egyes pénzügyi szervezetekre vonatkozó szabályozás egységességének biztosítása érdekében, indokolt a foglalkoztatói nyugdíjszolgáltatóban történő minősített befolyás megszerzése esetén is a Felügyelet általi engedélyezés előírása. Az Fnyt. az engedélyezési tárgykörök tekintetében jellemzően visszautal a Bit. vonatkozó szabályozására, az ott meghatározott feltételek alkalmazására. Ezen elv következetes érvényesítése érdekében a minősített befolyás megszerzésének engedélyezése körében is a Bit. vonatkozó szakaszainak alkalmazására kerül sor.
+
+A 38. §-hoz
+
+A 2014/65/EU irányelv új üzleti alapon végezhető szolgáltatásokat vezet be, amelyek összefoglalóan adatszolgáltatási tevékenységként jelölhetők meg. Ezzel összhangban az ilyen tevékenységeket végző szolgáltatókra szükséges a törvény hatályának a kiterjesztése.
+
+A 39. §-hoz
+
+Annak érdekében, hogy egyes különös kockázatokat hordozó jelenségek esetében eredményesen lehessen fellépni - a 2014/65/EU irányelvvel összhangban - a törvény többek között az algoritmikus kereskedéssel és az árualapú származtatott termékekre vonatkozó pozíciólimitek Felügyelet általi meghatározásával kapcsolatos rendelkezéseit egyes, a törvény hatálya alá nem tartozó személyekre is kiterjeszti. A törvény meghatározott - elsősorban az ügyfelek védelmét biztosítani hivatott - rendelkezéseit a nem pénzügyi eszköznek minősülő strukturált betétek esetén is alkalmazni kell.
+
+A 40. §-hoz
+
+A 2014/65/EU irányelv jogharmonizációját valósítják meg azok a rendelkezések, amelyek előírják, hogy a személyek és szervezetek befektetési szolgáltatásnyújtására mely speciális esetekben nem terjed ki a törvény hatálya.
+
+A 41. §-hoz
+
+A törvény 2. §-ában foglalt - az árualapú és a nem árualapú származtatott termékekkel végzett befektetési szolgáltatási tevékenységre vonatkozó, valamint az egyes villamos energia- és földgázpiaci szereplőkre vonatkozó - felmentés további részletezését tartalmazza a rendelkezés, összhangban a 2014/65/EU irányelvvel.
+
+A 42. §-hoz
+
+Pontosító rendelkezés.
+
+A 43. §-hoz
+
+A 2014/65/EU irányelv céljának megfelelően a törvény is biztosítja, hogy minden szervezett kereskedés szabályozott körülmények között, felügyelt módon és helyszíneken történjen.
+
+A 44. §-hoz
+
+Az értelmező rendelkezések jelentős része a 2014/65/EU irányelvnek való megfelelés érdekében tartalmaz új fogalmakat vagy pontosít korábban is használt definíciókat.
+
+A 45. §-hoz
+
+A 2014/65/EU irányelv rendelkezéseinek megfelelően kibővül a befektetési szolgáltatási tevékenységek köre egy új kereskedési helyszín, a szervezett kereskedési rendszer működtetésével. A multilaterális kereskedési szolgáltatást kínáló különféle helyszínek versenyfeltételeinek kiegyenlítése érdekében kerül sor a szervezett kereskedési rendszer bevezetésére, amely platformon csak nem részvényjellegű pénzügyi eszközökkel lehet kereskedni és a megbízások végrehajtásakor mérlegelési jogkör gyakorlására is sor kerülhet.
+
+A 46. §-hoz
+
+A 2014/65/EU irányelv rendelkezéseinek megfelelően pontosításra kerül a pénzügyi eszközökként meghatározott eszközök köre, illetve kibővül az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jogával.
+
+A 47. §-hoz
+
+Az adatszolgáltatási tevékenységek köre a 2014/65/EU irányelvben meghatározottaknak megfelelően kerül meghatározásra.
+
+A 48. §-hoz
+
+Pontosító rendelkezés.
+
+A 49. §-hoz
+
+A piacműködtető esetében 2014/65/EU irányelvvel összhangban a törvény tisztázza, hogy az MTF és az OTF működtetése befektetési szolgáltatási tevékenységet milyen feltételek mellett végezheti. A törvény értelmében a 2014/65/EU irányelv hatálybővülése miatt e törvény hatálya alá kerülő villamosenergia- és földgázkereskedőkre, valamint az üvegházhatású gázok kereskedelmében részt vevő speciális szereplők esetében a profiltisztaságra vonatkozó rendelkezéseket nem kell alkalmazni.
+
+Az 50. §-hoz
+
+Pontosító rendelkezés.
+
+Az 51. §-hoz
+
+A 2014/65/EU irányelvvel összhangban a befektetési vállalkozásnak gondoskodnia kell arról, hogy a pénzügyi eszközöket úgy alakítsák ki, hogy azok megfeleljenek az ügyfelek érintett kategóriáján belül valamely azonosított célpiac végső ügyfelei igényeinek. Ennek érdekében termék-jóváhagyási folyamatot kell kialakítania. Annak biztosítása érdekében, hogy a pénzügyi eszközöket csak abban az esetben kínálják vagy ajánlják, ha ez az ügyfél érdekét szolgálja, azon befektetési vállalkozásoknak is megfelelő eljárásokkal kell rendelkezniük a pénzügyi eszközökre vonatkozó szükséges információk beszerzésére, amelyek az ebben a törvényben meghatározott termék-jóváhagyási követelmények alá nem tartozó vállalkozások által előállított, vagy pedig harmadik országbeli vállalkozások által előállított termékeket kínálnak vagy ajánlanak. Tehát mind a termék kialakítóit, mind a termék forgalmazóit kötelezettségek terhelik, amelynek részletes szabályait a Bizottság felhatalmazáson alapuló irányelve alapján miniszteri rendelet fog szabályozni.
+
+Az 52. §-hoz
+
+A befektetési vállalkozás belső ellenőrzésére vonatkozó szabályozási tartalom a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény. Az árutőzsdei szolgáltató belső ellenőrzésére vonatkozó szabályozás változatlan tartalmú marad.
+
+Az 53. §-hoz
+
+A szabályozási tartalom a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+Az 54. §-hoz
+
+Az alcím címét az alcímben szabályozott tartalomhoz igazítja.
+
+Az 55. §-hoz
+
+A szabályozási tartalom a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+A Bszt. 21. § (2) bekezdés a Bizottság - többek között az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelmét szabályozó - felhatalmazáson alapuló irányelve alapján biztosítja az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelmére szolgáló előírások megerősítését. Ennek keretében az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelmével kapcsolatos kötelezettségek befektetési vállalkozás általi teljesítésének biztosítására a befektetési vállalkozásnak megfelelő szakértelemmel és hatáskörrel rendelkező munkatársat kell kineveznie. A befektetési vállalkozás döntésétől függően ezt a feladatkört a kinevezett személy kizárólagos feladatként vagy más feladatkörrel együtt látja el.
+
+Az 56. §-hoz
+
+A módosítás azért szükséges, mert miniszteri rendelet már nem állapíthat meg az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényt kiegészítő eljárásjogi rendelkezéseket, így a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági vizsga sikeres letételét igazoló tanúsítványokra, mint hatósági bizonyítványokra vonatkozó eljárásjogi rendelkezéseknek, változatlan tartalommal - miniszteri rendeleti szintről - törvényi szintre történő elhelyezése szükséges. Ezen módosítással egyidejűleg - a tartalmi összefüggés és az érintett rendelkezések azonossága miatt - technikai pontosítások is megfogalmazásra kerülnek, valamint a Magyar Nemzeti Bank 2017. július 1-jén megkapja a jogot, hogy pénzügyi szolgáltatás közvetítői, biztosításközvetítői és tőkepiaci üzletkötői hatósági vizsgáztatási tevékenységet végezzen.
+
+Az 57. §-hoz
+
+A Bszt. a 2014/65/EU irányelv alapján biztosítja azon lehetőséget, hogy a befektetési vállalkozás vezető testületének tagja vagy ügyvezetője a vonatkozó korlátozást meghaladóan további egy nem ügyvezetői tisztséget töltsön be.
+
+Az 58. §-hoz
+
+Az utóbbi időszakban a tőkepiacon végbement innováció egyik eleme a kereskedési technológia fejlődése, az algoritmikus kereskedés, illetve ennek az ennek részét képező nagysebességű algoritmikus kereskedési technika. Algoritmikus kereskedés során egy számítógépes algoritmus automatikusan határozza meg egy megbízás vonatkozásait, minimális emberi beavatkozással, vagy anélkül. A 2014/65/EU irányelv e fejlődéssel lépést tartva szabályozási hatálya alá vonja az algoritmikus kereskedésből eredő kockázatokat, ezért az algoritmikus kereskedést folytató befektetési vállalkozásnak megfelelő rendszerekkel és ellenőrzésekkel kell rendelkezniük e tevékenysége tekintetében. Az árjegyzési stratégiát követő algoritmikus kereskedést folytató befektetési vállalkozás esetében előírásra kerül, hogy folyamatosan, rendszeresen és előre látható módon kell likviditást biztosítania az adott kereskedési helyszínen. Az algoritmikus kereskedés egy sajátos részét képezi a nagysebességű algoritmikus kereskedési technika, amikor a kereskedési rendszer nagy sebességgel elemzi a piacról származó adatokat illetve jelzéseket, és ezt követően az elemzésre reagálva nagy számban nagyon rövid időn belül küld vagy frissít megbízásokat. A 2014/65/EU irányelv rendelkezéseit követve biztosítja az átültetést. A pontos átültetésnek kiemelt jelentősége van, hiszen a technikai részletek tekintetében európai szintű közvetlenül hatályosuló előírások (szabályozástechnikai sztenderdek) igazítanak el az alkalmazáshoz szükséges további kérdésekben.
+
+Az 59. §-hoz
+
+A rendelkezés technikai megoldást tartalmaz arra az esetre, amikor hazai székhelyű befektetési vállalkozás az uniós szabályokkal összhangban a Bszt. 6. § j), illetve k) pontja szerinti pénzügyi eszköz tekintetében határon átnyúló szolgáltatásnyújtást, illetve fióktelep létesítést kíván uniós útlevéllel végezni. E két pont szerinti pénzügyi eszköz ugyanis az uniós terminológiában egy közös pont alatt szerepel, és a törvény az ebből az eltérésből adódó esetleges félreértések kikerülését hivatott rendezni.
+
+A 60. §-hoz
+
+A törvény a befektetési szolgáltatási tevékenység végzésére jogosító engedély iránti kérelemnél előírja, hogy a kérelmező tulajdonosi szerkezete leírását okiratokkal alátámasztott módon tegye meg, valamint - amennyiben az lehetséges - a kérelmező bemutassa a tulajdonosait.
+
+A 61. §-hoz
+
+Harmadik országban székhellyel rendelkező befektetési vállalkozásnak fióktelep létesítése esetén a Felügyelettől engedélyt szükséges szereznie. Az EGT tagállami szolgáltatás nyújtási szabadsággal ellentétben itt engedélyezési eljárás jelenik meg, azonban a fióktelepi jelleg okán ez az engedélyezési eljárás körében szűkebb, mint egy leányvállalat esetén. Az engedélyezés egyik feltételeként a hazai felügyeleti hatóság és a harmadik országban székhellyel rendelkező befektetési vállalkozás illetékes hatósága együttműködési megállapodást köt.
+
+A 62. §-hoz
+
+A pénzmosáshoz kapcsolódó kockázatokat is megjeleníti a befektetési szolgáltatási tevékenység végzésére jogosító engedély iránti kérelmek elutasításánál.
+
+A 63. §-hoz
+
+A minősített befolyás szerzésének engedélyezése iránti kérelemnél előírja, hogy a kérelmező tulajdonosi szerkezete leírását okiratokkal alátámasztott módon tegye meg, valamint - amennyiben az lehetséges - a kérelmező bemutassa a tulajdonosait. A törvény ezen felül a pénzmosáshoz kapcsolódó kockázatokat is megjeleníti a minősített befolyás szerzése iránti kérelmek elutasításánál.
+
+A 64. §-hoz
+
+Szükséges a minősített befolyás megszerzésére vonatkozó szabályok kiegészítése arra az esetre, amikor a Felügyelet az értékelés alapján a minősített befolyás megszerzését vagy a minősített befolyás mértékének növelését megtagadja. Ebben az esetben az értékelés befejezését követő két munkanapon belül írásban és indokolással ellátva értesítenie kell a kérelmezőt. Azonban az értesítésnek ebben az esetben is a 60 munkanapos ügyintézési határidőn belül meg kell történnie.
+
+A 65. §-hoz
+
+Az ügyfelek tájékoztatására vonatkozó szabályok kiemelt jelentőséget kaptak a 2014/65/EU irányelv kialakítása során. Mivel az Európai Unió törekvése arra irányul, hogy Unió-szerte mindenhol egységes védelemben részesüljenek az ügyfelek, ezért az általános keretjellegű szabályokon túlmutató, részletes rendelkezéseket jelentős részben a Bizottság felhatalmazáson alapuló rendelete tartalmazza. Ezért a törvény számos rendelkezése kapcsán jelenik meg konkrét utalás arra, hogy a részletes szabályozási tartalom az uniós rendelkezésben hol található meg. Ez hozzásegít ahhoz, hogy a jogalkalmazók tudomást szerezzenek arról, hogy további előírásokat is figyelembe kell venniük.
+
+Az ügyfeleket világos, egyértelmű, pontos, megtévesztéstől mentes tájékoztatással kell ellátni, ezt a követelményt a marketingközleményekre is alkalmazni kell.
+
+A törvény a befektetési tanácsadást nyújtó befektetési vállalkozástól megköveteli, hogy tegye közzé a tanácsadás díját, tisztázza, mi az alapja az általa adott tanácsnak. Különösen azt, hogy a termékek milyen választékát veszi figyelembe, amikor az ügyfeleknek személyre szóló ajánlásokat fogalmaz meg, a befektetési tanácsadást független alapon biztosítja-e vagy biztosítja-e az ügyfelek számára a nekik ajánlott pénzügyi eszközök alkalmasságának időszakonkénti értékelését.
+
+Az információkat a befektetési vállalkozásnak olyan formában kell közölnie, hogy ésszerűen feltételezhető legyen, hogy azok alapján az ügyfél képes átlátni a felkínált szolgáltatást, illetve az adott pénzügyi eszköz jellemzőit és kockázatait, és ennek következtében tájékozottan tudja meghozni befektetési döntéseit.
+
+A 66. §-hoz
+
+A 2014/65/EU irányelvnek megfelelően a befektetési tanácsadásra vonatkozó szabályozás kibővül a szolgáltatást független alapon biztosító befektetési vállalkozásokra vonatkozó szabályokkal. Amennyiben a tanácsadás független alapú, az ajánlat kialakítása során elegendő számú, különböző szolgáltatók által kínált terméket kell vizsgálni. Ez esetben nem szükséges az összes szolgáltatónak vagy kibocsátónak a piacon rendelkezésre álló termékeit megvizsgálni. Azonban a vizsgált pénzügyi eszközök köre nem korlátozódhat az olyan entitások által kibocsátott vagy kínált pénzügyi eszközökre, amelyek olyan szoros kapcsolatban állnak a befektetési vállalkozással, vagy amelyeket bármely egyéb olyan szoros jogi vagy gazdasági kapcsolat fűz a befektetési vállalkozáshoz, amely veszélyezteti a tanácsadás függetlenségét.
+
+A befektetők védelmének megerősítése érdekében tovább korlátozódik annak a lehetősége, hogy a független alapon befektetési tanácsadási szolgáltatást, illetve portfóliókezelési szolgáltatást nyújtó befektetési vállalkozás díjakat, jutalékokat vagy bármely egyéb pénzbeli vagy nem pénzbeli juttatást fogadjanak el vagy kapjanak harmadik felektől és különösen kibocsátóktól vagy termékszolgáltatóktól. Ez feltételezi, hogy a vállalkozásnak valamennyi harmadik fél által fizetett vagy nyújtott díjat, járulékot vagy bármiféle pénzbeli juttatást a kézhezvételt követő lehető legrövidebb időn belül, teljes mértékben vissza kell térítenie az ügyfélnek, és a vállalkozás a harmadik felektől származó befizetéseket nem használhatja fel az ügyfél által a vállalatnak fizetendő díjak kiegyenlítésére. Az ügyfelet pontosan és adott esetben rendszeres időközönként tájékoztatni kell valamennyi díjról, járulékról és juttatásról, amelyet a vállalkozás az ügyfélnek nyújtott befektetési szolgáltatás keretében kapott és az ügyfélnek átutalt.
+
+A független tanácsadást vagy portfóliókezelést nyújtó befektetési vállalkozásnak ki kell alakítania olyan politikát, amely biztosítja, hogy a harmadik felektől származó befizetéseket elosztják és átadják az ügyfeleknek. Csak kisebb, nem pénzbeli juttatások engedhetők meg, azzal a feltétellel, hogy ezekről az ügyfél egyértelmű tájékoztatást kap, illetve hogy alkalmasak a szolgáltatás minőségének fokozására, és nem akadályozzák vagy nem tekinthető úgy, hogy akadályoznák a befektetési vállalkozást abban, hogy az ügyfél érdekének legmegfelelőbb módon járjon el. Ezen ösztönzők részletes szabályait a Bizottság felhatalmazáson alapuló irányelve alapján miniszteri rendelet fogja szabályozni.
+
+Amikor egy befektetési szolgáltatást csomag részeként vagy ugyanazon megállapodás vagy csomag feltételeként egy másik szolgáltatással vagy termékkel együtt kínálnak, a befektetési vállalkozásnak tájékoztatnia kell az ügyfelet, hogy az egyes részelemek elkülönítetten is megvásárolhatók-e, és mindegyik részelem vonatkozásában külön-külön be kell mutatnia a költségeket és díjakat. A kockázatokról az előírt módon kell tájékoztatást nyújtani az ügyfeleknek.
+
+A 67. §-hoz
+
+A szabályozási tartalom egy része a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+A 68. §-hoz
+
+Az ügyfelek részére nyújtott megbízható tájékoztatás érdekében a törvény előírja, hogy a befektetési vállalkozás nevében az ügyfeleknek befektetési tanácsot vagy információt nyújtó természetes személyeknek rendelkezniük kell a szükséges ismeretekkel és szakértelemmel.
+
+A 69. §-hoz
+
+A szabályozás kiegészül azzal, hogy szolgáltatáscsomag vagy termékcsomag ajánlása esetén is biztosítani kell az alkalmassági teszt keretében történő tájékozódást.
+
+A befektetési vállalkozás előzetes tájékozódási kötelezettsége tekintetében előírt szabályok körében a befektetési tanácsadáshoz és a portfóliókezelési tevékenységhez kapcsolódó alkalmassági tesztre vonatkozó szabályozási tartalom egy része a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény. Az alkalmassági nyilatkozat ügyfélhez való eljuttatásának módozatát a törvény a 2014/65/EU irányelvnek megfelelő tartalommal szabályozza.
+
+A 70. §-hoz
+
+A szabályozás kiegészül azzal, hogy szolgáltatáscsomag vagy termékcsomag esetén is biztosítani kell a megfelelési teszt keretében történő tájékozódást.
+
+A befektetési vállalkozás előzetes tájékozódási kötelezettsége tekintetében előírt szabályok körében a befektetési tanácsadáson és a portfóliókezelési tevékenységen kívüli befektetési szolgáltatási tevékenységekhez kapcsolódó megfelelési tesztre vonatkozó szabályozási tartalom egy része a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+A 2014/65/EU irányelvnek megfelelő tartalommal sorolja fel azokat a pénzügyi eszközöket, amelyekre vonatkozóan a csak megbízás felvétele és továbbítása, illetve megbízás ügyfél javára történő végrehajtása esetén a megfelelési tesztet nem kell elvégezni.
+
+A 71. §-hoz
+
+A 2014/65/EU irányelvnek megfelelő kiegészítést tartalmazza a figyelmeztetés egységes formátumban történő kiadási lehetőségére. Ez azonban nem azt jelenti, hogy ezt a figyelmeztetést csak egyszer, az első ügyfélkapcsolat létesítésekor kell megtenni, hanem azt, hogy a figyelmeztetés funkcióból adódóan a szolgáltatónak megbízásonként kell ezt kellő időben megtennie.
+
+A 72. §-hoz
+
+A 2014/65/EU irányelvnek megfelelően biztosítja olyan helyi vállalkozások szakmai ügyfélként való elismerését, amelyek az adott pénzügyi eszközök kereskedése tekintetében szakmai profiljuk okán professzionális ismeretekkel rendelkeznek.
+
+A 73. §-hoz
+
+A szerződéshez kapcsolódó nyilvántartási kötelezettségekre továbbra is előírás az egységes, folyamatos és időrendi nyilvántartás-vezetési kötelezettség, azonban mivel a vonatkozó szabályozási tartalom egy része a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+Mivel a 2014/65/EU irányelv közös rendszert vezet be az ügyfélmegbízásokat érintő telefonbeszélgetések és az elektronikus kommunikáció rögzítésére, ezért a törvény ennek megfelelően tartalmazza a telefonbeszélgetések és az elektronikus üzenetváltások rögzítésére szolgáló rendelkezéseket. Az ügyfél által egyéb módon adott megbízásokat, ideértve a személyes találkozón elhangzott megbízásokat is, rögzíteni kell. Ezek a dokumentációk alapvető fontosságúak és bizonyítékként szolgálhatnak adott esetben a piaci visszaélés felderítésére és bizonyítására, valamint annak ellenőrzésére, hogy a vállalkozások teljesítik-e a jogszabályokban megállapított követelményeket.
+
+A 74-77. §-hoz
+
+A Bizottság - többek között az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelmét szabályozó - felhatalmazáson alapuló irányelve alapján biztosítja az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelmére szolgáló előírások megerősítését.
+
+A 78. §-hoz
+
+A megbízás ügyfél számára történő legkedvezőbb végrehajtására vonatkozó szabályozási tartalom egy része a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalásokat tartalmazza a törvény.
+
+A 79. §-hoz
+
+A megbízás ügyfél számára történő legkedvezőbb végrehajtása keretében alkalmazandó végrehajtási politikára vonatkozó szabályozást annak megfelelően módosítja a törvény, hogy mivel a vonatkozó szabályozási tartalom egy része a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, így az erre való utalásokat is tartalmazza a rendelkezés.
+
+A 80. §-hoz
+
+A megbízás végrehajtására vonatkozó szabályozási tartalom egy része a továbbiakban a 600/2014/EU rendeletben illetve a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalásokat tartalmazza a törvény.
+
+A 81. §-hoz
+
+A megbízások összevonása és allokációja, illetve a saját számlás ügyletek összevonása és allokációja esetében a befektetési vállalkozás által követendő előírások a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelennek meg, az erre való utalásokat tartalmazza a törvény.
+
+A 82. §-hoz
+
+A megbízás végrehajtását követő tájékoztatásra vonatkozó egységes szabályozás a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalásokat tartalmazza a törvény. E § rendelkezése a portfóliókezelési tevékenység kivételével végzett befektetési szolgáltatási tevékenységet érintő tájékoztatásra vonatkozik.
+
+A 83. §-hoz
+
+A megbízás végrehajtását követő tájékoztatásra vonatkozó egységes szabályozás a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalásokat tartalmazza a törvény. E § rendelkezése a portfóliókezelési tevékenységet érintő tájékoztatásra vonatkozik.
+
+A 84. §-hoz
+
+A befektetési vállalkozás befektetési szolgáltatási tevékenysége keretében kezelt, az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszközről és pénzeszközről készített jelentésre vonatkozó egységes szabályozás a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalásokat tartalmazza a törvény.
+
+A 85. §-hoz
+
+Az értelmező rendelkezésekben meghatározott rendszeres internalizáló fogalmát részletezi tovább a 2014/65/EU irányelvben foglaltaknak megfelelően. A rendelkezés a meghatározásban szereplő gyakoriság és rendszeresség, valamint jelentős nagyságrend teljesülésének mérésére vonatkozó eligazítást tartalmaz.
+
+A törvény egyértelművé teszi, hogy a rendszeres internalizálónak való minősülés feltétele, mindkét előre meghatározott küszöbérték (a gyakoriságra és rendszerességre, valamint a jelentős nagyságrendre vonatkozó küszöbérték) túllépése. A befektetetési vállalkozás ettől függetlenül is dönthet úgy, hogy részt vesz a rendszeres internalizálókra vonatkozó rendszerben. A rendszeres internalizálónak minősülő befektetési vállalkozásnak ezt a tényt mindkét esetben be kell jelentenie a Felügyeletnek.
+
+Az egyes pénzügyi eszközcsoportok tekintetében a Bizottság által kiadott közvetlenül hatályosuló rendelet határozza meg a küszöbértékeket, így az erre való utalást is tartalmazza a rendelkezés.
+
+A 86. §-hoz
+
+A befektetési vállalkozás által végzett befektetési elemzéssel kapcsolatos előírásokat a Bizottság által kiadott közvetlenül hatályosuló rendelet tartalmazza, az erre való utalást tartalmazza a törvény.
+
+A 87. §-hoz
+
+A Bizottság által kiadott közvetlenül hatályosuló rendelet tartalmazza egyes további befektetési vállalkozás által végzett tevékenységek és szolgáltatások - így pl. a pénzügyi eszköz elhelyezése (jegyzési garanciavállalással vagy jegyzési garanciavállalás nélkül) - esetében alkalmazandó speciális szabályokat, így az erre való utalást tartalmazza a rendelkezés.
+
+A 88. §-hoz
+
+A kiszervezés témakörében a Bizottság által kiadott közvetlenül hatályosuló rendelet határozza meg a továbbiakban, hogy mi minősül kritikus vagy fontos operatív funkciónak, valamint az e funkciók kiszervezése esetén követendő eljárást. A Bizottság által kiadott közvetlenül hatályosuló rendelet ad eligazítást a tekintetben is, hogy mi nem tekinthető kritikus vagy fontos operatív funkciónak. A Bizottság által kiadott közvetlenül hatályosuló rendelet releváns részeire vonatkozó hivatkozást tartalmazza a rendelkezés.
+
+A 89-90. §-hoz
+
+Technikai pontosítást tartalmaz, mivel a korábbi hivatkozások a módosítások következtében már nem helytállóak.
+
+A 91-93. §-hoz
+
+Az árutőzsdei szolgáltatókra vonatkozó szabályok tekintetében technikai pontosítás szükséges, mivel a korábbi hivatkozások a módosítások következtében már nem helytállóak.
+
+A 94. §-hoz
+
+A befektetési vállalkozás jogszabályoknak és szabályzatoknak történő megfelelésére vonatkozó szabályozási tartalom a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+A 95. §-hoz
+
+A befektetési vállalkozás belső ellenőrzésére vonatkozó szabályozási tartalom a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást a Bszt. 19. §-ára irányuló módosítás keretében tartalmazza a törvény. E §-ban ezért csupán az árutőzsdei szolgáltató kötelezettségének előírása marad meg azzal a tartalommal, hogy a belső ellenőrzési szervezeti egység hatásköréről, feladatáról és a belső ellenőrre vonatkozó szakmai követelményekről szabályzatot kell készítenie.
+
+A 96. §-hoz
+
+A szabályozási tartalom a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+A 97. §-hoz
+
+A szabályozási tartalom a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+A 98. §-hoz
+
+Az ügyfélvédelem tekintetében hangsúlyosan jelenik meg annak a követelménye, hogy a befektetési vállalkozás a szolgáltatás nyújtása során esetleg felmerülő ütközéseket feltárja, megelőzze és kezelje. Ennek részleteit a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendelet tartalmazza, ezért a törvény utal erre.
+
+Az ilyen ütközések beazonosítása során figyelembe kell venni a különböző ösztönző struktúrákból adódó, az ügyfelek számára esetlegesen hátrányt okozó jelenségeket is. Ezen ösztönzők részletes szabályait a Bizottság felhatalmazáson alapuló irányelve alapján miniszteri rendelet fogja szabályozni.
+
+A hátrányos ütközések elkerülésére, feltárására és kezelésére továbbra is előírás a szabályzat elkészítése (összeférhetetlenségi politika), de mivel a szabályozási tartalom a továbbiakban a Bizottság által kiadott közvetlenül hatályosuló rendeletben jelenik meg, az erre való utalást tartalmazza a törvény.
+
+A 99. §-hoz
+
+A 2014/65/EU irányelvvel való összhang megteremtése érdekében szükséges, hogy az ügyfeleknek befektetési tanácsot vagy információt nyújtó alkalmazottak megfelelő szakmai képesítéssel, kompetenciákkal rendelkezzenek. A törvény azt is előírja, hogy ezen személyekről a befektetési vállalkozásnak, az árutőzsdei szolgáltatónak vagy a közvetítőnek belső nyilvántartást kell vezetnie.
+
+A 100. §-hoz
+
+A 2014/65/EU irányelvnek való megfelelést szolgálja. A Felügyelet felé bejelentési kötelezettséget ír elő adatszolgáltatási tevékenységet végzők számára, a vezető testületük tagjaiban bekövetkezett változás tekintetében.
+
+A törvény - a 2014/65/EU irányelv rendelkezéseinek való megfelelést, valamint a 600/2014/EU rendelet 26. cikkével és adott esetben az 1227/2011/EU rendelet 8. cikkével való összhangot biztosítva - árualapú származtatott termékekkel vagy kibocsátási egységekkel, illetve ezek származtatott eszközeivel kereskedési helyszínen kívül kereskedő befektetési vállalkozásra ír elő bejelentési és nyilvánosságra hozatali kötelezettséget.
+
+A 101. §-hoz
+
+Az új kereskedési helyszínként megjelenő szervezett kereskedési rendszer (OTF) e törvénybeli szabályozásának biztosítása miatt módosítja a törvény a Hetedik Rész címét.
+
+A 102. §-hoz
+
+Az új kereskedési helyszínként megjelenő szervezett kereskedési rendszer (OTF) e törvénybeli szabályozásának biztosítása miatt módosítja a törvény a Bszt. XXIII. Fejezetének címét.
+
+A 103-104. §-hoz
+
+A multilaterális kereskedési rendszer (MTF) mellett új kereskedési helyszínként megjelenő szervezett kereskedési rendszer (OTF) e törvénybeli szabályozásának biztosítása miatt módosítja a törvény a rendelkezést.
+
+A 105. §-hoz
+
+A 2014/65/EU irányelv rendelkezéseinek való megfelelést biztosítva a törvény aktualizálja az MTF-et illetve OTF-et működtető befektetési vállalkozásra vagy piacműködtetőre a kereskedési rendszerek működtetésével összefüggésben előírt követelményeket.
+
+A 106. §-hoz
+
+A G20-ak pénzügyminisztereinek és jegybankelnökeinek 2011. április 15-i közleménye kijelentette, hogy az árualapú származtatott termékek piacának résztvevőit megfelelő szabályozás és felügyelet alá kell helyezni. Ezen elvárásnak megfelelve a 2014/65/EU irányelv előírja, hogy minden olyan kereskedési helyszínnek, ahol árualapú származtatott termékekkel kereskednek, rendelkeznie kell megfelelő pozíciókezelési kontrollmechanizmusokkal.
+
+E rendelkezéssel való összhangot biztosítja a törvény, amennyiben pozíciókezelési kontrollmechanizmus alkalmazását írja elő MTF-et illetve OTF-et működtető befektetési vállalkozásra vagy piacműködtetőre. A pozíciókezelési kontrollmechanizmus keretében a befektetési vállalkozás vagy piacműködtető megfelelő hatáskörrel rendelkezik legalább az árualapú származtatott termékek pozícióival kapcsolatos információk nyomon követése és az azokhoz való hozzáférés, valamint e pozíciók csökkentésének vagy megszüntetésének megkövetelése vonatkozásában, illetve az arra való kötelezés tekintetében, hogy a jelentős vagy domináns pozícióból fakadó hatások mérséklése érdekében a likviditás visszairányuljon a piacra.
+
+A 107. §-hoz
+
+Az új kereskedési helyszínként megjelenő szervezett kereskedési rendszer (OTF) működtetőjére is előírja a működtetéséért felelős vezető kinevezésére vonatkozó kötelezettséget.
+
+A 108. §-hoz
+
+A törvény előírja, hogy a piacműködtetők és befektetési vállalkozások megfelelően figyelemmel kísérjék tagjaik ill. résztvevőik működését, a jogszabályi kötelezettségek betartását, illetve jogszabálysértés tapasztalása esetén tegyék meg a megfelelő intézkedéseket.
+
+A 109. §-hoz
+
+Az új kereskedési helyszínként megjelenő szervezett kereskedési rendszer (OTF) e törvénybeli szabályozásának biztosítása miatt módosítja a törvény a Bszt. XXIV. Fejezetének címét.
+
+A 110. §-hoz
+
+A törvény az új kereskedési helyszínként megjelenő szervezett kereskedési rendszer (OTF) működtetésére vonatkozóan is a törvény szerinti engedélyezési szabályokat rendeli megfelelően alkalmazni.
+
+A vonatkozó irányelv rendelkezésének megfelelően a törvény előírja, hogy az MTF-nek, illetve az OTF-nek legalább három ténylegesen aktív taggal, illetve résztvevővel vagy felhasználóval kell rendelkeznie, amelyeknek lehetősége van a többiekkel való kölcsönös együttműködésre az árképzés terén.
+
+A 111. §-hoz
+
+Mind az MTF, mind az új kereskedési helyszínként megjelenő szervezett kereskedési rendszer (OTF) működtetésére vonatkozó engedély iránti kérelemhez a 2014/65/EU irányelv rendelkezéseinek megfelelően megújított lista szerinti mellékletet kell benyújtani.
+
+A 112. §-hoz
+
+Az MTF működtetésére vonatkozó engedély iránti kérelemhez mellékelendő további dokumentumokat írja elő.
+
+A 113. §-hoz
+
+A törvény a 2014/65/EU irányelv rendelkezéseinek megfelelően az MTF-et, illetve az OTF-et működtető befektetési vállalkozás vagy piacműködtető Felügyelet felé történő részletes tájékoztatási kötelezettségét írja elő az MTF illetve az OTF működésére, beleértve bármely, ugyanezen befektetési vállalkozás vagy piacműködtető tulajdonában lévő szabályozott piaccal, MTF-fel, OTF-fel vagy rendszeres internalizálóval való kapcsolatára, az ezekben való részesedésére, valamint tagjai, résztvevői illetve felhasználói listájára vonatkozóan.
+
+A törvény rendelkezik továbbá ezen információk Európai Értékpapír-piaci Hatósághoz kérésre történő továbbításáról, illetve az MTF vagy OTF engedély Európai Értékpapír-piaci Hatóságnak történő bejelentési kötelezettségről.
+
+A 114. §-hoz
+
+A módosítások a tőzsdei szabályozással analóg módon rendelkezéseket állapítanak meg a pénzügyi eszközzel való kereskedés felfüggesztésére vagy törlésére, OTF-en és MTF-en történő kereskedés esetén. Ezen a kereskedési helyszíneken és az érintett hazai platformokon is lehetőség nyílik a technikai sztenderdekben meghatározott esetben az egyéb kapcsolódó pénzügyi eszközök felfüggesztésére vagy törlésére, valamint más EU-s tagállamban történő felfüggesztés ill. törlés esetén a hazai piacokon is hasonló intézkedés elrendelésére.
+
+A 115. §-hoz
+
+Pontosító rendelkezés.
+
+A 116. §-hoz
+
+Technikai pontosító rendelkezés.
+
+A 117. §-hoz
+
+A vonatkozó irányelvnek megfelelően a törvény kiegészíti az MTF-et működtető befektetési vállalkozásra vagy piacműködtetőre előírt rendelkezéseket.
+
+A 118. §-hoz
+
+Újdonságként jelenik meg, hogy az MTF működtetőjének és az MTF tagjainak össze kell hangolniuk üzleti óráikat, amelynek célja az utólagos felügyeleti rekonstrukció megkönnyítése. Ezen rendelkezéseket érintően is technikai sztenderdek határozzák meg a részletszabályokat.
+
+A 119. §-hoz
+
+A 2014/65/EU irányelv a kisebb és közepes méretű vállalkozások (kkv-k) tőkéhez jutásának megkönnyítése és a kisebb és közepes kibocsátók szükségleteinek kielégítésére szakosodott piacok további fejlesztésének megkönnyítése érdekében az MTF kategórián belül egy új alkategória, a kkv-tőkefinanszírozási piacok létrehozásának lehetőségét teremtette meg. Az Európában már létező sikeres piaci modell alapján kerültek kialakításra ezen új uniós szintű szabályozás alapjai, és ennek megfelelően kerül a törvény értelmében is szabályozásra a kkv- tőkefinanszírozási piac.
+
+A Felügyelet által kkv-tőkefinanszírozási piacként bejegyzett MTF-en megfelelő egyensúlyt kell teremteni a befektető-védelem magas szintjének fenntartása és a kibocsátók szükségtelen adminisztrációs terheinek csökkentése között.
+
+Ahhoz, hogy ez az új piactípus hasznosnak bizonyuljon a kkv-k számára, a kkv-tőkefinanszírozási piacon kereskedett pénzügyi eszközök kibocsátói legalább 50%-ának a kkv-k közül kell kikerülnie. Ennek értékelésére évenként kerül sor. Ezen 50%-os kritériumot rugalmas módon kell alkalmazni. A kritérium ideiglenes nem teljesülése nem jelenti azt, hogy a kereskedési helyszínt haladéktalanul törölni kell a jegyzékből vagy, hogy el kell utasítani a kkv-tőkefinanszírozási piacként történő bejegyzés iránti kérelmét, ha ésszerűen feltételezhető, hogy a következő évtől már teljesíteni fogja az 50%-ot előíró kritériumot. Az annak megállapítása céljából végzett értékelés, hogy egy kibocsátó kkv-e, a megelőző három naptári év piaci kapitalizációján fog alapulni. Ez várhatóan biztosítja majd ezeknek a kibocsátóknak az ilyen specializált piacokról a szabályozott piacokra való zökkenőmentesebb bejutását.
+
+A kkv-tőkefinanszírozási piacra vonatkozó részletes szabályok, így pl. a kereskedésébe való bevezetés kritériumaival kapcsolatos további részletek meghatározására a Bizottság felhatalmazáson alapuló jogi aktusaiban és technikai sztenderdekben kerül sor.
+
+A 120. §-hoz
+
+A törvény az új kereskedési helyszínként megjelenő szervezett kereskedési rendszerre (OTF) vonatkozóan számos rendelkezést - a hasonlóságból adódóan - az MTF-re vonatkozó szabályokkal együtt rendel alkalmazni. E Fejezet azokat a rendelkezéseket tartalmazza, amelyek az OTF specialitásából adódó szabályokat rögzítik. Így pl. az OTF-et működtető befektetési vállalkozás vagy piacműködtető csak tulajdonviszonyt megtestesítő pénzügyi eszközöktől eltérő pénzügyi eszközök (kötvények, strukturált pénzügyi termékek, kibocsátási egységek, stb.) vonatkozásában és kizárólag az ügyfél beleegyezése esetén folytathat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést, továbbá csak a likvid piaccal nem rendelkező állampapírok vonatkozásában folytathat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedésen kívüli saját számlára történő kereskedést.
+
+Miközben az OTF-hez való hozzáférés tekintetében is biztosítani kell a megkülönböztetésmentes hozzáférést, fontos rögzíteni, hogy bizonyos esetekben az OTF-et működtető befektetési vállalkozás vagy piacműködtető egyedi mérlegelési jogkört gyakorolhat. Egyedi mérlegelési jogköre alapján dönthet abban, hogy az általa működtetett OTF-en egy megbízást lead-e vagy visszavon-e, illetve, hogy egy adott ügyfélmegbízást párosít-e az adott időpontban a rendszerben rendelkezésre álló más megbízással, feltéve, hogy ez megfelel az ügyféltől kapott konkrét utasításnak és a megbízás ügyfél számára legkedvezőbb végrehajtását előíró kötelezettségének.
+
+A 121. §-hoz
+
+A Bszt. e rendelkezése a 2014/65/EU irányelvnek való megfelelést szolgálja. Új intézményként kerülnek bevezetésre az adatszolgáltatási tevékenységet végzők. Az adatszolgáltatási tevékenység azt a célt szolgálja, hogy a kereskedési adatok átláthatósága javuljon, könnyebb legyen az információkhoz való hozzáférés.
+
+A törvény az adatszolgáltatási tevékenységet végzők három fajtáját határozza meg, amely az APA, a CTP és az ARM.
+
+Az APA maga a jóváhagyott közzétételi mechanizmus. Az APA a befektetési vállalkozások nevében közzéteszi a kereskedési jelentéseket, amelyek adattartalma és formája jogszabályilag kötött.
+
+A CTP az összesített adat-szolgáltató. A CTP a szabályozott piacoktól, a multilaterális kereskedési rendszerektől (MTF), a szervezett kereskedési rendszerektől (OTF) és a jóváhagyott közzétételi mechanizmusoktól (APA) is begyűjti a kereskedési jelentéseket. A kereskedési jelentésekből adatfolyamot állít elő. Tevékenységét üzleti alapon nyújtja, nyilvános adatokból dolgozva.
+
+Az ARM mint a jóváhagyott jelentési mechanizmus a befektetési vállalkozások nevében bejelenti az ügyletek adatait az MNB-nek vagy az Európai Értékpapír-piaci Hatóságnak.
+
+A bevezetésre kerülő Bszt. új 154/H-154/J. §-nak rendelkezései előírják, hogy az adatszolgáltatási tevékenységek az MNB, mint felügyeletet ellátó szerv engedélyével végezhetők. Meghatározzák az engedélyezési eljárás szabályait és annak határidejét, az engedély visszavonásának esetköreit, valamint az engedély iránti kérelemhez csatolandó mellékleteket, továbbá a vezető testülettel, valamint annak tagjaival szemben támasztott követelményeket. Az engedélyezési eljárás során benyújtandó információkat az irányelvhez tartozó részletszabályok (felhatalmazáson alapuló rendeleti formában) tartalmazzák.
+
+A törvény a Bszt. új 154/H. §-ban meghatározza, hogy kik nyújthatnak be adatszolgáltatási tevékenység végzése iránti kérelmet. Ezen tevékenység önállóan is végezhető, azonban kereskedési helyszínt működtető befektetési vállalkozás vagy piacműködtető is nyújthat be tevékenység engedélyezése iránti kérelmet.
+
+A Bszt. új 154/K. és 154/L. §-ai rendelkeznek arról, hogy APA-nak milyen információkat milyen adattartalommal kell közzétennie (ideértve az ingyenes közzétételre vonatkozó előírásokat is). Meghatározásra került továbbá, hogy az APA-nak milyen eljárásokat, szabályzatokat kell kidolgoznia és működtetnie (például adatvédelmi szempontok mentén, illetve ha a szolgáltató egyben befektetési vállalkozás is, az üzleti funkciók elválasztása céljából) és milyen rendszerekkel kell rendelkeznie és erőforrásokat kell fenntartania. Ez utóbbit pl. a kereskedési jelentések ellenőrzésének biztosítása indokolja.
+
+A Bszt. új 154/M-154/O. §-ai határozzák meg, hogy CTP-nek milyen információkat kell összegyűjtenie és összevonnia. A törvény az APA-ra vonatkozó követelményekhez hasonlóan tartalmazza azt is, hogy az ezen alapuló tájékoztatást milyen módon, mennyi időn belül, milyen adattartalommal kell ingyenesen közzétenni. A fentiekben rögzített rendelkezésekben került meghatározásra továbbá, hogy a CTP-nek milyen eljárásokat kell működtetnie (például adatsérülés kockázatának minimalizálása érdekében) és erőforrásokat kell fenntartania (például a szolgáltatásainak biztosítása céljából).
+
+A Bszt. új 154/K. § (1) és (5) bekezdésében, valamint a 154/M. § (1) és (4) bekezdésében, továbbá a 154/N. § (1) és (4) bekezdésében rendelkezik arról, hogy az APA, valamint a CTP az adatok közzététele során az észszerű üzleti alapon történő közzététel követelményének megfelelően köteles eljárni, az irányelvhez tartozó részletszabályokban meghatározottak szerint. E részletszabályok célja többek között, hogy a szolgáltatásokért kért díjak kialakításának módját meghatározza. Ennek indoka, hogy transzparens és kiszámítható árképzési szabályok alkalmazására legyen kötelezhető a szolgáltató.
+
+A Bszt. új 154/P. §-ban rendelkezik arról, hogy az ARM-nek mely információkat, mennyi időn belül kell a Felügyeletnek vagy Európai Értékpapír-piaci Hatóságnak benyújtania. Az APA és a CTP rendszereire vonatkozó előírásokhoz hasonló rendelkezéseket szükséges az ARM megfelelő eljárásaira is alkalmazni.
+
+A 122. §-hoz
+
+A 2014/65/EU irányelv előírása alapján minden egyes, árualapú származtatott termékre vonatkozó ügylet esetében pozíciólimiteket kell meghatározni. A pozíciólimitek meghatározását a Felügyelet végzi összhangban az Európai Értékpapír-piaci Hatóság által meghatározott számítási módszertannal. A pozíciólimitek meghatározásának a célja, a piaci visszaélés megelőzése, valamint a szabályszerű árazási és teljesítési feltételek támogatása.
+
+A Felügyeletnek a pozíciólimitek meghatározása során szorosan együtt kell működnie az Európai Értékpapír-piaci Hatósággal, ennek keretében be kell jelentenie az Európai Értékpapír-piaci Hatóságnak azokat a konkrét pozíciólimiteket, amelyeket megállapítani szándékozik, valamint a kereskedési helyszínt működtető befektetési vállalkozás vagy piacműködtető pozíciókezelési kontrollmechanizmusra vonatkozó tájékoztatását is.
+
+A Felügyeletnek a többi uniós tagállam felügyeleti hatóságaival is együtt kell működnie.
+
+A 123. §-hoz
+
+A törvény kiegészíti a Felügyelet nyilvántartási kötelezettségét az adatszolgáltatási tevékenységet végzők körére is.
+
+A 124. §-hoz
+
+A módosítás azért szükséges, mert miniszteri rendelet már nem állapíthat meg az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényt kiegészítő eljárásjogi rendelkezéseket, így a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági vizsga sikeres letételét igazoló tanúsítványokra, mint hatósági bizonyítványokra vonatkozó eljárásjogi rendelkezéseknek, változatlan tartalommal - miniszteri rendeleti szintről - törvényi szintre történő elhelyezése szükséges. Ezen módosítással egyidejűleg - a tartalmi összefüggés és az érintett rendelkezések azonossága miatt - technikai pontosítások is megfogalmazásra kerülnek, valamint a Magyar Nemzeti Bank 2017. július 1-jén megkapja a jogot, hogy pénzügyi szolgáltatás közvetítői, biztosításközvetítői és tőkepiaci üzletkötői hatósági vizsgáztatási tevékenységet végezzen.
+
+A 125. §-hoz
+
+A törvény rendelkezik arról, hogy a Felügyelet az MTF és az OTF működtetési vezetőjének nevét feladata ellátása érdekében kezelheti.
+
+A 126. §-hoz
+
+A törvény kiterjeszti a Felügyelet intézkedési jogosultságát a könyvvizsgálói minősítés visszavonásának kezdeményezésére.
+
+A 600/2014/EU rendelet és a törvény alapján szükséges intézkedéseket megállapítani. Ilyen intézkedések többek között a pozíció vagy kitettség méretére és rendeltetésére vonatkozó információk bekérése, a pozíció vagy kitettség nagysága csökkentésének kérése, meghatározott feltételek mellett bizonyos pénzügyi eszközök vagy strukturált betétek kereskedésének vagy eladásának felfüggesztése, valamely természetes személy elmozdítása a befektetési vállalkozás vezető testületéből, a befektetési vállalkozás vezető testülete bármely tagjának vagy bármely természetes személynek az ideiglenes vagy - ismételt súlyos jogsértés esetén - tartós eltiltása, a befektetési vállalkozásnak a szabályozott piacon való részvételtől, az MTF-ekben való tagságtól, illetve az OTF-ekben ügyfélként való részvételtől való ideiglenes eltiltása.
+
+Az MTF-en vagy OTF-en történő felfüggesztés vagy törlés kapcsán szükséges a felügyeleti jogkörök bővítése a tőzsdékre vonatkozó felügyeleti jogkörökhöz hasonlóan. Az EU-s szintű felügyeleti koordináció elősegítése is fontos szempont, tekintettel arra, hogy egy pénzügyi eszközzel akár több különböző EU-s tagállam piacán is kereskedhetnek. Ezért indokolt az felügyeleti értesítési eljárásokra vonatkozó szabályok kiegészítése is.
+
+A 127. §-hoz
+
+A törvény megállapít együttműködési, értesítési részletszabályokat, amelyeket a Felügyeletnek be kell tartania az Európai Értékpapír-piaci Hatósággal és más uniós tagállamok illetékes hatóságaival történő együttműködése során.
+
+Továbbá a törvény a vonatkozó uniós szabályozással összhangban tartalmazza a Felügyelet intézkedései, szankciói alkalmazása során figyelembe veendő lényeges körülményeket, tekintetbe véve azt is, hogy azok ne legyenek átfedésben az MNBtv.-ben foglalt, figyelembe veendő lényeges körülmények listájával.
+
+A 128. §-hoz
+
+Ha a harmadik országban székhellyel rendelkező befektetési vállalkozás Magyarországon fióktelepet kíván létesíteni, akkor az engedélyezést megelőzően a hazai felügyeleti hatóságnak és a harmadik országbeli illetékes felügyeleti hatóságnak együttműködési megállapodást kell kötnie.
+
+A 129. §-hoz
+
+A harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe esetében felmerülő felügyeleti hatásköröket rögzíti a törvény.
+
+A 130. §-hoz
+
+A törvény egyrészt felhatalmazást ad a nemzetgazdasági miniszternek, hogy rendeletben dolgozza ki a befektetési vállalkozás által alkalmazandó termék-jóváhagyási folyamatra és ösztönzőire vonatkozó részletszabályokat.
+
+Felhatalmazást kap az MNB elnöke arra, hogy rendeletben állapítsa meg az ügyfeleknek pénzügyi eszközökről, befektetési szolgáltatási tevékenységről vagy kiegészítő szolgáltatásról befektetési tanácsot vagy információt nyújtó természetes személyre előírt szakmai képességekre és kompetenciákra vonatkozó részletes szabályokat.
+
+A 131. §-hoz
+
+Átmeneti szabály előírása szükséges annak érdekében, hogy a megfelelő felkészülési idő biztosított legyen az ügyfeleknek pénzügyi eszközökről, befektetési szolgáltatási tevékenységről vagy kiegészítő szolgáltatásról befektetési tanácsot vagy információt nyújtó személyekre előírt képzési követelményeknek való megfelelésre.
+
+A 132. §-hoz
+
+Jogharmonizációs klauzula kerül beillesztésre.
+
+A 133. §-hoz
+
+A melléklet a hivatkozott jogszabályok rövidítési jegyzékét egészíti ki.
+
+A 134. §-hoz
+
+Szövegcserés pontosító rendelkezések.
+
+A 135. §-hoz
+
+Hatályát vesztő rendelkezések.
+
+A 136. §-hoz
+
+A 2014/65/EU irányelv értelmében az árukhoz, így a földgázhoz kapcsolódó származtatott („hosszú távú”) ügyletek a pénzügyi eszközök kategóriájába esnek, ezért e termékekkel folytatott ügyletek, kereskedés is a pénzügyi szabályozás hatály alá kerül. Ezt az indokolja, hogy ezen ügyletkötések a hagyományos pénzügyi eszközökhöz hasonló szabályozási kérdéseket vetnek fel. Ezért szükséges a szervezett földgázpiacon történő ügyletkötést az azonnali ügyletekre korlátozni.
+
+A 137. §-hoz
+
+Jogharmonizációs klauzula kerül beillesztésre.
+
+A 138. §-hoz
+
+Szövegcserés módosítás.
+
+A 139. §-hoz
+
+Hatályát vesztő rendelkezés.
+
+A 140. §-hoz
+
+A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény alapján a jövőben lehetőség lesz arra, hogy a törvény hatálya alá tartozó szolgáltatók az ügyfél-átvilágítási intézkedéseiket az általuk üzemeltetett előzetesen auditált hírközlő eszköz útján is elvégezhessék. Mindezek alapján megfelelő garanciális feltételek teljesülése esetén a jelenleginél szélesebb körben indokolt megengedni a pénzügyi szolgáltatásokra vonatkozó szerződések elektronikus úton történő megkötését.
+
+A 141. §-hoz
+
+A havi kétszeri ingyenes készpénzfelvétel lehetőségét indokolt kiterjeszteni arra az esetkörre, ha a számlatulajdonos, illetve a számla felett rendelkező nem kaphat bankkártyát.
+
+A 142. §-hoz
+
+Szövegcserés módosítás.
+
+A 143. §-hoz
+
+A módosítás külön fogyasztó fogalmat határoz meg, amelynek értelmében - további vizsgálat nélkül - fogyasztó a zálogházi ügyletben részt vevő, a zálogtárgyat felkínáló, annak birtokát értékpapír ellenében hitelezőre átruházó természetes személy is.
+
+A 144. §-hoz
+
+Szövegcserés módosítás.
+
+A 145. §-hoz
+
+Az MNB az MNBtv.-ben meghatározott feladatkörében ellátja a közvetlenül hatályosuló uniós rendeletek végrehajtásához kapcsolódó feladatokat. A törvény újabb uniós rendeleteket vesz fel a listába.
+
+A 146. §-hoz
+
+A törvény tartalmazza a 2014/65/EU irányelv rendelkezéseit az uniós tagállami illetékes hatóságok határozatok közzétételére vonatkozó kötelezettségeivel kapcsolatban, így különösen a közzététel tartalmával, illetve a közzé nem tétel feltételeivel kapcsolatos előírásokat az MNB-re vonatkozóan. Az e §-ban említett információknak az Európai Értékpapír-piaci Hatóságnak történő benyújtásának eljárásairól és formáiról európai szintű közvetlenül hatályosuló előírások (végrehajtás-technikai sztenderdek) igazítanak el.
+
+A 147. §-hoz
+
+Kiterjeszti a Magyar Nemzeti Bank ellenőrzési jogkörét az adatszolgáltatási tevékenységet végzőkre is.
+
+A 148. §-hoz
+
+A törvény tartalmazza a 600/2014/EU rendeletnek és az (EU) 2015/2365 rendeletnek, a rendelet megsértése esetére pénzbírságot előíró rendelkezését. A törvény az 596/2014/EU rendeletnek való pontosabb megfelelést is szolgálja.
+
+A 149. §-hoz
+
+Az 596/2014/EU rendeletnek való pontosabb megfelelést szolgálja.
+
+A 150. §-hoz
+
+Pontosító rendelkezéseket tartalmaz.
+
+A 151. §-hoz
+
+A rendelkezés célja a Magyar Nemzeti Bank által az Európai Értékpapír-piaci Hatóságnak megküldendő tájékoztatások körének kiegészítése, a 2014/65/EU irányelvnek való megfelelés okán.
+
+A 152. §-hoz
+
+A jelenleg hatályos szabályok szerint az MNB kizárólag a fogyasztó és a pénzügyi intézmény közötti szerződés részévé váló tisztességtelen általános szerződési feltétel érvénytelenségének megállapítása iránt terjeszthet elő közérdekű keresetet, amely szűkítés nem indokolható.
+
+A 153 §-hoz
+
+Jogharmonizációs klauzula kerül beillesztésre.
+
+A 154. §-hoz
+
+Az MNB az MNBtv.-ben meghatározott feladatkörében ellátja a közvetlenül hatályosuló uniós rendeletek végrehajtásához kapcsolódó feladatokat. A törvény újabb uniós rendeleteket vesz fel ebbe a listába.
+
+A 155 §-hoz
+
+Szövegcserés módosítás.
+
+A 156. §-hoz
+
+Az 596/2014/EU rendeletnek való pontosabb megfelelést szolgálja.
+
+A 157-159. §-hoz
+
+A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tevékenységi engedélyezéséhez kapcsolódóan előírja, hogy a nem természetes személy tulajdonosok esetébe a tulajdonosi szerkezet leírását okiratokkal alátámasztott módon tegye meg, valamint - amennyiben az lehetséges - a kérelmező bemutassa a tényleges tulajdonosait.
+
+A törvény a pénzmosásához kapcsolódó kockázatokat is megjeleníti a tevékenység iránti kérelmek elutasításánál.
+
+A 160. §-hoz
+
+Szövegcserés módosítás.
+
+A 161. §-hoz
+
+Az értelmező rendelkezések kiegészítése és pontosítása.
+
+A 162. §-hoz
+
+Egyértelműsíti a közvetítői alvállalkozók igénybevételének lehetőségét.
+
+A 163. §-hoz
+
+A pénzügyi intézmények nem természetes személy alapítói esetében előírja, hogy a tulajdonosi szerkezete leírását okiratokkal alátámasztott módon tegye meg, valamint - amennyiben az lehetséges - a kérelmező bemutassa a tulajdonosait.
+
+A 164. §-hoz
+
+A pénzmosáshoz kapcsolódó kockázatokat is megjeleníti az alapítás iránti kérelmek elutasításánál.
+
+A 165. §-hoz
+
+Az egyértelmű jogalkalmazás érdekében szükséges a Hpt. jelenleg hatályos 69. § (4) bekezdésében foglalt szabályozás kettébontása.
+
+A 166. §-hoz
+
+Az egyértelmű jogalkalmazás érdekében szükséges a Hpt. jelenleg hatályos 72. § (3) bekezdésében foglalt szabályozás kettébontása, valamint kiegészítése.
+
+A hitelintézeti piacon a csoportirányítási előírások betartása miatt a pénzügyi szolgáltatás nyújtásával kapcsolatos egyes részfeladatokat a bankcsoport tagok egymás között megosztanak. A feladatok ellátása a törvény alapján kiemelt közvetítői jogviszony keretében történik.
+
+A módosítás a jelzáloghitel és az ingatlanra vonatkozó pénzügyi lízing közvetítése után fizethető közvetítői díj kapcsán biztosítja, hogy a bankcsoporton kívüli közvetítőnek kifizetett, legfeljebb két százalékos közvetítői díj mellett a bankcsoport hitelbiztosítéki érték-megállapítást, hiteladminisztrációt végző tagja is megkaphassa a szolgáltatás ellenértékét.
+
+A 167. §-hoz
+
+A módosítás azért szükséges, mert miniszteri rendelet már nem állapíthat meg az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényt kiegészítő eljárásjogi rendelkezéseket, így a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági vizsga sikeres letételét igazoló tanúsítványokra, mint hatósági bizonyítványokra vonatkozó eljárásjogi rendelkezéseknek, változatlan tartalommal - miniszteri rendeleti szintről - törvényi szintre történő elhelyezése szükséges.
+
+A 168. §-hoz
+
+A pénzmosáshoz kapcsolódó kockázatokat is megjeleníti a befolyásoló részesedés szerzése iránti kérelmek elutasításánál.
+
+A 169. §-hoz
+
+A jogszabályoknak történő megfelelésért felelős szervezeti egység által ellátandó compliance funkció alapvető célja, hogy elősegítse a hitelintézet jogszabályokban, illetve belső szabályzatokban meghatározott kötelezettségeinek teljesítését, feladata továbbá a szabályok betartásának ellenőrzése, az eltérések feltárása, azok jelentése, javaslattétel a feltárt hiányosságok kijavítására, a döntéshozatalhoz szükséges pénzügyi és egyéb információk biztosítása, valamint a hitelintézet és ügyfelei eszközeinek és a tulajdonosok érdekeinek védelme.
+
+Hitelintézetek esetében a compliance fontos szerepet játszik a bank belső kontrolljainak, kockázatkezelésének és az irányítási feladatainak folyamatos fenntartásában, illetve minősítésében, amely egyben a felügyeletet ellátó hatóság alapérdeke is. A szabályozás jelenleg a különböző pénzügyi felügyeleti hatóságok, szakmai szövetségek iránymutatásainak való megfelelést jelenti. A szabályozó környezet nemzetenként, országonként is jelentős különbségeket mutat, de az uniós országok többségében legalább minimum ajánlásként megjelenik egy független egységként működő compliance szervezet kialakításának vagy megfelelőségi biztos/vezető kijelölésének szükségessége.
+
+A környező országok szabályozásában a „Core Compliance”, mint önálló, független funkció kialakítása jellemzően nem kötelező erejű előírás; Magyarországhoz hasonlóan leginkább a pénzmosás megelőzésére vonatkozó szabályok, illetve a MiFID 2 kapcsán jelenik meg a jogi szabályozásban.
+
+A megfelelőségi (compliance) funkció a hitelintézetek belső védelmi vonalai közül az egyik legfontosabb, célja a kockázat minimalizálása, a biztonság és a pénzügyi rendszerbe vetett bizalom biztosítása. Magyarországon a pénzügyi közvetítőrendszer felügyeletét ellátó Magyar Nemzeti Bank jogszabályi kötelezés hiányában is, valamennyi pénzügyi szervezet esetében elvárja megfelelőségi biztos(ok) alkalmazását, illetőleg önálló compliance szervezeti egység kialakítását, azonban ezen elvárás kikényszeríthetőségéhez - a Bszt.-hez és a Bit.-hez hasonlóan - szükséges egy jogszabályban foglalt (Hpt.), kötelező érvényű norma megléte is. Ennek jelentőségét erősítheti a jelenleg hazánkban fennálló, a pénzügyi intézményekkel szembeni bizalmatlanság (brókerbotrány, devizahitelek stb.), továbbá a pénzügyi intézmények működésében rejlő kockázatok folyamatos nyomon követésének, kezelésének jogszabályi kötelezése, a megfelelőség felvigyázásának jogszabályban történő biztosítása.
+
+A 170. §-hoz
+
+A Felügyelet intézkedési jogosultságát pontosítja.
+
+A 171. §-hoz
+
+A törvény rögzíti, hogy ha a másik EGT-államban engedéllyel rendelkező jelzáloghitel közvetítői tevékenységet végző közvetítő Magyarországon végzett határon átnyúló szolgáltatása megsérti a Magyarországon hatályos előírásokat vagy a magyarországi fióktelepe megsérti a jogszabályi követelményeket és a másik EGT-állam illetékes felügyeleti hatósága a Felügyelet tájékoztatását követően sem teszi meg a szükséges intézkedéseket, a Felügyelet közvetlen intézkedését megelőzően tájékoztatja a másik EGT-állam felügyeleti hatóságát.
+
+A 172. §-hoz
+
+A módosítás azért szükséges, mert miniszteri rendelet már nem állapíthat meg az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényt kiegészítő eljárásjogi rendelkezéseket, így a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági vizsga sikeres letételét igazoló tanúsítványokra, mint hatósági bizonyítványokra vonatkozó eljárásjogi rendelkezéseknek, változatlan tartalommal - miniszteri rendeleti szintről - törvényi szintre történő elhelyezése szükséges. Ezen módosítással egyidejűleg - a tartalmi összefüggés és az érintett rendelkezések azonossága miatt - technikai pontosítások is megfogalmazásra kerülnek, valamint a Magyar Nemzeti Bank 2017. július 1-jén megkapja a jogot, hogy pénzügyi szolgáltatás közvetítői, biztosításközvetítői és tőkepiaci üzletkötői hatósági vizsgáztatási tevékenységet végezzen.
+
+A 173. §-hoz
+
+A belső ellenőr felett az alapvető munkáltatói jogok gyakorlásához az igazgatótanács előzetes jóváhagyása szükséges.
+
+A 174. §-hoz
+
+A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény alapján a jövőben lehetőség lesz arra, hogy a törvény hatálya alá tartozó szolgáltatók az ügyfél-átvilágítási intézkedéseiket az általuk üzemeltetett előzetesen auditált hírközlő eszköz útján is elvégezhessék. Mindezek alapján megfelelő garanciális feltételek teljesülése esetén a jelenleginél szélesebb körben indokolt megengedni a pénzügyi szolgáltatásokra vonatkozó szerződések elektronikus úton történő megkötését.
+
+A 175-176. §-hoz
+
+Az elektronikus fizetési forgalom bővítése, mint közérdek alapján indokolt bevezetni a szociális fizetési számlát, amelynek részleteit kormányrendelet szabályozza.
+
+A 177. §-hoz
+
+A 2015. évi XLI. törvénnyel történő összhang megteremtése érdekében szükséges a Nemzetközi Beruházási Banknak a Hpt. alóli kivétele.
+
+A 178. §-hoz
+
+Szövegcserés módosítások.
+
+A 179. §-hoz
+
+Hatályát vesztő rendelkezések.
+
+A 180. §-hoz
+
+A törvény a befektetéskezelési tevékenység végzésére jogosító engedély iránti kérelemnél előírja, hogy a kérelmező tulajdonosi szerkezete leírását okiratokkal alátámasztott módon tegye meg, valamint - amennyiben az lehetséges - a kérelmező bemutassa a tényleges tulajdonosait.
+
+A 181. §-hoz
+
+A pénzmosásához kapcsolódó kockázatokat is megjeleníti a befektetési alapkezelési tevékenység végzésére jogosító engedély iránti kérelmek elutasításánál.
+
+A 182. §-hoz
+
+A befektetéskezelési és kockázatkezelési tevékenység végzésére jogosító engedély iránti kérelemnél előírja, hogy a kérelmező tulajdonosi szerkezete leírását okiratokkal alátámasztott módon tegye meg, valamint - amennyiben az lehetséges - a kérelmező bemutassa a tényleges tulajdonosait.
+
+A 183. §-hoz
+
+A törvény alapvetően lehetőséget ad olyan befektetési alap létrehozatalára, amely különböző kockázat- és hozamprofilú befektetést kínál egy adott befektetési alapon belül különböző befektetési jegy sorozatok kibocsátásával, azaz egy sorozaton belül azonos névértékű és azonos jogokat megtestesítő befektetési jegyek bocsáthatók ki. A hatályos rendelkezések szerint a sorozatok eltérő jellemzőit a kezelési szabályzatban kell rögzíteni.
+
+A vonatkozó rendelkezéssel kapcsolatban azonban jogértelmezési bizonytalanság alakult ki; ugyanis nem volt egyértelműen meghatározható, hogy a hozamból és a veszteségből való részesedés mértéke (és sorrendje) megfelelő csoportképző ismérvnek minősül-e, azaz lehet-e különböző befektetési jegy sorozatokat ilyen kritériumok mentén kibocsátani. Az értelmezési nehézségek feloldása érdekében ezért szükségessé vált a vonatkozó rendelkezés pontosítása, amely egyrészt láttató szabályként egyértelműsíti, hogy ilyen tekintetben sincs korlátozva a befektetési alapkezelők mozgástere. Másrészt némileg szigorítva és felülvizsgálva a hatályos előírásokat, befektető védelmi szempontokat is figyelembe véve rögzítésre került az is, hogy ilyen sorozatok kizárólag zártkörű befektetési alapok esetében hozhatók létre, azaz csak egy szűk, vélhetően pénzügyileg tudatosabb és tájékozottabb kör részére válnak elérhetővé az ilyen típusú befektetési jegyek.
+
+A (2) bekezdés technikai pontosítást tartalmaz.
+
+A 184-188. §-hoz
+
+Pontosítja a befektetési alapkezelőnek az általa kezelt alapok tekintetében fennálló tájékoztatási kötelezettségeit azzal, hogy a megfelelő információkat az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 rendeletre figyelemmel szükséges megadni.
+
+A 189. §-hoz
+
+Jogharmonizációs klauzula kerül beillesztésre.
+
+A 190. §-hoz
+
+Szövegcserés módosítás.
+
+A 191. §-hoz
+
+A szanálás alatt álló intézmény fogalmát kiegészíti azon intézménnyel is, amely tekintetében szanálási intézkedés alkalmazására kerül sor. Ennek indoka, hogy tőkeelemek leírására és átalakítására, mint szanálási intézkedésre lehetőség van akkor is, ha a szanálás elrendelésének nem áll fenn valamennyi feltétele, így nem került sor a szanálás határozattal történő elrendelése.
+
+A 192. §-hoz
+
+A szanálási feladatkörében eljáró MNB munkavállalóival szembeni kártérítési igényre állapít meg rendelkezéseket.
+
+A 193. §-hoz
+
+Annak érdekében, hogy a független értékelők névjegyzékébe minél szélesebb körben, azonban a feladat ellátásához szükséges szakmai elvárások indokolatlan csökkentése nélkül is bekerülhessenek, a szakmai képesítési feltételeket indokolt kiegészíteni a vagyonértékelési tapasztalattal. A törvény emellett lehetővé teszi azt is, hogy munkavállalókon túl a jogi személy értékelők munkavégzésre irányuló egyéb jogviszony keretében is eleget tehessenek a törvényi feltételeknek.
+
+A 194. §-hoz
+
+A törvénynek megfelelően az utólagos, végleges értékelésen alapuló esetleges kompenzáció nemcsak kifizetéssel történhet, hanem a hitelezői feltőkésítés keretében leírt tőkeelemek növelésével is.
+
+A 195. §-hoz
+
+A jelenleg hatályos szabályokkal ellentétben nincs szükség annak rögzítésére, hogy a szanálási feladatkörében eljáró MNB a szolgáltatásnyújtáshoz, illetve a más EGT-államban való letelepedés további gyakorlásához kapcsolódóan külön előírást alkalmazzon. E tekintetben az áthidaló intézményt a szanálás alatt álló intézmény jogosultságainak gyakorlását folytató szervezetnek kell tekinteni.
+
+A 196. §-hoz
+
+A törvény egyértelműsíti, hogy az áthidaló intézmény tevékenységi köréből eredően a szanálás alatt álló intézmény tulajdonosainak vagy hitelezőinek sem kötelezettsége, sem felelőssége nem keletkezhet.
+
+A 197. §-hoz
+
+A törvény egyértelműsíti, hogy a szanálási vagyonkezelő tevékenységi köréből eredően a szanálás alatt álló intézmény tulajdonosainak vagy hitelezőinek sem kötelezettsége, sem felelőssége nem keletkezhet.
+
+A 198. §-hoz
+
+A jelenlegi szabályokkal ellentétben a titoktartási kötelezettséget nemcsak a szanálási hatóságok által megkeresett vagy felkért lehetséges átvevőkre indokolt kimondani.
+
+A 199. §-hoz
+
+Szövegpontosító rendelkezés.
+
+A 200. §-hoz
+
+A törvény szerint - összhangban a Bizottság (EU) 2015/63 felhatalmazáson alapuló rendeletével - a továbbiakban nem a Szanálási Alap igazgatótanácsának, hanem a szanálási hatóságnak kell meghatároznia az intézmények által fizetendő éves díjat. E mellett - miután az éves díjakról az intézményeket május 1-jéig kell értesíteni - a jelenlegi negyedéves részletekben történő díjfizetés helyett féléves részletekben történő díjfizetés kerül előírásra.
+
+Mindezeken túl a törvény - figyelemmel a Bizottság (EU) 2015/63 felhatalmazáson alapuló rendeletére - elhagyja azon szabályokat is, amelyek a díj fizetésének szempontrendszerét rögzítették, valamint szövegpontosítást tartalmaz a megszűnő intézmények díjfizetési kötelezettsége tekintetében.
+
+A 201. §-hoz
+
+Szövegcserés módosítás.
+
+A 202. §-hoz
+
+Hatályát vesztő rendelkezések.
+
+A 203. §-hoz
+
+A módosítás a biztosítóban történő nem természetes személy részesedésszerzéséhez előírja, hogy a tulajdonosi szerkezetet okiratokkal alátámasztott módon kell részletesen leírni, valamint - amennyiben lehetséges - be kell mutatni a tényleges tulajdonosokat.
+
+A 204-205. §-hoz
+
+A módosítás azért szükséges, mert miniszteri rendelet már nem állapíthat meg az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényt kiegészítő eljárásjogi rendelkezéseket, így a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági vizsga sikeres letételét igazoló tanúsítványokra, mint hatósági bizonyítványokra vonatkozó eljárásjogi rendelkezéseknek, változatlan tartalommal - miniszteri rendeleti szintről - törvényi szintre történő elhelyezése szükséges. Ezen módosítással egyidejűleg - a tartalmi összefüggés és az érintett rendelkezések azonossága miatt - technikai pontosítások is megfogalmazásra kerülnek, valamint a Magyar Nemzeti Bank 2017. július 1-jén megkapja a jogot, hogy pénzügyi szolgáltatás közvetítői, biztosításközvetítői és tőkepiaci üzletkötői hatósági vizsgáztatási tevékenységet végezzen.
+
+A 206. §-hoz
+
+Szövegcserés módosítások.
+
+A 207. §-hoz
+
+Hatályát vesztő rendelkezések.
+
+-----STARTING---POINT---VEGE---
+
+A 208. §-hoz
+
+Hatályba léptető rendelkezések.
+
+A 209. §-hoz
+
+Jogharmonizációs klauzula kerül beillesztésre.

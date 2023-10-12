@@ -1,0 +1,117 @@
+2018. évi XCVII. törvény indokolása
+
+a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A szálláshely-szolgáltatással kapcsolatos statisztikai adatokat jelenleg a szálláshely-szolgáltatónak kötelező jelleggel a Központi Statisztikai Hivatal és a területileg illetékes önkormányzatok jegyzői (az idegenforgalmi adó beszedés érdekében, mint helyi adóhatóság) részére kell megküldeni.
+
+A jelenlegi analóg, papíralapú folyamatok a szükségesnél nagyobb adminisztratív terhet rónak a szálláshely-szolgáltatókra. Az említett folyamatok optimalizálása és a szálláshely-szolgáltatás területén megvalósítandó hatékonyabb, rendezettebb működés érdekében az ágazat digitalizációja elkerülhetetlen társadalmi és gazdasági érdek, amelyet mihamarabb szükséges megvalósítani. Jelen előterjesztés a megkezdett fejlesztési koncepció lezárásaként, pontosítja a jogszabályi hátterét a fejlesztéssel kialakított rendszer használatának.
+
+A Kormány stratégiai célként tűzte ki a turisztikai szektor digitalizációját, innovatív technológiai megoldások és folyamatok kialakítását, valamint a digitális attitűd fejlesztését. A modern kor elvárásai miatt az első kötelező technológiai lépés a szálláshely-szolgáltatáshoz használt alkalmazások korszerűsítése.
+
+A jövőben a szálláshelyek által kötelezően használandó digitális alkalmazásokon keresztül rendeződnének a szálláshely-szolgáltatás során keletkezett aggregált és deperszonalizált statisztikai adatok a Nemzeti Turisztikai Adatszolgáltató Központ (továbbiakban: Rendszer) felé. A szálláshely-szolgáltatók kötelezettsége a technológiailag megfelelő szálláshely-kezelő szoftver használata és annak napi szintű vezetése. A szálláshely-kezelő szoftver meghatározott adatokat képes tárolni saját adatbázisában és meghatározott feltételek szerint elektronikus úton statisztikai adatokat továbbít a Rendszer számára.
+
+A kereskedelemről szóló 2005. évi CLXIV. törvény, valamint a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosításáról szóló 2017. évi CCIII. törvény létrehozta a Rendszert, ugyanakkor a megvalósítás során a szabályozás felülvizsgálata vált szükségessé a következő okokból:
+
+A Rendszer azonosítási folyamata:
+
+A Rendszerben a szálláshely-szolgáltatók elektronikusan regisztrálnak. Ennek érdekében biztosítani kell, hogy az ehhez szükséges kötelezettség alapja törvényben kerüljön rögzítésre, mivel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) értelmében a természetes személy ügyfelek (így az adószámmal rendelkező magánszemélyek, amelyek az Eüsztv. értelmében nem minősülnek gazdálkodó szervezetnek) számára elektronikus ügyintézési kötelezettség csak törvényben írható elő. Ennek érdekében a törvény biztosítja a szabályozott és központi elektronikus ügyintézési szolgáltatások (továbbiakban együtt: SZEÜSZ) használatát a regisztrációs folyamat és a kapcsolattartás során, az azonosítás érdekében pedig a Rendszer üzemeltetője adatokat kérhet el a vállalkozásokkal kapcsolatos nyilvántartásokból.
+
+A Rendszer indítása:
+
+A Rendszer lépcsőzetes jelleggel lép hatályba, első körben tesztüzem jelleggel 2019. január 1-jétől a Magyar Turisztikai Ügynökség Zrt. által befogadott szervezetek használhatják, ezt követően önkéntesen lehet csatlakozni, majd a Kormány rendelete fogja meghatározni a további csatlakozások kötelező időpontjait.
+
+A szálláshelyek vendégei esetében a szálláshely-szolgáltatók elemi érdeke, hogy a vendégek adatait megbízható, biztonságos helyen tárolják annak érdekében, hogy azok segítségével - polgári jogi kötelezettségek teljesítése érdekében - a vendéggel tarthassák a kapcsolatot, valamint a vendég adatait az idegenrendészeti hatóság részére is átadhassa. Mindez Európában nem egyedülálló megoldás: Ausztriában és Németországban valamennyi (így a saját tagállami állampolgár) vendég adata a hazai rendelkezéshez hasonlóan rögzítésre kerül, az elektronikusan az arra feljogosított szervek számára megismerhető. Külföldi vendégek (ideértve a szabad mozgás jogával rendelkező személyeket is) esetében hasonló szabályozás áll fenn Franciaországban, Szlovákiában is. Minden esetben a vendégek adatait a rendőrségi/idegenrendészeti szervek ellenőrizhetik.
+
+A törvény mindezek mellett pontosítja a kiemelt turisztikai beruházások esetében a vagyonkezelői joggal kapcsolatos rendelkezéseket is.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: törvény) jelenlegi megfogalmazása nem áll teljes összhangban a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) sarkalatos előírásaival - az Nvtv. 11. § (13) bekezdése szerint nemzeti vagyon ingyenesen kizárólag közfeladat ellátása, a lakosság közszolgáltatásokkal való ellátása, valamint e feladatok ellátásához szükséges infrastruktúra biztosítása céljából az ahhoz szükséges mértékben hasznosítható, valamint adható vagyonkezelésbe -, ezért annak jogszabályi kimondása nélkül, hogy az érintett gazdasági társaság az érintett ingatlanokon teljes egészében közfeladatot lát el, az MNV Zrt. a szerződéskötés során a vagyonkezelői díj alóli teljes mentességet - a kizárólagos közfeladat ellátást alátámasztó jogszabályi rendelkezés hiányában - nem tudja biztosítani.
+
+E kérdést akként lehet egyértelműen rendezni, ha az érintett ingatlanokon/területeken végzendő tevékenységet közfeladatként határozza meg a jogszabály azzal, hogy egyúttal felhatalmazást ad a Kormány részére a konkrét vagyonkezelő rendeletben való kijelölésére is.
+
+A 2. §-hoz
+
+A törvény jelenlegi megfogalmazása ingatlanokról rendelkezik, ugyanakkor felmerülhet olyan eset, amikor nem egy teljes ingatlan szükséges a beruházáshoz, hanem elegendő annak egy része (természetben meghatározott területe, alrészlete, hányada), ezért célszerű - részben a korábbi vagyonkezelők által esetlegesen megvalósított fenntartási időszakban lévő projektekkel összefüggésben felmerülő kérdések okán is, valamint a fennálló használati/bérleti jogviszonyokra is - megteremteni a jogalapját annak, hogy ne a teljes ingatlan képezze a vagyonkezelésbe adandó elemi egységet, hanem lehessen akár ingatlan alrészlet, ingatlanhányad, vagy m2-ben meghatározott ingatlanrész is, azzal, hogy ez esetben is törekedni kell annak önálló ingatlanként való mielőbbi rendezésére. Annak érdekében, hogy ez megvalósulhasson és a telekalakításnak ne képezze akadályát helyi szabályozás szerinti minimális teleknagyság, szükséges rögzíteni az azoktól való eltérés lehetőségét.
+
+A 3. §-hoz
+
+A beruházások megvalósítása során felhasználásra kerülő forrás esetleges megtérítésének kérdését hivatott tisztázni, valamint a vagyonkezelt állami tulajdonú ingatlanok, ingatlanrészek kapcsán szükséges hozzájárulások és az esetleges bontásokhoz kapcsolódó eljárás egyszerűsítését, és a határidők lerövidítését célzó módosítás.
+
+Meghatározza az új vagyonkezelő jogait és kötelezettségeit, amely a megvalósítandó projektek specialitásai miatt eltér a vagyonkezelőknek a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben rögzített jogaitól (annál bővebb).
+
+A 4. §-hoz
+
+A szabályozás meghatározza, hogy a Rendszer milyen két fő adatkörre vonatkozóan gyűjthet személyes adatnak nem minősülő adatokat. A Magyar Turisztikai Ügynökség Zrt (a továbbiakban: MTÜ), mint az adatok egyik, jogszabályban is kiemelt felhasználója a Rendszerbe beérkező statisztikai adatokat a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság turizmussal és vendéglátással kapcsolatos egyes feladatainak meghatározásáról szóló 61/2017. (III. 20.) Korm. rendeletben foglalt közfeladatainak ellátása érdekében használja fel, készít belőle a turizmus ágazat számára a turizmus elmúlt időszakának eredményességére vonatkozó kimutatásokat, összefoglalókat, elemzéseket. Ezen adatokat használja fel az MTÜ a jövőre vonatkozó prognózisok elkészítésére is. Fontos cél, hogy ezen adatok alapozzák meg először a turizmust érintő fejlesztéseket, majd ezen adatok igazolhassák vissza a fejlesztések eredményeit. A soha korábban rendelkezésre álló valós fogyasztási adatok fogják lehetővé tenni, hogy a régió más országainak eredményeivel könnyen összevethető statisztikák szülessenek.
+
+Az MTÜ térítésmentesen biztosítja azoknak a szálláshely-szolgáltatóknak a szálláshely-kezelő zoftvert, akik legfeljebb 8 szobát, illetve legfeljebb 16 ágyat tartalmazó szálláshelyet tartanak fenn. Ezen feltétel vizsgálatakor a szálláshely-szolgáltató által fenntartott több szálláshely esetén az egyes szálláshelyen meglévő szobák és ágyak számát nem kell összeadni, azaz a feltételnek kizárólag csak az adott szálláshely tekintetében kell megfelelni.
+
+A Rendszer kialakítása és az előírt adatszolgáltatási kötelezettség nem érinti természetesen a Központi Statisztikai Hivatal szakmai függetlenségét és feladatkörét, a Központi Statisztikai Hivatal felé teljesítendő turisztikai célú statisztikai adatszolgáltatást a szálláshely-szolgáltatók a Rendszer útján teljesítik. Ezáltal egyszerűsödik, automatizálódik, és ezáltal megkerülhetetlenné válik az adatszolgáltatás folyamata. A Rendszer üzemeltetője az adattovábbítási feladat megvalósítása céljából együttműködési megállapodást köt a Központi Statisztikai Hivatallal.
+
+A statisztikai adatokhoz való hozzáférők körét meghatározza a törvény, melynek célja, hogy az Rendszer üzemeltetője, valamint az adatokhoz való hozzáférő szervezet jogszerűen használhassa fel az adatokat, és ezen szervezetek közfeladatainak ellátását támogatja a Rendszer.
+
+Az MTÜ a beérkező statisztikai adatok alapján elvégzett elemzéseket közfeladatainak ellátása érdekében használja. Így a turisztikai stratégia a régió más országainak eredményeivel könnyen összevethető naprakész adatok alapján kerülhet megalkotásra, melytől Magyarország turisztikai eredményeinek, nemzetgazdasági szempontból is fontos jellemzőinek javulása várható.
+
+Az önkormányzatok az idegenforgalmi adófizetés ellenőrzése hatékonyságának érdekében az önkormányzathoz tartozó közigazgatási területen működő szálláshelyek szálláshely-szolgáltatási tevékenységéhez kacsolódó adatokhoz, területi statisztikákhoz férhetnek hozzá. Az így rendelkezésre álló adatokat a területi fejlesztésekhez, tervezéshez maguk is felhasználhatják.
+
+Az állami adóhatóság a szálláshely-szolgáltatási tevékenységhez kapcsolódó adatokhoz jut hozzá, annak érdekében, hogy a kockázatelemzési tevékenységének hatékonysága, és a határkörébe tartozó ellenőrzési eljárások eredményessége még inkább javuljon.
+
+Központi Statisztikai Hivatal a statisztikai törvényben meghatározott feladatainak ellátása érdekében a statisztikai rendeletekben szabályozott adatokhoz fér hozzá.
+
+Új elemként meghatározza a Rendszer csatlakozásának feltételeit: a szálláshely-szolgáltató a szolgáltatás megkezdését követő 5 napon belül köteles regisztrálni a Rendszerben. A regisztrációs folyamat teljes mértékben elektronikus lesz. A szálláshely-szolgáltató vagy képviselője elektronikus azonosítási szolgáltatás útján azonosítja magát, míg a Rendszer üzemeltetője az azonosítást követően ellenőrzi a nyilatkozó képviseleti jogosultságát. Ennek ellenőrzése érdekében vagy az erre vonatkozó SZEÜSZ-t (rendelkezési nyilvántartás, a fejlesztés alatt álló jogosultság kezelő ügynöki szolgáltatás) használja, vagy hozzáférést kap az ellenőrzéshez szükséges nyilvántartásokhoz. Az üzemeltető kizárólag a jogosultság ellenőrzése érdekében, annak idejéig kap jogosultságot az érintett személyes adatainak kezelésére. A Rendszer maga személyes adatokat nem, kizárólag adminisztratív adatokat tartalmaz, azok rögzítését a szálláshely-szolgáltatók végzik.
+
+A vendégek regisztrációjának célja, hogyha a szálláshely-szolgáltató vendégével szemben polgári jogi jogvitába keveredik, valamint ha kártérítési igényét kívánja a vendégével szemben érvényesíteni, akkor a szálláshely-szolgáltatást igénybevevő vendége pontos adatai rendelkezésre álljanak. Mindezek mellett az adatok rögzítése az idegenforgalmi okból is szükséges, ezzel kiváltva a jelenlegi idegenrendészeti vendégkönyv intézményét.
+
+A szálláshely-szolgáltató a vendégek bejelentkezéskor elektronikusan rögzíti az adatokat egy számára biztosított tárhelyen, amely az adatkezelést könnyíti meg azáltal, hogy nem papíralapon történik az adatrögzítés. A Kormány által kijelölt tárhelyszolgáltató nem ismerheti meg a tárhelyen tárolt adatok tartalmát, az adatkezelési feladata csak azok tárolására terjed ki, valamint biztosítja, hogy a szálláshely-szolgáltató az adatokhoz szükség esetén hozzáférjen. Abból adatot csak a szálláshely-szolgáltató útján lehetséges igényelni.
+
+A rendőrség törvényben meghatározott feladatai teljesítése céljából egyrészt közvetlenül a szálláshely-szolgáltatótól a vendég adatairól tájékoztatást kérhet, amelyet a szolgáltató ingyen köteles a rendőrség rendelkezésére bocsátani. A rendőrség továbbá a tárhelyen tárolt adatokban is keresést végezhet. Ha a rendőrség keresése eredményes volt, nem a tárhelyszolgáltatótól veszi át az adatokat, hanem megkeresi az érintett szálláshely-szolgáltatót, akitől az adatok átadását kérheti.
+
+A vendég személyes és okmánya adatainak rögzítése céljából szükséges, hogy a vendég a személyazonosítására alkalmas okmányát bemutassa a szálláshely-szolgáltatónak. Ha a vendég e kötelezettségének nem tesz eleget, akkor a szolgáltató megtagadja az igénybevételt, hiszen ez az alapja annak, hogy hiteles adatok alapján a későbbiekben a vendéggel szemben polgári jogi igényét érvényesíthesse.
+
+Az 5. §-hoz
+
+A 2019. január 1-jén hatályba lépő felhatalmazó rendelkezéseket pontosítja az új szabályokra figyelemmel. Ennek lényege, hogy a Kormány mind a Rendszer, mind a regisztráció részletszabályainak megalkotására felhatalmazást kap, valamint a rendeletben kerülnek meghatározásra az egyes SZEÜSZ-ök is. A 3. § átmeneti rendelkezéseire figyelemmel szükséges a Rendszer éles indulására és a vállalkozások kötelezettségei kezdetére vonatkozó felhatalmazást is megadni a Kormány számára.
+
+A 6. §-hoz
+
+A lépcsőzetes hatálybalépésre tekintettel indokolt átmeneti szabályok megalkotása. Ennek lényege, hogy a Rendszer alkalmazása tesztüzemet követően első körben önkéntes jellegű, majd a Kormány rendelete határozza meg a kötelező csatlakozás menetét.
+
+A 7. §-hoz
+
+Az 1-3. §-hoz tartozó módosításokhoz kapcsolódó szövegcserés módosításokat tartalmazza.
+
+A 8. §-hoz
+
+Mivel a szálláshely-kezelő szoftver tulajdonságai átemelésre kerülnek a 6/B. alcímbe 2019. szeptember 1-jével, így a rendelkezés szükségtelen.
+
+A 9. §-hoz
+
+A módosítás alapján a harmadik országbeli állampolgárokról vezetett papír alapú vendégköny helyett a szállásadó a harmadik országbeli állampolgár adatait a szálláshelyre történő bejelentkezésekor elektronikusan rögzíti, ez kerül át az idegenrendészeti hatóság nyilvántartásába. Ez adminisztratív tehercsökkentést eredményez a szállásadóknál.
+
+A törvény - figyelemmel az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény rendelkezéseire - meghatározza a harmadik országbeli állampolgárok adatai kezelésének időtartamát.
+
+A 10. §-hoz
+
+A módosítás alapján a szabad mozgás és tartózkodás jogával rendelkező személyek adatait az idegenrendészeti hatóság a tárhelyszolgáltatótól átveszi és azokról nyilvántartást vezet. A törvény - figyelemmel az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény rendelkezéseire - meghatározza a harmadik országbeli állampolgárok adatai kezelésének időtartamát.
+
+A 11. §-hoz
+
+Figyelemmel a szabályok újraalkotására, szükséges rendelkezni arról, hogy a korábbi szabályokat tartalmazó, a kereskedelemről szóló 2005. évi CLXIV. törvény, valamint a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosításáról szóló 2017. évi CCIII. törvény 2-4. §-a ne lépjen hatályba.
+
+-----STARTING---POINT---VEGE---
+
+A 12. §-hoz
+
+Hatályba léptető rendelkezéseket tartalmaz, amelyek lényege, hogy a vagyonkezeléssel kapcsolatos rendelkezések, valamint a 11. § a kihirdetést követő 5. napon lépnek hatályba.
+
+A Rendszerrel kapcsolatos rendelkezések 2019. január 1-jével lépnek hatályba.
+
+A vendégek adatainak rögzítésével kapcsolatos rendelkezések 2019. szeptember 1-jével lépnek hatályba.
+
+A 13. §-hoz
+
+Uniós jogharmonizációs záradékot tartalmaz.

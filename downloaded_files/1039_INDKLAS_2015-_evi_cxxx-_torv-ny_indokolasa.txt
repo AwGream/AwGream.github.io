@@ -1,0 +1,227 @@
+2015. évi CXXX. törvény indokolása
+
+az e-kártya megvalósításához szükséges egyes törvények, valamint az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+1. Elektronikus személyazonosító igazolvány
+
+Az elektronikus közigazgatás kiterjesztésével kapcsolatos feladatokról szóló 1743/2014. (XII. 15.) Korm. határozat (a továbbiakban: H.) 9. pontja alapján létre kell hozni az elektronikus tároló elemet tartalmazó (vizuális és elektronikus) személyazonosításra és elektronikus aláírásra alkalmas okmányt (e-kártya), amely biztosítja az állampolgárok számára, hogy egyetlen okmány használatával intézhessék hivatalos ügyeiket, kiemelten az adóigazgatási eljárásokat és a társadalombiztosítási ellátások igénybevételét, ezáltal alkalmas a TAJ kártya és az adóigazolvány kiváltására, és legyen alkalmas egyes közlekedési szolgáltatások igénybevételére is.
+
+Az e-kártyától elvárt funkcionalitást leghatékonyabban a személyazonosító igazolvány fejlesztésével lehet elérni.
+
+Az elektronikus tároló elemet tartalmazó személyazonosító igazolvány bevezetésének alapvetően két fő célja van, egyrészt az okmány biztonságának növelése, másrészt az elektronikus kormányzás és az elektronikus ügyintézés egy újabb, széles körű, EU interoperábilis elérést biztosító alapeszközének megteremtése.
+
+Ki kell emelni, hogy ugyan az e-kártya elektronikusan tartalmazni fogja a TAJ-t és az adóazonosító jelet, azonban a törvénynek nem célja a TAJ kártya és az adóigazolvány megszüntetése. Az e-kártya ugyanis felmenő rendszerben kerül az állampolgárokhoz, ráadásul több olyan eset is elképzelhető, amikor a - jellemzően kiskorú - állampolgár társadalombiztosítási jelre való jogosultságát igazolni kell, azonban még nem rendelkezik személyazonosító igazolvánnyal. Az egyes kártyaleolvasók telepítését, elterjedését követően, valamint az összerendelési nyilvántartás tényleges működését követően lehet megvizsgálni azt, hogy szükséges-e fenntartani a kötelezően biztosítandó TAJ-kártyát és adóigazolványt, vagy ezekre csak szűk rétegnek lesz szükségük.
+
+A biometrikus azonosítás lehetővé teszi az okmány és birtokosa egyértelmű összerendelését. Az e-kártya bevezetésével egy olyan okmány kerül kibocsátásra, amely a funkciók lépcsőzetes bővítését követően, biztonságos módon egyesít különböző, a vizuális és elektronikus személyazonosításhoz kapcsolódó elemeket. Ennek eredményeként, a közeljövőben egy olyan biztonságos tároló elem (chip) jelenik meg az elektronizált közigazgatási eljárási folyamatokban, amely támogatja a kártyaalapú e-azonosítás és e-aláírás használatát, ezáltal pedig biztosítja az elektronikus szolgáltatások szélesebb körű igénybevételének lehetőségét. Az e-kártya és a személy közötti azonosság megállapítása - vitás esetben - az ujjnyomat alapján rendészeti célból is elvégezhető, ez azonban nem jelenti azt, hogy a kártyán tárolt ujjnyomatot a hatóságok más ujjnyomat-nyilvántartással is automatikusan összevethetik.
+
+Az okmányt európai követelményeknek is megfelelő, multi-applikációs, elektronikus személyazonosító okmányként célszerű felépíteni. Ez azt jelenti, hogy az új e-kártyához a bevezetéskor első szakaszban három közvetlen szolgáltatás kapcsolódik. Ezek az ePASS, az eID és az eSIGN kártyafunkciók.
+
+Az eSIGN (e-aláírás) kártyafunkció révén lehetővé válik elektronikus dokumentum természetes személy általi, az elektronikus aláírásról szóló 2001. évi XXXV. törvénynek (a továbbiakban: Eat.) megfelelő minősített elektronikus aláírása, teljes bizonyító erejű magánokirat elektronikus elkészítése. A törvény szerint a polgár kérésére a kártya tartalmazza az elektronikus aláírás szolgáltatást is.
+
+Az eID (e-azonosítás) kártyafunkció más azonosítási rendszernél magasabb hatásfokkal és biztonsági szinten képes biztosítani az elektronikus kormányzati és e-közigazgatási rendszerek igénybevételéhez szükséges elektronikus azonosítás funkciókat, nem csak belföldön, hanem minden olyan EU tagországban is, ahol a határon átnyúló elektronikus szolgáltatások rendszerét megvalósítják, illetve létrejön a kölcsönös együttműködési megállapodás. Ezt célozza a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 910/2014/EU rendelet és a kapcsolódó európai szabványosítás is. Az eID lehetőséget biztosít arra, hogy az állampolgárok különböző csatornákon keresztül vehessék igénybe az elektronikus kormányzati és e-közigazgatási szolgáltatásokat.
+
+Az eSIGN funkció tehát elsősorban a magánszemély és a piaci szereplők egymás közötti jogügyleteit teszi könnyebbé, másrészt a hatályos ügyintézési szabályok alapján a teljes bizonyító erejű magánokirat elkészítését teszi lehetővé, az eID funkció ezzel szemben a közigazgatási rendszerek felé történő személyazonosság igazolásával hitelesíti a benyújtó/nyilatkozatot tevő személyt. Ki kell emelni, hogy a hatályos rendszerek szerint az eSign-funkció és az ügyfélkapu biztosíthatja a hiteles elektronikus ügyfél-kommunikációt, azonban az eID-funkcióhoz kapcsolódó alkalmazásfejlesztések a jövőben ezt kiegészíthetik, használata várhatóan jobban el is fog terjedni.
+
+Az ePASS (úti okmány) kártyafunkció komfortosabbá teszi a magyar állampolgárok európai utazásait az elektronikus úti okmány funkciók használatával, ugyanis az elektronikus úti okmány minden olyan határátlépésnél felhasználható, ahol a schengeni, vagy más államközi egyezmények által szabályozott hozzáférési jogosultsággal rendelkező rendszerek, tehát pl. zsilipkapus beléptető rendszerek üzemelnek. Az e-kártya ezen funkciója a használatban lévő személyazonosító igazolványok által is gyakorolható utazási jogot magasabb technikai és biztonsági szinten valósítja meg. Ez a funkció nem kiváltja az útlevelet, hanem annak a biztonsági szintjére emeli a személyazonosító igazolványt.
+
+Az e-kártya alkalmas lesz arra, hogy az igénylő erre irányuló szándéka esetén támogassa az egységes elektronikuskártya-kibocsátási keretrendszer bevezetésével létrejövő keretrendszer szolgáltatásainak az igénybevételét. Ez a megoldás folyamatosan bővülő felhasználási lehetőségeket eredményezhet és megteremti az alapjait annak, hogy az állampolgárok egyetlen okmány használatával intézhessék hivatalos ügyeiket, továbbá egyetlen kártya segítségével vegyenek igénybe on-line elektronikus szolgáltatásokat.
+
+A személyazonosító igazolvány tároló elemén a kiállítás során elektronikus módon rögzítésre kerül a kérelmező személy ujjnyomata és ez kizárólag az okmányon kerül tárolásra. A későbbiek során a személynek és ennek az okmányba elektronikusan rögzített biológiai jellemzőnek az elektronikus összevetésével lehet a személyazonosítást hitelesen elvégezni, a személyt az okmánnyal „összekötni”.
+
+Az igazolványok cseréjére fokozatosan kerül sor, azonban az új típusú igazolvány kiállítását a korábbi igazolvány érvényességi idejének lejártát megelőzően is lehet kezdeményezni. A törvény az okmány érvényességi idejét - a jelenlegi érvényességi időktől eltérően - a 18. életévüket betöltött polgárok esetében egységesen 6 évben határozza meg. Ez egyrészt a tároló elem technológiai avulása, valamint az útlevelektől várhatóan jelentősen eltérő, gyakoribb használatból adódó fizikai elhasználódása indokolja. 65 év feletti polgárok, amennyiben az elektronikus funkciókat nem kívánják használni (így az igazolvány tároló elemet sem fog tartalmazni), a továbbiakban is kérhetnek határidő nélküli érvényességi idejű személyazonosító okmányokat. 18 éves kort megelőzően az igazolványt - a személy külsejének gyakori változása miatt - 3 évente cserélni kell.
+
+Az e-kártya - az ePass funkcióval, így az útlevél szabályokkal összhangban - 12 éves kortól tartalmazza a polgár ujjnyomatát és saját kezű aláírását. Az eSign funkcióhoz szükséges tanúsítványokat - a nemzetközi technológiai szabványok miatt - két évente kell megújítani, azonban ez elektronikusan is történhet.
+
+A személyazonosító igazolvány illetéke alapesetben 1500 Ft. Ez az összeg jelenleg több mint ezer forinttal kevesebb az igazolvány tényleges önköltségénél. Figyelemmel a törvény szerinti személyazonosító igazolvány új technikai elemeire és funkcióira, valamint az okmánnyal szemben támasztott fokozott biztonsági követelményekre is, az előzetes költségszámítások 5000 Ft-ban becsülték meg a személyazonosító igazolvány önköltségi árát.
+
+A szabályozás a német példa alapján felülvizsgálja a külföldre utazási korlátozás hatálya alatt álló személyek személyazonosító igazolványra vonatkozó szabályait is. A hatályos rendelkezések szerint, ha a polgárral szemben büntetőeljárás miatt szabadságát érintő kényszerintézkedés lett foganatosítva, vagy szabadságát érintő büntetés/intézkedés hatálya alatt áll, akkor nem utazhat külföldre. Ezen korlátozás jelenleg kizárólag útlevelek vonatkozásában tud érvényesülni, azonban a schengeni határokon útlevél nélkül, pusztán személyazonosító igazolványával is közlekedhet a polgár, így a korlátozás hatályosulása könnyen kijátszható. A törvény így deklarálja azt is, hogy az ilyen korlátozás alatt állók személyazonosító igazolvánnyal sem hagyhatják el az országot.
+
+Az Iszlám Állam térnyerése miatt fontos garantálni, hogy azon személyek, akik terrorizmussal kapcsolatos bűncselekmény miatt állnak büntető eljárás hatálya alatt, vagy emiatt büntetésüket töltik, ne hagyhassák el az országot, ne csatlakozzanak terrorszervezethez vagy ilyen szervezetet aktívan támogató államhoz. Ezért ezen személyek eredeti igazolványa érvénytelenné válik, és olyan igazolvánnyal lesznek ellátva, amellyel nem hagyhatják el az országot.
+
+Az okmányok létrehozásának fontos munkaművelete a bianko okmányok megszemélyesítése. A megszemélyesítés a KEKKH és az ANY Biztonsági Nyomda Nyrt. közt létrejött 3/124-4/2009. számú „a biztonsági okmányok központi előállításához szükséges kapacitások és járulékos szolgáltatások biztosítása” tárgyú vállalakozási szerződésben (megszemélyesítési szerződés) foglaltak alapján történik egy szintén 2017. augusztus 31-ig érvényben lévő szerződés keretében. A folyamatban a nyomda kizárólag technológiai közreműködő, az adatkezelő és a folyamat felelőse a kibocsátást végző KEKKH.
+
+Amennyiben a KEKKH biztosítja a nyomda részére a berendezéshez illesztett továbbfejlesztett vizuális és elektronikus megszemélyesítésre alkalmas programrendszert, akkor a személyazonosító igazolvány megszemélyesítése (a KEKKH által biztosított adatok lézergravírozása és chipre rögzítése), minőségellenőrzése és postázása a jelenlegi környezetben egyszerűen megvalósítható.
+
+Az elektronikus tárolóelem megszemélyesítése hasonló informatikai környezetet és szoftver elemeket igényel, mint amelyet az e-útlevél családnál biztosít a KEKKH a nyomda számára. A központi megszemélyesítő rendszer szükséges informatikai fejlesztése az üzemeltetést és rendszerfejlesztést végző állami tulajdonú IdomSoft Zrt. által megvalósítható a jelenlegi szerződéssel lefedett környezetben is.
+
+A fejlesztéshez és az üzemeltetéshez szükséges hardver elemek és szoftver komponensek a Közbeszerzési és Ellátási Főigazgatóság által biztosított Központi Közbeszerzési Rendszer keretszerződéséből történő lehívással kerülnek beszerzésre.
+
+A törvény az e-kártyával összefüggésben a könnyebb azonosítás és az egyes személyazonosító adatok könnyebb adattovábbítása érdekében pontosítja az összerendelési nyilvántartás szabályait is. Az összerendelési nyilvántartásnak az a célja, hogy az adatkezelő anélkül jusson az általa igényelt és jogosan kezelt személyazonosító adathoz, hogy közben az egyes adatbázisok összekapcsolása megtörténjen.
+
+2. Informatikai biztonsági szabályok felülvizsgálata
+
+Az elektronikus közszolgáltatások megvalósítása során kulcskérdés a megvalósítás hatékony felügyelete.
+
+Ennek érdekében - a feladatok átfogó, horizontális ellátása céljából - indokolt volt egyetlen integrált felügyeleti szerv létrehozása az elektronikus ügyintézés, a nemzeti adatvagyon, a SZEÜSZ-ök felügyelete, és lehetőség szerint az informatikai biztonság és információbiztonság, valamint a közokiratok kezelésének a felügyelete vonatkozásában. Ez szervezeti értelemben
+
+- az Elektronikus Ügyintézési Felügyelet,
+
+- a Nemzeti Elektronikus Információbiztonsági Hatóság (a továbbiakban: NEIH),
+
+- az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló 2013. évi CCXX. törvény szerinti, a nyilvántartások felügyeletéért felelős szerv,
+
+- a Nemzeti Biztonsági Felügyelet, valamint
+
+- a Kormányzati Iratkezelési Felügyelet
+
+feladat- és hatásköreinek egy szervezethez történő telepítését igényelte.
+
+Ennek megfelelően a 2014. évi kormányzati szerkezetváltást követően az informatikai biztonsággal összefüggő feladatokat ellátó, korábban több tárca között felosztott szervezetek a Belügyminisztérium keretein belül működnek tovább, és az informatikai biztonsággal összefüggő szabályozási feladatokért szintén a BM viseli a felelősséget.
+
+Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) hatálybalépése óta eltelt időszak tapasztalatai szükségessé tették a törvény hatályosulásának vizsgálatát és a szabályozás felülvizsgálatát.
+
+A törvény így - az e-közigazgatással összefüggő törvénymódosítások körében - módosítja az Ibtv.-t. is. A módosítás főbb elemei az alábbiak.
+
+a) elektronikus kapcsolattartás kimondása az informatikai biztonsággal összefüggő hatósági eljárásokban
+
+A NEIH a hatályos törvényi kötelezettség alapján valamennyi kapcsolattartási csatornán fogadja az ügyfelek Ibtv.-n alapuló bejelentéseit. Az informatikai biztonság megvalósítási területe az elektronikus világ, azon belül más úton történő kapcsolattartás célszerűtlen, mivel a hagyományos kapcsolattartás lassúsága a kibertérből érkező fenyegetésekre adott azonnali választ lehetetlenné teszi, így önmagában veszélyforrás.
+
+b) a terminológia egységesítése
+
+A törvény megteremti az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) és az Ibtv. egyes fogalom meghatározásainak egységét, tekintettel a védett jogtárgyak halmazának átfedéseire, ezzel feloldva a két jogszabály együttes gyakorlati alkalmazásában felmerülő problémák jelentős részét.
+
+c) hatály
+
+Az Ibtv. hatályos szövege tág teret ad az egyes elektronikus információs rendszerek eltérő jellegű felügyeletéhez. Mindez a szabályozást és a felügyeletet, ennek megfelelően pedig a magyar kibertér védelmét túlságosan széttagolttá, kevéssé átláthatóvá teszi, ami így nem eléggé hatékony. A hatályos szabályozáshoz képest a törvény meghatározza azokat a szempontokat, amelyek alapján a felügyelet elválhat az általános szabálytól és kormányrendelet hatásköre lesz kimondani, mely rendszerek esetében gyakorolható eltérő felügyelet, és azt mely szerv gyakorolja. Ezzel egyidejűleg a hatályos szabályozás helyett, mely az ágazati miniszterre bízza az eltérő rendelkezések megalkotását, kormányrendelet fogja az eltéréséket is meghatározni.
+
+d) szervezeti/szerkezeti változások
+
+A BM-hez telepített egységes irányítási feladatkör lehetővé teszi azt is, hogy a tárca az eljáró szervek feladatkörét átszervezze. A törvény alapján megszűnik a Nemzeti Biztonsági Felügyelet információbiztonsággal kapcsolatos feladata, azt jövőben a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) látja el. Az NBSZ mint kormányzati eseménykezelő központ eddig is részt vállalt a kiberbiztonsági feladatok ellátásában, szerepe így megerősödik, egyúttal a szükséges szakértelem egy intézményben fog összpontosulni. Átalakul a sérülékenységvizsgálat rendszere is. A kormány által kijelölt állami szervek mellett feladatot vállalhatnak nemzetbiztonságilag ellenőrzött piaci szereplők is. A nemzetbiztonsági védelem alá eső, szervek vonatkozásában a Nemzetbiztonsági Szakszolgálatnál működő kormányzati eseménykezelő központ végezhetné a sérülékenységvizsgálatot. A Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat zárt célú elektronikus információs rendszerei, továbbá a Honvédelmi Tanács és a Kormány speciális működését biztosító infokommunikációs támogató rendszerei esetében, valamint az Információs Hivatal tekintetében a saját ágazati, szintén a Kormány által kijelölt állami szerv végzi a vizsgálatot.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az e-kártyával kapcsolatos módosításokat vezeti át az Itv.-ben.
+
+A törvény alapján
+
+a) 1500 forint lesz az illetéke minden olyan személynek,
+
+- aki legfeljebb 60 nappal a lejárta előtt kéri a jelenlegi igazolványa cseréjét,
+
+- aki nem rendelkezik érvényes személyazonosító igazolvánnyal és e-kártyája még nem volt,
+
+és ideiglenes személyazonosító igazolvány kiadására nincs szükség.
+
+b) Illetékmentes lesz minden olyan személynek,
+
+- aki 18 év alatti és nem rendelkezik egyéb személyazonosító okmánnyal (12 év alatt ez a feltétel sem él),
+
+- aki 65 év feletti, határidő nélküli igazolványt kér,
+
+- aki külföldre utazás tilalma hatálya alatt áll, és ezt jelző igazolványt kap,
+
+- akinek az igazolványa a tároló eleme hibája miatt kerül cserére.
+
+c) Minden más esetben az igazolvány illetéke 5000 forint.
+
+Ha ideiglenes személyazonosító igazolványra is szükség van, úgy az illeték összege 1500 forinttal megemelkedik.
+
+A 2. §-hoz
+
+Az Nytv. módosítása az elektronikus személyazonosító igazolvány bevezetésével kapcsolatban szükséges módosításokat tartalmazza. E körben új fogalmak bevezetése válik szükségessé, bővítésre kerül a személyazonosító igazolvány adattartalma, meghatározásra kerül az állandó személyazonosító igazolvány tároló elemének adattartalma, az Nytv. az ujjnyomatra vonatkozó speciális adatvédelmi rendelkezésekkel egészül ki, valamint az Nytv. egyértelműen kimondja, hogy az állandó személyazonosító igazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti elsődleges kártyának tekintendő. A törvény lehetővé teszi továbbá, hogy elektronikus aláírási funkció kerüljön minden kártyára.
+
+A törvény a korábbi érvényességi időtől eltérően a jogosult 18. életévének betöltéséig 3 éves, azt követően egységesen 6 éves érvényességi időt állapít meg; emellett törvényi szinten határozza meg a személyazonosító igazolvány érvénytelenségének eseteit.
+
+A módosítás az ujjnyomatadási kötelezettséghez kapcsolódóan az aláírási kötelezettség korhatárát 14. életévről 12. életévre szállítja le, viszont az ujjnyomat leadás nem kötelező, ha a polgár a rögzítést visszautasítja a személyigazolványt anélkül kell kiadni.
+
+A módosítás létrehozza a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartását. A nyilvántartás célja, hogy ezen hatósági igazolványok érvényességét a személyazonosítás során bárki ellenőrizhesse.
+
+A törvény a terrorizmussal kapcsolatos bűncselekmények elkövetésének gyanúja miatt kényszerintézkedés hatálya alatt álló személyeket, valamint az ilyen bűncselekmény elkövetése miatt szabadságvesztés hatálya alatt állókat külön olyan személyazonosító igazolvánnyal is ellátja, amely jelzi, hogy a személyek külföldre utazási korlátozás hatálya alatt állnak.
+
+Előfordulhat, hogy Magyarországon letelepedési engedéllyel rendelkező, de nem Magyarországon élő személyek is bekerülnek a személyiadat- és lakcímnyilvántartó rendszerbe.
+
+Emellett a személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet 9. § (3) bekezdése értelmében a letelepedett jogállású személy köteles személyazonosító igazolvány kiadását kérni, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról 114/2007. (V. 24.) Korm. rendelet 91. § (1) bekezdése értelmében pedig a nemzeti letelepedési engedély iránti kérelmet előterjesztő harmadik országbeli állampolgár az első magyarországi lakóhelyének létesítését a kérelem előterjesztésével egyidejűleg jelenti be.
+
+Tekintettel azonban arra, hogy a Harmtv. 35. § (1) bekezdés e) vagy f) pontja alapján letelepedési engedély iránti kérelmet benyújtó külföldiek jellemezően nem élnek Magyarországon, életszerűtlen a személyi igazolvány és lakcímkártya igénylés kötelező jellege, a személyazonosító igazolvány és lakcímkártya kiadására irányuló eljárás pedig mind a hatóság, mind pedig az ügyfelek számára bürokratikus jellegű többletfeladatot eredményez, ami akadályozza a nemzetgazdasági érdekéből kiadott letelepedési engedély kiállítására irányuló eljárás gyors és hatékony lefolytatását.
+
+A törvény értelmében azon nemzetgazdasági érdekből letelepedett jogállást szerző külföldiek, akik Magyarországon élnek, továbbra is az Nytv. hatálya alá fognak tartozni, így jogosultak lesznek hatósági igazolványokra. Emellett a letelepedési engedély érvényességi ideje alatt Magyarországon létesített lakóhelyet az általános szabályok szerint az idegenrendészeti hatóságnál be kell jelenteni, ami révén a letelepedett visszakerül az Nytv. hatálya alá.
+
+A 3. §-hoz
+
+Az összerendelési nyilvántartás szabályozásának felülvizsgálatára vonatkozó rendelkezéseket tartalmazza.
+
+A Szaz.tv. értelmező rendelkezései nem tartalmazták az összerendelési bejegyzés fogalmát.
+
+A 10/A. § újraszabályozása szükséges, mivel
+
+a) a Szaz.tv. nem határozta meg pontosan az összerendelési nyilvántartás fogalmát,
+
+b) az összerendelési nyilvántartás hatálya alól kikerül a könyv formátumú személyazonosító igazolvány, valamint a diplomata és a szolgálati útlevelek. Ez utóbbiak speciális célból kerülnek kibocsájtásra, ezért azokat nem célszerű a nyilvántartás hatálya alá vonni, a könyv formátumú személyazonosító igazolványok esetében pedig az összerendelési nyilvántartás felállításáig nem biztosíthatók az adattovábbítás technikai feltételei az összerendelési nyilvántartás számára,
+
+c) az összerendelési nyilvántartás adatminőségének biztosítása érdekében az összerendelési nyilvántartást kezelő szerv számára a szakrendszeri titkosított kapcsolati kóddal együtt a kapcsolati kóddal érintett személy természetes személyazonosító adatait is indokolt átadni.
+
+d) törvényben kell szerepeltetni az összerendelési nyilvántartás vezetésére, az összerendelési bejegyzés törlésére vonatkozó alapvető szabályokat.
+
+A féléves kódcsere helyett a kódcserére vonatkozó garanciális szabályok törvényi szintű meghatározása indokolt. A kapcsolati kódok cseréje a gyakorlatban akkor szükséges, ha a kódok valamilyen oknál fogva illetéktelen felhasználásra kerülhetnek, amelynek bekövetkezési valószínűsége a rendszerek működéséből fakadóan szinte teljes körűen kizárható. A módosítás nem érinti azt a hatályos rendelkezést, amelynek értelmében a kapcsolati kód állomány gyakoribb cseréjét vagy meghatározott feltételek szerinti lecserélését jogszabály kötelezővé teheti. Az összerendelési nyilvántartás jogszerű, megbízható működése továbbra is biztosítható, ugyanakkor a kötelező kódcserével érintett adatkezelők rendszeres kódcserével járó munkaterhelése megszűnik.
+
+A Szaz.tv. jelenleg hatályos, inkább technikai megvalósítási szintű, az összerendelési nyilvántartás informatikai megvalósítását indokolatlanul korlátozó, kevésbé időtálló rendelkezéseit az érintett adatkezelőkre és adatkezelésükre vonatkozó garanciális szabályozási tartalomra kell cserélni, továbbá egyértelműsítésre került, hogy az igényelt azonosító kódot az összerendelési nyilvántartáson alapuló szolgáltatás (SZEÜSZ) szolgáltatja.
+
+A 4. §-hoz
+
+A külföldi utazás korlátozás érvényesítéséhez szükséges módosítás. A módosítás értelmében a terrorizmussal kapcsolatos bűncselekmények elkövetésének gyanúja miatt kényszerintézkedés hatálya alatt álló személyekről a bíróság, valamint az ilyen bűncselekmény elkövetése miatt szabadságvesztés hatálya alatt állókról a bv. szerv tájékoztatja az okmánykiállító hatóságot, amely érvényteleníti az adott személyazonosító igazolványt és az új, a külföldre utazási korlátozásra utaló adatot tartalmazó igazolványt kiállítja.
+
+Az 5-6. §-hoz
+
+Kormányzati szinten CERT típusú szervként a kormányzati eseménykezelő központ (GovCERT) működtetése indokolt. A GovCERT működése lehetővé teszi a közvetlen és gyors kommunikációt minden, biztonsági esemény kapcsán érintett állami szereplővel, biztosítja, hogy a hálózatbiztonsággal kapcsolatban minél több információval rendelkezzen, illetve lehetővé teszi, hogy a Kormány rendelkezésére álló szakembergárda, valamint az eseménykezelésre fordítható költségvetési erőforrások koncentráltan, és ne elaprózva érvényesüljenek. A hálózatbiztonság fokozása érdekében az állami, önkormányzati szervek mellett az elektronikus kereskedelmi szolgáltatókkal, elektronikus hírközlési szolgáltatókkal való együttműködés is fontos annak érdekében, hogy a GovCERT a hálózatbiztonsággal kapcsolatban minél több információval rendelkezzen. A jelzett szolgáltatók számára előírt együttműködési kötelezettség a GovCERT szerepének erősítését szolgálja.
+
+A 7. §-hoz
+
+E szakasz egyrészt az Ibtv. módosításához tartozó pontosítást tartalmaz tekintettel arra, hogy a módosítással megszűnik az NBF sérülékenységvizsgálattal és a biztonsági események műszaki adatainak vizsgálatával kapcsolatos hatásköre. Másrészt indokolatlan az NBF irányításának és szervezeti kereteinek kérdéseit törvényi szinten szabályozni. E kérdések kormányrendeleti szintű rendezésére ad felhatalmazást a módosítás. Szükséges továbbá egyrészt a Mavtv. gazdálkodó szervezetre vonatkozó fogalmának pontosítása a Polgári Törvénykönyvről szóló 1959. évi IV. törvény hatályon kívül helyezése okán, másrészt, mivel az NBF az iparbiztonsági hatáskörök közül csak a telephelyi iparbiztonsági feladatokat látja el, a „nemzeti” helyett a „telephelyi” jelző alkalmazása az NBF e hatásköre kapcsán.
+
+A 8. §-hoz
+
+Az Infotv. 2. § (2) bekezdése kimondja, hogy a törvényt a teljesen vagy részben automatizált eszközzel, valamint a manuális módon végzett adatkezelésre és adatfeldolgozásra egyaránt alkalmazni kell. Ennek megfelelően az Ibtv. szerinti védendő adatokra is alkalmazni szükséges, melynek eredményeként az Infotv. és az Ibtv. védett jogi tárgya (az adat) átfedést mutat. A megfelelő jogalkalmazás érdekében az Infotv. és az Ibtv. azonos fogalmait harmonizálni szükséges.
+
+A módosítás eredményeként a zártcélú információs rendszerek fogalma harmonizálásra kerül a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 2. mellékletének („elkülönült hírközlési tevékenység végzésére jogosultak és az általuk működtetett hálózatok megnevezése”) fogalomrendszerével. A módosítás eredményeként kormányrendeletben kerül meghatározásra a honvédelmi, nemzetbiztonsági, rendészeti, diplomáciai információs célból működtetett információs rendszerek köre, és rendszerenként kijelölésre kerülnek a törvényben felsorolt hatósági feladatokat ellátó szervek is, valamint a feladatgyakorlás részletes szabályai.
+
+Az érintett szervezetek az Ibtv. végrehajtása során jelezték, hogy indokolatlanul magas költséggel jár a szervezeti biztonsági szint hatályos Ibtv. szerinti elérése. A korábbi, elektronikus információs rendszer-oldali szemléletet felváltja a szervezeti egység által használt adat-, szolgáltatás-központú szemlélet, így a szervezeti biztonsági szint elérése racionális költségekkel jár, indokolatlan ráfordítás nem keletkezik. Új elemként jelenik meg, hogy a magasabb biztonsággal védendő szervezeti egységek szintbe sorolása elválik a szervezet biztonsági szintjétől, tehát attól, hogy egy szervezeten belül információbiztonsági szempontból magasabb védelmi szinten lévő szervezeti egység működik, nem kell a teljes szervezetre a magasabb elvárásokat megvalósítani, így jelentős költség takarítható meg.
+
+Pontosításra kerültek a jogalanyok központosított informatikai és elektronikus szolgáltatókkal szembeni elvárásai. A hatályos rendelkezés értelmében minden, az Ibtv.-ben meghatározott feladatot a szolgáltatóknak kellene megvalósítani, ami teljesíthetetlen elvárás, és ellentétes a törvény céljaival. Azt tehát szűkíteni kell a technikai és technológiai eljárásokra, amelyek tekintetében a szolgáltató kompetenciával bír.
+
+A módosítás eredményeként a nemzetbiztonsági védelem alatt álló állami szervek esetében kizárólag olyan személy nevezhető ki az elektronikus információs rendszer biztonságáért felelős személyként, illetve a biztonsági események kivizsgálásában kizárólag olyan személy vehet részt, akinek a kijelölését, kinevezését a kormányzati eseménykezelő központ előzetesen véleményezte. Ezen szigorítást az indokolja, hogy a nemzetbiztonsági védelem alatt álló szervek esetében szigorúbb személyi feltételeknek kell megfelelni a kezelt adatok biztonsága, illetve a bekövetkező események elhárítása tekintetében. A biztonsági esemény kivizsgálásában részt vevő személynek a megbízás előtt részt kell vennie a biztonságiesemény-kezelő eljárásról szóló, kormányzati eseménykezelő központ által tartott tájékoztató előadáson.
+
+A módosítás értelmében a biztonsági eseményekkel kapcsolatos bejelentéseket a továbbiakban a hatóság nem tartja nyilván és nem kezeli. A Hatóság a kormányzati eseménykezelő központ által küldött jelzéseket haladéktalanul továbbítja az Ibtv. hatálya alá tartozó szervezetek felé. Gyakorlati tapasztalat, hogy nem célszerű biztonságiesemény-bejelentést a hatósághoz telepíteni, azoknak a hálózatbiztonsági központok felé kell teljesülniük, mivel itt van megfelelő apparátus és reagáló erő ezek kezelésére. Bizonytalanságot keltett a jogalanyokban továbbá, hogy mely szervhez tegyenek bejelentést, amely bizonytalanság a biztonságot veszélyezteti. A módosítás szerint a kormányzati eseménykezelő központtól érkező értesítéseket tartja nyilván a hatóság, amelyek az Ibtv. szerinti együttműködés keretében kerülnek - tájékoztatási céllal - a hatósághoz.
+
+Az Ibtv. új rendelkezése, hogy amennyiben egy szervezet hanyagsága veszélyt okoz, és ennek elhárítására a hatóság kénytelen a biztonság érdekében a szervezet helyett cselekedni, ennek költsége nem a hatóságot, hanem az adott szervezetet terheli.
+
+Idekapcsolódik az az új jogosultság is, hogy a kormányzati eseménykezelő központ kötelezheti egy elektronikus információs rendszer működtetőjét a veszély elhárítására. Változtatni kell a jelenlegi helyzeten, mely szerint egy felismert, jelentős veszély, fertőzés esetén annak terjedését nem lehet megakadályozni. Azonnali intézkedést igénylő esetben a kormányzati eseménykezelő központ - ha a szervezethez információbiztonsági felügyelő van kirendelve, akkor általa - ideiglenes intézkedést tehet.
+
+A módosítás révén egyértelművé válik, hogy a kormányzati eseménykezelő központ mellett három egyéb eseménykezelő központ létezik. A kormányzati eseménykezelő központ a kormányzat általános hatáskörű kiberbiztonsági szerve, és három szakterület vonatkozásában (honvédelem, létfontosságú infrastruktúra védelem, polgári hírszerzés) működik egyéb eseménykezelő központ. A honvédelmi eseménykezelő központ működtetését a NATO kötelezettségek teljesítése, míg a létfontosságú rendszerek esetében a létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt rendszerelemek elsősorban nem kormányzati célú feladatellátása indokolja a működést. A polgári hírszerzési tevékenység speciális jellegére tekintettel, szintén önálló eseménykezelő központot működtet az Információs Hivatal.
+
+Átalakul a sérülékenységvizsgálati eljárás is. A szakhatósági rendszer helyett az érintett szerv köteles elvégeztetni a vizsgálatot, külön jogszabály pedig meghatározza, mely szervek lesznek jogosultak elvégezni. A nemzetbiztonsági védelem alatt álló szervezetek esetében a Kormány által kijelölt állami szerv végzi ezt a tevékenységet. A specialitásokra tekintettel, a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat elektronikus információs rendszerei, továbbá a Honvédelmi Tanács és a Kormány speciális működését biztosító infokommunikációs támogató rendszerei esetében, valamint az Információs Hivatal tekintetében a saját ágazati, szintén a Kormány által kijelölt állami szerv végzi a vizsgálatot. A nemzetbiztonsági védelem alá nem tartozó szervezetek esetében piaci szereplők csak úgy vállalhatnak feladatot, ha megfelelnek a velük szemben támasztott szigorú feltételeknek (telephelybiztonsági tanúsítvány nemzetbiztonsági ellenőrzés, szakmai kritériumok).
+
+A Ket. lehetővé teszi, hogy törvény az eljárás során keletkezett iratok nyilvánosságát korlátozza. A biztonsági események, sérülékenységek és a nyilvánosság nagymértékben sebezhetővé tenné a magyar kiberteret. Ezeket az információkat fel lehetne használni súlyos és veszélyes támadások megindítására, a biztonsági rések rosszindulatú kiaknázására. Ennek megakadályozását szolgálja az Ibtv. 22. §-ának új (3) bekezdése.
+
+A 9. §-hoz
+
+Az Iop. tv. módosítása a következők miatt szükséges.
+
+Az értelmező rendelkezések kiegészítése a nyilvántartások kategorizálása érdekében.
+
+Az adatbázisok közvetlenül nem egymással kommunikálnak. Az adatigényléseket és adatszolgáltatásokat központi szolgáltató közreműködésével kell kezelni. Ez a megoldás garantálja a szükséges jogi és informatikai biztonságot is.
+
+Az adatkapcsolat-szolgáltatási megállapodás tartalmi követelményei a törvényben kerülnek meghatározásra, az adatkapcsolat-szolgáltatási szabályzat kötelező tartalmi elemeit pedig az Iop. tv. felhatalmazása alapján kormányrendelet fogja tartalmazni. További részletszabályok miniszteri rendeletben történő megállapítása nem indokolt, ezért nem lép hatályba a 16. § (3) bekezdése.
+
+A 10. §-hoz
+
+Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény módosítása - a személyazonosító igazolványra vonatkozó új szabályozáshoz igazodva - az aláírási kötelezettség korhatárát 14. életévről 12. életévre szállítja le.
+
+Az e-kártyával kapcsolatos eltérések érdekében pontosítani kell a NEK-regisztráció szabályait.
+
+-----STARTING---POINT---VEGE---
+
+A 11. §-hoz
+
+Hatályba léptető rendelkezéseket tartalmaz. Az összerendelési nyilvántartásra vonatkozó rendelkezések 2015. június 30-án, az Ibtv.-re vonatkozó rendelkezések 2015. július 1-jén, az e-kártyára vonatkozó rendelkezések 2016. január 1-jén lépnek hatályba.
+
+A 12. §-hoz
+
+Sarkalatossági záradékot tartalmaz.
+
+A 13. §-hoz
+
+Uniós irányelvre történő hivatkozást tartalmaz.

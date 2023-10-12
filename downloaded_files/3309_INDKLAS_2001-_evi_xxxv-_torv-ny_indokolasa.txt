@@ -1,0 +1,671 @@
+2001. évi XXXV. törvény indokolása
+
+az elektronikus aláírásról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+1. Az elektronikus aláírásról szóló törvény időszerűsége, szabályozási elvei, szerkezete
+
+Az elektronikus üzenetküldés egyre tömegesebbé válásának egyik következményeként igény merült fel arra, hogy elektronikus formában joghatást kiváltó üzenetet is lehessen küldeni (pl. szerződéses ajánlat, illetve annak elfogadása, teljesítés igazolása). Ehhez azonban szükséges, hogy az így kapcsolatba kerülő felek hitelesen megállapíthassák, kitől származik az üzenet és annak tartalma nem változott-e a feladás óta. Ezt a funkciót a papíralapú írásos szerződéskötéseknél az aláírás tölti be.
+
+Elektronikus formában lévő iratra is rá lehet írni annak a nevét, aki a nyilatkozatot magáénak vallja, de ennek nincs olyan bizonyító ereje, mint a kézírásos aláírásnak, ezért különböző technológiákat dolgoztak ki a hiteles elektronikus formában való aláírás céljából. Az egyik legfejlettebbet: a nyilvános kulcsú infrastruktúrát az indokolás függeléke tartalmazza. Ezen technológiák használatának joghatásait, a technológiákkal és az ilyen szolgáltatásokat nyújtó gazdálkodó szervezetekkel szembeni követelményeket szabályozza az elektronikus aláírásról szóló törvény.
+
+A hiteles aláírási funkció megvalósításához nem elegendő a technológia biztosítása, hanem ennek jogi hátterét is meg kell teremteni, hiszen számos jogszabály ír elő bizonyos jogügyletekhez írásos formát. Ezért a legfejlettebb államok közül egyesekben a 90-es évek második felében törvények születtek az elektronikus aláírásról. 1999. decemberében fogadta el az Európai Parlament és a Tanács az elektronikus aláírásról szóló 1999/93/EK irányelvét (a továbbiakban: IE.)
+
+A Kormány elfogadta az elektronikus aláírásról szóló törvény szabályozási alapelveiről és az ezzel kapcsolatban szükséges intézkedésekről szóló 1075/2000. (IX. 13.) Korm. határozatot (a továbbiakban: H.), mely elrendelte az elektronikus aláírásról szóló törvény előkészítését és az IE.-vel összhangban meghatározta annak lényegesebb szabályait.
+
+A H. szerinti alapelvek a következők:
+
+a) A törvény szabályait úgy kell megfogalmazni, hogy azok bármely elektronikus aláírásra - az előállításuk során felhasznált technológiától függetlenül - alkalmazhatóak legyenek. (Technológia-semleges szabályozás követelménye.)
+
+b) Elő kell írni, hogy elektronikus aláírás joghatálya nem tagadható meg amiatt, hogy kizárólag elektronikus formában létezik.
+
+c) Az elektronikus aláírás használatát csak a törvény zárhatja ki olyan jogviszonyokkal kapcsolatos jogügyletekben, melyekben az elektronikus aláírás használata a felek érdekét, illetve a jogbiztonságot sértené.
+
+d) Az elektronikus aláírás alkalmazását az ügyfelet érintően nem lehet kötelezővé tenni.
+
+Ezeken a szabályozási alapelveken kívül a Kormány a H.-ban döntött néhány konkrétabb tárgyban is a jövendőbeli szabályozás tartalmáról.
+
+A törvény három lényeges témakört szabályoz, ezt követi a törvény szerkezete:
+
+1. a törvény hatályát, mely egyszersmind meghatározza az elektronikus aláírás felhasználásának lehetőségét is;
+
+2. az elektronikus aláírással kapcsolatos szolgáltatások szabályait;
+
+3. a szolgáltatókat felügyelő és a szolgáltatókat nyilvántartó, illetve minősítő Hírközlési Főfelügyelet (a továbbiakban: Felügyelet) tevékenységére vonatkozó szabályokat.
+
+Ezeket követik az alacsonyabb szintű jogszabály-alkotásra való felhatalmazások és a szükséges törvény-módosítások, ugyanis a törvény kidolgozásakor a hatályos hazai jogszabályokat is tekintetbe kellett venni és a kérdéssel legszorosabban összefüggő törvények módosításával meg kellett teremteni az elektronikus aláírás és elektronikus dokumentumok felhasználásának alapeseteit.
+
+2. A törvény hatálya, az elektronikus aláírás és dokumentumok fajtái, jogkövetkezményei, mire használható az elektronikus aláírás
+
+2.1. Az elektronikus aláírás fajtái
+
+a) „Egyszerű” elektronikus aláírás
+
+A törvény által használt elektronikus aláírás fogalomba - az IE. 2. Cikkének 1. pontjával összhangban - beletartozik az a mindenfajta technológiai biztonságot nélkülöző eljárás is, ha az aláíró egy elektronikus szöveg végére odaírja a nevét vagy más azonosítóját. Erre utal az elektronikus aláírás fogalmának meghatározásában használt „adat” kifejezés, ha ugyanis elektronikus aláírás alatt az elektronikus dokumentummal - azonosítás céljából - logikailag összekapcsolt elektronikus adatot nem, csak az ilyen dokumentumot értenénk, akkor valójában csak a tanúsítvánnyal hitelesített elektronikus aláírásokat tekintenénk elektronikus aláírásnak. Szintén beletartoznak az elektronikus aláírás fogalmába mindazon technológiák alkalmazásával történt elektronikus aláírások, amelyek nem alkalmasak arra, hogy biztonságosan azonosítsák az aláíró személyét és bizonyíthatóvá tegyék, hogy az aláírt szöveg nem változott az aláírás óta. Ezek nem minősülnek fokozott biztonságú elektronikus aláírásnak. Ezt a kört az indokolásban „egyszerű elektronikus aláírásnak” nevezzük. Az elektronikus aláírás fogalmába a fentieken túl természetesen beletartoznak a fokozott biztonságú és a minősített elektronikus aláírások is.
+
+b) Fokozott biztonságú elektronikus aláírás
+
+Ez olyan elektronikus aláírás, amely alkalmas az aláíró azonosítására és egyedülállóan hozzá köthető, olyan eszközökkel hozták létre, melyek kizárólag az aláíró befolyása alatt állnak és a dokumentum tartalmához technikailag olyan módon kapcsolódik, hogy minden - az aláírás elhelyezését követően az iraton, illetve dokumentumon tett - módosítás érzékelhető. Gyakorlatilag, a technika jelenlegi állása mellett ez már a nyilvános kulcsos aláírási technológia alapján álló elektronikus aláírást jelent, azonban a technológia-független megfogalmazás szükségessége miatt a törvény a funkciót fogalmazza meg meghatározásként. Az ilyen fajta elektronikus aláírást is hitelesítés-szolgáltató tanúsítja, de az aláírás technológiája, biztonsági foka vagy a hitelesítés-szolgáltató körülményei nem valósítják meg a minősített elektronikus aláírás követelményeit.
+
+c) Minősített elektronikus aláírás
+
+A minősített elektronikus aláírás olyan fokozott biztonságú (tehát szintén „nyilvános kulcsos”) elektronikus aláírás, mely megfelel a törvényben és végrehajtási rendeletében előírandó magas szintű technológiai és a minősített hitelesítés-szolgáltatóval szembeni szakmai és megbízhatósági követelményeknek.
+
+Az elektronikus aláírás e három szintje összhangban van az Európai Közösség vonatkozó irányelvének szabályaival, melyek szintén elektronikus aláírásként definiálják a formaságok nélküli „egyszerű” elektronikus aláírást is. A három fogalom egymásra hivatkozik és egyre szűkülő halmazokat határoz meg: a fokozott biztonságú elektronikus aláírás az elektronikus aláírás egy fajtája, a minősített elektronikus aláírás pedig a fokozott biztonságú elektronikus aláírás egy fajtája. Ha tehát a törvény fokozott biztonságú elektronikus aláírást említ, ez alatt a minősített elektronikus aláírást is érteni kell.
+
+2.2. Az elektronikus dokumentum fajtái
+
+Az elektronikus aláírás alkalmas arra, hogy bármely fajta adatot aláírjanak vele, tehát nemcsak írott szöveget, hanem pl. egy digitális hangfelvételt, képet vagy egy szoftvert.
+
+a) Az elektronikus dokumentum bármely fajta elektronikus eszköz útján érzékelhető adat, melyet elektronikus aláírással láttak el.
+
+b) Az elektronikus irat olyan elektronikus dokumentum, melynek funkciója az, hogy szöveget közöljön és más adat legfeljebb ennek illusztrálására, hatósági azonosítására (pl. fejléc) szerepel benne, illetve egyes digitális jeleket a szöveggel összefüggő informatikai funkciók megvalósítása érdekében, az olvasó számára nem is érzékelhetően tartalmaz.
+
+c) Az elektronikus okirat olyan elektronikus irat, mely nyilatkozattételt, illetőleg nyilatkozat elfogadását, vagy nyilatkozat kötelezőnek elismerését foglalja magában. Az elektronikus okirat fogalmát az eljárási törvényekben szereplő okirati bizonyítási eszközök virtuális megfelelőjeként hozza létre a törvény, azok hagyományos meghatározásával összhangban.
+
+E fogalmak is szűkülő halmazokat fednek és a tágabb fogalomba a szűkebbet bele kell érteni.
+
+A törvény a jövendőbeli felhasználások és a jogkövetkezmények különbözősége alapján teremti meg és határolja el az elektronikus dokumentum fogalmát és fajtáit. A felhasználás rendkívül sokrétű lehet, az elektronikus dokumentumokat különösen szerződések megkötése, illetve távolban kötött szerződések teljesítése során, valamint közigazgatási vagy cégen belüli ügyintézésre fogják használni. Sor kerülhet arra is, hogy távmunka eredményét küldjék el hitelesen elektronikus úton: pl. egy megrendelt szoftvert, tervrajzot. Továbbíthatnak szöveget is, ha a munka valaminek a megfogalmazásából állt, a szöveg pedig ilyenkor nem nyilatkozattételre fog irányulni. Ha viszont szerződést kötnek elektronikus úton, a szerződés - mint elektronikus szöveg - nyilatkozattételt fog tartalmazni.
+
+Az eddig felsoroltak az elektronikus dokumentumok elsődleges felhasználásának nevezhetők. Sajnos nem lesz azonban elkerülhető az elektronikus dokumentumok másodlagos felhasználása sem azokban az esetekben, mikor az előbbi ügyletekből jogviták származnak és az elektronikus dokumentumokat bírósági, illetve hatósági eljárásokban bizonyítási eszközként kell használni.
+
+Az elektronikus dokumentumokkal kapcsolatban tehát e változatos funkciókhoz illő - a jogrendszer más területeivel is összhangban álló - összetett terminológia-rendszert kell kialakítani.
+
+El kell határolni egymástól az iratnak nem minősülő elektronikus dokumentumok és az elektronikus iratok körét. Az iratnak nem minősülő elektronikus dokumentum hétköznapi fogalmaink szerint inkább tárgynak tekinthető: pl. egy térkép, tervrajz, videokazetta, zenét vagy szoftvert tartalmazó CD lemez, filmtekercs, festmény, fénykép, stb. Ezek digitális formáját is lehet elektronikus úton küldeni, fontos szerepet fognak játszani az elektronikus kereskedelemben, a távoktatásban, távmunkában, tehát szükséges ezeket szabályozni, másfelől - mint fentebb említettük - ezeket is alá lehet írni elektronikusan, így beleillenek e törvény szabályozási tárgykörébe. Ha ezeket elektronikusan aláírják, az aláírás bizonyítani fogja, hogy az „elektronikus tárgy” az aláírás pillanatában milyen állapotban volt. Ha a feladó írja alá elektronikusan, az aláírás ellenőrzésekor a címzett megállapíthatja, hogy „sérülten” kapta-e a küldeményt. Ha a küldemény nem sérülten érkezik, a címzett ellenőrizheti a küldemény minőségét (pl. hogy a szoftver működik-e, a zene, a film milyen minőségű). Ha a küldemény tartalmát megváltoztatja, ez az elektronikusan aláírt eredeti küldeménnyel összehasonlítva megállapítható lesz, így az esetleges hibás teljesítés esetén könnyebben lesz bizonyítható, kinek a felelősségi körében merült fel a hiba. A felelősségi körök elhatárolását, az ügylet nyomonkövetését még jobban elősegíti, ha az elektronikus dokumentumokhoz időbélyegző is kapcsolódik, ekkor a késedelmes teljesítésért való felelősség is megállapítható.
+
+A törvény a jellemzően szöveg közlése érdekében készült elektronikus dokumentumot nevezi elektronikus iratnak. Ez tartalmazhat nyilatkozattételt, annak elfogadását, illetve nyilatkozat kötelezőnek elismerését (ez a klasszikus értelemben vett okirat tartalma, ennek megfelelője az elektronikus okirat), illetve egyéb tartalmú szöveget, az elektronikus szövegek ezen típusai tartoznak az elektronikus irat kategóriájába. Az elektronikus okirat fogalmára az elektronikus és papíralapú okirati bizonyítási eszközök megfeleltetése miatt van szükség, az elektronikus iratnak az elektronikus dokumentum és az elektronikus okirat közötti fogalmára pedig azért, mert ilyen elektronikus szövegek is fognak keletkezni.
+
+Bizonyítási eszközként okiratok és tárgyi bizonyítási eszközök fognak várhatóan elektronikus formában is előfordulni. Tárgyi bizonyítási eszköznek fognak minősülni az elektronikus okiratnak nem minősülő elektronikus dokumentumok.
+
+2.3. Az elektronikus aláírás joghatásai, jogkövetkezményei
+
+Az IE. általános érvénnyel kimondja, hogy az elektronikus aláírástól nem lehet megtagadni a jogi érvényességet és a bírósági eljárásokban a bizonyítékkénti elfogadást. Ezért a törvény 3. § (1) bekezdése alapelvi jelleggel mondja ki ugyanezt. E szabályt, valamint a 2. § 6. pontját - az „egyszerű” elektronikus aláírás definícióját is tartalmazó szabályt - az „egyszerű” elektronikus aláírásra is alkalmazni kell, ezt rögzíti az 1. § (3) bekezdése. A törvény többi szabálya az „egyszerű” elektronikus aláírásra nem vonatkozik. Ebből az következik, hogy ha a törvény az 1. § (3) bekezdését követően, a 2. § 6. pontján kívül elektronikus aláírást említ, e kifejezés alatt csak a fokozott biztonságú elektronikus aláírást és a minősített elektronikus aláírást (mely a fokozott biztonságú elektronikus aláírás egyik fajtája) kell érteni. Ha pedig a törvény egy rendelkezése a fokozott biztonságú elektronikus aláírás egyik fajtáját nevesíti, akkor az a szabály csak az említett fajta elektronikus aláírásra vonatkozik (pl. a 8. § csak a minősítettre vonatkozik, a 10. § mindkettőre).
+
+Az IE.-ben is rögzített alapelvet tartalmazó 3. § (1) bekezdését a 26. § szerint a törvény hatályba lépése előtt keletkezett elektronikus aláírásokra és elektronikus dokumentumokra is alkalmazni kell, tehát az ilyen elektronikus aláírások bizonyítékként való elfogadását sem lehet megtagadni. Ez nem keletkeztet visszamenőlegesen kötelezettséget, hiszen akik elektronikus úton tettek jognyilatkozatot, feltehetőleg kívántak azzal jogkövetkezményeket kiváltani, viszont egyértelművé teszi a hatályba lépés előtt keletkezett és esetleg évek múlva bizonyítékként felhasznált elektronikus dokumentumok helyzetét.
+
+A törvény a magasabb technológiai biztonságú elektronikus aláírásokkal ellátott elektronikus dokumentumokhoz egyre erősebb alakiságnak való megfelelést, illetve bizonyító erőt fűz. A fokozott biztonságú elektronikus aláírással ellátott elektronikus iratok az írásbafoglalás jogszabályi követelményének felelnek meg. A minősített elektronikus aláírással ellátott elektronikus okiratokat a Pp.-nek a törvény szerinti módosítása teljes bizonyító erejű magánokiratnak minősíti, így a bíróságoknak nem kell külön mérlegelniük ezek bizonyító erejét.
+
+A törvény további bizonyítási vélelmeket is felállít, ezáltal könnyítve a bíróság mérlegelését.
+
+A külföldi székhelyű (lakóhelyű) hitelesítés-szolgáltató által kibocsátott tanúsítványhoz a belföldi hitelesítés-szolgáltató tanúsítványához fűzött összes jogkövetkezmény fűződik, ha nemzetközi szerződés ezt előírja, illetve egy belföldi hitelesítés-szolgáltató felelősséget vállal a külföldi tanúsítványért. Az Európai Unióba való belépésünk után e szabály továbbiakkal egészül ki, erről a 26. § (2) bekezdése rendelkezik.
+
+A törvény előírja, hogy törvény az elektronikus dokumentumhoz, illetve az elektronikus aláírással kapcsolatos szolgáltatásokhoz további jogkövetkezményt fűzhet. Ezzel egyfelől utal a Ptké., Pp., Áe., Be. és a módosuló ügyvédi törvény szabályaira, valamint nem zárja ki, hogy további törvény újabb jogkövetkezményeket fűzzön az elektronikus aláíráshoz, illetve elektronikus dokumentumokhoz. Ugyanezek a fentiek szerinti külföldi hitelesítés-szolgáltató tanúsítványához is fűződnek.
+
+A törvény a közigazgatási szervezetek informatikai ellátottságára és az elektronikus dokumentumok fogadására való felkészültség helyzetére tekintettel határt szab az elektronikus aláírás felhasználásának a közigazgatásban és a bíróságokon. Itt csak akkor lehet majd kizárólag - a papíralapú ügyintézés mellőzésével - elektronikus formában intézni az ügyeket, ha ezt az eljárás-típusra, illetve az ágazatra vonatkozó jogszabály kifejezetten lehetővé teszi, a helyi önkormányzat államigazgatási eljárásaiban pedig akkor, ha ezt egyfelől magasabb szintű jogszabály lehetővé teszi, másrészt ha az önkormányzat illetékességi területére nézve rendeletben előírja. Ez természetesen ezekben az esetekben is az ügyfél részére csak lehetőség lesz, nem kötelezettség, e törvény feladata a lehetőség megteremtése.
+
+A 3. § (3)-(4) bekezdésében a „az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus formában” kifejezés arra utal, hogy annak már az ágazati szabály módosulása előtt sincs akadálya, hogy egy ügyfél elektronikus formában is elküldje pl. keresetlevelét a bíróságra vagy kérelmét valamely hatósághoz, azonban e dokumentumokat - az eljárási cselekmények formaságaira vonatkozó szabályok módosításáig - kötelező az azokkal kapcsolatban előírt formaságok szerint is benyújtani. Az eljárási cselekmények formaságaira vonatkozó szabályok módosítását követően lesz arra mód, hogy a hatósággal, illetve bírósággal kizárólag elektronikus formában is hitelesen lehessen érintkezni. E szabályt az indokolja, hogy ha a törvény az ügyfelek részére a hatályba lépésétől kezdve lehetőséget adna a hiteles - kizárólag - elektronikus ügyintézésre, ez a bíróságok és hatóságok részére egyben kötelezettséget teremtene, hogy még ha egyetlen számítógépük sincs, akkor is az ügyfél által kizárólag elektronikus formában elküldeni kívánt irat alapján járjanak el. Ennek állít korlátot a 3. § (3)-(4) bekezdése.
+
+Az már - a Kormány által a H. 6. pontja alapján lefolytatandó - külön vizsgálat tárgya, hogy mely hatóságoknál, milyen ütemezésben lehet megteremteni a hiteles elektronikus ügyintézés lehetőségét. E vizsgálat első eredményeként a törvény Kormány általi elfogadásával egyidejűleg született határozat előírja, hogy külön törvény alkotásával a cégeljárásban lehetővé kell tenni az informatika alkalmazását. Az Igazságügyi Minisztériummal és az Országos Igazságszolgáltatási Tanáccsal való együttműködés során megállapítást nyert, hogy a cégeljárás az a terület, melyben meg lehet kezdeni az elektronikus úton történő ügyintézés bevezetését. A Cnyt. ehhez szükséges módosítását és a tevékenység sajátos szabályait célszerű nem e törvényben, hanem külön törvényben megállapítani.
+
+2.4. Kivételek, illetve korlátozások
+
+A törvény - az Európai Parlament és a Tanács 2000/31/EK irányelvével az információs társadalom szolgáltatásai bizonyos jogi szempontjairól a Belső Piacon, különös tekintettel az elektronikus kereskedelemre („Elektronikus kereskedelmi irányelv”) összhangban úgy rendelkezik, hogy a jogszabályok kizárólag a családjogi, öröklési jogi ügyekben zárhatják ki elektronikus aláírás alkalmazását.
+
+A törvény a jogbiztonság védelme érdekében előírja, hogy jogszabály nem teheti elektronikus aláírás felhasználását, elektronikus dokumentum használatát ügyfél részére kötelezővé.
+
+A törvény szerint a központi közigazgatási szervek és a helyi önkormányzati közigazgatási szervek által készített elektronikus dokumentumokra, valamint az ezekhez felhasznált elektronikus aláírásokra és a hozzájuk tartozó tanúsítványokra, illetve az azokat hitelesítő szolgáltatókra sajátos - a törvénynél szigorúbb - követelmények vonatkozhatnak, melyeket a Kormány rendeletben ír elő.
+
+3. Az elektronikus aláírással kapcsolatos szolgáltatások szabályai
+
+3.1. A szolgáltatások köre, tartalma
+
+Elektronikus aláírással kapcsolatos szolgáltatások a hitelesítés-szolgáltatás, az időbélyegző-szolgáltatás és az aláírás-létrehozó eszközön aláírás-létrehozó adat elhelyezése.
+
+Az elektronikus aláírás az aláíró számára úgy jelentkezik, hogy egy szoftver vagy hardver (aláírás-létrehozó eszköz) segítségével két kulcshoz jut: az egyiket bárki megismerheti, az általa készített elektronikus dokumentumok címzettei ezzel ellenőrzik, tényleg a feladótól jött-e a dokumentum és nem változott-e a feladás óta. Ez a nyilvános kulcs, más néven aláírás-ellenőrző adat. A másikat csak az aláíró ismeri, ezzel írja alá az elektronikus dokumentumokat ez a magánkulcs, más néven aláírás-létrehozó adat.
+
+Az aláírás-ellenőrző adat személyhez kapcsoltságát és így közvetve az aláíró személyazonosságát egy üzleti alapon működő szervezet tanúsítvány kiállításával tanúsítja, ez a szervezet a hitelesítés-szolgáltató. A hitelesítés-szolgáltató köteles azonosítani az aláíró személyét, ennek érdekében adatokat kérhet más szervezetektől, illetve ha az aláíró más személy (szervezet) nevében kíván aláírni, jogosult ellenőrizni a képviseleti jogosultság fennállását. A hitelesítés-szolgáltató nyilvántartást vezet a tanúsítványok aktuális állapotáról (esetleges felfüggesztésükről, illetve visszavonásukról), valamint közzéteszi az aláírás-ellenőrző adatokat (nyilvános kulcsokat).
+
+A törvény és végrehajtási rendelete szerinti szigorúbb követelményeket teljesítő szervezetek minősített hitelesítés-szolgáltatók lehetnek. Az általuk hitelesített tanúsítvánnyal ellátott aláírásnak nagyobb a bizonyító ereje.
+
+Megtörténhet, hogy az aláírás-létrehozó eszközt és adatot a hitelesítés-szolgáltató bocsátja az aláíró rendelkezésére, de ezt a tevékenységet önállóan is lehet végezni, ezt tehát önálló szolgáltatásként határozza meg a törvény.
+
+Az elektronikus dokumentumokat időbélyegzővel is el lehet látni, mely bizonyítja a dokumentum tartalmát az elhelyezés időpontjában. Az időbélyegző is egy elektronikus aláírás, annak is lehet minősített szolgáltatója. E tevékenységet is lehet hitelesítés-szolgáltatással együttesen vagy külön is végezni.
+
+E két utóbbi tevékenységre egyebekben a hitelesítés-szolgáltatásra vonatkozó szabályokat kell alkalmazni.
+
+3.2. A szolgáltatók és a szolgáltatást igénybevevők jogai, kötelezettségei, felelőssége
+
+A hitelesítés-szolgáltató köteles megfelelő technológiai és biztonsági színvonalat biztosítani és megfelelő szakmai ismeretekkel rendelkező személyeket alkalmazni. Ezeket a feltételeket részben a törvény, részben annak végrehajtási rendelete fogja előírni. A hitelesítés-szolgáltató a tanúsítványban korlátozhatja az azzal vállalt kötelezettség mértékét és a felhasználás lehetőségét.
+
+A hitelesítés-szolgáltató a szerződéskötést megelőzően köteles tájékoztatni a szolgáltatást igénylőt a szolgáltatás felhasználásának módjáról, biztonsági fokáról, szolgáltatási szabályzatáról, valamint a szerződés feltételeiről, különösen a fenti korlátozásokról, továbbá biztosítania kell, hogy az aláírás-létrehozó adat, illetve az aláírás-ellenőrző adat egymást kiegészítő módon legyen használható. E kötelezettségeiért a polgári jog általános szabályai szerint felelős. A törvény szabályainak megtartását kétség esetén a hitelesítés-szolgáltatónak kell bizonyítania.
+
+A hitelesítés-szolgáltatási tevékenységre való jogosultságot a törvény az IE. azon szabályával összhangban szabályozza, hogy a hitelesítés-szolgáltatási tevékenység nem köthető engedélyezéshez. Ezért a fokozott biztonságú elektronikus aláírást hitelesítő szolgáltatót a Felügyelet nyilvántartásba veszi. Az IE. lehetővé teszi továbbá a szolgáltatók önkéntes minősítési rendszerének bevezetését is, tehát a törvény úgy rendelkezik, hogy ha a hitelesítés-szolgáltató minősített tanúsítványt kíván kibocsátani, e szándékát még a tevékenység megkezdését megelőzően köteles a Felügyeletnek bejelenteni, amely megvizsgálja az előírások betartását és ennek alapján minősíti a szolgáltatót. Mindezek a szabályok vonatkoznak az időbélyegzés-szolgáltatóra és az aláírás-létrehozó eszközön aláírás-létrehozó adat elhelyezésével foglalkozó szolgáltatóra is.
+
+Ha a szolgáltató abba kívánja hagyni tevékenységét, ezt előre kell jeleznie a Felügyeletnek és köteles megjelölni azt a szolgáltatót, aki átveszi a visszavont tanúsítványok nyilvántartását. Erről az aláírókat tájékoztatni kell. Ha e kötelezettségének nem tesz eleget, e szervezetet a Felügyelet jelöli ki, a költségeket a megszűnő szolgáltatónak kell viselnie. A megszűnő szolgáltató a jövőre nézve vonja vissza a tanúsítványokat, mivel azok az ő nevét tartalmazzák, ő pedig már nem nyújt hitelesítés-szolgáltatást. A visszavont tanúsítványok nyilvántartása alkalmas arra, hogy a hitelesítés-szolgáltató megszűnése előtt tett aláírásokkal kapcsolatos aláírás-ellenőrzési tevékenységet később is el lehessen végezni, amikor az elektronikus dokumentumokat felhasználják.
+
+Az aláíró köteles adatokat szolgáltatni a szolgáltatónak, illetve az aláírás-létrehozó adatot titokban, mások számára nem hozzáférhető módon tartani, a rendellenességeket a szolgáltatónak bejelenteni. Ha e kötelezettségeit megszegi, az ebből fakadó károkért ő felelős a Ptk. általános szabályai szerint.
+
+4. A Felügyelet tevékenysége, jogosítványai
+
+A Felügyelet a fentiekben vázolt nyilvántartásba vételi, illetve minősítési tevékenységet végez, ezen kívül jogosult a hitelesítés-szolgáltatókat ellenőrizni, az előírásoknak megfelelő működést kikényszeríteni, ennek érdekében a következő intézkedéseket teheti:
+
+- felhívja a szolgáltató figyelmét az előírásokban meghatározott követelmények betartására;
+
+- megtilthatja meghatározott technológiák, illetőleg eljárások alkalmazását;
+
+- ideiglenes intézkedésként elrendelheti az új tanúsítvány kibocsátási tevékenység szüneteltetését és ezt a tényt feltünteti a nyilvántartásban;
+
+- elrendeli a korábban kiadott minősített tanúsítványok visszavonását;
+
+- bírságot szab ki, ennek értékhatárait a törvény tartalmazza;
+
+- törli a szolgáltatót a minősített hitelesítés-szolgáltatók nyilvántartásából.
+
+A Felügyelet nyilvántartásokat is vezet a szolgáltatókról, a tanúsított aláírás-létrehozó eszközökről, illetve aláírás-ellenőrző eszközökről (a továbbiakban: elektronikus aláírási termék), valamint a fokozott biztonságú, illetve minősített elektronikus aláírási termékek, illetve szolgáltatók minősítésére jogosult tanúsító szervezetekről.
+
+5. Hatályba lépés, módosuló jogszabályok
+
+A törvény a szükséges felkészülés érdekében a kihirdetését követő harmadik hónap első napján lép hatályba. A törvénynek az elektronikus aláírás bizonyítékként való felhasználására vonatkozó általános szabályát [3. § (1) bekezdés] a hatályba lépést megelőzően keletkezett elektronikus dokumentumokra és aláírásokra is alkalmazni kell.
+
+A törvény egyes szabályai az IE.-vel való teljes harmonizációt szolgálják arra az esetre, ha hazánk már az Európai Unió tagja lesz, ezért e szabályok csak a csatlakozáskor lépnek hatályba.
+
+A törvény az elektronikus aláírások felhasználásához feltétlenül szükséges törvény-módosításokról is intézkedik.
+
+6. A törvény kapcsán szükséges kormányzati intézkedések
+
+A törvény Kormány általi elfogadásakor hozott kormányhatározat a törvény hatályosulása és további jogalkotás érdekében a következő intézkedésekről rendelkezik:
+
+- kormányelőterjesztést kell készíteni az elektronikus okiraton alapuló cégbejegyzési eljárás koncepciójáról;
+
+- határidőt szab a törvény szerinti felhatalmazásokban szereplő rendeletek előkészítésére;
+
+- előírja, hogy a jogalkalmazókat tájékoztatni kell az új szabályozás lényegéről, az elektronikus aláírás felhasználásának módjáról.
+
+előírja központi kormányzati hitelesítés-szolgáltató kialakítása szükségességének vizsgálatát.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény 1. § (1) bekezdése a személyi és tárgyi hatály kérdését rendezi. Az a) pont rendelkezése a szolgáltatást nyújtó, a b) pont ezzel párhuzamosan a szolgáltatást igénybevevő jogalanyokat vonja a norma címzetti körébe. Mindkét esetben megnevezésre kerülnek a természetes, illetve jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek, a törvény koncepciójának megfelelően ugyanis ezek mindegyike jogosult elektronikus aláírási szolgáltatás nyújtására, illetve ennek igénybevételére, valamint annak használatára. A b) pont „elektronikus aláírást felhasználó” fordulata - semleges szóhasználata folytán - utal mind a jogszerű, mind a jogellenes felhasználás esetére, valamint arra, hogy - a felhasználásnak a 2. §-ban meghatározott fogalmából következően - nemcsak az aláíróra terjed ki a törvény hatálya, hanem az aláírással ellátott elektronikus dokumentum címzettjére, vagy más személyre (szervezetre), aki elektronikus aláírást ellenőriz.
+
+A fenti § c) pontja jelöli meg a törvény tárgyi hatályát, melyet az elektronikus aláírással kapcsolatos szolgáltatásban, valamint az elektronikus aláírás felhasználásának egyes kérdéseiben jelöl meg, így kiterjesztve a szabályozást az életviszony olyan további elemeire, mint - többek között - a bizonyítási kérdések, illetve a szolgáltatások nyújtásának felügyeleti rendszere. A szolgáltatók által nyújtott, a törvény hatálya alá tartozó „elektronikus aláírással kapcsolatos szolgáltatások” felsorolása a 6. § (1) bekezdésében került elhelyezésre.
+
+A (2) bekezdés az 1999/93/EK irányelv rendelkezéseivel összhangban kifejezetten tiszteletben tartja a jogalanyokat megillető szerződési szabadságot, a törvény rendelkezéseitől való eltérés lehetőségét. Az így - részben - diszpozitívvá nyilvánított norma széles lehetőséget ad az elektronikus aláírás valós életviszonyoknak megfelelő alkalmazásához. A 3. § (2) bekezdésétől való eltérés tilalmának előírása a norma egyértelműségét, ezáltal a jogbiztonságot szolgálja. A törvény egy további megkötéssel él, mely szerint a 3. § (1) bekezdésének alkalmazásától még a fent megjelölt esetben sem lehet eltekinteni. E rendelkezés így az elektronikus aláírásnak, valamint az elektronikus nyilatkozati formának fokozott, a törvény célkitűzéseinek megfelelő jelentőséget kölcsönöz és kifejezetten biztosít.
+
+A (3) bekezdés tovább konkretizálja a törvény hatályát, ugyanis - két kivétellel - kizárja alkalmazhatóságát a nem fokozott biztonságú elektronikus aláírás tekintetében. E kikötés igen jelentős rendelkezésnek minősül, hiszen itt kerül elhatárolásra a nemzetközi gyakorlatban elektronikus aláírásnak minősülő többféle technikai eljárás jogi hatása. A törvény 2. § 15. pontja határozza meg a fokozott biztonságú elektronikus aláírás fogalmát. Az ott megjelölt ismérvekkel nem rendelkező aláírást a törvény nem értékeli olyan minőségűnek, mely alapján be kell, hogy álljanak az általa biztosított jogkövetkezmények. E szabályt a technika és tudomány mai állása, valamint a már elfogadott nemzetközi ajánlások és jogi normák, különösen az 1999/93/EK irányelv rendelkezései támasztják alá.
+
+E szempontok figyelembevétele mellett azonban - tekintettel a törvény célkitűzéseire, az információs társadalom által támasztott elvárásokra - mégis szükséges bizonyos jogi hatásokat biztosítani a fokozott biztonságú elektronikus aláírásnak nem minősülő aláírások tekintetében is. A (3) bekezdés ennek megfelelően arról rendelkezik, hogy a fokozott biztonságúnál kezdetlegesebb műszaki ismérvekkel rendelkező elektronikus aláíráshoz csak szűkebb körben megszabott jogi kötőerőt kíván kapcsolni és kimondja, hogy e jogi kötőerő milyen tartalommal bír [3. § (1) bekezdés].
+
+A 2. §-hoz
+
+A 2. § a törvény által használt fogalmak rövid, tömör, lényegre törő megfogalmazását tartalmazza. Előírja, hogy ha bármely jogszabály e fogalmakat említi, azok alatt az e törvényben meghatározott fogalmat kell érteni. Így feleslegessé teszi e fogalom-meghatározásoknak más jogszabályokban való megismétlését vagy az e törvényre való hivatkozást. Az egyes fogalmak mind az 1999/93/EK irányelv rendelkezéseivel összhangban kerültek meghatározásra. Az egyértelműbb fogalmazás érdekében az irányelvből ismert fogalom-meghatározások mellett a törvény bevezeti az elektronikus aláírás ellenőrzése, az elektronikus aláírás felhasználása, az elektronikusan történő aláírás, az elektronikus dokumentum, az elektronikus irat, az elektronikus okirat, az időbélyegző, és a szolgáltatási szabályzat fogalmait.
+
+Az aláírás-ellenőrző adat az aláíró nyilvános kulcsát, míg az aláírás-létrehozó adat a magánkulcsát jelenti. Az elnevezések technológia-függetlenséget biztosítanak.
+
+Az aláíró alatt azt a személyt kell érteni, akit a hitelesítés-szolgáltató nyilvántartása szerint kell a fokozott biztonságú elektronikus aláírást az elektronikus dokumentumon elhelyezőnek tekinteni.
+
+A fokozott biztonságú elektronikus aláírást általában az elektronikus dokumentumhoz hozzárendelt tanúsítvány testesíti meg, ami szintén elektronikus dokumentum. Azonban a törvény lehetővé teszi, hogy az elektronikus aláírás ne elektronikus dokumentum, hanem adat formáját öltse. Tehát ha egy e-mail végére a feladat aláírja saját nevét vagy egy - a címzettel egyeztetett - jel-kombinációt, ez is elektronikus aláírásnak minősül. Ez a szabály valósítja meg az 1999/93/EK irányelv azon előírásával való összhangot, hogy a bármilyen (kezdetleges) elektronikus aláírásnak is vannak jogkövetkezményei, az azzal ellátott elektronikus dokumentumoknak az elfogadását sem lehet megtagadni kizárólag amiatt, hogy elektronikus formában léteznek. [Ez a törvény 3. § (1) bekezdésében szerepel.]
+
+Az elektronikus aláírás fogalma és a 3. § (1) bekezdése a bármely technikával írott elektronikus aláírásra vonatkozik. A törvény 1. § (3) bekezdése szerint a törvény többi szabályát csak a fokozott biztonságú elektronikus aláírásra kell alkalmazni, amelybe persze bele kell érteni a minősített elektronikus aláírást is, hiszen az a fokozott biztonságú elektronikus aláírás egyik - még nagyobb biztonságot nyújtó - fajtája.
+
+Az elektronikus aláírás felhasználása alatt nemcsak az elektronikusan való aláírást (ezt takarja az elektronikusan történő aláírás fogalom, amit az „elektronikusan aláír” igével is ki lehet fejezni) kell érteni, hanem azt is, amikor a címzett megállapítja, hogy a küldemény tényleg attól a személytől származik-e, aki az elektronikus dokumentumon fel van tüntetve és a tartalma nem változott-e. E fogalomnak a törvény hatálya szempontjából van jelentősége.
+
+Az elektronikus dokumentum, elektronikus irat és elektronikus okirat fogalmainak jelentőségét az általános indokolás elemzi, mivel ezek az elektronikus aláírás gyakorlati felhasználásával szoros összefüggésben vannak.
+
+A minősített elektronikus aláírás a fokozott biztonságú elektronikus aláírások (a technika jelenlegi állása mellett ez a függelékben ismertetett PKI technológián alapuló elektronikus aláírást jelenti) körén belül egy szűkebb halmazt jelent: a minősített hitelesítés-szolgáltató tanúsítványában megtestesülő elektronikus aláírást. A minősített hitelesítés-szolgáltatóra szigorú technológiai és működési előírások fognak vonatkozni. Ezek közül a leglényegesebb, az 1999/93/EK irányelv által is megfogalmazott követelményeket a 3. számú melléklet tartalmazza, a részlet-szabályok megalkotására pedig a Miniszterelnöki Hivatalt vezető minisztert hatalmazza fel a törvény. A minősített tanúsítvány kötelező tartalmát a 2. számú melléklet részletezi.
+
+A tanúsítvány a fokozott biztonságú (és így a minősített) elektronikus aláírás tulajdonképpeni formája, megtestesülése. Ez egy elektronikus irat, melyből megállapítható az aláíró neve vagy álneve, ha az elektronikus aláírás más személy (szervezet) képviseletére jogosít, a képviselt személy (szervezet) neve, valamint más lényeges körülmények (ezeket a minősített elektronikus aláírás vonatkozásában a 2. számú melléklet tartalmazza). A tanúsítvány logikailag hozzákapcsolódik az elektronikus dokumentumhoz és biztosítja, hogy észlelhető legyen, ha az elektronikus dokumentumban változás történik az elektronikus aláírás elhelyezését követően.
+
+A 3. §-hoz
+
+A 3. § (1) bekezdése tartalmazza a törvény alapelvi jellegű központi rendelkezését. E bekezdés határozza meg ugyanis azokat a jogi hatásokat, melyeket az elektronikus forma (közelebbről ennek a törvény további részeiben meghatározott formái) használata esetén nem lehet kétségbe vonni. A bekezdés kimondja ugyanis, hogy az elektronikus aláírás (2. § 6. pont), az elektronikus irat (2. § 13. pont) valamint az elektronikus dokumentum (2. § 13. pont) elfogadását megtagadni, jognyilatkozat tételére, illetve joghatás kiváltására való alkalmasságát kétségbe vonni - a (2) bekezdés szerinti korlátozással - nem lehet kizárólag amiatt, hogy az aláírás, illetve az irat vagy dokumentum elektronikus formában létezik.
+
+A fentiek tekintetében fontos hangsúlyozni a diszpozíció azon megfogalmazását, mely szerint a tilalmakat csak akkor kell figyelembe venni, ha az elektronikus aláírás, irat vagy dokumentum elektronikus formában való létezésével függene össze az elutasítás, megtagadás. Pozitív megfogalmazásban ezt azt jelenti, hogy az eljáró szerv az elektronikus formában felhasználásra kerülő aláírást, iratot vagy dokumentumot akkor köteles elfogadni, ha az a rá vonatkozó egyéb alaki és anyagi szabályoknak megfelel. Tehát a törvény nyomán az elektronikus forma önmagában nem lehet felhasználást kizáró ok, de az elektronikus dokumentum tartalma, benyújtójának személye vagy egyéb körülmények megalapozhatják az elektronikus dokumentum más okból való elutasítását.
+
+A 26. § (1) bekezdése szerint a törvénynek az elektronikus aláírás bizonyítékként való felhasználására vonatkozó általános szabályát [3. § (1) bekezdés] a hatályba lépést megelőzően keletkezett elektronikus dokumentumokra és aláírásokra is alkalmazni kell. Ennek indoka, hogy a törvény hatályba lépése előtt a jogalkalmazók abból a célból használtak elektronikus aláírásokat, készítettek elektronikus dokumentumokat, hogy azokkal joghatást keletkeztessenek, tehát e céljukat segítjük elő azzal, ha a 3. § (1) bekezdésben szereplő általános (de önmagában joghátrányt nem okozó) szabályt már a törvény hatályba lépése előtt keletkezett elektronikus dokumentumokra is alkalmazni rendeljük.
+
+A fent bemutatott általános szabály célja és tartalma tehát az, hogy az elektronikus forma alkalmazása előtt megnyissa az utat. Ennek nyomán az igazságszolgáltatási, közigazgatási eljárásokban széles körben, a papír-alapú forma számára biztosított jogkövetkezmények mindegyikének kiváltására való alkalmassággal kerülhet felhasználásra az elektronikus aláírás, irat és dokumentum, azonban - természetesen - a 3. § (2)-(4) bekezdések szerinti korlátozásokkal.
+
+A 3. § (1) bekezdése teljesíti azt a történelmi jelentőségű feladatot, melynek nyomán a papír-alapú és az elektronikus forma „törvény előtti egyenlősége” megvalósul.
+
+A (2) bekezdés - az (1) bekezdés utaló szabálya nyomán - bizonyos korlátokat állít fel az elektronikus forma felhasználása tekintetében. E korlátozások a fenti okok miatt kimondásra kerülő általános szabály és a célszerűségi szempontú megszorítások kompromisszumának tekinthetőek. A törvény - céljai szerint - legfőképpen a forgalmi élet és a polgárok közigazgatással kapcsolatos viszonyai tekintetében kívánja lehetővé tenni az elektronikus forma használatát. E viszonyok közös jellemzője, hogy dinamikus jellegűek, illetve általában rövidebb távon bírnak jelentőséggel. Tekintettel a technika folyamatos fejlődésére, az elektronikus forma a dinamikus, gyorsan lezáruló életviszonyokban keletkezett jogviszonyok dokumentálására alkalmas. Ezzel ellentétben a (2) bekezdésben megjelölt öröklési jogi, illetve családi jogi jogviszonyok hosszú időhorizontúak, statikus jellegűek. Ennek következtében a törvény e jogviszonyokban nem teszi lehetővé az elektronikus forma kizárólagos használatát. E rendelkezés hátterében az az életszerű felismerés áll, hogy e különös jelentőségű és fenti jellemzőkkel bíró jogviszonyokkal kapcsolatban kizárólag elektronikus forma használatával a jogbiztonság sérülésének veszélye állna fenn. A törvény a jogbiztonság növelése érdekében tehát nem teszi lehetővé kizárólag elektronikus forma használatát, azonban ezt - a hagyományos formák használata mellett - nem is tiltja meg.
+
+E szabály az Európai Közösség egyik vonatkozó irányelvéből is következik és az azzal való harmonizációt valósítja meg. Az Európai Parlament és a Tanács 2000/31/EK irányelve az információs társadalom szolgáltatásai bizonyos jogi szempontjairól a Belső Piacon, különös tekintettel az elektronikus kereskedelemre („Elektronikus kereskedelmi irányelv”) ugyanis úgy rendelkezik, hogy a jogszabályok kizárólag a családjogi, öröklési jogi ügyekben, illetve a közjegyzői okiratok körében és a hatósági nyilvántartáshoz kötött jogügyletek tekintetében zárhatják ki elektronikus aláírás alkalmazását. Mivel az elektronikus aláírás minél szélesebb körű használata a cél, természetesen mód van arra, hogy a nemzeti jogszabályok ennél kevesebb esetben zárják ki az elektronikus aláírás felhasználását. A törvény az Országos Közjegyzői Kamarával egyeztetve csak a családjogi, illetve öröklési jogi ügyekben zárja ki azt, hogy a felek kizárólag elektronikus aláírást használjanak.
+
+A 3. § további rendelkezései a különböző eljárási típusok tekintetében állapítanak meg szabályokat.
+
+A (3) bekezdés a bírósági eljárások - ezeken belül mind a peres mind a nemperes eljárások - tekintetében kimondja az (1) bekezdés alkalmazását, az elektronikus dokumentumok bizonyítási eszközkénti felhasználása esetén. Az egyes konkrét eljárási cselekményekkel kapcsolatban (ezen elsősorban az iratok beadását kell érteni) azonban a törvény kiköti, hogy ezek tekintetében az elektronikus forma kizárólagos használata csak a vonatkozó eljárási jogszabály alapján (lesz) megengedett. Gyakorlatilag ebből az következik, hogy a bíróságoknál kizárólagosan elektronikus formában történő ügyintézés akkor lehet, ha ezt az adott eljárás-típusra vonatkozó szabály előírja. Ekkor sem lesz azonban az elektronikus ügyintézés egyben kötelező. A módosuló eljárási szabályok a bíróságra nézve kötelezővé fogják tenni a beadványok elektronikus formában történő elfogadását úgy, hogy azokhoz a papíralapú beadványokra nézve előírt jogkövetkezmények fűződjenek, de az elektronikus forma az ügyfelekre nézve nem lesz kötelező [3. § (7) bekezdés].
+
+A (4) bekezdés hasonló rendelkezéseket tartalmaz az államigazgatási eljárások tekintetében. Itt külön kell választani a központi közigazgatási szerveket és a helyi önkormányzatokat. A központi közigazgatási szerveknél, ha jogszabály valamely ügytípusra előírja az elektronikus ügyintézést, ez a közigazgatási szervekre nézve kötelezettséget, az ügyfeleknek jogot ad erre. A helyi önkormányzati államigazgatási, illetve hatósági ügy során további feltételként kerül megállapításra az önkormányzat erre vonatkozó rendeletének kiadása. Ennek következtében, ha magasabb szintű jogszabály az adott ügytípusra előírta az elektronikus ügyintézés lehetőségét, saját illetékességi területére vonatkozóan minden önkormányzat saját hatáskörében dönt az elektronikus forma használatának rendeletben történő megengedéséről, figyelembe véve a helyi viszonyokat, technikai felkészültséget.
+
+Az (5) bekezdés a (3)-(4) bekezdések tekintetében kimondja, hogy a vonatkozó jogszabályokban előírt írásos formának megfelel az elektronikus irat is (2. § 13. pont). Így az adott jogszabályban nem kell külön deklarálni, hogy az „írásban” szó alatt az elektronikus formát is érteni kell. Az egyes eljárásokban használt írásbeliség elektronikus formában való megengedése tehát e bekezdés rendelkezései alapján kerül a magyar jogrendszerbe.
+
+A (6) bekezdés felhatalmazza a Kormányt, hogy a központi közigazgatási szervek és a helyi önkormányzati közigazgatási szervek által készített elektronikus dokumentumok, valamint az ezekhez felhasznált elektronikus aláírások és hozzájuk tartozó tanúsítványok, illetve az azokat hitelesítő szolgáltatók tekintetében rendeletben külön követelményeket írjon elő.
+
+E bekezdés tehát a közigazgatási eljárások szabályozása tekintetében ad felhatalmazást. E rendelkezést a folyamatosan fejlődő technikai megoldásokhoz való igazodás, a közigazgatási informatika központi koordinálásának igénye és biztonsági követelmények indokolják.
+
+A (7) bekezdés az eddigi szabályok tekintetében garanciális előírást tartalmaz. A nemzetközi tapasztalatok szerint ugyanis súlyos joghátrányt - a jogérvényesítés túlzott megnehezítését - jelent az elektronikus forma ügyfél általi használatának kötelezővé tétele. Ezért a törvény fenntartja az eljárásban ügyféli minőségben résztvevő jogalany választási lehetőségét. Az irányadó jogszabályok alapján tehát az ügyfél választása határozza meg, hogy elektronikus, vagy más formában kívánja eljárási cselekményeit megtenni, de ezeket az írásbeliség teljeskörű jogkövetkezményeivel csak a 3. § (3)-(4) bekezdéseiben írott feltételek fennállása esetén teheti meg.
+
+A (8) bekezdés további, kogens eljárásjogi szabályt állapít meg, amikor kimondja, hogy a minősített tanúsítványt bármely - a (3)-(4) bekezdés szerinti - bírósági vagy államigazgatási eljárásban el kell fogadni, nem következhet tehát be olyan helyzet, hogy az ügyfeleknek a különböző hatóságoknál eltérő - a hatóság által megkövetelt - elektronikus aláírásokat kell használniuk.
+
+A 4. §-hoz
+
+A 4. § (1) bekezdése, hasonlóan a 3. § (5) bekezdéséhez, az elektronikus formát, mint az írásbeliség megnyilvánulását szabályozza. Általánossá teszi, hogy - a bírósági, illetve hatósági felhasználáson kívüli esetekben - bármely életviszonyban jogszabály által előírt írásba foglalási követelménynek tesz eleget az elektronikus iratba foglalás is, ha legalább fokozott biztonságú elektronikus aláírást használnak. E bekezdés tehát a magánszférában: az üzleti vagy egyéb szerződéses viszonyokban feltétel nélkül teszi lehetővé az elektronikus írásbeliséget. Jelentősége e tekintetben a 3. § (5) bekezdéséhez hasonló.
+
+Kiemelendő, hogy e bekezdés a hagyományos értelemben vett írásbeliség és az elektronikus forma egyenrangúságáról rendelkezik, megvalósítva az 1999/93/EK irányelv - mint Magyarország számára e tekintetben meghatározó jogforrás - előírásai alapján az elektronikus forma diszkriminációjának felszámolását.
+
+A (2) bekezdés vélelmet állapít meg, mely szerint az elektronikus dokumentumot - ide nem értve az elektronikus okiratot - hamisítatlannak (illetve változatlannak) kell tekinteni, ha az elektronikus aláírás ellenőrzéséből - mint technikai jellegű vizsgálatból - más nem következik. E vélelem feltétele, hogy az elektronikus dokumentumot minősített elektronikus aláírással lássák el. A törvény 2. § 17. pontjában kerül megállapításra a minősített elektronikus aláírás fogalma. E fogalom olyan technikai szabályokon alapszik, melyek segítségével a dokumentumban bekövetkező változások az aláírás elhelyezése után ellenőrzési hibát okoznak. E változások egyaránt származhatnak erre irányuló szándékos magatartásból, illetve ezen kívül a dokumentum kezelése során technikai hibákból is. Ebből kifolyólag a vélelem „nem változott” kitétele mind a hamisítatlanság (a szándékos magatartással megvalósított hamisítás hiánya), mind a technikai hibákból fakadó módosulás hiányára utal.
+
+E szabály a Pp.-nek a törvény 29. § (2) bekezdésével módosított 197. § (2) bekezdésében megfogalmazott okirati bizonyítási vélelmet állítja fel az elektronikus okiraton kívüli elektronikus dokumentumok tekintetében, melyek az eljárási szabályok fogalomrendszerében tárgyi bizonyítási eszközök. E szabály feltehetőleg gyorsítja majd az elektronikus kereskedelem, illetve a távmunkavégzés során felmerülő jogviták elbírálását és ezáltal kiszámíthatóbbá teszi e tevékenységeket.
+
+A (3) bekezdés a fokozott biztonságú, illetve minősített elektronikus aláírással ellátott elektronikus dokumentumokról készült nyomtatott másolat (ezek nyomtatott változatának) jogi sorsáról rendelkezik. A bekezdés szerint a fokozott biztonságú vagy minősített elektronikus aláírással ellátott elektronikus dokumentum nyomtatott másolata nem rendelkezik az eredetileg kizárólag elektronikus formában készült dokumentum bizonyító erejével. Ebben az esetben ugyanis nem áll fenn az a technikai biztonság, ami az elektronikus formában megvalósul, ilyenkor pl. fénymásolással könnyen meg lehet változtatni a kinyomtatott dokumentum tartalmát.
+
+E rendelkezés az „egyszerű” elektronikus aláírással (2. § 6. pont) ellátott dokumentum papír-alapú másolatára nem vonatkozik, annak ugyanis a törvény eleve nem tulajdonít különleges bizonyítóerőt. A fokozott biztonságúnak nem minősülő elektronikus aláírás ugyanis nem rendelkezik olyan technikai képességekkel, melyek többletet jelentenének a papírra nyomtatott másolathoz képest. A fokozott biztonságú, vagy minősített elektronikus aláírás azonban jellegénél fogva olyan tulajdonságokkal bír, melyek papírra kinyomtatott formában elvesznek.
+
+A bármely fajta elektronikus aláírással ellátott, majd kinyomtatott elektronikus dokumentumokat a bizonyítékok szabad mérlegelésére vonatkozó szabályok szerint kell megítélni.
+
+A bekezdés nem rendelkezik az elektronikus formában meglévő dokumentum elektronikus másolatára, ebből kifolyólag - tekintettel az elektronikus másolás jellemzőire - az elektronikus másolat teljesen azonos bizonyító erővel bír, mint az eredeti elektronikus dokumentum. Az elektronikus úton történő másolás ugyanis általános körülmények között nem okoz semmiféle módosulást az elektronikus dokumentumokban.
+
+A (4) bekezdés a Miniszterelnöki Hivatalt vezető miniszter által kijelölt, illetve a 7. § (3) bekezdésében megjelölt tanúsító szervezet által kiadott, elektronikus aláírási termékre vonatkozó igazoláshoz (akkreditáció) kapcsolódó vélelmet állapít meg. Ennek értelmében vélelmezni kell, hogy a fenti igazolással ellátott aláírási termék biztonságos, illetve megfelel az igazolásban megjelölt egyéb követelményeknek. E rendelkezés biztosítja az aláírási termék felhasználásának egyszerűségét.
+
+Hasonlóan a (4) bekezdéshez, az (5)-(6) bekezdés is az elektronikus forma felhasználásának megkönnyítése érdekében vélelmeket állapít meg. E vélelmek az aláírás-létrehozó adatot és a dokumentumokban foglaltak változatlanságát érintik.
+
+A (4)-(6) bekezdések tehát meghatározzák az elektronikus formára vonatkozó alapvető vélelmeket, melyek szabályozása a gyakorlati alkalmazást segíti elő. E vélelmek az elektronikus forma, illetve ennek egyes elemeinek technikai tulajdonságaira vezethető vissza.
+
+A (7) bekezdés lehetővé teszi, hogy a jövőben jogszabály - a megjelölt szabályok keretein belül - további jogkövetkezményeket fűzzön az elektronikus dokumentumokhoz és az elektronikus aláíráshoz kapcsolódó szolgáltatásokhoz. E rendelkezés alapja az a koncepció, mely a törvényt állítja a megjelölt intézmények legfőbb szabályozási forrásaként, azonban teret kíván engedni a további, speciális szabályok kidolgozásának. E szabályok mind anyagi, mind eljárásjogiak lehetnek, a felhatalmazás szükségessége pedig kétségtelenül szükséges az elektronikus forma újszerűsége miatt.
+
+Az 5. §-hoz
+
+Az elektronikus aláírás és dokumentumok felhasználása során jellemző az országhatárok átlépése, különös tekintettel a nemzetközi számítógépes hálózatok dinamikus fejlődésére. Figyelembe véve az Európai Közösség vonatkozó előírásait is, a törvény az 5. §-ban határozza meg azokat a szabályokat, melyek a nemzetközi átjárhatóságot hivatottak biztosítani.
+
+E szabályok két csoportját szükséges megkülönböztetni: egyrészről az általános értelemben külföldinek minősülő hitelesítés-szolgáltatókra vonatkozó előírásokat, másrészt az Európai Közösségek szabályainak megtartását igazolni tudó, vagy ott székhellyel illetve lakóhellyel rendelkező szolgáltatókra vonatkozó rendelkezéseket. E megkülönböztetés az 5. § (1) illetve (2) bekezdésében ölt testet. Az Európai Közösségben székhellyel illetve lakóhellyel rendelkező szolgáltatókra vonatkozó speciális szabályok alapja az a tény, hogy a törvény - az Európai Unióba való belépésünkkor - az Európai Közösség vonatkozó irányelvével harmonizáló normává fog válni, ha hatályba lépnek egyes - a harmonizációt teljessé tevő - szabályai, mint pl. az 5. § (2) bekezdése.
+
+Az 5. § külföldinek a külföldi székhellyel vagy lakóhellyel rendelkező szolgáltatót minősíti. A külföldi székhelyű hitelesítés-szolgáltató által hitelesített tanúsítvánnyal ellátott elektronikus dokumentumra (külföldi aláírású elektronikus dokumentum) a belföldi székhelyű hitelesítés-szolgáltató által kibocsátott tanúsítvánnyal ellátott elektronikus dokumentumhoz (belföldi aláírású elektronikus dokumentum) e törvényben, vagy más törvényben megállapított jogkövetkezmények fűződnek egyes esetekben.
+
+Az (1) bekezdés három esetben biztosítja a külföldi aláírású elektronikus dokumentumnak a belföldi aláírású elektronikus dokumentum hoz fűződő jogkövetkezményeket:
+
+a) nemzetközi szerződés alapján,
+
+b) felelősségvállalás esetén,
+
+c) ha a szolgáltató székhelye vagy lakóhelye az Európai Unió valamely tagállamában van.
+
+Ez utóbbi szabály csak az Európai Unióhoz való csatlakozásunkkor fog hatályba lépni. Az a) és c) pontban megjelölt esetekben a jogkövetkezmények ex lege beállnak, a b) pont esetén azonban egy magyar székhelyű vagy lakóhelyű szolgáltató közreműködése szükséges.
+
+A (2) bekezdés a) pontjának rendelkezése az Európai Unióban székhellyel vagy lakóhellyel rendelkező szolgáltatók speciális helyzetét veszi alapul. E speciális norma az (1) bekezdés c) pontján alapul, melynek következtében e szolgáltatók felelősségvállalása a magyar szolgáltatókkal azonos jogkövetkezményt vált ki. E szolgáltatók felelősségvállalásának további szabályait azonban nemzeti joguk rendezi.
+
+A b) pont az a) ponttal egyező jogkövetkezményeket állapít meg az Európai Unióban létrehozott akkreditációs rendszer tekintetében, azonban itt további követelményként támasztja az Európai Uniós irányelvnek megfelelő működést.
+
+A magyar hitelesítés-szolgáltató felelősségvállalásának szabályait a (4)-(6) bekezdések rendezik. A (4) bekezdés rögzíti, hogy a felelősségvállalás módja szerződéskötés, az (5)-(6) bekezdés pedig megállapítja ennek egyik speciális esetének: a felülhitelesítésnek a részletesebb szabályait. E megkülönböztetés lehetőséget biztosít arra, hogy a hazai szolgáltatók a konkrét külföldi szolgáltatóval való viszonyuknak megfelelően legyenek képesek eljárni.
+
+A szerződéses felelősségvállalás - (4) bekezdés - esetének legfontosabb sajátossága a felelősségkorlátozás [9. § (2) bekezdés] lehetősége.
+
+A felülhitelesítés során a belföldi hitelesítés-szolgáltató tanúsítványt bocsát a külföldi hitelesítés-szolgáltató rendelkezésére, e tanúsítványt a külföldi szolgáltató saját tanúsítványaihoz csatolhatja. E megoldás következtében a felelősségvállalás ténye minden kiadott tanúsítványon nyomonkövethető.
+
+Az 5. § (6) bekezdése a szolgáltatást igénybevevők érdekeit védve, a jogbiztonság szempontját szem előtt tartva a felelősségvállalás mindkét módja esetén haladéktalan bejelentési kötelezettséget ír elő. A bejelentést az elektronikus aláírási szolgáltatások felügyeleti szerve: a Hírközlési Főfelügyelet (a továbbiakban: Felügyelet) irányába kell teljesíteni, a felelősségvállalást megalapozó jognyilatkozat megtételét követően azonnal. A bejelentések alapján a Felügyelet jegyzéket tesz közzé, melyből a szolgáltatásokat igénybe vevő jogalanyok tájékozódnak a felelősségvállalás tényéről, módjáról, korlátairól, valamint a hitelesítés-szolgáltató jellegéről. E rendelkezések indokoltságát alapozza meg az a körülmény, hogy az elektronikus aláírással kapcsolatos szolgáltatások társadalmi feladatukat csak megfelelő közbizalom mellett képesek teljesíteni, e közbizalom elősegítése pedig a törvény alapján többek között a Felügyelet feladata.
+
+A (7) bekezdés az eddig kiemelteken kívüli külföldi aláírású elektronikus dokumentumok bizonyító erejét rendezi: kimondja, hogy ezek tekintetében is alkalmazandó a 3. § (1) bekezdése, tehát a törvénynek a bizonyítási eszközökre és az elektronikus dokumentumok elfogadására vonatkozó központi normája, az abban foglaltakat meghaladó bizonyítóerő azonban ezekhez az elektronikus dokumentumokhoz nem fűződik.
+
+A 6. §-hoz
+
+A törvény 6. §-a felsorolja az elektronikus aláírással kapcsolatos szolgáltatásokat (1. §), melyek:
+
+- a hitelesítés-szolgáltatás,
+
+- az időbélyegzés,
+
+- az aláírás-létrehozó adat aláírás létrehozó eszközön való elhelyezése.
+
+Továbbá a 6. § röviden kifejti az elektronikus aláírással kapcsolatos szolgáltatások tartalmát (ha ez meghatározásra szorul).
+
+A törvény 6. § (2) bekezdése szerint a hitelesítés-szolgáltatást nyújtó szervezet (személy) a hitelesítés-szolgáltatás keretében
+
+- azonosítja a tanúsítvány igénylőjének a személyét és tanúsítványt bocsát ki,
+
+- nyilvántartásokat vezet,
+
+- fogadja a tanúsítványokkal kapcsolatos változások adatait,
+
+- nyilvánosságra hozza a tanúsítványhoz tartozó szabályzatokat, az aláírás-ellenőrző adatokat és a tanúsítvány aktuális állapotára vonatkozó információkat.
+
+A hitelesítés-szolgáltatást végző az előbb felsorolt valamennyi feladatot a hitelesítés-szolgáltatás részeként saját maga köteles végezni, ezen feladatok végzésért teljes körű felelősséggel tartozik.
+
+Az időbélyegzés tulajdonképpen az elektronikus dokumentumhoz kapcsolódó időbélyegző előállításából áll. Az időbélyegző is egy elektronikus aláírás, melynek alapvető célja, hogy az elektronikus dokumentum adott időpontbeli létezését igazolja, valamint azt, hogy annak tartalma az időbélyegző elhelyezése óta nem változott. Ezért a törvény szerint az időbélyegzőre a tanúsítványra, a minősített időbélyegzőre pedig a minősített tanúsítványra vonatkozó rendelkezéseket kell megfelelően alkalmazni, valamint az időbélyegzés-szolgáltatóra pedig a hitelesítés-szolgáltatóra vonatkozó szabályokat.
+
+Az aláírás-létrehozó adat aláírás-létrehozó eszközön való elhelyezése önállóan is végezhető tevékenység, ezért nevesíti a törvény önálló szolgáltatásként.
+
+A (4) bekezdés szerint egy szolgáltató egyszerre több fajta elektronikus aláírással kapcsolatos szolgáltatást is végezhet, sőt adott szolgáltató több típusú tanúsítványt is kibocsáthat, valamint minősített hitelesítés-szolgáltató is jogosult nem minősített tanúsítvány kibocsátására is.
+
+A törvény végig a hitelesítés-szolgáltatás szabályozására koncentrál, ugyanakkor hatálya az időbélyegzésre és az aláírás-létrehozó adat elhelyezésre is kiterjed. Ennek a kérdésnek a megoldását adja a 6. § (5) bekezdése, amikor kimondja, hogy az időbélyegzés-szolgáltatóra és az aláírás-létrehozó adat elhelyezőjére a hitelesítés-szolgáltatóra, az általuk végzett tevékenységre (annak befejezésére és megkezdésére) a hitelesítés-szolgáltatásra vonatkozó rendelkezéseket kell alkalmazni.
+
+A 6. § (6) bekezdése a szolgáltatásokat igénybevevők szempontjából különösen fontos garanciális rendelkezést tartalmaz. Kimondja, hogy szolgáltatási szerződés érvényességéhez a szerződés írásba foglalása szükséges.
+
+A 7- 8. §-hoz
+
+A törvény e §-ai rendezik a szolgáltatási tevékenységre való jogosultsággal kapcsolatos kérdéseket.
+
+A törvény szerint belföldi lakóhelyű vagy belföldön tartózkodási hellyel rendelkező természetes személy, illetve belföldi székhelyű (telephelyű) jogi személy vagy jogi személyiség nélküli szervezet végezhet fokozott biztonságú vagy minősített szolgáltatást.
+
+A törvény a fokozott biztonságú szolgáltatás feltételeként csak a tevékenység megkezdésének bejelentését írja elő, míg a minősített szolgáltatást nyújtani szándékozó szolgáltatóknak minősíttetniük kell magukat. A minősítés részletes szabályait a 18. § tartalmazza. Ha a szolgáltató megfelel a szigorú minősítési követelményeknek, a Hírközlési Főfelügyelet nyilvántartásba veszi.
+
+Ez a szabályozási metódus összehangolja az 1999/93/EK irányelvben megfogalmazódó azon két törekvést, hogy
+
+- a hitelesítés-szolgáltatás szabadon (csak bejelentés alapján) végezhető legyen,
+
+- az igazán komoly jogkövetkezményeket keletkeztető minősített elektronikus aláírás hitelesítés-szolgáltatásnál azonban előzetes kontroll is megvalósuljon.
+
+A fokozott biztonságú szolgáltatást végző szolgáltatónak a bejelentéshez csatolnia kell a szolgáltatási szabályzatot és az általános szerződési feltételeket. A minősített szolgáltatónak az előzetes minősítés iránti kérelemhez a szolgáltatási szabályzat és az általános szerződési feltételek mellett csatolnia kell az alkalmazottja büntetlen előéletét (e tényt a Felügyelet a 8. § (5) bekezdése alapján maga jogosult ellenőrizni), szakképzettségét igazoló okiratot, a külön jogszabályban meghatározott egyéb feltételek fennállását igazoló iratokat, valamint bizonyítani kell felelősségbiztosítás és a külön jogszabályban meghatározott egyéb pénzügyi erőforrás meglétét is.
+
+Mindezeken túl a minősített tanúsítvány kibocsátást és az időbélyegzés végzését a 8. § (4) bekezdés d) pontja a törvény 1. és 3. számú mellékleteiben foglalt követelmények teljesítéséhez is köti.
+
+További lényeges rendelkezése a 8. §-nak, hogy minősített tanúsítványt csak minősített szolgáltató jogosult kibocsátani.
+
+A 7. § (2) és (3) bekezdései a fokozott biztonságú és a minősített elektronikus aláírás hitelesítés-szolgáltatókkal kapcsolatban fogalmaz meg követelményt. A 7. § (2) bekezdés szerint fokozott biztonságú és a minősített elektronikus aláírás előállításához kizárólag olyan elektronikus aláírási termékek használhatók, amelyek rendelkeznek a Felügyelet által nyilvántartásba vett, tanúsításra jogosult szervezetek (24. §) által kiadott igazolással. Ezen előírás betartását a Felügyelet a szolgáltatók nyilvántartásba vételétől kezdve folyamatosan ellenőrzi, és megszegése esetén megfelelő intézkedéseket alkalmazhat.
+
+A 7. § (3) bekezdése kötelezővé teszi az Európai Unió valamely tagállamában nyilvántartásba vett tanúsító szervezet által kiadott igazolások automatikus elismerését, e szabály a 26. § szerint csak az Európai Unióba történő belépésünket követően lép hatályba.
+
+A 9. §-hoz
+
+A törvény 9. §-a a szolgáltatás nyújtással kapcsolatos egyes lényeges kérdéseket rendezi. Az egyes bekezdések sorrendben a következő kérdéseket érintik:
+
+- a szolgáltatás igénybe vevőjének tájékoztatása
+
+- a tanúsítvány felhasználásának egyoldalú korlátozása
+
+- a tanúsítvány kibocsátó azonosítása
+
+- a tanúsítványok tartalma
+
+- a hitelesítés-szolgáltató nyilvántartás-vezetési kötelezettsége
+
+- a tanúsítványokkal kapcsolatos elektronikus információk megőrzése
+
+Az (1) bekezdés szerint a szolgáltató a szerződéskötést megelőzően köteles tájékoztatni a szolgáltatást igénylőt a szolgáltatás felhasználásának módjáról, biztonsági fokáról, szolgáltatási szabályzatáról, a szerződés feltételeiről, és a tanúsítvány felhasználásának korlátozásáról.
+
+A (2) bekezdés szerint a hitelesítés-szolgáltató a minősített tanúsítványban meghatározhatja a tanúsítvány felhasználásának tárgybeli, földrajzi vagy egyéb korlátait, illetve az egy alkalommal vállalható kötelezettség legmagasabb értékét.
+
+A rendelkezés célja, hogy a szolgáltatók a tevékenységükkel kapcsolatos kockázatukat csökkenthessék. A törvény külön kiemeli, hogy erről a szolgáltatás igénybevevőit megfelelően tájékoztatni kell.
+
+A (3) bekezdés kötelezi a szolgáltatót arra, hogy az általa kibocsátott tanúsítványt saját elektronikus aláírásával lássa el. Ez a rendelkezés tulajdonképpen azt is eredményezi, hogy a tanúsítvány kizárólag elektronikus formában létezhet.
+
+A (4) bekezdés szerint a tanúsítványnak tartalmaznia kell a 2. számú mellékletben meghatározott adatokat. A 2. számú melléklet szerint a minősített tanúsítványnak tartalmaznia kell annak megjelölését, hogy a tanúsítvány minősített tanúsítvány, a hitelesítés-szolgáltató és székhelyének (ország-) azonosítóját, az aláíró nevét, vagy egy álnevet, ennek jelzésével, az aláírónak külön jogszabályban, illetve a szolgáltatási szabályzatban, illetőleg az általános szerződési feltételekben meghatározott speciális jellemzőit, a tanúsítvány szándékolt felhasználásától függően, azt az aláírás-ellenőrző adatot, amely az aláíró által birtokolt aláírást létrehozó adatnak felel meg, a tanúsítvány érvényességi idejének kezdetét és végét, a tanúsítvány azonosító kódját, az adott minősített tanúsítványt kibocsátó hitelesítés-szolgáltató fokozott biztonságú elektronikus aláírását, a tanúsítvány használhatósági körére vonatkozó esetleges korlátozásokat, a tanúsítvány felhasználásának korlátait, valamint más személy (szervezet) képviseletére jogosító elektronikus aláírás tanúsítványa esetén a tanúsítvány ezen minőségét és a képviselt személy (szervezet) adatait.
+
+A (5) bekezdés szerint a hitelesítés-szolgáltatónak biztosítania kell, hogy az aláírás-létrehozó adat, illetve az aláírás-ellenőrző adat egyedi legyen (tehát minden aláírónak más magánkulcsa legyen) és egymást kiegészítő módon legyen használható, vagyis az aláírás-ellenőrző adatnak alkalmasnak kell lennie arra, hogy segítségével az aláírást ellenőrző fél megbizonyodhasson arról, hogy az aláírást az aláírás-létrehozó adattal készítették.
+
+A (6) bekezdés a hitelesítés-szolgáltató nyilvántartás-vezetési kötelezettségével (6. §) kapcsolatos egyes részletszabályokat tartalmazza. A hitelesítés-szolgáltató köteles fogadni és feldolgozni a tanúsítványokkal kapcsolatos változások adatait, valamint nyilvántartást vezet a tanúsítványok aktuális helyzetéről, esetleges felfüggesztéséről, illetve visszavonásáról. A hitelesítés-szolgáltató köteles az általa vezetett nyilvántartásokat távközlő hálózatok segítségével bárki számára hozzáférhető és folyamatosan elérhető módon közzétenni.
+
+A (7) bekezdés szerint a hitelesítés-szolgáltató a tanúsítványokkal kapcsolatos elektronikus információkat és az ahhoz kapcsolódó személyes adatokat legalább a tanúsítvány érvényességének lejártától számított öt évig (az általános elévülési idő tartamáig), illetőleg jogvita esetén az elektronikus aláírással, illetve az azzal aláírt elektronikus dokumentummal kapcsolatban felmerült jogvita jogerős lezárásáig megőrizni köteles. A jogvita megindulásáról onnan szerez tudomást a hitelesítés-szolgáltató, hogy azt az aláíró a 13. § (1) bekezdés d) pontja alapján köteles bejelenteni. Az adatoknak az általános elévülési idő végéig történő őrzéséhez fontos érdek fűződik, hiszen az elektronikus aláírás egyik legjelentősebb funkciója a jogvitákban bizonyítékként való felhasználás. A hitelesítés-szolgáltató köteles továbbá ugyanezen határidőig olyan eszközöket biztosítani, amelyekkel a kibocsátott tanúsítvány tartalma megismerhető. Mivel a technológiák gyorsan változnak, a társadalom számára szükséges, hogy amíg egy elektronikus dokumentumból jogviták támadhatnak, rendelkezésre álljanak olyan eszközök, amikkel egy - időközben idejét múlt módon előállított - elektronikus dokumentum tartalma megismerhető. Ezt a feladatot a törvény a hitelesítés-szolgáltatóra telepíti, az ezzel kapcsolatos költségeit a vele szerződést kötött összes aláíróra elosztva érvényesítheti a szolgáltatási díjakban.
+
+A 10. §-hoz
+
+A törvény 10. §-a a tanúsítvány képviselet céljára történő kiadásának szabályait tartalmazza. A képviselet tartalmával kapcsolatban a § nem állapít meg szabályokat, ezért a képviseleti céllal kiadott tanúsítvány használatát az általános szabályok szerint kell megítélni. Ezt azt jelenti, hogy az ilyen képviselet a hagyományos formában adott képviseleti jogosultsággal azonos jogkövetkezményekkel bír.
+
+Az (1) bekezdés tanúsítvány képviselet céljára történő kiadásának lehetőségét rögzíti. Ennek kimondása - tekintettel arra, hogy a tanúsítvány kibocsátása során azonosítják az aláírót és a tanúsítvány egyébként az aláíró személyéhez kötődik, általa saját vonatkozásában tud jognyilatkozatokat tenni - szükségesnek mutatkozik. Mivel a képviselet ellátása során a képviselő kerül aláírói pozícióba, rá az e törvényben előírt jogok és kötelezettségek tekintetében az aláíróra vonatkozó általános szabályokat kell alkalmazni.
+
+A (2) bekezdés az elektronikus-aláírási szolgáltatások hitelességét hivatott biztosítani. Rendelkezései alapján csak a képviseleti jogosultság igazolása esetén adható ki az (1) bekezdésben megjelölt tanúsítvány. Amennyiben e rendelkezést nem tartalmazná a törvény, úgy a jogbiztonság követelménye csorbulna, hiszen a törvény egyéb rendelkezéseiben foglalt - az aláíró személyéhez és ebben az esetben rajta keresztül a képviselt személyéhez fűződő - vélelmek megalapozatlanok lennének. Hasonló célt szolgál a képviselt értesítése is. Fenti kötelezettségek elmulasztása a Felügyelet eljárását vonja maga után.
+
+A (3) bekezdés rendezi azt az eljárást, melyre a képviseleti jogosultság megszűnése esetén kerül sor. A tanúsítvány visszavonása a képviseleti jogosultságot elvesztő vagy a korábbi képviselt bejelentése alapján történik meg, és kizárt a szolgáltató mérlegelési lehetősége: a tanúsítvány visszavonásával kapcsolatos késlekedése a rá vonatkozó szabályok megszegésének minősül, így az esetleg beálló károk tekintetében felelősségét alapozza meg.
+
+A 13. § (3) bekezdése alapján a képviseleti joggal rendelkező személy nem, csak a képviselt kérheti a tanúsítvány visszavonását, így a törvény nem korlátozza a képviseleti jogviszonyból származó jogainak gyakorlását.
+
+A (4) bekezdés figyelembe veszi a képviseleti jogviszony sajátos jellegét, tekintettel van arra, hogy a képviseltnek jogos érdeke fűződik ahhoz, hogy képviselője általa jóváhagyott és ismert névvel tegyen eleget megbízatásának. Így a tanúsítványban álnév feltüntetését kizárólag a képviselt hozzájárulásával engedi meg, melyre egyébként a tanúsítványt kérő jogosult lenne.
+
+A 11. §-hoz
+
+Az (1) bekezdés a törvény adatvédelmi rendelkezései körében a hitelesítés-szolgáltató irányában állapít meg korlátozásokat. A hitelesítés-szolgáltató ugyanis igen széles körben kezel személyes adatokat, az adatkezelés jogszerűségének biztosítására a törvény a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény szabályainak megfelelően előírja az ügyfél hozzájárulásának beszerzésére vonatkozó kötelezettséget, az arányosságot és célhozkötöttséget.
+
+A (2) bekezdés bűnüldözési és nemzetbiztonsági szempontok alapján a nyomozó hatóságok és a nemzetbiztonsági szolgálatok számára történő adatszolgáltatás kereteit szabja meg. Garanciális szabály, hogy az adatközlés tényét minden esetben rögzíteni kell, azonban - tekintettel a bűnüldözési és nemzetbiztonsági szervek eljárásának elősegítésére - a hitelesítés-szolgáltató nem jogosult erről az aláírót tájékoztatni.
+
+A (3) bekezdés beiktatása azon felismerésen alapul, hogy a modern technikai eszközök útján történő kommunikáció során a jogalanyok hatékonyan képesek személyazonosságukat elrejteni. A kialakuló jogvitákkal kapcsolatos jogérvényesítést segíti elő a törvény azon rendelkezése, hogy a tanúsítvány érvényességét érintő polgári peres, illetve nem peres eljárás során - az érintettség igazolása esetén - az aláíró egyes személyi adatai kiadhatók az ellenérdekű félnek, képviselőjének vagy az eljáró bíróságnak. Garanciális szabály, hogy a szolgáltató csak az érintettség igazolása esetén jogosult az aláíró adatait kiadni.
+
+Az álnév használata esetére megállapított (4) bekezdésbeli szabály az adatvédelmi szabályokon túl a személyiségi jogok védelmét is szolgálja, de egyben elősegíti, hogy az álnév használata ne tegye lehetetlenné az erre jogosult hatóságok számára az aláíró azonosítását.
+
+A 12. §-hoz
+
+A hitelesítés-szolgáltatások adekvát volta, hitelessége érdekében szükséges a törvényben egyértelművé tenni azokat a szolgáltatót megillető jogosultságokat, melyek segítségével képes az igénylő személyazonosságát illetve képviseleti jogosultságát megállapítani. Az (1) bekezdés így a személyazonosításra alkalmas okmányok tekintetében engedni meg a szolgáltató betekintését.
+
+A (2) bekezdés az (1) bekezdéssel párhuzamosan, de nem jogosultságként, hanem imperatív módon mondja ki az adategyeztetés kötelezettségét, az aláíró okmányai alapján megállapított adatok ellenőrzése céljából, meghatározva mind a természetes személyek, mind a jogi személyek képviseletét ellátó aláírók tekintetében szükséges eljárást.
+
+A 13. §-hoz
+
+A 13. § az aláíró jogait, kötelezettségeit és felelősségét szabályozza. Az (1) bekezdés a) pontja az elektronikus aláíráshoz kapcsolódó tanúsítványok hitelességének biztosítása érdekében bizonyos adatközlési kötelezettséget telepít az aláíróhoz (ld. a) pont). Mivel az elektronikus aláírás hitelességét az aláírás-létrehozó adat titokban illetve csak az aláíró számára hozzáférhetően való tartása, bizalmas kezelése is biztosítja, a b) pont ezen adatnak illetéktelen személy birtokába kerülése esetén értesítési kötelezettséget állapít meg az aláíró tekintetében, ami egyébként komoly érdeke is az aláírónak. Hasonló indokok alapján rendeli el a törvény a rendellenességekről való értesítés kötelezettségét (ld. c) pont). Kiemelendő, hogy az e kötelezettség beálltát megalapozó rendellenességek körét további jogszabály és a szolgáltatási szerződés szabja meg.
+
+A tanúsítványokkal kapcsolatos jogvita egyrészt meghatározza a szolgáltató 9. § (7) bekezdés szerinti adatőrzésének kezdő időpontját, tehát kötelezettséget ró a szolgáltatóra, másrészt ezekben esetleg félként kívánhat fellépni. Ebből kifolyólag a d) pont előírja a szolgáltatónak a jogviták megindulásáról való tájékoztatását.
+
+A (3) bekezdés rendelkezése alapján az aláírót illetve a képviselt személyt (10. §) a tanúsítvány felfüggesztése, illetve visszavonása tekintetében megillető jog gyakorlása esetén a szolgáltatónak nincs mérlegelési jogosultsága, késlekedése pedig kárfelelősségét alapozza meg.
+
+A (4) bekezdés nemzetbiztonsági érdekből nem teszi lehetővé az aláírás létrehozó adatnak (magánkulcsnak) titkosítás céljából történő felhasználását.
+
+A 14. §-hoz
+
+A tanúsítvány érvényességének felfüggesztése, illetve a tanúsítvány visszavonása alapvetően három jogilag kiemelten értékelt érdekből történhet. Az első az aláíróé, aki dönthet úgy, hogy nincs szüksége elektronikus aláírásra vagy más hitelesítés-szolgáltatóval kíván szerződést kötni és akinek fontos lehet, hogy mások tudomást szerezzenek arról, hogy a tanúsítványt már nem használja.
+
+A másik érdek a szolgáltatóé, hiszen ő a 15. § szerint felelősséggel tartozik a tanúsítványban foglalt adatok valódiságáért, illetve köteles nyilvántartást vezetni a tanúsítványok aktuális helyzetéről, felfüggesztéséről illetve visszavonásáról [9. § (6) bek.]. A harmadik érdek pedig egyéb érintett személyek érdeke, különösen azon harmadik személyeké vagy szervezeteké, amelyek képviseletében az aláírásra jogosító tanúsítványt kibocsátották.
+
+Ezekre figyelemmel a hitelesítés-szolgáltató köteles felfüggeszteni az általa kibocsátott tanúsítvány érvényességét, ha
+
+- az aláíró maga vagy a képviselt személy (szervezet) kéri,
+
+- a szolgáltató jogszabályban, szolgáltatási szabályzatban, vagy az általános szerződési feltételekben meghatározott rendellenességről szerez tudomást,
+
+- megalapozottan feltételezhető, hogy a tanúsítványban foglalt adatok nem felelnek meg a valóságnak vagy az aláírás-létrehozó adat (2. § 2. pont) nem az aláíró kizárólagos birtokában van, illetve
+
+- a Felügyelet jogerős és végrehajtható határozatában így rendelkezik.
+
+A hitelesítés-szolgáltató visszavonja a tanúsítványt a felfüggesztés eseteiben és ezen túlmenően akkor is, ha a szolgáltató a tevékenységét befejezte (16. §), illetve ha a tanúsítvány érvényességi ideje lejárt.
+
+Mind a felfüggesztés, mind a visszavonás tényét a nyilvántartásban [9. § (6) bek.] haladéktalanul közzé kell tenni. Fontos garanciális szabály azonban, hogy a tanúsítvány visszavonására sohasem kerülhet sor visszamenőleges hatállyal, mivel az a forgalombiztonság érdekeit súlyosan sértené.
+
+A 15. §-hoz
+
+Az (1) bekezdés felelősségi szabályai az általános polgári jogi felelősségi elveket követik. Az első mondat utolsó fordulata behatárolja azokat a szolgáltatót terhelő kötelezettségeket, melyek megsértése esetén a minősített elektronikus aláírással vagy időbélyegzővel illetve az ezzel ellátott elektronikus dokumentummal okozott kárért felelősség terheli. E szabályok tehát nem a szolgáltató általános felelősségét korlátozzák, csupán a fenti esetekben fennálló helytállási kötelezettségét konkretizálják. Így a szolgáltató egyéb jogsértése esetén sincs akadálya felelősségre vonásának. Mivel a szolgáltatóra vonatkozó kötelezettségek megtartásának ellenőrzése, kimutatása technikai szakértelmet is igényelhet, kétség esetén a szolgáltatónak kell bizonyítania, hogy megtartotta kötelezettségeit (rá hárul a bizonyítási teher).
+
+A (2) bekezdés a 9. § (2) bekezdésében meghatározott korlátokat meghaladó ügyletek tekintetében a szolgáltatót abszolút módon mentesíti a felelősség alól, tehát nemcsak az ügyletnek a korlátokat meghaladó része tekintetében, hanem a korlátokat el nem érő követelés és kár vonatkozásában is. Életszerűtlen és visszaélésre lehetőséget adó lenne ugyanis, ha a szolgáltató ezek tekintetében felelősséggel tartozna, tekintettel arra, hogy a fenti korlátokat túllépő ügyletet az aláíró túlnyomórészt kifejezett akaratnyilatkozattal köti, így tudatában van a szolgáltatási szerződés megszegésének. A (2) bekezdés szolgáltatói érdeket védő szabálya hiányában az aláíró tudatosan számolhatna a szolgáltató beálló felelősségével, így saját felelőtlenségét alapozná meg.
+
+Ha a szolgáltató külföldi hitelesítés-szolgáltató tanúsítványáért felelősséget vállal, az (1)-(2) bekezdésnél ismertetett módon a külföldi székhelyű szolgáltatóval egyetemlegesen felel az aláírással okozott kárért.
+
+A 16. §-hoz
+
+A törvény 16. §-a rendezi a szolgáltatás befejezésével kapcsolatos kérdéseket.
+
+Ha a szolgáltató be kívánja fejezni tevékenységét, erről mind az általa kibocsátott, de még vissza nem vont tanúsítványokban aláíróként megjelölt személyeket, mind pedig a Felügyeletet értesítenie kell. Ezen időponttól kezdve tevékenysége korlátozottabb lesz, mivel tanúsítványokat már többé nem bocsáthat ki. A megszűnés előtt legalább húsz nappal a szolgáltató köteles a még vissza nem vont tanúsítványokat visszavonni, ám azok visszavonását követően is köteles megszűnéséig eleget tenni a 6. § (2) bekezdésében foglalt azon kötelezettségének, hogy a tanúsítványhoz tartozó szabályzatokat, az aláírás-ellenőrző adatokat és a tanúsítvány aktuális állapotára vonatkozó információkat nyilvánosságra kell hoznia. A szolgáltató kötelessége arról gondoskodni, hogy legkésőbb tevékenysége befejezésekor más, vele azonos besorolású szolgáltató átvegye a 9. § (6) bekezdése szerinti nyilvántartásokat (amelyek a tanúsítványok aktuális helyzetéről, azok kibocsátására vonatkozó saját szabályzatokról és az aláírás-ellenőrző adatokról szólnak, különösen kiemelve a visszavont tanúsítványokról szóló nyilvántartást) és ez az átvevő szolgáltató ellássa a 9. § (7) bekezdése szerinti feladatot is.
+
+Az „azonos besorolású szolgáltató” kifejezés azt jelenti, hogy ha az eredeti szolgáltató fokozott biztonságú hitelesítés-szolgáltatást nyújt, akkor ilyen, ha az eredeti hitelesítés-szolgáltató minősített hitelesítés-szolgáltatást nyújt, akkor ilyen hitelesítés-szolgáltatót lehet megbízni az átvétellel.
+
+Az átvételről a felek megállapodnak, ez feltehetőleg ellenérték fejében fog történni.
+
+A visszavont tanúsítványokkal kapcsolatban levő minden adatot, így a személyes adatokat is át kell adni.
+
+Ha a tevékenységét befejezni kívánó szolgáltató a 16. § (1) bekezdésében előírt bejelentésében nem jelöl meg olyan szolgáltatót, aki a nyilvántartásokat tőle átveszi, akkor ezt a Felügyelet jelöli ki. Ez természetesen nem érinti azt, hogy az átvétel költségeit meg kell téríteni, erről a szolgáltatók megállapodhatnak. Ha a szolgáltató bejelentési kötelezettségének egyáltalán nem tesz eleget, és nem jelöl meg olyan szolgáltatót, aki tőle a nyilvántartásokat átveszi, a Felügyelet haladéktalanul köteles gondoskodni a szolgáltató által hitelesített tanúsítványok visszavonásáról és ezt a tényt közzé is kell tennie, valamint kijelöli a törvény 9. § (7) bekezdése szerinti kötelezettséget teljesítő, illetve a törvény 9. § (6) bekezdése szerinti nyilvántartások átvételéről gondoskodó hitelesítés-szolgáltatót. A Felügyelet emiatt felmerült költségeit a kötelezettségét nem teljesítő szolgáltató köteles megfizetni.
+
+Ha a hitelesítés-szolgáltató ellen felszámolási eljárás indul, vagy végelszámolási eljárás lefolytatásáról döntenek a tulajdonosok, a szolgáltató haladéktalanul köteles tájékoztatni a Felügyeletet erről a tényről és arról, hogy mely szervezet folytatja le az eljárást (felszámoló illetve végelszámoló). A Felügyelet jogosult felvilágosítást kérni ettől a szervezettől az eljárás időtartama alatt az ügy állásáról, és ha a hitelesítés-szolgáltató legkésőbb a zárómérleg benyújtásakor nem tesz eleget az utódjával kapcsolatos bejelentési kötelezettségének, a Felügyelet kijelöli a (2) bekezdés szerinti szervezetet a (3) bekezdés alkalmazásával. Ha a szolgáltató megszűnik, vagy szolgáltatási tevékenységét abbahagyja, a Felügyelet törli a nyilvántartásból.
+
+A 17. §-hoz
+
+A hitelesítés-szolgáltatókkal kapcsolatos jogszabályi kötelezettségek keretében a Felügyelet különböző feladatokat lát el. E feladatai között az egyik legfontosabb a minősített szolgáltatókénti nyilvántartásba vétel, amely nélkül nem lehetnek a szolgáltatók minősített hitelesítés-szolgáltatók és egyenes következményként nem tüntethetik fel az általuk kiadott tanúsítványban, hogy azok minősítettek. A szolgáltatóknak a nyilvántartásba vételhez bizonyos - a 8. §-ban kifejtett - feltételeknek kell megfelelniük. E feltételeknek való megfelelőség azonban nemcsak a nyilvántartásba vétel előtt, hanem a bejelentéssel egyidejűleg, azt követően és a szolgáltatók egész működése alatt is követelmény, így azt a Felügyelet folyamatosan vizsgálja és ellenőrzi. Amennyiben az előbbi tevékenysége során meg nem felelőséget észlel, meghatározott intézkedéseket, szankciókat alkalmaz és ezen intézkedések foganatosításakor, illetőleg - a központi költségvetés bevételét képező - bírság kiszabásakor határozata azonnal végrehajtható. A Felügyelet az általa vezetett nyilvántartásokat bárki számára hozzáférhető és folyamatosan elérhető módon közzéteszi.
+
+A Felügyelet eljárásaira alapvetően az Áe. szabályait kell alkalmazni, mivel egy közigazgatási szerv jár el, azonban az elektronikus aláírás intézménye által teremtett speciális jogviszonyból adódóan szükséges bizonyos eltérések rögzítése a törvényben. Így került meghatározásra az a nagyon fontos szabály, hogy a Felügyelet határozatai ellen nincs helye államigazgatási eljárás keretében jogorvoslatnak.
+
+A Felügyelet feladata ellátásához igazságügyi szakértőt vagy más - szakértelemmel rendelkező - személyt vehet igénybe. A szakértő bevonásával, illetve egyáltalán a nyilvántartásba vételi tevékenység végzésével járó költségeket részben fedezi a Felügyelet bevételét képező igazgatási szolgáltatási díj fizetési kötelezettségének előírása.
+
+A 18. §-hoz
+
+A Felügyelet minősített hitelesítés-szolgáltatóként kizárólag azon szolgáltatókat veszi nyilvántartásba, akiknél megvizsgálta a törvény által előírt kötelező feltételek meglétét, azok folyamatos biztosítását, valamint a működésük meghatározott előírásoknak való megfelelőségét és bebizonyosodott, hogy a szolgáltató megfelelt a törvény és a felhatalmazása alapján kiadott jogszabályokban foglalt követelményeknek. A nyilvántartásba vételt követően a hitelesítés-szolgáltató jogosult minősített tanúsítvány kibocsátására. Amennyiben a szolgáltató nem felel meg az előírt feltételeknek, a nyilvántartásba vétele nem történhet meg. A szolgáltató működésében bekövetkező változások esetében a Felügyelet a bejelentést követően a nyilvántartásba vétellel kapcsolatos eljáráshoz szükséges vizsgálatokat köteles újra elvégezni, kivéve a már megvizsgált, illetőleg a változás által nem érintett kötelezettségek teljesítését.
+
+A 19. §-hoz
+
+A Felügyelet többféle nyilvántartást vezet és ezeket közzéteszi.
+
+A leglényegesebb a belföldi székhelyű minősített hitelesítés-szolgáltatók nyilvántartása, illetve a belföldi székhelyű fokozott biztonságú tanúsítványt kibocsátó szolgáltatókról vezetett nyilvántartás, az utóbbi a szolgáltatók bejelentésén alapszik. E nyilvántartások tartalmazzák a szolgáltató nevét, székhelyét (lakhelyét, telephelyét, működési helyét), az általa végezhető szolgáltatás megjelölését, az általa szolgáltatott aláírás-létrehozó eszköz, illetve forgalmazható egyéb elektronikus aláírási termék azonosító jelét és jogszabályban meghatározott egyéb adatokat.
+
+A Felügyelet által vezetett további nyilvántartás a 7. § (2) bekezdése szerinti aláírás-létrehozó eszközökről és egyéb elektronikus aláírási termékekről készül, melyeknek a Felügyelet a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad.
+
+A fokozott biztonságú, illetve minősített elektronikus aláírás előállításához felhasználható aláírás-létrehozó eszköz és egyéb elektronikus aláírási termék, illetve a tanúsításra kijelölt szervezeteket is nyilvántartás tartalmazza, melyben szerepel a szervezet neve, elérhetősége, szakterülete, valamint jogszabályban meghatározott egyéb adatai.
+
+A minősített hitelesítés-szolgáltató különböző tanúsítvány-típusokat bocsáthat ki, melyek pl. a vállalt felelősség mértékében vagy a felhasználási területben térnek el. A Felügyelet nyilvántartást vezet a minősített hitelesítés-szolgáltató által kibocsátott tanúsítvány-típusok megnevezéséről, melyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad.
+
+E nyilvántartások vezetését a bennük foglalt adatoknak a hitelesítés-szolgáltatási tevékenységet igénybe vevők, illetve elektronikus aláírást felhasználók vonatkozásában fennálló közérdekűsége indokolja.
+
+A hitelesítés-szolgáltatóra vonatkozó nyilvántartások szabályai - a törvény 6. § (5) bekezdése alapján - az időbélyegzés-szolgáltatóra és a törvény 6. § (1) bekezdés c) pontja szerinti aláírás-létrehozó eszközön aláírás-létrehozó adat elhelyezési szolgáltatást nyújtóra is vonatkoznak.
+
+A 20-21. §-hoz
+
+A törvény szerint a Felügyelet ellenőrzési tevékenysége során a Felügyelet egyrészt jogosult ellenőrizni a szolgáltató tekintetében az e törvénynek, a felhatalmazása alapján kiadott jogszabályoknak, a szolgáltatási szabályzatnak, illetve az általános szerződési feltételek előírásainak való megfelelőséget, továbbá azt, hogy eleget tesz-e a Felügyelet határozatának, továbbá az általa alkalmazott intézkedéseknek. Másrészt a Felügyelet az Áe. szabályainak megfelelő helyszíni ellenőrzés végzésére is jogosult, amelynek során az ellenőrzéshez szükséges helyiségekbe beléphet, iratokat, adathordozókat, tárgyakat, munkafolyamatokat megvizsgálhat, a hitelesítés-szolgáltató jelen lévő képviselőjétől és alkalmazottjától felvilágosítást, illetőleg nyilatkozatot kérhet. Mindezt a szolgáltató köteles lehetővé tenni. Végül a Felügyelet ellenőrzési tevékenysége keretében a minősített hitelesítés-szolgáltatóknál évente legalább egyszer átfogó helyszíni ellenőrzést tart.
+
+A Felügyelet az ellenőrzése hatálya alá tartozó előírások és a határozatai maradéktalan betartása, valamint a jogsértések vagy hiányosságok megelőzése, illetőleg megszüntetése érdekében különböző intézkedéseket alkalmazhat: felhívhatja a szolgáltató figyelmét a hivatkozott előírásokban, határozatokban meghatározott követelmények betartására, megtilthatja meghatározott technológiák, eljárások alkalmazását, ideiglenes intézkedésként elrendelheti a tanúsítvány kibocsátási tevékenység szüneteltetését és ezt a tényt feltüntetheti a nyilvántartásában, elrendelheti a korábban kiadott minősített tanúsítványok visszavonását, bírságot szabhat ki, illetőleg törölheti a szolgáltatót a minősített hitelesítés-szolgáltatók nyilvántartásából.
+
+Ezen - együttesen is foganatosítható - intézkedésekkel kapcsolatos döntés során a Felügyelet számára mérlegelés tárgyát képezi a jogsértés súlya, annak gyakorisága, az okozható, illetőleg okozott kár mértéke, az, hogy minősített szolgáltatóval szemben kell-e eljárni, illetőleg hogy tett-e korábban valamilyen intézkedést a hitelesítés-szolgáltatóval szemben. A Felügyelet intézkedésként - egyéb intézkedések eredménytelensége esetén - a szolgáltató nyilvántartásból való törlését alkalmazza, amennyiben a nyilvántartásba vételt meg kellett volna tagadni, vagy ha e törvény, illetőleg a felhatalmazása alapján kiadott jogszabályokban foglalt követelmények teljesítésének biztosítása más módon nem lehetséges. A nyilvántartásból való törlés egyenes következményeként a Felügyelet megtiltja a hitelesítés-szolgáltatónak az általa kibocsátott tanúsítványokban a tanúsítvány minősített tanúsítványként történő feltüntetését. Amennyiben valószínűsíthető, hogy a minősített tanúsítvány valótlan adatot tartalmaz, vagy meghamisították azt, illetőleg ha a minősített tanúsítványok aláírásához használt aláírás-létrehozó eszköz nem biztonságos, a Felügyelet intézkedhet a minősített tanúsítvány visszavonásáról.
+
+A 22-23. §-hoz
+
+A 22. és 23. §-ok a bírságok kiszabásával kapcsolatos kérdéseket rendezik. Megteremtik a 21. § szerinti intézkedések mellett a represszív szankcionálás lehetőségét, melynek természetesen preventív hatása is van.
+
+Bírságot a Felügyelet azzal a hitelesítés-szolgáltatóval szemben szabhat ki, aki a törvényben, a törvény alapján kiadott jogszabályban, a szolgáltatási szabályzatban, illetőleg a Felügyelet határozatában foglalt kötelezettségeinek nem tesz eleget. A bírságot a Felügyelet mind más, a 21. §-ban szabályozott intézkedéssel egyidejűleg, mind attól függetlenül kiszabhatja. Bírság azonban nem csak a hitelesítés-szolgáltatóval szemben, hanem ezzel párhuzamosan a vezető tisztségviselővel szemben is kiszabható, amennyiben ismételt jogsértésről van szó, illetve ha a vezető tisztségviselő vagy a szolgáltató együttműködése a Felügyelettel nem volt megfelelő.
+
+Sajátos elévülési jellegű szabályt tartalmaz a 22. § (2) bekezdése, amely kimondja, hogy a Felügyelet nem szabhat ki bírságot a mulasztásnak vagy kötelezettségszegésnek a tudomására jutásától számított két év után (szubjektív határidő) ám az elkövetéstől számított három éven túl már semmiképpen sem (objektív határidő). Ennek a szabálynak, mivel a bírság szankciós természetű jogkövetkezmény, garanciális jelentősége van és a Felügyeletet a mielőbbi fellépésre ösztönzi.
+
+A bírság összegének megállapításakor a Felügyelet mérlegelési jogkörrel bír. A mérlegelési szempontokat a 22. § (3) bekezdése tartalmazza. Ezek két csoportra oszthatók: a) a szabályszegéssel kapcsolatos objektívebb természetű, b) a szabályszegést elkövető személlyel és a szolgáltatóval kapcsolatos, szubjektívebb természetű körülményekre. Az első csoportba tartoznak a szabályszegéssel vagy mulasztással okozott kár, illetve kockázat mértéke, illetve a kötelezettségek megszegésének ismétlődése vagy gyakorisága. A második csoportba tartoznak a felelős személyek által a Felügyelettel kapcsolatban tanúsított együttműködés (különösen a dokumentumokba, nyilvántartásokba beletekintés biztosítása, az alkalmazott technológiák illetve azok műszaki jellemzőinek bemutatása), az intézkedéssel érintett személy jó-, vagy rosszhiszeműsége, illetve az intézkedés alapjául szolgáló adatok, tények, információk eltitkolása illetve annak szándéka.
+
+A bírság összegével kapcsolatban háromféle mértéket szabályoz a 23. §: Kettőt a szolgáltató, egyet pedig a vezető tisztségviselő vonatkozásában. A szolgáltató 100.000-től 10.000.000 forintig terjedő bírsággal sújtható bizonyos minősített szabályszegések illetve mulasztások esetén, amelyek vagy a tanúsítványokba vetett közbizalom megőrzését veszélyeztetik, vagy azok közhiteles funkcióinak teljesítését akadályozzák.
+
+Ezek az esetek:
+
+- ha a szolgáltató minősített tanúsítványt bocsát ki, vagy az általa kibocsátott tanúsítványban magát minősített szolgáltatóként tünteti fel, vagy erre egyéb közvetlen vagy közvetett módon utal, anélkül azonban, hogy ilyenként a Felügyelet nyilvántartásba vette volna;
+
+- ha a szolgáltató nem teszi meg a saját aláírás-létrehozó adatának megfelelő védelméhez szükséges intézkedéseket;
+
+- ha a szolgáltató nem teljesíti a tanúsítvánnyal kapcsolatos adatok és iratok jogszabályban vagy szolgáltatási szerződésben meghatározott ideig történő megőrzésére vonatkozó kötelezettségét és ezek őrzéséről más módon sem gondoskodik.
+
+A fentebb nem említett eseteken kívüli szabályszegés vagy mulasztás következtében kiszabható bírság mértéke 50.000-től 5.000.000 forintig terjedhet. A vezető tisztségviselővel szemben alacsonyabb, 50.000-től 1.000.000 forintig terjedő bírság szabható ki.
+
+A 24. §-hoz
+
+A 4. § (4) bekezdéséhez és a 7. § (2) és (3) bekezdéseihez igazodóan a 24. § rendezi a tanúsító szervezetek nyilvántartásba vételével kapcsolatos kérdéseket.
+
+Az (1) bekezdés szerint a miniszter azokat a személyeket és szervezeteket jelöli tanúsításra, akik/amelyek erre vonatkozó kérelmet nyújtanak be és rendelkeznek a tanúsításhoz szükséges szakértelemmel. A kijelölt szervezeteket, illetve akkreditált laborokat a Felügyelet nyilvántartásba veszi.
+
+A tanúsító szervezetek a tevékenységüket külső befolyástól mentesen kötelesek végezni. Ennek feltételeit természetesen már a nyilvántartásba vétel során vizsgálni kell.
+
+A tanúsító szervezeteket törölni kell a nyilvántartásból, amennyiben bebizonyosodik, hogy nem rendelkeznek a megfelelő szakértelemmel, vagy részrehajlóan végzik tevékenységüket.
+
+Fontos garanciális szabály, hogy a tanúsító szervezet nyilvántartásból való törlése nem érinti az általa a nyilvántartásból való törlését megelőzően kiadott igazolások érvényességét. Ez azonban nem jelenti azt, hogy a nem megfelelő minőségű termékeket továbbra is megfelelő minőségűnek kellene tekinteni.
+
+-----STARTING---POINT---VEGE---
+
+A 25. §-hoz
+
+A törvény 25. §-a a jogalkotásról szóló 1987. évi XI. tv. 40. § (3) bekezdésében foglalt kötelezettségnek eleget téve felsorolja azokat az Európai Közösségi irányelveket, illetve irányelvi rendelkezést, mellyel a törvény összeegyeztethető szabályozást tartalmaz.
+
+A 26. §-hoz
+
+A törvény a kihirdetést követő harmadik hónap első napján lép hatályba, felkészülési időt hagyva az új szabályozáshoz való alkalmazkodásra. Jelenleg Magyarországon már léteznek hitelesítés-szolgáltatók. Az ő tevékenységük átmeneti szabályairól nem szükséges külön rendelkezni, azt továbbra is folytathatják azzal, hogy a törvényben a fokozott biztonságú elektronikus aláírással kapcsolatos joghatások az általuk kibocsátott tanúsítványokhoz akkor fűződnek, ha bejelentik tevékenységüket és a hatóság nyilvántartásba veszi őket, minősített elektronikus aláírás hitelesítés-szolgáltatást pedig akkor végezhetnek majd, ha megszerzik a törvényben megszabott, erre vonatkozó minősítést.
+
+A törvény 5. § (1) bekezdésének c) pontja, az 5. § (2) bekezdése és 7. § (3) bekezdése, valamint az ezekre való hivatkozások az 1999/93/EK irányelvvel való teljes harmonizációt szolgálják arra az esetre, ha hazánk már az Európai Unió tagja lesz. Ennek okán e szabályok csak a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatályba lépésével egyidejűleg lépnek hatályba.
+
+A 27. §-hoz
+
+A rendelkezés a hatályba lépést követő további, részletszabályokat kialakító jogalkotás számára ad felhatalmazást. E szabályoknak - a közigazgatási szervek elektronikus dokumentumaira vonatkozó sajátos szabályokon kívül - hatályba kell lépniük akkor, amikor a törvény is hatályba lép, ezért ezek előkészítését a Kormány határozatában előírta.
+
+A 28. §-hoz
+
+A törvény módosító rendelkezése által a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény hatályba lépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet (Ptké.) érintett §-a az információs társadalomban kialakuló, új forgalmi viszonyokhoz igazodik annak előírásával, hogy a fokozott biztonságú elektronikus aláírással aláírt okirattal létrejött megegyezést is nevesíti az írásbeliségre meghatározott alakiságok között. A 38. § módosítása megnyitja az utat az elektronikus aláírás elektronikus kereskedelmi viszonyok közötti alkalmazásához.
+
+Az érintett § új, (3) bekezdése a forgalom biztonsága érdekében lehetővé teszi, hogy a szerződő felek az írásbeliség módjában megállapodjanak és az írásbeliség általuk választott módjában megegyezzenek. Megállapodásuk nyomán az általuk választott forma lesz irányadó az írásbeli alak tekintetében. E rendelkezés egyrészt tisztább jogi helyzetet kialakítását segíti, másrészt megadja a lehetőséget az elektronikus forma elkerüléséhez, hiszen különböző okokból számos esetben lenne az hátrányos egyes jogalanyok számára.
+
+A 29. §-hoz
+
+A törvény 29. §-a a polgári perrendtartásról szóló 1952. évi III. tv. 196. §-ának módosításával a teljes bizonyító erejű magánokiratok körébe emeli a minősített elektronikus aláírással ellátott elektronikus okiratot. Az ilyen okirat ugyanis a törvény 2. § 14. pontja alapján nyilatkozattételt, illetve nyilatkozat elfogadását vagy nyilatkozat kötelezőnek elismerését foglalja magában, másrészt a rajta elhelyezett minősített elektronikus aláírás olyan jellemzőkkel bír, melyekkel a törvény hatálybalépése előtt kizárólag a kézi aláírás bírt. Így ez a forma megfelel az 1952. évi III. tv. koncepciójának és harmonizál annak korábbi, teljes bizonyító erejű magánokiratra vonatkozó rendelkezéseivel.
+
+A (2) bekezdés a polgári perrendtartásban alkalmazott hamisítatlanság vélelmének jogkövetkezményeit a helyes ellenőrzési eredményt adó elektronikus aláírásra is kiterjeszti.
+
+A (3) bekezdésben megfogalmazottak a polgári perrendtartás korábbi rendszerébe illeszkedően egyfelől konkretizálják a hitelesítés-, illetve időbélyegzés-szolgáltatónak a törvény 11. § (3) bekezdésében foglalt adatszolgáltatási kötelezettségét, másfelől előírják azt is, hogy nyújtson segítséget a bíróságnak az elektronikus okirat hamisítatlanságával összefüggő - elsősorban technikai - kérdések tisztázásában.
+
+A 30. §-hoz
+
+A törvény 30 §-a a büntetőeljárásról szóló 1973. évi I. tv. tárgyi bizonyítási eszközökre vonatkozó 82. § (2) bekezdését a törvény által módosított jogi környezethez igazítja, biztosítva az elektronikus formában lévő bizonyítási eszközök létjogosultságát.
+
+A 31. §-hoz
+
+Az államigazgatási eljárásról szóló 1957. évi IV. törvény (Áe.) a törvény hatálybalépése előtt hatályos szövege nem teszi lehetővé az elektronikus iratokkal történő ügyintézést a közigazgatásban, amit pedig a törvény bizonyos feltételekkel megenged. Az Áe. minden közigazgatási szervezet eljárását meghatározza, vagy olyan módon, hogy szabályait eltérés nélkül kell alkalmazni (például az önkormányzatoknál folyó legtöbb eljárásban), vagy úgy, hogy mögöttes jogszabálya egy speciális eljárást előíró törvénynek, amely csak az Áe.-től eltérő szabályokat rögzíti.
+
+Ezért ha a törvény az Áe. szabályait módosítva nem tenné lehetővé általánosságban az elektronikus irattal való ügyintézést, az elektronikus aláírás felhasználása csak az üzleti szférára korlátozódna. Ez ellentétben állna a törvény célkitűzéseivel, illetve a kormányzati szándékkal is, mely előírja, hogy meg kell vizsgálni: a közigazgatás mely területein kell bevezetni az elektronikus irattal történő ügyintézést.
+
+Az Áe. módosítása másfelől azért is szükségessé vált, mert annak szabályaitól csak olyan eljárásokban lehet eltérni, amit az Áe. kifejezetten nevesít. A törvény a Felügyelet eljárásaira az Áe. szabályait rendeli alkalmazni, egyes eltérésekkel. Ebből kifolyólag ki kell egészíteni az Áe. 3. § (6) bekezdését azzal a rendelkezéssel, mely szerint az elektronikus aláírásról szóló törvényben szereplő eljárásra is csak akkor kell alkalmazni az Áe.-t, ha a törvény másként nem rendelkezik.
+
+Fenti okok miatt a törvény az Áe. módosításával egyfelől lehetővé teszi, hogy a törvény eltérjen az Áe. általános szabályaitól, másfelől általánosságban megteremti az általános jogszabályi feltételeit az elektronikus irattal való ügyintézésnek az államigazgatási eljárásokban. A speciális szabályokat az egyes ágazati eljárásokra vonatkozó törvények fogják meghatározni (pl. az adózás rendjéről vagy a vámeljárásról szóló törvény).
+
+A 32. §-hoz
+
+A törvény a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény módosításával a jogszabály szövegében már szereplő, azonban hatályba még nem lépett, 22. § (5) bekezdés hatálybalépését egy új - kifejezetten az elektronikus cégeljárásról szóló - törvény hatályba lépéséhez köti.
+
+A 33. §-hoz
+
+Az ügyvédekről szóló 1998. évi XI. törvény 27. § (1) bekezdésének b) pontja módosításával lehetővé válik az ügyvéd által ellenjegyzett okirat elektronikus formában való létrehozása. A törvény alapján az ilyen módon a Pp. alapján teljes bizonyító erejűvé váló elektronikus okiratot
+
+- az ügyvédnek kell elkészítenie,
+
+- az ügyfélnek el kell látnia minősített elektronikus aláírásával,
+
+- ezt követően az ügyvédnek is el kell látnia minősített elektronikus aláírásával, aki egyidejűleg ellenőrzi azt is, hogy az okirat tartalma nem változott.
+
+Ez úgy is megvalósulhat, ha az ügyfél és az ügyvéd egymástól távol vannak, tehát megkönnyíti az ügyintézést.
+
+Függelék
+
+Az elektronikus aláírás műszaki háttere
+
+Az elektronikus aláírás a kapcsolódó eljárásokkal együtt alkalmas arra, hogy biztosítsa az aláíró egyértelmű azonosíthatóságát (hitelesség), az aláírás tényének letagadhatatlanságát, továbbá azt, hogy az elektronikus úton aláírt elektronikus irat tartalma nem változott meg azóta, hogy az a személy, akihez az elektronikus aláírás tartozik, az aláírást „elhelyezte” az iraton (sértetlenség). Azon technológia biztonságosságának, amellyel az elektronikus aláírást előállítják, és hozzáfűzik az irathoz, jogi relevanciája is van. Ennek ellenére a szabályozás legfelső szintjének az alkalmazott technológiától függetlennek kell lennie, mivel az alkalmazott technológiák gyorsan változnak. A jogi szabályozás kidolgozásakor azonban mégsem lehet teljesen figyelmen kívül hagyni a jelenleg elfogadott technikai megoldásokból eredő követelményeket.
+
+Jelenleg világviszonylatban az ún. nyilvános kulcsú eljárásokra alapozott elektronikus aláírás terjedt el. Ez olyan megbízható technológiát nyújt az elektronikus formában lévő iratok számára, amely az aláírást, mint hitelesítő funkciót valósítja meg.
+
+A nyilvános kulcsú eljárásokra alapozott elektronikus aláírás fő tulajdonságai:
+
+- egy adott elektronikus aláírásnak csak egy és kizárólag egy tulajdonosa lehet,
+
+- lehetővé teszi az aláíró személyének egyértelmű meghatározását,
+
+- az aláírónak kizárólagos lehetősége van aláírásának készítésére,
+
+- egyértelműen megállapítható az elektronikus úton aláírt elektronikus irat bármely, az aláírást követő véletlen vagy szándékos módosulása,
+
+- további technológiai elemek, illetve szolgáltatások alkalmazásával az aláírás hiteles időpontja is csatolható az elektronikus úton aláírt irathoz.
+
+Az elektronikus úton aláírt iratok cseréje során nincs szükség a küldő és címzett személyes találkozására. Ezért az aláíró személyének azonosításához, hitelesítéséhez harmadik (jogi) személyre, a hitelesítő szervezetre van szükség, aki olyan elektronikus tanúsítványt állít ki, amely hitelesíti az aláíró személyét és az elektronikus úton aláírt üzenetet, iratot, a címzett pedig egyértelműen meggyőződhet azok hitelességéről.
+
+Az elektronikus aláíráshoz két „kulcs” tartozik, egy magánkulcs és egy nyilvános kulcs. A kulcsok digitális jelsorozatok, amelyek megfelelő programokkal kezelhetőek. A magánkulcsot tulajdonosának titokban kell tartania, megfelelő intézkedésekkel védenie kell az illetéktelen felhasználás, eltulajdonítás ellen. Ha a magánkulcs titkossága megszűnik, akkor az eljárás garanciái (aláírt irat hitelessége, az aláíró azonosítása) megszűnnek, amennyiben a jognyilatkozaton időpont-hitelesítés nincs, antedatált dokumentumok létrehozására van lehetőség. A megfelelően gondos kezelés a kulcstulajdonos felelőssége éppúgy, mint a bankkártyák esetében. A kulcs fizikai megjelenési formája sokféle lehet, pl. a tulajdonos számítógépén található (titkosított) file, floppy lemez, chip kártya stb. A nyilvános kulcs bárki által hozzáférhető, sőt kívánatos, hogy minél szélesebb körben megismerhető legyen (pl. a hitelesítés-szolgáltatónál vagy címtár szolgáltatónál). A nyilvános kulcshoz kapcsolt adatok alapján azonosítható a kulcs tulajdonosa.
+
+A kulcs-pár létrehozásakor megbízható matematikai algoritmusok biztosítják azt, hogy a nyilvános kulcs ismeretében gyakorlatilag nem lehet visszafejteni a hozzá tartozó magánkulcsot, illetve az aláírást nem lehet a nyilvános kulcs ismeretében hamisítani. A nyilvános kulcs ismeretében egy aláírásról gyakorlatilag egyértelműen megállapítható, hogy a hozzá tartozó magánkulcs felhasználásával készült-e vagy sem.
+
+Az aláírás hitelesítő szerepe esetén az alapkérdés az, hogyan győződhet meg a címzett arról, hogy az eredeti szöveg jutott-e el hozzá, vagy annak egy módosult, manipulált változata. Problémát okoz, hogy külön védekezés nélkül a digitális úton küldött üzeneteknél a változtatás nem hagy nyomot. A megoldást digitális lenyomat készítése és csatolása adhatja meg. Ennek elkészítésére nemzetközileg elfogadott eljárások léteznek.
+
+A digitális lenyomat készítésének lényege egy olyan transzformáció, amely egy tetszőleges hosszúságú szövegből olyan fix hosszúságú bitsorozatot (digitális lenyomatot) állít elő, amely egyértelműen jellemző az adott szövegre. A transzformáció tulajdonságai a következőkben összegezhetők:
+
+Gyakorlatilag lehetetlen egy adott digitális lenyomathoz az eredeti dokumentumtól különböző másik olyan dokumentumot konstruálni, amelyikhez a transzformáció ugyanazt a lenyomatot rendeli (egyirányúság).
+
+Gyakorlatilag lehetetlen két különböző olyan dokumentumot konstruálni, amelyek azonos digitális lenyomatokat eredményeznek (egyértelműség).
+
+Az irat elektronikus aláírása
+
+Az iratból egy fix hosszúságú digitális lenyomat készül, amit az irat aláírója saját magánkulcsával kódol. Ez a digitális aláírás, amely az irathoz csatolva kerül továbbításra, vagy tárolásra. Ugyancsak tárolásra, továbbításra kerülhet a magánkulcshoz tartozó nyilvános kulcs is.
+
+Az elektronikus úton aláírt irat és az aláírás címzett általi ellenőrzése
+
+Az ellenőrzésnél több folyamat zajlik automatikusan:
+
+Egyrészt az üzenet alapján újra kiszámításra kerül az aláírt irat digitális lenyomata.
+
+Másrészt a digitális aláírás dekódolásra kerül a nyilvános kulccsal, amelyből szintén egy digitális lenyomat képződik. Amennyiben a két digitális lenyomat azonos, igen nagy valószínűséggel állítható, hogy az elektronikus úton aláírt irat tartalma nem változott továbbítása, tárolása során és az adott nyilvános kulcshoz tartozó magánkulccsal készült a digitális aláírás.
+
+Harmadrészt az aláíró személyét azonosító adatokat a nyilvános kulcs ismeretében a hitelesítés-szolgáltató megadja és tanúsítja, és azt is igazolja, hogy az adott kulcs érvényes-e vagy sem (lejárt, ellopták stb.).
+
+Negyedrészt a tanúsítvány hitelességét az azt aláíró hitelesítés-szolgáltató aláírásának a közismert nyilvános kulcsával történő ellenőrzése igazolja.
+
+Egy elektronikus úton aláírt irat aláírása és ennek ellenőrzése összetett matematikai folyamat, de a felhasználó számára ez rejtve marad, a használat igen egyszerű. A felhasználói szoftverek mind az aláírást, mind az ellenőrzést automatikusan végzik, gyakorlatilag „gombnyomásra”.
+
+A nyilvános kulcsra épülő elektronikus aláírás használata többnyire három szereplőt tételez fel, a szabályozásnak is ezen szereplők tevékenységére kell irányulnia. A három szereplő:
+
+- az aláírás tulajdonosa, aki a magánkulccsal rendelkezik, annak felhasználásával készíti el az elektronikus úton aláírt irathoz tartozó elektronikus aláírást,
+
+- az elektronikus úton aláírt irat címzettje, aki ellenőrzi a kapott, elektronikus úton aláírt dokumentumot, a nyilvános kulcs felhasználásával meggyőződhet az aláírás és így az elektronikus úton aláírt irat hitelességéről, az aláíró személyéről,
+
+- a hitelesítés-szolgáltató, amely tanúsítja az aláírás tulajdonos azonosító adatainak és a kulcsoknak az összetartozását, valamint a kulcsok érvényességét.
+
+A jogszerű és megbízható aláírás használata az alábbi kötelezettségeket rója a három szereplőre:
+
+Az aláírás tulajdonosa - az aláírása hamisítását megelőzendő - köteles biztonságosan őrizni a magánkulcsát úgy, hogy ahhoz más (illetéktelen személy) ne férjen hozzá. Ha elveszik, vagy más megszerzi a magánkulcsot, köteles azonnal a hitelesítés-szolgáltató felé jelezni a kulcs érvénytelenítése, letiltása érdekében.
+
+A címzett az irat átvételét követően a hitelesítés-szolgáltató segítségével meggyőződhet az elektronikus úton aláírt irat hitelességéről, és az aláíró személyéről.
+
+A hitelesítés-szolgáltató köteles a nyilvános kulcsot nyilvánosan kezelni, és kérelemre rendelkezésre bocsátani, az ügyfeleiről és a kiadott kulcsokról megbízható, illetéktelen módosítást kizáró módon nyilvántartást vezetni, s a kulcsot a tulajdonos kérésére, valamint bíróság, vagy más erre jogosult szerv határozata alapján érvényteleníteni.

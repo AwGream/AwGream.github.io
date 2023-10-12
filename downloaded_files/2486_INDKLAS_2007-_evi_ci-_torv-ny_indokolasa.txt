@@ -1,0 +1,245 @@
+2007. évi CI. törvény indokolása
+
+a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az államigazgatásban jelenleg esetlegesen jelenik meg az a szempont, hogy a közpénzeket nem csak a számviteli szabályokat betartva, hanem lehetőség szerint hatékonyan is kell elkölteni, és ezt a hatékonyságot folyamatosan követni, elemezni kell. A költségvetési szervek által létrehozott adatbázisok nem csak adminisztratív célokra, hanem ilyen jellegű elemzések céljára is alkalmazhatók, sőt, alkalmazandók.
+
+Ezekhez az elemzésekhez természetes személyekre vagy gazdasági szervezetekre vonatkozó (mikroszintű) adatok szükségesek. A személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) (adatvédelmi törvény) védi az információs önrendelkezési jogot. Ennek tiszteletben tartása érdekében a törvény úgy teszi lehetővé a mikroszintű adatok átadását, hogy az adatok személyességének megszüntetésére kötelezi az adatkezelőt. A törvény tehát úgy biztosítja a mikroszintű adatok közjó szempontjából kívánatos, szélesebb elérhetőségét, hogy eközben nem korlátoz más jogokat.
+
+A törvény lényege, hogy az információs önrendelkezési jog korlátozása nélkül feloldja az adatigény és az adatvédelem közti ellentétet, és megerősíti az adatkérők jogait. A törvénynek négy, egymással szorosan összefüggő eleme van: 1. előírja azt, hogy a közérdekű adatot az adatkezelők kötelesek kiadni, akkor is, ha azok mikroszintű adatok, míg azonosításra alkalmas (és nem közérdekű) adataikat kérésre anonimizálniuk kell, 2. a potenciális felhasználók (államigazgatási szakértők) számára pedig törvényi felhatalmazást ad az adatok igénylésére. 3. Az adatok összekapcsolhatóságához fentieken túl egy technikai megoldás, a hash függvény segítségével történő titkosítás is szükséges (ez megszünteti a személyességet), és egy előírás, ami kötelezi az adatgazdát arra, hogy ezt a megoldást alkalmazza, és együttműködjön az adat kiadásában. 4. Az információs önrendelkezési jog védelme érdekében előírja, hogy adatösszekapcsolásra irányuló kérelmeket be kell jelenteni az erről nyilvántartást vezető szervnek, illetve, hogy mikroszintű adat nem adható át abban az esetben, ha a személyesség nem szüntethető meg.
+
+Fontos megjegyezni, hogy a fenti négy elem együtt éri el a kívánt célt: az adathozzáférés széles körű biztosítását, anélkül, hogy az információs önrendelkezés jogát korlátoznánk. Az elemek bármelyikének elhagyása vagy az adathozzáférés érdemi javulását, vagy a személyes jogok védelmét veszélyeztetné.
+
+A törvény célja: az adatvagyon felhasználása, hatásvizsgálatok elősegítése.
+
+A költségvetési szervek egyes feladataik ellátásához adatokat gyűjtenek természetes személyekről és gazdasági szervezetekről. Ezek az adatok elsősorban adminisztratív célokat szolgálnak, de másodsorban felhasználhatók a kormányzati döntések hatásainak vizsgálatára is. Az ilyen hatásvizsgálatok célja az, hogy a közpénzek elköltésének eredményességét mérjék, és feltárják, hogy a szabályozás, vagy a közpénzek elosztásának módosításával növelni lehet-e az eredményességet. Nem a közkiadások jogosságának ellenőrzéséről van tehát szó, hanem a kiadások és az eredmények összevetéséről. Az adatok összegyűjtése általában jelentős költséggel jár, ehhez képest lényegesen kisebb a költsége az adatok hatásvizsgálati célú átalakításának és átadásának. Az eredményesség növelése érdekében ezért különösen indokolt, hogy az adatvagyont az elsődleges célján túl hatásvizsgálatok elvégzésére is fel lehessen használni.
+
+A mikroszintű adatok, és ezek felhasználása
+
+Az előterjesztés a természetes személyekre és gazdasági szervezetekre vonatkozó, ún. mikroszintű adatok felhasználására vonatkozik. Ilyen, mikroszintű adat például a következő „A” adatsor: 51 éves, egyetemi végzettségű, budapesti lakos. Ez az adatsor egy bizonyos személyre - az adatszolgáltatóra - vonatkozik, de alanyával nem hozható kapcsolatba: a három adatból nem lehet azonosítani, hogy ki volt az adatszolgáltató. Mikroszintű, és ezen belül személyes adat például a „B” adatsor: ugyanennek a személynek a neve és TAJ száma. Személyessé válna az „A” adatsor is, ha azt a TAJ számmal együtt közli valaki.
+
+A mikroszintű adatoknak két fő forrása van: a statisztikai célból gyűjtött adatok, és az adminisztratív célokra begyűjtött adatok. Előbbiek fő forrása a KSH, utóbbiaké néhány nagy állami szerv, mint az Egészségbiztosítási Pénztár, a Nyugdíjfolyósító, vagy az APEH.
+
+Ha a közpénzek hatékony felhasználását modern eszközökkel, pl. többváltozós statisztikai modellekkel kívánjuk elemezni, akkor mikroszintű adatokra van szükségünk. Mikroszintű adatok kellhetnek a javaslatok előzetes hatásvizsgálatához és a közkiadások, vagy egy adott szabályozás eredményességének utólagos értékeléshez is. Például annak vizsgálatához, hogy a különféle jóléti juttatások együttesen mennyire csökkentik a gyermekszegénységet, olyan adat kell, amiből kiderül, hogy ugyanaz a szülő hányféle és mekkora támogatást kap, milyen más jövedelme van, és hány gyermeket nevel. Ezt csak egy olyan adatállomány biztosíthatja, amelyben egyéni szintű adatok vannak, és azt is tudjuk, hogy kik élnek egy háztartásban. Vagy, ha az egyszülős családok szegénységi rátáját akarnánk csökkenteni, mikroszintű adatok segítségével tudjuk megállapítani, hogy ezt egy meglévő támogatás növelésével, vagy új támogatással érdemes-e megoldani. Összesített adatokból nem lehet ugyanis megállapítani, hogy egy adott háztartás hányféle és mekkora támogatást kap, és milyen más jövedelme van.
+
+Egy részletes hatásvizsgálat mikroszintű (egyéni, vagy vállalati szintű) adatokat igényel, de a személyes azonosításra általában nincs szükség: a fenti példát követve, kutatáshoz elegendő az „A” adatsor.
+
+Hatásvizsgálatra a kormányzati működés két pontján is szükség van. Egyrészt egy szándékolt intézkedés hatását minél pontosabban kell tudni előre jelezni, hogy látható legyen melyik, és milyen erősségű intézkedés éri el legkisebb ráfordítással a kívánt hatást. Az intézkedés után pedig az új helyzet és a beavatkozás előtti állapot összehasonlításával kell az intézkedés tényleges hatását mérni. Mindkét esetben adatokkal kell rendelkezzünk azokról az egységekről, akiket az intézkedés céloz.
+
+A hatásvizsgálatok készítése mára önálló tudománnyá nőtte ki magát. A hatásvizsgálatok statisztikai és gazdasági matematikai eszközrendszere, fejlett számítógépprogramokkal és szaktudással támogatva lehetővé teszi, hogy a döntéshozatal minél inkább pontos ismeretekre és ne feltevésekre alapuljon, illetve pontosabb előrejelzések készüljenek, ne csak a kiadások várható mértékére, hanem az intézkedések hatására vonatkozóan is.
+
+A kormányzati intézkedések hatásait ma is kötelező előzetesen vizsgálni, a környezeti hatások esetében már részletes előírások is születtek (A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény és a környezeti hatásvizsgálatról szóló 20/2001. (II. 14.) Korm. rendelet). Ezeket a tendenciákat erősítik az európai uniós források felhasználásával kapcsolatos kötelezettségek.
+
+Adatvédelem és az adatvagyon hasznosítása
+
+A hatályos szabályozás nem tiltja általában a mikroszintű adatok felhasználását, de az alanyával kapcsolatba hozható adatok kezelésére már többféle korlátozás van érvényben: a személyes adatok kezelését az Avtv., az egyedi adatokét a statisztikáról szóló 1993. évi XLVI. törvény (a továbbiakban: Stt.), az adótitokét az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) korlátozza (ld. 1. táblázat).
+
+1. táblázat: A statisztikai vagy adminisztratív adatgyűjtésből származó, egyénekre vagy vállalatokra vonatkozó adatokon belül megkülönböztethető adatfajták
+
+ Mikroszintű adat
+
+ Természetes személyre vonatkozó adat
+
+ Szervezetre vonatkozó adat
+
+ Személyes adat = azonosítható a személy, akire az adat vonatkozik [Avtv.]= egyedi adat  [Stt.]
+
+ Nem személyes adat = nem azonosítható a személy
+
+ Anonim adat = nem azonosítható a szervezet, amelyre az adat vonatkozik
+
+ Nem anonim adat = azonosítható a szervezet, amelyre az adat vonatkozik= egyedi adat  [Stt.]
+
+ Közérdekű személyes adat [Avtv.]
+
+ Nem közérdekű személyes adat
+
+ Névtelen mikroadat [831/2002/EK]
+
+ Adótitok által védett cégadat [Art.]
+
+ Nyilvános (pl. cég-bíróságnak bejelentett) adat
+
+ Közérdekű adat (ha költ-ségvetési szerv kezeli)
+
+ Egyéb nem anonim adat
+
+ 
+
+ 
+
+ 
+
+ Anonimizált mikroadat = Elemi adat [KSH adatvédelmi szabályzata]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Megjegyzés: *hivatalos fordítás. Az eredeti angol: anonymised microdata. Az EU tanácsi rendelet a magyar gyakorlattól eltérően használja a „bizalmas adat” kifejezést: olyan adatot ért ezen, amelyből közvetlenül nem lehet azonosítani a személyt vagy szervezetet, és bizonyos feltételekkel megengedi az ilyen adatok kiadását.
+
+Az Avtv. a természetes személlyel kapcsolatba hozható adatot személyes adatnak hívja, és főszabály szerint kizárja a személyes adatok kiadását vagy összekapcsolását. Az Avtv. a személyes adatok, illetve a közérdek védelmének konfliktusában jellemzően a személyes adatok védelmének ad prioritást, a közérdekből fakadó lehetséges korlátozások közül pedig egyedül a közszereplőket és közhivatalnokokat érintő korlátozásra utal explicit módon. A konkrét személlyel kapcsolatba nem hozható mikroszintű adatok kezelését azonban az Avtv. nem korlátozza.
+
+Az Avtv. szerint személyes adatokat akkor lehet kezelni (továbbadni, összekapcsolni), ha ehhez az érintett hozzájárul, vagy törvény megengedi. A személyes adat az adatkezelés során mindaddig megőrzi e minőségét, amíg kapcsolata az érintettel helyreállítható. Személyes adatnak minősülnek a természetes azonosítók, mint például a név, születési év, lakcím, életkor, valamint minden olyan, az adott egyénre vonatkozó adat, amit ilyen azonosítókkal együtt adnak át. Külön törvény (1996. évi XX. tv.) véd egyes mesterséges személyes azonosítókat, mint adószám, TAJ szám, személyi szám: ezeket még korlátozottabban lehet kiadni, összekapcsolásra használni.
+
+A hatásvizsgálatokhoz szükséges adatok biztosítása tehát azt a problémát veti fel, hogy a közérdek és az egyéni érdek (a személyes vagy bizalmas adatok védelme) hogyan egyeztethető össze. Közérdek, hogy a közpénzeket a lehető legnagyobb hatékonysággal költsük el, és lehetővé tegyük az ezt segítő hatásvizsgálatokat. Közérdek az is, hogy a közpénzen létrehozott adatvagyon adminisztratív célok mellett más, a társadalmi jólétet növelő célokra (hatásvizsgálatra és kutatásra) is hasznosítható legyen. Ezzel egyenragú szempont a bizalmas, és különösen a személyes adatok védelme, vagyis az, hogy minden állampolgárnak joga van a személyéről szóló információkról rendelkezni.
+
+Az előterjesztés ezért olyan megoldást ad, ami az információs önrendelkezési jog, illetve a bizalmas adatok védelmének sérelme nélkül biztosítja az adatvagyon hasznosulását és a mikroszintű adatok hozzáférhetőségét. Ennek lényege, hogy hatásvizsgálatok céljára csak az anonimizált mikroszintű adatokat (az 1. táblázatban szürkével jelölve) lehet átadni, de az adatkezelő kérésre köteles az anonimizálást elvégezni.
+
+Egy adatbázis létrehozása, az adatok összegyűjtése általában jelentős költséggel jár. Ehhez viszonyítva az adatok másolásának, módosításának, és átadásának költsége relatíve csekély. A nagy adatbázisok ugyanis jellemzően elektronikus formában léteznek, és a módosítások könnyen előállítható, és gyorsan végrehajtható számítógépes programok segítségével elvégezhetők. A költségvetési szervek adminisztratív célú adatbázisainak többsége azzal az előnnyel is rendelkezik, hogy tiszta és pontos információkat tartalmaz, mivel az adatkezelő alapfeladata az adatok ellenőrzése is, és munkájának természetes része az adatok folyamatos tisztítása, az esetleges adatbeviteli hibák javítása.
+
+Jelenleg az adminisztratív adatbázisok létrehozásában és működésében nem érvényesülnek az elsődleges funkciójukon túli felhasználás szempontjai, így esetleges, hogy ha épp hozzáférhetők az adatok, akkor alkalmasak-e hatásvizsgálatokra. Az adatok tárolási rendje az alapfunkciókhoz igazodik, így más célú felhasználásra bonyolult és időigényes lehet kigyűjteni az adatokat.
+
+Az adatvagyon értéke, és a másodlagos felhasználás várható hozama mégis lényegesen nagyobb, mint az adatok átadásának költségei, ezért indokolt az adatátadást kötelezővé tenni. Ez érdekeltté teheti az adatkezelőket abban, hogy adatbázisaik fejlesztésében figyelembe vegyék a másodlagos felhasználók szempontjait is, ami hosszabb távon tovább csökkenti az adatátadás költségét.
+
+Mikroszintű adatok statisztikai vagy kutatási célú átadását a jelenlegi szabályozás sem tiltja, abban az esetben, ha ezek nem személyes adatok. A mai gyakorlatban is előfordul, hogy kutatók vagy költségvetési szervek kutatási célra kérnek és kapnak mikroszintű adatokat.
+
+Az általános gyakorlat azonban az, hogy az adatokat kezelő költségvetési szervek a személyes adatok védelme érdekében nagy szigorral járnak el, és sokszor még akkor is elutasítják a mikroszintű adatok továbbítását, ha biztosítható lenne a személyes adatok védelme. A részletes szabályozás hiánya így egyfelől akadályozza az adatvagyon hasznosulását, másfelől veszélyezteti a személyes adatok védelmét - ma nincs ugyanis egységes eljárásrend, ami biztosítaná, hogy az adatok kutatási célú átadásakor ne sérülhessen a személyes adatok védelme.
+
+Az adminisztratív adatbázisok tagoltsága és összekapcsolhatósága
+
+Hatásvizsgálatokban felmerülhetnek olyan kérdések, amelyeket csak több adatbázis összekapcsolásával lehet megválaszolni. Például a háztartásoknak juttatott állami támogatások nettó értékét, vagy annak változását csak úgy számolhatjuk ki, ha tudjuk, hogy milyen támogatásokban részesül az adott háztartás és milyen adókat és járulékokat fizet. Ennek kiszámolásához APEH, OEP, ONYF, MÁK adatokat kell egyszerre vizsgálni, és ehhez szükség van adatbázisok összekapcsolására.
+
+Személyes adatok esetében megnehezíti az összekapcsolást, hogy Magyarországon három nagy adminisztratív nyilvántartási rendszer létezik. A három rendszer elkülönítése azt célozta, hogy az eltérő állami feladatokkal kapcsolatos személyes adatokat csak indokolt esetben, törvényi felhatalmazással, és ellenőrizhető módon lehessen összekapcsolni. A korábbi, egységesen használt személyazonosító jel helyett ma 1. a személyiadat- és lakcímnyilvántartásban a személyazonosító jelet, 2. az adózók azonosításában az adóazonosítót, 3. a társadalombiztosítási rendszerben pedig a társadalombiztosítási azonosító jelet (TAJ) használjuk.
+
+Ezt a három azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény hozta létre, és egyszersmind rendelkezett arról, hogy ezek az azonosítók személyes adatok [5. § (2) bekezdés], valamint arról, hogy mely szervek és hogyan használhatják ezeket az azonosítókat. A különböző azonosítót használó szervek egymással meghatározott célból, úgynevezett kapcsolati kód segítségével cserélhetnek adatokat [3. § d) pont és 26. §]. Ez a kapcsolati kód nem alkalmas két adatkezelőnél gyűjtött adat kutatási és hatásvizsgálati célú összekapcsolására. E kapcsolati kód csupán idősoros vizsgálatokat tesz lehetővé, vagyis azt, hogy ugyanannak a személynek ugyanattól az adatkezelőtől kapott adatait az adatkérő hozzá tudja rendelni a korábbi adatokhoz. Ez természetesen nem véletlen: a jogalkotó épp ezzel akarta elkerülni a különböző forrásokból származó személyes adatok összekapcsolását.
+
+Nem személyes adatok összekapcsolása viszont - ha azok együttesen sem válnak személyessé, tehát együtt sem köthetők egy konkrét természetes személyhez - nem problematikus. Ennek módszere szintén valamiféle kapcsolati kód használatát igényli. A megoldást itt egy olyan kapcsolati kód biztosítja, amely az adatkérő számára nem összekapcsolható az adatok alanyával, tehát nem személyes adat, de amely segítségével az egyes adatok összekapcsolhatók.
+
+Nemzetközi vonatkozások
+
+A kormányzati intézkedések és szabályozás rendszeres hatásvizsgálatát az Egyesült Államokban vezették be először. Az OECD 1995-ben útmutatót adott ki, amelyben úgy határozza meg a hatáselemzést, mint “információ alapú elemzési módszer, mely segít felbecsülni a tervezett szakpolitikai eszközök (törvények, rendeletek stb.) várható költségeit, következményeit és mellékhatásait.” Az Egyesült Királyságban 2000 óta, az Európai Bizottságban 2003 óta végeznek egységes rendszerben szabályozási hatásvizsgálatokat.
+
+A hatásvizsgálatok beépülése a döntéshozatali folyamatba együtt járt az adathozzáférésre vonatkozó szabályozás megújításával. Az Európai Parlament és a Tanács 2003/98/EK irányelve (2003. 11. 17.) rendelkezik a közszféra információinak további felhasználásáról, amire az elektronikus információszabadságról szóló 2005. évi XC. törvény (a továbbiakban: Einfotv.) indoklása is hivatkozik. Az irányelv minimum szabályokat állapít meg a tagállamok közigazgatási szervei birtokában lévő dokumentumok (ideértve az adatokat is) további felhasználására, illetve a felhasználás megkönnyítésének gyakorlati eszközeire vonatkozóan. Az irányelv szerint, amennyiben lehetséges, a dokumentumokat elektronikus úton kell elérhetővé tenni. Díj szedése esetén a dokumentumok rendelkezésre bocsátásából és további felhasználásának engedélyezéséből eredő teljes bevétel egy ésszerű nyereséghányaddal együtt sem haladhatja meg a dokumentumok gyűjtésének, előállításának, feldolgozásának és terjesztésének költségét. A díjaknak a vonatkozó elszámolási időszakban költségorientáltnak kell lenniük, és azokat az érintett közigazgatási szervre vonatkozó számviteli elvekkel összhangban kell kiszámítani.
+
+Az OECD 2006. december 14.-i C(2006)184 tanácsi javaslata a közfinanszírozású kutatási adatok hozzáférhetőségéről az adathozzáférés és adatmegosztás előmozdítását szorgalmazza a kutatók, kutatási és egyéb intézmények között a tagországok jogrendjének figyelembevételével.
+
+Az EU No.831/2002 számú Tanácsi határozatában mikroszintű adatnak nevezi azt az adatot, ami egy természetes személyre, vagy egy jogi személyre vonatkozik (ld. 1. táblázat). Mindkét adatkört két további halmazra bonthatjuk. Az egyikben az alanyukkal kapcsolatba hozható mikroszintű adatok vannak: ez az Stt. fogalomhasználata szerint az „egyedi adat”, az egyénnel vagy szervezettel kapcsolatba hozható adat. A másik halmazban vannak az egy-egy alanyra vonatkozó, de személyes jellegétől megfosztott, pontosabban az alanyával kapcsolatba nem hozható mikroadatok.
+
+Ez az utóbbi adatkör megegyezik a KSH Adatvédelmi szabályzata [KSH VII/2005. (SK) 2.] szerinti elemi adattal, amely a közvetlen azonosítóktól meg van fosztva, és közvetett azonosításra sem alkalmas. Jellegében megfelel az EU No.831/2002 határozatában definiált „névtelen mikroadat”-nak (anonymised microdata) is, amely az egyén azonosításának lehetőségét minimalizáló, a lehető legkorszerűbb eljárással módosított egyéni adatokat takarja.
+
+Az EU határozat a magyarnál valamivel kevésbé szigorú, mivel csak a közvetlen azonosításra alkalmas adatok kiadását tiltja, és bizonyos feltételekkel megengedi olyan mikroadatok kiadását, amelyek a közvetett azonosítást még megengedik. Az Avtv. ennél szigorúbb: mindaddig személyesnek tekinti az adatott, amíg a kapcsolat a személlyel helyreállítható (akár közvetlen, akár közvetett módon).
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A közérdekű adatok az Avtv. alapján nyilvánosak, kiadásukat bárki igényelheti.
+
+Az Avtv. szerint a közérdekű adatokat kezelő szerv az igény tudomására jutását követő legrövidebb idő alatt, legfeljebb azonban 15 napon belül tesz annak eleget [20. § (2)]. Az Einfotv. 3-6. §-a pedig a közérdekű adatokra elektronikus közzétételi kötelezettséget ír elő, egységes közadatkereső rendszerben (Einfotv. 7-8. §).
+
+Az 1. § az Avtv.-vel összhangban állapítja meg a közérdekű adat kiadásának 15 napos határidejét, és ennek térítésmentességét. Az adatok átadásának megtagadására értelemszerűen ugyanez a határidő vonatkozik. A jogorvoslat lehetőségét szintén az Avtv. szabályozza [21. § (1) bek.]. További biztosítékokat nyújtani nem célszerű, tekintettel arra, hogy a szabályozás költségvetési szervek közötti együttműködést ír elő.
+
+Az adatkezelő számára a legnagyobb költséget az adatbázis létrehozása jelenti, amit közpénzből finanszíroz. Az adatbázis fenntartásának egy adategységre jutó költsége (határköltség) minimális. Egy egyszerű közgazdasági modellel összevethető az adatszolgáltatásból származó össztársadalmi haszon, illetve az adatbázis fenntartásának és az adatok átadásának költsége. Az ebből levonható következtetés szerint az adatátadás társadalmilag optimális ára az adatbázis fenntartásához szükséges határköltséggel egyenlő, ami gyakorlatilag nulla.
+
+Ezt a logikát követi az Avtv. is. A közérdekű adatok megismerése és terjesztése alkotmányos jog (1949. évi XX. törvény - a Magyar Köztársaság Alkotmánya). Az Avtv. közérdekű adatokra vonatkozó rendelkezései szerint a közérdekű adat megismerésére irányuló igénynek az adatot kezelő szerv térítés nélkül tesz eleget. Az Avtv. 20. § (3) bekezdése szerint az adatkérőnek csak a másolat készítésének költségét kell megtérítenie. A törvény 1. §-a ezzel összhangban állapítja meg a közérdekű adat kiadásának térítésmentességét.
+
+A térítésmentesség azonban csak azokra az adatokra vonatkozik, amelyek változtatás nélkül átadhatók. Ha az adatkérés a meglévőtől eltérő formátumú adatokra vonatkozik, az adatok átalakításának költségét meg kell fizetni (3. §). Így például, ha az adatkérő még feldolgozatlan adatokat kérne elektronikus formában, akkor a feldolgozás költségét meg kell térítenie.
+
+A 2. §-hoz
+
+A törvény célja, hogy a költségvetési szervek adatvagyonát kutatási és hatásvizsgálati célra fel lehessen használni. Ennek érdekében a törvény az adatkezelők lehető legszélesebb körét kötelezi arra, hogy kérés esetén átadja adatait. A törvény azonban két további szempontot is figyelembe vesz: egyfelől azt, hogy a költségvetési szervek alapfeladatainak ellátását nem lehet veszélyeztetni, másfelől azt, hogy az adatok felhasználása szakértelmet igényel. A törvény 2. § (1) bekezdése szerint ezért az adatok anonimizálását csak állami vezető (a 2006. évi LVII. törvény 6. §-a szerinti értelemben) és kormányhivatal vezetője kérheti.
+
+A törvény 2. §-a három olyan tilalmat érint, ami mikroszintű adatok átadására vonatkozik: a személyes adatok átadását az Avtv., az egyedi adatokét az Stt., az adótitokét az Art. korlátozza. Mindhárom esetben annak a természetes személynek, vagy gazdasági szervezetnek a jogait védik a rendelkezések, akire, vagy amelyre az adat vonatkozik. Egyik rendelkezés sem áll ellentétben azzal a céllal, hogy ezeket az adatokat kutatási vagy hatásvizsgálati célra fel lehessen használni, feltéve, hogy az adatokból már nem lehet következtetni arra, akire vagy amire vonatkoznak.
+
+A 2. § ezért azt is előírja, hogy a mikroszintű adatot olyan átalakítás után lehet kiadni, melynek során visszafordíthatatlanul elvész az alanyával való kapcsolat.
+
+Más, bizalmasnak vagy érzékenynek tekintett adatok (pl. orvosi titok, vallásra, etnikai hovatartozásra vonatkozó adatok, pénztártitok) kezelését a törvény nem érinti, mivel az ezekre vonatkozó tilalom csak olyan esetben értelmezhető, ahol az átadott adat természetes személyhez vagy gazdasági szervezethez kapcsolható.
+
+A törvény 2. és 4. §-ai felhatalmazást adnak rá, hogy az adatkezelő anonimizálás érdekében kezelje a tulajdonában lévő személyes adatot. Az adatkezelés célja ez esetben az, hogy az adatok személyes mivolta megszűnjék, és ezáltal közérdekű adattá váljanak, ami egyúttal azt is lehetővé teszi, hogy a költségvetési szervek adatvagyona kutatási és hatásvizsgálati célra hozzáférhetővé váljon. Ez analóg az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben alkalmazott megoldással: ennek 4. § (1) bekezdése szerint az egészségügyi és személyazonosító adat kezelésének célja lehet c) statisztikai vizsgálat, vagy d) tudományos kutatás is.
+
+A hatásvizsgálat szükségességét az adatkérő dönti el, az Igazságügyi és Rendészeti Minisztérium e tárgyban kiadott útmutatása alapján. A 8001/2006. (I. 30) IM tájékoztató a szabályozási hatásvizsgálat elvégzésének módszertanáról részletes összefoglalást ad a közigazgatási hatásvizsgálati tevékenység elvégzéséhez szükséges tényekről és elvekről.
+
+A költségvetési szervek kezelésében lévő adatok elsődleges felhasználása jellemzően hatósági funkcióikhoz kapcsolódik, amit semmilyen másodlagos felhasználás nem veszélyeztethet. Ezért a 2. § (1) bekezdése egyértelművé teszi, hogy az ilyen adatok másolatát, és nem magát az eredeti adatot kell módosítani, anonimizálás céljából.
+
+Az adatok anonimizálását többféle módon is el lehet végezni. Az első lépés minden esetben a mesterséges és természetes azonosítók törlése. Bizonyos adatbázisok esetében azonban az adatokból is vissza lehet következtetni a személyre vagy vállalkozásra: például kisebb települések esetén a nem, az életkor, a település neve, és a személy foglalkozása is elegendő lehet az azonosításhoz. Ilyen esetben az adatok pontosságának csökkentésével (például település helyett kistérség, életkor helyett korcsoport) lehet megszüntetni a közvetett azonosítás lehetőségét. Ezt többféleképpen is el lehet végezni, ezért írja elő a 2. § (2) bekezdése, hogy a kutatási célt is figyelembe kell venni. Például az átképzési programok eredményességének vizsgálatához pontos adat kell a foglalkozásról: ekkor a lakóhelyre vonatkozó adatot lehet nagyobb bontásban megadni. A távolsági közlekedés kihasználtságának vizsgálatához viszont legalább kistérségi adatok szükségesek: ekkor például a foglakozásra vonatkozó adatot kell nagyobb bontásban megadni.
+
+A 2. § (3) bek. a személyes adatok védelmében előírja, hogy nem lehet átadni adatot, ha az anonimizálás nem lehetséges, de ezt írásban indokolni kell, annak érdekében, hogy az elutasítás megalapozottságát az adatkérő vitatni tudja.
+
+A 2. § (4) bek. tájékoztatási kötelezettséget ír elő, annak érdekében, hogy az adatkérések és az anonimizált adatok köre nyilvános, az adatvédelmi biztos és a potenciális felhasználók számára is megismerhető legyen.
+
+A 3. §-hoz
+
+A 3. § vonatkozik az 1., 2., 4. § szerinti adatkérésekre, úgy, hogy a kért formátumban rendelkezésre álló közérdekű adat átadásán kívül minden más adatkérés költségét ki kell fizetni.
+
+Tekintettel arra, hogy a költségvetési szervek adatbázisait alapvetően nem kutatási célra hozták létre, az ilyen célú adatkérések teljesítésének kezdetben lehet költsége. Mivel az adatok hasznosulása társadalmi érdek, ezért indokolt főszabály szerint előírni az adatátadás ingyenességét, azonban célszerű lehetőséget adni egyedi esetekben az ingyenesség, vagy a szoros határidő korlátjának feloldására, a felek megegyezése alapján, amire a 3. § (2) bek. lehetőséget ad.
+
+A mikroszintű adatok elemzése szakértelmet, számítógépes kapacitást és speciális számítógépes programokat igényel. Ma a költségvetési szervek többségénél ezek nem állnak rendelkezésre, ezért nem várható a mikroszintű adatok igénylésének hirtelen megnövekedése. A törvényben leírt szabályozás eredményeképpen rövid távon csak az adathozzáférés biztonsága és gyorsasága emelkedik, ami ugyanakkor lehetővé teszi, hogy a meglévő, korlátozott elemzési kapacitás jobban kihasználható lesz.
+
+A 4. §-hoz
+
+Mivel az adatok anonimizálása és kapcsolása időigényes, illetve költséges lehet, ezért célszerű az adatok módosítását is igénylő adatkérések jogosulti körét fokozatosan szűkíteni. A törvény 2. § (1) bek. szerint ezért az adatok anonimizálását csak állami vezető (a 2006. évi LVII. törvény 6. §-a szerinti értelemben) és kormányhivatal vezetője kérheti. Az adatok kapcsolását a 4. § (1) bek. alapján pedig egy még szűkebb kör, a miniszter és a kormányhivatal vezetője kérheti.
+
+A kérelmezői kör szűkítése azt is elősegíti, hogy az adatok csak olyan felhasználókhoz kerüljenek, akik birtokában vannak a felhasználáshoz szükséges szakismereteknek.
+
+A költségek csökkentését biztosítja a törvény 4. § (1) bekezdése, mely szerint az adatkezelő mintát vesz a nála található adatbázisból. Erre azért van szükség, mert a teljes adatbázis átadása költséges lehet, ugyanakkor a hatásvizsgálatokhoz az adatbázisból vett minta is elegendő.
+
+Az Avtv. szerint személyes adatok csak akkor kapcsolhatók össze, ha a) annak megfelelő jogalapja van, vagyis az érintett ahhoz hozzájárult, vagy törvény azt megengedi, és b) az adatkezelés feltételei minden egyes személyes adatra nézve teljesülnek [Avtv. 8. § (1) bekezdés].
+
+A törvény 4-5. §-a ezért olyan kapcsolási módot ír elő, amely biztosítja, hogy az adatkérő számára az adat nem lesz összekapcsolható az adatok alanyával, tehát nem személyes adat. Az adatbázis létrehozásáért felelős szerv is személyességüktől megfosztott formában kapja meg az adatokat, de egy olyan kóddal együtt, amelynek segítségével az egyes adatkezelők adatait össze tudja kapcsolni (ld. 1. ábra).
+
+A személyes adatok védelme érdekében a kapcsolást az adatbázis létrehozásáért felelős szerv végzi.
+
+Az 5. §-hoz
+
+Az anonim kapcsolást egy ún. egyirányú algoritmus teszi lehetővé, amely kapcsolati kódot képez, ugyanabból az adatból mindig ugyanazt, amelyből viszont nem lehet visszanyerni az eredeti adatot. Az ilyen tulajdonságú kódok egyik leggyakrabban alkalmazott formája a hash függvény. A törvény 5. § (1) bek. szerint ezt az „anonim” kapcsolati kódot minden adatkezelőnél egyaránt rendelkezésre álló személyazonosító adatokból kell képezni, így ugyanazon algoritmus használatával minden adatkezelő ugyanazt a kapcsolati kódot fogja létrehozni.
+
+Például annak vizsgálatához, hogy a táppénz szabályozása hogyan hat a munkakínálatra, az Országos Egészségbiztosítási Pénztár táppénz adatait és az Országos Nyugdíjbiztosítási Főigazgatóság járulékbevallásra (munkavállalásra) vonatkozó adatait kell összekapcsolni. Mindkét szervezet a TAJ alapján azonosítja az egyéneket, így ebből képeznék a kapcsolati kódot.
+
+1. ábra: Két adatbázisból vett minta összekapcsolása anonim kapcsolati kóddal
+
+Konkrét példán szemléltetve a folyamat a következő (lásd 1. ábra). Az adatbázis létrehozásáért felelős szerv 1.) meghatároz egy hash függvényt és ezt megküldi az egyik adatkezelőnek. Ha az 1. adatkezelő az OEP, akkor az OEP mintát vesz a nála tárolt adatokból, és minden, a mintában szereplő TAJ számra lefuttatja a hash algoritmust, ami a mintaelem-számmal megegyező számú hash kódot eredményez. A 2.) második lépésben kizárólag ezeket a hash kódokat küldi meg az adatbázis létrehozásáért felelős szervnek, aki azokat 3.) továbbítja a 2. adatkezelőnek a hash függvénnyel együtt. Ha a 2. adatkezelő a példában az ONYF, ő a saját adatbázisában szereplő TAJ számokon lefuttatja a hash algoritmust, majd az adatbázis létrehozásáért felelős szervtől megkapott hash kódok alapján kiválogatja a mintát. Ezután, 4.) mindkét adatkezelő elküldi a mintát és a hozzájuk tartozó hash kódokat az adatbázis létrehozásáért felelős szervnek, aki a hash kódok alapján a két különböző adatbázisból származó adatokat összekapcsolja, majd a hash kódokat törli. Utolsó lépésként 5.) az adatkérő megkapja a személyes jellegétől megfosztott, kapcsolt mintát.
+
+Az 5-8. §-ok a személyes adatok védelmét biztosító garanciákat tartalmaznak. Az 5. § előírja, hogy a kapcsolati kódokat és a kapcsolás módszerét is törölni kell, amint a felhasználás célja megvalósult. Ez azért szükséges, hogy az adatok személyességének visszaállítására ne csak az adatkezelés időpontjában, hanem később se legyen lehetősége egyik adatkezelőnek sem.
+
+Az 5. § (1) bek. a kódképzés módszerét úgy határozza meg, hogy egyik adatkezelő se tudja a kód segítségével más adatkezelő adatát azonosításra alkalmas módon meglévő adatbázisával összekapcsolni.
+
+Az 5. § (5) bek. előírja, hogy az adatbázis létrehozásáért felelős szerv egy öt napos időszakot jelöl ki, amelyben az adatkezelők átadják a kapcsolandó adatokat. Ez nem az adatok anonimizálására és leválogatására megszabott határidő, hanem az adatok átadására kijelölt időszak, amely arra szolgál, hogy az adatbázis létrehozásáért felelős szervnek ne legyen lehetősége más adatkezelőktől más adatkérés folytán kapott adatokat összekapcsolni, és idővel olyan adatbázist létrehozni, ami már lehetővé tenné személyek vagy szervezetek azonosítását. Ugyanezt a célt szolgálja az az előírás, hogy az anonim kapcsolati kód képzési módszerében véletlenszerű elemet is kell használni (így több adatkérést nem lehet ugyanazzal a kóddal megvalósítani).
+
+A 6. §-hoz
+
+A 6. § utal arra, hogy az adatok anonimizálását és kapcsolását az adatvédelmi biztos ellenőrizheti. Az ellenőrzéshez szükséges információkat biztosítja, hogy a 7. § szerint az adatbázis létrehozásáért felelős szerv köteles nyilvántartani és közzétenni az adatkéréseket és kapcsolásokat.
+
+A 7. §-hoz
+
+További garancia a személyesség visszaállításának megakadályozására, hogy az adatot úgy kell átadni, hogy abból a lakóhelyet a kistérségnél pontosabban ne lehessen meghatározni, vagyis a lakcímet nem lehet átadni, és hogy a mintának legalább 100 elemet kell tartalmaznia. Ennek hiányában ugyanis előfordulhatna, hogy ha a lakcím kevés lakosú településre utal, néhány további adat birtokában már azonosíthatóvá válik az adatok alanya. A minta továbbá teljes népességre vonatkozó (vagyis nem eleve mintavételen alapuló) adatbázisok esetén nem lehet nagyobb 50 százalékosnál. Az 50%-os mintaméret kizárja annak lehetőségét, hogy ugyananaz az adatkérő több különálló adatkéréssel ugyanarra a csoportra vonatkozó adatokhoz jusson, de még nem korlátozza a kistérségi vagy települési szintű adatokat kezelő szervek adatainak elemezhetőségét.
+
+Az adatbázis létrehozásáért felelős szerv szerepe kettős: egyfelől biztosítja, hogy két külön adatbázist személyes adatoktól mentesen lehessen összekapcsolni. Másfelől az adatkérések és adatszolgáltatások nyilvántartásával elősegíti az adatvédelmi biztos ellenőrző tevékenységét.
+
+A Központi Statisztikai Hivatal (KSH) alapfeladatának ellátásához nélkülözhetetlen az adatszolgáltatók bizalma. Ennek megőrzése érdekében fontos azt biztosítani, hogy a KSH kizárólag statisztikai, kutatási, vagy hatásvizsgálati célra ad át adatot az adminisztratív adatokat kezelő költségvetési szerveknek. A törvényben lévő adatátadási folyamat és garanciák biztosítják ezt, a 7. §-ban előírt nyilvántartási kötelezettség pedig elősegíti azt, hogy a természetes személy és a gazdálkodó szervezetek meggyőződhetnek az adatátadások céljáról és az adatok köréről, így arról is, hogy az adatokból nem azonosítható az eredeti adatszolgáltató.
+
+A 8. §-hoz
+
+A 8. § definiálja a 4. §-ban bevezetett anonim kapcsolati kódot és a 7. §-ban említett kistérséget. Az 5. és 8. §-okban meghatározott egyirányú (egyértelmű, de nem visszafejthető) „anonim” kapcsolati kód képezésére alkalmasak az úgynevezett hash-függvények. A hash-függvény olyan egyirányú függvény, amely egy hosszú, tetszőleges karaktersorozat adott hosszúságú lenyomatát készíti el. A lenyomat fix hosszúságú karaktersor, amely jellemző az eredeti karaktersorozatra abban az értelemben, hogy más szöveghez biztosan más hash érték tartozik, de adott lenyomatból lehetetlen visszafejteni az eredeti karaktersorozatot. Számos ilyen függvény létezik (pl. SHA1, MD5, CRC32, ADLER32 stb.)
+
+A személyes azonosíthatóság ilyen módú megszüntetésének már kialakult gyakorlata van Magyarországon. A Nemzeti Hírközlési Igazgatóság az elektronikus aláírás alkalmazásával kapcsolatban hozott 2005. decemberi, HL-20336-6/2005. ügyiratszámú határozata közli egyes, biztonságos kriptográfiai algoritmusok listáját, melyek között több lenyomat (hash) függvény szerepel.
+
+A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvényben meghatározott kapcsolati kód [3. § d) pont és 26. §] alkalmazását az előterjesztés nem érinti. Az előterjesztés kifejezetten az anonimizált adatok összekapcsolására alkalmas kódot határoz meg, amelynek funkciója és így képzési módja is eltér a költségvetési szervek közötti adminisztratív adatátadásban használt kapcsolati kódtól. A megkülönböztetés érdekében ezt az új kódot anonim kapcsolati kódnak nevezi el a 8. §.
+
+A 8. § (2) bekezdése egyértelművé teszi, hogy a törvény nem oldja fel a nemzetbiztonsági okokból nem közérdekű, minősített adatok átadására vonatkozó tilalmat.
+
+A 9. §-hoz
+
+Az Avtv. és az Stt. rendelkezéseivel a törvény összhangban van, így azok módosítására nincs szükség. Az adótitok meghatározását (Art. 53. §) viszont módosítja a törvény 9. §-a, a jelenlegi jogértelmezésben ugyanis azokat az adatokat is adótitokként kezelik a jogalkalmazók, amelyeket a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény nyilvánosnak minősít. Ez nem érinti az adóhatóság jogát arra, hogy az adatátadással kapcsolatos költségei fejében térítést kérjen.
+
+A 10. §-hoz
+
+A 10. § (1) bekezdése az egyértelműség érdekében kiegészíti a meglévő rendelkezést, miszerint az adatok kezelése nem csak kutatás, hanem hatásvizsgálati célú anonimizálás esetében is megengedett (az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. tv.-ben).
+
+Az 1997. évi XLVII. törvény 22. § (6) bekezdése idén január 1-je óta hatályos szabályozása szerint az adatokat csak öt évig lehet kezelni. E törvény 10. § (2) bekezdésében lévő módosítás azért indokolt, mert egyfelől az OEP feladatainak ellátásához is szükséges a hosszabb idejű adattárolás, mivel egyes szabályok öt évnél hosszabb időtávot érintően rendelkeznek egyes gyógyászati segédeszköz, illetve egyedi méltányosság keretében nyújtott ellátások jogosultságáról. Másfelől, a hatásvizsgálatokhoz felhasználható adatok törlése egyes, hosszabb távú folyamatok vizsgálatát lehetetlenné, vagy rendkívül költségessé teszi, míg adatvédelmi szempontból csak az azonosíthatóság megszüntetése indokolt - az érdemi adatok törlése nem.
+
+A 11. §-hoz
+
+A 11. § felhatalmazást ad a Kormánynak végrehajtási rendelet megalkotására, amelyben kijelöli az adatbázis létrehozásáért felelős szervet és rendelkezik a működését érintő részletekről, illetve lehetőséget ad az adatkérők körének bővítésére. A felelős szervet az Einfotv.-ben előírt közadatkereső rendszerre vonatkozó szabályozással összhangban célszerű kijelölni.
+
+-----STARTING---POINT---VEGE---
+
+A 12. §-hoz
+
+A törvény részben 2007. július 25-én hatályba lépett, egyes rendelkezései azonban december 1-jén lépnek hatályba

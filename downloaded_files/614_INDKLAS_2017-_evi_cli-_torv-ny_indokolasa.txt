@@ -1,0 +1,689 @@
+2017. évi CLI. törvény indokolása
+
+az adóigazgatási rendtartásról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A Kormány 2016. április 4-i ülésén tárgyalt és elfogadott Art. koncepció szerint az újraszabályozás célja
+
+- a lehetőségekhez mérten rövid, átlátható, közérthető és könnyen követhető szabályozási környezet megteremtése,
+
+- az adóhatóság szolgáltató jellegének erősítése,
+
+- az önkéntes jogkövetők intézményesített támogatása kötelezettségeik teljesítésében,
+
+- az eljárási határidők és a jogorvoslati rend felülvizsgálatával olyan eljárások kialakítása, melyek ésszerű időn belül lezárhatóak;
+
+- az adóhatóság rendelkezésére álló információk, adatok hatékonyabb felhasználásával az adózókkal való személyes kapcsolatfelvétel esetköreinek szűkítése,
+
+- az adózók adminisztrációs terheinek csökkentése, az adókötelezettségeik teljesítésének megkönnyítése.
+
+A törvény ezen célkitűzésekre figyelemmel az alábbi főbb módosításokat tartalmazza:
+
+Ellenőrzés
+
+Egyszerűsödik az ellenőrzési struktúra, a korábbi hét ellenőrzési típussal szemben a törvény két ellenőrzés fajtát nevesít:
+
+A jogkövetési vizsgálat keretében az adóhatóság ellenőrizheti, hogy az adózó eleget tett-e a törvényekben előírt egyes adminisztratív adókötelezettségeinek, adatokat gyűjthet, vizsgálhatja a gazdasági események valódiságát.
+
+Az adóellenőrzés során az adóhatóság az adózó adómegállapítási, bevallási kötelezettségének teljesítését adónként, támogatásonként és időszakonként vizsgálja.
+
+Valamennyi adózót érintően bekerült a törvénybe egy objektív ellenőrzési határidő, mely szerint az adóellenőrzés időtartama nem haladhatja meg a 365 napot. A cégbejegyzésre nem kötelezett adózók tekintetében megmarad a hatályos törvény szerinti 180 napos maximális ellenőrzési határidő, mely csak abban az esetben léphető túl, ha az adózó az ellenőrzést akadályozza.
+
+Az alap ellenőrzési határidők (adóellenőrzés 90/120 nap, jogkövetési vizsgálat 30 nap) változatlanok.
+
+Megszűnik minden ellenőrzési határidő nyugvási ok, így a törvény szerint nem fog szünetelni az ellenőrzési határidő pl. a kapcsolódó vizsgálat és a külföldi megkeresés időtartama alatt.
+
+Az ellenőrzési határidő meghosszabbíthatja indokolt esetben az ellenőrzést végző adóhatóság vezetője 90 nappal, a felettes szerv 90 nappal, valamint a NAV vezetője, illetve önkormányzati adóhatóság esetén a nemzetgazdasági miniszter 90 nappal. Az ellenőrzés határidő azonban a meghosszabbítása esetén sem haladhatja meg a 365 napot.
+
+Jogorvoslat
+
+A hatályos szabályoknak megfelelően fennmarad a fellebbezés lehetősége az adóhatóság határozatai, végzései ellen. Lényeges változás azonban, hogy a fellebbezésben, illetve a fellebbezés alapján indult eljárásban a törvény szerint nem lehet olyan új tényt állítani, illetve olyan új bizonyítékot előadni, amelyről a fellebbezésre jogosultnak az elsőfokú döntés meghozatala előtt tudomása volt, azonban azt az adóhatóság felhívása ellenére nem terjesztette elő. Az ellenőrzések mielőbbi lezárásában ugyanis az adózók sok esetben ellenérdekeltek. Minél jobban elhúzzák az eljárást, minél később terjesztenek elő érdemi bizonyítékokat - sok esetben már csak a bírósági eljárásban, melynek így az adóhatóság új eljárásra utasítása a következménye - annál több az esély a vizsgált adómegállapítási időszak elévülésére, amikor az adóhatóság már nem tehet megállapítást.
+
+Bővül a felettes szerv intézkedési lehetősége az elsőfokú döntés felülvizsgálata körében. A törvény szerint, ha a fellebbezés alapján eljáró másodfokú adóhatóságnak a döntéshozatalhoz nem áll elég adat a rendelkezésére, vagy a tényállás további tisztázása szükséges, nem kell feltétlenül megsemmisítenie a felülvizsgált határozatot és az első fokon eljárt adóhatóságot új eljárásra utasítani. Lehetőség van arra, hogy a felettes szerv a tényállás kiegészítése érdekében maga intézkedjen, melynek keretében az első fokon eljárt adóhatóságot a szükséges eljárási cselekmények elvégzésére utasíthatja anélkül, hogy az egész eljárás újra kezdődne.
+
+Jelenleg rendkívüli jogorvoslati lehetőségként bármely adóügyben benyújtható felügyeleti intézkedés iránti kérelem az adóhatósághoz az elévülési időn belül bármikor, ugyanazon ügyben akár többször is. Annak érdekében, hogy az eljárások mielőbb végérvényesen lezáruljanak, a törvény szűkíti a felügyeleti intézkedés iránti kérelmek benyújtási lehetőségét mind tárgyában, mind idejében. Felügyeleti intézkedés iránti kérelem ugyanazon határozat, illetve végzés ellen csak egy alkalommal, a döntés jogerőre emelkedésétől számított egy éven belül nyújtható be.
+
+Kapcsolattartás az adózókkal
+
+Jelenleg csak a törvényben nevesített adóügyekben van lehetőség az elektronikus ügyintézésre. A törvény az elektronikus ügyintézésről szóló törvénnyel összhangban teljes körűvé teszi az elektronikus ügyintézés lehetőségét.
+
+Az eseti meghatalmazások tekintetében - néhány kötelező szakmai képviselettel járó ügy kivételével - kikerülnek a törvényből a képviselővel szemben támasztott szakmai követelmények, megkönnyítendő ezzel az adózók számára a képviselő útján történő eljárást. Az állandó meghatalmazással eljárók tekintetében továbbra is meghatározza a törvény azt a szakmai kört, akik jogosultak képviseletet ellátni.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az Art. első fejezete határozza meg azokat a normatív tartalommal bíró, túlnyomórészt az adóhatóságra, azonban az adózókra és az eljárás egyéb részvevőire is egyes esetekben vonatkozó követelményeket, amelyeket az eljárás során valamennyi adóügyben alkalmazni kell.
+
+Az Alapelvek címszó alatt a törvény meghatározza azokat a normatív tartalommal bíró, mind az adóhatóságra, mind az adózókra és az eljárás egyéb részvevőire is vonatkozó követelményeket, amelyek a törvény alkalmazása során mindvégig, az eljárás minden fázisában és minden szereplő által követendők. Az alapelvek egy része az adózókat, vagy az eljárás egyéb résztvevőit megillető jogokat és kötelezettségeket fejezik ki, illetve az adóhatóság hatáskör gyakorlásával kapcsolatos kötelezettségeinek általános jogelveit testesítik meg. Az alapelvek az egyedi eljárási szabályok alkalmazása során segítik az adott normák értelmezését, ugyanakkor normatív rendelkezésként közvetlenül jogalkalmazási döntés alapját képezhetik.
+
+Az Alapelveket jelen törvényben átfogóan szabályozza, azaz minden olyan alapelve, amely eljárásjogi értelemben az adóigazgatási eljárásban alkalmazandó, azt e pont tartalmazza. Ezen átfogó szabályozást az indokolja, hogy az adóigazgatási eljárás önálló eljárásjogi kódexszé válik, hiszen az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) hatálya az adóigazgatási eljárásra nem terjed ki, így ezen elvekről szükséges külön rendelkezni.
+
+A törvény hangsúlyozza a törvényesség (legalitás) elvét, azaz mind az adóhatóságnak, mind az adózónak egyaránt kötelessége a törvényeknek megfelelő eljárás. A legalitás elve az adóhatóság szempontjából a normához kötöttséget jeleni, azaz az adóhatóság eljárása keretében kizárólag a jogszabályban meghatározott módon járhat el, és az eljárása során csak az ott rögzített jogkövetkezményeket alkalmazhatja. Az adózók szempontjából a legalitás elve azt írja elő, hogy a jogaik gyakorlása és kötelezettségeik teljesítése során kizárólag a jogszabályok szabta keretek között járhatnak el.
+
+A 2. §-hoz
+
+A szakszerű és hatékony eljárás elve olyan célokat fogalmaz meg, amelyek az adóhatóságot bizonyos szervezési munkára kötelezik a költségtakarékosság és a hatékonyság érdekében. Az alapelv legfontosabb célja szerint az adóeljárást úgy szükséges lefolytatni, hogy az adóhatóságnak, illetve az adózónak a lehető legkevesebb adminisztratív terhet, költséget okozza. A hatékonyság és a költségtakarékosság érdekében azonban az adóhatóság nem lépheti át a törvényesség és szakszerűség elvét.
+
+A 3. §-hoz
+
+A törvény általánosságban tiltja a pozitív és negatív diszkriminációt. A megkülönböztetés és „részrehajlás” tilalma és az egyenlő elbánás alapelve alapján az adóhatóság megkülönböztetés nélkül köteles eljárni. Ezen alapelvvel nem ellentétes a méltányosság gyakorlása, ha annak alkalmazására a törvény felhatalmazza az adóhatóságot.
+
+A 4. §-hoz
+
+A törvény bevezeti az egyedi elbírálás elvét. Ezen alapelv szerint jogszerű döntést az adóhatóság valósághű tényállás feltárása alapján tud hozni. Az adóhatóságnak feladata, hogy az ügy eldöntéséhez szükséges bizonyítékokat, adatokat összegyűjtse, a bizonyítékokat számba vegye, azokat súlyuknak megfelelően értékelje és az ügy körülményeinek gondos mérlegelésével megalapozott döntést hozzon.
+
+Az 5. §-hoz
+
+E § tartalmazza a méltányos eljáráshoz való elvet. A méltányosság a jelen rendelkezésben kettős értelemben jelenik meg, hiszen a méltányosságot a tervezet egyrészt általános eljárási normává teszi, azaz a törvényi rendelkezések egységes érvényesítése során a körültekintő és „igazságos” ügyintézés követelményét, másrészt meghatározott feltételek mellett kifejezett méltányossági jogkört biztosít az adóhatóság számára, amely egyedi esetekben lehetőséget ad az enyhítésre a törvény szigorával szemben.
+
+A 6. §-hoz
+
+A törvény meghatározza a tájékoztatási kötelezettséget, az adózói jogok gyakorlásának előmozdításának elvét. Az adóhatóság feladata az adózók jogkövető magatartásának elősegítése, így alapelvi szintű kötelezettsége az ehhez szükséges tájékoztatás megadása. A törvény az adóhatóság figyelmeztetési kötelezettségét is előírja azért, hogy az adózó a jogszabály által biztosított jogokkal élni tudjon.
+
+A 7. §-hoz
+
+A közérthetőség elvének hangsúlyozása azt a célt szolgálja, hogy az adóigazgatási eljárásokban az adóhatóság egyszerű, közérthető nyelvezet alkalmazására törekedjen az adózókkal való kapcsolattartás során. Ennek az alapelvnek kiemelt szerepe van abban, hogy az adózók olyan tájékoztatást kapjanak, amely ténylegesen elősegíti adókötelezettségeik teljesítését. A közérthetőség alapelve következtében nem elegendő, hogy az adóhatóság a hatályos jogszabályi kötelezettségeket ismerteti az adózóval, hanem azt közérthetően kell megtennie.
+
+A 8. §-hoz
+
+A törvény kiemeli az adózó és az eljárás egyéb résztvevője jóhiszemű és együttműködő magatartásának követelményét. A jóhiszemű joggyakorlás és a közreműködés az adóhatóságot, az adózót és az eljárás egyéb résztvevőjét terhelő kötelezettség. E szabály gyakorlati jelentősége különösen az ellenőrzés és a tényállás tisztázása, a bizonyítás során kiemelkedő. A jóhiszemű joggyakorlás azt jelenti, hogy az adózó a jogintézményekkel célhoz és tartalomhoz kötötten élhet, azaz az adózó jogait rendeltetésszerűen gyakorolhatja, és magatartása az adóigazgatási eljárások során az adókötelezettségeinek megfelelő, tisztességes teljesítésére kell, hogy irányuljon. Ennek következtében az adózó és az eljárás egyéb résztvevője mind az adóhatósági eljárásában, mind az adókötelezettségei teljesítése során köteles jóhiszeműen eljárni. Az együttműködési kötelezettség keretében az adózó köteles az adóhatóság feladatainak végrehajtását, megvalósulását elősegíteni.
+
+A 9. §-hoz
+
+A törvény bevezeti az adóigazgatási eljárás fogalmát, amely keretében az adóhatóság van feljogosítva arra, hogy az adózó jogait és kötelezettségeit megállapítsa, valamint ellenőrizze azokat teljesítését. Emellett az adóigazgatási eljárás fogalmában beletartozik a nyilvántartás-vezetési kötelezettség az adózást érintő tényekről, adatokról, körülményekről, valamint a nyilvántartásban szereplő adatról az adóhatóság igazolást is kiállít. Az adóigazgatási eljárás során hozott döntéseket az adóhatóság érvényesíti is.
+
+A 10. §-hoz
+
+A törvény megállapítja, hogy az adóhatóságok felügyeleti jogkörét ellátó miniszter (adópolitikáért felelős miniszter és az állami adó- és vámhatóságot irányító miniszter) adóügyben történő eljárása esetén az adóhatóságra vonatkozó jogok és kötelezettségek megilletik.
+
+A 11. §-hoz
+
+A rendelkezés meghatározza az adózó adóeljárási fogalmát. Adózónak minősül, akit anyagi jogi jogszabály adóalanynak tekint. Az adóalanyok köre - azok a személyek, akikre a törvények adókötelezettséget vagy legalábbis adófizetési kötelezettséget írnak elő - az adót és a költségvetési támogatást megállapító törvényekben meghatározásra kerülnek. Ezen felül az adózó fogalma alá tartoznak mindazok, akikre az egyes adótörvények vagy e törvény valamilyen adókötelezettséget ír elő.
+
+A bizalmi vagyonkezelés szabályait a 2014. március 15. napjától hatályos Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) vezette be. A Ptk.-ban szereplő jogintézmény lényege, hogy a bizalmi vagyonkezelői szerződés alapján az egyik jogalany (a vagyonrendelő) vagyonát képező meghatározott dolgok, jogok és követelések (együtt: kezelt vagyon) tulajdonjogát egy másik jogalany (a vagyonkezelő) részére átengedi, aki az így megkapott döntési jogosultság gyakorlásával kell, hogy a rábízott vagyont egy harmadik személy (a kedvezményezett) javára hasznosítsa. A vagyonrendelő ezért díj fizetésére köteles. A bizalmi vagyonkezelés intézményének adóeljárási szabályozási alapja, hogy a kezelt vagyont adózóként határozza meg a törvény.
+
+Az adó megfizetésére kötelezett a törvény szerint nem adózó. Az adó megfizetésére kötelezettet kizárólag az adó megfizetésének kötelezettsége terheli, garanciális szabály azonban, hogy e személyek gyakorolhatják az adózókat megillető jogokat.
+
+A 12. §-hoz
+
+A törvény rögzíti, hogy polgári jog szerinti jogutódot megilletik mindazon jogok, amelyek a jogelődjét, valamint teljesítenie kell a jogelőd által nem teljesített kötelezettségeket. A kötelezettségeket vagyonarányosan teljesítik, szintén vagyonarányosan jogosultak a költségvetési támogatásokra is. Abban az esetben, ha a jogutódok nem teljesítenek, a tartozásokért a jogelőd és a jogutód egyetemlegesen felel.
+
+A 13. §-hoz
+
+Az eljárási képességre vonatkozó szabályokat az adóigazgatási eljárás során alkalmazni kell. Az adózó abban az esetben rendelkezik eljárási képességgel, ha az ügy tárgyára vonatkozóan cselekvőképesnek minősül.
+
+A 14. §-hoz
+
+A képviselet igénybevételének lehetősége biztosítja az adózó vagy az adó megfizetésére kötelezett személy számára, hogy ha nem kíván, vagy nem tud személyesen eljárni, akkor képviselőt vehet igénybe. Ha e törvény előírásai szerint az adózó személyes részvételre köteles valamely eljárási cselekmény során, akkor képviselet igénybevételére nincs lehetőség.
+
+A 15. §-hoz
+
+Az adóigazgatási eljárásokban a meghatalmazáson alapuló képviselet állandó vagy eseti képviselet lehet. A korábbi szabályozáshoz képest a törvény az eseti meghatalmazás tekintetében - néhány kötelező szakmai képviselettel járó ügy kivételével - megszűnteti a képviselővel szemben támasztott szakmai követelményeket, megkönnyíti ezzel az adózók számára a képviselő útján történő eljárást. A törvény taxatíve felsorolja, hogy jogi személyt és egyéb szervezetet az adóhatóság, az adópolitikáért felelős miniszter által vezetett minisztérium előtt állandó meghatalmazással ki képviselhet. Az állandó meghatalmazással eljárók tekintetében továbbra is meghatározza a törvény azt a szakmai kört, akik jogosultak képviseletet ellátni. A törvény a korábbi szabályozáshoz képest a visszaélések megelőzése érdekében egyértelműen kizárja a képviseletre jogosultak köréből azon természetes személyeket, akiket a cégbíróság vagy büntető bíróság jogerősen eltiltott a vezető tisztségviselői tisztség gyakorlásától.
+
+A 16. §-hoz
+
+A törvény meghatározza mely eljárások esetében kötelező az adózónak szakmai képviseletet igénybe vennie.
+
+A 17. §-hoz
+
+A törvény taxatíve felsorolja, hogy jogi személyt és egyéb szervezetet az adóhatóság, az adópolitikáért felelős miniszter által vezetett minisztérium előtt állandó meghatalmazással ki képviselhet. Természetes személyt képviseletre alkalmas nagykorú személy képviselhet állandó meghatalmazással.
+
+A 18. §-hoz
+
+A törvény egy speciális szabályt fogalmaz meg az általános forgalmi adó törvény szerinti áfa-visszatérítési eljárásban a képviseleti szabályokra vonatkozóan.
+
+A 19. §-hoz
+
+A külföldi székhelyű vállalkozás a rá vonatkozó törvény alapján gazdasági tevékenységet Magyarországon fióktelep útján végezhet. E szakaszban kerültek szabályozásra a fióktelepre, mint adózási ügyvivőre vonatkozó speciális rendelkezések. Az adózási ügyvivőként fióktelep teljesíti a külföldi vállalkozás belföldi adókötelezettségeit, és gyakorolja az adózót megillető jogokat. Több fióktelep esetén az egyes fióktelepeken folytatott gazdasági tevékenységével összefüggő adókötelezettségeket a fióktelepek önállóan teljesítik, azonban olyan jognyilatkozatokat csak együttesen tehetnek meg, amelyek a külföldi vállalkozás más belföldi fióktelepeinek adózására is kihatnak.
+
+A 20. §-hoz
+
+A törvény lehetőségként biztosítja a külföldi vállalkozásoknak, hogy magyarországi adókötelezettségeiket pénzügyi képviselő útján teljesítsék. Pénzügyi képviseletet belföldi adókötelezettségeinek teljesítésére az a külföldi vállalkozás bízhat meg, amely a belföldi gazdasági tevékenységével összefüggésben gazdasági célú letelepedésre nem köteles. A rendelkezés meghatározza a pénzügyi képviselői minőséghez kapcsolódó speciális szabályokat, így például a pénzügyi képviselői minőséghez szükséges feltételeket, a pénzügyi képviselő bejelentési kötelezettségét, a pénzügyi képviselő bevallási és irat megőrzési kötelezettségeit.
+
+A 21. §-hoz
+
+A kezelt vagyonra vonatkozó képviseleti szabályok értelmében a bizalmi vagyonkezelő jár el a kezelt vagyon adózása tekintetében. E rendelkezés meghatározza a bizalmi vagyonkezelő speciális jogait és kötelezettségeit az adóeljárás során (pl.: elkülönült irat megőrzési kötelezettség).
+
+A 22. §-hoz
+
+A törvény taxatív módon sorolja fel az adóhatóságokat. A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV), mint az állami adóhatóság és vámhatóság. A NAV 2011. január 1-jei létrejöttével egyidejűleg az Adó- és Pénzügyi Ellenőrzési Hivatal és a Vám- és Pénzügyőrség megszűnt, és általános jogutódja a NAV lett. A NAV 2015. december 31-ig az Országgyűlés által törvényben létrehozott és a miniszterelnök által alapított, jogi személyiséggel rendelkező, kormányhivatalként működő központi költségvetési szervként működött. A NAV tevékenysége három szakmai ág köré szerveződött - az adóigazgatás, a vámigazgatás és a bűnügyi tevékenység -, melyeket központi, közép- és alsó fokú szervei útján látott el. A NAV kormányhivatali státusza 2016. január 1-jétől megváltozott. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (NAV tv.) rendelkezései alapján a NAV államigazgatási és fegyveres rendvédelmi feladatokat ellátó központi hivatalként működő központi költségvetési szervként működik tovább. Ezzel egyidejűleg megvalósult a vám- és az adóterület integrációja az első fokú szervek szintjén is, amire a NAV 2011-es felállítása óta nem került sor.
+
+Önkormányzati adóhatóság az önkormányzat jegyzője.
+
+Adóhatóság a fővárosi és megyei kormányhivatal is, ha az önkormányzati adóhatóság felettes szerveként (vagyis másodfokon) jár el. A fővárosi és megyei kormányhivatal kizárólag annyiban minősül adóhatóságnak, ha az önkormányzati adóhatóság felettes szerveként jár el.
+
+A 23. §-hoz
+
+A felettes szervről rendelkezik.
+
+A 24. §-hoz
+
+Jelen rendelkezés az önkormányzati adóhatóságok felügyeletével kapcsolatos hatásköri feladatokat határozza meg. A törvényben meghatározásra került, hogy az önkormányzati adóhatóság hatáskörébe tartozó adóztatás törvényességének, az önkormányzati adóhatóságok irányításának, valamint a törvények és más jogszabályok végrehajtásának ellenőrzése egy át nem ruházható hatáskör.
+
+A 25. §-hoz
+
+A törvény szabályozza az eljárási kötelezettség szabályait. Ha az adóhatóság a hatáskörébe tartozó ügyben nem jár el, akkor erre felettes szerve utasíthatja. Továbbá a közigazgatási perrendtartástól szóló törvény szerint a közigazgatási bíróság is kötelezheti erre az adóhatóságot mulasztási per keretében. Ez utóbbi eljárásról nem a törvény, hanem a közigazgatási perrendtartásról szóló törvény XXII. fejezete rendelkezik.
+
+A törvény továbbá a hatáskörelvonás tilalmát is megállapítja, azaz olyan ügy nem vonható el az adóhatóságtól, amely a hatáskörébe tartozik.
+
+A 26. §-hoz
+
+A hatáskör és az illetékesség vizsgálatának követelményét a törvény előírja, azzal, hogy az ügyben hatáskörrel és illetékességgel rendelkező adóhatóság ennek hiányában a kérelmet visszautasítja vagy az eljárást megszünteti, az e cselekményekre irányadó feltételek szerint. Az áttétel jogintézményét fenntartja a törvény, azonban alkalmazási körét a jogalkalmazásban felmerült problémák kiküszöbölése érdekében a teljesen egyértelmű esetekre szűkíti.
+
+A 27. §-hoz
+
+A törvény bevezeti a megelőzés intézményét. A megelőzés szabályai alapján megállapítható, hogy az ügyben az a szerv jár el, amelynél az eljárás előbb indult.
+
+A 28. §-hoz
+
+A törvény a hatásköri és illetékességi vita tárgyában egyeztetési kötelezettséget ír elő az adóhatóságok között, ami gyors és megnyugtató megoldást biztosíthat a felügyeleti szerv bevonásának mellőzésével.
+
+A 29. §-hoz
+
+Az adóigazgatási eljárás megindításának módját szabályozza, miszerint kérelemre és hivatalból is indulhat eljárás.
+
+A 30-31. §-hoz
+
+A törvény a Regionális vagy Kisebbségi Nyelvek Európai Kartájával, továbbá a nemzetiségek jogairól szóló törvény anyanyelv-használati szabályaival összhangban állapítja meg az adóigazgatási eljárásban a nyelvhasználat szabályait. A hatósági bizonyítvány kiállítására és a hatósági nyilvántartásba történő bejegyzés módjára jogszabály az általánostól eltérő nyelvhasználati szabályokat állapít meg. A törvény azért ebben az alcímben helyezte el ezt az eltérést engedő szabályt, mert az jellegét tekintve a nyelvhasználattal szorosan összefüggő rendelkezés.
+
+A 32-34. §-hoz
+
+A kizárás az ügy elfogulatlan intézéséhez fűződő érdek biztosítéka. A kizárásra vonatkozó szabályokat a törvény a jogalkalmazási tapasztalatok figyelembevételével továbbfejleszti, és újragondolva meghatározza a jogintézmény szabályainak logikai rendjét. A legáltalánosabb szabályként első helyen rögzíti, hogy az ügy elintézésében nem vehet részt az a személy, akitől nem várható el az ügy tárgyilagos megítélése. Ez az ügyintéző és a döntéshozó személyében rejlő szubjektív ok, amely mindenkor mérlegelés tárgya, a törvény ilyennek tekinti például a hozzátartozói viszonyt.
+
+Ettől elkülönítve tárgyalja a törvény azokat az eseteket, amelyekben a törvény objektíve - az érintett személy tudati viszonyulásától függetlenül - érdekeltnek tekinti az ügyintéző és a döntéshozó személyt, akik így a törvény erejénél fogva kizárás alá esnek. Meghatározza ugyanakkor azokat az ésszerű kivételeket is, amikor a kizárás érvényesítése azért nem indokolt, mert a döntéshozónak a szervezeti rendszerben elfoglalt helye vagy az eljárásban hozható döntés jellege nem jár olyan érintettséggel, amely a döntéshozó bármilyen, az ügyre kiható elfogultságához vezetne.
+
+Új rendelkezés, hogy a kizárásról végzéssel csak akkor kell dönteni, ha a kizárást az adózó kéri, ugyanis az ügyintéző általi bejelentés esete a hatóság belső munkaszervezési, ügyelosztási döntési körébe tartozik, amit nem indokolt formális aktushoz kötni (ahogy pl. az ügyek szignálása sem formális aktus). Az adózó kizárási kezdeményezése azonban már az adózói jogokat közvetlenül érintő döntést tesz szükségessé, amelynek végzési formája garanciális okból indokolt.
+
+A kizárásról és az eljáró ügyintéző vagy hatóság kijelöléséről szóló döntés tekintetében meg kell jegyezni, hogy a hatáskör gyakorlója az a hatóság, amelyet az adott ügyben a jogszabályi rendelkezések alapján eljárási kötelezettség terhel.
+
+A 35. §-hoz
+
+A törvény a megkeresett szerv fogalmát használja a megkeresett hatóság helyett, mivel az a törvény szervi hatályánál (hatóság) szélesebb kört fed le, így megkeresni nem csak hatóságot, hanem hatóságnak nem minősülő szervezetet vagy személyt (külföldieket is) lehet. A törvény - visszatérve a hagyományos és a gyakorlatban rögzült elnevezéshez - megkeresésnek nevezi a belföldi jogsegélyt, elsősorban, mivel a nemzetközi jogsegélyt sem szabályozza, így a megkülönböztetés ilyen elnevezést nem indokol. A tapasztalatok szerint a jogsegély elnevezés nem vált be, valójában az ma is a megkeresést takarja, ezért terminológiai egyszerűsítést jelent a hagyományos megjelölés visszaállítása. További változás, hogy egyrészt mellőzi a technikai részletkérdések szabályozását, másrészt nem szabályozza azt az esetet, ha a megkereső hatóság illetékességi területén kívül kell valamely eljárási cselekményt elvégezni, és azonos hatáskörű szerv nincs. Ilyen esetben ugyanis az illetékességi területen kívüli eljárás szabályai irányadók. Továbbá a megkeresett hatóság által történő áttétel esetén a törvény nem rendelkezik külön a megkereső hatóság értesítéséről, hiszen - mivel az áttételről végzés születik - az általános közlési szabályok alapján vele is közölni kell az arról szóló döntést. Garanciális okokból továbbá rögzíti a törvény, hogy a megkeresés teljesítésére legalább öt napos határidőt kell biztosítani.
+
+A 36. §-hoz
+
+Az adóhatóság és az adózó, valamint az eljárás egyéb résztvevői közötti kapcsolattartás általános szabályait határozza meg. Az adóhatóság az adózókkal írásban, továbbá személyesen, szóban tart kapcsolatot. A kapcsolattartás formáját az adózó választja meg, hatósági tájékoztatást követően. Életveszély vagy súlyos kárral fenyegető helyzet esetében a kapcsolattartás megválasztására a hatóság jogosult.
+
+Kiemelendő, hogy az elektronikus kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) rendelkezéseit kell alkalmazni. Az adókötelezettségeiket kötelezően elektronikus úton teljesítő adózók a jövőben is elektronikus kapcsolattartásra lesznek kötelezettek.
+
+A 37. §-hoz
+
+Fontos újítás, hogy az adatok zárt kezelésére hivatalból is sor kerülhet, ezzel biztosítandó az adózók mind teljesebb védelme, adott esetben a tanú befolyásolhatóságának megakadályozása.
+
+A 38-40. §-hoz
+
+A törvény külön szabályokat és követelményeket állapít meg az eljárási jogaik gyakorlásában személyi körülményeik folytán korlátozott vagy akadályozott személyek fokozottabb védelme érdekében, pozitív megkülönböztetést alkalmazva a hátrányos helyzetük ellensúlyozása céljából, összhangban az Alaptörvény XV. cikkében említett csoportok védelmére vonatkozó szabályozási követelménnyel. A törvény a különböző csoportok (a kiskorúak, a cselekvőképtelen és a cselekvőképességében részlegesen korlátozott nagykorúak és a fogyatékossággal élő személyek) korlátozottságának vagy hátrányos helyzetének jellegéhez igazodó kivételes bánásmódot ír elő, és a hatóság számára proaktív intézkedési kötelezettséget is teremt, így az adatok zárt kezelésének és az iratbetekintési jog korlátozásának, az idézés sajátos szabályainak meghatározásával, vagy általában az adózói jogok gyakorlásának elősegítése terén.
+
+A 41. §-hoz
+
+A támogatott döntéshozatal jogintézményét az új Ptk. vezette be. Arra hivatott, hogy azok a személyek, akik bár nincsenek gondnokság alá helyezve, de támogatásra szorulnak, döntéseiket egy számukra biztonságot, támogatást nyújtó személy társaságában, a kérdéseket vele megvitatva hozhassák meg, és tehessenek jognyilatkozatokat. A jogintézmény azonban nem befolyásolja az illető személy cselekvőképességét, és nem ad önálló eljárási jogosultságot a támogatónak, vagyis a támogató önmagában a támogatói minőségére tekintettel nem számít képviselőnek (ugyanakkor természetesen a meghatalmazotti képviselet szabályai alapján a támogatott személy képviseleti jogosultságot is biztosíthat támogatójának, de ez a támogatott döntéshozatal jogintézményétől független lehetőség).
+
+A törvény mindössze a támogató jogintézménye és az adóigazgatási eljárás kapcsolódási pontját teremti meg, tekintettel arra, hogy a támogatóra vonatkozó részletszabályokat a támogatott döntéshozatalról szóló 2013. évi CLV. törvény tartalmazza.
+
+A 42. §-hoz
+
+Az adózásra vonatkozó iratok esetében az iratbetekintési jog megilleti az adózót, az adó megfizetésére kötelezett személyt. A betekintés mellett az arra jogosult másolatot is készíthet vagy kérhet azokról az iratokról, amelyek jogainak érvényesítéséhez, kötelezettségeinek teljesítéséhez szükségesek. Az iratbetekintés más személyek adatainak megismeréséhez nem vezethet.
+
+Az iratbetekintési jog megilleti továbbá a tanút és a szemletárgy birtokosát is, a rájuk vonatkozó dokumentumok tekintetében. Más személy az iratokba csak abban az esetben jogosult, ha az joga érvényesítéséhez szüksége, illetve ha jogszabályi, bírósági vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
+
+A 43. §-hoz
+
+Az iratbetekintés korlátait szabályozza. A törvény taxatív módon sorolja fel azon dokumentumokat, amelyek esetében az iratbetekintés kizárt. A korlátozás célozhatja egyes védett adatokhoz történő hozzáférés korlátozását, vagy az adóhatósági tevékenység eredményességét. Az iratbetekintés korlátozható az ellenőrzés megkezdéséig az adatszolgáltatásra vonatkozó iratok tekintetében abban az esetben is, ha valószínűsíthető, hogy azok tartalmának megismerése a későbbi ellenőrzést meghiúsítaná. Erről végzéssel dönt az adóhatóság.
+
+Új iratbetekintetési korlát jelenik meg a törvényben a nemzetközi információcsere keretében más államból érkező megkereséseket érintően. A korlátozás indoka, hogy az ügy ura a megkereséssel érintett eljárást folytató más, a megkereső állam hatósága, így a megkereséssel érintett iratokba történő betekintést az adott állam jogszabályai alapján a megkereső hatóság engedélyezheti. A magyar adóhatóság által küldött megkeresés esetén a nemzetközi információcsere irataiba (a megkeresésbe, illetve válaszba) az adózó a válasz megérkezését követően betekinthet.
+
+A 44. §-hoz
+
+A kérelem előterjesztésének módját a törvény a lehető legszélesebben határozza meg: arra személyesen és bármilyen írásbeli formában lehetőség van (az írásbeliség a kapcsolattartásra vonatkozó szabályok értelmében magában foglalja a törvény szerinti elektronikus utat is). Indokolt azonban biztosítani annak lehetőségét, hogy egyes eljárásokban a kérelem előterjesztésének módját különös eljárási szabály határozza meg, és szükség szerint az adózó személyes megjelenését (pl. egyes hatósági igazolványok kiállítása iránt előterjesztett kérelem), vagy éppen - meghatározott tartalmú és formájú - írásbeli előterjesztést kívánjon meg.
+
+A törvény meghatározza a kérelem definícióját. Az általános fogalom alapján azon nyilatkozatokat tekinti kérelemnek, amelyek tárgyában az adóhatóság köteles döntést hozni, mivel az alanyi jogon illeti meg a kérelmezőt.
+
+A kérelem felett előterjesztőjének rendelkezési joga van; azt módosíthatja, visszavonhatja stb. Ezen jogosultsággal élni a kérelem tárgyában hozott döntés véglegessé válásáig van lehetőség.
+
+A 45. §-hoz
+
+E § kötelező adatszerzést ír elő az adóhatóság részére kérelemre indult eljárások esetén olyan adatok tekintetében, amely akár nyilvános, akár közhiteles nyilvántartásnak tartalmaznia kell. Szakhatósági állásfoglalás csatolása sem kérhető az adózótól.
+
+Az adózó más szerv megkeresését nem kérheti az adóhatóságtól.
+
+A 46. §-hoz
+
+A kérelmek tartalom szerinti elbírálásának elvét mondja ki. Ez azt jelenti, hogy a kérelemben foglaltak alapján és nem a beadvány elnevezése szerint kell az adott intézkedéseket elvégezni.
+
+Szintén kimondja, hogy az illetékfizetés elmaradásának ténye nem akadályozza a kérelem elbírálását.
+
+A 47. §-hoz
+
+A törvény értelmében a hiánypótlás kiadására egy eljárás keretében egy alkalommal kerülhet sor ugyanazon tényállás mellett.
+
+A 48. §-hoz
+
+A kérelem visszautasításának eseteit taxatív módon sorolja fel. A kérelem abban az esetben kerül elutasításra, ha az adóhatóságnak nem jogosult az ügyben eljárni, ha a kérelemben megfogalmazott cél lehetetlen, ha nincs jogszabályi lehetőség a kérelem benyújtására, ha az elkésett, ha a kérelem változatlan tényállás mellett egyszer már elbírálásra került (res iudicata elv), illetve ha nyilvánvaló, hogy a kérelem nem az előterjesztésre jogosulttól származik. Ezekben az esetekben az adóhatóságnak nincs mérlegelési lehetősége, a törvény alapján a kérelmet el kell utasítani.
+
+A 49. §-hoz
+
+E § tartalmazza az eljárás megszüntetésére vonatkozó szabályokat. Speciális rendelkezésként a törvény több esetet is rögzít. Így szükséges megszüntetni az eljárást abban az esetben is, ha az adózó a megszabott határidőn belül nem gondoskodik megfelelő képviseletről, illetve ha a határidő alatt költségviselési kötelezettségének nem tesz eleget, valamint ha e törvény az eljárás megszüntetését előírja. Abban az esetben, ha az adóhatóság megállapítja, hogy az ügyben más adóhatóság már eljárt, vagy más adóhatóság kijelölésére került sor, szükség esetén a döntését visszavonja, és erről szóló döntést a korábban eljárt vagy kijelölt adóhatósággal is közli.
+
+Az 50. §-hoz
+
+Az ügyintézési határidőt határozza meg és annak számítását befolyásoló tényezőket. Az általános ügyintézési határidő harminc nap, amely harminc nappal meghosszabbítható. E § tartalmazza a határidő meghosszabbítását megalapozó körülményeket is. A határidőn belül kell gondoskodni a döntés közléséről is. A határidő számítása a kérelem eljárásra feljogosított adóhatósághoz való megérkezésétől, hivatalból indult eljárás esetén az első eljárási cselekmény elvégzésének napjától számít.
+
+Az 51. §-hoz
+
+E § alapján, ha az ügyintézési határidő túllépése másnak - adózónak, egyéb résztvevőnek - nem felróható okból történik, akkor az adóhatóság köteles a befizetett illetéket, díjat visszafizetni. A törvény súlyosabb szankciót ír elő akkor, ha az adóhatóság az irányadó határidő kétszeresét is túllépi, mert ilyenkor az adózót a befizetésének duplája illeti meg. Kiemelendő, hogy attól, hogy az adózó az illeték megfizetése alól részben vagy egészben mentesült, az adóhatóság visszafizetési kötelezettsége fennáll, az így esedékes összeget a központi költségvetés számára kell megfizetni. Abban az esetben, ha az adózó jogszabály alapján nem köteles illeték fizetésére, az illetékekről szóló törvény szerinti általános tételű eljárási illetéknek megfelelő összeget vagy annak kétszeresét fizeti meg az adóhatóság a központi költségvetés részére. A visszafizetésre a döntés véglegessé válásától számított nyolc nap áll az adóhatóság rendelkezésére.
+
+Az 52. §-hoz
+
+Az ügyintézési határidő számítása körében azok kezdő időpontját az eljárás megindulásához köti. Az eljárási határidő kezdő időpontjánál azonban eltérést enged.
+
+Az 53. §-hoz
+
+A törvény igazolási kérelemre vonatkozó szabályai szerint a bevallási határidő elmulasztása esetén mulasztásról való tudomásszerzést vagy az akadály megszűnését követő tizenöt napon belül, a bevallás pótlásával egyidejűleg lehet előterjeszteni, valamint további eltérés hogy, a jogorvoslatra megállapított határidő elmulasztásával kapcsolatos igazolási kérelmet az elsőfokú döntést hozó hatóság bírálja el.
+
+Az 54-56. §-hoz
+
+Az idézés szabályait a törvény a magyar eljárásjogi hagyományokra és a jogalkalmazási gyakorlatra támaszkodva jelentősen egyszerűsítve és ésszerűsítve állapítja meg.
+
+Lényeges azonban, hogy a törvény kimondja: azt, akinek személyes meghallgatása az eljárás során szükséges, a hatóság kötelezi, hogy a megjelölt helyen jelenjen meg. Ez a szabályozás lehetőséget biztosít a hatóságnak arra, hogy ha az idézett személy kora, egészségügyi állapota, mozgásszervi fogyatékossága vagy más, méltányolható körülmény miatt szükséges, a hatóság előtt megjelenni nem képes személyt a lakóhelyén is meghallgathassa. Másfelől nem tesz különbséget a kérelmező adózó és más adózók között, hiszen a megjelenési kötelezettség a tényállás tisztázását szolgálja, akkor is, ha adott esetben a kérelmező adózónak nem érdeke a megjelenés. Ugyanakkor lehetővé teszi, hogy ha az adózó jelenléte nem feltétlenül szükséges az eljárási cselekményhez, akkor arról a hatóság csak értesíti az adózót. Ez biztosítja az adózói jogok gyakorlásának lehetőségét, a megjelenési kötelezettség mellőzésével. Változást jelent a hatályos jogszabályi környezethez képest, hogy az idézést - egységesen az értesítésre vonatkozó szabályokkal - úgy kell közölni, hogy azt öt nappal korábban kapja meg az érintett. Ha az idézett a szabályszerű idézésnek nem tesz eleget, akkor elővezettethető, valamint mulasztási bírsággal sújtható.
+
+Az 57. §-hoz
+
+Ha nem szükséges az adózó idézése, akkor az adóhatóság értesíti, hogy az eljárási cselekményen részt vehet, de részvétele nem kötelező (pl. tanú meghallgatás, szemle). Az adózóval szerződéses kapcsolatban állt, vagy álló személy nyilatkoztatása, illetve az adatok zártan történő kezelésekor az adózót az eljárási cselekmény elvégzéséről értesíteni nem kell.
+
+Az 58. §-hoz
+
+A hatósági eljárás során az ellenőrzés során feltárt tényállást veszi alapul az adóhatóság. Ha a tényállás tisztázásához szükséges, bizonyítást kell lefolytatni.
+
+Az 59. §-hoz
+
+Az eljárás során az adózó egyik alapvető joga, hogy saját ügyében nyilatkozatot tehessen, vagy azt megtagadja. Az adóhatóságnak az eljárás során a tényállás tisztázása érdekében lehetősége van nyilatkozattételre felhívni az adózót.
+
+A 60. §-hoz
+
+Az adóhatóság által az adózó, illetve az adózónak nem minősülő természetes személy nyilatkozattételre szólítható fel - az általa ismert, illetve nyilvántartásában szereplő olyan adatról, tényről, körülményről, - a felhívásban megnevezett, vele szerződéses kapcsolatban állt vagy álló adózó adókötelezettségének, adóalapjának, adókedvezményének megállapítása, ellenőrzése, illetve törvényben meghatározott eljárás lefolytatása érdekében. A nyilatkozattétel abban az esetben megtagadható, ha az adózó a tanúvallomást megtagadhatná vagy tanúkénti meghallgatására nem lenne jogszabályi lehetőség.
+
+A nyilatkozattevőt a nyilatkozat megtétele előtt ki kell oktatni jogairól, kötelezettségeiről, valamint a nyilatkozattétel megtagadásának következményeiről.
+
+A 61. §-hoz
+
+A törvény jelentősen egyszerűsíti az irat felhasználására vonatkozó szabályokat. Egyértelművé válik, hogy irat bemutatására abban az esetben lehet kötelezni az adózót, ha annak beszerzése az elektronikus ügyintézés szabályai szerint nem lehetséges. Fontos újítás továbbá, hogy a külföldön kiállított közokirat felülhitelesítését sem általános jelleggel követeli meg, hanem azt az adóhatóság akkor kérheti, ha a közokirat eredetiségével vagy tartalmával kapcsolatban kételye merül fel. Az eljárás gyorsítását szolgálja az a rendelkezés, amely szerint, ha az adózó a nem magyar nyelven kiállított irat mellé annak magyar nyelvű hiteles fordítását is csatolja, az adóhatóság azt a fordítás szerinti tartalommal fogadja el, vagyis annak az eljárás során fordítása már nem lesz szükséges.
+
+A 62-63. §-hoz
+
+Az egyik leggyakrabban igénybe vett bizonyítási eszközként a hatóság az ügyre vonatkozó valamely tényt ismerő személyeket tanúként hallgatja meg. A tanúvallomás-tétel kötelezettség, azonban vannak olyan esetek, amikor valaki nem hallgatható meg tanúként (abszolút akadály), vagy a vallomástételt megtagadhatja (relatív tanúzási akadály). Ha a törvény szerint valaki nem hallgatható meg tanúként, akkor sem tehet tanúvallomást, ha egyébként azt felajánlja. A tanúvallomás megtagadásáról - megfelelő, a megtagadás lehetőségére, valamint a hamis tanúzás jogkövetkezményeire is kiterjedő kitanítás után - az érintett dönt. Ha megtagadja a vallomástételt, erre nem kötelezhető, és ezért nem is szankcionálható. Ha viszont tanúvallomást tesz, igazmondási kötelezettség terheli.
+
+A védett adat védelmét szolgálja, hogy a tanú meghallgatásán nem lehet jelen az adózó és az eljárás egyéb résztvevője, ha a tanú védett adatról tesz vallomást. Ezzel szemben a tanú védelmét biztosítja, hogy ha a hatóság elrendelte a tanú természetes személyazonosító adatainak és lakcímének zárt kezelését, meghallgatásán az ő érdekében eljárókon kívül csak a hatóság lehet jelen.
+
+A 64-65. §-hoz
+
+Abban az esetben, ha a tényállás teljes körű tisztázásához szükséges bármely ingó, ingatlan vagy személy megtekintése, megfigyelése, az adóhatóság szemlét rendel el, amelyről előzetesen az adózót értesíti, aki az eljárási cselekménynél jelen lehet - kivéve, ha a szemletárgy birtokosa adatainak zártan történő kezelését rendelték el. A szemletárgy birtokosának távolmaradása esetében a szemlét meg lehet tartani, lefolytatásának nincs akadálya. Szemle keretében az adóhatóság jogosult a szemlével érintett területre belépni, felvilágosítást kérni, mintát venni, munkafolyamatokat megvizsgálni.
+
+A 66. §-hoz
+
+E § szabályozza a szakértő kirendelésére vonatkozó szabályokat. Ha jogszabály meghatározott szakértő kirendelését írja elő, úgy azt az intézményt, testületet, személyt kell kirendelni. A kirendelt szakértő bírsággal sújtható, díja csökkenthető, ha feladatait határidőre nem teljesíti.
+
+A 67. §-hoz
+
+Ha az eljárás során a tényállás tisztázása érdekében szükséges, lehetőség van a helyszínen tartózkodó idegen nyelvet beszélő személyt tolmácsként igénybe venni. Ilyen esetben szükséges jogairól és kötelezettségeiről kioktatni, amely tényt jegyzőkönyvben kell rögzíteni.
+
+A 68. §-hoz
+
+A felek együttes meghallgatása sok olyan információhoz juttathatja a hatóságot, amelyek relevánsak az ügy eldöntése szempontjából, így a jogintézmény alkalmazását minél szélesebb körben teszi lehetővé a törvény. Tárgyalás tartása továbbra sem lesz kötelező, de minden esetben - ha szükség van a felek együttes meghallgatására vagy azt az ügy természete megengedi - dönthet úgy a hatóság, hogy akár jogvitás, akár ellenérdekű adózók részvételével zajló eljárásban tárgyalást tart. Az adóhatóság tárgyalást tart, ha a tényállás tisztázásához szükség van az eljárásban résztvevő személyek együttes meghallgatására. Mindezen körülmények alapos mérlegelése a hatóság feladata és felelőssége, ha egy ügyben nem várható az adózók együttműködése, úgy természetesen a hatóságnak nem kötelező a jogintézményt alkalmazni.
+
+A 69. §-hoz
+
+Az adóigazgatási hatósági szabályozás egyik kulcskérdése, miként tudja az eljárások időszerűségét biztosítani. A tapasztalatok szerint az eljárások elhúzódásának egyik meghatározó oka lehet, ha az adózó, vagy az eljárás bármely résztvevője azt akadályozza. Indokolt ezért olyan rendelkezéseket is megállapítani, amelyek a gyakorlatban is alkalmasak lehetnek az eljárást akadályozó magatartások visszaszorítására. A törvény több ponton is átalakítja a hatályos szabályozást: így nem egyszerűen a kiszabott eljárási bírság mellett biztosít lehetőséget az okozott eljárási többletköltségek megtérítésére, hanem - ha azt az adózó vagy az eljárásban résztvevő bármely személy vagy szerv önhibájából eljárási kötelezettségszegése okozta - az okozott többletköltségek megtérítésére kötelezést kivételt nem tűrő szabállyá teszi, és emellett biztosítja az eljárási bírság kiszabásának lehetőségét.
+
+A törvény megállapítja emellett az eljárási bírság legalacsonyabb és legmagasabb mértékét, és a kiszabás során értékelendő szempontokat. Az eljárási bírság maximális mértéke tekintetében törvény eltérhet, hiszen más összegű szankció jelent hatékony fellépési lehetőséget egy versenyfelügyeleti, avagy éppen egy szociális eljárásban. Annak pedig természetesen továbbra sincs akadálya, hogy az ágazati joganyag az adott ügyfajta sajátosságaihoz igazodó, további mérlegelési szempontot - mint kiegészítő szabály - állapítson meg.
+
+A 70. §-hoz
+
+Az egyes eljárási cselekmények eredményének és lefolyásának dokumentálása a hatósági eljárás egyik kulcskérdése. Ha az eljárási cselekmény nem rekonstruálható, vagy annak eredménye nem állapítható meg, vagy mindezekkel összefüggésben bármilyen kétely merülne fel, az az eljárás tisztességét veszélyeztetné, és a döntés megalapozottságára is kihatna.
+
+A törvény meghatározza, hogy mikor, és milyen tartalommal kell jegyzőkönyvet, vagy feljegyzést készíteni. Kiemelendő, hogy a törvény tudatosan használja e helyütt az eljárás más résztvevője fordulatot, ugyanis indokolt a jegyzőkönyv előírását nem pusztán az adózó és eljárás egyéb résztvevőinek részvételével zajló eljárási cselekményekre korlátozni, hanem az akkor is szükséges, ha az pl. úgy zajlott a rendőrség részvételével, hogy azon a szemletárgy birtokosa nem volt jelen. Emellett a technikai haladásra is figyelemmel, egyszerűsíti a kép- és hangfelvétel készítésére vonatkozó szabályokat, amikor kimondja, hogy ilyen esetben a jegyzőkönyvben csak az eljárási cselekményen résztvevő személyek azonosításához szükséges adatokat, az elkészítés helyét, idejét, valamint a kép- és hangfelvétel készítésének tényét kell feltüntetni.
+
+A 71. §-hoz
+
+A hatósági tanú az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket igazolja. A közreműködésre senki sem kötelezhető. A kizáró okokat a hatósági tanú esetében is vizsgálni kell, valamint a hatósági tanú is ki kell okítani a jogairól és kötelezettségeiről.
+
+A 72-73. §-hoz
+
+Az adóügy érdemében az adóhatóság határozattal dönt. Az ügy érdeméhez tartozik az adókötelezettséget érintő, az adózó, valamint az adó megfizetésére kötelezett személy jogát és kötelezettségét érintő döntés. Határozatnak minősül a fizetési meghagyás is. Minden egyéb kérdésben az adóhatóság végzést hoz.
+
+A döntésnek tartalmaznia kell az eljáró adóhatóság és az adózó beazonosításához szükséges minden adatot. Abban az esetben, ha az adóhatóság az adózó által benyújtott kérelemnek teljes egészében helyt ad, egyszerűsített döntés hozható, amely nem tartalmazza a jogorvoslatról szóló tájékoztatást, illetve a döntés alapjául szolgáló jogszabályhelyekre történő utalást tartalmazza csak.
+
+A 74. §-hoz
+
+Osztva a német közigazgatás-tudomány egyöntetű álláspontját, amely különbséget tesz bíróság döntéséhez kapcsolódó jogerő (Rechtskraft) és a közigazgatási hatósági döntéshez kapcsolódó ún. Bestandskraft között, a törvény szakít a közigazgatási jogerő fogalmával, akárcsak az Ákr. Az anyagi jogerő (tehát a döntés megtámadhatatlansága és megváltoztathatatlansága) ugyanis kizárólag a bíróság döntéséhez kapcsolódhat. Összhangban tehát az Ákr. szabályaival, a törvény a jelenlegi alaki jogerő helyett a döntés véglegessége fogalmat használja, kifejezésre juttatva, hogy a végleges döntés a hatósági eljárás befejezése, azt már a hatóság nem módosíthatja, abból jogok és kötelezettségek fakadnak, tehát a hatóság döntési joga tekintetében véglegesnek minősül.
+
+A 75. §-hoz
+
+A törvény lehetőséget biztosít a döntés kijavítására és kiegészítésére.
+
+A döntés kijavítása és kiegészítése kérelemre is történhet. Indokolt ugyanis biztosítani, hogy ha a kijavítás vagy a kiegészítés feltételei fennállnak, a hatóságot akkor is döntési kötelezettség kell, hogy terhelje, ha erre az adózó hívja fel a figyelmét. A törvény értelmében, a kijavítással érintett döntésrésszel szemben ugyanolyan jogorvoslatnak van helye, mint amilyennek az alapul fekvő döntés ellen volt. Így megelőzhető, hogy bizonyos - kirívóan súlyos esetekben - a hatóságok érdemi hibák kijavítására használják azt a jogintézményt, amely ellen eddig nem volt helye jogorvoslatnak.
+
+A 76. §-hoz
+
+A döntést az adóhatóság az adózóval, valamint azzal közli, akinek jogát vagy jogos érdekét érinti. Abban az esetben, ha az adózóval írásbeli alapon történik a kapcsolattartás, az adóhatóság a döntést az Eüsztv.-ben meghatározott módon, illetve hivatalos iratként közli.
+
+A 77. §-hoz
+
+Az adóhatósági irat saját kézbesítő útján is kézbesíthető. Az iratot kézbesítettnek kell tekinteni, ha kézbesítő útján történő kézbesítés során az adózó az irat átvételét megtagadta.
+
+A 78. §-hoz
+
+Ha törvény több adózó fizetési kötelezettségét állapítja meg, akkor az adóhatóság a határozatot a közös képviselőjüknek kézbesíti. Ha közös képviselővel nem rendelkeznek az adóhatóság köteles valamennyi adózónak külön-külön kézbesíteni az adómegállapításról szóló határozatot.
+
+A kézbesítés a meghatalmazott mellett az adózó részére is történhet. Ennek feltétele, hogy az irat postára adása, illetve az adózó tárhelyén történő elhelyezése mind a két személy részére ugyanazon a napon történjen.
+
+Abban az esetben, ha az adózónak több meghatalmazott képviselője van, az iratok átvételére kijelölt képviselő részére kézbesítik az adóhatósági iratokat. Ilyen kijelölés hiányában az adóhatóság által kiválasztott meghatalmazott részére kerülnek kézbesítésre az adóhatósági iratok.
+
+A 79-80. §-hoz
+
+Az eljárás hatékonysága érdekében vannak olyan esetek, amikor szükséges, hogy a törvény vélelmet állítson fel a kézbesítés megtörténtével kapcsolatban. A törvény rendelkezése szerint kézbesítettnek minősül az irat, amikor az adóhatósági küldemény bármely okból a kézbesítés eredménytelensége okán érkezik vissza. Ha az adózó az adóhatósági iratot kézbesítésének második megkísérlését követően sem kereste, a második kézbesítési kísérletet követő 5. munkanapon kell kézbesítettnek tekinteni az iratot.
+
+Elektronikus úton történő kézbesítés esetén kézbesítettnek minősül az irat abban az esetben, ha a rendszer az irat kézhezvételét igazolja vissza. Az irat az elektronikus kézbesítési tárhelyen történő ismételt elhelyezésétől számított ötödik napot követő munkanapon tekinthető kézbesítettnek.
+
+Az adóhatóság nem köteles a kézbesítésről értesíteni az adózót. Ez alól kivételt képez az az eset, ha a kézbesítés vélelem alapján áll be - ide nem értve az átvétel megtagadásának esetét - és az adóhatóság honlapján tizenöt nap időtartamra közzéteszi az adózó adóazonosító számát és azt a telefonos elérhetőséget, ahol az irat átvételéről tájékozódhatnak.
+
+A 81. §-hoz
+
+Kézbesítési kifogást a nem természetes személy adózó akkor terjeszthet elő, ha a kézbesítés a jogszabályi előírások megsértésével történt. Természetes személy adózó, illetve az eljárásban résztvevő egyéb személyek abban az esetben is előterjeszthet kézbesítési kifogást, ha önhibájukon kívüli okból nem vehették át az iratot.
+
+A kézbesítési kifogás előterjesztésére tizenöt nap áll az adózók rendelkezésére, a tudomásszerzéstől számítva, azonban a kézbesítéstől számított negyvenöt napos jogvesztő határidőn belül. Ez alól kivételként határozza meg a törvény, hogy ha az adózó az adóhatóság végrehajtási eljárását megelőző fizetési felszólításból vagy a végrehajtási eljárás megindulása alapján szerez tudomást a kézbesítés következtében véglegessé vált kötelezettségéről, a kézbesítési kifogás a fizetési felszólítás kézhezvételétől, illetve a végrehajtási eljárásról történő tudomásszerzéstől számított tizenöt napon belül akkor is előterjeszthető, ha a kézbesítéstől számított negyvenöt napos objektív határidő már eltelt.
+
+További kivétel az internetes honlapon történő közzététel esetében lehetséges, ugyanis az adózó kifogását akkor is előterjeszthet tizenöt napon belül a közzétételtől számítva, ha a kézbesítési kifogás előterjesztésére nyitva álló határidő már eltelt vagy abból tizenöt napnál kevesebb van hátra.
+
+A kézbesítési kifogásnak az eljárás lefolytatására, illetve a végrehajtásra halasztó hatálya nincs.
+
+Abban az esetben, ha a végrehajtási kifogásban foglaltaknak az adóhatóság helyt ad, a kézbesítést követően tett intézkedéseket a szükséges mértékben kell megismételni.
+
+A 82. §-hoz
+
+A biztosítási intézkedés nem önálló hatósági ügy, hanem az adóhatóság azonnal végrehajtható cselekvése a törvényben foglalt esetekben és feltételek mellett. Az adóhatóság biztosítási intézkedésként végzéssel elrendeli a pénzkövetelés biztosítását, ha valószínűsíthető - tehát a körülmények arra utalnak -, hogy a követelés későbbi kielégítése veszélyeztetve van. Elrendelésére az az adóhatóság jogosult, amelyik a fizetési kötelezettségről szóló döntést hozta. A biztosítási intézkedés elrendelésének oka megszűnt, mert az eljárás alapjául szolgáló döntést megsemmisítették, az elrendelést meg kell szüntetni. A biztosítási intézkedés elrendelése esetén lehetősége van az adózónak a fellebbezni, azonban ennek a végrehajtásra nincs halasztó hatálya.
+
+A 83. §-hoz
+
+Az ideiglenes biztosítási intézkedés körében a törvény egyértelművé teszi, hogy annak alkalmazása nem függhet a hatóság szabad mérlegelésétől, arra csakis akkor van lehetőség, ha megalapozottan feltételezhető, hogy az érdemi döntésben elrendelhető kötelezettség nem teljesítésének a veszélye áll fenn. Az ideiglenes biztosítási intézkedés elrendelésre a döntéshozatal előtt kerül sor. A jogintézményre a biztosítási intézkedésre vonatkozó szabályokat kell alkalmazni.
+
+A 84. §-hoz
+
+A törvény a hatályos szabályozáshoz képest egy új jogintézménnyel bővíti az ideiglenes biztosítási intézkedés szabályait, melyet kizárólag az állami adó- és vámhatóság által az adóellenőrzés során ideiglenes biztosítási intézkedés keretében elrendelt számlazárolással összefüggésben lehet alkalmazni.
+
+Az állami adó- és vámhatóság az adózó erre irányuló kérelmére engedélyezheti meghatározott összegek, arra jogosult személyek részére történő közvetlen kifizetését. A közvetlen jelleg abban nyilvánul meg, hogy az állami és adó- és vámhatóság engedélye alapján a kifizetés nem az adózó részére történik, hanem azt az adózó zárolt fizetési számláját vezető pénzforgalmi szolgáltató teljesíti közvetlenül a jogosult személyek számára. A kifizetés engedélyezése mellett az állami adó- és vámhatóság mérlegelési jogkörében eljárva dönt a kifizetések sorrendjéről és összegszerűségéről is.
+
+A kifizetések fontosságára is tekintettel az engedélyezési eljárás lefolytatására a törvény rövid, tizenöt napos ügyintézési határidőt biztosít. Az engedélyezés kérdésében az állami adó- és vámhatóság végzés formájában dönt, melyek közül a kifizetés engedélyezését elutasító végzés, illetve a kifizetést részben engedélyező végzés ellen önálló fellebbezésnek van helye. Természetéből adódóan a kérelemnek teljes egészében helyt adó döntéssel szemben nem indokolt biztosítani sem önálló, sem egyéb fellebbezési jogosultságot, így a végzés a döntés közlésével véglegessé válik és ennek következtében korábban végrehajtható.
+
+A kifizetések teljesítése abban az esetben engedélyezhető, ha az adózó a törvényben meghatározott módon igazolja, hogy a zárolt vagyonán kívüli forrásból nem képes a kifizetéseit teljesíteni, vagy azzal a tevékenysége aránytalan korlátozást szenvedne.
+
+A 85-86. §-hoz
+
+Az ellenőrzés célja az adótörvényekben és más jogszabályokban előírt kötelezettségek teljesítésének vagy megsértésének megállapítása, a kötelezettségek teljesítésének előmozdítása.
+
+A 87. §-hoz
+
+Meghatározza kötelező ellenőrzés eseteit.
+
+A 88. §-hoz
+
+Kötelező ellenőrzéseken felül célzott kiválasztási rendszerek alkalmazásával és egyedi kockázatelemzési eljárással történik az adózók ellenőrzésre kiválasztása.
+
+A 89. §-hoz
+
+Meghatározza az ellenőrzés fajtáit. Az ellenőrzések két típusát különböztetjük meg:
+
+- az ellenőrzéssel lezárt időszakot teremtő adóellenőrzést, valamint
+
+- az egyes adókötelezettségek teljesítésére irányuló, ellenőrzéssel lezárt időszakot nem keletkeztető jogkövetési vizsgálatot.
+
+Ismételt ellenőrzésre kerül sor, ha ellenőrzésre ellenőrzéssel lezárt időszak tekintetében kerül sor.
+
+A 90. §-hoz
+
+Az adózó adómegállapítási, bevallási kötelezettségét az adóhatóság meghatározott adókra és időszakokra vonatkozóan utólagosan ellenőrzi. Az adóellenőrzés történhet adónként, támogatásonként, egyes időszakonként vagy meghatározott időszakra több adó és támogatás együttes vizsgálataként.
+
+Az adózó által igényelt költségvetési támogatást, adóvisszatérítést, adóvisszaigénylést a bevallási időszak ellenőrzéssel történt lezárásának hatályával a kiutalást megelőzően is vizsgálhatja az adóhatóság.
+
+Lehetővé teszi az adóhatóság számára, hogy az ellenőrzés alá vont összeg egy részének kiutalásáról döntsön, és az ellenőrzést a fennmaradó összeg tekintetében folytassa, amely kedvező intézkedési lehetőség az ellenőrzés alá vont adózóra nézve.
+
+A 91. §-hoz
+
+Jogkövetési vizsgálat keretében az adóhatóság a bevallási időszak lezárását megelőzően is ellenőrizheti, hogy az adózók eleget tettek-e a törvényben előírt adókötelezettségeiknek, adatokat gyűjthet a nyilvántartásában szereplő adatok hitelességének megállapítása vagy becslési adatbázis felépítése érdekében, illetve vizsgálhatja a gazdasági események valódiságát.
+
+A jogkövetési vizsgálat lefolytatására adóellenőrzés során is lehetőség van.
+
+Abban az esetben, ha a jogkövetési vizsgálat hibákat, hiányosságokat tár fel, ezek megszüntetését határozatban írja elő az adóhatóság. Mulasztási bírság kiszabására is lehetőség van a határozatban.
+
+Ha a feltárt tények, illetve a körülmények indokolttá teszik, az adóhatóság a bevallási időszakot adóellenőrzés alá vonja.
+
+A 92. §-hoz
+
+Ismételt adóellenőrzésre a törvényben meghatározott feltételek fennállása esetén kerülhet sor.
+
+A 93. §-hoz
+
+Felülellenőrzésre a törvényben meghatározott feltételek fennállása esetén kerülhet sor.
+
+A 94. §-hoz
+
+Meghatározza az ellenőrzés lefolytatására nyitva álló határidőket. Az ellenőrzés határideje kilencven, a legnagyobb adóteljesítménnyel rendelkező adózók esetében százhúsz nap, jogkövetési vizsgálat esetén harminc nap. A törvény objektív határidőt határoz meg, amely szerint az ellenőrzés nem tarthat háromszázhatvanöt napnál tovább. Cégbejegyzésre nem kötelezett személyek esetében - a csoportos adóalanyok és az áfa-regisztrált adóalany kivételével - az ellenőrzésre rendelkezésre álló maximális határidő száznyolcvan nap. Ez a rendelkezés azonban nem alkalmazható, ha az adózó a magatartásával akadályozza az ellenőrzést.
+
+A határidő a megbízólevél átadásával, kézbesítésével, bemutatásával kezdődik, illetve az új ellenőrzés lefolytatása esetén az új ellenőrzés megkezdéséről szóló értesítés átadásától, postára adásától, illetve tárhelyen elhelyezésétől kell számítani.
+
+A 95. §-hoz
+
+Az ellenőrzés határideje indokolt esetben további kilencven nappal meghosszabbítható az ellenőrzést végző adóhatóság vezetőjének utasítására (jogkövetési vizsgálat esetén legfeljebb harminc napig terjedő időtartammal hosszabbítható az eljárás). E § tartalmazza a határidő hosszabbításra okot adó körülményeket is. A meghosszabbított ellenőrzési határidőt rendkívüli körülmények által indokolt esetben, az ellenőrzést végző adóhatóság indokolt kérelmére a felettes szerv egyszer, legfeljebb kilencven napig terjedő időtartammal meghosszabbíthatja, továbbá a felettes szerv által meghosszabbított ellenőrzési határidőt rendkívüli körülmények által indokolt esetben az ellenőrzést végző adóhatóság felettes szerve által jóváhagyott, indokolt kérelmére az állami adó- és vámhatóság vezetője egyszer, további legfeljebb kilencven napig terjedő időtartammal meghosszabbíthatja.
+
+Önkormányzatok esetében a felettes szerv által meghosszabbított határidőt az adópolitikáért felelős miniszter legfeljebb kilencven nappal megtoldhatja.
+
+Erről végzésben kell dönteni. Az ellenőrzési határidő lejártát követően ellenőrzési cselekmények lefolytatására nincs lehetőség.
+
+A 96. §-hoz
+
+Az ellenőrzés megkezdésének időpontját általános jelleggel határozza meg a törvény, hiszen kimondja, hogy az ellenőrzés az erről szóló előzetes értesítés kézbesítésével, ennek mellőzése esetén megbízólevél kézbesítésével, egy példányának átadásával vagy az általános megbízólevél bemutatásával kezdődik. Elektronikusan kézbesíthető az előzetes értesítés, az új eljárás megkezdéséről szóló értesítés és a megbízólevél is. Új eljárás lefolytatása esetén megbízólevél kiállítására ismételten nem kerül sor, az ellenőrzés az új eljárás megkezdéséről szóló értesítés postára adásával, postai kézbesítés mellőzése esetén az értesítés átadásával kezdődik. Az ellenőrzés megindítására az új eljárást elrendelő határozat véglegessé emelkedésétől számított hatvan napon belül sort kell keríteni.
+
+Ha az adózó vagy képviselője, meghatalmazottja, foglalkoztatottja a megbízólevél átvételét megtagadja az ellenőrzés két hatósági tanú jelenlétében az erről szóló jegyzőkönyv felvételével és aláírásával megkezdődik. Így nem merülhet fel, hogy a megbízólevél átvételének megtagadása miatt az adóhatóság nem tudja megkezdeni az ellenőrzést.
+
+A 97. §-hoz
+
+Az adózó jogait határozza meg. Az adózónak joga van az adóellenőrök személyazonosságáról, megbízatásukról meggyőződni, ellenőrzési cselekménynél jelen lenni, képviseletről gondoskodni, az eljárás irataiba betekinteni, felvilágosítást kérni.
+
+A kapcsolódó vizsgálatok során feltárt adatokat, bizonyítékokat az adózóval ismertetni kell.
+
+Abban az esetben, ha az adózó álláspontja szerint az ellenőrzési határidő túllépése az adóhatóságnak felróható okból történt, kifogással élhet.
+
+Természetes személy abban az esetben, ha jogainak gyakorlásában akadályozott egy alkalommal kérheti az ellenőrzés megkezdésének vagy ellenőrzési cselekmények elvégzésének elhalasztását.
+
+A 98. §-hoz
+
+Az adózónak az adóellenőrzés keretében teljesítendő kötelezettségeit sorolja fel. Az adózó köteles az eljárás során az adóhatósággal együttműködni, az ellenőrzés feltételeit biztosítani. Az adózó az adómentesség, illetve adókedvezményre való jogosultságot köteles igazolni.
+
+A 99. §-hoz
+
+Általános szabály, hogy az adóhatóság köteles tisztázni és bizonyítani a tényállást, kivéve, ha ezt a törvény az adózó kötelezettségévé teszi. Az adózó javára és terhére szolgáló tényeket egyaránt fel kell tárni.
+
+A 100. §-hoz
+
+A jogviszony eltérő minősítésének tilalmát rögzíti. Ez a garanciális szabály kimondja, hogy egy adott jogviszony alanyainak ellenőrzése során az egyik alanynál már minősített jogviszonyt az adóhatóság a másik alanynál nem minősítheti másként, a már korábban tett megállapításokat hivatalból köteles figyelembe venni.
+
+A 101. §-hoz
+
+Az ellenőrzés során az adóhatóság szakértőt vehet igénybe.
+
+A 102. §-hoz
+
+A természetes személy lakásában az adóellenőr akkor jogosult az ellenőrzést lefolytatni, ha az adókötelezettség a lakással, mint vagyontárggyal kapcsolatos, vagy a jövedelem annak hasznosításából származik.
+
+A 103. §-hoz
+
+Az ellenőrzés alapjául szolgáló iratok a bizonylatok, könyvek, nyilvántartások, elektronikus formában is, ezek feldolgozásához használt szoftverek, informatikai rendszerek. Az adózó ezeket az adóhatóság felhívására az adóhatóság rendelkezésére bocsátja, megismerésüket biztosítja.
+
+A 104. §-hoz
+
+Ha indokolt, az adózót az adóhatóság az iratok rendezésére hívja fel.
+
+A 105. §-hoz
+
+Meghatározza, hogy az adózó a tényállás tisztázásához szükséges idegen nyelvű - ide nem értve az angol, német és francia nyelvű - iratai szakfordítását, számla (egyszerűsített számla), illetve bizonylat esetében annak hiteles magyar nyelvű fordítását köteles felhívásra az adóhatóság részére átadni.
+
+A 106. §-hoz
+
+A személyi jövedelemadó becsléssel történő megállapítása esetére szabályozza az ún. teljességi nyilatkozatot, mely az adózónak az adóalap megállapítása szempontjából lényeges vagyoni, jövedelmi körülményeire vonatkozik. Az adóellenőrzés során az adóhatóság az eljárás megindítását követő tizenöt napon belül, tizenöt napos határidő tűzésével - mely határidő további tizenöt nappal az adózó kérelmére meghosszabbítható - felhívja az adózót, hogy vonatkozó teljességi nyilatkozatot küldje meg az adóhatóság részére. Ezt az adózó részben vagy egészben megtagadhatja, ebben az esetben az eljárás a rendelkezésre álló adatok alapján kerül lefolytatásra.
+
+A 107. §-hoz
+
+Az adóhatóságnak a próbavásárlásra vonatkozó jogosultságát állapítja meg. A jogintézményre vonatkozó részletszabályok, mint az adóellenőrzésre vonatkozó rendelkezések a kormányrendeletben jelennek meg.
+
+A 108. §-hoz
+
+A mintavételre vonatkozó szabályokat határozza meg. A mintavételhez szükséges feltételeket az adózó köteles biztosítani.
+
+A 109. §-hoz
+
+Becslés alkalmazható vagyonszerzési illeték alapjának megállapításánál, továbbá ha az adózó az ellenőrzéshez szükséges iratanyagok nem bocsátja az adóhatóság rendelkezésére, vagy az iratanyagról megállapítható, hogy nem alkalmasak a valós adó, illetve költségvetési támogatás megállapítására, ha a természetes személy adózó bevallása nyilatkozata hiányos, nem valós, vagy ha az adózó bevételszerző tevékenységét bejelenteni elmulasztotta.
+
+A becslés olyan bizonyítási módszer, amely a valós adó, illetve költségvetési támogatás alapját valószínűsíti.
+
+Ha a becslés feltételei fennállnak, akkor megfordul a bizonyítási teher, mert a becslés alapjaként számított adóalaptól való eltérést az adózó hitelt érdemlő adatokkal bizonyíthatja.
+
+A 110. §-hoz
+
+Az adóhatóság abban az esetben, ha a körülmények alapján megállapítja, hogy az adózó adóköteles tevékenységet folytat vagy abban közreműködik, felhívhatja személyazonosságának igazolására, aki köteles hitelt érdemlően igazolni magát.
+
+A 111. §-hoz
+
+Az ellenőrzés zavartalan lefolytatása érdekében rendőri intézkedés kezdeményezhető vagy a NAV hivatásos állományú tagjai is igénybe vehetők.
+
+A 112. §-hoz
+
+Az adóellenőr jogosult a vállalkozási tevékenységgel összefüggésbe hozható helyszín, helyiség és jármű átvizsgálására, valamint a helyszínen talált jármű rakományának ellenőrzésére, ha feltételezhető, hogy adózó jelentős tárgyi bizonyítékokat elrejt, megsemmisít, vagy a vállalkozás körülményeit leplezi. Az átvizsgálást az ellenőrzést folytató adóhatság rendeli el. Az átvizsgálás lefolytatásához az ügyész előzetes jóváhagyása szükséges, kivéve, ha alapos okkal feltehető, hogy az átvizsgálás késedelmes lefolytatása az ellenőrzés céljának meghiúsulását eredményezné. Az ügyészi jóváhagyással nem rendelkező intézkedések ellen jogszabálysértésre hivatkozással az adózó nyolc napon belül panasszal élhet, amely kivizsgálására az adóhatóságnak tizenöt nap áll a rendelkezésére. A kifogásnak az intézkedés végrehajtására halasztó hatálya nincs. Az átvizsgálás megkezdése előtt az adózót az adóhatóság a keresett tárgyak átadására szólítja fel. A talált tárgyakat a törvényben foglalt kivételekkel az adóhatóság lefoglalhatja.
+
+Az adózó vagy képviselője a lefoglalt iratokba betekinthet. Ha a lefoglalás szükségessége már nem áll fenn, akkor azt meg kell szüntetni.
+
+A 113. §-hoz
+
+Kockázati tényezők indokoltsága esetén az adóhatóságnak lehetősége van hatósági zár alkalmazására.
+
+A 114. §-hoz
+
+A hatósági zár sértetlen állapotban történő megőrzéséről a fuvarozó köteles gondoskodni. Baleset vagy egyéb elháríthatatlan ok bekövetkezését követően az adóhatóság értesítésére haladéktalanul sort kell keríteni.
+
+A 115. §-hoz
+
+Minden esetben az ellenőrzés során tett megállapításokat jegyzőkönyvben kell rögzíteni. A jegyzőkönyv átadásának vagy postára adásának napjával zárul az ellenőrzés. A büntetőeljárás kezdeményezéséről külön jegyzőkönyvet kell felvenni.
+
+A 116. §-hoz
+
+E § rögzíti, hogy az ellenőrzés befejezését követően az adózó észrevétele alapján lehetőség van kiegészítő ellenőrzés lefolytatására, adóellenőrzés esetén az észrevételtől számított harminc, jogkövetési vizsgálat esetén tizenöt napig. A kiegészítő ellenőrzés szintén jegyzőkönyvvel zárul.
+
+A 117. §-hoz
+
+Az adóhatóság az adóellenőrzés eredményére tekintet nélkül köteles a megállapításokról határozatot hozni. Egyebekben hatósági eljárásra csak akkor kerül sor, ha valamilyen kötelezettség teljesítésének előírására vagy jogkövetkezmény megállapítására kerül sor.
+
+A 118-119. §-hoz
+
+Rendelkezik a jogorvoslathoz való jogról, és a jogorvoslati eljárásokról.
+
+A 120. §-hoz
+
+Az adóhatóság saját hatáskörben is jogosult a döntésének módosítására, visszavonására egy alkalommal, ha a döntést felette szerv vagy a közigazgatási bíróság még nem bírálta el. Időbeli korlát is tartozik ehhez az adóhatósági jogosultsághoz, azaz az adózó terhére kizárólag a véglegessé válástól számított egy éven belül van erre lehetőség.
+
+Az adózó terhére való módosítás egy éves korlátozása áttörhető, például ha az adózó rosszhiszeműen járt el. Azonban ebben az esetben az adózó rosszhiszeműségét az adóhatóságnak kell bizonyítania.
+
+Az adóhatóság hivatalból vonja vissza döntését, ha annak véglegessé válása előtt az adózó elhalálozik, vagy jogutód nélkül megszűnik.
+
+A 121. §-hoz
+
+Meghatározza a fellebbezésre jogosultak körét.
+
+A 122. §-hoz
+
+A fellebbezés a legáltalánosabb jogorvoslati forma. Fellebbezni - főszabályként - az elsőfokú határozat ellen lehet.
+
+Az eljárás során, a határozathozatalt megelőzően hozott végzések csak a határozat ellen benyújtott fellebbezésben vitathatóak. Ez alól a szabály alól kivételt határoz meg a törvény és felsorolja azon végzéseket, melyekkel szemben az adózók önállóan is élhetnek fellebbezéssel. Ez azt jelenti, hogy ezen végzések esetében nem kell az eljárást lezáró határozat meghozatalát megvárni, hanem a törvény által előírt határidőben - a folyamatban lévő eljárás során - a végzéssel szemben kell a fellebbezést benyújtani.
+
+A 123. §-hoz
+
+Rendelkezik a mögöttes felelős fellebbezési jogáról.
+
+A 124. §-hoz
+
+A fellebbezés előterjesztésére vonatkozó feltételeket állapítja meg e § Ehhez kapcsolódóan kiemelten indokolt arra kitérni, hogy a fellebbezésben és a fellebbezés alapján indult eljárásban - semmisségi okon kívül - nem lehet olyan új tényt állítani, illetve olyan új bizonyítékot előadni, amelyről a fellebbezésre jogosultnak az elsőfokú döntés meghozatala előtt tudomása volt, azonban azt az adóhatóság felhívása ellenére nem terjesztette elő.
+
+A 125. §-hoz
+
+A fellebbezés előterjesztésének az a joghatása, hogy a fellebbezéssel érintett döntésre nézve halasztó hatálya van.
+
+A 126. §-hoz
+
+A fellebbezést változatlanul az elsőfokú adóhatósághoz kell előterjeszteni. E § szabályozza az elsőfokú adóhatósági eljárását a fellebbezés elbírálása során.
+
+A 127. §-hoz
+
+A felettes szerv által alkalmazható intézkedéseket szabályozza, amely jogszabályhely keretében arra is kitér a törvény, hogy a felettes szerv maga is intézkedhet a tényállás kiegészítés iránt.
+
+A 128. §-hoz
+
+A felügyeleti intézkedés iránti kérelem rendkívüli jogorvoslat. A felettes adóhatóság, az adópolitikáért felelős, illetve a NAV felügyeletére kijelölt miniszter felügyeleti intézkedést tesz, ha az ügyben eljárt adóhatóság határozata, önálló fellebbezéssel megtámadható végzése (intézkedés) jogszabálysértő, vagy azok meghozatalára jogszabálysértő módon nem került sor.
+
+A törvény szűkíti a felügyeleti intézkedés iránti kérelem benyújtásának lehetőségét. Míg az Art. szerint felügyeleti intézkedés iránti kérelmet az elévülési időn belül tetszés szerinti alkalommal benyújthat az adózó, addig a törvény szerint erre egy alkalommal, a döntés véglegessé válásától számított egy éven belül van lehetőség. A módosítás indoka a jogorvoslati eljárások belátható időn belüli lezárása iránti igény, illetve a felügyeleti intézkedés iránti eljárás rendkívüli jogorvoslati jellegének erősítése és az adózók motiválása arra, hogy a fellebbezést, mint rendes jogorvoslatot vegyék igénybe, annál is inkább, mivel a közigazgatási per indításának lehetősége csak a másodfokú végleges döntés esetén biztosított.
+
+A 129. §-hoz
+
+Az adóigazgatási eljárásokban részjogerőre akkor emelkedik egy döntés, ha a határozat (végzés) felülvizsgálata során a felettes szerv nem a teljes döntés, hanem csak egy bizonyos része tekintetében állapítja meg a jogszabálysértést - mellyel kapcsolatban új eljárást rendel el, - egyebekben azonban a döntés többi részét helybenhagyja vagy megváltoztatja. A rendelkezés célja, hogy a részjogerőre emelkedett rész tekintetében a kötelezettségek végrehajthatóvá válnak.
+
+A felettes szerv az új eljárásra utasító döntésében pontosan meghatározza az új eljárás során vizsgálandó körülményeket, az adó, bevallási időszak és költségvetési támogatás, bevallási időszak megjelölésére kiterjedően. Korlátot jelent az első fokon eljáró hatóság részére, hogy az új eljárás során a másodfokú döntésben meghatározott körülményeket és ezekkel szorosan összefüggő tényállási elemeket vizsgálhatja.
+
+A 130. §-hoz
+
+A véglegessé vált másodfokú döntés közigazgatási perben való megtámadására abban az esetben van lehetőség, ha annak jogszerűségét az adózó vitatja. A törvény szerint a közigazgatási pert kezdeményező keresetlevelet az elsőfokú adóhatósághoz kell előterjeszteni tekintettel a közigazgatási perrendtartásról szóló 2017. évi I. törvény 39. § (1) bekezdésére, amely szerint többfokú közigazgatási eljárásban hozott cselekmény esetén a keresetlevelet az elsőfokon eljárt közigazgatási szervnél kell benyújtani, amelytől nem enged eltérni a törvény.
+
+A 131. §-hoz
+
+A törvény rögzíti az ügyészi felhívás - illetve annak eredménytelensége esetén az ügyészi fellépés - alapján fennálló, a hatóságot terhelő kötelezettségeket. A közérdek védelmét biztosítandó, ügyészi közreműködés esetén időkorlátozás nélkül lehetőség van a döntés korrigálására, akár saját hatáskörben történő döntés módosítással vagy visszavonással (megsemmisítéssel), akár felügyeleti jogkörben abban az esetben is, ha egyébként a hatósági eljárásra vonatkozó szabályok azt már nem tennék lehetővé.
+
+A 132. §-hoz
+
+Ha a semmisség bűncselekmény következménye, a semmisség megállapításához véglegessé vált, bűnösséget kimondó bírói ítélet szükséges, ami a vádemelés elhalasztása esetén hiányzik. Ilyen esetben a hatályos szabályozás alapján a semmisség közigazgatási jogi jogkövetkezménye sem vonható le. A vádemelés elhalasztása intézménye esetén a vádhatóság meg van győződve a terhelt bűnösségéről, azonban a bűncselekmény súlyára, és a rendkívüli enyhítő körülményekre figyelemmel a vádemelést határozattal elhalaszthatja, ha ennek a gyanúsított jövőbeni magatartásában mutatkozó kedvező hatása feltételezhető. Az a körülmény azonban, hogy az adott büntetőügyben az állam lemond büntetőigényének érvényesítéséről, nem eredményezheti azt, hogy - a nyilvánosság számára is felismerhető módon - bűncselekmény elkövetése által befolyásolt hatósági eljárásokban született döntések ne legyenek megsemmisíthetőek. A vádemelés elhalasztásának időtartama természetesen eredményesen el kell, hogy teljen, hiszen ellenkező esetben előfordulhatna, hogy egy későbbi bírósági ítélet, amely bűnösséget nem állapít meg, felülírná a korábbi vádemelés alapján történő megsemmisítés, illetve visszavonás, új eljárás jogalapját.
+
+A 133. §-hoz
+
+A súlyosítási tilalom egyfajta védelmet biztosít az adózók részére, az őket érintő határozatok módosíthatóságának időbeliségét illetően.
+
+A határozattal lezárt ellenőrzés esetén a határozat véglegessé válásától, határozat nélkül lezárult ellenőrzés esetén annak befejezésétől számított egy éven túl az adózóra nézve hátrányosabb rendelkezéseket tartalmazó döntés kiadására már nincs mód. Annak meghatározásához, hogy mi minősül az adózóra nézve hátrányosabbnak, a határozatot összességében kell megítélni. Az egyes adónemek szerinti kedvezőtlenebb megállapítás nem kifogásolható akkor, ha valamennyi adókülönbözet összesített egyenlege az adózóra nézve kedvezőbb.
+
+A 134. §-hoz
+
+A törvény szerint az eljárási költséget elsősorban az állam és az önkormányzatok viselik. Azonban ha az adózó rosszhiszemű magatartása többlet költséget eredményez, akkor annak viselésére az adózó kötelezhető, és ebben az esetben a rosszhiszeműséget az adóhatóságnak kell bizonyítania. Az adóztatás és az adóigazgatási eljárás során az adózó költségeit magának kell viselnie. Ha az adóhatóság a költségek viselésére az adózót kötelezi, akkor arról határozatban kell rendelkeznie.
+
+A 135. §-hoz
+
+A költségmentességre vonatkozó rendelkezéseket tartalmazza.
+
+-----STARTING---POINT---VEGE---
+
+A 136. §-hoz
+
+A Kormány részére adott felhatalmazások.
+
+A 137. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 138. §-hoz
+
+Hatályon kívül helyezi az adózás rendjéről szóló 2003. évi XCII. törvényt.
+
+A 139. §-hoz
+
+A hatálybalépésével kapcsolatos átmeneti rendelkezések.
+
+A 140. §-hoz
+
+A pénzügyi képviseletre vonatkozó szolgáltatási irányelv szerinti bejelentési záradék.
+
+A 141. §-hoz
+
+A törvény hivatalos rövidítését tartalmazza.

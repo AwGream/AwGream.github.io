@@ -1,0 +1,51 @@
+2012. évi CCXXII. törvény indokolása
+
+az Európai Uniónak a Tanács keretében ülésező tagállamai között az Európai Unió érdekében kicserélt minősített adatok védelméről szóló Megállapodás kihirdetéséről
+
+Általános indokolás
+
+Az EU minősített adatok védelmével kapcsolatos uniós szabályozók felülvizsgálatát az Állandó Képviselők Tanácsa (COREPER) 2007. december 5-ei ülésén szabta az Európai Unió Tanácsa Biztonsági Bizottságának (CSC) feladatául. Egyúttal felkérte a Biztonsági Bizottságot, tegyen javaslatot egy egységes elvek alapján működő rendszer jogi kereteinek kidolgozására. A meglévő rendszer komoly hiányossága volt annak az esetkörnek a szabályozatlansága, amikor a tagállamok közötti minősített információk cseréje az „EU érdekében” történik, s a két érintett ország nem kötött egymással kétoldalú titokvédelmi megállapodást. A probléma rendezésének leginkább pragmatikus módja egy kormányközi megállapodás életre hívása, amely ily módon kiegészíti az Európai Unió Tanácsa biztonsági szabályzatában foglalt rendelkezéseket. A megállapodás hatálya azon minősített adatokra terjed ki,
+
+- amelyek az Európai Unió intézményeitől vagy az általuk létrehozott ügynökségektől, szervektől vagy irodáktól származnak, és amelyeket a felek rendelkezésére bocsátanak vagy velük kicserélnek;
+
+- amelyek a felektől származnak, és amelyeket az Európai Unió intézményei vagy az általuk létrehozott ügynökségek, szervek vagy irodák rendelkezésére bocsátanak vagy velük kicserélnek;
+
+- amelyek a felektől származnak az Európai Unió érdekében történő rendelkezésre bocsátás vagy kicserélés céljából, és amelyeket a megállapodás hatálya alá tartozóként jelölnek meg;
+
+- amelyeket az Európai Unió intézményei vagy az általa létrehozott ügynökségek, szervek vagy irodák harmadik államoktól vagy nemzetközi szervezetektől kapnak kézhez, és amelyeket a felek rendelkezésére bocsátanak vagy velük kicserélnek.
+
+A megállapodás elfogadása megteremti az Európai Unió koherens biztonsági struktúráját, amely három pilléren fog nyugodni. Első pillérét az Európai Unió Tanácsának biztonsági normarendszere, második pillérét az Európai Bizottság biztonsági normarendszere, harmadik pillérét pedig a megállapodás rendelkezései képezik. Hangsúlyozandó, hogy a megállapodás adottnak veszi az egyes tagállamoknak a minősített adat védelmére vonatkozó belső szabályozását, jelen megállapodás elfogadása a tagországok számára semmiféle nemzeti jogalkotási kötelezettséget nem keletkeztet.
+
+Maga a megállapodás tehát nem a Tanács aktusa, hanem egy olyan többoldalú nemzetközi egyezmény, amelynek részes felei megegyeznek az Európai Unió Tanácsát alkotó tagállamokkal. Ezen normaalkotási metódusra számos precedens található az Unió gyakorlatában, hasonló eljárás eredményeként került elfogadásra a Lomé-i Egyezmény alapján a Közösséget, illetve a tagállamokat terhelő kötelezettségek pénzügyi fedezetéről szóló belső megállapodás vagy az EU Műholdközpont és a Biztonsági Tanulmányok Intézete kiváltságairól és mentességeiről szóló megállapodás. Ez a normaalkotási gyakorlat egyébiránt az acquis részét képezi.
+
+A minősített adat védelméről szóló 2009. évi CLV. törvény hatálybalépéséig a szükséges jogintézmények (pl. nemzeti személyi biztonsági tanúsítvány) hiánya okán Magyarország számára komoly nehézséget okozott kétoldalú titokvédelmi megállapodást kötni.
+
+Figyelembe véve, hogy a Magyarországnak az Európai Unió tagállami egy részével van csak hatályos kétoldalú titokvédelmi megállapodása, a megállapodás hatálybalépése komoly előrelépést jelentene hazánk számára a hatálya alá tartozó a minősített adatok cseréje terén.
+
+Ezért a további kétoldalú általános titokvédelmi megállapodások megkötéséig a megállapodás elfogadása kifejezett könnyebbséget jelent hazánk számára a hatálya alá tartozó minősített adatok cseréje terén.
+
+Kiemelendő, hogy a megállapodás hatálybalépését követően sem lesz változás a Tanács EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2011. március 31-i 2011/292/EK tanácsi határozat 10. cikk (6) bekezdésében foglalt kötelezettségekben. Ennek megfelelően az EU-minősített adatok elektronikus eszközökkel történő továbbítása során jóváhagyott kriptográfiai termékeket kell használni.
+
+A SECRET UE/EU SECRET és magasabb szintű minősített adatok bizalmasságát a Tanács - mint kriptográfiai jóváhagyó hatóság (CAA) - által a Biztonsági Bizottság ajánlása alapján jóváhagyott kriptográfiai termékekkel kell védeni.
+
+Főszabályként a CONFIDENTIEL UE/EU CONFIDENTIAL vagy RESTREINT UE/EU RESTRICTED minősítésű adatok bizalmasságát a Tanács főtitkára (továbbiakban: a főtitkár) - mint kriptográfiai jóváhagyó hatóság - által a Biztonsági Bizottság ajánlása alapján jóváhagyott kriptográfiai termékekkel kell védeni. A főszabály rendelkezéseitől eltérően a tagállami nemzeti rendszerekben a CONFIDENTIEL UE/EU CONFIDENTIAL vagy RESTREINT UE/EU RESTRICTED minősítésű EU-minősített adatok bizalmassága a tagállam kriptográfiai jóváhagyó hatósága által jóváhagyott kriptográfiai termékekkel védhető.
+
+A megállapodásra a nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény rendelkezései az irányadóak azzal, hogy a nemzetközi szerződés szövegének végleges megállapítására (aláírására) a tanácsi döntéshozatali eljárásban került sor.
+
+Részletes indokolás
+
+Az 1. §-hoz
+
+A törvény 1. §-a a nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény 7. § (1)-(3) bekezdésének, valamint 10. § (1) bekezdés a) pontjának megfelelően tartalmazza a megállapodás kötelező hatályának elismerésére adott országgyűlési felhatalmazást.
+
+A 2-3. §-hoz
+
+A törvény 2. és 3. §-a a nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény 10. § (1) bekezdés b) pontjának megfelelően rendelkezik a megállapodás kihirdetéséről, és tartalmazza annak angol és magyar nyelvű hiteles szövegét.
+
+A megállapodás célja, hogy megteremtse az Európai Unió koherens biztonsági struktúráját, és szabályozza azt az esetkört, amikor a tagállamok közötti minősített információk cseréje az „EU érdekében” történik, és a két érintett ország nem kötött egymással kétoldalú titokvédelmi megállapodást.
+
+A 4. §-hoz
+
+A törvény a kihirdetését követő napon lép hatályba. A (2) bekezdésben foglalt kivétel oka, hogy a megállapodás kötelező hatályának elismerésére a Felek által alkalmazandó alkotmányos vagy belső jogi szabályokkal és eljárásokkal összhangban kerüljön sor. A megállapodás 13. cikk (2) bekezdése szerint a „Ez a megállapodás az azon naptól számított második hónap első napján lép hatályba, amely napon a megállapodás hatálybalépéséhez szükséges belső eljárások befejezéséről az ezen eljárásokat utolsóként befejező fél értesíteti az Európai Unió Tanácsának főtitkárát.”.
+
+A megállapodás hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.

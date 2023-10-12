@@ -1,0 +1,101 @@
+2017. évi XLVIII. törvény indokolása
+
+a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvénynek és a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvénynek az európai cégnyilvántartások összekapcsolására szolgáló rendszerrel összefüggő módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A belső piac kínálta lehetőségeket kihasználva a cégek egyre inkább országhatárokon túlra terjeszkednek. A határokon átnyúló csoportokban, valamint számos átalakulási műveletben - egyesülésekben és szétválásokban - különböző tagállamokból származó cégek érintettek, így egyre növekszik a céginformációkhoz való uniós szintű hozzáférés iránti igény. A vállalatokról szóló hivatalos információk azonban nem mindig érhetők el könnyen határokon átnyúlóan.
+
+Az Európai Unióban letelepedett vállalkozások versenyképességének növelése, a gazdaság élénkítése, valamint egy vállalkozásbarát jogi és pénzügyi környezet kialakítása érdekében 2009-2010 folyamán uniós intézkedéscsomag került elfogadásra, amelynek célja a tagállamok cégnyilvántartásainak összekapcsolása. A 89/666/EGK tanácsi irányelvnek, valamint a 2005/56/EK és a 2009/101/EK európai parlamenti és tanácsi irányelvnek a központi nyilvántartások, a kereskedelmi nyilvántartások és a cégjegyzékek összekapcsolása tekintetében történő módosításáról szóló 2012/17/EU európai parlamenti és tanácsi irányelv (a továbbiakban: BRIS irányelv) a jogharmonizációs feladatok végrehajtásának határidejét 2017. június 8-ában határozza meg. A központi nyilvántartások, a kereskedelmi nyilvántartások és a cégjegyzékek összekapcsolására szolgáló rendszerben (Business Registers Interconnection System, BRIS) kizárólag a platform helyes működéséhez szükséges rendelkezéseket kell meghatározni.
+
+Az irányelv előírja, hogy a tagállamok a nyilvántartások összekapcsolására szolgáló rendszeren belül biztosítsák nyilvántartásaik kölcsönös átjárhatóságát. A nyilvántartások összekapcsolására szolgáló rendszerből származó információhoz való hozzáférést a portál és a tagállamok által saját hatáskörben létrehozott elérési pontok biztosítják. A nyilvántartások összekapcsolási rendszerének a központja az unió által működtetett platform. A platform az e-Justice honlapon (portálon) keresztül biztosítja az egyes tagállami nyilvántartásokban tárolt adatokhoz való hozzáférés lehetőségét.
+
+Uniós szinten lehetővé válik a jövőben, hogy az uniós portálon keresztül a cégekkel és más tagállamokban nyitott fióktelepeikkel kapcsolatosan a nemzeti nyilvántartásokban tárolt információkhoz egyéni felhasználók is hozzáférjenek.
+
+Az irányelvnek nem célja, hogy a vállalatokról érdemi információkat tároló központi nyilvántartási adatbázist hozzon létre, hanem azt kívánja biztosítani, hogy a tagállami nyilvántartások egy közös uniós ponton (platform) keresztül egymás adataihoz hozzáférhessenek, egymásnak adatot szolgáltassanak. Az irányelv tehát nem kötelezi a tagállamokat belső nyilvántartási rendszereik megváltoztatására. Az irányelv meghatározza azokat a társaságjogi eseményeket (vállalkozás fizetésképtelensége, megszűnése, továbbá a határokon átnyúló egyesülés), amelyek esetében a tagállami nyilvántartás a BRIS rendszeren keresztül tájékoztatja a másik (érintett) tagállami nyilvántartást a változásról, társasági jogi esemény bekövetkeztéről.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A rendelkezés a céginformációs szolgálat feladatai között tételes módon megjeleníti a tagállami nyilvántartások összekapcsolására szolgáló rendszer fenntartásának biztosítását.
+
+A 2. §-hoz
+
+A BRIS irányelv kettős célt valósít meg. Egyrészt biztosítani kívánja, hogy az egyes tagállami nyilvántartásokból bárki információhoz jusson, másrészt előírja, hogy az egyes tagállami nyilvántartások egymásnak adatot adjanak át annak érdekében, hogy a határokon átnyúló jelentőségű változásokról (fizetésképtelenségi eljárás, nyilvántartásból való törlés) az érintett tagállami nyilvántartások időben értesüljenek, és meg tudják kezdeni a szükséges eljárásokat.
+
+A BRIS irányelv hatálya a magyar cégnyilvántartásba bejegyzett jogalanyok közül a korlátolt felelősségű társaságra, részvénytársaságra, az európai részvénytársaságra, valamint a külföldi vállalkozás magyarországi fióktelepére és a külföldi vállalkozás magyarországi kereskedelmi képviseletére terjed ki. Ezen cégformákra irányadó irányelvek meghatározzák azokat a cégadatokat és cégiratokat, amelyeket valamennyi tagállami nyilvántartásban a céggel összefüggésben a nyilvántartásban kell tárolni. Ezek a cégadatok, cégiratok azok, amelyeket a BRIS irányelv alapján a BRIS rendszeren keresztül elérhetővé is kell tenni.
+
+Az adatoknak egy szűk köre ingyenesen lesz elérhető, lekérdezhető; ezek: a cég neve és jogi formája, a cég székhelye, valamint a cég cégjegyzékszáma. A többi, az irányelv előírásai szerint elérhetővé teendő cégadat és cégirat költségtérítés ellenében válik megismerhetővé. Az irányelv nem zárja ki, hogy az irányelvben tételesen nem említett cégadat vagy cégirat vonatkozásában is céginformációt biztosítson a tagállam, így a (4) bekezdés alapján lehetővé válik további céginformáció biztosítása is; ezen utóbbi esetben a céginformációért fizetendő összeg vonatkozásában előírás nincs, azt a tagállam határozhatja meg.
+
+A 3-5. §-hoz
+
+A §-ok beillesztik a cégadatok közé az EUID-t vagyis a cég európai egyedi azonosítóját. Az EUID felépítését a BRIS irányelv végrehajtását szolgáló rendelet állapítja meg - a Bizottságnak a nyilvántartások összekapcsolására szolgáló 2009/101/EK európai parlamenti és tanácsi irányelvvel létrehozott rendszer céljából szükséges műszaki leírások és eljárások megállapításáról szóló (EU) 2015/884 végrehajtási rendelete (2015. június 8.). A végrehajtási rendelet mellékletének 8. pontja szerint az EUID: az országkódból, a tagállami nyilvántartás azonosítójából és a cég nyilvántartási számából tevődik össze. A végrehajtási rendelet értelmében az EUID használata arra szolgál, hogy a nyilvántartások közötti, platformon történő információcsere során a társaságok kétséget kizáróan azonosíthatóak legyenek. Ezen alapvető rendelkezést a Ctv. is kimondja.
+
+Mivel az EUID mind a belföldi, mind a külföldi (uniós) cégeket azonosítja, azért fontos, hogy a cégbíróság ne csak a magyar székhelyű cégek EUID-ját ismerje, hanem tisztában legyen a magyar cégnyilvántartásban feltüntetésre kerülő külföldi cégek (tagok, vezető tisztségviselők, jogelődök, jogutódok) EUID-jával is.
+
+A 6. és 8. §-hoz
+
+Azon székhely-áthelyezési változásbejegyzési eljárás, amely a cégbíróság illetékességének megváltozásával is együtt jár, még a papír alapú eljárás mechanizmusát követi, ami lassítja és elnehezíti a kérelem elbírálását. A jelenlegi rendszerben továbbá külön problémát okoz a székhelyáthelyezés során érkező automatikus üzenetek (például az állami adó és vámhatóságtól érkező adószámra vagy tevékenységi körökre vonatkozó változások) kezelése. A törvény a fentiekre figyelemmel egyszerűsíti, ésszerűsíti azon változásbejegyzési kérelmek elbírálását, amelyek egyben korábbi székhely szerinti cégbíróság illetékességének megszűnésével járnak. Mivel a korábbi székhely szerinti cégbíróság minden, a kérelem elbírálásakor releváns adattal rendelkezik, indokolt, hogy ezen cégbíróság végezze a kérelem elbírálását. A törvény változatlanul fenntartja azt a garanciális rendelkezést, hogy a székhelyváltoztatás nem lehet eszköze a törvényességi felügyelet alóli kibújásnak, így a székhelyváltozás előtt a folyamatban lévő törvényességi felügyeleti eljárásokat be kell fejezni. Ez alól csak az az eset kivétel, ha a székhelyáthelyezés egyben a törvényességi felügyeleti eljárás eredményes befejezését is jelenti.
+
+Az informatikai rendszer lehetővé teszi, hogy a törvény szerinti megoldás érvényesüljön. A székhely-áthelyezési kérelemnek helyt adó határozatot követően az informatikai rendszer végzi el a szükséges feladatokat (új cégjegyzékszám kiadása, érintett hatóságok - NAV, KSH - értesítése).
+
+A módosítás egyben a BRIS rendszerrel összefüggő tagállami adatcsere biztonságát is szolgálja, mert nem alakulhat ki olyan függő helyzet, amelyben nem dönthető el teljes bizonyossággal, hogy melyik cégbíróság illetékessége terjed ki a cégre, egyben nem dönthető el az sem, hogy a BRIS rendszeren keresztül esetlegesen fogadott adatot melyik cégbíróság felé kell továbbítania az informatikai rendszernek.
+
+A 7. §-hoz
+
+A hatályos szabályozás szerint a külföldi vállalkozás magyarországi fióktelepe és a külföldi vállalkozás magyarországi kereskedelmi képviselete változásbejegyzési eljárással jelenti be, ha a külföldi vállalkozás ellen fizetésképtelenség megállapítása iránti eljárás (csőd-, illetve felszámolási eljárás) vagy végelszámolás indult. A BRIS rendszer bevezetésével azonban a tagállami nyilvántartások ezekről a változásokról már közvetlenül tudják értesíteni az érintett más tagállami nyilvántartásokat. Ennek megfelelően a törvény előírja, hogy ha a cégbíróság ezen tényekről a BRIS rendszeren keresztül információt kap, azonban a nyilvántartása szerint a magyar cég a bejelentési kötelezettségének nem tett eleget, a bejelentés megtörténtét törvényességi felügyeleti eljárás keretében követelje meg.
+
+A 9. §-hoz
+
+A Ctv. a jövőben tételesen is tartalmazni fogja, hogy a cégbíróság a magyar cégekről a BRIS irányelvben előírt adatokról köteles a BRIS rendszeren keresztül adatot szolgáltatni más tagállami nyilvántartásoknak, továbbá azt, hogy ezen adatokat fogadja is.
+
+A 10. §-hoz
+
+A rendelkezés új felhatalmazó rendelkezést állapít meg azon a BRIS rendszerhez kapcsolódó részletszabályok megállapítására, amelyek miniszteri rendeleti szintű szabályba illeszthetők.
+
+A § továbbá új felhatalmazó rendelkezésként állapítja meg a székhelyszolgáltatásra vonatkozó miniszteri rendelet felhatalmazó rendelkezését.
+
+A Ctv. 7. § (4) bekezdése szerint a „cég székhelye, telephelye és fióktelepe olyan ingatlan lehet, amely a cég tulajdonát képezi, vagy amelynek használatára a cég jogosult.” Jogszerűen az az ingatlan minősülhet székhelynek, amely vagy a tulajdona, vagy amelyre megfelelő „befogadó nyilatkozattal” rendelkezik. Az ingatlan székhelyként történő feltüntetését lehetővé tevő jogviszony (régebbi szóhasználattal „befogadó nyilatkozat”) és az ún. székhelyszolgáltatás nem feltétlenül egymást fedő jogviszonyok. (A székhelyszolgáltatás többlet-kötelezettségek vállalását is jelenti a székhelyszolgáltató részéről.) Nem zárható azonban ki az sem, hogy a szerződési szabadság alapján a cég más módon „szerez” használati jogot, így például használatot biztosító dologi jogot alapító szerződések (haszonélvezet, használat), vagy használatot biztosító kötelmi szerződések (bérlet, haszonkölcsön) megkötésével.
+
+A székhely feltüntetése, székhellyel való rendelkezés a cég létezésének, a cégnyilvántartásban való bejegyzésének eminens eleme. A cégbírósági bejegyzés közhitelesen tájékoztatja az érdekelt harmadik személyeket a cég székhelyéről, elérhetőségéről. Cégjogi szempontból (és gyakorlati szempontból is) annak van jelentősége, hogy a cégnyilvántartásba bejelentett címen a cég elérhető legyen, illetve, hogy a székhely biztosításának jogszerűsége - minimálisan nyilatkozattal - igazolt legyen. Az állami szabályozás nem szól bele, hogy a cég milyen jogi megoldással biztosítja a székhelyét. Ugyanakkor megállapítható, hogy a székhelyszolgáltatás bár napjainkra igen népszerűvé vált, annak jellemzői és kritériumai mégsem állapíthatóak meg megfelelően ma normatív úton.
+
+A székhelyszolgáltatás nem ismeretlen fogalom a cégnyilvántartásban. Mind a Ctv., mind az adózás rendjéről szóló törvény (Art.) 2007 és 2012 között rendelkezett székhelyszolgáltatásról, ha azt ügyvéd nyújtotta. Ezen felül a 49/2007. (XI. 14.) IRM rendelet tartalmazta az ügyvédi székhelyszolgáltatásra vonatkozó szabályokat. Az ügyvédi székhelyszolgáltatásra vonatkozó rendelkezéshez hasonló rendelkezésre a Ctv. szövegében szükség nem mutatkozott, hiszen szükségtelen lenne megjeleníteni egyféle szerződéses székhelybiztosító jogügyletet, azonban a székhelyszolgáltatás normatív átvilágítását szolgáló rendelet megalkotásához felhatalmazó rendelkezésre van szükség.
+
+A rendelkezés és az ez alapján kiadásra kerülő miniszteri rendelet illeszkedik az Art.-ban időközben a székhelyszolgáltatásra vonatkozóan ismét előírt bejelentési kötelezettséghez.
+
+A 11. §-hoz
+
+A törvény biztosítja, hogy a cégek számára ne okozzon adminisztratív terhet az EUID képzése. Biztosítja továbbá azt is, hogy az EUID képzésére valamennyi érintett cég esetében azonos időpontban (napon), automatikus végzéssel, vagyis az informatikai rendszer útján kerüljön sor.
+
+A 12. §-hoz
+
+A rendelkezés kiegészíti a Ctv. jogharmonizációs rendelkezését a BRIS irányelvhez kapcsolódó végrehajtási rendelet feltüntetésével.
+
+A 13. §-hoz
+
+Szövegpontosító rendelkezés. A gyakorlatban értelmezési kérdésként merült fel ugyanis az, hogy az aláírási címpéldány (aláírás-minta) képviseleti jogot is igazol-e. A képviseleti jog fennállását közhitelesen a cégjegyzék bizonyítja, így az aláírási címpéldány (aláírás-minta) a cégjegyzékben feltüntetett képviselők aláírásának valódiságát tudja igazolni.
+
+A 14. §-hoz
+
+A Ctv. 54. § (1)-(3) bekezdéseinek újraszabályozásával az 54/A. § hatályon kívül helyezhető, mert annak garanciális tartalma beépítésre kerül a Ctv. 54. § (2) bekezdésébe.
+
+Jelenleg a Ctv. 87. § szerinti a számviteli beszámoló elmulasztása miatti különleges törvényességi felügyeleti eljárás olyan ügytípusnak minősül, amely éves szinten több ezres ügyszámot is jelent, és több állami szerv, szereplő egymással párhuzamosan jár el. A beszámolók közzétételéről és letétbe helyezéséről a számvitelről szóló 2000. évi C. törvény (153-154/B. §), a mulasztás jogkövetkezményeiről az Art. (174/A. §) rendelkezik. A cégeknek 2009-től (első ízben a 2008. üzleti évről) a számviteli beszámolót közzététel és letétbe helyezés végett is - az igazságügyi tárca szervezeti egységeként működő - céginformációs és az elektronikus cégeljárásban közreműködő szolgálatnak (a továbbiakban: céginformációs szolgálat) kell elektronikus úton megküldeniük; a cégbírósághoz már az iratot letétbe helyezés céljából nem kell benyújtaniuk.
+
+A Ctv. a beszámoló letétbe helyezése, valamint közzététele elmulasztása miatti törvényességi eljárás szabályai között rögzíti, hogy az állami adóhatóság értesíti a cégbíróságot, ha a cég a beszámoló letétbe helyezési, illetve közzétételi kötelezettségének az alkalmazott adójogi jogkövetkezmények ellenére sem tett eleget. [Ctv. 87. § (1) bek.]
+
+A beszámoló nyújtásának elmulasztása esetén az állami adóhatóság továbbá az adózás rendjéről szóló törvény (Art.) alapján felhívja az adózót a pótlásra, és nemteljesítés esetén hivatalból törli az adószámot, amelyről értesíti a cégbíróságot, és kéri a cég megszűntnek nyilvánítását (Ctv. 91. §). Vagyis jelenleg egy mulasztás miatt a cégbíróságnál két eljárás is indul (beszámoló elmulasztása miatti különleges törvényességi felügyeleti eljárás és később az adószám törléssel érintett cégek megszűntnek nyilvánítására irányuló különleges törvényességi felügyeleti eljárás). Amióta a cégek a beszámolóik letétbe helyezését nem a cégbíróságnál teljesítik, a cégbíróság aktív törvényességi felügyeleti szerepe rendszeridegen és feleslegesnek tekinthető.
+
+Az a cél, hogy a cégbíróság a folyamatba akkor kapcsolódjon be, amikor a mulasztás már a cég további működtetésére is kihatással van, vagyis, amikor az adóhatóság a cég adószámát törli és emiatt fordul a cégbírósághoz (Ctv. 91. § szerinti eljárás).
+
+A törvény a fenti okokból megszünteti a cégbírósági törvényességi felügyeleti eljárások közül azt, amely a beszámoló benyújtásának elmulasztása miatt az adóhatóság jelzésére indult (Ctv. 87. §). Továbbra is megmarad azonban az adószámtörléssel érintett cégek megszűntnek nyilvánítására irányuló törvényességi felügyeleti eljárás, vagyis ha a beszámoló benyújtásának kikényszerítése adóhatósági eszközökkel sem vezetett eredményre, és az adóhatóság törli a cég adószámát, a cégbíróság az adóhatóság kérelmére a Ctv. 91. §-a szerinti eljárásban megszűntnek nyilvánítja a céget és megindítja a kényszertörlési eljárást.
+
+A 15-17. §-hoz
+
+A tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény módosítása elvégzi a Tetv. pontosítását, annak érdekében, hogy a törvény a hatályos jogi személy jogi és társasági jogi szabályokra hivatkozzon. A BRIS irányelv átültetését szolgálja a 16. § f) pontjának rendelkezése, amely egyértelműen rögzíti, hogy a tőkeegyesítő társaságok határokon átnyúló egyesülésének bejegyzéséről a jogutódot (a Tetv. szempontjából a magyar jogutódot) nyilvántartó szerv a BRIS rendszeren keresztül szolgáltat adatot a jogelődöt nyilvántartó tagállami nyilvántartásnak.
+
+-----STARTING---POINT---VEGE---
+
+A 18-19. §-hoz
+
+A rendelkezés a hatályba léptető rendelkezést tartalmazza, továbbá a törvény önálló jogharmonizációs záradékát állapítja meg.

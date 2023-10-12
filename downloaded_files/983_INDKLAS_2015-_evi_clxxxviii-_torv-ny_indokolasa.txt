@@ -1,0 +1,135 @@
+2015. évi CLXXXVIII. törvény indokolása
+
+az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az okmánybiztonság adminisztratív védelméhez, a bűnmegelőzéshez, továbbá az ismeretlen bűnelkövetők korszerű technológián alapuló, minél rövidebb időn belül történő azonosításához fűződő társadalmi érdek indokolttá teszi a jelenlegi személyazonosítási módszerek és eljárások kiegészítését, különös tekintettel az olyan fokozott bizonyosságú azonosítást lehetővé tevő, egyedi jellemzőkön alapuló adatokban rejlő lehetőség kihasználására, amelynek segítségével, nagy pontossággal állapítható meg egy adott személy személyazonossága.
+
+Az okmányhamisítás új elkövetési alakzatai, számos bűncselekmény határon átnyúló jellege okán szükséges a korszerű technológiák által biztosított pontos és gyors azonosítási lehetőségek, az ezt lehetővé tevő biztonságtechnikai rendszerek rendvédelmi és közigazgatási célú felhasználása jogi alapjának megteremtése.
+
+Az arcképmás az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) meghatározása alapján személyes adatnak minősül, melyet az Alkotmánybíróság több határozatban is kimondott, így a 36/2005. (X. 5.) AB határozat szerint „a képi megfigyelés nyomán nyert, valamilyen hordozón rögzített felvétel személyes adatnak minősül.” Mivel az arcképmás ezt a minőségét nem veszíti el az átalakítást követően sem, ezért az arcképmásból képzett arckép profil is személyes adat.
+
+A szabályozás körében az Infotv. 5. § (1) bekezdés b) pontja szerinti kötelező adatkezelésről beszélhetünk. Az Infotv. 5. § (3) bekezdése alapján a kezelendő adatok fajtáit, az adatkezelés célját és feltételeit, az adatok megismerhetőségét, az adatkezelés időtartamát, valamint az adatkezelő személyét az adatkezelést elrendelő törvény határozza meg.
+
+A fentebb ismertetett érvek alapján, figyelembe véve az Alaptörvény I. cikk (3) bekezdésében foglaltakat, a biometrikus arckép azonosítás törvényi szintű szabályozása indokolt.
+
+A törvény megfelel a személyes adatok védelméhez fűződő jogból fakadó alkotmányossági, az ún. osztott információs rendszerek követelményének, amely alapján az ugyanazon érintettről egy adatkezelő által kezelt személyes adatok köre csak a lehető legszükségesebb mértékre korlátozódhat, és az nem eredményezheti azt, hogy az adatkezelő a személyiségprofil kialakítására alkalmas adatok széles köréhez rendelkezzen hozzáféréssel. A nyilvántartások az adatkezelés törvényben meghatározott céljainak keretei között, e célokra korlátozódóan kezelik az érintettek személyes adatait.
+
+A törvény hatályba lépését követően egy ún. ősfeltöltés történik annak érdekében, hogy a központi szervnél rendelkezésre álljanak a törvényben meghatározott nyilvántartásokban kezelt arcképek. Ennek érdekében a központi útiokmány-nyilvántartást és a közúti közlekedési nyilvántartást vezető szerv a polgár általa kezelt arcképmását és természetes személyazonosító adatait a személyiadat- és lakcímnyilvántartást vezető szerv (a továbbiakban: SZL) részére átadja. Ezek olyan polgárok arcképmásai, akik szerepelnek az SZL-ben. Az SZL ezekhez az arcképmásokhoz technikai kapcsoló számot képez, és együtt átadja az arcképelemző rendszer működtetéséért felelős központi szervnek.
+
+Az ősfeltöltés része továbbá olyan arcképmások feltöltése is, amelyek az SZL-ben nem szereplő, úti okmánnyal rendelkező magyar állampolgároké. A külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) 5. § (1) bekezdése értelmében a magyar állampolgárok jogosultak útlevélre. Az útlevél kiadásának nem feltétele az, hogy az érintett az SZL-ben szerepeljen. Ha az érintett szerepel, akkor a külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet értelmében az adategyeztetés és megszemélyesítés az SZL adatai alapján kell, hogy történjen. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 2013. március 1-jéig a polgár döntésére bízta, hogy külföldre távozását követően kéri-e adatainak további kezelését, mint külföldön élő magyar állampolgár vagy sem. Ettől az időponttól kezdődően az SZL kezeli az adataikat, azaz 2013 óta célkitűzés, hogy az SZL-ben minden magyar állampolgár szerepeljen, függetlenül attól, hogy külföldön vagy belföldön él. Ha a magyar állampolgár érvényességi idején belül cseréli le az útlevelét, és névviselése sem változott, akkor SZL adatai nélkül lehet kiállítani az útlevelet. Kb. 40 000 ilyen útlevél van. A központi útiokmány-nyilvántartást vezető szerv tehát az SZL-ben nem szereplő, úti okmánnyal rendelkező magyar állampolgárok általa kezelt arcképmásához rendelten technikai kapcsoló számot képez, majd a központi szervnek továbbítja.
+
+A menekültügyi nyilvántartást vezető szerv a menekültügyi nyilvántartásban kezelt arcképmáshoz, a központi idegenrendészeti nyilvántartást vezető szerv a központi idegenrendészeti nyilvántartásnak a Harmtv. 96. § és 99. § szerinti résznyilvántartásaiban kezelt arcképmáshoz rendelten technikai kapcsoló számot képez, és ezeket továbbítják a központi szervnek.
+
+A törvényben taxatíve meg van határozva, hogy mely szervek milyen célból jogosultak az arcképelemzői tevékenysége igénybevételére. A tárolt arckép profilokban történő keresés minden esetben ügyhöz kötötten történhet. A központi szerv az igénybevételre jogosult szerv kérelmére arcképelemzési tevékenységet akkor folytathat, ha az igénybevételre jogosult szerv pontosan megjelöli annak célját, az igénybevétel célját megalapozó ügy azonosítását szolgáló adatokat és azt az igénybevételre jogosult szerv által írásban felhatalmazott személy kezdeményezi.
+
+Az arcképelemző tevékenységnek két típusa van: az egyik esetben ismeretlen személy azonosítása, a másik esetben a személyazonosság ellenőrzése történik.
+
+Ismeretlen személyek azonosítása esetén az adatigénylésre jogosult szervektől (pl.: nyomozó hatóság) érkező arcképmásból képzett arckép profilok kerülnek összehasonlításra az arckép profil nyilvántartásban kezelt összes arckép profillal. A személyazonosság ellenőrzése esetén viszont az az adott személyhez tartozó arcképmásból képzett arckép profil kerül összehasonlításra az arckép profil nyilvántartásban a személyhez tartozó arckép profillal. Ha arckép profilt technikailag nem lehet képezni, akkor erről az igénybevételre jogosult szerv azonnal értesítést kap.
+
+Az első fázisában az arckép profilok informatikai rendszer általi összehasonlítása történik meg, majd ennek eredményeként második fázisként az ún. kiértékelői tevékenység elvégzése következik. A kiértékelő tevékenység eredményessége esetén a központi szerv az igénybevételre jogosult szerv részére az igény beérkezésétől számított nyolc munkanapon belül továbbítja a kiértékelés eredményeként kapott arckép profilhoz tartozó, a nyilvántartásban kezelt technikai kapcsoló számot.
+
+A kiértékelés akkor tekinthető eredményesnek, ha a szoftveres összehasonlítás eredményeképpen előálló kandidátusi lista és a bemeneti kép elemzői vizsgálata során az elemző meg tudja feleltetni a bemeneti képet a kandidátusi lista egy vagy több elemével. Ekkor az ezekhez a képekhez tartozó technikai kapcsoló számot átadja az adatigénylőnek. Ha sikertelen az elemzői megfeleltetés, mert az elemzői vizsgálat nem valószínűsít egyezőséget, akkor mondható ki az, hogy eredménytelen volt a kiértékelés, ekkor az adatigénylő nem kap technikai kapcsoló számot, illetőleg tájékoztatást kap az eredménytelenség tényéről.
+
+A kiértékelői tevékenység nem minősül különleges szakértelmet igénylő kérdésnek, és így ez a tevékenység nem tekintendő szakértői tevékenységnek. A foglalkoztatott elemzők a személyazonosság megállapításának magas szintű támogatása érdekében antropológiai ismeretekkel is fognak rendelkezni.
+
+Az adatszolgáltatás keretében a kiértékelési tevékenység elvégzését követően csak a releváns arcképprofilhoz hozzárendelt kapcsolati kód átadása történik meg az adatigénylésre jogosult részére. Az adatigénylésre jogosult az Integrált Portálalapú Lekérdező Rendszer felületén keresztül, jogosultságának megfelelően, egy, az általa indított külön eljárás keretében kapja meg az SZL-ben kezelt, az átadott kapcsolati kódhoz tartozó személyes adatokat.
+
+Az adatszolgáltatás keretében a kapcsolati kód átadása az adatigénylésre jogosult részére folyamatos, mindenre kiterjedő naplózás mellett, az adatvédelmi és adatbiztonsági elvárások maximális betartásával történik. Az adatigénylésre jogosult szervek, valamint e szervek nevében hozzáférésre felhatalmazott személyek egy külön nyilvántartásban, a jogosultsági nyilvántartásban kerülnek rögzítésre.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Ezen rendelkezés összefoglalva tartalmazza mindazon fogalmakhoz, illetve jogintézményekhez kapcsolódó értelmező rendelkezéseket, amelyeknek egyértelmű megfogalmazása e törvény gyakorlati alkalmazása szempontjából elengedhetetlenül szükséges.
+
+A 2. §-hoz
+
+A törvény alapelvei a személyes adatok védelméhez fűződő alkotmányos jog elsődlegességéből indulnak ki és megfogalmazzák érvényesülésének alapvető feltételeit. Rögzítésre kerül, hogy csak a központi szerv kezelheti az arckép profilok összességét, amely tevékenységet minden más adatkezeléstől elkülönítetten, a törvényben meghatározott célból és kizárólag az igénybevételre jogosult szerv részére végezheti.
+
+A 3. §-hoz
+
+A törvény célja egy olyan arckép profilokat nyilvántartó rendszer törvényi feltételeinek megteremtése, amely a személyes adatok védelméhez fűződő alkotmányos jog tiszteletben tartása mellett támogatja az adatigénylésre jogosult szervek személyazonosításra irányuló tevékenységét.
+
+A törvény által létrehozni és szabályozni kívánt rendszer olyan országos hatósági nyilvántartás, amely a hatálya alá tartozó polgároknak kizárólag e törvényben meghatározott arckép profil adatait, illetve az azokhoz rendelt technikai kapcsoló számokat tartalmazza.
+
+A nyilvántartás az adatkezelők által adatelemzési céllal átadott arcképmás adatokból képzett arckép profilokat tartalmazó hatósági nyilvántartásból, valamint az arckép profil nyilvántartás használatára jogosultak nyilvántartásából áll.
+
+A 4-5. §-hoz
+
+A nyilvántartásban kezelt adatok köre: arckép profilok, illetve az azokhoz rendelt technikai kapcsoló számok. A nyilvántartás vezetése a központi szerv feladatát képezi, mely szerv az adatközlésre kötelezett szerv értesítése alapján gondoskodik az egyes nyilvántartási elemek bejegyzéséről, valamint törléséről. A technikai kapcsoló szám képzése úgy történik, hogy abból semmilyen ágazati azonosító kód vagy egyéb személyazonosító adat nem nyerhető vissza. Minden technikai kapcsoló szám egyedi, nem általánosan használt, ezért nem alkalmas adatkezelések összekapcsolására.
+
+A 6-8. §-hoz
+
+A rendelkezés az arckép profil nyilvántartás használatára jogosultak nyilvántartásában kezelendő adatok körét tartalmazza. Ezen nyilvántartás létrehozásának célja az, hogy a központi szerv által végzett arcképelemző tevékenység esetében az adatkezelési cél és az adatkezelési jogosultság ellenőrizhető és dokumentálható legyen. Ezen cél megvalósulását szolgálja e §-ban felsorolt szervek részére meghatározott célokból biztosított azon lehetőség, mely szerint jogosultak átvenni az arcképelemző rendszer használatára jogosultak nyilvántartásában kezelt adatok teljes körét. Továbbá az arcképelemző tevékenység igénybevételéhez szükséges egyedi azonosítók igénylésére szolgáló kérelem adattartalmával és benyújtásával kapcsolatos részletszabályokat tartalmazza.
+
+A 9. §-hoz
+
+Az adatigénylésre jogosult szervek felsorolását tartalmazza a törvény 3. §-ában megjelölt adatkezelési célokkal összhangban. Adatigénylésre jogosult szervek: nyomozó hatóság, az ügyészség, a büntetés-végrehajtási intézet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, a törvényben meghatározott titkos információgyűjtő, valamint titkos adatszerző tevékenység folytatására feljogosított szervek, a körözési eljárást folytató szerv, a közigazgatási szervek, a nemzetbiztonsági szolgálatok, az általános rendőrségi feladatok ellátására létrehozott szerv, az idegenrendészeti hatóság, a menekültügyi hatóság és az Országgyűlési Őrség.
+
+A 10-12. §-hoz
+
+E rendelkezések az arckép profil nyilvántartásból történő adatigénylés részletszabályait tartalmazzák. Az arcképelemzői tevékenység két fő típusa különböztethető meg: egyrészről az arcképprofil-nyilvántartásban kezelt arckép profil adatok kerülnek összehasonlításra az adatigénylőktől érkező arcképmás adatból képzett arckép profillal. A másik esetben az okmányigénylések során keletkezett, adott személyhez tartozó arcképmás adatból képzett arckép profil összehasonlítása történik meg a személyhez tartozó, az arckép profil nyilvántartásban kezelt arckép profilokkal. A nyilvántartásban kezelt adatok statisztikai célra - személyazonosításra alkalmatlan módon - átadhatók és felhasználhatók.
+
+A kiértékelő tevékenység eredményessége esetén a központi szerv az adatigénylésre jogosult szerv részére az igény beérkezésétől számított nyolc munkanapon belül átadja a kiértékelés eredményeként kapott arckép profilhoz tartozó, a nyilvántartásban kezelt technikai kapcsoló számot. A kiértékelés eredménytelensége esetén a központi szerv az eredménytelenség tényéről az adatigénylőt nyolc munkanapon belül tájékoztatja.
+
+A 13-14. §-hoz
+
+Ezen §-ok a nyilvántartásból adatigénylés alapján történő adattovábbítás általános követelményeit állapítják meg. A hatályos adatvédelmi szabályozással összhangban írja elő a törvény azt, hogy az adatigénylésre jogosult kérelmére adat akkor továbbítható, ha az adatigénylő pontosan megjelöli az adatigénylés célját, valamint e törvény rendelkezése alapján adatokhoz való közvetlen hozzáféréssel kizárólag az adatigénylésre jogosult szerv által írásban felhatalmazott személy rendelkezik. A központi szerv köteles megtagadni az adatigénylés teljesítését, illetve az adattovábbítási eljárást megszünteti, ha tudomására jut, hogy az adatigénylés a törvényben meghatározott feltételnek nem felel meg.
+
+Az adatkezelés jogszerűségének ellenőrzése érdekében az arckép profil nyilvántartásba, valamint a jogosultság nyilvántartásba a Nemzeti Adatvédelmi és Információszabadság Hatóság tekinthet be.
+
+A 15-16. §-hoz
+
+Az „Adatvédelmi szabályok” megnevezésű fejezet két címe a polgár tájékoztatásával és az adattovábbítási nyilvántartással kapcsolatos szabályokat tartalmazza. A központi szerv meghatározott esetekben a polgárt az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint megillető tájékoztatásból az adatai továbbítására vonatkozó tájékoztatását mellőzi.
+
+A nyilvántartásból teljesített adatigénylésekről az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottakon kívül tartalmazza az adatkezelő nyilvántartási azonosítóját és az adattovábbítás célját is. Az adattovábbítási nyilvántartást a központi szerv vezeti. A szolgáltatott adatok nem képezik az adattovábbítási nyilvántartás részét. A törvény alapján az érintett polgáron kívül az adattovábbítási nyilvántartásból adatigénylésre az alábbi szervek jogosultak: a Nemzeti Adatvédelmi és Információszabadság Hatóság, bűncselekmény gyanúja esetén az eljárásra hatáskörrel rendelkező nyomozó hatóság és az ügyész, valamint a nemzetbiztonsági szolgálatok.
+
+-----STARTING---POINT---VEGE---
+
+A 17. §-hoz
+
+A törvény hatálybalépését állapítja meg.
+
+A 18-21. §-hoz
+
+Az átmeneti rendelkezés az arckép profil nyilvántartás kezdeti adatfeltöltését biztosítja. E szerint a törvény hatálybalépését követően a személyiadat- és lakcímnyilvántartás vezetéséért felelős szerv a személyiadat- és lakcímnyilvántartásban kezelt arcképmást technikai kapcsoló számmal látja el, és azt, valamint az ahhoz tartozó arcképmást az arckép profil létrehozása és nyilvántartásba vétele céljából az arckép profil nyilvántartás vezetéséért felelős szervnek automatikus adatátadás útján átadja, illetve a központi útiokmány-nyilvántartást, a közúti közlekedési nyilvántartást, a menekültügyi nyilvántartás és a központi idegenrendészeti nyilvántartást vezető szerv a polgár általa kezelt személyazonosításra alkalmas okmányához kapcsolódó arcképmás és aláírás adatát automatikus adatátadás útján a személyiadat- és lakcímnyilvántartást vezető szerv részére átadja. A rendelkezések biztosítják az arckép profil nyilvántartás hatálya alá tartozó adatok teljes körűségét.
+
+A 22. §-hoz
+
+A felhatalmazó rendelkezéseket tartalmazza.
+
+A 23. §-hoz
+
+A büntetés-végrehajtási intézetekben a befogadás során az elítéltek személyazonosításával kapcsolatos eljárás során, ha a bűnügyi nyilvántartási adatok, illetve az ujjnyomat összehasonlítása során kétség merül fel a befogadni kívánt személy személyazonosságával kapcsolatban, akkor a büntetés-végrehajtási intézetnek lehetősége nyílik arra, hogy a különböző, a személyazonosítást lehetővé tevő állami nyilvántartásokból történő adatlekérdezés révén az érintett kétséges személyazonosságát tisztázni tudja. A megfelelő adatkezelési szabályozás kialakítása érdekében e § módosítja a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvényt (a továbbiakban: Nytv.) és megjeleníti abban a büntetés-végrehajtási intézetek adathozzáférési jogosultságát, illetve pontosan meghatározza a nyilvántartásból átvehető személyes adatok körét.
+
+Az Nytv. további módosításai megteremtik annak a jogalapját, hogy a személyiadat- és lakcímnyilvántartást vezető szerv az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a polgár arcképmását, valamint arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvényben meghatározott technikai kapcsoló számot átadja. Az SZL ezt az adatszolgáltatást haladéktalanul köteles teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek, ha a polgár új arcképmás adatát nyilvántartásba veszi. A technikai kapcsoló szám közlésével lesz lehetőségük az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvényben meghatározott igénybevételre jogosult szerveknek arra, hogy a személyiadat- és lakcímnyilvántartásból adatot igényelhessenek.
+
+A 24. §-hoz
+
+A külföldre utazásról szóló 1998. évi XII. törvény módosításának célja, hogy megteremtse a jogalapját az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvény rendelkezései alkalmazásának. Eszerint az útiokmány-nyilvántartásban a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot a központi adatkezelő szerv kezelheti. E szerv köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmás adatának nyilvántartásba vételéről, valamint ezen személy útiokmány-nyilvántartásban szereplő arcképmás adatának változásáról. Továbbá a technikai kapcsoló számot és a magyar állampolgár arcképmását az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából átadhatja. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek a fenti technikai kapcsoló szám közlésével is igényelhetnek adatot az útiokmány-nyilvántartásból.
+
+A 25. §-hoz
+
+Az elektronikus hírközlésről szóló 2003. évi C. törvény módosításának célja, hogy a titkos információgyűjtéshez nélkülözhetetlen monitoring és adatszolgáltatási funkciókat ellátó, a hírközlési szolgáltatók által a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) igényei alapján biztosított alrendszerek kizárólag Magyarország területén kerüljenek működtetésre, továbbá, hogy az elektronikus hírközlési szolgáltató a hálózatában a helymeghatározási adatokat az NBSZ által meghatározottak szerint biztosítsa.
+
+A 26-27. §-hoz
+
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) és a menedékjogról szóló 2007. évi LXXX. törvény módosításának célja, hogy megteremtse a jogalapját az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvény rendelkezései alkalmazásának. Ennek megfelelően az idegenrendészeti hatóság kezeli, valamint a menekültügyi nyilvántartás tartalmazza az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot. Továbbá az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából az idegenrendészeti hatóság a Harmtv. 95-99. § szerinti résznyilvántartások hatálya alá tartozó, a menekültügyi hatóság menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám közlésével is igényelhetnek adatot a nyilvántartásból.
+
+Az idegenrendészeti hatóság a Harmtv. 95-99. § szerinti résznyilvántartások hatálya alá tartozó személyek, valamint a menekültügyi hatóság a menekültügyi nyilvántartásban kezelt arcképmás adat nyilvántartásba vételéről, valamint az arcképmás adat változásáról az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám alkalmazásával köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek.
+
+A 28. §-hoz
+
+A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvényben szükséges megjeleníteni, hogy az NBSZ az általa a külső engedélyhez nem kötött titkos információgyűjtő tevékenységéhez kapcsolódóan működtetett arcképelemző informatikai rendszert körözött személy azonosítására, valamint az arcképmás felismerésének időpontjában aktuális tartózkodási helyének meghatározása érdekében is használhatja. A rendszer hatékony működése érdekében az NBSZ részére közvetlen adathozzáférést kell biztosítani a körözési nyilvántartáshoz az arckép profilok felhasználása érdekében.
+
+Az NBSZ által telepített, személyazonosítást elősegítő rendszer nemcsak a titkos információgyűjtés során alkalmazható, hanem a körözési eljárás elősegítése érdekében is. Ennek keretében a rendszerbe feltöltésre kerülnének a körözési nyilvántartásban szereplő megfelelő minőségű arcképmásokból képzett arckép profilok, amely profilok, valamint a hozzárendelt technikai kapcsoló jelek alapján a tényleges azonosítást a megrendelő szerv végezné el. Találat esetén az NBSZ - ha az egyedi ügy érdekeit nem sérti - automatikusan értesítené a körözési eljárást lefolytató szervet. Ez azt is jelenti, hogy a rendszer a titkos információgyűjtéssel ellentétben nem egyedi megkeresések alapján, hanem a körözési nyilvántartásból képzett arckép profilokkal folyamatosan vetné össze a rendszerben keletkező adatokat azzal, hogy személyes adatként kizárólag a technikai kapcsoló számmal ellátott arcképmás kerül kezelésre.
+
+A 29. §-hoz
+
+A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) módosítása alapján - ellentétben a Bv. tv. hatályos 89. § (1) bekezdésével - minden befogadott elítélt esetén el kell végezni egyrészt a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásában kezelt adatokkal való összevetést, másrészt az ujjnyomat révén történő személyazonosítást. Az utóbbi elvégzése érdekében a büntetés-végrehajtási intézetekben olyan elektronikus berendezések rendszerbe állítására van szükség, amelyek segítségével elektronikus úton, csekély idő alatt lehetőség nyílik az érintett ujjnyomatának a Bűnügyi Szakértői és Kutatóintézet által vezetett bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt daktiloszkópiai adatokkal való összehasonlítására.
+
+A rendszer automatikusan jelzi az egyezést. Ez biztos módszert kínál arra, hogy minden elítélt esetében gyors és költséghatékony módon lehessen meggyőződni arról, hogy az a személy kezdi el a büntetés letöltését, akivel szemben a bíróság erről határozott. A személyazonosságának megállapítása érdekében a büntetés-végrehajtási intézet továbbá az arcképprofil nyilvántartás részére jogosult megküldeni az elítéltről készített fényképet az arcképelemző tevékenység igénybevétele céljából. Ha az előző összehasonlítások nem voltak eredményesek, akkor a törvény további lehetőségeket biztosít a büntetés-végrehajtás részére annak érdekében, hogy a különböző, a személyazonosítást lehetővé tevő állami nyilvántartásokból történő adatlekérdezés révén az érintett kétséges személyazonosságát tisztázni tudja.
+
+Ha a nyilvántartásokban szereplő adatokkal való összevetés sem hozott eredményt, végső esetben a büntetés-végrehajtási intézet az érintett személyazonosságának megállapítása érdekében a székhelye szerint illetékes rendőri szervet keresi meg.

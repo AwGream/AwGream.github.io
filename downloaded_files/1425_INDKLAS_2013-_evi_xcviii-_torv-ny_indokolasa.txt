@@ -1,0 +1,415 @@
+2013. évi XCVIII. törvény indokolása
+
+egyes pénzügyi tárgyú törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.), a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.), a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.), a Magyar Nemzeti Bankról szóló 2011. évi CCVIII. törvény (a továbbiakban: MNB tv.) a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény (a továbbiakban: Psztv.) módosítása, valamint a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény az EURÓPAI PARLAMENT ÉS A TANÁCS 2012. július 4-ei a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló rendelete (a továbbiakban: 648/2012/EU rendelet) és a hazai jogszabályok közötti harmonizáció megteremtése végett szükséges.
+
+A 648/2012/EU rendelet megengedi a tagállamoknak többletszabályok alkalmazását a központi szerződő felekre vonatkozó prudenciális szabályok esetében, ezért a Tpt.-ben található jelenleg hatályos szabályok mint addicionális követelmények, továbbra is alkalmazandóak.
+
+Az új szabályozás egyik kulcseleme a teljesítés, elszámolás szétválasztása, valamint a Tpt. szerinti hármas felosztás [központi szerződő fél (garantőr), elszámolóház (elszámolás), valamint értéktár] megbontása volt, mert a 648/2012/EU rendelet - a tevékenység tekintetében - a garantőri funkciót az elszámolással együtt értelmezi, ugyanakkor hatálya alá vonja a csupán garantőri funkciót ellátó központi szerződő feleket is.
+
+Az engedélyezési eljárást a hatályos szabályok szerint két hatóság végzi, a Pénzügyi Szervezetek Állami Felügyelete mint fő hatóság, valamint a Magyar Nemzeti Bank mint szakhatóság. A fennálló rezsim megtartására a 648/2012/EU rendelet szerint lehetőség van, úgy, hogy a hatóságot/hatóságokat a tagállam kijelöli. Ezért került módosításra a Psztv., és az MNB tv., körülhatárolva az egyes hatósági területek mezsgyéit.
+
+A 648/2012/EU rendelet 87. cikke módosítja a fizetési és értékpapír-elszámolási rendszerekben az elszámolások véglegességéről szóló az Európai Parlament és a Tanács 98/26/EK irányelv (továbbiakban: 98/26/EK irányelv) 9. cikk (1) bekezdését. Ezért a 98/26/EK irányelvet implementáló Tvt. módosítása is szükségessé vált. Fontos megjegyezni, hogy a jelen előterjesztésben szereplő módosítások csak a jogharmonizáció első fázisát jelentik, a későbbiekben további jogszabály-módosítások várhatóak az Európai Bizottság által megjelentetett egyéb részletszabályok függvényében.
+
+A 648/2012/EU rendeletnek való megfelelésen túl a Tpt. módosítása annak érdekében is szükségessé vált, hogy az értékpapírok multilaterális kereskedési platformokra történő regisztrációja - amely eddig nem volt önállóan szabályozott kategória a törvényben, így nem is járult hozzá tájékoztató vagy egyéb információs dokumentum-készítési kötelezettség - a jövőben szabályozott keretek közé kerüljön.
+
+A törvény a fentieken túlmenően - módosítva egyéb pénzügyi tárgyú törvényeket is - számos újdonságot tartalmaz.
+
+A törvény módosítja a Hpt.-t többek között az Országos Betétbiztosítási Alapra vonatkozó rendelkezések kapcsán. Annak érdekében, hogy az Alap kártalanítás esetén igénybe vehető forrásai bővülhessenek, a rendelkezések megteremtik az Alap kötvénykibocsátásának lehetőségét. (Ennek érdekében szükségessé válik a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása is.)
+
+A forgatható utalványok kibocsátói többször felhasználható, forgatható fizetési eszközt bocsátanak ki, ezért tulajdonképpen egyfajta pénzügyi jellegű szolgáltatást végeznek. A forgatható utalvány valójában pénzügyi terméknek fogható fel, hiszen azt az utalvány-birtokosok - akár saját maguk vásárolják meg, akár áru vagy szolgáltatás ellenértékeként jutnak a birtokába - fizetés céljára használják. Ezért indokolt a forgatható utalvány kibocsátási tevékenység kiegészítő pénzügyi szolgáltatásnak minősítése és ezáltal a rá vonatkozó rendelkezéseknek a Hpt.-ben történő megjelenítése.
+
+A törvény módosítja a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvényt is, pontosítva a hitelszerződés megkötését megelőzően a fogyasztó részére biztosított tájékoztatásra vonatkozó előírásokat a fogyasztói hitelmegállapodásokról szóló 2008/48/EK irányelv rendelkezéseinek való teljes megfelelés érdekében.
+
+A 260/2012/EU rendelet (a továbbiakban: SEPA rendelet) betartatásáért felelős hatóság kijelölése jogharmonizációs kötelezettségünk, amelyre a Magyar Nemzeti Bank javasolt, így ennek megfelelően kerül sor az MNB tv. módosítására.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény egyértelműsíti, hogy az úgynevezett cafeteria típusú utalványok nem tartoznak a hitelintézeti törvény hatálya alá.
+
+Mivel az MNB az alapvető feladatai ellátása érdekében, illetve azzal összefüggésben a Hpt. hatálya alá tartozó szolgáltatókhoz hasonlóan nyújt pénzügyi és kiegészítő pénzügyi szolgáltatást, indokolt, hogy a jelenlegi szabályozás egyértelművé tegye, ezen szolgáltatások keretében az MNB tudomására jutott adatok banktitoknak, fizetési titoknak minősülnek.
+
+A 2. §-hoz
+
+A törvénynek megfelelően a kiegészítő pénzügyi szolgáltatások köre kiegészül a forgatható utalvány kibocsátási tevékenységgel.
+
+A forgatható utalvány kibocsátási tevékenység az MNB felé történő bejelentés mellett végezhető, a rá vonatkozó rendelkezések megtartását az MNB ellenőrzi.
+
+A 3-4. §-hoz
+
+Az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről szóló 2009/110/EK irányelv 3. cikk. (1) bekezdése az elektronikuspénz-kibocsátó intézmények esetében is biztosítja az Európai Unión belül a fióktelep útján és határon átnyúló szolgáltatásnyújtást, ezért indokolt a hitelintézeti törvény 3/A. § (4) bekezdésének és 3/B. §-ának ezzel összhangban lévő módosítása.
+
+Az 5. §-hoz
+
+A törvény meghatározza az utalvány-kibocsátó működésének szervezeti formáját, a befizetett jegyzett tőkéjének legkisebb összegét, valamint rögzíti, hogy pénzügyi szolgáltatást és a forgatható utalvány kibocsátási tevékenységen kívül már kiegészítő pénzügyi szolgáltatást nem végezhet.
+
+Megengedi, hogy az utalvány-kibocsátó a forgatható utalvány értékesítéséhez és visszaváltásához forgalmazót vegyen igénybe, annak kimondásával, hogy a forgatható utalványban megtestesített követelés ebben az esetben is az utalvány-kibocsátóval szemben áll fenn.
+
+Előírja az utalvány-kibocsátó MNB felé történő 15 napon belüli, utólagos bejelentési kötelezettségét, meghatározza a forgatható utalvány kibocsátási tevékenység megkezdéséről szóló bejelentés minimális adattartalmát és a bejelentéshez mellékelendő dokumentumokat.
+
+A 6. §-hoz
+
+A 2011. évi CXCVII. törvény 2012. március 1-jei hatállyal iktatta be a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény kényszertörlési eljárásról rendelkező VIII/A. fejezetét, amelynek 118. § (3) bekezdése szerint a cégbíróság a kényszertörlési eljárás során megkeresi a cég számláit vezető pénzforgalmi szolgáltatót a cég számlakövetelésével és egyéb pénzfizetés teljesítésére vonatkozó követelésével kapcsolatos adatszolgáltatás teljesítése érdekében, amellyel összefüggésben szükséges a hitelintézeti törvény banktitokra vonatkozó szabályozásának kiegészítése.
+
+A 7. §-hoz
+
+A banktitok minden olyan adat, és egyéb információ, mely a pénzügyi intézménynél az ügyfelekről rendelkezésre áll. A 648/2012/EU rendelet előírja a derivatív ügyletek esetében minden szerződő fél részére az általuk kötött ügyletek részletinek tekintetében a jelentési kötelezettséget az adattárak részére. Ennek teljesítéséhez a banktitok alóli mentesítést meg kell adni.
+
+A 8. §-hoz
+
+A „klíring” fogalmának módosításával összefüggésben indokolt, hogy ahol a jogszabályok „klíring” fogalmat használnak, helyette a Tpt. módosult rendelkezéseivel összhangban „elszámolás” szerepeljen.
+
+A 9. §-hoz
+
+A törvény előírja, hogy az utalvány-kibocsátó saját tőkéje nem csökkenhet a törvényben előírt legkisebb jegyzett tőke alá.
+
+Kimondja, hogy az utalvány-kibocsátó a forgatható utalvány ellenében átvett pénzeszközökkel a sajátjaként nem rendelkezhet, és az utalvány-kibocsátó felszámolása esetében azok nem kerülnek be felszámolási vagyonba.
+
+Előírja a forgatható utalvány kibocsátása ellenében átvett pénzeszközöknek az utalvány-kibocsátó saját pénzeszközeitől való elkülönített nyilvántartását, valamint az utalvány-birtokosok utalvány-kibocsátóval szemben fennálló mindenkori összesített pénzkövetelésének kimutatását.
+
+Előírja, hogy az utalvány-kibocsátó a forgatható utalvány ellenében átvett pénzeszközöket EGT-államban székhellyel rendelkező hitelintézetnél a forgatható utalvány névértékének hivatalos pénznemében vezetett letéti számlán köteles elhelyezni, vagy ezzel egyenértékű bankgarancia vagy kezesi biztosítási szerződést kötni, valamint rendelkezik arról az időpontról, amikortól az utalvány-kibocsátónak ezen követelményeknek meg kell felelni.
+
+A 10. §-hoz
+
+A közjegyzők, a bírósági végrehajtók, valamint az ügyvédek tevékenységükhöz kapcsolódóan, illetve jogszabályi kötelezettségüknek eleget téve letéti számlák vezetésére bankszámlaszerződést kötnek a hitelintézetekkel. Ezen számlák tekintetében a letéti jogviszony nem a hitelintézet és a számlatulajdonos közjegyző/végrehajtó/ügyvéd között áll fenn, hanem a közjegyző/végrehajtó/ügyvéd és az ügyfele (vagy a jogszabályban meghatározott más személy) között. A törvény szerint ezért ezeket a számlákat (több számla esetén valamennyi számlát külön-külön) a kártalanítás összegének megállapításánál az összeghatár szempontjából külön kell kezelni a közjegyzőnek/végrehajtónak/ügyvédnek a hitelintézetnél lévő más betéteitől, vagyis e számla után a törvény szerinti mindenkori értékhatár alapján számított kártalanítást fizeti az Alap. E számlákon lévő összegek nem tartoznak a közjegyző/végrehajtó/ügyvéd vagyonához, ezért kell elkülönítetten kezelni, így abban az esetben, ha a Hpt. 100. § (1) bekezdésének l) pontja alapján a közjegyző/végrehajtó/ügyvéd nem jogosult kártalanításra, a letéti számlákon lévő összeg alapján fizethető kártalanítás a közjegyző/végrehajtó/ügyvéd részére.
+
+A 11. §-hoz
+
+Kártalanítási esemény bekövetkezésekor az Országos Betétbiztosítási Alap és a hitelintézet számítástechnikai rendszere közötti adatátvitelhez és az adatok feldolgozásához szükség lehet egy konvertáló programra, amit kártalanítás esetén az érintett hitelintézetnek az Alap rendelkezésére kell bocsátani a kifizetések határidőben történő teljesítése érdekében. A törvény szerint a hitelintézetnek segítséget kell nyújtania annak érdekében, hogy a betétekre vonatkozó adatokat az Alap kifizető rendszere fel tudja dolgozni.
+
+A 12. §-hoz
+
+Az Alap a hatályos szabályok szerint hitel felvételére jogosult abban az esetben, ha kártalanítási kötelezettsége keletkezik. Annak érdekében, hogy az Alap kártalanítás esetén igénybe vehető forrásai bővülhessenek, a törvény megteremteni az Alap kötvénykibocsátásának lehetőségét.
+
+A 13. §-hoz
+
+A hitelfelvételhez hasonlóan kötvény kibocsátása esetén is szükség lehet a tagintézeteket terhelő rendkívüli fizetési kötelezettség előírására a visszafizetés érdekében.
+
+A 14. §-hoz
+
+A törvény meghatározza a forgatható utalvánnyal szemben támasztott formai és minimális tartalmi követelményeket.
+
+Előírja az utalvány-kibocsátó általános üzleti feltételeinek és az utalvány-elfogadók listájának honlapon való nyilvános közzétételét, valamint meghatározza az általános üzleti feltételekkel szembeni minimális tartalmi követelményeket.
+
+Kimondja, hogy az utalvány-kibocsátó a meghirdetett díjon, jutalékon és költségen felül további vagy azokat meghaladó mértékű díjat nem érvényesíthet az ügyféllel szemben, kedvezmény adására viszont lehetőséget ad.
+
+Rendelkezik arról, hogy az utalvány-kibocsátó az általános üzleti feltételek módosításáról annak hatálya lépése előtt legalább 60 nappal köteles tájékoztatni az ügyfelet, meghatározza a tájékoztatás módját, valamint biztosítja az ügyfél jogát a szerződésnek a módosítás hatályba lépése előtti felmondására.
+
+A törvény előírja, hogy az utalvány-kibocsátó az utalvány-birtokosok vele szembeni pénzköveteléseként a naptári év utolsó napján fennálló forgatható utalvány állomány névértékét és a rendelkezésre álló fedezet értékét a honlapján köteles nyilvánosan közzétenni.
+
+A törvény rendelkezik arról is, hogy az utalvány-kibocsátó a forgalomképes forgatható utalványokat névértéken, a korlátozottan forgalomképes forgatható utalványokat az általános üzleti feltételekben meghatározott értékben, az utalvány-birtokos kérésére bármikor köteles törvényes fizetőeszközre visszaváltani, azzal a korlátozással, hogy lejárattal rendelkező forgatható utalvány esetében e visszaváltási kötelezettség a lejárattól számított 12 hónapig áll fenn.
+
+A 15. §-hoz
+
+Átmeneti rendelkezéseket állapít meg a törvény hatálybalépésekor már forgatható utalvány kibocsátási tevékenységet végző utalvány-kibocsátók jogszabályi végrehajtói, ügyvédi letéti számlákra vonatkozó új rendelkezéseket a módosítás hatálybalépését követően indított kártalanítási eljárásban kell alkalmazni.
+
+A 16. §-hoz
+
+A közjegyzői, végrehajtói, ügyvédi letéti számlákra vonatkozó új rendelkezéseket a módosítás hatálybalépését követően indított kártalanítási eljárásban kell alkalmazni.
+
+A 17. §-hoz
+
+Jogtechnikai jellegű módosítás.
+
+A 18. §-hoz
+
+A hitelintézeti törvény a szavatoló tőke 5%-ában korlátozza a hitelintézetek nem banküzemi célú ingatlanbefektetéseinek értékét, kivéve a felszámolási eljárás és a végrehajtás keretében megszerzett ingatlanokat, amelyekre a törvény 3 éven belüli elidegenítési kötelezettséget ír elő. A jelenlegi ingatlanpiaci helyzetben indokolt a határidő 6 évre történő módosítása.
+
+A 19. §-hoz
+
+A központi szerződő fél - a Rendelet koncepciójának megfelelően - már kizárólag központi szerződő fél tevékenységet (garantőri funkció) valamint pénzügyi eszközre kötött ügylet elszámolását végezheti, mint „alaptevékenység”, és ezen felül kiegészítő tevékenységeket is végezhet, de az új módosítással értékpapírkölcsönzést már nem. A továbbiakban ennek végzésére csak az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény jogosult.
+
+A módosítás másik oka az, hogy a törvény hatálya a befektetési alapkezelő és kollektív befektetési forma tekintetében ezáltal összhangba kerül a Tpt. értékpapír-kölcsönzésre vonatkozó 168. § (1) bekezdéssel.
+
+A 20. §-hoz
+
+Az (1) bekezdésben a céltársaság fogalmának pontosítása a - törvény Harmadik részében használt terminológiának megfelelő - koherens szóhasználat biztosítása miatt szükséges.
+
+A (7) bekezdésben a nyilvános értékesítésre történő felajánlás fogalom egyértelmű használata érdekében történt a fogalom technikai pontosítása, világossá téve ezáltal, hogy a korábban ugyanígy definiált nyilvános ajánlattétel fogalom csak az állampapírok nyilvános forgalomba hozatalához készítendő dokumentumot (2. számú melléklet) takar. A (2), (4), (8) és a (9) bekezdése a Rendeletnek, valamint a megváltozott fogalmaknak való megfelelést szolgálja. A (3) bekezdés szintén a Rendeletnek, valamint a megváltozott fogalmaknak (elszámolás) való megfelelést szolgálja, valamint azt, hogy az átfogalmazással a definíció a Tpt. 334. § és 335. § (1) bekezdés a) pontjával összhangban legyen. Az (5) bekezdés a Rendeletnek, valamint a megváltozott fogalmaknak való megfelelésen túl egyfajta pontosítás arra vonatkozóan, hogy az eszközök fogalma a pénz(eszközöket) is magába foglalja.
+
+A (6) bekezdés a Rendeletnek, valamint a megváltozott fogalmaknak való megfelelést szolgálja, tehát a módosítással a központi szerződő fél korábbi garanciavállalási tevékenysége kiegészül az „önálló jogon végzett” elszámolási tevékenységgel.
+
+A 21. §-hoz
+
+Állampapír zártkörű forgalomba hozatala nem tartozik e törvény hatálya alá, ezért a módosítás a Tpt. 15. § a) pontjából törli az ilyen értelmű hivatkozást.
+
+A 22-23. §-hoz
+
+Értékpapírok multilaterális kereskedési rendszerbe (MTF) történő regisztrációja eddig nem képezte külön kategóriaként szabályozás tárgyát. E kereskedési rendszerek hazai megjelenése következtében illetve az ide regisztrálandó értékpapírok átláthatóságának növelése érdekében a törvény ezentúl magához a rendszerbe történő regisztráláshoz kívánja meg a tájékoztató elkészítését. A törvény egyúttal kimondja, hogy - hasonlóan a szabályozott piaci bevezetéshez - a multilaterális kereskedési rendszerbe történő regisztrációval a korábban zártkörűen forgalomba hozott értékpapír nyilvánosan forgalomba hozottnak minősül (s a későbbiek során újabb tájékoztatót a vele való nyilvános tranzakcióhoz nem kell készíteni).
+
+A szabályozott piaci bevezetés tájékoztató és a hirdetmény közzétételi mentességhez hasonlóan az MTF-re történő regisztráció esetében is szükséges felmentést vezet be a törvény 23. §-a (1) bekezdése. Ugyanakkor a 23. § (2) bekezdése alapján tájékoztatót kell készíteni akkor is, ha a már korábban regisztrált és az adott eljárás kapcsán regisztrálandó értékpapírok kibocsátási összértéke az ötmillió eurós szintet eléri és korábban nem került közzétételre tájékoztató. A 23. § (2) bekezdése biztosítja egyúttal, hogy a Tpt. 21. § (2) bekezdés da) pontjában írt feltétel fennállásakor is sor kerüljön a befektetők valamilyen jellegű tájékoztatására, ezt a tájékoztatást szolgálná a kötelezően közzéteendő információs dokumentum, aminek a tartalmát a piacműködtető határozza meg és hagyja jóvá.
+
+A 24. §-hoz
+
+A módosított definícióval való fogalmi összhang megteremtése érdekében szükséges a „nyilvános ajánlattétel” fogalom kicserélése a „nyilvános értékesítésre történő felajánlás” fogalomra.
+
+A 25. §-hoz
+
+A Tpt. 23. § (1) bekezdés a), f) és g) pontjai azonos megfogalmazást hivatottak használni és ezen belül szabályozni kívánják a befektetési szolgáltató igénybevételének kötelezettsége alóli kivételként azt az esetet, amikor az azonos fajtájú és osztályba tartozó részvényeket már regisztráltak ugyanazon MTF-re, vagy - a már működő magyarországi MTF-ekre is tekintettel - az értékpapír-sorozat be van vezetve valamely szabályozott piacra.
+
+A 26-27. §-hoz
+
+Az értékpapír jegyzés semmisségére valamint a tájékoztató összefoglaló készítési kötelezettsége alóli mentességre vonatkozó rendelkezések tekintetében a multilaterális kereskedési rendszerbe történő regisztráció esetében is a szabályozott piacra történő bevezetésre vonatkozó szabályok alkalmazandók.
+
+A 28. §-hoz
+
+A módosított definícióval való fogalmi összhang megteremtése érdekében szükséges a „nyilvános ajánlattétel” fogalom kicserélése a „nyilvános értékesítésre történő felajánlás” fogalomra.
+
+A 29-32. §-hoz
+
+A tájékoztatóhoz kapcsolódó szabályok kiegészítésre kerültek a multilaterális kereskedési rendszerbe történő regisztrációval.
+
+A 33. §-hoz
+
+A törvény csupán az MTF-re való regisztrációval egészíti ki a rendelkezést, az információs dokumentumra nem hivatkozik. Ennek oka, hogy az MTF-be regisztrált értékpapír kibocsátójára a Tpt. 34. § szerinti közzétételi kötelezettség akkor irányadó, amennyiben a Tpt. 21. § (2) bekezdés d) pontja szerinti kivétel nem alkalmazható, tehát tájékoztatót kell készíteni.
+
+A 34-38. §-hoz
+
+A tájékoztatóhoz kapcsolódó szabályok kiegészítésre kerültek a multilaterális kereskedési rendszerbe történő regisztrációval.
+
+A 39. §-hoz
+
+A módosítás rögzíti, hogy a Tpt. V. fejezetét nem kell alkalmazni a szabályozott piacra be nem vezetett részvény, illetve kötvény kibocsátójára, kivéve az éves jelentés könnyített határidejű benyújtását. Ez a megfogalmazás közelíti a szabályozást az európai uniós transzparencia szabályozáshoz, amely csak szabályozott piacra bevezetett értékpapír kibocsátókra vonatkozik.
+
+A törvény kimondja továbbá, hogy az MTF-re regisztrált értékpapírokkal rendelkező kibocsátóra (ha egyúttal nincs szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére bevezetve) csak az MTF-működtető határoz meg rendkívüli tájékoztatási kötelezettségeket, mindamellett, hogy az éves jelentéstételi kötelezettség a könnyített határidővel terheli.
+
+A 40. §-hoz
+
+A Tpt. 181/K. §-a az Tpt. 391. § (1) bekezdés g) pontjára utalt. Tekintettel arra, hogy a törvény 75. §-a útján a Tpt. 391. § (1) bekezdés g) pontja eltérő rendelkezést tartalmazó, új tartalommal telt meg, a Tpt. 181/K. §-ának módosítása is indokolt.
+
+A 41. §-hoz
+
+A tőzsdei termékre elszámolást a központi értéktár nem végez, csak a központi szerződő fél.
+
+A 42. §-hoz
+
+A tőzsdei ügylet érvényességéhez szükséges feltételek kibővültek az összes tőzsdei ügyletre, tehát nem csak a határidős és opciós ügyletekre, hanem az azonnali ügyletekre is. Másrészt a módosítás az egyszerűsítést szolgálja, tehát a Tpt. 321. § (1) bekezdésben meghatározott határidős ügyletek vonatkozásában az elszámolóházi tevékenységet végző szervezet, valamint a központi szerződő fél visszaigazolása és nyilvántartásba vétele itt jelenik meg összesítetten, ezzel egyúttal a Tpt. 322. § (4) bekezdése, mely ugyanezt mondja ki az opciós ügyletekre, hatályát veszti.
+
+A 43-44. §-hoz
+
+A 648/2012/EU Rendelet szövegéből levezethető, hogy egyetlen szerződő fél sem kötelezhető garanciavállalásra („szolgáltatási kényszer eltörlése”.) A központi szerződő fél garanciavállalása egy kockázat alapú döntés eredménye. Tehát amennyiben a központi szerződő fél úgy ítéli meg, hogy az adott piac, vagy ügyfélkör kiszolgálása olyan addicionális kockázatokat hordoz, amelyeket az egyéni és kollektív garanciaelemekkel, továbbá az általa kockáztatni kívánt saját pénzügyi erőforrásokkal nem képes kezelni, akkor megfelelő lezárási folyamatok biztosítása mellett megszüntetheti az adott piac vagy ügyfélkör kapcsán nyújtott garanciavállalási szolgáltatást. A törvény 44. §-a rendelkezik arról, hogy a központi szerződő fél saját jogán (alap tevékenység keretében) nyújt elszámolást a Rendelet alapján.
+
+A 45-46. §-hoz
+
+Tekintettel arra, hogy a Rendelet erre vonatkozó korlátozást nem tartalmaz, a jelenlegi rezsim megtartása - pontosítással - nem ütközik akadályba.
+
+A 47. §-hoz
+
+A Tpt. Tizedik Része nem csak az elszámolóházi és a központi értéktári tevékenységet szabályozza, hanem a központi szerződő fél tevékenységet is.
+
+A 48. §-hoz
+
+Az elszámolóházi tevékenységek pontosítása a megváltozott fogalmak miatt válik szükségessé.
+
+A 49. §-hoz
+
+A törvény 49. § (1) bekezdésének indoka az az expressis verbis megjelenítő szabály, hogy a tőzsde, elszámolóház és fióktelep minősül csak elszámolóházi tevékenységet végző szervezetnek, míg a központi szerződő fél nem. A 49. § (2) bekezdés célja a pontosítás és a koherens szövegezés, melynek eredményeképpen a külön törvényben meghatározott szervezett piacon kötött áru vonatozásában végezhet az elszámolóház elszámolási tevékenységet.
+
+Az 50. §-hoz
+
+Az 50. § (1) bekezdés indoka az, hogy a teljesítés véglegességéről szóló 98/26/EK Irányelvet jogharmonizáló Tvt. alapján kijelölt fizetési rendszerek (az MNB által működtetett VIBER és a GIRO Zrt. által működtetett BKR) beengedik partnerkörükbe a pénzforgalmi intézményeket és az elektronikuspénz-kibocsátó intézményeket. Ugyanakkor ezen fizetési rendszerekben rendelkezésre álló likviditás egy részét a jegybank által fedezet mellett nyújtott napközbeni hitel (hitelkeret) jelenti. A hitelkeret fontos része a fizetési rendszerek likviditásának, jelentős mértékben csökkentheti az esetlegesen felmerülő likviditási kockázatot. Ezen kívül az MNB által kiegyenlített kártyaelszámolási rendszerek is előírják az MNB kedvezményezettségével zárolandó fedezetek meglétét (a kártyaelszámolás nettó rendszer, így garanciarendszert működtet). A kártyatársaságok és az MNB közötti együttműködés fontos mérföldköve volt, hogy az MNB elérte, hogy a kártyaelszámolás kiegyenlítése jegybankpénzben (kvázi kockázatmentesen) történjen. Ugyanakkor mind a fizetési rendszerekben használt hitelkeret mögötti, mind a kártyaelszámolás garanciarendszere keretében letett biztosítékok az MNB javára zárolandók, amely ma a KELER Zrt.-n keresztül lehetséges (kedvezményezetti zárolás). Ehhez pedig az adott intézménynek a KELER Zrt. partnerévé kell válnia. Ezen szakmai összefüggések miatt indokoltnak látjuk a szolgáltatást potenciálisan igénybe vevők listájának bővítését a pénzforgalmi intézményekkel és az elektronikuspénz-kibocsátó intézményekkel. Az 50. § (2) bekezdésében foglalt módosítás célja, az elszámolóház a hitel- és pénzkölcsön nyújtást kizárólag likvid eszközökben történő, legalább teljes fedezettséget biztosító biztosíték mellett végezze. Ez a szabály ma is létezik a vonatkozó MNB rendeletben [a tőkepiacról szóló törvény szerinti elszámolóházi tevékenységet végző szervezet üzletszabályzatára és szabályzataira vonatkozó követelményekről szóló 9/2009. (II.27.) MNB rendelet (a továbbiakban: MNB rendelet), 11. § (1) bekezdése], így nem jelent addicionális terheket. Az 50. § (3) bekezdés indoka az, hogy az elszámolás lebonyolítása kifejezés a továbbiakban már nem állja meg a helyét, a megváltozott fogalmak miatt, ill. a Tpt. 334. § b) pontjában meghatározottakkal összhangban csak pénzügyi teljesítés lebonyolításáról beszélhetünk.
+
+Az 51. §-hoz
+
+A b) pontban a „szállítás fizetés ellenében történő elszámolással lezáruló” kitétel törlendő, mert a központi értéktárak szolgáltatása nem korlátozódik a DvP-re („delivery versus payment”), hanem pl. FoP („free of payment”) vagy DvD („delivery versus delivery”) szolgáltatásokat is nyújtanak. Ezen kívül a c) pont nehezen értelmezhető. A c) pont ugyanis értékpapírral történő teljesítésről szól, majd visszautal a Tpt. 334. § c) pontjára, amely kizárja az értékpapírral történő teljesítést.
+
+Az 52. §-hoz
+
+A jogszabályhely technikai pontosítást tartalmaz.
+
+Az 53. §-hoz
+
+Tekintettel a Bizottság 2013. január 21-én kelt levelére, a központi szerződő fél által a garanciavállaláson és az elszámoláson kívül végezhető tevékenységeket módosítani kell. Az állásfoglalás expressis verbis kimondta, hogy a központi szerződő fél nem lehet teljes jogú hitelintézet. Kizárólag az általa végzett elszámoláshoz kapcsolódó pénzügyi teljesítés kapcsán végezhet „bankszerű” tevékenységet. A bankszerű tevékenység a Tpt. 334. § b) és a Tpt. 335. § (3) bekezdés e) pontjait fedi le [utóbbi Hpt. 3. § (1) bekezdés b) és d) pontjaira utal vissza]. Mindezekre való tekintettel a Tpt. 340/D. § (1a) bekezdés c) pontja módosítandó, miszerint utalás kizárólag a Tpt. 334. § b) és a Tpt. 335. § (3) bekezdés e) pontjaira lehetséges.
+
+Tehát amennyiben a központi szerződő fél bankszerű tevékenységet végez, azaz az általa elszámolt ügylet vonatkozásában pénzkölcsönt nyújt, vagy pénzforgalmi szolgáltatást végez, úgy vele szemben szakosított hitelintézeti státusz megkövetelt (a megoldás az elszámolóházra megkövetelt szakosított hitelintézeti státusz analógiájára is épült.)
+
+Ezen kívül az új d) pont beillesztése, immár törvényi szinten (nem csak MNB rendeletben) írná elő a Hpt. 3. § (1) bekezdés b) pontja kapcsán a fedezettséget. A fentiekre tekintettel tehát, a központi szerződő fél, még ha korlátozottan is, de „bankszerű” tevékenységekbe kezd, a kockázatokat megfelelően kezelnie kell.
+
+Az 54. §-hoz
+
+Szükséges annak megjelenítése, hogy a központi szerződő fél milyen feltételekkel kaphat engedélyt. A módosítás a Rendelet szerinti koncepcióra épül.
+
+Az 55. §-hoz
+
+A központi szerződő fél engedélye visszavonásának szabályozása módosítandó, egyrészt a Rendelet (erre vonatkozó részének) közvetlen hatálya és alkalmazandósága miatt, másrészt az ott nem szabályozott rendelkezések megtartása miatt, amelyre a Rendelet egyébként lehetőséget ad a tagállamok számára.
+
+Az 56. §-hoz
+
+Amennyiben a központi szerződő fél „bankszerű” tevékenységet (pénzügyi szolgáltatást) nyújt, abban az esetben a Hpt. szabályai is irányadóak rá.
+
+Az 57. §-hoz
+
+Az összeférhetetlenségi szabályok pontosítása, ill. a fogalmak használatának a Munka törvénykönyvével való összhangjának biztosítása volt a cél a módosítással.
+
+Az 58. §-hoz
+
+A módosítás szükségességét az új fogalomrendszer adta. Másrészről a nyilvánosságra hozatalra vonatkozó előírással kapcsolatos kivétel törlésére azért került sor, mert a kockázatok kezelésének módjáról, valamint a díjakról szóló szabályzatok nyilvánosságra hozatala kapcsán sem a központi értéktár sem a központi szerződő fél nem kap felmentést a Tpt. más részeiben.
+
+Az 59. §-hoz
+
+Az elszámolóházi tevékenységet végző szervezet ügyfélköre nem korlátozódik befektetési vállalkozásokra, a hitelintézetekre és az árutőzsdei szolgáltatókra.
+
+A 60-62. §-hoz
+
+A megváltozott központi szerződő fél tevékenységhez a szabályzatok valamint a szolgáltatási kötelezettségre (akivel szerződést köt), valamint a garanciaalapra, biztosítékképzésre vonatkozó részt hozzá kellett igazítani.
+
+A 63. §-hoz
+
+Tekintettel arra, hogy a Rendelet a központi szerződő felekre vonatkozó résznél megengedi a tagállamoknak szigorúbb szabályok alkalmazását, ezért a pontosítás végett jelezzük, hogy a Tpt.-ben lefektetett befektetésre vonatkozó szabályok addicionális követelményként jelennek meg a Rendelethez képest.
+
+A 64. §-hoz
+
+A Rendeletben található kiszervezési szabályokhoz való igazítás miatti módosítások, így különösen az átfedő részek kerültek törlésre, az addicionális követelményeknél pedig a Rendeletre való hivatkozással jelezzük azok viszonyát.
+
+A 65. §-hoz
+
+Amennyiben a központi szerződő fél az általa elszámolt ügyletek tekintetében bankszerű tevékenységet nyújt, tekintettel annak szakosított hitelintézeti státuszára, a felszámolásra vonatkozó eljárások között is megjelenítendő a Hpt. vonatkozó szabályára utalás.
+
+A 66. §-hoz
+
+A részvénykönyvvezetésre vonatkozó szabályok a tőkepiacon tevékenységet végző szervezeteknél kötelezettség, eddig a Tpt. a központi szerződő felekre vonatkozóan nem szabályozta, azonban a kivételük a megváltozott prudenciális szabályok okán sem indokolt.
+
+A 67-71. §-hoz
+
+A vezető állású személyek és a könyvvizsgálatra vonatkozó követelmények szabályozását a Rendelet tagállami hatáskörben hagyja, ugyanakkor a központi szerződő fél megfelelő működéséhez szükséges és elvárható.
+
+Egyúttal törlésre került a nyilvánosan forgalomba hozott értékpapír kibocsátó könyvvizsgálójára vonatkozó rész, tekintettel arra, hogy amennyiben az intézmény pénzügyi szolgáltatást végez, úgy pénzügyi intézmény esetén Hpt. 133. § (1) bekezdése, befektetési vállalkozás esetén a Bszt. 97. § (1) bekezdése mondja ki ugyanezen szabályt. Ezáltal a pénzügyi tevékenységet nem végző intézményekre ez a szigorítás nem vonatkozik, tekintettel annak indokolatlanságára.
+
+A 72-73. §-hoz
+
+A 648/2012/EU rendelet előírja a derivatív ügyletek esetében minden szerződő fél részére az általuk kötött ügyletek részletinek tekintetében a jelentési kötelezettséget az adattárak részére. Ennek teljesítéséhez az értékpapírtitok, üzleti titok alóli mentesítést az ún. „post trade” szektor szereplői számára meg kell adni.
+
+A 74. §-hoz
+
+Pénz- és Tőkepiaci Állandó Választottbírósági eljárásnak van helye a tőkepiaci ügyletek vonatkozásában, részvényesi jogokkal stb. kapcsolatban, és minden Tpt. hatálya alá tartozó intézmény esetében, ezért a központi szerződő fél esetében, különös tekintettel arra, hogy elszámolást is végez önálló jogon.
+
+A 75. §-hoz
+
+A Felügyelet nyilvántartásaiban a központi szerződő fél nem volt megjelenítve, ezért ezt orvosolni kellett, hiszen annak engedélyezéséhez szükséges a központi szerződő fél neve, székhelye, tevékenység megkezdésének időpontjának rögzítése, ill. nyilvántartásba vétele garanciális okokból.
+
+A 76-77. §-hoz
+
+A Felügyelet, valamint a felvigyázó MNB-nek - Tpt.-ből és a Rendeletből eredő, központi szerződő félre vonatkozó - feladatai megfelelő ellátásához, így az adatkezelésre, az adatszolgáltatásra vonatkozó részek bővítése - a központi szerződő féllel- szükségszerű. Egyúttal az adatkezelésre vonatkozó szabályok szűkítésre kerültek, mely alapján a Felügyelet a Psztv. szerinti ellenőrzési eljárásának keretében kezelheti a Tpt. hatálya alá tartozó intézmények ügyfeleinek az adatait.
+
+A 78-83. §-hoz
+
+A Rendelet a felügyeleti intézkedések és szankciók teljes szabályozását tagállami hatáskörbe utalja. A Tpt. jelenleg is tartalmaz az intézkedésekre, szankciókra, felügyeleti biztos kirendelésére vonatkozó szabályokat, melyek - jelen módosítással - a központi szerződő félre is alkalmazandóak lesznek, figyelembe véve a Rendelet szankciókra vonatkozó elveit.
+
+A 84. §-hoz
+
+Jogtechnikai jellegű, jogharmonizációs célú kiegészítés.
+
+A 85. §-hoz
+
+A hatályát vesztő részek jogtechnikai módosítások, a szövegváltozások koherenciájának biztosítása végett szükségesek.
+
+A 86. §-hoz
+
+A 648/2012/EU Rendelet módosítja a fizetések véglegességéről szóló 98/26/EK Irányelvet, mely alapján az azt átültető fizetési, illetve a Tvt. módosítása is szükségessé válik.
+
+A 87. §-hoz
+
+A jogszabályhely jogtechnikai jellegű, jogharmonizációs célú kiegészítés.
+
+A 88-89. §-hoz
+
+Az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 2010. november 12-i 1031/2010/EU bizottsági rendelet (a továbbiakban: Aukciós rendelet) kapcsán az Európai Unió emisszió-kereskedelmének harmadik időszaka vonatkozásában szükséges olyan utaló („láttató”) szabály elhelyezése a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.), amely egyértelművé teszi az Aukciós rendelet 18. cikk (3) bekezdésében írt engedélynek a Bszt. 11. § (1) bekezdésében írt engedéllyel való megfelelését. Szükséges továbbá utalni az egyértelműség érdekében az Aukciós rendelet 59. cikkében meghatározott magatartási követelményekre, amelyeknek az engedély kérőjének meg kell felelnie.
+
+A 90-91. §-hoz
+
+A 648/2012/EU rendelet előírja a derivatív ügyletek esetében minden szerződő fél részére az általuk kötött ügyletek részletinek tekintetében a jelentési kötelezettséget az adattárak részére. Ennek teljesítéséhez az értékpapírtitok alóli mentesítést meg kell adni.
+
+A 92. §-hoz
+
+A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 91/A. §-a (2) bek. alapján az egyensúlyozó platformon az ügyletek pénzügyi elszámolását törvényben meghatározott, a szállítási rendszerirányító által kiírt pályázaton nyertes elszámolóház végzi.
+
+A tőkepiacról szóló 2001. évi CXX. törvény (továbbiakban Tpt.) alapján az elszámolóház a tőzsdei, tőzsdén kívüli ügyletek elszámolását végző szakosított hitelintézet. A Get. rendelkezéseinek megfelelően a Napi Földgáz és Kapacitás kereskedelmi Piac (továbbiakban: NFKP) működtetését végző FGSZ Földgázszállító Zrt. (továbbiakban: FGSZ) közbeszerzési eljárás lefolytatását követően szerződést kötött a nyertes Központi Elszámolóház és Értéktár (Budapest) Zrt.-vel (továbbiakban: KELER) az elszámolási szolgáltatás végzésére. A KELER, mint fővállalkozó, alvállalkozóként vette igénybe a garantőri tevékenységet végző KELER KSZF Központi Szerződő Fél Zrt. (továbbiakban: KSZF) által nyújtott garanciavállalási, kockázatkezelési szolgáltatást. A KELER többségi tulajdonosa a KSZF-nek.
+
+A KSZF, központi szerződő félként, az NFKP ügyletek során beáll az ügyletbe, ahol az eladónak vevőjévé és a vevőnek eladójává válik.
+
+Az Európai Parlament 2012. július 4-én elfogadta és 2012. július 27-én közzétette „a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról” szóló 648/2012/EU rendeletet (továbbiakban: EMIR), mely a központi szerződő fél szervezeteket szabályozza.
+
+Az EMIR hatálya alatt a központi szerződő fél klíring (elszámolási) tevékenységet is végez, mely szabályozásnak való megfelelés teljesítése érdekében, a KSZF ezzel bővítette tevékenységét.
+
+Fentieknek megfelelően, az NFKP részére nyújtott szolgáltatások (elszámolás, garanciavállalás) maradéktalan és folyamatos biztosítása érdekében, a Get.-et oly módon szükséges módosítani, mely megfelelően kezeli a változó jogszabályi környezetben az elszámolóházi funkció maradéktalan teljesülését.
+
+A 93-94. §-hoz
+
+A törvény pontosítja a hitelszerződés megkötését megelőzően a fogyasztó részére biztosított tájékoztatásra vonatkozó előírásokat a fogyasztói hitelmegállapodásokról szóló 2008/48/EK irányelv rendelkezéseinek való teljes megfelelés érdekében.
+
+A 95. §-hoz
+
+Az Fhtv. 2. mellékletének módosítása a fogyasztói hitelmegállapodásokról szóló 2008/48/EK irányelv rendelkezéseinek való teljes megfelelés érdekében pontosítja a fizetési számlához kapcsolódó hitelkeret esetén alkalmazandó előzetes tájékoztató tartalmi elemeit.
+
+A 96. §-hoz
+
+A jogszabályhely a hivatkozott törvény számát helyesbíti.
+
+A 97-101. §-hoz
+
+A Rendelet előírja a tagállamoknak, hogy a Rendelet végrehajtásához kapcsolódó feladatok ellátására az illetékes hatóságokat kijelöljék, ill. amennyiben több hatóság is ellátja a végrehajtásához kapcsolódó feladatokat, úgy azok külön megjelenítése szükséges.
+
+A 102. §-hoz
+
+A jogszabályhely jogtechnikai jellegű, jogharmonizációs célú kiegészítés.
+
+A 103-104. §-hoz
+
+A módosítások az Európai Unió jogának való megfelelést szolgálják, tekintettel arra, hogy a Felügyelet látja el az üvegházhatású gázokról szóló a Bizottság 1031/2010/EU rendeletéből (37-42. cikk) feladatokat, valamint a 648/2012/EU rendeletből adódó feladatokat.
+
+A 105. §-hoz
+
+Az Alap kötvénykibocsátása a törvény szerint az Államadósság Kezelő Központ Zrt. közreműködésével történhet.
+
+A 106. §-hoz
+
+A 648/2012/EU Rendelet előírja a tagállamoknak, hogy a Rendelet végrehajtásához kapcsolódó feladatok ellátására az illetékes hatóságokat kijelöljék, ill. amennyiben több hatóság is ellátja a végrehajtásához kapcsolódó feladatokat, úgy azok külön megjelenítése szükséges.
+
+A 107. §-hoz
+
+A törvény a Magyar Nemzeti Bankot jelöli ki a 260/2012/EU rendelet (az úgynevezett SEPA rendelet) betartatásáért felelős illetékes hatóságnak.
+
+A 108. §-hoz
+
+A törvény az MNB jegybanki ellenőrzési jogkörét kiterjeszti a forgatható utalvány kibocsátási tevékenység végzésére vonatkozó, Hpt.-ben meghatározott rendelkezések valamint a SEPA rendelet betartatására.
+
+A 109. §-hoz
+
+A törvény az MNB szakhatósági közreműködését szabályozza az EMIR Rendeletben foglalt feladatok teljesítése esetén, melynél a PSZÁF-fal való együttműködés és feladatmegosztás tekintetében, szükséges szabályozni a belső ügyintézési határidőt.
+
+A 110. §-hoz
+
+Az MNB jegybanki ellenőrzésen alapuló intézkedési jogkörét kiegészíti a forgatható utalványok további kibocsátásának a megtiltásával, forgalomból való kivonásuk vagy megsemmisítésük elrendelésével.
+
+A jegybanktörvény jelenleg csak az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény Magyarországon végzett határon átnyúló tevékenysége tekintetében rendelkezik az MNB által követendő eljárásról abban az esetben, ha ezen pénzügyi intézmény e tevékenysége során megsérti az MNB ellenőrzési jogkörébe tartozó jogszabályokban vagy az MNB határozatában foglalt előírásokat. Tekintettel arra, hogy a pénzforgalmi szolgáltatás nyújtását, továbbá az elektronikuspénz kibocsátását szabályozó EU irányelvek a pénzügyi intézménynek nem minősülő pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény részére is biztosítják a határon átnyúló szolgáltatást nyújtása jogát, esetükben is indokolt az MNB azonos tartalmú intézkedési jogának a biztosítása.
+
+A 111. §-hoz
+
+Az MNB szakhatósági feladatai ellátásához a központi szerződő félre vonatkozó feladatai ellátásához megfelelő rendeleteket alkosson, így a központi szerződő fél által garantált ügyletek teljesítéséhez kapcsolódó kötelezettségvállalás szabályait, valamint az elszámolás és teljesítés rendjét meghatározza.
+
+A 112. §-hoz
+
+Jogtechnikai jellegű, jogharmonizációs célú kiegészítés (EMIR és SEPA rendeletekre való hivatkozás).
+
+A 113. §-hoz
+
+Hatályát veszti az a rendelkezés, amely az MNB tőzsdei ügylet elszámolásához kapcsolódó kötelezettségvállalás szabályaira vonatkozó rendeletalkotását biztosította, tekintettel arra, hogy az elszámolóház központi szerződő fél tevékenységet nem végezhet, így garanciát sem vállalhat, így szükségtelen ezen pont szerinti elem a szabályzataiban.
+
+A 114. §-hoz
+
+A Hpt. kiegészül a forgatható utalványra vonatkozó szabályozással, amelynek értelmében a forgatható utalvány pénzkövetelést megtestesítő, bankjegynek és készpénzhelyettesítési fizetési eszköznek nem minősülő, átruházható és többször felhasználható, papír alapú fizetési eszköz. Tekintettel arra, hogy a forgatható utalvány fizetési eszközként funkcionál, indokolt a hamisítással szembeni védelmének biztosítása azáltal, hogy azt a törvény a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatározott készpénz-helyettesítő fizetési eszköz fogalma alá vonja.
+
+A 115. §-hoz
+
+A Tpt. új fogalomrendszerének való megfelelést szolgálja a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása.
+
+-----STARTING---POINT---VEGE---
+
+A 116-118. §-hoz
+
+A jogszabályhelyek a záró rendelkezéseket tartalmazzák.

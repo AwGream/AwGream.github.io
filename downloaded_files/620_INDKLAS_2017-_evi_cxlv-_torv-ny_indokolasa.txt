@@ -1,0 +1,961 @@
+2017. évi CXLV. törvény indokolása
+
+egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+2015. december 15-én lépett hatályba a belső piaci pénzforgalmi szolgáltatásokról szóló 2015. november 25-i 2015/2366/EU európai parlamenti és tanácsi irányelv (PSD2 irányelv), amelyet a tagállamok 2018. január 13-ig kötelesek átültetni. Az irányelv átültetését követően a piaci szereplőknek jelentős felkészülési időre van szükségük, elsődlegesen az IT fejlesztések tekintetében.
+
+Az irányelv elsődleges célja az ügyfelek - és kiemelten a fogyasztók - hatékonyabb védelme, valamint a belső piac további erősítése, az, hogy mind a fogyasztók, mind pedig a kereskedők és a vállalkozások egyaránt maximálisan ki tudják használni a belső piac nyújtotta előnyöket. További célként jelenik meg az az elképzelés is, miszerint a folyamatos technikai innovációval lépést tartva a PSD2 irányelv rendelkezései kialakítsák a biztonságos elektronikus fizetések belső piacának a fejlesztését is.
+
+Az elmúlt években a pénzügyi szektorban számos új piaci szereplő (FinTech), valamint egyre több innovatív pénzforgalmi termék és szolgáltatás jelent meg. Ezek azonban nagyrészt, vagy teljes egészében a korábbi pénzforgalmi irányelv hatályán kívül estek.
+
+A fentiekre tekintettel a szabályozási hiányosságok megszüntetése érdekében új szabályokra, ugyanakkor még egyértelműbb jogi környezetre és a jogszabályok következetesebb alkalmazására van szükség az Unió egész területén. Egyenlő működési feltételeket kell biztosítani a meglévő és az új piaci szereplők számára, meg kell könnyíteni, hogy az új fizetési módok szélesebb piacot érhessenek el és az Unió egészében magas színvonalú fogyasztóvédelmet kell biztosítani a pénzforgalmi szolgáltatások igénybevételéhez. Ez a pénzforgalmi rendszer egészében hatékonyságnövekedést fog eredményezni, és a pénzforgalmi szolgáltatásokat igénybe vevők szempontjából a pénzforgalmi szolgáltatások választékának és átláthatóságának javulásához fog vezetni.
+
+A technológiai fejlődéssel számos kiegészítő szolgáltatás is megjelent az utóbbi években, mint például a számlainformációs szolgáltatás, vagy a fizetéskezdeményezési szolgáltatás. Ezen szolgáltatások, illetve az azokat nyújtó szolgáltatók tevékenységének szabályozása szintén elengedhetetlen.
+
+Az utóbbi években még tovább fokozódott az elektronikus fizetések biztonsági kockázata. A PSD2 szabályozási rendszere megszünteti a korábbi szabályozási hiányosságokat, így az új, innovatív fizetési módok szélesebb piacot érhetnek el, mindemellett pedig a hatékonyság tovább növekszik.
+
+Az irányelv biztosítja, hogy minden pénzforgalmi szolgáltatást nyújtó személy minimális jogi és szabályozási követelmények hatálya alá kerüljön, így például előírja valamennyi pénzforgalmi szolgáltatást nyújtó személy kilétének és tartózkodási helyének nyilvántartásba vételét, beleértve azokét a személyekét is, akik, vagy amelyek nem tudják teljesíteni a pénzforgalmi intézményként történő engedélyezés összes feltételét, vagyis amelyek felügyeleti bejelentés alapján végzik tevékenységüket.
+
+A fogyasztóvédelem további fejlesztése érdekében az irányelv rendelkezik arról, hogy a fogyasztó a pénzforgalmi szolgáltatási szerződés kötelező erejűvé válása előtt jogosult ingyenesen megkapni a vonatkozó információkat. A fogyasztóvédelem magas szintjének fenntartása érdekében a szabályozás lehetővé teszi a fogyasztó számára, hogy a szerződéses jogviszony teljes időtartama alatt kérhesse az előzetes tájékoztatás és a keretszerződés ingyenesen, papíron történő rendelkezésre bocsátását is. Ez biztosíthatja azt is, hogy a fogyasztó össze tudja hasonlítani az egyes pénzforgalmi szolgáltatók szolgáltatásait és azok feltételeit, illetve bármiféle vita esetén ellenőrizhesse szerződéses jogait és kötelezettségeit.
+
+A szabályozás a fogyasztó részére járulékos díjak felszámítása nélkül biztosítja a teljesített műveletekre vonatkozó alapvető tájékoztatást. Az egyszeri fizetési műveletek esetében a pénzforgalmi szolgáltató nem számíthat fel külön díjat ezért a tájékoztatásért. A szolgáltatóknak hasonlóképpen ingyenesen kell biztosítaniuk a keretszerződés keretében teljesített fizetési műveletekre vonatkozó utólagos, havonta történő tájékoztatást.
+
+A fogyasztói mobilitás megkönnyítése érdekében a szabályozás engedélyezi a fogyasztók számára, hogy fél év elteltével külön díj felszámítása nélkül felmondhassák a keretszerződéseket.
+
+Az illetékes nemzeti felügyeleti hatóságok egymás közötti, valamint az Európai Bankhatósággal és a Bizottsággal való együttműködési, valamint tájékoztatási kötelezettségek még szélesebb körű kötelezettségének előírása szintén a fogyasztók érdekeit szolgálják, elősegíti a belső piac további erősítését, valamint a harmonizált pénzforgalmi piacba vetett fogyasztói bizalom erősítését.
+
+A fentieken kívül a törvény néhány tartalmi pontosítást, illetve kodifikációs helyesbítést is tartalmaz.
+
+2016. február 20-án lépett hatályba a biztosítási közvetítésről szóló 2002. december 9-i 2002/92/EK európai parlamenti és tanácsi irányelvet (a továbbiakban: 2002/92/EK irányelv) felváltó, a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelv (a továbbiakban: 2016/97/EU irányelv), melyet a tagállamok 2018. február 23-ig kötelesek átültetni.
+
+A 2002/92/EK irányelv átdolgozásának elődleges célja az ügyfelek - és kiemelten a fogyasztók - hatékonyabb védelme és a belső piac további erősítése. Ennek érdekében a 2016/97/EU irányelv hatálya valamennyi, biztosítási terméket értékesítő csatornára kiterjed, így már nem csak a biztosításközvetítők, hanem a biztosítók által történő értékesítést is szabályozza. A fogyasztók érdekében összehasonlítható standardokat vezet be a 2016/97/EU irányelv, valamint magas szintű szakmaiságot és kompetenciát követel meg a biztosítási szerződések értékesítését végző személyek esetében. A biztosításközvetítők Európai Unión belüli szabad működésének lehetővé tétele érdekében a 2016/97/EU irányelv rögzíti a letelepedés és a szolgáltatásnyújtás szabadsága alapján másik tagállamban történő szolgáltatásnyújtás lehetőségét a székhelye szerinti tagállamban nyilvántartásba vett biztosításközvetítő számára az illetékes hatóságok közötti értesítési eljárások alapján, valamint szabályozza felügyeletüket.
+
+A biztosításközvetítők rendszere a biztosításközvetítők és a viszontbiztosítás-közvetítők mellett kiegészül a kiegészítő biztosításközvetítői tevékenységet végző személyek kategóriájával. A kiegészítő biztosításközvetítői tevékenységet végző személyek olyan biztosításértékesítést folytató személyek, melyek fő szakmai tevékenysége nem a biztosítási értékesítés, csak olyan biztosítási termékeket értékesítenek, amelyek kiegészítő jellegűek valamely áruhoz vagy szolgáltatáshoz, és az érintett biztosítási termékek nem tartalmaznak életbiztosítást vagy felelősségi kockázatot, kivéve, ha az ilyen fedezet kiegészíti a közvetítő által fő szakmai tevékenységeként kínált árut vagy szolgáltatást. A kiegészítő biztosításközvetítői tevékenységet végző személyekre a biztosításközvetítőkre, illetve viszontbiztosítás-közvetítőkre vonatkozó szabályokhoz képest könnyített szabályok vonatkoznak.
+
+A biztosításközvetítők, viszontbiztosítás-közvetítők, valamint a biztosítók és viszontbiztosítók biztosítási szerződések értékesítése előtti, alatti és utáni tevékenységében részt vevő alkalmazottai magas szintű szakmaiságának és kompetenciájának biztosítása érdekében ezen személyeknek évente legalább 15 órás továbbképzést kell teljesíteniük, valamint jó hírnévvel kell rendelkezniük, amely a büntetlen előéleten kívül magában foglalja azt is, hogy e személyek felelősségét nem állapították meg gazdasági társaság fizetésképtelenné válása kapcsán.
+
+A visszaélésszerű értékesítések megelőzése érdekében a biztosítási termékek értékesítését minden esetben az igényeket és szükségleteket felmérő vizsgálatnak kell kísérnie az ügyfél által megadott információk alapján. A 2016/97/EU irányelv ezen felül megkülönbözteti a tanácsadással, illetve az a nélkül történő értékesítést. Így ha az értékesítés előtt tanácsadásra kerül sor, az ügyfél igényeinek és szükségleteinek meghatározására vonatkozó kötelezettségen túl személyre szabott ajánlást is kell készíteni, amely bemutatja, hogy az ügyfél biztosítási igényeinek és szükségleteinek miért éppen az adott termék felel meg leginkább. A tanácsadás speciális típusaként jelenik meg az alapos és személyre szabott elemzés alapján történő tanácsadás, amelynek a piacon elérhető biztosítások elegendő nagy számának elemzésén kell alapulnia.
+
+A nem-életbiztosítási termékek esetén egységesített tartalmú és formájú, formalizált biztosítási termék-tájékoztató dokumentum kerül bevezetésre.
+
+Annak érdekében, hogy a biztosítási termékek kielégítsék a megcélzott piac igényeit, a 2002/92/EK irányelv termékfelügyeleti és irányítási követelményeket tartalmaz. Ennek alapján az egyes biztosítási termékek jóváhagyására egy folyamatot kell fenntartani, működtetni és ezen folyamat tekintetében felülvizsgálatot kell biztosítani.
+
+Tekintettel arra, hogy a biztosítási alapú befektetési termékeket gyakran a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról szóló 2014/65/EU irányelv (MiFID II.) szerinti befektetési termékek lehetséges alternatívájaként vagy helyettesítőjeként ajánlják az ügyfelek számára, a következetes befektetővédelem biztosítása és a szabályozási arbitrázs megelőzése érdekében a 2016/97/EU irányelv a biztosítási alapú befektetési termékek értékesítése kapcsán a valamennyi biztosítási termékre vonatkozó előírásokon túl további kötelezettségeket állapít meg. Ilyenek az összeférhetetlenség kezelésére vonatkozó szabályok, a szerződés megkötését megelőző szélesebb körű tájékoztatás, kötelező tanácsadás előírása, valamint az értékesítést megelőzően az ügyfél alkalmasságának és megfelelőségének értékelése és ennek kapcsán figyelmezetési kötelezettség előírása a biztosítást értékesítő számára.
+
+A 2016/97/EU irányelv átültetésén kívül további intézkedések szükségesek a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv, valamint a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014/51/EU európai parlamenti és tanácsi irányelv maradéktalan és pontos átültetése érdekében.
+
+Az európai uniós jogalkotási kötelezettségeken túl a biztosítási piac szereplői részéről is gyakorlati igények merültek fel egyes kérdések törvényi szintű rendezésére. Ennek megfelelően szabályozásra kerül a biztosító vagy a viszontbiztosító átalakulásának, egyesülésének, szétválásának engedélyezése, az alkuszok biztosításközvetítésre irányuló megbízási szerződései állományának átruházása, a biztosításközvetítőket megillető jutalék jogalapja, valamint feloldásra kerül a kötelező gépjármű-felelősségbiztosítás megkötésére vonatkozó formakényszer is.
+
+A XXI. század technológiai fejlődése, így különösen a digitalizáció a pénzügyi szektorban is felgyorsult, a digitális pénzügyi szolgáltatások elterjedése élénkíti a pénzforgalmat, serkenti a gazdasági, kereskedelmi viszonyokat, összességében pozitív a nemzetgazdaságra gyakorolt hatása. A különböző pénzügyi szolgáltatásokat ma már jellemzően komplex pénzügyi cégcsoportba tartozó, ám jogilag különálló entitások nyújtják jellemzően azonos ügyfeleknek. Jelen módosítás elsősorban a személyre szabott és digitális banki szolgáltatásokhoz való hozzáférést, ezeken keresztül a gazdaság versenyképességének javítását, ezáltal a fent említett, közérdeket szolgáló célok elérését célozza. A törvény az adatvédelmi szempontok fokozott érvényesítése érdekében kétszintű szabályozást hoz be, a közös adatkezelésben érintett intézmények típusától és tevékenységétől függően.
+
+A fentieken kívül a törvény néhány tartalmi pontosítást, illetve kodifikációs helyesbítést is tartalmaz.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Technikai pontosítást tartalmaz.
+
+A 2. §-hoz
+
+A MiFID II. irányelvnek való pontosabb megfelelés miatt szükséges módosítás.
+
+A 3. §-hoz
+
+A új alcímet vezet be, mely a szabályozott tartalomhoz pontosabban igazodik.
+
+A 4. §-hoz
+
+A MiFID II. irányelvnek való pontosabb megfelelés miatt szükséges módosítás.
+
+Az 5. §-hoz
+
+Szövegpontosító módosítás.
+
+A 6. §-hoz
+
+Az 1. számú melléklet beiktatása.
+
+A 7. §-hoz
+
+Az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2017. június 14-i (EU) 2017/1129 rendelete 46. cikk (1) bekezdés a) pontjának való megfelelés érdekében szükséges módosítás.
+
+A 8. és 10. §-hoz
+
+A MiFID II. irányelvnek való pontosabb megfelelés miatt szükséges módosítás.
+
+A 9. §-hoz
+
+A kizárólag az üvegházhatású gáz kibocsátási egység és légszennyező anyag kibocsátási jog, illetve ezek származtatott eszközei tekintetében, valamint a kizárólag villamos energia alapú, illetve földgáz alapú pénzügyi eszköz tekintetében befektetési szolgáltatást nyújtó befektetési vállalkozások esetén az ügyvezető személyére vonatkozó elfogadható szakmai gyakorlatot egészíti ki.
+
+A 11. §-hoz
+
+A MiFID II. irányelvnek való pontosabb megfelelés miatt szükséges módosítás, bizonyos, a Felügyelet felügyeleti funkcióinak ellátását nehezítő körülményeket is megjeleníti a minősített befolyás szerzése iránti kérelmek elutasításánál.
+
+A CRD-vel összhangban sürgős esetben, illetve ha az egyeztetés veszélyeztetheti a határozat hatékonyságát, biztosítja a Felügyelet számára azt a lehetőséget, hogy az érintett EGT-állam hatáskörrel rendelkező felügyeleti hatóságával történő előzetes egyeztetés mellőzésével döntsön.
+
+A 12. §-hoz
+
+A MiFID II. irányelvnek megfelelő kiegészítést tartalmaz azzal kapcsolatban, hogy mely szavazati jogokat vagy részvényeket nem kell figyelembe venni a minősített befolyás mértékének meghatározásakor, illetve a minősített befolyás meglétének megállapításakor.
+
+A 13. §-hoz
+
+A MiFID I. irányelvhez kapcsolódó 2017/593 (EU) bizottsági irányelvnek való megfelelés érdekében szükséges módosítást valósít meg.
+
+A 14-16. és a 19. §-hoz
+
+A módosítás célja, hogy megteremtse az összhangot a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 164/B. §-a és az érintett vállalkozásokra vonatkozó egyes ágazati törvények között.
+
+A 17. §-hoz
+
+A MiFID II. irányelvnek való pontosabb megfelelés miatt szükséges módosítás.
+
+A 18. §-hoz
+
+A MiFID II. irányelvnek megfelelő kiegészítést tartalmaz a Felügyeletnek a más EGT-állam felügyeleti hatóságával való együttműködése megtagadásának lehetséges eseteire, és a Felügyelet ezzel kapcsolatos értesítési kötelezettségére.
+
+A 20. §-hoz
+
+Szövegpontosító módosítás.
+
+A 21. §-hoz
+
+A befektetési vállalkozás által végzett befektetési elemzéssel kapcsolatos előírásokat a Bizottság által kiadott közvetlenül hatályosuló rendelete [Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelet 36. és 37. cikk] tartalmazza, ezért e § hatályon kívül helyezése szükséges, valamint pontosító rendelkezés.
+
+A 22. §-hoz
+
+A jövőben a biztosító nem utasíthatja el az üzemben tartónak a szerződés megszűnését közvetlenül követő biztosítási időszakra vonatkozó ajánlatát, ha a szerződés a biztosítási időszak alatt díjnemfizetés miatt szűnt meg.
+
+A 23. §-hoz
+
+Nem célszerű a továbbiakban fenntartani a kötelező gépjármű-felelősségbiztosítási szerződések megkötésére vonatkozó írásbeliség követelményét, tekintettel a technikai feltételek gyors változására és a piaci igényekre, így különösen az elektronikus formában történő szerződéskötési lehetőség biztosítására. Amennyiben viszont a szerződés nem írásban jött létre, a biztosító köteles az e §-ban meghatározottak szerint létrejött szerződés tartalmával egyező tartalmú okiratot (ideértve a kötvényt is) kiállítani és azt a vele szerződő fél rendelkezésére bocsátani vagy számára hozzáférhetővé tenni.
+
+A további módosítások a szöveg pontosítását, illetve a Gfbt. 5. § (4) bekezdése módosításának átvezetését szolgálják.
+
+A 24. §-hoz
+
+A törvény a szerződő üzembentartó részére lehetővé kívánja tenni, hogy az írásbeliségen kívül elektronikus formában is felmondhassa kötelező gépjármű-felelősségbiztosítási szerződését, feltéve, hogy a biztosítóval ebben megállapodott.
+
+A 25. §-hoz
+
+A díj nemfizetéssel történő visszaélések körét hivatott csökkenteni.
+
+A 26. §-hoz
+
+Rögzíti, hogy a határbiztosítással kapcsolatos feladatok ellátásáról a Nemzeti Iroda gondoskodik, de lehetősége van biztosítóval megbízási szerződést kötni ezen feladatok elvégzésére.
+
+A 27. és a 30. §-hoz
+
+A közlekedéssel összefüggő egyes törvények módosításáról szóló 2016. évi XLIV. törvény 2018. július 1-jei hatályba lépéssel módosította a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvényt (Gfbt.). A hatályba lépés előtti további módosítás indoka, hogy - a Gfbt. egy korábbi változása miatt - a 2013. óta kötött új kötelező gépjármű-felelősségbiztosítási szerződések már nem naptári évesek, hanem keresztévesek.
+
+Figyelemmel arra, hogy a szerződések díjfizetési esedékessége már nem naptári negyedévenként tömeges, hanem az év minden napjára eshet, a negyedéves lekérdezés a fedezetlenségi díjak indokolatlan többhavi halmozódását eredményezi azoknál az állampolgároknál, akiknek díjfizetési esedékessége az időszak elejére esett, továbbá indokolatlan munkateher halmozódást jelent a jegyzők számára, akik a forgalomból kivonandó járművekről csak nagy csomagokban értesülhetnek. Indokolt lehet tehát a biztosítási szerződések folyamatos díjfizetési időszakaihoz igazodóan - a megfelelő automatikák beépítésével - legalább havonta lekérdezni és a jegyzőknek megküldeni az értesítéseket a biztosítatlan járművek esetében.
+
+A 28. §-hoz
+
+Kodifikációs jellegű módosítás.
+
+A 29. §-hoz
+
+A Bit. egyes panaszkezelésre vonatkozó szabályainak kormányszintre történő deregulálása miatt szükséges technikai módosítás.
+
+A 31. §-hoz
+
+Meghatározza azon rendelkezéseket, amelyeket a számlainformációs szolgáltatásra, valamint a pénzforgalmi szolgáltatást nem végző, ugyanakkor a fizetési műveletben részt vevő felek esetében alkalmazni kell.
+
+A 32. §-hoz
+
+A vonatkozó irányelvi szabályokkal összhangban új fogalmakat állapít meg.
+
+A 33. §-hoz
+
+A pénzforgalmi szolgáltatónak vagy a műveletben részt vevő valamely más félnek lehetősége van arra, hogy a készpénz-helytettesítő fizetési eszköz használatáért külön díjat számítson fel. A törvény rögzíti, hogy ezen díj csak akkor terheli a fizető felet, ha annak teljes összegéről még a fizetési megbízása megadását megelőzően tájékoztatást kap.
+
+A 34. §-hoz
+
+A Bizottságnak a vonatkozó irányelv alapján elektronikus tájékoztatót kell készíteni, amely világos és könnyen érthető stílusban felsorolja a fogyasztóknak az irányelv szerinti jogait, valamint a kapcsolódó uniós jogszabályokat. A törvény azt célozza, hogy ezen tájékoztató a pénzforgalmi szolgáltatóktól is hozzáférhető legyen.
+
+A 35. §-hoz
+
+Bővíti az ügyfelek keretszerződés megkötését megelőző tájékoztatásának körét.
+
+A 36. §-hoz
+
+Pontosítja azon esetek körét, amikor a kis összegű készpénz-helyettesítő fizetési eszközökhöz kapcsolódóan a szolgáltató részére fizetendő díjakról nem kell tájékoztatást adni.
+
+A 37. §-hoz
+
+Kiegészíti, valamint pontosítja a keretszerződés kötelező tartalmi elemeit.
+
+A 38. §-hoz
+
+A törvény rögzíti, hogy a keretszerződés szolgáltató általi módosításának kezdeményezését az ügyfél a módosítás hatálybalépését megelőzően is elfogadhatja vagy elutasíthatja, egyúttal egyértelműsíti ennek következményeit. E mellett új rendelkezésként jelenik meg azon szabály is, hogyha a módosítás a pénzforgalmi szolgáltató által biztosított valamely szolgáltatás megszűnésére irányul, a feleknek egymással el kell számolniuk. Ezen szabályozásnak különösen akkor van jelentősége, ha a megszűnésre kerülő szolgáltatás díját az ügyfél már előre megfizette.
+
+A 39. §-hoz
+
+A módosítás alapján egy évről hat hónapra csökken azon időtartam, amelyet követően az ügyfél a fennálló keretszerződését díj-, költség- vagy egyéb fizetési kötelezettségmentesen felmondhatja.
+
+A 40. §-hoz
+
+Pontosítja a keretszerződésen alapuló fizetési megbízásokhoz kapcsolódóan adandó előzetes tájékoztatás szabályait.
+
+A 41. §-hoz
+
+A keretszerződésen alapuló fizetési megbízásokhoz kapcsolódó utólagos tájékoztatást főszabályként a fizető fél számlájának megterhelését követően haladéktalanul meg kell tenni. Ezen főszabálytól eltérően a felek megállapodhatnak a havi egyszeri utólagos tájékoztatásról is.
+
+A 42. §-hoz
+
+Az egyszeri fizetési megbízásokhoz kapcsolódó előzetes tájékoztatás tekintetében további követelményeket rögzít a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatók számára.
+
+A 43. §-hoz
+
+Meghatározza azon adatok körét, amelyekről a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatóknak a fizetés kezdeményezését követően a fizető fél és adott esetben a kedvezményezett rendelkezésére kell bocsátania.
+
+A 44. §-hoz
+
+Pontosítja a fizető fél és a kedvezményezett költségviselésének szabályait.
+
+A 45. §-hoz
+
+A törvény egyértelműsíti, hogy a fizetési művelet teljesítésére vonatkozó jóváhagyást a kedvezményezetten vagy a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatón keresztül is meg lehet adni.
+
+A 46. §-hoz
+
+A törvény rögzíti, hogyha a fizetési megbízást fizetés-kezdeményezési szolgáltató kezdeményezte, akkor azt a fizető félnek a megbízás szolgáltató felé történő jóváhagyását követően a fizetési megbízást a fizető fél nem vonhatja vissza.
+
+A 47. §-hoz
+
+Az új és szabályozott szereplőként megjelenő kártyaalapú készpénz-helyettesítő fizetési eszközt kibocsátó pénzforgalmi szolgáltatókra, fizetés-kezdeményezési szolgáltatást végzőkre, valamint a számlainformációs szolgáltatást végzőkre állapít meg rendelkezéseket.
+
+A kártyaalapú készpénz-helyettesítő fizetési eszközt az érintett ügyfél fizetési számláját vezető pénzforgalmi szolgáltatótól eltérő más pénzforgalmi szolgáltató is kibocsáthat. A fizetés-kezdeményezési szolgáltatás esetén a fizetési megbízás indítása szintén nem a fizetési számlát vezető pénzforgalmi szolgáltatónál történik, mint ahogy a számlainformációs szolgáltatást végző pénzforgalmi szolgáltató is elkülönül a szolgáltatással érintett fizetési számlákat vezető pénzforgalmi szolgáltatótól.
+
+Mindezen szolgáltatások elsődleges feltétele, hogy az ügyfél fizetési számlája online módon is hozzáférhető legyen. Ebben az esetben ugyanakkor kiemelkedő jelentősége van annak, hogy a szolgáltatók között megfelelő, biztonságos adatátviteli kapcsolat is fennálljon.
+
+A 48. §-hoz
+
+A törvény rendelkezéseket állapít meg arra az esetre, ha a számlainformációs szolgáltatást vagy fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltató a fizetési számlához jóvá nem hagyott vagy csalárd módon fér hozzá. Ebben az esetben a fizetési számlát vezető pénzforgalmi szolgáltató a fizetési számlához történő további hozzáférést megtagadhatja azzal, hogy lehetőség szerint már a hozzáférés megtagadását megelőzően tájékoztatnia kell a számlával érintett ügyfelét a hozzáférés megtagadásáról és annak okairól.
+
+A 49. §-hoz
+
+A törvény rögzíti, hogy a készpénz-helyettesítő fizetési eszköz használata feltételeinek megkülönböztetés-mentesnek kell lenniük.
+
+Az 50. §-hoz
+
+A kártyapótlás díja legfeljebb a pótlással összefüggésben ténylegesen és közvetlenül felmerülő költség lehet, az hárítható át az ügyfélre.
+
+Az 51. §-hoz
+
+A törvény rögzíti, hogyha a helyesbítés iránti kérelemmel érintett fizetési művelet kezdeményezése fizetés-kezdeményezési szolgáltatás igénybevételével történt, a szolgáltatónak kell bizonyítania, hogy a saját felelősségi körén belül a művelet hitelesítése és pontos rögzítése megtörtént, műszaki hibája vagy üzemzavara az általa nyújtott szolgáltatást nem akadályozta.
+
+Az 52. §-hoz
+
+A jóvá nem hagyott fizetési művelet teljesítésekor a fizetési számlát vezető pénzforgalmi szolgáltató főszabályként haladéktalanul köteles a fizető fél részére a jóvá nem hagyott fizetési művelet összegét megtéríteni és a fizetési számla tekintetében a megterhelés előtti állapotot helyreállítani.
+
+Ez arra az esetre is vonatkozik, ha a jóvá nem hagyott fizetési műveletet fizetés-kezdeményezési szolgáltatón keresztül kezdeményezték azzal, hogy a fizetés-kezdeményezési szolgáltatónak a jóvá nem hagyott fizetési művelet teljesítéséért való felelőssége esetén kártalanítania kell a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatót.
+
+Az 53. §-hoz
+
+A törvény bővíti azon esetek körét, amikor az ügyfél birtokából kikerült vagy ellopott készpénz-helyettesítő fizetési eszközzel történő visszaélés esetén a fizető felet nem terheli felelősség.
+
+Az 54. §-hoz
+
+A kártyaalapú fizetési művelethez kapcsolódó zárolásokra állapít meg követelményeket.
+
+Az 55. §-hoz
+
+A törvény egyértelműsíti, hogy a kedvezményezett által vagy rajta keresztül kezdeményezett, és a fizető fél által jóváhagyott olyan fizetési műveletnél felmerülő visszatérítés esetén, ahol a jóváhagyás időpontjában a fizető fél a fizetési művelet összegét nem ismerte, valamint ezen összeg meghaladta azt az összeget, amely a fizető fél részéről az adott helyzetben ésszerűen elvárható volt, a visszatérítendő összeg megegyezik a teljesített fizetési művelet teljes összegével. E mellett a törvény eltérő szabályokat állapít meg a SEPA beszedésekre.
+
+Az 56. §-hoz
+
+A kedvezményezett által vagy rajta keresztül kezdeményezett és a fizető fél által jóváhagyott fizetési műveletek visszatérítésére vonatkozó szabályozás nem alkalmazandó, ha a kedvezményezett pénzforgalmi szolgáltatójának a székhelye nem EGT-állam területén található.
+
+Az 57. §-hoz
+
+A hibás egyedi azonosító alapján történt fizetési művelet összegének visszaszerzése érdekében a hibás egyedi azonosítóval érintett kedvezményezett pénzforgalmi szolgáltatója köteles együttműködni a fizető fél pénzforgalmi szolgáltatójával.
+
+Az 58. §-hoz
+
+A törvény a szolgáltató felelőssége okán hibásan teljesített fizetési műveletek kezelésére állapít meg követelményeket.
+
+Az 59. §-hoz
+
+A fizetési műveletek kedvezményezett általi, vagy a kedvezményezetten keresztül történő kezdeményezésekor a teljesítésért a kedvezményezett felé a kedvezményezett pénzforgalmi szolgáltatója felel.
+
+A 60. §-hoz
+
+A törvény olyan nem teljesített vagy hibásan teljesített fizetési műveletekre állapít meg szabályokat, amelyeket a fizető fél fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatón keresztül kezdeményezett.
+
+A 61. §-hoz
+
+A törvény az erős ügyfél-minősítés alkalmazásának elmulasztásával is kiegészíti azon esetek körét, amikor egy másik pénzforgalmi szolgáltató magatartásának vagy mulasztásának következtében a pénzforgalmi szolgáltató megtérítést követelhet.
+
+A 62. §-hoz
+
+A törvény a pénzforgalmi szolgáltatáshoz kapcsolódó működési és biztonsági kockázatok kezelésére, valamint az erős ügyfél-hitelesítés alkalmazási körére állapít meg szabályokat.
+
+A pénzforgalmi szolgáltatók a működési és biztonsági kockázatok kezelése érdekében kockázatmérséklési és ellenőrzési mechanizmusokat, valamint a súlyosabb működési és biztonsági események kezelésének eljárásrendjét kötelesek kialakítani. Ennek részeként kimondásra kerül az is, hogy a súlyosabb események bekövetkezéséről, ha azok sértik vagy sérthetik az ügyfelek érdekeit, a pénzforgalmi szolgáltató nemcsak a Felügyeletet köteles tájékoztatni, hanem indokolatlan késedelem nélkül az érintett ügyfeleit is.
+
+A 63. §-hoz
+
+A pénzforgalmi szabályozásnak új szolgáltatójaként jelenik meg a fizetéskezdeményezési szolgáltató és a számlainformációs szolgáltató. A szolgáltatásaik újak és számos technikai kihívást és megoldandó feladatot adnak. A technikai szabályokat a Bizottság dolgozza ki, azonban a szabályozási feladat összetettsége és rendkívüli biztonsági jelentőségére tekintettel a részletes szabályozás nem készül el az átültetési időszak alatt, valamint az elkészültét, elfogadását követően is jelentős felkészülési idő szükséges a hagyományos pénzforgalmi szolgáltatóknak és a technológiai innováció keretében megjelenő és elterjedő pénzforgalmi szolgáltatóknak egyaránt. Ezen okok miatt a vonatkozó uniós szabályozás alkalmazási kezdete előtt a korábbi szabályok fenntartása indokolt. Ezáltal lehetővé válik a fogyasztók figyelmének felhívása is a fennálló kockázatokra és a megalapozott döntés meghozatalának jelentőségére.
+
+A 64. §-hoz
+
+A keretszerződések jogszabály miatt szükséges módosítására állapít meg átmeneti rendelkezést.
+
+A 65. §-hoz
+
+A jogharmonizációs záradék módosítása.
+
+A 66. §-hoz
+
+Szövegcserés módosítások.
+
+A 67. §-hoz
+
+Hatályon kívül helyező rendelkezések.
+
+A 68. és a 70. §-hoz
+
+A törvény kiegészíti a fogyasztók hitelszerződés megkötését megelőző tájékoztatására vonatkozó szabályokat. A módosítás a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, az Európai Parlament és a Tanács (EU) 2016. június 8-i 2016/1011 rendelete keretében módosított 2008/48/EK irányelvnek való megfelelés miatt szükséges.
+
+A 69. §-hoz
+
+A fogyasztók számára kedvezőbb hitelfeltételek elérése érdekében indokolt lehetővé tenni a fogyasztó számára, hogy a hitelszerződéshez kapcsolódóan általa kötött életbiztosítási vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítási szerződésből származó - biztosítási összegre vonatkozó - követelése mellett a megtakarítási szerződésből származó követelés is biztosítékként a hitelezőre átruházható legyen.
+
+A 71. §-hoz
+
+A módosítás a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+A 72-73. §-hoz
+
+A módosítás a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+A 74-75. §-hoz
+
+A módosítás a kiadási előirányzatok terhére köthető visszterhes szerződés szempontjából átlátható szervezetként határozza meg a Magyarország külképviseletével a külképviselet működtetése, üzemeltetése, fenntartása vagy feladatainak ellátása érdekében visszterhes szerződést kötő külföldi szervezetet.
+
+A 76. §-hoz
+
+A módosítás a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
+
+A 77. §-hoz
+
+A törvény tartalmazza az irányelv rendelkezéseit az uniós tagállami illetékes hatóságok honlapján való közzétételére vonatkozó kötelezettségeivel kapcsolatban, így különösen a meghatározott specifikus készpénz-helyettesítő fizetési eszköz kibocsátója által a specifikus készpénz-helyettesítő fizetési eszközzel igénybe vehető szolgáltatások leírását, illetve a Bizottság elektronikus tájékoztatóját a fogyasztóknak az irányelv szerinti jogairól.
+
+A 2016/97/EU irányelv 22. cikk (2) bekezdés második albekezdése előírja a tagállamok számára, hogy amennyiben a 2016/97/EU irányelvben foglalt kötelezettségeknél szigorúbb szabályokat tartanak fenn, az erre vonatkozó információkat megfelelő módon közzé kell tenniük. Ennek alapján a törvény szerint az MNB köteles honlapján közzétenni a Bit. által a 2016/97/EU irányelvben foglaltakon túl előírt többletkövetelményeket.
+
+Mindezek mellett a 2016/97/EU irányelv 11. cikke alapján a határokon átnyúló üzleti tevékenység előmozdítása és az ügyfelek számára biztosított átláthatóság javítása érdekében a tagállamoknak biztosítaniuk kell a területükön érvényes, közérdeket szolgáló szabályok közzétételét, továbbá egy egységes elektronikus nyilvántartás, valamint a valamennyi tagállam biztosítási és viszontbiztosítási értékesítésre vonatkozó, közérdeket szolgáló szabályait tartalmazó tájékoztatás nyilvános hozzáférhetőségét.
+
+A 78. §-hoz
+
+A módosítás az MNB tv.-nek a közigazgatási szabályszegések szankcióiról szóló törvénnyel való összhangjának megteremtését szolgálja.
+
+A 79. §-hoz
+
+A 2016/97/EU irányelv 32. cikk (1) bekezdése a biztosítási vagy viszontbiztosítási értékesítésre vonatkozó szabályok megsértése miatt hozott szankciók és egyéb intézkedések közzététele kapcsán - a közvéleményre történő elrettentő hatás gyakorlása céljából, illetve azért, hogy a piaci résztvevők tájékoztatást kapjanak az ügyfelek számára károsnak ítélt magatartásról - előírja a felelős személyek személyazonosságának nyilvánosságra hozatalát is, amely a természetes személyekre is kiterjed.
+
+A 2016/97/EU irányelv ugyanezen rendelkezése kivételeket állapít meg a jogsértő személy kilétének közzététele alól - figyelemmel arra, hogy a közzététellel járó hátrányok meghaladhatják a közzététellel járó előnyöket -, ezért az MNB mérlegelése alapján a felsorolt esetekben dönthet határozata közzétételének elhalasztásáról, a közzététel mellőzéséről vagy a felelősök személyazonosságának feltüntetése nélküli közzétételéről. Egyebekben a rendelkezések ágazatsemleges módon kerülnek megállapításra.
+
+A 2016/97/EU irányelv 32. cikk (1) bekezdésében foglalt közzétételi kötelezettség kapcsán szükséges arról is rendelkezni, hogy a közzétett határozatot az MNB mennyi ideig köteles honlapján elérhetővé tenni.
+
+A 80. §-hoz
+
+Tekintettel a 2016/97/EU irányelv 13. cikk (2) bekezdésében foglalt, a biztosítás- és viszontbiztosítás-értékesítők jó hírnevével, szakmai ismereteivel és kompetenciájával kapcsolatos, a tagállamok illetékes hatóságai közötti együttműködés és információcsere követelményére, a törvény ezeket kifejezetten rögzíti az MNB külföldi pénzügyi felügyeleti hatóságtól kapott, illetve külföldi pénzügyi felügyeleti és szanálási hatóságnak, valamint meghatározott európai uniós szervezeteknek, hatóságoknak kiadott egyedi adatok jogszerű felhasználási céljaként.
+
+A 81. §-hoz
+
+A módosítás az elektronikus kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénynek történő megfelelést szolgálja.
+
+A 82. §-hoz
+
+A 2016/97/EU irányelv 33. cikk (2) bekezdés e) és f) pontja a biztosítási alapú befektetési termékek értékesítésére vonatkozó üzletviteli követelményeinek megsértése esetére az ott meghatározott összegű pénzbírság megállapítását írja elő.
+
+A 83. §-hoz
+
+A felügyeleti biztos kirendelésére két esetben kerülhet sor.
+
+Az egyik eset, ha a felügyelés során az alapos gyanúja felmerül a kirendelés szükségességének, az érdekeltek jogi vagy gazdasági érdekeinek azonnali védelme kiemelten fontos szempont, így a felügyeleti biztos halaszthatatlan kirendelése szükséges. Ekkor a felügyeleti biztos kirendelésére ideiglenes intézkedés keretében végzéssel kerülhet sor. Ha az eljárás folyamán a tényállás feltárásra kerül, akkor a kirendelés az ágazati törvényekkel összhangban határozati formában történhet.
+
+A másik eset, ha a felügyeleti biztos kirendelése olyan körülmények között történik, amely esetében a tényállás már tisztázott, ekkor határozattal történik a kirendelés. Ennek időtartama a jelenleg hatályos ágazati szabályokban foglalt általános rendelkezések szerint alakul.
+
+A 84. §-hoz
+
+A 2016/97/EU irányelv 22. cikk (2) bekezdés első albekezdése előírja a tagállamok számára, hogy amennyiben a 2016/97/EU irányelvben foglalt tájékoztatási kötelezettségeknél szigorúbb szabályokat tartanak fenn, ezekről az Európai Bizottságot tájékoztatni kell. A törvény ennek megfelelően írja elő az MNB számára a vonatkozó tájékoztatási kötelezettséget.
+
+A törvény célja a Magyar Nemzeti Bank által az Európai Bankhatóságnak megküldendő tájékoztatások körének kiegészítése.
+
+A 2016/97/EU irányelv 36. cikkével összhangban szabályozza a törvény az MNB-nek az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal szemben fennálló tájékoztatási kötelezettségét a biztosítási, illetve viszontbiztosítási értékesítésre vonatkozó szabályainak megsértése kapcsán hozott, közzétett, illetve közzé nem tett egyes határozatai, valamint az e határozatok éves összesítése tekintetében.
+
+A 85. §-hoz
+
+A 2016/97/EU irányelvhez kapcsolódó jogharmonizációs rendelkezés.
+
+A 86. §-hoz
+
+A jogharmonizációs klauzula kerül módosításra.
+
+A 87. §-hoz
+
+Szövegpontosító módosítás.
+
+A 2016/97/EU irányelv 1. cikk (6) bekezdése tájékoztatási kötelezettséget ír elő a tagállamok számára a Bizottság felé a biztosítás- és viszontbiztosítás értékesítőik harmadik országokban való letelepedésük és az ott folytatott értékesítési tevékenységük során tapasztal nehézségekről is.
+
+A 88. §-hoz
+
+A hatályon kívül helyezés az elektronikus kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénynek történő megfelelést szolgálja.
+
+A 89. §-hoz
+
+A kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézményre annak jellegéből és tevékenységéből fakadóan kevesebb szabályt kell alkalmazni, mint az egyéb pénzforgalmi szolgáltatást is végző pénzforgalmi intézményekre, tekintettel arra, hogy azok a fizetési lánc egyetlen szakaszában sem birtokolják a szolgáltatást igénybe vevők pénzeszközeit. Erre figyelemmel például aránytalan lenne szavatolótőke-követelményeket előírni ezen új piaci szereplők számára, emellett a Felügyelet engedélye helyett tevékenységüket bejelentés alapján végzik.
+
+A 90. §-hoz
+
+A pénzforgalomra vonatkozó új irányelvi szabályokkal összhangban új fogalmakat állapít meg, illetve a korábbiakat az irányelvvel összhangban módosítja, kiegészíti.
+
+A 91. §-hoz
+
+Az új tevékenységet végző intézmény megjelenése okán kiegészíti a korábbi fogalmat.
+
+A 92. §-hoz
+
+A pénzforgalmi intézmény induló tőkéjére vonatkozó szabályt az új tevékenységet végző intézményekre figyelemmel pontosítja.
+
+A 93. §-hoz
+
+A törvény előírja a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi intézményeknek, valamint az elektronikuspénz-kibocsátó intézményeknek, hogy rendelkezzenek szakmai felelősségbiztosítással vagy azzal egyenértékű garanciával.
+
+A 94. §-hoz
+
+Pontosítja a kiszervezés szabályait.
+
+A 95. §-hoz
+
+Az új és szabályozott szereplőként megjelenő kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézményekre állapít meg rendelkezéseket, így szükségszerűen az alcím is kiegészítésre kerül.
+
+A 96. §-hoz
+
+Kiegészíti a pénzforgalmi intézmény által a Felügyeletnek a tevékenysége megkezdéséhez szükséges engedély iránti kérelemhez benyújtandó dokumentumok körét.
+
+A 97. §-hoz
+
+A tevékenységre jogosító engedély iránti kérelmet abban az esetben is indokolt elutasítani, ha az intézmény befolyásoló részesedéssel rendelkező tulajdonosának alkalmassága a rendelkezésre álló adatok alapján megkérdőjelezhető.
+
+A 98. §-hoz
+
+Az új és szabályozott szereplőként megjelenő, kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézményekre állapít meg rendelkezéseket. A kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézmény tevékenysége megkezdését és befejezését előzetesen bejelenti a Felügyeletnek, a törvény rögzíti a bejelentés kötelező tartalmi elemeit.
+
+A 99. §-hoz
+
+Az intézmények tevékenységi engedélye visszavonásának az is alapja lehet, ha egyes bejelentésre vonatkozó kötelezettségüket nem teljesítik.
+
+A 100. §-hoz
+
+Az irányelv előírásainak megfelelően kiegészíti a pénzforgalmi intézmény másik EGT-államban fióktelep létesítésével való tevékenység végzéséhez szükséges felügyeleti bejelentés követelményeit.
+
+A 101. §-hoz
+
+Az irányelv előírásainak megfelelően kiegészíti a pénzforgalmi intézmény másik EGT-államban határon átnyúló szolgáltatás keretében történő tevékenység végzéséhez szükséges felügyeleti bejelentés követelményeit.
+
+A 102. §-hoz
+
+Az irányelvnek megfelelően pontosítja a befolyásszerzésre vonatkozó szabályokat. A törvény az irányelvnek megfelelően pontosítja és bővíti a felügyeleti tiltás ellenére történő befolyásoló részesedésszerzés esetén a Felügyelet rendelkezésére álló eszközök körét.
+
+A 103. §-hoz
+
+Az irányelvnek megfelelően pontosítja a pénzforgalmi intézmény alapvető tőkéjének kiszámítására vonatkozó szabályokat.
+
+A 104. §-hoz
+
+Az irányelvnek megfelelően pontosítja az ügyfélpénzek védelmére vonatkozó kötelezettségeket.
+
+A 105. §-hoz
+
+Az irányelvnek megfelelően pontosítja az elektronikuspénz-kibocsátó intézmény alapvető tőkéjének kiszámítására vonatkozó szabályokat.
+
+A 106. §-hoz
+
+A fizetési és értékpapír-elszámolási rendszerek esetében a korábbi, mentesítő szabályok köre szűkült, pontosításra került. Ugyanakkor a törvény az irányelv fő célkitűzésének megfelelően rögzíti, hogy a pénzforgalmi szolgáltatók közötti tisztességes verseny biztosítása érdekében a fizetési rendszer azon résztvevőjének, amely az adott rendszerrel kapcsolatos szolgáltatásokat nyújt egy engedélyezett vagy nyilvántartásba vett pénzforgalmi szolgáltató számára, kérés esetén objektív, arányos és megkülönböztetéstől mentes módon lehetővé kell tennie az említett szolgáltatások igénybevételét bármely másik engedélyezett vagy nyilvántartásba vett pénzforgalmi szolgáltató számára. Elutasítás esetén részletesen indokolnia kell a kérelmező pénzforgalmi szolgáltató számára.
+
+A 107. §-hoz
+
+A törvény a vonatkozó irányelv alapján új és szabályozott szereplőként megjelenő elektronikuspénz-értékesítőre is kiterjeszti a szabályokat.
+
+A 108-110. §-hoz
+
+Kiegészíti a pénzforgalmi intézmény által a Felügyeletnek a tevékenysége megkezdéséhez szükséges engedély iránti kérelemhez benyújtandó dokumentumok körét, amennyiben az pénzforgalmi közvetítőt kíván igénybe venni.
+
+Továbbá a vonatkozó irányelv alapján új és szabályozott szereplőként megjelenő elektronikuspénz-értékesítőre állapít meg szabályokat.
+
+A 111-113. és a 117. §-hoz
+
+A módosítás célja, hogy megteremtse az összhangot a hitelintézetekről és a pénzügyvállalkozásokról szóló törvény 164/B. §-a és az érintett vállalkozásokra vonatkozó egyes ágazati törvények között.
+
+A 114. §-hoz
+
+A törvény a vonatkozó irányelv alapján kibővíti a székhely szerinti EGT-állam és a fogadó állam illetékes felügyeleti hatósága közötti együttműködési szabályokat. Jelen szabályok a közvetítő és fióktelepként működő szolgáltató szabályellenes magatartása esetén szükséges eljárási kérdéseket és beavatkozási folyamatot rögzítik.
+
+A 115. §-hoz
+
+A jogharmonizációs záradék módosítása.
+
+A 116. §-hoz
+
+Átmeneti időszakra vonatkozó rendelkezések.
+
+A 118. §-hoz
+
+Szövegcserés módosítások.
+
+A 119. §-hoz
+
+Hatályon kívül helyező rendelkezések.
+
+A 120., 126. és a 128-129. §-hoz
+
+A hitelintézetnek és az ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, a biztosítónak, az ABAK és ÁEKBV-alapkezelőnek, valamint a hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak és ABAK és ÁEKBV-alapkezelőnek nem minősülő vállalkozások között biztosít adathozzáférést annak érdekében, hogy közös adatkezelőként törvényi felhatalmazással kezelhessék az ügyfelek személyes adatait, bank-, értékpapír-, fizetési-, illetve biztosítási titoknak minősülő adatait, valamint a Polgári Törvénykönyv 2:47. § (1) bekezdése szerinti üzleti titoknak minősülő adatokat a célhoz kötöttség elvének szem előtt tartásával.
+
+A 121. §-hoz
+
+A törvény a pénzforgalom szabályozását célzó irányelv alapján új fogalmakat határoz meg, pontosít már meglévő fogalmakat. Az új fogalmak a technológia fejlődéséhez, új szolgáltatások megjelenéséhez is köthetőek.
+
+A 122. §-hoz
+
+A törvény alapján a jövőben nem minősül közvetítői tevékenységnek az elektronikuspénz értékesítése, ugyanakkor ezen tevékenységet indokolt megengedni a pénzügyi intézmények számára.
+
+A 123. §-hoz
+
+A CRD IV irányelvnek való pontosabb megfelelés miatt szükséges módosítás.
+
+A 124. §-hoz
+
+A függő ügynöki tevékenységhez - ide nem értve a jelzáloghitel közvetítéséhez - nem szükséges felügyeleti engedély, elegendő, ha az érintett közvetítőket a megbízó pénzügyi intézmények bejelentik a Felügyeletnek, aki egyúttal nyilvántartásba is veszi őket. A fogyasztók érdekeinek védelme, valamint a visszaélések megakadályozása érdekében ugyanakkor szükséges egyértelműsíteni, hogy a tevékenységük folytatásának feltétele, ha szerepelnek a nyilvántartásban.
+
+A 125. §-hoz
+
+A fizetési és értékpapír-elszámolási rendszerek esetében a korábbi, mentesítő szabályok köre szűkült, pontosításra került. Ugyanakkor a rendszerek alkalmazhatóságának teljessége jegyében az arányos, objektív és diszkrimináció-mentes hozzáférést biztosítania kell a szolgáltatást nyújtónak.
+
+A 127. §-hoz
+
+A törvény a továbbiakban lehetővé teszi, hogy a banktitok harmadik fél számára történő ügyfél általi hozzájárulást a pénzügyi intézménnyel történő szerződéskötés keretében azonosított elektronikus úton is meg lehessen tenni.
+
+A 130. §-hoz
+
+A CRD IV irányelvnek való pontosabb megfelelés miatt szükséges módosítás.
+
+A 131. §-hoz
+
+A specifikus készpénz-helyettesítő fizetési eszköz kibocsátójára vonatkozó bejelentési és ellenőrzési kötelezettségre kiterjedő szabályokat rögzíti.
+
+A 132. §-hoz
+
+A törvény rögzíti, hogy a rendelkezéseket - a fennálló szerződéssel rendelkező ügyfelek tájékoztatása mellett - a fennálló szerződésekre is alkalmazni kell oly módon, hogy az a fennálló szerződéssel rendelkező ügyfelek megtilthatják az egyes szervezetek részére a tájékoztatásban foglaltak szerinti közös adatkezelés érdekében történő átadást.
+
+A 133. §-hoz
+
+A Hpt. jogharmonizációs záradéka kiegészül a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről szóló 2015. november 25-i (EU) 2015/2366 európai parlamenti és tanácsi irányelvvel.
+
+A 134. §-hoz
+
+Szövegcserés módosítások.
+
+A 135-136. §-hoz
+
+A 2011/61/EU irányelv módosítása miatt szükséges módosítás.
+
+A 137-139. §-hoz
+
+A módosítás célja, hogy megteremtse az összhangot a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 164/B. §-a és az érintett vállalkozásokra vonatkozó egyes ágazati törvények között.
+
+A 140. §-hoz
+
+A Bit. személyi hatályának módosítása szükséges a 2016/97/EU irányelv fogalmi rendszere alapján, így a biztosításközvetítő mellett megjelenik a kiegészítő biztosításközvetítői tevékenységet végző személy kategóriája is.
+
+Főszabállyá válik, hogy a magyarországi székhellyel vagy lakcímmel rendelkezők Európai Unióban végzett tevékenységére a Bit. szabályait kell alkalmazni, míg az Európai Unión kívül végzett tevékenységek, illetve az Európai Unió kívüli kockázatok és kötelezettségvállalások esetében továbbra is csak nemzetközi szerződés rendelkezése alapján alkalmazandó a Bit.
+
+A 141. §-hoz
+
+A törvény - tekintettel 2016/97/EU irányelv biztosításértékesítésre vonatkozó szabályaira - kiveszi a Bit. hatálya alól a kizárólag a Gfbt. szerinti, külföldi telephelyű gépjármű üzemben tartója (vezetője) részére történő kötelező felelősségbiztosítási szerződés értékesítését végző Nemzeti Irodát, valamint a megbízásából eljáró, a Nemzeti Adó és Vámhivatallal hivatásos szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyeket.
+
+A 142. §-hoz
+
+Szükséges a Bit. értelmező rendelkezéseinek a 2016/97/EU irányelv fogalmaihoz történő igazítása.
+
+Továbbá a büntetlen előélet fogalmának meghatározása a továbbiakban nem tartalmazza az igazolása módjára vonatkozó normatív szabályt, azt a Bit. 4. § (3) bekezdése tartalmazza.
+
+A 143. §-hoz
+
+A 2016/97/EU irányelv 23. cikk (1) bekezdés c) pontja szerint az ügyfélnek szóló biztosítási szerződéssel kapcsolatos tájékoztatást a kockázat helye szerinti vagy a kötelezettségvállalás szerinti tagállam hivatalos nyelvén, vagy bármely más, a felek megegyezése szerinti nyelven kell közölni, ezért szükséges a Bit. vonatkozó rendelkezésének kiegészítése az alkalmazott nyelv ügyfél és biztosító megállapodásával történő megválasztásával.
+
+A 144. §-hoz
+
+A 2016/97/EU irányelv 23. cikk (1) bekezdés c) pontja szerint az ügyfélnek szóló biztosítási szerződéssel kapcsolatos tájékoztatást a kockázat helye szerinti vagy a kötelezettségvállalás szerinti tagállam hivatalos nyelvén, vagy bármely más, a felek megegyezése szerinti nyelven kell közölni, ezért szükséges a Bit. vonatkozó rendelkezésének kiegészítése az alkalmazott nyelv ügyfél és biztosító megállapodásával történő megválasztásával.
+
+A 145. §-hoz
+
+A 2016/97/EU irányelv a korábbi, kizárólag a biztosításközvetítőkre vonatkozó szabályok helyett az ügyfelek védelme érdekében valamennyi biztosítási terméket értékesítő személyre, illetve szervezetre kiterjedő szabályokat állapít meg. Így a biztosítási termékeket közvetlenül értékesítő biztosítók és viszontbiztosítók biztosítási vagy viszontbiztosítási értékesítési tevékenységért felelős vezetőinek, valamint a biztosítók vagy viszontbiztosítók közreműködőinek is meg kell felelniük a 2016/97/EU irányelv által előírt jó hírnévre, illetve szakmai képzésre és továbbképzésre vonatkozó feltételeknek. Azért, hogy ezen feltételek teljesülése ellenőrizhető legyen, a biztosítóknak, illetve viszontbiztosítóknak nyilván kell tartaniuk a szükséges adatokat.
+
+A 146. §-hoz
+
+A 2016/97/EU irányelv 10. cikk (3) bekezdése előírja, hogy a biztosítónál vagy viszontbiztosítónál, illetve biztosítás- vagy viszontbiztosítás-közvetítőnél foglalkoztatott, biztosítási vagy viszontbiztosítási értékesítési tevékenységet végző természetes személyeknek jó hírnévvel kell bírniuk, így különösen vagyon elleni vagy más, pénzügyi tevékenységgel kapcsolatos súlyos bűncselekmények miatt nem szerepelhetnek bűnügyi nyilvántartásban vagy bármely más ennek megfelelő nemzeti adattárban, valamint korábban nem jelenthettek csődöt, kivéve, ha a nemzeti jogszabályoknak megfelelően mentesítették őket.
+
+A 147. §-hoz
+
+A 2016/97/EU irányelv 10. cikk (3) bekezdése lehetővé teszi olyan tagállami szabály megalkotását, amely alapján a biztosítás- vagy viszontbiztosítás-értékesítők ellenőrizhetik alkalmazottaik jó hírnevét, tekintettel arra, hogy a 2016/97/EU irányelv szerint a jó hírnév a nyilvántartásba vétel feltétele, és a jó hírnévnek a biztosítók vezetőségének biztosítási vagy viszontbiztosítási értékesítésért felelős tagjai és a személyi állomány minden, biztosítási vagy viszontbiztosítási értékesítéssel közvetlenül foglalkozó tagja tekintetében fenn kell állnia.
+
+A 148. §-hoz
+
+Az eszközeit részben vagy egészben saját maga kezelő biztosító vagy viszontbiztosító e tevékenységét irányító személy gyakorlati tapasztalatára vonatkozó rendelkezés pontosítása.
+
+A 149. §-hoz
+
+A hatályos szabályozás a biztosítási szerződéskötési kötelezettség kapcsán nem tartalmaz arra nézve szabályt, hogy ha a szerződő fél felügyeleti hatóságának a biztosítási szerződés megszűnéséről való értesítése határidejét, módját, illetve tartalmát a biztosítási szerződéskötési kötelezettséget előíró törvény vagy az ilyen törvény felhatalmazása alapján kiadott kormányrendelet nem tartalmazza, azt a biztosítónak milyen határidőn belül, milyen formában is tartalommal kell megtennie. A törvény e kérdések tisztázását szolgálja.
+
+A 150. §-hoz
+
+A tájékoztatási követelményekre vonatkozó általános elvként határozza meg a 2016/97/EU irányelv az ügyfelek legjobb érdekében történő becsületes, tisztességes és szakszerű eljárást, valamint az olyan javadalmazás tilalmát, amely ellentétes az ügyfelek legjobb érdekében való eljárás kötelezettségével.
+
+A 151. §-hoz
+
+A 2016/97/EU irányelv alapján annak érdekében, hogy a biztosítási termékek kielégítsék a megcélzott piac igényeit, a biztosítóknak az egyes biztosítási termékek jóváhagyására egy folyamatot kell fenntartaniuk, működtetniük és ezen folyamat tekintetében felülvizsgálatot kell biztosítaniuk.
+
+A 152. §-hoz
+
+A 2016/97/EU irányelv célkitűzése magas szintű szakmaiság és kompetencia biztosítása a biztosításközvetítők, viszontbiztosítás-közvetítők, és a kiegészítő biztosításközvetítői tevékenységet végző személyek, továbbá a biztosítók és viszontbiztosítók azon alkalmazottai körében, akik részt vesznek a biztosítási szerződések értékesítése előtti, alatti és utáni tevékenységekben. Ezért a 2016/97/EU irányelv képzési és a továbbképzési kötelezettséget ír elő a fenti személyek számára, amely képzések és továbbképzések különböző tanulási módokat foglalhatnak magukban, ideértve a tanfolyamokat, az e-oktatást és a mentorálást. A képzések formáját, tartalmát és az előírt képzés teljesítése igazolásának módját a tagállami szabályok rendezik.
+
+A 153-154. §-hoz
+
+A módosítás célja, hogy megteremtse az összhangot a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 164/B. §-a és az érintett vállalkozásokra vonatkozó egyes ágazati törvények között.
+
+A 155. §-hoz
+
+A 2016/97/EU irányelv 18. cikk b) pontja alapján a biztosítási szerződés megkötése előtt a biztosítónak arról is tájékoztatnia kell az ügyfelet, hogy biztosítói tevékenységet végez és hogy nyújt-e tanácsadást az értékesített biztosítási termékre vonatkozóan. Továbbá a biztosítónak tájékoztatást kell adnia a 19. cikk (4) bekezdése alapján az alkalmazottai által a biztosítási szerződéssel összefüggésben kapott javadalmazás jellegéről is azért, hogy az ügyfél attól függetlenül információt kapjon a nyújtott biztosítási értékesítési szolgáltatásokról, hogy a szolgáltatást közvetítőn keresztül vagy közvetlenül egy biztosítótól vásárolja, illetve annak érdekében, hogy el lehessen kerülni a verseny amiatti torzulását, hogy a biztosítók arra lennének ösztönözve, hogy a tájékoztatási követelmények elkerülése érdekében inkább közvetlenül értékesítsenek az ügyfeleknek és ne közvetítőkön keresztül.
+
+A 2016/97/EU irányelv egységes szabályokat határoz meg annak érdekében, hogy az ügyfél választhasson, milyen adathordozón keresztül kapja a tájékoztatást, lehetővé téve az elektronikus kommunikáció alkalmazását, amennyiben az az ügylet körülményeire tekintettel megfelelő, de lehetővé teszi az ügyfél számára azt is, hogy a tájékoztatást nyomtatott formában kapja meg. A 2016/97/EU irányelv előírja, hogy az ügyfelek információkhoz való hozzáférése érdekében a szerződéskötés előtti tájékoztatásnak ingyenesen hozzáférhetőnek kell lennie.
+
+A 2016/97/EU irányelv 19. cikk (4) bekezdése a biztosító alkalmazottai által a biztosítási szerződéssel összefüggésben kapott javadalmazás jellegéről az ügyfél számára nyújtandó tájékoztatást csak a biztosítási szerződés megkötését megelőzően írja elő, az azt követő esetleges változások esetére már nem, ezért ezt kivételként kell meghatározni az adatváltozások esetén fennálló tájékoztatási kötelezettség alól.
+
+A 2016/97/EU irányelv 19. cikk (5) bekezdése a szerződés megkötését követően az ügyfél által teljesített fizetések kapcsán is előírja a biztosító tájékoztatási kötelezettségét.
+
+A 2016/97/EU irányelv lehetővé teszi a tagállamok számára, hogy a tájékoztatás nyújtása terén szigorúbb rendelkezéseket tartsanak fenn vagy fogadjanak el a biztosításértékesítők tekintetében, a székhelyük szerinti tagállam rendelkezéseitől függetlenül, amennyiben ezek az értékesítők az adott tagállam területén biztosítási értékesítési tevékenységet fejtenek ki.
+
+A 156. §-hoz
+
+Annak biztosítása érdekében, hogy a biztosítási értékesítési tevékenységhez mindig megfelelő szintű fogyasztóvédelem kapcsolódjon, a 2016/97/EU irányelv előírja, hogy az értékesítést az ezen irányelv követelményei alól mentesülő kiegészítő biztosításközvetítői tevékenységet végző személyen keresztül végző biztosítónak vagy biztosításközvetítőnek biztosítania kell bizonyos alapvető követelmények teljesülését, például közölnie kell személyazonosságát és a panasztétel módját, valamint biztosítania kell, hogy az ügyfél igényeit és szükségleteit figyelembe vegyék.
+
+A 157. §-hoz
+
+A 2016/97/EU irányelv alapján a 158/B. § általános jelleggel írja elő, hogy a biztosítási szerződés előtt meg kell határozni az adott ügyfél igényeit és szükségleteit.
+
+A biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.) 185. cikk (5) bekezdés második albekezdése arra az esetre, ha az életbiztosításra vonatkozó ajánlattal vagy szerződéssel összefüggésben a biztosítási tevékenységet végző a szerződésben rögzített kifizetéseken túli esetleges kifizetések összegéről közöl számokat, mintaszámítási szabályokat határoz meg.
+
+A 158. §-hoz
+
+A 2016/97/EU irányelv 22. cikk (5) bekezdése a kötelező foglalkoztatói nyugdíjrendszer kapcsán különös tájékoztatási szabályokat rögzít tekintettel arra, hogy az ilyen csoportos biztosítás esetén az ügyfél nem a munkavállaló, hanem a csoport tagjainak azon képviselője, aki a csoport nevében megköti a szerződést.
+
+A 159. §-hoz
+
+A 2016/97/EU irányelv a tájékoztatási követelményekre vonatkozó általános elvek között rögzíti, hogy a biztosításértékesítő által az ügyfelekhez vagy a potenciális ügyfelekhez eljuttatott minden információnak tisztességesnek, egyértelműnek és nem félrevezetőnek kell lennie, beleértve a marketingközleményeket is, valamint a marketingközlemények marketingjellegének mindenkor világosan felismerhetőnek kell lennie.
+
+A 160. §-hoz
+
+A 2016/97/EU irányelv 20. cikke a tanácsadással és a tanácsadás nélkül történő biztosítási értékesítésre vonatkozó előírásokat határoz meg a visszaélésszerű értékesítések megelőzése érdekében. Így minden esetben előírja az igények és szükségletek felmérését, tanácsadás esetén pedig személyre szabott ajánlást is kell készíteni, amely bemutatja, hogy az ügyfél biztosítási igényeinek és szükségleteinek miért éppen az adott termék felel meg leginkább.
+
+A szerződés megkötése előtt, ideértve a tanácsadás nélküli értékesítés esetét is, olyan megfelelő tájékoztatást kell nyújtani az ügyfél számára a biztosítási termékről, amely tájékoztatás alapján az ügyfél megalapozott döntést tud hozni. A nem-életbiztosítási termékekről a biztosítási termék tájékoztató dokumentuma nyújt formalizált tájékoztatást. E tájékoztató dokumentumot az érintett biztosítónak kell összeállítania.
+
+A 161. §-hoz
+
+A keresztértékesítés az Európai Unióban a biztosításértékesítők által gyakran alkalmazott stratégia, amely előnyökkel járhat az ügyfelek szempontjából, de olyan gyakorlatot is jelenthet, amely során az ügyfelek érdekeit nem veszik megfelelően figyelembe. Ezért a 2016/97/EU irányelv az ügyfelek érdekeinek védelmében tájékoztatási, illetve külön történő megvásárlás lehetőségének felkínálására vonatkozó kötelezettséget ír elő a biztosításértékesítők számára. A 2016/97/EU irányelv nem akadályozza a többfajta kockázatra kiterjedő biztosítások értékesítését.
+
+A 162. §-hoz
+
+A 2016/97/EU irányelv 14. cikke a tagállamok számára előírja olyan eljárások kialakítását, amelyek lehetővé teszik az ügyfelek és más érdekelt felek, különösen a fogyasztói szövetségek számára, hogy a biztosítás- és a viszontbiztosítás-értékesítőkkel kapcsolatban panaszt jelentsenek be.
+
+A 163. §-hoz
+
+A 2016/97/EU irányelv a biztosítási szerződések - többek között a biztosítási alapú befektetési termékek - értékesítését a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról szóló, 2014. május 15-i 2014/65/EU európai parlamenti és tanácsi irányelvvel összhangban kívánja szabályozni, szigorítja az értékesítés szabályaira vonatkozó minimális standardokat, valamint valamennyi biztosítási alapú befektetési termékre vonatkozóan egyenlő feltételeket teremt.
+
+A 2016/97/EU irányelv a következetes befektetővédelem biztosítása és a szabályozási arbitrázs megelőzése érdekében a biztosítási alapú befektetési termékekre a valamennyi biztosítási termékre meghatározott üzletviteli standardokon túl az említett termékekbe ágyazott befektetési elem kezelését célzó speciális standardok is meghatároz. Az ilyen speciális standardok közé tartozik a megfelelő tájékoztatás, a megfelelő tanácsadásra vonatkozó követelmény és a javadalmazással kapcsolatos korlátozások.
+
+Annak biztosítása érdekében, hogy valamely biztosítási alapú befektetési termék értékesítésével kapcsolatos bármely közvetítői díj vagy jutalék vagy bármely nem pénzbeli előny, amelyet az ügyfél vagy az ügyfél nevében eljáró személy kivételével bármely fél számára kifizetnek, vagy amelyet az ügyfél vagy az ügyfél nevében eljáró személy kivételével bármely fél kifizet, ne gyakoroljon káros hatást az ügyfélnek nyújtott vonatkozó szolgáltatás minőségére, a 2016/97/EU irányelv előírja, hogy a biztosításértékesítőnek e káros hatás elkerülése céljából megfelelő és arányos intézkedéseket kell bevezetnie. E célból a biztosításértékesítőnek ki kell dolgoznia, el kell fogadnia és rendszeresen felül kell vizsgálnia az összeférhetetlenséggel kapcsolatos politikáit és eljárásait, azzal a céllal, hogy elkerülje az ügyfélnek nyújtott vonatkozó szolgáltatás minőségét befolyásoló káros hatást, valamint biztosítsa, hogy az ügyfél megfelelő tájékoztatást kapjon a közvetítői díjakról, jutalékokról és előnyökről. A törvény fogyasztóvédelmi szempontból kimondja, hogy biztosítási alapú befektetési termék kizárólag tanácsadással értékesíthető.
+
+A 164. §-hoz
+
+A törvény a biztosító felszámolási eljárása során az egyesítés lehetőségét is kizárja a jövőben.
+
+A 165. §-hoz
+
+A hazai biztosítók által jövőben forgalmazott biztosítási alapú befektetési termékek kedvező hitelminősítésének lehetővé tételét szolgáló módosítás.
+
+A 166. §-hoz
+
+A rendelkezés könnyítést tartalmaz a kizárólag tűz és elemi károk, illetve egyéb vagyoni károk biztosításával foglalkozó kisbiztosító-egyesületek számára.
+
+A 167. §-hoz
+
+A rendelkezés könnyítést tartalmaz a kisbiztosító-egyesületek számára.
+
+A 168. §-hoz
+
+A rendelkezés könnyítést tartalmaz a kizárólag tűz és elemi károk, illetve egyéb vagyoni károk biztosításával foglalkozó kisbiztosító-egyesületek számára.
+
+A 169. §-hoz
+
+A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvénnyel ellentétben a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelvet (Szolvencia II) átültető Bit. nem tartalmaz a biztosító és viszontbiztosító átalakulásának, egyesülésének, szétválásának engedélyezésére vonatkozó szabályokat.
+
+Tekintettel arra, hogy a jogalkalmazói visszajelzések alapján ezekre a szabályokra továbbra is szükség van, ismételten rögzítésre kerülnek a biztosító és viszontbiztosító átalakulása, egyesülése, valamint szétválása engedélyezésének szabályai.
+
+A rendelkezések a korábbi szabályozáson alapulnak, kiegészítve a Bit. biztosítási állomány átruházásánál is megjelenő, európai uniós vonatkozású szabályaival.
+
+A törvény meghatározza az engedélyezés során benyújtandó dokumentumokat, illetve ezek tartalmát, továbbá a kérelem Felügyelet által történő elutasításának eseteit. A törvény alapján az átalakulás, egyesülés vagy szétválás időpontjának az engedély megadását követő hat hónapon belülre kell esnie.
+
+A törvény - figyelemmel az ügyfelek szerződő partner megválasztására vonatkozó szabadságára - lehetőséget ad arra, hogy a jogutód biztosító, viszontbiztosító cégbírósági vagy törvényszéki nyilvántartásba való bejegyzéstől számított harminc napon belül megküldött írásbeli értesítése alapján az ügyfelek felmondhassák biztosítási szerződéseiket. Speciális eljárási szabályok kerülnek megállapításra arra az esetre, amikor a jogutód biztosító vagy viszontbiztosító székhelye másik tagállamban van, illetve amikor másik tagállam felügyeleti hatóságától érkezik átalakulással, egyesüléssel, szétválással kapcsolatos jogsegélykérelem.
+
+A 170. §-hoz
+
+A rendelkezés a Szolvencia II. 35. cikk (6)-(8) bekezdése alapján a Felügyelet számára lehetőséget biztosít, hogy - meghatározott feltételek fennállása esetén - a Felügyelet részére megküldendő adatszolgáltatás tekintetében könnyítést engedélyezzen.
+
+A 171. §-hoz
+
+A 2016/97/EU irányelv 9. cikk (2) bekezdése azon helyzetek kezelése érdekében, amikor egy biztosításértékesítő csak azért hozza létre székhelyét egy tagállamban, hogy ne kelljen azon másik tagállam rendelkezéseit betartania, ahol tevékenységét teljes egészében vagy nagyrészt végzi, a fogadó tagállam számára biztosítja a lehetőséget, hogy elővigyázatossági intézkedéseket hozzon, amennyiben a biztosításértékesítő tevékenysége súlyosan veszélyezteti a fogadó tagállam biztosítási és viszontbiztosítási piacának megfelelő működését.
+
+A 172. §-hoz
+
+A 2016/97/EU irányelv 33. cikke alapján a Felügyelet intézkedéseinek köre kiegészül a biztosítási alapú befektetési termékek értékesítésre vonatkozó üzletviteli jogszabályi követelmények megsértése esetére a biztosító irányító testülete bármely, felelős tagjának a betöltött vezetői funkciók ellátásától való átmeneti eltiltásával, valamint a belső nyilvántartásban nyilvántartott biztosítási értékesítést végző személyek belső nyilvántartásból való törlésével.
+
+A 173. §-hoz
+
+A 2016/97/EU irányelv 34. cikke meghatározza biztosítási vagy a viszontbiztosítási értékesítésre vonatkozó jogszabályi követelmények megsértése miatt hozott intézkedések alkalmazása során figyelembe veendő szempontokat.
+
+A 174. §-hoz
+
+A 2016/97/EU irányelv hatálya az 1. cikk (3) bekezdése szerint nem terjed ki azokra a személyekre, akik a biztosítási értékesítést melléktevékenységként végzik, ha a biztosítási díj nem halad meg egy bizonyos összeget, továbbá a fedezett kockázatok korlátozottak. Az ilyen jellegű biztosítás valamely áruhoz vagy szolgáltatáshoz kapcsolódhat. Ennek megfelelően az ilyen személyeket a Bit. biztosításközvetítőkre vonatkozó rendelkezéseinek hatálya alól is ki kell venni.
+
+A 175. §-hoz
+
+A 2016/97/EU irányelv 16. cikke megköveteli a tagállamoktól annak biztosítását, hogy a kiegészítő biztosításközvetítői tevékenységet végző személyek szolgáltatásainak igénybevétele során a biztosítók és a viszontbiztosítók, valamint a közvetítők csak a nyilvántartásban szereplő kiegészítő biztosításközvetítői tevékenységet végző személyek biztosítási és viszontbiztosítási értékesítési szolgáltatásait vegyék igénybe.
+
+A 176. §-hoz
+
+A törvény meghagyja a Hpt.-ben meghatározott hitelintézettel vagy a postai szolgáltatásokról szóló törvényben meghatározott egyetemes postai szolgáltatóval és az egyetemes postai szolgáltató által megbízott közreműködővel munkaviszonyban álló természetes személyek biztosításközvetítői tevékenysége kapcsán fennálló korábbi mentességet azzal a megszorítással, hogy ez a természetes személy akkor nem köteles eleget tenni a Bit. 369. § (3) bekezdés a) pontjában foglalt követelményeknek, amennyiben pénzügyi szolgáltatás közvetítői vagy tőkepiaci üzletkötői tevékenység végzéséhez szükséges képzettséggel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti függő biztosításközvetítői hatósági vizsga 1. vizsgatárgya szerinti ismeretekre épülő, a munkáltatója vagy az általa értékesített termék biztosítója által szervezett belső vizsgával rendelkezik.
+
+A 177. §-hoz
+
+A törvény az egyes jogviszonyfajták kimerítő felsorolása helyett általánosan a „jogviszony” kifejezést használja.
+
+A 178. §-hoz
+
+A 2016/97/EU irányelv alapján annak érdekében, hogy a biztosítási termékek kielégítsék a megcélzott piac igényeit, a biztosításközvetítőknek, mint biztosítási terméket kidolgozónak is egy folyamatot kell fenntartaniuk, működtetniük az egyes biztosítási termékek jóváhagyására, és ezen folyamat tekintetében felülvizsgálatot kell biztosítaniuk.
+
+A 179. §-hoz
+
+A törvény rögzíti, hogy a függő biztosításközvetítő jogosult jutalékra. A kiegészítő biztosításközvetítői tevékenységet végző személy pedig a megbízójától javadalmazásra jogosult.
+
+A független biztosításközvetítő a Bit. szabályai szerint a megbízótól részesül díjazásban, de a gyakorlatban jellemző, hogy attól a biztosítótól kap közvetett díjazást, amely a közvetítésével létrejött szerződésben a biztosítási kockázatot elvállalja, ezért e gyakorlatot a módosítás törvényi szinten rögzíti.
+
+Annak elkerülése érdekében, hogy a független biztosításközvetítő a közvetett díjazására tekintettel érdekeit a megbízója érdekei elé helyezze, a törvény kötelezettségként írja elő számára olyan eljárásrend szabályzatba foglalását, amely lehetővé teszi, hogy a javadalmazás módja ne vezessen érdekkonfliktus kialakulásához és ne veszélyeztesse azt a kötelezettségét, amely szerint a biztosítási szerződés megkötésének előkészítése során köteles elegendő számú, a piacon hozzáférhető biztosítást tárgyszerűen elemezni, és egyértelmű, szakszerű tájékoztatást nyújtani az ügyfél igényeinek és szükségleteinek megfelelően.
+
+A 2016/97/EU irányelv 10. cikk (3) bekezdése lehetővé teszi olyan tagállami szabály megalkotását, amely alapján a biztosítás- vagy viszontbiztosítás-értékesítők ellenőrizhetik alkalmazottaik jó hírnevét, tekintettel arra, hogy a 2016/97/EU irányelv szerint a jó hírnév a nyilvántartásba vétel feltétele, és a jó hírnévnek a biztosítók vezetőségének biztosítási vagy viszontbiztosítási értékesítésért felelős tagjai és a személyi állomány minden, biztosítási vagy viszontbiztosítási értékesítéssel közvetlenül foglalkozó tagja tekintetében fenn kell állnia.
+
+A 180. §-hoz
+
+A 2016/97/EU irányelv célkitűzése magas szintű szakmaiság és kompetencia biztosítása a biztosításközvetítők, viszontbiztosítás-közvetítők és a kiegészítő biztosításközvetítői tevékenységet végző személyek, továbbá a biztosítók és viszontbiztosítók azon alkalmazottai körében, akik részt vesznek a biztosítási szerződések értékesítése előtti, alatti és utáni tevékenységekben. Ezért a 2016/97/EU irányelv képzési és továbbképzési kötelezettséget ír elő a fenti személyek számára, amely képzések és továbbképzések különböző tanulási módokat foglalhatnak magukban, ideértve a tanfolyamokat, az e-oktatást és a mentorálást. A képzések formáját, tartalmát és az előírt képzés teljesítése igazolásának módját a tagállami szabályok rendezik.
+
+A 2016/97/EU irányelv szerint a kiegészítő biztosításközvetítői tevékenységet végző személyektől meg kell követelni az általuk értékesített biztosítások feltételeinek és adott esetben a kárigények és panaszok kezelésének módjára vonatkozó szabályoknak az ismeretét.
+
+A 181. §-hoz
+
+A törvény kimondja, hogy a megtakarítási jellegű életbiztosítások jutalékfizetési szabályai az alkuszok esetében is megfelelően alkalmazandóak azzal, hogy esetükben jutalékon a biztosítótól származó, a biztosítási díj meghatározott részét képező közvetett díjazást kell érteni.
+
+A 182. §-hoz
+
+A rendelkezés a megtakarítási jellegű életbiztosítások kapcsán alkalmazandó jutalékfizetési szabályok közül a biztosító és a függő biztosításközvetítő közötti, írásban létrejött megállapodás kötelező minimális tartalmi elemeit, az egyes közvetítők tekintetében megállapítható eltérő jutalékszint lehetőségét, a jutalékelőleg fizetési tilalmat, valamint a jutalékon kívüli egyéb juttatás lehetőségének feltételeit kiterjeszti valamennyi, biztosításközvetítő által közvetített biztosítási szerződésre, azzal, hogy alkusz esetén jutalékon a biztosítótól származó, a biztosítói díj meghatározott részét képező közvetett díjazást kell érteni.
+
+A 183. §-hoz
+
+A 2016/97/EU irányelv 18. cikk a) pontja alapján a biztosítási szerződés megkötése előtt a biztosításközvetítőnek arról is tájékoztatnia kell az ügyfelet, hogy biztosításközvetítői tevékenységet végez és hogy nyújt-e tanácsadást az értékesített biztosítási termékre vonatkozóan. Továbbá a 2016/97/EU irányelv 19. cikke alapján a biztosításközvetítőnek tájékoztatást kell adnia arról, hogy alapos és személyre szabott elemzés alapján nyújt-e tanácsot, és ha nem, akkor azon biztosítókról, amelyek termékeit értékesítheti. Mivel a 2016/97/EU irányelv szerint a tagállamoknak meg kell követelniük, hogy a biztosításértékesítők által az alkalmazottaik vagy képviselőik tekintetében alkalmazott javadalmazási politikák ne gátolják őket abban, hogy az ügyfelek legjobb érdekét szolgálva járjanak el, illetve ne akadályozzák meg, hogy az alkalmas ajánlatot kínálják vagy azt, hogy tisztességes, világos és nem félrevezető tájékoztatást adjanak, valamint az értékesítési célok teljesítésén alapuló javadalmazás nem jelenthet ösztönzést arra, hogy valamely konkrét terméket ajánljanak az ügyfél számára, a biztosításközvetítőnek a szerződés megkötése előtt javadalmazásának jellegéről is tájékoztatnia kell az ügyfelet.
+
+A 2016/97/EU irányelv 19. cikk (3) bekezdése rögzíti, hogy ha az ügyfél a biztosítási szerződéssel összefüggésben annak megkötése után teljesít fizetést - a folyamatos biztosítási díjak és az ütemezett fizetések kivételével -, a biztosításközvetítő is teljesíti minden ilyen kifizetésre vonatkozóan a cikkben előírt tájékoztatást.
+
+A 2016/97/EU irányelv 21. cikke meghatározza, hogy a kiegészítő biztosításközvetítők milyen tartalmú tájékoztatást kötelesek nyújtani az ügyfél részére.
+
+A 2016/97/EU irányelv 22. cikk (1) bekezdése kiveszi a tájékoztatási kötelezettségre vonatkozó általános elvek, az általános tájékoztatásra, valamint az összeférhetetlenségre és átláthatóságra vonatkozó tájékoztatási kötelezettség hatálya alól nagykockázatokra vonatkozó biztosítással kapcsolatos értékesítési tevékenységet.
+
+A 184. §-hoz
+
+Annak biztosítása érdekében, hogy a biztosítási értékesítési tevékenységhez mindig megfelelő szintű fogyasztóvédelem kapcsolódjon, a 2016/97/EU irányelv előírja, hogy az értékesítést az ezen irányelv követelményei alól mentesülő kiegészítő biztosításközvetítői tevékenységet végző személyen keresztül végző biztosítónak vagy biztosításközvetítőnek biztosítania kell bizonyos alapvető követelmények teljesülését, például közölnie kell személyazonosságát és a panasztétel módját, valamint biztosítania kell, hogy az ügyfél igényeit és szükségleteit figyelembe vegyék.
+
+A 185. §-hoz
+
+Tekintettel arra, hogy a biztosításközvetítők rendszere a 2016/97/EU irányelv alapján kiegészült a kiegészítő biztosításközvetítői tevékenységet végző személyekkel, rájuk is szükséges kiterjeszteni a titokvédelmi szabályokat.
+
+A 186. §-hoz
+
+A 2016/97/EU irányelv 14. cikke a tagállamok számára előírja olyan eljárások kialakítását, amelyek lehetővé teszik az ügyfelek és más érdekelt felek, különösen a fogyasztói szövetségek számára, hogy a biztosítás- és a viszontbiztosítás-értékesítőkkel kapcsolatban panaszt jelentsenek be.
+
+A 187. §-hoz
+
+A rendelkezés egyértelművé teszi, hogy az ügynök még ilyen irányú meghatalmazás esetén sem vehet át a biztosítótól ügyfélnek járó összeget.
+
+A 188. §-hoz
+
+Tekintettel arra, hogy a biztosításközvetítők rendszere a 2016/97/EU irányelv alapján kiegészült a kiegészítő biztosításközvetítői tevékenységet végző személyekkel, rájuk is szükséges kiterjeszteni egyes, az ügynökökre vonatkozó szabályokat.
+
+A 189. §-hoz
+
+A visszaélésszerű értékesítések megelőzése érdekében a 2016/97/EU irányelv előírja, hogy a biztosítási termékek értékesítését minden esetben az igényeket és szükségleteket felmérő vizsgálatnak kell kísérnie az ügyfél által megadott információk alapján. Az ügyfél számára javasolt bármely biztosítási terméknek minden esetben meg kell felelnie az ügyfél igényeinek és szükségleteinek, és a terméket az ügyfél számára érthető módon kell ismertetni, hogy megalapozott döntést hozhasson. Az „elegendő számú” biztosítási termék elemzésére vonatkozó kötelezettség megfogalmazása irányelvi szóhasználatból ered, ez a kötelezettség a gyakorlatban a korábbi, a „kielégítő mennyiségű” biztosítási termék elemzésére vonatkozó kötelezettséget jelenti változatlanul.
+
+A 190. §-hoz
+
+A rendelkezés egyértelművé teszi, hogy a többes ügynök még ilyen irányú meghatalmazás esetén sem vehet át a biztosítótól ügyfélnek járó összeget.
+
+A 191. §-hoz
+
+A többes ügynöktől megkövetelt felelősségbiztosítás, illetve vagyoni biztosíték összege a 2016/97/EU irányelv 10. cikk (4) bekezdésének megfelelően módosul.
+
+A 192. §-hoz
+
+A 2016/97/EU irányelv 20. cikke megkülönbözteti a tanácsadással, illetve az a nélküli biztosításértékesítést, ezért ennek megfelelően szükséges módosítani az alkusz biztosításértékesítés kapcsán fennálló kötelezettségeit is.
+
+A 2016/97/EU irányelv értelmében annak megállapítása érdekében, hogy a közvetítő elegendő számú szerződést és biztosítási szolgáltatót vett-e számításba ahhoz, hogy alapos és személyre szabott elemzést készítsen, megfelelően figyelembe kell venni többek között az ügyfél szükségleteit, a piacon jelen lévő szolgáltatók számát, e szolgáltatók piaci részesedését, az egyes szolgáltatóknál rendelkezésre álló megfelelő biztosítási termékek számát, és e termékek jellemzőit. Az „elegendő számú” biztosítási termék elemzésére vonatkozó kötelezettség megfogalmazása irányelvi szóhasználatból ered, ez a kötelezettség a gyakorlatban a korábbi, a „kielégítő mennyiségű” biztosítási termék elemzésére vonatkozó kötelezettséget jelenti változatlanul.
+
+A 193. §-hoz
+
+Az alkusztól megkövetelt felelősségbiztosítás, illetve vagyoni biztosíték összege a 2016/97/EU irányelv 10. cikk (4) bekezdésének megfelelően módosul.
+
+A 194. §-hoz
+
+Gyakorlati igény merült fel arra, hogy ne csak a biztosítók, viszontbiztosítók biztosítási állománya legyen átruházható, hanem az alkuszok is átruházhassák egymás között biztosításközvetítésre irányuló megbízási szerződéseik állományát.
+
+A törvény ezen utóbbi állomány átruházás törvényi kereteit adja meg, kiemelt figyelemmel az alkuszok megbízóinak érdekeire.
+
+Az állományt átvevő alkusz részvénytársaság, legalább ötmillió forint törzstőkével rendelkező korlátolt felelősségű társaság vagy másik tagállamban székhellyel rendelkező alkusz fióktelepe lehet.
+
+A törvény meghatározza az állomány átruházás időpontjában fennálló jogok és kötelezettségek sorsát, melyek változatlanul szállnak át az átadó alkuszról az átvevő alkuszra, továbbá a működőképes gyakorlat miatt szükséges, hogy az átvevő alkusz az átadásra kerülő állományhoz kapcsolódó adatok kezelésére és biztosítási titkok megismerésére is jogosultságot kapjon.
+
+Ugyan a megbízók hozzájárulása nem feltétele az állomány átruházásnak, de - figyelemmel a szerződő partner megválasztására vonatkozó szabadságára - a törvény lehetővé teszi a megbízók számára, hogy az átvevő alkusz által az átvétel napját követő harminc napon belül megküldött értesítés alapján felmondhassák megbízási szerződésüket. Azért, hogy a megbízók értesülhessenek az állomány átruházásról, az átvevő alkusznak honlapján, illetve ha ilyen nincs, az ügyfélfogadásra nyitva álló helyiségeiben is tájékoztatót kell közzétenni. Természetesen azt a megbízót, aki korábban az átadó alkusszal úgy állapodott meg, hogy megbízási szerződése korlátozás nélkül átruházható, és e nyilatkozat visszavonásának jogát sem tartotta fenn, nem illeti meg a felmondás joga.
+
+Az állomány átruházáshoz nem szükséges a Felügyelet engedélye, viszont a megbízók érdeke védelmében azt - a törvény által meghatározott tartalmú értesítéssel és a megjelölt dokumentumok csatolásával - be kell jelenteni a Felügyeletnek. A Felügyelet az állomány átruházását az értesítés benyújtásának napjától számított negyvenöt napon belül megtilthatja, ha az átvevő alkusz nagy valószínűséggel nem lesz képes az átvett állomány megfelelő kezelésére (pl. nem állnak rendelkezésre a megfelelő tárgyi és személyi feltételek, problémák merültek fel az átvevő alkusz korábbi működése kapcsán).
+
+A 195. §-hoz
+
+A közvetítők nyilvántartására vonatkozó szabályok a 2016/97/EU irányelv 3. cikkére figyelemmel módosulnak.
+
+Mivel a 2016/97/EU irányelv kiegészítette a biztosításközvetítők rendszerét a kiegészítő biztosításközvetítői tevékenységet végzőkkel, ezért rájuk nézve külön nyilvántartás kerül bevezetésre.
+
+A 3. cikk (1) bekezdése alapján a nyilvántartások tartalmazzák azoknak a természetes személyeknek a nevét, akik a biztosítási vagy viszontbiztosítási értékesítésért felelősek, továbbá megjelölik azokat a tagállamokat, amelyekben a közvetítő a letelepedés szabadságára vagy a szolgáltatásnyújtás szabadságára vonatkozó szabályok szerint üzleti tevékenységet folytat.
+
+A 3. cikk (2) bekezdése szerint a nyilvántartási rendszernek lehetővé kell tennie a nyilvántartásba-vételi űrlap közvetlen online kitöltését.
+
+A 3. cikk (7) bekezdése előírja a tagállamok számára, hogy illetékes hatóságaik kötelesek megtagadni a nyilvántartásba vételt, ha valamely harmadik országnak a közvetítővel szoros kapcsolatot fenntartó egy vagy több természetes vagy jogi személyre vonatkozó törvényi, rendeleti és közigazgatási rendelkezései, vagy az ilyen törvényi, rendeleti és közigazgatási rendelkezések végrehajtásának a nehézségei megakadályozzák felügyeleti funkcióik tényleges gyakorlását.
+
+A 196. §-hoz
+
+Mivel a 2016/97/EU irányelv kiegészítette a Bit. rendszerét a kiegészítő biztosításközvetítői tevékenységet végzőkkel, ezért szükséges a rendelkezések megfelelő módosítása.
+
+A 10. cikk (3) bekezdése előírja, hogy a biztosítási vagy viszontbiztosítási értékesítésért felelős személyeknek is jó hírnévvel kell rendelkezniük.
+
+A 197. §-hoz
+
+Mivel a 2016/97/EU irányelv kiegészítette a Bit. rendszerét a kiegészítő biztosításközvetítői tevékenységet végzőkkel, ezért szükséges a belső nyilvántartásra vonatkozó rendelkezések megfelelő módosítása, továbbá a belső nyilvántartásnak ugyancsak tartalmaznia kell a 2016/97/EU irányelv 1. cikk (3) bekezdése szerint az irányelv hatálya alá egyébként nem tartozó, kiegészítő biztosításközvetítői tevékenységet végző személyeket is.
+
+A biztosításközvetítést végző természetes személyekről vezetett belső nyilvántartás a 2016/97/EU irányelv előírásainak megfelelően kiegészül a képzési, illetve továbbképzési követelmények teljesítésének, valamint a jó hírnév követelményének történő megfelelés igazolásával.
+
+A biztosításközvetítő gazdálkodó szervezetekről vezetett belső nyilvántartás kiegészül az értékesítési tevékenységért felelős vezető képzési, illetve továbbképzési követelmények teljesítésének, valamint a jó hírnév követelményének történő megfelelés igazolásával, továbbá a 3. cikk (6) bekezdésében foglalt, minősített befolyásra, illetve szoros kapcsolatra vonatkozó adatokkal.
+
+A 198. §-hoz
+
+A bürokratikus terhek csökkentése céljából rögzíti a törvény, hogy abban az esetben, ha az alkusz többes ügynökként, illetve ha a többes ügynök alkuszként kíván a továbbiakban működni, nem szükséges a Felügyelet felé okirattal vagy nyilatkozattal igazolnia, hogy a tevékenységből eredő minden kötelezettségét teljesítette.
+
+A 199. §-hoz
+
+A törvény enyhít a korábbi, minden kötelezettség teljesítését megkövetelő kötelezettségen, így ha a többes ügynök vagy az alkusz a tevékenységét megszünteti, a Felügyelet a tevékenység megszüntetését akkor engedélyezi, ha a többes ügynök vagy az alkusz a tevékenységből eredő minden, az ügyfél által befizetett, a biztosítót megillető, vagy a biztosító által kifizetett, az ügyfelet megillető pénzeszközzel kapcsolatos kötelezettségét teljesítette.
+
+A 200. §-hoz
+
+A 2016/97/EU irányelv kitűzött célja, hogy a biztosításközvetítők, viszontbiztosítás-közvetítők és a kiegészítő biztosításközvetítői tevékenységet végző személyek képesek legyenek arra, hogy éljenek a letelepedés és a szolgáltatásnyújtás EUMSZ-ben rögzített szabadságával. Ennek megfelelően a székhely szerinti tagállamban történő nyilvántartásba vétel lehetővé teszi, hogy a biztosításközvetítő, a viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy a letelepedés és a szolgáltatásnyújtás szabadsága alapján más tagállamokban is nyújthasson szolgáltatást, feltéve, hogy sor került az illetékes hatóságok között a megfelelő értesítési eljárásokra. Ezen eljárásokat a 4. és a 6. cikk szabályozza.
+
+A 2016/97/EU irányelv 6. cikk (1) bekezdése alapján a közvetítőnek egy másik tagállam területén történő, fiókteleppel egyenértékű állandó jelenlétét ugyanúgy kell kezelni, mint egy fióktelepet, kivéve, ha a közvetítő jogszerűen másik jogi forma keretében hozza létre jelenlétét. A további körülményektől függően ilyen eset lehet akár az is, amikor ez a jelenlét formailag nem fióktelep formájában valósul meg, hanem csak egy, a közvetítő saját alkalmazottai vagy egy olyan személy által működtetett iroda formájában, amely független, de állandó felhatalmazással rendelkezik arra, hogy a közvetítő érdekében ugyanúgy léphessen fel, ahogyan azt egy képviselet tenné.
+
+A 201. §-hoz
+
+A rendelkezés a Felügyelet, mint fogadó tagállam kötelezettségeit határozza meg a 2016/97/EU irányelv rendelkezéseinek megfelelően.
+
+A 202. §-hoz
+
+Az alkuszi állomány átruházásra vonatkozó új szabályokat át kell vezetni a Bit. egészén, így az állomány átruházás bejelentésére vonatkozó kötelezettséget fel kell tüntetni „A biztosításközvetítők egyéb bejelentési kötelezettsége” című alcímben is.
+
+A 203. §-hoz
+
+A magas színvonalú szolgáltatás és a hatékony fogyasztóvédelem biztosítása érdekében a fogadó és a székhely szerinti tagállamnak szorosan együtt kell működnie a 2016/97/EU irányelvben foglalt kötelezettségek végrehajtása terén. Ha a biztosításközvetítők, viszontbiztosítás-közvetítők és a kiegészítő biztosításközvetítői tevékenységet végző személyek a szolgáltatásnyújtás szabadsága alapján különböző tagállamokban folytatnak üzleti tevékenységet, a székhely szerinti tagállam illetékes hatósága felelős a 2016/97/EU irányelvben foglalt kötelezettségek teljesítésének biztosításáért a belső piacon belüli üzleti tevékenység egésze tekintetében. Ha a fogadó tagállam illetékes hatóságának tudomására jut bármely, a területén elkövetett kötelezettségszegés, értesítenie kell a székhely szerinti tagállam illetékes hatóságát, amely ezt követően köteles meghozni a megfelelő intézkedéseket. Ilyen esetnek minősül különösen a jó hírnévvel kapcsolatos szabályok, a szakmai ismeretekkel és kompetenciával vagy az üzletvitellel kapcsolatos követelmények megszegése. Ezen kívül a 2016/97/EU irányelv a fogadó tagállam illetékes hatósága számára biztosítja a jogot a beavatkozásra akkor, ha a székhely szerinti tagállam nem hozza meg a megfelelő intézkedéseket, vagy ha a meghozott intézkedések nem elégségesek.
+
+Fióktelep vagy állandó jelenlét másik tagállamban való létrehozása esetén megoszlik a székhely szerinti és a fogadó tagállam között a végrehajtási felelősség. Míg az üzlet egészére vonatkozó kötelezettségek - például a szakmai követelményekkel kapcsolatos szabályok - teljesítéséért a szolgáltatásnyújtás esetével megegyező rendszer keretében továbbra is a székhely szerinti tagállam felelős, addig a fogadó tagállam illetékes hatósága érvényesíti a területén nyújtott szolgáltatások vonatkozásában a tájékoztatási követelményekkel és az üzletvitellel kapcsolatos szabályok betartását. A fogadó tagállamnak azonban, amennyiben illetékes hatóságának tudomására jut bármely olyan, a területén elkövetett kötelezettségszegés, amellyel kapcsolatban ezen irányelv a fogadó tagállamot nem ruházza fel hatáskörrel, értesítenie kell a székhely szerinti tagállam illetékes hatóságát, amely ezt követően köteles meghozni a megfelelő intézkedéseket. Ilyen esetnek minősül különösen a jó hírnévvel kapcsolatos szabályok, valamint a szakmai ismeretekkel és kompetenciával kapcsolatos követelmények megszegése. Ezenkívül a fogadó tagállam illetékes hatósága számára a 2016/97/EU irányelv biztosítja a jogot a beavatkozásra akkor, ha a székhely szerinti tagállam nem hozza meg a megfelelő intézkedéseket, vagy ha a meghozott intézkedések nem elégségesek.
+
+A 2016/97/EU irányelv 9. cikk (1) bekezdése lehetőséget ad arra, hogy a fogadó tagállam a területén elkövetett, a közérdek védelmében elfogadott nemzeti rendelkezéseinek megsértésének szankcionálására - amennyiben az szigorúan szükséges - megfelelő és megkülönböztetéstől mentes intézkedéseket fogadjon el. Ilyen helyzetekben a fogadó tagállamnak lehetősége van megakadályozni az érintett biztosítás- vagy viszontbiztosítás-közvetítőt, illetve kiegészítő biztosításközvetítői tevékenységet végző személyt abban, hogy a területén új üzleti tevékenységet folytasson.
+
+A 2016/97/EU irányelv 9. cikk (2) bekezdése azon helyzetek kezelése érdekében, amikor egy biztosításértékesítő csak azért hozza létre székhelyét egy tagállamban, hogy ne kelljen azon másik tagállam rendelkezéseit betartania, ahol tevékenységét teljes egészében vagy nagyrészt végzi, a fogadó tagállam számára biztosítja a lehetőség, hogy elővigyázatossági intézkedéseket hozzon, amennyiben a biztosításértékesítő tevékenysége súlyosan veszélyezteti a fogadó tagállam biztosítási és viszontbiztosítási piacának megfelelő működését.
+
+A 204. §-hoz
+
+A magas színvonalú szolgáltatás és a hatékony fogyasztóvédelem biztosítása érdekében a fogadó és a székhely szerinti tagállamnak szorosan együtt kell működnie a 2016/97/EU irányelvben foglalt kötelezettségek végrehajtása terén. Ha a biztosításközvetítők, viszontbiztosítás-közvetítők és a kiegészítő biztosításközvetítői tevékenységet végző személyek a szolgáltatásnyújtás szabadsága alapján különböző tagállamokban folytatnak üzleti tevékenységet, a székhely szerinti tagállam illetékes hatósága felelős a 2016/97/EU irányelvben foglalt kötelezettségek teljesítésének biztosításáért a belső piacon belüli üzleti tevékenység egésze tekintetében. Ha a fogadó tagállam illetékes hatóságának tudomására jut bármely, a területén elkövetett kötelezettségszegés, értesítenie kell a székhely szerinti tagállam illetékes hatóságát, amely ezt követően köteles meghozni a megfelelő intézkedéseket. Ilyen esetnek minősül különösen a jó hírnévvel kapcsolatos szabályok, a szakmai ismeretekkel és kompetenciával vagy az üzletvitellel kapcsolatos követelmények megszegése. Ezen kívül a 2016/97/EU irányelv a fogadó tagállam illetékes hatósága számára biztosítja a jogot a beavatkozásra akkor, ha a székhely szerinti tagállam nem hozza meg a megfelelő intézkedéseket, vagy ha a meghozott intézkedések nem elégségesek.
+
+Fióktelep vagy állandó jelenlét másik tagállamban való létrehozása esetén megoszlik a székhely szerinti és a fogadó tagállam között a végrehajtási felelősség. Míg az üzlet egészére vonatkozó kötelezettségek - például a szakmai követelményekkel kapcsolatos szabályok - teljesítéséért a szolgáltatásnyújtás esetével megegyező rendszer keretében továbbra is a székhely szerinti tagállam felelős, addig a fogadó tagállam illetékes hatósága érvényesíti a területén nyújtott szolgáltatások vonatkozásában a tájékoztatási követelményekkel és az üzletvitellel kapcsolatos szabályok betartását. A fogadó tagállamnak azonban, amennyiben illetékes hatóságának tudomására jut bármely olyan, a területén elkövetett kötelezettségszegés, amellyel kapcsolatban ezen irányelv a fogadó tagállamot nem ruházza fel hatáskörrel, értesítenie kell a székhely szerinti tagállam illetékes hatóságát, amely ezt követően köteles meghozni a megfelelő intézkedéseket. Ilyen esetnek minősül különösen a jó hírnévvel kapcsolatos szabályok, valamint a szakmai ismeretekkel és kompetenciával kapcsolatos követelmények megszegése. Ezenkívül a fogadó tagállam illetékes hatósága számára a 2016/97/EU irányelv biztosítja a jogot a beavatkozásra akkor, ha a székhely szerinti tagállam nem hozza meg a megfelelő intézkedéseket, vagy ha a meghozott intézkedések nem elégségesek.
+
+A 205. §-hoz
+
+Az alkuszi állomány átruházásra vonatkozó új szabályokat át kell vezetni a Bit. egészén, így az állomány átruházás megtiltásának lehetőségét is fel kell tüntetni a biztosításközvetítőkkel kapcsolatos intézkedések között.
+
+A 2016/97/EU irányelv annak biztosítása érdekében, hogy a biztosítók és a biztosítási értékesítést folytató személyek teljesítsék az irányelv rendelkezéseit, és hogy az egész Unióban hasonló elbánásban részesüljenek, előírja, hogy a tagállamoknak hatékony, arányos és visszatartó erejű közigazgatási szankciókat és egyéb intézkedéseket alkalmazzanak, ezért a 33. cikkben egységes szankciórendszert határoz meg.
+
+A 2016/97/EU irányelv szerint továbbá a következetes befektetővédelem biztosításához és a szabályozási arbitrázs kockázatának elkerüléséhez szükséges, hogy valamely biztosítási alapú befektetési termék értékesítésével kapcsolatos jogsértés esetén a tagállamok által meghatározott közigazgatási szankciók és egyéb intézkedések összhangban legyenek az 1286/2014/EU rendeletben foglaltakkal.
+
+Tekintettel arra, hogy a Bit. rendszere a 2016/97/EU irányelv alapján kiegészült a kiegészítő biztosításközvetítői tevékenységet végző személyekkel, esetükben is szükséges meghatározni az alkalmazható intézkedések körét.
+
+A 2016/97/EU irányelv 34. cikke meghatározza biztosítási vagy a viszontbiztosítási értékesítésre vonatkozó jogszabályi követelmények megsértése miatt hozott intézkedések alkalmazása során figyelembe veendő szempontokat, melyek a biztosításközvetítői tevékenységet végzők személyekkel szemben hozott szankciók esetében is alkalmazandók.
+
+A 206. §-hoz
+
+A biztosításközvetítőkkel szembeni intézkedési lehetőségek körét bővíti.
+
+A 207. §-hoz
+
+A Szolvencia II. 129. cikk (3) bekezdés második albekezdése, amelyet az Omnibus II. irányelv 2. cikk 32. pontja iktatott be, a minimális tőkeszükséglet számításával kapcsolatos átmeneti időszakra vonatkozó rendelkezést tartalmaz, melynek határideje 2017. december 31.
+
+A 208-209. §-hoz
+
+Átmeneti szabályokat állapít meg.
+
+A 210. §-hoz
+
+A rendelkezés kiegészíti a Bit. jogharmonizációs záradékát a 2016/97/EU irányelvvel.
+
+A 211. §-hoz
+
+A biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.) 185. cikk (5) bekezdés második albekezdése arra az esetre, ha az életbiztosításra vonatkozó ajánlattal vagy szerződéssel összefüggésben a biztosítási tevékenységet végző a szerződésben rögzített kifizetéseken túli esetleges kifizetések összegéről közöl számokat, mintaszámítási szabályokat határoz meg.
+
+A 212. §-hoz
+
+A 2016/97/EU irányelv 10. cikk (2) bekezdése alapján a biztosítás- és viszontbiztosítás-közvetítőknek igazolniuk kell, hogy megfelelnek az irányelv I. mellékletben meghatározott, megfelelő szakmai ismeretekre és kompetenciára vonatkozó követelményeknek, ennek átültetését tartalmazza a Bit. új, 7. melléklete.
+
+A 213-214. §-hoz
+
+Szövegcserés módosítások.
+
+A 215. §-hoz
+
+Hatályon kívül helyező rendelkezések.
+
+A 216-217. §-hoz
+
+Hatályba nem lépésről szóló rendelkezés.
+
+-----STARTING---POINT---VEGE---
+
+A 218. §-hoz
+
+Hatályba léptető rendelkezések.
+
+A 219. §-hoz
+
+Az európai uniós jognak való megfelelésről szóló rendelkezések.

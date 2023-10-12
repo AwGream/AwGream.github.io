@@ -1,0 +1,999 @@
+2014. évi LXXII. törvény indokolása
+
+a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény és ehhez kapcsolódóan más törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+2013-ban elfogadásra került az új büntetés-végrehajtási kódex, azaz a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.). Az új kódex új alapokra kívánja helyezni a büntetés-végrehajtást, ennek keretében nagyobb hangsúlyt fektet többek között a reintegrációra, az egyéniesített végrehajtásra, az oktatásra és a munkáltatásra. A reformok nyomán szükségessé vált a kapcsolódó jogszabályok felülvizsgálata és bizonyos esetekben rendelkezéseik módosítása is. A büntetés-végrehajtással összefüggő jogszabályoknak a Bv. tv.-vel való tartalmi és formai összehangolásán túl a törvény célja, hogy az elmúlt évek jogalkalmazói tapasztalatai alapján a végrehajtási joganyag kisebb-nagyobb korrekciójára, átdolgozására sort kerítsen. Ennek fényében a törvény több ponton módosítja magát a Bv. tv.-t, illetve kiegészítéseket, változtatásokat hajt végre a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.), a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) és a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) szabályai tekintetében is.
+
+A Bv. tv.-t érintő módosítások alapvetően négy csoportba sorolhatók. Az elsőbe a nemzetközi kötelezettségeknek való megfelelés érdekében történő kiegészítések tartoznak, így különösen a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012/13/EU európai parlamenti és tanácsi irányelv (a továbbiakban: 2012/13/EU irányelv) előírásai, valamint a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012/29/EU európai parlamenti és tanácsi irányelv követelményei kerülnek átvezetésre. A második csoportba a törvény elfogadása óta a jogalkalmazók részéről felmerült javaslatok, észrevételek alapján indokolt módosítások tartoznak. Itt a büntetés-végrehajtás kiépülő új rendszerét segítő változtatásokat érdemes kiemelni, melyek egyrészt a végrehajtási folyamatban érintett szervek (bíróság - BVOP - büntetés-végrehajtási intézet) közötti hatékonyabb kommunikációt és információáramlást (pl. a bv. csoport szerepére vonatkozó szabályok), másrészt a kiépülő rezsimrendszer eredményes működését fokozzák (pl. iratbetekintés és másolatkészítés szabályainak módosítása, büntetés-félbeszakítás kérdésének rendezése, elítéltről készült összefoglaló jelentés megismerésének szabályozása). Ugyancsak ebbe a körbe tartoznak azok az elsősorban a felhatalmazó rendelkezéseket érintő átalakítások, amelyek a Bv. tv.-hez kapcsolódó rendeleti szintű szabályozás kidolgozása ügyében tartott megbeszélések eredményeként kristályosodtak ki. A harmadik csoportba az olyan korrekciók tartoznak, amelyek a jogértelmezést segítik, és a törvény jelenlegi szövegében meglévő kisebb ellentmondásokat, pontatlanságokat orvosolják. Végül a negyedik csoportba a pártfogó felügyeletet érintő, időközben bekövetkező változások miatt szükségessé váló módosítások tartoznak. A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 06.) Korm. rendelet 25. § (2) bekezdése a belügyminiszter hatáskörébe utalta a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenység megszervezését és irányítását. A pártfogó felügyelői tevékenységgel kapcsolatos kormányzati feladatok ennek alapján megosztásra kerülnek az igazságügyért felelős miniszter és a büntetés-végrehajtásért felelős miniszter között, egyidejűleg a pártfogó felügyelői tevékenység eddig egységes szervezeti kerete átalakul. Erre tekintettel szükségessé vált a Bv. tv. kiegészítése, a büntetés-végrehajtási pártfogó felügyelők feladatkörének meghatározása.
+
+Formailag szintén a Bv. tv.-hez kapcsolódik a tényleges életfogytig tartó szabadságvesztésre ítéltek esetében bevezetendő különleges kegyelmi eljárás szabályozása. A törvény ezen rendelkezései rögzítik, hogy a feltételes szabadságra bocsátás lehetőségéből kizárt életfogytig tartó szabadságvesztésre (a továbbiakban: TÉSZ) ítélt személyek esetében különleges, nem kérelemre induló kegyelmi eljárást kell lefolytatni. Ezzel biztosítja a magyar jogrendszer az Emberi Jogok Európai Bírósága 2014. május 20-án hozott, a Magyar kontra Magyarország ügyben hozott ítéletében (a továbbiakban: Ítélet) kifejtett azon követelményt, hogy a TÉSZ esetében legyen olyan eljárás, amelynek révén - ha a szabadságvesztésből már megfelelő hosszúságú idő eltelt - vizsgálható, hogy a büntetés büntetőpolitikai indokai továbbra is fennállnak-e.
+
+Végül szintén a Bv. tv.-hez kapcsolódó újítás a reintegrációs őrizet bevezetése. A törvény a büntetés-végrehajtási inézetek telítettségének csökkentése és a fogvatartottak társadalmi beilleszkedésének elősegítése érdekében kidolgozza a reintegrációs őrizet végrehajtásának részletes szabályait.
+
+A Btk. módosítását részben a jogértelmezési problémák feloldása teszi időszerűvé. A törvény az erőszakos többszörös visszaesők tekintetében tisztázza, hogy a kötelező életfogytig tartó szabadságvesztés mely esetekben szabható ki, illetve a visszaesők ezen kategóriájával szemben a halmazati büntetés kiszabásának szabályait is egyértelműbben rendezi. A Btk. - az 1978. évi IV. törvény rendelkezéseitől eltérően - a feltételes szabadságra bocsátás legkorábbi időpontját nem a szabadságvesztés végrehajtási fokozatához képest, hanem az elítélt büntetőjogi előéletétől függően határozza meg. A jogalkalmazás számára problémát okozhat, hogy az összbüntetések esetén ezen újítás leképezése nem történt meg teljes egészében, ezért az egyértelműség érdekében egy új bekezdés beiktatásával rendezendő a kérdés. A fentiek mellett a Btk.-módosítás két pontosító szabály és egy jogharmonizációs záradék törvénybe építésével egyértelművé teszi, hogy hazánk megfelel az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelv (a továbbiakban: 2013/40/EU irányelv) követelményeinek.
+
+A Be.-módosítás célja szintén kettős. A 2012/13/EU irányelvvel való összhang megteremtése érdekében szükséges volt a kiszolgáltatott helyzetben lévő terheltek tájékoztatására vonatkozó követelményeket a törvényben rögzíteni, valamint a személyes költségmentességhez való jogra és igénybevételének feltételeire vonatkozó rendelkezéseket a Be.-ben is lefektetni. A módosítás hátterében álló másik törekvés a belső jogrend koherenciájának megteremetése és az egységes joggyakorlat biztosítása volt. A Bv. tv. kodifikációs munkálatai során fontos célkitűzés volt, hogy egy tisztán végrehajtási jogi kódex szülessen, sor került ezért a büntető tárgyú jogszabályok felülvizsgálatára és az eddig más törvényekben - így elsősorban a Be.-ben - szereplő, végrehajtási kérdéseket rendező szabályoknak a Bv. tv.-be építésére. Ennek következtében a párhuzamos szabályozást megakadályozandó szükséges a Be. Bv. tv.-be átültetésre kerülő rendelkezéseit hatályon kívül helyezni. A harmonizációt szolgálta továbbá a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvényben (a továbbiakban: Szabs. tv.) foglaltakkal való összehangolás is. E tekintetben az ellentmondást az okozta, hogy a Be. 337. § (1) bekezdése értelmében, ha a bíróság a tárgyalás eredményéhez képest úgy látja, hogy a vád tárgyává tett cselekmény szabálysértés, és ezért a vádlottat felmenti, a szabálysértést elbírálja. Ezzel szemben a Szabs. tv. szerint a katona által a szolgálati viszony tartama alatt a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett szabálysértést - a szabálysértési elzárással is büntethető szabálysértés kivételével - fegyelmi eljárás keretében kell elbírálni, azaz a bíróság ilyenkor nem jogosult eljárni. A módosítás ezt figyelembe véve egyértelműen meghatározza, hogy katonával szemben mikor melyik szerv jogosult eljárni. A joggyakorlat egységesítése érdekében került megalkotásra a Be. azon új rendelkezése, amely egyértelműen kimondja, hogy az összbüntetési eljárás lefolytatásához szükséges hozzájárulását az elítélt visszavonhatja.
+
+A Bnytv. módosítása az időközben bekövetkezett jogszabályi változásokra és rendszerbeli módosításokra tekintettel vált indokolttá. A törvény által bevezetni kívánt változtatások között vannak, amelyek a nemzetközi együttműködést igyekeznek fejleszteni (pl. nemzetközi együttműködés esetén a találati adathozzáférést követő adattovábbítási és adatigénylési lépések egyértelmű rögzítésével, a Nemzetközi Bűnügyi Együttműködési Központ információcserében játszott szerepének tisztázásával, az EU más tagállama kijelölt központi hatóságának történő elektronikus adattovábbítás lehetőségének megteremtésével). Mások a nyilvántartási rendszert próbálják fejleszteni (pl. a kényszerintézkedés hatálya alatt állók nyilvántartásának megszüntetésével, az adatközléssel érintett szervek és adatkörök pontosabb körülhatárolásával, a bűnügyi nyilvántartási rendszer használatára jogosultak nyilvántartásának megteremtésével, a hatósági erkölcsi bizonyítvánnyal kapcsolatos eljárások egyszerűsítésével). Végül vannak olyan módosítások, amelyeket a joganyag belső összecsiszolásának szándéka motivált (személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény, valamint a rendészeti törvény megváltozó szabályaira figyelemmel indokolttá vált korrekciók).
+
+Az Európai Parlament és a Tanács európai védelmi határozatról szóló 2011/99/EU irányelvét a tagállamok 2011 végén fogadták el. Az irányelv átültetési határideje 2015. január 11-én jár le. Ez azt jelenti, hogy annak érdekében, hogy Magyarország a késedelem miatt ne kerüljön automatikusan kötelezettségszegési eljárás alá, eddig a dátumig az átültető jogszabályi rendelkezéseknek hatályba kell lépniük. Az átültetéshez az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény módosítása indokolt.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A kegyelmi eljárással összefüggésben indokolt az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) pontosítása is. Az Itv. módosítása a hatályos szabályozás tartalmán nem változtat, kizárólag a joggyakorlat során tapasztalható eltérő jogértelmezésekre lehetőséget adó, nem kellően precíz megfogalmazások megszüntetését célozza.
+
+Az Itv. 54. § (2) bekezdésének módosítása - az eljárási, végrehajtási és mentesítésre vonatkozó - kegyelmi eljárások illetékének egységességét biztosítja.
+
+A törvény az Itv. 54. § (3) bekezdésének a módosítása révén egyértelművé teszi, hogy a rendelkezés kizárólag a bűnügyi költség és rendbírság elengedésére vagy mérséklésére irányuló méltányossági kérelmekre vonatkozik, míg a kegyelmi kérelemre az Itv. 54. § (2) bekezdése.
+
+A törvény az Itv. 57. § (2) bekezdés c) pontját annak érdekében módosítja, hogy eljárási kegyelem esetén is biztosított legyen az eljárás illetékmentessége. A jogszabályi rendelkezés kiegészül továbbá azzal, hogy a terhelt törvényes képviselője is illetékmentesen terjesztheti elő a kérelmet, mert ennek hiányában a fiatalkorú, illetve a cselekvőképességében korlátozott nagykorú személy jelenleg hátrányosabb helyzetben van, mint a felnőtt korú, cselekvőképes terhelt.
+
+A 2. §-hoz
+
+A terheltek személyi adatai, amelyek a kegyelmi határozat kötelező elemei, a kegyelmi eljárás során változhatnak, illetve esetenként nem megfelelően kerülnek feltüntetésre, ezek ellenőrzése a jogszabályoknak megfelelő határozat kibocsátásához elengedhetetlen. Továbbá szükséges lehet a terhelttel történő közvetlen kapcsolatfelvétel is (például környezettanulmány elkészítése iránti megkeresés esetén), amelyhez a lakóhelyének ismerete szükséges. A fentiekre tekintettel a törvény biztosítja a kegyelmi eljárás, valamint a bűnügyi költség, illetve rendbírság mérséklése, elengedése iránti kérelmek elbírálása során a következő adatokhoz való hozzáférést: természetes személyazonosító adatok és lakcímadatok, értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje.
+
+A 3. §-hoz
+
+A Bv. tv. szerint ha a szabadságvesztés megkezdésére szóló felhívás az elítéltnek azért nem volt kézbesíthető, mert ismeretlen helyre távozott, a BVOP haladéktalanul megkísérli az elítélt tartózkodási helyének a felkutatását. Abban az esetben, ha az elítélt a szabályszerűen kézbesített felhívás ellenére nem jelent meg a bv. intézetnél, akkor pedig a törvény szerinti módosítás értelmében haladéktalanul intézkedik az elítélt elővezetése iránt. A Bv. tv. a közérdekű munka és a pártfogó felügyelet végrehajtása körében is lehetővé teszi a pártfogó felügyelői szolgálatnak, hogy az elítélt lakó- és tartózkodási helyének megállapítása iránt intézkedjék. Ahhoz, hogy e feladatait a BVOP, illetve a pártfogó felügyelői szolgálat hatékonyan el tudja látni, biztosítani kell az adatigénylési jogosultságát a személyiadat- és lakcímnyilvántartásból. A törvény ezt a jogosultságot teremti meg.
+
+A 4. és 25. §-hoz
+
+A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 9. § (1) bekezdése szerint a törvény hatálya kiterjed minden szervezett munkavégzésre. Az Mvt. 87. § 9. pontja pedig kimondja, hogy szervezett munkavégzésnek minősül az előzetesen letartóztatottak és az elítélek munkáltatása is.
+
+A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény (a továbbiakban: Met.) 1. § (3) bekezdése szerint foglalkoztatásra irányuló jogviszonynak minősül minden olyan jogviszony, amelyben a szolgáltatás tárgya a foglalkoztató részére ellenérték fejében végzett munka.
+
+Fentiek alapján mind a Met., mind pedig az Mvt. alkalmazandó a büntetés-végrehajtási intézetekben fogvatartottak foglalkoztatására.
+
+Megvizsgálva e két törvény (Mvt., Met.) felhatalmazó rendelkezéseit, megállapítható, hogy az csupán a rendvédelmi, így a büntetés-végrehajtási szervezet vonatkozásában ad felhatalmazást az eltérő szabályok megalkotására, továbbá a hatósági jogkörök gyakorlójának kijelölésére, ez azonban a fogvatartottakra nem vonatkozik.
+
+Tekintettel arra, hogy a fent kifejtettek szerint e két törvény alkalmazandó a fogvatartottakra is, indokolt a szervezetre vonatkozó szabályozáshoz hasonlóan e törvényekben rendezni a felhatalmazó rendelkezéseket, és ezzel párhuzamosan a Bv. tv. módosításából elhagyandó az erre vonatkozó felhatalmazó rendelkezés.
+
+Az 5. §-hoz
+
+A Bv. tv. rendelkezik a büntetés-végrehajtási őrizet jogintézményéről. A büntetés-végrehajtási őrizet céljából a rendőrség által történő elfogásnak és előállításnak a törvényi alapját ugyanakkor meg kell teremteni az a Rendőrségről szóló 1994. évi XXXIV. törvényben (a továbbiakban: Rtv.) is. Ennek megfelelően szükséges az Rtv. módosítása.
+
+A 6. §-hoz
+
+A Bv. tv. a büntetések végrehajtásán túl szabályozza az őrizet és az előzetes letartóztatás egyes végrehajtási kérdéseit is. A közbiztonsági őrizetre azonban a törvény hatálya nem terjed ki, ugyanakkor ezen őrizet vonatkozásában is szükséges megteremteni végrehajtásának garanciális, törvényi szintű szabályait.
+
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 25. § (2) bekezdésében foglaltakkal, - amely szerint a belügyminiszter megszervezi és irányítja a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységet - a pártfogó felügyelői szolgálat szervezeti átalakítására kerül sor. Az egyes törvényeknek a belügyminiszter feladat- és hatáskörével összefüggő módosításáról szóló 2014. évi XXX. törvény módosított több, a pártfogó felügyelői szakterületet érintő jogi szabályozást, így a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendeletet, a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvényt és a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvényt. A feltételes szabadságra bocsátással összefüggésben elrendelt pártfogó felügyelői vélemény elkészítése, a feltételes szabadság tartamára törvény alapján fennálló vagy elrendelt pártfogó felügyelet végrehajtása, az utógondozás keretében végzett börtönpártfogolási tevékenység és a szabadságvesztésből szabadultak utógondozásának ellátása 2014. augusztus 9-től a büntetés-végrehajtási szervezet irányítása és felügyelete alá került. Ezért szükséges vagylagos meghatározással megjeleníteni a pártfogó felügyelőt és a büntetés-végrehajtási pártfogó felügyelőt az értesítendő személyek körében.
+
+A reintegrációs őrizet végrehajtásában közreműködő rendőr az elektronikus távfelügyeleti eszköz telepítése, ellenőrzése, karbantartása és eltávolítása végett magánlakásba beléphet.
+
+A 7. §-hoz
+
+A rendőrség által fogvatartott személyekkel összefüggésben indokolt megteremteni a jogi alapját annak, hogy a rendőrség bűnmegelőzési, valamint az őrzésbiztonsági feltételek ellenőrzése céljából az előállító egység, illetve rendőrségi fogda területén képfelvevőt helyezhessen el. Az (5c) bekezdésben a szabályozás lényegében az őrzött szállásokra irányadó rendelkezéssel [Rtv. 42. § (5a) bek.] azonos módon rögzíti a felvétel készítésére vonatkozó felhatalmazást, annak érdekében, hogy az előállító egységnek és a rendőrségi fogdának kizárólag azon helyiségeiben legyen elhelyezhető felvétel készítésére is alkalmas megfigyelési eszköz, ahol ez a normaszövegben kifejezetten meghatározott célok elérése érdekében szükséges, és a fogvatartottak érintett alapvető jogainak az arányossági követelmény keretein belüli korlátozásával jár.
+
+A Bv. tv. 150. § (3) bekezdése az elítélt tekintetében lehetővé teszi megfigyelési eszköz zárkában történő alkalmazását, abban az esetben, ha az elítélt korábban öngyilkosságot kísérelt meg vagy a saját testi épsége elleni önkárosító cselekményt követett el. E körülmények fennállása esetére, éppen a fogvatartott életének, testi épségének megóvása érdekében, az előállító helyiség és a fogdai zárka vonatkozásában is szükséges a felhatalmazás biztosítása. Tekintettel azonban arra, hogy a rendőrség hatáskörébe tartozó fogvatartások vonatkozásában a fogvatartottal kapcsolatban ilyen cselekmények elkövetéséről a hatóságnak túlnyomórészt nem lehet tudomása, a fogvatartott pedig - az elítélttel szemben - sok esetben első alkalommal kerül a legsúlyosabb jogkorlátozással - és ebből fakadó jelentős traumával - járó élethelyzetbe, indokolt a felhatalmazást kiterjeszteni azokra az esetekre is, amikor a hatóság számára a körülményekre figyelemmel nyilvánvaló az önkárósító cselekmény elkövetése kockázatának fennállása. Tekintettel a megfigyelés céljára, a felhatalmazás - a szükségesség és arányosság elvének alapulvételével - csupán kép vagy kép és hang továbbítására alkalmas eszköz telepítésére vonatkozna, rögzítésre tehát nem.
+
+A 8. §-hoz
+
+Szövegpontosítást tartalmaz e rendelkezés, figyelemmel a rendőrségi fogdán történő képrögzítés lehetőségére.
+
+A 9. §-hoz
+
+Az Rtv. 91/K. § (1) bekezdés c) pontja jelenleg nem a megfelelő bűnügyi nyilvántartást jelöli meg. A határforgalom ellenőrzése során a külföldre utazási korlátozás hatálya alatt állók nyilvántartásával történő összevetés bír relevanciával és nem a kényszerintézkedés hatálya alatt állók nyilvántartásában található adatok ellenőrzése. A külföldre utazási korlátozás hatálya alatt állók résznyilvántartása ugyanis 2013. január 1-jétől teljes körűen tartalmazza mindazon személyek adatait, akik külföldre utazási korlátozás hatálya alatt állnak, megjegyzendő továbbá, hogy ez a kényszerintézkedés hatálya alatt állók körénél szélesebb kört fed le. A módosítás megteremti az összhangot a külföldre utazási korlátozás hatálya alatt állók résznyilvántartása és az Rtv. hivatkozott rendelkezése között.
+
+A 10-11. §-hoz
+
+A Bv. tv. 434. § (4) bekezdése arra ad felhatalmazást a rendészetért felelős miniszternek, hogy az őrizet és az előzetes letartóztatás rendőrségi fogdában való végrehajtásának részletes szabályait szabályozza, ugyanakkor a büntetés-végrehajtási őrizetbe vett személy, az elítélt és a javítóintézeti fogvatartott rendőrségi fogdán történő elhelyezésének részletes szabályozására vonatkozóan nincs felhatalmazása. Ellenben a rendőrségi fogdák rendjével kapcsolatos, végrehajtási jellegű kérdések rendeleti szinten történő egységes szabályozásához szükséges, hogy a rendeletalkotásra irányuló törvényi felhatalmazás valamennyi, a rendőrségi fogdán végrehajtásra kerülő fogvatartásra kiterjedjen. E felhatalmazást célszerű egyetlen jogszabályi rendelkezésben megteremteni, biztosítva ezzel az átláthatóságot. Ennek megfelelően a Bv. tv. helyett az Rtv.-ben szükséges megjeleníteni a rendőrségi fogdán történő végrehajtás részletszabályainak megalkotására vonatkozó felhatalmazást, amelyet célszerű egy miniszternek - a rendészetért felelős miniszternek - címezni, figyelembe véve az egyes, szakterületükben érintett miniszterek egyetértésének és a legfőbb ügyész véleménye kikérésének szükségességét is.
+
+A 12. §-hoz
+
+Az intézkedések megtétele során az egyik garanciális feltétel, hogy az intézkedő kétséget kizáróan és azonosíthatóan igazolni tudja magát. Mivel minden hivatásos személy rendelkezik azonosító számmal, az egyenruha mellett indokolt ezen azonosítót az igazolásra alkalmas feltételnek elfogadni. Életszerűtlen, hogy a személyi állomány egyenruhát viselő tagja az intézkedése során a fogvatartott részére az igazolványát felmutassa.
+
+A 13. §-hoz
+
+A kényszerítő eszközök alkalmazása során az egyik legfontosabb garancia az arányosság és a szükségesség elvének betartása. Sok esetben előfordul ugyanakkor, hogy egy-egy alkalmazási ok megalapozza a legenyhébb és a legsúlyosabb eszköz alkalmazását is. Ilyen esetekben kiemelten fontos annak figyelembevétele, hogy csak az az eszköz és csak olyan mértékben kerüljön alkalmazásra, amely az eredményességhez minimálisan szükséges.
+
+A 14. §-hoz
+
+A kényszerítő eszközök alkalmazásával kapcsolatos rendelkezéseket indokolt törvényben megjeleníteni. A törvény nem csak a fogvatartottakkal szemben biztosítja a kényszerítő eszköz alkalmazásának jogát, hanem más személyekkel szemben is, akik a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény (a továbbiakban: Bv. Sztv.) 17. § (2) bekezdése szerinti magatartásokat fejtik ki.
+
+A 15. §-hoz
+
+A jelentési szabályok egy része jelenleg rendeleti szinten szabályozott, indokolt egységesíteni és a Bv. Sztv.-ben megjeleníteni.
+
+A 16. §-hoz
+
+A jelenleg rendeleti szintű szabályt az egységesítés érdekében indokolt a törvénybe beemelni.
+
+A 17. §-hoz
+
+Szakmailag indokolt, hogy a bilincselés módjai törvényben kerüljenek szabályozásra. Továbbá az is, hogy olyan helyzetekben, amikor az intézkedés alá vont személy magatartása indokolja - az intézkedés eredményességének biztosítása érdekében - olyan testhelyzetben legyen jogosult a személyi állomány tagja intézkedni, amely nagyobb biztonságot teremt számára, de mégsem aránytalan.
+
+A 18. §-hoz
+
+A traumatikus és irritáló lőszerek speciális jellemzőire tekintettel az azokra vonatkozó rendelkezéseket célszerűbb a lőfegyverhasználatra vonatkozó szabályok helyett a kényszerítő eszközök között külön szakaszban szerepeltetni.
+
+A 19. §-hoz
+
+A nem megfelelően kiképzett szolgálati kutya alkalmazása jelentősen veszélyezteti mind az intézkedő, mind az intézkedés alá vont személy életét, testi épségét. Ezért indokolt ennek a garanciális szabálynak a beépítése.
+
+A 20. §-hoz
+
+A lőfegyverhasználat a legsúlyosabb kényszerítő eszköz, amelynek szabályos alkalmazása is magában foglalja az élet kioltásának reális veszélyét. Ezért meg kell tenni mindet annak érdekében, hogy bizonyos esetekben az eredményesség mellett csökkentsük az élet veszélyeztetését. A felsorolt speciális lőszerek és eszközök rendszerbe állításával ezen célnak tenne leget a törvény. Ugyanakkor nem indokolt az ilyen jellegű eszközök tételes felsorolása, mivel azokból folyamatosan új típusú eszközök jelennek meg az egyes gyártók fejlesztési tevékenységének köszönhetően. Előbbiek miatt elegendő az egyes eszköztípusok funkció szerinti meghatározása, amely lehetőséget teremt a büntetés-végrehajtási szervezet számára, hogy a jogszabályban meghatározott kritériumoknak megfelelő legkorszerűbb eszközöket tudja folyamatosan rendszerbe állítani.
+
+A büntetés-végrehajtási intézet biztonsága szempontjából annak különös jelentősége van, hogy hová lehet lőfegyver bevinni és hová nem, aminek az oka az, hogy fogvatartott ilyen eszközhöz ne tudjon hozzájutni. Ezért fontos azt kimondani, hogy oda, ahol fogvatartott tartózkodhat, lőfegyvert tilos bevinni. Ugyanakkor vannak olyan helyzetek, amikor a jogszabály ad felhatalmazást - pl. terrorcselekmény felszámolása - lőfegyver használatára. Ezért ezen esetekben a tilalmat fel kell oldani, de garanciaként jelenik meg, hogy az erre irányuló utasítást csak az intézet parancsnoka adhatja ki.
+
+A 21. §-hoz
+
+A Bv. Sztv. 14. § (2) bekezdése szerint a bv. szerv területére belépni szándékozó személyt a személyazonosságának és a belépés indokának a megállapítása céljából igazoltatni kell. E rendelkezéshez kapcsolódik az, hogy a büntetés-végrehajtási szervezet a fogvatartottak kapcsolattartóinak adatait a végrehajtás rendjének és biztonságának megőrzése, valamint a látogatás alkalmából történő személyazonosság megállapítása érdekében tarthatja nyilván. Ezen kívül a büntetés-végrehajtási szervezet a kapcsolattartók adatait a fogvatartott más személyekkel fenntartott kapcsolattartási jogának érdekében is kezeli; a kapcsolattartás formái a látogatáson kívül kiterjednek a levelezés, a csomagküldés, és a telefonálás lehetőségére is.
+
+A büntetés-végrehajtási szervezet tagja intézkedése során a látogatás biztosítása érdekében ellenőrizheti közvetlenül a hivatalos kapcsolattartást igazoló okmány számát, vagy a nem hivatalos kapcsolattartók személyi azonosító adatait, azonban az adatok előzetes rögzítése és nyilvántartása szükséges ahhoz, hogy a fogvatartott kapcsolattartói természetes személyként - a joggal való visszaélés megelőzése, a végrehajtás rendjének és biztonságának védelme érdekében - beazonosíthatóak legyenek. Az, hogy a büntetés-végrehajtási szervezet a hivatalos kapcsolattartást megalapozó okirat megnevezésére és nyilvántartási számáról (pl. eljáró hatóság, vagy ügyvédi igazolvány, megnevezés és sorszáma, hivatásos gondnok nyilvántartási száma) tudomással rendelkezzen, mind a bv. intézet működése, mind pedig a fogvatartott jogainak érvényesítése érdekében garanciális jelentőségű. A végrehajtás során szerzett tapasztalatok szerint ugyanakkor a fogvatartottak nem hivatalos személy kapcsolattartói körében előfordulhat olyan névazonosság, amelyből kifolyólag az egyes természetes személyek között - születési adatok ismerete nélkül - nem lehet különbséget tenni, amely adott esetben a végrehajtás rendjét és biztonságát is veszélyeztetheti. Az életkor rögzítése annak megállapítása érdekében is szükséges, hogy a kapcsolattartói nyilatkozat érvényességéhez szükséges-e törvényes képviselő hozzájárulása.
+
+Az adatvédelmi rendelkezésekből következik, hogy a hivatalos minőségben eljáró személyek esetében is szükséges a hozzájárulás, mivel számos esetben nem egy személlyel, hanem egy hatósággal áll kapcsolatban a fogvatartott. Utóbbi esetben a hatóságnál köztisztviselőként vagy más jogviszonyban eljáró személytől nem várható el, hogy személy szerint kapcsolattartóként szerepeljen a büntetés-végrehajtás nyilvántartásában. Hivatalos személyként történő kapcsolattartás jellemezően a bizalmon alapuló jogviszonyok, vagy a kizárólag személyesen ellátandó feladatkör esetén lehet indokolt (pl. ügyvéd, hivatásos gondnok).
+
+A 22-23. §-hoz
+
+A  § célja, hogy megteremtse az összhangot a Bv. tv. 13. §-ával.
+
+A Bv. tv. egyik legfontosabb újítása, hogy a szabadságvesztés végrehajtása körében bevezeti a Kockázatelemzési és Kezelési Rendszert (a továbbiakban: KKR). E rendszer segítségével differenciáltabb kép nyerhető a fogvatartottakról, amely lehetővé teszi a felmért kockázatokhoz és szükségletekhez leginkább igazodó preventív célú beavatkozás kiválasztását és alkalmazását, illetve a bűnelkövetők ilyen szempontú osztályozását. A KKR működtetése, a diagnosztikai és kezelési feladatok ellátása érdekében kerül sor a Központi Kivizsgáló és Módszertani Intézet (a továbbiakban: KKMI) létrehozására. Ez végzi majd a kockázatelemző, valamint egyéb reintegrációs programokat és döntéseket elősegítő vizsgálatokat. Szükséges a KKMI-nek, mint új intézménynek a büntetés-végrehajtási rendszerbe illesztése, illetve a felépítése és működése részletszabályainak kidolgozása. Ennek alapjait teremti meg a büntetés-végrehajtás szervezetéről szóló törvénybe beiktatásra kerülő új felhatalmazó rendelkezés.
+
+A 24. §-hoz
+
+Szövegpontosításokat és hatályon kívül helyező rendelkezéseket tartalmaz.
+
+A Bv. Sztv. nem sorolja fel együttműködő félként a Bv. tv. 5. § (3) bekezdésében nevesített oktatási intézményeket, ezeket pótolni indokolt.
+
+A kényszerítő eszköz alkalmazása a személyi állomány minden hivatásos állományú tagjának joga és kötelezettsége, így a bv. intézet parancsnoka nem csak utasítást adhat az alkalmazásra, de adott esetben alkalmazhatja is az eszközt.
+
+A személyi szabadság korlátozása esetén a lőfegyverhasználat aránytalannak tűnik, ezért indokolt annak elhagyása.
+
+A 25. §-hoz
+
+Lásd a 4. § indokolását.
+
+A 26. §-hoz
+
+Az ügyvédekről szóló 1998. évi XI. törvény (a továbbiakban: Üt.) érintett rendelkezéseibe a bűnügyi nyilvántartási rendszer átalakításával összefüggő törvénymódosításokról szóló 2009. évi CXLIX. törvénnyel került be az Üt. 13. § (4) bekezdés b) és c) pontjára vonatkozó hivatkozás. A módosításkor ugyanakkor figyelmen kívül maradt, hogy az Üt. 13. § (3) bekezdés g) pontja már eleve alkalmazni rendeli az Üt. 13. § (4) bekezdésének az egészét. Emiatt a felesleges hivatkozás deregulációja kodifikációs szempontból indokolt.
+
+A 27. és a 30-32. §-hoz
+
+Az Európa Tanács az áldozatok jogainak és védelmének különösen a büntetőeljárások során való megerősítésére vonatkozó ütemtervről szóló, 2011. június 10-i állásfoglalásában (Budapest Ütemterv) kijelentette, hogy uniós szinten kell fellépni a bűncselekmények áldozatai jogainak megerősítése, valamint fokozott támogatásuk és védelmük érdekében. Ebből a célból fogadták el a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvet, amelynek célja, hogy felülvizsgálja és kiegészítse a 2001/220/IB kerethatározatban lefektetett elveket, valamint hogy az Unió egészében jelentős előrelépést tegyen az áldozatoknak - különösen a büntetőeljárások keretében - biztosított védelem szintje tekintetében.
+
+A törvény ezekhez a nemzetközi követelményekhez igazodóan módosítja a Be., illetve a Bv. tv. rendelkezéseit.
+
+Ennek megfelelően a Be.-ben rögzíti az élet, a testi épség és az egészség elleni szándékos, ötévi vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmények sértettjeinek ilyen irányú tájékoztatáshoz való jogát, továbbá nem csak az elítéltek, hanem az előzetesen letartóztatottak szabadulása vagy szökése esetén is biztosítani kívánja a sértett számára az értesítés kérésének lehetőségét.
+
+A sértett számára ez a jogosultság az irányelvnek megfelelően akkor biztosított, ha a sértett a kérelem előterjesztésének lehetőségéről tudomással bír, azaz a sértettet a büntetőeljárásban eljáró hatóságoknak erről tájékoztatniuk kell. Célszerű, hogy az a hatóság tájékoztassa a sértettet, amelyik a kényszerintézkedést elrendeli vagy a szabadságvesztés büntetést kiszabja. Ezt követve a bíróság (nyomozási bíró) számára írja elő a törvény a sértett tájékoztatásának kötelezettségét.
+
+A 28-29. és a 38. §-hoz, valamint a 40. § a) és b) pontjához
+
+A 2012/13/EU irányelv célkitűzése, hogy a terheltek a büntetőeljárás során alapvető eljárási jogaikról megfelelő tájékoztatást kapjanak, ezt a fogvatartott terheltek esetében írásbeli ún. tájékoztató levél formájában. Az irányelv átültetési határideje 2014. június 2-án járt le.
+
+A 2012/13/EU irányelv 3. cikk (2) bekezdése alapján a tájékoztatást a kiszolgáltatott helyzetben lévő terheltek - akik koruk, szellemi vagy fizikai állapotuk, illetve fogyatékosságuk miatt nem képesek megérteni a büntetőeljárást - speciális igényeire figyelemmel kell megtenni. Ennek érdekében a Be. 62. §-ában szereplő általános tájékoztatási kötelezettséget megállapító rendelkezésen túl egyértelműen utalni szükséges a kiszolgáltatott helyzetben lévő terheltek számára adandó figyelmeztetés jellegére, amely az új 62/A. §-ban történik meg. Tekintettel arra, hogy egy általános szabály keretében valósul meg a kiszolgáltatott személyeknek adandó tájékoztatási kötelezettség szabályozása, a fiatalkorúakra vonatkozó, Be.-ben szereplő hasonló rendelkezések hatályon kívül helyezése indokolt.
+
+A 2012/13/EU irányelv 3. cikke öt olyan alapvető jogot határoz meg, amelyekről a terheltek számára akár szóban, akár írásban, egyszerűen, közérthető módon tájékoztatást kell nyújtani. Az irányelv alapján a tájékoztatásnak ki kell terjednie az ügyvéd igénybevételének jogára, a térítésmentes jogi tanácsadáshoz való jogra és annak feltételeire, a vádra vonatkozó tájékoztatáshoz való jogra, a tolmácsoláshoz és fordításhoz való jogra és a hallgatáshoz való jogra.
+
+A Be. rendelkezései alapvetően megfelelnek a 2012/13/EU irányelvnek. A Be. 62. §-ában szereplő általános rendelkezés szerint a bíróság, az ügyész és a nyomozó hatóság az eljárási cselekmény elvégzése előtt a cselekménnyel érintett személyt a jogairól tájékoztatja, és a kötelezettségeire figyelmezteti. Az irányelvben meghatározott öt alapvető jog közül a Be.-ben már most is szerepel a konkrét, a hatóságokat aktív tevékenységre kötelező figyelmeztetési kötelezettség, mégpedig a védelemhez való jog, a gyanúsítással és a váddal kapcsolatos tájékoztatáshoz való jog, illetve a vallomástétel megtagadásához való jog esetében. A tolmácsoláshoz és a fordításhoz való jog esetében a Be. egy magasabb szintű garanciát biztosít, tekintettel arra, hogy a tolmács kirendelése automatikusan, kötelezően történik, ha a terhelt az anyanyelvét vagy a Be.-ben meghatározott egyéb nyelvet szeretne használni, illetve a kézbesítendő iratok lefordítása is kötelező az ilyen terhelt számára, kivéve ha arról lemond. Egy esetben szükséges tehát a további, konkrét tájékoztatási kötelezettséget kimondani a Be.-ben, ez pedig a személyes költségmentességhez való jogra és igénybevételének feltételeire vonatkozó figyelmeztetést érinti. A módosítás arra irányul, hogy egyértelmű kötelezettséget állapítson meg az eljáró hatóság számára az e jogra való figyelmeztetéssel összefüggésben.
+
+A 33. §-hoz
+
+A Be. 337. § (1) bekezdése értelmében, ha a bíróság a tárgyalás eredményéhez képest úgy látja, hogy a vád tárgyává tett cselekmény szabálysértés, és ezért a vádlottat felmenti, a szabálysértést elbírálja. A Szabs. tv. 28. § (2) bekezdése azonban a következő rendelkezéseket tartalmazza: A katona által a szolgálati viszony tartama alatt a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett szabálysértést - a szabálysértési elzárással is büntethető szabálysértés kivételével - fegyelmi eljárás keretében kell elbírálni. Ha a katona szolgálati viszonya a fegyelmi eljárás befejezése előtt megszűnt, a szabálysértést a szabálysértési hatóság, illetve a bíróság bírálja el. A Szabs. tv. 28. § (3) bekezdése pedig a következőképpen rendelkezik: Katonával szemben elkobzást, valamint járművezetéstől eltiltást bíróság, illetve szabálysértési hatóság szabhat ki. Ha a fegyelmi jogkör gyakorlója elkobzás vagy járművezetéstől eltiltás szükségességét észleli, értesíti az eljárása eredményéről a szabálysértési hatóságot.
+
+A katona által a szolgálati viszony tartama alatt a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett szabálysértést tehát a bíróság nem bírálhatja el, az ügyet fegyelmi eljárásra kell utalni, mivel a bíróság nem jogosult katonával szemben fegyelmi eljárás lefolytatásra. Arra az esetre, ha a katona szolgálati viszonya az iratoknak a fegyelmi jogkör gyakorlója részére történt megküldése előtt megszűnt, a módosítás a Be. 337. § (1) bekezdésével összhangban úgy rendelkezik, hogy a szabálysértést a bíróság bírálja el.
+
+A Be. 337. § (2) bekezdése szerint, ha a bíróság a szabálysértést elbírálja, elkobzást rendelhet el, és a polgári jogi igényt érdemben elbírálhatja. Erre figyelemmel, ha a bíróság megállapítja, hogy a katonának bűncselekményként vád tárgyává tett cselekménye csupán szabálysértés és emiatt az ügy iratait fegyelmi eljárásra a fegyelmi jogkör gyakorlójának küldi meg, egyidejűleg határozhat a szabálysértéssel kapcsolatos elkobzásról, és a polgári jogi igényről.
+
+A módosítás tehát megteremti az összhangot a Szabs. tv. 28. §-ával.
+
+A 34. §-hoz
+
+A Be. nem rendelkezik arról, hogy összbüntetési eljárás lefolytatásához szükséges hozzájárulását az elítélt visszavonhatja-e. E rendelkezés hiánya miatt eltérő bírói gyakorlat alakult ki. A gyakorlat egységesítése érdekében a törvény a Be. 574. § (4) bekezdésének kiegészítésével az elítélt számára lehetővé teszi, hogy mind az összbüntetési eljárás lefolytatására vonatkozó indítványát, mind az ilyen eljárás lefolytatásához szükséges hozzájárulását az első fokú ítélet meghozataláig visszavonja, ami értelemszerűen az eljárás megszüntetését vonja maga után.
+
+A 35. §-hoz
+
+A Bv. tv. kodifikációs munkálatai során fontos célkitűzés volt, hogy egy tisztán végrehajtási jogi kódex szülessen. Sor került ezért a büntető tárgyú jogszabályok felülvizsgálatára és az eddig más törvényekben (így elsősorban Be.-ben) szereplő, végrehajtási kérdéseket rendező szabályoknak a Bv. tv.-be építésére. A törvény a párhuzamos szabályozás elkerülése érdekében módosítja a Be. 590. § (1) bekezdését.
+
+A 36. §-hoz
+
+A törvény biztosítja a legfőbb ügyész és az igazságügyért felelős miniszter közvetlen - nem a felterjesztő ügyészen vagy bíróságon keresztül történő - megkeresési jogát az eljárás egyszerűsítése és a rövidebb ügyintézési idő elősegítése érdekében. A kegyelmi eljárás során ugyanis a kegyelmi kérelem megalapozott felterjesztéséhez számos adat, irat ismerete szükséges, amelyek beszerzése az ügyész vagy a bíróság feladata. A felterjesztett iratokon túlmenően azonban - az ügy egyedi sajátosságaira tekintettel - a döntés-előkészítés során szükségessé válhat további iratok, adatok (például polgári kórházban kezelt terhelt egészségügyi állapotára vonatkozó orvosi iratok) beszerzése is. A törvény rendelkezései alapján az adatok egyrészt bizonyos nyilvántartásokból, másrészt a Be. szerinti megkeresés alapján szerezhetők be.
+
+A 37. §-hoz
+
+A törvény a kegyelmi eljárás egyszerűsítése, a rövidebb ügyintézési idő elősegítése és a megalapozott döntés-előkészítés érdekében a legfőbb ügyész és az igazságügyért felelős miniszter számára biztosítja a kegyelmi eljárás során meghatározott nyilvántartásokhoz, így a bűnügyi nyilvántartási rendszerhez, a szabálysértési nyilvántartási rendszerhez, a polgárok személyi adatainak és lakcímének nyilvántartásához, a közúti közlekedési nyilvántartáshoz és a központi idegenrendészeti nyilvántartáshoz való hozzáférést. Az egyes nyilvántartásokat szabályozó törvények határozzák meg részletesen az adathozzáférési jog tartalmát, az igényelhető adatok pontos körét.
+
+A jelenleg hatályos szabályozás alapján az igazságügyért felelős miniszter csak a bűnügyi nyilvántartásokhoz fér hozzá. Figyelemmel azonban arra, hogy a terheltek személyi adatai, amelyek a kegyelmi határozat kötelező elemei, a kegyelmi eljárás során változhatnak, illetve esetenként nem megfelelően kerülnek feltüntetésre, ezek ellenőrzése a jogszabályoknak megfelelő határozat kibocsátásához elengedhetetlen. Továbbá szükséges lehet a terhelttel történő közvetlen kapcsolatfelvétel is, amelyhez a lakóhelyének ismerete szükséges.
+
+A közúti közlekedési nyilvántartási rendszerből indokolt a vezetői engedélyek nyilvántartásához való hozzáférés biztosítása, mivel a nyilvántartásból állapítható meg egyértelműen a járművezetéstől eltiltás kezdő időpontja és letelte. A terhelt szabálysértési előéletének ellenőrzése szintén szükséges a megalapozott döntés-előkészítés érdekében. A központi idegenrendészeti nyilvántartáshoz való hozzáférés a kiutasítás végrehajtásával kapcsolatos intézkedések megismerése miatt szükséges.
+
+A 38. §-hoz
+
+Lásd a 28. § indokolását.
+
+A 39-40. §-hoz
+
+A Bv. tv. kodifikációs munkálatai során fontos célkitűzés volt, hogy egy tisztán végrehajtási jogi kódex szülessen. Sor került ezért a büntető tárgyú jogszabályok felülvizsgálatára és az eddig más törvényekben (így elsősorban Be.-ben) szereplő, végrehajtási kérdéseket rendező szabályoknak a Bv. tv.-be építésére. Ennek következtében a párhuzamos szabályozást elkerülendő szükséges az egyéb jogszabályok Bv. tv.-be átültetésre kerülő rendelkezéseit hatályon kívül helyezni.
+
+A 41. §-hoz
+
+A járművezetéstől eltiltás elengedésére vagy mérséklésére irányuló kegyelmi kérelem esetén a vezetési jogosultság és az eltiltás adatai a legpontosabban az engedély-nyilvántartásból ellenőrizhetők. A törvény ennek érdekében biztosítja a kegyelmi eljárás során a következő adatokhoz való hozzáférést: a járművezető természetes személyazonosító adata, lakcíme, az engedély típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatok, az engedély hivatalos feljegyzések rovatába bejegyzett adatok, valamint a vezetési jogosultság megszerzésének időpontjára és a megszerzett kategóriára vonatkozó adatok.
+
+A 42., a 73-75., és a 91. §-hoz
+
+A szakaszok technikai jellegű pontosításokat tartalmaznak a Bv. tv. fogalomhasználatával való összhang megfeleltetése érdekében.
+
+A 43. §-hoz
+
+A kiutasítás végrehajtásával kapcsolatos intézkedések megismerése érdekében a törvény biztosítja az igazságügyért felelős miniszter számára a kegyelmi eljárás során a következő nyilvántartásokhoz való hozzáférést: a kiutasított vagy beutazási és tartózkodási tilalom hatálya alatt álló EGT-állampolgárok és családtagok nyilvántartása, valamint a személyes szabadságukban korlátozott EGT-állampolgárok és családtagok nyilvántartása.
+
+A 44. §-hoz
+
+A kiutasítás végrehajtásával kapcsolatos intézkedések megismerése érdekében a törvény biztosítja az igazságügyért felelős miniszter számára a kegyelmi eljárás során a következő adatokhoz való hozzáférést: a Magyarország területének elhagyására kötelezett, a kijelölt helyen tartózkodásra kötelezett, az idegenrendészeti kiutasítás, bírói kiutasítás, a beutazási és tartózkodási tilalom, valamint idegenrendészeti őrizet hatálya alatt álló harmadik országbeli állampolgár természetes személyazonosító adatai, az elrendelő szerv megnevezése, az elrendelő határozat száma; az intézkedés, kötelezés elrendelő határozat szerinti jogalapja, határideje vagy időtartama; valamint a Magyarországon őrizetbe vett, előzetesen letartóztatott vagy személyi szabadságában bármely más módon korlátozott, továbbá a rendkívüli eseményekben (haláleset, súlyos sérüléssel járó baleset stb.) érintett harmadik országbeli állampolgár természetes személyazonosító adatai, a szálláshely címe, lakcíme; a büntetőeljárás adatai (a bűncselekmény törvényi minősítése és megnevezése), az eljáró szerv megnevezése és ügyszáma; a rendkívüli esemény adatai, az eljáró szerv megnevezése és ügyszáma.
+
+A 45. §-hoz
+
+A módosításra a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 106. § (1b) bekezdéssel történő kiegészítése miatt van szükség.
+
+A 46. §-hoz
+
+Ha a tagállamok a részükre megküldött elítélések adatai alapján megállapítják, hogy az érintett személy személyazonosító adatai (a saját nyilvántartásában kezelt adatok alapján) nem helyesek, a pontos személyazonosító adatokat megküldik az elítélést továbbító tagállam részére. Az így megküldött adatokat a magyar bűnügyi nyilvántartó szerv átvezeti a tagállami nyilvántartásában. A külföldi tagállam állampolgárai nem minden esetben tartoznak a személyiadat- és lakcímnyilvántartás hatálya alá. Esetükben adataikat a magyar bűnügyi nyilvántartó szerv kizárólag a magyar bíróságok mint adatközlő szervek által közölt adatok alapján tartotta nyilván.
+
+A 47. §-hoz
+
+A Bnytv. 6. §-át érintő módosítás egyértelművé teszi, hogy a büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) által a befogadáskor rögzített arcképmást az azt végrehajtó bv. intézetnek kell megküldenie a bűnügyi nyilvántartó szerv részére.
+
+A 48., 54-55., a 72. § 3., 5., 12. és 16. pontjához és a 73. § 1., 3-4.és 6. pontjához
+
+Bár a bűnügyi nyilvántartások egymással össze nem kapcsolhatóak, a kényszerintézkedés hatálya alatt állók nyilvántartása és a büntetőeljárás hatálya alatt álló személyek nyilvántartása nem választható el teljesen egymástól, hiszen akiknek az adatai a kényszerintézkedés hatálya alatt állók nyilvántartásában megtalálhatók, annak az adatai a büntetőeljárás hatálya alatt álló személyek nyilvántartásában is megtalálhatók, hiszen kényszerintézkedés nem alkalmazható azzal szemben, aki nem áll büntetőeljárás hatálya alatt.
+
+Ebből következően nem szükséges fenntartani a bűnügyi nyilvántartásnak a kényszerintézkedés hatálya alatt állók nyilvántartását elkülönült nyilvántartásként.
+
+A 49. és az 52. §-hoz, valamint a 72. § 2. pontjához
+
+A módosítás egyértelművé teszi, hogy mely adatköröket kell a bv. intézetnek a bűnügyi nyilvántartó felé közölnie.
+
+Az 50. és 53. §-hoz
+
+A módosítás egyértelművé teszi, hogy mely adatköröket kell a bíróságnak a bűnügyi nyilvántartó felé közölnie.
+
+Az 51. §-hoz, a 72. § 18. pontjához, és a 73. § 2. pontjához
+
+A módosítás egyértelművé teszi, hogy amikor a bíróság a bűnösség megállapítása mellett a büntetés kiszabását mellőzi és elkobzást, vagyonelkobzást vagy elektronikus adat végleges hozzáférhetetlenné tételét alkalmaz, akkor az ezen intézkedésekre vonatkozó adatokat is közölnie kell a bűnügyi nyilvántartó szervvel.
+
+Ezzel egyidejűleg elvégzi az ehhez kapcsolódó hivatkozások pontosítását.
+
+Az 56. és a 72. § 4. pontjához
+
+A Bnytv. 30/C. § újonnan megállapított pontjai egyértelműen rögzítik, hogy a külföldre utazási korlátozás hatálya alatt állók nyilvántartása milyen adatokat tartalmazzon. Ezek az adatok elsősorban az elrendelt kényszerintézkedés, korlátozás tényére, időtartamára, meghosszabbítására, esetleges megszűnésére vagy megszüntetésére vonatkoznak és a segítségükkel pontosan nyilvántartható, hogy e kényszerintézkedések, korlátozások meddig tarthatnak. Ilyen módon biztosítható az, hogy a külföldre utazási korlátozás hatálya alatt állókra vonatkozó adatok mindenképpen szerepeljenek a nyilvántartásban, de csak addig, amíg e korlátozások tartanak.
+
+Az 57. és a 72. § 6. és 7. pontjához
+
+A módosítás a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az átadási letartóztatás vagy az ideiglenes átadási letartóztatás esetében megteremti a Nemzetközi Bűnügyi Együttműködési Központ adatközlési kötelezettségét a bűnügyi nyilvántartó szerv felé.
+
+Az 58. §-hoz
+
+A módosítás megteremti annak lehetőségét, hogy névmódosítás esetében annak eredménye a tagállami ítéletek nyilvántartásban is megjelenjen, ezért a tagállami ítéletek nyilvántartásban megtalálható, de a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő, de névváltoztatással érintett személyek adatai is összehasonlításra és szükség szerint módosításra kerüljenek az értesítésben megküldött adatoknak megfelelően.
+
+Az 59. és a 72. § 13-15. pontjához
+
+A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 2014. január 1-jei módosítása, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: rendészeti tv.) 2013. január 1-jei hatálybalépése miatt módosítani szükséges a rendőrség hatósági ellenőrzés keretében történő adathozzáférésének lehetőségét a Bnytv.-ben, mivel az ellenőrzés alá tartozó tevékenységek közül hiányzik az azóta külön nevesített, a vagyonvédelmi rendszert tervező és szerelő tevékenység. A rendészeti tv. alapján ellenőrizendő rendészeti feladatokat ellátó személyek tekintetében pedig még egyáltalán nem szerepel közvetlen adathozzáférési lehetőség a Bnytv.-ben, ezért ezt meg kell teremteni, valamint a rendészeti tv. alapján a személy- és vagyonvédelmi tevékenység esetén a büntetőeljárásra vonatkozó adatok már nem vizsgálandóak.
+
+A 68. § (2) bekezdés d) pontja határozza meg azon adatkört, amely a rendőrség számára a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából jogosult átvenni.
+
+Ebből az adatkörből hiányzik az adott személyre vonatkozóan bekövetkezett mentesítés időpontja, amely azonban szükséges ahhoz, hogy az egyes szakági törvényekben meghatározott és az adott eljárásban vizsgálandó feltétel fennállását.
+
+A vagyonvédelmi rendszert tervező és szerelő tevékenység, a magánnyomozói tevékenység, a személy- és vagyonvédelmi tevékenység, a fegyveres biztonsági őr tevékenység, a rendészeti feladatokat ellátó személyek, valamint a nukleáris létesítmény és kapcsolódó tevékenységek hatósági ellenőrzése során a rendőrség számára szükséges azon információ is, hogy adott személy a bűncselekményét bűnszervezet tagjaként követte-e el. A módosítás megteremti a rendőrség számára ezen adatok közvetlen hozzáféréssel történő átvételének a lehetőségét.
+
+A 60-61. §-hoz és az 73. § 5. pontjához
+
+A módosítás megteremti az elektronikus úton előterjeszthető adatigénylés lehetőségét, valamint elvégzi az ehhez kapcsolódó szövegpontosításokat.
+
+A 62. §-hoz
+
+A módosítás megteremti a bűnügyi nyilvántartási rendszer használatára jogosultak nyilvántartását. Ezzel kapcsolatban azt is szabályozza, hogy az adatokat ebben a nyilvántartásban mennyi ideig kell megőrizni, valamint azt is, hogy ebből a nyilvántartásból ki és milyen célból igényelhet adatokat.
+
+A 63. §-hoz
+
+A személyes megjelenéssel előterjesztett hatósági erkölcsi bizonyítvány iránti kérelmekkel kapcsolatos ügyintézés 2013. október 1-jétől még inkább ügyfélbaráttá vált, amelynek egyik eredménye, hogy a kérelmüket személyesen előterjesztő ügyfelek a kérelmet szóban terjesztik elő, és az ügyfélszolgálaton az ügyintéző az előadottak alapján állítja elő a kérelmet, amelyet aztán az ügyfél aláír. Innentől kezdve minden további lépés megegyezik a korábbi, illetve az egyéb úton előterjesztett kérelmek kezelésével. Ennek jogszabályi alapját teremti meg a módosítás.
+
+Ezzel egyidejűleg a módosítás a visszaélések elkerülések érdekében kizárja a meghatalmazott útján történő eljárás lehetőségét.
+
+A 64. §-hoz
+
+A módosítás a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 34. § (2a) bekezdése szerinti jogszabályi lehetőséget teremti meg ahhoz, hogy a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban a kérelmező az elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett a kérelmét telefonon is elő tudja terjeszteni.
+
+A 65. §-hoz
+
+A módosítás a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban megteremti annak a lehetőségét, hogy a hatóság 15 napos határidő tűzésével hívja fel a kérelmezőt a hiány pótlására.
+
+A 66. §-hoz
+
+A módosítás megteremti a jogszabályi alapját annak, hogy a bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére ne csak formanyomtatványon, hanem elektronikus úton is továbbíthasson adatokat.
+
+A 67-71. és a 72. § 10-11., 17. és 20-24. pontjához
+
+A Bnytv. 85. és 86. §-a tartalmazza a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i, 2008/615/IB tanácsi határozat (a továbbiakban: Prümi Határozat) és az ennek végrehajtásáról szóló 2008/616/IB tanácsi határozat szerinti, illetve a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a bűncselekmények megelőzése és az ellenük való küzdelem terén folytatott együttműködés fokozásáról szóló, a 2008. évi LXVI. törvénnyel kihirdetett Megállapodáson (a továbbiakban: Megállapodás) alapuló, automatikus találati adathozzáférésen keresztül megvalósuló információcsere legfontosabb szabályait. A közelmúltban igényként merült fel, hogy az ennek keretében megvalósuló információcsere hatékonnyá tétele érdekében szükséges a magyar jogalkalmazó szervek eljárását szabályozó további részletszabályok megalkotása. Ennek érdekében született az egyes európai uniós jogi aktusokban rögzített bűnügyi, illetve rendészeti tárgyú együttműködés keretében történő információcsere részletes szabályairól szóló 113/2014. (IV. 3.) Korm. rendelet. Ennek megalkotása során azonban világossá vált, hogy az automatikus találati adathozzáférést követő eljárás alapvető kérdéseit is törvényi szinten kell szabályozni. Erre tekintettel a módosítás részletesen szabályozza a két említett nemzetközi együttműködési forma esetében a találati adathozzáférést követő adattovábbítási, adatigénylési lépéseket. Csak így érhető el ugyanis, hogy az adatvédelmi követelményekkel teljes mértékben összhangban lévő, egyúttal a jogalkalmazó szervek kiszámítható eljárását is biztosító szabályozás érvényesüljön ezen együttműködési formák esetében.
+
+A módosítás egyértelművé teszi azt is, hogy a Nemzetközi Bűnügyi Együttműködési Központon (NEBEK) milyen esetekben, milyen módon működhet közre az információcserében.
+
+A Prümi Határozat 3. cikkében, illetve 9. cikkében foglalt együttműködési célok alapján, illetve arra tekintettel, hogy a Bnytv. 85. § (4) bekezdése alapján a hazai szervek csak a bűnügyi nyilvántartásba felvett biometrikus adatok esetében kérhetik a tagállami nyilvántartásokkal való összehasonlítást, ezért a rendőrség terrorizmust elhárító szerve - mivel kizárólag bűnfelderítési feladata van - nem kezdeményezhet automatikus találati hozzáférés útján történő összehasonlítást. Erre tekintettel a módosítás pontosítja azon magyar szervek körét, amelyek az automatikus találati összehasonlítást kezdeményezhetik.
+
+A 72. § 1., 8-9., 19. és 25-28. pontjához
+
+A módosítás a Bnytv.-t érintő más módosítás kapcsán felmerült szövegpontosítást tartalmazza.
+
+A 73-75. §-hoz
+
+Lásd a 42. § indokolását.
+
+A 76. §-hoz
+
+A szabálysértési elzárás egyik feltételéhez, a terhesség tényéhez kapcsolódóan indokolt annak megállapítása, hogy a várandósság mely szakaszától kezdve nincs helye elzárásnak. Ezért a Bv. tv. és az egészségügyről szóló törvény szabályaihoz igazodóan 12 hétre szükséges módosítani a Szabs. tv. e tárgyú rendelkezését, így ugyanis az azonos tárgyhoz tartozó szabályozási környezet átláthatóbbá válik. E rendelkezés koherens szabályt teremt a terhesség szabadságelvonás esetén történő értékelésében, ráadásul ez a korábbi 4 hónapnál jelentősen kedvezőbb szabály a terhes nők számára.
+
+A 77. §-hoz
+
+A Bv. tv. szabályozza az őrizet és az előzetes letartóztatás egyes végrehajtási kérdéseit. A szabálysértési őrizet végrehajtására azonban a törvény hatálya nem terjed ki, ugyanakkor ezen őrizet vonatkozásában is szükséges megteremteni végrehajtásának garanciális, törvényi szintű szabályait. A szabálysértési őrizet vonatkozásában a Bv. tv. és a Szabs. tv. szabályai egyaránt irányadóak.
+
+Külön törvényi szinten meg kell állapítani a szabálysértési őrizet végrehajtásának részletszabályait is, különösen, hogy az eljárás alá vont személy mikor szabadulhat a szabálysértési őrizetből, továbbá, hogy kiket kell értesíteni a szabadulás tényéről.
+
+Emellett a 2012/13/EU irányelv előírásainak megfelelően a fogva lévő eljárás alá vont személy (őrizetbe vett személy) esetében biztosítani kell az egyes, kifejezetten eljárási jogokat érintő hatósági tájékoztatás megfelelő garanciáit. A fogvatartással összefüggő tájékoztatási kötelezettség részleteit külön rendelet - a rendőrségi fogdák rendjéről szóló BM rendelet - tartalmazza.
+
+A 78. §-hoz
+
+Az eljárás során őrizetbe vett személyek esetében az őrizet beszámítását követően fennmaradt rövid tartamú - két napot meg nem haladó - szabálysértési elzárás végrehajtását célszerű a büntetés-végrehajtási intézetek helyett a rendőrségi fogdákban foganatosítani. Ezzel egyszerűbbé, költséghatékonyabbá válik ezen elzárás büntetések végrehajtása, a bv. intézetbe kíséréssel járó feladatok a rendőrségnél megszűnnek, valamint a bv. intézetek túlzsúfoltsága csökkenthető. Az elkövetőt pedig nem kell kizárólag a befogadási és szabadítási adminisztratív eljárások miatt kifejezetten rövid időre beszállítani a bv. intézetbe, hanem a korábbi szabályozáshoz hasonlóan a rendőrségi fogdán tölti ki a fennmaradó elzárás büntetését.
+
+A 79. §-hoz
+
+A két napot meg nem haladó egyes elzárás büntetések végrehajtásának a rendőrségi fogdára történő áthelyezése miatt meg kell teremteni az előkészítő eljárást lefolytató rendőrség számára annak kötelezettségét, hogy a szabálysértést elkövetettek nyilvántartásában - a bv. intézet helyett - rögzítse az elzárás végrehajtásával kapcsolatos releváns adatokat. Ebben az esetben ezek az adatok ugyanis nem jutnak a bv. intézet tudomására.
+
+A 80. §-hoz
+
+A terhelt szabálysértési előéletének ellenőrzése a kegyelmi eljárás során a megalapozott döntés-előkészítés érdekében indokolt. A törvény ennek érdekében biztosítja a kegyelmi eljárás során a szabálysértési nyilvántartási rendszerhez való hozzáférést.
+
+A 81. §-hoz
+
+Jogharmonizációs megfelelést deklaráló rendelkezés.
+
+A 82. §-hoz
+
+A szabálysértési elzárást végrehajtó büntetés-végrehajtási intézetek kijelölését érintő felhatalmazást a Bv. tv. 434. § (3) bekezdés b) pontja már - a felhatalmazás címzettjének eltérő megjelölésével - tartalmazza, ezért szükséges a Szabs. tv.-ben szereplő felhatalmazó rendelkezés hatályon kívül helyezése. Ugyanígy a duplikáció elkerülését szolgálja a 250. § (2) bekezdés e) pontjának hatályon kívül helyezése, figyelemmel arra, hogy e rendelkezést a Bv. tv. 434. § (3) bekezdés c) pontja is tartalmazza.
+
+A 83. §-hoz
+
+Az erőszakos többszörös visszaesők esetében a halmazati büntetés kiszabására vonatkozó egyértelmű rendelkezés hiánya miatt csak a Btk. 90. § (2) bekezdése, 89. § (1) bekezdésének második mondata, valamint a 81. § (3) bekezdése együttes alkalmazásával lehet több értelmezésre alkalmat adó módon kikövetkeztetni arra, hogy az erőszakos többszörös visszaesővel szemben hogyan kell a halmazati büntetést kiszabni. Az egyértelmű jogalkalmazás elősegítése érdekében a törvény a Btk. 90. § (2) bekezdésének kiegészítésével egyértelművé teszi, hogy halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (1)-(2) bekezdése szerinti büntetési tételt kell a kétszeresére emelni. A bekezdés új szövegéből az is világossá válik, hogy a kötelező életfogytig tartó szabadságvesztés kiszabására csak akkor kerülhet sor, ha a bekezdés első mondata alapján a kétszeresére emelt büntetési tétel haladja meg a húsz évet, azaz a halmazati büntetés kiszabása miatti további emelés nem eredményezheti a kötelező életfogytig tartó szabadságvesztés kiszabását.
+
+A 84. §-hoz
+
+A Btk. - az 1978. évi IV. törvény rendelkezéseitől eltérően - a feltételes szabadságra bocsátás legkorábbi időpontját nem a szabadságvesztés végrehajtási fokozatához kapcsolódóan, hanem az elítélt büntetőjogi előéletétől függően határozza meg. Az összbüntetésnél azonban - hasonlóan az 1978. évi törvény érintett rendelkezéséhez - kizárólag a különböző végrehajtási fokozatok találkozására vonatkozóan tartalmaz a Btk. 95. §-a rendelkezést, miszerint ilyen esetben a legszigorúbbat kell meghatározni. Ez a rendelkezés az 1978. évi IV. törvényben elegendő volt tekintettel arra, hogy a feltételes szabadságra bocsátás legkorábbi időpontja a végrehajtási fokozathoz igazodott. A Btk.-ban azonban szükség van a 3/2002. számú büntető jogegységi határozat szerint kialakult jogalkalmazói gyakorlatnak megfelelően egy hasonló rendelkezésre arra az esetre, ha olyan szabadságvesztéseket kell összbüntetésbe foglalni, amelyek esetében a feltételes szabadságra bocsátás lehetséges legkorábbi időpontját a törvény különbözőképpen határozza meg. Ezt teremti meg a Btk. 95. §-át egy új (3) bekezdéssel kiegészítő rendelkezés.
+
+A 85. §-hoz
+
+A Btk. 97. § (2) bekezdése szerint az elítélttel szemben hátrányos jogkövetkezmény nem állapítható meg azon időpont után, amikor a vele szemben kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatok a közhiteles hatósági nyilvántartásból kikerültek. Ugyanakkor a Btk. különböző visszaesőkre vonatkozó fogalom-meghatározása a korábban szándékos bűncselekmény miatt kiszabott szabadságvesztés kitöltésétől, vagy végrehajthatóságának megszűnésétől a következő bűncselekmény elkövetéséig eltelt idő alapján határozza meg a különböző visszaesőket. A Be. 178/A. § (2) bekezdése kötelezően előírja a nyomozó hatóságnak, ügyészségnek, hogy a bűncselekménnyel megalapozottan gyanúsítható személyről többek között a bűnügyi nyilvántartás adatait szerezze be. Előfordulhat olyan eset, hogy a gyanúsításkor beszerzett bűnügyi nyilvántartási adatok alapján a terhelt visszaesése megállapítható lenne, de az ítélet meghozatala előtt lekért adatok szerint már az az elítélés, amely a visszaesés valamely formáját megalapozná, kikerült a nyilvántartásból. Tekintettel arra, hogy a különböző visszaesés megállapíthatósága szempontjából az elkövetésig eltelt idő számít, a bűnügyi nyilvántartásból az elkövetéshez képest a legközelebbi időpontban pedig a Be. 178/A. § (2) bekezdése szerint beszerzett adatok vannak, így indokolt a Btk. 97. § (2) bekezdésének olyan módosítása, amely ezekre az esetekre vonatkozóan a hátrányos jogkövetkezmények megállapítását az így beszerzett adatok alapján is lehetővé teszik.
+
+A 86. §-hoz
+
+A 2013/40/EU irányelv 9. cikke meghatározza a szankciók minimumszintjét, amelyeket a tagállamoknak az irányelvben nevesített bűncselekményekre vonatkozóan elő kell írniuk. Az 2013/40/EU irányelv 9. cikk (4) bekezdése az információs rendszert vagy adatot érintő jogellenes beavatkozás bűncselekmények - amelyek a jelenleg hatályos Btk. 423. § (1) bekezdés b) és c) pontjában szereplő bűncselekményeket fedik le - bűnszervezetben történő elkövetése esetére legalább öt évig terjedő szabadságvesztés büntetést határoz meg. A Btk. az említett bűncselekményeket jelenleg csak két évig terjedő szabadságvesztéssel rendeli büntetni. Amennyiben e bűncselekmények elkövetésére bűnszervezetben kerülne sor, a Btk. 91. §-ában, a bűnszervezetben történő elkövetésre vonatkozó rendelkezések alapján is - figyelemmel arra, hogy ilyen esetben a büntetési tétel felső határa kétszeresére emelkedik - csak négy évig terjedő szabadságvesztést lehetne kiszabni, ami nem felel meg az irányelvnek. Erre tekintettel indokolt a két bűncselekmény esetén a büntetési tétel felemelése három évig terjedő szabadságvesztésre.
+
+A 87. §-hoz
+
+A 2013/40/EU irányelv átültetési határideje 2015. szeptember 4-én jár le. Tekintettel arra, hogy a Btk. a jelenlegi módosításokkal együtt meg fog felelni a 2013/40/EU irányelv rendelkezéseinek, indokoltnak tűnik, hogy a teljes megfelelés érdekében a Btk. jogharmonizációs záradéka is egyértelműen utaljon a 2013/40/EU irányelvre. A módosítás arra irányul, hogy a Btk. a korábbi kerethatározat helyett a jogharmonizációs záradékban a 2013/40/EU irányelv szabályainak való megfelelést jelölje.
+
+A 88. §-hoz
+
+A 2013/40/EU irányelv 7. cikke rendelkezik arról, hogy a 3-6. cikkben említett bűncselekmények (információs rendszerekhez való jogellenes hozzáférés, rendszert vagy adatot érintő jogellenes beavatkozás, illetve jogellenes adatszerzés) elkövetése céljából felhasznált eszközökkel összefüggő egyes magatartásokat bűncselekménynek kell tekinteni. Az e cikknek megfelelő Btk. 424. § (1) bekezdése azonban jelenleg nem hivatkozik a Btk. 422. § (1) bekezdés d) pontjában szereplő - az irányelv szerinti jogellenes adatszerzésnek megfelelő - titkos adatszerzés bűncselekményére, amelynek során az elkövető az elektronikus hírközlő hálózat - ideértve az információs rendszert is - útján a másnak továbbított vagy azon tárolt adatot kifürkészi, és az észlelteket technikai eszközzel rögzíti. Az irányelvnek való maradéktalan megfelelés érdekében szükséges a hivatkozás pontosítása a Btk. 424. § (1) bekezdés felvezető mondatában.
+
+A 89. §-hoz
+
+A 89. § az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: EU tv.) rendelkezéseit módosítja.
+
+„A 163/A. §-hoz:
+
+A § értelmező rendelkezéseket tartalmaz a normaszövegben szereplő „védett személy”, a „veszélyeztető személy” és a „harmadik tagállam” fogalma kapcsán. A védett személy az európai védelmi határozat középpontjában álló személy, akinek érdekében és kérelmére az európai védelmi határozat kibocsátásra kerül. A veszélyeztető személy az európai védelmi határozatban megjelölt azon személy (tulajdonképpen a kibocsátó tagállambeli terhelt), akivel szemben a tagállami hatóság kötelezettséget vagy tilalmat fogalmaz meg. A harmadik tagállam definiálása azért vált szükségessé, hogy azt egyértelműen meg lehessen különböztetni a védett személy által lakóhelyként vagy tartózkodási helyként megjelölt azon tagállamtól, amelyben az európai védelmi határozatot végrehajtják (végrehajtó tagállam). A védelmi intézkedést (vagyis a távoltartást, illetve a magatartási szabályt) magában foglaló határozat egyik oldalán ugyanis a védett személy, a másik oldalán azonban a veszélyeztető személy (terhelt) helyezkedik el. Ha a védett személy kíván másik tagállamban lakni vagy tartózkodni a végrehajtás során, akkor az ő védelme a továbbiakban az európai védelmi határozattal biztosítható. A veszélyeztető személy (terhelt) oldalán ugyancsak lehetséges a távoltartásról hozott, illetve a magatartási szabályokat előíró határozat másik tagállamban történő végrehajtása a kölcsönös elismerés elvének az Európai Unió tagállamai közötti, az előzetes letartóztatás alternatívájaként felügyeleti intézkedéseket elrendelő határozatokra történő alkalmazásáról szóló 2009/829/IB tanácsi kerethatározat, illetve a kölcsönös elismerés elvének az ítéletekre és próbaidőt megállapító határozatokra való, a próbaidő alatti magatartási szabályok és alternatív szankciók felügyelete céljából történő alkalmazásáról szóló 2008/947/IB tanácsi kerethatározat alapján. Az előbbi kerethatározat átültetett szabályai az EU tv. V. Fejezetében, míg az utóbbié a IX. Fejezetben találhatók. Mivel az európai védelmi határozat végrehajtása kapcsán az EU tv. V. és IX. Fejezetében foglalt szabályok is adott esetben figyelembe jöhetnek, ezért a XI. Fejezet alkalmazásában az európai védelmi határozatot végrehajtó tagállamot indokolt egyértelműen megkülönböztetni attól a tagállamtól, amelyben a távoltartásról hozott vagy a magatartási szabályokat előíró határozat végrehajtása a terhelt (veszélyeztető személy) és nem a védett személy érdekében történik. Ez a tagállam így a harmadik tagállam elnevezést kapta.
+
+A 163/B-163/C. §-hoz:
+
+Európai védelmi határozat akkor bocsátható ki, ha a kibocsátó tagállami hatóság a 163/B. § (2) bekezdésében foglalt tilalmat vagy szabályozást írt elő az európai védelmi határozat kibocsátásának alapjául szolgáló határozatában. A felsorolt tilalmakat vagy szabályozást Magyarország végrehajtó tagállamként akkor tudja érvényre juttatni, ha azok távoltartásról hozott vagy pártfogó felügyelet keretében magatartási szabályokat előíró határozathoz kötődnek. A Btk. 69. §-a értelmében pártfogó felügyelet rendelhető el a vádemelés elhalasztásának tartamára, a feltételes szabadság tartamára, a próbára bocsátás próbaidejére, a jóvátételi munka előírása mellett, valamint a szabadságvesztés felfüggesztésének próbaidejére. Az ezek mellett elrendelt pártfogó felügyelet keretében előírt magatartási szabályokat Magyarország tehát végre tudja hajtani. Ami a vádemelés elhalasztását, illetve az annak tartamára elrendelt pártfogó felügyelet keretében előírt magatartási szabályokat illeti, ebben az esetben az európai védelmi határozat elismeréséről és végrehajtásáról az ügyész dönt.
+
+Az európai védelmi határozat elismerésének és végrehajtásának feltétele, hogy a kibocsátó tagállami hatóság a törvény mellékletében szereplő formanyomtatványt kitöltse (ez tulajdonképpen az európai védelmi határozat) és azt magyar nyelven a bíróságnak vagy az ügyésznek megküldje. A tagállami hatóságok közötti kapcsolattartásra a közvetlenség elve vonatkozik. Az elismerés és a végrehajtás további feltétele, hogy a védett személy lakóhelye vagy tartózkodási helye Magyarországon legyen, vagy a védett személy Magyarországon kívánjon lakni vagy tartózkodni.
+
+Az európai védelmi határozat elismeréséről és végrehajtásáról a védett személy lakóhelye vagy tartózkodási helye szerint illetékes törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság intézkedik; vádemelés elhalasztása esetén a védett személy lakóhelye vagy tartózkodási helye szerint illetékes törvényszék székhelyén működő járásbíróság mellett működő ügyész, Budapesten a Budai Központi Kerületi Bíróság mellett működő ügyész. Az irányelv az európai védelmi határozat másik tagállamba történő továbbítását azonban akkor is lehetővé teszi, ha a másik tagállamban a védett személynek még nincsen lakó- vagy tartózkodási helye, de egyértelműen kifejezi, hogy a másik tagállamban kíván lakni vagy tartózkodni. Ekkor, vagyis lakó- vagy tartózkodási hely hiányában az európai védelmi határozat elismeréséről és végrehajtásáról a Budai Központi Kerületi Bíróság, illetve a Budai Központi Kerületi Bíróság mellett működő ügyész dönt.
+
+Az irányelv értelmében a védett személy a kibocsátó állam illetékes hatóságához vagy a végrehajtó állam illetékes hatóságához nyújthatja be az európai védelmi határozat kibocsátására vonatkozó kérelmét. A döntés tehát a védett személy kezében van. Erre tekintettel szükséges annak szabályozása, ha a védett személy az európai védelmi határozat kibocsátása iránti kérelmét Magyarországon (tehát a végrehajtó tagállamban) nyújtja be. Ilyenkor a magyar bíróság vagy az ügyész köteles azt haladéktalanul továbbítani a tagállami hatósághoz, amely aztán dönt az európai védelmi határozat kibocsátásáról.
+
+A 163/D. §-hoz:
+
+A 163/D. § az európai védelmi határozat elismerésével és végrehajtásával kapcsolatos döntésről szóló szabályokat fogalmazza meg. A bíróságnak vagy az ügyésznek az európai védelmi határozat kézhezvétele után haladéktalanul döntenie kell az európai védelmi határozat elismeréséről és végrehajtásáról vagy annak megtagadásáról, miközben figyelembe veszi az eset egyedi körülményeit, az ügy sürgősségét, a védett személy Magyarországra történő érkezésének várható időpontját, valamint a védett személyt érintő kockázat mértékét. Ha az elismerésről vagy a megtagadásról a döntés haladéktalanul nem hozható meg, a bíróság vagy az ügyész a késedelem okainak megjelölése mellett erről haladéktalanul tájékoztatja a tagállami hatóságot, és megjelöli azt az időtartamot, amely a döntéshez szükséges.
+
+A bíróság vagy az ügyész az európai védelmi határozat elismeréséről és végrehajtásáról indokolt határozatot hoz, amelyről a veszélyeztető személyt, a védett személyt és a tagállami hatóságot haladéktalanul tájékoztatja. A bíróság vagy az ügyész határozatában tájékoztatást nyújt arról is, hogy a magyar jog szerint a távoltartás szabályainak, illetve a magatartási szabályoknak a megszegése milyen következményeket vonhat maga után. A határozat ellen fellebbezésnek van helye, amit a kibocsátó felettes szerve, vagy a törvényszék vagy a felettes ügyész bírál el.
+
+Az irányelv előírja, hogy a védett személy lakcíme és egyéb elérhetőségi adatai nem hozhatók a veszélyeztető személy tudomására, kivéve azokat az adatokat, amelyek a védelmi intézkedés végrehajtásához elengedhetetlenül szükségesek (pl. annak érdekében, hogy a veszélyeztető személyt eltiltsuk a védett személy lakóhelyétől, a veszélyeztető személynek tudnia kell, hogy melyik városrészt, melyik utcát stb. kerülje el). Erre tekintettel írja elő a § (4) bekezdése, hogy a védett személy - bizonyos kivételekkel - kérheti személyi adatainak zártan kezelését, amelynek alapja a Be. 96. §-a.
+
+A 163/E. §-hoz:
+
+A 163/E. § tartalmazza azokat a megtagadási okokat, amelyek alapján a bíróságnak, illetve az ügyésznek lehetősége van az európai védelmi határozat elismerésének és végrehajtásának megtagadására. A felsorolt megtagadási okok szorosan követik az irányelv 10. cikkében foglalt okokat. A törvény előírja azt is, hogy az európai védelmi határozat elismerésének és végrehajtásának megtagadásáról a bíróság vagy az ügyész indokolt határozatot hoz, amelyet a tagállami hatóság a veszélyeztető személy és a védett személy részére haladéktalanul megküld. A megtagadó határozat ellen jogorvoslatnak helye nincs.
+
+A 163/F. §-hoz:
+
+A 163/F. § azt szabályozza, hogy a bíróságnak, illetve az ügyésznek hogyan kell elismernie az európai védelmi határozatban foglalt védelmi intézkedést. Eszerint a bíróság határozatában távoltartást rendel el vagy a feltételes szabadság tartamára, a próbára bocsátás próbaidejére, a jóvátételi munka előírása mellett, valamint a szabadságvesztés felfüggesztésének próbaidejére előírt pártfogó felügyelet keretében ír elő magatartási szabályokat. Az ügyész pedig a vádemelés elhalasztásának tartamára elrendelt pártfogó felügyelet keretében előírt magatartási szabályt határoz meg. A bíróság, illetve az ügyész úgy állapítja meg a távoltartást vagy a magatartási szabályokat, hogy az a lehető legnagyobb mértékben megfeleljen annak a távoltartásnak vagy magatartási szabálynak, amelyet a tagállami határozat tartalmaz (adaptáció).
+
+A törvény azokat az eseteket is rendezi, amikor a tagállami hatóság úgy függesztette fel a szabadságvesztés végrehajtását, úgy rendelt el próbára bocsátást, a szabadságvesztésre ítéltet úgy bocsátotta feltételes szabadságra, úgy rendelte el a jóvátételi jellegű munka elvégzését, illetve a vádemelést úgy halasztotta el, hogy annak a Btk., illetve a Be. szerint nincs helye. A törvény arra is tartalmaz szabályozást, ha a távoltartás vagy a magatartási szabály európai védelmi határozatban megjelölt időtartama meghaladja vagy éppen nem éri el a Be. vagy a Btk. szerint megállapítható leghosszabb vagy legrövidebb időtartamot.
+
+A 163/G. §-hoz:
+
+A 163/G. § az európai védelmi határozat végrehajtásának és megsértésének szabályait tartalmazza. E szerint az európai védelmi határozatban foglalt távoltartást vagy magatartási szabályt a bíróság vagy az ügyész bizonyos kivételekkel a magyar jog szerint hajtja végre.
+
+Ilyen kivételt jelent az az eset, ha az ügyész a vádemelés elhalasztásának tartamára elrendelt pártfogó felügyelet keretében előírt magatartási szabályt határozott meg, és a magatartási szabályokat a veszélyeztető személy súlyosan megszegte. Ilyenkor ugyanis vádemelés lenne indokolt, amelynek azonban - mivel Magyarországon nincs folyamatban büntetőeljárás - nincs helye. Ilyenkor az ügyész egyetlen eszköze a tagállami hatóság haladéktalan tájékoztatása. A másik kivétel az az eset, ha a bíróság távoltartást rendelt el, és a veszélyeztető személy a távoltartás szabályait szándékosan megszegte, és ezt utólag nem menti ki. A bíróság ebben az esetben ugyan a veszélyeztető személyt rendbírsággal sújthatja, de előzetes letartóztatását nem rendelheti el, hiszen Magyarországon büntetőeljárás nincs folyamatban. A távoltartás szabályainak megszegéséről a bíróság a tagállami hatóságot haladéktalanul tájékoztatni köteles.
+
+Ha a veszélyeztető személy Magyarország területén a határozatban foglalt rendelkezéseket megszegi, erről, valamint az alkalmazott jogkövetkezményekről a bíróság, illetve az ügyész a törvény mellékletében szereplő formanyomtatványon értesíti az európai védelmi határozatot kibocsátó tagállami hatóságot.
+
+Abban az esetben, ha az európai védelmi határozatban foglalt távoltartásról vagy magatartási szabály előírásáról hozott határozat az EU tv. V. fejezete szerinti felügyeleti intézkedést elrendelő tagállami határozatként vagy az EU tv. IX. fejezete szerinti alternatív szankciót kiszabó tagállami határozatként továbbításra került egy harmadik tagállamnak (vö. a terhelt lakóhely vagy tartózkodási helye szerinti tagállamnak), akkor ez a harmadik tagállam az, amelyik a saját területén a veszélyeztető személlyel szemben a határozat végrehajtásáról gondoskodik. Abban az esetben, ha a terhelt Magyarország területén a védelmi intézkedéseket és így az európai védelmi határozat rendelkezéseit megszegi, erről, valamint az alkalmazott jogkövetkezményekről a bíróságnak haladéktalanul értesítenie kell e harmadik tagállam illetékes hatóságát is.
+
+A 163/H. §-hoz:
+
+Ha a tagállami hatóság az európai védelmi határozatot módosítja (akár a 163/G. §-ban foglalt tájékoztatás következtében, akár más miatt) és erről a bíróságot, illetve az ügyészt tájékoztatja, a bíróságnak vagy az ügyésznek a következő lehetőségei vannak:
+
+- a határozatában foglalt távoltartást vagy magatartási szabályt úgy módosítja, hogy az a lehető legnagyobb mértékben megfeleljen annak a távoltartásnak vagy magatartási szabálynak, amelyet a módosított európai védelmi határozat tartalmaz, vagy
+
+- a módosított európai védelmi határozat elismerését és végrehajtását a 163/E. § (1) bekezdés a) vagy c) pontja alapján megtagadja.
+
+A 163/I. §-hoz:
+
+A 163/I. § az európai védelmi határozat végrehajtása megszüntetésének eseteit sorolja fel. A rendelkezés értelmében az európai védelmi határozat végrehajtását a bíróság vagy az ügyész haladéktalanul megszünteti, ha a tagállami hatóság az európai védelmi határozat visszavonásáról küld értesítést; ha a védett személy a végrehajtás megkezdése után Magyarország területén nem található, és a felkutatására tett intézkedések nem vezettek eredményre, vagy a védett személy lakóhellyel, illetve tartózkodási hellyel Magyarországon már nem rendelkezik; ha az elrendelt távoltartás vagy előírt magatartási szabály magyar jog szerinti maximális időtartama letelt; ha a módosított európai védelmi határozat elismerését és végrehajtását a bíróság vagy az ügyész megtagadja; valamint, ha az európai védelmi határozatban foglalt távoltartásról vagy magatartási szabály előírásáról hozott határozat az EU tv. V. fejezete szerinti felügyeleti intézkedést elrendelő tagállami határozatként vagy az EU tv. IX. fejezete szerinti alternatív szankciót kiszabó tagállami határozatként, az európai védelmi határozat elismerését követően a terhelt személy kérelmére Magyarországnak továbbításra került.
+
+Ez utóbbi esetben arról van szó, hogy Magyarországnak kellene végrehajtania az európai védelmi határozatot és a felügyeleti intézkedést elrendelő tagállami határozatot/alternatív szankciót kiszabó tagállami határozatot is. Az előbbi végrehajtása a védett személy, az utóbbi végrehajtása a veszélyeztető személy érdekében történne Magyarországon, arra tekintettel, hogy a védett személynek és a veszélyeztető személynek is Magyarországon van a lakó- vagy tartózkodási helye, illetve a végrehajtást Magyarországtól kérte. Ebben az esetben, mivel a védett személy és a veszélyeztető személy ugyanannak a határozatnak a Magyarország általi végrehajtását kérte, az irányelv rendelkezése szerint az európai védelmi határozat végrehajtását meg kell szüntetni.
+
+A végrehajtás megszüntetéséről a bíróság vagy az ügyész haladéktalanul értesíti a tagállami hatóságot, a veszélyeztető és a védett személyt.
+
+A 163/J. §-hoz:
+
+A 163/J. § arról rendelkezik, hogy ha az európai védelmi határozat eredményes végrehajtása érdekében szükséges, a bíróság vagy az ügyész és a tagállami hatóság, valamint adott esetben a harmadik tagállam hatósága egyeztetést folytat egymással.
+
+A 163/K. §-hoz:
+
+A 163/K. § szerint az európai védelmi határozat elismerése és végrehajtása során felmerülő költségek bűnügyi költségnek minősülnek, amelyet a magyar állam visel, kivétel ez alól az a költség, amely kizárólag az európai védelmi határozatot kibocsátó tagállam területén merül fel.
+
+A 163/L-163/M. §-hoz:
+
+A 163/L-163/S. §-ok a végrehajtás átadására vonatkozóan állapítanak meg szabályokat, vagyis arra az esetre, amikor Magyarország az európai védelmi határozatot kibocsátó tagállam.
+
+Az európai védelmi határozat alapjául szolgálhat
+
+- a bíróság által hozott, felfüggesztett szabadságvesztésről, próbára bocsátásról, feltételes szabadságra bocsátásról, jóvátételi munkáról hozott határozat vagy az ügyész által vádemelés elhalasztásáról szóló határozat, feltéve, hogy a próbaidőre, a feltételes szabadság tartamára, a jóvátételi munka mellett, illetve a vádemelés elhalasztásának tartamára a bíróság vagy az ügyész pártfogó felügyeletet rendelt el, és a törvényben felsorolt egy vagy több magatartási szabályt állapított meg, vagy
+
+- a bíróság által elrendelt távoltartásról rendelkező határozat.
+
+Abban az esetben, ha a magatartási szabállyal vagy a távoltartással védett személy másik tagállamban kíván lakni vagy tartózkodni, illetve lakó- vagy tartózkodási helye másik tagállamban van, akkor e magatartási szabályoknak vagy a távoltartásnak e másik tagállam által történő elismerése és végrehajtása érdekében a bíróság vagy az ügyész a védett személy érdekében és írásbeli kérelmére európai védelmi határozatot bocsáthat ki. Az európai védelmi határozat kibocsátása kapcsán figyelembe kell venni, hogy a védett személy milyen időtartamban kíván a másik tagállamban tartózkodni, illetve tekintettel kell lenni a védelem szükségességének mértékére is.
+
+A védett személyt írásban tájékoztatni kell arról a lehetőségről, hogy a szükséges feltételek teljesülése esetén európai védelmi határozat kibocsátását kérheti. A védett személy az európai védelmi határozat kibocsátása iránti kérelmet választása szerint a kibocsátó állam vagy a végrehajtó állam illetékes hatóságánál is benyújthatja. A kérelemről a bíróság, illetve az ügyész a kézhezvétel után haladéktalanul dönt. Az európai védelmi határozat kibocsátása vagy a kérelem elutasítása tárgyában indokolt határozatot kell hozni, és azt a védett személynek és képviselőjének, valamint a terheltnek haladéktalanul meg kell küldeni. A határozat ellen jogorvoslatnak helye nincs.
+
+A 163/N. §-hoz:
+
+A 163/N. § az európai védelmi határozat kibocsátására és továbbítására vonatkozóan tartalmaz rendelkezéseket. Az európai védelmi határozatot a törvény melléklete szerinti formanyomtatvány szerint kell kibocsátani, és azt le kell fordítani annak a tagállamnak a hivatalos nyelvére vagy hivatalos nyelveinek egyikére vagy azon tagállam által megjelölt nyelvre, amelynek területén a védett személy lakni vagy tartózkodni kíván, vagy amelynek területén lakóhelye vagy tartózkodási helye van.
+
+A lefordított európai védelmi határozatot a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára közvetlenül kell megküldeni, posta, telefax vagy számítástechnikai rendszer útján. Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a tagállamban az európai védelmi határozat elismerésére és végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain vagy az Eurojust nemzeti tagján keresztül kell beszerezni.
+
+A 163/O. §-hoz:
+
+Az európai védelmi határozatról szóló irányelv értelmében a kibocsátó tagállam illetékes hatósága kizárólagos hatáskörrel rendelkezik az európai védelmi határozat alapjául szolgáló távoltartásról hozott vagy magatartási szabályt előíró határozat (következésképpen pedig az európai védelmi határozat) módosítására vagy visszavonására. Ezért a 163/O. § arról rendelkezik, hogy ha a magyar szabályok szerint
+
+a) a távoltartás elrendelt időtartama letelt,
+
+b) a távoltartásról rendelkező határozat módosítása vagy a távoltartás megszüntetése indokolt,
+
+c) a terhelt előzetes letartóztatásának elrendelése szükséges,
+
+d) az előírt magatartási szabályok módosítása indokolt,
+
+e) a feltételes szabadság megszüntetése indokolt,
+
+f) a próbára bocsátás megszüntetése és büntetés kiszabása indokolt,
+
+g) a felfüggesztett szabadságvesztést végre kell hajtani,
+
+h) jóvátételi munka előírása esetén büntetés kiszabása indokolt,
+
+i) a pártfogó felügyelet megszüntetése indokolt,
+
+j) a pártfogó felügyelet tartama letelt, vagy
+
+k) vádat kell emelni,
+
+a bíróság vagy az ügyész az európai védelmi határozatot megfelelően módosítja vagy visszavonja, és erről a tagállami hatóságot, a terheltet és a védett személyt haladéktalanul tájékoztatja.
+
+A 163/P. §-hoz:
+
+Ha a távoltartásról rendelkező határozatot vagy a magatartási szabályokat tartalmazó jogerős ítéletet, illetve a vádemelés elhalasztásáról szóló határozatot a bíróság vagy az ügyész másik tagállamba továbbítja (ez lehet az a tagállam, amelyet a védett személy kérelmében megjelölt és ahova az európai védelmi határozat továbbításra került, vagy attól eltérő harmadik tagállam is) erre az esetre - ideértve a felügyeleti intézkedés, illetve a magatartási szabályok megsértését is - az EU tv. V. és IX. Fejezetének szabályai alkalmazandók.
+
+A 163/Q. §-hoz:
+
+A 163/Q. § felsorolja azokat az eseteket, amikor a tagállami hatóság a végrehajtást megszünteti, és a bíróság vagy az ügyész a végrehajtást a magyar szabályok szerint folytatja.
+
+A 163/R. §-hoz:
+
+A 163/R. § arról rendelkezik, hogy ha az európai védelmi határozat végrehajtása érdekében elfogadott intézkedéseknek a tagállam nemzeti joga alapján megállapítható maximális időtartamának lejárta előtt a tagállami hatóság tájékoztatást kér a bíróságtól vagy az ügyésztől, hogy az európai védelmi határozatban előírt védelemre szükség van-e még, a bíróság vagy az ügyész a választ haladéktalanul megküldi a tagállami hatóságnak.
+
+A 163/S. §-hoz:
+
+A 163/S. § arról rendelkezik, hogy ha az európai védelmi határozat eredményes végrehajtása érdekében szükséges, a bíróság vagy az ügyész, a tagállami hatóság és adott esetben a harmadik tagállam hatósága egyeztetést folytat egymással.”
+
+A 90. §-hoz
+
+A módosítás átvezeti a kapcsolódó törvényen a kényszerintézkedés hatálya alatt állók nyilvántartásának megszüntetéséből adódó módosításokat.
+
+A 91. §-hoz
+
+Lásd a 42. § indokolását.
+
+A 92. §-hoz
+
+A törvény 2. §-a a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 24. § (1) bekezdését módosítja 2015. január 1-jei hatállyal. A nemzeti utasadat-információs rendszer létrehozása érdekében szükséges, valamint a rendőrséget érintő és egyes további törvények módosításáról szóló 2013. évi CXCVIII. törvény ugyanezt a bekezdést módosítja, ugyanazon hatálybalépéssel, ezért indokolt arról rendelkezni, hogy ez utóbbi módosítás nem lép hatályba.
+
+A 93., a 112., a 118., a 130., a 137. § (2) bekezdéséhez, a 139. § (2) bekezdéséhez, a 147-149., a 158., valamint a 161. § (7)-(9), (15), (17)-(18), (25), és (26)-(27) bekezdéséhez
+
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 06.) Korm. rendelet 25. § (2) bekezdése szerint a belügyminiszter megszervezi és irányítja a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységet. A pártfogó felügyelői tevékenységgel kapcsolatos kormányzati feladatok ennek alapján megosztásra kerülnek az igazságügyért felelős miniszter és a büntetés-végrehajtásért felelős miniszter között, egyidejűleg a pártfogó felügyelői tevékenység eddig egységes szervezeti kerete átalakul.
+
+A büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenység, illetve az ilyen tevékenységet végző pártfogó felügyelők a büntetés-végrehajtás szervezetébe integrálódnak, ezáltal biztosítva a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységi formák hatékony ellátását.
+
+A szervezeti átalakítás keretében azon pártfogó felügyelői tevékenységi körök kerültek a belügyminiszter irányítása alá, amelyek a szabadságvesztés büntetést töltő elítéltekhez, illetve azok szabadulása utáni reintegrációjához kapcsolódnak. Ennek alapján büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységnek minősül a feltételes szabadságra bocsátással összefüggésben elrendelt pártfogó felügyelői vélemény elkészítésével, a feltételes szabadság tartamára törvény alapján fennálló vagy elrendelt pártfogó felügyelettel, a szabadulást megelőző börtönpártfogolással, valamint a szabadulást követő utógondozási tevékenység ellátásával kapcsolatos feladatok.
+
+Az egyes törvényeknek a belügyminiszter feladat- és hatáskörével összefüggő módosításáról szóló 2014. évi XXX. törvényben módosításra kerültek a pártfogó felügyelői tevékenységgel kapcsolatos, jelenleg hatályos törvényi szintű jogszabályok, mindenekelőtt a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet.
+
+A törvény a 2015. január 1-jén hatályba lépő, Bv. tv. módosításával határozza meg a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel és az ilyen tevékenységet végző pártfogó felügyelőkkel összefüggő sajátos szabályokat.
+
+A 94. §-hoz
+
+A módosítás célja az eljárás gyorsítása azzal, hogy az az előzetesen letartóztatott, illetve az ideiglenes kényszergyógykezelt, aki a büntetőeljárásban már meghatalmazott védőt, ne legyen a büntetés-végrehajtás során újabb meghatalmazás adására kötelezve.
+
+A szakasz rendelkezik a költségmentességről, illetve szól a képviselet legfontosabb szabályairól is.
+
+A 95. §-hoz
+
+A módosítás a 2012/13/EU irányelv előírásainak való megfelelés érdekében a tájékoztatásra vonatkozó szabályokat kiegészíti az előzetesen letartóztatottra vonatkozó speciális rendelkezésekkel.
+
+A 96-97. §-hoz
+
+A 2012/29/EU irányelv 6. cikk (5) bekezdése nem csak az elítéltek, hanem az előzetesen letartóztatottak szabadulása vagy szökése esetén is biztosítani kívánja a sértett számára az értesítés kérésének lehetőségét. A módosítás az irányelv e követelményének megfelelően egészíti ki a Bv. tv. szövegét.
+
+Célszerű, hogy az a hatóság tájékoztassa a sértettet, amelyik a kényszerintézkedést elrendeli vagy a szabadságvesztés büntetést kiszabja. Ezt követve a bíróság (nyomozási bíró) számára írja elő a törvény a sértett tájékoztatásának kötelezettségét.
+
+A 98. §-hoz
+
+A Bv. tv. a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztést a büntetések sorrendjében nem említi, ezért szükség volt azok sorrendben történő elhelyezésére is. A büntetőjogi elzárás a közérdekű munkát és a pénzbüntetést helyettesítő szabadságvesztés azonos szinten elhelyezése a sorrend megállapításánál szükségszerű a célszerűtlen megszakítás elkerülése érdekében, így ezen büntetések az értesítőlap intézetbe érkezésének sorrendjében kerülnek végrehajtásra.
+
+A 99. §-hoz
+
+A módosítás célja az aránytalanságok elkerülése. Azokban az esetekben ugyanis, amikor a kis összegű követelés behajtása nagyobb költségekkel járna, mint maga a behajtandó összeg, célszerűbb a tartozástól eltekinteni.
+
+A 100. és 111. §-hoz
+
+Az ismételt, azonos tartalmú kérelem elbírálásának mellőzése is a büntetés-végrehajtási bíró eljárásának a része. Ez egy mérlegelést igénylő döntés, és mint ilyenről, tájékoztatni szükséges róla a kérelmezőt is. A módosítás egyértelművé teszi, hogy mely esetekben járhat el a bv. bíró az íratok alapján, egyben a bírósági titkár eljárási lehetőségét szűkíti.
+
+A 101. §-hoz
+
+A Bv. tv. az iratmásolat kiadása ésszerű korlátjaként határozza meg a költségek viselését. E rendelkezés a bv. intézet költségvetési érdekeinek védelme érdekében jelenik meg, lehetőséget adva az elítéltek érdekében való kedvező eltérésre. A törvény az adatokhoz való hozzáférést a másolat kérése mellett a feljegyzés készítésének lehetőségével is biztosítani kívánja.
+
+A törvény kiegészíti azon adatok körét, amelyek megismerésére a kérelmező a törvény szerint nem jogosult. A kiterjesztésre elsősorban a büntetés-végrehajtás biztonságágának megőrzése, valamint az újonnan kiépülő rezsimrendszer hatékony működésének biztosítása érdekében kerül sor.
+
+A 102. §-hoz
+
+A törvény a jogszabályi rendelkezés pontosítását szolgálja annak tartalmának megváltoztatása nélkül. A köztársasági elnök ugyanis az, aki a Btk.-tól eltérően is meghatározhatja a büntetőjogi következményeket kegyelem gyakorlása esetén (például a büntetés mérséklése esetén nem az ítéletben kiszabott büntetéshez, hanem a kegyelem útján megállapított büntetéshez igazodóan rendeli azt megállapítani).
+
+A 103. §-hoz
+
+A bv. csoport a módosítás értelmében egyfajta szűrő funkciót fog ellátni. E tevékenység lényege, hogy a bv. csoport a közvetlenül hozzá megküldött értesítőlapokat ellenőrzi, és ha mindent rendben talál, akkor továbbítja azokat a BVOP részére. Az ellenőrzés azt a célt szolgálja, hogy az elítéltek behívását intéző BVOP hiánytalan és megfelelően kitöltött értesítőlapok alapján tudja elvégezni a szükséges feladatokat. Az ítélet rendelkező részének megküldése az eljárás gyorsítását szolgálja, mivel ily módon nem kell megvárni az ítélet írásba foglalását. Ez jelentős időmegtakarítást eredményez, hiszen egy-egy ítélet írásba foglalása akár 30-60 napot is igénybe vehet.
+
+Az információáramlás mindkét irányba megfelelően kell, hogy működjön. A bv. csoport folyamatba való beépítése ezt nagyban megkönnyíti. A jelenlegi szöveg ugyanakkor nem biztosítja a BVOP részéről a visszacsatolás lehetőségét, ezért a módosítás révén szükség volt a 48. § kiegészítésére.
+
+A 104. §-hoz
+
+Jelenleg folyamatban van a rendőrségi fogdák rendjéről szóló BM rendelet módosítása. A törvényben szereplő rendelkezések valamennyi, a rendőrségi fogdán végrehajtható fogvatartás tekintetében alkalmazandók. E fogva tartások vonatkozásában ezért meg kell teremteni a rendeleti szintű szabályozás törvényi alapjait.
+
+A 105-106. §-hoz
+
+A felsorolt eseteken a nő szülés után egészségi állapotának vizsgálata szükségesnek tekinthető figyelemmel arra, hogy ezen események az anya fizikai és pszichikai állapotát is komolyabban érinthetik.
+
+A 107. §-hoz
+
+A szabadságvesztéshez és az elzáráshoz hasonlóan a közérdekű munka végrehajtása tekintetében is indokolt meghatározni a szabályokat gyermek születése esetén.
+
+A 108. §-hoz
+
+A törvény az igazságügyért felelős miniszter megkeresési jogát és nyilvántartásokhoz való hozzáférési jogát rögzíti. A kegyelmi eljárás során ugyanis a kegyelmi kérelem megalapozott felterjesztéséhez számos adat, irat ismerete szükséges, amelyek beszerzése a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló 9/2002. (IV. 9.) IM rendelet 105. §-a alapján a bíróság feladata. A kegyelmi kérelmek felterjesztésének előkészítése jelenleg különösen az alábbi iratok, adatok alapján történik: vádirat, büntetést kiszabó, intézkedést alkalmazó bírósági határozatok, részletfizetést, halasztást és büntetés-félbeszakítást engedélyező határozat, szabadságvesztésre átváltoztató határozat, bűnügyi nyilvántartás adatai, pártfogó felügyelői környezettanulmány, rendőri jelentés („nyílt rendőri információ”), büntetés-végrehajtási intézeti vagy javítóintézeti értékelő vélemény, fogvatartási adatok (értesítés foganatba vételről, szabadításról), rendelkezésre álló orvosi iratok és orvosszakértői vélemény, Bv. Központi Kórház lelete (szakorvosi vizsgálat elrendelése esetén), BVOP Egészségügyi Főosztály véleménye, gazdasági hivatal tájékoztatása a fennálló tartozás összegéről.
+
+A bíróság által felterjesztett iratokon túlmenően azonban - az ügy egyedi sajátosságaira tekintettel - a döntés-előkészítés során szükségessé válhat további iratok, adatok (például polgári kórházban kezelt terhelt egészségügyi állapotára vonatkozó orvosi iratok) beszerzése is.
+
+A törvény ennek érdekében biztosítja az igazságügyért felelős miniszter közvetlen - nem a felterjesztő bíróságon keresztül történő - megkeresési jogát az eljárás egyszerűsítése és a rövidebb ügyintézési idő elősegítése érdekében.
+
+A törvény a kegyelmi eljárás egyszerűsítése, a rövidebb ügyintézési idő elősegítése és a megalapozott döntés-előkészítés érdekében az igazságügyért felelős miniszter számára biztosítja a kegyelmi eljárás során meghatározott nyilvántartásokhoz, így a bűnügyi nyilvántartási rendszerhez, a szabálysértési nyilvántartási rendszerhez, a polgárok személyi adatainak és lakcímének nyilvántartásához, a közúti közlekedési nyilvántartáshoz és a központi idegenrendészeti nyilvántartáshoz való hozzáférést. Az egyes nyilvántartásokat szabályozó törvények határozzák meg részletesen az adathozzáférési jog tartalmát, az igényelhető adatok pontos körét.
+
+A jelenleg hatályos szabályozás alapján az igazságügyért felelős miniszter csak a bűnügyi nyilvántartásokhoz fér hozzá. Figyelemmel azonban arra, hogy a terheltek személyi adatai, amelyek a kegyelmi határozat kötelező elemei, a kegyelmi eljárás során változhatnak, illetve esetenként nem megfelelően kerülnek feltüntetésre, ezek ellenőrzése a jogszabályoknak megfelelő határozat kibocsátásához elengedhetetlen. Továbbá szükséges lehet a terhelttel történő közvetlen kapcsolatfelvétel is, amelyhez a lakóhelyének ismerete szükséges.
+
+A közúti közlekedési nyilvántartási rendszerből indokolt a vezetői engedélyek nyilvántartásához való hozzáférés biztosítása, mivel a nyilvántartásból állapítható meg egyértelműen a járművezetéstől eltiltás kezdő és letelte. A terhelt szabálysértési előéletének ellenőrzése szintén szükséges a megalapozott döntés-előkészítés érdekében. A központi idegenrendészeti nyilvántartáshoz való hozzáférés a kiutasítás végrehajtásával kapcsolatos intézkedések megismerése miatt szükséges.
+
+Ezen kívül a törvény rendelkezik arról, hogy a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszter a BVOP-nak is küldje meg, ha az elítélt szabadságvesztés büntetésének végrehajtását a kegyelmi döntés meghozataláig elhalasztották vagy félbeszakították, hogy a BVOP megtehesse a szükséges intézkedéseket az elítélt bv. intézetbe történő bevonulása vagy visszatérése iránt.
+
+A 108. § (7) bekezdéséhez, a 120. § (2) bekezdéséhez és a 156. § (11) bekezdéséhez
+
+A kegyelmi eljárás során a köztársasági elnök döntéséig lehetőség van az elítélt szabadságvesztés büntetése végrehajtásának elhalasztására vagy félbeszakítására. Ezekben az esetekben a halasztás, illetve a félbeszakítás végének nincs konkrét időpontja és a bv. intézet jogszabályi alapot nélkülöző döntésén múlik, hogy az elítélt mikor vonul be vagy tér vissza a bv. intézetbe. A törvény ezt a hiányosságot pótolva, a köztársasági elnök döntésétől számítva harminc napot ír elő a BVOP számára, hogy intézkedjen az elítélt bv. intézetbe történő bevonulása vagy visszatérése iránt. Ahhoz, hogy a BVOP a szükséges intézkedéseket megtehesse, értesülnie kell a köztársasági elnök döntéséről. Ezért a törvény rendelkezik arról, hogy a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszter a BVOP-nak is küldje meg, ha az elítélt szabadságvesztés büntetésének végrehajtását a kegyelmi döntés meghozataláig elhalasztották vagy félbeszakították.
+
+A 109. §-hoz
+
+A Bv. tv. új 46/A. §-ához:
+
+A törvény ezen rendelkezése rögzíti, hogy a TÉSZ-re ítélt személyek esetében különleges, nem kérelemre induló kegyelmi eljárást kell lefolytatni. Ezzel biztosítja a magyar jogrendszer az Ítéletben kifejtett azon követelményt, hogy a TÉSZ esetében legyen olyan eljárás, amely során - ha a szabadságvesztésből már megfelelő hosszúságú idő eltelt - vizsgálható, hogy a büntetés büntetőpolitikai indokai továbbra is fennállnak-e. Az Ítélet alapján a törvény továbbá azt is biztosítja, hogy azok az eljárási szabályok, illetve feltételek, szempontok, amelyeket a kegyelmi eljárásban vizsgálni kell, már a büntető ügyben hozott ítélet meghozatalakor előreláthatóak legyenek.
+
+Az új kegyelmi eljárás tehát annyiban eltér a kegyelmi eljárások eddigi kereteitől, hogy azt kötelező megindítani, tehát nem kegyelmi kérelemre indul.
+
+A törvény egyértelművé teszi azt is, hogy a TÉSZ tekintetében az elítélt az általános szabályok szerint továbbra is bármikor kegyelmi kérelmet nyújthat be (illetve hivatalból is bármikor kezdeményezhető a kegyelmi eljárás), azaz az új, kötelezően lefolytatandó kegyelmi eljárás nem kizárólagos, hanem az kiegészíti az egyéni kegyelem kérelmezésének az eddig is létező, a TÉSZ-re ítéltek számára is nyitva álló lehetőségét.
+
+A Bv. tv. új 46/B. §-ához:
+
+Az új, kötelezően lefolytatandó kegyelmi eljárást hivatalból kell megindítani. Az eljárás megindításának a feltétele, hogy az elítélt a TÉSZ-ből negyven évet letöltsön. Az Ítélet nem határozta meg azt a legkorábbi időpontot, amely után a TÉSZ felülvizsgálatát el kell végezni.
+
+A törvény ezért jogpolitikai indokokból és a magyar jogrendszer koherenciájára tekintettel állapítja meg ezt az időpontot. Figyelemmel kell ugyanis lenni arra, hogy a Büntető Törvénykönyv alapján abban az esetben, ha a bíróság az elítéltet úgy ítéli életfogytig tartó szabadságvesztésre, hogy a feltételes szabadságra bocsátás lehetőségét nem zárja ki, akkor a feltételes szabadságra bocsátás legkorábbi időpontját huszonöt és negyven év közötti időpontban állapítja meg. Ha a törvény negyven évnél korábbi időpontot írna elő a TÉSZ-re ítéltek esetében lefolytatandó kötelező kegyelmi eljárás megindítására, akkor az elkerülhetetlenül érintené a feltételes szabadságra bocsátás lehetőségéből nem kizárt életfogytig tartó szabadságvesztésre ítéltek egy részét is. Például ha harminc év lenne a kötelező kegyelmi eljárás megindításának az időpontja, akkor azon nem tényleges életfogytig tartó szabadságvesztésre ítéltek esetében is be kellene vezetni a kötelező kegyelmi eljárást, akik esetében a bíróság harminc és negyven év közötti időtartamban állapította meg a feltételes szabadságra bocsátás legkorábbi időpontját, ellenkező esetben előnyösebb helyzetbe hozná a jogalkotó a TÉSZ-re ítéltet a feltételes szabadságra bocsátható életfogytig tartó szabadságvesztésre ítéltnél.
+
+A törvény ezenkívül tekintettel van a TÉSZ-re ítéltek önrendelkezési jogának azon aspektusára, hogy maguk döntsenek abban a kérdésben, hogy egyáltalán kívánják-e, hogy a törvény által bevezetni kívánt különleges kegyelmi eljárást lefolytassák vagy sem. Ezen megfontolásból a törvény előírja, hogy a kötelező kegyelmi eljárás elindításának a feltétele az elítélt hozzájárulása a kegyelmi eljáráshoz. Hozzájáruló nyilatkozat nélkül az igazságügyért felelős miniszter nem folytatja le a törvény szerinti kötelező kegyelmi eljárást.
+
+A Bv. tv. új 46/C. §-ához:
+
+Az Ítélet kifogásolta, hogy a magyar szabályozás alapján a jogerős büntetőítélet meghozatalakor a TÉSZ-re ítélt nincs tisztában azzal, hogy a kegyelmi eljárásban pontosan milyen szempontokat vizsgálnak az eljáró szervek, személyek. Ennek a hiányosságnak a kiküszöbölését szolgálja a törvény ezen rendelkezése oly módon, hogy az igazságügyért felelős miniszterre bízza a kötelező kegyelmi eljárás lefolytatásához szükséges, a kegyelmi ügyben hozott döntéshozatal során megvizsgálandó előkészítő dokumentumok, iratok, adatok beszerzését. Az általános megfogalmazásból az következik, hogy a törvény az igazságügyért felelős miniszter felelősségi körébe utalja, hogy valamennyi, a konkrét ügyben releváns iratot, adatot megvizsgáljon. Ugyanakkor annak érdekében, hogy a szabályozás támpontot nyújtson a beszerzendő iratok tekintetében, illetve hogy ezek meghatározása ne kizárólag a miniszter egyéni döntésétől függjön, a törvény felsorolja a kötelező kegyelmi eljárás során feltétlenül vizsgálandó szempontok körültekintő mérlegeléséhez szükséges, valamennyi eljárás esetében beszerzendő iratok körét. Ezen előírás révén biztosítható, hogy a döntéshozatali folyamatban részt vevő szereplők számára valamennyi releváns információ rendelkezésre álljon. Ezek közül kiemelendő a büntetés-végrehajtási szervezet által minden esetben elkészítendő, az elítélt mentális állapotára vonatkozó szakorvosi és pszichológusi vélemény, valamint az elítélt egészségi állapotára vonatkozó egészségügyi dokumentáció kötelező beszerzése.
+
+Az igazságügyért felelős miniszter a szükséges iratokat a Bv. tv. 17. §-ában szabályozott megkeresés révén szerezheti be, ami egyértelműsíti, hogy az adott iratokkal rendelkező állami és egyéb szervek a szükséges iratokat kötelesek a miniszter rendelkezésére bocsátani.
+
+A Bv. tv. új 46/D. §-ához:
+
+A törvény kifejezetten a TÉSZ-re ítéltek esetében lefolytatandó kötelező kegyelmi eljárás során történő döntéshozatalban való részvétel céljából egy új testület, a Kegyelmi Bizottság létrehozásáról is rendelkezik. Az Ítélet ugyanis kifogásolta, hogy a hatályos szabályozás nem garantálja, hogy a kegyelmi eljárásban részt vevő igazságügyért felelős minisztertől és köztársasági elnöktől független, külső vélemények is megjelenjenek az eljárásban. A törvény célja a Kegyelmi Bizottság létrehozásával, hogy a kegyelmi döntéshozatalban törvényi kötelezettségből fakadóan, megjelenhessenek az eddigi szereplőkön kívüli vélemények is.
+
+A Kegyelmi Bizottság tagjait a Kúria elnöke jelöli ki a büntető ügyekben eljáró bírók közül. A Kegyelmi Bizottság tagjaira vonatkozóan a Kúria büntető kollégiuma tesz javaslatot. A Kegyelmi Bizottság tagjává a Kúria, illetve az ítélőtáblák büntetőbírái közül lehet bírókat kijelölni. Ezzel a törvény azt a célkitűzést szolgálja, hogy a Kegyelmi Bizottság tagjai elmélyült elméleti és szakmai ismereteire, szakmai tekintélyére, továbbá jelentős bírói tapasztalatára figyelemmel kiemelkedő társadalmi elfogadottságot, illetve szakmai elismertséget élvezzen.
+
+A Kegyelmi Bizottság öttagú, hivatásos, ítélkező bírókból álló független testület. Az a körülmény, hogy a Kegyelmi Bizottság tagjai bírák, kétségbevonhatatlanul garantálja azt, hogy az igazságügyért felelős miniszteren és a köztársasági elnökön kívül álló, közjogi helyzetükből is fakadóan független személyek véleménye jelenjen meg a kötelező kegyelmi eljárásban. Hangsúlyozni kell, hogy a Kegyelmi Bizottságban részt vevő bírák nem ítélkező tevékenységet végeznek, a törvényben meghatározott szempontok vizsgálata alapján egy állásfoglalást fogadnak el.
+
+A Kegyelmi Bizottság eseti, nem állandó jelleggel működő testület, minden egyes, a TÉSZ-re ítéltek esetében kötelezően lefolytatandó kegyelmi eljárásban meg kell alakítani az abban közreműködő Kegyelmi Bizottságot. A törvényben előírt határidők biztosítják, hogy a Kegyelmi Bizottságot késlekedés nélkül hozzák létre.
+
+A Bv. tv. új 46/E. §-ához:
+
+A törvény ezen rendelkezése azokat az alapvető szervezeti és működési szabályokat állapítja meg, amelyek a Kegyelmi Bizottság működése kereteinek a meghatározásához elengedhetetlenül szükségesek. Arra tekintettel, hogy a Kegyelmi Bizottság tagjai nem ítélkező tevékenységet folytatnak, a törvény garanciális jelleggel rögzíti az Alaptörvény 26. cikk (1) bekezdésében megjelenő bírói függetlenség követelményének a Kegyelmi Bizottság eljárása során történő érvényesülését.
+
+A Bv. tv. új 46/F. §-ához:
+
+A törvény garanciális jelleggel rögzíti azokat a szempontokat, amelyeket a Kegyelmi Bizottság a vizsgálata során köteles megvizsgálni. Az Ítéletben kifejtett egyik alapvető kifogás ugyanis az volt, hogy a magyar szabályozás nem biztosította azt, hogy a TÉSZ-re ítélt már az ítélet meghozatalakor tisztában legyen azzal, hogy a kegyelmi eljárásban milyen szempontokat vizsgálnak, azaz hogy mihez kell igazítania a magatartását, mit kell tennie annak érdekében, hogy a pozitív kegyelmi döntésre lehetősége legyen. A törvényben rögzített szempontok lényegében megegyeznek azon törvényi feltételekkel, amelyeket a büntetés-végrehajtási bíró a nem tényleges életfogytig tartó szabadságvesztésekből történő feltételes szabadságra bocsátásáról szóló döntésében is köteles megvizsgálni, illetve azon szempontokkal, amelyekre tekintettel a szabadságvesztés végrehajtása félbeszakítható. Ezen kellően általános, ugyanakkor az Ítéletben hiányolt „útmutatást” tartalmazó törvényi szabály egyúttal azt is biztosítja, hogy a kötelező kegyelmi eljárásban minden esetben állásfoglalás szülessen arról a kérdésről is, hogy az adott elítélt esetében a TÉSZ fenntartásának a büntetőpolitikai indokai fennállnak-e.
+
+A törvény szabályai garantálják, hogy a Kegyelmi Bizottság minden olyan információhoz, adathoz hozzájuthasson, amelyet állásfoglalásának teljes körű és körültekintő kialakításához szükségesnek tart. Erre tekintettel lehetősége van arra, hogy bármilyen további iratot, adatot beszerezhessen. Arra is lehetőséget biztosít a törvény, hogy ha valamilyen vizsgálandó szakkérdés objektív megítéléséhez különleges szakértelemre van szükség, akkor a Kegyelmi Bizottság szakértőt kérhessen fel. Az elítélt mentális állapotára vonatkozóan a Kegyelmi Bizottság minden esetben köteles szakorvos vagy pszichológus szakértő közreműködését igénybe venni. A szakértő eljárásának a költségeit az állam viseli. Garanciális jellegű előírás továbbá az is, hogy a Kegyelmi Bizottság a véleményét indokolni köteles.
+
+A Kegyelmi Bizottság az elítéltet minden esetben köteles meghallgatni.
+
+A Bv. tv. új 46/G. §-ához:
+
+Az igazságügyért felelős minisztert a felterjesztés megtétele során köti a Kegyelmi Bizottság állásfoglalása. A miniszter a felterjesztését köteles a Kegyelmi Bizottság állásfoglalásával egyező tartalommal felterjeszteni a köztársasági elnökhöz. A törvény tehát a felterjesztés kialakítása tekintetében teljes mértékben biztosítja, hogy az igazságügyért felelős minisztertől független, a törvényben pontosan meghatározott szempontokat vizsgáló testület állásfoglalása szolgáljon a köztársasági elnök döntése alapjául.
+
+Garanciális szabályként, az eljárás elhúzódásának megakadályozása érdekében a törvény a miniszter számára határidőt állapít meg a felterjesztés elkészítésére. A köztársasági elnök döntése során rendelkezésre áll valamennyi irat, így a Kegyelmi Bizottság állásfoglalása is. A kegyelmi döntés meghozatalára és a határozat kézbesítésére a kegyelmi eljárás általános szabályai irányadók, vagyis a köztársasági elnök az alkotmányosság és a büntetőjogi végrehajthatóság kereteit tiszteletben tartva diszkrecionális döntés keretében bármilyen döntést hozhat, így pozitív döntése nem csupán a feltételes szabadságra bocsáthatóság megengedhetőségére, hanem bármely más kegyelmi rendelkezésre irányulhat. A köztársasági elnököt nem köti a miniszter felterjesztése.
+
+Az Ítéletben kifejtetteknek való minél teljesebb körű megfelelés érdekében a törvény azt is biztosítja, hogy az elítélt megismerhesse a kötelező kegyelmi eljárás döntéshozatali folyamata során vizsgált szempontokat és azok értékelését. Ennek érdekében írja elő a törvény, hogy az igazságügyért felelős miniszter a részletes indokolást is tartalmazó felterjesztést köteles az elítéltnek is megküldeni. Így elérhető, hogy az elítélt számára is hozzáférhetővé váljanak mindazon információk, adatok, amelyek alapján a Kegyelmi Bizottság az álláspontját kialakította, illetve megismerhetővé váljon a felterjesztésben a kegyelem gyakorlásával kapcsolatban tett javaslat.
+
+A Bv. tv. új 46/H. §-ához:
+
+Ha a köztársasági elnök nem gyakorol kegyelmet, akkor két év elteltével újabb hivatalbóli kegyelmi eljárást kell indítani, mindaddig amíg az elítélt a tényleges életfogytig tartó szabadságvesztés büntetését tölti. A szabály igazodik a feltételes szabadságra bocsátás szabályozásához. Ez a szabály sem érinti az elítéltnek a kegyelmi kérelem általános szabályok szerinti benyújtására vonatkozó jogosultságát.
+
+A 110. §-hoz
+
+A módosítás pontosítja a büntetés-végrehajtási bíró feladatkörét, amit a szabadságvesztésre való felhívás rendszerének kisebb módosítása indukál, továbbá kiegészül a rendelkezés - a gyakorlat részéről felmerült egyszerűsítés igénynek megfelelően - azzal a lehetőséggel, hogy a büntetés-végrehajtási bíró az értesítőlapot érintő apróbb javításokat maga átvezethesse, és azt ne kelljen visszaküldeni kijavításra az ügydöntő határozatot hozó bíróságnak.
+
+A 111. §-hoz
+
+Lásd a 100. § indokolását.
+
+A 112. §-hoz
+
+A módosítás a megfogalmazást teszi átláthatóbbá, továbbá egyszerűsíti az eljárást azáltal, hogy mellőzi a fiatalkorú törvényes képviselőjének megidézését, mivel az a büntetőeljárás során sem előírás.
+
+A 113. §-hoz
+
+A reintegrációs őrizet elrendelésére, illetve annak későbbi, esetleges megszüntetésére a törvény a bv. bírót hatalmazza fel. A reintegrációs őrizet elrendelését megalapozó adatok beszerzése és az indítvány előterjesztése a bv. intézet feladatát képezi. Reintegrációs őrizet helyeként lakás és a hozzá tartozó bekerített hely szolgálhat. Ennek kijelölése, valamint a kijelölt hely elhagyásának feltételeinek megállapítása a bv. bíró döntési jogosultsága.
+
+A reintegrációs őrizetben lévő elítélt sajátos helyzetéből fakadóan a feltételes szabadságra bocsátásról való döntés körében a meghallgatás mellőzését teszi lehetővé.
+
+Két esetkört kivéve a döntést csak a büntetés-végrehajtási bíró hozhatja meg, bírósági titkár nem járhat el.
+
+A bűnügyi költség szabályozása eltérően alakul attól függően, hogy a reintegrációs őrizet elrendelésére, avagy megszüntetésére került sor. Előbbi esetben az állam, utóbbiban pedig az elítélt viseli a felmerült költségeket.
+
+A reintegrációs őrizet szabályait megszegő és ismeretlen helyre távozott elítélttel szemben - a megszüntetés esetén - elfogató parancs kibocsátása is kötelező.
+
+A 114. §-hoz
+
+A módosítás kiegészíti a büntetés-végrehajtási bírói eljárásokat a javítóintézeti nevelés szabadságvesztésre történő átváltoztatása esetével. Ezt a Btk. 122. §-a alapozza meg.
+
+A 115. §-hoz
+
+A Bv. tv. 71. §-a az elítélt kérelmére is lehetővé teszi az 52-70. § szerinti eljárások utólagos lefolytatását. Hogy az elítélti kérelmek ne váljanak parttalanná és ne akadályozhassák az eljárást, a törvény lehetővé teszi az új indok nélkül ismételten előterjesztett kérelmek elutasítását.
+
+A 116-117. §-hoz
+
+A Bv. tv. jelenlegi szövegezése nem tér ki az elzárás, valamint a szabálysértési elzárás hatálya alatt álló arcképmásának és egyéb adatainak kezelésére. Ezt a hiányt pótolni kell, hiszen a bv. intézet ezeket az adatokat kezeli.
+
+Tekintettel arra, hogy a rendőrség közreműködik a reintegrációs őrizet végrehajtásában, ezért szükséges az adatkezeléshez történő felhatalmazó rendelkezés megteremtése.
+
+A 118. §-hoz
+
+A módosítás átvezeti a kapcsolódó törvényeken a kényszerintézkedés hatálya alatt állók nyilvántartásának megszüntetéséből adódó módosításokat.
+
+A 119. §-hoz
+
+A pontosítás az egyértelműség érdekében szükséges. Gyakran előfordul, hogy a bűncselekmény elkövetésekor még fiatalkorú (tizennyolcadik életévét be nem töltött) esetében az ítélet a tizennyolcadik életév betöltése után születik meg. Ebben az esetben az elítélt huszonegy éves koráig a fiatalkorúak büntetés-végrehajtási intézetében tölti a büntetését. Amennyiben a szabadságvesztés tartama hosszabb, a huszonegyedik életkort elérve a felnőtt korúakra vonatkozó szabályok szerint kerül megállapításra a büntetés további végrehajtása.
+
+A 120. §-hoz
+
+A Bv. tv. jelenlegi 84. § (1) bekezdésében szereplő „az azonnali foganatbavétel” a Be.-ből átvett jogi terminológia, a szabadságvesztés foganatbavételére 8 napja van a bv. intézet illetékes szakterületnek, amely a Bv. tv. 14. §-ban meghatározott végrehajtási sorrend érvényesítése érdekében is fontos szempont.
+
+A bv. bíró a BVOP-t az értesítő lap másolatával értesíti azokról a végrehajtható szabadságvesztésekről, amelyeknél a felhívás esedékes.
+
+A kegyelmi eljárás során a köztársasági elnök döntéséig lehetőség van az elítélt szabadságvesztés büntetése végrehajtásának elhalasztására vagy félbeszakítására. Ezekben az esetekben a halasztás, illetve a félbeszakítás végének nincs konkrét időpontja és a bv. intézet jogszabályi alapot nélkülöző döntésén múlik, hogy az elítélt mikor vonul be vagy tér vissza a bv. intézetbe. A törvény ezt a hiányosságot pótolva, a köztársasági elnök döntésétől számítva harminc napot ír elő a BVOP számára, hogy intézkedjen az elítélt bv. intézetbe történő bevonulása vagy visszatérése iránt.
+
+A 121. §-hoz
+
+A BVOP a jegyzék alapján a törvényben meghatározott szempontoknak megfelelően leválogatja, hogy mely elítélt, mely bv. intézetben, mikor jelentkezzen. A BVOP a felhívást a jelentkezési időpont megjelölésével megküldi az elítélt részére, jegyzék formájában tájékoztatja az érintett bv. intézetet a befogadásra váró elítéltek adatairól, a felhívás időpontjáról, az illetékes bv. csoport megjelölésével. A BVOP egyidejűleg értesíti az illetékes bv. csoportot, hogy adott elítéltet milyen időpontra, melyik intézetbe hívta fel a szabadságvesztés megkezdésére.
+
+A 122. §-hoz
+
+Amennyiben az elítélt jelentkezik a számára kijelölt bv. intézetben, úgy az intézet haladéktalanul intézkedik az illetékes bv. csoportnál a bv. bírói rendelvénnyel ellátott értesítő és mellékletei beszerzése iránt. Szabályszerű kézbesítés esetén, amennyiben a bv. intézet a BVOP felé azt jelzi, hogy az elítélt befogadására nem került sor, úgy a BVOP automatikusan intézkedik az elítélt elővezetéséről, annak sikertelensége esetén az elfogatóparancs kibocsátása iránt. Mivel a BVOP-nak állnak rendelkezésére az iratok, így célszerű nem a bv. intézet parancsnokokra hárítani az elővezetés elrendelését, hanem a BVOP hatáskörébe helyezendő feladat. Adatkezelési szempontból is célszerű egy szervezetet felhatalmazni arra, hogy a körözési nyilvántartásba betekinthessen.
+
+A 123. §-hoz
+
+Előreláthatólag az elítéltek többségénél a fogvatartási és visszaesési kockázatok mérésére szolgáló vizsgálati módszerek lefolytatása és az összegző jelentés elkészítése nem fogja meghaladni a 30 napot. A Bv. tv. jelenlegi szövege megállapítja, hogy az elítélt 30 napig tartózkodik a KKMI-ben, ezzel kizárva annak lehetőségét, hogy a fogvatartott a kivizsgálás befejezését követően korábbi időpontban elszállítható legyen a számára kijelölt büntetés-végrehajtási intézetbe. A módosítással - logisztikai szempontokat is figyelembe véve - rugalmasabb és hatékonyabb ügyintézés érhető el, amely nem sérti vagy befolyásolja a kivizsgálások szakszerű végrehajtását.
+
+A KKMI munkatársai (szakmai team) által elítéltről készített összefoglaló jelentést helyben indokolt ismertetni a fogvatartottal és nem a végrehajtásra kijelölt bv. intézet befogadó részlegében, tekintettel arra, hogy szakmai szempontból ők kompetensek a szakszerű indokolásra, amennyiben kérdés merülne fel az elítélt részéről. Erre tekintettel kerül sor a Bv. tv. 92. § (3) bekezdésének kiegészítésére és a 95. § (2) bekezdése második mondatának hatályon kívül helyezésére.
+
+A 124. §-hoz
+
+A reintegrációs őrizet bevezetése miatti pontosítást tartalmaz.
+
+A 125. §-hoz
+
+A Bv. tv. 95. § (3) bekezdése két helyen is kitér az elítélt jövőbeni jogkövető magatartására: egyrészt a mondat bevezetésében utal az elítélt együttműködésére („Az elítélt együttműködésével”...), másrészt utóbbit megerősítve, hangsúlyozásra kerül az elítélt beleegyezésének szükségessége (...”az elítélt beleegyezésével elkészült”...).
+
+A jogalkotói szándék elsősorban arra irányul, hogy a fogvatartott részese legyen a program kialakításának, amely motiválttá teheti büntetése eredményes végrehajtása és reintegrációjának sikeressége tekintetében, és nem az a cél, hogy kvázi vétójogot kapjon felette. Erre figyelemmel a szakasz átfogalmazásra került, kiemelve, hogy bár törekedni kell az elítélttel való együttműködésre, az elítélti beleegyezés hiánya nem lehetetleníti el az egyéniesített programterv kidolgozását.
+
+A 126. §-hoz
+
+A módosítás révén a Befogadási és Fogvatartási Bizottság feladatköre pontosabban, teljeskörűbben kerül felsorolásra és egyértelműen rögzíti az elítélt kötelező meghallgatásának eseteit.
+
+A 127. §-hoz
+
+A szakasz a megfelelő jogértelmezést elősegítő pontosítást tartalmaz.
+
+A 128. §-hoz
+
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény lehetővé teszi az Országgyűlés Nemzetbiztonsági bizottsága számára, hogy egyes esetekben ténymegállapító vizsgálatot folytasson le, amelynek során a közreműködésre kötelezett személyt megidézheti. Tekintettel arra, hogy a Szabs. tv. 216/A. §-a önálló szabálysértési tényállásként szabályozza az Országgyűlési nemzetbiztonsággal foglalkozó állandó bizottsága ténymegállapító vizsgálati tevékenységének akadályozását, ezért indokolt az erre idézett személyek vonatkozásában a bv. intézetek előállítási kötelezettségét előírni. Erre figyelemmel szükséges volt a Bv. tv. 113. § (1) bekezdését kiegészíteni.
+
+A 129. §-hoz
+
+A Bv. tv. 115. § (2) bekezdésének szövegezése jelenleg nem teszi egyértelművé, hogy mire is irányult a jogalkotói szándék. A hatékony jogalkalmazást elősegítendő ezért szükséges a pontok átfogalmazása, illetve a fogház fokozatra utalás elhagyása, tekintettel arra, hogy annál enyhébb végrehajtási fokozat nem jelölhető ki.
+
+A 130. §-hoz
+
+Az egyes törvényeknek a belügyminiszter feladat- és hatáskörével összefüggő módosításáról szóló 2014. évi XXX. törvény a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységek között nem határozta meg a szabadságvesztés félbeszakítása ügyében készített környezettanulmányt. Ugyanakkor azonban utóbbi tevékenység büntetés-végrehajtási feladat, ezért a 2015. január 1-jétől hatályba lépő Bv. tv.-ben szükséges elvégezni a módosítást.
+
+A 131. §-hoz
+
+A szabadságvesztés foganatosításával az elítélt és a büntetés-végrehajtási intézet között büntetés-végrehajtási jogviszony jön létre. Az újabb szabadságvesztés foganatosítása újabb jogviszonyt eredményez. Bármilyen intézkedés csak az aktuálisan töltött ítélettel (jogviszonnyal) összefüggésben foganatosítható, így a büntetés-félbeszakítás is csak erre vonatkozhat. A törvény továbbra is elsőbbséget biztosítana a végrehajtási sorrend érvényesülésének, hiszen amennyiben a bíróság értesítése egy újabb szabadságvesztés kiszabásáról a végrehajtási sorrendet megváltoztatja, akkor annak érvényesítése érdekében a folyamatban lévő intézkedések megszakítása is indokolt. Abban az esetben azonban, ha az újabb szabadságvesztésről érkezett bírói értesítés nincs kihatással a végrehajtás sorrendjére és a büntetés-félbeszakítás indoka továbbra is fennáll, akkor a félbeszakítás megszűntetése indokolatlan.
+
+A törvény az engedélyező mérlegelési jogkörébe utalja annak eldöntését, hogy a szabadságvesztés félbeszakítását megszünteti-e abban az esetben, amikor az elítélttel szemben olyan újabb szabadságvesztés végrehajtásáról érkezik értesítőlap, amely a végrehajtás sorrendjére nincs kihatással.
+
+A gyakorlatban előfordul, hogy a bv. intézet parancsnoka is engedélyezi az elítélt szabadságvesztés büntetésének félbeszakítását és ezzel párhuzamosan a kegyelmi eljárás során az igazságügyért felelős miniszter is elrendeli a szabadságvesztés büntetés végrehajtásának félbeszakítást. Annak elkerülése érdekében, hogy az elítélt párhuzamosan két jogcímen is szabadságvesztés félbeszakításon legyen, a törvény előírja, hogy kegyelmi eljárás során engedélyezett szabadságvesztés büntetés félbeszakítás esetén, a más jogcímen engedélyezett büntetés félbeszakítást meg kell szüntetni.
+
+A 132. §-hoz
+
+Azon esetek köre, amikor az elítélt nem kötelezhető a tartási költségek megfizetésére, kiegészül a reintegrációs őrizettel.
+
+A 133. §-hoz
+
+A módosítás a kárviselésre vonatkozóan kiegészíti a szabályozást, amely ezáltal egyértelművé teszi azt is, hogy mely esetekben keletkezik a költségvetési szerv oldaláról költségviselési kötelezettség.
+
+A 134. §-hoz
+
+A törvény jelenlegi szövegéből nem derül ki egyértelműen, hogy mely szerv folytatja le az eljárást. A módosítás e hiányosságot küszöböli ki.
+
+A 135. §-hoz
+
+A Bv. tv. az elítéltre vonatkozó rendelkezések között szabályozza a kártérítési eljárás általános szabályait. A rendőrségi fogdán végrehajtandó fogvatartások (elítélt rendőrségi fogdán történő ideiglenes elhelyezése, előzetes letartóztatás, bűnügyi őrizet, a szabálysértési elzárás büntetés meghatározott esetekben, a bv. őrizet, továbbá a Bv. tv. hatálya alá nem tartozó szabálysértési és közbiztonsági őrizet) tekintetében ugyanakkor a kártérítési eljárásra semmilyen eltérő szabályt nem határoz meg, azonban a kártérítésre vonatkozó általános, az elítéltekre irányadó szakaszokat ezen esetekben is alkalmazni kell. Ezt a Bv. tv., valamint a Szabs. tv. és az Rtv. is előírja, a szabadságvesztés végrehajtására történő közvetett utaló szabályok útján.
+
+Ezen utaló szabályok alapján a szabálysértési őrizetre a Szabs. tv. módosított 73. § (14) bekezdése, a közbiztonsági őrizetre az Rtv. módosított 38. § (5) bekezdése a Bv. tv. őrizetre vonatkozó szabályait rendeli alkalmazni. A Bv. tv. 427. § (1) bekezdése alapján az őrizet végrehajtására az előzetes letartóztatás végrehajtására vonatkozó szabályokat, a Bv. tv. 386. § (1) bekezdése alapján az előzetes letartóztatás végrehajtására a szabadságvesztés végrehajtására vonatkozó szabályokat kell alkalmazni. A Bv. tv. 433. § (1) bekezdése a szabálysértési elzárás végrehajtására az elzárás végrehajtására vonatkozó rendelkezéseit rendeli alkalmazni. A Bv. tv. 273. § (3) bekezdése értelmében az elzárás végrehajtására a szabadságvesztés végrehajtására vonatkozó szabályokat kell alkalmazni.
+
+Erre figyelemmel szükséges beépíteni egy, a rendőrségi fogdán történő végrehajtás során érvényesülő szabályt, amely meghatározza, hogy a kártérítéssel kapcsolatban a bv. szerv feladatkörébe tartozó hatáskörrel mely szerv, személy rendelkezik. A kártérítési eljárásért a rendőrkapitányság fogdájában és a megyei (fővárosi) rendőr-főkapitánysági (központi) fogdában a rendőrfőkapitány, a Készenléti Rendőrség Nemzeti Nyomozó Iroda fogdájában a Készenléti Rendőrség parancsnoka felel. Tekintettel arra, hogy az egyes őrizet típusok, az előzetes letartóztatás és a szabálysértési elzárás esetében is közvetett visszautalás történik végső soron a szabadságvesztés végrehajtásánál érvényesülő szabályozásra, az e szakasszal bevezetett módosítás valamennyi, a rendőrségi fogdán végrehajtandó fogvatartásnál irányadó lenne.
+
+A 136. §-hoz
+
+A rendelkezés a jogorvoslathoz való jog gyakorlását segíti elő.
+
+A 137. §-hoz
+
+A módosítás egyértelművé teszi, hogy az egyéni reintegrációs program elkészítése a bv. intézet feladata.
+
+A 138. §-hoz
+
+Az egyéni reintegrációs program felülvizsgálatának és szükség szerinti módosításának lehetőségét teremti meg a szakasz.
+
+A 139. §-hoz
+
+A módosítás a bv. intézet parancsnokának mérlegelési jogkörébe utalja annak eldöntését, hogy az elítélt által elkövetett újabb bűncselekmény súlyosságához mérten szükségesnek tartja-e a társadalmi kötődés program végrehajtásának felfüggesztését.
+
+A 140. §-hoz
+
+A 187/A. §-hoz:
+
+A reintegrációs őrizet jogintézményének bevezetésével a büntetés-végrehajtás eszköztára jelentősen bővül a progresszív szabadságelvonás, a normalizáció és a sikeres társadalmi visszailleszkedés elősegítése tekintetében. Azok a jogerősen elítéltek, akik reintegrációs őrizetbe kerülnek, korlátozottan visszanyerik személyi szabadságukat, távozhatnak a büntetés-végrehajtási intézetből, de csak a büntetés-végrehajtási bíró által kijelölt házba, lakásba, amelyet csak meghatározott esetekben hagyhatnak el.
+
+A társadalmi visszailleszkedés ilyen módon lépcsőzetesen valósul meg, a teljes szabadságelvonás és a felelős önálló életvezetés közé belép egy az állami szervek által felügyelt életszakasz, amely legfeljebb hat hónapig tarthat. Ez a tartam generális maximumként jelenik meg, azaz a reintegrációs őrizet ennél kevesebb ideig is tarthat. Ebben az időszakban az elítélt biztosíthatja önálló megélhetését, munkát kereshet és vállalhat, tanulmányokat folytathat, újraalakíthatja és erősítheti családi, társadalmi kapcsolatait.
+
+Kizárja viszont a reintegrációs őrizet lehetőségéből azt az elítéltet, akit a Btk. 459. § (1) bekezdés 26. pontjában meghatározott személy elleni erőszakos bűncselekmény miatt ítéltek el, tekintettel arra, hogy az ilyen súlyos bűncselekményeket elkövetőket nem indokolt ebben a kedvezményben részesíteni.
+
+A reintegrációs őrizet lehetősége, a büntető anyagi jogi szabályokkal egybehangzóan csak a társadalomra kevésbé veszélyes, nem életvitelszerű bűnelkövetők számára adott. Ki kell emelni ezért, hogy csak az első alkalommal, szabadságvesztésüket börtön vagy fogház végrehajtási fokozatban töltők esetén lehetséges az elrendelés. Az ítélet tartama nem lehet több öt évnél. Az ennél hosszabb tartamú szabadságelvonások során a büntetés-végrehajtás egyéb eszközeivel, de büntetés-végrehajtási intézeti körülmények között készíti fel az elítéltet a szabadulás utáni társadalmi beilleszkedésre.
+
+A 187/B. §-hoz:
+
+A reintegrációs őrizet a bv. intézet tartós elhagyásával járó, progresszív végrehajtási forma. Ennek megfelelően előkészítési és engedélyezési eljárásában illeszkednie kell a hasonló jogintézmények kialakult gyakorlatához.
+
+A bv. intézet az elítélt végrehajtás alatt tanúsított kifogástalan magatartása, a büntetés-végrehajtási szervezet személyi állományával való együttműködése és a szabadságvesztés céljának elérésében való aktív közreműködése alapján kezdeményezheti a reintegrációs őrizet elrendelését a bv. bírónál. A szabadságvesztést végrehajtó intézet mellett ugyanakkor szükséges megadni egy alkalommal a kezdeményezés jogát a fogvatartottnak és védőjének is, ugyanakkor mindkét esetben előfeltétel a törvényi előfeltételeknek való megfelelés.
+
+A bv. intézet, amennyiben kizáró feltételek nem állnak fenn, a kezdeményezőtől függetlenül előterjesztést készít a bv. bíró számára, amely tartalmazza az összefoglaló véleményeket és az bv. intézet vezetőjének javaslatát. Az előterjesztés összeállításának megkezdésével egy időben a bv. intézet megkeresi a büntetés-végrehajtási pártfogó felügyelőt egy, az elítélt családi viszonyairól, munkavállalási lehetőségeiről és a reintegrációs őrizet céljából kijelölhető házról, lakásról szóló környezettanulmány elkészítése céljából. A bv. intézet és a büntetés-végrehajtási pártfogó felügyelő előterjesztése egymásra nincs hatással, ezért azok összevonása nem indokolt, mindkét szerv önállóan küldheti meg az iratokat a döntésre jogosult bv. bíró részére.
+
+Az előterjesztést a bv. intézet harminc napon belül köteles elkészíteni és megküldeni. A törvény így alapesetként értelmezi a meghatározott határnapnál korábbi előterjesztést, ennek megfelelően soron kívüliséget állapít meg, ha a kezdeményezés vagy kérelem a szabadságvesztés utolsó hat hónapjában érkezik.
+
+Felkészülve azon élethelyzetekre, amikor az elítélt nem a saját tulajdonában álló ingatlant jelöli meg, a törvény előzetes fogadó nyilatkozat beszerzését írja elő. Ezzel az ingatlan tulajdonosa nem csak az elítélt befogadását, lakhatásának biztosítását, de a reintegrációs őrizettel járó egyéb kötelezettségeket is magára nézve kötelezőnek ismeri el.
+
+A 187/C. §-hoz:
+
+A 187/A. §-ban foglalt kizáró körülmények mellett a törvény megjelöli azokat az eseteket, amikor nincs helye a reintegrációs őrizet elrendelésének. Az általános érvényű, tiltó rendelkezések a büntető-eljárásjogi és a büntetés-végrehajtási jogi státuszhoz kapcsolódnak, de rögzítésre kerül az is, hogy az elítélt fogva tartása alatt korábban engedélyezett reintegrációs őrizet, neki felróható okból megszüntetése kizárja annak későbbi engedélyezését.
+
+A 187/D. §-hoz:
+
+Az elítélt számára a reintegrációs őrizet a személyi szabadságának részbeni visszaállításán kívül abból a szempontból is előnyös, hogy annak tartama a szabadságvesztésbe beleszámít, ezzel párhuzamban csökken a bv. intézetben töltött tartam.
+
+A reintegrációs őrizet teljes tartama alatt az elítéltre szigorú magatartási szabályok vonatkoznak. Ezek betartásának ellenőrzését indokolt a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv közös feladataként megjelölni, a hatékony reagáló képesség, az infrastruktúra eredményes és költséghatékony kihasználása, valamint a hatékony információáramlás érdekében.
+
+Tekintettel arra, hogy a reintegrációs őrizet megszüntetése esetén az elítélt ismét bv. intézetbe kerül, a büntetés-végrehajtási szervezet számára a jogszabály megadja a lehetőséget, hogy a reintegrációs őrizet szabályainak megtartására vonatkozó információkat megismerje.
+
+Alapvető fontosságú a feltételes szabadságtól elhatárolni a reintegrációs őrizetet. A feltételes szabadság egy büntető anyagi jogi intézmény, amelynél a szabadságvesztés végrehajtása során tanúsított magatartás alapján a bíróság eltekint a büntetés meghatározott részének végrehajtásától. Ezzel szemben a reintegrációs őrizet tartama alatt a büntetés végrehajtása folyamatos, de annak módja a progresszivitás és normalizáció követelményeinek megfelelően a szabad élethez jobban igazodik. Hatékony átmeneti eszköz lehet ezért a jelenlegi, kétpólusú rendszert kiegészítve, ahol az elítélt vagy teljes izolációban (bv. intézetben) van, vagy teljesen szabadon, időszakos ellenőrzés mellett (feltételes szabadság).
+
+A 187/E. §-hoz:
+
+Az ellenőrzési jog és kötelezettség alapján a törvény meghatározza a már engedélyezett reintegrációs őrizet megszűnésének eseteit. Ezek mindegyike az elítéltnek felróható, mivel az ő jogsértő magatartásából, vagy a reintegrációs őrizetre vonatkozó szabályok be nem tartásból erednek.
+
+A megszűntetésről az elrendelésre is jogosult bv. bíró soron kívül határoz, tekintettel arra, hogy azzal a szabadságvesztésből hátralévő tartam bv. intézetben történő végrehajtása válik szükségessé. Ennek megfelelően, szükség szerint elfogatóparancs kiadását is végre kell hajtani.
+
+A (3) bekezdés rendelkezése biztosítja, hogy a reintegrációs őrizet alkalmazása megszüntetésének napja, és az ismételt bv. intézeti befogadás napja közötti időszak a szabadságvesztésbe nem számít bele, így a kiszabott büntetés teljes egészében végrehajtásra kerül.
+
+A 141. §-hoz
+
+A fiatalkorú fogvatartott reintegrációs őrizetre bocsáthatóságának speciális feltételeit határozza meg.
+
+A 142. §-hoz
+
+A módosítás egyrészt pontosítja a foglalkozás elnevezését igazodva a Bv. tv. egyéb szakaszainak fogalomhasználatához, másrészt garanciális okból rögzíti a foglalkoztatás minimális és maximális időtartamát és rendezi a foglalkoztatáson részt vevő elítélt által igényelhető pénzbeli térítéssel kapcsolatos kérdéseket.
+
+A 143. §-hoz
+
+A megőrzésre átvett tárgyakért való felelősség kimentésére vonatkozó rendelkezés és a leltárhiányért való felelősség kizárása törvényi szintű szabályozást igényel.
+
+A 144. §-hoz
+
+A büntetés-végrehajtás körében a kárigény érvényesítése a bv. szerv által lefolytatott kártérítési eljárás keretében történik, arról a bv. szerv határozattal dönt, amely határozat a bíróság előtt megtámadható. A munkáltatásból eredő kártérítési igény elbírálása körében a munka törvénykönyve rendelkezései irányadók, azonban a kártérítési eljárás sajátosságaira figyelemmel az igényérvényesítésre vonatkozó rendelkezések alkalmazásának kizárását törvényi szinten kell szabályozni.
+
+A 145-146. §-hoz
+
+A szabadságvesztésen kívüli büntetésekre (a pénzbüntetést, közérdekű munkát helyettesítő szabadságvesztés, a büntetőjogi elzárás, valamint a rendbírságot helyettesítő elzárás) vonatkozó felhívási rend kialakítása változtatást nem igényel, az továbbra is működhet a jelenlegi formában.
+
+A 147-149. §-hoz
+
+Az egyes törvényeknek a belügyminiszter feladat- és hatáskörével összefüggő módosításáról szóló 2014. évi XXX. törvény határozza meg a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységeket. Ehhez, illetve a pártfogó felügyelői és büntetésvégrehajtási pártfogó felügyelői tevékenység elkülönítéséhez kapcsolódóan szükséges a Bv. tv. érintett rendelkezéseinek módosítása.
+
+A 150. §-hoz
+
+A jelenlegi szöveg a foglalkoztatás lehetséges időtartamát indokolatlanul rövidként határozza meg. A módosítás módosít ezen, egyben tisztázza a foglalkoztatáson részt vevő elítélt által igényelhető pénzbeli térítéssel kapcsolatos kérdéseket.
+
+A 151. §-hoz
+
+Valamennyi fogvatartotti csoport esetében csak a közeli hozzátartozó látogatása, illetve temetésén való részvételt szabályozza a törvény, így a kényszergyógykezelteknél sem indokolt ettől eltérni.
+
+A 152. §-hoz
+
+A Bv. tv. nem ad egyértelmű iránymutatást arra vonatkozóan, hogy a javítóintézeti rendész a javítóintézeti nevelést töltő fiatalkorúval szemben is alkalmazhat-e testi kényszert, vagy arra kizárólag az előzetesen letartóztatott fiatalkorú tekintetében kerülhet sor. Erre tekintettel a Bv. tv. 368. §-ának módosítása indokolt.
+
+A 153. §-hoz
+
+A rendőrségi fogdák rendjéről szóló BM rendelet tervezetének a fegyelmi eljárásra vonatkozó rendelkezései kizárólag a szűk értelemben vett elítéltre vonatkoznak, azaz a fegyelmi eljárás szabályai nem terjednek ki a rendőrségi fogdán ideiglenesen elhelyezett javítóintézeti nevelés alatt álló fiatalkorúra. Ennek oka, hogy a Bv. tv. 372. § (4) bekezdése alapján a fiatalkorú - az elítélttől eltérően - nem tartózkodhat huzamosabb ideig a rendőrségi fogdán, ugyanis őt a szükséges nyomozási cselekmények elvégzését követően, de legfeljebb öt napon belül vissza kell kísérni a javítóintézetbe. A Bv. tv. 375. § (1) bekezdése pedig kimondja, hogy a fegyelmi eljárást a fegyelmi vétség elkövetésétől, vagy ismertté válásától, szökés esetén a fiatalkorúnak a javítóintézetbe történő visszakerülésétől számított három napon belül meg kell indítani, és öt napon belül be kell fejezni.
+
+A fentiekre tekintettel nem lenne elegendő idő ahhoz, hogy a rendőrségi fogdán kerüljön sor a fegyelmi eljárás megindítására, adott esetben lefolytatására. Említést érdemel az is, hogy a fiatalkorúakra vonatkozó speciális eljárási szabályok alkalmazása a rendőrségi fogdák számára külön nehézséget jelentene. Ezért a Bv. tv. módosítása szolgál a leghatékonyabb megoldásként azzal, hogy a szökéshez hasonlóan lehetővé teszi, hogy ilyen esetben a javítóintézetbe történő visszakerülést követő három napon belül elegendő legyen elrendelni a fegyelmi eljárást.
+
+A 154. §-hoz
+
+Az előzetes letartóztatás végrehajtásának helyét határozza meg.
+
+A 155. §-hoz
+
+A szakasz a Bv. tv. 123. § (5) bekezdéséhez hasonlóan rendelkezik az előzetesen letartóztatottnak az előllítással kapcsolatos költségviseléséről.
+
+A 156. és a 40. § c) pontjához
+
+A Be. 161. § (7) bekezdése szerint az elzárás végrehajtására a szabálysértési jogszabályok irányadók azzal, hogy az elzárás végrehajtásának elhalasztása vagy félbeszakítása csak a megbírságolt személy kórházi gyógykezelésének szükségessége esetén és csak ezen időtartamig engedélyezhető. Az elzárást büntetés-végrehajtási intézetben kell végrehajtani. A Bv. tv. 432. §-a pedig a Btk. szerinti elzárásra hivatkozik vissza, és határoz meg bizonyos, attól eltérő szabályokat. Erre figyelemmel szükséges volt a Be. és a Bv. tv. egymáshoz való viszonyát a rendbírság helyébe lépő elzárás tekintetében rendezni.
+
+A 157. §-hoz
+
+A Szabs. tv. értelmében egyes, két napot meg nem haladó tartamú elzárás büntetések végrehajtására a rendőrségi fogdákon fog sor kerülni. Mivel a Bv. tv. elzárásra vonatkozó szabályai között a végrehajtás helye tekintetében kizárólag a büntetés-végrehajtási intézet jelenik meg, az eltérést biztosító jogszabályi koherencia megteremtése szükséges a szabálysértési elzárással kapcsolatos rendelkezések között.
+
+Továbbá, mivel a rendőrségi fogdán kizárólag legfeljebb két nap időtartamú szabálysértési elzárás végrehajtására kerülhet sor, a munkáltatás lehetőségét e fogvatartottak tekintetében mellőzni szükséges.
+
+A 158. §-hoz
+
+Az egyes miniszterek hatáskörét megvizsgálva, illetve a Bv. tv. kapcsán szükségessé váló rendeletalkotást figyelembe véve indokolttá vált a felhatalmazó rendelkezések pontosítása.
+
+A Bv. tv. 434. § (4) bekezdéséhez hasonlóan a szabadságvesztés, az elzárás és az előzetes letartóztatás végrehajtásának részletes szabályainak megállapításánál is indokolt a legfőbb ügyész véleményének kikérése. Szintén indokolt, hogy a szabadságvesztés, az elzárás és az előzetes letartóztatás mellett a rendbírság helyébe lépő elzárás végrehajtási szabályainak megalkotására is kiterjedjen a felhatalmazás.
+
+Az elkobzás végrehajtásának szabályai csak a rendészetért felelős miniszter egyetértésével alkothatóak meg, erre tekintettel szükséges a felhatalmazó rendelkezés kiegészítése.
+
+Tekintettel arra, hogy a külföldi fizetőeszközzel kapcsolatos eljárások napjainkban már kisebb jelentőséggel bírnak, illetve arra, hogy a fogvatartottak letétjének kezelése olyan fontos terület, amely megfelelő szabályozás kidolgozását igényli, szükségessé vált a felhatalmazó rendelkezés módosítása.
+
+Az egyszerűsítés és a hatékonyság fokozása érdekében célszerűnek tűnik a szabadságvesztés és az elzárás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályait egyazon rendeletben szabályozni, különös tekintettel arra, hogy mindkettő vonatkozásában az igazságügyért felelős miniszter egyetértése szükséges.
+
+A szabálysértési elzárás végrehajtását foganatosító intézetek kijelölésének szabályait a szabadságvesztés és az elzárás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályaihoz hasonlóan a büntetés-végrehajtásért felelős miniszter állapítja meg. Ugyanakkor a szabálysértési elzárás vonatkozásában a rendelet kiadásához a szabálysértési szabályozásért felelős miniszter egyetértése szükséges, így indokolt e tekintetben külön felhatalmazó rendelkezést rögzíteni.
+
+A Szabs. tv. tartalmazta eddig a szabálysértési elzárás végrehajtása részletes szabályainak megalkotására vonatkozó felhatalmazó rendelkezést. E rendelkezés azonban rendszertanilag jobban illeszkedik a Bv. tv. szabályai közé, ezért indokolt annak ehelyütt való elhelyezése és a Szabs. tv.-ből való törlése. A rendelet kiadása a büntetés-végrehajtásért felelős miniszter hatáskörébe tartozik, aki a szabályok kidolgozását a szabálysértési szabályozásért felelős miniszterrel egyetértésben és a legfőbb ügyész véleményének kikérésével végzi.
+
+Az egészséget nem veszélyeztető és biztonságos munkavégzés, valamint a foglalkozás-egészségügyi szolgálat szabályait a büntetés-végrehajtási szervezetnél a jelenlegi szöveg szerint az igazságügyért felelős miniszter dolgozza ki. E területek jellegzetességeire tekintettel e szabályozási jogosultságot azonban indokoltabb a büntetés-végrehajtásért felelős miniszter hatáskörébe utalni.
+
+A rendőri feladatok végrehajtása miatt nem a büntetés-végrehajtásért, hanem a rendészetért felelős miniszter megjelölése az indokolt, továbbá a pártfogó felügyelet ellátása az igazságügyért felelős miniszter feladatkörébe tartozik, ezért egyetértőként őt indokolt megjelölni.
+
+Visszaállítja a rendészetért felelős miniszter rendeletalkotási jogkörét megalapozó felhatalmazó rendelkezést az elektronikus távfelügyeleti eszköz alkalmazására vonatkozóan.
+
+A javítóintézeti rendészek kiegészítő képzésének és a vizsgájának részletes tartalmi feltételeit, illetve ezek díját; a vizsgaszabályzatot; valamint a kiegészítő képzésnek és vizsgának megfelelő szakirányú képesítések és képzettségek jegyzékét a rendészetért felelős miniszter rendelete fogja szabályozni.
+
+A 159. §-hoz
+
+Tekintettel arra, hogy a záró kockázatelemzési véleményre vonatkozó rendelkezés a jobb átláthatóság és értelmezhetőség okán külön bekezdésbe került, szükségessé vált a hatálybalépésről rendelkező szakasz módosítása is.
+
+A 160. §-hoz
+
+A BFB eljárásának szabályait a korábbinál részletesebben határozza meg a szakasz.
+
+A 161. §-hoz
+
+A 2012/13/EU irányelv külön cikkben (5. cikk) foglalkozik az európai elfogatóparancs alapján fogvatartott személyek tájékoztatáshoz való jogával. Ezzel kapcsolatban megjegyzendő, hogy az európai és nemzetközi bűnügyi együttműködés keretében a letartóztatást megelőzően elrendelhető őrizetre a Bv. tv. hatálya nem terjedt ki a 2. § c) pontja értelmében, így szükséges volt a szakasz módosítása. A Bv. tv. 427. § (2) bekezdésének módosítása révén pedig az is egyértelművé vált, hogy az ilyen típusú őrizet végrehajtására is a rendőrségi fogdán kerül sor.
+
+A viselkedésterápia mint konkrét módszer jogszabályban történő kizárólagos meghatározása, leszűkíti és kizárja más, esetleg hatékonyabb eszközök alkalmazásának lehetőségét, és szakmai szempontból tekintve nem minden szexuális bűnelkövetőre alkalmas. Számos más, olyan módszer áll rendelkezésre, amely alkalmas lehet a megfelelő kezelésre, ezért nem célszerű a terápia típusának konkretizálása. A csoportos foglalkozás kerete a foglalkozásnak, amely nem feltétlenül adekvát az adott fogvatartott esetében, tekintettel arra, hogy a fogvatartottat személyiségétől, kriminalisztikai hátterétől függően egyéni terápiába szükséges bevonni.
+
+A szakasz egyebekben pontosításokat tartalmaz az egységes fogalomhasználat kialakítása érdekében.
+
+A 162. §-hoz
+
+A végrehajtási sorrend meghatározása valamennyi összbüntetés esetén szükséges. Ugyanakkor a jelenlegi megszövegezés ahhoz a helytelen gyakorlathoz vezetne, mely szerint a végrehajtási sorrend összbüntetésbe foglalható, vagy összbüntetésbe foglalt szabadságvesztés esetén nem lenne megállapítandó. Erre tekintettel szükséges a Bv. tv. 14. § (2) bekezdésének javítása.
+
+A Bv. tv. 24. § (6) bekezdése, valamint 72. § (2) bekezdése egyaránt tartalmazza, hogy a büntetés-végrehajtási bíró bírósági felülvizsgálati eljárásban hozott határozata ellen nincs helye fellebbezésnek. A tartalmi ismétlődés elkerülése érdekében a 72. § (2) bekezdésének elhagyása indokolt.
+
+A Bv. tv. 84. § (8) bekezdésének hatályon kívül helyezését az indokolja, hogy az itt rögzítettek átkerülnek a 85. §-ba, tekintettel arra, hogy a felhívásra vonatkozó egyéb szabályok is itt kaptak helyet.
+
+A Bv. tv. 104. § (2) bekezdés d) és e) pontjának külön szerepeltetése felesleges, mivel a c) pont ezen esetköröket is magában foglalja.
+
+A 156. § (1) bekezdésének kiiktatása a felesleges duplikáció elkerülése érdekében indokolt.
+
+A Bv. tv. fegyelmi fenyítést szabályozó 169. § (1) bekezdésének és (3) bekezdés g) pontjának rendelkezései között ellentét mutatkozik, a magánelzárás hatálya alatt álló elítélt által végezhető munka, illetve annak tilalma tekintetében. Igazodva a korábbiakban is alkalmazott gyakorlathoz, a reintegrációs célok érvényesítése érdekében a magánelzárás hatálya alatt álló elítélt számára indokolt esetben engedélyezhető a munkavégzés. Ennek megfelelően a Bv. tv. 169. § (3) bekezdés g) pontjának hatályon kívül helyezése indokolt.
+
+A Bv. tv. 342. § hatályon kívül helyezése egyszerűsítési célokat szolgál.
+
+A Bv. tv. 390. § (1) bekezdése határozza meg a rendelkezési jogkör gyakorlójának hatáskörét. A rezsimszabályok alkalmazása a bv. intézet parancsnokának diszkrecionális jogkörébe tartozik.
+
+A Bv. tv. 404. § (1) bekezdésének utolsó mondata szerepel a rendelkezési jogkör gyakorlása résznél [Bv. tv. 390. § (1) bekezdés a) pont], így a Bv. tv. 404. § (1) bekezdésében felesleges megismételni.
+
+A Bv. tv. 406. § (11) bekezdésében foglaltak a törvénynek a sértettek jogaival és érdekeinek védelmével foglalkozó 13. §-ába kerül beépítésre.
+
+A 163. §-hoz
+
+A törvény módosítja a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvényt. Egyértelművé teszi, hogy a Kegyelmi Bizottság tagjaként eljáró bíró e feladatát az ítélkezési vagy igazgatási munkája mellett látja el. E módosítás célja, hogy a bírák jogállásáról szóló szabályok között is világosan megjelenjen az új bírói feladatellátás jellege.
+
+-----STARTING---POINT---VEGE---
+
+A 164. §-hoz
+
+Hatályba léptető rendelkezést tartalmaz.
+
+A 165. §-hoz
+
+Jogharmonizációs záradékot tartalmaz.
+
+A 166. §-hoz
+
+Sarkalatossági záradékot tartalmaz.

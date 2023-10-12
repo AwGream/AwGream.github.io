@@ -1,0 +1,485 @@
+2020. évi CXIX. törvény végső előterjesztői indokolása
+
+a polgári perrendtartásról szóló 2016. évi CXXX. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 2018. január 1-jén lépett hatályba, felváltva a több mint hatvan évig hatályban lévő, a polgári perrendtartásról szóló 1952. évi III. törvényt (a továbbiakban: 1952-es Pp.). A Pp. számos újítást vezetett be annak érdekében, hogy kiküszöbölje az 1952-es Pp. alkalmazása során felmerült problémákat és megteremtse a perjogi kódex koherenciáját. Ennek érdekében a Pp. bevezette a perkoncentrációt biztosító osztott szerkezetű elsőfokú eljárást, igazodva az Európában érvényesülő perjogi megoldásokhoz, továbbá a felek felelős pervitelén és a bíróság aktív pervezetésén alapuló új szabályokat alkotott.
+
+A Pp. hatályosulásának tapasztalatai, az Alkotmánybíróság határozatai és a jogalkalmazó szervek visszajelzései indokolttá teszik a törvény egyes rendelkezései tekintetében a szabályozás finomítását, a perjogi szabályok egyszerűsítését és rugalmasabbá tételét. A Javaslat célja, hogy megkönnyítse a jogkeresők bírósághoz fordulása jogának gyakorlását, úgy, hogy a tervezett változtatások mellett is biztosíthatók maradjanak a koncentrált per feltételei, fennmaradjanak az osztott perszerkezet előnyei és a felek önrendelkezési joga is messzemenően érvényesüljön.
+
+A perindítás körében a tervezett módosítások a keresetlevél kötelező tartalmi elemeit egyszerűsítik, az alaki előírásokat észszerűsítik, továbbá kiterjesztik a keresetlevél hiánypótlási lehetőségeit. A módosítás a perfelvételi szak szabályai körében egyszerűsíti és rugalmasabbá teszi a keresetváltoztatás, ellenkérelem-változtatás megtételére, a bizonyítás indítványozására, továbbá az alperes ellenkérelmére és ellenköveteléseire vonatkozó szabályokat. A Javaslat tovább könnyíti a jogi képviselő nélkül eljáró felek igényérvényesítését.
+
+A Javaslat személyi állapotot érintő pereket célzó módosításainak egyik legfontosabb célja a kiskorú gyermek érdekeinek fokozott védelmét célzó rendelkezések bevezetése, továbbá a hatályos szabályok szerint is rendelkezésre álló eljárásjogi eszköztár erősítése, és újakkal történő kiegészítése. A Javaslat erősebb pervezetési jogosítványokat kíván biztosítani a bíróság számára ahhoz, hogy a kiskorú gyermek érdekeit szolgáló permenetet tudjon fenntartani. A kiskorú gyermek érdekeinek védelmében a módosítás kiszélesíti és nevesíti a hivatalbóli bizonyítás esetköreit és az ideiglenes intézkedés hivatalból történő elrendelésének lehetőségét.
+
+A Javaslat a személyi állapotot érintő perek körében a feleknek a per folyamán is folyamatosan változó életviszonyaihoz igazodó speciális eljárási szabályokat is beiktat. Erre tekintettel a Javaslat bevezet egy, kizárólag a személyi állapotot érintő perekben alkalmazható perfelvételi módot, tovább egyszerűsíti a keresetváltoztatás szabályait, könnyíti az előzetes bizonyítást és erősíti a jogi képviselő nélkül eljáró fél esetén a szóbeliséget.
+
+A Javaslat tartalmának kialakításához a hivatásrendek által tett javaslatokon kívül alapul szolgáltak a Kúria új Pp. kérdéseivel foglalkozó konzultációs testületének állásfoglalásai, a Civilisztikai Kollégiumvezetők Országos Tanácskozásának Pp.-t érintő ajánlásai, továbbá a Kúria a keresetlevél visszautasításának vizsgálata tárgykörében felállított joggyakorlat elemző csoportjának összefoglaló véleményében tett megállapítások, valamint az Igazságügyi Minisztérium Pp. hatályosulási munkacsoportjában tett észrevételek és módosítási javaslatok.
+
+Ez az indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése és a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. § (2) bekezdés a) pontjában foglaltak alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A Javaslat értelmező rendelkezések körében tett módosításai a normaszövegben elvégzett változtatásokhoz igazodnak, azokat vezetik be.
+
+A Javaslat a Pp. 7. § (1) bekezdés 4. és 12. pontjában az ellenkérelem-változtatás és a keresetváltoztatás fogalmát módosítja, oly módon, hogy abból kikerül a tényállítás megváltoztatása. A módosítás hátterében a joggyakorlat által jelzett, a perhatékonyság ellen ható gyakorlati nehézséget okozó jogértelmezési problémák állnak.
+
+A keresetváltoztatás és azzal párhuzamosan az ellenkérelem-változtatás jogintézményét a Pp. az 1952-es Pp. szabályaihoz képest lényegesen megváltoztatta azzal, hogy keresetváltoztatásnak, illetve ellenkérelemváltoztatásnak minősíti a tényállítás, a jogállítás, a jogi érvelés és a kérelem megváltoztatását egyaránt. A keresetváltoztatás és az ellenkérelem-változtatás 7. § (1) bekezdés szerinti fogalma elsősorban a tényállítás megváltoztatása vonatkozásában vet fel olyan jogértelmezési kérdéseket, amelyek nehezítik a következetes jogalkalmazás kialakulását. A joggyakorlatban a jogi érvelés megváltoztatásának kereset- és ellenkérelemváltoztatásként történő kezelése ugyancsak indokolatlanul lassítja a per lefolytatását. A Javaslat alapján keresetváltoztatásnak a jövőben már csak a jogállítás megváltoztatása és kereseti kérelem megváltoztatása tekintendő, a tényállítás megváltoztatása és a jogi érvelés megváltozatása nem eredményez keresetváltoztatást.
+
+A kereset- és ellenkérelem-változtatás fogalmi köréből a tényállítás és a jogi érvelés megváltoztatásának a Javaslat szerinti elhagyása összhangban van a Pp. 342. § (1) és (3) bekezdésében foglaltakkal is, mivel a bíróság sem a tényállításhoz, sem a jogi érveléshez nincs kötve.
+
+A Pp. 7. § (1) bekezdés 9. pontjának kiegészítése a hatásköri szabályozást érintő szövegpontosítás - a jogi személyek alapításával és törvényes működésével kapcsolatos perek fogalmával összefüggésben - a jogalkalmazói gyakorlat által jelzett bizonytalanság feloldását célozza. Ez utóbbi esetben tehát a normaszöveg egyértelművé teszi, hogy a cég létesítő okirata vagy annak módosítása hatálytalanságának vagy létre nem jöttének megállapítása iránti perek is a törvényszék hatáskörébe tartoznak [lásd Pp. 20. § (3) bekezdés ad) alpont].
+
+A 2. §-hoz
+
+A jogalkalmazói jelzések alapján a Pp. hatásköri szabályozása annyiban módosul, hogy egyes speciális tárgyú perek - pertárgyértéktől függetlenül - a törvényszék hatáskörébe kerülnek. Ennek indoka egyrészt az ügyeloszlás optimalizálása a járásbírósági, illetve törvényszéki hatáskörbe tartozó ügyek tekintetében, másrészt az ügyek elbírálásához szükséges speciális szakértelem megfelelő biztosítása. Mindezekre tekintettel a jogi személy tagjának és képviselőjének a tagsági, illetve képviseleti jogviszonyán alapuló felelősségével kapcsolatos perek, az értékpapírból származó jogviszonnyal kapcsolatos perek, valamint a nemzetközi árufuvarozási és nemzetközi szállítmányozási perek e törvény hatálybalépését követően a törvényszék hatáskörébe tartoznak.
+
+A 3. §-hoz
+
+A jogalkalmazói tapasztalatokra tekintettel a Pp. kizárólagos illetékességi szabályainak kiegészítésére azért kerül sor, hogy az együttes perlés lehetősége megvalósulhasson egyes esetekben, amikor a jogvita alapjául szolgáló jogviszonyban kötelezetti, illetve jogosulti pozícióban többalanyúság áll fenn. Fogyasztói kölcsönszerződés esetén például jellemzően előfordul, hogy több adóssal kerül megkötésre a szerződés, azonban lehetséges, hogy különböző bíróságok kizárólagos illetékessége miatt - annak ellenére, hogy az adósok egyetemlegesen kötelezettek - nem indítható meg velük szemben egy bíróság előtt a per. A gyengébb félnek tekintett fogyasztót védi a vállalkozással szemben az a főszabály, hogy lehetőleg a lakóhelye szerinti bíróságon induljon meg vele szemben az eljárás, azonban ez a jogvédelem az azonos perbeli pozícióban lévő fogyasztókat egymással szemben nem illeti meg. Ezért az eljárás az alperesek bármelyikére illetékes bíróság előtt valamennyi alperes ellen megindítható, annak érdekében, hogy a jogviszony egységesen elbírálásra kerülhessen, ami a perhatékonyság megfelelő érvényesülését is szolgálja. Hasonló megfontolásból kerül kiegészítésre a felelősségbiztosítási szerződéssel összefüggő kizárólagos illetékességi szabály is, amely több károsultat érintő káresemény vonatkozásában teszi lehetővé, hogy bármelyik károsult lakóhelye szerinti bíróság eljárhasson a kártérítési igény elbírálása érdekében.
+
+A 4. §-hoz
+
+A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 80. § (1) bekezdése szerint a kormánytisztviselő munkáltatója nem az őt közvetlenül foglalkoztató közigazgatási szerv, hanem a Kormány. A kormánytisztviselőt közvetlenül foglalkoztató közigazgatási szerv vagy szervezeti egység (álláshely) vezetője csak a munkáltatói jogkör gyakorlója. Mindezekre tekintettel jogértelmezési problémát okozhat a meghatalmazotti státusz tárgykörével összefüggésben a „munkáltatója tevékenyégével kapcsolatos” szófordulat használata a közigazgatási szerv, egyéb költségvetési szerv vonatkozásában. Indokolt ezért azt a „közigazgatási szerv tevékenységével kapcsolatos” szófordulatra változtatni.
+
+Az 5. §-hoz
+
+A 74. § (1)-(3) bekezdésének módosítása szövegpontosító jellegű. Az (1) bekezdésben rögzítésre kerül, hogy kötelező jogi képviselet előírása esetén a jogi képviselő nélkül eljáró fél perbeli cselekménye és nyilatkozata akkor hatálytalan, ha a törvény a jogi képviselet hiányához más jogkövetkezményt nem fűz. Ha ugyanis a törvény például a kérelem visszautasítását írja elő ilyen esetben, akkor értelemszerűen nem hatálytalan a kérelem, hanem a jogi képviselő mellőzésének jogkövetkezménye a visszautasítás. A (3) bekezdés módosítása egyértelművé teszi, hogy kötelező jogi képviselet előírása esetén a perorvoslati kérelmet előterjesztő félnek nem csupán rendelkeznie kell jogi képviselővel, hanem a perorvoslati kérelmet a jogi képviselője útján kell benyújtania.
+
+A (4) bekezdés tartalma az egységes joggyakorlat megteremtése érdekében a jogalkalmazói jelzések alapján kerül megállapításra. Ha kötelező jogi képviselet előírása esetén a perorvoslati kérelmet előterjesztő fél (akár felperes, akár alperes) jogi képviselete a perorvoslati eljárás során megszűnik és annak pótlásáról felhívás ellenére nem gondoskodik, a perorvoslati kérelem visszautasításra kerül. Ez egyrészt maga után vonja fellebbezés esetén a fellebbezéssel szemben előterjesztett fellebbezési ellenkérelem, illetve csatlakozó fellebbezés hatálytalanságát [lásd Pp. 372. § (3) bekezdés], másrészt egyértelművé válik, hogy eredményes perorvoslat hiányában a korábban meghozott ítélet hatálya fennmarad, az eldöntött jogvita ítélt dolognak minősül.
+
+A 6. §-hoz
+
+A jogalkalmazói jelzésekre tekintettel az adminisztrációs terhek csökkentése és a perhatékonyság növelése érdekében fakultatívvá válik a jogszabályban meghatározott költségjegyzék-nyomtatvány alkalmazása a jogi képviselővel eljáró fél perköltségének felszámítására. A költségjegyzék-nyomtatvány kötelező használatának megszüntetése azonban nem érinti a félnek a Pp. 81. §-ában meghatározott, a perköltség felszámítására vonatkozó kötelezettségét.
+
+A 7. §-hoz
+
+A jogalkalmazói tapasztalatokra tekintettel kívánja egyértelművé tenni a módosítás, hogy amennyiben a fél beazonosításához szükséges adatokat a bírósági eljárásban közlik, a közölt adatok alapján a bíróság feladata a további azonosító, illetve egyéb szükséges adat ellenőrzése, illetve beszerzése, amennyiben azokat például közhiteles nyilvántartás tartalmazza a fél vonatkozásában.
+
+A 8. §-hoz
+
+Az egységes joggyakorlat és az alkalmazási bizonytalanságok megszüntetése érdekében rögzítésre kerül, hogy a kézbesítési fikció beállásával kapcsolatos értesítő megküldésére nyitva álló határidő kezdőnapja a fikció beállásának napja, ha azonban a bíróság a fikció beállásáról csak e határidő elteltét követően szerez tudomást, akkor az intézkedést a tudomásszerzéstől számított három munkanapon belül teljesítheti. Előfordul ugyanis, hogy a papír alapú kézbesítés megkísérlését igazoló irat (tértivevény), csak az előírt határidőt követően érkezik vissza a feladóhoz, e kivételesnek tekinthető esetekre nyújt kisegítő szabályt a módosítás.
+
+A 9. §-hoz
+
+A Pp. 139. § (6) bekezdéséhez kapcsolódó módosítása jogalkalmazói jelzésen alapul. A Pp. 139. § (2) bekezdése alapján a félnek kézbesítési kifogása előterjesztésével egyidejűleg - ha az lehetséges - el kell végeznie a korábban elmulasztottnak tekintett cselekményt is. A Pp. 139. § (6) bekezdése szerint ugyanakkor a kézbesítési kifogásnak történő helyt adás esetén a kézbesítést, illetve a már megtett intézkedéseket, eljárási cselekményeket - a szükséges mértékben - meg kell ismételni. A jogalkalmazói gyakorlatban bizonytalanság van a tekintetben, hogy ha a fél az elmulasztott cselekményt már kérelme előterjesztésével egyidejűleg pótolta, akkor a kérelemnek történő helyt adást követően meg kell-e ismételtetni az adott cselekményt, vagy a korábban pótolt cselekmény elfogadható és az eljárás ismétlés nélkül folytatható. A módosítás e jogértelmezési probléma feloldását szolgálja, egyértelművé teszi, hogy ha a fél a korábban elmulasztottnak tekintett cselekményt már kézbesítési kifogása előterjesztésével egyidejűleg szabályszerűen elvégezte, e cselekményét hatályosnak kell tekinteni és az azzal összefüggő eljárási cselekményeket nem kell megismételni.
+
+A 10. §-hoz
+
+Jogalkalmazói tapasztalatokra tekintettel módosul a végrehajtói kézbesítéssel kapcsolatos eljárás. A végrehajtói kézbesítés díját nem a bíróságon kell letétbe helyezni, hanem - bírósági ügyszámra hivatkozással - közvetlenül a Magyar Bírósági Végrehajtói Kar részére kell megfizetni. Ezáltal a bíróságok adminisztrációs tehertől mentesülnek, mert nem kell bevételezni és továbbutalni a végrehajtót megillető díjtételt, valamint az eljárás folyamata is egyszerűsödik, ami várhatóan rövidíteni fogja az ezzel kapcsolatos eljárást.
+
+A 11-12. §-hoz
+
+A Javaslat a Pp. 170. §-ának módosításával a keresetlevél tartalmát egyszerűsíti a jogalkalmazói tapasztalatokra tekintettel. A Kúria keresetlevél visszautasításának vizsgálata tárgykörében felállított joggyakorlat elemző csoportjának összefoglaló véleménye alapján egyértelműen megállapíthatóvá vált, hogy a keresetlevél bevezető, érdemi és záró részének melyek azok a tartalmi elemei, amelyek esetében a joggyakorlatban a jogalkotói szándéktól eltérő értelmezés alakult ki és ennek alapján gyakran került sor a keresetlevél visszautasítására.
+
+A módosítás a jogalkalmazói tapasztalatok alapján a keresetlevél bevezető részében foglaltak megváltoztatásával egyértelművé kívánja tenni, hogy a keresetlevélben az alperesnek a Pp. 7. § (1) bekezdésében foglalt azonosító adatai közül elegendő az alperes nevét és lakóhelyét vagy székhelyét feltüntetni. A módosítás egyértelművé teszi, hogy a keresetlevél érdemi részében a kereseti kérelem feltüntetése megfelelő, ha a felperes megjelöli azt, hogy milyen döntést kér a bíróságtól. Ez a módosítás összhangban áll a Kúria keresetlevél visszautasításának vizsgálata tárgykörében felállított joggyakorlat elemző csoportjának összefoglaló véleményében foglaltakkal, mely szerint „A joggyakorlat-elemző csoport álláspontja szerint a kereseti kérelem akkor egyértelmű, ha abból kétséget kizáróan megállapítható, hogy a felperes milyen jogvédelmet kér a bíróságtól (azaz megállapítást, marasztalást vagy jogalakítást kér). Erre figyelemmel az egyértelműség az anyagi jogi rendelkezésekre vetítve értelmezhető: a kereseti kérelem alapján nem lehet bizonytalan az, hogy a kérelem milyen jogkövetkezmény kiváltását célozza. Több kereset előterjesztése esetén ki kell derülnie annak is, hogy pontosan hány kereset van, és azoknak milyen a viszonyuk egymással. Mindehhez képest figyelmen kívül kell, hogy maradjon például a petitum nem kellően szabatos megfogalmazása, vagy az, hogy abban esetenként oda nem illő elemek, így például jogszabályhelyek is szerepelnek.” (92. pont) (A keresetlevél visszautasításának vizsgálata tárgykörében felállított joggyakorlat elemző csoport összefoglaló véleménye 21. oldal https://www.lb.hu/sites/default/files/joggyak/a_keresetlevel_visszautasitasanak_vizsgalata_osszefoglalo_velemeny.pdf)
+
+A módosítás a keresetlevél záró részéből is kiiktatja az adminisztrációs terheket növelőnek tekintett tartalmi elemeket. Kiemelendő, hogy a Pp. 170. § (3) bekezdés d) pontjának módosítása értelmében a nem természetes személy fél perbeli jogképességét alátámasztó adatokat csak akkor kell előadni, ha a nem természetes személy fél nem rendelkezik közhiteles nyilvántartásból elérhető azonosító adatokkal, pl. nyilvántartási számmal, mint például a társasház vagy a befektetési alap. A Pp. 170. § (3) bekezdés e) pontjának módosítása értelmében a felperes törvényes képviselőjeként megjelölt személy tekintetében elegendő előadni, hogy a törvényes képviselő milyen minőségben jár el: például mint ügyvezető, vezérigazgató, szülő, gondnok, gyám; de egyéb adatok közlése nem elvárás.
+
+A Javaslat a joggyakorlat visszajelzései alapján egyszerűsíti a keresethalmazatokra vonatkozó szabályozást is és a keresetlevélhez csatolandó mellékleteket is.
+
+A keresetlevél felépítésével, szerkezeti tagolásával, címekkel történő ellátásával kapcsolatban egységessé vált az a bírói gyakorlat, amely szerint a keresetlevélben nem kell feltüntetni az egyes szerkezeti egységek címeit, valamint az egyes szerkezeti egységeken belüli tartalmi elemek előadása sincs sorrendhez vagy egyéb formaisághoz kötve. A megfelelő jogértelmezésre és az ennek talaján kialakult bírói gyakorlatra tekintettel nem indokolt a fentiek normaszövegben történő rögzítése, de az indokolásban szükséges megerősíteni, hogy a keresetlevélben foglaltak előadása a fent jelzettek tekintetében nincs formaisághoz kötve.
+
+A 13. §-hoz
+
+A Javaslat a hatályos szabályozáshoz képest lényeges változásokat irányoz elő a keresetlevél hiányosságainak kezelése esetére a jogalkalmazásban tapasztalat problémák kiküszöbölése és a jogkeresők igényérvényesítésének előmozdítása érdekében. A legfontosabb változás, hogy a Javaslat kibővíti a Pp. 176. § (2) bekezdésében foglalt azon esetek körét, amikor hiánypótlásra történő felhívásnak van helye, így például a keresetlevél tartalmi és alaki hiányosságainak vagy kötelező mellékleteinek hiányossága esetén is. A módosítás ebben az esetben a jogi képviselővel eljáró fél vonatkozásában is kötelezővé teszi a hiánypótlásra történő felhívást. A módosítás előírja, hogy a bíróságnak a hiánypótlásra felhívó végzésben a keresetlevél valamennyi hiányosságát teljeskörűen fel kell tüntetnie, és csak a hiánypótlás eredménytelensége esetén van helye visszautasításnak.
+
+A módosítás szükségességét a Kúria keresetlevél visszautasításának vizsgálata tárgykörében felállított joggyakorlat elemző csoportjának összefoglaló véleményében foglalt megállapítások egyértelműen alátámasztják. A keresetlevél hiányosságainak megítélésével kapcsolatban a kúriai joggyakorlat elemző csoport összefoglaló véleményében például az alábbi megállapításokat tette:
+
+„A keresetlevél tartalmi értékelésénél a bíróság gyakran túlterjeszkedik a vizsgálandó és vizsgálható szempontokon, olyan követelményeket támaszt a felperessel szemben, amelyek nem következnek a Pp. 170. §-ának rendelkezéseiből. Az emiatti visszautasítások visszatérő érve, hogy a bíróság a felperes tényállításait „kevésnek”, „nem relevánsnak”, vagy a jogi érvelés tekintetében „nem elég meggyőzőnek” tartja.” (42. pont, 12. oldal)
+
+„A bíróságok legjellemzőbben a keresetlevél tényelőadási részében követeltek meg a szükséges és elégséges (az anyagi jog szempontjából releváns) tények előadásán túl, további tényeket. Több bíróság a keresetlevél más részébe is gyakran „belelátott” további követelményeket. Előfordult az is, hogy a bíróság lényegében nem tartotta meggyőzőnek a fél jogi érvelését, a minden szempontból következetes keresetet kérte számon a felperesen, érzékelhetően átcsúszva a követelés érdemi elbírálásának tartományába. A tényállítások alátámasztására vonatkozó hiányosságként kezelték a bíróságok több esetben, ha a fél nem tett bizonyítási indítványt, holott ez a félnek továbbra sem kötelezettsége; a bizonyítatlanság jogkövetkezményét nem a keresetlevél megvizsgálása során kell levonni.” (43. pont, 12. oldal)
+
+„Gyakori, hogy az elsőfokú bíróságok a Pp. 170. § (1)-(3) bekezdését szó szerint, mereven értelmezik. A joggyakorlat-elemző csoport több, a vizsgálat során feltárt döntés ellenében, hangsúlyozza, hogy a keresetlevél vizsgálata az eljárásnak ebben a szakában kizárólag a perakadályokra korlátozódhat, érdemi kérdés, így például a jogi érvelés ellentmondásossága nem vezethet a keresetlevél - hiánypótlás nélküli - visszautasításához.” (64. pont, 16. oldal)
+
+„A Pp. 170. § (1) bekezdés b) pontja szerinti adatok feltüntetése során előfordult olyan szükségtelenül szigorú értelmezés, amely szerint „az alperes ismert azonosító adatait, de legalább lakóhelyét vagy székhelyét” törvényi fordulattal szemben név, perbeli állás és lakóhely közlése esetén is visszautasította a bíróság a keresetlevelet. Gyakran megtörtént, hogy a bíróság a közhiteles nyilvántartásban szereplő, vagy abból egyértelműen következő adatok feltüntetésének elmaradását értékelte visszautasítási okként.” (74. pont, 17. oldal)
+
+„A Pp. 170. § (2) bekezdés a) pontjában szereplő, ítéleti rendelkezésre irányuló határozott kereseti kérelemmel kapcsolatban általában olyan követelmény érvényesült, hogy az csak akkor valósul meg, ha a keresetlevél szó szerint tartalmaz olyan kérelmet, amely a majdani ítélet rendelkező részébe „átemelhető”, azon tehát változtatni nem kell (még nyelvtani egyeztetést sem szükséges végezni). Nagyon sok ügyben tartották a bíróságok határozatlannak a kereseti kérelmet a keresethalmazat miatt: vagy a kérelmek sorrendjét, vagy egymáshoz való viszonyát nem tekintették egyértelműnek, vagy elvárták a kérelmek alapjául szolgáló tényelőadás megismétlését. A bíróság néhány ügyben a kereseti kérelem részeként kezelte a perköltségre irányuló követelést, és amennyiben azt megítélése szerint a fél nem kellően szabatosan adta elő, a kereseti kérelmet határozatlannak minősítette.” (78. pont, 17-18. oldal)
+
+„A bíróságok a keresetlevél záró részében a pertárgyérték meghatározásával és az illetékfizetéssel kapcsolatos nyilatkozatok értékelésénél általában indokolatlanul szigorú gyakorlatot folytatnak.” (85. pont, 19. oldal)
+
+„A bíróságok a perfelvétel eredményessége érdekében nagy hangsúlyt helyeznek a keresetlevél teljes körű vizsgálatára. Ez számos esetben azzal az eredménnyel jár, hogy a bíróság önmagán túlmutató jelentőséget tulajdonít a keresetlevél kötelező elemei feltüntetésére vonatkozó kötelezettségnek; csak azt a keresetlevelet találja perfelvételre alkalmasnak, amelyben a felperes a keresetlevél minden tartalmi elemét a lehető legrészletesebben kifejti. Ellenkező esetben arra a megállapításra jut, hogy hiányzik a határozott kereseti kérelem vagy az érvényesített jog megjelölése, illetve a tényállítás és a kereseti kérelem közti összefüggés levezetésére szolgáló jogi érvelés.” (Összefoglaló megállapítások: 13. pont, 50. oldal)” (A keresetlevél visszautasításának vizsgálata tárgykörében felállított joggyakorlat elemző csoport összefoglaló véleménye https://www.lb.hu/sites/default/files/joggyak/a_keresetlevel_visszautasitasanak_vizsgalata_osszefoglalo_velemeny.pdf)
+
+A joggyakorlat alapján gyakorinak mondható, hogy a keresetlevél visszautasítása olyan tartalmi elem hibájára vagy hiányosságára hivatkozással történik, amelynek elbírálása már a per érdemére tartozna. Erre tekintettel a módosítás kiegészíti a Pp. 176. §-át azzal a bekezdéssel, amely kimondja, hogy a keresetlevél perfelvételre való alkalmassága szempontjából nem vizsgálható a keresetlevél érdemi részében előadott olyan tartalmi elem, amelynek az értékelése az ügy érdemére tartozik, valamint az sem, hogy a felperes által megjelölt bizonyítékok, bizonyítási indítványok alkalmasak-e, illetve elegendőek-e a keresetlevélben foglaltak alátámasztására.
+
+A 14. §-hoz
+
+A Javaslat a keresetlevelet visszautasító végzés alperes részére történő kézbesítése tekintetében a jogalkalmazó szervek visszajelzése alapján olyan módosítást vezet be, amely a félegyenlőségnek a Pp. 110. § (2) bekezdésében foglalt elve alapján lehetővé teszi az alperes számára az ellene - sikertelenül - kezdeményezett per kezdőiratának megismerhetőségét a jogerős visszautasító végzéssel együtt.
+
+A 15. §-hoz
+
+A módosítás azt a gyakorlatban felmerülő problémát orvosolja, ami akkor fordulhat elő, ha az alperes az arra nyitva álló határidőn túl késedelmesen terjeszti elő írásbeli ellenkérelmét, amelyet emiatt hatálytalannak kell tekinteni, majd utóbb a bírósági meghagyás ellen ellentmondást terjeszt elő, de ahhoz már nem csatolja ismételten a korábban késedelmesen előterjesztett ellenkérelmet.
+
+A 16. §-hoz
+
+A módosítás a lehetséges perfelvételi módok világosabb meghatározásával a joggyakorlatban tapasztalt bizonytalanságot kiküszöbölő, egyértelműsítő szabályt tartalmaz, de valós tartalmi változtatást nem eredményez.
+
+A 17. §-hoz
+
+A jogalkalmazói visszajelzések alapján a bíróságok ritkán választják a perfelvételi tárgyalás mellőzésével járó perfelvételi módot. A módosítás azt célozza, hogy a felek, ha azt indokoltnak tartják, kezdeményezhessék a perfelvételi tárgyalás mellőzésével történő perfelvételi útvonal alkalmazását, amelyről való döntés továbbra is a bíróság kompetenciájába tartozik.
+
+A 18. §-hoz
+
+A Javaslat - a keresetlevél tartalmának egyszerűsítéséhez igazodva - a jogalkalmazói tapasztalatokra tekintettel egyszerűsíti és észszerűsíti az alperesi írásbeli ellenkérelem tartalmát, továbbá a keresethalmazatban álló keresetekkel szemben előterjesztendő ellenkérelem tartalmát is.
+
+A 19. §-hoz
+
+A Javaslat a jogalkalmazói visszajelzések alapján lehetővé teszi egyes perfelvételi nyilatkozatok előkészítő iratban történő megtételét bírói felhívás nélkül is. A gyakorlatban a legtöbb problémát a kereset- és ellenkérelemváltoztatás előterjesztése jelenti, amelyet, ha a bíróság nem rendel el további írásbeli perfelvételt, a felek - erre irányuló bírói felhívás hiányában - csak a perfelvételi tárgyaláson tudnak előadni, ez pedig a perfelvételi tárgyalás elhalasztását eredményezheti. A módosítás a kereset- és ellenkérelem-változtatással kapcsolatban felmerült értelmezési kérdésekre tekintettel és a széttartó joggyakorlat egységesítése érdekében lehetővé teszi a keresetváltoztatás, viszontkereset-változtatás és ellenkérelem-változtatás, valamint az ezekkel összefüggő perfelvételi nyilatkozatok, így például tényállítások és bizonyítási indítványok előterjesztését bírói felhívás nélkül is a Pp. 202. §-a szerinti előkészítő iratban. Kiemelendő, hogy a kereset- és ellenkérelem-változtatás fogalmának Javaslat szerinti módosítása miatt a korábban előadott tényállításokhoz képest új tények előadása már nem minősül kereset-, illetve ellenkérelem-változtatásnak, ami azt jelenti, hogy a felek a perfelvételi szakban a Pp. 185. § szerinti kereset- vagy ellenkérelem-változtatást tartalmazó nyilatkozat előterjesztése nélkül szabadon tehetnek tényelőadásokat. A korábban, például a keresetlevélben vagy ellenkérelemben tett tényállítások új tényekkel történő kiegészítése vagy a korábbi tényelőadások megváltoztatása ugyanakkor a Pp. 183. § (1) bekezdés szerint perfelvételi nyilatkozatnak tekintendő, melynek késedelmes előadása a Pp. 183. § (5) bekezdésében foglalt pénzbírság alkalmazását vonhatja maga után. A perfelvétel lezárását követően - főszabály szerint - új tényállítások nem tehetők, de e tekintetben is meghatároz kivételeket a módosított törvény a Pp. 214. § (3) bekezdésében.
+
+Kiemelendő, hogy a Pp. 202. §-ának Javaslat szerinti módosítása a kereset-, viszontkereset-, illetve ellenkérelemváltoztatással összefüggő perfelvételi nyilatkozatok megtételét teszi lehetővé, így például a felperes a keresetváltoztatással összefüggő tényelőadásokat tehet és bizonyítási indítványokat is megjelölhet. A módosítás ugyanakkor nem teszi lehetővé önállóan új tényelőadások megtételét vagy bizonyítási indítványok megjelölését előkészítő iratban bírói felhívás nélkül. Ennek indoka, hogy a Javaslat elejét kívánja venni annak, hogy a felek a korábban tett tényállításaik folyamatos változtatásával, bírói felhívás nélkül előterjesztett előkészítő iratokkal elhúzzák a perfelvételi szakot. Bírói felhívás hiányában az új tények és új bizonyítási indítványok szóban a perfelvételi tárgyaláson az anyagi pervezetés kontrollja mellett adhatók elő.
+
+A Javaslatnak a Pp. 202. §-át (3) bekezdéssel kiegészítő rendelkezése egyértelművé teszi, hogy ha a fél az előkészítő iratban bírói felhívás nélkül olyan perfelvételi nyilatkozatot tesz, amit csak bírói felhívásra tehetne meg, akkor az így tett nyilatkozata hatálytalan. Hangsúlyozandó, hogy ebben az esetben - eltérően a Pp. 203. § (1) bekezdésében foglaltakkal - nem a teljes perfelvételi irat válik hatálytalanná, hanem csak az a perfelvételi nyilatkozat, ami nem tartozik abba a körbe, amit a fél a bíróság felhívása nélkül is megtehet vagy az olyan nyilatkozat, amelyre a bíróság a felet nem hívta fel.
+
+A 20. §-hoz
+
+A jogalkalmazói visszajelzések alapján felesleges adminisztrációs terheket ró a felekre a Pp. 203. § (4) bekezdése, ezért a Javaslat lehetővé teszi több, különböző fajtájú perfelvételi irat egy beadványban való előterjesztését, amellyel elkerülhető ezen iratok azonos tartalmi elemeinek megismétlése. Hangsúlyozandó ugyanakkor, hogy ez nem azt jelenti, hogy elegendő, ha a beadvány csak az egyik perfelvételi irat tartalmi és alaki előírásainak megfelel, hanem valamennyi, egy beadványban előterjesztett perfelvételi irat előírásainak meg kell, hogy feleljen. A módosítás azt célozza, hogy az ugyanolyan vagy eltérő perfelvételi iratok azonos tartalmi elemeit ne kelljen a félnek többször, azonos módon előadni, pl. a tényállításokra vonatkozó részt.
+
+A 21. §-hoz
+
+A módosítás a jogalkalmazói visszajelzésekre tekintettel indokolt esetekben lehetővé teszi a viszontkereset előterjesztését az írásbeli ellenkérelem előterjesztésére nyitva álló határidőt követően is. A gyakorlati tapasztalatok alapján a bonyolultabb, összetettebb tényállású ügyekben, ha elrendelésre kerül további írásbeli perfelvétel, esetlegesen keresetváltoztatásra kerül sor, a perfelvétel során később is felmerülhetnek vagy ismertté válhatnak olyan tények, bizonyítékok, amelyek a fél önhibáján kívüli okból alapot adhatnak a viszontkereset előterjesztésére. A módosítás azt célozza, hogy ilyen esetben nyíljon meg a viszontkereset előterjesztésének lehetősége, mert ezzel elkerülhető egy újabb jogvita, egy további perindítás és a perhatékonyság szempontjának ez felel meg a leginkább.
+
+A 22. §-hoz
+
+A módosítás a jogalkalmazói visszajelzésekre tekintettel az alperesi ellenkövetelések azonos módon történő kezelése érdekében a viszontkeresethez hasonlóan a Pp. 209. § (6) bekezdésének módosításával kibővíti azon esetek körét, amikor a beszámítás előterjesztésére lehetőség nyílik az írásbeli ellenkérelem előterjesztésére nyitva álló határidőt követően is, önhibán kívüli okra hivatkozással.
+
+A 23. §-hoz
+
+A Javaslat a Pp. 214. § módosításával a kereset- és ellenkérelem-változtatás tartalmának megváltozása következtében szükséges kiegészítéseket tartalmazza.
+
+A hatályos szabályok alapján kereset- vagy ellenkérelem-változtatásként kezelendő a keresettel vagy ellenkérelemmel összefüggésben a későbbiekben előadott bármely eltérő vagy további tény. Ez azzal a következménnyel jár, hogy a felek, különösen a jogi képviselő nélkül eljáró felek előadásaiban folyamatosan felmerülő, a jogvita eldöntése szempontjából nem releváns, de korábban elő nem adott tények szükségessé teszik e tényállítások kereset- vagy ellenkérelem-változtatásként történő kezelését. A jogalkalmazó szervek visszajelzései alapján ez olyan indokolatlan teherként jelentkezik az eljárás során, amely a felek közti valódi jogvita eldöntését hátráltatja. A jogalkalmazás ezért elkezdte kategorizálni a tényeket releváns, elsődleges, a keresetet közvetlenül megalapozó vagy nem releváns, másodlagos, bizonyító tényekként és csak a releváns, elsődleges tények megváltoztatását tekintette kereset-változtatásnak. Ez további jogértelmezési problémákhoz vezet, mert a felek vagy a bíróság eltérően ítélheti meg egy tényállításnak a jogvita eldöntése szempontjából a relevanciáját. A joggyakorlat egységesítése és a jogértelmezési viták lezárása szükségessé teszi a kereset- és ellenkérelemváltoztatás fogalmából a tényállítások megváltoztatásának elhagyását.
+
+A keresetlevélben vagy valamely perfelvételi iratban, továbbá a perfelvételi tárgyaláson előadott tényállításhoz képest új tényállítás a Pp. 183. § (1) bekezdése alapján perfelvételi nyilatkozatnak tekintendő, melynek megtételére a perfelvételi szakban a perfelvételi nyilatkozatokra vonatkozó szabályok alkalmazandók (Pp. 183. §), de a módosítás értelmében már nem kell kereset- vagy ellenkérelem-változtatást tartalmazó formális nyilatkozatot (Pp. 185. §) előterjeszteni.
+
+Az osztott szerkezetű perben a perfelvétel lezárásával a jogállítások, kérelmek és indítványok mellett a felek tényállításai is rögzülnek, így azokhoz képest további tényelőadások megtételére, a perfelvételi szakban tett tényállítások kiegészítésére, új tényállítások előadására az érdemi tárgyalási szakban főszabály szerint nincs lehetőség. A Pp. 214. § (2) bekezdése erre tekintettel rögzíti is, hogy a fél az érdemi tárgyalási szakban csak e törvényben meghatározott esetben tehet vagy változtathat meg perfelvételi nyilatkozatot.
+
+Tekintettel arra, hogy a perfelvétel lezárásakor rögzült tényállításokhoz képest az érdemi tárgyalási szakban előadható új tényállítások a kereset- és ellenkérelem-változtatás fogalmának megváltozása miatt már nem minősülnek kereset- vagy ellenkérelem-változtatásnak, így azok nem is vizsgálhatók a hatályos szabályok szerinti kereset vagy ellenkérelem-változtatás keretei között (Pp. 215-216. §). Erre tekintettel a módosítás új rendelkezéseket vezet be az új tényállítások érdemi tárgyalási szakban történő kivételes megengedhetőségének szabályozására. A módosítás meghatározza a perfelvétel lezárásával rögzült tényállításokhoz képest új tények előadásának feltételeit, és azt, hogy azokat a bíróság mikor veheti figyelembe.
+
+A Pp. 214. §-ának új (3) bekezdése meghatározza, hogy a perfelvételt lezáró végzés meghozataláig előadott tényállításhoz képest eltérő vagy további tény állításának kivételesen akkor van helye az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig, ha a fél olyan tényre hivatkozik, amely önhibáján kívül, a perfelvételt lezáró végzés meghozatala után jutott tudomására, illetve következett be, vagy tudomására jutó, illetve bekövetkező tényre tekintettel válik a per eldöntése szempontjából jelentőssé.
+
+A módosítás e feltételeknek megfelelő tényekre bevezeti az új tényállítás fogalmát. Új tényállítást a fél a tény bekövetkezésétől vagy az arról való tudomásszerzéstől számított tizenöt napon belül terjesztheti elő, valószínűsítve a tudomásszerzés időpontját és az önhiba hiányát. Ha a fél által előterjesztett tényállítás a feltételeknek megfelel, azt a bíróság figyelembe veszi, ellenkező esetben a bíróság figyelmen kívül hagyja, amelyről a felet tájékoztatja. Ezt a döntését a bíróság legkésőbb az ítéletében köteles megindokolni. Az indokolási kötelezettség ítéletben történő előírása a tárgyalás menetét nem akasztja meg, de a fél számára legkésőbb az ítéletből kiderül, hogy a bíróság az általa előterjesztett új tényállítást milyen okból hagyta figyelmen kívül, amelyet a fellebbezésében - a Pp. 365. § (3) bekezdése alapján - vitathat.
+
+A módosítás szerinti új tényállításra vonatkozó önálló szabályozás megalkotását az indokolja, hogy az új tényállítás nem minden esetben eredményez kereset vagy ellenkérelem-változtatást, illetve utólagos bizonyítást.
+
+A Javaslat nem érinti a hatályos szabályozás szerinti koncepciót, mely szerint az érdemi tárgyalási szakban kizárólag az új tényállítás lehet az alapja a kereset- vagy ellenkérelem megváltoztatásának, a bíróságnak a perfelvételt lezáró végzés meghozatalát követő anyagi pervezetési tevékenységén kívül.
+
+A módosítás szerint, amennyiben az új tényállítás kereset- vagy ellenkérelem-változtatást tesz szükségessé, akkor az új tényállítás megengedhetőségét - a hatályos szabályokkal azonos módon - a kereset-, illetve ellenkérelemváltoztatás engedélyezése iránti kérelem keretében kell elbírálni. Ha a módosítás szerinti új tényállítás utólagos bizonyítást tesz szükségessé, akkor az új tényállítás megengedhetőségét az utólagos bizonyítás megengedhetőségéről való döntés során kell elbírálni. Ha viszont az új tényállítás sem kereset- vagy ellenkérelemváltoztatást (Pp. 215-216. §), sem utólagos bizonyítást (Pp. 220. §) nem tesz szükségessé, akkor a bíróságnak a Pp. 214. §-ának a Javaslat szerinti (3)-(5) bekezdései alapján kell megítélnie az új tényállítás érdemi tárgyalási szakban történő megengedhetőségét.
+
+A Javaslatnak az új tényállítással kapcsolatos szabályozásával összefüggésben kiemelendő, hogy bármelyik fél új tényállítása alapul szolgálhat az ellenérdekű fél keresetének vagy ellenkérelmének megváltoztatására is.
+
+A 24-26. §-hoz
+
+A kereset- és ellenkérelem-változtatás Javaslat szerinti módosítása nem változtat azon a koncepción, mely szerint a perkoncentráció megvalósítása érdekében az érdemi tárgyalási szakban a kereset- és ellenkérelem-változtatás alapjául - a bíróság anyagi pervezetésén túl - a fél által önhibáján kívül tudomására jutott, bekövetkezett vagy jelentőssé vált új tényállításra történő hivatkozás szolgálhat. A jogvita kereteinek a meghatározása után, a perfelvétel lezárását követően csak kivételes körülmények alapozhatják meg a jogvitát részben más alapokra helyező kereset-, illetve ellenkérelem-változtatást.
+
+A Javaslat szerint - a kereset- és ellenkérelem-változtatás fogalmának megváltozása miatt - szükséges a Pp. 215. és 216. §-ainak olyan módon történő módosítása, amely a jogállítás, a kérelem illetve az elismerés megváltoztatásának feltételéül az azokkal közvetlen okozati összefüggésben álló, és a bíróság által a Pp. 214. § (5) bekezdése szerint figyelembe vehetőnek tekintett új tényállításra történő hivatkozást határozza meg. A kereset- és ellenkérelemváltoztatás Javaslat általi módosításai szükségtelenné teszik az időszakos szolgáltatás érvényesítésével kapcsolatos jogszabályi hivatkozás fenntartását is.
+
+A Javaslat a 217. § kiegészítésével hozzáigazítja a kereset-, illetve az ellenkérelem-változtatás engedélyezése iránti kérelem előterjesztésére vonatkozó határidőt az új tényállítás szabályaihoz.
+
+A 27. §-hoz
+
+A Javaslat az utólagos bizonyítás szabályainak kiegészítésével azt a helyzetet kezeli, amikor a módosítás szerinti új tényállítás nem eredményez kereset- vagy ellenkérelem-változtatást, de szükségessé válik az új tényállítással összefüggésben további bizonyítási indítvány előterjesztése vagy további bizonyíték rendelkezésre bocsátása.
+
+A 28. §-hoz
+
+A Javaslat a jogalkalmazási tapasztalatokra tekintettel indokoltnak tartja a feltételhez nem kötött perfelvételi nyilatkozatok körének kibővítését, ahol e nyilatkozatok megtételéhez a félnek nem kell kereset- vagy ellenkérelemváltoztatás engedélyezése iránti kérelmet előterjeszteni. A Pp. 221. § (1) bekezdésének e) ponttal történő kiegészítése lehetővé teszi törvényen alapuló tartás iránti perekben illetve törvényben meghatározott egyéb esetekben, így például munkaügyi perekben a kereseti követelés összegének felemelését a követelésnek a per folyamán esedékessé vált részleteire, anélkül, hogy az keresetváltoztatásnak minősülne.
+
+A joggyakorlatban értelmezési problémát jelentett, hogy keresetváltoztatásnak minősül-e, ha a felperes látszólagos tárgyi keresethalmazat esetén az érdemi tárgyalási szakban megváltoztatja az elbírálás kért sorrendjét. A Pp. 221. § (1) bekezdés f) ponttal történő kiegészítése egyértelművé teszi, hogy eshetőleges tárgyi keresethalmazat esetén az elbírálás sorrendjének megváltoztatására nem alkalmazhatók a keresetváltoztatás feltételei.
+
+Figyelemmel arra, hogy a jogi érvelés megváltoztatása a Javaslat szerint már nem minősül keresetváltoztatásnak, célszerű lehetővé tenni, hogy a fél a jogi érvelését az ellenfél hozzájárulása nélkül írásban vagy a tárgyaláson szóban megváltoztathassa. A jogi érvelés megváltoztatásának lehetővé tétele arra tekintettel is indokolt, mert a Javaslatnak a Pp. 214. §-ában bevezetett új tényállítás előadása együtt járhat a jogi érvelés megváltoztatásával is.
+
+A 29. §-hoz
+
+A jogalkalmazó szervek visszajelzései alapján a Javaslat lehetővé teszi, hogy a bíróság a fél jogi képviselőjének a kitűzött határnap előtt, de legkésőbb az idézése kézhezvételétől számított nyolc munkanapon belül előterjesztett kérelmére a tárgyalást elhalassza, ha a jogi képviselő a kérelmével egyidejűleg igazolja, hogy tárgyalásütközés miatt a kitűzött tárgyaláson nem tud megjelenni. A módosítás indoka, hogy a Pp. a perfelvételi tárgyaláson, azokban a perekben is, ahol a jogi képviselet kötelező vagy ahol a félnek jogi képviselője van, kötelezővé teszi a megjelenést a tárgyaláson, melynek hiánya az eljárás megszüntetéséhez vezethet. Sem a személyesen eljáró fél, sem a jogi képviselő a perfelvételi tárgyalás tekintetében nem kérheti a tárgyalás távollétében való megtartását, mert az nem összeegyeztethető a perfelvételi tárgyalás céljával. Az ügyvédek helyettesítésére vonatkozó szabályok betartása mellett is előfordulhatnak olyan esetek, amikor tárgyalásütközés miatt a jogi képviselő önhibáján kívüli okból nem tud megjelenni a tárgyaláson vagy például személyi állapottal kapcsolatos perben a fél és a jogi képviselő közti bizalmi viszony miatt a helyettesítés nem jelenthet megfelelő megoldást. A gyakorlatban felmerülő problémákat kívánja orvosolni a Javaslat azzal, hogy az elsőfokú eljárás során egy alkalommal kérheti a jogi képviselő az igazolt tárgyalásütközésre tekintettel a tárgyalás elhalasztását, a koncentrált pervitel biztosítása és a perelhúzás megakadályozása érdekében.
+
+A 30. §-hoz
+
+A Javaslat a Pp. 240. § (1) bekezdés a) pontjának módosításával a jogalkalmazási tapasztalatokra tekintettel rendezi a viszontkereset-levéllel kapcsolatos eljárás megszüntetési problémát azokra az esetekre is, amikor az alperes a viszontkereset-levelet a Pp. rendelkezéseinek megsértésével terjesztette elő, azaz nem a Pp. 176. § (1) bekezdés a)-i) pontjaira utalással kerül sor az eljárás megszüntetésére, hanem a Pp. 206. § (1) bekezdés a) vagy c) pontjában foglalt speciális visszautasítási okra történő hivatkozással.
+
+A Javaslatnak a Pp. 240. § (1) bekezdés e) pontjával kapcsolatos módosítása a Pp. 30. § (2) bekezdésével való összhang megteremtését célozza, továbbá rendezi azt az esetkört, amikor az alperes írásbeli ellenkérelmében alaki védekezésként a kizárólagos illetékességi okon kívüli más illetékességi kifogást ad elő. A módosítással lehetővé válik az eljárás megszüntetésével egyidejűleg az áttétel elrendelése.
+
+A Javaslat a Pp. 240. § g) pontjának módosításával a joggyakorlatban felmerülő problémát kezel. Előfordulhat, hogy a perfelvételi tárgyalás elmulasztásának jogkövetkezményét a bíróság nem alkalmazta, utóbb azonban - a perfelvétel lezárását követően - a Pp. 240. § (1) bekezdés g) pontja alapján az elsőfokú eljárásban, továbbá a Pp. 379. §-a alapján a másodfokú eljárásban az elsőfokú ítélet kötelező hatályon kívül helyezése mellett a másodfokú bíróság az eljárás megszüntetéséről rendelkezik. A módosítás a perhatékonyság és célszerűség követelményét szem előtt tartva a perfelvételi tárgyalás elmulasztása miatt az eljárás megszüntetésére csak a perfelvételt lezáró végzés meghozataláig ad lehetőséget, később erre tekintettel az eljárás megszüntetésének már nincs helye.
+
+A 31-32. §-hoz
+
+A módosítások szövegpontosítást tartalmaznak arra tekintettel, hogy a bírósági szervezeti változásokkal összefüggő hatásköri változások miatt már nem kizárólag a járásbíróság, hanem a törvényszék hatáskörébe is tartoznak olyan perek, így például a munkaügyi per, ahol a jogi képviselet nem kötelező.
+
+A 33. §-hoz
+
+A Javaslat a Pp. 246. § (1) bekezdésének módosításával nem teszi kötelezővé a jogi képviselő nélkül eljáró fél számára, hogy a keresetlevelet, viszontkereset-levelet, a beszámítást tartalmazó iratot valamint az írásbeli ellenkérelmet kizárólag az erre rendszeresített nyomtatványon nyújtsa be; a módosítás ezt lehetőségként biztosítja a fél számára. A módosítás indoka, hogy a Javaslatnak az elsőfokú eljárásra vonatkozó általános szabályai a jogi képviselővel eljáró felek esetében is jelentősen leegyszerűsítik a keresetlevél, az arra utaló szabályt adó viszontkereset-levél és beszámítást tartalmazó irat, valamint az írásbeli ellenkérelem tartalmi és alaki követelményeit, amit a Javaslat a XV. Fejezetben foglalt egyéb szabályokkal a jogi képviselő nélkül eljáró fél esetén még tovább egyszerűsít. A jelzett módosítások lehetővé teszik, hogy a jogi képviselő nélkül eljáró fél nyomtatvány használata nélkül is teljesíteni tudja e beadványokkal szemben támasztott tartalmi és alaki követelményeket, ezért a Javaslat lehetővé teszi, hogy a fél saját maga által szerkesztett, de a Pp. előírásainak megfelelő beadványt terjesszen elő. Hangsúlyozandó, hogy az erre rendszeresített nyomtatványok továbbra is a fél rendelkezésére állnak, de azok használata nem kötelező. A (2)-(4) bekezdés módosításait a nyomtatványok használatának fakultatívvá tétele indokolja.
+
+A 34. §-hoz
+
+A Javaslat a jogi képviselő nélkül eljáró fél esetében tovább egyszerűsíti a keresetlevél, viszontkereset-levél, beszámítást tartalmazó irat, illetve az írásbeli ellenkérelem kötelező tartalmi elemeit. Az egységes jogértelmezés érdekében egyértelművé teszi, hogy a félnek az érvényesíteni kívánt jogot, illetve az anyagi jogi kifogást az annak alapjául szolgáló tények előadásával kell megjelölni, továbbá a keresetlevél záró részében a per tárgyának az értékét, illetve a bíróság hatáskörét és illetékességét - ha az ügyben külföldi elem van, a bíróság joghatóságát - megalapozó adatokat akkor kell feltüntetni, ha azok a keresetlevél érdemi részében feltüntetett adatok alapján nem állapíthatóak meg. Erre vonatkozó javaslatot a Kúria keresetlevél visszautasításának vizsgálata tárgykörében felállított joggyakorlat elemző csoportjának összefoglaló véleményében is megfogalmazott.
+
+A 35. §-hoz
+
+A módosítás a Pp. 246. §-ában foglalt nyomtatványok használatának fakultatívvá tételéhez igazítja a hiánypótlásra vonatkozó szabályokat, továbbá előírja a bíróság számára, hogy a beadvány valamennyi hiányát sorolja fel, a hiánypótlásra való felhívás szövegét pedig a fél jogban járatlanságához igazodó módon fogalmazza meg, amely elősegíti, hogy a laikus fél teljesíteni tudja a hiánypótlásra történő felhívásban foglaltakat. A jogalkalmazói visszajelzések alapján gyakran fordul elő, hogy a jogi képviselő nélkül eljáró fél számára kiadott hiánypótlásra történő felhívás bonyolultsága miatt a fél meg sem próbálkozik a keresetlevél újbóli beadásával. A Kúria keresetlevél visszautasításának vizsgálata tárgykörében felállított joggyakorlat elemző csoportjának összefoglaló véleményében emellett az a megállapítás is megjelent, amely szerint „számos ügyben volt tapasztalható, hogy a hiánypótlási felhívás általánosságban, nem az adott ügyre egyediesített hiányok pótlásáról szólt (például: „terjesszen elő a Pp. 170. §-nak megfelelő tartalmú keresetlevelet”)” (111. pont, 24. oldal https://www.lb.hu/sites/default/files/joggyak/a_keresetlevel_visszautasitasanak_vizsgalata_osszefoglalo_velemeny.pdf)
+
+E gyakorlat miatt is indokolt a jogi képviselő nélkül eljáró fél jogban járatlanságát, jogi ismereteinek hiányát feltételező hiánypótlásra történő felhívás előírása a bíróság számára, amelyre a Javaslatnak a keresetlevél tartalmát egyszerűsítő rendelkezései is megfelelő alapot teremtenek. A módosítás emellett erősíti a félnek az Alaptörvény XXVIII. cikk (1) bekezdése szerinti tisztességes eljáráshoz való jogának gyakorlását.
+
+A 36. §-hoz
+
+A módosítás a joggyakorlat egységesítését célozza, tekintettel arra, hogy a bíróságok a Pp. 254. § (3) bekezdésében foglaltak ellenére hivatalból veszik figyelembe a fizetési meghagyásos eljárás mellőzését, és erre hivatkozással szüntetik meg az eljárást, akkor is, ha a fizetési meghagyásos eljárás mellőzését az alperes nem kifogásolta. A módosítás időbeli határt szab arra, ameddig ezt a bíróság figyelembe veheti. Ennek értelmében a perfelvétel lezárását követően a bíróság hivatalból sem veheti figyelembe a fizetési meghagyásos eljárás hiányát, és erre hivatkozással az eljárást nem szüntetheti meg sem első-, sem másodfokon.
+
+A 37-39. §-hoz
+
+A Pp. 257. §-ának módosítása a Pp. 246. §-ban foglalt beadványokhoz hasonlóan nem teszi kötelezővé, hogy a jogi képviselő nélkül eljáró fél a keresetet tartalmazó iratot erre rendszeresített nyomtatványon terjessze elő, az a módosítás értelmében lehetőség a fél számára.
+
+A Pp. 258. §-ának módosítása a Pp. keresetet tartalmazó iratot visszautasító végzés kézbesítésével kapcsolatos szabályokat összhangba hozza a Pp. 177. §-ának Javaslat szerinti módosításával.
+
+A Pp. 259. §-ának módosítását a keresetet tartalmazó irat nyomtatványon történő előterjesztésének fakultatívvá tétele indokolja.
+
+A 40. §-hoz
+
+A módosítás a perhatékonyság biztosítása érdekében arra tekintettel rövidíti le a fizetési meghagyásos eljárásból perré fordult eljárásban az írásbeli ellenkérelem előterjesztésére nyitva álló határidőt, mert a pert olyan nemperes eljárás, a fizetési meghagyásos eljárás előzi meg, ahol az alperes már megismerhette a vele szemben támasztott igényt, arra az általa előterjesztett ellentmondásban már kifejthette az álláspontját, így indokolt a rövidebb határidő meghatározása mind az ellenkérelem előterjesztése, mind annak esetleges meghosszabbítása esetére.
+
+A 41. §-hoz
+
+A Pp. orvosolja az 1952-es Pp. hallgatását a jogsértő bizonyítási eszközök perbeli felhasználhatóságát illetően és rögzíti azokat a normatív rendelkezéseket, melyek mentén kivételesen befogadhatók a személyiségi jogot sértő módon megszerzett bizonyítékok. A Pp.-ben rögzített szabályozás alapján a jogsértő bizonyítási eszközöket a bíróság csak kivételesen veheti figyelembe döntése meghozatalakor, és a mérlegelési szempontok közül az is kiolvasható, hogy elsődlegesen csak akkor, ha az adott tény más módon nem bizonyítható. A Pp. 269. §-ához fűzött miniszteri indokolás rögzíti, hogy a jogsértő bizonyítási eszköz befogadása a felet nem mentesíti a jogsértő magatartással összefüggésben felmerült felelőssége alól, tehát a bizonyító félnek erre tekintettel is kell döntenie abban a kérdésben, hogy kéri-e a jogsértő bizonyítási eszköz perbeli befogadását. A joggyakorlat egységesítése érdekében szükségesnek mutatkozott ennek normatív szinten történő rögzítése a Pp. 269. § (7) bekezdésében.
+
+A 42. §-hoz
+
+A módosítás a jogalkalmazó szervek visszajelzéseire tekintettel egyszerűsíti a bizonyítási indítvány tartalmát. Az indítványban csak a bizonyítani kívánt tényt és a bizonyítási eszközt kell feltüntetni. A bizonyítási indítványban a Pp. 267. §-ában nevesített bizonyítási mód feltüntetése azért szükségtelen, mert a bizonyítási eszköz és bizonyítási mód fogalmak közötti különbségtétel a törvény szövegében dogmatikai megfontolások miatt szükséges és a bizonyítási eszköz megjelölésével a törvényi szabályokat alkalmazva egyértelműen meghatározhatók a hozzá kapcsolódó bizonyítási módok szakaszai.
+
+A bizonyításra való alkalmasság indokolása is kikerült a bizonyítási indítvány kötelező tartalmi elemei közül. Fontos kiemelni, hogy ez nem azt jelenti, hogy a bizonyító fél ne indokolhatná meg indítványának bizonyításra való alkalmasságát, de ez számára nem jelent kötelezettséget.
+
+A 43. §-hoz
+
+Indokolt a jogértelmezési bizonytalanság elkerülése érdekében pontosítani a szemle költségeivel kapcsolatos rendelkezéseket a tekintetben, hogy a szemle foganatosítása során a szemletárgyban bekövetkezett szükségszerű állagsérelem helyreállításával kapcsolatban a szemletárgy birtokosa nem kártérítési igénnyel léphet fel, ami jogellenes károkozást és elbírálása tekintetében külön eljárást feltételez, hanem a jogszerűen okozott állagsérelemmel kapcsolatban felmerült költségei megtérítését kérheti, ha igazolja azok összegszerűségét. A szemletárgy birtokosának személyéhez kapcsolódó költségigényéről (például útiköltség, költségtérítés a munkából kiesett időre) ugyanakkor a bíróság a tanúk költségtérítésére vonatkozó szabályok szerint határoz. E módosításhoz kapcsolódóan indokolt a Pp. 328. § (4) bekezdésének szövegpontosító jellegű módosítása is.
+
+A 44. §-hoz
+
+A módosítás a jogalkalmazási tapasztalatokra tekintettel a kiegészíti a Pp. 362. § (1) bekezdés e) pontját olyan fordulattal, amely a nem pénzbeli marasztalás iránti azon perekben is kötelezővé teszi az előzetes végrehajthatóság elrendelését, ahol a félnek a végrehajtás elhalasztásából nem kára, hanem egyéb, nem pénzben kifejezhető hátránya származna. A jogalkalmazói visszajelzések szerint ilyen helyzet gyakran fordul elő például szülői felügyelettel kapcsolatos perekben, amikor a bíróság a per folyamán ideiglenes intézkedést rendelt el, de azzal ellentétes tartalmú döntést hoz az ítéletében, amely a fellebbezés folytán nem emelkedik jogerőre, azonban a per folyamán elrendelt, azzal ellentétes tartalmú ideiglenes intézkedés már nem rendezi például a kiskorú gyermek sorsát. A joggyakorlatban alapvetően az okozza a problémát, hogy ezekben a perekben a felek, hatóságok (gyámhatóság, rendőrség), oktatási intézmények is bizonytalanságban vannak a tekintetben, hogy milyen szabályozást, döntést tekintsenek irányadónak. E bizonytalanság alkalmat adhat a visszaélésre, a nem jogerős döntéstől eltérő tényhelyzet előidézésére, amelyre a másodfokú eljárásban már mint hosszabb ideje fennállóra hivatkozhatnak. Ezeknek a helyzeteknek az elkerülésére jelenthet megfelelő eljárásjogi megoldást a Pp. 362. § (1) bekezdése e) pontjának Javaslat szerinti módosítása.
+
+A 45. §-hoz
+
+A jogalkalmazási tapasztalatokra tekintettel indokolttá vált a Pp. 366. § (2) bekezdésének kiegészítése - igazodva az elsőfokú eljárás szabályaihoz - olyan tartalommal, amely nem teszi lehetővé a fellebbezés érdemi vizsgálatra való alkalmassága szempontjából olyan tartalmi elemek vizsgálatát, amelyek értékelése az ügy érdemére tartozik, kizárva ezzel a fellebbezésnek például a fellebbezés következetlenségére hivatkozással történő visszautasítását.
+
+A 46. §-hoz
+
+A módosítás a Pp. 369. § (4) bekezdésének szövegezését egyszerűsíti, azonban az valós tartalmi változtatást nem eredményez.
+
+A 47. §-hoz
+
+A Pp. 371. § (1) bekezdés b) pontját (amellyel kapcsolatos szövegcserés módosítást a Javaslat 71. §-a tartalmaz), c) pontját (amellyel kapcsolatos szövegcserés módosítást a Javaslat 71. §-a tartalmaz), valamint d) pontját érintő módosítások a fellebbezés tartalmát pontosítják, egyszerűsítik a jogalkalmazói visszajelzések alapján, amely összhangban áll az elsőfokú eljárás beadványai tartalmának egyszerűsítését célzó módosításokkal is. A gyakorlatban problémákat okozott a fellebbezésben a másodfokú bíróságtól gyakorolni kért felülbírálati jogkör pontos megjelölése, ami a hiánypótoltatás miatt a per elhúzódását és a joggyakorlat szigorodását eredményezte.
+
+A Pp. 371. § (1) bekezdésének módosításával a fellebbezésben elegendő megjelölni, hogy az elsőfokú ítélet kifogásolt rendelkezését vagy részét a másodfokú bíróság mennyiben és milyen okból változtassa meg, vagy helyezze hatályon kívül, továbbá meg kell jelölni azt az anyagi illetve eljárási jogszabálysértést, amelyre a fellebbező a fellebbezését alapítja.
+
+E módosítások kellően tág teret adnak a másodfokú bíróság számára ahhoz, hogy a kérelemhez mérten ki tudja választani, hogy milyen körben és korlátok között gyakorolhatja a felülbírálati jogát. Egyúttal arra is megfelelő garanciát nyújtanak, hogy a másodfokú bíróság ne terjeszkedjen túl a felülbírálat lehetséges keretein.
+
+A 48. §-hoz
+
+A Pp. 373. §-ának módosítását a kereset- és ellenkérelem-változtatás fogalmának Javaslat szerinti változása indokolja. A Pp. 214. §-ának Javaslat szerinti módosítása definiálja az új tényállítás fogalmát, amely azonban a másodfokú eljárásban már nem alkalmazható, tekintettel arra, hogy a fellebbezésben már csak olyan új tény előadása lehetséges, amely az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztését követően jutott a fél tudomására vagy akkor következett be, és a felet önhiba nem terheli a tényállítás korábbi megtételének hiánya miatt. A módosítás valós tartalmi változtatást nem eredményez a másodfokú eljárásban főszabály szerint kizárt kereset- és ellenkérelem-változatás tekintetében, arra továbbra is a korábban önhibán kívül elő nem adott új tény szolgálhat.
+
+A 49. §-hoz
+
+A módosítás a hatásköri szabályokkal összefüggésben módosítja az alcím címét, továbbá a másodfokú eljárásban jogi képviselő nélkül eljáró fél által előterjesztett fellebbezés tartalmát egyszerűsíti.
+
+Az 50. §-hoz
+
+A Pp. 432. §-ának Javaslat szerinti módosítása a személyi állapottal kapcsolatos perek közös szabályai közé további, az általános perrendi szabályhoz képest az eljárást még rugalmasabbá tévő speciális szabályt iktat be e perek sajátosságaira tekintettel.
+
+A Pp. 432. § (2) bekezdésének módosítása kizárólag a személyi állapotot érintő perekben bevezet egy új perfelvételi útvonalat, amely lehetővé teszi, hogy a bíróság a kereset közlésével egyidejűleg - be nem várva az ellenkérelem beérkezését - kitűzze a perfelvételi tárgyalás határnapját. A joggyakorlati tapasztalatok alapján a személyi állapotot érintő perekben az alperesek gyakran nem terjesztik elő határidőben az ellenkérelmüket, bírósági meghagyás kibocsátásának nincs helye, így a módosítással e perek jelentősen gyorsíthatók.
+
+A Pp. 432. § (4) bekezdésének módosítása lehetővé teszi, hogy a jogi képviselő nélkül eljáró fél az ellenkérelmét szóban is előterjeszthesse a perfelvételi tárgyaláson, ami érdemi segítséget jelenthet a laikus fél számára.
+
+Az 51. §-hoz
+
+A Pp. 434. § (1) bekezdésében foglalt szabály a személyi állapotot érintő perekben a feleknek a per során is folyamatosan változó életviszonyaira tekintettel tovább egyszerűsíti a kereset- és ellenkérelem-változtatást azzal, hogy ahhoz az érdemi tárgyalási szakban sem kell a bíróság engedélyét kérni. Hangsúlyozandó ugyanakkor, hogy a perfelvétel lezárását követő új tényállítások előadására a Pp. 214. §-ában foglalt feltételrendszer vonatkozik. A módosítás ehhez kapcsolódóan kimondja az utólagos bizonyítás lehetőségét.
+
+A Pp. 434. § (5) bekezdése kizárja a személyi állapotot érintő perekben a magánszakértői bizonyítást. A hatályos szabályozás a gondnoksági perekben a magánszakértő alkalmazását kizárja [Pp. 444. § (1) bekezdés]. A hatályos szabályok alapján ugyanakkor a gondnoksági pereken kívül valamennyi más személyi állapotot érintő perben megengedett a magánszakértői bizonyítás, de a hivatalbóli bizonyítás törvényi lehetősége miatt a bíróság nincs kötve a fél által előterjesztett szakértői bizonyítási indítványhoz. Ha a peres fél magánszakértői bizonyítás elrendelésére tett indítványt, a bíróság dönthet úgy, hogy a hivatalbóli bizonyítás keretében szakértőt rendel ki. Különösen nagy jelentősége van ennek az értelmezésnek a szülői felügyelettel kapcsolatos perekben: ha a bizonyító fél e perekben magánszakértői bizonyítást indítványoz, akkor az ellenérdekű fél is jogosult magánszakértői bizonyítást indítványozni, ha a két magánszakértői vélemény között szakmai ellentét áll fenn, akkor annak feloldására a bíróság kirendelt szakértőt fog alkalmazni [Pp. 316. § (2) bekezdés e) pont, 307. § (1) bekezdés b) pont]. Ennek következtében előfordulhat, hogy a perrel érintett kiskorú gyermeket három szakértő is vizsgálja, mely nyilvánvalóan ellentétes a Ptk. 4:2. § (1) bekezdésében rögzített, a gyermek érdekének és jogainak fokozott védelmére vonatkozó alapelvvel. A származási perekben ma már szinte kizárólagosnak tekinthető a DNS vizsgálat mint a származás megállapításához szükséges orvosszakértői vizsgálat. A 282/2007. (X. 26.) Korm. rendelet 2. számú mellékletében meghatározott szakkérdésekben szakértőként kizárólag az ott felsorolt intézmények járhatnak el. A 2. számú melléklet 2. a) pontja alapján DNS szakvéleményt polgári perekben csak orvostudományi képzést folytató egyetem orvostani intézete vagy a Nemzeti Szakértői és Kutató Központ (a továbbiakban: NSZKK) adhat. A származási perekben a bíróság ezen intézmények egyikét rendeli ki a szakértői bizonyítás lefolytatására. Elviekben a jelenleg hatályos szabályok szerint nem kizárt a magánszakértői bizonyítás a származási perekben, de a 282/2007. (X. 26.) Korm. rendelet 2. számú mellékletében rögzített egyetemi orvostani intézetek vagy az NSZKK a kirendelések teljesítése mellett jellemzően nem vállalnak megbízásokat.
+
+A személyi állapotot érintő perek közül a házassági és szülői felügyelettel kapcsolatos perekben mindenekelőtt a kiskorú gyermek kímélete érdekében, a származási perekben a szakértői bizonyítás sajátossága, továbbá a valamennyi státuszperben a bíróság rendelkezésére álló hivatalbóli bizonyítás lehetősége miatt is indokolt a magánszakértői bizonyítás kizárása.
+
+A Pp. 434. § (6) bekezdésében foglalt Javaslat szerinti szabály az eljárások további rugalmasabbá tételét célozza az előzetes bizonyítás lehetővé tételével.
+
+A Pp. 434. § (7) bekezdése a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 17. §-a szerinti gyermekvédelmi jelzőrendszer erősítése érdekében előírja a bíróság számára, hogy ha a per során a gyermek veszélyeztetettségét, elhanyagolását, bántalmazását vagy más veszélyeztető ok fennállását tapasztalja, haladéktalanul jelzéssel éljen a gyermekek védelmét biztosító szervek felé. Kiemelendő, hogy a bíróság jelzési kötelezettsége nemcsak a személyi állapottal kapcsolatos perekben áll fenn, de a gyermek veszélyeztetettségét, elhanyagolását vagy bántalmazását a családjogi perekben tapasztalhatják legközvetlenebbül a bíróságok. A Pp. 434. § (7) bekezdésében foglalt rendelkezés beépítésével megteremthető az összhang a Gyvt. gyermekvédelmi jelzőrendszerre vonatkozó rendelkezései és a bírósági eljárás között.
+
+Az 52. §-hoz
+
+A gondnokság alá helyezés polgári peres eljárási jellegére tekintettel indokolt minimalizálni az alperessel szembeni rendőrség által foganatosítható kényszerintézkedések alkalmazásának lehetőségét. A Javaslat abból indul ki, hogy, ha az alperes számára már kirendeltek ideiglenes gondnokot, akkor ő már várhatóan biztosítani tudja, hogy a gondnokság alá helyezendő személy megjelenjen a tárgyaláson, ami szükségtelenné teszi az elővezetését. Ennek érdekében a bíróságnak értesítenie kell az ideiglenes gondnokot a tárgyalás helyéről, idejéről. A bíróság kivételesen és csak abban az esetben rendelheti el az alperes elővezetését, ha az alperes az ideiglenes gondnok közreműködése ellenére sem hajlandó megjelenni a tárgyaláson. Az elővezetés azonban ekkor is csak lehetőség a bíróság számára, mert pl. helyszíni tárgyalás tartásával az alperessel szembeni kényszerintézkedés alkalmazása elkerülhető.
+
+Az 53. §-hoz
+
+A Pp. 444. § (2) bekezdés módosításának iránya a Pp. 443. § szerinti módosításéval megegyezik. A hatályos szabályozásnak azt a rendelkezését, amely lehetővé teszi szakértői vizsgálat céljából az alperes fekvőbeteggyógyintézetben történő elhelyezését, a fogyatékossággal élő személyek jogaival foglalkozó ENSZ bizottság (Committee on the Rights of Persons with Disabilities) többször is kifogásolta jelentéseiben, tekintettel arra, hogy az az érintett beleegyezése nélküli szabadságelvonásnak minősül. A módosítás így, a 2007. évi XCII. törvénnyel kihirdetett, a fogyatékossággal élő személyek jogairól szóló ENSZ-egyezmény (CRPD) szabályainak érvényesülését is biztosítja.
+
+A Javaslat akkor teszi lehetővé az alperesnek a szakértői vizsgálatra történő elővezetését, ha azon az alperes ismételt értesítés ellenére sem jelenik meg. Ha azonban az alperes számára már ideiglenes gondnokot rendeltek, akkor az ideiglenes gondnok köteles gondoskodni az alperes szakértői vizsgálaton történő megjelenéséről. Ennek érdekében a szakértőnek értesítenie kell az ideiglenes gondnokot a szakértői vizsgálat helyéről, idejéről. A bíróság csak abban az esetben rendelheti el az alperes elővezetését, ha a szakértői vizsgálaton az alperes az ideiglenes gondnok közreműködése ellenére sem jelent meg. Az elővezetés azonban ekkor is csak lehetőség a bíróság számára, mert pl. szakértői vizsgálatra a vizsgált személy lakóhelyén vagy tartózkodási helyén is sor kerülhet, mellyel elkerülhető az alperessel szembeni kényszerintézkedés alkalmazása.
+
+A Pp. 444. § (3) bekezdéssel történő kiegészítése a szabályozás egyértelművé tételét célozza az alperesnek a per folyamán bekövetkező halála esetén.
+
+Az 54. §-hoz
+
+A módosítás illeszkedik a gondnokság alá helyezés iránti perben az alperessel szembeni kényszerintézkedéseket a lehető legszűkebbre szabó szabályozáshoz. Tekintettel arra, hogy a gondnokság alá helyezés módosítása, megszüntetése és felülvizsgálata iránti perben a gondnokolt személy már rendelkezik gondnokkal, a Javaslat abból indul ki, hogy a gondnok már biztosítani tudja a gondnokság alá helyezett személy tárgyaláson, illetve szakértői vizsgálaton történő megjelenését. Ennek érdekében a bíróságnak, illetve a szakértőnek értesítenie kell a gondnokot a tárgyalás valamint a szakértői vizsgálat helyéről, idejéről. Ha a gondnok közreműködése ellenére sem biztosítható a gondnokság alá helyezett megjelenése a tárgyaláson vagy a szakértői vizsgálaton, a bíróság kivételesen elrendelheti a gondnokság alá helyezett személy elővezetését.
+
+Az 55. §-hoz
+
+A módosítás kibővíti a házassági perben a keresetlevél speciális tartalmi elemeire vonatkozó rendelkezést az életközösség időtartamának megjelölésére vonatkozó kötelezettséggel, tekintettel arra, hogy arról a bíróságnak a Pp. 459. § (2) bekezdése szerint rendelkeznie kell. Ha az életközösség időtartamát a házassági vagyonjogi per bírósága az eljárást befejező érdemi határozatában vagy közbenső ítéletében korábban már megállapította, a módosítás előírja az erről rendelkező határozatnak a keresetlevélhez történő csatolását.
+
+A Pp. 455. § (5) bekezdésének kiegészítése a joggyakorlat egységesítése érdekében előírja, hogy, amennyiben a felperes a házasság felbontását a Ptk. 4:21. § (2) és (3) bekezdése szerint közös megegyezéssel kéri, de a feleknek a Ptk. 4:21. § (3) bekezdésében meghatározott járulékos kérdésekben még nem véglegesedett az álláspontja, és nem jött létre közöttük megállapodás, a felperes a Ptk. 4:21. § (3) bekezdésében meghatározott járulékos kérdésekben köteles nyilatkozatot tenni. Kiemelendő, hogy ez a felperesi nyilatkozat nem minősül kereset előterjesztésének a Ptk. 4:21. § (3) bekezdés szerinti kérdésekben, így az nem is eredményez keresethalmazatot. A módosítás célja, hogy a felperesi álláspont ismeretében elősegítse az alperesnek a Ptk. 4:21. § (3) bekezdésében meghatározott járulékos kérdésekben elfoglalt álláspontjának előadását, mely a perkoncentrációt szolgálja, továbbá a módosítás a perfelvételi tárgyalás eredményességét is előmozdítja.
+
+A Pp. 455. § (6) bekezdésének kiegészítése a Pp. 432. § (4) bekezdésének Javaslat szerinti módosításával való összhang megteremtését célozza.
+
+Az 56. §-hoz
+
+A Javaslat személyi állapotot érintő pereket célzó módosításainak egyik legfontosabb célja a kiskorú gyermek érdekeinek fokozott védelmét célzó rendelkezések bevezetése. A módosítás a házassági perben hivatalból elrendelhető ideiglenes intézkedés esetében kiemeli a kiskorú gyermek érdekét mint az intézkedés elrendelésére alapot adó feltételt és kiszélesíti a szülői felügyelettel kapcsolatos kérdésben elrendelhető ideiglenes intézkedéseket.
+
+Az 57. §-hoz
+
+A kiskorú gyermek családi jogállásának rendezése, illetve mielőbbi családban való nevelkedésének biztosítása érdekében indokolt a Pp. 465. §-ának kiegészítése. Az örökbefogadhatóvá nyilvánított gyermekeknél gyakori, hogy a gyermek apja ismeretlen személy, vagyis a gyermek vérszerinti apai státusza betöltetlen. Ezekben az esetekben előfordulhat, hogy a gyermek apja az örökbefogadási eljárás megindulása után indít apasági pert vagy tesz a gyermekre nézve apai elismerő nyilatkozatot, figyelemmel arra, hogy korábban esetleg nem is tudott gyermeke létezéséről. A hatályos szabályok egyértelműek a tekintetben, hogy amennyiben az örökbefogadási eljárás és a származási per egymás mellett zajlik - mivel a per megindításakor még az apai vagy anyai jogállás betöltetlen volt -, az apasági, illetve anyasági per elsőbbséget élvez. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 128/B. § (1) bekezdése szerint, ha az örökbefogadás engedélyezése az apaság, illetve az anyaság előzetes megállapításától függ, a gyámhatóság az örökbefogadás engedélyezése iránti eljárást az apaság, illetve az anyaság megállapítása iránt folyamatban lévő per jogerős befejezéséig felfüggeszti. Ebben az esetben az örökbefogadási eljárás mikénti folytatása és kimenetele az apasági, illetve anyasági perben hozott ítélet függvényében alakulhat. Az apasági, illetve anyasági per lezárulta előtt a gyermek örökbefogadására tehát nem kerülhet sor. Annak érdekében, hogy az örökbefogadási eljárás is mielőbb lezárulhasson és a gyermek helyzete a lehető legrövidebb idő alatt rendeződjön, indokolt az apasági illetve anyasági per gyors befejezését elősegítendő, soronkívüli eljárás előírása ezekben a perekben. Erre figyelemmel a Pp. 465. §-ának kiegészítése szükséges azzal a rendelkezéssel, amely szerint az apaság, illetve az anyaság megállapítása iránti perben a bíróság soron kívül jár el, amennyiben a bíróság hivatalos tudomást szerez arról, hogy a per folyamatban léte alatt a gyermek örökbefogadása iránt is eljárás van folyamatban. Ehhez hasonlóan az örökbefogadhatóvá nyilvánítás iránti eljárás folyamatban léte, illetve a gyermek örökbefogadhatóságának ténye is indokolttá teszi az apaság, illetve az anyaság megállapítása iránti per soron kívüli lefolytatását, mert a gyermek sorsának örökbefogadással történő rendezését megelőzően tisztázni kell a szülőség kérdését. Ezekről az eljárásokról való tudomásszerzés érdekében a bíróság hivatalból megkeresi a gyermekek és ifjúság védelméért felelős minisztert mint a 235/1997. (XII. 17.) Korm. rendelet 11/D. §-a szerinti országos örökbefogadást elősegítő szervet. A módosítás szerinti esetekben a Javaslat a soron kívüli eljárásra tekintettel az általános előírásoktól rövidebb időtartamot határoz meg az ellenkérelem, illetve a viszontkereset előterjesztésére, a tárgyalási időközre illetve a tárgyalás kitűzésére.
+
+Az 58. §-hoz
+
+Az (5) bekezdés a Javaslat általános indokolásában is kiemelt, a kiskorú gyermek érdekeinek védelmében bevezetett rendelkezések közé tartozik. A joggyakorlat jelzései is visszaigazolták, hogy a házassági pereken kívül más személyi állapottal kapcsolatos perben is szükséges a Pp. 459. § (1) bekezdésében és az 1952-es Pp. 290. § (1) bekezdésében foglalt szabályhoz hasonló rendelkezés bevezetése, amely lehetővé teszi, hogy a bíróság szükség esetén erre irányuló kereseti kérelem hiányában is határozhasson az apaság megállapítása iránti perben a kiskorú gyermek tartása felől.
+
+Az 59. §-hoz
+
+A Javaslat szerinti tartalmi módosításokra tekintettel indokolt a Pp. XXXV. Fejezetének címét módosítani.
+
+A 60. §-hoz
+
+A Javaslat szerinti tartalmi módosításokra tekintettel indokolt a Pp. 126. alcímének címét módosítani.
+
+A 61. §-hoz
+
+Az Alaptörvény L) cikk (1) bekezdésben nevesített, a családi kapcsolat alapját jelentő szülő-gyermek viszony egyik legfontosabb megnyilvánulási formájáról, a kapcsolattartásról való bírósági döntést indokolt megjeleníteni a személyi állapotot érintő perek között, és nevesíteni a kapcsolattartással összefüggő pertípusokat.
+
+A Javaslat erre tekintettel kiegészíti a személyi állapotot érintő perek körét a kapcsolattartási perekkel, amelyeket - a szoros kapcsolódás miatt - a szülői felügyelettel kapcsolatos perekkel közös fejezetben helyez el, és amely perekre a szülői felügyelet gyakorlásának rendezése iránt indított per szabályait rendeli alkalmazni.
+
+A Javaslat nevesíti, hogy kapcsolattartási peren a kapcsolattartás szabályozása, a kapcsolattartás megváltoztatása valamint a kapcsolattartási jog korlátozása vagy megvonása iránt indított pert kell érteni.
+
+A Pp. 472. § (2) bekezdésének a Javaslat szerinti kiegészítése ugyanakkor egyértelművé teszi, hogy a kapcsolattartás szabályozása, a kapcsolattartási jog korlátozása vagy megvonása iránti kereset önállóan nem, hanem kizárólag a házassági vagy szülői felügyelettel kapcsolatos perben terjeszthető elő, ahogy arra a Pp. 455. § és 476. §-ai lehetőséget teremtenek. Ha nincs folyamatban házassági vagy szülői felügyelettel kapcsolatos per, akkor a kapcsolattartás szabályozása, a kapcsolattartási jog megvonása vagy korlátozása a gyámhatóság hatáskörébe tartozik.
+
+A jogalkalmazói visszajelzések alapján felmerült az igény a kapcsolattartásra vonatkozó, a hatályos szabályok szerint a gyámhatóság és a bíróság közötti megosztott hatáskörnek oly módon történő megváltoztatására, amely kibővítené a kapcsolattartási ügyekben a bíróság hatáskörét. Különösen indokolt lenne ez azokban az esetekben, ahol a kapcsolattartás tárgyában korábban is a bíróság döntött, és a felek ennek megváltoztatását kérik. Ezt az igényt tovább erősíti, hogy a kapcsolattartásra vonatkozó határozat végrehajtása a 2019. évi CXXVII. törvénnyel bírósági hatáskörbe került.
+
+A Javaslat a kapcsolattartás megváltoztatása iránti per nevesítésével megteremti az alapját annak, hogy a kapcsolattartás megváltoztatása iránti perek köre erre vonatkozó döntés alapján kibővíthető legyen a Ptk. ilyen irányú módosítása esetén. A hatályos szabályozás alapján a Ptk. 4:181. § (4) bekezdése alapján a kapcsolattartás megváltoztatása akkor tartozik bíróság hatáskörébe, ha a kapcsolattartás kérdésében a bíróság döntött, és a fél a kapcsolattartás megváltoztatását a határozat jogerőre emelkedésétől számított két éven belül kéri.
+
+A Javaslat a kapcsolattartás megváltoztatása iránt indított perben azért zárja ki a gyermek tartása iránti kereset előterjesztését, mert elejét kívánja venni annak, hogy a kapcsolattartás megváltoztatásnak kezdeményezését a fél által fizetendő gyermektartásdíj összegének csökkentése motiválja.
+
+A 62. §-hoz
+
+A Pp. a szülői felügyelettel kapcsolatos perek körét az 1952-es Pp.-hez képest jelentősen kibővítette, ami így már magában foglalja a szülői felügyelet gyakorlásának rendezésével kapcsolatos pereket is. A (2) bekezdés a Javaslat általános indokolásában is kiemelt, a kiskorú gyermek érdekeinek védelmében bevezetett rendelkezések közé tartozik. A joggyakorlat jelzései is visszaigazolták, hogy a házassági pereken kívül más személyi állapottal kapcsolatos perben is indokolt - a Pp. 434. §-ában adott általános felhatalmazás mellett is - olyan esetkörök példálózó nevesítése, amikor szükségessé válhat a kiskorú gyermek érdekében ideiglenes intézkedés elrendelése.
+
+A 63. §-hoz
+
+A módosítás a Javaslat általános indokolásában is kiemelt, a kiskorú gyermek érdekeinek védelmében bevezetett rendelkezések közé tartozik. A Pp. 477. § (1) bekezdéssel történő kiegészítése azt célozza, hogy amennyiben a bíróság azt tapasztalja, hogy a fél által indítványozott bizonyítás nem a kiskorú gyermek érdekeit szolgálja vagy azzal éppen ellentétes, mert például az ellenérdekű szülő lejáratását célozza, mellőzze az indítványozott bizonyítást, és éljen a hivatalbóli bizonyítás lehetőségével. Minden olyan esetben, ami a kiskorú gyermek érdekeit szolgálja, a bíróság erre történő hivatkozással kötelezheti a félként eljáró szülőt és a kiskorú gyermeket a klinikai és mentálhigiénia felnőtt és gyermek szakpszichológus szakértői vizsgálaton való részvételre. A Javaslat ennek elmulasztása esetén a származási perekben alkalmazotthoz hasonló jogkövetkezmények alkalmazását helyezi kilátásba.
+
+A Pp. 477. § (4) bekezdése arra tekintettel került kiegészítésre, mert a joggyakorlat jelzései visszaigazolták, hogy a házassági pereken kívül más személyi állapottal kapcsolatos perben is szükséges a Pp. 459. § (1) bekezdésében és az 1952-es Pp. 290. § (1) bekezdésében foglalt szabályhoz hasonló rendelkezés bevezetése, amely lehetővé teszi, hogy a bíróság szükség esetén erre irányuló kereseti kérelem hiányában is határozhasson egyes kérdésekben a szülői felügyelettel kapcsolatos perben.
+
+A 64. §-hoz
+
+A Pp. 480. § (2) bekezdéssel történő kiegészítése a Javaslat általános indokolásában is kiemelt, a kiskorú gyermek érdekeinek védelmében bevezetett rendelkezések közé tartozik. A joggyakorlat jelzései is visszaigazolták, hogy a házassági pereken kívül más személyi állapottal kapcsolatos perben is indokolt - a Pp. 434. §-ában adott általános felhatalmazás mellett is - olyan esetkörök példálózó nevesítése, amikor szükségessé válhat a gyermek harmadik személynél történő elhelyezése iránti perben a kiskorú gyermek érdekében ideiglenes intézkedés elrendelése.
+
+A 65. §-hoz
+
+A Pp. 481. § (3) bekezdése arra tekintettel került kiegészítésre, mert a joggyakorlat jelzései visszaigazolták, hogy a házassági pereken kívül más személyi állapottal kapcsolatos perben is szükséges a Pp. 459. § (1) bekezdésében és az 1952-es Pp. 290. § (1) bekezdésében foglalt szabályhoz hasonló rendelkezés bevezetése, amely lehetővé teszi, hogy a bíróság szükség esetén erre irányuló kereseti kérelem hiányában is határozhasson egyes kérdésekben a gyermek harmadik személynél történő elhelyezése iránti perben.
+
+A 66. §-hoz
+
+A módosítás a joggyakorlatban tapasztalt bizonytalanságot kiküszöbölő, egyértelműsítő szabályt tartalmaz.
+
+A 67. §-hoz
+
+A Pp. 485. § (1) bekezdése a Javaslat általános indokolásában is kiemelt, a kiskorú gyermek érdekeinek védelmében bevezetett rendelkezések közé tartozik. A joggyakorlat jelzései is visszaigazolták, hogy a házassági pereken kívül más személyi állapottal kapcsolatos perben is indokolt - a Pp. 434. §-ában adott általános felhatalmazás mellett is - olyan esetkörök példálózó nevesítése, amikor szükségessé válhat a szülői felügyelet megszüntetése iránt indított perben a kiskorú gyermek érdekében ideiglenes intézkedés elrendelése.
+
+A Pp. 485. §-a arra tekintettel került kiegészítésre, mert a joggyakorlat jelzései visszaigazolták, hogy a házassági pereken kívül más személyi állapottal kapcsolatos perben is szükséges a Pp. 459. § (1) bekezdésében és az 1952-es Pp. 290. § (1) bekezdésében foglalt szabályhoz hasonló rendelkezés bevezetése, amely lehetővé teszi, hogy a bíróság szükség esetén erre irányuló kereseti kérelem hiányában is határozhasson egyes kérdésekben a szülői felügyelet megszüntetése iránt indított perben.
+
+A 68. §-hoz
+
+Jogalkalmazói visszajelzések alapján indokolttá vált a sajtópert megelőző, sajtószerv előtti kötelező előzetes eljárás megindításának határidejével kapcsolatos szabályozás módosítása. A Javaslat szerint megtartottnak kell tekinteni a helyreigazító közlemény közzétételének kezdeményezésére előírt harminc napos határidőt, ha a helyreigazítás iránti kérelmet a sajtószerv címére legkésőbb a határidő utolsó napján postára adták. E módosítás célja, hogy a sérelmet szenvedett személy érvényt tudjon szerezni a sajtó-helyreigazítás iránti igényének akkor is, ha csak a határidő lejártát közvetlenül megelőzően szerez tudomást a jogsértésről. Nem indokolt ebben az esetben a kézbesítés tényleges megvalósulásához szükséges időtartam hosszától vagy a kézbesítés sikerességétől függővé tenni a későbbi bíróság előtti jogérvényesítés lehetőségét.
+
+A 69. §-hoz
+
+A képmáshoz és a hangfelvételhez való jog érvényesítése iránt indított perrel összefüggésben is - hasonlóan a sajtó-helyreigazítási pert megelőző eljáráshoz - indokolt a megelőző eljárás kezdeményezésére vonatkozó határidővel kapcsolatos szabályok módosítása. E módosítás célja is az, hogy a sérelmet szenvedett személy érvényt tudjon szerezni igényének akkor is, ha csak a határidő lejártát közvetlenül megelőzően szerez tudomást a jogsértésről. Nem indokolt ugyanis a kézbesítés tényleges megvalósulásához szükséges időtartam hosszától vagy a kézbesítés sikerességétől függővé tenni a későbbi bíróság előtti jogérvényesítés lehetőségét.
+
+A 70. §-hoz
+
+A Javaslat a Pp. XV. fejezetének megváltozott szabályaira tekintettel módosítja a Pp. 509. §-át, mert a Pp. XV. fejezetének Javaslat szerinti módosítása következtében abból kikerül a járásbíróságra történő hivatkozás.
+
+A 71. §-hoz
+
+A jogalkalmazói visszajelzésekre tekintettel a Pp. munkáltatói igényérvényesítéssel kapcsolatos kizárólagos illetékességi szabályának kiegészítésére azért kerül sor, hogy az együttes perlés lehetősége megvalósulhasson azokban az esetekben (például munkavállalók közös károkozása), amikor kötelezetti pozícióban többalanyúság áll fenn. Mindezt célszerűségi, pergazdaságossági és jogbiztonsági szempontok is megalapozzák. E szabály hiánya egyes esetekben nehezen kezelhető helyzetet teremt az igényérvényesítés szempontjából és fennáll az egymásnak ellentmondó tartalmú, de azonos jogviszonyra vonatkozó ítéletek meghozatalának lehetősége is, ha a jogvitát nem ugyanaz a bíróság bírálja el.
+
+A 72. §-hoz
+
+A módosítás a Pp. 221. § (1) bekezdésének Javaslat szerinti kiegészítésével összhangban lehetővé teszi, hogy a felperes az érdemi tárgyalási szakban keresetváltoztatás engedélyezése iránti kérelem előterjesztése nélkül felemelhesse követelésének összegét a követelésnek a per folyamán esedékessé vált részleteire, továbbá rendelkezik a fellebbezésben és a másodfokú eljárás során történő igényérvényesítésről is. A Pp. 521. § (4) bekezdéssel történő kiegészítése a munkaviszony jogellenes megszüntetése jogkövetkezményei egyes kérdéseiről szóló 6/2016. (XI. 28.) KMK véleményben foglaltaknak megfelelően lényegében egy speciális utóperi szabályt vezet be annak kimondásával, hogy a munkaviszony munkáltató általi jogellenes megszüntetése iránti perben hozott ítélet anyagi jogerőhatása nem gátolja a jogerős ítélettel elbírált kárigényt meghaladó, utóbb esedékessé vált kártérítési igény újabb munkaügyi perben - elévülési időn belül - történő érvényesíthetőségét.
+
+A 73. §-hoz
+
+E § átmeneti rendelkezést tartalmaz, amely alapján az új hatásköri és illetékességi szabályokat a Javaslat szerinti törvény hatálybalépését követően indult ügyekben kell alkalmazni.
+
+A 74. §-hoz
+
+E § a Pp. európai uniós követelményekre utaló rendelkezésének felülvizsgálatát tartalmazza annak érdekében, hogy a Pp. azon hatályos irányelvekre utaljon, amelyek esetében a Pp. ténylegesen átültető rendelkezéseket tartalmaz.
+
+A 75. §-hoz
+
+E § szövegcserés módosító rendelkezéseket tartalmaz.
+
+A Pp. preambulumának módosítását Magyarország Alaptörvényének nyolcadik módosítása (2019. december 12.) indokolja.
+
+A Pp. 73. § (1) bekezdés módosítása szövegpontosító jellegű. Tekintettel arra, hogy a Javaslat szerinti módosítás következtében a Pp. 176. § (2) bekezdés d) pontja alapján a keresetlevél jogi képviselő nélkül történő előterjesztése kötelező jogi képviselet esetén nem eredményezi a keresetlevél visszautasítását, hanem hiánypótlást von maga után, a bíróság a jogi képviselő meghatalmazásának szükségességéről a felperest a továbbiakban a hiánypótlásra felhívó végzésben tájékoztatja.
+
+Jogalkalmazói jelzésre tekintettel pontosításra kerül az ügygondnok-rendelés cselekvőképességgel összefüggő esetkörének [Pp. 76. § (1) bekezdés a) pont] tartalma annak érdekében, hogy azon cselekvőképességükben részlegesen korlátozott nagykorú személyek részére is lehessen ügygondnokot rendelni törvényes képviselő hiányában, akik ugyan nem cselekvőképtelenek [Ptk. 2:21. § (1) bekezdés], de nem rendelkeznek perbeli cselekvőképességgel, mert a polgári jog szabályai szerinti cselekvőképességük a per tárgyára kiterjedő hatállyal van korlátozva.
+
+Jogalkalmazói jelzésre tekintettel főszabály alóli kivételszabály kerül meghatározásra az eljárás megszüntetésével kapcsolatos perköltségviselés tekintetében [Pp. 85. § (1) bekezdés]. Ha ugyanis a felperes elállására tekintettel az eljárás megszüntetésére azért kerül sor, mert a peres felek peren kívül megegyeztek és egyezségükben adott esetben az illeték megfizetését is rendezték egymás között, akkor a bírósági eljárásban nem indokolt a felperes kötelezése az alperes költségeinek és a mérsékelt eljárási illetéknek a megtérítésére. Mindezekre tekintettel a bíróság a felperest perköltségviselésre csak a felek megállapodása hiányában kötelezheti.
+
+A Pp. 114. § (2) bekezdését érintő módosítás szövegpontosító jellegű, egyértelművé teszi, hogy meghatározott példányszámú beadvány előterjesztése kizárólag papír alapú beadványok esetében értelmezhető.
+
+A Pp. 139. § (5) bekezdéséhez kapcsolódó módosítás szövegpontosító jellegű. Az érdemi vizsgálat nélküli elutasítás megnevezésére a Pp. rendszerében a „visszautasítás” fogalma szolgál.
+
+A Pp. 179. § (1) bekezdéséhez kapcsolódó módosítás a jogalkalmazó szervek visszajelzései alapján előírja, hogy a bíróság értesítse a felperest a kereset alperessel történő közlésével egyidejűleg arról, hogy az általa előterjesztett keresetlevelet a bíróság perfelvételre alkalmasnak találta.
+
+A Pp. 183. § (1) bekezdéséhez kapcsolódó módosítás a joggyakorlat által jelzett problémát orvosol. A módosítás egyértelművé teszi, hogy amennyiben a keresetlevél perfelvételre alkalmas és megtörténik annak az alperessel történő közlése, a perfelvételi szakban a keresetlevélben előadott nyilatkozatok már perfelvételi nyilatkozatnak minősülnek, tekintettel arra, hogy azok nyilvánvalóan meghatározzák a jogvita kereteit.
+
+A Pp. 192. § (1) bekezdéséhez kapcsolódó módosítás szövegpontosító jellegű, a kereset- és ellenkérelem-változtatás megváltozott fogalmára tekintettel.
+
+A Pp. 195. §-ához kapcsolódó szövegpontosítás azt célozza, hogy a bíróság olyan időpontban kísérelje meg a felek közötti jogvita egyezséggel történő lezárását, amikor az ehhez társuló jelentősebb mértékű illetékmérséklésre az Itv. 58. § (1) bekezdés c) pontja alapján lehetőség van.
+
+A Pp. 203. § (1) bekezdésének módosítását a Pp. 202. §-ának módosításával való összhang megteremtése indokolja. Hangsúlyozandó, hogy az (1) bekezdésből a 63. alcím szerinti perfelvételi iratokra történő utalás kizárólag a szövegegyszerűsítés miatt került ki, a rendelkezés a viszontkeresetre és beszámításra mint perfelvételi iratokra értelemszerűen továbbra is vonatkozik.
+
+A Pp. 204. § (2) bekezdése jogalkalmazói jelzés alapján annyiban módosul, hogy a házassági vagyonjogi igény viszontkeresetként a járásbíróság előtt a házastársi közös vagyon megosztása tárgyában indított perben feltétel nélkül érvényesíthető akkor is, ha egyébként a törvényszék hatáskörébe tartozna annak elbírálása. A módosítás indoka, hogy az egymással szorosan összefüggő igények egy eljárásban elbírálhatóak legyenek.
+
+A Pp. 213. § (4) bekezdésének módosítása szövegpontosító jellegű, indoka, hogy a viszontkereset és a beszámítás a Javaslat módosítása értelmében szóban is előterjeszthető.
+
+A Javaslat a Pp. 230. §-ának kiegészítésével - a joggyakorlatban tapasztalható bizonytalanságra tekintettel - egyértelművé kívánja tenni, hogy a bíróság a perfelvételi szakban, a jogvita kereteinek meghatározása érdekében is elrendelheti a fél személyes meghallgatását, nemcsak az érdemi tárgyalási szakban.
+
+A Pp. 244. § (1) bekezdését érintő módosítás szövegpontosítást tartalmaz arra tekintettel, hogy a bírósági szervezeti átalakításokkal összefüggő hatásköri változások miatt már nem kizárólag a járásbíróság, hanem a törvényszék hatáskörébe is tartoznak olyan perek - például a munkaügyi per -, ahol a jogi képviselet nem kötelező.
+
+A Pp. 371. § (1) bekezdés b) pontját, c) pontját (amellyel kapcsolatos szövegcserés módosítást a Javaslat 71. §-a tartalmaz), valamint d) pontját érintő módosítások a fellebbezés tartalmát pontosítják, egyszerűsítik a jogalkalmazói visszajelzések alapján, amely összhangban áll az elsőfokú eljárás beadványai tartalmának egyszerűsítését célzó módosításokkal is. A gyakorlatban problémákat okozott a fellebbezésben a másodfokú bíróságtól gyakorolni kért felülbírálati jogkör pontos megjelölése, ami a hiánypótoltatás miatt a per elhúzódását és a joggyakorlat szigorodását eredményezte. A Pp. 371. § (1) bekezdésének módosításával a fellebbezésben elegendő megjelölni, hogy az elsőfokú ítélet kifogásolt rendelkezését vagy részét a másodfokú bíróság mennyiben és milyen okból változtassa meg, vagy helyezze hatályon kívül, továbbá meg kell jelölni azt az anyagi illetve eljárási jogszabálysértést, amelyre a fellebbező a fellebbezését alapítja. E módosítások kellően tág teret adnak a másodfokú bíróság számára ahhoz, hogy a kérelemhez mérten ki tudja választani, hogy milyen körben és korlátok között gyakorolhatja a felülbírálati jogát, de arra is megfelelő garanciát nyújtanak, hogy a másodfokú bíróság ne terjeszkedjen túl a felülbírálat lehetséges keretein.
+
+A Pp. 336. § (1) bekezdésének módosítását a bizonyítási indítvány tartalmának Javaslat szerinti módosításával való összhang megteremtése indokolja.
+
+A Pp. 375. §-ának módosítása szövegpontosító kiegészítést tartalmaz a Pp. 373. § (2) bekezdése szerinti új tény állításának szabályozásával összefüggésben.
+
+A Pp. 429. §-ának módosítása alapján a Pp.-ben szabályozott személyi állapotot érintő perek gyűjtőkategóriája kiegészül a kapcsolattartási perekkel, amely alatt egyfelől a kapcsolattartás szabályozása, a kapcsolattartási jog korlátozása vagy megvonása iránti, másfelől a kapcsolattartás megváltoztatása iránti pereket kell érteni.
+
+A Pp. 459. § (1) bekezdésével összefüggő módosítás az anyagi jogi szabályozással való összhang megteremtését célozza.
+
+A Pp. 463. § (1) bekezdésének kiegészítése a vagyonjogi kérdésekben való döntés előkérdését jelentő életközösség fennállása időtartamának meghatározása érdekében lehetővé teszi a perfelvétel részleges lezárását. A vagyoni kérdéseket illetően a jogvita keretei az életközösség tartamának megállapítását követően tisztázhatók.
+
+A Pp. az elektronikus kapcsolattartást választók, valamint az elektronikus kapcsolattartásra kötelezettek vonatkozásában előírja, hogy minden beadványt kizárólag elektronikus úton nyújthatnak be a bírósághoz. Az elektronikus kapcsolattartásra vonatkozó szabályok merev értelmezése a gyakorlatban oda vezetett, hogy a bíróságok az elektronikus kapcsolattartást a tárgyaláson teljesítendő eljárási cselekmények esetén is megkövetelik, illetve a tárgyaláson semmiféle irat benyújtását nem engedélyezik, elzárva így a felet attól, hogy a törvény által lehetővé tett jogával éljen. Erre tekintettel szükséges a Pp. 605. § (3) bekezdésében és 608. § (1) bekezdésében annak egyértelművé tétele, hogy az elektronikus úton történő kézbesítés nem vonatkozik a tárgyaláson csatolt vagy kézbesíthető irat, illetve határozat kézbesítésére, mivel a tárgyaláson jelenlévők között e körben az elektronikus kapcsolattartás nem értelmezhető. Ez a szabály összhangban áll az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) rendelkezéseivel is. Az E-ügyintézési tv. 8. § (2) bekezdése szerint ugyanis nincs helye elektronikus ügyintézésnek azon eljárási cselekmények esetében, ahol törvény, eredeti jogalkotói hatáskörben megalkotott kormányrendelet az ügyfél személyes megjelenését vagy meghatározott okiratok másként nem pótolható benyújtását kötelezővé teszi. Tovább segíti e szabály értelmezését az E-ügyintézési tv. 8. § (4) bekezdése, amely szerint nincs helye elektronikus ügyintézésnek olyan eljárási cselekmény esetében, ahol ez nem értelmezhető.
+
+A Pp. 628. § (2) bekezdés g) pontja módosításának indoka, hogy a Pp.-nek a Javaslattal módosításra kerülő 246. § (1) bekezdése, 248. § (2) bekezdése, valamint 257. § (2) bekezdése a jövőben nem teszi kötelezővé a jogi képviselő nélkül eljáró fél számára a nyomtatványok alkalmazását, hanem azt a fél számára biztosított lehetőségként szabályozza.
+
+A 76. §-hoz
+
+Hatályon kívül helyező rendelkezések, amelyeknek célja a normaszöveg pontosítása, a Javaslat szerinti módosításokra tekintettel a normaszöveg koherenciájának megteremtése.
+
+A 73. § (1) és (4) bekezdés szövegpontosító módosítása külön indokolást igényel. A jogalkalmazói gyakorlatban értelmezési kérdésként merült fel, hogy „a fél jogi képviselő közreműködésével” vagy „a fél jogi képviselő közreműködése nélkül jár el” fordulatoknak mi a pontos jelentése. Csak úgy értelmezendő, hogy az eljárásban a félnek van vagy nincs meghatalmazott képviselője, vagy azt jelenti, hogy a fél a saját maga által teljesíthető eljárási cselekményeket sem végezheti el a jogi képviselő fizikai jelenléte, közreműködése nélkül? A jogértelmezési kérdés feloldása érdekében a „közreműködés” szó elhagyásra kerül, hogy a „jogi képviselővel vagy anélkül jár el” fordulatok jobban kifejezzék, hogy a jogalkotó szándéka arra vonatkozik, hogy az eljárásban a félnek van-e meghatalmazott képviselője.
+
+A Pp. 201. § (3) bekezdésének hatályon kívül helyezését az indokolja, hogy a Javaslat a Pp. 202. §-ának módosításával lehetővé teszi - bírói felhívás nélkül - előkészítő iratban a keresetváltoztatás előterjesztését, így annak a válaszirathoz kapcsolódó kötelező előírása ezzel ellentétes tartalmú rendelkezés lenne.
+
+A Pp. 242. § (2) bekezdését érintő módosítás az egységes joggyakorlat megteremtése érdekében egyértelművé teszi, hogy a Pp. 242. § (2) bekezdésében említett keresettől való elállásra és az eljárás részbeni megszüntetésére nemcsak az érdemi tárgyalási szakban kerülhet sor.
+
+A Pp. 371. § (1) bekezdés b) pontját (amellyel kapcsolatos szövegcserés módosítást a Javaslat 72. §-a tartalmaz), c) pontját, valamint d) pontját érintő módosítások a fellebbezés tartalmát pontosítják, egyszerűsítik a jogalkalmazói visszajelzések alapján, amely összhangban áll az elsőfokú eljárás beadványai tartalmának egyszerűsítését célzó módosításokkal is. A gyakorlatban problémákat okozott a fellebbezésben a másodfokú bíróságtól gyakorolni kért felülbírálati jogkör pontos megjelölése, ami a hiánypótoltatás miatt a per elhúzódását és a joggyakorlat szigorodását eredményezte. A Pp. 371. § (1) bekezdésének módosításával a fellebbezésben elegendő megjelölni, hogy az elsőfokú ítélet kifogásolt rendelkezését vagy részét a másodfokú bíróság mennyiben és milyen okból változtassa meg, vagy helyezze hatályon kívül, továbbá meg kell jelölni azt az anyagi illetve eljárási jogszabálysértést, amelyre a fellebbező a fellebbezését alapítja. E módosítások kellően tág teret adnak a másodfokú bíróság számára ahhoz, hogy a kérelemhez mérten ki tudja választani, hogy milyen körben és korlátok között gyakorolhatja a felülbírálati jogát, de arra is megfelelő garanciát nyújtanak, hogy a másodfokú bíróság ne terjeszkedjen túl a felülbírálat lehetséges keretein.
+
+-----STARTING---POINT---VEGE---
+
+A 77. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 78. §-hoz
+
+Az európai uniós követelményekre vonatkozó rendelkezés.

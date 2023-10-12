@@ -1,0 +1,1049 @@
+2011. évi XXIX. törvény indokolása
+
+az energetikai tárgyú törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvény célja a bányászatról szóló 1993. évi XLVIII. törvény módosítására vonatkozó részében az energetikai és ipari eredetű szén-dioxid geológiai tárolása jogszabályi környezetének megteremtése, valamint hogy a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló 2009. április 23-i 2009/31/EK európai parlamenti és a tanácsi irányelvben (a továbbiakban: 2009/31/EK irányelv) foglaltakkal összhangban megalkossa az energetikai és ipari eredetű szén-dioxid tárolásának a törvényi szintű szabályozását, amely alapul szolgál a részletes kormányrendeleti szabályozás kialakításának. Ezzel Magyarország is hozzájárul a globális klímaváltozás elleni küzdelemhez.
+
+Az Egyesült Nemzetek Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve, amelynek elfogadása az 1993. december 15-i 94/69/EK tanácsi határozattal történt (kihirdetésre került a 2007. évi LX. törvényben), azt a végső célt kívánja elérni, hogy az üvegházhatású gázok légköri koncentrációja olyan szinten stabilizálódjon, amely meggátolja az éghajlati rendszerre gyakorolt veszélyes, emberi eredetű hatást. A hatodik közösségi környezetvédelmi cselekvési program megerősíti a Közösség azon vállalását, hogy a 2008. és 2012. közötti időszakra az 1990-es szinthez képest 8%-kal csökkenti az üvegházhatású gázok kibocsátását, továbbá azt, hogy hosszabb távon az üvegházhatású gázok kibocsátását világszinten az 1990-es szinthez képest körülbelül 70%-kal kell csökkenteni.
+
+A szén-dioxid-leválasztása és geológiai tárolása (CCS) az éghajlatváltozás mérsékléséhez hozzájáruló áthidaló technológia. A folyamat az ipari létesítményekből származó szén-dioxid (CO2) elkülönítését, a tárolóhelyre való elszállítását, valamint állandó tárolás céljából erre alkalmas, földfelszín alatti geológiai formációkba való besajtolását foglalja magában.
+
+A törvény célja a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET.) és a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) módosítására vonatkozó részeiben az Európai Parlament és a Tanács által 2009. július 13-án elfogadott ún. „3. energia csomag” magyar jogba történő átültetése, illetve végrehajtásának biztosítása. A 3. energia csomag részét képezi
+
+- Az Európai Parlament és a Tanács 2009/72/EK irányelve (2009. július 13.) a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről (a továbbiakban: 2009/72/EK irányelv).
+
+- Az Európai Parlament és a Tanács 2009/73/EK irányelve (2009. július 13.) a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről (a továbbiakban: 2009/73/EK irányelv).
+
+- Az Európai Parlament és a Tanács 713/2009/EK rendelete (2009. július 13.) az Energiaszabályozók Együttműködési Ügynöksége létrehozásáról.
+
+- Az Európai Parlament és a Tanács 714/2009/EK rendelete (2009. július 13.) a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről.
+
+- Az Európai Parlament és a Tanács 715/2009/EK rendelete (2009. július 13.) a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről.
+
+A 3. energiacsomag legjelentősebb újítása az ún. szétválasztási szabályok az ezt megelőző uniós jogi aktusokhoz képest történő sokkal bővebb kifejtése.
+
+Az irányelvek akként rendelkeznek, hogy ha 2009. szeptember 3-án az átviteli rendszerben tulajdonnal rendelkező vállalkozás vertikálisan integrált vállalkozás része, a tagállamoknak lehetőséget kell adni a tulajdonjogi szétválasztás, valamint az ellátási és termelési érdekektől független rendszerüzemeltető létrehozása (az irányelvek angol nyelvű verziójában: Independent System Operator, a bevett rövidítéssel: ISO) vagy a független átvitelirendszer-üzemeltető (az irányelvek angol nyelvű verziójában: Independent Transmission Operator, a bevett rövidítéssel: ITO) közötti választásra.
+
+A törvény ennek megfelelően biztosítja mindhárom szétválasztási modell átültetését az ágazati jogszabályokba, de nem írja elő egyik modell másikkal szembeni elsőbbségi kötelező alkalmazását sem, hanem lehetővé teszi az érintett vállalkozások erre vonatkozó választását. A jelenleg vertikálisan integrált vállalkozás részeként működő villamosenergia-ipari átviteli rendszerirányításnak, valamint földgázszállításnak a vertikálisan integrált vállalkozás termelési vagy kereskedelmi tevékenységet folytató tagjaitól történő szétválasztásának az ezt megelőző uniós jogi aktusokat átültető magyar jogszabályok alapján megvalósult módja az ITO modellhez áll a legközelebb.
+
+Az ISO modell olyan működést feltételez, amelynek során a vertikálisan integrált társaságok megtartják az energetikai hálózati vagyon tulajdonjogát, de a hálózatot magát egy független rendszerüzemeltető irányítja, azaz egy a vertikálisan integrált társaságoktól teljesen különálló vállalkozás látja el az összes hálózatirányítási és -üzemeltetési funkciót.
+
+A tulajdonjogi szétválasztás értelmében ugyanazon személyek nem lehetnek jogosultak közvetlenül vagy közvetve irányítást gyakorolni egy termelési vagy ellátási feladatot betöltő vállalkozás és egy átviteli rendszer felett; illetve ugyanazon személy nem lehet egyszerre tagja ezen társaságok vezető testületeinek. Ez esetben az átviteli rendszert, illetve földgázszállítási rendszert üzemeltető vállalkozás kiválik a vertikálisan integrált vállalkozásból, úgy hogy maga az energetikai hálózat is a tulajdonába kerül, illetve a tulajdonában marad. A törvény az előzőekben kifejtettek szerint ezt a modellt választható lehetőségként tartalmazza. Az irányelvek rendelkezései szerint az ITO vagy ISO kijelölését követően az átviteli hálózatot tulajdonoló, vertikálisan integrált társaság bármikor dönthet a tulajdonjogi szétválasztás mellett, azonban a tulajdonosi szétválasztás megvalósítását követően nincs lehetőség a további szétválasztási modellekhez történő visszatérésre.
+
+A jogharmonizáció mellett a törvény célja továbbá a VET. és a Get. hatálybalépése óta felhalmozódott tapasztalatok alapján szükségessé vált módosítások átvezetése. Ebben a körben kiemelendő egyrészt az elektronikus eljárás bevezetése, amely jelentős hatékonyságnövekedést eredményezhet az engedélyezési eljárásokban. Kiemelendő másrészt a módosítás azon célja, hogy a villamos energiát hővel kapcsoltan termelő - ezáltal egyidejűleg távhőtermelőnek minősülő - erőművek esetében biztosítsa a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) szerint a Magyar Energia Hivatal (a továbbiakban: Hivatal) hatáskörébe tartozó engedélyezési eljárások, valamint az ugyanezen erőműre a VET.-ben előírt - a távhő-engedélyezéstől eltérő szempontokat vizsgáló - engedélyezési eljárások egy eljárásban történő lefolytatását, a két tevékenységi körre egy engedély kiadását. A módosítás ezáltal az érintettek adminisztrációs terheinek csökkentését és a hatékonyabb hatósági eljárást célozza.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény tárgyi hatályát szükséges kiegészíteni az új szabályozási terület meghatározásával.
+
+A 2. §-hoz
+
+Az egyes energetikai témájú törvények, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2010. évi CLXXXI. törvény definiálta a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) a bányászati hulladék fogalmát olyan módon, hogy e körbe tartozik „a bányászati tevékenység során keletkező hulladék, valamint a bauxit feldolgozása során keletkező vörösiszap. Az egységes fogalom-használat, és a törvény belső koherenciájának biztosítása miatt szükséges a módosítás.
+
+A 3. §-hoz
+
+A törvény szerint az energetikai és ipari eredetű szén-dioxid tárolásával kapcsolatos tevékenységeket koncesszió keretében lehet gyakorolni. Ennek megfelelően szükséges a koncesszió keretében zárt területen végezhető tevékenységek körét [8. § a) pont] kiegészíteni.
+
+A 4. §-hoz
+
+E § a Bt. 9. §-ának módosításával kibővíti a koncesszióra kijelölhető zárt területek körét, amelyeket a miniszter pályázati kiírásban meghirdet, ugyanakkor környezetvédelmi szempontokra figyelemmel feltételeket határoz meg.
+
+Az 5. §-hoz
+
+A Bt. 22. § (1) bekezdésének módosításával a zárt területen koncesszió keretében történő kutatási jog adományozására vonatkozó általános szabályok megfelelő alkalmazása kiterjed az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatására is.
+
+A 6. §-hoz
+
+A törvény új 22/C. §-t iktat be a Bt.-be. Az új szakasz az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezet kutatásának és a szén-dioxid földfelszín alatti tárolásának sajátos szabályairól rendelkezik. Az energetikai és ipari eredetű szén-dioxid besajtolás és tárolás megkezdését megelőző kutatás két fázisban történik. A tagállam felbecsüli a rendelkezésre álló és potenciálisan alkalmasnak vélt földtani szerkezeteket (ld. 50/A. § módosítása), majd ezeket saját nemzeti joga szabályozási megoldásaival részletes kutatásra bocsátja a vállalkozók számára. A szabályozás a kutatás tekintetében a zárt területen történő ásványi nyersanyag (ti. szénhidrogén) kutatáshoz hasonló eljárásban történik. A tevékenység jellemzően a fluidumbányászat sajátos technológájával valósul meg, hasonló környezeti kockázatokkal. Az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezet kutatásánál és a szén-dioxid földfelszín alatti tárolásánál elsődlegesen a környezetvédelmi szempontokat, valamint a műszaki-biztonsági követelményeket kell figyelembe venni. E §-ban a főbb szabályok rögzítése történik azzal, hogy a törvény felhatalmazást ad a Kormány részére a részletes szabályok megállapítására.
+
+A 7. §-hoz
+
+A Bt. 25. § (3) bekezdésének módosításával az adatvédelmi biztos ajánlása szerinti rendelkezés kerül beépítésre. A módosított szabály összhangot teremt a Ptk. üzleti titokra vonatkozó rendelkezésével és az adatvédelmi törvényben foglaltakkal.
+
+A 8. §-hoz
+
+A Bt. 25. §-ának módosítása a bányafelügyelet állami nyilvántartási kötelezettségeit kiegészíti a szén-dioxid tárolókról, engedélyekről történő nyilvántartás vezetésével.
+
+A 9. §-hoz
+
+A bányászati jog és az engedélyezési vertikum fontos jogintézménye a bányatelek. Ez a módosító rendelkezés a bányatelek fogalmát pontosítja.
+
+A 10. §-hoz
+
+E § szigorítást vezet be a Get. alapján szállítási rendszerüzemeltetési és földgázelosztási működési engedéllyel rendelkező szervezet (engedélyes) a Bt. hatálya alá tartozó gázüzemi tevékenységei vonatkozásában a tevékenységek kiszervezhetőségét illetően a Get. szabályozásával összhangban. Célja, hogy a bányafelügyelet jóváhagyásához kötött legyen a kiszervezés, továbbá fontos azon felelősség rögzítése, amely szerint a kiszervezett tevékenység teljesítéséért a kiszervezést végző engedélyes felelőssége fennáll.
+
+A 11. §-hoz
+
+Az egyes energetikai témájú törvények, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2010. évi CLXXXI. törvény definiálta a Bt. bányászati hulladék fogalmát olyan módon, hogy e körbe tartozik „a bányászati tevékenység során keletkező hulladék, valamint a bauxit feldolgozása során keletkező vörösiszap. Az egységes fogalom-használat, és a törvény belső koherenciájának biztosítása miatt szükséges a módosítás.
+
+A 12. §-hoz
+
+A Bt. 38/C. § módosítása a 19. §-sal módosított Bt. 50/C. § módosításával való szabályozási összhangot teremti meg.
+
+A 13. §-hoz
+
+E § a jogosulatlan bányászati tevékenységek taxatív felsorolását egészíti ki, amelyeket a bányafelügyelet szankcionál.
+
+A 14. §-hoz
+
+E § a bányafelügyelet hatáskörét egészíti ki az energetikai és ipari eredetű szén-dioxid föld alatti tárolásával kapcsolatos feladatokra vonatkozóan.
+
+A 15. §-hoz
+
+E § a „bányászati tevékenység”, a „kutatás”, a „zárt terület” fogalmakat pontosítja, valamint új fogalmat iktat be az energetikai és ipari eredetű szén-dioxid föld alatti tárolásával összefüggésben.
+
+A 16. §-hoz
+
+E § a Bt. 9. §-ának módosításához kapcsolódóan a jogbiztonság érdekében rendelkezik arról, hogy az új szabályok a folyamatban lévő eljárásokra nem kell alkalmazni.
+
+A 17. §-hoz
+
+Az 50/A. § módosítása felhatalmazást ad a Kormánynak az energetikai és ipari eredetű szén-dioxid tárolásával kapcsolatos részletes szabályok rendeleti szinten történő megállapítására.
+
+A 18. §-hoz
+
+E § feladatot ad az állami földtani feladatokat ellátó szerv részére, hogy készüljön felmérés az ország területén rendelkezésre álló, energetikai és ipari eredetű szén-dioxid tárolására potenciálisan alkalmas földtani szerkezetek kapacitásáról. E felmérés elvégzésére a bányászati és földtani hatósági és háttérintézményi rendszer nagy hagyományokkal és szakmai kompetenciával bír.
+
+A 19. §-hoz
+
+Már a földgázellátásról szóló 2003. évi XLII. törvény átmeneti rendelkezéseiben szabályozta a már létesített vezetékekhez kapcsolódó vezetékjogok és szolgalmi jogok ingatlan-nyilvántartásba történő utólagos bejegyeztetési kötelezettségét. Később a földgázellátásról szóló 2008. évi XL. törvény a Bt. szabályozási körébe iktatta az elmaradt szolgalmak jogi rendezését. A vezetékjog és szolgalmak utólagos ingatlan-nyilvántartásba történő bejegyeztetési kötelezettségére előírt határidőt az érintettek nem tudták tartani az ügyek jelentős száma, illetve elhúzódása miatt. Erre tekintettel e módosítás a határidőt hosszabbítja meg, és az eljárási szabályokat pontosítja. Az új 50/D. § beiktatásával a törvény lehetőséget biztosít a szállítóvezetékekkel kapcsolatos szolgalmak ingatlan-nyilvántartásba történő utólagos bejegyzésére.
+
+A 20. §-hoz
+
+E § a jogharmonizációs rendelkezést egészíti ki a Bt.-ben a vonatkozó irányelv beiktatásával.
+
+A 21. §-hoz
+
+Szövegpontosítás, illetve a törvény alkalmazási körének pontosítása. A „villamosenergia-ipari tevékenység” fordulata helyett a jogalkalmazást könnyítő és a törvény áttekinthetőségét fokozó „e törvény szerinti tevékenység” fordulatának bevezetése.
+
+A 22. §-hoz
+
+A pontosító rendelkezések a törvény belső koherenciája, illetve a gyakorlatban felmerült tapasztalatok alapján.
+
+Több rendelkezés a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vhr.) értelmező rendelkezései közül - a jogalkalmazást könnyítése és a szabályozás koherenciájának javítása érdekében - került törvényi szintre emelésre.
+
+Új fogalomként jelenik meg az eredetigazolás és a Nemzeti Cselekvési Terv fogalma is, amely a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló 2009. április 23-i, 2009/28/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2009/28/EK irányelv) egyes rendelkezéseinek harmonizációját szolgálja.
+
+A megújuló energiaforrásból vagy hulladékból nyert energiából termelt villamos energia, valamint a hővel kapcsoltan termelt villamos energia kötelező átvételi rendszerének (a továbbiakban: KÁT) módosuló szabályozásához kapcsolódóan pontosításra került az elsődleges energiaforrás fogalma, továbbá a hulladékból nyert energia fogalmát a törvény új rendelkezésként kívánja beépíteni a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET.) értelmező rendelkezései közé.
+
+A fentieken túl további pontosításokra került sor a közvetlen vezeték és a magánvezeték fogalmi köréhez kapcsolódóan.
+
+A törvény az irányításnak a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről szóló 2009. július 13-i, 2009/72/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2009/72/EK irányelv) szerinti fogalmát veszi át.
+
+A 23. §-hoz
+
+A § a felhasználók biztonságos és zavartalan villamosenergia-ellátásának közérdekűségéről rendelkezik.
+
+A 24. §-hoz
+
+Kisebb névleges teljesítőképességű erőművek esetén a rendszer szabályozásában szabályozó központokon keresztül lehet részt venni, amelyek segítségével a csatlakozó erőművek egy, virtuális erőműként ajánlhatják fel teljesítőképességüket és vehetnek részt a szabályozásban. A technikai feltételek kialakítását követően indokolt azon erőművek vonatkozásában is kimondani a szabályozásban való részvétel kötelezettségét, amelyek eddig műszaki adottságaik miatt önállóan erre nem voltak képesek. A részletszabályokat a villamosenergia-ellátási szabályok tartalmazzák.
+
+A 25. §-hoz
+
+Az eredetigazolásra vonatkozó részletszabályokat állapítja meg, így a kiállítására vagy a nyilvántartására vonatkozó rendelkezések e §-ban kerülnek megállapításra.
+
+A 26. §-hoz
+
+A szélerőművi új kapacitások létesítésére vonatkozó pályázati kiírás tartalmi elemeinek pontosítása.
+
+A 27-31. §-hoz
+
+A törvény hivatkozott §-ai a KÁT rendszer létrehozására és működésére vonatkozó alapvető szabályok pontosítására, illetve módosítására irányulnak. A módosuló, új alapokra helyezett szabályozás célja a megújuló energiák hasznosításának növelése, a megújuló energiák előállításának és fogyasztásának támogatása, továbbá a fosszilis energiahordozókkal való takarékos gazdálkodás növelése és mindezekkel párhuzamosan az e körbe tartozó EU előírások és kötelezettségvállalások teljesítésének, hatékony elősegítésének és teljes körű biztosításának megalapozása.
+
+A 28. § (3) bekezdése rendelkezik a KÁT mérlegkörben történő értékesítéshez szükséges a mérlegkör tagsági szerződés megkötéséről, és a KÁT mérlegkörhöz való csatlakozásról. Ehhez kapcsolódóan a 31. § rendelkezik a mérlegkör-felelős alapvető kötelezettségeiről.
+
+A 31. §-sal megállapított VET. 13. § (1a) bekezdésében új szabályozási elemként jelenik meg, hogy a kötelező átvétel alá eső villamos energia ellenértékét a szervezett villamosenergia-piacon értékesített kötelező átvétel alá eső villamos energia ellenértékével csökkentve kell elszámolni.
+
+A hulladékból nyert energia tekintetében a 2009/28/EK irányelv kimondja, hogy kizárólag a hulladék megújuló energiaforrásnak minősülő részaránya részesülhet támogatásban. Jelenleg Magyarország tekintetében a részarány meghatározásra az EU-ENSZ-IEA együttes energiastatisztikai iránymutatása szerint kerül sor, amely alapján a kommunális, települési hulladékból megújulóként elismert, illetve a megújulóként el nem ismert hányad 50-50%. Ennek megfelelően került sor a jogszabályi környezet kialakítására is.
+
+A 32. §-hoz
+
+E § az átviteli rendszerirányításhoz kapcsolódó feladatok szabályozásának jogalkalmazást könnyítő, továbbá az európai uniós jogalkotásból származó jogharmonizációs kötelezettségek teljesítését megvalósító rendelkezéseket állapítja meg.
+
+A 33-34. §-hoz
+
+Az átviteli rendszerirányítónak a 2009/72/EK irányelv 17. cikk (2) a) pontjában meghatározott feladatának meghatározása, és képviseleti jogosultságának biztosítása. A fentieken túlmenően jelen szakasz rendelkezik az átviteli rendszerirányítónak a regionális piacok kialakításában való közreműködési jogáról és kötelezettségéről, valamint az egységes villamosenergia-piac kialakításának megkönnyítése érdekében a közös vállalkozások alapításának jogáról, amelyek a rendszerszintű szolgáltatások regionális körben való, jelenleginél alacsonyabb szinten történő biztosításával jelentős mértékben elősegíti a villamosenergia-kereskedelem átlátható és hatékony működését, valamint a rendszerszintű szolgáltatásokhoz szükséges villamos energia beszerzését.
+
+A 35. §-hoz
+
+Az átviteli rendszerirányító feladatai ellátásához - így a rendszerszintű szolgáltatások biztosításához, az átviteli hálózati veszteség pótlásához, az átviteli kötelezettség alá eső villamos energia mérlegkörének kiegyenlítéséhez - szükséges kapacitásokat és villamos energiát kizárólag nyilvánosan szerezheti be, amelynek során biztosítani kell bármelyik hazai vagy külföldi termelő, villamosenergia-kereskedő vagy arra alkalmas berendezéssel rendelkező felhasználó hozzáférési lehetőségét.
+
+A 36. §-hoz
+
+A szakasz által bevezetett rendelkezések a mérlegkörre, illetve a mérlegkör-felelősre állapítanak meg a kialakult gyakorlattal összhangban álló pontosító rendelkezéseket.
+
+A 37. §-hoz
+
+A pontosító rendelkezések a törvény belső koherenciája illetve a gyakorlatban felmerült tapasztalatok alapján.
+
+A 38-39. §-hoz
+
+A hálózatfejlesztési tervre vonatkozó részletes szabályok a VET. 25-26/A. §-ában kerülnek megállapításra, amelyek a 2009/72/EK irányelv vonatkozó rendelkezéseinek átültetése mellett a gyakorlatban felmerült tapasztalatokat ültetik át. A módosítást követően az átviteli rendszerirányító a továbbiakban évente köteles hálózatfejlesztési tervet készíteni a villamosenergia-rendszer 132 kV-os és annál nagyobb feszültségű hálózatok vonatkozásában, amely terveknek tartalmazniuk kell az átviteli hálózatnak az elkövetkezendő tíz évben megépítendő, illetve felújítandó elemeit, továbbá a következő három évben megvalósítandó beruházásokat, azok ütemezésével együtt.
+
+Tekintettel a hálózatfejlesztési terv fent említett éves rendszerű elkészítési kötelezettségére, indokolatlan és ezáltal megszüntetésre kerül a hálózati engedélyeseknek a hálózatfejlesztési terv módosítására vonatkozó jogosultsága.
+
+A hálózatfejlesztési tervben foglaltak végrehajtására a hálózati engedélyesek kötelezettek. A hálózatfejlesztési terv alapján megvalósított beruházások indokolt költségei a rendszerhasználati díjakban elismerésre kerülnek.
+
+Az átviteli rendszerirányítónak a hálózatfejlesztési terv alapján megjelölt, következő három évben megvalósítandó, azonban annak felróható magatartása miatt elmaradt hálózatfejlesztéseinek megvalósítására - a 2009/72/EK irányelv előírásainak megfelelően - a Hivatal köteles pályázatot kiírni. Ilyen esetben a Hivatal kötelezheti az átviteli rendszerirányítót annak elfogadására, hogy az érintett beruházást harmadik fél finanszírozza, valósítsa meg vagy kötelezheti az átviteli rendszerirányítót az érintett új eszközök megépítésére vagy üzemeltetésére.
+
+A 25/A. § rendelkezése szerint az átviteli hálózat közcélúságáról való döntésben a hálózati engedélyes nem vesz részt, az átviteli hálózathoz tartozó vezetékek és berendezések közcélúvá minősítéséről a Vhr.-ben foglalt szabályok szerint a Hivatal dönt. A közcélúvá minősítési eljárás indulhat Hivatalból vagy kérelemből.
+
+A 40. §-hoz
+
+Pontosító jellegű rendelkezés. A hálózati engedélyeseknek az átviteli vagy az elosztói hálózatra való csatlakoztatásra vonatkozó megtagadási indokait egyértelműsíti a §.
+
+A 27. § (3a) bekezdése összhangban van az e törvényben az átviteli rendszerirányító és az elosztók számára meghatározott feladatokkal, ezért az, hogy a felhasználók átviteli hálózatra csatlakozzanak, csak kivételesen nagy teljesítmény igény és olyan feszültség szint esetén indokolt, amelyet az elosztó nem tud biztosítani, ezzel összhangban felhasználó csak 132 kV-nál nagyobb feszültségszinten csatlakozhat az átviteli hálózatra.
+
+A 41. §-hoz
+
+Az átviteli rendszerirányító és az elosztó feladatainak különválasztása során váltak szükségessé a pontosítások, mivel a korábbi hálózati engedélyesekre vonatkozó közös szabályok további egységes alkalmazását az irányelv TSO vonatkozásában bevezetett szabályai nem teszik lehetővé. Az elosztók tulajdonlásra vonatkozó előírásai nem változtak, a korábbi 102. § (1) bekezdése áthelyezésre került ide annak érdekében, hogy az elosztókra vonatkozó szabályok egy helyen legyenek.
+
+A 42. §-hoz
+
+Az átviteli rendszerirányító és az elosztó feladatainak különválasztása során szükségessé vált az ügyfélszolgálatokra vonatkozó rendelkezések pontosítása. Az elosztók állandó ügyfélszolgálati irodák fenntartására kötelesek, ahol biztosítaniuk kell a telefonos és elektronikus ügyintézés lehetőségét, továbbá biztosítaniuk kell a működési területükön lévő megyeszékhelyen, megyei jogú városban vagy, ha működési területükön ilyen város nincs, akkor az ellátotti települések közül a legtöbb felhasználóval rendelkező településen az ügyfelek részére nyitva álló helyiségben a személyes ügyintézés lehetőségét is.
+
+A 43. §-hoz
+
+A veszteségi energia mennyisége az elosztó hálózat üzeme közben számos tényező miatt folyamatosan változó mennyiség, amelyhez pontosan illeszkedő beszerzési portfoliót előre nem lehet összeállítani. A tényleges veszteség mértéke csak az elszámolási időszakok lezárása után derül ki. A veszteségi energia ára az elosztási díjakban mint költségtényező megjelenik. A költségek csökkentése céljából indokolt lehetővé tenni az elosztók számára, hogy a fölöslegesen beszerzett (de szerződésekkel lefedett) mennyiségeket értékesíthessék, anélkül, hogy ezzel vétenének a szétválasztási szabályok előírásai ellen.
+
+A 44. §-hoz
+
+Az energetika másik területével, a földgáz szektorral való párhuzam biztosítása a földgázellátásról szóló 2008. évi XL. törvénnyel (a továbbiakban: Get.) megállapított jegyzői hatáskörök tekintetében. A VET. 33/A. §-a megállapítja az elosztónak a jegyzőhöz való fordulás jogát, amennyiben
+
+a) a rendszerhasználó megakadályozza vagy meghiúsítja a fogyasztásmérő leolvasását, ellenőrzését vagy cseréjét,
+
+b) szerződésszegés vagy szabálytalan vételezés esetén akadályozza vagy meghiúsítja az ellátásból való kikapcsolás vagy
+
+c) a felhasználói berendezés ellenőrzését.
+
+A jegyző határozatában a rendszerhasználót az előbbiek tűrésére kötelezheti.
+
+A VET. 33/B. §-a a rendszerhasználónak az elosztó által kezelt merési adataihoz való hozzáférés lehetőségét biztosítja a rendszerhasználó hozzájáruló nyilatkozatával rendelkező villamosenergia-kereskedő részére. Az újonnan beiktatott rendelkezés hozzájárul a kereskedőváltás adminisztratív oldalának gördülékenyebbé tételéhez.
+
+A 45. §-hoz
+
+A rendelkezés célja a közvilágítási felhasználó sajátos helyzetének figyelembe vétele a rendszerhasználati díjfizetés szempontjából, amire a felhasználási terület egy fogyasztási hellyé nyilvánításán túl a módosítás lehetővé teszi a teljesítménydíj alapjául szolgáló teljesítmény, illetve annak alapján a teljesítménykategória szabályozott módon való megállapítását a közvilágítási felhasználó esetében (a teljesítmények összevonása egy csatlakozási pontba).
+
+A VET. 34. § (5) bekezdése az elosztó monopolhelyzettel való visszaélésének elkerülhetőségét célozza. A bekezdésben nevesített tilalom csak azokra a közvilágítási berendezésekre vonatkozik, amelyek nem az elosztó szándékából kerültek az elosztó hálózat tartószerkezeteire és létesítményeibe, és nem az elosztó tulajdonában vannak. A tilalom alól kivételt képez a felek ez irányú megállapodása. A hibabejelentések fogadása az arra irányuló külön megállapodás hiányában is külön beletartozhat az együttműködés fogalmába.
+
+A VET. 34. §-a (5a) bekezdése előírja az elosztónak a tulajdonában lévő közvilágítási elosztó hálózat üzemeltetésére, karbantartására és fejlesztésére vonatkozó kötelezettségét.
+
+A 46. §-hoz
+
+A háztartási méretű kiserőmű (50 kVA-ig) hálózathoz való csatlakozásának gyorsítását biztosítja a rendelkezés. A Vhr.-ben meghatározott, 18 kVA teljesítmény határig a felhasználókra vonatkozó csatlakozási rendeletben megfogalmazott szabályokat köteles alkalmazni az elosztó. E fölötti teljesítmény esetén az elosztó hálózat teherbíró képességének vizsgálatához kötheti a hálózatra csatlakozás feltételeit.
+
+A 47. §-hoz
+
+A rendelkezés a VET. 36. § (2) bekezdésének f) pontjának pontosítására, továbbá a bekezdés h) ponttal történő kiegészítésére szolgál. A h) pontban bevezetett tilalom indoka, hogy az erőmű által táplált közvetlen vezeték és a közcélú hálózat egy időpontban történő használatára műszaki technikai okokból nem kerülhet sor.
+
+A 48. §-hoz
+
+A módosító rendelkezés a közvetlen vezetékre és a magánvezetékre vonatkozó részletes szabályokat állapítja meg.
+
+A közvetlen vezeték létesítésére vonatkozó szabályozás módosítása az irányelvnek való teljesebb megfelelést célozza. A jövőben közvetlen vezetéket a létesítő csak saját létesítményei vagy kapcsolt vállalkozásainak a létesítményei villamos energia ellátása céljából létesíthet.
+
+A felhasználási helyen kívüli villamos energia ellátás céljából hálózatok működtetése (elosztási tevékenység végzése) az elosztók engedélye szerinti működési területén az elosztók természetes monopóliuma, ezért mások villamos energiával történő ellátása céljából történő villamos hálózatok létesítését a felhasználási helyre korlátozza a törvény. A magányvezetékről vételezők lehetséges köre új magánvezeték létesítés esetén - figyelemmel az 2009/72/EK irányelv zárt elosztó rendszerekre vonatkozó előírásaira és a magánvezetékes ellátás eddigi hazai történetiségére, valamint tapasztalatokra is - a szűkebb körben került meghatározásra. A magánvezeték létesítési engedélyköteles.
+
+A magánvezetékek az elosztók kizárólagossági területén létesülnek, sok esetben más felhasználók vagy vételezők ellátása céljából, amely érinti a hálózati engedélyesek elosztásra, hálózatfejlesztésre, csatlakozásra vonatkozó kötelezettségét, ezért az elosztóknak tudomással kell bírniuk a magánvezetékek létesítéséről.
+
+A gyakorlati tapasztalatok alapján sor került a magánvezetéket üzemeltető és a tevékenységért felelős meghatározására, továbbá - a felhasználók és vételezők érdekében - a magánvezeték üzemeltetőjét terhelő szerződéskötési kötelezettség nevesítésére.
+
+A rendelkezés továbbá rögzíti, hogy egy magánvezeték üzemeltetője - a magánvezeték üzemeltetési tevékenysége során - általa az elosztónak a csatlakozási ponton megfizetett rendszerhasználati díjakat a vezetékről ellátott vételezőkre és felhasználókra nyereségszerzés nélkül átháríthatja.
+
+A kialakított szabályozás lehetővé teszi, hogy a felhasználási helyen belül magánvezetékről vételezők (a továbbadás intézményéből kilépve) - saját igényük és döntésük alapján - villamos energia kereskedőtől is vásárolhassanak villamos energiát.
+
+Meghatározásra került, hogy a magánvezetékre kapcsolódó felhasználó - miközben a magánvezeték csatlakozási pontján az elosztó hálózatra közvetett módon is csatlakozik - milyen módon kapcsolható ki, ha nem fizet, valamint az, hogy a magánvezetéket üzemeltető felhasználó milyen módon kapcsolható ki, ha nem fizet, továbbá az is, hogy a magánvezeték milyen feltételekkel és esetekben nyilvánítható közcélúvá.
+
+A 49-52. §-hoz
+
+A törvény ezen §-ai a mérés leolvasáshoz tartozó pontosító rendelkezéseket tartalmazzák, továbbá előírják, hogy a mérőhely kiépítésre vonatkozóan ugyanazon szabályok szerint kerül sor a magánvezetékre kapcsolódó felhasználók és az elosztó hálózatra csatlakozó felhasználók esetében is. A felhasználók megfelelő tájékoztatása érdekében a 52. § [VET. 43. § (1) bekezdés, VET. 44. §] rendelkezik a kezdő és záró mérőállások egyezőségéről, továbbá arról, hogy a felhasználót elszámolási időszakonként tájékoztatni kell a fogyasztásmérő berendezés kezdő és záró mérőállásáról. A felhasználóval történő elszámolásra legalább évenkénti gyakorisággal sor kell kerülnie.
+
+Az 53., 54. és 56. §-hoz
+
+A rendelkezés az ügyfélszolgálatra vonatkozó részletesebb előírások meghatározását tartalmazza.
+
+A pontosított szabályozás alapján a villamosenergia-kereskedőnek, az egyetemes szolgáltatásra jogosultakat ellátó villamosenergia-kereskedőnek és az egyetemes szolgáltatónak eltérő kötelezettségei vannak.
+
+A tapasztalatok alapján amennyiben a villamosenergia-kereskedő által ellátott egyetemes szolgáltatásra jogosult felhasználók száma jelentősen megnövekedik, a felhasználók igénylik a személyes ügyintézés lehetőségét.
+
+Értelemszerűen a villamosenergia-kereskedő kötelezettségei a legenyhébbek, mivel neki csak a felhasználók bejelentéseinek intézésére, panaszainak kivizsgálására, orvoslására és tájékoztatására kell biztosítani a felhasználói kapcsolattartás szervezetét és a telefonon és elektronikus úton történő ügyintézés lehetőségét.
+
+Az egyetemes szolgáltatásra jogosult felhasználókat ellátó villamosenergia-kereskedő kötelezettsége egy fokozattal szigorúbb, mivel ő vagy ügyfélszolgálati irodát vagy ügyfélszolgálati fiókirodát (összefoglalóan együtt: ügyfélszolgálatot) működtet minden olyan régióban, ahol az általa ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 15 000 főt. Abban a régióban, amelyben a villamosenergia-kereskedő által ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 45 000 főt, ott a villamosenergia-kereskedő ügyfélszolgálati irodákat működtet.
+
+Az egyetemes szolgáltató kötelezettsége pedig a legszigorúbb, tekintettel arra, hogy köteles kistérségenként legalább egy ügyfélszolgálati irodát működtetni.
+
+Nyilvánvalóan a lakossági fogyasztóknak mérlegelniük kell, hogy - feltételezhetően egy alacsonyabb ár fejében - hajlandóak-e lemondani bizonyos, az egyetemes szolgáltatóknál kötelező ügyfélszolgálati lehetőségekről. A törvény meg kívánja adni a lakossági fogyasztóknak ezt a lehetőséget, egyszerűsítve a kereskedők ezen kötelezettségeit.
+
+A szabályozás egyetemes szolgáltatók esetében a nyitvatartási időt is meghatározza.
+
+A felhasználók tájékoztatására vonatkozó szabályok a 3. csomag előírásának megfelelően beépítésre kerültek. E § szolgálja továbbá a 2009/72/EK irányelv egyes rendelkezéseinek való megfelelést [I. melléklet 1. i)-j) pont, 3. cikk (9) bekezdés].
+
+Az egyetemes szolgáltatás keretébe tartozó termékcsomagok meghatározott típusait, árszabásait miniszteri rendelet tartalmazza.
+
+Az 55. §-hoz
+
+A felhasználói, engedélyesi panaszok tapasztalatai alapján szükséges a kereskedőváltás szabályait külön fejezetbe kiemelni, a főbb kötelezettségeket pedig átemelni az alsóbb szintű jogszabályokból, A fenti fogyasztóvédelmi megfontolások mellett továbbá a 2009/72/EK Irányelv 3. cikk (5) a) pontja előírja, hogy a rendszerüzemeltetőknek 3 héten belül kell teljesíteni a kereskedőváltást.
+
+Az 57. §-hoz
+
+A VET. korábbi rendelkezései nem határozták meg pontosan, hogy mely piaci szereplő pontosan milyen ügyleteket köthet a szervezett villamosenergia-piacon, e § szerinti módosítás pontosan ezt célozza.
+
+Az 58. §-hoz
+
+A rendelkezés az átviteli rendszerirányítóra vonatkozó tulajdoni korlátokat törli. Ennek indoka részben, hogy a tulajdoni korlát csak részvénytársasági formára van előírva (fióktelep esetén nem is értelmezhető).
+
+Az 59. §-hoz
+
+A kereskedelmi tevékenység egyidejű végzésének tilalma szükséges minden olyan szereplőnél, aki a szervezett villamosenergia-piac működtetésében részt vesz, hiszen a szervezett villamosenergia-piacon történő ügyletkötés során „bennfentes” információkkal rendelkezhetne.
+
+A 60. §-hoz
+
+A 2009/72/EK irányelv 3. cikk (12) bekezdésének való megfelelés szolgáló rendelkezés. Az energiafogyasztói lista a felhasználók megfelelő szintű tájékoztatásának egyik eszköze. Tekintettel arra, hogy az energiafogyasztói ellenőrző listán található kérdések fogyasztóvédelmi témájúak, és a fogyasztóvédelemmel kapcsolatos általános feladatok ellátása a nemzetgazdasági miniszter irányítása alatt álló Nemzeti Fogyasztóvédelmi Hatóság feladata, továbbá, hogy a fogyasztóvédelmi tanácsadó irodák és az állami fogyasztóvédelmi ügyfélszolgálat is az NFH közreműködésével, illetve azon belül működik, az ellenőrző listával kapcsolatos tevékenységet is indokolt a fogyasztóvédelmi hatósághoz telepíteni.
+
+A 61. §-hoz
+
+A fogyasztóvédelmi törvény alapján a fogyasztóvédelmi hatóságnak jelenleg nincs eszköze arra, hogy az üzletszabályzatokban előírt konkrét jogkövetkezmények alkalmazására kötelezhesse az engedélyest. A kiegészítés a Hivatal és a fogyasztóvédelmi hatóság eljárásainak közelítése és a fogyasztóvédelmi érdekek érvényesítése céljából indokolt.
+
+A 62. §-hoz
+
+VET. 59. § (3) bekezdése új d) ponttal történő kiegészítésének indokolása.
+
+Nemcsak a felhasználónak, hanem minden rendszerhasználónak (a termelőnek is, amennyiben a csatlakozási ponton villamos energiát fogyaszt) rendelkezni kell érvényes villamosenergia-adásvételi szerződéssel, hiszen ellenkező esetben ezt az elfogyasztott mennyiséget a hálózati engedélyesnek a hálózati vesztesége, vagy a kiegyenlítő energia terhére kellene biztosítania, ami az elosztási díjat növelné, tehát ezt csak a rendszerhasználati díjat fizető felhasználó fizetné meg.
+
+A 63. §-hoz
+
+A módosítás célja a párhuzamos szabályozás megteremtése a hálózat használati szerződésből eredő igények elévülési ideje és a villamosenergia-vásárlási szerződésből eredő igények elévülési ideje vonatkozásában.
+
+A 64. §-hoz
+
+Az egyetemes szolgáltatási szerződés kötelező tartalmi elemeinek szélesebb körben történő meghatározása a gyakorlatban felmerülő fogyasztóvédelmi tapasztalatok alapján indokolt.
+
+A kereskedővel kötendő villamosenergia-vásárlási szerződés kötelező tartalmi elemei vonatkozásában az egyetemes szolgáltatásra nem jogosult felhasználóval kapcsolatos rendelkezést is tartalmaz a módosítás.
+
+A 65. §-hoz
+
+Tapasztalatok alapján a kereskedők megbízási szerződéseket kötnek a felhasználókkal a hálózati csatlakozási és hálózathasználati, illetve villamosenergia-adásvételi szerződéseik összevont kezelésére, e lehetőség fenntartása továbbra is indokolt. Az egyetemes szolgáltatókat a villamosenergia-értékesítési szerződések vonatkozásában szerződéskötési kötelezettség terheli, így az ő esetükben a nevezett szerződések összevont kezelése a felhasználó arra irányuló kérése esetén kötelező.
+
+A 66. §-hoz
+
+A fizetési késedelemhez fűződő következményeket a szociálisan rászoruló fogyasztóknál indokolt biztosítani. A fogyatékkal élő fogyasztók, ha egyébként szociálisan nem rászorulók, fizetési késedelem esetén az általános szabályok alapján kerülhetnek kikapcsolásra kivéve, ha a villamosenergia-szolgáltatásból való kikapcsolás az egészségüket vagy az életüket veszélyezteti.
+
+A 67. §-hoz
+
+A 67. § a villamos energia továbbadásával kapcsolatos részletszabályokról rendelkezik.
+
+Ha a magánvezeték üzemeltetője kereskedőként kívánja ellátni a magánvezetékre kapcsolódó vételezőket, akkor ezt a hozzáférési lehetőséget minden kereskedőnek kell biztosítani, a vételezőket tehát integrálni kell a mérlegköri rendszerbe, vagyis felhasználókká kell válniuk. A továbbadó felhasználó esetén különös kikapcsolási eljárást kell alkalmazni. Ez indokolja az értesítési kötelezettséget.
+
+A 68. §-hoz
+
+Az üzletszabályzat készítésére köteles engedélyesek honlap fenntartására vonatkozó kötelezettségét írja elő egyrészről a szakasz egyik rendelkezése, ezzel is elősegítve és támogatva, hogy a felhasználók - a villamosenergia-szolgáltatáshoz kapcsolódóan - minél szélesebb körben juthassanak információhoz. A szakasz másik rendelkezése az átviteli rendszerüzemeltető üzletszabályzatának véleményezésére jogosultak körét rögzíti.
+
+A 69. §-hoz
+
+A szabályozás szerint a termelőnek a távhőszolgáltatásról szóló törvény (a továbbiakban: Tszt.) meghatározott, határozatlan időtartamra szóló engedélyköteles tevékenységére vonatkozó engedélyének és a VET. szerinti határozott időre szóló engedélyének egy engedélyben történő kiadása esetén a VET. szerinti engedély meghosszabbítására irányuló eljárás nem érinti a Tszt. szerinti tevékenységre vonatkozó részek hatályát, könnyítve ezzel mind az engedélyesre és mind a közigazgatásra háruló az adminisztrációs terheket.
+
+A 70. §-hoz
+
+Az elektronikus ügyintézés szabályairól történő rendelkezések előírása. A törvény a Ket. előírásaival összhangban bizonyos eljárásoknál kötelezővé teszi az elektronikus eljárás alkalmazását.
+
+A Ket. lehetővé teszi, a VET. pedig kötelezően előírja az elektronikus úton történő kapcsolattartást. Ezen eljárás alkalmazása indokolt a nagyobb számban előforduló, automatizálható engedélyek esetében.
+
+A 71. §-hoz
+
+Nem indokolt az engedélyek meghosszabbítására irányuló kérelmek túl korai (pl. 10-15 évvel annak lejárta előtt) kérelmezése, mivel ekkor - az engedély szempontjából - releváns körülmények még nem behatárolhatóak. Ennek következtében nem dönthető el, hogy az engedély meghosszabbítása valóban szükséges és aktuális lenne-e az engedély lejártakor. Ennek érdekében szükséges a hosszabbításra vonatkozó engedély legkorábbi időpontjának rögzítése.
+
+A 72. §-hoz
+
+Szövegpontosító rendelkezés.
+
+A 73. §-hoz
+
+Szövegpontosító rendelkezés, valamint a 69. §-hoz hasonlóan, a Hivatal hatáskörébe tartozó két törvény szerint is engedélyköteles kiserőmű engedélyezési eljárásnak könnyítése.
+
+A 74. §-hoz
+
+Az utóbbi időszak tapasztalatai alapján a villamosenergia-ipari befektetők részéről felmerült az igény az eddigieknél nagyobb méretű blokkokkal rendelkező erőművek rendszerbe illesztésére. Azonban ezek rendszerbe illeszthetőségét, illetve szükség esetén a rendszerbe illesztés feltételeit mind hálózat, mind a tartalékok vonatkozásában célszerű egyes engedélyezési folyamatok előtt vizsgálni.
+
+Az engedélyezés lefolytatása a jelenlegi legnagyobb blokkméretet meghaladó erőműegység alkalmazása esetén indokolt.
+
+A 75. §-hoz
+
+A korábbiakhoz hasonlóan a Hivatal hatáskörébe tartozó két törvény szerint is engedélyköteles tevékenység engedélyezési eljárásának összevonása, az engedélyezés gyorsítása, egyszerűbbé tétele érdekében.
+
+A 76. §-hoz
+
+A Hivatal hatáskörébe tartozó VET. és Tszt. szerint is engedélyköteles tevékenység engedélyezési eljárásának összevonása, az engedélyezés gyorsítása és egyszerűbbé tétele érdekében.
+
+A 77. §-hoz
+
+A Hivatal hatáskörébe tartozó VET. és Tszt. szerint is engedélyköteles tevékenység engedélyezési eljárásának összevonása, az engedélyezés gyorsítása és egyszerűbbé tétele érdekében.
+
+A 78. §-hoz
+
+A közvetlen vezetékről vételező egyidejűleg nem használhatja a közcélú hálózatot, amelynek igazolására vonatkozólag ír elő szabályokat a törvény. A közvetlen vezetékről vételezők ellátásának biztosítására vonatkoznak a közvetlen vezeték megszüntetését szabályozó rendelkezések.
+
+A 79. §-hoz
+
+A 2009/72/EK irányelv alapján a sikeres tanúsítási eljárást követően kerülhet sor az átviteli rendszerirányító kijelölésére, amely utóbbi magának az átviteli rendszerirányításra vonatkozó engedélynek a kiadását jelenti. A sikeres tanúsítási eljárás az átviteli rendszerirányítóra vonatkozó szétválasztási szabályoknak való megfelelőséget igazolja.
+
+A 80. §-hoz
+
+Egyetemes szolgáltató által ellátott lakossági és meghatározott méretű ipari és intézményi felhasználók védelme érdekében szükséges a rendelkezés.
+
+A 81-84. §-hoz
+
+Az egyes cégjogi eseményekre vonatkozó közös szabályok, valamint a befolyásszerzésre vonatkozó rendelkezéseknek a jogalkalmazás során szükségessé vált pontosításai.
+
+A 2009/72/EK irányelv szétválasztási szabályainak való megfelelése, valamint a kiszervezés szabályainak egységesítése és egyértelművé tétele céljából - meghatározásra kerülnek a kiszervezésre, valamint a támogató tevékenységekre vonatkozó alapvető rendelkezések. Ahogy az az értelmező rendelkezések között szerepel, a kiszervezés az engedélyköteles tevékenységek más személy által történő végzése, míg a nem engedélyköteles tevékenységek más személyektől történő igénybevétele esetén támogató tevékenységekről beszélünk. A kiszervezésre és a támogató tevékenységek igénybevételére vonatkozó részletszabályokat meghatározására alsóbb szintű jogszabályokban került sor. A szakasz további pontosításokat is tartalmaz annak érdekében, hogy egyértelművé váljon, hogy a Hivatal határozatában foglaltaknak is eleget kell tennie az engedélyesnek.
+
+A 85. §-hoz
+
+A szétválasztási - különösen az ISO-ra vonatkozó - szabályoknak való megfelelés érdekében szükséges módosítás, annak érdekében, hogy a törvény rendelkezéseit a szállítóvezeték tulajdonosára is alkalmazni lehessen.
+
+A 86. §-hoz
+
+A jogsértés esetén alkalmazható szankciórendszer kiegészítése indokolt a gyakorlati tapasztalatok alapján.
+
+Az 2009/72/EK irányelv szabályozása alapján pontosításra kerül, hogy mely esetekben lehet a felsorolt szankciókat alkalmazni.
+
+Nevesítésre kerül az engedély nélküli tevékenység szankcionálása is.
+
+Megjelenítésre kerül az 2009/72/EK irányelv alapján az ún. szankciós kijelölés is, arra az esetre, ha az átviteli rendszerirányító tartósan nem tesz eleget jogszabályokban és uniós jogi aktusokban meghatározott kötelezettségeinek, vagy jogkövetkezmények alkalmazása nem vezetett eredményre, valamint ha a jogkövetkezmények alapjául szolgáló határozat bírósági felülvizsgálata esetén a közigazgatási ügyekben eljáró bíróság a Hivatal határozatát helybenhagyta vagy a Hivatal határozatának megtámadására rendelkezésre álló idő eredménytelenül telt el. A szankciós kijelölés esetén a Hivatal kötelezi az átviteli rendszer tulajdonosát az eszközeinek átadására, a kijelölt, átviteli rendszerüzemeltetőt, pedig a feladat ellátására.
+
+A 87. §-hoz
+
+Az irányelv legjelentősebb újítása az ún. szétválasztási szabályok az előzőekhez képest sokkal bővebb kifejtése.
+
+Az irányelv akként rendelkezik, hogy ha 2009. szeptember 3-án az átviteli rendszerben tulajdonnal rendelkező vállalkozás vertikálisan integrált vállalkozás része, a tagállamoknak lehetőséget kell adni a tulajdonjogi szétválasztás, valamint az ellátási és termelési érdekektől független átviteli rendszerirányító vagy az átviteli rendszerüzemeltető közötti választásra.
+
+Átviteli rendszerirányítóra vonatkozó követelményeknek való megfelelés
+
+Az átviteli rendszerirányítóról szóló követelmények révén történő tényleges szétválasztás egyrészt egy szervezési intézkedésekből és az átviteli rendszerirányító irányításával kapcsolatos intézkedésekből álló pilléren, másrészt egy olyan beruházási intézkedésekből álló pilléren nyugszik, amelyek az új termelési kapacitásokat regionális együttműködés útján kötik a hálózati és piaci integrációhoz.
+
+Az első pillér a belső vállalati szervezet és irányítás függetlenségének biztosítása, amely garantálja TSO függetlenségét, egyrészt azzal, hogy előírja a TSO-nak az anyavállalattól tisztán elkülöníthető, az átviteli tevékenységéhez szükséges vagyoni, humán és pénzügyi erőforrással kell rendelkeznie. (megfelelő vagyon legyen a tulajdonában, a személyzetnek a TSO legyen a munkáltatója, és álljon rendelkezésére beruházásaihoz megfelelő pénzeszköz) másrészt azzal, hogy garantálja a menedzsment (a vezérigazgató, az igazgatósági tagok és a felügyelő bizottsági tagok) teljes függetlenségét.
+
+Az átviteli rendszerirányító függetlenségét többek között ún. türelmi időszak révén is biztosítani kell, amelynek során a vertikálisan integrált vállalkozásban nem gyakorolnak olyan vezetői vagy más hasonló tevékenységet, amelynek keretében ugyanahhoz az információhoz lehet hozzájutni, mint amelyekhez a vezetői beosztásokban lehetett volna.
+
+A második pillér a hálózati beruházásokon, a piaci integráción és új erőművek csatlakozásának biztosításán alapul.
+
+A hatékony hálózati beruházások biztosítása érdekében a TSO-knak 10 éves hálózat fejlesztési tervet kell készíteniük, amely a piaci szereplők számára befektetéseikhez többlet információt nyújt, ugyanakkor garantálja az ellátásbiztonságot és a rendszer megfelelőségét.
+
+A fenti szabályok betartása érdekében a törvény szerint a TSO-knak ún. „megfelelőségi programot” (compliance programme) kell kidolgozniuk a diszkriminációmentes, termelőktől, szolgáltatóktól való független piaci magatartás biztosítására. A megfelelési programot a szabályozó hatóság hagyja jóvá, megfelelő végrehajtását a gyakorlatban pedig a „megfelelésért felelős tisztviselő” (compliance officer) felügyeli.
+
+Teljes tulajdonosi szétválasztás
+
+A tulajdonjogi szétválasztás értelmében a tagállamoktól meg kell követelni, hogy biztosítsák, hogy
+
+a) minden olyan vállalkozás, amelynek tulajdonában az átviteli rendszer van átviteli rendszerirányítóként működjön;
+
+b) ugyanazon személyek ne legyenek jogosultak:
+
+- közvetlenül vagy közvetve irányítást gyakorolni egy termelési vagy ellátási feladatot betöltő vállalkozás felett, és közvetlenül vagy közvetve irányítást vagy bármely jogot gyakorolni egy szállításirendszer-üzemeltető vagy szállítási rendszer felett, vagy
+
+- fordított viszonylatban is, a szállítási rendszer vagy a átviteli rendszerirányító irányításában való részvételnek eleve ki kell zárnia a termelési vagy ellátási vállalkozás irányításának vagy az azokra vonatkozó joggyakorlásnak a lehetőségét.
+
+c) ugyanazon személyek ne legyenek jogosultak kinevezni egy átviteli rendszerirányító vagy átviteli rendszerirányító felügyelőbizottsága, igazgatási testülete vagy a vállalkozást jogilag képviselő testület tagjait, és közvetlenül vagy közvetve irányítást vagy bármely jogot gyakorolni egy termelési vagy ellátási feladatot betöltő vállalkozás felett; (ilyen jog különösen: szavazati jog; a felügyelőbizottság, az igazgatási testület vagy a vállalkozást jogilag képviselő testület tagjainak kinevezésére vonatkozó jogkör; vagy többségi részesedéssel való rendelkezés);
+
+valamint
+
+d) ugyanazon személy ne lehessen tagja egyfelől egy termelési vagy ellátási feladatot betöltő vállalkozásnak, és másfelől egy átviteli rendszerirányítóban vagy átviteli rendszerben tulajdonnal rendelkező társaságnak is a felügyelőbizottságában, igazgatási testületében vagy a vállalkozást jogilag képviselő testületében.
+
+- Ezeken a korlátokon belül a termelési vagy ellátási vállalakozás részére lehetővé kell tenni, hogy kisebbségi részesedéssel rendelkezzen egy átviteli rendszerirányítóban vagy a szállítási rendszerben.
+
+- Lehetőség van arra is, hogy két különálló állami szerv végezze egyfelől a termelési és ellátási tevékenységeket, másfelől a szállítási tevékenységek ellenőrzését, (bár a tulajdonos az állam marad).
+
+Átviteli rendszerüzemeltető kijelölése
+
+A tagállamok dönthetnek úgy, hogy az átviteli rendszer tulajdonosának javaslatára átviteli rendszerüzemeltetőt jelölnek ki, amely megfelel a 9. cikk (1) b), c), d) pont szerinti követelményeknek és rendelkezik megfelelő pénzügyi, műszaki és humán erőforrással.
+
+Az ilyen kijelölést a Bizottságnak jóvá kell hagynia.
+
+Ez az opció lehetővé teszi, hogy a vertikálisan integrált társaságok megtartsák a hálózati vagyon tulajdonjogát, de megköveteli, hogy az energiaszállítási hálózatot magát egy független rendszerüzemeltető irányítsa, azaz egy a vertikálisan integrált társaságoktól teljesen különálló vállalkozás vagy személy lássa el az összes hálózatüzemeltetési funkciót. A szállítási hálózatot egy független átviteli rendszerüzemeltető menedzselné, és hozná meg a beruházási és más stratégiai döntéseket.
+
+A 88-96. §-hoz
+
+A vezetékjogra vonatkozó rendelkezések pontosítása, illetve a gyakorlati tapasztalatok során felmerült és indokolt módosító rendelkezések előírása.
+
+A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély engedélyesének helyébe jogutódlás esetén az engedélyes jogutódja lép. A jogutódlást 30 napon belül a Hatóságnak a jogerős cégbírósági határozat megküldésével kell bejelenteni. Ugyanezen eljárást kell alkalmazni az engedélyes névváltozásának esetére is.
+
+A csatlakozó pontnak vagy a csatlakozó berendezésnek az államháztartás valamely alrendszeréből, európai uniós forrásokból vagy más hasonló nemzetközi forrásokból fedezett átalakítása vagy áthelyezése esetén - a támogatásra vonatkozó jogszabályok alapján - a hálózati engedélyes tulajdonszerzésére nem kerülhet sor, a bontás költségét és az elbontott hálózat elbontáskori könyv szerinti értékét a hálózati engedélyes részére az új hálózati eszköz beruházójának legkésőbb a bontás befejezését követő 30 napon belül meg kell térítenie.
+
+A villamos biztonsági előírások fokozott betartására a saját ingatlanon is feltétlenül szükséges.
+
+A vezetékjog megszűnését a Hatóság is megállapíthatja, amennyiben erre vonatkozó körülményekről tudomást szerez.
+
+Fennmaradási engedély a villamos műszaki biztonság figyelembe vételével a fennmaradási eljáráskor érvényes előírások betartása esetén adható.
+
+A 97-101. §-hoz
+
+E §-ok az árszabályozás és árfelügyelet módosult szabályait rögzítik. Az irányelv új alapokra helyezi a rendszerhasználati díjak megállapítását, azt egyértelműen a szabályozó hatóság (Hivatal) feladatának rendeli.
+
+Az irányelvvel való harmonizáció okán tehát a rendszerhasználati és a csatlakozási díjak tekintetében a konkrét ármegállapítás a Hivatal hatáskörébe kerül, míg az ármeghatározás, az árszabályozás keretszabályait, valamint az áralkalmazás általános szabályait miniszteri rendelet fogja tartalmazni.
+
+Az elmúlt idők gyakorlata - miszerint a kereskedő jogosult volt a kereskedelmi és a rendszerhasználati szerződések összevont kezelésére - azt bizonyította, hogy a kereskedők szerződései a villamos energia árát és a rendszerhasználati díjat összemosták, illetve és számlázásaik során egy tételként tüntették fel a számlán, amely megnehezítette az árak összehasonlíthatóságát.
+
+A fenti ármegállapítást érintő koncepcionális újítás mellett a törvény pontosításokat is tartalmaz:
+
+- annak kimondását, hogy a rendszerhasználati díjak megfizetése a rendszerhasználók kötelezettsége, és hogy a rendszerhasználati díj a felhasználók számára is hatósági ár;
+
+- tekintettel arra, hogy a hálózati engedélyes alaptevékenységéhez kapcsolódó díjak megállapítása a Hivatal hatáskörébe kerül, indokolt, hogy a résztevékenységek díjainak megállapítása is a Hivatal hatáskörébe kerüljön.
+
+A 102-105. §-hoz
+
+Az 2009/72/EK irányelv jogharmonizációja során, illetve a gyakorlati tapasztalatok alapján szükségessé vált, adatvédelemmel kapcsolatos jogszabályi rendelkezések rögzítése, illetve egyes, már hatályos jogszabályi rendelkezések pontosítása. Így e körben kerültek megfogalmazásra az üzleti szempontból érzékeny információk kezelésére vonatkozó szabályok, vagy a megfelelési ellenőrrel kapcsolatos titokvédelmi kötelezettséget szabályozó rendelkezések is. Figyelemmel a fogyasztóvédelmi hatóság lakossági fogyasztói panaszok elbírálására vonatkozó hatáskörére, indokolt az adatok átadását részükre is biztosítani. A hatósági ellenőrzési feladatok összehangolása és azok elvégzése érdekében adatcserét szükséges megvalósítani a Hivatal és a vámhatóság között, amelynek megalapozását jelenti a fenti módosítás.
+
+További rendelkezés található a védendő fogyasztókkal kapcsolatos személyes adatok és különleges adatok elosztók általi kezelése körében is.
+
+A 2009/72/EK irányelv 10. cikk (7) bekezdése az Európai Bizottság és az Ügynökség adatkérési jogát írja elő. A rendelkezés az ehhez tartozó adatszolgáltatási kötelezettséget írja elő.
+
+A 106-107. §-hoz
+
+Az 2009/72/EK irányelv követelményeinek (35. cikk) eleget téve kiegészítésre kerül a Magyar Energia Hivatal, mint kijelölt nemzeti szabályozó hatóság feladat- és tevékenységi köre, amelyek - a már korábbi feladatkörökkel együtt - 6 fő feladatkör-csoport szerint kerülnek csoportosításra.
+
+A 108. §-hoz
+
+A 2009/72/EK irányelv (10-11. cikk) értelmében a Hivatal ellenőrzi, hogy az átviteli rendszerüzemeltető folyamatosan megfelel-e a szétválasztási követelményeknek. Ehhez az irányelv részletes szabályrendszert ír le, amely során meghatározásra kerülnek az eljárási határidők mellett a Bizottság tájékoztatására vonatkozó szabályok is. A rendelkezések az irányelv által előírt eljárást implementálja a magyar jogrendszerbe.
+
+A 109. §-hoz
+
+A Pénzügyi Szervezetek Állami Felügyeletével és a Nemzeti Adó- és Vámhivatallal történő együttműködés kereteinek meghatározása, illetve pontosítása, amely együttműködések jogszabályi szinten történő előírása a szervezett villamosenergia-piac tevékenysége miatt indokoltak.
+
+A Nemzeti Adó- és Vámhivatal számára a Hivatalnál nyilvántartott adatok megismerése, az EU-hoz való csatlakozás óta meglévő kívánalom. A két hatóság közötti együttműködés nagymértékben elősegítené a villamos energiát érintő vámeljárások lefolytatását. Az VET. ez irányú módosításával párhuzamosan - a vámtitok vonatkozásában - a közösségi vámjogról szóló 2003. évi CXXVI. törvény is módosításra került, amely lehetővé teszi a Hivatal részére a vámtitoknak minősülő adatok átadását azok kontrolladatként történő felhasználása érdekében a hivatali adatfeldolgozás során.
+
+A két hatóság közötti együttműködés részletes szabályai szerződés keretében kerülnek meghatározásra.
+
+A 110-111. §-hoz
+
+A 2009/72/EK irányelv 38-39. cikke és a 713/2009/EK rendelet alapján a Hivatal együttműködésére vonatkozó szabályok pontosítása és kiegészítése vált szükségessé az Ügynökség, a külföldi szabályozó hatóságok, az Európai Unió szerveivel szükséges kapcsolat együttműködés érdekében.
+
+A 112. §-hoz
+
+A Hivatal eljárási határidejére vonatkozó rendelkezések kiegészítése a jogharmonizációs kötelezettségből adódó új hivatali eljárások tekintetében. Továbbá pontosító rendelkezések rögzítése: eljárási határidők munkanapok helyett naptári napokban történő meghatározása.
+
+A 113. §-hoz
+
+A rendszerhasználati és csatlakozási díjak megállapítására irányuló eljárás, valamint azokat lezáró hivatali határozatra vonatkozó szabályok megállapítása, a 2009/72/EK irányelv rendelkezéseinek implementálása céljából [37. cikk (15) bekezdés].
+
+A 2009/72/EK irányelv 32. cikk (1) bekezdése értelmében a tarifákat azok hatálybalépése előtt közzé kell tenni. Ezzel rendelkezéssel összhangban a hatályon kívül helyezett tarifák visszamenőlegesen nem módosíthatóak.
+
+A rendszerhasználati díjak országosan egységesek. Meghatározásukra a Hivatal határozatában kerül sor.
+
+A 114. §-hoz
+
+Felhatalmazó rendelkezések pontosítása a törvény-módosítások miatt.
+
+A 115-123. §-hoz
+
+Átmeneti rendelkezések pontosítása.
+
+A 124. §-hoz
+
+Az Európai Unió jogának való megfelelés pontosítása.
+
+A 125. §-hoz
+
+Szövegpontosító módosítások.
+
+A 126. §-hoz
+
+Hatályon kívül helyező rendelkezések.
+
+A 127. §-hoz [Get. 1. § h)]
+
+A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) céljainak kiegészítése szükséges a hazai földgázforrások hasznosításának elősegítésével, amely cél segíti az importfüggőség csökkentését, és támogatja a hazai termelésű földgáz és földgáz minőségű gázok - biomasszából és egyéb nem bányászati forrásból származó gázok - földgáz rendszerbe juttatását.
+
+A 128. §-hoz [Get. 2. §]
+
+Szövegpontosítás, illetve a törvény alkalmazási körének pontosítása.
+
+A 129. §-hoz [Get. 3. §]
+
+A pontosító rendelkezések a törvény belső koherenciája, illetve a gyakorlatban felmerült tapasztalatok alapján.
+
+Új fogalomként jelenik meg az elosztóhálózat-használati szerződés, amely arra szolgál, hogy az elosztó és a felhasználó közötti jogviszonyt megteremtse. E szerződés alapján a felhasználó az elosztó tevékenységébe tartozó, a csatlakozással és a kapacitáslekötéssel össze nem függő körben (pl. mérés, ki- és visszakapcsolás, műszaki biztonság, szabálytalan vételezés stb.) közvetlenül fordulhat az őt egyébként ténylegesen kiszolgáló elosztóhoz.
+
+A Get. eddig nem rendelkezett a földgázbányászati célú vezetékekről és az azokhoz való hozzáférésről, miközben a gyakorlatban jelenleg is ismert vezetékről van szó, amelyre felhasználók csatlakoznak. A definíció az új 78/A. § miatt vált szükségessé.
+
+A nyilvántartott kapacitás és a forrásoldali kapacitás fogalmának definiálása a Get. kapacitáslekötési rendelkezéseinek pontosítása miatt vált szükségessé.
+
+A törvény az irányításnak a 2009/73/EK irányelv szerinti fogalmát veszi át.
+
+A 130. §-hoz [Get. 4-13. §]
+
+A törvény az irányelv módosulásaihoz való igazodás érdekében bevezeti a szállítási rendszerüzemeltető, valamint a szállítási rendszerirányító fogalmakat. A szállítási rendszerüzemeltető végzi a földgázszállítási tevékenységet. A szállítási rendszerirányító pedig az együttműködő földgázrendszer működtetését végző szállítási rendszerüzemeltetők közötti irányítási és koordinációs feladatok ellátását végző engedélyes. A tevékenységek (földgázszállítás, rendszerirányítás) korábbi elnevezése nem változik, tehát a földgázszállítási és a rendszerirányítási tevékenység a törvényben - jól körülhatárolhatóan - továbbra is elválik egymástól.
+
+Az irányelv szétválasztási szabályai is csak olyan engedélyesre értelmezhetők, aki a két tevékenységet egyszerre látja el. A szállítási rendszerirányító fogalmának bevezetése miatt új, határozatlan időtartamra szóló engedélytípus bevezetése is indokolt, amely a szállítási rendszerüzemeltetési engedély, amely magában foglalja a korábbi földgázszállítási és rendszerirányítási engedélyeket.
+
+A „Földgázszállítás” új cím alatt kerül sor a korábbi földgázszállító új, egységesen felsorolt, az irányelvi elvárásoknak megfelelően kibővített feladatainak rögzítésére.
+
+A 2009/73/EK irányelv meghatározza, hogy mely tevékenységek tartoznak mindenképpen a földgázszállítási tevékenység körébe. E tevékenységek felsorolása azért szükséges, mert az irányelvek alapján a szállítási rendszerüzemeltetőnek a felsorolt tevékenységek folytatásához szükséges eszközökkel és műszaki, tárgyi, személyi, valamint pénzügyi erőforrásokkal mindenképpen rendelkeznie kell. A törvény ugyanakkor meghagyja a hatályos szabályozásban kifejezetten is olyanként nevesített eszközök felsorolását, amelyekkel a rendszerüzemeltetőnek rendelkeznie kell.
+
+Bizonyos feladatokat ugyanakkor szükséges átcsoportosítani az együttműködő földgázrendszer irányításával és koordinálásával kapcsolatos feladatok közül a földgázszállítási tevékenység körébe tartozó feladatok közé, tekintettel arra, hogy az irányelvek értelmében azok a szállítórendszer üzemeltetéséhez kapcsolódnak.
+
+Új alcím alatt kerülnek megjelenítésre az együttműködő földgázrendszer irányítási és koordinációs feladatai - mint rendszerirányítási tevékenység -, amelyeket a fentebb kifejtettek alapján a szállítási rendszerirányító lát el.
+
+A 131. §-hoz [Get. 14. §]
+
+A 1775/2005/EK rendelet és a 715/2009/EK rendelet a szállítási rendszerüzemeltetőnek valós tartalmú adatszolgáltatást ír elő a kereskedők felé a napon belüli újranominálások érdekében. Az allokációs lánc a felhasználási hellyel közvetlenül csatlakozó rendszerüzemeltetőnél, az elosztónál indul, ezért a kereskedő allokált forgalmára vonatkozóan a szállítási rendszerüzemeltető csak akkor tud valós adatot biztosítani, ha az újranominálás előtt megtörténik a forgalom valós helyzetének felmérése. A szigetüzemi vonatkozásokat a tapasztalatok kényszerítették ki.
+
+A 132. §-hoz [Get. 16. §]
+
+A gyakorlat során szükségessé vált értelmezési, terminológiai pontosítás, tekintettel arra, hogy a földgázelosztási szolgáltatás megkezdése tagadható meg, míg a szolgáltatás folytatása felfüggeszthető.
+
+A 133. §-hoz [Get. 17. §]
+
+A felhasználási helyekkel kapcsolatosan az elosztó által nyilvántartott adatok pontosítása, valamint az irányelv által előírt adatvédelmi intézkedések (Irányelv 27. cikk) és a kötelezettségek pontosítása szükséges.
+
+A 134. §-hoz [Get. 26. §]
+
+A 1775/2005/EK rendelet és a 715/2009/EK rendelet a szállítási rendszerüzemeltetőnek megbízható tartalmú adatszolgáltatást ír elő a kereskedők felé, a napon belüli újranominálások érdekében. Az allokációs lánc a fogyasztási hellyel közvetlenül csatlakozó rendszerüzemeltetőnél, az elosztónál indul, ezért a kereskedő allokált forgalmára vonatkozóan a szállító csak akkor tud megbízható adatot biztosítani, ha az újranominálás előtt megtörténik a forgalom valós helyzetének felmérése.
+
+A 135. §-hoz [Get. 27/A. §]
+
+A tárolói szabad kapacitások egy gázévre történő felajánlására vonatkozó szabályok rögzítésének érdekében előírt rendelkezés.
+
+A közösségi jog javasolja a bundled és unbundled termékek - azaz kapacitáscsomagok - forgalmazását, amely tárolói mobilkapacitásból, valamint be- és kitárolási kapacitásból áll.
+
+A földgáztárolóban elhelyezett biztonsági készlethez szükséges kapacitások biztosítására vonatkozó előírás, amely azért szükséges, mert a tároló és a kijelölt felhasználó között nincs szerződéses kapcsolat. Rögzíteni kell továbbá a tranzithoz kapcsolódó tárolói szolgáltatás státuszát és garanciáit is.
+
+A 136. §-hoz [Get. 28. §]
+
+Pontosítás a jogszabály-módosításból adódó koherencia-zavar miatt.
+
+A 137-140. §-hoz [Get. 28/A-29/A. §, 31. §]
+
+A törvény meghatározza a földgázkereskedő és a felhasználó között kötendő földgáz-kereskedelmi szerződések minimális tartalmi elemeit annak érdekében, hogy a felhasználók a széleskörű tájékoztatást és információt kaphassanak az általuk vásárolt szolgáltatásról, termékről. A gyakorlati tapasztalatok alapján vált szükségessé a szabályozás, tekintettel arra, hogy sok a szerződésekkel kapcsolatos felhasználói panasz érkezett a Magyar Energia Hivatalhoz.
+
+Az egyetemes szolgáltatásra nem jogosult felhasználók számára is egyértelművé kell tenni a kikapcsolásuk esetében teendő intézkedéseket. A törvény a kikapcsolás lehetőségét három lépcsőben szabályozza. Első kör a lakosság, a legszigorúbb feltételekkel. A második a lakosságon kívüli kör, ahol egy általános fizetési késedelemre vonatkozó kikapcsolási szabály indokolt, a jelenlegi kereskedői gyakorlatban (üzletszabályzatok alapján) ezt alkalmazzák. A harmadik kör az egyetemes szolgáltatásra nem jogosult, nagy felhasználók köre, ahol egyedi megállapodásra is lehetőséget nyújt a szabályozás.
+
+A kereskedői források ellenőrzésének jogszabályi hátterét biztosítja a rendelkezés.
+
+A 141-142. §-hoz [Get. 31/A. §, 34. §]
+
+A felhasználói, engedélyesi panaszok tapasztalatai alapján szükséges a kereskedőváltás szabályait külön fejezetbe kiemelni, a főbb kötelezettségeket pedig átemelni az alsóbb szintű jogszabályokból. A fenti fogyasztóvédelmi megfontolások mellett továbbá a 2009/73/EK Irányelv 3. cikk (6) a) pontja előírja, hogy a rendszerüzemeltetőknek 3 héten belül kell teljesíteni a kereskedőváltást.
+
+A 34. § módosítása csak az új egyetemes fogyasztók igényére vonatkozik. (Nekik nem lehet tartozásuk, a kereskedőváltás szabályai pedig eleve kizárják a tartozással történő kereskedőváltást). Kereskedőváltásra a kereskedőváltás általános szabályai érvényesek [Get. 31/A. § (1)] Kereskedőváltáskor a felhasználó a szerződését 21 napos felmondási idővel, a hónap utolsó napjára írásban felmondhatja.
+
+A 143. §-hoz [Get. 36. §]
+
+Az egyetemes szolgáltatási szerződés kötelező tartalmi elemeinek szélesebb körben történő meghatározása a gyakorlatban felmerülő fogyasztóvédelmi tapasztalatok alapján indokolt.
+
+A 144. §-hoz
+
+Az elosztóhálózat-használati szerződés bevezetése indokolja a szerződésszegés eseteinek átgondolását, tekintettel arra, hogy eddig a felhasználó és a földgázelosztó között nem volt közvetlen jogviszony, így azon szerződésszegési esetek, amelyek ténylegesen az elosztóhálózathoz kapcsolódnak az egyetemes szolgáltatási szerződés keretében kerültek kezelésre.
+
+Az új szabályozás alapján az egyetemes szolgáltatást igénybe vevő felhasználók és az egyetemes szolgáltatók szerződésszegésének esetei - többi szerződéses viszonyhoz hasonlóan -kormányrendeleti szinten kerülnek meghatározásra az elosztóhálózat-használati szerződés bevezetése miatt szükséges változtatások figyelembevételével.
+
+A 145. §-hoz [Get. 39. §]
+
+Szükséges a hazai készlet mértékének rögzítése a lakosság ellátásbiztonságának fokozásához, ami egy krízis helyzetben lehetővé teszi a kormánynak a biztonsági készlet felhasználásának optimalizálását.
+
+A 146. §-hoz [Get. 47. §]
+
+Értelmezési pontosítás a Get. alkalmazása során jelentkező ellenmondások megszüntetése és a könnyebb alkalmazhatóság érdekében.
+
+A 147. §-hoz [Get. 54. §]
+
+Az egyablakos vezeték nem része az együttműködő földgázrendszernek, így a szövegpontosítás eredményeképpen egyértelművé válik a rendszerirányítási tevékenységgel összefüggő feladatok alkalmazási területe.
+
+A 148. §-hoz [Get. 62. §]
+
+Jogszabályi megerősítése annak, hogy a felhasználási hely tulajdonosát hogyan illeti meg a vásárolt kapacitás feletti rendelkezési jog.
+
+A 149. §-hoz [Get. 63-63/A. §]
+
+Az ügyfélszolgálatra vonatkozó részletesebb előírások meghatározását tartalmazza a rendelkezés.
+
+A pontosított szabályozás alapján a földgázkereskedőnek, az egyetemes szolgáltatásra jogosultakat ellátó földgázkereskedőnek és az egyetemes szolgáltatónak eltérő kötelezettségei vannak.
+
+A tapasztalatok alapján, amennyiben a kereskedő által ellátott egyetemes szolgáltatásra jogosult felhasználók száma jelentősen megnövekedik, a felhasználók igénylik a személyes ügyintézés lehetőségét.
+
+Értelemszerűen a földgázkereskedő kötelezettségei a legenyhébbek, mivel neki csak a felhasználók bejelentéseinek intézésére, panaszainak kivizsgálására, orvoslására és tájékoztatására kell biztosítani a felhasználói kapcsolattartás szervezetét és a telefonon és elektronikus úton történő ügyintézés lehetőségét.
+
+Az egyetemes szolgáltatásra jogosult felhasználókat ellátó földgázkereskedő kötelezettsége egy fokozattal szigorúbb, mivel ő vagy ügyfélszolgálati irodát vagy ügyfélszolgálati fiókirodát (összefoglalóan együtt: ügyfélszolgálatot) működtet minden olyan régióban, ahol az általa ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 15 000 főt. Abban a régióban, amelyben a földgázkereskedő által ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 45 000 főt, ott a földgázkereskedő ügyfélszolgálati irodákat működtet.
+
+Az egyetemes szolgáltató kötelezettsége pedig a legszigorúbb, tekintettel arra, hogy köteles kistérségenként legalább egy ügyfélszolgálati irodát működtetni.
+
+Nyilvánvalóan a lakossági fogyasztóknak mérlegelniük kell, hogy - feltételezhetően egy alacsonyabb ár fejében - hajlandóak-e lemondani bizonyos, az egyetemes szolgáltatóknál kötelező ügyfélszolgálati lehetőségekről. A törvény meg kívánja adni a lakossági fogyasztóknak ezt a lehetőséget, egyszerűsítve a kereskedők ezen kötelezettségeit.
+
+A szabályozás egyetemes szolgáltatók esetében a nyitvatartási időt is meghatározza.
+
+A felhasználók tájékoztatására vonatkozó szabályok a 3. csomag előírásának megfelelően beépítésre kerültek. E § szolgálja a továbbá a 2009/73/EK Irányelv egyes rendelkezéseinek való megfelelést [I. melléklet 1. i) pont, 3. cikk (9) és (12) bekezdés].
+
+Tekintettel arra, hogy az energiafogyasztói ellenőrző listán található kérdések fogyasztóvédelmi témájúak, és a fogyasztóvédelemmel kapcsolatos általános feladatok ellátása a nemzetgazdasági miniszter irányítása alatt álló Nemzeti Fogyasztóvédelmi Hatóság feladata, továbbá, hogy a fogyasztóvédelmi tanácsadó irodák és az állami fogyasztóvédelmi ügyfélszolgálat is az NFH közreműködésével, illetve azon belül működik, az ellenőrző listával kapcsolatos tevékenységet is indokolt a fogyasztóvédelmi hatósághoz telepíteni.
+
+A 150. §-hoz [Get. 64. §]
+
+A fogyasztóvédelmi törvény alapján a fogyasztóvédelmi hatóságnak jelenleg nincs eszköze arra, hogy az üzletszabályzatokban előírt konkrét jogkövetkezmények alkalmazására kötelezhesse az engedélyest. A kiegészítés a Hivatal és a fogyasztóvédelmi hatóság eljárásainak közelítése és a fogyasztóvédelmi érdekek érvényesítése céljából indokolt.
+
+Szükséges továbbá az eljárási hatáskörök egyértelmű elhatárolása, amely érdekében a (4) bekezdés szerinti előírás szükséges.
+
+A 151-152. §-hoz [Get. 65-66. §]
+
+A fizetési késedelemhez vagy nem fizetéshez fűződő kedvezményeket csak a szociálisan rászoruló fogyasztóknál indokolt biztosítani. A fogyatékkal élő fogyasztók, ha egyébként szociálisan nem rászorulók, fizetési késedelem esetén az általános szabályok alapján kerülhetnek kikapcsolásra, kivéve a Get. 29. § (4) bekezdésben szereplő eseteket. A fogyatékkal élő fogyasztók, ha szociálisan rászorulók is, fizetési késedelem esetén a szociálisan rászoruló fogyasztók számára nyújtott kedvezményekben részesülhetnek, mely szabály nem változott.
+
+A 153. §-hoz [Get. 67. §]
+
+Pontosítás, tekintettel arra, hogy a rendszerüzemeltető az együttműködő rendszerhez történő csatlakozásra köt szerződést, a csatlakozási jog a végfelhasználói és forrásponti kapacitások rendelkezésre állását is jelenti.
+
+A 154. §-hoz [Get. 70/A. §]
+
+A kapacitás allokáció mechanizmusára az Európai Unióban ajánlás készült és folyamatban van annak rendszerszintű alkalmazásának előkészítése. A beépítendő rendelkezés e kapacitás-allokációs folyamat szükségszerű módosítását célozza.
+
+A 155. §-hoz [Get. 71. §]
+
+Értelmezési pontosítás a Get. alkalmazása során jelentkező ellenmondások megszüntetése és a könnyebb alkalmazhatóság érdekében.
+
+A rendszerüzemeltetők a kapacitásdíjakat nem egyben, hanem fizetési könnyítésként havonta szedik be, a kereskedőnek lehetősége van feltételeket szabni a felhasználónak a szerződés megszűnésekor. Amennyiben nem élt ezen jogával, a garanciákat neki kell biztosítani.
+
+A 156. §-hoz [Get. 72. §]
+
+Értelmezési pontosítás. Az ún. „use it or lose it” (UIOLI) mechanizmusra az Unióban ajánlás készült és folyamatban van annak rendszerszintű alkalmazásának előkészítése.
+
+A 157. §-hoz [Get. 74. §]
+
+Fogalmak és a hivatkozás pontosítása.
+
+A 158. §-hoz [Get. 76. §]
+
+Szükséges a kötelezés annak elkerülésére, hogy eltérő kapacitásadatok, vagy gázforgalmazási feltételek ne zavarják a piaci működést (például értelmetlen megszakítható tárolói kiadási kapacitást felajánlani, ha nincs hozzá megszakítható szállítói kapacitás).
+
+A 159-160. §-hoz [Get. 77-78. §]
+
+Értelmezési pontosítás a Get. alkalmazása során jelentkező ellenmondások megszüntetése és a könnyebb alkalmazhatóság érdekében.
+
+A 161. §-hoz [Get. 78/A. §]
+
+A földgázbányászati célú vezetékre vonatkozóan hiányosak voltak a jogszabályi rendelkezések, a rendelkezés ezt a hiányt hivatott pótolni.
+
+A 162-164. §-hoz [Get. 81-83/A. §]
+
+Értelmezési pontosítás a Get. alkalmazása során jelentkező ellenmondások megszüntetése és a könnyebb alkalmazhatóság érdekében a gázdirektíva előírásainak (Irányelv 22. cikk) figyelembe vételével.
+
+Az EU-ban előkészületben lévő security of supply rendelet is előírja a költségallokációs és ellátásbiztonsági megállapodásokat, ezekkel elkerülhető az, hogy más ország ellátásbiztonságát hazai fogyasztók keresztfinanszírozzák.
+
+Az irányelv hálózatfejlesztésre vonatkozó előírásainak átültetését megvalósító rendelkezések.
+
+A 165. §-hoz [Get. 84. §]
+
+Értelmezési pontosítás a Get. alkalmazása során jelentkező ellenmondások megszüntetése és a könnyebb alkalmazhatóság érdekében.
+
+Az együttműködési megállapodás szükséges az üzemeltetők között (elszámolási szabályok vezeték szakadáskor) továbbá korlátozás esetén nem az üzemeltető, hanem a fogyasztó az értesített.
+
+A 166. §-hoz [Get. 85. §]
+
+Szövegpontosítás és az irányelv 36. cikk (9) bekezdése alapján szükséges az átültetés pontosítása, tekintettel arra, hogy az irányelv szerint kiegészítő információ kérése esetén az Európai Bizottság eljárása további 2 hónappal meghosszabbítható.
+
+A 167. §-hoz [Get. 87. §]
+
+Értelmezési pontosítás a Get. alkalmazása során jelentkező ellenmondások megszüntetése és a Get. könnyebb alkalmazhatósága érdekében.
+
+A 168. §-hoz [Get. 89. §]
+
+A felhasználó energiagazdálkodásának elősegítése és az allokálások pontosítása érdekében történt módosítás.
+
+A 169. §-hoz [Get. 91. §]
+
+A módosítás szövegpontosítást tartalmaz, tekintettel arra, hogy a szállítási rendszerüzemeltető - egy korábbi jogszabályi rendelkezés folytán - az időközben működni kezdett napi földgáz- és kapacitáskereskedelmi piacról is beszerezheti az egyensúlyozáshoz szükséges eszközöket.
+
+A 170. §-hoz [Get. 92. §]
+
+Értelmezési pontosítás a Get. alkalmazása során jelentkező ellentmondások megszüntetése és a könnyebb alkalmazhatóság érdekében.
+
+A 171. §-hoz [Get. 94. §]
+
+Értelmezési pontosítás a Get. alkalmazása során jelentkező ellentmondások megszüntetése és a könnyebb alkalmazhatóság érdekében.
+
+A 172. §-hoz [Get. 96. §]
+
+A 1775/2005/EK rendelet tiltja, hogy a szállítási rendszerüzemeltető az egyensúlyozó gázon nyereséget képezzen, e rendelkezés ezt hivatott biztosítani.
+
+Indokolt továbbá szövegpontosítás, tekintettel arra, hogy a Hivatalnak azt kell megállapítania, hogy indokoltan rendelte-e el a korlátozást a szállítási rendszerirányító. A felróhatóság ebben az esetben félreértésekre adhat okot, tekintettel arra, hogy egy szállítóvezeték szakadás is felróható lehetne a szállítónak, mert nála keletkezett. A cél ezen rendelkezéssel a ténylegesen hibás korlátozási döntés szankcionálása.
+
+A 173-174. §-hoz [Get. 98. §]
+
+Nyelvtani és értelmezési pontosítás.
+
+A 175. §-hoz [Get. 99. §]
+
+A szigetüzem és részleges szigetüzem szabályozása hiányzott, a rendelkezés ezt hivatott pótolni.
+
+A 176-177. §-hoz [Get. 100-101. §]
+
+Értelmezési pontosítások a Get. alkalmazása során jelentkező ellenmondások megszüntetése és a Get. könnyebb alkalmazhatósága érdekében, valamint szükséges felhatalmazás adása a leolvasás gyakoriságának részletezésére.
+
+Hiányzott továbbá a rendelkezés a bizonyos adatok díjmentes hozzáféréséről.
+
+A 178-184. §-hoz [Get. 103-108. §]
+
+E §-ok az árszabályozás és árfelügyelet módosult szabályait rögzítik. Az irányelv új alapokra helyezi a rendszerhasználati díjak megállapítását, azt egyértelműen a szabályozó hatóság (Hivatal) feladatának rendeli.
+
+Az irányelvvel való harmonizáció okán tehát a rendszerhasználati és a csatlakozási díjak tekintetében a konkrét ármegállapítás a Hivatal hatáskörébe kerül, míg az ármeghatározás, az árszabályozás keretszabályait, valamint az áralkalmazás általános szabályait miniszteri rendelet fogja tartalmazni.
+
+A mostani rendelkezés koherens az egyes energetikai témájú törvények, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVII. törvény módosításáról szóló 2010. évi CLXXXI. törvény, továbbá a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény, valamint a földgázellátásáról szóló 2008. évi XL. törvény módosításáról szóló 2010. évi CXXXIV. törvény árszabályozással kapcsolatos rendelkezéseivel.
+
+A 185. §-hoz [Get. 111. §]
+
+Pontosítás arra tekintettel, hogy a rendszerhasználó fogalom nem terjed ki a felhasználóra, ha annak nincs kapacitáslekötési szerződése, így szükséges a felhasználó külön megjelenítése annak érdekében, hogy egyértelmű legyen, hogy a földgázelosztási szabályzat rá vonatkozóan is tartalmaz előírásokat.
+
+A 186. §-hoz[Get. 113. §]
+
+Tekintettel arra, hogy a hatályos szabályozás is, és a módosítás is több esetben kötelezi az engedélyest információknak, adatoknak a honlapján történő közzétételére, szükséges a honlap fenntartási kötelezettséget is törvényi szinten rögzíteni. Tekintettel arra, hogy az engedélyeseknek jelenleg is van honlapja, így ez rendelkezés a gyakorlatban többletterhet nem jelent.
+
+A 187. §-hoz [Get. 114. §]
+
+A szállítási rendszerüzemeltető fogalmának bevezetése miatt indokolt új engedélytípusok bevezetése is.
+
+Az egyik ilyen új engedély a szállítási rendszerüzemeltetési engedély, amely magában foglalja a korábbi földgázszállítási és rendszerirányítási engedélyeket (villamos energia területén hatályos szabályozáshoz hasonlóan).
+
+A tevékenységek végzésére a törvény egységesen határozatlan időtartamú engedélyeket vezet be.
+
+A 188. §-hoz [Get. 114/A. §]
+
+Az elektronikus ügyintézés szabályairól történő rendelkezések előírása. A törvény a Ket. előírásaival összhangban bizonyos eljárásoknál kötelezővé teszi az elektronikus eljárás alkalmazását.
+
+A Ket. lehetővé teszi, a Get. pedig kötelezően előírja az elektronikus úton történő kapcsolattartást. Ezen eljárás alkalmazása indokolt a nagyobb számban előforduló, automatizálható engedélyek esetében.
+
+A 189. §-hoz [Get. 117. §]
+
+A szállítási rendszerüzemeltető fogalmának bevezetése miatt indokolt új engedélytípusok bevezetése is.
+
+A szállítási rendszerüzemeltetési engedély magában foglalja a korábbi földgázszállítási és rendszerirányítási engedélyeket (a villamos energia területén hatályos szabályozáshoz hasonlóan).
+
+A 190-191. §-hoz [Get. 119-119/A. §]
+
+A jogsértés esetén alkalmazható szankciórendszer kiegészítése indokolt a gyakorlati tapasztalatok alapján.
+
+Az irányelvi szabályozás alapján [Irányelv bevezetés (61); 41. cikk (1) d), (2), 42. cikk (5) bekezdése] pontosításra kerül, hogy mely esetekben lehet a felsorolt szankciókat alkalmazni.
+
+A korábbi (2) bekezdés pontosítása azért indokolt, mert a jogkövetkezményeket valamennyi engedélyesre, így a földgázkereskedőkre is szükséges kiterjeszteni.
+
+Nevesítésre kerül az engedély nélküli tevékenység szankcionálása is.
+
+Megjelenítésre kerül az 2009/73/EK irányelv alapján az ún. szankciós kijelölés is, arra az esetre, ha a szállítási rendszerüzemeltető tartósan nem tesz eleget jogszabályokban és uniós jogi aktusokban meghatározott kötelezettségeinek, vagy jogkövetkezmények alkalmazása nem vezetett eredményre, valamint ha a 119. § (1) bekezdés a)-b) pontja szerinti jogkövetkezmények alapjául szolgáló határozat bírósági felülvizsgálata esetén a közigazgatási ügyekben eljáró bíróság a Hivatal határozatát helybenhagyta vagy a Hivatal határozatának megtámadására rendelkezésre álló idő eredménytelenül telt el. A szankciós kijelölés esetén a Hivatal kötelezi a szállítóvezeték tulajdonosát az eszközeinek átadására, a kijelölt rendszerüzemeltetőt pedig a feladat ellátására.
+
+A 192. §-hoz [Get. 120/A-121/I. §]
+
+Az irányelv legjelentősebb újítása az ún. szétválasztási szabályok az előzőekhez képest sokkal bővebb kifejtése.
+
+Az irányelv akként rendelkezik, hogy ha 2009. szeptember 3-án az átviteli rendszerben tulajdonnal rendelkező vállalkozás vertikálisan integrált vállalkozás része, a tagállamoknak lehetőséget kell adni a tulajdonjogi szétválasztás, valamint az ellátási és termelési érdekektől független rendszerüzemeltető létrehozása vagy a független szállítási rendszerüzemeltető közötti választásra.
+
+Független szállítási rendszerüzemeltetőre vonatkozó követelményeknek való megfelelés [Get. 121/B-121/G. §]
+
+A független szállítási rendszerüzemeltetőről szóló követelmények révén történő tényleges szétválasztás egyrészt egy szervezési intézkedésekből és a szállítási rendszerüzemeltető irányításával kapcsolatos intézkedésekből álló pilléren, másrészt egy olyan beruházási intézkedésekből álló pilléren nyugszik, amelyek az új termelési kapacitásokat regionális együttműködés útján kötik a hálózati és piaci integrációhoz.
+
+Az első pillér a belső vállalati szervezet és irányítás függetlenségének biztosítása, amely garantálja TSO függetlenségét, egyrészt azzal, hogy előírja, hogy a TSO-nak az anyavállalattól tisztán elkülöníthető, az átviteli tevékenységéhez szükséges vagyoni, humán és pénzügyi erőforrással kell rendelkeznie. (megfelelő vagyon legyen a tulajdonában, a személyzetnek a TSO legyen a munkáltatója, és álljon rendelkezésére beruházásaihoz megfelelő pénzeszköz), másrészt azzal, hogy garantálja a menedzsment (a vezérigazgató, az igazgatósági tagok és a felügyelő bizottsági tagok) teljes függetlenségét.
+
+A szállítási rendszerüzemeltető függetlenségét többek között ún. türelmi időszak révén is biztosítani kell, amelynek során a vertikálisan integrált vállalkozásban nem gyakorolnak olyan vezetői vagy más hasonló tevékenységet, amelynek keretében ugyanahhoz az információhoz lehet hozzájutni, mint amelyekhez a vezetői beosztásokban lehetett volna.
+
+A második pillér a hálózati beruházásokon, a piaci integráción és új erőművek csatlakozásának biztosításán alapul.
+
+A hatékony hálózati beruházások biztosítása érdekében a TSO-knak 10 éves hálózat fejlesztési tervet kell készíteniük, amely a piaci szereplők számára befektetéseikhez többlet információt nyújt, ugyanakkor garantálja az ellátásbiztonságot és a rendszer megfelelőségét.
+
+A fenti szabályok betartása érdekében a törvény szerint a TSO-knak ún. „megfelelőségi programot” (compliance programme) kell kidolgozniuk a diszkriminációmentes, termelőktől, szolgáltatóktól való független piaci magatartás biztosítására. A megfelelési programot a szabályozó hatóság hagyja jóvá, megfelelő végrehajtását a gyakorlatban pedig a „megfelelésért felelős tisztviselő” (compliance officer) felügyeli.
+
+Teljes tulajdonosi szétválasztás [Get. 121/H. §]
+
+A tulajdonjogi szétválasztás értelmében a tagállamoktól meg kell követelni, hogy biztosítsák, hogy
+
+a) minden olyan vállalkozás, amelynek tulajdonában a szállítási rendszer van szállításirendszer-üzemeltetőként működjön;
+
+b) ugyanazon személyek ne legyenek jogosultak:
+
+- közvetlenül vagy közvetve irányítást gyakorolni egy termelési vagy ellátási feladatot betöltő vállalkozás felett, és közvetlenül vagy közvetve irányítást vagy bármely jogot gyakorolni egy szállításirendszer-üzemeltető vagy szállítási rendszer felett, vagy
+
+- fordított viszonylatban is, a szállítási rendszer vagy a szállításirendszer-üzemeltető irányításában való részvételnek eleve ki kell zárnia a termelési vagy ellátási vállalkozás irányításának vagy az azokra vonatkozó joggyakorlásnak a lehetőségét.
+
+c) ugyanazon személyek ne legyenek jogosultak kinevezni egy szállításirendszer-üzemeltető vagy szállítási rendszer felügyelőbizottsága, igazgatási testülete vagy a vállalkozást jogilag képviselő testület tagjait, és közvetlenül vagy közvetve irányítást vagy bármely jogot gyakorolni egy termelési vagy ellátási feladatot betöltő vállalkozás felett; (ilyen jog különösen: szavazati jog; a felügyelőbizottság, az igazgatási testület vagy a vállalkozást jogilag képviselő testület tagjainak kinevezésére vonatkozó jogkör; vagy többségi részesedéssel való rendelkezés);
+
+valamint
+
+d) ugyanazon személy ne lehessen tagja egyfelől egy termelési vagy ellátási feladatot betöltő vállalkozásnak, és másfelől egy szállítási rendszerüzemeltetőben vagy szállítási rendszerben tulajdonnal rendelkező társaságnak is a felügyelőbizottságában, igazgatási testületében vagy a vállalkozást jogilag képviselő testületében.
+
+- Ezeken a korlátokon belül a termelési vagy ellátási vállalakozás részére lehetővé kell tenni, hogy kisebbségi részesedéssel rendelkezzen egy szállítási rendszerüzemeltetőben vagy a szállítási rendszerben.
+
+- Lehetőség van arra is, hogy két különálló állami szerv végezze egyfelől a termelési és ellátási tevékenységeket, másfelől a szállítási tevékenységek ellenőrzését, (bár a tulajdonos az állam marad).
+
+Független rendszerüzemeltető kijelölése [Get. 121/I. §]
+
+A tagállamok dönthetnek úgy, hogy a szállításirendszer-tulajdonos javaslatára független rendszerüzemeltetőt jelölnek ki, amely megfelel a 9. cikk (1) b), c), d) pont szerinti követelményeknek és rendelkezik megfelelő pénzügyi, műszaki és humán erőforrással.
+
+Az ilyen kijelölést a Bizottságnak jóvá kell hagynia.
+
+Ez az opció lehetővé teszi, hogy a vertikálisan integrált társaságok megtartsák a hálózati vagyon tulajdonjogát, de megköveteli, hogy az energiaszállítási hálózatot magát egy független rendszerüzemeltető irányítsa, azaz egy a vertikálisan integrált társaságoktól teljesen különálló vállalkozás vagy személy lássa el az összes hálózatüzemeltetési funkciót. A szállítási hálózatot egy független rendszerüzemeltető menedzselné, és hozná meg a beruházási és más stratégiai döntéseket.
+
+A 193-194. §-hoz [Get. 122-123. §]
+
+Az egyes cégjogi eseményekre vonatkozó közös szabályok, valamint a befolyásszerzésre vonatkozó rendelkezéseknek a jogalkalmazás során szükségessé vált pontosításai.
+
+A 195. §-hoz [Get. 124. §]
+
+Az irányelv szétválasztási szabályai miatt szükségessé váló rendelkezés, amely a kiszervezés során megvalósítandó követelményeket tartalmazza, valamint pontosítás annak érdekében, hogy egyértelművé váljon, hogy a Hivatal határozatában foglaltaknak is eleget kell tennie az engedélyesnek.
+
+A 196-197. §-hoz [Get. 125-125/A. §]
+
+Az irányelv bevezetés (24); és 16. cikk (1), (2) alapján az üzleti szempontból érzékeny információk kezelésére vonatkozó szabályok megfogalmazását, valamint az irányelv 10. cikk (7) alapján a szállítási rendszerüzemeltető tanúsításának érdekében szükséges információ-adási kötelezettség előírását tartalmazza a §
+
+Figyelemmel a fogyasztóvédelmi hatóság lakossági fogyasztói panaszok elbírálására vonatkozó hatáskörére, indokolt az adatok átadását részükre is biztosítani. A hatósági ellenőrzési feladatok összehangolása és azok elvégzése érdekében adatcserét szükséges megvalósítani a Hivatal és a vámhatóság között, amely megalapozását jelenti a fenti módosítás. Az irányelv I. melléklet 1. h) pontja szerint a felhasználó kifejezett kérésére a fogyasztási adatai átadhatók más kereskedőnek például kereskedőváltás előtti ajánlatkérés érdekében.
+
+A 198-201. §-hoz [Get. 125/B-127/A. §]
+
+Az irányelvi követelményeknek (39-41. cikk) eleget téve kijelölésre kerül a nemzeti szabályozó hatóság, egyidejűleg az irányelvből következő feladatai és tevékenysége is kiegészítésre kerül.
+
+A 202. §-hoz [Get. 128-128/A. §]
+
+Az irányelv [10. cikk (5)-(8)] értelmében a Hivatal ellenőrzi, hogy a szállítási rendszerüzemeltető megfelel-e a szétválasztási követelményeknek. Ehhez az irányelv részletes szabályrendszert ír le, amely során meghatározásra kerülnek az eljárási határidők mellett a Bizottság tájékoztatására vonatkozó szabályok is. A rendelkezések az irányelv által előírt eljárást implementálja a magyar jogrendszerbe.
+
+A 203. §-hoz [Get. 129. §]
+
+A Hivatal eljárására vonatkozó szabályok pontosítása az irányelvek által előírt határidő-változások következtében.
+
+A 204. §-hoz [Get. 130. §]
+
+Az Irányelv 43. cikk és a 713/2009/EK rendelet alapján a Hivatal együttműködésére vonatkozó szabályok pontosítására és kiegészítésére van szükség az Ügynökség, a külföldi szabályozó hatóságok, az Európai Unió szerveivel szükséges kapcsolat együttműködés érdekében.
+
+Az Energiaszabályozók Együttműködési Ügynöksége európai szinten kiegészítené a nemzeti szabályozó hatóságok által nemzeti szinten ellátott szabályozási feladatokat. Fő feladatai:
+
+- a nemzeti szabályozó hatóságok együttműködését szolgáló keret biztosítása,
+
+- az átviteli illetve a szállítási rendszerüzemeltető együttműködésének hatósági felügyelete,
+
+- határon átnyúló infrastruktúrákhoz való hozzáférésre és az üzemeltetés biztonságára vonatkozó feltételekkel kapcsolatos egyedi határozat,
+
+- általános tanácsadói szerep.
+
+Az Ügynökséggel való részletes együttműködés szabályait a VET. tartalmazza.
+
+A 205-206. §-hoz [Get. 132-133. §]
+
+Felhatalmazó rendelkezések pontosítása a törvénymódosítások miatt.
+
+A 207-217. §-hoz [Get. 134-143. §]
+
+Átmeneti rendelkezések pontosítása.
+
+A 218. §-hoz [Get. 159. §]
+
+Az Európai Unió jogának való megfelelés pontosítása.
+
+A 219-220. §-hoz
+
+Szövegpontosító módosítások.
+
+A 221. §-hoz
+
+Az atomenergiáról szóló 1996. évi CXVI. törvény hatályos rendelkezései teljes mértékig megvalósítják a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló 2009. június 25-i 2009/71/EURATOM tanácsi irányelvnek való megfelelést, amelyre tekintettel a törvénybe kizárólag a jogharmonizációs záradék beillesztése szükséges. E módosítás a jogharmonizációs záradék törvénybe való beépítését szolgálja.
+
+A 222. §-hoz
+
+(1) A 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 10. §-a (4) bekezdésének módosítása. A Kbt. 2010. szeptember 15-től hatályos 10. §-a értelmében az erőforrást nyújtó szervezetre is vonatkoznak az összeférhetetlenségi szabályok, erre tekintettel szükséges az erőforrást nyújtó szervezet feltüntetése a 10. § (4) bekezdésének első mondatában is. Az a személy (és hozzátartozója) tehát, aki az ajánlatkérő nevében tulajdonosi jogokat gyakorol - így például állami tulajdonú gazdálkodó szervezetben az állam nevében tulajdonosi jogokat vagyonkezelőként gyakorol - érdekelt gazdálkodó szervezetben, nem járhat el a felhívás és a dokumentáció elkészítése során vagy az eljárás más szakaszában, kivéve, ha az érdekelt gazdálkodó szervezet írásban nyilatkozik, hogy az eljárásban nem vesz részt ajánlattevőként, alvállalkozóként vagy erőforrást nyújtó szervezetként.
+
+(2) A Kbt. 40. §-a (2) bekezdésének módosítása és egy új (7) bekezdés beiktatása. Az egybeszámítási szabályok a törvény céljának megfelelő alkalmazása érdekében szükséges az egy ajánlattevővel történő szerződéskötés elvi lehetőségének ismételt felvétele az egybeszámítási feltételek közé figyelemmel arra, hogy ezen korábbi törvényi feltétel 2010. szeptemberében történt törlése révén sok esetben indokolatlanul kiszélesedett az egybeszámítás köre. Az így módosuló 40. § (2) bekezdése a), b) és c) pontjában foglalt feltételek együttes fennállása szükséges ahhoz, hogy ajánlatkérő a közbeszerzési tervezéskor fel tudja mérni, hogy mely beszerzéseket szükséges egybeszámítani.
+
+(3) A Kbt. 40. § (6) bekezdése az irányelvi lehetőséggel élve került be a Kbt.-be, de szükséges kiegészíteni olyan szabályokkal, amelyek ezen előírás visszaélésszerű értelmezését és ezáltal a közbeszerzések jogosulatlan részekre bontását megakadályozzák, ennek érdekében kerül sor a (7) bekezdés beiktatására.
+
+(4) A Kbt. 96/A. §-a (3) bekezdésének módosítása. Az ajánlatkérők az előzetes vitarendezés során a Kbt. hatályos 96/A. §-a alapján nem jogosultak a Kbt. 83. §-a szerinti hiánypótlás, a Kbt. 85. §-a szerinti felvilágosítás kérés, illetőleg a Kbt. 86. §-a és 87. §-a szerinti indokolás kérés jogintézményeinek alkalmazására. A gyakorlat azt mutatja, hogy ennek ellenére számos esetben kerül sor az előzetes vitarendezés keretében az ajánlatkérők részéről hiánypótlási felhívásra, felvilágosítás kérésre vagy indokolás kérésre, majd ennek eredményeképpen az összegezés módosítására, mely esetben a Közbeszerzési Döntőbizottság kénytelen jogsértést megállapítani. A módosítás folytán a közbeszerzési eljárás jelentősen nem hosszabbodik meg, ajánlatkérőnek azonban módjában áll az összegezés módosítása, amely az eljárások eredményességét nagymértékben elősegítheti.
+
+(5) A Kbt. 132. §-ának módosítása. A hirdetmény nélküli tárgyalásos eljárás indításakor a hatályos Kbt. alapján a Döntőbizottság részére küldött értesítésben nem kell megadni a beszerzés becsült értékét. A Közbeszerzési Döntőbizottság a becsült érték alapján tudja megállapítani azt, hogy az ajánlatkérő a megfelelő rezsimben folytatja-e le a hirdetmény közzététele nélkül induló tárgyalásos közbeszerzési eljárását, ezért indokolt a benyújtandó tájékoztatás tartalmának kiegészítése.
+
+(6) A Kbt. 136. § (4) bekezdés b) pontjának módosítása a helyes hivatkozás miatt szükséges.
+
+(7) A Kbt. keretmegállapodásos eljárásra vonatkozó szabályainak módosítása. A módosítás lehetővé teszi, hogy - összhangban az Unió irányelvi szabályaival - ne kelljen a közbeszerzési eljárás befejezését követően a szerződéskötési moratórium időszakát kivárni a szerződéskötéssel olyan esetekben, ahol a keretmegállapodásos eljárás második részében nincs verseny.
+
+(8) A Kbt. 242. § (3) bekezdésének módosítása a törvényen belüli koherencia megteremtése érdekében szükséges.
+
+(9) A Kbt. 250. § módosítása. A hivatkozás módosításának hatására az ajánlatkérőknek kettő helyett csak egy hirdetményt kell majd közzétenniük a Kbt. 4. számú melléklete szerinti, közösségi értékhatár feletti szolgáltatásokkal kapcsolatos egyszerű eljárások eredményéről.
+
+(10) A Kbt. 261. §-ának (1) és (3) bekezdésének módosítása. A 261. § (1) és (3) bekezdése értelmében a különös egyszerű eljárásban alkalmazni kell a 251. § (2) bekezdését, azonban a nemzeti értékhatárok közszolgáltató ajánlatkérők esetében magasabbak, mint a 251. § (2) bekezdésében meghatározott értékhatárok. Erre tekintettel a 251. § (2) bekezdése szerinti eljárás a különös egyszerű eljárásokra irányadó értékhatárokra tekintettel nem értelmezhető, ezért a Kbt. 251. §-ának (1)-(4) bekezdésére való utalás elhagyása szükséges.
+
+(11) A Kbt. 306/A. § (2) bekezdésének módosítása. A módosítást indokolja, hogy az Európai Parlament és a Tanács 2007/66/EK irányelvének 2d. cikk (1) bekezdés a) pontja, mint a szerződések érvénytelenségére vonatkozó egyik előírás, magában foglalja egyrészt azt az esetet, amikor egy ajánlatkérő jogellenesen, egyáltalán nem folytatott le közbeszerzési eljárást (közbeszerzési eljárás jogellenes mellőzése), másrészt azt az esetet is, amikor egy ajánlatkérő a hirdetmény előzetes közzététele nélküli tárgyalásos eljárást alkalmazta anélkül, hogy erre az irányadó szabályok alapján lehetősége lett volna. A jelenleg hatályos törvény nem tartalmazza az érvénytelenség utóbbi esetét, ezért az irányelvvel való összhang megteremtése feltétlenül indokolja, hogy a Kbt-ben az érvénytelenség ezen esetköre is megjelenjen.
+
+(12) A Kbt. 327. § (1) bekezdése k) ponttal történő kiegészítése a hivatalból jogorvoslat kezdeményezésére jogosultak körének bővítése érdekében.
+
+(13) A Kbt. 327. § (2) a) pontjának módosítása. A 327. § (1) bekezdés módosításával összhangban szükséges a 327. § (2) bekezdés a) pontjának módosítása.
+
+(14) Kbt. 327. § (2) b) pontjának módosítása. A módosítás indoka, hogy az Állami Számvevőszékre is a hivatalból való eljárás megindítására nyitva álló hosszabb határidőre vonatkozó szabályok legyenek irányadóak.
+
+(15) A Kbt. 337. § (2) bekezdésének módosítása. Szükségtelen, hogy amennyiben az ajánlattevő az ajánlatában elkülönített módon elhelyezett, üzleti titkot tartalmazó iratok - így különösen az árazott költségvetés - nyilvánosságra hozatalát megtiltotta, úgy a jogorvoslati eljárás során ismételten kérnie kelljen az iratbetekintési jog kizárását vagy korlátozását.
+
+(16) A Kbt. 340/A. § (1) bekezdésének módosítása. Amennyiben a KDB olyan közbeszerzési jogsértést állapít meg, amelynek következménye a szerződés érvénytelensége, az érvénytelenség megállapítása, jogkövetkezményeinek alkalmazása érdekében még külön bírósághoz kell fordulnia.
+
+Mivel a szerződés érvénytelenségével kapcsolatos döntés a bíróság előtti polgári per útjára tartozik, a jogorvoslati rendszer hatékonysága érdekében szükséges előírni, hogy ha a KDB megállapítja, hogy olyan jogsértés történt, amelynek az irányelv értelmében a kötelező jogkövetkezménye a szerződés érvénytelenségének kimondása, akkor a KDB ideiglenes intézkedésként kérje a bíróságtól a szerződés további teljesítésének megtiltását.
+
+(17) A Kbt. 341. §-a az (5) bekezdése után kiegészül egy új (6) bekezdéssel. Az új rendelkezés indoka, hogy az ajánlattevőket a jogsértő felhívás ajánlatkérő által történő visszavonása miatt ne érje hátrány, és az a körülmény, hogy ilyenkor az igazgatási szolgáltatási díjat nem térítik részükre vissza, ne akadályozza a jogorvoslati jog gyakorlását a jogsértő felhívásokkal szemben. A módosítás ezért úgy rendelkezik, hogy ajánlatkérőnek kell viselnie az igazgatási szolgáltatási díjat, ha a Közbeszerzési Döntőbizottság azért utasítja el a jogorvoslati kérelmet vagy szünteti meg az eljárást, mert az ajánlatkérő a felhívást visszavonta, feltéve, hogy ajánlattevő előzetes vitarendezést kezdeményezett.
+
+(18) Az új szabály értelmében a bíróság a Közbeszerzési Döntőbizottság határozatát kizárólag abban az esetben helyezi hatályon kívül, ha a Közbeszerzési Döntőbizottság eljárása során a jogorvoslati eljárás lényeges és az ügy érdemére kiható szabályainak megsértésére került sor.
+
+Ez a szabály egységesen érvényesül a Közbeszerzési Döntőbizottság érdemi határozatának felülvizsgálatára indított közigazgatási perben és a szerződés érvénytelenségével kapcsolatos keresetről is döntő kombinált perben.
+
+(19) A Kbt. 306/A. § (2) bekezdésének módosításával megegyezően a 350. § (2) bekezdésének módosítását indokolja, hogy az Európai Parlament és a Tanács 2007/66/EK irányelvének 2d. cikk (1) bekezdés a) pontja, mint a szerződések érvénytelenségére vonatkozó egyik előírás, magában foglalja egyrészt azt az esetet, amikor egy ajánlatkérő jogellenesen, egyáltalán nem folytatott le közbeszerzési eljárást (közbeszerzési eljárás jogellenes mellőzése), másrészt azt az esetet is, amikor egy ajánlatkérő a hirdetmény előzetes közzététele nélkül tárgyalásos eljárást alkalmazta anélkül, hogy erre az irányadó szabályok alapján lehetősége lett volna. A jelenleg hatályos törvény nem tartalmazza az érvénytelenség utóbbi esetét, ezért az irányelvvel való összhang megteremtése feltétlenül indokolja, hogy a Kbt.-ben az érvénytelenség ezen esetköre is megjelenjen.
+
+(20) A Kbt. 350/B. § (1) bekezdésének módosítása. A kombinált perben amennyiben a bíróság a Közbeszerzési Döntőbizottság határozatát hatályon kívül helyezi, a szerződés érvénytelenségének tárgyában a pert megszünteti. Annak érdekében, hogy a szerződés érvénytelenségével kapcsolatos döntés iránt ne egy megismételt döntőbizottsági eljárást követően kelljen újabb pert indítani, a hatályon kívül helyezés lehetőségét csak olyan esetekre indokolt fenntartani, ahol a döntőbizottsági szakaszban történt jogsértés a bíróság eljárásában nem reparálható. Az új szabály szerint a bíróság a Közbeszerzési Döntőbizottság határozatát kizárólag abban az esetben helyezi hatályon kívül, ha a Közbeszerzési Döntőbizottság eljárása során a jogorvoslati eljárás lényeges és az ügy érdemére kiható szabályainak megsértésére került sor.
+
+(21) A Kbt. 350/B. § (2) bekezdésének módosítása. A hatályos Kbt. nem írja elő alternatív szankcióként bírság kiszabását olyan esetben, amikor a bíróság a szerződést a határozathozatalig terjedő időre hatályossá nyilvánítja. Mivel a 2007/66/EK Irányelv szerint ilyenkor is biztosítani kell alternatív szankció alkalmazását, a módosítás erre az esetre is bírság alkalmazását irányozza elő. A módosítás egyben arra is irányul, hogy a bírság összegének megállapításakor a bíróság mérlegelhesse a jogsértés súlyát, illetve az eset összes körülményét.
+
+(22) A Kbt. 350/C. § (2) bekezdésének módosítása. A hatályos Kbt. nem írja elő alternatív szankcióként bírság kiszabását olyan esetben, amikor a bíróság a szerződést a határozathozatalig terjedő időre hatályossá nyilvánítja. Mivel a 2007/66/EK Irányelv szerint ilyenkor is biztosítani kell alternatív szankció alkalmazását, a törvény - megegyezően a kombinált pereknél bevezetendő új szabállyal - erre az esetre is bírság alkalmazását irányozza elő. A módosítás egyben arra is irányul, hogy a bírság összegének megállapításakor a bíróság mérlegelhesse a jogsértés súlyát, illetve az eset összes körülményét.
+
+(23) A 350/C. § kiegészítése a szerződés közbeszerzési jogsértés miatti érvénytelenségének megállapítása iránt indított polgári per szabályait újítja meg a kombinált per szabályainak alkalmazásával abban az esetben, ha a polgári per megindítása mellett egyúttal kezdeményezték a közbeszerzési jogsértést megállapító döntőbizottsági határozat bírósági felülvizsgálatát is. A jelenlegi gyakorlat azt mutatja, hogy a Döntőbizottság által indított polgári per mellett párhuzamosan közigazgatási per is indul a Döntőbizottság határozatának felülvizsgálatára, és a polgári per a közigazgatási per befejezéséig felfüggesztésre kerül. Ennek következtében a szerződés érvénytelenségéhez kapcsolódó szankció nem fejti ki megfelelően hatását, hiszen a közigazgatási per lezárásig olyan hosszú idő is eltelhet, amely alatt a szerződés teljesedésbe megy és - hacsak az eredeti állapot természetbeni visszaállítása nem lehetséges - az érvénytelenség megállapításán túlmenően a bíróságnak már nincs miről rendelkeznie. Ennek az állapotnak megszüntetését szolgálja egyrészt a szerződés teljesítésének megtiltására vonatkozóan az ideiglenes intézkedés kérése, másrészt a Kbt. 350/C. §-ába beiktatandó új rendelkezések, amelyek értelmében a közigazgatási pert és az érvénytelenséggel kapcsolatban indított polgári pert - szükség esetén áttételt követően - egymással egyesíteni kell, és a kombinált perrel megegyező módon egy perben történhet a közigazgatási jogi és a polgári jogi kérdés eldöntése.
+
+(24)-(25) A közbeszerzések központi ellenőrzése, engedélyezése és nyilvántartása rendszerének kialakításához szükséges felhatalmazó rendelkezések. Az engedélyezés és ellenőrzés köre a külön kormányrendelet szerint meghatározottak szerint, a közalapítványok tekintetében az Alkotmánybíróság vonatkozó gyakorlatára figyelemmel az államháztartás alrendszereiből származó pénzeszközök felhasználásával történő beszerzésekre terjed ki.
+
+(26)-(27) A Kbt. koherenciáját elősegítő módosítások.
+
+(28) A törvény átmeneti rendelkezéseket fogalmaz meg az illetékességre és a bíróság által alkalmazandó eljárási szabályokra vonatkozó szabályok változásával összefüggésben. A közbeszerzési törvény módosítása esetén mindig speciálisan kell szabályozni az alkalmazás kérdését, kizárva a folyamatban lévő ügyekre való alkalmazást. A bíróság által alkalmazandó eljárási szabályok hatályba lépése a közbeszerzési szabályokkal ellentétben úgy történik, hogy azokat a folyamatban lévő ügyekre is alkalmazni kell. Nem alkalmazandóak azonban a folyamatban lévő ügyekben az olyan anyagi jogi jellegű szabályok, amelyek hátrányos jogkövetkezményt állapítanak meg.
+
+A 223. §-hoz
+
+Az árak megállapításáról szóló 1990. évi LXXXVII. törvény módosításának célja, hogy a távhőszolgáltatás szabályozása és hatósági ármegállapítása - a Kormány által központilag ellenőrzött módon - országosan egy árhatóság, az energiapolitikáért felelős miniszter hatáskörébe kerüljön.
+
+Miután a távhőszolgáltatás díját jelentősen befolyásolja a távhőtermelő által a távhőszolgáltatónak értékesített távhő ára, ezért célszerű azt is a maximált hatósági ármegállapítás alá vonni. A törvény alapján a távhőszolgáltatónak értékesített hőenergia ármegállapítása, valamint a távhőszolgáltatás díjmegállapítása - összehasonlító elemzések lehetőségének biztosítása érdekében - kikerül az Artv. hatálya alól és az energetikai törvényekhez hasonlóan a távhőszolgáltatásról szóló 2005. évi XVIII. törvény hatálya alá kerül.
+
+A Tszt. módosítására vonatkozó részben a törvény célja, hogy megteremtse az energiapolitikáért felelős miniszter hatáskörébe utalt árhatósági feladatok, továbbá az ahhoz szükséges, az árelőkészítéssel összefüggő - a Magyar Energia Hivatal által végzendő - tevékenység végzésének jogszabályi feltételeit . Ezen túlmenően a módosítás biztosítja, hogy az energiapolitikáért felelős miniszter által meghatározott távhőszolgáltatás díja a lakossági felhasználók mellett az egyéb felhasználók közül a külön kezelt (pl. önkormányzati) intézményeknek végzett szolgáltatás díjára is kiterjedjen.
+
+A törvény biztosítja, hogy a távhőszolgáltatónak értékesített távhő ára, valamint a lakossági felhasználóknak és a külön kezelt intézményeknek nyújtott távhőszolgáltatás díjának megállapítása központilag szabályozott és ellenőrzött keretek között, országosan egységes elvek alapján történjen.
+
+A Hivatal hatásköre bővül a távhőszolgáltatók működési engedélyeínek kiadásával és felügyeletével. Ugyancsak bővül a távhőtermelői működési engedélyek kiadása terén a hatásköre azáltal, hogy minden távhőtermelőnek ad ki működési engedélyt nem csak azoknak, akik a hőenergiát villamos energiával kapcsoltan termelik. Ezzel a távhőtermelők és távhőszolgáltatók engedélyezése és felügyelete egy központi kormányhivatal hatáskörébe kerül.
+
+A területileg illetékes települési önkormányzat jegyzője, a fővárosban a fővárosi önkormányzat főjegyzője hatásköre az említetteknek megfelelően változik.
+
+A 224. §-hoz
+
+A § a statisztikáról szóló 1993. évi XLVI. törvény 3. §-át módosítja oly módon, hogy a Hivatalt is felveszi a hivatalos statisztikai szolgálathoz tartozó szervek körébe. A módosítás kiemelt célja, hogy megalapozza a hatékonyabb és pontosabb energiastatisztikai rendszer kialakítását, amely támogatja a Kormány energiapolitikai döntéseinek számszaki megalapozását.
+
+A 225. §-hoz
+
+A § a környezet védelmének általános szabályairól szóló törvénybe jogharmonizációs záradékot illeszt be, deklarálva a 2006/21/EK irányelvnek való megfelelést.
+
+A 226. §-hoz
+
+A vámhatóság javasolta a közösségi vámjogról szóló 2003. évi CXXVI. törvényt a vámtitok vonatkozásában módosítani, amely módosítás lehetővé tenné a MEH részére a vámtitoknak minősülő adatok átadását, melyek kontrolladatként használhatóak a hivatali adatfeldolgozás során.
+
+A 227. §-hoz
+
+A törvény a 617/2010/EU, Euratom európai tanácsi rendelet szerinti tagállami jelentéstétel teljesítéséhez szükséges, a Nemzeti Adó és Vámhivatal feladatkörében elvégezhető adatgyűjtésről, valamint ezen adatoknak a tagállami jelentés összeállítására kijelölt Magyar Energia Hivatal részére történő továbbításáról rendelkezik.
+
+A 228. §-hoz
+
+A módosítás célja egyrészt annak biztosítása, hogy az energiapolitikáért felelős miniszter a gázpiaci folyamatokkal összhangban a jelenleg évi egyszeri helyett évenként kétszer - január 15-ig, valamint június 15-ig - határozhassa meg a készletértékesítési vagy készletbeszerzési kötelezettség mértékét és feltételeit, a biztonsági földgázkészlet mértékéhez tartozó kötelező minimum betárolási és kitárolási kapacitásokat; másrészt szövegpontosítás, mivel az MSZKSZ a biztonsági földgázkészletből értékesített földgáz árát kizárólag a hitelei törlesztésére fordíthatja.
+
+A 229-235. §-hoz
+
+Az Országgyűlés úgy döntött, hogy Liszt Ferenc világhírű magyar zeneszerző születésének 200. évfordulója alkalmából a Budapest Ferihegyi Nemzetközi Repülőtér 2011-től Liszt Ferenc nevét viselje, így állítva emléket minden idők egyik leghíresebb zongoraművészének, a XIX. század legjelentősebb romantikus zeneszerzőjének.
+
+-----STARTING---POINT---VEGE---
+
+A 236. §-hoz
+
+Hatályba léptető rendelkezések.
+
+A 237-239. §-hoz
+
+Átmeneti és módosuló rendelkezések.
+
+A 240. §-hoz
+
+Uniós jogszabályi megfeleltetés.

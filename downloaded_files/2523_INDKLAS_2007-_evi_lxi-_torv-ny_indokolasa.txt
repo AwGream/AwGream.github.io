@@ -1,0 +1,993 @@
+2007. évi LXI. törvény indokolása
+
+a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+1. A piacra lépes feltételrendszere javításának követelménye számos közösségi és nemzetközi dokumentumban megjelent. Az Európai Unióban a hangsúly elsősorban a kis- és középvállalkozások létrehozásának, működésének elősegítésére helyeződik.
+
+A 2000 júniusában Feirában tartott Európai Tanács értekezleten elfogadásra került az Európai Kisvállalkozói Charta, amely - hangsúlyozva a kisvállalkozások innovációban, foglalkoztatásban, integrációban játszott elsődleges szerepét - a tagállamokat, illetve az Európai Bizottságot hívta fel e társaságok működését könnyítő gazdasági, pénzügyi, jogi környezet megteremtésére. A szükséges intézkedések között említésre kerül a képzés, oktatás javítása, a technológiai fejlesztések támogatása, az adórendszer és a cégalapítás pénzügyi feltételei olyan irányú alakítása, amely elősegíti a kisvállalkozások működését. A Charta hangsúlyozta a cégalapítás adminisztratív terheinek és a bejegyzési eljárás időtartamának csökkentésére, az elektronikus cégbejegyzési eljárás bevezetésére, illetve kiterjesztésére vonatkozó intézkedések jelentőségét.
+
+A 2006 márciusában Brüsszelben tartott Európai Tanács ülés elnökségi konklúziói ismét megerősítik a kis- és középvállalkozások kiemelkedő gazdasági szerepét, és hangsúlyozzák az rájuk vonatkozó egyszerű, átlátható, könnyen alkalmazható jogi szabályozás jelentőségét olyan fokig, hogy a velük szemben adminisztratív terhet jelentő közösségi előírások felülvizsgálatát is előirányozzák. Ezen kívül a konklúziók szükségesnek tartják, hogy 2007 végére valamennyi tagállamban elegendő legyen átlagosan egy hét egy társaság megalapítására, a piacra lépés költségei pedig a lehető legalacsonyabbak legyenek.
+
+A Világbank éves jelentései 2004 óta részletesen elemzik 155 országban egyebek között a társaságalapítás, működés és megszűnés adminisztratív- és költség-feltételeit, minden évben beszámolva a pozitív, illetve negatív irányú változásokról. 2006 szeptemberében a Világbank közzétette Doing Business in 2007 című jelentését, amelyből megállapítható, hogy Magyarország a gazdasági környezet kedvező vagy kedvezőtlen voltát mérő ranglistán - a világbanki kimutatás szerint a 66. helyen áll. A jelentés Magyarország vonatkozásában a cégek piacra lépését illetően kedvezőtlen megállapításokat is tartalmazott. (A hazai vállalkozások alapítása indokolatlanul költséges - lásd az általános jegyzett tőke minimumának mértékére és az alapítás kapcsán fizetendő illetékre irányadó szabályokat -, valamint nehézkes és lassú, ha pl. a spanyol, a brit, a dán, vagy akár a szlovén eljárási renddel hasonlítjuk össze. Ez mindenképpen indokolttá teszi, hogy a hazai jogalkotó végiggondolja a továbblépés irányát és erőfeszítéseket tegyen a leszakadás megakadályozása érdekében.
+
+Összegezve elmondható, hogy 2005 decembere, az új cégtörvény [a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.)] kihirdetése óta mind európai uniós, mind nemzetközi szinten olyan új körülmények merültek fel megerősítik a szabályozás továbbfejlesztésének igényét.
+
+2. Az új Ctv. nagyon jelentős reformokat hajtott végre a cégbíróság működése és feladatai tekintetében. A törvény újraszabályozta a cégeljárást, a korábbiaknál sokkal alaposabbá, áttekinthetőbbé téve azt. A Ctv. 2006. július 1-jétől valamennyi gazdasági társaság számára lehetővé tette a cégbejegyzési és a változásbejegyzési eljárás elektronikus úton történő lefolytatását. 2007. január 1-jétől a Ctv. az elektronikus cégbejegyzési eljárás lehetőségét valamennyi egyéb cégformára (pl. közjegyzői iroda, szövetkezet) kiterjeszti.
+
+A Ctv., illetve a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) egyik legjelentősebb újítása volt a törvényi szerződésminták bevezetése. A Ctv. mellékletét képező szerződésminták lehetővé teszik a kisvállalkozások (közkereseti, betéti és korlátolt felelősségű társaságok) számára, hogy a korábbiaknál jóval egyszerűbben, a törvényi szerződésminta kitöltésével készítsék el társasági szerződésüket. A Ctv. új lehetőségként biztosította az előzetes cégnév-foglalást.
+
+A Ctv. újraszabályozta a cégeljárási határidőket és a cégeljárás rendjét. A cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény (a továbbiakban: régi Ctv.) szerint a cégbejegyzési eljárás időtartamát és a cégbíróságok által folytatott vizsgálat terjedelmét az határozta meg, hogy a bejegyzendő cég jogi személyiséggel rendelkezik-e vagy sem.
+
+A cégalapítás leggyorsabb módja a 2006. július 1-jétől létező egyszerűsített cégeljárás. A Ctv. 49. §-a szerint lehetőség van a kkt., a bt., és a kft. alapításának 2 munkanap alatt történő bejegyzésére, ha a társasági szerződést szerződésminta alkalmazásával készítik el, a jogi képviselő a cégbíróságon előzetesen cégnevet foglalt a bejegyzendő társaság számára, a jogi képviselő elektronikus úton nyújtja be a bejegyzési kérelmet, és a kérelem valamennyi törvényben előírt mellékletét csatolták, valamint az eljárási illetéket előzetesen befizették.
+
+3. Az új Ctv. által bevezetett szabályozási koncepció tehát jelentős mértékben, és egyértelműen helyes irányban átalakította a cégeljárás, a cégalapítás menetét. Ugyanakkor az is megállapítható, hogy az elfogadott változtatások nem elegendőek, néhol nem elég következetesek ahhoz, hogy a magyarországi cégalapítás ideje, költségigénye, valamint a szabályozás kiszámíthatósága megfeleljen a közösségi és nemzetközi elvárásoknak. Ennek következtében merült fel a létező szabályok továbbfejlesztésének igénye.
+
+A Világbanki jelentés szerint a cégalapítás átlagos időszükséglete Magyarországon 38 nap, és hat különböző eljárás szükséges egy cég beindításához. A törvény a cégalapítás teljes folyamatának gyorsítását, egyszerűsítését, olcsóbbá tételét szolgálja. A cégalapítás folyamata ugyanis elkülöníthető a cégbírósági eljárást megelőző, illetve a cégbíróság előtti eljárási szakaszra.
+
+3.1. Nem vitásan a jelenlegi rendszerben a cégbírósági szakaszt megelőzően szükséges jogi képviselőt felkeresni (ügyvédet, közjegyzőt) a társasági szerződés, létesítő okirat tartalmának meghatározásához, az okirat közokiratba foglalásához vagy ügyvédi ellenjegyzéséhez. Ezt követően a társaság képviseletére jogosultak aláírási címpéldányának elkészítése érdekében közjegyzőhöz kell fordulni. Korlátolt felelősségű társaság és részvénytársaság esetében továbbá a bejegyzési kérelem benyújtásáig a társaságnak pénzforgalmi számlát kell nyitnia, és a pénzbeli betétek befizetéséről a bejegyzési kérelméhez banki igazolást kell csatolnia.
+
+A törvény az előzőekben ismertetett eljárási szakaszok egyszerűsítése, ésszerűsítése érdekében az alábbi módosításokat tartalmazza:
+
+A törvény lehetővé teszi, hogy a társaság alapítással összefüggő feltételek egy helyen, az eljáró ügyvéd (közjegyző) előtt teljesítésre kerülhessenek; biztosítja a jelenleg szükséges közjegyzői és banki eljárás elkerülését. A jövőben a társasági szerződést készítő és ellenjegyző ügyvéd jogosult lesz a társaság képviseletére jogosult aláírás-mintájának ellenjegyzésére.
+
+A törvény korlátolt felelősségű társaság alapítása esetében a cég választásától függően lehetővé teszi, hogy a pénzbeli betét befizetésének igazolására ne előzetes banki igazolással kerüljön sor, hanem a társaság javára történő befizetésről az ügyvezető ügyvéd által ellenjegyzett vagy közjegyző által hitelesített nyilatkozatban adjon számot. Ebben az esetben nincs szükség a cég bejegyzését megelőzően a bankszámla megnyitására. Amennyiben a céget bejegyzik, a bejegyzéstől számított 8 napon belül kell a cégnek bankszámlát nyitnia, és azon a pénzbeli betétet elhelyeznie.
+
+3.2 A cégbírósági eljárási szakaszra vonatkozó rendelkezések négy fontos szabályozási célt valósítanak meg. Az egyszerűsített cégeljárás felülvizsgálata megteremti az egy munkaórás bejegyzések általánossá válásának lehetőségét. Az elektronikus cégeljárás kötelezővé tétele, a cégbíróság munkaszervezési szabadságának erősítése biztosítja a gyorsaságot. Az ún. ready-made társaságokra vonatkozó szabályozás kidolgozása kielégíti a jogalkalmazás oldalán felmerült igényeket, és rugalmasabbá teszi a cégalapítást. A Ctv. egyes rendelkezéseinek pontosítása, új cégjegyzék rovatok kialakítása révén pedig ésszerűsíti, továbbfejleszti a szabályozást.
+
+A törvény megszünteti a szerződésmintával történő cégalapításra vonatkozó külön cégeljárási szabályokat, és az egyszerűsített cégeljárás keretében rendezi a szerződésmintával történő alapítás valamennyi cégeljárási kritériumát. A törvény arra ösztönzi a vállalkozásokat, hogy az ún. egyszerűsített cégeljárás szabályait válasszák. A törvény a jelenleginél jóval rugalmasabbá teszi a szerződésmintákat, és az egyszerűsített eljárásban a feltétlenül szükséges minimumra csökkenti a cégbírósághoz - a társaság alapításával összefüggésben - benyújtandó okiratokat (lényegében öt okirat csatolására kötelezi a céget). A jövőben a bejegyzendő adatokkal összefüggő okiratok jogszerűségi kontrollját a társasági szerződést ellenjegyző jogi képviselő végzi el és igazolja a bejegyzési kérelemben. A cégbíróság feladata ehhez képest az egyszerűsített eljárásban olyan technikai teendők elvégzésére korlátozódik, mint a bejegyzési kérelem kitöltésének és aláírásának, a jogi képviselő meghatalmazásának, valamint az illeték megfizetésének az ellenőrzése. Ilyen körülmények között a cégbírósági munkát jellemzően számítógépes program is képes lesz elvégezni, illetve a cégalapítás cégbírósági szakaszának esetleges kockázata (a hibázás kockázata) is a minimálisra csökkenthető.
+
+A törvény az egyszerűsített eljárásban ez év szeptemberétől 2 munkanapra, 2008. július 1. napjától pedig 1 munkaórára csökkenti a bejegyzési kérelem elbírálásának maximális idejét.
+
+Egyszerűsített cégeljárással történő cégalapítás esetén - cégformától függetlenül - 15 ezer forint illeték megfizetéséről rendelkezik a törvény a jelenlegi 100 ezer forint (kft., zrt.) és 50 ezer forint (kkt., bt.) helyett.
+
+A törvény az egyszerűsített cégeljárás szabályait kiterjeszti a változásbejegyzési eljárásokra is abban az esetben, ha az egyszerűsített eljárás szerint (törvényi szerződésmintával) alapított gazdasági társaság működése során bekövetkező változás nem jár együtt azzal, hogy a cég áttérne az ún. egyedi társasági szerződés alkalmazására. A törvény alapján 2008. július 1. napjától mind a bejegyzési, mind pedig a változásbejegyzési kérelmek elbírálására - ha az alapítók az egyszerűsített eljárás mellett határoztak - 1 munkaóra alatt sor kerül.
+
+A törvény jelentőségét mutatja, hogy a cégjegyzékbe jelenleg mintegy 230 000 jogi személyiség nélküli gazdasági társaság (közkereseti társaság, betéti társaság), és több mint 240 000 jogi személyiségű társaság (korlátolt felelősségű társaság, részvénytársaság) van bejegyezve. Az utóbbi csoport 238 000 korlátolt felelősségű társaságot és 4300 részvénytársaságot, amelyek döntően zártkörűen működő részvénytársaságok, foglal magába. A piacra lépés ütemét jelzi, hogy 2006-ban több mint 18 000 (18 712) kft. jogelőd nélküli alapítására került sor Magyarországon. (Ezek közül a fővárosban 7622 bejegyzés valósult meg.) Ugyanakkor az sem hagyható figyelmen kívül, hogy a cégalapítások során - részben az eljárási szabályok bonyolultsága, részben a cégbíróságon a bejegyzési kérelemről határozó szakemberek részére a törvény által biztosított esetenként túl tág mérlegelési jogkör miatt - annak ellenére közel 40%-os a hiánypótlásra visszaadott ügyek száma, hogy a cégbíróság előtti eljárásban a jogi képviselő igénybevétele kötelező. (Így pl. a Budapesten 2006-ban alapított 7622 új kft. bejegyzési eljárásakor 3036 esetben került sor hiánypótlás elrendelésére. Országos léptékben vizsgálva a kérdést az látható, hogy a 2006. évi kft. alapítások közül 11 480 esetben hiánypótlás nélkül fejeződött be az eljárás, 7232 esetben pedig hiánypótlással járt együtt a bejegyzési kérelem elbírálása.) A 2006. évi kft. alapításokkal összefüggő legfontosabb adatokat a mellékelt táblázat tartalmazza.
+
+ 
+
+ 
+
+ 
+
+ KFT alapbejegyzések
+
+ Cégbíróság neve
+
+ HP nélkül
+
+ Átl. bej. idő
+
+ HP-vel
+
+ Átl. bej. idő
+
+ 
+
+ 
+
+ napokban
+
+ 
+
+ napokban
+
+ Főváros
+
+ 4 586
+
+ 10,8
+
+ 3 036
+
+ 42,5
+
+ Baranya megye
+
+ 212
+
+ 4,8
+
+ 222
+
+ 25,8
+
+ Bács-Kiskun megye
+
+ 538
+
+ 15,8
+
+ 189
+
+ 39,6
+
+ Békés megye
+
+ 134
+
+ 11,8
+
+ 119
+
+ 39,1
+
+ Borsod-Abaúj-Zemplén megye
+
+ 456
+
+ 9,5
+
+ 215
+
+ 33,7
+
+ Csongrád megye
+
+ 329
+
+ 7,4
+
+ 171
+
+ 32,2
+
+ Fejér megye
+
+ 371
+
+ 6,2
+
+ 254
+
+ 36,5
+
+ Győr-Moson-Sopron Megye
+
+ 281
+
+ 14,1
+
+ 500
+
+ 41,3
+
+ Hajdú-Bihar megye
+
+ 268
+
+ 4,7
+
+ 354
+
+ 26,7
+
+ Heves megye
+
+ 207
+
+ 13,4
+
+ 92
+
+ 38,9
+
+ Komárom-Esztergom megye
+
+ 422
+
+ 5,9
+
+ 166
+
+ 28,4
+
+ Nógrád megye
+
+ 102
+
+ 9,5
+
+ 67
+
+ 36,6
+
+ Pest megye
+
+ 1 749
+
+ 9,2
+
+ 1 152
+
+ 42,8
+
+ Somogy megye
+
+ 237
+
+ 6,6
+
+ 104
+
+ 35,1
+
+ Szabolcs-Szatmár-Bereg megye
+
+ 335
+
+ 11,2
+
+ 168
+
+ 35,6
+
+ Jász-Nagykun-Szolnok megye
+
+ 232
+
+ 5,5
+
+ 147
+
+ 25,9
+
+ Tolna megye
+
+ 141
+
+ 4,9
+
+ 45
+
+ 32,5
+
+ Vas megye
+
+ 310
+
+ 5,2
+
+ 24
+
+ 33,5
+
+ Veszprém megye
+
+ 359
+
+ 13,8
+
+ 94
+
+ 34,4
+
+ Zala megye
+
+ 211
+
+ 14,6
+
+ 113
+
+ 40,6
+
+ Összesen
+
+ 11 480
+
+ 9,9
+
+ 7 232
+
+ 39,0
+
+A cégalapítás átlagos bejegyzési ideje hiánypótlás nélkül 2005-ben 9,2 munkanap, hiánypótlással pedig 38,5 munkanap volt. A 2006-ban alapított kft-k esetében hiánypótlás nélkül átlagosan 9,9 munkanapot, hiánypótlással pedig 39 munkanapot vett igénybe a társaság megalapítása. Valamennyi cégtípus 2006. évi alapításának átlagos időigénye hiánypótlás nélkül 8,7 munkanap, hiánypótlással viszont 37,3 munkanap volt. Az ezzel összefüggő részletes adatokat következő táblázat illusztrálja.
+
+ 
+
+ 
+
+ 
+
+ Alapbejegyzések száma
+
+ Cégbíróság neve
+
+ Összes
+
+ HP nélkül
+
+ Átl. bej. idő
+
+ HP-vel
+
+ Átl. bej. idő
+
+ 
+
+ 
+
+ 
+
+ napokban
+
+ 
+
+ napokban
+
+ Főváros
+
+ 11 808
+
+ 6 306
+
+ 9,2
+
+ 4 126
+
+ 41,5
+
+ Baranya megye
+
+ 908
+
+ 375
+
+ 4,5
+
+ 411
+
+ 24,5
+
+ Bács-Kiskun megye
+
+ 1 205
+
+ 775
+
+ 13,9
+
+ 376
+
+ 36,3
+
+ Békés megye
+
+ 475
+
+ 243
+
+ 8,1
+
+ 197
+
+ 35,9
+
+ Borsod-Abaúj-Zemplén megye
+
+ 1 206
+
+ 799
+
+ 8,9
+
+ 357
+
+ 32,3
+
+ Csongrád megye
+
+ 879
+
+ 534
+
+ 6,6
+
+ 342
+
+ 30,0
+
+ Fejér megye
+
+ 1 070
+
+ 586
+
+ 5,6
+
+ 408
+
+ 35,0
+
+ Győr-Moson-Sopron Megye
+
+ 1 150
+
+ 438
+
+ 12,2
+
+ 707
+
+ 38,7
+
+ Hajdú-Bihar megye
+
+ 1 163
+
+ 513
+
+ 5,2
+
+ 556
+
+ 27,4
+
+ Heves megye
+
+ 571
+
+ 319
+
+ 11,2
+
+ 164
+
+ 35,3
+
+ Komárom-Esztergom megye
+
+ 866
+
+ 596
+
+ 6,9
+
+ 261
+
+ 28,2
+
+ Nógrád megye
+
+ 302
+
+ 193
+
+ 9,0
+
+ 105
+
+ 35,1
+
+ Pest megye
+
+ 4 695
+
+ 2 712
+
+ 8,1
+
+ 1 727
+
+ 41,2
+
+ Somogy megye
+
+ 585
+
+ 412
+
+ 6,5
+
+ 154
+
+ 35,7
+
+ Szabolcs-Szatmár-Bereg megye
+
+ 899
+
+ 526
+
+ 10,5
+
+ 276
+
+ 35,5
+
+ Jász-Nagykun-Szolnok megye
+
+ 634
+
+ 372
+
+ 5,4
+
+ 262
+
+ 25,1
+
+ Tolna megye
+
+ 373
+
+ 242
+
+ 4,5
+
+ 110
+
+ 29,9
+
+ Vas megye
+
+ 569
+
+ 525
+
+ 5,3
+
+ 39
+
+ 36,8
+
+ Veszprém megye
+
+ 761
+
+ 529
+
+ 10,8
+
+ 208
+
+ 29,5
+
+ Zala megye
+
+ 611
+
+ 378
+
+ 13,4
+
+ 206
+
+ 39,9
+
+ Összesen
+
+ 30 730
+
+ 17 373
+
+ 8,7
+
+ 10 992
+
+ 37,3
+
+A törvény értelmében a cégbejegyzési, változásbejegyzési eljárások lefolytatása 2008. július 1-jétől valamennyi cég vonatkozásában kizárólag elektronikus úton történhet. Az elektronikus cégeljárás kötelezővé tételéig megszületik azon törvény, amely megteremti az elektronikus kézbesítés új rendjét, bevezeti az elektronikus tértivevény intézményét. Ily módon 2008. július 1-jét követően a cégbírósági határozatok kézbesítése során a postai kézbesítésre csak kivételes esetben kerül majd sor.
+
+A törvény nagyobb munkaszervezési önállóságot biztosít a bíróságoknak azáltal, hogy a betéti társaság, a közkereseti társaság és - új elemként - az egyéni cég tekintetében a létesítő okirat alapításkori vizsgálatára a bírón kívül bírósági titkár, fogalmazó, bírósági ügyintéző akkor is feljogosítható lesz, ha társasági szerződésként nem a Ctv. szerinti szerződésminta kerül felhasználásra. Ezen munkatársak mind a cég alapításkor, mind változásbejegyzés esetében eljárhatnak.
+
+A törvény - eleget téve a piac régóta hangoztatott igényének - egyértelművé teszi, hogy a cégjegyzék adatok változásakor szinte minden esetben - így különösen a személyi kérésekben - a cég maga jogosult meghatározni a változás időpontját.
+
+A törvény felülvizsgálta a cégeljárásban csatolandó mellékleteket és azokra irányadó szabályokat pontosította, illetőleg jelentősen egyszerűsítette.
+
+A törvény biztosítja, hogy a cégjegyzék rovatainak elnevezése angol, német, francia és orosz nyelven is megjeleníthető legyen, illetve megteremti annak lehetőségét, hogyha a cég cégadatait a cégbíróság ezen nyelvek valamelyikén is nyilvántartja, abban az esetben ezen idegen nyelven is kiadásra kerülhessenek a cégadatokat tartalmazó közokiratok (cégkivonat, cégmásolat, cégbizonyítvány). Ilyen módon olcsóbbá, egyszerűbbé válik majd a hazai cégek külföldi pályázatokban, közbeszerzési eljárásokban való részvétele.
+
+4. A piacra lépés feltételeinek kedvezőbbé tétele feltételezi, hogy a Magyarországon történő társaságalapítás során jelentősséggel bíró, a törvényben előírt jegyzett tőke minimumának összege ne támasszon érzékelhetően magasabb követelményt, mint az Európai Unióhoz a közelmúltban csatlakozó más államok társasági joga. A Gt.-nek a kft.-re irányadó 3 millió Ft jegyzett tőke minimumot előíró szabálya ma - Lengyelországot kivéve - magasabb, mint amit a többi közép-európai ország vagy a balti államok társasági joga előír. (Észtországban, Lettországban és Litvániában a kft-típusú, zártkörűen, a tag korlátolt felelőssége mellett működő társaság jegyzett tőke minimuma 500 ezer és 1 millió Ft közötti összegben került megállapításra. Szlovákiában és Csehországban mintegy másfél-két millió Ft-nak megfelelő törzstőke követelménnyel kell számolni.) Célszerűnek tűnik ezért, hogy a Gt. se tartalmazzon az említett értékektől jelentősen eltérő tőkekövetelményt. A törvény - annak érdekében, hogy a hazai társasági jog más, az Európai Unióhoz a közelmúltban csatlakozott tagállamok jogi szabályozásával versenyképes maradhasson - a korlátolt felelősségű társaság általános tőkeminimumát 500 ezer forintban állapítja meg. A zártkörűen működő részvénytársaságnál - miközben az nyrt. alaptőke minimuma 20 millió forint marad - a jegyzett tőke nem lehet kevesebb 5 millió forintnál.
+
+A jövőben könnyebbé válik az egyszemélyes gazdasági társaság alapítása is. A Gt. hatályos 167. §-ának (3) bekezdése alapján korlátolt felelősségű társaság esetében az egyszemélyes társaság alapításánál a pénzbeli vagyoni hozzájárulást teljes egészében rendelkezésre kell bocsátani (jelenleg tehát 3 millió forintot). A zrt. esetében a Gt. 284. § (1) bekezdése szintén a pénzbeli vagyoni hozzájárulás egészének szolgáltatását írja elő. A törvény ezt oly módon módosítja, hogy egyszemélyes korlátolt felelősségű társaságnál az egyedüli tag azon összeg teljesítésére köteles, amely a Gt. hatályos szabályai szerint az egy tag által szolgáltatandó pénzbeli hozzájárulás minimuma, vagyis 100 ezer forint. Az egyszemélyes zártkörűen működő részvénytársaság alapítása során a névérték, illetőleg kibocsátási érték - az általános szabálynak megfelelően - minimum 25%-át kell az alapító részvényesnek szolgáltatnia.
+
+A törvény rendelkezései főszabályként 2007. szeptember 1. napjától lépnek hatályba. Kivételt képez az értékesítési célú cégalapítás lehetősége, és az ezzel összefüggő szabályok, amelyek 2008. január 1. napján lépnek hatályba. Az elektronikus cégeljárás kötelező bevezetésével összefüggő módosítások 2008. július 1. napján lépnek hatályba, ugyanúgy, mint a cégbejegyzés egy munkaórában megállapított ügyintézési idejére irányadó előírás.
+
+A módosítások alkalmasak a hazai gazdasági jog - elsősorban annak cégalapítással összefüggő - „nehézkességének”, indokolatlan bürokratikus terheinek érdemi csökkentésére. A törvény átveszi a más EU tagállamok által már alkalmazott hasznos jogi megoldásokat és ahol indokolt, továbbfejleszti azokat.
+
+A fontosabb elképzelések a következők szerint összegezhetők:
+
+A cégek tulajdonosainak döntési szabadságát érvényre juttató rendelkezések:
+
+A cég képviselője aláírás-mintáját a cég választásától függően vagy továbbra is közjegyző előtt hitelesíti, vagy az új szabályok szerint azt az ügyvéd is jogosult azt ellenjegyezni.
+
+A székhely fogalmának új meghatározása erősíti az alapítók szerződési szabadságát, a szabályozást közelíti a nemzetközi mintákhoz.
+
+A székhely fogalmának felülvizsgálata lehetővé teszi, hogy a cég a jogi szolgáltatást nyújtó ügyvéddel történő megállapodás alapján az ügyvéd, az ügyvédi iroda székhelyét tűntesse fel a létesítő okiratában és a cégjegyzékben székhelyeként (székhely-szolgáltatás).
+
+A telephely társasági jogi meghatározásakor a jövőben a cég tulajdonosai nagyobb döntési szabadsággal rendelkeznek. A cég telephelye a tevékenység gyakorlásának a cég létesítő okiratában foglalt olyan tartós, önállósult üzleti (üzemi stb.) letelepedéssel járó helye, amely a cég székhelyétől eltérő helyen található.
+
+A Gt. szabályai alapján alapított társaság, miközben székhelyét továbbra is megőrzi Magyarországon, jogosult lesz arra, hogy üzleti tevékenysége gyakorlásának elsődleges helyéül valamely más Európai Uniós tagállamot választhasson.
+
+A jövőben a cég nevének meghatározásakor nem lesz kötelező annak feltüntetése, hogy a cég tevékenysége alapvetően mire irányul.
+
+A szerződésminták felülvizsgálatra kerültek. Az új szerződésmintákkal egyrészt a lehető legszélesebb mértékben biztosítható a tulajdonosok döntési szabadsága, másrészt további cégforma, a zártkörűen működő részvénytársaság részére is elérhetővé, alkalmazhatóvá válik.
+
+A kft. alapításához szükséges pénzbeli hozzájárulás alapításkori szolgáltatásának szabályai egyszerűsödnek. Lehetőség lesz arra, hogy az alapításhoz megkívánt pénzbeli hozzájárulást a tagok a társaságnak fizessék be, amelynek megtörténtéről az eljáró jogi képviselő előtt az ügyvezető nyilatkozik, és a bankszámla megnyitására csak a cégbejegyzést követően, 8 napon belül kerül sor.
+
+A kft. és a zrt. jegyzett tőke minimuma jelentősen csökken. A kft. általános tőkeminimumát 500 ezer forintra, a zártkörűen működő részvénytársaságnál a jegyzett tőke 5 millió forintra csökken. A nyilvánosan működő részvénytársaság alaptőke minimuma 20 millió forint marad.
+
+A cégjegyzék a jövőben tartalmazza azt a tényt, hogy a cég jogosult a jegyzett tőkéjét devizában feltüntetni. Ezen cégjegyzék adat változásának az időpontját is a cég maga határozhatja meg.
+
+Kötelezettségből választható lehetőséggé válik a cégjegyzékben szereplő külföldi személyek számára a kézbesítési megbízott kijelölése, bevezetésre kerül az elektronikus hirdetményi kézbesítés.
+
+A cégjegyzék a jövőben tartalmazhatja a cég képviseletére jogosult elektronikus aláírásának tanúsítványát. Amennyiben az elektronikus tanúsítvány a cégjegyzékbe bejegyzésre kerül, ahhoz további eljárási kedvezmények kapcsolódnak (pl: ingyenes céginformáció).
+
+A társaság a jövőben választhat, hogy a Gt.-ben előírt, közlemény közzétételére vonatkozó kötelezettségének (pl: átalakulás, tőkeleszállítás, stb.) továbbra is a Cégközlönyben, vagy saját honlapján tesz eleget.
+
+A kft., zrt. esetében a számviteli törvény szerinti beszámolóról a legfőbb szerv határozhat ülésen kívül is.
+
+A jövőben, ha a cég a cégjegyzék adatainak angol, francia, német vagy orosz nyelven történő nyilvántartásba vételét kérte, ezeken a nyelveken is kérhet a cégadatiról közokiratot (cégkivonat, cégmásolat, cégbizonyítvány).
+
+A cégeljárás egyszerűsítését szolgáló módosítások:
+
+2008. július 1. napjától kizárólagossá válik az elektronikus cégeljárás, amely önmagában is gyorsítja a cégalapításokat (változásbejegyzéseket), illetve a cég működése szempontjából további előnyökkel is jár (elektronikusan hitelesített iratok későbbi felhasználhatósága).
+
+A székhely megfelelőségét, használatának jogszerűségét a jövőben nem a cégbíróság, hanem a jogi szolgáltatást nyújtó ügyvéd, közjegyző végzi a rá vonatkozó törvényi előírások szerint.
+
+A jövőben értékesítési célra létrehozott (ún. ready-made) kft. és zrt. megvásárlásával is mód nyílik „cégalapításra”. Ebben az esetben a tulajdonos-változás bejegyzésére 1 óra (munkaóra) alatt kerül sor.
+
+Az egyszerűsített cégeljárás bírósági ügyintézési határideje 2 munkanapról 2008. július 1. napjával 1 órára (munkaóra) csökken.
+
+Egyszerűsített cégeljárásban a cégbírósághoz csatolandó iratok száma a minimálisra csökken.
+
+Az egyszerűsített cégeljárás szabályai - részlegesen - a változásbejegyzési eljárásban is alkalmazhatóvá válnak, így 2008. július 1-jétől a változásbejegyzés is 1 munkaóra alatt megtörténhet.
+
+Egyszerűsített cégeljárásban az eljárási illeték jelentősen csökken: cégformájára tekintet nélkül 15 ezer forint illetéket kell fizetni a jelenlegi 100 ezer forint (kft., zrt.) és 50 ezer forint (kkt., bt.) helyett. Az egyszerűsítés eljárással történő cégalapítás költségtérítés-mentes lesz.
+
+Külföldi tag cégkivonatának csatolására (hiteles fordításban) csak abban az esetben van szükség, amennyiben ilyen kötelezettséget külön jogszabály előír.
+
+A cégeljárásban hiteles fordítás készítésére feljogosítottak körét a Ctv. pontosan meghatározza, bővíti.
+
+Kft. tagváltozása esetében az üzletrész adásvételi szerződés becsatolására nem lesz szükség.
+
+A tevékenységi engedélyek nyilvánosságát a jövőben nem a cégjegyzék, cégirat biztosítja. A cég választása szerint tevékenységi engedélyét vagy a Cégközlönyben, vagy saját honlapján hozza nyilvánosságra.
+
+A bírósági titkár, fogalmazó, bírósági ügyintéző a jövőben jelentősen szélesebb körben járhat el önállóan.
+
+Az elektronikus kézbesítés szabályai megfelelő garanciák mellett külön törvényben kialakításra kerülnek.
+
+Az elektronikus kiadmányozás gyakorlata bevezetésre kerül, amely gyorsítja, egyszerűsíti a bírósági ügyintézést.
+
+Az előzetes névfoglalás bírósági ügyintézési határideje 3 munkanapról 1 munkanapra csökken.
+
+A jogalkalmazók igényeinek megfelelően és a cégbírósági munkateher kiegyensúlyozása érdekében az új Gt. szabályaihoz történő igazodás megoldásai felülvizsgálatra kerültek: a határidőt meghosszabbítja, így több idő áll a társaságok rendelkezésére, hogy az új Gt. szabályai alkalmazására felkészüljenek.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A Ctv. hatályos 3. § (1) bekezdése rendelkezései alapján minden cégnévnek legalább a cégforma megnevezését tartalmaznia kell és azt, hogy a cég tevékenysége mire irányul.
+
+A cég tevékenységi körére történő utalás cégnévben való megjelenítésének kógens módon való előírása azonban több esetben a cég működésében nehézséget, adminisztratív terhet jelent. Így különösen, amennyiben a cég elsődleges tevékenységét megváltoztatja, cégnevének módosításáról is határoznia kell. Ebben az esetben azonban esetlegesen az új név (figyelemmel a tevékenységre utalás megváltoztatására) már nem felel meg a névkizárólagosság elvének, és a cég arra kényszerül, hogy a jóhírű nevét új, nem ismert névvel váltsa fel. A névváltozással együtt járó járulékos költségek sem elhanyagolhatóak (levélpapír, pecsétek stb.).
+
+Az európai jogi szabályozásban egyetlen pozitív feltétel jelenik meg a cégnévvel összefüggésben, az, hogy a cégnév tartalmazza a cégforma egyértelmű megjelenítését. Egyéb feltételek csak negatív módon kerülnek meghatározásra, így például érvényesül a névbitorlás, a megtévesztés tilalma, stb. Az európai gyakorlathoz igazodva szükségtelen egyéb feltételek előírása a magyar cégjogban. A törvény 1. §-a rendelkezései alapján a jövőben a cégeknek nagyobb döntési szabadságuk lesz a cégnév megválasztása során. A törvény értelmében a cégnévben a cégforma megjelölésén túl a vezérszónak kell szerepelnie, vagyis nem lesz kötelező eleme a cégnévnek a tevékenységre utalás.
+
+A 2. §-hoz
+
+A Ctv. hatályos 6. §-a alapján mód nyílik arra, hogy a cég (leendő cég) jogi képviselője legfeljebb 60 napos időszakra előzetes cégnév-foglalással éljen, azzal, hogy ha a 60 napos időszakon belül a cégbejegyzési (névváltoztatási) kérelem benyújtására nem kerül sor, úgy a névfoglalás megszűnik. A névfoglalás egyszer nyolc nappal meghosszabbodik, ha elutasítást követően a bejegyzési kérelmet 8 napon belül ismét beadták.
+
+Ezzel a megoldással a létesítő okirat aláírásakor vagy az alakuló közgyűlés megtartásakor a tagok (részvényesek), valamint a jogi képviselő egyaránt biztosak lehetnek abban, hogy az alapításról való döntés és a bejegyzési kérelem előterjesztése közötti időszakban nem történhet olyan jogilag releváns esemény, amely utóbb a cégnév megváltoztatását teheti szükségessé, illetve a lefoglalt cégnévvel a cég a nyilvántartásba bejegyezhető.
+
+A törvény a rendelkezéseket az elektronikus eljárás bevezetése okán módosítja. A kérelmeket elektronikus úton kell benyújtani, és a cégbíróság vizsgálatának határideje 2007. szeptember 1-jétől három munkanapról egy munkanapra csökken.
+
+A 3. §-hoz
+
+A törvény - nemzetközi példákra is figyelemmel - nagyobb döntési mozgásteret biztosít a cég tulajdonosai számára a „székhely” fogalmának meghatározásakor. A jelenleg hatályos Ctv. 7. §-ának (1) bekezdése szerint a cég székhelye a központi ügyintézés helye. E fogalomból a gyakorlatban az az elvárás következik, hogy a székhelyen a cég aktívan jelen legyen. Ez azonban nem szükségszerű. A törvény ezért nem tekinti egyazon helynek, egymás meghatározásának a székhelyet és a központi ügyintézés helyét. A kontinentális és az angolszász jogrendszerekben ugyanis nem követelmény, hogy a társaság székhelye egyben az üzleti tevékenysége gyakorlásának helye is legyen. Utalni szükséges továbbá arra a tényre is, hogy a hatályos szabályozás mellett is a cégek jelentős részénél a székhely nem jelent többet bejegyzett irodánál, kézbesítési címnél; a cég működésével kapcsolatos ügyintézés és/vagy üzleti tevékenység attól eltérő helyen folyik.
+
+A törvény értelmében a székhely - hasonlóan az angolszász megoldáshoz - a cég bejegyzett irodája (registered office). A székhely a cég levelezési címe, ahol a cég gondoskodik a küldemények átvételéről, ahol a cég iratainak őrzése, rendelkezésre tartása történik, valamint ahol a cég teljesíti a külön jogszabályokban meghatározott, a székhellyel összefüggő kötelezettségeit. Ezen utóbbi körbe tartoznak a hatóságok kényszerintézkedéseinek tűrése is.
+
+A cégnek székhelyét továbbra is cégtáblával kell megjelölnie. A rendelkezések alapján továbbra sincs akadálya annak, hogy a cég létesítő okirata úgy rendelkezzen, hogy a cég székhelye a központi ügyintézés, döntéshozatal helye egyben. Előírhatja továbbá a társasági szerződés azt is, hogy a vállalkozás üzleti tevékenységét elsődlegesen a székhelyén gyakorolja.
+
+A törvény a társaság telephelyének meghatározásakor is nagyobb beleszólási-döntési jogot biztosít a cég tulajdonosainak. A hatályos szabályozás értelmében lényegében minden olyan hely, ahol egy társaság a székhelyén kívül üzleti tevékenységet folytat, telephelynek minősül. Ez adott esetben indokolatlan bürokratikus megterhelést okoz (regisztrációs kötelezettség), növeli a cég működtetésének költségeit. A törvény értelmében a telephely a tevékenység gyakorlásának a cég társasági szerződésben foglalt olyan tartós, önállósult üzleti (üzemi) letelepedéssel járó helye, amely a cég székhelyétől eltérő helyen található. (Hitelezővédelmi szempontból nyilvánvalóan szükségtelen ugyanis, hogy kiterjedt bolthálózattal, kirendeltséggel rendelkező cégek a cégjegyzékben kötelezően 10-20-50-100 telephelyet, fióktelepet jegyeztessenek be, majd gondoskodjanak az ezzel összefüggő gyakori változások bejelentéséről.)
+
+A törvény ugyanakkor nem érinti a telephely (fióktelep) adójogi meghatározását, amelyre a jövőben éppúgy, mint jelenleg is az adózás rendjéről szóló 2003. évi XCII. törvény szabályai az irányadóak.
+
+A 4. §-hoz
+
+A törvény a „székhely” fogalmának módosítására is figyelemmel, megteremti annak a lehetőségét, hogy a Magyarországon letelepedő társaság székhelyéről (bejegyzett irodájáról) ne közvetlenül maga gondoskodjon, hanem - mint ahogy az az Európai Unió számos tagállamában évtizedek óta ismert - ügyvéd, vagy ügyvédi iroda szolgáltatását vegye igénybe. A Ctv. új 7/A. §-ának beillesztésével lehetővé teszi, hogy a társaság székhelye a székhely-szolgáltatást nyújtó jogi iroda székhelye legyen, amely a társaság megbízásából gondoskodna a cég üzleti és hivatalos iratainak fogadásáról, megőrzéséről, rendelkezésre tartásáról, a cég és harmadik személyek közötti kapcsolattartás szakszerű biztosításáról.
+
+A székhely szolgáltatás igénybevételének lehetősége lényegesen egyszerűbbé teszi a cégek piacra lépését és működését, mert mentesíti a társaságot a belföldi ingatlan tulajdonának, használati jogának megszerzése (igazolásának kötelezettsége) alól. Garanciát jelent továbbá a cég elérhetőségének biztosítása szempontjából, a jogász szakember - ügyvédi iroda - által nyújtott szolgáltatás csökkenti a cég ún. fantomizálódásának kockázatát.
+
+A Ctv. új 7/B. §-a megteremti annak a lehetőségét, hogy egy, a magyar jog (a Gt.) szabályai alapján alapított társaság, miközben székhelyét továbbra is megőrzi Magyarországon, jogosult legyen arra, hogy üzleti tevékenysége gyakorlásának elsődleges helyéül valamely más EU tagállamot választhasson, ezáltal is növelve a vállalkozások döntési szabadságát, erősítve Magyarország helyét a társaságokért folyó ún. szabályozási versenyben.
+
+A Ctv. hatályos rendelkezései csak arra adnak lehetőséget, hogy a Magyarországon bejegyzett, a magyar jog (a gazdasági társaságokról szóló 2006. évi IV. törvény) szerint alapított társaság külföldön önálló jogalany fióktelepet regisztráltasson vagy leányvállalatot alapítson. Nincs mód arra, hogy a cég alapítói úgy határozzanak, hogy a társaságot a magyar jog alapján létrehozzák és belföldön bejegyeztessék, de a társaság az üzleti tevékenységét elsődlegesen, pl. határon átnyúló szolgáltatásként valamely más EU tagállamban folytassa.
+
+A törvény rendelkezései értelmében tehát elválhat egymástól a székhely (registered office) illetve a tényleges működési hely (head office). Az új meghatározásokkal a törvény megteremti annak lehetőségét, hogy a hazai jog szerint létrejött, és a hazai cégjegyzékbe bejegyzett cég fő üzleti tevékenységét - anélkül, hogy az adott uniós tagállamban a tagállami jog szerinti hatósági, bírósági alapítási eljárást kellene lefolytatnia - az Unió valamely más tagállamában folytassa. A rendelkezés természetesen nem érinti a közösségi jogi, székhelyáthelyezési elvet, és nem „írja felül” a székhelyáthelyezés szabályozására vonatkozó közösségi jogalkotói szándékot.
+
+Az 5. §-hoz
+
+A törvény módosítja az aláírási címpéldányra vonatkozó rendelkezéseket. A jelenleg hatályos jogszabályi előírások szerint a cég képviseletére jogosultaknak közjegyző által hitelesített aláírási címpéldánnyal kell igazolniuk cégszerű aláírásukat. Az aláírási címpéldányt minden esetben a cégiratok közé kell csatolni.
+
+A cégalapítás egyszerűsítésével összefüggésben a törvény megteremti annak lehetőségét, hogy az aláírási címpéldány, aláírás-minta a társasági szerződés aláírásakor a társasági szerződéshez hasonló módon elkészíthető legyen. A törvény egyenértékűnek tekinti a közjegyzői aláírás-hitelesítéssel ellátott címpéldányt, és az ügyvéd által ellenjegyzett aláírás-mintát. A törvény változatlan tartalommal hagyja meg a címpéldány tartalmi meghatározását. Az ügyvéd aláírás-minta ellenjegyzésére kizárólag cégbejegyzési, illetve a cégjegyzésre jogosult személyének változására irányuló változásbejegyzési eljárásban jogosult, és az aláírás-minta elkészítésének feltétele az, hogy az a cégeljárásban becsatolásra kerüljön. Ebből következően az ügyvéd nem jogosult cégeljáráson kívül aláírás-minta ellenjegyzésére, illetve az aláírás-mintával összefüggésben hiteles kiadmányok kiadására, az elveszett minták időközbeni pótlására.
+
+Az informatikai lehetőségek elterjedésére figyelemmel indokolt, hogy a törvény lehetőséget biztosítson arra, hogy a cég kérelmére a cégjegyzék tartalmazza a cégjegyzésre jogosult elektronikus címpéldányát, ezáltal az elektronikus úton történő aláírás tanúsítványának adatai is bekerülnek a cégjegyzékbe.
+
+A 6. §-hoz
+
+A Ctv. hatályos 20. §-a (4) bekezdés c) pontja szerint a Cégközlönyben közleményként kell közzétenni „azokat a közleményeket, amelynek közzétételére törvény közvetlenül a céget kötelezi”. A Gt. ilyen kötelezettséget állapít meg pl. a társaság átalakulásával, egyesülésével, szétválásával, a jegyzett tőke leszállításával összefüggésben.
+
+A Ctv. új 21/A. §-ának beillesztésével megteremti annak a lehetőségét, hogy a társaság választhasson aközött, hogy a közlemény, hirdetmény publikálására a Cégközlönyt veszi-e továbbra is igénybe, vagy pedig saját honlapján való közzététellel tesz eleget jogszabályi kötelezettségének.
+
+Az új szabályozással a jogalkotó olyan úton indult el, amely lehetővé teszi a cégek számára az informatikai társadalom által nyújtott előnyök minél hatékonyabb kiaknázását. A törvény szerinti alternatíva azon társaságok számára előnyös, amelyek már amúgy is rendelkeznek honlappal és kézenfekvő számukra annak használata.
+
+Amennyiben a cég a honlapon történő közzétételt választja, úgy a cégjegyzékben fel kell tüntetni a honlap elérhetőségét lehetővé tevő adatokat, valamint az arra vonatkozó tájékoztatást, hogy a társaság a közzétételnek ezt a módját részesíti előnyben. Abban az esetben, ha a társaság ismert hitelezői elektronikus postacímüket a cég rendelkezésére bocsátják, úgy a hirdetmény honlapon történő megjelenítése mellett ezen ismert hitelezők - a cég által való - közvetlen elektronikus úton történő értesítése kötelező.
+
+A cég köteles honlapját folyamatosan működtetni, továbbá a közleményt úgy szerepeltetni honlapján, hogy a közzététel időpontja megállapítható legyen. A cég honlapján történő közzététel részletes szabályait külön rendelet állapítja meg.
+
+A Gt. 6. §-ának (2) bekezdése szerint „Ha valamely gazdasági tevékenység gyakorlását jogszabály - ide nem értve az önkormányzati rendeletet - hatósági engedélyhez (a tevékenységi kör gyakorlásához szükséges engedélyhez) - köti, a gazdasági társaság e tevékenységét csak az engedély birtokában kezdheti meg, illetve végezheti.” A Gt. idézett rendelkezése alapján egyértelmű, hogy a tevékenységi engedélyhez kötött vállalkozás megkezdéséhez az engedélyre magára van szükség, nem pedig arra, hogy a hatósági engedélyre vonatkozó adatok a cégjegyzékbe bejegyzésre kerüljenek. A Ctv. hatályos 24. §-a (1) bekezdés e) pontja, valamint mellékletei ezzel szemben a társaság alapítása során kötelezően írják elő, hogy a tevékenységi engedélyt a cégbírósághoz az alapítók becsatolják.
+
+A törvény a szabályozási ellentmondás feloldására úgy tesz kísérletet, hogy az egyben erősítse a vállalkozás döntési autonómiáját, azáltal, hogy a cég a számára kedvezőbb megoldást választhassa. Figyelemmel arra, hogy a tevékenységi engedély cégjegyzékbe való bejegyzésének - helyesen - már ezidáig is csupán deklaratív hatálya volt, a Ctv. új 21/B. §-a beiktatásával az engedély cégjegyzékbe történő bejegyzésének kötelezettségét eltörli.
+
+A törvény rendelkezései alapján a társaság a tevékenységi engedélyt honlapján, vagy a Cégközlönyben köteles közzétenni, a gazdasági forgalom többi szereplőjét ily módon tájékoztatva. A rendelkezések az ún. alapítási engedélyekre nem vonatkoznak, azokat változatlanul be kell csatolni a cégbejegyzési eljárás során, amennyiben a végezni kívánt tevékenységre vonatkozó törvény az alapítást engedélyhez köti.
+
+Fontos érdek fűződik ahhoz, hogy ha a cég él azzal a lehetőséggel, hogy honlapján tegye közzé közleményeit, a honlap folyamatos működtetéséről is gondoskodjon. Amennyiben ezen kötelezettségét elmulasztja, hathatós intézkedésekkel kell fellépni ez ellen. Másrészt előfordulhat az az eset is, amikor a cég - jogszerűen - megszűnteti a honlapját. Ebben az esetben rendelkezni kell arról, hogy a korábbi közlemények a cég iratai között fellelhetőek legyenek.
+
+A 7. §-hoz
+
+A Ctv. hatályos 42. §-a tartalmazza az Európai Unió hivatalos nyelvein történő cégjegyzékadatok nyilvántartásának feltételeit. A törvény a hatályos rendelkezéseken két ponton módosít. Egyrészt kimondja, hogy a cégjegyzék rovatainak elnevezése a jövőben angol, német, francia és orosz nyelven is megjeleníthető. Ez azt fogja jelenteni, hogy az elektronikus cégjegyzékben az ügyfél elektronikus hozzáférése alapján kiválaszthatja, hogy a kért céginformáció esetében az egyes rovatokat milyen nyelven kívánja megjelenítetni.
+
+A törvény másrészt - figyelemmel annak 25. §-ában foglaltakra - pontosítja azokat a feltételeket, amelyek a cégiratoknak az Európai Unió valamely hivatalos nyelvén történő nyilvántartásához szükségesek. A törvény kimondja, hogy a cégiratoknak az Európai Unió valamely hivatalos nyelvén történő nyilvántartásához a cégnek a bejegyzési kérelemhez csatolnia kell a cégjegyzékben szereplő adatoknak és a cégiratoknak a hiteles fordítását.
+
+A törvény rendelkezései szerint, amennyiben egyszerűsített cégeljárásra kerül sor, vagyis a cég a törvény mellékletét képező szerződésmintát használ, ezen irat fordításának csatolására a cégjegyzékben történő nyilvántartáshoz nincs szükség.
+
+A törvény mellékletét képező szerződésminta egyértelműen rögzíti, hogy „a társasági szerződés szövege csak ott, és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezek kitöltésére az adott társaság esetében nem volt szükség.” Ebből következően a cégjegyzékadatokat leszámítva - amelyek minden cégnél különbözőek - a szerződésminta szövege minden cég esetében azonos. (Amennyiben a cég módosít a törvény mellékletében meghatározott szövegen - akár hozzátesz valamely rendelkezést, akár abból töröl -, a szerződés kizárólag egyedi szerződésnek minősíthető, így nem alkalmazhatóak rá a szerződésmintára irányadó szabályok.)
+
+A szerződésminták hiteles fordításai elérhetővé válnak a GKM, az IRM honlapján, valamint a kormányzati portálon, így szükségtelen, hogy a szerződésmintát alkalmazó cégek e fordítást ismételten elvégeztessék.
+
+A törvény rendelkezik arról is, hogy amennyiben a cég a cégjegyzék adatait francia, német, angol és orosz nyelven is nyilvántartja, a Ctv. 12. §-ában meghatározott közokiratok (cégkivonat, cégmásolat, cégbizonyítvány) ezeken a nyelveken is kérhetőek.
+
+A 8. §-hoz
+
+Az informatikai lehetőségek elterjedésére, továbbá a törvény 5. §-a (4) bekezdésében, 6. §-ában és 23. §-ában foglaltakra figyelemmel a cégjegyzék a törvény 8. §-a (1)-(2) bekezdése szerint a jövőben - szükség szerint - új elemekként tartalmazza a következőket:
+
+- a cég székhelyét vagy a központi ügyintézés helyét,
+
+- azt a tényt, hogy a cég a közvetlen közleményeit a honlapján teszi közzé,
+
+- a cég képviseletére jogosult elektronikus címpéldányának tanúsítványát,
+
+- amennyiben a cég jegyzett tőkéjét devizában határozza meg, ezt a tényt, illetőleg a devizanemet.
+
+- a cég üzleti évének mérlegfordulónapját, amennyiben az üzleti év eltér a naptári évtől.
+
+- azt a tényt, ha valamely cég a számviteli törvény szerint konszolidált éves beszámolót készítő anyavállalat, vagy a konszolidált beszámolóba bevont leányvállalat.
+
+A törvény - a Ctv. 25. §-ának (3) bekezdéssel történő kiegészítésével - rögzíti, hogy elismert vállalatcsoport esetében az uralkodó tag bejelentése alapján a szükséges cégjegyzék adatokat a cégbíróság hivatalból jegyzi be a többi érintett cég (ellenőrzött társaság) cégjegyzékébe.
+
+Egyre nagyobb igény jelentkezik arra, hogy a cégeket a lassú postai út mellett/helyett elektronikus úton is el lehessen érni. Figyelemmel az elektronikus kommunikáció egyre jelentősebb elterjedésére, az email-cím hosszú távon jelentősebb információnak bizonyul majd, mint a székhely-cím. A Ctv. 25. § e) pontja most is lehetőséget biztosít arra, hogy a cég email elérhetőségét a cégjegyzékben feltüntesse. Szükséges azonban e bejegyzés ösztönzése.
+
+A törvény ezért a szerződésmintával történő alakulás esetében kötelezővé teszi, hogy a cég megjelölje a létesítő okiratában - és a cégjegyzékben - email-címét. A szerződésminták elterjedésével egyidejűleg így egyre jelentősebb számú cég esetében kerülhet a cégjegyzékbe olyan adat, amely a cég elérhetőségének további lehetőségeit biztosítja.
+
+A 9. §-hoz
+
+A törvény 9. §-a értelmében a cégjegyzék a jövőben tartalmazza a korlátolt felelősségű társaság esetében az üzletrészen alapított zálogjog fennállásának tényét, a zálogjogosult nevét, lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát).
+
+A 10. §-hoz
+
+A Ctv. hatályos 30. § (2) bekezdése szerint, ha a cég tagja belföldi cég, fel kell tüntetni annak cégjegyzékszámát is. A törvény bővíti a nem természetes személy tagok azonosíthatóságához szükséges adatok körét.
+
+A belföldi cég esetében a cégjegyzékszámot, társadalmi szervezet vagy alapítvány esetében a nyilvántartási számot, és külföldi cég vagy más szervezet esetében annak nyilvántartási számát, és a nyilvántartó hatóságot is fel kell tüntetni a jövőben a cégjegyzékben.
+
+A 2006. június 30-ig hatályban volt régi Ctv. 30. §-ának (2) bekezdése szerint „a cég székhelyét (telephelyét, fióktelepét), a jegyzett tőke pénznemének megváltoztatását, a cég tagjait (tulajdonosait), a vezető tisztségviselőket, a felügyelő bizottság tagjait, illetve a könyvvizsgáló személyét érintő változás a cégjegyzékbe történő bejegyzéssel, de a változás időpontjára visszamenőlegesen válik hatályossá.” E rendelkezésből következően az itt nem említett cégjegyzék adtok a bejegyzés napjával váltak hatályossá.
+
+A Ctv. ilyen jellegű rendelkezést nem tartalmaz, ellenben azt rögzíti, hogy a cégjegyzék tartalmazza a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját, illetve a cégjegyzékadatok (azok törlése bejegyzésének) Cégközlönyben történő közzétételének napját.
+
+E rendelkezés azonban nem oldja meg a cégjegyzékadatok hatályosságának kérdését. Figyelemmel a Ctv.-ben, illetve a végrehajtási rendeletekben (így különösen a változásbejegyzési nyomtatványokban) foglaltakra, a Ctv. 30. §-ának új (3)-(4) bekezdései értelmében a cég a cégjegyzékadatok jelentős részében meghatározhatja a változás időpontját. A változás időpontja azonban értelemszerűen nem lehet korábbi, mint a változásról szóló határozat meghozatalának napja. Amennyiben a cég nem jelöli meg a változás napját, az a határozat meghozatalának napja.
+
+A törvénynek a Ctv. 30. §-ának új (5) bekezdését megállapító rendelkezése fontos lépés a cégalapítás adminisztratív terheinek csökkentése terén. A korlátolt felelősségű társaság esetében lehetőség nyílik arra, hogy a cég eldöntse, hogy pénzforgalmi számláját már a bejegyzés előtt, vagy csak azt követően nyitja meg. A társaság alapításához szükséges pénzbeli betét befizetése történhet a társaság vezető tisztségviselője által megnyitott bankszámlára, vagy a társaság pénztárába történő befizetéssel. Amennyiben a társaság javára közvetlenül kerül befizetésre a pénzbeli hozzájárulás, ezt az ügyvezető - ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt - nyilatkozattal igazolja. Amennyiben a társaságot bejegyzik, a vezető tisztségviselő köteles a bejegyzéstől számított 8 napon belül a pénzforgalmi számlát megnyitni, és a korábban rendelkezésre bocsátott pénzbeli hozzájárulást a számlára „áttenni”.
+
+Amennyiben a korlátolt felelősségű társaság (tagjai) úgy dönt, hogy nem nyitja meg a cégbejegyzés előtt a bankszámláját, a cégalapítással összefüggő teendők egy helyen, egy alkalommal, az eljáró közjegyzőnél vagy ügyvédnél elintézhetőek, figyelemmel a törvény 5. §-ára is.
+
+A 11. §-hoz
+
+A Ctv. hatályos 31. §-ának (2) bekezdése kimondja, hogy ha a társaság tagjai között olyan külföldi jogi személy, jogi személyiség nélküli társaság vagy külföldi természetes személy található, aki Magyarországon nem rendelkezik belföldi lakóhellyel, akkor a cég külföldi tagjaival, képviselőivel való zavartalan kapcsolattartás, a hivatalos iratok kézbesítésének megkönnyítése érdekében kézbesítési megbízottal kell rendelkeznie a neki szóló küldemények átvételére. A kézbesítési megbízott adatait a cégjegyzékben fel kell tüntetni. A hatályos rendelkezés célja a cégbíróság helyzetének megkönnyítése a külföldi taggal, vezető tisztségviselővel való érintkezésben, ezáltal az adott cégeljárás lefolytatásának felgyorsítása.
+
+Ez a rendelkezés - mint kivételt nem ismerő szabály - indokolatlan és aránytalan megterhelést jelent a magyarországi befektetőknek. Nem mentesül ugyanis a kézbesítési megbízott kijelölésének kötelezettsége - és annak költségei - alól a tag akkor sem, ha a kézbesítési nehézségek elhárításáról a felek a társasági szerződésben másként rendelkeznek, más olcsóbb és/vagy hatékonyabb megoldást választottak. A gyakorlati tapasztalatok azt mutatják, hogy a kézbesítési megbízott intézménye akkor képes betölteni rendeltetését, ha azt a társaság tagjai maguk is célszerűnek találják. Ezért a törvény a kézbesítési megbízott szabályait diszpozitívvá teszi és megszűnteti a kézbesítési megbízott személyére vonatkozó összeférhetetlenségi szabályokat, ezáltal bürokratikus akadály megszüntetésével egyszerűsíti a cégek piacra lépését.
+
+Figyelemmel arra, hogy a hivatalos belföldi iratok kézbesíthetőségét biztosítani szükséges, a törvény kimondja, hogy amennyiben a cég nem jelölt ki kézbesítési megbízottat, úgy a bíróság a külföldi személy részére kézbesítendő iratokat a Cégközlönyben történő közzététellel kézbesíti azzal, hogy a közzétételt követő tizenötödik napon az irat kézbesítettnek tekintendő, tehát ez esetben a kézbesítés törvényi vélelem segítségével történik meg.
+
+A 12-13. §-hoz
+
+A rendelkezések pontosítást tartalmaznak, figyelemmel az elektronikus cégeljárás kötelezővé válására tekintettel.
+
+A 14. §-hoz
+
+A törvény pontosítja a tanúsítvány elektronikus úton történő kiadásának feltételeit. A Ctv. 44. §-ának (2) bekezdése értelmében a cégbejegyzési kérelem benyújtását követően a kérelem benyújtója a cég nevét, székhelyét, cégjegyzékszámát, adószámát, valamint statisztikai számjelét tartalmazó iratot, tanúsítványt kap.
+
+E törvényi feltétel az elektronikus cégeljárásban akkor tud érvényesülni, ha a tanúsítvány kiállítására bármely időpontban - így hivatali időn túl - is lehetőség van. A Ctv. 38. §-a (2) bekezdésének utolsó mondata ezt a feltételt a kérelem benyújtásáról szóló igazolás esetében megteremti, azonban a tanúsítvány esetében nem, így a tanúsítványt a jelenleg hatályos szabályok szerint minősített elektronikus aláírással kell ellátni.
+
+Ez azonban azzal a következménnyel jár, hogy míg változásbejegyzési kérelem esetében az igazolás rövid időn belül megérkezik, a cégbejegyzési kérelem esetében a tanúsítvány kiadására kizárólag hivatali időben kerülhet sor, figyelemmel arra, hogy a jelenleg hatályos rendelkezések értelmében azt minősített elektronikus aláírással kell ellátni. A törvény ezért a tanúsítvány tekintetében is azonos alaki feltételeket támaszt, mint az igazolás esetében. A Ctv. 38. §-ának új (3) bekezdése rögzíti, hogy a tanúsítványt legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel kell ellátni. Amennyiben a cégnek a tanúsítványra közokirati formában lenne szüksége, azt kérelemre a cégbíróság ingyenesen kiadja.
+
+A 15. §-hoz
+
+A törvény újragondolja az elektronikus kézbesítés szabályait, és megteremti az elektronikus kiadmányozás törvényi feltételét. Erre tekintettel módosítja a Ctv. 39. §-át, illetve a törvény 17. §-ával új rendelkezéseket határoz meg.
+
+Változatlan szabály, hogy a cégbíróság a jogi képviselővel elektronikus úton közli a cégbejegyzési (változásbejegyzési) eljárásban hozott végzést. A Ctv. 36. § (2) bekezdése szerint az elektronikus cégeljárásban az elektronikus úton küldött okiratokat minősített elektronikus aláírással és időbélyegzővel kell ellátni. A cégbíróság által küldött okirat közokiratnak minősül.
+
+A cégbejegyzési (változásbejegyzési) eljárásban hozott papír alapú végzéseket a bíróság kiadmányozás útján közli a cég jogi képviselőjével. Az 1952. évi III. törvény (a továbbiakban: Pp.) 220-223. §-ai szabályozzák az érdemi határozat (akár papír, akár elektronikusan kért határozat esetén) tartalmát, formai feltételét. Ezen előírás szerint a határozatnak egyetlen formai kelléke van, miszerint azt a bíró aláírja. Az ügyféllel való közlés útja a bírósági ügyvitel szabályairól szóló 14/2002. (VIII. 1.) IM rendelet szerinti kiadmányozás, amely az eredeti iratról készített olyan másolat, amelyet az arra feljogosított személy „a kiadmány hiteléül” záradékkal, aláírásával és a bíróság körbélyegzőjével lát el, vagy elektronikus okirat esetében azon minősített elektronikus aláírást, az elektronikus aláíráson pedig időbélyegzőt helyez el.
+
+Mindezekre figyelemmel az elektronikusan közölt végzések esetében is elegendő, amennyiben a bíró (törvényi lehetőség esetében a kérelmet elbíráló egyéb személy: bírósági titkár, fogalmazó, bírósági ügyintéző) azt fokozott biztonságú elektronikus aláírással látja el. Ezzel a bíró eleget tesz a Pp. határozatokra vonatkozó előírásának. A cégnek (jogi képviselőnek) történő kézbesítés - azonosan a papír alapú határozatok kézbesítésével - kiadmányozás (elektronikus kiadmány) útján történhet. Ebben az esetben a kijelölt szervezeti egység vagy személy végezheti a végzés minősített elektronikus aláírással történő aláírását, valamint időbélyegzővel való ellátását.
+
+A 16. §-hoz
+
+A törvény a cégeljárásokkal összefüggésben rendelkezik az elektronikus kézbesítésről. Figyelemmel arra, hogy az elektronikus kommunikációban érvényesíthető (érvényesítendő) kézbesítési vélelem, és általában a kézbesítés szabályai a cégeljáráson túlmutatnak, szükséges, hogy külön törvény állapítsa meg ezen szabályokat. A Ctv. ezért csak az alapvető szabályokat rögzíti, és a részletes szabályokat külön törvényre utalja.
+
+A törvény a hatályos rendelkezések pontosításával rögzíti, hogy elektronikus cégeljárás esetében (vagyis 2008. július 1. napjától minden esetben) a cégbíróság a végzéséket a cég jogi képviselőjével elektronikus úton közli a kérelemben megjelölt elektronikus kézbesítési címre (email címre). Az esetek jelentős részében a cégbíróság és a jogi képviselő közötti kommunikáció zavartalan, vagyis a kézbesítés a jogi képviselő által elektronikusan aláírt átvételi elismervény cégbíróság számára történő visszaküldésével megvalósul.
+
+Előfordulhat azonban, hogy a felek közötti elektronikus kommunikáció meghiúsul. Ebben az esetben a törvény egyértelművé teszi, hogy a végzést a cégbíróság papír alapon - a postai kézbesítés szabályai szerint - kézbesíti, figyelemmel arra, hogy értelmetlen és szükségtelen lenne a további elektronikus úton, email-címre történő kézbesítés.
+
+Amennyiben az elektronikus kommunikáció nem hiúsul meg, azonban a kézbesítés mégis sikertelen, a papír alapú kézbesítéshez hasonlóan - külön törvényben szabályozott - kézbesítési vélelem útján kell, hogy az elektronikus úton történő kézbesítés megtörténjen.
+
+A 17. §-hoz
+
+E § esetében a 7. §-hoz fűzött indokolás irányadó.
+
+A 18. §-hoz
+
+A rendelkezés az elektronikus cégeljárás kötelezővé válására tekintettel tartalmaz pontosító rendelkezéseket.
+
+A 19. §-hoz
+
+A hatályos rendelkezések szerint bírósági titkár, fogalmazó vagy bírósági ügyintéző abban az esetben járhat el, ha a cég bejegyzése iránti kérelemhez szerződésmintát csatolnak. A törvény a Ctv. 46. §-ának új (2) bekezdése lehetővé teszi, hogy közkereseti társaság, betéti társaság és egyéni cég bejegyzésére irányuló kérelmet bírósági titkár, fogalmazó vagy bírósági ügyintéző is érdemben bírálhasson el, abban az esetben is, ha a létesítő okirat nem szerződésminta alkalmazásával készült. A törvény ezzel tovább bővíti a cégbírósági munkaszervezés rugalmasságát, és lehetővé teszi, hogy a bírósági titkár, fogalmazó és bírósági ügyintéző a régi Ctv.-ben biztosított ügykörökben (a nem jogi személyiségű társaságok esetében), illetve azt meghaladóan - az egyéni cég esetében - is elláthassa a cégbejegyzéssel felmerülő feladatokat,
+
+E § (2) bekezdése kizárólag az elektronikus cégeljárás kötelezővé válására tekintettel tartalmaz pontosító rendelkezést a Ctv. 46. §-ának - új számozás szerinti - (5) bekezdésében.
+
+A 20. §-hoz
+
+A törvény 2007. szeptember 1-jétől az egyszerűsített cégeljárás szabályainak kiterjesztésével szabályozza újra a szerződésminta igénybevételével történő cégalapítást. Ennek feltételrendszere a következő:
+
+A törvény megszünteti a szerződésmintával, azonban nem egyszerűsített cégeljárás keretében történő cégalapítás, változásbejegyzési eljárás lehetőségét, és a szerződésmintával történő alapítás és szerződésmintát alkalmazó társaságok változásbejegyzési eljárását egységesen, az egyszerűsített cégeljárás keretében szabályozza.
+
+A törvény továbbra is lehetővé teszi a közkereseti társaságok, a betéti társaságok és a korlátolt felelősségű társaságok számára, hogy a törvény mellékletét képező társasági szerződésminta alkalmazásával készítsék el társasági szerződésüket. E szerződésmintákkal kapcsolatban azonban két lényeges változás is történik. Egyrészt a hatályos minták nem használják ki a Gt. diszpozitív szabályai által nyújtott lehetőségeket, nem teszik lehetővé a tagok számára, hogy a törvény főszabályától eltérjenek. törvény ezért módosítja a Ctv. mellékletét képező szerződésmintákat és új, a társaságoknak nagyobb mozgásteret biztosító rendelkezéseket tartalmazó dokumentumokkal cseréli fel őket. Az sem hagyható figyelmen kívül, hogy a zártkörűen működő részvénytársaságok (zrt.) számos esetben kisvállalkozásként működnek, jellegükben nagyon hasonlóak, nem bonyolultabbak, mint egy korlátolt felelősségű társaság. Éppen ezért a Ctv. a jövőben tartalmazni fogja az egy és a többszemélyes zártkörűen működő részvénytársaság alapszabály-mintáját is.
+
+A törvény az eljárás további egyszerűsítése érdekében a feltétlenül szükséges minimumra korlátozza a cégbejegyzéshez szükséges, a kérelem mellékletét képező okiratokat. A Ctv. új 3. számú mellékletének I. pontja tételesen felsorolja azt az 5+2 dokumentumot, amelyeket a cégbejegyzési kérelemhez csatolni kell. Öt okirat minden esetben csatolandó (ezek a szerződésminta alkalmazásával készült társasági szerződés, az aláírási címpéldány (aláírás-minta), a jogi képviselő meghatalmazása, az illeték befizetésének az igazolása, az adóhatósághoz benyújtandó nyomtatvány), további két irat csak szükség szerint (a korlátolt felelősségű társaságok tagjegyzéke és az ún. alapítási engedély).
+
+Egyéb, a fentieken túl a cégalapításhoz szükséges iratok jogszerűségi kontrollját a társasági szerződést ellenjegyző ügyvéd, illetve azt közokiratba foglaló közjegyző végzi el. Így például a vezető tisztségviselők elfogadó nyilatkozatát, vagy a nem pénzbeli hozzájárulásként szolgáltatott ingatlan tulajdoni lapját az eljáró jogi képviselő vizsgálja meg. A jogi képviselő az okiratok megvizsgálásáról a bejegyzés iránti kérelemben ad számot. A jogi képviselő az okiratokat megőrzi, és szükség esetén a cégbíróság felhívására azokat bemutatja.
+
+A közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság és a zártkörűen működő részvénytársaság alapításának bejegyzésére - a fenti feltételek mellett - 2008. július 1. napjától a jelenlegi két munkanap helyett 1 munkaóra alatt sor kerül. Az egyszerűsített cégeljárásban a cégbírósági vizsgálat köre igen szűk. A (6) bekezdés tételesen meghatározza azokat az elemeket, amelyek vizsgálata szükséges a bejegyzéshez. E szerint a cégbírósági vizsgálat arra terjed ki, hogy a szükséges iratok becsatolásra kerültek-e (jogi képviselő meghatalmazása, 3. számú melléklet I. pontjában meghatározott iratok), az ügyvéd szabályosan nyilatkozott-e az általa megvizsgált dokumentumokról, a bejegyzési kérelem kitöltése jogszabályszerű-e, illetve, hogy a cég neve megfelelő-e. Fontos rámutatni, hogy az előzőek szerint a szerződésminta megfelelő kitöltése nem tárgya a cégbírósági vizsgálatnak, azért az eljáró jogi képviselő vállal felelősséget.
+
+Az egyszerűsített cégeljárásban hiánypótlási felhívás kibocsátásának nincs helye. Hibás vagy hiányos kérelem esetén a cégbíróság a bejegyzési kérelmet elutasítja. Ugyanakkor fennmarad a lehetőség, hogy ha a bejegyzést 8 napon belül ismételten kérik, az elutasításhoz fűződő jogkövetkezmények nem alkalmazhatók és a korábbi eljárás során benyújtott iratokat (ideértve a befizetett illetéket) ismételten fel lehet használni. A törvény egyértelművé teszi, hogy az ismételt benyújtásnak egy alkalommal van helye.
+
+A módosított Ctv. 48. §-ának (1) bekezdése, illetve a felülvizsgált szerződésminták szövege alapján kétségtelen, hogy amennyiben a Ctv. mellékletét képező szerződésmintából akár elhagynak, akár ahhoz hozzátesznek rendelkezéseket, pontokat, a szerződés már nem tekinthető szerződésmintának. Ilyen hatályú elhagyásnak minősül az is, ha a szerződésből kizárólag a szerződésmintára való utalás kerül ki, illetve, ha azon kitölthető szövegrészek nem képezik a szerződés részét, amelyek bár a törvényi minta részei, azonban az adott társaság esetében nem kerülnek kitöltésre. Így, ha a szerződésből elhagyják például a cég fióktelepére vonatkozó pontot - abból a megfontolásból, hogy a cégnek nincs fióktelepe -, a szerződés nem tekinthető szerződésminta alkalmazásával készült szerződésnek. A helyes eljárás ezen utóbbi esetben az, ha a minta kitöltése során e pontot nem töltik ki, vagy a kipontozott részében „-” jelzéssel jelölik, hogy nincs fióktelepe a cégnek.
+
+Amennyiben tehát a törvényi szerződésmintából elhagynak, vagy hozzátesznek szövegrészt, a szerződés nem tekinthető szerződésmintának. Ebben az esetben - abból az okból, hogy a csatolt szerződés nem felel meg a törvényi szerződésminta által támasztott követelményeknek - nincs helye a cégbejegyzési kérelem elutasításának, hanem a cégbíróság a kérelmet automatikusan az egyedi szerződésekre vonatkozó szabályok szerint bírálja el.
+
+Ezen szabályozás megszünteti azt a helytelen joggyakorlatot, amely a kérelem elbírálásának módját a szerződés típusának meghatározásával kívánja eldönteni. Jelenleg ugyanis komoly nehézséget okoz annak megállapítása, hogy a csatolt szerződés szerződésmintának minősül-e. A jövőben, ha a cég - bízva a szerződésminta tartalmában - jelentős részben a szerződésminta szövegére támaszkodva hozza létre saját szerződését, nem kezdeményezhet egyszerűsített cégeljárást, hanem az általános szabályok szerint köteles a kérelméhez csatolni a Ctv. 1. és 2. mellékletében meghatározott kötelezően és szükség szerint csatolandó iratokat, és ebben az esetben szerződése, mint egyedi szerződés kerül elbírálásra.
+
+Az egyszerűsített cégeljárásban a bírósági titkár, fogalmazó és bírósági ügyintéző is eljárhat, és a bejegyzési kérelmet elutasító végzés tekintetében is önálló aláírásra jogosult.
+
+A 21. §-hoz
+
+A 2006. július elsején hatályba lépett Ctv. rendelkezései értelmében az egyszerűsített cégeljárásra vonatkozó kedvező szabályokat kizárólag a cégbejegyzési eljárás keretében lehetett alkalmazni. A törvény megteremti az egyszerűsített cégeljárásra vonatkozó rendelkezések alkalmazásának lehetőségét a változásbejegyzési eljárásban is. Ennek következményeként a szerződésminta nyomán készült alapító okirattal rendelkező cégek által előterjesztett változásbejegyzési kérelmet a cégbíróságnak két munkanapon belül, 2008. július elsejétől fogva pedig egy munkaórán belül kell elbírálnia.
+
+A hatályos Ctv. 50. §-ának (4) bekezdése tartalmazza azt a rendelkezést, hogyha a cég létesítő okirata szerződésminta alapján készült, a változásbejegyzési kérelem érdemi vizsgálatát bírósági titkár, fogalmazó vagy bírósági ügyintéző is lefolytathatja. Figyelemmel arra, hogy a törvény a szerződésminta alkalmazására épülő eljárást egységesen az egyszerűsített cégeljárás keretében rendezi, e rendelkezés a jövőben az egyszerűsített cégeljárásban történő változásbejegyzésre értelmezhető. A törvény bővítve e rendelkezést, lehetővé teszi, hogy azon változásbejegyzési eljárásokban is eljárhasson bírósági titkár, fogalmazó vagy bírósági ügyintéző, ahol a közkereseti társaság, a betéti társaság és az egyéni cég létesítő okirata nem szerződésminta alapján készült.
+
+A 22. §-hoz
+
+E § tekintetében a törvény 9. §-ához fűzött indokolás az irányadó.
+
+A 23. §-hoz
+
+A Ctv. új 64/A-C. §-a a hivatalbóli bejegyzések kijavítása céljából határozza meg a törvényi szintű eljárási szabályokat. A hivatalbóli bejegyzésekkel összefüggő részletszabályozást miniszteri rendelet állapítja meg, azonban szükséges, hogy a legfontosabb előírások törvényi szinten kerüljenek meghatározásra. A rendelkezés indoka az, hogy a gyakorlatban felmerült probléma, hogy az esetleges hibás hivatalbóli bejegyzések javítására a jelenleg hatályos szabályok nem adnak megfelelő megoldást, így hosszadalmas eljárások szükségesek ahhoz, hogy nyilvánvalóan téves, hibás bejegyzések törlésre, javításra kerülhessen.
+
+Az eljárásban okirati bizonyításnak lehet helye. A cégbíróságnak azt kell ellenőriznie, hogy a a bejegyzés alapjául szolgáló határozat, okirat tartalma, valamint a bejegyzett adat egymástól eltér-e vagy sem. Amennyiben eltér és a bejegyzés hibájának kijavítására nem kerülhet sor a bejegyző határozat kijavításával (így például, ha rossz cég adatai közé került bejegyzésre egy végrehajtási eljárás), a cégbíróság olyan módon törli a helytelenül bejegyzett adatot, hogy az mint törölt adat se legyen megállapítható, és új eljárással bejegyzi a helyes adatot. Amennyiben az értesítés és a határozat tartalma nem tér el, a kérelmet elutasítja.
+
+Amennyiben a hivatalbóli bejegyzéssel történő adatváltozás elmaradásának az az oka, hogy a hatóság (bíróság, végrehajtó) nem tett eleget megküldési kötelezettségének, a cégbíróság megkeresi az illetékes hatóságot, bíróságot. Ha a cégbíróság azt állapítja meg, hogy valamely adatot a cégjegyzéknek hivatalbóli bejegyzéssel tartalmaznia kellene, a rendelkezésre álló iratok alapján hivatalbóli bejegyzéssel gondoskodhat erről.
+
+Az eljárásban a jogi képviselet nem kötelező, az ügyben keletkezett iratok nyilvánosak. Eredményes eljárás esetében a költségeket az állam viseli.
+
+A 24. §-hoz
+
+A gyakorlatban a törvényességi felügyeleti eljárások egy része lefolytathatatlan, mert szabályszerű kézbesítés hiányában a bíróság határozata nem emelkedhet jogerőre, így érdemi intézkedés alkalmazására sem kerülhet sor. A kézbesítés sikertelensége a cégek, vezető tisztségviselőik, tagjaik részére történő kézbesítés azon sikertelenségét jelenti, amikor a postai küldemény „elköltözött”, „ismeretlen helyre költözött”, „nem található”, stb . jelzéssel érkezik vissza a bírósághoz. A törvényességi felügyeleti eljárásra okot adó körülmény ezen esetekben bár kétséget kizáróan megállapítható, azonban intézkedés mégsem történhet, mert a címzetthez nem tud megérkezni a bírósági végzés.
+
+E helyzetet oldja fel a módosítás azzal, hogy a törvényességi felügyeleti eljárásokban a cégbíróság végső soron a Cégközlöny segítségével rendeli el az intézkedését. Figyelemmel arra, hogy a Cégközlöny ingyenes hozzáférhetővé válik, e szabályozás semmilyen nehézséget nem okoz a cégeknek, azonban lehetővé teszi azt, hogy a leghamarabb és a leggyorsabban, megtörténjen a szükséges intézkedések megtétele - végső soron a cég végelszámolása, felszámolása.
+
+E § (2) bekezdésével a törvény a Cégközlöny honlapon történő megjelenésének időpontjául 2008. január 1-jét határozza meg.
+
+A § (3) bekezdése - figyelemmel a törvényben foglalt módosításokra - rendeletalkotási feladatot határoz meg.
+
+A szakasz (4) bekezdése rendelkezik - az egyszerűsített cégeljárást kivéve - a bírósági ügyintézésre irányadó határidők (szerződésminta alkalmazása nélkül történő alapítás/változás esetén 15 nap, szerződésmintával történő alapítás/változás esetén 8 nap) hatálybalépésének időpontjáról. A 2006. július 1. napjától érvényesülő ügyintézési határidőknek a rövidebb határidőkkel történő felváltása 2007. október 1. időpontról 2008. január 1-jére változik.
+
+A 25-26. §-hoz
+
+A §-ok a Ctv. 1. és 2. számú mellékletének pontosítását tartalmazzák, figyelemmel a felmerült gyakorlati nehézségekre.
+
+A törvény a kötelezően csatolandó cégiratok közé sorolja változásbejegyzési eljárás esetében a változás alapjául szolgáló határozatot, egyéb a változás alapjául szolgáló hatósági, bírósági határozatot. A hatályos rendelkezések értelmében, amennyiben egy magyarországi cégben külföldi cég vagy szervezet létesít tagsági jogviszonyt, annak 3 hónapnál nem régebbi cégkivonattal kell igazolnia, hogy az illetősége szerinti országban a vonatkozó szabályoknak megfelelően nyilvántartásba vették, mely igazolást hiteles fordításban kell benyújtani a cégbíróság számára. Tekintettel arra, hogy a hiteles igazolás kiállításával kapcsolatos költségek sok esetben meghaladják az a cég alaptőkéjének összegét, ezért a törvény csak abban az esetben rendeli el a hiteles igazolás benyújtását a cégbírósághoz, amennyiben ezt külön jogszabály előírja, vagy a cég jegyzett tőkéje meghaladja a 20 millió forintot.
+
+A törvény korábbi rendelkezése értelmében a korlátolt felelősségű társaság üzletrészén alapított zálogjog a cégjegyzék részét képezi, a bejegyzést kérheti a zálogjogosult, valamint zálogkötelezett is. A zálogjog bejegyzése esetén a bejegyzési kérelemhez csatolni szükséges a zálogszerződés eredeti példányát, vagy annak olyan kivonatát, amely legalább tartalmazza a zálogjog alapításának tényét, a zálogjog kikötését, a szerződő felek megnevezését, lakóhelyét (székhelyét), a szerződés megkötésének helyét és időpontját, továbbá a felek aláírását. Amennyiben a zálogjogosult nyújtja be a zálogjog bejegyzésére irányuló kérelmet, csatolni kell a zálogkötelezett bejegyzésre irányuló, teljes bizonyító erejű magánokiratba foglalt engedélyét is. A zálogjog törlésére irányuló - zálogkötelezett által benyújtott - kérelem esetén pedig a zálogjogosult hasonló bizonyító erővel rendelkező engedélyét kell mellékelni. Megerősítést érdemel, hogy a cégbíróság a zálogszerződés tartalmi vizsgálatára nem jogosult, kizárólag a zálogjog alapítása szempontjából releváns adatokat vizsgálhatja.
+
+A 27. §-hoz
+
+A § kicseréli a Ctv. 3-7. számú mellékleteit, illetve új 8-9. számú mellékletet iktat be. A Ctv. 8-9. számú mellékletei a zártkörűen működő részvénytársaság szerződésmintái.
+
+-----STARTING---POINT---VEGE---
+
+Záró rendelkezések
+
+A 28. §-hoz
+
+A törvény a §-ban foglalt kivételekkel 2007. szeptember 1. napján lép hatályba. Az elektronikus cégeljárás 2008. július elsejétől kötelező érvényű valamennyi cég számára.
+
+Az egyszerűsített cégeljárás új szabályai 2007. szeptember 1. napjával lépnek hatályba azzal, hogy a bejegyzési (változásbejegyzési) kérelmet elektronikus úton kell benyújtani.
+
+Az egyszerűsített cégeljárásban a cégbíróságra irányadó ügyintézési határidő 2008. július elsejétől 1 munkaórára változik.
+
+A törvény rögzíti, hogy a Ctv. módosított rendelkezéseit azok hatálybalépését követő eljárásokban kell alkalmazni.
+
+A 29-30. §-hoz
+
+A §-ok a szövegcserével megvalósuló módosításokat, illetve a hatályon kívül helyezésre kerülő rendelkezéseket tartalmazza.
+
+Fontos kiemelni, hogy a Gt.-nek a társasági szerződés kötelező tartalmára vonatkozó rendelkezéseinek módosításával a korábbi szabályozásnak megfelelően nem kötelező tartalmi eleme a tagok, vezető tisztségviselők, felügyelőbizottsági tagok „anyja nevének” megjelölése. A bejegyzési, változásbejegyzési kérelmen a jövőben is fel kell tűntetni ezen adatokat, így a cégjegyzék tartalmazza ezen személyek „anyja nevét” is, azonban a társasági szerződést nem szükséges ezen adattal kiegészíteni.
+
+Módosuló jogszabályok
+
+A 31. §-hoz
+
+A törvény ezen §-ának indokolását lásd a 9. §-hoz fűzött indokolásnál.
+
+A 32. §-hoz
+
+A törvény ezen §-a az illetéktörvény vonatkozásában vezet be módosításokat, és az eljárási illetékek vonatkozásában új illeték-nemet - a cégbírósági felügyeleti illetéket - teremt a cégbíróságok által lefolytatott törvényességi felügyeleti eljáráshoz kapcsolódóan. Az illetéket - a kérelemre és a hivatalból indult eljárások esetében egyaránt - minden esetben annak a cégnek kell megfizetnie, amelyre vonatkozóan a cégbíróság a törvényességi felügyeleti eljárás során marasztaló végzést hoz. Az illeték megfizetéséről a cégbíróság a törvénysértő működést megállapító, azaz a céget marasztaló végzésben rendelkezik. Az illeték mértéke 50 ezer forint.
+
+Ezen illetéket kizárólag abban az esetben nem kell megfizetni, ha a hivatalból indult eljárást a cégbíróság jogsértés hiányában szünteti meg. Abban az esetben, ha a cégbíróság a kérelemre indult eljárást szünteti meg jogsértés hiányában, a felügyeleti illetéket, - amely ebben az esetben 15 ezer forint - a kérelmező viseli, amelyre a kérelmezőt a kérelmet elutasító végzésben kötelezi a cégbíróság. Ezen rendelkezés célja, hogy megalapozott, azaz bizonyítékkal kellően alátámasztott esetben kérelmezzék a törvényességi felügyeleti eljárás megindítását.
+
+Amennyiben az illeték megfizetésére kötelezett a felhívás ellenére nem fizeti meg a rá kiszabott illetéket, az állammal szemben fennálló kötelezettséget az állami adóhatóság jogosult érvényesíteni. Az illeték meg nem fizetése következtében az állami adóhatóság a fizetendő illetéken felül bírságot is követelhet, melynek mértéke a meg nem fizetett illeték 100%-a, legfeljebb azonban 100 000 forint.
+
+A törvény a cégek piacra lépésének egyszerűsítése mellett olcsóbbá is teszi a cégalapítást, ugyanis ezen szakasz alapján egyszerűsített cégeljárás esetén - cégformától függetlenül - a normál bejegyzési eljáráshoz képest szignifikánsan alacsonyabb, azaz 15 ezer forint illetéket kell megfizetni.
+
+A már működő cégek változásbejegyzési eljárásában szintén 15 ezer forint illetéket kell megfizetni, kivéve azokban a bonyolultabb ügyekben, amelyekben az adott változásbejegyzési kérelem elbírálása a cégbíróságoktól összetettebb és bonyolultabb munkavégzést igényel. Ilyen bonyolult ügynek számít a szervezeti változás, a minősített többséget biztosító befolyás létrejötte, az elismert vállalatcsoportként való működés, illetőleg a nyilvánosan működő részvénytársaság adataira vonatkozó változásbejegyzés. Az ezek vonatkozásában előterjesztett változásbejegyzési eljárás illetéke 50 ezer forint.
+
+A 33. §-hoz
+
+A 2006. évi VI. törvény újraszabályozta a felszámolási kérelem benyújtásának feltételeit, a felszámolási okokat. Az új szabályozásba azonban nem illeszthető be az az eset, amikor az adós „maga ellen kér” felszámolást. Figyelemmel azonban arra, hogy a Gt. és a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) új vezető tisztségviselőkre vonatkozó felelősségi szabályai elvárják, hogy a vezető tisztségviselő (és a társaság) megtegye a szükséges lépéseket, így adott esetben azt, hogy önként vállalja a felszámolási eljárás lefolytatását, szükséges, hogy a törvény erre is lehetőséget biztosítson.
+
+Figyelemmel arra, hogy a Cégközlöny 2008. január 1. napjától honlapon lesz elérhető, illetve a Cstv. már most is azt írja elő, hogy a jogerős felszámolási végzések közzétételéről a bíróság haladéktalanul intézkedjen, szükséges annak kimondása, hogy ebben a tekintetben az információk nem heti rendszerességgel, hanem napi feltöltéssel érhetőek el.
+
+A csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvény módosításáról szóló 2006. évi VI. törvény megvalósította a fizetésképtelenségi okok újraszabályozását. Figyelemmel kell lenni azonban azokra az esetekre, amikor a felszámolási eljárást az adós (végelszámoló) kezdeményezi, és amely esetek nem vonhatóak a Cstv. 27. §-ának új (2) bekezdésében foglalt rendelkezések hatálya alá. A Cstv. módosítása ezért rendelkezik arról az esetről, amikor a fizetésképtelenséget az adós kérelme alapján kell a bíróságnak megállapítania.
+
+Nem indokolt általános jelleggel a kielégítési rangsor utolsó, h) pontjába sorolni azokat a követeléseket, amelyek jogosultja a gazdálkodó szervezet tagja. A tagi követeléseket csak két további, konjunktív feltétel teljesülése esetén indokolt a h) pontba sorolni: ha a tag 1. többségi befolyással rendelkezik és 2. a hitelt olyan időpontban nyújtja a társaságnak, amikor az már a fenyegető fizetésképtelenség állapotában van. A tag által történő finanszírozás (tagi kölcsön) nem általában és feltétlenül szankcionálandó. A tagi kölcsön sok szempontból kedvező lehet a társaságnak: olcsóbb, könnyebben hozzáférhető, mint a külső forrás (pl. bankhitel). A tag szabadon választhat aközött, hogy a társaságot társasági jogi alapon (a saját tőke emelésével, vagyoni hozzájárulással) vagy polgári jogi alapon (hitelnyújtással) finanszírozza, mindaddig, amíg a társaság olyan helyzetbe nem kerül, hogy harmadik személytől, nem tag hitelezőtől, külső forrásból már nem vagy csak nem a szokásos piaci feltételek mellett tudna hitelhez jutni. A kiegyensúlyozandó érdekek: a finanszírozás elősegítése és a hitelezővédelem. A harmadik személy hitelezők érdeke egyrészt a tag-hitelező döntéshozatal szempontjából kedvezőbb helyzete miatt sérülhet, másrészt azáltal, hogy olyan esetben finanszírozzák a társaság továbbműködését, amikor már a felszámolás lenne indokolt és a nem megfelelően felhasznált finanszírozás révén a társaság működőképessége nem áll helyre, csak tovább csökken a hitelezők között felosztható felszámolási vagyon. E két szempontra tekintettel a tagi követeléseket csak a fenti két konjunktív feltétel fennállta esetén indokolt az egyéb követeléseknek alárendelni. A külföldi szabályozások is jellemzően csak meghatározott tulajdoni hányaddal rendelkező (esetleg csak a társaság döntéshozatalára döntő befolyással rendelkező) tagok esetében és csak a pénzügyi válsághelyzetben nyújtott hitel esetén sorolják a tag által nyújtott hitelt az alárendelt követelések közé. A tagoknak ilyen esetben viselniük kell döntésük kockázatát, hiszen finanszírozásuknak köszönhetően a társaság továbbműködött, a finanszírozás adott esetben az indokolt felszámolást késleltette és tovább csökkentette a hitelezők rendelkezésére álló vagyont.
+
+A Cstv. a 2006. évi VI. törvénnyel történt módosítását megelőzően a kielégítési rangsor az 57. § (1) bekezdés b) pontjában mondta ki, hogy a zálogjoggal biztosított követelésekkel azonos elbírálás alá esik az önálló zálogjog, illetve az a követelés, amely kizárólag a zálogtárgyból történő kielégítés tűrésére irányul (dologi kötelezettség). E szabály a 2006. évi VI. törvénnyel végrehajtott Cstv.-módosítás során indokolatlanul került ki a törvény szövegéből, illetve már a hatályos Cstv.-nek is felróható, hogy e szabályt nem mondja ki mindkét zálogjogi rendelkezésében, vagyis az 57. § (1) bekezdésének b) pontja mellett a 49/D. §-ában is. A 2006. évi VI. törvény megalkotása során a jogalkotó szándéka nem irányult arra, hogy az általános zálogjogi szabályoktól eltérően az önálló zálogjog, illetve a tisztán dologi kötelezettség esetében megtagadja a zálogjogosult hitelezőtől a zálogjog által biztosított privilegizált helyzetet. Ezért e módosítás visszaállítja, kétségtelenné teszi, hogy a zálogjogosult hitelezőt ilyen esetben is megilleti a zálogjoga alapján a külön kielégítési jog. Az önálló zálogjogra való utalást a módosítás a zárójelen belül helyezi el, tekintettel arra, hogy az önálló zálogjog is a pusztán a zálogtárgyból való kielégítés tűrésére irányul, az önálló zálogjog jogosultjának nem kell követelésének fennálltát és nagyságát bizonyítani, erre kifogásként az adós hivatkozhat, ha az önálló zálogjoggal szerződésileg összekapcsolt követelést részben vagy egészben már teljesítette. Anélkül, hogy szükség lenne ennek külön kimondására, természetesen a vagyont terhelő zálogjogra vonatkozó, a Cstv. 57. §-a (1) bekezdésének b) pontjában szereplő, 2007. január 1-jétől hatályos szabály alkalmazásában is zálogjoggal biztosított követelésnek minősül az a követelés, amely kizárólag a zálogtárgyból történő kielégítés tűrésére irányul (dologi kötelezettség, önálló zálogjog), hiszen mindkét konstrukció előfordulhat a vagyont terhelő zálogjoggal kombinálva is (vagyont terhelő önálló zálogjog, illetve vagyont terhelő dologi kötelezettség).
+
+A zálogjoggal biztosított követelés esetében is alkalmazandóak mindazon megfontolások, amelyek a zálogjoggal nem biztosított követelés esetében: a zálogjoggal biztosított tagi követelés nem minden esetben veszti el a zálogjog alapján biztosított privilegizált helyzetét, a külön kielégítési jogot, ezért itt is alkalmazandóak a Cstv. 57. § (1) bekezdésének h) pontját módosító rendelkezésben foglalt megszorítások: a külön kielégítési joggal csak az a taghitelező nem élhet, aki többségi befolyással rendelkezik és zálogjoggal biztosított követelése a fenyegető fizetésképtelenség bekövetkeztét követően keletkezett.
+
+A 34. §-hoz
+
+A törvény a székhely-szolgáltatással összefüggésben rendelkezik az ügyvédekről szóló 1998. évi XI. törvény módosításáról. Ezen új ügyvédi szolgáltatás részletszabályait miniszteri rendelet állapítja meg.
+
+A 35. §-hoz
+
+A törvény a Gt. kis terjedelmű módosításával a társaságok működési szabadságának további erősítését, a piacra lépés egyszerűsítését célozza.
+
+A § megszűnteti azon korlátozást a korlátolt felelősségű társaságok és a zártkörűen működő részvénytársaságok esetében, amely szerint a számviteli törvény szerinti beszámoló elfogadásáról nem dönthetnek taggyűlés, közgyűlés tartása nélkül írásban.
+
+A piacra lépés feltételeinek kedvezőbbé tételének célkitűzése szerint szükséges, hogy a Magyarországon történő társaságalapítás során jelentősséggel bíró, a törvényben előírt jegyzett tőke minimumának összege ne támasszon érzékelhetően magasabb követelményt, mint az Európai Unióhoz a közelmúltban csatlakozó más államok társasági joga. A Gt.-nek a korlátolt felelősségű társaságra irányadó 3 millió Ft jegyzett tőke minimumot előíró szabálya ma - Lengyelországot kivéve - magasabb, mint amit a többi közép-európai ország vagy a balti államok társasági joga előír.
+
+Erre tekintettel a törvény 35. §-a módosítja a Gt.-t, a törvény a korlátolt felelősségű társaság törzstőke minimumát ötszázezer Ft-ban határozza meg.
+
+A törvény módosítást tartalmaz a zártkörűen működő részvénytársaság tekintetében is, ennél a gazdasági társaságnál az alaptőke minimum ötmillió forintban került megállapításra, míg a nyilvánosan működő részvénytársaság alapítása esetén továbbra is 20 millió forintot kell befizetni a társaság javára.
+
+A módosítás nem veti fel sem a Gt., sem annak a korlátolt felelősségű társaságra vonatkozó fejezetének koncepcionális módosítását.
+
+A törvény pontosítja a Gt. 115. § (1) bekezdésének rendelkezését. A módosítás lehetőséget teremt arra, hogy az egyszemélyes korlátolt felelősségű társaságot kedvezőbb anyagi kondíciókkal lehessen alapítani. A törvény értelmében a továbbiakban nem szükséges a pénzbeli hozzájárulást, azaz a törzstőke összegét teljes egészében rendelkezésre bocsátani, hanem - a cég választása alapján - elégséges csupán százezer forintot az alapítás során a cég javára befizetni. Az alapítást érintő kedvező feltételek - miszerint nem kell a teljes vagyoni hozzájárulást megfizetni - a zártkörűen működő részvénytársaság esetében is fennállnak. Zártkörűen működő egyszemélyes részvénytársaság esetén ugyanis a cégbejegyzési kérelem benyújtásáig csak a nem vagyoni hozzájárulást kell a társaság rendelkezésére bocsátani, a pénzbeli hozzájárulás befizetése esetében az általános szabály (Gt. 210. §) érvényesül.
+
+A törvény a 2006. évi Gt.-re történő áttérés tekintetében több ponton módosít a hatályos rendelkezéseken. Egyrészt az áttérés végső határidejét 2008. március 1. napjában határozza meg, másrészt elhagyja az első legfőbb szervi ülésre történő utalást. Ezzel a törvény egyértelművé teszi, hogy a cég döntésén múlik, hogy 2008. március 1-jéig mikor módosítja a létesítő okiratát az új társasági előírásoknak való megfelelés érdekében.
+
+A törvény továbbá kimondja, hogy amennyiben a társasági szerzőség módosítására kizárólag azon okból kerülne sor, mert a szerződés általános hivatkozásként a gazdasági társaságokról szóló 1997. évi CXLIV. törvényre utal, a módosítás formális megtörténtére nincs szükség. A törvény 30. §-a (2) bekezdésének értelmében a létesítő okiratnak nem kötelező tartalmi eleme a tagok, vezető tisztségviselők, felügyelőbizottsági tagok, könyvvizsgáló anyja neve. Erre figyelemmel, amennyiben csak ezen okból kellene a szerződést módosítani, arra nem lesz szükség.
+
+Amennyiben a társasági szerződés módosítására nincs szükség, a cég illeték és közzétételi költségtérítés megfizetése nélkül jogosult erről a cégbíróság felé nyilatkozni.
+
+Amennyiben a cég valamely fenti megoldás egyikének sem tesz eleget, 2008. március 1-jét követően a törvény erejénél fogva köteles a Gt.-t alkalmazni.
+
+A 36. §-hoz
+
+A § pontosító rendelkezéseket tartalmaz.
+
+A 37. §-hoz
+
+E § az elektronikus aláírásról szóló törvény tekintetében pontosító rendelkezést tartalmaz.

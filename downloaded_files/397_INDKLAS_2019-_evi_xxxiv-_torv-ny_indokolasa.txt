@@ -1,0 +1,683 @@
+2019. évi XXXIV. törvény indokolása
+
+az Európai Unió adatvédelmi reformjának végrehajtása érdekében szükséges törvénymódosításokról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+2016-ban a Tanács és az Európai Parlament mint társjogalkotók a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) elfogadásáról döntöttek. A Rendelet - funkciója szerint - teljes jogegységesítésre törekszik, így a hatálya alá tartozó jogterületeken horizontálisan (minden adatkezelési jogviszony tekintetében általánosan) alkalmazandó előírások közvetlenül hatályosulnak és válnak alkalmazandóvá a magyar jogban.
+
+A Rendeletet alkalmazására és a végrehajtásához szükséges magyar jogszabályi rendelkezések hatályba léptetésére 2018 májusától kötelezi hazánkat az uniós jog. Figyelemmel arra, hogy a hatályos magyar jogrendszer az általánosan, horizontálisan alkalmazandó adatvédelmi rendelkezéseket hagyományosan egy normában - jelenleg az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben (a továbbiakban: Infotv.) - tartalmazza, az ágazati törvények pedig ezen általános szabályokhoz kapcsolódnak, ezen jogalkotói megoldást a jogrendszeri hagyományok és a normatakarékosság követelményéből fakadóan a Rendelet alkalmazandóvá válását követően is - az uniós jog által biztosított keretek között - a jogalkotó fenntartotta. Ennek megfelelően a Rendelet végrehajtására elsősorban az Infotv. módosításával került sor, egyrészt az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény jogharmonizációs célú módosításáról szóló 2018. évi XIII. törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvénynek az Európai Unió adatvédelmi reformjával összefüggő módosításáról, valamint más kapcsolódó törvények módosításáról szóló 2018. évi XXXVIII. törvény elfogadásával.
+
+Jelen törvény célja, hogy a Rendelet végrehajtásához szükséges jogrendszeri koherencia biztosítása érdekében az egyes ágazati törvényeket érintő módosító törvényi rendelkezéseket megalkossa, tekintettel arra, hogy az Infotv.-ben foglalt általános szabályok mellett számos, a személyes adatok kezelését szabályozó ágazati norma alkalmazandó, amelyek az általános szabályokat kiegészítve, vagy - ha arra lehetőség van - azoktól eltérést előírva érvényesülnek. Az ágazati törvények tekintetében szükségessé vált tehát a különös adatkezelési szabályok áttekintése, különös tekintettel azon rendelkezésekre, amelyek a Rendelet alkalmazásának megkezdésével nem tarthatóak fenn.
+
+Nem tarthatóak fenn a hatályos ágazati rendelkezések közül például
+
+- a Rendeletben foglalt fogalom-meghatározásokkal azonos fogalmakat (akár azonos, akár eltérő tartalommal) meghatározó definíciók, értelmező rendelkezések, rövidítések;
+
+- a Rendeletben meghatározott - a kötelező adatkezelésen kívül eső körbe tartozó - jogalapokon [6. cikk (1) bekezdés a), b), d), f) pontok] alapuló adatkezelések különös feltételei (ha azt a Rendelet kifejezett eltérő szabályai nem engedik meg);
+
+- az Infotv.-re, az abban szabályozott jogintézményekre történő merev vagy rugalmas hivatkozások.
+
+A fentiekre tekintettel a törvény elvégzi mindazon törvényi szintű rendelkezéseknek a deregulációját, illetve szükség szerinti módosítását, amelyek az Infotv.-re merev vagy rugalmas hivatkozással utalva olyan jogintézményeket szabályoznak, amelyek a törvény hatálybalépését követően megszűnnek, módosulnak vagy amelyeket az adott tárgykörben már nem az Infotv., hanem a Rendelet mint közvetlenül alkalmazandó norma szabályoz. A módosítások értelmezésénél tehát figyelemmel kell lenni arra, hogy valamely előírás deregulációja nem szükségképpen az abban foglalt kötelezettség megszűnését jelenti, hanem egyes esetekben csupán azt, hogy a kötelezettség a továbbiakban a közvetlenül alkalmazandó uniós jogból fakad.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A közúti közlekedésről szóló 1988. évi I. törvény 21/G. § (4) bekezdésben meghatározott hivatkozás az unió adatvédelmi reformjára, az (5) bekezdés elektronikus kapcsolattartást biztosító szabálya az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényre tekintettel okafogyottá vált, így indokolt a hatályon kívül helyezése.
+
+A 2. §-hoz
+
+A törvény módosítja a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) adatvédelemre vonatkozó, valamint az egyes nyilvántartásokra vonatkozó szabályait a Rendeletnek való megfeleltetés érdekében. A törvény pontosan meghatározza az adatkezelésre jogosult szerveket, az adatkezelés célját és azon adatfajtákat, melyeket az adatkezelésre jogosult szervek kezelhetnek, valamint az adatkezelés időtartamát, továbbá az adatok megismerhetőségére vonatkozó rendelkezéseket.
+
+A törvény az Infotv. 5. § (3) bekezdése alapján törvényi szintre emeli a munkaerőigény bejelentésével és nyilvántartásával kapcsolatban az eddig miniszteri rendeleti szinten szabályozott és kezelt adatfajtákat.
+
+A törvény szerint az állami foglalkoztatási szerv nyilvántartja a külföldi állampolgár családi állapotát. A külföldi állampolgár esetén a családi állapotra vonatkozó személyes adat kezelésének indoka, hogy egyes országokban a munkanélküliség esetén járó ellátás mértékét befolyásolhatja a kérelmező által eltartott családtagok száma. Adott esetben az ellátását külföldön kérelmező Magyarországon élő családtagjai vonatkozásában az állami foglalkoztatási szervet erre vonatkozóan igazolásra hívja fel a külföldi társhatóság. Az igazolás csak ezen adat ismeretében teljesíthető.
+
+A nemzetiséghez való tartozásra vonatkozó adatok kezelésének indoka, hogy egyes munkaerő-piaci program keretében nyújtott foglalkoztatást elősegítő támogatás célcsoportjához tartozhatnak az adott nemzetiségekhez tartozó személyek. A célcsoporthoz való tartozás vizsgálatakor, valamint a nyújtott támogatás ellenőrzése során szükséges ezen személyes adat ismerete és kezelése, azonban ezen adat megadása önkéntes nyilatkozat alapján történik. Példaként említhető erre, hogy a „Terület- és Településfejlesztési Operatív Program” keretében megvalósuló munkaerőpiaci programok célja a keresletnek megfelelő munkaerő biztosítása, - az adott térségben munkát vállalni szándékozó - hátrányos helyzetű álláskereső és inaktív személyek foglalkoztathatóságának javítása, nyílt munkaerőpiaci elhelyezkedésének támogatása, másrészt a közfoglalkoztatásból a versenyszférába történő átlépés elősegítése. Ennek keretében hátrányos helyzetű személynek minősülnek a roma nemzetiséghez tartozó személyek.
+
+A törvény alapján az Flt. 57/D. §-a szerinti adatbázis adatainak egy része önkéntes adatszolgáltatás alapján kerül az adatbázisba, míg az adatbázis többi adatát a kedvezményezettnek az Európai Parlament és a Tanács 1304/2013/EU rendeletében kötelezően előírt adatszolgáltatása alapján tartalmazza.
+
+A nyilvántartásokban szereplő adatok tervezetben meghatározott időn keresztül történő kezelését a nyilvántartott életútjának nyomon követése teszi szükségessé. Ennek indoka, hogy a nyilvántartott részére nyújtott álláskeresési ellátás, valamint munkaerő-piaci szolgáltatások, továbbá foglalkoztatást elősegítő támogatások egymásra épülhetnek és adott esetben egymás mellett is nyújthatóak, ezért egy adott kérelem elbírálása tekintetében korábban a nyilvántartott részére nyújtott ellátás, munkaerő-piaci szolgáltatás, foglalkoztatást elsegítő támogatás részleteinek ismerete mérlegelési szempont lehet. A munkaerő-piacon hátrányokkal induló álláskeresők foglalkoztathatóságának javítása, munkába helyezése a tapasztalatok alapján a szolgáltatások és az aktív támogatási eszközök jól végiggondolt, az igényeknek megfelelően megtervezett kombinációjával lehet eredményes. Ezen célok elérése érdekében a nyilvántartásba vett adatok hosszú időn, adott esetben egy élettartamon keresztül történő ismerete elengedhetetlen.
+
+Mindezeken túlmenően az álláskeresési ellátásra való jogosultság időtartama szolgálati időnek minősül. Az adatok folyamatos továbbítására a nyugdíjbiztosítási igazgatási szerv felé nem kerül sor, ezzel kapcsolatban a hatóság adatigénylésre jogosult. Ez is indokolja az adatok hosszú időn keresztül történő megőrzésének szükségességét.
+
+Az Flt. módosítása tartalmazza továbbá, hogy az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv közvetlen hozzáférést biztosít az állami foglalkoztatási szerv részére a köznevelési információs rendszerben foglalt, az álláskereső azonosításához szükséges, valamint a hallgatói jogviszony típusával, keletkezésének és megszűnésének időpontjával kapcsolatos adatokhoz az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés céljából. A nem dolgozó és nem tanuló fiatalok képzésének, foglalkoztatásának elősegítését célzó programok eredményességének elősegítése érdekében szükséges a program célcsoportjának pontos meghatározása. Indokolt ezért, hogy a jogi szabályozás az állami foglalkoztatási szerv számára biztosítsa a hozzáférést köznevelési információs rendszerhez.
+
+A módosítás jogharmonizációs rendelkezést is tartalmaz.
+
+A 3. §-hoz
+
+Szövegcserés módosításokat tartalmaz, a 2. § szerint módosuló hivatkozásokat módosítja.
+
+A 4. §-hoz
+
+Hatályvesztő rendelkezést tartalmaz. A menedékes a korábbi szabályozás alapján külön engedély nélkül volt jogosult munkavállalásra [1997. évi CXXXIX. törvény 20. § (1) b) pontja]. A menedékjogról szóló 2007. évi LXXX. törvény 22. § (1) bekezdés d) pontja szerint a menedékes a külföldiekre vonatkozó általános szabályok szerint jogosult munkavégzésre. Erre tekintettel módosult a törvény, mivel a menedékes nem válhat álláskeresővé, az ahhoz kapcsolódó jogokat és kötelezettségeket sem gyakorolhatja. A menedékjogról szóló törvény rendelkezéseire tekintettel a menedékes személy kikerül a törvény hatálya alól.
+
+Az 5. §-hoz
+
+A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 6/N. § (4) bekezdésének módosítása a fizetésképtelenségi nyilvántartásban a Magyarországon lefolytatott fizetésképtelenségi eljárásokkal összefüggésben bejegyzett adatokra vonatkozó adattörlési határidő pontosítását célozza.
+
+A Cstv. 27/B. § (10)-(12) bekezdésnek módosításával rögzítésre kerül, hogy a felszámoló szervezetekre előírt foglalkoztatási követelmények betartásának ellenőrzése érdekében a felszámolók névjegyzékét vezető szerv a bűnügyi nyilvántartást vezető szervezet mellett, az állami adóhatóságtól is adatot igényelhet. Ez az adatigénylés kizárólag arra irányulhat, hogy a felszámoló szervezet által a felszámolók névjegyzékét vezető szervhez Cstv. 27/C. § (2) bekezdés g) pontja szerinti foglalkoztatottként bejelentett személy az adóhatóság felé is bejelentésre került-e a felszámoló szervezet által (vagyis, hogy a foglalkoztatási jogviszony nem fiktív jellegű), és ha igen mikortól.
+
+Az adatigénylésre és annak teljesítésére az elektronikus ügyintézés bevezetésére figyelemmel kizárólag elektronikus úton kerülhet sor. Az adatszolgáltatási kötelezettség összhangban van az adózás rendjéről szóló 2017. évi CL. törvénnyel (a továbbiakban: Art.), tekintettel arra, hogy az Art. alapján az adótitkot képező adatot akkor is fel lehet használni, ha azt külön törvény előírja vagy megengedi.
+
+Indokolt továbbá a bűnügyi nyilvántartási rendszerből való adatigénylésekkel kapcsolatos eljárásrend módosítása is, mivel a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) és a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás, valamint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás rendjéről és a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjról szóló 53/2012. (XII. 22.) KIM rendelet előírásai alapján 2018. január 1. napjától a bűnügyi nyilvántartási rendszerből adatigénylésre kizárólag elektronikus úton van lehetőség a Bnytv. 67. § (1) bekezdés b) pontja alapján és a 69-70. §-ában foglalt eljárásrend szerint. Előbbiekre tekintettel az elektronikus úton történő adatigénylést célszerű a Cstv. 27/B. § (10) bekezdésében is megemlíteni.
+
+A Cstv. 27/C. § (4) és (4a) bekezdése alapján a felszámolói névjegyzék közhiteles hatósági nyilvántartás. A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdés és a 66. § (6) bekezdés alapján vezetett hatósági nyilvántartások adatai közérdekből nyilvános adatok. A Cstv. 27/D. § (8) bekezdése alapján a felszámolók névjegyzékét vezető szerv a felszámolók névjegyzékéről szóló kormányrendeletben meghatározott hatósági ellenőrzés keretében folyamatosan lát el hatósági ellenőrzési tevékenységet, és jogszabályi felhatalmazás alapján közhiteles hatósági nyilvántartást vezet - egyebek mellett - a Cstv. 27/C. § (4) bekezdés f) pontja alapján a 27/C. § (2) bekezdés g) pontja szerinti szakképzettséggel rendelkező személyek törvényben meghatározott személyes adatairól is. Azonban a hatályos normaszöveg kizárólag a bűnügyi nyilvántartásból igényelt adatokra korlátozva rendelkezik az adatkezelés határidejéről. A közhiteles hatósági nyilvántartás vezetési és az ezzel összefüggő folyamatos hatósági ellenőrzési kötelezettségének teljesítése érdekében indokolt, hogy a felszámolók névjegyzékét vezető szerv mindaddig jogosult legyen a Cstv. 27/C. § (4) bekezdés f) pontja szerinti személyes adatok kezelésére, amíg az érintett Cstv. 27/C. § (2) bekezdés g) pontja szerinti szakképzettséggel rendelkező személy a 27/C. § (4a) bekezdés szerinti nyilvántartások egyikében szerepel felszámoló szervezettel fennálló munkaviszonya, tagi vagy munkavégzésre irányuló egyéb jogviszonya alapján.
+
+A Cstv. hatályos 49/E. § (3) bekezdése kizárólag a pályázat értékeléséről készített jegyzőkönyv feltöltésével és megküldésével, megtekinthetőségével kapcsolatban tartalmaz rendelkezést, holott ez értelemszerűen az árverés eredményének megállapításáról készült jegyzőkönyvre is vonatkozik, ezért a jelen módosítással a törvény szövege pontosításra kerül. A jegyzőkönyv feltöltése és megküldése során a felszámoló köteles gondoskodni az adatvédelmi követelmények betartásáról. Az elektronikus útra történő áttérés következtében szükségtelenné válik kinyomtatni a jegyzőkönyvet, így az erre való utalás a normaszövegből törlésre kerül.
+
+A felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet 1. §-a szerint, az adós vagyontárgyainak nyilvános értékesítésére 2015. január 1-jétől a világhálón elérhető elektronikus értékesítési rendszert (a továbbiakban: EÉR) kell alkalmazni minden olyan esetben, amikor Cstv. 49. § (1) bekezdése értelmében a nyilvános értékesítés kötelező. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény alapján a vagyonrendezési eljárásokban és a végelszámolási eljárásokban a pályázati és árverési értékesítések szintén az EÉR felületén történnek. Az elektronikus értékesítésre kétféle eljárásban van lehetőség: pályázat és árverés útján. Az elektronikus értékesítésre vonatkozóan a hatályos törvényszöveg általános jelleggel 5 éves megőrzési kötelezettséget ír elő az informatikai rendszer működtetője számára. Az archiválás részletszabályait, és az 5 éves megőrzési kötelezettség alóli kivételeket jelenleg az EÉR Felhasználói Szabályzata tartalmazza, azonban ezeket garanciális jellegük miatt célszerű a Cstv. 49/E. § (5)-(6) bekezdésében rögzíteni. Mivel nagy számban fordulnak elő olyan felszámolási eljárások, amelyek 5 éven belül nem fejeződnek be, ezért hitelezővédelmi szempontból indokolt az értékesítésre vonatkozó adatok és dokumentumok megőrzési idejét a felszámolási eljárások jogerős befejezéséig biztosítani.
+
+A megőrzési idő meghosszabbítását indokolja az a körülmény is, hogy az elektronikus értékesítés során nagyszámú elektronikus számla kibocsátásra is sor kerül, és e számlák és bizonylatok megőrzésének idejére az Art. öt évnél hosszabb megőrzési kötelezettséget ír elő, és további indokot jelent a vagyonértékesítéssel összefüggésben számításba jöhető bűncselekmények elkövetése esetén az elévülési idő is. Az informatikai rendszer illetve a felszámoló az általa az értékesítési eljárással összefüggésben kezelt adatokat - ideértve a személyes adatokat is -, valamint az értékesítési eljárásokkal összefüggésben feltöltött dokumentumokat kizárólag az eljáró hatóság, bíróság, ügyész, valamint a büntetőügyben eljáró egyéb szervek, személyek részére továbbíthatja. Ha az értékesítési eljárással összefüggésben nem indult bírósági vagy hatósági eljárás, az adatokat és az értékesítési eljárásokkal összefüggésben feltöltött dokumentumokat öt évig kell aktív állományban kezelnie az informatikai rendszernek és a felszámolónak. Ezt követően további öt évig - ha a felszámolási eljárás még nem fejeződött be, akkor a felszámolási eljárást jogerős befejezéséig - archív állományba kell áthelyeznie és ott kell tárolnia az informatikai rendszernek és a felszámolónak a felszámolási értékesítési adatokat és az informatikai rendszerbe feltöltött dokumentumokat. Ezt követően az adatokat az adatvédelmi szabályzatban meghatározott módon kell meg semmisíteni. Az értékesítéssel összefüggő okiratok elhelyezéséről az 53. §-ban meghatározott módon gondoskodik a felszámoló. Adatvédelmi szempontból is jelentőséggel bír, hogy az informatikai rendszer működtetője illetve a felszámoló megőrzési idő lejártáig jogosult és egyúttal köteles is kezelni az értékesítési eljárás során tudomására jutott adatokat, ideértve a személyes adatokat is, és köteles gondoskodni az adatvédelmi követelmények betartásáról.
+
+A Cstv. 49/E. § (6) bekezdésében kimondásra kerül, hogy az elektronikus árverés eredményének megállapításáról, valamint az elektronikus pályázat értékeléséről készült jegyzőkönyv feltöltése és megküldése során a felszámoló köteles gondoskodni az adatvédelmi követelmények betartásáról.
+
+A 49/E. § módosításával összhangban a törvény a Cstv. 49/G. § (2) bekezdésének módosításával egészíti ki a felszámolási értékesítésben részt vevő árverező, pályázó adatainak kezelésére vonatkozó rendelkezéseket.
+
+A hitelezők tájékoztatása és az iratbetekintés során a Cstv. módosított 49/H. §-a alapján a felszámoló köteles gondoskodni az adatvédelmi követelmények betartásáról.
+
+A 6. §-hoz
+
+Jogtechnikai jellegű módosítás.
+
+A 7-9. §-hoz
+
+A törvény a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) adatszolgáltatási nyilvántartás vezetésére vonatkozó előírásaiba beépíti a Rendeletben foglaltakra történő hivatkozást.
+
+A törvény továbbá pontosítja az Nytv.-t, mivel az az Infotv. 15. §-a szerinti tájékoztatást írja elő, azonban a jövőben az érintett hozzáférési jogának a Rendelet által bevezetett fogalmát kell alkalmazni.
+
+A törvény ezen felül a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény (a továbbiakban: Kkszt.) módosításával összhangban az Nytv. azon rendelkezéseit is hatályon kívül helyezi, amelyek tekintetében a Kkszt. rendelkezéseire való utalás elhagyása egyébként indokolt.
+
+A 10-11. §-hoz
+
+Jogtechnikai jellegű módosítások.
+
+A 12-14. §-hoz
+
+A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 44. § (1) bekezdés b) pontjában szabályozott közlekedésrendészeti intézkedés során az ellenőrzési kötelezettséghez a törvény nem rendel adatkezelési határidőt, noha az ellenőrzés során közvetlen elektronikus adatkapcsolat útján az adatok továbbításra kerülnek a BM nyilvántartás adataival történő egyeztetés, illetve a HERMON Körözési Nyilvántartásban történő ellenőrzés érdekében, valamint összekapcsolásra kerülhetnek az Rtv. 42. § (1) bekezdése alapján rögzített képfelvételekről kinyert adatokkal. Ezért az Rtv. 91/J. § kiegészítése szükséges a 30 napos adatkezelési határidővel.
+
+A közvetlen hozzáféréssel biztosított adattovábbítás Infotv.-ben rögzített lehetőségére figyelemmel az Rtv. (a bűnüldözési adatok továbbításának az adatkezelőnél történő kérelmezését szabályozó) 91/G. §-a hatályon kívül helyezendő a párhuzamos szabályozás elkerülése érdekében.
+
+A 15. §-hoz
+
+A bírósági végrehajtásról szóló törvény módosításának az indoka az eddigi széttagolt adatkezelési rendszerek egységesítése, ezáltal segítve a Rendeletben is megjelenő adatkezelési műveletek minimalizálásának, továbbá az adattakarékosságnak az elvét. Magyar Bírósági Végrehajtói Kar Hivatala által fejlesztés és bevezetés alatt álló új Integrált Végrehajtási Rendszer (IVR) olyan informatikai rendszer lesz, amely bevezetését követően az eddigi széttagolt rendszerek helyett egységesen fogja biztosítani az ügyviteli feladatok átlátható és hatékony ellátását az önálló bírósági végrehajtók és a Kar hivatali szerve számára. Figyelemmel az informatikai rendszer által kezelt személyes adatokra, szükséges a rendszer működtetésének alapvető szabályait törvényi szinten rögzíteni.
+
+A 16. §-hoz
+
+A szabadalom megadására irányuló eljárás korai fázisában - így az angol nyelven kutatást folytató kutatóhelyektől, valamint a külpiacokon aktív, így nemzetközi oltalomszerzésben érdekelt gazdasági szereplőktől származó bejelentés esetén - a szabadalmi bejelentésnek az oltalmazni kért találmányt feltáró, illetve a szabadalmi oltalom terjedelmét meghatározó egyes mellékletei (szabadalmi leírás, igénypontok, kivonat, és adott esetben a rajz) gyakran nem állnak rendelkezésre magyar nyelven. A módosítás eredményeként ezen mellékletek magyar fordításának benyújtására a korábban egységesen meghatározott négy hónapos határidő - feltéve, hogy a mellékleteket angol nyelven nyújtották be - tizenkét hónapra emelkedik azzal, hogy ha a bejelentő a bejelentési napnál korábbi elsőbbséget érvényesít [az Szt. 61. § (1) bekezdés b) és c) pontjai alapján], akkor a fordítás benyújtásának határideje a legkorábbi elsőbbség napjától számított tizenhat hónap, amennyiben ez korábban jár le, mint a fenti 12 hónapos határidő.
+
+A szabadalmi bejelentés angol nyelvű mellékletei vonatkozásában a magyar nyelvű fordítás benyújtására előírt határidő meghosszabbítása egyúttal elegendő időt biztosít az SZTNH számára ahhoz, hogy a bejelentés és annak mellékletei - adott esetben az alaki hiányosságok pótlásával együtt is - a legkorábbi elsőbbség napját követő tizennyolcadik hónap elteltével [ld. Szt. 70. § (1) bek.] közzétételre kerülhessenek. Az elsőbbségre utaló kiegészítő szabályt az indokolja, hogy belső vagy uniós elsőbbség érvényesítése esetén a közzététel akár az SZTNH előtti bejelentés megtételétől számított hatodik hónap elteltét követő időpontban is megtörténhet, és ilyen esetekben is biztosítani kell a magyar nyelvű szabadalmi iratok rendelkezésre állását.
+
+A módosítás abban az esetben is biztosítja annak a lehetőségét, hogy a bejelentő - a szabadalmi bejelentés angol nyelvű mellékleteit módosítva - újabb írásos véleménnyel kiegészített újdonságkutatási jelentés elkészítését kérje, ha az első ilyen jelentés a bejelentés angol nyelvű mellékletei alapján készült. A bejelentőnek ezáltal lehetősége nyílik arra, hogy az angol nyelvű mellékletekkel benyújtott szabadalmi bejelentésével egészen a nemzetközi (vagy külföldi oltalomszerzési) szakasz megkezdéséig folytassa az SZTNH előtti eljárást.
+
+A szabadalmi bejelentést az Szt. 70. § (1) bekezdése alapján a legkorábbi elsőbbség napjától számított tizennyolc hónap elteltével közzé kell tenni. A törvénynek megfelelően - amellett, hogy az eljárás nyelve a magyar marad - legkésőbb a szabadalmi bejelentés közzétételének időpontjáig továbbra is minden ügyben rendelkezésre kell állnia a bejelentés magyar nyelvű mellékleteinek. A törvény ezzel továbbra is biztosítja a szabadalmi bejelentés iratainak magyar nyelvű megismeréséhez fűződő garanciális érdekek érvényesülését.
+
+A 17. §-hoz
+
+A törvény az új rendelkezéseknek megfelelően pontosítja a bejelentés benyújtását követően vizsgálni rendelt követelményeket. Az Szt. 65. § c) pontja szerinti - még az alaki vizsgálatot megelőző - vizsgálatnak az a célja, hogy megállapítsa: a bejelentés mellékleteit - így a leírást, az igénypontokat, a kivonatot és adott esetben a rajzot - magyar nyelven nyújtották-e be. Ha nem, úgy az Szt. 66. §-ának kiigazított (12) bekezdése alapján az SZTNH figyelmezteti a bejelentőt a törvényi határidők (a mellékletek nyelvétől függően négy vagy tizenkét hónap, figyelemmel az elsőbbségre vonatkozó, fentebb ismertetett szabályra is) be nem tartásának jogkövetkezményére, azaz a bejelentés visszavontnak tekintésére.
+
+A 18. §-hoz
+
+Az újdonságkutatási jelentés elkészítésének előfeltételei úgy módosulnak, hogy a magyar nyelvű mellékletek rendelkezésre állását előíró főszabály mellett lehetővé válik az írásos véleménnyel kiegészített újdonságkutatási jelentés elkészítése abban az esetben is, ha a bejelentő az Szt. 69/A. §-ának új (13) bekezdése szerint azt a bejelentés angol nyelvű mellékletei alapján kéri.
+
+A 19. §-hoz
+
+A módosítás eredményeként az SZTNH a szabadalmi bejelentés angol nyelvű mellékletei (leírás igényponttal, valamint adott esetben rajz) alapján is elkészítheti az írásos véleménnyel kiegészített újdonságkutatási jelentést.
+
+A törvény az angol nyelvű dokumentáció alapján elkészített írásos véleménnyel kiegészített újdonságkutatási jelentésért fizetendő igazgatási szolgáltatási díjat a magyar nyelvű mellékletek alapján készült írásos véleménnyel kiegészített újdonságkutatási jelentés díjának négyszeresében jelöli meg, a díjpolitikai alapelveknek megfelelően a tevékenység ellátása önköltségének figyelembevételével.
+
+A díjak különbsége abból adódik, hogy az SZTNH-nak a bejelentők számára biztosított új típusú írásos véleménnyel kiegészített újdonságkutatási jelentések esetében angol nyelvű beadványok alapján kell elvégeznie a kutatást és az előzetes vizsgálatot. Ennek során további nehézséget jelent, hogy a magyar nyelvű írásos vélemény elkészítéséhez az SZTNH-ra hárul a bejelentés jellemzően nagy terjedelmű mellékletei szaknyelvi értelmezésének terhe is. Szintén a feladat komplexitását növelheti, hogy - mivel a szabadalmi bejelentési eljárás sajátosságaiból adódóan a jelentés elkészültéig nem kerül sor a szabadalmi bejelentés alaki hiányosságainak korrekciójára -, az igénypontok megfelelő értelmezése adott esetben nehézkes lehet.
+
+A díj mértékét indokolja továbbá, hogy az angol nyelvű mellékletek alapján végzett újdonságkutatás és ezek alapján az írásos vélemény elkészítésének lehetővé tétele elsősorban az angol belső kutatási nyelvű vállalatokat és kutatóhelyeket célozza. A díj mértékének megállapítása során ugyanakkor - tekintettel az egyetemi kutatóhelyekre és a kkv-szektorra is - figyelembe kellett venni azt is, hogy az SZTNH által a szabadalmi bejelentési eljárástól függetlenül, önköltségi áron kínált „Szabadalmazhatósági véleménnyel kiegészített újdonságkutatás” elnevezésű, hasonló tartalmú szolgáltatás díja több mint kétszerese az angol nyelvű mellékletek alapján elkészített írásos véleménnyel kiegészített újdonságkutatási jelentés díjának.
+
+Fontos, hogy az Szt. 115/R. § (1) bekezdése, valamint 115/S. § (3) bekezdése alapján a díj a kérelem benyújtásának napján esedékes, a kérelmet pedig a díj megfizetéséig nem lehet benyújtottnak tekinteni. Ebből következően az írásos véleménnyel kiegészített újdonságkutatási jelentés iránti kérelem benyújtásától számítandó határidőket - ha ezek a későbbiek - a díj beérkezésének napjától kell számítani.
+
+Ha a bejelentő az írásos véleménnyel kiegészített újdonságkutatási jelentés elkészítését angol nyelvű mellékletek alapján kérte, azonban
+
+- a szabadalmi bejelentés nem felel meg a bejelentési nap elismeréséhez előírt feltételeknek [Szt. 58. § (1) bek.], vagy
+
+- azzal kapcsolatban nem fizették meg a bejelentési és a kutatási díj teljes összegét, továbbá
+
+- ha a bejelentés az összes igénypont vonatkozásában alkalmatlan az újdonságkutatás elvégzésére, illetve
+
+- amennyiben nem fizették meg a 69/A. § új (13) bekezdése szerinti díj teljes összegét, az SZTNH a kérelmet elutasítja, a befizetett díjat pedig kérelemre visszafizeti.
+
+Az első két feltétel hiánya esetén újdonságkutatási jelentés sem készíthető, ilyen esetekre nézve azonban - tekintettel arra, hogy nem fordulhatott elő ilyen helyzet - az Szt. korábban nem rendelkezett a 69/A. § (6) bekezdése szerinti írásos vélemény készítésével kapcsolatban követendő eljárásról. A kutatható igénypontok teljes hiánya esetére vonatkozó speciális szabályozás bevezetése lehetővé teszi, hogy az SZTNH a bejelentői érdekek szem előtt tartásával a kérelem beérkezését követően a kérelmet elutasító végzésben időveszteség nélkül tájékoztassa a bejelentőt az igénypontok hiányosságairól, továbbá a bejelentő visszaigényelhesse a kérelem díját. E szabályok rögzítésének hiányában a bejelentő egy, csupán a hiányokra utaló jelentést kapna a befizetett díjért, ez utóbbi azonban nem szolgálná a hazai bejelentők azon alapvető célját, hogy minél korábbi időpontban kaphassanak egy indoklással ellátott előzetes véleményt bejelentett találmányuk oltalmazhatóságának esélyeiről.
+
+A szabadalmi bejelentés angol nyelvű mellékletei alapján készített írásos véleménnyel kiegészített újdonságkutatási jelentéssel kapcsolatos eljárásra irányadóak a magyar nyelvű iratok alapján készült hasonló tárgyú jelentéskészítés főbb szabályai. E körbe tartozik az SZTNH által kibocsátott iratok köre, a vizsgálat alapját képező törvényi feltételeknek való megfelelés, valamint a kérelem benyújtásának határideje tekintetében előírt szabályok. Közös szabály továbbá, hogy ha a jelentés postázására az SZTNH mulasztása folytán nem kerül sor a törvényes határidőn belül, akkor az SZTNH a kérelem díját visszafizeti. Végül, az angol nyelvű mellékletek alapján készített jelentés esetén is lehetősége van a bejelentőnek arra, hogy a szabadalmi bejelentés angol nyelvű mellékleteinek módosítását követően újabb írásos véleménnyel kiegészített újdonságkutatási jelentést kérjen.
+
+Ha a kérelem megfelel a törvényi feltételeknek, az SZTNH angol nyelvű mellékletek esetén a kérelem benyújtásának napján rendelkezésre álló leírás, igénypont és adott esetben rajz alapján, a kérelem benyújtásától számított hat hónapon belül készíti el és küldi meg a jelentést. A kérelem napján rendelkezésre álló mellékletek alapulvételét indokolja, hogy - mivel az idegen nyelvű bejelentések vonatkozásában nem végezhető alaki vizsgálat - az eljárás ezen szakaszában nem készülhet olyan hiánypótlási felhívás, amellyel összefüggésben sor kerülhet a mellékletek egy későbbi, módosított változatának benyújtására.
+
+Az angol nyelvű mellékletek alapján készített írásos véleménnyel kiegészített újdonságkutatási jelentés elkészítésére egységesen előírt hat hónapos törvényi határidőt egyfelől a díjkalkulációnál ismertetett többletnehézségek (így az angol nyelvű mellékletekből adódóan a fordítás időszükséglete, valamint az esetlegesen nehezebben értelmezhető igénypontok) magyarázzák. A határidő meghatározásakor ugyanakkor figyelemmel kellett lenni arra a körülményre is, hogy a módosítás egyik kiemelt célcsoportját jelentő exportorientált innovatív vállalatok kutatás-fejlesztési projektjeik függvényében rövid időszakon belül, adott esetben nagyszámú, egy-egy szűk szakterületre összpontosuló szabadalmi bejelentés tekintetében is kérhetnek angol nyelvű mellékletek alapján írásos véleménnyel kiegészített újdonságkutatási jelentést. A jelentéskészítésre nyitva álló rövidebb határidő előírása esetén az SZTNH nem lenne képes nagy számban, egy adott műszaki területre koncentráltan érkező kérelmek tekintetében garantálni a törvényi határidő betartását. Ugyanakkor a hat hónapos határidő nem szab gátat annak, hogy az SZTNH az erőforrásokhoz igazodva a jelentéseket még e határidő leteltét megelőzően elkészítse és megküldje a bejelentőnek.
+
+A 20. §-hoz
+
+A törvény szerinti módosításokkal kapcsolatos átmeneti rendelkezés - a jogbiztonság követelményének szem előtt tartásával - az Szt. nyelvhasználati szabályaival kapcsolatos új rendelkezéseket azok hatálybalépése napjával azonos vagy azt követő bejelentési nappal rendelkező szabadalmi bejelentések tekintetében rendeli alkalmazni.
+
+A 21. §-hoz
+
+A törvény egyúttal végrehajtja az Szt. technikai korrekcióját is: a hatályos Szt. kodifikációs hiba eredményeként két azonos számú §-t tartalmaz (117/C. §). Ezek közül az „első” 117/C. §-ban foglalt rendelkezést a törvény az elektronikus ügyintézési szabályokkal kapcsolatos korábbi és időközben feleslegessé vált átmeneti szabály helyére emeli át új számozással (117/B. §).
+
+A 22. §-hoz
+
+Annak ellenére, hogy a szabadalmi eljárások magyar nyelven folynak, az Szt. kivételt engedő szabályai [Szt. 52. § (1) és (2) bek.] alapján egyes esetekben a szabadalmi leírást az igényponttal, a rajz feliratát és a kivonatot, illetve egyéb beadványokat a szabadalmi ügyekben idegen nyelven is el lehet készíteni és be lehet nyújtani. Az SZTNH gyakorlatában már hagyományosan megszokottnak tekinthető az idegen nyelvű beadványok befogadása terén tanúsított nagyfokú rugalmasság. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (Ákr.) iratokra vonatkozó előírásaival [65. § (3) bek.] való összhang megteremtése érdekében a rendelkezés - a hitelesítésen túlmenően - kiegészül a külföldi iratról készült fordítás felülhitelesítésének nevesítésével.
+
+A törvény emellett elvégzi a szabadalmi bejelentések mellékleteivel kapcsolatos nyelvhasználati szabályok és az azokkal összefüggő, a szabadalmi bejelentés angol nyelvű mellékletei alapján kérelmezhető írásos véleménnyel kiegészített újdonságkutatási jelentéssel kapcsolatban bekövetkező változásokból eredően szükséges technikai kiigazításokat [Szt. 69/A. § (6) és (8) bek.].
+
+A 23. §-hoz
+
+Az Szt. technikai korrekciójának részeként szükséges a két azonos számú § (117/C. §) közül az egyik törlése.
+
+A 24-25. §-hoz
+
+A hatóság által kezelt személyes adatok kezelésére vonatkozó rendelkezéseket mint kötelező adatkezelést törvényben kell elhelyezni. Az új, illetve változó jogszabályi rendelkezésekre tekintettel szükséges a légiközlekedésről szóló 1995. évi XCVII. törvény személyes adatok hatósági kezelésre vonatkozó szabályait kiigazítani, különös tekintettel a hatóság hivatalból tudomására jutott személyes adatok kezelésének alapvető szabályai, és az adatkezelés időtartama vonatkozásában.
+
+A 26-27. §-hoz
+
+Az Rendelet (47) preambulumbekezdése szerint a személyes adatok közvetlen üzletszerzési (direkt marketing) célú kezelése jogos érdeken alapuló adatkezelésnek tekinthető, ekként az európai jogalkotó is kifejezetten megjelenítette, hogy értelmezésében a személyes adatok közvetlen üzletszerzéssel összefüggő kezelése az Rendelet 6. cikk (1) bekezdés f) pontja szerinti jogalapon alapulhat. A törvény a Kkszt.-ben található, a közvetlen üzletszerzésre vonatkozó szabályok hatályon kívül helyezésével az adatkezelők közvetlenül Rendelet rendelkezéseire alapíthatják az erre irányuló adatkezeléseiket. A törvény ezzel párhuzamosan, az Nytv. módosítása tekintetében elvégzi a Kkszt.-re irányuló utalások hatályon kívül helyezését is.
+
+A 28. §-hoz
+
+A törvény a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben szereplő, az Infotv.-t érintő hivatkozás pontosítását célozza.
+
+A 29-31. §-hoz
+
+A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvényt (a továbbiakban: Szaz.) pontosító módosítás a Rendelettel összhangban biztosítja, hogy az összerendelési nyilvántartáshoz kapcsolódó szolgáltatás esetén a szolgáltatás útján lekérdező szerv az adott azonosítóhoz kapcsolódó titkosított kapcsolati kód kezelésére is jogosult legyen. Ezáltal aggálytalanul használhatja a szolgáltatást.
+
+A Szaz. 7. § (4) bekezdésében a különböző azonosító kódokat tartalmazó nyilvántartások elkülönítetten történő vezetésének előírása elavult, két évtizeddel ezelőtti szabályozási koncepció alapján született előírás, amely nem ismerte a hozzáférési jogosultságok szabályozásának elvét, hanem a nyilvántartások szétválasztásában látta az adatvédelem garanciáit, ezért deregulálható. A Rendelet szerint a személyes adatok kezelését úgy kell végezni, hogy megfelelő technikai vagy szervezési intézkedések alkalmazásával biztosítva legyen a személyes adatok megfelelő biztonsága, az adatok jogosulatlan vagy jogellenes kezelésével, véletlen elvesztésével, megsemmisítésével vagy károsodásával szembeni védelmet is ideértve.
+
+A gépjárműadóról szóló 1991. évi LXXXII. törvény (a továbbiakban: Gjt.) 5. § f) pontja értelmében mentes az adó alól a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő adóalany, valamint a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő személyt rendszeresen szállító, vele közös háztartásban élő közeli hozzátartozó adóalany egy darab - 100 kW teljesítményt meg nem haladó, nem a külön jogszabály szerinti személytaxi - szolgáltatásra és személygépkocsis személyszállító szolgáltatásra használt - személygépkocsija után legfeljebb 13 000 forint/adóév erejéig. A Gjt. 15. § 12. pontja értelmében az adóalanynak a mentesség tényét az ott meghatározott - többek között TAJ számot is tartalmazó - szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja.
+
+A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 14/A. §-a (építményadó) és 26/A. §-a (magánszemély kommunális adója) biztosítja többek között az életkorától függetlenül a megváltozott munkaképességű személyek ellátásaiban részesülő magánszemélyek részére a Htv.-ben meghatározott feltételek szerint, hogy az építményadó és magánszemély kommunális adófizetési kötelezettségét illetően adófelfüggesztés iránti kérelemmel élhet az önkormányzati adóhatóságnál. A megváltozott munkaképességről szóló - orvosi - igazolás tartalmazza a jogalany TAJ számát. Mindezek alapján szükséges biztosítani azt, hogy az önkormányzati adóhatóságok a Gjt.-ben rögzített törvényi mentesség megállapítása, és a Htv. szerinti adófelfüggesztés iránt benyújtott kérelmek elbírálása, továbbá a nyilvántartás-vezetés során kezelhessék az adóalanyok TAJ számát.
+
+A 32. §-hoz
+
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény (a továbbiakban: Ttv.) 8. § (6) bekezdése alapján a tűzoltással, műszaki mentéssel és ezek jelzésével kapcsolatban keletkezett költségek megtérítésére az köteles, aki a beavatkozást igénylő eseményt szándékosan okozta, vagy a tűzoltásra, a műszaki mentésre vonatkozóan szándékosan megtévesztő jelzést adott, továbbá akinek a gondatlansága miatt téves automatikus tűzátjelzés keletkezett.
+
+E rendelkezés gyakorlati alkalmazása során problémaként merült fel, hogy ha a jelzésadó személye vagy a téves jelzés tényleges okozója a hivatásos katasztrófavédelmi szerv számára nem ismert, más szervnek vagy intézménynek hiába van róla tudomása, a károkozó adatait erre vonatkozó konkrét adatkezelési felhatalmazó rendelkezés hiányában mégsem bocsáthatja a hivatásos katasztrófavédelmi szerv rendelkezésére. A kártérítést a hivatásos katasztrófavédelmi szervnek így nem áll módjában követelni.
+
+A közhatalmi szerv feladatellátása körében ezért az adatkezeléshez a jogalap törvényben történő rögzítése szükséges, hogy a költségek megtérítése biztosított legyen. Gépjárművet érintő káresemény kapcsán a tűzvédelmi hatóság az ügyfél, illetve a biztosító társaság kérelmére - jellemzően biztosítási ügyekben történő felhasználáshoz - a káresemény igazolására hatósági bizonyítványt állít ki. A káreseménnyel érintett gépjármű azonosítására indokolt annak rendszámát a tűzoltóságnak a beavatkozás során a helyszínen rögzítenie, így a hatósági bizonyítványból egyértelműen azonosítható a kárt szenvedett gépjármű. A módosítás a rendszám adatgyűjtési körbe vonását célozza. Tűzjelzés fogadására nemcsak a Ttv. alapján jelzésfogadónak minősülő szervek jogosultak, és a jelzésfogadáshoz szükséges, az adatok felvételére vonatkozó adatkezelési jogalap esetükben történő megteremtése is elengedhetetlen.
+
+A jelzésfogadó részére a felvett adatok megőrzésére vonatkozó adatkezelési jogalap megteremtése ugyancsak szükséges, mivel annak jogosultja eddig kizárólag a tűzoltóság volt, azonban a tűzjelzések fogadásának jelentős részét a jelzésfogadó hívásfogadó központ végzi.
+
+A módosítás egyidejűleg a tűzoltóság Ttv. szerinti fogalmába nem tartozó közreműködő önkéntes tűzoltó egyesületek részére is adatkezelési jogalapot teremt, mivel a közreműködő önkéntes tűzoltó egyesület adott esetben a helyszínen adatokat rögzíthet.
+
+A hivatásos katasztrófavédelmi szerv adatkezelést adattovábbítás címzettjeként eddig is végezhetett hatósági eljárásban, azonban az adatkezelési jogosultság konkrét megjelölése a korábbi rendelkezést pontosítja, összhangban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény azon elvárásával, hogy az adott hatósági ügyben kezelhető adatok körét az adott ügyre vonatkozó ágazati jogszabály határozza meg.
+
+A Rendelet preambulumának (50) bekezdése alapján, ha az adatkezelés közérdekből elvégzendő feladat végrehajtása vagy az adatkezelőre ruházott közhatalmi jogosítvány gyakorlása érdekében szükséges, uniós vagy tagállami jog meghatározhatja és pontosan leírhatja azokat a feladatokat és célokat, amelyek tekintetében a további adatkezelés jogszerűnek és összeegyeztethetőnek tekintendő. Ez alapján a közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból folytatott további adatkezelést összeegyeztethető, jogszerű adatkezelési műveleteknek kell tekinteni.
+
+A módosítással beillesztett új rendelkezés szerinti adatkezelés így a hivatásos katasztrófavédelmi szerv által az OSAP keretében összeállítandó, továbbá a tűzesetek és egyéb káresemények megelőzéséhez szükséges elemzéseket alátámasztó statisztikák elkészítéséhez indokolt.
+
+A tűzoltóságnál készenlétben tartott tűzvédelmi technika felülvizsgálatával, javításával összefüggő tevékenységet folytatókat az elsőfokú tűzvédelmi hatóság, vagyis a hivatásos katasztrófavédelmi szerv területi szerve tartja nyilván. A hivatásos katasztrófavédelmi szerv központi szerve a már egyébként nyilvánossá vált adatokat - amelyekből a személyes adat elenyésző mennyiségű - publikálja tovább. A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 30. § (2) bekezdése értelmében ugyanis a szolgáltatás felügyeletét ellátó hatóságnak az általa vezetett nyilvántartás alapján a szolgáltatók egyes adatait az interneten, bárki számára ingyenesen és korlátozásmentesen hozzáférhető módon, naprakészen közzé kell tennie. A közzétételhez szükséges adatkezeléshez a jogalapot a jogbiztonság szempontjából törvényben indokolt rögzíteni. A központi, nyilvánosan hozzáférhető nyilvántartás célja, hogy tűzvédelmi technika javítására vonatkozó igény esetén egy helyen álljon rendelkezésre információ arról, hol található olyan szolgáltató, aki képes elvégezni a felülvizsgálatot, javítást.
+
+A Ttv. 18/A. § (1) bekezdése értelmében a tűzvédelmi, gazdasági és műemléki szempontból kiemelt fontosságú létesítményekre a hivatásos tűzoltóság Tűzoltási és Műszaki Mentési Tervet (a továbbiakban: TMMT) készít, amelyhez a Ttv. 18/A. § (2) bekezdése szerint a létesítmény felett rendelkezési jogot gyakorló műszaki és kapcsolattartási adatokat biztosít. A Ttv. 18/A. § (2) és (5) bekezdésében foglalt hatályos adatkezelési jogalap (kapcsolattartási adatok kezelése) azonban konkrét adatokat nem határoz meg.
+
+A Rendelet preambulumának (45) bekezdése alapján elegendő az adatkezelési cél tagállami jogban történő meghatározása, azonban a tagállami jog az adatkezelés tárgyát képező személyes adatok típusát, az érintetteket, azokat a szervezeteket, amelyekkel a személyes adatok közölhetők, az adatkezelés céljára vonatkozó korlátozásokat, az adattárolás időtartamát, valamint egyéb, a jogszerű és tisztességes adatkezelés biztosításához szükséges intézkedéseket is meghatározhatja. A Ttv. új rendelkezése ezért rögzíti, hogy a hivatásos tűzoltóság a TMMT elkészítéséhez szükséges kapcsolattartási adatként mely adatokat kezelheti.
+
+A 33-34. §-hoz
+
+A munkaügyi hatóság adatkezelését szabályozó előírások jelenleg a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben találhatóak. Indokolt, hogy ezek a szabályok a munkaügyi ellenőrzésről szóló törvényben szerepeljenek a jövőben. A munkaügyi ellenőrző és munkavédelmi ellenőrző hatóságok a magyar közigazgatás rendszerében mindig egy szervezeten belül tevékenykedtek, és a munkaügyi hatóság rendelkezésére álló munkaügyi nyilvántartásokhoz való hozzáférés elengedhetetlen a hatékony munkavédelmi ellenőrzés lefolytatásához is.
+
+A módosítás továbbá felhatalmazást ad a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/H. §-ában szabályozott nyilvántartások tekintetében a foglalkoztatáspolitikáért felelős miniszternek arra, hogy a nyilvántartásokhoz való hozzáférés biztosításának részletszabályait megalkossa.
+
+A törvény kiegészíti a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény hatályos szabályait az adatkezelő személyének és az adatkezelés céljának - a rendelet által előírt - meghatározásával, valamint az adatkezelő számára előírja az adatkezeléssel kapcsolatos tájékoztató közzétételét, rendelkezik a kezelt adatok felhasználásáról, az adatokhoz való hozzáférési jogosultságról, illetve azok törléséről. A munkaügyi hatóság a be nem jelentett jogviszonyt a Met. 1. § (5) bekezdés alapján minősítheti; a folyamatosan fennálló jogviszony esetében a jogviszony létrejöttéig visszamenőlegesen. A huzamosabb ideig az adott munkáltatónál foglalkoztatott (vagy nyugdíjasként továbbfoglalkoztatott) munkavállaló jogviszonya rendezettségének megállapításához szükséges a hosszabb, 50 éves adatkezelési idő.
+
+A 35-37. §-hoz
+
+A Rendelet 4. cikk 15. pontja meghatározza az egészségügyi adat fogalmát, azonban az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) egyes rendelkezéseinek hatálya kiterjed az elhunyt személyekre is, ezért szükséges az egészségügyi adat fogalomkörében kitérni arra, hogy ennek része az elhalálozott személyek halálának oka, és a haláluk körülményei is.
+
+A Rendelet 4. cikk 1. pontja meghatározza a személyes adat fogalmát. A magyar jogrendszerben és az Eüak.-ban is szerepelnek olyan adatok, amelyek hatályon kívül helyezése az Eüak. egészét inkoherensé tenné, ezért szükséges a fogalom kiegészítése a személyazonosságra vonatkozó előírásokkal.
+
+Pontosításra kerülnek a személyes és az egészségügyi adatok kezeléséhez szükséges hozzájárulás megadásának feltételei. A Rendelet 7. cikke megállapítja az adatkezeléshez való hozzájárulás feltételeit. A Rendelet 12. cikk (5) bekezdése általánossá teszi az adatokba való betekintést, illetve az adatokról való másolat díjmentes biztosítását. Erre figyelemmel szükséges az Eüak. 7. § (3) bekezdésének módosítása. A Rendelet a további másolatokért díj szedését lehetővé teszi. Annak érdekében, hogy az egészségügyi adatot kezelő egészségügyi szolgáltatók és egyéb adatkezelők a további másolatokért azonos díjat szedjenek az egészségügyért felelős miniszter által rendeletben meghatározott költségelemek figyelembevételével kell megállapítani a díjfizetést.
+
+A törvény elvégzi az adatvédelmi felelősök helyébe adatvédelmi tisztviselőkkel összefüggő, a Rendelet által szükségessé tett módosításokat is.
+
+A 38-39. §-hoz
+
+Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 37/B. § (3) bekezdésében szereplő merev hivatkozás pontosítását tartalmazza.
+
+A 40-41. §-hoz
+
+A jogtechnikai jellegű pontosítások.
+
+A 42. §-hoz
+
+A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény rendvédelmi szerveket meghatározó rendelkezéseinek Országgyűlési Őrséggel összefüggő pontosítását, valamint az Infotv.-re való hivatkozások törlését célozza.
+
+A 43. §-hoz
+
+A külföldre utazásról szóló 1998. évi XII. törvénynek az Infotv.-re való hivatkozást tartalmazó rendelkezését módosítja.
+
+A 44. §-hoz
+
+A szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) módosításának célja annak egyértelműsítése, hogy az árva művek felhasználásának a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH) általi engedélyezésére, illetve az ennek során már megadott felhasználási engedély visszavonására irányuló eljárás megindításához szükséges kérelmekhez pontosan mely adatokat szükséges az SZTNH rendelkezésére bocsátani. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.) meghatározott elektronikus ügyintézés lefolytatásához elengedhetetlen, hogy ezen adatokat - így természetes személyek esetén a négy természetes személyazonosító adatot, nem természetes személyek esetében pedig az adószámot - az SZTNH megismerhesse és kezelhesse. A Rendelet 6. cikk (1) bekezdés c) és e) pontjai, az Alaptörvény I. cikk (3) bekezdése, valamint az Infotv. 5. § (3) bekezdése értelmében a kötelező adatkezelés elrendeléséről és feltételeiről alapvetően törvényi szinten kell rendelkezni. Az SZTNH általi adatkezelés jogszerűségéhez ennek megfelelően - a személyes adatok kezelésével kapcsolatos jogszabályi rendelkezésekből fakadóan - szükséges az adatkezeléssel érintett adatok törvényi szintű nevesítése. Az ismert jogosultakra vonatkozóan kezelendő - szintén a kérelem tartalmi elemeit képező - továbbá az árva művek felhasználására vonatkozóan kiadott engedélyekről vezetett nyilvántartásban kezelt személyes adatok körét az árva mű felhasználásának részletes szabályairól szóló 138/2014. (IV. 30.) Korm. rendelet (a továbbiakban: Árva R.) már korábban is megállapította, de mivel ezt nem törvényi szinten tette, ezért vált szükségessé az Szjt. ezen kiegészítése.
+
+A törvény a bírósági felülvizsgálati kérelmek kötelező adattartalmát megállapító előírásokat hozzáigazítja az árva mű felhasználásával kapcsolatos engedélyezési, és a felhasználási engedély visszavonására irányuló ügyekben benyújtott kérelmek adattartalmát meghatározó előírásokhoz.
+
+A mű önkéntes műnyilvántartásba vételére irányuló kérelem, a mű önkéntes nyilvántartásba vételéről kiállított tanúsítvány visszavonására irányuló kérelem, valamint a korábban szerzőként bejegyzett személy önkéntes műnyilvántartásból történő törlésére irányuló kérelem esetén a kérelmező azonosítását lehetővé tevő adatok körét eddig az önkéntes műnyilvántartás részletes szabályairól szóló 26/2010. (XII. 28.) KIM rendelet állapította meg. Az SZTNH általi adatkezelés jogszerűségéhez - a személyes adatok kezelésével kapcsolatos jogszabályi rendelkezésekből fakadóan - ugyanakkor szükségessé vált az adatkezeléssel érintett adatok törvényi szintű nevesítése. Ennek megfelelően a törvény révén immár az Szjt. határozza meg a kérelmezőre vonatkozóan kezelendő személyes adatok körét.
+
+Az adatkezelés az E-ügyintézési tv.-ben meghatározott elektronikus ügyintézés megfelelő igénybevételéhez és használatához szükséges.
+
+A 45. §-hoz
+
+A víziközlekedésről szóló törvény 48/C. § (3) és (4) bekezdésében meghatározott adattovábbítás, illetve statisztikai célú adatfelhasználás szabályozása az unió adatvédelmi reformjára tekintettel feleslegessé vált, így hatályon kívül helyezés szükséges.
+
+A 46. §-hoz
+
+A törvény az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvénynek az Infotv.-re való hivatkozást tartalmazó rendelkezését módosítja.
+
+A 47-49. §-hoz
+
+Mivel a társasházakról szóló 2003. évi CXXXIII. törvényben szereplő kamerarendszer alkalmazása csak lehetőség a társasházak számára, ezért a kamerarendszer alkalmazásából fakadó adatkezelés nem kötelező adatkezelés [vagyis nem a Rendelet) 6. cikk (1) bekezdés c) és e) pontján, és nem az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 5. § (3) bekezdésén alapul], hanem jogos érdeken alapuló adatkezelés [az adatkezelő, valamint harmadik személy jogos érdekeinek érvényesítéséhez szükséges - Rendelet 6. cikk (1) bekezdés f) pont]. Ezért a kamerarendszerre vonatkozó szabályozás nagy részének hatályon kívül helyezése, valamint egyes kisebb pontosítások elvégzése szükséges, összhangban az e tekintetben központi szabályozást tartalmazó, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosításával.
+
+Az 50-52. §-hoz
+
+Mivel a lakásszövetkezetekről szóló 2004. évi CXV. törvényben szereplő kamerarendszer alkalmazása csak lehetőség a lakásszövetkezetek számára, ezért a kamerarendszer alkalmazásából fakadó adatkezelés nem kötelező adatkezelés [vagyis nem a Rendelet) 6. cikk (1) bekezdés c) és e) pontján, és nem az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 5. § (3) bekezdésén alapul], hanem jogos érdeken alapuló adatkezelés [az adatkezelő, valamint harmadik személy jogos érdekeinek érvényesítéséhez szükséges - Rendelet 6. cikk (1) bekezdés f) pont]. Ezért a kamerarendszerre vonatkozó szabályozás nagy részének hatályon kívül helyezése, valamint egyes kisebb pontosítások elvégzése szükséges, összhangban az e tekintetben központi szabályozást tartalmazó, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosításával.
+
+Az 53-55. §-hoz
+
+Az unió adatvédelmi reformjára tekintettel a távhőszolgáltatásról szóló 2005. évi XVIII. törvény azon rendelkezéseit, melyek indokolatlanul írtak elő kötelező adatkezelést a szolgáltató és a felhasználó szerződéses kapcsolata vonatkozásában, valamint kizárólagosan hivatkozott az információs önrendelkezési jogról és az információszabadságról szóló törvényre hatályon kívül helyezni szükséges, a jogszabályi koherencia biztosítása érdekében.
+
+Az 56-58. §-hoz
+
+A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvényben (a továbbiakban: Szvmtv.) az adatkezelés jogalapjának megjelölését deregulálni kell, mivel az nincs összhangban a Rendelet szerinti jogalappal.
+
+Az Infotv. hatályának változása miatt a törvény deregulál, illetve szükség szerint módosít olyan törvényi rendelkezéseket, amelyek az Infotv. legutóbbi módosításának hatálybalépésével megszűnt vagy megváltozott tartalmú jogintézményeket szabályoznak, vagy amely jogintézményeket az adott tárgykörben már nem az Infotv., hanem a Rendelet mint közvetlenül alkalmazandó norma szabályoz. A törvény szerinti módosítások értelmezésénél így ebben az esetben is figyelemmel kell lenni arra, hogy valamely előírás deregulációja nem szükségképpen az abban foglalt kötelezettség megszűnését jelenti, hanem egyes esetekben csupán azt, hogy a kötelezettség a továbbiakban a közvetlenül alkalmazandó uniós jogból fakad.
+
+Az 59. §-hoz
+
+Az Unió adatvédelmi reformjára tekintettel a kereskedelemről szóló törvény vásárlók könyvére vonatkozó rendelkezéseit, melyek lehetővé tették a korábbi panasztevők személyes adataihoz való hozzáférést, szigorítani szükséges. A módosítás kötelező veszi a kereskedő számára, hogy a panaszt tartalmazó bejegyzést haladéktalanul eltávolítsa elkülönítetten tárolja a későbbi hatósági felhasználás érdekében.
+
+A 60-62. §-hoz
+
+Az uniós adatvédelmi reformra tekintettel szükséges az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvény - a korábban is a kötelező nyilvántartási célok közé tartozó - képzéssel, képesítéssel kapcsolatos adatkezelés pontosítása, valamint statisztikai célból átadott adatokra vonatkozó rendelkezéseinek hatályon kívül helyezése.
+
+A 63. §-hoz
+
+A törvény kiegészíti a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvényt a Magyar Könyvvizsgálói Kamara fegyelmi eljárásai tekintetében a személyes adatok kezelésére vonatkozó rendelkezésekkel a Rendeletnek való megfelelés érdekében. A törvény meghatározza továbbá, hogy a Könyvvizsgálói Kamara által kezelt személyes adatokat mikor kell törölni a nyilvántartásból.
+
+A 64-66. §-hoz
+
+Az unió adatvédelmi reformjára tekintettel a villamos energiáról szóló törvény azon rendelkezéseit, melyek indokolatlanul írtak elő kötelező adatkezelést a szolgáltató és a fogyasztó szerződéses kapcsolata vonatkozásában hatályon kívül helyezni szükséges a jogszabályi koherencia biztosítása érdekében.
+
+A módosítást követően a kötelező adatkezelés köre jelentősen leszűkült, alapvetően az energiaellátás biztonságos fenntartását szolgáló garanciális, illetve a védendő fogyasztói kedvezményt szolgáló területekre. Ez utóbbi kötelező adatkezelésként történő fenntartása részben az adatvédelmi rendeletre, részben azért szükséges, mert az egyetemes szolgáltatótól a jogalkotó nem várhatja el, hogy önmagában a szerződéses kapcsolat keretében kedvezményt biztosítson a rászoruló fogyasztó számára.
+
+Az adatkezelés kötelező fenntartása viszont továbbra is indokolt a MEKH határozattal kijelölt szolgáltató váltást közvetlenül megelőző időszakban, hogy a szolgáltatási területet átvevő szolgáltató felkészülhessen a fogyasztói igények kielégítésére. Ezen adatok kezelése a szolgáltató váltást követően már mint szerződésen alapuló jogcímen történik.
+
+A 67. §-hoz
+
+Jogtechnikai pontosítás.
+
+A 68. §-hoz
+
+A törvény a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény személyes adatok védelmére vonatkozó rendelkezéseinek pontosítását célozza, valamint jogtechnikai jellegű módosítások.
+
+A 69-71. §-hoz
+
+A törvény a humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól szóló 2008. évi XXI. törvényben rögzíti, hogy az egészségügyről szóló 1997. évi CLIV. törvény, az Eüak, és az Rendelet értelmező rendelkezéseit is figyelembe kell venni a törvény alkalmazása során. A Rendelet 4. cikk 13. pontjában meghatározott genetikai adat fogalmával és a Rendelet harmadik országba történő adattovábbítást szabályozó rendelkezéseivel biztosítja a törvény az összhangot.
+
+A 72-74. §-hoz
+
+Az unió adatvédelmi reformjára tekintettel a földgázellátásról szóló törvény azon rendelkezéseit, melyek indokolatlanul írtak elő kötelező adatkezelést a szolgáltató és a fogyasztó szerződéses kapcsolata vonatkozásában hatályon kívül helyezni szükséges a jogszabályi koherencia biztosítása érdekében.
+
+A módosítást követően a kötelező adatkezelés köre jelentősen leszűkült, alapvetően az földgázellátás biztonságos fenntartását szolgáló garanciális, illetve a védendő fogyasztói kedvezményt szolgáló területekre. Ez utóbbi kötelező adatkezelésként történő fenntartása részben az adatvédelmi rendeletre, részben azért szükséges, mert az egyetemes szolgáltatótól a jogalkotó nem várhatja el, hogy önmagában a szerződéses kapcsolat keretében kedvezményt biztosítson a rászoruló fogyasztó számára.
+
+Az adatkezelés kötelező fenntartása viszont továbbra is indokolt a MEKH határozattal kijelölt szolgáltató váltást közvetlenül megelőző időszakban, hogy a szolgáltatási területet átvevő szolgáltató felkészülhessen a fogyasztói igények kielégítésére. Ezen adatok kezelése a szolgáltató váltást követően már mint szerződésen alapuló jogcímen történik.
+
+A 75. §-hoz
+
+Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény (a továbbiakban: Kjnp.) hatályos 15. § (1) bekezdése az adatkezelésre vonatkozó szabályok tekintetében is csak utal arra, hogy a bíróságokra vonatkozó jogszabályok megfelelően irányadóak. Tekintettel arra, hogy ezekben az eljárásokban adatkezelőnek a közjegyző minősül, indokolt egy az adatkezelőt, az adatok körét és az adatkezelés időtartamát is meghatározó rendelkezés beiktatása a Kjnp.-be.
+
+A 76-77. §-hoz
+
+A törvény az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvénynek a Rendelettel és a módosított Infotv.-vel való koherenciáját hivatott biztosítani az azokra történő felesleges hivatkozások és párhuzamosságok kiküszöbölése érdekében.
+
+A 78. §-hoz
+
+A törvény az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozás hatályon kívül helyezését célozza.
+
+A 79. §-hoz
+
+A törvény a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozások felülírását célozza.
+
+A 80. §-hoz
+
+A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvénynek a személyes adatok harmadik országba történő továbbítását szabályozó rendelkezés Rendelettel való összhangját biztosítja.
+
+A 81. §-hoz
+
+Módosítja az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvényt (a továbbiakban: ÁPBtv.). Az Ágazati Részvételt Megállapító Bizottság (a továbbiakban: ÁRMB) személyes adatként kezeli az érdekképviseletek képviselőjének nevét és szakszervezeti hovatartozását. Az ÁPBtv. 21. § (4) bekezdés a) pontja szerint a megelőző határozat véglegessé válásától számított öt év elteltével - amennyiben a felek kérelmezik - az ÁRMB ismételten megállapító határozatot hoz. Amennyiben a felek ezt nem kérelmezik, az ÁRMB megszünteti az Ágazati Párbeszéd Bizottságot, azaz a személyes adatok kezelése ekkor is megszűnik. A kötelező ötévenkénti felülvizsgálatra tekintettel a törvény az ÁPBtv.-t olyan szabállyal egészíti ki, amely a személyes adatok kötelező ötévenkénti felülvizsgálatát is tartalmazza, továbbá meghatározza, hogy a korábbi határozat alapjául szolgáló személyes adatokat mikor kell törölni a nyilvántartásból.
+
+A 82. §-hoz
+
+A minősített adat védelméről szóló 2009. évi CLV. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozások felülírását célozza.
+
+Az 83-84. §-hoz
+
+Az anyakönyvi eljárásról szóló 2010. évi I. törvényben (a továbbiakban: At.) szereplő, az Infotv.-re vonatkozó felesleges hivatkozások felülírását, valamint az At. Rendelettel összefüggő terminológiai pontosítását célozza.
+
+A 85. §-hoz
+
+A Nemzeti Adó- és Vámhivatal adatkezelésére vonatkozó speciális, illetve kiegészítő rendelkezések meghatározását célozza az Infotv. 5. § (3) bekezdésével összhangban.
+
+A 86. §-hoz
+
+Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény adatkezelési szabályainak fogalomhasználatát pontosítja a Rendelettel - különösen annak fogalomhasználatával - való koherencia megteremtése érdekében.
+
+A 87. §-hoz
+
+A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozás hatályon kívül helyezését célozza.
+
+A 88-89. §-hoz
+
+Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben a Rendelet alkalmazását követően kialakult gyakorlati tapasztalatok alapján szükséges módosításokat, pontosításokat hajtja végre.
+
+A törvény egyrészt egyértelművé teszi, hogy a Hatóság a vizsgálati eljárás során is érdemi vizsgálat nélkül elutasítja az olyan bejelentést, amely nem tartozik a hatáskörébe és a rendelkezésre álló adatok alapján a bejelentés tárgya tekintetében hatáskörrel rendelkező szerv kiléte sem állapítható meg. A törvény továbbá lehetővé teszi a Hatóság számára, hogy a települési önkormányzat jegyzője kizárólag a Hatóság erre irányuló megkeresése esetén ellenőrizze az illetékességi területén folytatott, a Hatóság által a megkeresésben megjelölt adatkezelés tényleges körülményeit.
+
+A törvény ezen felül a Hatóságnak a Rendelet végrehajtása során felmerült tapasztalatai alapján, a Hatóság megnövekedett ügyterhére is tekintettel a Hatóság számára az eljárás lefolytatására rendelkezésre álló határidőt is megemeli.
+
+A törvény végül az Infotv. tekintetében pontosító jellegű, a jogszabályon belüli koherencia megteremtése érdekében szükséges módosításokat is tartalmaz.
+
+A 90-92. §-hoz
+
+A Rendelet előírásaival való összhang megteremtése érdekében a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvényt (a továbbiakban: Kat.) is módosítani kell.
+
+A minősített önkéntes mentőszervezetek rendeltetése a hivatásos katasztrófavédelmi szerv tevékenységének támogatása, gyakran speciális képességeikkel, képzettségeikkel. A minősített önkéntes mentőszervezet tagjairól felvett nyilvántartásban ezért szükséges az adott személy járművezetői engedélye típusának és kategóriájának rögzítése is, mivel ezen információ birtokában tervezhető a járművezetők beosztása a beavatkozáshoz rendelkezésre álló, különböző típusú és funkciójú járművekre. Bizonyos gépjárművek ugyanis csak speciális (C, D vagy E kategóriájú) vezetői engedéllyel vezethetőek, így az ilyen eszközökre nem osztható be a B kategóriás jogosítvánnyal rendelkező személy. A nehézgépkezelői vagy kishajó-vezetői engedély hiányában szintén nem lehet az adott személyt ilyen eszközök kezelésével megbízni.
+
+A veszélyes áruk szállítása során számos esetben olyan külföldi állampolgárok érintettek, akiknek a neve annak írásmódja miatt nehezen rögzíthető, így az intézkedéssel érintett személy azonosításának legbiztosabb módja a személyi okmány számának kezelése. A Kat. 24/D. § (3) bekezdésben - a hivatásos katasztrófavédelmi szerv általi intézkedésről szóló jelentés tartalma tekintetében - jelenleg hivatkozott, az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény az intézkedéssel érintett személy vonatkozásában csak a név kezelését határozza meg, ami az intézkedés alá vont személy azonosításához nem elegendő. Az azonosítás a későbbi esetleges panaszügyben viszont elengedhetetlen. Az azonosítást megnehezíti, ha csak név áll rendelkezésre. A módosítás ezért lehetővé teszi az intézkedéssel érintett személy lakcímének és személyi okmánya számának kezelését.
+
+A katasztrófavédelmi tevékenység hatékonyabb végrehajtása érdekében a felkészülés, a beavatkozás időszakában, valamint a helyreállítási feladatok ellátása során kiemelkedően fontos a polgári védelmi szervezetekbe beosztottak, a védelmi igazgatás résztvevői, valamint az eseménykezelésben érintett gazdálkodó szervezetek, intézmények adatainak nyilvántartása. A hatályos szabályozás alapján a hivatásos katasztrófavédelmi szerv több olyan adat (pl. telefonszám, e-mail elérhetőség) tekintetében nem rendelkezik törvényben foglalt adatkezelési felhatalmazással, amely egy eseménykezelésnél hozzájárulna a katasztrófák következményeinek gyorsabb elhárításához. E hiányosság egyes adatok tekintetében jelenleg az érintett hozzájárulásának beszerzésével áthidalható, ez azonban nem lesz elfogadható gyakorlat a Rendelet előírásai alapján, figyelemmel a Rendelet preambulumának (43) bekezdésében foglaltakra. A törvény célja ezért a hivatásos katasztrófavédelmi szerv által végezhető adatkezeléseken belül a kezelhető adatfajták számának növelése, a nem kellő részletezéssel és nem a megfelelő jogszabályi szinten meghatározott adatkezelések szabályainak pontosítása, továbbá az egyébként közérdekből nyilvános adatok katasztrófavédelmi célú adatbázisban történő hasznosíthatósága.
+
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény fogalmaival való összhang megteremtését célozza a Kat. 79. § (1) bekezdésének módosítása, az adatkezeléssel érintett adatok meghatározásának pontosításával.
+
+A személyiségi jogok körében a Polgári Törvénykönyv védi a képmáshoz, hangfelvételhez fűződő jogokat, de a képmás és az emberi hang egyben személyes adat is. A törvény a Rendelet 6. cikk (1) bekezdésének e) pontjával összhangban lehetővé teszi, hogy a hivatásos katasztrófavédelmi szerv állományának tagja a hatósági eljárás vagy beavatkozás során az érintett személyről, illetve tárgyról kép- és hangfelvételt készítsen, és a katasztrófavédelmi szerv készenléti szerein és objektumain térfigyelő kamerát helyezzen el.
+
+A minősített önkéntes mentőszervezetek tagjainak személyes adataira a védekezésbe történő bevonás mellett a felkészítés és a gyakorlatok megszervezése érdekében is szükség van. Ezen adatok nélkül a gyakorlatra történő kiutazások, felkészítések esetén a résztvevők regisztrációját, utazását, szálláshely biztosítását, a szaktudásnak megfelelő tanfolyam kiválasztását nem lehetne megoldani.
+
+A 93. §-hoz
+
+A polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozás hatályon kívül helyezését célozza.
+
+A 94. §-hoz
+
+A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozás hatályon kívül helyezését célozza.
+
+A 95. §-hoz
+
+A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvényben szereplő, az Infotv.-re vonatkozó szükségtelen hivatkozás hatályon kívül helyezését célozza.
+
+A 96-99. §-hoz
+
+Az Unió adatvédelmi reformjára tekintettel a víziközmű-szolgáltatásról szóló törvény azon rendelkezéseit, melyek indokolatlanul írtak elő kötelező adatkezelést a szolgáltató és a felhasználó szerződéses kapcsolata vonatkozásában hatályon kívül helyezni szükséges a jogszabályi koherencia biztosítása érdekében.
+
+A módosítást követően a kötelező adatkezelés köre részben az ellátásért felelősre szűkül egyrészt a víziközmű fejlesztési feladatainak megalapozása, másrészt a szolgáltató váltást gördülékenységének biztosítása céljából, hogy az ellátási területet átvevő szolgáltató felkészülhessen a fogyasztói igények kielégítésére.
+
+A kötelező adatkezelés továbbra is indokolt a védendő fogyasztói kedvezmény biztosítása érdekében, ugyanis a víziközmű-szolgáltatótól a jogalkotó nem várhatja el, hogy önmagában a szerződéses kapcsolat keretében kedvezményt biztosítson a rászoruló felhasználó számára.
+
+A 100-102. §-hoz
+
+A munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 9. § (2) bekezdésének módosításával a munkavállaló személyiségi jogai korlátozásának szigorúbb feltételeit állapítja meg, amennyiben e jogok korlátozásának munkáltató általi lehetőségét előzetes írásbeli tájékoztatáshoz köti azzal, hogy a tájékoztatásnak - bővítve az Mt. 9. § korábbi (2) bekezdésében rögzített tartalmi követelményeket - ki kell terjednie a korlátozás szükségességét és arányosságát alátámasztó körülményekre is.
+
+A törvény kiegészíti Mt.-t egy új adatkezelési alcímmel. Az új alcímben kerülnek meghatározásra a munkáltató személyes adatkezeléssel és a különleges adatok kezelésével összefüggő jogai és kötelezettségei, összhangban a Rendelet 88. cikkében kapott felhatalmazással.
+
+Az Mt. 10. § (1)-(3) bekezdései a munkáltató által követelhető munkavállalói nyilatkozattal és a munkavállaló által közölt adattal, valamint az ezeket alátámasztó okiratok bemutatásával kapcsolatos rendelkezést tartalmaz, meghatározva ezek célját.
+
+Az Mt. 10. § (1) bekezdése tehát a munkaviszonyra nézve generálisan rendelkezik az adatkezelés céljáról. Az adatkezelés jogalapja tekintetében a Rendelet rendelkezései irányadóak. E rendelkezés ugyanakkor nem korlátozza a munkáltatónak a munkavállaló olyan személyes adatának kezelésére vonatkozó jogát, amelyet a munkavállaló külön jogszabály szerint megtett nyilatkozata tartalmaz.
+
+A törvény 10. § (4) bekezdése alapján a munkáltató kezelheti a foglalkozás-egészségügyi vizsgálat során keletkező egészségügyi adatot a Rendelet 9. cikk (2) bekezdés h) pontjával összhangban.
+
+A törvény alapján az Mt. 11. §-a - összhangban a biometrikus adatok fokozott védelmének igényével és a Rendelet 9. cikk (2) bekezdés b) pontjával - meghatározza azokat a kivételes esetköröket és különös feltételeket, amelyek fennállása esetén a munkáltató a munkavállaló biometrikus adatait kezelheti. Erre kizárólag valamely dologhoz vagy adathoz, elzárt területhez történő jogosulatlan hozzáférés megakadályozása érdekében kerülhet sor, amennyiben a jogosulatlan hozzáférés a munkavállaló vagy mások élete, testi épsége vagy egészsége, vagy valamely más törvényben védett érdek súlyos vagy tömeges sérelmének veszélyével járna. Az Mt. példálózó felsorolást is ad arra nézve, hogy mely törvényben védett érdek esetén lehet jogszerű a biometrikus adatok kezelése. Az elszámoltathatóság Rendeletben foglalt elvével összhangban a munkáltatónak az általános adatvédelmi szabályoknak való megfelelésen túl azt is igazolnia kell, hogy a biometrikus adatok kezelésére vonatkozó feltételek fennállnak.
+
+A törvény alapján az Mt. 11. § (3)-(4) bekezdése rendelkezik azon esetekről, amelyek körében az erkölcsi bizonyítvány kezelhető. A 11. § (3) bekezdése rendelkezik az adatkezelés céljáról, amely szerint a munkavállaló bűnügyi személyes adata annak vizsgálata céljából kezelhető, hogy törvény vagy a munkáltató a betölteni kívánt vagy a betöltött munkakörben nem korlátozza vagy nem zárja-e ki a foglalkoztatást. A 11. § (4) bekezdése határozza meg az adatkezelés feltételeit, mely alapján korlátozó vagy kizáró feltételt a munkáltató akkor határozhat meg, ha az adott munkakörben az érintett személy foglalkoztatása a munkáltató jelentős vagyoni érdeke, törvény által védett titok, lőfegyver, lőszer, robbanóanyag, a mérgező vagy veszélyes vegyi vagy biológiai anyagok, vagy nukleáris anyagok sérelmének veszélyével járna.
+
+Az Mt. új 11/A. §-a a munkáltató ellenőrzési jogköréből folyó adatkezeléséről, valamint a munkavállaló számára biztosított számítástechnikai eszközök használatáról és az eszközökön tárolt adatokba való betekintésről rendelkezik. A hatályos Mt. 11. § (1) bekezdése rendelkezik arról, hogy a munkáltató ellenőrzése és az annak során alkalmazott eszközök, módszerek nem járhatnak az emberi méltóság megsértésével. A törvényből e fordulat elhagyásra került, tekintettel arra, hogy nemcsak az ellenőrzések során, hanem a munkaviszony egészében, minden mozzanatában védeni kell az emberi méltóságot. Az emberi méltóság védelmére vonatkozó kötelezettség továbbá fakad abból is, hogy az Mt. 9. §-a alkalmazni rendeli a Polgári Törvénykönyvről szóló törvény személyiségi jogok védelmére vonatkozó rendelkezéseit.
+
+A munkáltató által biztosított számítástechnikai eszközökkel összefüggésben a hatályos rendelkezésekhez képest a változás abban mutatkozik meg, hogy a magánélet ellenőrzésének kizárása helyett a hangsúly arra kerül, hogy a munkavállaló a rendelkezésére bocsátott számítástechnikai eszközt kizárólag a munkaviszony teljesítése érdekében használhatja, mivel az Alaptörvényből és a Polgári Törvénykönyvről szóló törvényből is levezethető a munkáltató azon kötelezettsége, hogy a magánélet nem ellenőrizhető. A 11/A. § (4) bekezdése alapján tehát a munkáltató az átadott számítástechnikai eszközön tárolt adatba az ellenőrzés során addig tekinthet be, ameddig el nem tudja dönteni, hogy az adat magáncélú adat-e.
+
+Kollektív szerződés az Mt. I. fejezetében foglaltaktól nem térhet el, ami azt eredményezi, hogy ahol a Rendelet [9. cikk (2) bekezdés b) pont] a kollektív szerződéses szabályozásának teret enged, ott a kollektív szerződés csak az Mt. által nem szabályozott kérdésekben rendelkezhet.
+
+A 103. §-hoz
+
+A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozás felülírását, valamint az adattovábbítási nyilvántartásra fenntartása érdekében meghatározza, hogy azt az adatkezelési tevékenységek nyilvántartása részeként továbbra is vezetni szükséges a Szabs. tv. 165. § (1) bekezdésében meghatározott adattartalommal
+
+A 104. §-hoz
+
+Az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 111. § (3) bekezdése és 112. § (1) bekezdése értelmében a képviselő tevékenységét segítő alkalmazottak juttatásaihoz kapcsolódó adminisztrációs feladatokat, ennek keretében szükség esetén a társadalombiztosítási nyugellátásra való jogosultság igazolását is az Országgyűlés Hivatala végzi. A képviselő tevékenységét segítő alkalmazottak munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók a 112. § (4) bekezdése alapján. A gyakorlatban ez azt jelenti, hogy bár az országgyűlési képviselő a foglalkoztató (munkáltató, megbízó) - azzal, hogy a munkáltatói jogkört az Országgyűlés Hivatala ellenjegyzésével gyakorolja -, de valamennyi adminisztrációs feladatot az Országgyűlés Hivatala teljesíti. Indokolt tehát a képviselő tevékenységét segítő alkalmazottakról az Országgyűlés Hivatala által kezelt adatkör és a megőrzési idő törvényben történő rögzítése. A törvény ennek módját a közszolgálati tisztviselőkről szóló törvény személyi anyag megőrzésére vonatkozó ötven éves határidejéhez igazítja azzal, hogy - figyelembe véve a jogviszony és a jogviszony szereplőinek eltérőségét - az érintettnek lehetőséget ad a kezelt adatai törlésének kérelmére a jogviszony megszűnésétől számított tíz év elteltével.
+
+A 105. §-hoz
+
+Az Országgyűlés Hivatala - törvényben előírt általános felhatalmazás hiányában - jelenleg elsősorban hozzájárulás alapján jogosult kezelni az országgyűlési képviselők személyes adatait. A törvény lehetővé teszi, hogy az Országgyűlés Hivatala az Ogytv. 123. § (1) bekezdésében meghatározott, az Országgyűlés szervezeti, működtetési, ügyviteli tevékenységének ellátásával összefüggő feladatok ellátása érdekében kezelhesse az országgyűlési képviselők természetes személyazonosító adatait, lakcímét, értesítési címét és telefonszámát, társadalombiztosítási azonosító jelét, adószámát, keresetére és jogviszonyára vonatkozó adatokat.
+
+A törvény az Országgyűlés Hivatala egyes, az Ogytv.-ben szabályozott feladatai ellátásához szükséges, az országgyűlési képviselők meghatározott személyes adataira vonatkozó adatkezelési tevékenységet is szabályozza, meghatározva, hogy az Országgyűlés Hivatala mely célokból, milyen időtartamig és mely személyes adatokat kezelheti. A hosszabb, ötven éves megőrzési időtartam a társadalombiztosítási nyugellátáshoz szükséges szolgálati idő és kereseti adatok bizonyítása céljából szükséges, igazodva a Kttv. 184. §-ában előírtakhoz. Az Ogytv. beiktatni tervezett 124/U. § (4) bekezdése kapcsán indokolt felhívni a figyelmet az Ogytv. 97. §-ának előírására, amely szerint a képviselői megbízatás időtartama a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít, amelyet például közszolgálati idő számításánál is e jogviszonyban töltött szolgálati időnek kell beszámítani. Erre is tekintettel - a Kttv. analógiájára - kerülne meghatározásra a megőrzési idő.
+
+A Rendeletnek történő megfelelést szolgálja, hogy a törvény a beléptetést nyilvántartó rendszer esetében rendezi az adatkezelés jogalapját, azt törvényen alapuló jogalapra pontosítva. A módosítás meghatározza a kezelendő adatok körét, továbbá a megőrzési idő tekintetében differenciált szabályokat állapít meg a jogosultsági adatok és a mozgási adatok törlése tekintetében, azonban az adatkezelés kötelező időtartama a hatályos szabályozáshoz képest nem változik.
+
+Az Országgyűlés - mint a népképviseleti demokrácia legfontosabb intézménye - biztonságának és külső befolyástól mentes működésének biztosítását az Alaptörvény is külön meghatározza és 5. cikk (9) bekezdésében nevesíti a legfőbb népképviseleti szerv védelmére önálló fegyveres testületként az Országgyűlési Őrség működését. Az ebben a körben végzett személyvédelmi és létesítménybiztosítási feladatok - az Országgyűlés elnökének, valamint az országgyűlési képviselőknek és az Országházban, illetve az Országgyűlést kiszolgáló létesítményekben megforduló védett személyeknek a védelme - önmagában is rendkívüli jelentőségű és fontosságú, nemzetbiztonsági érdekeket is érintő feladatok. Mindezek mellett az Országház épületei látogatóinak nagy száma - arra is figyelemmel, hogy az Országház és környéke minősül egyedüliként kiemelt nemzeti emlékhelynek - szintén megkövetelik az Országház épületébe belépők esetében a fokozott ellenőrzést. Ennek részeként indokolt az Ogytv. hatálybalépése óta fennálló és gyakorlati tapasztalatokkal is igazolt adatkezelési idő fenntartása.
+
+A jogosultsági adatok ötéves megőrzési idejét a fenti személy- és létesítményvédelmi feladatok mellett, a házelnök rendészeti jogkörének biztosítása (ld. kitiltás foganatosítása), valamint a négyéves parlamenti ciklushoz igazodó sajtó és szakértői belépők nyomon követhetősége is indokolja. A módosítás a jelenlegi közös adatkezelő helyett, a gyakorlati tapasztalatok alapján az Országgyűlés Hivatalát jelöli meg egyedüli adatkezelőként, hiszen e szerv hoz döntéseket az adatkezeléssel összefüggésben és szolgáltat egyedi ügyekben adatokat. Az Országgyűlési Őrség ellenőrzi a belépni szándékozó személy személyazonosságát, azonban további adatkezelést nem végez, így a törvény e feladat végrehajtása érdekében biztosít közvetlen hozzáférést a beléptető rendszerhez. A módosítás meghatározza továbbá, hogy mely szervek milyen célból igényelhetnek a nyilvántartásból adatokat. A törvény rendezi a Kossuth tér felszín alatti mélygarázsba behajtási engedéllyel rendelkező személyek nyilvántartásának törvényi jogalapját is, ezzel összefüggésben szintén meghatározza a kezelendő adatok körét, az adatkezelés időtartamát, valamint az adatigénylés célját és az arra jogosultak körét.
+
+A 106. §-hoz
+
+A törvény meghatározza, hogy az Országház, az Országgyűlés Irodaháza, az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben való tartózkodás során a rend fenntartásában az Országgyűlés Hivatala is részt vesz.
+
+Az Országgyűlési Őrség által az Ogytv. 125. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása során megvalósított adatkezelés jogalapját a Rendelet 6. cikk (1) bekezdés e) pontja biztosítja. Ez a jogalap tartalmazhat a Rendeletben foglalt szabályok alkalmazását kiigazító, pontosító rendelkezéseket, ideértve különösen az adatkezelő általi adatkezelés jogszerűségére irányadó általános feltételeket, az adatkezelés tárgyát képező adatok típusát, az érintetteket, az adatkezelés céljára vonatkozó korlátozásokat, az adattárolás időtartamát és az adatkezelési műveleteket is.
+
+Az Ogytv. hatályos, az Országgyűlési Őrség adatkezelését meghatározó rendelkezéseit pontosítani szükséges a Rendelet és az Infotv. által azonosított, az adatkezelés garanciális feltételeinek való megfelelés kapcsán jelenleg az Ogytv. által nem szabályozott kérdésekben az Ogytv. 133. § (2a) bekezdése, illetve 137. § (2) bekezdése a Rendőrségről szóló törvényt (Rtv.) rendeli alkalmazni.
+
+Tekintettel arra, hogy az Országgyűlési Őrség tevékenységét az Ogytv. szabályozza, így az annak keretében végzett adatkezelés tekintetében is az Ogytv. tekinthető az adatkezelést elrendelő jogszabálynak, ezért a törvény ennek megfelelően rendezi az adatkezelést. Az Rtv. alkalmazását nehezíti továbbá, hogy a Rendőrség sokrétű feladataihoz igazodva, az intézkedés gyakran eseti jellegére tekintettel szabályozza a megfigyelést, míg az Országgyűlési Őrség létesítménybiztosítási és a személyvédelemi feladatai állandó és folyamatos jellegűek, amelyekhez más garanciális szabályok megfogalmazása szükséges.
+
+Az Ogytv. újonnan megállapítandó 137. § (1) bekezdése általános jelleggel határozza meg, hogy az Országgyűlési Őrség a törvényben meghatározott feladatai ellátásához szükséges és arányos mértékben az érintett természetes személyek mely személyes adatainak kezelésére jogosult.
+
+Az Ogytv. újonnan megállapítandó 137. § (2) és (3) bekezdése az Országgyűlési Őrség által az Ogytv. 125. § (1) és (2) bekezdésében meghatározott feladatai ellátásával összefüggésben készített képfelvételek, hangfelvételek, valamint kép- és hangfelvételek készítésének jogalapját teremtik meg. A törvény a kamerás megfigyeléssel összefüggésben részletes rendelkezéseket tartalmaz a felvételek készítésének céljára, a felvételek megőrzési idejére, a felhasználási lehetőségekre, a megismerésre jogosultakra, illetve az érintettek tájékoztatására vonatkozóan. A törvény a Nemzeti Adatvédelmi és Információszabadság Hatóság iránymutatásának megfelelően garanciális előírásként rögzíti, hogy a kamera nem helyezhető el olyan helyen, ahol az az emberi méltóságot sérti. Az Országgyűlési Őrség ügyeleti szolgálatához érkezett telefonhívások rögzítését és harminc napig történő megőrzését is szabályozza a törvény.
+
+Az Ogytv. 138. § (1) bekezdés a) pontjának módosítása indokolt az Országgyűlési Őrség elhelyezésére szolgáló épület nevesítésével, továbbá szükséges a belépni szándékozó külföldiek esetében elfogadható okmányokról is rendelkezni.
+
+A 107. §-hoz
+
+Az Ogytv. egyes rendelkezéseinek módosítása az Országgyűlési Őrség elhelyezésére szolgáló épület nevesítésének egységes megjelenítése folytán szükséges.
+
+A 108. §-hoz
+
+Hatályon kívül helyezi az Ogytv. azon rendelkezéseit, amelyeket a törvény - az adatkezelési elveknek megfelelően - részletesebben szabályoz.
+
+A 109-110. §-hoz
+
+A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítására a közlekedés területén általánosan alkalmazott megfigyelés és felvételkészítés szabályozásának Rendelettel való összhangjának biztosítása érdekében van szükség.
+
+A törvény meghatározza azon szolgáltatók és adatkezelési célok körét, melyek közérdekből, kötelező adatkezelési jogcímen képfelvételt készíthetnek és ezen adatok körét kezelik. Emellett nincs akadálya annak, hogy nem közérdekű tevékenységet végző személyszállítási szolgáltató - vagy a kötelező adatkezelésre egyébként feljogosított szolgáltató, ha éppen nem közérdekű szolgáltatási tevékenység körében jár el - képfelvételt készítsen a járművén és a hozzá kapcsolódó infrastruktúra területén akkor, ha az adatkezelését más jogszerű, de nem a személyszállítási szolgáltatásokról szóló törvényben meghatározott adatkezelési jogcímre hivatkozva alakítja ki.
+
+A 111-112. §-hoz
+
+Törli a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvényben szereplő, Infotv.-re vonatkozó felesleges hivatkozásokat.
+
+A 113. §-hoz
+
+A járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló 2012. évi XCIII. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozást tartalmazó, a települési önkormányzatoktól a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához átkerült államigazgatási feladat- és hatáskörökkel összefüggő, már végrehatottnak minősülő, ezért deregulálható adatkezelést érintő átmeneti rendelkezést helyez hatályon kívül.
+
+A 114. §-hoz
+
+Felülírja a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvényben szereplő, Infotv.-re vonatkozó felesleges hivatkozást.
+
+A 115. §-hoz
+
+A postai szolgáltatásokról szóló törvény adatkezelési szabályait akként módosítja, hogy az a továbbiakban csak az egyetemes postai szolgáltatás tekintetében tartalmazzon - kötelező adatkezelést elrendelő - adatkezelési szabályokat. Az egyetemes postai szolgáltatáson kívül eső körben a postai szolgáltatók közvetlenül a Rendelet alapján rendelkezésre álló jogalapok alapján kezelhetnek személyes adatokat.
+
+A 116. §-hoz
+
+A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvényben az Infotv. 22. §-ára vonatkozó merev hivatkozást módosítja.
+
+A 117-119. §-hoz
+
+A hulladékról szóló törvény módosítása alapvetően az Unió adatvédelmi reformjával való összhang, a párhuzamos, illetve az egymásnak ellentmondó szabályozás kiküszöbölése miatt szükséges. Az ingatlanhasználóra vonatkozó kötelező adatkezelést a törvény erejénél fogva bekövetkező szolgáltatás igénybevételi, illetve a hulladékgazdálkodási közszolgáltatóra, a Koordináló szervre vonatkozó szolgáltatás nyújtási kötelezettség a továbbiakban is megalapozza.
+
+A 120. §-hoz
+
+Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény (a továbbiakban: Ügkr.) módosításával meglévő hatósági nyilvántartásra vonatkozó rendelkezések kerülnek pontosításra, kiegészítésre az üzemeltetők üvegházhatású gáz kibocsátásával kapcsolatos jogok és kötelezettségek hatósági ellenőrzése területén. Az egyes kereskedési időszakok több éves időtartamúak, jelenleg a 3. kereskedési időszak 2013. január 1-től 2020. december 31-ig, a 4. kereskedési időszak pedig 2021. január 1-től 2030. december 31-ig tart. A tárolt adatok a tevékenység megszűnésekét követően a korábbi kereskedési időszakokra vonatkozó ellenőrzések, adatkérések teljesíthetősége miatt 5 év leteltével törölhetőek. A nyilvántartott adatok felhasználásra kerülnek a kiotói nyilvántartási rendszerben is, amelyben már az 1985-1987-es évek kibocsátási adatai is szerepelnek.
+
+Az Ügkr. 31/A. §-ában szabályozott nyilvántartás vezetésével kapcsolatos részletszabályok végrehajtási rendeletben történő megállapításának igénye szintén felmerül. A törvény tartalmazza az ehhez szükséges felhatalmazó rendelkezést a Kormány számára.
+
+A 121. §-hoz
+
+A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló törvénynek az adatvédelmi rendelettel és a módosított Infotv.-vel való koherenciáját hivatott biztosítani az azokra történő felesleges hivatkozások és párhuzamosságok kiküszöbölése érdekében, továbbá a törvény kiegészíti a kötelező adatkezelések körét a Hivatal által - a hatályos ágazati törvények alapján jelenleg is - végzett ügyfél elégedettségi szint mérés területén kezelendő személyes adatokra.
+
+A 122. §-hoz
+
+Hatályon kívül helyezi az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvényben szereplő, az Infotv.-re vonatkozó felesleges hivatkozást.
+
+A 123. §-hoz
+
+A törvény alapján az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvényben az Infotv.-re vonatkozó hivatkozást az adott jogintézményre vonatkozó hivatkozás váltja fel.
+
+A 124. §-hoz
+
+A törvény alapján körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvényben az Infotv.-re vonatkozó hivatkozást az adott jogintézményre vonatkozó hivatkozás váltja fel.
+
+A 125. §-hoz
+
+A törvény a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben az Infotv.-re vonatkozó hivatkozást, valamint a Rendeletben szabályozott, a harmadik országba történő adattovábbításra vonatkozó rendelkezést helyezi hatályon kívül.
+
+A 126-127. §-hoz
+
+A törvény a panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény módosítását is tartalmazza, tekintettel arra, hogy a Panasztv. számos adatkezelési szabályt tartalmaz, amelyek felülvizsgálata és megfelelő módosítása indokolt.
+
+Tekintettel arra, hogy az Infotv. 65. §-a szerinti adatvédelmi nyilvántartás intézménye a Rendelet alkalmazására tekintettel megszűnt, az erre vonatkozó szabályokat a Panasztv.-ből deregulálni indokolt.
+
+Szükséges a bejelentésben érintett személy fogalmának pontosítása az eddigi gyakorlati bizonytalanság eloszlatása céljából, tekintettel arra, hogy ennek hiányában a bejelentő számára is kérdésessé válhat, hogy ténylegesen mely személyek szerezhetnek tudomást a személyazonosságáról, adatairól, illetve mely személyekre fog a vizsgálat kiterjedni. Indokolatlan a Rendelet szabályaival ellentétesen fenntartani a különleges adatok kezelésére vonatkozó abszolút tilalmat, hiszen ez egyes bejelentések fogadását, kivizsgálását eleve lehetetlenné teszi. Ennek megfelelően a módosítás bizonyos körben, egyes garanciák beépítése mellett megteremti a különleges adatok kezelésére vonatkozó lehetőséget.
+
+Az állami, illetve helyi önkormányzati szervekhez történő közérdekű bejelentések és panaszok esetétől eltérően a munkáltatói visszaélés-bejelentési rendszer esetében indokolatlan a bejelentőket az azonosításukat lehetővé tévő személyes adataik megadására, a foglalkoztató szervezeteket pedig azok kezelésére kötelezni. A névtelen bejelentéseket a jogalkotónak ugyan nem kell támogatnia, azonban az anonim bejelentéseket is lehetővé tevő munkáltatói visszaélés-bejelentési rendszerek működtetését megakadályozni vagy megnehezíteni szükségtelen, különös tekintettel a Rendeletnek az anonimizálsára és az érintetteket védő rendelkezéseire. Jogi személyek esetén a személyes adatok védelmének szempontja ilyen súllyal nem merül fel, ezért a tekintetükben az azonosíthatóság és az ezzel kapcsolatos adatok megadásának követelményei fenntarthatók.
+
+Emellett a Panasztv. belső koherenciájának megteremtése érdekében szükséges egyes rendelkezések technikai jellegű pontosítása, többek között a munkáltató és a foglakoztatói szervezet fogalmának következetes használata, valamint a bejelentő fogalmának egyértelmű meghatározása.
+
+Kodifikációs szempontból indokolt a Panasztv. 15. § (1) bekezdésében található, a bejelentés kivizsgálására, továbbá a vizsgálat mellőzésére vonatkozó szabályok módosítása, valamint azok áthelyezése a 16. § (1)-(1b) bekezdésébe. Emellett a külföldre továbbítás szabályainak módosítása szükséges, tekintettel arra, hogy a Rendelet V. fejezete tartalmaz a tárgykörre vonatkozó rendelkezéseket.
+
+A törvény továbbá a Panasztv. belső koherenciájának megteremtése érdekében szövegpontosításokat is tartalmaz.
+
+A 128. §-hoz
+
+A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény módosítása mellőzi a normaszövegben az Infotv. szabályaira való utalást.
+
+A 129. §-hoz
+
+Az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény 10/A. § (2) bekezdésének pontosítása. A módosítás az Infotv.-re utaló szükségtelen hivatkozást törli, valamint egyértelművé teszi, hogy - hozzájárulás előírása helyett - a fogyasztó az akadálymentes számla igényléséhez a fogyatékosságát hogyan igazolhatja, illetve e körben meghatározza a szolgáltató által végzett adatkezelés feltételeit is.
+
+A 130-131. §-hoz
+
+A törvény egyértelműsíti, hogy a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 60. §-a szerinti csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettség teljesítésekor is mentesül az intézmény egyes védett ügyféladatok megtartásának kötelezettsége alól. A törvény ezen felül jogtechnikai pontosításokat is tartalmaz.
+
+A 132-134. §-hoz
+
+A törvény elvégzi a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvénynek a Rendelet alkalmazandóvá válásával összefüggésben szükséges terminológiai pontosítását, valamint rendelkezik a Rendelet 5. cikk (1) bekezdés e) pontjával azonos tartalmú szabályokat rögzítő, ezért feleslegessé vált előírás hatályon kívül helyezéséről.
+
+A törvény egyértelműsíti, hogy a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 60. §-a szerinti csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettség teljesítésekor is mentesül az intézmény egyes védett ügyféladatok megtartásának kötelezettsége alól.
+
+A 135-136. §-hoz
+
+A törvény gondoskodik a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény esetében az Infotv.-re vonatkozó hivatkozások törléséről, valamint a szükséges terminológiai pontosítások elvégzéséről.
+
+A 137-139. §-hoz
+
+A törvény a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosításával elvégzi az Infotv.-re vonatkozó hivatkozások törlését, a szükséges terminológiai pontosításokat, valamint az Irányelv, Rendelet és az Infotv. megváltozott hatályával összefüggő változtatásokat.
+
+A törvény egyértelműsíti, hogy a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 60. §-a szerinti csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettség teljesítésekor is mentesül az intézmény egyes védett ügyféladatok megtartásának kötelezettsége alól.
+
+A 140-142. §-hoz
+
+A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati viszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 33. § (1) bekezdés d) pontja rögzíti, hogy a szolgálati viszony létesítéséhez szükséges egy hozzájárulás a kifogástalan életvitel ellenőrzéséhez, egyben az érintett tudomásul veszi, hogy a szolgálati viszony fennállása alatt a hozzájárulását nem vonhatja vissza, mert az a szolgálati viszony törvény erejénél fogva történő megszűnését eredményezi. E szabályozási logika mellett indokolatlan, hogy az érintett hozzájárulása legyen szükséges az ezzel kapcsolatos adatkezeléshez.
+
+A személyügyi nyilvántartásban foglalt adatokat is szükségképpen kezelnie kell a rendvédelmi szervnek, nem lehet azok kezelését attól függővé tenni, hogy az érintett hozzájárulását adja-e vagy azt nem vonja-e vissza. Ennek megfelelően az adatkezeléshez való hozzájárulás helyett az adatkezelés tudomásulvételét írja elő a jövőben a Hszt. mind a hivatásos állomány tagja vagy a hivatásos állományba jelentkező, mind a közeli hozzátartozója esetében. A Hszt. szerint ez lesz az adatok kezelésének jogalapja, így az már nem írásbeli hozzájáruláson fog alapulni. A Rendelet 7. cikk (3) bekezdése egyértelműen kimondja, hogy az érintett jogosult arra, hogy a személyes adatok kezeléséhez adott hozzájárulását bármikor visszavonja, ezért e rendelkezésre tekintettel szükséges a Hszt. érintett rendelkezéseinek módosítása, mert a kifogástalan életvitel ellenőrzési rendszerében nem kezelhető az a helyzet, amikor a hozzátartozó visszavonja a hozzájárulását. A hivatásos állomány tagja esetében éppen a Hszt. 33. § (1) bekezdés d) pontja kezeli annak kérdését, hogy mi történik akkor, ha az érintett magához az ellenőrzés lefolytatásához (tehát nem az adatkezeléshez) adott hozzájárulását visszavonja; ekkor a törvény erejénél fogva megszűnik a jogviszonya. E szempontból sem indokolt még egy lehetséges adatkezelési hozzájárulás visszavonására megteremteni a lehetőségét.
+
+Egyes támogatások, kedvezmények elbírálásakor a hozzátartozókra vonatkozó adatok is részét képezik a kérelemnek, az ezzel kapcsolatos adatkezelési jogosultság kerül törvényi szinten rögzítésre. Rögzíteni kell azt is, hogy az adatokat nem csak az illetményszámfejtést végző szerv, személy kezeli, hanem magát a jogosultságot elbíráló személyek is (pl. a szociális bizottság, amikor dönt a kérelem tárgyában). Ez a módosítás megjelenik a Hszt. 178. § (2) bekezdésének szövegcserés módosításában, másrészt a Hszt. 178. § újonnan megállapítandó (4) bekezdésében is. A két érintett bekezdés a tárgyában és az adatkezelés céljában is eltér.
+
+A Hszt. 178. § (2) bekezdése a visszatérítendő támogatásokkal és a választható természetbeni juttatásokkal (cafetéria) kapcsolatos adatkezelésre vonatkozik, az adatkezelés célja pedig az, hogy folyamatosan megállapíthatóak legyenek a hivatásos állomány visszatérítendő támogatást igénybe vevő, vagy választható természetbeni juttatásban részesülő tagjának azonosítására alkalmas adatok, a visszatérítendő támogatás, valamint a választott természetbeni juttatás fajtája, a visszatérítendő támogatás összege, a törlesztési idő, a visszafizetett vagy levont összeg, és a még nem törlesztett tartozás, választható természetbeni juttatás esetén annak értéke vagy értékének időarányos része. A Hszt. 178. § új (4) bekezdése a vissza nem térítendő támogatás, költségtérítés vagy kedvezmény nyújtásával kapcsolatos adatokra vonatkozik, az adatkezelés célja pedig a támogatást, költségtérítést vagy kedvezményt igénybe vevő azonosítása, a kifizetések nyomon követése, a jogosultság ellenőrzése.
+
+A 143-144. §-hoz
+
+Az Unió adatvédelmi reformjára tekintettel az energiahatékonyságról szóló 2015. évi LVII. törvénynek a névjegyzéket szabályozó rendelkezéseinek módosítása, az adatkezelés módját előíró rendelkezéseinek hatályon kívül helyezése szükséges.
+
+A 145-146. §-hoz
+
+A nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény (a továbbiakban: Natv.) 5. §-ában szereplő felsorolás pontosítása és kiegészítése szükséges. A Natv. 5. § (1) bekezdés e) pontjának pontosításával nemcsak a termék-, hanem a folyamattanúsítást végző szervezet is nevesítésre kerül az akkreditálási kérelmet benyújtók körében, különös tekintettel arra, hogy az adatvédelmi tanúsító szervezet akkreditálási eljárása folyamattanúsítást jelent.
+
+A Nemzeti Akkreditáló Hatóság (a továbbiakban: NAH) akkreditálási és felügyeleti vizsgálati eljárásában - ideértve új adatvédelmi akkreditálási eljárástípust is - több olyan ügyfél lehet érintett, amelyek a helyszíni szemlék helyszíneként külföldi ország területén található telephelyen szándékoztak bemutatni az akkreditálandó tevékenységüket, mivel Magyarország területén nem folytatták az adott tevékenységet. Ebben az esetben lehetőség van a helyi akkreditáló szervezettel történő együttműködés keretében elvégeztetni az értékelést. Ennek költségét a fogadó fél díjszabása határozza meg. Ugyanakkor a NAH-ot is felkérik külföldi akkreditáló szervek az eljárásaikban való részvételre, értékelés végzésére. Ezek az eljárások egyedi díjszámítást indokolnak.
+
+A módosítás továbbá a Rendeletre tekintettel szükséges, az akkreditált természetes személyre vonatkozó és egyéb szövegcserés pontosításokat is tartalmaz.
+
+A 147-149. §-hoz
+
+Törli az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvényből az Infotv.-re vonatkozó hivatkozásokat, valamint az adattovábbítási nyilvántartás vonatkozásában a Rendelet előírásaira tekintettel szükségtelenné vált rendelkezéseket.
+
+A 150-152. §-hoz
+
+Törli az E-ügyintézési tv.-ből az az Infotv.-re vonatkozó hivatkozásokat, valamint hozzájáruláson alapuló adatkezelésre vonatkozó egyes rendelkezéseket.
+
+A 153. §-hoz
+
+Törli az igazságügyi szakértőkről szóló 2016. évi XXIX. törvényből az az Infotv.-re vonatkozó hivatkozásokat, valamint a Rendelettel összefüggésben pontosítja a törvény egyes rendelkezéseinek fogalomhasználatát is.
+
+A 154. §-hoz
+
+A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény (a továbbiakban: Kjkt.) 48. §-a közös jogkezelő szervezetek közös jogkezelési tevékenysége során felmerülő személyes adatok kezelésével kapcsolatban tartalmaz rendelkezéseket.
+
+A Kjkt. 48. § (1) bekezdésének módosítása kiegészíti az adatbázis fenntartási kötelezettséget a nemzetközi szervezetek által fenntartott adatbázisokhoz való csatlakozás lehetőségével. A Kjkt. 48. § (2) bekezdéséből a törvény alapján törlésre kerül az Infotv.-re való hivatkozás, valamint a Rendelet 6. cikk (1) bekezdés c) pontjában található jogalapra tekintettel a külön jogalapra történő hivatkozás.
+
+A Kjkt. 48. § (4) bekezdésének módosítása - összhangban a 48. § (1) bekezdés módosításával - alapvetően a külföldre történő adattovábbítás lehetőségét biztosítja a közös jogkezelő szervezetek számára. Ez szükségszerűen együtt jár az adatkezelési célok bővítésével a közös jogkezelő szervezetek - a Kjkt. által meghatározott, és kötelezően ellátandó - tevékenységének figyelembevétele mellett. Ehhez értelemszerűen alkalmazkodik a közös jogkezelő szervezetek által kezelt vagy kezelhető adatok köre is. A külföldre történő adattovábbítás a közös jogkezelési tevékenység ellátása céljából történhet, más közös jogkezelő szervezetnek és olyan szervezeteknek vagy személyeknek, amelyek a jogosítási tevékenységben, a felhasználásokra vonatkozó adatszolgáltatásokban, vagy a művek, teljesítmények és jogosultak azonosításában akár nemzetközi adatbázisok fenntartásával, akár feldolgozási, azonosítási szolgáltatások nyújtásával közreműködnek.
+
+Az E-ügyintézési tv.-ben meghatározott elektronikus ügyintézés zökkenőmentes igénybevételéhez és használatához szükséges, hogy az SZTNH meghatározott adatokat - így természetes személyek esetén a négy természetes személyazonosító adatot, nem természetes személyek esetében pedig az adószámot - megismerhesse és kezelhesse.
+
+A törvény továbbá hozzáigazítja a bírósági felülvizsgálati kérelmek kötelező adattartalmát megállapító előírásokat a jogkezeléssel kapcsolatos hatósági ügyekben rendszeresített beadványok adattartalmát meghatározó szabályokhoz.
+
+A 155-156. §-hoz
+
+A törvény az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény adatkezelési szabályait pontosítja a Rendelettel összefüggésben. A kérelemre induló közigazgatási hatósági eljárásokban - összhangban a Rendelet 6. cikk (1) bekezdés a) pontjával, valamint 7. cikkével - az ügyfél hozzájárulásának vélelmezésére nem lesz szükség, ekként mind a kérelemre, mind a hivatalból induló eljárásokban egységes szabályok válnak alkalmazandóvá.
+
+A 157. §-hoz
+
+A Rendelet 89. cikk (2) bekezdése alapján a személyes adatok közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból folytatott kezelése vonatkozásában az uniós vagy a tagállami jog - az e cikk (1) bekezdésében említett feltételekre és garanciákra is figyelemmel - eltérést állapíthat meg a 15., 16., 18. és 21. cikkben említett jogokat illetően, ha e jogok valószínűsíthetően lehetetlenné teszik vagy súlyosan hátráltatják az adott célok elérését, és azok megvalósításához szükség van ilyen eltérésre.
+
+A Rendelet 15. cikkében foglalt hozzáférési jogot a statisztikai adatvédelemhez fűződő érdekek alapján azokban az esetekben gyakorolhatja a statisztikai adatgyűjtés adatszolgáltatója, ha az általa szolgáltatott adat az adatgyűjtés eredményeként rögzített eredeti állapotában rendelkezésre áll. Az ilyen adatkéréseket a Hivatalos Statisztikai Szolgálat tagjai statisztikai adatkérésként kezelik. A törvény ennek a gyakorlatnak az alkalmazását erősíti meg a Rendelet rendelkezései tükrében. Statisztikai adatátvételek esetében az adathozzáférési jog gyakorlása a Hivatalos Statisztikai Szolgálat adatot átvevő tagjánál szintén adatvédelmi okok miatt nem gyakorolható, mivel az adminisztratív forrásból, más adatkezelőtől átvett, egyedi statisztikai adatnak minősülő adatnak a statisztikai egységgel történő megismertetése statisztikai felfedési kockázatot jelent, így a hozzáférési jog az eredeti adatkezelőnél gyakorolható.
+
+A Hivatalos Statisztikai Szolgálat tagja ugyanakkor az általa kezelt személyes adatállományokról köteles általános tájékoztatást megjelentetni a Rendeletben foglaltakkal összhangban.
+
+A Rendelet 16. cikkében foglalt, helyesbítéshez való jog gyakorlásának statisztikai érdekek alapján történő korlátozása indokolt a statisztikai adatfeldolgozás megkezdését követően, tekintettel arra, hogy a statisztikai adatelőállítási folyamat ezen fázisában az adatok javítása jelentős nehézséget okozhat, veszélyeztetheti az adatelőállítás sikerességét, vagy számos esetben már lehetetlen.
+
+A törvény a Rendelet 18. cikkében foglalt, az adatkezelés korlátozásához való jog vonatkozásában rögzíti, hogy amennyiben az adatfelvétel végrehajtására a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) rendelkezéseivel összhangban került sor, úgy az adatkezelés jogszerű, így a korlátozáshoz való jog nem érvényesíthető.
+
+A Stt. 30. §-ában foglalt népmozgalmi célú adatfelvételek körének terhesség megszakításokra vonatkozó adatkörrel való kiegészítése egyértelművé teszi, hogy a terhesség megszakítása a születéssel kapcsolatos egészségi állapottal, a halálozáson belül a magzati halálozással szorosan összefüggő, ugyanakkor attól elkülönülő adatkör, amely a népesedéspolitikai döntéshozók számára ezért is nélkülözhetetlen információval bír. A terhességek megszakításának statisztikája mindig is a népmozgalmi statisztika szerves része volt, a jelen módosítás célja az adatgyűjtés törvényi jogalapjának meghatározása a Rendelettel összhangban.
+
+A fentieken túlmenően jelen módosítás másik célja, hogy az összes magyar állampolgárságú személy külföldön történt népmozgalmi eseményére kiterjedjen a megfigyelés független attól, hogy rendelkeznek-e magyarországi lakcímmel. Jelenleg a Stt. 30. § (2) bekezdése csak a magyarországi lakcímmel rendelkezők népmozgalmi eseményeinek megfigyelésére ad felhatalmazást, amennyiben azok Magyarországon anyakönyvezésre kerülnek.
+
+Az utóbbi években megnövekedett nemzetközi vándorlás, valamint a magyar felmenőkkel rendelkezők számára 2011. január 1-től bevezetett egyszerűsített honosítás eredményeként az elmúlt években jelentősen megemelkedett a külföldön élő magyar állampolgárok száma. Ahhoz hogy pontosabban becsülhető legyen a külföldön élő magyar állampolgárok száma, demográfiai jellemzőik, szükség van a különböző népmozgalmi eseményeikre (születés, halálozás, házasságkötés) vonatkozó információkra is. A külföldön történt és idehaza anyakönyvezett népmozgalmi eseményekre vonatkozó adatok a hazai anyakönyvezés végzésére kijelölt szerv által az elektronikus anyakönyvi rendszerben rögzített adatok átvételével valósulna meg.
+
+A 158-159. §-hoz
+
+A törvény a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló 2017. évi XLIII. törvényből is törli az Infotv.-re vonatkozó hivatkozásokat.
+
+A 160. §-hoz
+
+A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) a pénzmosás és a terrorizmus finanszírozása elleni küzdelem hatékonyságának növelése érdekében előírja a szolgáltatók számára az ügyfél azonosítás és ehhez kapcsolódóan a személyazonosság igazoló ellenőrzésének megfelelő és teljes körű végrehajtása érdekében, annak részeként az okmánymásolás kötelezettségét.
+
+A Pmt. 7. § (8) bekezdése alapján a szolgáltató a személyazonosság igazoló ellenőrzése érdekében a 7. § (2) bekezdésében meghatározott adatokat tartalmazó, a 7. § (3) bekezdése alapján bemutatott okiratról - a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, a törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából - köteles másolatot készíteni.
+
+A személyes adatok kezelésére tekintettel az adatkezelés (rögzítés, megőrzés, törlés) szabályai, korlátai egyértelműen rögzítésre kerültek a törvényben, valamint az okmánymásolás pontos célja is meghatározásra került.
+
+Az okmánymásoláshoz kapcsolódó adatkezelési kérdések teljes körű rendezése érdekében azonban szükségessé vált a Pmt. olyan irányú módosítása, amely biztosítja, hogy a szolgáltatók jogosultak legyenek az okmánymásolással birtokukba jutó, a Pmt. felhatalmazása alapján rögzített adatokon felüli adatkör egy részének rögzítésére, megőrzésére és törlésére. Ezen túlmenően a Pmt. módosítása egyértelművé teszi, hogy a személyi azonosítót és a lakcímet igazoló hatósági igazolvány mely oldaláról készülhet fényképfelvétel, illetve mely oldalán feltüntetett adatait kezelhetik a szolgáltatók. A Pmt. szabályozásának a személyi azonosító rögzítése és kezelése nem célja, ezért indokolt a szabályozás egyértelművé tétele. Ennek megfelelően a szolgáltatók a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldaláról nem készíthetnek másolatot, továbbá nem rögzíthetik és kezelhetik a személyi azonosítót.
+
+A szolgáltató által e módosítás alapján kezelt adatokra is érvényesek a Pmt. 56-58. §-ának az adatvédelemre, adatkezelésre és adatmegőrzésre vonatkozó, a személyes adatok védelmét szolgáló rendelkezései.
+
+A Pmt. módosítása biztosítja, hogy a pénzügyi információs egység az adattovábbításban érintett személyek adatvédelmi érdekeinek biztosítása, illetve saját operatív működésének elősegítése érdekében meghatározott tartalmú nyilvántartást vezessen az általa elvégzett adattovábbításról, és annak adatait 20 évig megőrizze.
+
+A 161. §-hoz
+
+A Rendeletben meghatározott adatvédelmi tisztviselő intézményének bevezetése miatt indokolt az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény korábban hatályos Infotv. szerinti belső adatvédelmi felelősi tevékenységre való utalásának módosítása adatvédelmi tisztviselőre.
+
+-----STARTING---POINT---VEGE---
+
+A 162. §-hoz
+
+Hatályba léptető rendelkezések.
+
+A 163. §-hoz
+
+Megjelöli a sarkalatosnak minősülő rendelkezéseket a jogszabály-szerkesztési követelményeknek megfelelően.

@@ -1,0 +1,569 @@
+2014. évi XV. törvény indokolása
+
+a bizalmi vagyonkezelőkről és tevékenységük szabályairól
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) XLIII. Fejezetében 2014. március 15-i hatállyal vezeti be a bizalmi vagyonkezelési szerződés jogintézményét a magyar írott jogba. Bár e jogintézmény szabályozási előzményekkel nem rendelkezik, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény alapján sem volt kizárt vagyonkezelési célra irányuló megbízási szerződés alapján tulajdon átruházással ilyen (bizalmi, fiduciárius) ügyletet kötni.
+
+A Ptk. szakértői és miniszteri indokolása egyértelművé tette, hogy a bizalmi vagyonkezelés jogintézményének magyar jogrendszerbe való bevezetésének célja a tulajdonosi pozíció és a tulajdon tárgyának hasznosításával, valamint az azzal való rendelkezéssel kapcsolatos döntéshozatal szétválasztása; ez erre irányuló gazdasági igény kielégítése. Az indokolás utalt rá, hogy a tulajdonosi és a döntési (menedzsment) pozíciók szétválasztásának lehetőségét több jogintézmény képes biztosítani. A leginkább elterjedt és alkalmazott jogintézmény a tagoktól elkülönült jogalanyisággal létrehozott gazdasági társaság. Emellett elterjedtek olyan, elsősorban szerződéseken alapuló jogviszonyok, amelyek eredményeként egy jogalany megkapja a tulajdonosi döntések meghozatalához szükséges jogosultságokat, miközben a vagyon hasznosításával, illetve az azzal való rendelkezéssel kapcsolatos döntéseit úgy kell meghoznia, hogy a vagyon egyes elemei által előállított haszon egy másik jogalany (az „eredeti” tulajdonos vagy az általa meghatározott harmadik személy) vagyonát gyarapítsa. Ezek közé a jogintézmények közé tartoznak a bizalmi vagyonkezelési formák, így a magyar jogban a bizalmi vagyonkezelés, az angol jogban kialakított trustok, a német jogbeli Treuhand és ezek rokonintézményei.
+
+Az indokolás utalt arra is, hogy a bizalmi vagyonkezelésnek nincs az európai jogrendszerekben egységesen elfogadott fogalma és modellje. Az egyes nemzeti jogokban meghonosodott vagyonkezelési konstrukcióknak ugyanakkor közös vonása, hogy a bizalmi vagyonkezelés keretét biztosító jogviszony alapján az egyik jogalany (a vagyonrendelő) vagyonát képező meghatározott dolgok, jogok és követelések tulajdonjogát egy másik jogalany (a vagyonkezelő) részére átengedi, aki az ily módon megkapott döntési jogosultság gyakorlásával kell, hogy a rábízott vagyont egy harmadik személy (a kedvezményezett) javára hasznosítsa. Utalt arra is az indokolás, hogy már ma is egész üzletág épült ki ezen a területen, amely magyar jogi szabályozás hiányában külföldi jogi és intézményi infrastruktúrát vesz igénybe, és jelentős tőkét von ki ezzel a magyar gazdaság vérkeringéséből.
+
+A Ptk. szabályozási logikájából következően a bizalmi vagyonkezelés, mint polgári jogi jogügylet alapvető szabályait állapította meg, más jogszabályokra bízva a jogintézmény részletes szabályainak kimunkálását.
+
+A bizalmi vagyonkezelés szabályozásának feladata a jogintézmény magyar jogba való bevezetése. A szabályozás során figyelemmel kellett lenni a forgalombiztonság szempontjainak érvényesítésére, a vagyonrendelők és a kedvezményezettek megfelelő szintű védelmére. A szabályozás kialakításának szempontja volt az is, hogy a bizalmi vagyonkezelés jogintézménye ne szolgálhasson a vagyon elrejtésére az adófizetési kötelezettség megkerülése vagy a hitelezők előli elrejtésére céljából. Cél volt tehát a bizalmi vagyonkezelési jogviszonyok ésszerű mértékű láthatóvá tétele, az üzletszerű bizalmi vagyonkezelő vállalkozások törvényes és megbízható működésének biztosítása, az ezt szolgáló nyilvántartás jogszabályi garanciáinak megteremtése.
+
+A bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvény szabályozási tárgykörei a következők.
+
+A törvény az üzletszerűen eljáró bizalmi vagyonkezelők tevékenysége engedélyezésének, nyilvántartásának, a nem üzletszerűen eljáró bizalmi vagyonkezelők tevékenysége bejelentésének, a bejelentett jogviszonyok lényeges adatai nyilvántartásának, az üzletszerűen eljáró bizalmi vagyonkezelő tevékenységének és jogutód nélküli megszűnése esetén alkalmazandó eljárásnak a szabályait tartalmazza.
+
+A törvény számos törvényt is módosít a bizalmi vagyonkezeléssel összefüggésben. Ennek indoka, hogy a bizalmi vagyonkezelés adózási, számviteli kérdéseit az e jogterületeket szabályozó törvényekben indokolt elhelyezni.
+
+A törvény biztosítja, hogy a vagyonkezelésbe adott vagyon összetételében bekövetkező változások és a vagyon kezelése során keletkezett hozam nyomon követhető legyen, a bizalmi vagyonkezelés jogintézményének alkalmazása ne járjon terhesebb adókötelezettséggel ahhoz képest, mintha a vagyonrendelő közvetlenül a kedvezményezettnek juttatna vagyontárgyat, illetve a vagyontárgy hozadékát, valamint, hogy a jogintézményt ne lehessen az adófizetési kötelezettség elkerülésére használni.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény hatálya kiterjed a Ptk.-ban szabályozott bizalmi vagyonkezelési szerződést kötő bizalmi vagyonkezelő vállalkozás működésének és gazdálkodásának feltételeire, a Kormány rendeletében kijelölt hatóság (a továbbiakban: hivatal) bizalmi vagyonkezelő vállalkozások tevékenységének engedélyezési és nyilvántartási eljárására, a hivatalnak a bizalmi vagyonkezelési jogviszonyok bejelentési és nyilvántartási eljárására, a hivatal bizalmi vagyonkezelők felett gyakorolt ellenőrzésére és a bizalmi vagyonkezelő vállalkozás bizalmi vagyonkezelési tevékenységének végzésére.
+
+A 2. §-hoz
+
+A törvény két értelmező rendelkezést tartalmaz: meghatározza az érintett személy és a vezető állású személy fogalmát.
+
+Az érintett személynek a bizalmi vagyonkezelő vállalkozások bizalmi vagyonkezelési szerződésekből fakadó érdekszolgálati kötelezettsége vonatkozásában van kiemelt jelentősége. E kötelezettség szerződésszerű teljesítését veszélyeztetik ugyanis az érintett személyek és a bizalmi vagyonkezelő vállalkozás közötti ügyletkötések. A törvény érintett személynek tekinti a bizalmi vagyonkezelő vállalkozást, a bizalmi vagyonkezelő vállalkozás vezető állású személyét, jogi személy bizalmi vagyonkezelő vállalkozás tagját, a bizalmi vagyonkezelő vállalkozást, illetve jogi személy vállalkozás tagjának olyan alkalmazottját, illetve bármely olyan természetes személyt, aki tevékenységét a vállalkozás, illetve a jogi személy vállalkozás tagja érdekeinek megfelelően végzi, és aki részt vesz a vállalkozás által végzett bizalmi vagyonkezelésben, bármely olyan természetes személyt, aki a bizalmi vagyonkezelő vállalkozás által nyújtandó bizalmi vagyonkezelési szolgáltatás kiszervezésére irányuló szerződés alapján közvetlenül részt vesz a bizalmi vagyonkezelés, mint szolgáltatás nyújtásában. Érintett személy továbbá e személyek hozzátartozója is. Látható tehát, hogy a bizalmi vagyonkezelő vállalkozások ügyfeleinek védelme érdekében az érintett személyi kör széles körű meghatározása a bizalmi vagyonkezelő vállalkozások ügyfeleinek védelmét szolgálja.
+
+A törvény a vezető állású személy körbe sorolja a vezető tisztségviselőt és a felügyelő bizottság tagját, a fióktelep vezetésére a külföldi vállalkozás által kinevezett személyt és annak közvetlen helyettesét, valamint minden olyan személyt, akit a létesítő okirat vagy a működésre vonatkozó belső szabályzat ilyenként határoz meg.
+
+A 3. §-hoz
+
+E szakasz határozza meg a bizalmi vagyonkezelő vállalkozás szervezeti feltételeit. A forgalombiztonság, és különösen a közjogi és magánjogi tartozások jogosultjai védelmének érdekében rögzített feltétel az, hogy bizalmi vagyonkezelési tevékenységet üzletszerűen a hivatal által a tevékenység megkezdése előtt kibocsátott engedéllyel (a továbbiakban: engedély) rendelkező, a nemzeti vagyonról szóló törvényben meghatározott átlátható szervezetnek minősülő jogalanyok láthatnak el. E jogalanyok pedig Magyarország területén székhellyel rendelkező korlátolt felelősségű társaság vagy zártkörűen működő részvénytársaság vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelep formában működhetnek.
+
+A törvény meghatározza az üzletszerűség fogalmát, a fogalom-meghatározás indoka, hogy egyebek mellett az üzletszerűség a feltétele számos ügyfélvédelmi és közérdekvédelmi garanciát tartalmazó szabály alkalmazhatóságának egy adott ügylet vonatkozásában.
+
+A törvény szintén garanciális okokból előírja, hogy a bizalmi vagyonkezelő vállalkozás főtevékenységként csak bizalmi vagyonkezelést végezhet, melléktevékenységként pedig a bizalmi vagyonkezelési kötelezettség teljesítéséhez szükséges, azzal közvetlenül összefüggő tevékenységet. E rendelkezés célja az volt, hogy ne veszélyeztesse a bizalmi vagyonkezelő vállalkozás ügyfél érdekében való eljárási kötelezettségének maradéktalan teljesülését a vállalkozás egyéb üzletszerű gazdálkodó tevékenysége.
+
+A törvény engedélykötelessé teszi a bizalmi vagyonkezelői tevékenység megkezdését és folytatását. Előírja továbbá, hogy a bizalmi vagyonkezelő vállalkozás köteles cégnevének vezérszavában e minőségét magyar nyelven szerepeltetni.
+
+A törvény szerint a bizalmi vagyonkezelő vállalkozás Magyarországon jogosult tevékenysége elsődleges folytatására, tevékenysége gyakorlása elsődleges helyét más államba nem helyezheti át.
+
+A 4. §-hoz
+
+E szakasz határozza meg a bizalmi vagyonkezelő vállalkozás működésének személyi feltételeit: így hogy ki lehet a bizalmi vagyonkezelő vállalkozás vezető állású személye, tagja, és ki állhat a bizalmi vagyonkezelő vállalkozással munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban. Mindhárom személyi kör vonatkozásában elvárás - többek között - a büntetlen előélet, hogy az adott személy nem áll bizalmi vagyonkezelő tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. Feltétel az is, hogy az adott személy nem látta el olyan bizalmi vagyonkezelő vállalkozás ügyvezetését, illetve nem volt olyan bizalmi vagyonkezelő vállalkozásban egyedüli vagy többségi befolyást biztosító részesedéssel rendelkező tag, amelynek az engedély kiadása iránti kérelem benyújtásának időpontjától számított tíz éven belül - ide nem értve a kérelem alapján történő visszavonást - vonták vissza a tevékenység végzési engedélyét.
+
+Annak érdekében, hogy a bizalmi vagyonkezelő vállalkozás számára folyamatosan rendelkezésre álljon megfelelő jogi, közgazdasági és könyvvizsgálói szakértelem, a törvény előírja, hogy a bizalmi vagyonkezelő vállalkozás köteles mesterképzésben szerzett közgazdász szakképzettséggel rendelkező közgazdászt, jogi szakvizsgát tett jogászt - teljes napi munkaidőben - munkaviszonyban foglalkoztatni, továbbá független könyvvizsgálót megbízási jogviszonyban foglalkoztatni. Mindez nem akadályozza, hogy a vállalkozás - amennyiben szükségesnek látja - például ügyvédet is igénybe vegyen jogi ügyei intézésére. Ez azt biztosítja csupán, hogy egy jogász kizárólag a bizalmi vagyonkezelő vállalkozás érdekében végezze tevékenységét, ezáltal specializálódjon a vállalkozás speciális jogi jellegű feladatai megfelelő színvonalú ellátására.
+
+Az 5. §-hoz
+
+E szakasz szintén a bizalmi vagyonkezelő vállalkozás működésének személyi feltételeit határozza meg: a bizalmi vagyonkezelő vállalkozás vezető állású személye és annak Ptk. szerinti hozzátartozója vonatkozásában mond ki összeférhetetlenségi okokat. Ezen okok két nagyobb csoport - így a bizalmi vagyonkezelő vállalkozás, valamint a kezelt vagyonba tartozó Ptk. szerinti vállalkozás - köré csoportosíthatóak.
+
+Ennek megfelelően a bizalmi vagyonkezelő vállalkozás vezető állású személye és a vezető állású személy Ptk. szerinti hozzátartozója nem lehet más bizalmi vagyonkezelő vállalkozásban közvetlen vagy közvetett részesedéssel rendelkező természetes személy, más bizalmi vagyonkezelő vállalkozásban közvetlen vagy közvetett részesedéssel rendelkező szervezet vagy annak vezető állású személye, más bizalmi vagyonkezelő vállalkozás vezető állású személye, a fentiekben meghatározott jogalanyokkal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy.
+
+Továbbá a bizalmi vagyonkezelő vállalkozás vezető állású személye és a vezető állású személy hozzátartozója nem lehet a kezelt vagyonba tartozó, Ptk. szerinti vállalkozásban közvetlen vagy közvetett részesedéssel rendelkező természetes személy, a kezelt vagyonba tartozó Ptk. szerinti vállalkozásban közvetlen vagy közvetett részesedéssel rendelkező szervezet vagy annak vezető állású személye, a kezelt vagyonba tartozó Ptk. szerinti vállalkozás vezető állású személye, továbbá a fentiekben meghatározott jogalanyokkal munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban álló személy.
+
+A törvény egyértelművé teszi, hogy - mivel nincs olyan jelentős érdeksérelem kockázat az ügyfelek oldalán - nem eredményez a kezelt vagyonnal kapcsolatos összeférhetetlenséget, ha a bizalmi vagyonkezelő vállalkozás vezető állású személye vagy annak hozzátartozója a vagyonrendelő, illetve a kedvezményezett.
+
+Szintén kivétel a tilalom alól, ha a bizalmi vagyonkezelő vállalkozás a vele összefüggésben felmerülő összeférhetetlenségi okra vonatkozóan valamennyi vagyonrendelőjétől és szerződésben meghatározott kedvezményezettől - azok előzetes és teljes tájékoztatását követően, írásban megadott - felmentést kap. Kivétel továbbá az is, ha a kezelt vagyonnal kapcsolatos összeférhetetlenségi ok vonatkozásában a bizalmi vagyonkezelő vállalkozás e felmentést az érintett ügyféltől szerzi be.
+
+A bizalmi vagyonkezelő vállalkozás vezető állású személye a vele összefüggésben felmerült összeférhetetlenségi okot köteles haladéktalanul az érintett bizalmi vagyonkezelő vállalkozás tudomására hozni.
+
+A 6-8. §-hoz
+
+E szakaszok a bizalmi vagyonkezelő vállalkozás működésének tárgyi feltételeit határozzák meg. A bizalmi vagyonkezelő vállalkozás köteles honlapot fenntartani és azon közzétenni létesítő okiratát, cégjegyzékszámát, adószámát, szervezeti és működési szabályzatát, számviteli beszámolóját és közvetett és közvetlen tulajdonosainak névsorát, a bizalmi vagyonkezelő vállalkozások nyilvántartásában nyilvántartási számát.
+
+A törvény továbbá előírja - többek között - azt, hogy a bizalmi vagyonkezelő vállalkozás köteles e tevékenysége körében okozott károk megtérítésére legalább hetvenmillió forint összegű - kormányrendeletben meghatározott - pénzügyi biztosíték létrehozására szerződést kötni, és azt bizalmi vagyonkezelői tevékenységének tartama alatt fenntartani. A vagyonkezelés volumenéhez és az ehhez társuló felelősséghez való rugalmas alkalmazkodás az indoka annak, hogy kormányrendelet meghatározhat kiegészítő pénzügyi biztosíték létrehozását szükségessé tévő körülményeket és az ilyen esetre létrehozandó pénzügyi biztosíték típusát, összegét.
+
+A törvény garanciális okokból előírja, hogy a bizalmi vagyonkezelő vállalkozás köteles olyan rendszert, belső szabályzatot, nyilvántartást alkalmazni, amely biztosítja a bizalmi vagyonkezelő vállalkozást - különösen a bizalmi vagyonkezelési szerződések alapján - terhelő kötelezettségek teljesítését, teljesítésének ellenőrizhetőségét, megsértésének megakadályozását. E hármas kötelezettség előírása mögött szintén az ügyfelek érdekei védelmének szándéka áll, azzal, hogy a jogalkotó nem kívánt részletes korlátozó szabályokat meghatározni e körben, pusztán a bizalmi vagyonkezelő vállalkozások által elérendő eredményt határozta meg.
+
+A törvény a Ptk.-ban meghatározott bizalmi vagyonkezelőt számviteli törvény alapján terhelő tájékoztatási, elszámolási kötelezettség tartalmát a bizalmi vagyonkezelő vállalkozások vonatkozásában akként részletezi, hogy előírja utóbbiak számára a kezelt vagyonra vonatkozó könyvvezetési és beszámoló készítési kötelezettség teljesítését, arra tekintettel, hogy a számviteli törvény módosítása a kezelt vagyont vállalkozásnak minősítve vonta a hatálya alá.
+
+A 9. §-hoz
+
+E szakasz szabályozza az engedély bizalmi vagyonkezelő vállalkozás kérelmére történő hivatal általi kiadását és kimondja, hogy az engedély hatálya időben nem korlátozott, visszavonásig érvényes.
+
+A 10-11. §-hoz
+
+A törvény meghatározza az engedély iránti kérelem tartalmát és mellékleteit. A törvény e körben rögzíti, hogy a hivatalnak amennyiben a kérelem alapján megállapítható, hogy a kérelmező megfelel a bizalmi vagyonkezelő vállalkozás működési feltételeinek, kérelme tartalmazza a törvény szerinti adatokat és a kérelmező csatolta az előírt mellékleteket, ki kell adnia az engedélyt.
+
+A 12. §-hoz
+
+E szakasz szabályozza az engedély visszavonását. A hivatal az engedélyt visszavonja, ha az engedély kiadásának feltételei nem állnak fenn, és azokat a bizalmi vagyonkezelő vállalkozás felhívásra a hivatal által tűzött megfelelő határidőn belül nem pótolta, a bizalmi vagyonkezelő vállalkozás a tevékenységre vonatkozó jogszabályban meghatározott előírásokat tíz éven belül ismétlődően vagy súlyosan megszegi és azt bírósági ítélet vagy hivatali, illetve egyéb hatósági határozat jogerősen megállapítja, az engedélyt a hivatal megtévesztésével vagy más jogszabálysértő módon szerezték meg, vagy a bizalmi vagyonkezelő vállalkozás azt kérte.
+
+A törvény főszabályként előírja, hogy a hivatal az engedélyt akkor vonja vissza, ha a bizalmi vagyonkezelő vállalkozás a hitelezőjével, különösen ügyfelével szemben fennálló elismert kötelezettséget teljesítette, vagy azok teljesítését más bizalmi vagyonkezelő vállalkozás átvállalta; e kötelezettségek teljesítéséről a bizalmi vagyonkezelő vállalkozásnak kérelmében nyilatkoznia kell. Kivételes esetben e feltétel elmaradása ellenére a hivatal mégis köteles visszavonni a bizalmi vagyonkezelő vállalkozás engedélyét, ha e feltétel teljesítésére nem lát esélyt.
+
+A törvény diszkrecionális jogkört ad a hivatalnak, hogy a vállalkozás kötelezettségei teljesítése érdekében meghatározhassa azokat a feltételeket és előírásokat, amelyek teljesítése esetén az engedély visszavonásra kerülhet; ebben az esetben a bizalmi vagyonkezelő vállalkozás a tevékenységét - az arra vonatkozó szabályok szerint - köteles folytatni. Ha azonban a bizalmi vagyonkezelő vállalkozás a hivatal által meghatározott feltételeket és előírásokat nem teljesíti, a hivatal ennek megállapítását követően haladéktalanul visszavonja a bizalmi vagyonkezelő vállalkozás engedélyét.
+
+A 13-16. §-hoz
+
+A bizalmi vagyonkezelési jogviszonyok ésszerű mértékű láthatóvá tételének érdekében a törvény két új közhiteles nyilvántartást hoz létre, így a bizalmi vagyonkezelő vállalkozások nyilvántartását és a bizalmi vagyonkezelési jogviszony nyilvántartást, amelynek vezetését a hivatal kötelezettségévé teszi. Előbbibe bárki, utóbbiba a törvény alapján feljogosított, hatáskörükben eljáró hatóságok - így különösen a bírósági végrehajtó, vagy közigazgatási, adóhatósági végrehajtó - tekinthetnek be. Mindennek különös jelentőséget az ad, hogy a törvény által módosított bírósági végrehajtási törvény alapján a bizalmi vagyonkezelési jogviszonyt a vagyonrendelővel szemben végrehajtást indító hitelező a vagyonrendelő egyéb vagyonára vezetett végrehajtás eredménytelensége esetén felmondhatja.
+
+A bizalmi vagyonkezelő vállalkozások nyilvántartásának a célja a bizalmi vagyonkezelő vállalkozások ügyfeleinek és leendő ügyfeleinek tájékoztatása, a kezelt vagyonra vonatkozó adatok felkutathatósága és a bizalmi vagyonkezelők feletti ellenőrzés ellátása. A nyilvántartott adatok a bizalmi vagyonkezelő vállalkozással szemben alkalmazott ellenőrzési intézkedések kivételével nyilvánosak. A nyilvántartás a bizalmi vagyonkezelő vállalkozás nyilvántartási számát, tevékenység végzési engedélyét kiadó határozat jogerőre emelkedésének napját, az engedély visszavonását elrendelő határozat jogerőre emelkedésének a napját, alkalmazott ellenőrzési intézkedések okát, típusát, és alkalmazását elrendelő végzés jogerőre emelkedésének napját közhitelesen tanúsítja.
+
+A törvény a bizalmi vagyonkezelő vállalkozást kötelezi, hogy a hivatalnak a módosulásra okot adó körülmény bekövetkeztétől számított nyolc napon belül jelentse be a nyilvántartásban szereplő adatainak megváltozását.
+
+A hivatal a nyilvántartásba bejegyzett adatokat a bizalmi vagyonkezelő vállalkozás adatainak a nyilvántartásból való törlését követően tíz évig tárolja, azt követően gondoskodik azok megsemmisítéséről.
+
+E szakasz tartalmazza a hivatal feladatai között a nemzetközi együttműködésre vonatkozó rendelkezéseket.
+
+A 17-18. §-hoz
+
+A bizalmi vagyonkezelő vállalkozások tevékenységének engedélyezésével és nyilvántartásával összefüggésben a hivatal részére az engedély kiadása iránti kérelem előterjesztéséért, a bizalmi vagyonkezelő vállalkozás nyilvántartásba szereplő adatai változásának átvezetéséért, a bizalmi vagyonkezelő vállalkozás nyilvántartásban szereplő adataikról szóló bizonyítvány kiállításáért igazgatási szolgáltatási díjat kell fizetni, amely a hivatal bevétele. Mértékét az MNB elnöke rendeletben állapítja meg.
+
+Az engedély kiadására, visszavonására és a bizalmi vagyonkezelő vállalkozás nyilvántartására irányuló eljárásban a hivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) rendelkezései szerint jár el.
+
+A 19-21. §-hoz
+
+A törvény nem kívánta teljesen kizárni a nem üzletszerűen eljáró bizalmi vagyonkezelővel való ügyletkötés lehetőségét, az ügyletben rejlő kockázatokat a bizalmi vagyonkezelési jogviszonyok ésszerű mértékű láthatóvá tételével kezelte. Ennek érdekében előírja törvény a nem üzletszerűen eljáró bizalmi vagyonkezelővel létrejött bizalmi vagyonkezelési jogviszonyok nyilvántartásának a kötelezettségét is, amely feladattal szintén a hivatalt ruházza fel. Ezzel összefüggésben a törvény kötelezi a nem üzletszerűen eljáró bizalmi vagyonkezelőt arra, hogy jelentse be a vele kötött bizalmi vagyonkezelési szerződéssel összefüggő bizonyos, az ügyletben érintett felek azonosítását lehetővé tevő adatokat a hivatalnak azok bizalmi vagyonkezelési jogviszonyok nyilvántartásába való bejegyzése érdekében, továbbá, hogy nyilatkozzon arról, hogy e tevékenységét nem üzletszerűen látja el. A bejelentéshez mellékelni kell a bizalmi vagyonkezelési szerződést tartalmazó okiratot és a bejelentés előterjesztéséért teljesítendő igazgatási szolgáltatási díj megfizetésének igazolását is.
+
+A hivatal kizárólag a bejelentést és annak mellékleteit vizsgálja. Ha azok alapján megállapítható, hogy a bejelentett szerződés érvényesen létrejött és a bizalmi vagyonkezelő nem üzletszerűen jár el, a bejelentés tartalmazza a szükséges adatokat, a bejelentő nyilatkozatát arra vonatkozóan, hogy bizalmi vagyonkezelési tevékenységet nem üzletszerűen látja el, és csatolta a szükséges mellékleteket, a hivatal a bizalmi vagyonkezelési szerződéssel összefüggő adatokat a bizalmi vagyonkezelési jogviszonyok nyilvántartásába bejegyzi.
+
+A 22. §-hoz
+
+A bizalmi vagyonkezelési jogviszonyok nyilvántartásának célja a bizalmi vagyonkezelési szerződések alapján átruházott kezelt vagyonokra vonatkozó adatok felkutathatósága és a bizalmi vagyonkezelők feletti ellenőrzés ellátása. Ezért a hivatal nyilvántartást vezet a nem üzletszerűen eljáró bizalmi vagyonkezelőkről, a velük szerződő vagyonrendelőkről és utóbbiak között létrejött szerződésben meghatározott kedvezményezettekről, valamint szerződéses jogviszonyukról. A nyilvántartás közhitelesen tanúsítja a bejelentőnek arra vonatkozó nyilatkozata megtételét, hogy e tevékenységét nem üzletszerűen látja el, továbbá a bejelentés napját, és a nyilvántartásba vétel napját, nyilvántartásból való törlés tényét, okát és napját, az alkalmazott ellenőrzési intézkedések okát, típusát, és alkalmazását elrendelő határozat jogerőre emelkedésének napját.
+
+A 23. §-hoz
+
+A törvény kimondja, hogy a bizalmi vagyonkezelési szerződéssel összefüggő adatok nyilvántartásba vételének elmaradása - jogszabályban meghatározott esetek kivételével - a bizalmi vagyonkezelési szerződéshez fűződő joghatásokat nem érinti. Ez abból a szempontból bír például jelentőséggel, hogy a törvény alapján kiadott bejelentési bizonyítvány bemutatása lesz a feltétele például a kezelt vagyon átruházása illetékmentességének, valamint az ingatlan tulajdonjog átruházás bejegyzése iránti kérelem teljesíthetőségének, valamint egyéb nyilvántartásokban a tulajdonjog változás átvezetése iránti kérelem teljesíthetőségének.
+
+A 24-26. §-hoz
+
+A bejelentő köteles a hivatalnak a módosulásra okot adó körülmény bekövetkeztétől számított nyolc napon belül bejelenteni a nyilvántartásban szereplő adatok megváltozását.
+
+A hivatal köteles törölni az általa igazolt bizalmi vagyonkezelési szerződésre vonatkozó adatokat a nyilvántartásból, ha bejelentik, hogy a bizalmi vagyonkezelési szerződés megszűnt, a hivatal megállapítja, hogy bejegyzésnek nem lett volna helye, mert a bejegyzési feltételek nem álltak fenn a bejelentéskor.
+
+A hivatal a nyilvántartásba bejegyzett adatokat a bizalmi vagyonkezelési szerződésre vonatkozó adatoknak a nyilvántartásból való törlését követően tíz évig köteles tárolni, azt követően gondoskodni kell azok megsemmisítéséről.
+
+A 27. §-hoz
+
+A törvény szerint a bizalmi vagyonkezelési jogviszonyok nyilvántartásával összefüggésben a hivatal részére a bizalmi vagyonkezelési szerződés létrejöttével kapcsolatos adatok nyilvántartásba vétele iránti bejelentés előterjesztéséért és az erre vonatkozó bejelentési bizonyítvány kiállításáért, a bizalmi vagyonkezelés jogviszonyok nyilvántartásába szereplő adatok változásának átvezetéséért, és a bizalmi vagyonkezelési jogviszony nyilvántartásban szereplő adatairól szóló bizonyítvány kiállításáért igazgatási szolgáltatási díjat kell fizetni, amely a hivatal bevétele. Mértékét az MNB elnöke rendeletben állapítja meg.
+
+A 28. §-hoz
+
+Ha a hivatal nyilvántartásba veszi a bizalmi vagyonkezelési jogviszonyt, a bejelentő részére a nyilvántartásba vett adatokról kiállítja a bizalmi vagyonkezelési szerződés bejelentésének bizonyítványát.
+
+A 29. §-hoz
+
+A bizalmi vagyonkezelési jogviszonyok nyilvántartásának adatai nem nyilvánosak, abba kizárólag a törvény felhatalmazása alapján eljáró hatóságok tekinthetnek be.
+
+A 30. §-hoz
+
+A bizalmi vagyonkezelési jogviszonyok nyilvántartására, és a bejelentési bizonyítvány kiállítására, illetve visszavonására irányuló eljárásban a hivatal a Ket. rendelkezései szerint jár el.
+
+A 31-33. §-hoz
+
+A törvényben rögzített engedélyezési és bejelentési rendszer kialakítására tekintettel lényeges a bizalmi vagyonkezelési tevékenység ellenőrzése szabályainak a meghatározása is. A bizalmi vagyonkezelés feletti ellenőrzés során a hivatal - a törvényben meghatározott eltérésekkel - a Ket. hatósági ellenőrzésre vonatkozó szabályai szerint, elsősorban a bizalmi vagyonkezelő adatszolgáltatása alapján ellenőrzi, hogy a nyilvántartásba vétel feltételei folyamatosan megvalósulnak-e a bizalmi vagyonkezelő vállalkozások, és a bizalmi vagyonkezelési jogviszonyok vonatkozásában.
+
+A hivatal a törvényben meghatározott engedélyezési, valamint nyilvántartásba vételi feltételek fennállásáról tett nyilatkozatok valóság tartalmát - azok valótlanságára utaló alapos ok fennállása esetén - köteles ellenőrizni. Emellett a bizalmi vagyonkezelő vállalkozás évente igazolni köteles a hivatalnak a ellenőrzés ellátásához, hogy vonatkozásában az engedély kiadás feltételei fennállnak.
+
+A hivatal jogosult - többek között - a ellenőrzés ellátásához szükséges adatok közlése érdekében nyilatkozattételre felhívni a bizalmi vagyonkezelő vállalkozást, a nem üzletszerűen eljáró bizalmi vagyonkezelőt, a vele szerződést kötő vagyonrendelőt vagy az e szerződésben meghatározott kedvezményezettet, akik a hivatal felhívása esetén kötelesek nyilatkozatot tenni.
+
+A 34-35. §-hoz
+
+A hivatal jogosult mind a bizalmi vagyonkezelő vállalkozással, mind a nem üzletszerűen eljáró bizalmi vagyonkezelővel szemben ellenőrzési intézkedést alkalmazni, amennyiben vonatkozásukban a törvényben előírtak megsértését vagy arra utaló körülményeket észlel. Így például a bizalmi vagyonkezelő vállalkozás vonatkozásában a hivatal, amennyiben az engedély kiadásához szükséges feltételek hiányát észleli - a jogkövetkezményekre történő figyelmeztetés mellett - felhívhatja a bizalmi vagyonkezelő vállalkozást az engedély kiadás feltételeinek megfelelő működés helyreállítására. A hivatalnak arra is lehetősége van, hogy megkeresse a bizalmi vagyonkezelő vállalkozás felett törvényességi ellenőrzés gyakorlására jogosult bíróságot, hatóságot az e körében meghozható intézkedések megtétele céljából. A törvény által biztosított, széleskörű eszközök alkalmazásának mérlegelése során végső soron, a hivatal jogosult a bizalmi vagyonkezelő vállalkozás engedélyének visszavonására is.
+
+Nem üzletszerűen eljáró bizalmi vagyonkezelő esetén, ha a hivatal a bizalmi vagyonkezelési jogviszonyok nyilvántartásába való bejegyzés feltételeinek hiányát, vagy arra utaló körülményeket észlel, a jogkövetkezményekre történő figyelmeztetés mellett felhívja a bizalmi vagyonkezelőt a megfelelő működés helyreállítására, és erre határidőt tűz. Jogosult továbbá a ellenőrzési intézkedésre okot adó bizalmi vagyonkezelőt terhelő, egyszeri vagy ismételt, felügyeleti bírság kiszabására is, ha a fenti határidő eredménytelenül telt el. A hivatal jogosult arra is, hogy törölje a nyilvántartásból a bizalmi vagyonkezelési jogviszonyt, ha a törlés feltételei fennállnak és egyéb ellenőrzési intézkedés nem jár eredménnyel, illetve nem várható tőle eredmény. A hivatal jogosult továbbá a bizalmi vagyonkezelőt kötelezni a már megkötött bizalmi vagyonkezelési szerződés megszüntetésére.
+
+A 36. §-hoz
+
+Alapvető fontosságú a bizalmi vagyonkezelő vállalkozások vonatkozásában a velük szembeni szerződési bizalom erős jogalkotói garanciákkal való alátámasztása. A szabályozás során mintaként szolgált a jogalkotó számára befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.). A Bszt. szabályainak figyelembe vételére azért került sor, mert a Bszt. is egyéni vagyonkezelési tevékenységet szabályoz.
+
+A bizalmi vagyonkezelő vállalkozás bizalmi vagyonkezelési tevékenység végzésének szabályai alapvetően szerződési jogi jellegűek és tőlük való eltérést csak kifejezett törvényi felhatalmazás esetén teszik lehetővé, azaz szabályozási módjuk kivételt ismerően kógens. E szabályok alapvetően a Ptk. 8:1. § (1) 3. pontja szerint fogyasztónak vagy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény alapján kis- és középvállalkozásnak minősülő - a szakmája, önálló foglalkozása vagy üzleti tevékenysége körén kívül eljáró természetes személy - vagyonrendelő és szerződésben meghatározott kedvezményezett érdekeit védik a bizalmi vagyonkezelő vállalkozással szemben. A törvény a Ptk. szakértői indokolásában szereplő kívánalommal összhangban a legszélesebb körben érvényre kívánja juttatni a szerződéses szabadság elvét. Ennek az elvnek a korlátozása kizárólag a felek közötti - különösen információ többletből fakadó - erőfölényből adódó aszimmetrikus helyzet kiegyenlítésének szükségletével indokolható.
+
+A törvény megfordítja a szerződésszerű teljesítésre vonatkozóan a bizonyítási terhet és azt a bizalmi vagyonkezelő vállalkozásra telepíti.
+
+A 37. §-hoz
+
+A törvény a bizalmi vagyonkezelő vállalkozás számára előírja, hogy a vagyonkezelési szerződés megkötését megelőzően az 1. mellékletben - széles körűen - meghatározottakról írásban tájékoztatnia kell azon leendő szerződő felet, aki a szerződéskötést követően fogyasztónak vagy kis- és középvállalkozásnak minősül (a továbbiakban: lakossági ügyfél). E rendelkezés nyilvánvaló célja, hogy a lakossági ügyfél megkapja a bizalmi vagyonkezelési szerződéssel kapcsolatos legfontosabb, legszükségesebb tájékoztatásokat, amelyekkel valószínűleg nem rendelkezik és amelyek azonban nélkülözhetetlenek a szerződés megkötésére vonatozó felelős döntés meghozatalához.
+
+A 38. §-hoz
+
+A törvény a bizalmi vagyonkezelő vállalkozást kötelezi, hogy tájékozódjon a lakossági ügyfél bizalmi vagyonkezelési szerződéssel szolgálni kívánt céljáról (a továbbiakban: szerződési cél), kockázatviselő képességéről, bizalmi vagyonkezelési szerződés tárgyát képező vagyontárggyal vagy jognyilatkozattal kapcsolatos ismereteiről és arról, hogy ezek megfelelőek-e ahhoz, hogy a bizalmi vagyonkezelési szerződés egyes lényeges feltételeinek elfogadásáról az ügyfél megalapozott döntést hozzon. Azaz a vállalkozás köteles a lakossági ügyfél alkalmassági vizsgálatát szerződéskötés előtt lefolytatni. Ennek során annak a vizsgálatára is köteles, hogy a megkötendő bizalmi vagyonkezelési szerződés előreláthatóan alkalmas-e a leendő szerződő fél szerződési céljainak megvalósítására, annak kapcsán felmerülő, a leendő szerződő fél szerződési céljaival egyébként összhangban lévő kockázat mértéke megfelel-e az ügyfél teherviselő képességének, és joghatásaihoz és a kapcsolódó kockázatok megértéséhez és értékeléséhez a leendő szerződő fél megfelelő tapasztalattal és ismerettel rendelkezik-e. E rendelkezések célja, hogy a lakossági ügyfél vonatozásában a vállalkozás belső szakértelme alapján előzetes tájékoztatása mellett tovább segítse a lakossági ügyfél bizalmi vagyonkezelési szerződés megkötésére irányuló döntéshozatalát.
+
+A 39-41. §-hoz
+
+A törvény kötelezi a bizalmi vagyonkezelő vállalkozást belső nyilvántartások vezetésére. Így a bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési jogviszonyok nyomon követhetősége, a hatósági ellenőrzés és hatósági vagyonkutatás elősegítése érdekében nyilvántartást köteles vezetni a bizalmi vagyonkezelési jogviszonyokról. E nyilvántartás bizalmi vagyonkezelési szerződésenként elkülönülten tartalmazza a vagyonrendelő és a szerződésben meghatározott kedvezményezett személyazonosító adatait, a szerződésben vállalt fő- és mellékszolgáltatások tárgyát, a szerződésben foglalt esetleges feltételeket, időbeli, térbeli, egyéb hatálybeli korlátozást, és a szerződéskötés helyét és idejét.
+
+A bizalmi vagyonkezelő vállalkozás továbbá az ügyfelek tájékoztatásának és ellenőrzési joggyakorlásuk elősegítésére nyilvántartást köteles vezetni a bizalmi vagyonkezelési szerződés teljesítése érdekében, a kezelt vagyonra vonatkozóan tett bizalmi vagyonkezelési jognyilatkozatokról. A nyilvántartás - folyamatosan és időrendben, az egyes bizalmi vagyonkezelési szerződésenként elkülönülten - tartalmazza a jognyilatkozatokat, különösen szerződéseket létrehozó, módosító, megszüntető jognyilatkozatot tevő felek nevét, születési helyét és idejét, anyja nevét, lakcímét, a jognyilatkozatban vállalt fő- és mellékszolgáltatások tárgyát, a jognyilatkozatban foglalt esetleges feltételt, időbeli, térbeli, egyéb hatálybeli korlátozást, és a jognyilatkozat-tétel helyét és idejét. E nyilvántartáson belül tartandóak nyilván a vállalkozás kettős megbízás teljesítésére irányuló jognyilatkozatai és önszerződései is, amelyek vonatkozásában ügyfelei érdekeinek védelme hangsúlyozottabban merül fel.
+
+A törvény kimondja, hogy az ügyfél a bizalmi vagyonkezelési jogviszonyokról és a bizalmi vagyonkezelési jognyilatkozatokról vezetett nyilvántartások rá vonatkozó részébe ellenőrzési joga alapján jogosult betekinteni.
+
+A bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési jogviszonyokról és a bizalmi vagyonkezelési jognyilatkozatokról vezetett nyilvántartásokban kezelt adatokat az érintett ügyféllel kötött bizalmi vagyonkezelési szerződés megszűnésétől számított tíz évig köteles kezelni, annak érdekében, hogy amennyiben azok bármely ügyfélnek vagy magának a bizalmi vagyonkezelő vállalkozásnak szükségessé válnak, rendelkezésre álljanak. Szintén adatvédelmi szempontú rendelkezés, hogy a bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési jogviszonyokról és a bizalmi vagyonkezelési jognyilatkozatokról vezetett nyilvántartásokba történő bejegyzést megelőzően beszerzi az érintettnek a személyes adatai kezeléséhez hozzájáruló nyilatkozatát, hiszen abba rajta kívül az ügyfelek is betekinthetnek.
+
+A 42. §-hoz
+
+A Ptk. 6:319. §-a szerint a vagyonkezelő köteles titokban tartani minden olyan tényt, tájékoztatást és egyéb adatot, amelyről vagyonkezelői megbízatása keretében vagy annak kapcsán szerzett tudomást. E kötelezettsége független a vagyonkezelői jogviszony létrejöttétől, és fennmarad a bizalmi vagyonkezelési megbízatás megszűnése után is. A titoktartási kötelezettség alól a vagyonrendelő és jogutódja felmentést adhat. A törvény egyértelművé kívánta tenni, hogy a bizalmi vagyonkezelő vállalkozás Ptk.-ban meghatározott titoktartási kötelezettsége mikor alkalmazható.
+
+A 43. §-hoz
+
+A törvény a megbízási típusú ügyletek szabályozására tekintettel abból indult ki, hogy az önszerződés és kettős megbízás teljesítésére irányuló jognyilatkozatok a bizalmi személy szerződő vagy egyéb kötelmi partnerei vonatkozásában különös károsulási kockázatot hordoznak, mert ezek esetében a bizalmi személy nem partnere érdekét szolgálja kizárólagosan, ahogy az a kötelemnél fogva pedig kötelezettsége lenne, hanem érdekellentét lép fel a bizalmi személy által szolgált saját vagy más érdekek és a bizalmi személy partnerének érdekei vonatkozásában. A törvény a lakossági ügyfélnek minősülő vagyonrendelő vonatkozásában e kockázatra tekintettel előírja, hogy a bizalmi vagyonkezelő vállalkozás a lakossági ügyfélnek minősülő vagyonrendelővel kötött bizalmi vagyonkezelési szerződés teljesítése során - az ügyfél által kifejezett, előzetes, meghatározott jognyilatkozatra vonatkozóan adott felhatalmazás hiányában - nem tehet olyan jognyilatkozatot, amelynek hatására a kezelt vagyonba tartozó vagyontárgy az érintett személy személyes vagyonába (önszerződés) vagy más, érintett személy által kezelt vagyonba (kettős megbízás teljesítésére irányuló jognyilatkozatok) kerül.
+
+A törvény előírja, hogy az érintett személy az engedélyezett önszerződést eredményező jognyilatkozatok megtételét haladéktalanul köteles a bizalmi vagyonkezelő vállalkozás számára bejelenteni. A bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési jognyilatkozatok nyilvántartásában külön köteles feltüntetni, ha a jognyilatkozat önszerződést eredményez vagy kettős megbízás teljesítésére irányul, és feltüntetni azt, hogy azokról az ügyfél tudomást szerzett, ideértve az azok megtételére vonatkozó engedélyt vagy tiltást is. Azaz míg a törvény kizárólag a lakossági ügyfelek vonatkozásában követel meg előzetes hozzájárulást, az erre vonatkozó nyilvántartási kötelezettséget minden ügyfél vonatkozásában előírja, így segítve ellenőrzési joguk gyakorlását.
+
+A 44. §-hoz
+
+A törvény a kiszervezésre vonatkozóan kimondja, hogy a bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési kötelezettsége hatékonyabb teljesítése érdekében vehet kizárólag igénybe harmadik személyt. A kiszervezésre irányuló szerződés megkötése kötelező, ha a bizalmi vagyonkezelő vállalkozás olyan szolgáltatást vesz igénybe, amelyet maga nem nyújt, amelynek nyújtására megfelelő szakértelemmel, megfelelő képességgel vagy a szükséges engedéllyel nem rendelkezik. Kiszervezésre irányuló szerződés nem köthető olyan jogalannyal, amelynek érdekei ellentétesek a bizalmi vagyonkezelő vállalkozás vagy az ügyfelek érdekeivel.
+
+A 45. §-hoz
+
+A törvény figyelembe vette, hogy a Ptk. 6:318. § (1) bekezdése alapján a vagyon kezelése, mint szolgáltatás tartalma kiterjed a vagyonkezelőre átruházott tulajdonjogból, más jogokból és követelésekből fakadó jogosultságok gyakorlására és az azokból fakadó kötelezettségek teljesítésére. Mivel a Ptk. 6:310. § (1) bekezdése szerint a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő a vagyonrendelő által tulajdonába adott dolgok, ráruházott jogok és követelések (a továbbiakban: kezelt vagyon) saját nevében a kedvezményezett javára történő kezelésére, a vagyonrendelő díj fizetésére köteles. E két szabályt összeolvasva kimondható, hogy a bizalmi vagyonkezelő a bizalmi vagyonkezelési szerződés alapján ráruházott tulajdonjogból, más jogokból és követelésekből fakadó jogosultságok gyakorlására és az azokból fakadó kötelezettségek teljesítésére köteles. A Ptk. dologi jogi könyve 5:22. §-a alapján a tulajdonjogba tartozik a hasznok szedésének a joga is, kijelenthető, hogy a bizalmi vagyonkezelő a kezelt vagyon hasznosítására is köteles. A Ptk. a hasznosítási kötelezettségre vonatkozóan nem fogalmazott meg részletes rendelkezéseket, pusztán 6:317. § (2) bekezdésében azt mondta ki, hogy a vagyonkezelő a kereskedelmi ésszerűség követelményei szerint köteles a kezelt vagyont az előre láthatóan fenyegető kockázatokkal szemben megóvni. A megóvás vonatkozásában a felek megállapodásától tette függővé, hogy az a kezelt vagyon állagának vagy értékének a megóvására terjed ki, ezért szükségesnek tűnt a bizalmi vagyonkezelő vállalkozások, mint professzionális szerződő felekre vonatkozóan minimum szabályok kimondása is e körben. A törvény megelégszik a bizalmi vagyonkezelő vállalkozások vonatkozásában a hasznosítási kötelezettség teljesítése körében egyes részkötelezettségek kimondásával. Így kötelezi a bizalmi vagyonkezelő vállalkozást, hogy hasznosítási kötelezettségének teljesítése körében tartózkodjon olyan jognyilatkozat megtételétől, amelyek esetében a kezelt vagyon növekedésének esélye nem haladja meg jelentősen csökkenésének, károsodásának a kockázatát (óvatos hasznosítás). Kötelezi arra is, hogy megfelelő időközönként vizsgálja a hasznosításra irányuló jognyilatkozatok alapján létrejövő jogviszonyok fenntartásának, megváltoztatásának, megszüntetésének a szükségességét, a kezelt vagyon hasznosítása érdekében tett jognyilatkozattal összefüggésben felmerülő vagyonvesztés, károsodás kockázatait pedig ossza el. Köteles továbbá a kezelt vagyon hasznosítására vonatkozó szakmai tanácsadást igénybe venni, ha kezelt vagyon mérete illetve jellege alapján, annak hatékony és óvatos hasznosításhoz szükséges ismerettel maga nem rendelkezik.
+
+A törvény nem kívánt indokolatlan terhet telepíteni a bizalmi vagyonkezelő vállalkozások szerződő partnereire, figyelembe véve, hogy végső soron a kezelt vagyonok illetve a vagyonrendelők viselik a hasznosítással összefüggő többlet terheket. Fontos szempont volt azonban a hasznosítási kötelezettség legfontosabb részkötelezettségeinek a kimondása. A törvény e szabályok körében merített az Európai Bizottság felkérésére 2009-ben elkészített Közös Hivatkozás Kerettervezet (Draft of Common Frame of Reference) trustokról szóló X. könyv 6. fejezet 107. cikkében foglalt trustee befektetési kötelezettségét meghatározó modellszabályból.
+
+A törvény az általa rögzített, fenti hasznosítási részkötelezettségek vonatkozásában megengedi, hogy a szerződést kötő felek eltérően állapodjanak meg; ez azt célozza, hogy eltérő megállapodásuk elmaradása esetén a bizalmi vagyonkezelő vállalkozás hasznosítási kötelezettségére is rendelkezésre álljon alkalmazandó norma.
+
+A törvény értelmezési szabályt fogalmaz meg a lakossági ügyfél védelme érdekében, így kimondja, hogy ilyen ügyfélnek minősülő vagyonrendelő vagyonkezelési szerződést létrehozó jognyilatkozatát vita esetén úgy kell értelmezni, hogy abban kizárta a bizalmi vagyonkezelő vállalkozás jogát bármely a kezelt vagyonba tartozó Ptk.-ban meghatározott vagyontárgy elidegenítésére, megterhelésére, függetlenül az adott kezelt vagyonba tartozó vagyontárgy természeténél fogva hasznot hajtó képességétől. Mindez a bizalmi vagyonkezelő vállalkozásra pusztán azt a terhet rója, hogy főleg a bizalmi vagyonkezelési szerződésbe egyértelmű rendelkezést foglaljon rendelkezési joga e tekintetbeli korlátozását vagy annak hiányát illetően.
+
+A törvény a bizalmi vagyonkezelő vállalkozásnak a törvény által rögzített hasznosítási részkötelezettségeit a leendő lakossági ügyféllel kötött bizalmi vagyonkezelési szerződésben érvényesen akkor engedi meg kizárni, azoktól eltérni, illetve azokat módosítani, ha ennek az ügyfélre illetve a kezelt vagyonra gyakorolt hatásáról tájékoztatást ad, és azt az ügyfél a szerződésben kifejezetten elfogadja.
+
+A 46. §-hoz
+
+A törvény a bizalmi vagyonkezelő vállalkozások egyes megszűnési eseteit szabályozza. Így kizárja vonatkozásukban a csődeljárást és a kényszertörlési eljárást. A törvény arra figyelemmel, hogy a bizalmi vagyonkezelési jogviszony felmondással megszüntethető, nem szabályozta külön a vagyonrendelő, illetve a vagyonkezelő felszámolása során a felszámolót saját jogon illető felmondási jog gyakorlását. Ennek indoka, hogy ennek külön szabályozása nélkül a csődtörvény alapján a felszámoló az általános szabályok szerint jogosult ezen esetekben a bizalmi vagyonkezelési jogviszony felmondására.
+
+-----STARTING---POINT---VEGE---
+
+A 47. §-hoz
+
+E szakasz felhatalmazó rendelkezéseket tartalmaz.
+
+A jogalkotási feladatok megoszlanak a Kormány és a MNB elnöke között.
+
+A 48-49. §-hoz
+
+A törvény a Ptk.-val egyidejűleg 2014. március 15-én lép hatályba; a 49. § a sarkalatossági záradékot tartalmazza.
+
+Az 50. §-hoz
+
+E § az Európai Unió jogának való megfelelést szolgálja. A törvény kapcsolódik az Európai Parlament és a Tanács a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK irányelvében (a továbbiakban: szolgáltatási irányelv) foglaltakhoz, hiszen a bizalmi vagyonkezelői tevékenység, díjazás ellenében végzett szolgáltatás, melyben a vagyonkezelő a szolgáltató, és a vagyonrendelő a szolgáltatást igénybe vevő. A tevékenység az Európai Unió joga értelmében a szolgáltatási irányelv és annak horizontális jellegű rendelkezéseit a hazai jogba átültető, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény hatálya alá eső tevékenységnek (szolgáltatásnak) minősül. A törvény letelepedési kötelezettséget ír elő, amely a szolgáltatási irányelv 16. cikke szerint a szolgáltatásnyújtás szabadságát korlátozó akadály és mely előírásával a tagállamok általában nem korlátozhatnák a szolgáltatásnyújtás szabadságát.
+
+Az 51. §-hoz
+
+A törvény értelmében a bizalmi vagyonkezelésbe adott vagyon vagyonkezelő általi ingyenes megszerzése nem esik az ajándékozási illeték hatálya alá, annak érdekében, hogy a bizalmi vagyonkezelés jogintézményének alkalmazása ne járjon pótlólagos közteher-fizetési kötelezettséggel, az illeték-fizetési kötelezettség ne lehetetlenítse el a jogintézményt. Ezen főszabály alól természetesen - az illeték-kijátszás kizárása érdekében - kivételt képez az az eset, amikor a vagyonkezelő az általa kezelt vagyon kedvezményezettje.
+
+A kezelt vagyon, illetve annak hasznai kedvezményezett általi megszerzése illetékkötelezettséget keletkeztet. Elkerülve azt, hogy a bizalmi vagyonkezelés terhesebb illetékjogi megítélést eredményezzen a kedvezményezett számára, mintha a kezelt vagyont közvetlenül a vagyonrendelőtől szerezte volna meg, a törvény azt rögzíti, hogy a szerzést úgy kell tekinteni, mintha a jogügylet vagyonrendelő és a kedvezményezett között jött volna létre. Így a kedvezményezettnek a szerzés jogcímének megfelelő illetéket kell megfizetnie az adott illeték-nemre vonatkozó szabályok figyelembevételével, illetve vagyonszerzése mentes lesz az illeték alól (például ha a kedvezményezett a vagyonrendelő egyenes ágbeli rokona). A törvény rendezi azt az esetet is, amikor a bizalmi vagyonkezelésbe adott vagyon a vagyonrendelő és a kedvezményezett közti ügylet ellenszolgáltatása, azaz, ha a vagyonkezelő és a kedvezményezett közti ügylet azért megy végbe, mert az valójában a vagyonrendelő és a kedvezményezett közötti visszterhes ügylet ellenértéke. Ebben az esetben a visszterhes vagyonátruházási illetékkötelezettség akkor áll fenn, ha a vagyonkezelő által a kedvezményezettnek kiadott vagyontárgy a visszterhes vagyonátruházási illeték tárgyi hatálya alá esik.
+
+Ha a bizalmi vagyonkezelés kedvezményezettje a vagyonrendelő, vagy ha a vagyonrendelő a kezelt vagyont a bizalmi vagyonkezelésről szóló szerződés felmondásával, vagy más úton szerzi vissza, a törvény alapján a vagyonrendelő tulajdonszerzése nem tartozik az ajándékozási illeték hatálya alá.
+
+Az 52. §-hoz
+
+A hatályos helyi iparűzési adószabályozásban az adó alanya a vállalkozó, azaz az a személy vagy szervezet, aki gazdasági tevékenységet saját nevében és kockázatára haszonszerzés céljából, üzletszerűen végzi. A bizalmi vagyonkezelés felveti a helyi adókról szóló 1990. évi C. törvény (Htv.) helyi iparűzési adószabályainak felülvizsgálatát, figyelemmel arra, hogy annak elsődleges célja a kezelésbe adott vagyonnal való gazdálkodás, annak használata, hasznosítása oly módon, hogy a kérdéses vagyontömeg (a bizalmi vagyon) vagyonkezelője vagyonától elkülönült egységet képez, ugyanakkor jogalanyisággal nem bír. Mindezek alapján a törvény a Htv. helyi iparűzési adóalanyra vonatkozó rendelkezését kiegészíti oly módon, hogy a vállalkozó mellett a bizalmi vagyonkezelési szerződés alapján kezelt vagyon is adóalanyi státuszt kap. Természetesen az adókötelezettség teljesítése során, azaz az adóbevallás benyújtásakor, illetve az adó megfizetésekor a vagyontömeg „nevében” eljárni jogosult, azaz azt - a felek közti szerződés alapján - kezelni hivatott bizalmi vagyonkezelő jár el.
+
+A bizalmi vagyon adóalanyiságával összefüggésben az állandó jellegű iparűzési adókötelezettség teljesítése érdekében a törvény rögzíti, hogy a bizalmi vagyon esetén székhelynek kell tekinteni a vagyonkezelő székhelyét, lakóhelyét, telephelynek pedig a bizalmi vagyon részét képező, hasznosított (bérbe adott vagy bárki által vállalkozási tevékenységhez használt) ingatlant.
+
+Az 53. §-hoz
+
+A törvény módosítja a bírósági végrehajtásról szóló 1994. évi LIII. törvényt (továbbiakban Vht.). Így az adósi vagyonkutatás vonatkozásában nevesíti a hivatalt is kifejezetten azon hatóságok és nyilvántartások között, amelyeket a végrehajtó hatáskörében eljárva megkereshet adatszolgáltatás érdekében.
+
+A vagyonkutatás megkönnyítése érdekében a törvény kötelezi a bizalmi vagyonkezelő vállalkozásokat, hogy az adós által bizalmi vagyonkezelőre ruházott kezelt vagyonok, vagy bizalmi vagyonkezelővel szembeni kedvezményezettkénti juttatáshoz való jogának a felkutatása iránti végrehajtói intézkedések fogadása és a végrehajtói megkeresések megválaszolása érdekében a Vht. szerinti elektronikus kapcsolattartási rendszerhez csatlakozzanak.
+
+A törvény a vagyonrendelő hitelezőjének, mint végrehajtás kérőnek megadja a vagyonrendelőt megillető felmondás jogát, amennyiben a végrehajtás a vagyonrendelő egyéb vagyonából nem hajtható be.
+
+Hitelezővédelmi okból a bizalmi vagyonkezelési jogviszony egyik legfontosabb vonása annak felmondhatósága a végrehajtási eljárás alá került adós vagyonrendelő hitelezői által. A törvényben az a jogalkotói elvárás fogalmazódik meg, hogy a jogintézmény visszaélésekre való alkalmasságának korlátozása érdekében az adós vagyonrendelővel szemben végrehajtási eljárást indító hitelezőt meg kell, hogy illesse a bizalmi vagyonkezelési jogviszony felmondási jog, amennyiben a követelés az adós egyéb vagyontárgyaiból nincs kellően fedezve vagy csak aránytalanul hosszú idő múlva volna fedezhető. Felmerült azonban a vagyonrendelőt illető vagyonkiadási jognak pl. engedményezéssel való jogutódlási lehetősége, amely esetre a módosítás hitelezővédelmi okból szintén kiterjeszti a végrehajtást kérő kielégítési jogát.
+
+Az új Ptk. a személyhez fűződő jogok helyett a személyiségi jogok kifejezést használja és a személyiségi jogok megsértésének új szankciójaként határozza meg a sérelemdíjat. Az új Ptk. értelmében a „kár” és a „kártérítés” szó kizárólag a vagyoni károkat és az ezekért járó kártérítést jelöli. E változások szükségessé teszik a Vht. fogalomhasználatának új Ptk.-hoz igazítását.
+
+Az 54. §-hoz
+
+A Ptk. és a törvény bizalmi vagyonkezelésre vonatkozó garanciális szabályain túl fontos, hogy további jogi szabályozás biztosítsa a kedvezményezett érdekeinek védelmét, továbbá azt, hogy a vagyonrendelő ne tudja visszaélésszerűen alkalmazni a bizalmi vagyonkezelés intézményét és annak segítségével elvonni vagyonát a hitelezői igényérvényesítés elől. A bizalmi vagyonkezelés jogintézménye azáltal, hogy lehetővé teszi a tulajdonosi és döntési pozíciók elválasztását, nagyfokú rendelkezési (az új tulajdonos rendelkezési joggyakorlása körébe döntéseinek irányítására alkalmas) jog fenntartást enged a már saját vagyonból kikerült vagyonelemeken, valamint alkalmat ad(hat) a valós, gazdasági értelemben vett, közvetett (végső) tulajdonosok személyének háttérben (részleges, teljes ismeretlenségben) tartására. Ez utóbbi joghatást közérdekvédelmi okokból korlátozni kell. A jogviszony átláthatóságának biztosítása érdekében alkalmazható egyik intézkedési irány szerint szükség az egyes hatósági nyilvántartásokban szereplő vagyonelemek vonatkozásában feltüntetni a bizalmi vagyonkezelési szerződéseket, illetve azt, hogy a kérdéses vagyontárgy vonatkozásában ki a vagyonrendelő és a kedvezményezett. Az iparjogvédelmi hatósági nyilvántartások vonatkozásában ez a törvény megvalósítja.
+
+Az 55. §-hoz
+
+A törvény a légiközlekedésről 1995. évi XCVII. törvényt is módosítja a légi járművek felett fennálló tulajdonjog bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozása tényének nyilvántartása érdekében.
+
+Az 56. §-hoz
+
+A visszterhes bizalmi vagyonkezelési szerződések esetében az adókötelezettséget a bizalmi vagyonkezelési szerződés mögött álló más szerződésre és az e szerződés alapján létrejövő jogviszonyokra tekintettel kell megállapítani. Ezért abban az esetben, ha a bizalmi vagyonkezelési szerződést a magánszemély tevékenységére (például munkaviszonyára) tekintettel hozzák létre, vagy ha a bizalmi vagyonkezelési szerződés és az annak keretében nyújtott szolgáltatás a magánszemély által átruházott dolog, nyújtott szolgáltatás ellenértékét képezi, a bizalmi vagyonkezelésből származó bármely bevétel adókötelezettségét az alapul szolgáló jogviszony, szerződés szerint kell meghatározni. Így például a munkaviszonyra tekintettel a munkáltató által létrehozott bizalmi vagyonkezelésből származó bevétel a magánszemély munkaviszonyból származó bevételének minősül. Az a szabály, amely szerint ha az adókötelezettség jogcímét nem lehet megállapítani, akkor a bizalmi vagyonkezelésből származó jövedelem egésze egyéb jövedelemnek minősül, azt a célt szolgálja, hogy a kedvezményezett és a vagyonkezelő érdekeltté váljanak a bizalmi vagyonkezelési szerződés mögött álló jogviszony, szerződés felfedésére és dokumentálására.
+
+A rendelkezés azt a célt szolgálja, hogy a bizalmi vagyonkezelésbe adott vagyon hozamainak vonatkozásában ne merüljön fel a vagyonrendelő magánszemély adókötelezettsége. E rendelkezés hiányában, mivel a hozamok sorsáról a vagyonrendelő rendelkezik, a bevételszerzés és az adókötelezettség beállta a vagyonrendelő magánszemélynél megtörténne.
+
+A rendelkezés azt a célt szolgálja, hogy az egyéni vállalkozó által a vagyonrendelő tulajdonába adott készletek - melyek értékét az egyéni vállalkozó a beszerzéskor már költségként elszámolta - az egyéni vállalkozó adóköteles bevételének minősüljenek.
+
+A bizalmi vagyonkezelésbe adott vagyonnak a hozamai a kedvezményezett magánszemély osztalékból származó jövedelmét képezik. Amennyiben pedig a vagyon visszaszáll a vagyonrendelőre, szintén osztaléknak minősül a bizalmi vagyonkezelésbe adott vagyon hozama. Az osztalékként való minősítés célja az önálló jogcímen megszerzett külön adózó jövedelemmel szemben az, hogy nemzetközi ügyekben - így külföldi illetőségű kedvezményezett magánszemélyek részére történő juttatások esetében - is fennmaradjon Magyarország korlátozott adóztatási joga.
+
+A bizalmi vagyonkezelésbe adott vagyon tőkerésze nem minősül osztaléknak, azonban a kifizetések tekintetében a rendelkezés meghatározza, hogy először az adóköteles osztalék kifizetése történik meg a kedvezményezett magánszemély részére, majd ezt követően történhet meg a vagyon tőkerészének kiadása. Mindezt a kifizetőként eljáró vagyonrendelő, kifizető hiányában a magánszemély nyilvántartásai kell, hogy alátámasszák.
+
+Az Szja tv. 4. § (7) bekezdésében megfogalmazott szabályra is tekintettel nem tekinthető azonban osztaléknak a bizalmi vagyonkezelésbe adott vagyon hozama abban az esetben, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte. Így például a munkáltató által a magánszemély javára létrehozott bizalmi vagyonkezelési szerződésből származó bevétel nem minősül osztaléknak.
+
+A bizalmi vagyonkezelési szerződés alapján a kedvezményezett magánszemélynek juttatott összegből az a rész, amely a bizalmi vagyonkezelésbe adott vagyon tőkerészéből származik, adómentes bevétel. E juttatással összefüggésben a kedvezményezett magánszemélynek illetékfizetési kötelezettsége merülhet fel. Az adómentességet a vagyonkezelő, mint kifizető, vagy a magánszemély saját nyilvántartása támaszthatja alá. A 4. § (7) bekezdésében megfogalmazott szabályra is tekintettel nem tekinthető azonban adómentesnek a bizalmi vagyonkezelésbe adott vagyon tőkerészéből történő juttatás abban az esetben, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként vagy azzal összefüggésben szerezte. Így például a munkáltató által a magánszemély javára létrehozott bizalmi vagyonkezelési szerződésből származó bevétel nem minősül adómentesnek.
+
+Az 57. §-hoz
+
+Az (1) bekezdés alapján a törvény előírja a kezelt vagyon társasági adókötelezettségét. A törvény értelmében az új Polgári Törvénykönyv szerinti bizalmi vagyonkezelési szerződés alapján kezelt vagyon belföldi illetőségű adózónak minősül.
+
+A (2) bekezdés alapján a törvény meghatározza a bizalmi vagyonkezelési szerződés fogalmát. A társasági adótörvény alkalmazásában bizalmi vagyonkezelési szerződés alatt az új Polgári Törvénykönyv szerinti bizalmi vagyonkezelési szerződést kell érteni. A törvény meghatározza a bizalmi vagyonkezelő fogalmát. A meghatározás értelmében bizalmi vagyonkezelő a bizalmi vagyonkezelési szerződés alapján átvett vagyon kezelésére kötelezettséget vállaló belföldi személy, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelepét is. A törvény szerint vagyonrendelőnek az a személy minősül, amely az új Polgári Törvénykönyv bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonrendelőnek minősül. A törvény értelmében kezelt vagyon alatt az új Polgári Törvénykönyv szerinti bizalmi vagyonkezelési szerződés alapján kezelt vagyont kell érteni.
+
+A (5) bekezdésben a törvény kimondja, hogy nem kell a jövedelem-(nyereség)-minimumra vonatkozó szabályokat alkalmaznia a kezelt vagyonnak minősülő adóalanynak.
+
+A (6) bekezdés értelmében a vállalkozási tevékenység érdekében felmerülő (elismert) költségnek minősül a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékére, illetve a vagyonrendelőnél a bizalmi vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegére tekintettel elszámolt ráfordítás.
+
+Az (7) bekezdésben a törvény meghatározza a kezelt vagyon társasági adókötelezettsége keletkezésének időpontját. Eszerint a társasági adóalanyiság a bizalmi vagyonkezelési szerződés hatályosulása napján keletkezik.
+
+Az 58. §-hoz
+
+A törvény a védjegyek és a földrajzi árujelzők oltalmáról szóló törvényben is átvezeti a bizalmi vagyonkezelés láthatóvá tétele érdekében szükséges módosításokat.
+
+Az 59. §-hoz
+
+Az ingatlanok vonatkozásában szintén forgalombiztonsági okból a törvény a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényének feljegyzését kötelezővé teszi. Továbbá kötelezi a vagyonkezelőket, hogy vagy bizalmi vagyonkezelő vállalkozási minőségüket, vagy a jogviszony bejelentését igazoló bizonyítványt kérelmükhöz mellékeljék, a jogviszonyok átláthatóságának ösztönzése érdekében.
+
+A 60. §-hoz
+
+A törvény a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény vonatkozásában előírja, hogy a járműnyilvántartás tartalmazza a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét és meghatározza ezen adathoz való hozzáférésre jogosultak körét.
+
+A 61. §-hoz
+
+A törvény (1) és (2) bekezdésében a kezelt vagyont besorolja a számviteli törvény szerinti vállalkozó kategóriába, ezáltal a kezelt vagyonra a számviteli törvény szerinti vállalkozóra vonatkozó összes előírást alkalmazandóvá teszi. A törvény a Ptk. bizalmi vagyonkezelésre vonatkozó rendelkezéseivel összhangban továbbá meghatározza, hogy a számviteli törvény alkalmazásában mit kell érteni bizalmi vagyon, vagyonrendelő, bizalmi vagyonkezelő, bizalmi vagyonkezelés alatt.
+
+A törvény (3) bekezdésében rögzíti, hogy az Szt. hatálya alá vont kezelt vagyont érintő gazdasági események elszámolására, bemutatására az Szt. vállalkozóra vonatkozó rendelkezéseit kell megfelelően alkalmazni, továbbá meghatározza, hogy a kezelt vagyonnal kapcsolatos beszámolási és könyvvezetési kötelezettséget a bizalmi vagyonkezelő teljesíti úgy, hogy az egyes kezelt vagyonokról vagyononként önálló könyvvezetést folytat, és az alapján külön-külön beszámolókat készít.
+
+A (4) és (5) bekezdésben a törvény kibővíti a befektetett pénzügyi eszközök mérlegcsoport tartalmát a kezelt vagyonra szóló tartós követeléssel, amelyet a befektetett pénzügyi eszközök között, tartósan adott kölcsönként kell kimutatni a mérlegben.
+
+A törvény meghatározza a kezelt vagyon, mint számviteli alany saját tőkéjének tartalmát, részeit, változásának jogcímeit. A saját tőke az induló tőkéből, a tartalékból, a lekötött tartalékból, az értékelési tartalékból és a tárgyév mérleg szerinti eredményéből tevődik össze. Az induló tőke a bizalmi vagyonkezelésbe adott eszközök összesített, bizalmi vagyonkezelési szerződés szerinti értéke (amely eltérhet az átadott eszközök könyv szerinti értékétől, valamint piaci értékétől is), amelyet a bizalmi vagyonkezelés során kiadott vagyon összege csökkent. Az induló tőke összegének növekedésére csak a bizalmi vagyonkezelési szerződés módosítása útján kerülhet sor.
+
+Az Szt. általános szabályai szerinti eredménytartaléknak megfelelő tartalék a kezelt vagyon előző üzleti éveinek mérleg szerinti eredményét tartalmazza, de ezen kívül itt kell elszámolni a lekötött tartalékba lekötött összegeket, illetve azok feloldásait is. A tartalékot csökkentő tételként kell kimutatni a bizalmi vagyonkezelés során teljesített hozamkifizetés összegét. A törvény szabályozza a lekötött tartalékként, valamint az értékelési tartalékként szerepeltethető összegek jogcímeit is.
+
+A törvény az Szt. osztalékkifizetési szabályaival analóg módon, hozamfizetési korlát meghatározásával szabályozza a bizalmi vagyonkezelés során kifizethető hozam nagyságát.
+
+Amennyiben a bizalmi vagyonkezelés során vagyonkiadásra kerül sor, akkor annak fedezete az induló tőke. Amennyiben a tartalék negatív, illetve a tárgyévi mérleg szerinti eredmény veszteség, akkor a tartalékkal, illetve a tárgyévi mérleg szerinti veszteséggel csökkentett induló tőkét kell a vagyonkiadás során figyelembe venni. Ha a vagyont az üzleti év során (nem az üzleti év végi beszámoló adatainak ismeretében, az abban kimutatott vagyon alapján) kívánják kiadni, akkor a vagyonkiadáshoz közbenső mérleget kell készíteni, és a kiadható vagyon megállapításánál a közbenső mérlegben kimutatott negatív adózott eredményt is figyelembe kell venni, a kiadható vagyon összegét csökkentő tételként. A közbenső mérlegben kimutatott pozitív adózott eredményt évközi vagyonkiadáskor nem lehet figyelembe venni.
+
+A (7) bekezdésben a törvény meghatározza a kezelt vagyonra szóló tartós követelés bekerülési értékét, amely a bizalmi vagyonkezelésbe adott eszközök bizalmi vagyonkezelési szerződés szerinti, együttes értékével egyezik meg, amely érték eltérhet az az átadott eszközök könyv szerinti értékétől, valamint piaci értékétől is.
+
+A (8) bekezdésben a törvény meghatározza a vagyonrendelő könyveiben kimutatott kezelt vagyonra szóló tartós követelés üzleti év végi értékelésének szabályait, az értékvesztés, az értékvesztés visszaírása meghatározásának fő szempontjait. Az értékvesztés, az értékvesztés visszaírásának elszámolása során piaci értékként a kezelt vagyon tőkeelemei közül az induló tőkét, a tartalékot, és a tárgyévi mérleg szerinti eredményt kell figyelembe venni.
+
+A törvény rögzíti, hogy a vagyonrendelőnél egyéb bevételként kell elszámolni az átadott bizalmi vagyon szerződés szerinti értékét, egyéb ráfordításként pedig a bizalmi vagyonkezelésbe adott eszközök átadáskor kivezetett könyv szerinti értékét. Az előírásokból következően a vagyonrendelő tehát eredményt realizál abban az esetben, ha a vagyon nem az eszközök nála kimutatott könyv szerinti értékén kerül felvételre a kezelt vagyonba.
+
+A (10) bekezdésben a törvény szerint a bizalmi vagyon kiadásakor a vagyonrendelőnél egyéb ráfordításként kell elszámolni a kezelt vagyon csökkenésével arányos, kivezetett összeget, amely a bizalmi vagyonra szóló tartós követelés arányos csökkenésével szemben számolandó el. Ha a vagyonkiadás részben vagy egészben a vagyonrendelő javára történik, akkor az előbbi elszámoláson túl a vagyonrendelőnek járó vagyont egyéb bevételként kell a vagyonrendelőnél elszámolni.
+
+A (11) bekezdésben a törvény a bizalmi vagyonkezelés során a vagyonrendelőnek kifizetett, illetve járó hozamot az Szt. kapott (járó) osztalékra vonatkozó rendelkezése szerint, a pénzügyi műveletek bevételeként számoltatja el a vagyonrendelőnél.
+
+A törvény a bizalmi vagyonkezelés bizalmi jellegére tekintettel a bizalmi vagyonkezelőt mentesíti a kezelt vagyon éves beszámolójának, illetve egyszerűsített éves beszámolójának könyvvizsgálata és közzététele alól, így a kezelt vagyonra nem vonatkozik a könyvvizsgálati, a nyilvánosságra hozatali és közzétételi kötelezettség. A rendelkezés nem érinti az Szt. hatálya alá tartozó bizalmi vagyonkezelő beszámolójának könyvvizsgálati, nyilvánosságra hozatali és közzétételi kötelezettségét, amelyek az általános szabályok szerint alakulnak.
+
+A 62. §-hoz
+
+A törvény a formatervezési minták oltalmáról szóló törvényben is átvezeti a bizalmi vagyonkezelés láthatóvá tétele érdekében szükséges módosításokat.
+
+A 63. §-hoz
+
+Az (1) bekezdésben a törvény az adózás rendjéről szóló 2003. évi XCII. törvénybe (a továbbiakban: Art.) beilleszti, hogy a bizalmi vagyonkezelésbe adott vagyontömeget adózónak kell tekinteni.
+
+A (2) bekezdésben a törvény kimondja, hogy a bizalmi vagyonkezelőt a bizalmi vagyonkezelésbe vett vagyontömeg adózása során képviselőnek kell tekinteni. A bizalmi vagyonkezelő úgy kell, hogy a bizalmi vagyonkezelésbe adott vagyontömeg adózása során eljárjon, hogy a bizalmi vagyonkezelő az adókötelezettségeket saját nevében a bizalmi vagyonkezelésbe adott vagyontömeg adószámának feltüntetésével teljesítse. Emellett a bizalmi vagyonkezelő élhet a bizalmi vagyonkezelésbe adott vagyontömeg adózói jogaival, azaz azokat - rendeltetésszerűen - gyakorolhatja. A bizalmi vagyonkezelő számára a törvény speciális szabályként előírja az általa képviselt, a bizalmi vagyonkezelésbe vett vagyontömeg adózással összefüggő iratainak nyilvántartási kötelezettségét.
+
+A (3) bekezdésben a törvény taxatív módon meghatározza, hogy a bizalmi vagyonkezelőnek milyen adatokat kell az állami adóhatósághoz közvetlenül bejelentenie.
+
+A (4) bekezdésben a törvény rögzíti a kezelt vagyon fogalmát.
+
+A 64. §-hoz
+
+A törvény a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényben is átvezeti a bizalmi vagyonkezelés láthatóvá tétele érdekében szükséges módosításokat.
+
+A 65. §-hoz
+
+A törvény megteremti a jogszabályi feltételeit annak, hogy a bizalmi vagyonkezelési szerződés keretében a vagyonkezelő részére történő vagyonátadás ne jelentsen többlet általános forgalmi adó (a továbbiakban: áfa) terhelést, mintha a vagyonrendelő a vagyont közvetlenül a kedvezményezett részére juttatta volna. Ugyancsak a többlet adóterhelés elkerülését célozza az a módosítás, mely értelmében nem keletkezik áfa fizetési kötelezettség abban az esetben, ha a vagyonrendelő a vagyonkezelési szerződés kedvezményezettjeként egészben vagy részben magát jelöli meg.
+
+A törvény egyértelművé teszi, hogy ahhoz, hogy az áfa terhelés ne merüljön föl, mindkét esetben szükséges, hogy az átadás megfeleljen az Áfa tv. 18. § (1) és (2) bekezdéseiben foglalt feltételeknek.
+
+A 66. §-hoz
+
+A pénzmosás és a terrorizmus finanszírozása elleni szabályozás nemzetközi követelményei alapján szükséges a bizalmi vagyonkezelési tevékenységet végző szolgáltatóknak a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) hatálya alá kerülése. A nemzetközi követelmények figyelembe vételével, amelyek alapján a pénzmosás elleni szabályokat kötelezően csak az üzletszerűen tevékenységet folytatókra kell kiterjeszteni, a szabályozás alapvető célja, hogy kizárólag a tevékenységüket „üzletszerűen” végző szolgáltatók kerüljenek a Pmt. hatálya alá.
+
+Mindezek alapján szükséges a bizalmi vagyonkezelés kapcsán a szolgáltatói kört érintő kivételi szabályok kialakítása, azaz a nem üzletszerűen eljáró bizalmi vagyonkezelő Pmt. hatálya alóli kivétele.
+
+Ez szükségessé teszi a Pmt. hatályára vonatkozó [1. § (1) bekezdés] és a hatály alóli kivételeket tartalmazó [1. § (4) bekezdés] rendelkezések módosítását.
+
+A pénzmosás elleni küzdelem szempontjából mindenképpen szükséges a bizalmi vagyonkezelést végző szolgáltatók létrejöttének engedélyezéshez kötése, illetve a bizalmi vagyonkezelést végző szolgáltatók vonatkozásában a pénzmosási felügyeletet ellátó szerv kijelölése. Az illetékes szerv kijelölésére a pontos szolgáltatói kör figyelembe vételével, az általuk végzett tevékenység törvényben rögzített részletei alapján került sor.
+
+Indokolt, hogy a Kormány rendeletében kijelölt engedélyező és nyilvántartó hivatal legyen a bizalmi vagyonkezelők esetén a pénzmosási felügyeletet ellátó szerv is.
+
+A felügyeletet ellátó szerv kijelölése szükségessé teszi a Pmt. felügyeletet ellátó szerveket kijelölő [5. §] szakasz, továbbá a felügyelet ellátására és az intézkedésekre vonatkozó rendelkezések [34. § és 35. §] módosítását is.
+
+A Pmt. hatálya alá tartozó szolgáltatókat az alábbi kötelezettségek terhelik, amelyeket a bizalmi vagyonkezelést végző szolgáltatóknak is teljesítenie kell:
+
+- ügyfél-átvilágítási intézkedések elvégzése,
+
+- bejelentési kötelezettség,
+
+- nyilvántartási kötelezettség,
+
+- belső ellenőrző és információs rendszer működtetése,
+
+- speciális képzési program szervezése,
+
+- belső szabályzat készítésének kötelezettsége, valamint
+
+- az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról, valamint ehhez kapcsolódóan egyes törvények módosításáról szóló 2007. évi CLXXX. törvény (Kit.) rendelkezései szerinti kötelezettségek.
+
+A bizalmi vagyonkezelés végzésének elősegítése érdekében - a nemzetközi követelmények figyelembe vételével - a belső szabályzat készítése kapcsán lehetőség nyílt egyszerűsített szabályokat meghatározni ezen szolgáltatói kör számára, mely szabályozás kialakítása során az ügyvédekre és közjegyzőkre vonatkozó speciális szabályozás koncepciójának átvétele volt indokolt. Az így kialakított szabályozás alapján a felügyelő szerv készít egységes szabályzatot, amely az érintett szolgáltatók esetében belső szabályzatnak minősül.
+
+A 67. §-hoz
+
+A törvény módosítja az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvényt is annak érdekében, hogy a vagyonnyilatkozatok valós képet adjanak a nyilatkozattevők vagyoni helyzetéről.
+
+A 68. §-hoz
+
+A természetes személy bizalmi vagyonkezelő halála esetén a bizalmi vagyonkezelési jogviszony kedvezményezettjeinek, vagyonrendelőjének érdekei védelme érdekében a törvény módosítja a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvényt is. E szerint, ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor bizalmi vagyonkezelő volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni. Továbbá, ha a leltározás során az örökhagyó bizalmi vagyonkezelési szerződése a jegyző vagy a közjegyző birtokába kerül, vagy egyébként adat merül fel ilyen szerződés létrejöttére, vagy arra vonatkozóan, hogy az örökhagyó bizalmi vagyonkezelő volt, a jegyző vagy a közjegyző haladéktalanul értesíti a halálesetről a szerződésben szereplő vagyonrendelőt, további, vagy új vagyonkezelőt és a kedvezményezettet.
+
+A 69. §-hoz
+
+A törvény módosítja az Országgyűlésről szóló 2012. évi XXXVI. törvény vagyonnyilatkozat-tételi kötelezettségre vonatkozó részét is annak érdekében, hogy a vagyonnyilatkozatok valós képet adjanak a nyilatkozattevők vagyoni helyzetéről.
+
+A 70. §-hoz
+
+A törvény jogtechnikai okból - figyelemmel a törvénynek az Inytv.-t módosító rendelkezésére - kimondja, hogy nem lép hatályba a Polgári Törvénykönyvről szóló 2013. évi V. törvénnyel összefüggésben az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosításáról szóló 2013. évi CCIV. törvény 5. §-a.
+
+A 71. §-hoz
+
+A módosítás technikai korrekciót hajt végre a közúti közlekedésről szóló 1988. évi I. törvényben, az új Ptk. fogalomhasználatához igazodva.
+
+A 72. §-hoz
+
+A törvény közjegyzőkről szóló 1991. évi XLI. törvénynek (a továbbiakban: Kjtv.) a közjegyzői pályázatok kiírására vonatkozó szabályai körében kimondja, hogy a megüresedő közjegyzői állásra a közjegyzői szolgálat megszűnését megelőzően ki kell írni a pályázatot abban az esetben is, ha a közjegyző szolgálati jogviszonyáról lemondott és lemondását az illetékes területi közjegyzői kamarának is megküldte. A módosítás indoka a közjegyzői szolgáltatásoknak az ügyfelek számára történő folyamatos, zökkenőmentes biztosítása.
+
+Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény 90. § (4) és (5) bekezdése módosítja a Kjtv. 29. §-ának egyes rendelkezéseit. A módosítás eredményeképpen a jövőben nem lesz szükség a közjegyző ellenjegyzésére a közjegyző-helyettes által készített ügyleti okirat érvényességéhez.
+
+Tekintettel arra, hogy, hogy a Kjtv. 29. § (4) bekezdése a hivatkozott ellenjegyzéssel kapcsolatos részletszabályokat tartalmaz, annak hatályon kívül helyezése is szükséges.
+
+A 73. §-hoz
+
+Az (1) bekezdéshez: az 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 20. § új (1a) bekezdése azt a célt szolgálja, hogy a csődvédelemmel ne lehessen visszaélésszerűen élni. Hasonló szabályt ír elő a Cstv. most hatályos szövege a felszámolási eljárás során köthető egyezségre.
+
+A (2) bekezdéshez: az ideiglenes vagyonfelügyelő díjának viselésére vonatkozóan a Cstv. 24/A. § (2) bekezdése és 27/A. § (3) bekezdése feleslegesen tartalmaz duplikált szabályozást, ezért a 27/A. § (3) bekezdéséből ez a szabály elhagyásra kerül. A 24/A. § új (2b) bekezdése a 21/B. §-al való kapcsolódás miatt kerül pontosításra.
+
+A gyakorlatban problémaként jelentkezik, hogy a felszámolás alatt álló vállalkozásoknál nincs meg a felszámolói munkával és a vállalkozás tevékenységének lezárásával összefüggő költségek fedezete, és nincs bevétel sem. Nincs meg a forrása annak sem, hogy a felszámolás alá került cég vagyonának az állami nyilvántartásokból való összegyűjtésével, az iratanyag rendezésével, elhelyezésével, a bankszámlavezetéssel összefüggő készkiadásokat ki tudja a felszámoló fizetni. Elvárható, hogy a vállalkozások még akkor is, ha felszámolásuk elkerülhetetlenné vált - a piacról történő kivezetésük legszükségesebb költségeiből részt vállaljanak. Ezért a törvénymódosítás a Cstv. 26. § új (5) bekezdésében kötelezi az adóst, hogy ha kézhez kapja a felszámolást elrendelő végzést, legalább 100 000 Ft-ot céltartalékként különítsen el a legszükségesebb felszámolási költségekre.
+
+A Cstv. 27/A. § (1) bekezdésében megszüntetésre kerül a bírónak az a lehetősége, hogy egyedi ügyekben eltérjen a számítógépes program által történő felajánlástól. Az új felszámolói névjegyzék felállításánál ugyanis már olyan szakmai követelmények érvényesültek, hogy minden felszámoló szervezetnek képesnek kell lennie az ügyek ellátására, és elegendő létszámú, szakértelemmel rendelkező személyzettel kell rendelkeznie. A felszámolás elrendelésekor a bíró egyébként sincs abban a helyzetben, hogy objektív ismérvek alapján meg tudja ítélni, hogy az adósnak milyen olyan sajátosságai vannak, amit kizárólag az általa egyedileg kiválasztott felszámoló szervezet tudna hatékonyabban kezelni. A gyakorlatban egyébként is nagyon ritkán éltek a bírók az egyedi kijelölés lehetőségével, ezért is okafogyottá válik az egyedi kijelölés lehetősége. A jövőben tehát minden esetben a számítógépes program jogszabályban meghatározott automatizmusa érvényesül. A felszámoló kijelölést támogató számítógépes program ellenőrzött működtetésével összefüggő szabályokat a végrehajtási rendelet tartalmazza.
+
+Az (5) bekezdéshez: a Cstv. 27/A. § (3) bekezdéséből elmarad az ideiglenes vagyonfelügyelői kirendelésére vonatkozó szabály, ami a 28. § (1) bekezdésének módosításával vált okafogyottá. Az ideiglenes vagyonfelügyelő díjának előlegezésére is viselésére vonatkozó szabályok pedig a 24/A. § új (2a)-(2b) bekezdésében kerülnek kimondásra, a 27/A. § (3) bekezdésből tehát ezek a szabályok elhagyhatók.
+
+Új rendelkezésként kerül viszont be a 27/A. § (3) bekezdésébe, hogy legalább egy éves felszámoló szervezetnél töltött szakmai gyakorlat kell ahhoz, hogy a szakirányú végzettséggel rendelkező személyt felszámolóbiztosnak lehessen kijelölnie a felszámoló szervezetnél. Az átmeneti rendelkezések az új szabályra való felkészülést biztosítják.
+
+Ugyancsak új rendelkezés, hogy a felszámolóbiztosnak nyilatkozatot kell tennie a kijelölésekor a felszámoló szervezet részére arról, hogy minden törvényes feltételnek megfelel, és nem áll fenn vele szemben kizáró vagy összeférhetetlenségi ok.
+
+A (6)-(8) bekezdéshez: a Cstv. 27/A. § (4) bekezdésének módosítása a felszámolóbiztossal szembeni törvényi kizáró, illetve az adott ügyben az összeférhetetlenségi okok körét bővíti, szigorítva ezzel a felszámolóbiztossal szemben érvényesülő törvényi követelményeket és elősegítve a felszámolóbiztos tevékenységének ellenőrizhetőbbé tételét. A törvénymódosítás, a visszaélésekre esetleg alkalmat adó helyzetek elkerülését szolgálja, és a felszámolóbiztos tevékenységének ellenőrzöttebbé tételét, végül annak a törvényi követelménynek a betartását szolgálja, hogy csak olyan felszámolóbiztos kerülhessen megbízásra, akit a felszámoló szervezet bejelentett a felszámolók névjegyzékébe is.
+
+Az a felszámolóbiztos, akinek jogszabálysértése miatt a bírósága felszámolót a csődeljárásból vagy felszámolási eljárásból felmentette, 3 évig felszámolóbiztosként nem bízható meg.
+
+A (9) bekezdéshez: a Cstv. 27/A. § (5) bekezdésének módosítása és új (5a) bekezdése a felszámolóbiztos megbízatásával, személye bíróságnak történő bejelentésével összefüggő szabályokat egészíti ki, illetve pontosítja.
+
+A most hatályos 5 napos határidő 2 napra rövidül, a felszámoló szervezetnek a kirendelését tartalmazó végzés kézhezvételétől számított 2 napon belül kell bejelentenie a bíróságnak az általa kijelölt felszámolóbiztos törvényben meghatározott adatait is. A felszámolóbiztosnak nyilatkozatot kell tennie arról, hogy nem áll sem törvényi kizáró ok alatt, sem pedig az adott ügyben nincs a személyében fennálló összeférhetetlenségi ok. Kötelezettséget kell vállalnia arra hogy ha ilyen okok bármelyike bekövetkezik, azt haladéktalanul bejelenti a felszámoló szervezetnek, kezdeményezve a kijelölése visszavonását. A felszámolóbiztos ezen nyilatkozatát a felszámoló szervezetnek a bíróság számára is be kell csatolnia.
+
+A (10) bekezdéshez: jogszabály-szerkesztési szempontból és az egyértelmű hivatkozás érdekében a 27/A. § (6) bekezdésből a (6a) bekezdésbe kerülnek át azok a rendelkezések, amelyek a névjegyzékbe való felvétellel összefüggő pályáztatás során a névjegyzékbe - a keretszám korlátja miatt - be nem került felszámoló szervezetek folyamatban lévő ügyeinek lezárásával kapcsolatosak.
+
+Ezen felszámoló szervezetekről a névjegyzéket vezető szerv egy külön hatósági nyilvántartást vezet. A törvénymódosítás egyértelművé teszi, hogy az említett felszámolókra és az e tevékenységgel foglalkozó tagjaikra, foglalkoztatottaikra - a folyamatban lévő csőd- és felszámolási ügyekben történő működésük befejezéséig - továbbra is a felszámolókra vonatkozó követelmények irányadók. Ha azonban a bíróság jogszabálysértés miatt felmentette őket egy éven belül kétszer vagy két éven belül három eljárásból is, megszűnik a lehetőségük a többi folyamatban lévő ügyeik véghezvitelére, a nyilvántartó szerv értesítése alapján a bíróságoknak. intézkedniük kell a felmentésük iránt azon csődeljárásokból vagy felszámolási eljárásokból, amelyekben eljárnak.
+
+A (11) bekezdéshez: a Cstv. 27/A. § (7) bekezdésének módosítása a felszámoló szervezetnek az adott csőd- vagy felszámolási ügyből történő bírósági elmozdításának eseteit bővíti annak érdekében, hogy a felszámoló szervezeteket a jogszabályoknak megfelelő működésre ösztönözze, és a jogszabálysértéseket szigorúbban szankcionálja. A bíróság ezen döntéséről köteles értesíteni a felszámolói névjegyzékét vezető hatóságot, tekintettel arra, hogy a felszámolók névjegyzékéből való törlésre is sor kerülhet, ha egy vagy két éven belül többször is sor kerül ilyen jogkövetkezmény alkalmazására. A bíróság adatszolgáltatása a jogszabálysértéssel érintett felszámolóbiztos adatait is tartalmazza, ezekről a személyekről a felszámolók névjegyzékét vezető szerv hatósági nyilvántartást vezet.
+
+A (12) bekezdéshez: a Cstv. 27/C. § új (1a) bekezdése rendszeres és kötelező továbbképzést ír elő azon személyek számára, akik felszámolóbiztosként nevezhetők ki. Az ezen módosításhoz fűzött átmeneti rendelkezés biztosítja a felkészülési időt a továbbképzések megszervezéséhez, és azok elvégzéséhez.
+
+A (13) bekezdéshez: a Cstv. 28. § (1) bekezdése értelmében a bíróság csak akkor jelöli ki a felszámoló szervezetet, amikor a felszámolást elrendelő végzés már jogerőre emelkedett. A felszámolást elrendelő (és egyben a felszámolót kirendelő) végzés Cégközlönyben való közzétételére akkor kerül sor, ha a felszámoló a 27/A. § (5a) bekezdése szerint a felszámolóbiztos adatait is bejelenti.
+
+A (14) bekezdéshez: a Cstv. új 30. §-a egyértelművé teszi, hagy a felszámoló - a csődvagyon összegyűjtési érdekében - köteles megkeresni a közhiteles nyilvántartásokat és azokat a pénzügyi szolgáltatókat, akik az adós számláit vezetik vagy egyéb pénzpiaci eszközeit kezelik.
+
+A (15) bekezdéshez: 1d. a (2) bekezdéshez [Cstv. 26. § (5) bekezdésének módosításához] fűzött indokolást.
+
+A (16) bekezdéshez: az adós iratanyagának kezelésével összefüggő szakmai szabályokat állapítja meg a felszámoló szervezet számára.
+
+A Cstv. 46. § új (4a) bekezdése azt a visszatetsző gyakorlatot kívánja visszaszorítani, hogy a felszámolás alatt álló vállalkozások vagyonát a megszűnő vállalkozás tulajdonosai, kapcsolt vállalkozásai, illetve volt vezető tisztségviselői bérlik vagy használják addig is, amíg az nem kerül a felszámolás során értékesítésre.
+
+A (18) bekezdéshez: a Cstv. 48. § (2b) bekezdést egészíti ki az adatkezelési rendelkezésekkel.
+
+A Cstv. 49. § új (3b) bekezdése azt a visszaélésszerű gyakorlatot kívánja megszüntetni, hogy a felszámolás során az adós eszközeit az adós tulajdonosi köre vásárolja fel.
+
+Ezen ügyletek ugyanis azt valószínűsítik, hogy a vállalkozás felszámolása nem elsősorban a piaci nehézségek, hanem az adósságoktól való megszabadulás érdekében történt. Ez utóbbi tendencia azonban nemzetgazdasági szinten rendkívül káros jelenség, amit vissza kell szorítani.
+
+A (20) bekezdéshez: a Cstv. 24/A. § módosításával teremti meg az összhangot (ideiglenes felszámoló díjának előlegezése és viselése a csődeljárást követő és az egyéb okból indult felszámolási eljárásokban).
+
+A (21) bekezdéshez: a Cstv. 65. § (2) bekezdése kiegészül egy új c) ponttal, amely szerint a többségi állami befolyással (Ptk. 8:2. §) vagy állami alapítói joggyakorlással működő adós ellen, illetve felszámolási eljárásban a Kormány az eljárás alatt bármikor dönthet a stratégiai kiemeltté minősítésről, feltéve, hogy még nem került sor egyezségkötésre, vagy felszámolás esetén a zárómérleg bírósághoz történő benyújtására.
+
+A (22) bekezdéshez: a jelen Cstv. módosításhoz kapcsolódó átmeneti rendelkezéseket állapítja meg, a Cstv. új 83/K. § beiktatásával.
+
+A Cstv. 83/K. § (1) bekezdéshez: az adós számára a felszámolás egyes költségeire vonatkozó céltartalékolási kötelezettség csak a jövőben meghozandó, a felszámolást első fokon elrendelő végzésekkel összefüggésben követelhető meg leghamarabb.
+
+A Cstv. 83/K. § (2) bekezdéshez: a felszámoló szervezet kirendelésére és annak felszámolóbiztosa kinevezésének módosított eljárásrendjére vonatkozó átmeneti szabályokat állapít meg.
+
+A Cstv. 83/K. § (3)-(4) bekezdéshez: a felszámoló szervezet kirendeléséről szóló végzés meghozatalának időpontja megváltozik a Cstv. 28. §-ában, ehhez szükséges átmeneti rendelkezés.
+
+Annak érdekében, hogy ne kerüljön jogerősen kirendelésre és ne járjon el olyan ideiglenes vagyonfelügyelő a jogerőre még nem emelkedett ügyekben, aki már nem szerepel az új felszámolói névjegyzékben, a bíróságnak hivatalból fel kell mentenie ezt a felszámolót, illetve ideiglenes vagyonfelügyelőt. Mivel ez utóbbi esetében történhetett tényleges munkavégzés, ezért a bíróság megállapít a felmentést elrendelő végzésben az egyedi ügyben elvégzett munkateherrel arányos díjazást.
+
+A Cstv. 83/K. § (5) bekezdéshez: 2015. október 1-jétől a felszámolói és vagyonfelügyelői szakképesítéssel rendelkező személyek egyidejűleg maximum 3 felszámoló szervezetnél foglalkoztathatók. A 2015. október 1-jéig terjedő átmeneti időszak biztosítja, hogy az általuk intézett ügyeket végigvigyék vagy átadják azon felszámoló szervezetnél, ahol nem maradhatnak tovább foglalkoztatásban. A feltétel teljesülését igazoló dokumentumokat 2015. november 1-jéig kell megküldeni a névjegyzéket vezető szervnek. Ez a dátum egybeesik a felszámolóknak a vagyoni biztosíték rendelkezésre állását igazoló okiratok benyújtására jogszabályban előírt határidővel, ezért az ezzel összefüggő adminisztrációs kötelezettség nem jelentős.
+
+A Cstv. 83/K. § (6) bekezdéshez: a felszámolói és vagyonfelügyelői szakképesítéssel rendelkező személyek kötelező továbbképzésére vonatkozóan állapít meg határidőt. A felesleges adminisztratív teher elkerülése érdekében a felszámolói névjegyzékről szóló kormányrendeletben az éves rendszeres adatszolgáltatás részeként kell igazolnia továbbképzési kötelezettség teljesítését.
+
+A Cstv. 83/K. § (7) bekezdéshez: csődeljárásban a vagyonfelügyelői tevékenységért felelős személy kötelező kinevezésére vonatkozó szabályra vonatkozóan teszi egyértelművé, hogy azt a jövőre nézve kell alkalmazni.
+
+A Cstv. 83/K. § (8) bekezdéshez: a felszámolóbiztosok számára a kötelező egy éves szakmai gyakorlat megszerzésére indokolt határidőt adni.
+
+A Cstv. 83/K. § (9) bekezdéshez: a csődtörvény 46. § (4a) bekezdése megtiltja, illetve hitelezői jóváhagyáshoz köti az adós vagyontárgyainak bérbeadását az adós tulajdonosi köréhez tartozó személyek vagy szervezetek számára. Ha ilyen szerződés már ma is van, ezek fenntartása csak a hitelezők egyhangú beleegyezése mellett engedhető meg.
+
+A Cstv. 83/K. § (10) bekezdéshez: a csődtörvény 65. § (2) bekezdése kiegészül egy új c) ponttal, amely szerint a többségi állami befolyással, illetve állami alapítói jogokkal működő adós ellen indult csődeljárásban, illetve felszámolási eljárásban a kormány az eljárás alatt bármikor dönthet a stratégiai kiemeltté minősítésről, feltéve, hogy még nem került sor egyezségkötésre, vagy felszámolás esetén a zárómérleg bírósághoz történő benyújtására. Ilyen kormánydöntés esetén a bíróság kirendeli az állami felszámolót, a korábbi felszámolót pedig az arányos díjazásának megállapításával egyidejűleg felmenti. Az átmeneti szabály kimondja, hogy ezt az új határidőt a 2014. március 15-én már folyamatban lévő csődeljárásokban és felszámolási eljárásokban is alkalmazni kell.
+
+A (23)-(25) bekezdéshez: a módosítás a felszámoló szervezetek nyilvántartásával, hatósági ellenőrzésével, szakmai beszámoltatásával összefüggő felhatalmazó rendelkezések kiegészítését tartalmazza. A felhatalmazó rendelkezések kiegészülnek továbbá arra vonatkozóan, hogy a kormány rendeletben szabályozza a felszámoló szervezetek tevékenységével és eljárásával összefüggő részletes szabályokat.
+
+A (26) bekezdéshez: szövegcserés módosítások.
+
+A (27) bekezdéshez: hatályát vesztő rendelkezés.
+
+A 74. §-hoz
+
+Az új Ptk.-ban megváltoznak a cselekvőképességre vonatkozó szabályok. Ezért szükséges a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Adattv.) 29. § (4) bekezdésének módosítása, mely az új Ptk. szabályaihoz igazítja az érintett rendelkezést.
+
+Az illetékekről szóló 1990. évi XCIII. törvény Melléklet IX. Fejezet II. rész 2. pont a) alpontja alapján a 14. életévét be nem töltött polgár személyazonosító igazolvány iránti kérelme illetékmentes az elveszett, megsemmisült, megrongálódott okmány cseréje kivételével minden esetben, így az okmány eltulajdonítása esetén is, és abban az esetben is, ha adatváltozás miatt szükséges az okmány cseréje.
+
+Az Adattv. 29. § (9) bekezdése azt a - szintén illetékmentes - esetet szabályozza, amikor a polgár az eltulajdonított okmánya helyett - azonos adattartalommal - új okmányt igényel. Figyelemmel arra, hogy a 14. életévüket be nem töltött polgárok tekintetében eleve illetékmentesség érvényesül (tekintet nélkül arra, hogy adatváltozás volt-e), e rendelkezésben helyesen a 14. életévüket be nem töltött polgárokra kell utalni a megfelelő jogalkalmazás érdekében, a 14. életévüket betöltött polgárok vonatkozásában ugyanis a kivételre utalás nem értelmezhető. A módosítás az ennek megfelelő pontosítást végzi e1.
+
+A 75. §-hoz
+
+A módosítás az új Ptk. 2014. március 15-én hatályba lépő rendelkezéseire tekintettel szükséges. Az új Ptk.-ban eltérő helyen kerül szabályozásra a hozzátartozó fogalma, ezért a merev hivatkozás pontosítása szükséges.
+
+A 76. §-hoz
+
+A személyiségi jogok megsértésének jogkövetkezménye az új Ptk. 2:52. §-a értelmében a sérelemdíj. A sérelemdíj bevezetésével párhuzamosan a nem vagyoni kár és az azért járó kártérítés megszűnik. Kártérítés kizárólag vagyoni jellegű károk esetén merülhet fel.
+
+A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: hatályos Ptk.) a gazdálkodó szervezet fogalmát tartalmazza oly módon, hogy tételesen felsorolja a fogalom alatt értendő szervezeti formákat. Az új Ptk. a gazdálkodó szervezet fogalom helyett az értelmező rendelkezések között új fogalomként vezeti be a vállalkozás fogalmát. Ez az új fogalom absztrakt módon, anyagi jogias szemlélettel határozza meg az általa körülírni kívánt személyi kört. Az eljárási jellegű szabályokat tartalmazó normáknál több szempontból is célszerűbb fenntartani egy olyan fogalmat, ami alapján pontos személyi kör állapítható meg, mert ez segíti az egységes jogalkalmazást. Ezért a polgári perrendtartásról szóló 1952. évi III. törvényben (a továbbiakban: Pp.) meghatározásra kerül egy taxatív felsorolást tartalmazó gazdálkodó szervezet fogalom, ami jól elkülöníthető az új Ptk. absztraktabb, anyagi jogi szemléletű és tágabb értelmezést engedő vállalkozás fogalmától. E változások teszik szükségessé a büntetőeljárásról szóló 1998. évi XIX. törvény érintett rendelkezéseinek hozzáigazítását az új Ptk. rendelkezéseihez.
+
+A 77. §-hoz
+
+A törvény technikai korrekciót hajt végre az új Ptk. fogalomhasználatához igazodva a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvényben.
+
+A 78. §-hoz
+
+A törvény technikai korrekciót hajt végre az új Ptk. fogalomhasználatához igazodva, a távhőszolgáltatásról szóló 2005. évi XVIII. törvényben.
+
+A 79. §-hoz
+
+A szerződésminták 2014. március 15. napjával a Ctv. mellékletéből kikerülve miniszteri rendeleti szinten kerülnek meghatározásra. E változásra figyelemmel szükséges technikai módosítást vezeti át a rendelkezés.
+
+A 80. §-hoz
+
+A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény (a továbbiakban: Cnytv.) módosítása annak okán szükséges, mert az egyes igazságügyi, jogállási és belügyi tárgyú törvények módosításáról szóló 2013. évi CCXLIII. törvény 14. §-a (2) bekezdésének a) pontja a szövegcserés módosítások körében nem megfelelően hivatkozza a Cnytv. 98. § (4) bekezdését. A Cnytv. módosítása szükséges továbbá a Polgári Törvénykönyvvel összefüggésben is, 2014. március 15-étől hatályba lép az alapítványok egyesülésére és szétválására vonatkozó új szabályozás, így a Cnytv. 50. §-ának hatályon kívül helyezése szükségessé válik.
+
+A 81. §-hoz
+
+A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvényt (a továbbiakban: Ttv.) 2015. január 1-jei hatályba lépéssel módosítja a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2013. évi CXXXVIII. törvény. A módosítás következtében azonban 2015. január 1-jén a Ttv. értelmező rendelkezései között két pont lesz, illetve lesz egy k) pont, amely tartalmilag azonos az egyik j) ponttal. Ezért a szöveg pontosítása érdekében annak a j) pontnak a hatályba nem lépéséről szükséges rendelkezni, amelyik tartalmilag megegyezik a k) ponttal.
+
+A 82. §-hoz
+
+Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 36/K. §-ának kiegészítése azt a célt szolgálja, hogy a hagyatéki eljárás során a közjegyző keresse meg a házassági és élettársi vagyonjogi szerződések országos nyilvántartását. Ha a nyilvántartásba vagyonjogi szerződésre vonatkozó adatot jegyeztek be, akkora közjegyző beszerzi az érintett iratot is. A vagyonjogi szerződés beszerzését követően a közjegyző az örökhagyó vagyonára vonatkozó olyan információk birtokába kerül, amelyekkel az örökhagyó akaratának, illetve a szerződés miatt az általánostól eltérő vagyoni szerzésmódjának figyelembevételével adhatja át a hagyatékot az örökösöknek.
+
+A 83. §-hoz
+
+A közbeszerzések joga alapvetően az ajánlatkérők szerződéskötési folyamatát szabályozza. A közbeszerzés szabályai ezért szorosan kötődnek a Polgári Törvénykönyv szabályaihoz, a gyakorlatban azokkal szerves egységben alkalmazandóak. Szükséges ezért a Kbt. rendelkezéseink az új Polgári Törvénykönyvhöz való igazítása, a polgári jogi szabályokkal való összhang megteremtése. A Kbt.-ben az új Ptk. kifizetési határidőkre vonatkozó szabályaira, és a késedelmi kamatra vonatkozó szabályaira kell utalni a hatályos Ptk. szabályai helyett. A szerződés érvénytelensége jogkövetkezményeinek változása szükségessé teszi a Kbt. közbeszerzési jogsértés miatt érvénytelen szerződésekre vonatkozó szabályainak módosítását is.
+
+A biztosítékokkal kapcsolatos szabályok Ptk.-beli változásának megfelelően kell kiigazítani a Kbt. biztosítékokra vonatkozó szabályait. A jogi személyiség nélküli gazdasági társaság kategóriájának megszűnése számos helyen tesz szükségessé technikai módosítást, a módosítás egyértelművé teszi, hogy az ajánlatkérő mellett a nyertes ajánlattevőt is terheli szerződéskötési kötelezettség, így jogellenesen jár el, amennyiben megtagadja a szerződéskötést és magatartását nem tudja kimenteni.
+
+A 84. §-hoz
+
+Az új Ptk. alapján a jogi személyiséggel nem rendelkező gazdasági társaság fogalma megszűnik. Tekintettel arra, hogy az érintett jogszabály szövegében több helyen szerepel a jogi személyiséggel nem rendelkező gazdasági társaság megnevezés, indokolt e fogalmakat hatályon kívül helyezni.
+
+A 85. §-hoz
+
+Az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló törvény technikai módosítása.
+
+A 86. §-hoz
+
+A módosítás az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénynek (a továbbiakban: Módtv.), valamint az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvénynek az ügyvédi ellenjegyzést érintő egyes rendelkezéseinek hatálybalépését módosítja. A Módtv. az ügyvédekről szóló 1998. évi XI. törvényt - többek között -akként módosította, hogy az ügyvédi ellenjegyzéshez kötött iratok hamisítása elleni fokozottabb védelem, az azokkal kapcsolatos egyéb visszaélések visszaszorítása érdekében jelentősen átalakította, szigorította az ügyvédi ellenjegyzés szabályait a papír alapú okiratok esetében. Az ügyvédi ellenjegyzés új szabályait a Módtv. két lépcsőben vezette be lehetővé téve, hogy az első lépcsőben megvalósuló ügyvédi ellenjegyzések során nyert gyakorlati tapasztalatokat is hasznosíthassák az ügyvédi kamarák a teljes átállást megelőzően. Ennek megfelelően 2014. május 1-jétől a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény hatálya alá tartozó a mező- és erdőgazdasági hasznosítású föld tulajdonjogát érintő jogügyletet magában foglaló okiratok ellenjegyzéséhez rendelt meghatározott biztonsági kellékeket, míg 2015. január 1-jétől valamennyi ügyvédi okirati ellenjegyzéshez. Az új rendszer bevezetése jelentős informatikai fejlesztést, valamint a biztonsági jelek nagy számban történő rendelkezésre bocsátása is további előkészületeket kíván meg mind a területi ügyvédi kamaráktól, a Magyar Ügyvédi Kamarától, mind az ügyvédi kartól, amelyre a Módtv. biztosította felkészülési idő nem elegendő. Figyelemmel arra, hogy az ügyfélbizalom növeléséhez, erősítéséhez, valamint a jogügyletek biztonságához kiemelt társadalmi érdek fűződik, amely a jogbiztonság szempontjából is jelentőséggel bír, így a törvény az eredetinél hosszabb felkészülési időt biztosít az új ellenjegyzési rendszer első lépcsőjének kiépítésére annak érdekében, hogy annak bevezetése minél gördülékenyebben, hatékonyabban valósulhasson meg.
+
+A 87. §-hoz
+
+A Büntető Törvénykönyvről szóló 2013. évi C. törvényt érintő, még nem hatályos módosítás pontosítása az új Ptk.-nak a korlátozottan cselekvőképes nagykorúakat érintő változásai miatt vált szükségessé.
+
+A Módtv. egyes rendelkezéseinek hatályba nem lépéséről, illetve hatályon kívül helyezéséről azért szükséges rendelkezni, hogy az időközben elfogadott egyéb törvénycsomagok rendelkezéseivel való összhang, illetve egyes rendelkezések pontosítása megvalósulhasson.

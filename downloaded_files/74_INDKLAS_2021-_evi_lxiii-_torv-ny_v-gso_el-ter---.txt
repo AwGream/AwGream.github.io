@@ -1,0 +1,89 @@
+2021. évi LXIII. törvény végső előterjesztői indokolása
+
+a fővárosi és megyei kormányhivatalok elektronikus ügyintézésével, valamint a kormányhivatali adatszolgáltatással összefüggő egyes törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. § (2) bekezdés a) pontja alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+A törvény bevezeti az aláírásminta alapú hitelesítési rendszert a fővárosi és megyei kormányhivatalokban, valamint létrehozza az Építőipari Monitoring- és Adatszolgáltató Rendszert, amely a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszer részeként az építőipar átláthatóságát mozdítja elő.
+
+I. Az aláírásminta alapú hitelesítési rendszer fejlesztésével kialakításra kerül egy, a kormányablakokban alkalmazható új elektronikus hitelesítés mód, amikor is az elektronikus formában tett hagyományos aláírás biometrikus adatai alapján történik a jognyilatkozatok hitelesítése. A folyamat lényege, hogy sikeres - okmányokkal történő - azonosítást követően az ügyfél az ügyintézés során használt (pdf) dokumentumokat egy ún. „aláírópad” segítségével kézzel, egyszerű módon aláírhatja. Ezzel egyidejűleg az aláírópadon rögzített kézjegy - bizonyos biometrikus adatainak (írásnyomás, írásdinamika és egyéb paraméterek) titkosított formában történő tárolása után - egyszerűen konvertálható a dokumentumon elhelyezett aláírásképpé, a dokumentum záradékolható, valamint időbélyegzővel is ellátható. A hatékony hivatali ügyintézés megteremtése érdekében közvetlen adatkapcsolat kerül kialakításra az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer és az oktatási nyilvántartás, valamint az idegenrendészeti hatóság és a menekültügyi hatóság által használt rendszerek között.
+
+II. A törvény az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény, valamint a kapcsolódó ágazati törvények módosításával létrehozza a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszert, amely az első szakaszban az építőipar foglalkoztatási viszonyainak fehérítését, az ágazatban tevékenykedő gazdálkodó szervezetek és magánszemélyek jogkövetésre való ösztönzését, ezzel az építőiparban legálisan foglalkoztatottak számának és az alvállalkozói lánc átláthatóságának növelését szolgálja, távlatilag pedig alkalmas az építésügy szélesebb területeit lefedő és kiszolgáló rendszerré fejlesztésére.
+
+A törvény a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszer részeként megállapítja az Építőipari Monitoring- és Adatszolgáltató Rendszer működésére vonatkozó szabályokat, amely - Üvegkapu elnevezéssel - egy, a kormányrendeletben meghatározott küszöböt, volument elérő építőipari kivitelezési tevékenységek építési munkaterületén történő tartózkodás nyomon követésére szolgáló rendszer bevezetését jelenti. Az Üvegkapu célja annak előmozdítása, hogy az építési munkaterületen kizárólag az arra jogosult személyek tartózkodjanak, s ennek érdekében nyomon követhetővé váljanak az építkezésekre történő be- és kilépések. A be- és kilépések elektronikus naplózása révén az Üvegkapu egy hatékony eszköz mind az adóhatóság, mind pedig a foglalkoztatás- felügyeleti hatóság és az építésfelügyeleti hatóság számára az építkezések ellenőrzésére. A törvény emellett az egyes ágazati nyilvántartások kapcsolódásával is elősegíti azt, hogy az építkezéseken kizárólag az arra jogosult személyek tartózkodjanak, végezzenek munkát.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása megteremti az azzal kapcsolatos adatvédelmi felhatalmazást, hogy a foglalkoztatás- felügyeleti hatóság a már meglévő jogalapok mellett a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerben meghatározott okokból - vagyis a jogszerű építőipari foglalkoztatás elősegítése céljából - megismerhesse az adóazonosító jelet.
+
+A 2. §-hoz
+
+A törvény a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszer, valamint az annak informatikai rendszerét képező Üvegkapu szabályozásának gerincét az építési szabályozásban, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) rendelkezései között helyezi el.
+
+A rendszer az építőipari kivitelezési tevékenységhez szorosan kapcsolódva, az építési munkaterületen való tartózkodás adatait rögzíti és továbbítja a kapcsolódó nyilvántartásokhoz, szakrendszerekhez.
+
+A Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszer létrehozásának kiemelt célja az építőipari fővállalkozói-alvállalkozói kapcsolatok áttekinthetőségének javítása, továbbá az építőipari kivitelezési tevékenységhez kapcsolódó magatartások jogszerűségének elősegítése az építési munkaterületen tartózkodó személyek tartózkodási adatainak rögzítése révén.
+
+A munkavállaló jogait sértő jogszerűtlen foglalkoztatás elleni fellépést segítő rendszer, az Üvegkapu egy olyan ellenőrzési rendszert vezet be, amely egyidejűleg csökkenti a munkavállalók kiszolgáltatottságát, elősegíti a munkával töltött időnek megfelelő bérezés, illetve díjazás megvalósulását.
+
+Az építési munkaterületen munkavégzés céljából tartózkodó személyek helyszíni tartózkodásra vonatkozó adatainak ellenőrzése az állam oldaláról költséges, és a hatóságoktól jelentős kapacitás lekötését igényli.
+
+Az Üvegkapu felállításával lehetőség nyílik arra, hogy az építési munkaterületen tartózkodó személyek jelenléti adatai valós időben, informatikai eszközök útján nyomon követhetők legyenek. Ezzel könnyebbé válik az általános közigazgatási rendtartás szerinti fizikai, helyszíni ellenőrzés, és csökkennek az adminisztrációs terhek.
+
+Az Üvegkapu révén így egyszerűen és jelentős humánerőforrás-megtakarítással megállapítható, hogy adott foglalkoztatott vagy más személy területen tartózkodása jogszerű-e, a vállalkozás betartja-e a munkaügyi szabályokat. Az Üvegkapu rendszer adatai megkönnyítik az adóellenőrzések lefolytatását a vállalkozások, a foglalkoztatást érintő adókötelezettségeinek teljesítése tekintetében.
+
+A törvény az Üvegkapu kialakítása, használata részletes szabályainak megállapítását a kormányrendeleti szintű szabályozásra utalja. Az Étv. szabályai a törvényi szintet igényelő lényeges kérdéseket rendezik, nevezetesen azt, hogy a rendszer hatálya alá tartozó kivitelezések esetében az építési munkaterületen kizárólag az arra jogosultak - vagyis a kivitelezési vagy ahhoz kapcsolódó tevékenységet folytató foglalkoztatottak, továbbá a vendégek, illetve természetszerűen a feladatellátó szervek képviselői - tartózkodhatnak, továbbá hogy a be- és kilépés nyomon követésére szolgáló rendszert kell telepíteni.
+
+Kiterjedt és pontos szabályozást kívánnak meg a rendszer működésével kapcsolatos adatvédelmi kérdések, különös figyelemmel a személyes adatok védelmére és az indokoltra korlátozódó felhasználására.
+
+A törvény ezen felül kitér a rendszer üzemeltetőjének, tárhelyszolgáltatójának, az egyes hatóságok feladatkörének, a regisztrációnak, az ellenőrzésnek, a felelősségnek, valamint az adatok elemzési és statisztikai célú felhasználásának egyes kérdéseire is. A törvény a pénztárgépek és az étel-, italautomaták online bekötésének, továbbá a Nemzeti Turisztikai Adatszolgáltató Központ létrehozásának pozitív tapasztalataiból is merít.
+
+A Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszer az újszerűségére, annak eszközigényére, a használattal járó üzemeltetési kérdésekre figyelemmel lépcsőzetes jelleggel, megfelelő felkészülési idő biztosításával áll fel. Ennek érdekében az Étv. olyan átmeneti szabályt állapít meg, amelynek értelmében a rendszer „felmenő jelleggel” lép életbe, és - az első fázisban - csak olyan kivitelezési tevékenységekre kell alkalmazni, amelyek a közbeszerzési törvény hatálya alá tartoznak, és a közbeszerzési eljárás a törvény hatályba lépését követően indult meg.
+
+A törvény expressis verbis kimondja, hogy a rendszer alkalmazásával kapcsolatos szankcionálásra 2022. július 1-jéig egyáltalán nem kerülhet sor.
+
+A törvény tartalmazza továbbá a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerrel kapcsolatos kormányrendeleti szintű szabályozás megalkotására vonatkozó felhatalmazásokat, ezek között a rendszerbe tartozó kivitelezések meghatározását, a működtetés technikai részletszabályait, vagy az üzemeltető és a tárhelyszolgáltató kijelölését.
+
+A 3. §-hoz
+
+Az idegenrendészeti hatóság a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a pénzbeli és természetbeni szociális ellátások, valamint a gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
+
+A 4. §-hoz
+
+A menekültügyi hatóság a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a pénzbeli és természetbeni szociális ellátások, valamint a gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
+
+A 5. §-hoz
+
+A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerrel összefüggő adatvédelmi szabályozáshoz kapcsolódóan kimondja, hogy a Nemzeti Adó- és Vámhivatal a rendszerhez hozzáféréssel és azzal kapcsolatban adatkezelési jogosultsággal rendelkezik, továbbá át is adja a rendszer működéséhez szükséges adatokat.
+
+A 6. §-hoz
+
+A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény módosításával a már korábban szabályozott aláírásminta alapú dokumentum hitelesítés, valamint a kormányhivatali aláírásminta- nyilvántartás szabályai egyértelműsítésre kerülnek.
+
+Az aláírásminta alapú dokumentum hitelesítés biztosítása érdekében a kormányablakokban és az okmányirodákban egy ún. aláírópad kerül bevezetésre, amely az ügyfél aláírásának képi, dinamikai és íráserősségi adatainak a felvételével és a nyilvántartásban már meglévő aláírással történő összevetésével biztosítja az egyes dokumentumok ügyfél általi hitelesítését. Mindezzel megvalósul az ügyféli aláírások egyezőségének az ellenőrzése, valamint a papírmentes ügyintézés a kormányhivatali ügyfélszolgálatokon, erősítve a közszolgáltatásokba vetett állampolgári bizalmat és a papírmentes ügyintézéssel a környezet védelmét is elősegítve.
+
+A törvény részletesen szabályozza továbbá a kormányhivatali aláírásminta-nyilvántartásban nyilvántartott adatok tartalmát, a nyilvántartásba történő adatfelvételt, a kapcsolódó személyes adatok, elsősorban és kiemelten az Európai Parlament és a Tanács (EU) 2016/679 a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló, ún. általános adatvédelmi rendelet (GDPR) 9. Cikkének (1) bekezdésébe tartozó különleges kategóriájú személyes adatok, mint a biometrikus azonosító kezelésének valamint a kezelt adatok továbbításának garanciális szabályait. Az aláírópadon történő aláíráson elvégzett biometrikus összehasonlításon felül megteremtésre kerül annak a lehetősége, hogy utóbb - vitatott esetben - meglegyenek a feltételei egy írásszakértő által történő összehasonlításnak, vizsgálatnak.
+
+Biztosításra kerül ugyanakkor az állampolgárnak, hogy visszautasítsa az aláírásminta-nyilvántartásba felvételt, illetve az aláírás-egyezőség vizsgálatát. Ebben az esetben az elektronikus dokumentum hitelesítésére az aláírópad használatával kerül sor.
+
+Rögzítésre kerül, hogy az aláírásminta alapú elektronikus aláírás - aláírópad - alkalmazása esetén az arra feljogosított szervek nem csak az aláírásminta-nyilvántartásban szereplő, hanem az aláíráshoz kapcsolódó titkosított adatelemekben kezelt személyes adatokat is megismerhetik.
+
+Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a kormányhivatali aláírásminta-nyilvántartás vezetésére jogosult kormányhivatal kijelölését, az aláírásminta felvétele, az aláírások egyezősége vizsgálata, valamint az aláírások eltérése esetén alkalmazandó részletes szabályokat, azon ügytípusokat, amelyek kizárólag aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhetőek.
+
+A 7. §-hoz
+
+A Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszer működését segítő adatvédelmi szabályként - az adózás rendjéről szóló 2017. évi CL. törvény rendszerében elhelyezve - rendelkezik a törvény arról, hogy az állami adó- és vámhatóság az elektronikus építési naplóban rögzítendő adószám érvényességét ellenőrzi, amely adatot az Üvegkapu rendszer is átvesz. Ily módon az érvénytelen adószámok már a regisztráció során automatizált módon kiszűrhetőek.
+
+A 8. §-hoz
+
+Az oktatási nyilvántartás működtetéséért felelős szerv a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a pénzbeli és természetbeni szociális ellátások, valamint a gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
+
+-----STARTING---POINT---VEGE---
+
+A 9. §-hoz
+
+Hatályba léptető rendelkezések.

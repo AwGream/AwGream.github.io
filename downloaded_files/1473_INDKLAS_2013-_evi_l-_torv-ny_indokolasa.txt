@@ -1,0 +1,213 @@
+2013. évi L. törvény indokolása
+
+az állami és önkormányzati szervek elektronikus információbiztonságáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A modern állam, és annak minden szervezete és polgára kiszolgáltatottá vált a számítógépekből, kommunikációs eszközökből és automata rendszerekből álló bonyolult, többszörösen összetett információs infrastruktúrának. Az elektronikus információs rendszerek nélkülözhetetlenné váltak a társadalom egésze számára, mert az állam működése, a különböző szolgáltatások megvalósítása és igénybevétele elképzelhetetlen ezen rendszerek nélkül. Már önmagukban ezeknek az információs rendszereknek a kiesése is katasztrófahelyzetet idézhet elő. Információs rendszereink és hálózataink - azok közül is elsősorban azok, amelyek működése elengedhetetlen a társadalom és a gazdaság zavartalan működéséhez - egyre gyakrabban szembesülnek az igen sokféle forrásból származó biztonsági fenyegetéssel. A szándékos károkozások olyan formái, mint a különböző hackercsoportok számítógépvírusokkal történő vagy az információs rendszer leállására vezető ún. szolgáltatás megtagadást eredményező támadásai egyre gyakoribbá, általánosabbá válnak, ugyanakkor ezek egyre vakmerőbbek és egyre bonyolultabbak is. Folyamatosan növekvő fenyegetést jelent sérülékeny információs rendszereinkre a hadviselés egy új formája, amelyet kiberműveleteknek (angolul: cyber operations) neveznek, de még inkább a békeidőkben is állandóan fenyegető terrorizmus számítógépes változata, a kiberterrorizmus. A különböző információs infrastruktúrák, eszközök, és szolgáltatások bármelyikének megsemmisülése vagy sérülése a társadalom széles rétegeit érintheti. A modern gazdasági berendezkedés mellett a társadalom nincs felkészülve arra, hogy a kiesett infrastruktúrák, eszközök vagy szolgáltatások nélkül működjön, így ezeket - egyértelműen - védeni kell.
+
+A törvény az állam kiberbiztonságot érintő szerepét és feladatait meghatározó Magyarország Nemzeti Biztonsági Stratégiájáról szóló 1035/2012. (II. 21.) Korm. határozat figyelembevételével készült.
+
+Bizonyos közigazgatási informatikai rendszerek biztonságát korábban az elektronikus közszolgáltatás biztonságáról szóló 223/2009. (X. 14.) Korm. rendelet szabályozta, amely 2012 áprilisában hatályon kívül helyezésre került, így jelenleg nincsen olyan jogszabály, amely egységes biztonsági követelményeket szabna az elektronikus információk védelmével kapcsolatban.
+
+A minősített adatok és az ezeket kezelő elektronikus információs rendszerek védelme a minősített adatok védelméről szóló 2009. évi CLV. törvényben és a végrehajtására kiadott rendeletekben szabályozásra került.
+
+A nemzet szempontjából fontos, a minősített adatok körébe nem tartozó, de a kezelt adatok jellegére és a nyilvántartások alapján végzett állami feladatok fontosságára tekintettel kiemelt jelentőségű állami nyilvántartások védelmének biztosítását a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény szolgálja.
+
+A törvény hatálya kiterjed a létfontosságú infrastruktúrákra is, melynek alapvető rendelkezéseit a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény tartalmazza.
+
+A törvény tudatosan használja az információbiztonság, információs rendszer kifejezések előtt az „elektronikus” jelzőt. Az információbiztonság ugyanis a szóban, rajzban, írásban, a kommunikációs, informatikai és más elektronikus rendszerekben, vagy bármilyen más módon kezelt adatok védelmére vonatkozik. Ezzel szemben az elektronikus információs rendszerek biztonsága csak az elektronikus információs rendszerekben szereplő adatok, és az azokat kezelő rendszer védelmét jelenti. A törvény pedig az elektronikus információs rendszerekben tárolt, kezelt információk védelmét célozza az azokat kezelő szervezetek tudatos biztonságának növelésén keresztül.
+
+Az elektronikus információs rendszerek védelme egy igen széles körű információvédelem része, amely önállóan is működtethető. A NATO Security within the North Atlantic Treaty Organisation direktívája szerinti elektronikus információvédelmen (INFOSEC) kívül az információvédelem többi részét (személyi védelem, dokumentumvédelem, fizikai védelem, elhárítás/hírszerzés) is magába foglalja, de csak az elektronikus információs rendszer vonatkozásában.
+
+Az elektronikus információs rendszerek értelmezése az informatikai, a kommunikációs, és az egyéb elektronikus rendszerek konvergenciájára épül. Az információs társadalomhoz és a médiához kötődő iparágak konvergenciáról az Európai Bizottság i2010: európai információs társadalom a növekedésért és a foglalkoztatásért című (COM(2003) 784) közleménye az európai audiovizuális politika szabályozásának jövőjére vonatkozóan megállapítja, hogy „Az információs társadalom és a média területén működő szolgáltatások, hálózatok és eszközök digitális konvergenciája végre mindennapjaink valóságává válik ...”.
+
+A törvény egy preventív szabályozási környezetnek az alapjait kívánja megteremteni, amely ténylegesen a megelőzést helyezi előtérbe és ezen keresztül a biztonsági problémák kialakulásának mérséklését és az előforduló biztonsági események számának csökkentését, illetve tudatos kezelését célozza.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az 1. § a törvény értelmező rendelkezéseit tartalmazza.
+
+Az értelmező rendelkezések az elfogadott és általánosan alkalmazott hazai szakkifejezésekre épülnek. Ezek jelentős része a Kormány 3296/1991. (VII. 5.) Korm. határozata alapján 1991. november 27-én létrehozott Miniszterelnöki Hivatal Informatikai Tárcaközi Bizottsága 12. számú ajánlásaként 1996. április 2-án elfogadott Informatikai Rendszerek Biztonsági Követelményei című dokumentumban rögzítésre került. Az itt leírt fogalmak és definíciók az Informatikai Biztonság Kézikönyve (Verlag Dashöfer, Budapest, 2000-2005), illetve a Közigazgatási Informatikai Bizottság 25. és 28. számú ajánlásaiban is megjelentek, a nemzetközi szakirodalmat, szabványokat figyelembe véve, újra feldolgozva korábbi definíciókat. Az információ- és kommunikációtechnológiák konvergenciája miatt magyarul az informatikai és kommunikációs technológia, néha az informatikai és kommunikációs rendszerek kifejezéseket, gyakran az angol information and communication technology kifejezés rövidítését, az ICT-t vagy ennek rossz magyarsággal való átírását az IKT-t használják. Emellett az informatikai, infokommunikációs technológia, vagy az infokommunikációs rendszerek kifejezéseket is alkalmazzák. Az eltérő fogalomhasználat egységesítése érdekében a törvény az elektronikus információs rendszerek kifejezést használja.
+
+A 2. §-hoz
+
+A törvény 2. §-a a szabályozás személyi és tárgyi hatályát határozza meg.
+
+A személyi hatály az alkotmányos rend fenntartása szempontjából kiemelt fontosságú közszolgálati szervek adatait kezelő szervezetek és a nemzeti adatvagyont kezelő szervezetek mellett az európai és nemzeti létfontosságú információs rendszerek, rendszerelemek közé tartozó szervezetekre terjed ki. Az érintett szervek felsorolásának alapját a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény, a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény, az ügyészségről szóló 2011. évi CLXIII. törvény és a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény képezi. A Kormány és a kormánybizottságok nem kerülnek a törvény személyi hatálya alá, mivel önálló szervezetrendszerrel nem rendelkező testületként gyakorolják feladataikat és önálló elektronikus információs rendszerekkel nem rendelkeznek.
+
+A tárgyi hatály a kiemelt fontosságú közszolgálati szervek adatait és a nemzeti adatvagyont kezelő szervezetek, valamint az európai és nemzeti létfontosságú információs infrastruktúrák elektronikus információs rendszereinek védelmére vonatkozik.
+
+Ez a személyi és tárgyi hatály kellően széles körű ahhoz, hogy Magyarország kibervédelme szempontjából minden, az állam működése szempontjából lényeges elektronikus információs rendszer védelmére kitérjen.
+
+A törvény az egységes szabályozási környezet kialakítása érdekében rendelkezik a más törvényekkel való összhangról. Ennek értelmében a minősített adatok vonatkozásában e törvény rendelkezéseit a minősített adat védelméről szóló 2009. évi CLV. törvényben foglalt eltérésekkel kell alkalmazni.
+
+A törvény kifejezetten elkülöníti a rendvédelmi szervek és a rendvédelmi szervet irányító miniszter által irányított szervek, a Katonai Nemzetbiztonsági Szolgálat és a Magyar Honvédség zárt célú elektronikus információs rendszereit, a külpolitikáért felelős miniszter diplomáciai információs célokra használt zárt célú elektronikus információs rendszereit, a Miniszterelnök irányítása alá tartozó Információs Hivatal, valamint a Nemzeti Adó- és Vámhivatal állami költségvetési bevételek biztosítását támogató elektronikus információs rendszereit. Ezeknek az esetében is kötelező a megfelelő biztonság kialakítása és fenntartása, de a rendszerek fokozott védelme érdekében a hatósági és eseménykezelési feladatok az irányítást ellátó miniszter felelősségi körén belül maradnak, így nem nő azok köre, akik ezen érzékeny rendszereket, azok védelmi megoldásait megismerhetik, vagy akár annak védelmét felülbírálhatnák.
+
+A 3. §-hoz
+
+A törvény arra való tekintettel, hogy napjainkban fontos kérdés az adatok külső szolgáltatónál történő tárolása, illetve az elektronikus információs rendszerek kiszervezése általánosan elfogadott gyakorlattá vált (ezzel a nemzeti adatvagyon törvény is foglalkozik már), korlátozza az adatvagyon Magyarország területén kívüli kezelését. Ez a tilalom nem terjedhet ki azonban a Magyar Honvédségre és a külképviseletekre, mert ezek feladatukból adódóan külföldön is kell, hogy dolgozhassanak adataikkal, elektronikus információs rendszereikkel. A létfontosságú információs infrastruktúrákhoz olyan intézmények tartozhatnak (pénzintézetek, távközlési szolgáltatók stb.), amelyek esetében a csak Magyarország területén belül engedélyezett adatkezelés súlyos költségkihatásokkal járhat. Itt az adatok Európai Unión belüli kezelésének kényszere elégséges korlátozás, mert az uniós és az uniós országok nemzeti szabályozása megfelelő védelmet és ellenőrizhetőséget biztosít.
+
+Mivel a nemzeti adatvagyon eleme része lehet a létfontosságú információs infrastruktúráknak, de kötelezően nem az, ezért a törvény szerinti szigorító kivétel a csak hazai kezelésre.
+
+Az adatok külső szolgáltatónál történő tárolása, illetve az elektronikus információs rendszerek kiszervezése miatt került a törvénybe az a kényszer, hogy amennyiben nem Magyarországon bejegyzett cég végzi az adatok kezelését, akkor legyen elérhető kapcsolattartó személy, illetve ez a személy folyamatosan (24/7) legyen felkérhető, utasítható a törvény végrehajtásával kapcsolatban, és akár a felelősségre vonásra is sor kerülhessen.
+
+A 4. §-hoz
+
+A nemzeti adatvagyont kezelő szervezetek, illetve a létfontosságú rendszerelemként számításba vehető szervezetek egy része komoly munkával és jelentős költségekkel auditáltatta szervezetét az informatikai biztonságirányítási rendszerről szóló nemzetközi ISO/IEC 27001 szabvány szerint, illetve a nemzetközi egyezménnyel elfogadott Common Criteria, vagy a Magyar Informatikai Biztonsági Értékelési és Tanúsítási Séma szerint minősített informatikai eszközöket, vagy más szabványok vagy ajánlások alapján tanúsított rendszerelemeket használ. Ezek a minősítések garanciát szolgáltatnak a tudatos eljárásokra, így - és a jogbiztonság megőrzését is szem előtt tartva - ezen tanúsítványokat a hatóság az eljárása során figyelembe veszi.
+
+Az 5-6. §-hoz
+
+A törvény egyik legfontosabb eleme az alapvető elektronikus információbiztonsági követelmények meghatározása. Az ebben a körben használt fogalmakat az informatika szakma már régóta használja ugyan, de azok törvényi szinten, általános követelményként történő megfogalmazása olyan előrelépést jelent az elektronikus információs rendszerek biztonsága területén, ami önmagában mérföldköve lehetne az elmúlt időszak ez irányú szabályozási törekvéseinek.
+
+A törvény az elektronikus információs rendszerek biztonságának általános követelményeit az elektronikus információs rendszerek biztonságának definíciójából levezetve, úgy határozza meg, hogy a védelem minden lehetséges módja (logikai, fizikai és adminisztratív védelem) a tervezéstől a megvalósításig felhasználásra kerüljön. A védelem olyan legyen, hogy lehetőleg kerülje el a fenyegetések bekövetkezését, de ha ez nem lehetséges, akkor erről annak bekövetkezése előtt az érintettek szerezzenek tudomást. Az elektronikus információs rendszerek esetében különösen fontos a biztonsági események bekövetkeztének azonnali észlelése, hogy arra mielőbb reagálhasson a szervezet vezetése. A biztonsági esemény bekövetkezése után kiemelt szerepet kap a gyakran incidenskezelésnek is nevezett biztonsági események kezelése. Ennek során a bekövetkezett biztonsági események hiteles dokumentálása, a bekövetkezett károk következményeinek a kezelése, a biztonsági eseményeket kiváltó okok kivizsgálása és felelősségek megállapítása és a szükséges felelősségre vonás után a szabályozás javításával, a védelmi intézkedések kiegészítésével vagy megerősítésével és az érintettek oktatásával, tudatosság képzésével gondoskodni kell arról, hogy az adott biztonsági események bekövetkezésének esélye kisebb legyen és az ezáltal okozott kár is csökkenjen.
+
+Az információ biztonságának érdekében a megelőzés-észlelés-reagálás-eseménykezelés, az ún. PreDeCo elvek felhasználásával a törvény előírja a lehetséges biztonsági események megelőzését, a bekövetkezett biztonsági események kezelését.
+
+A törvény elfogadja azt a nézetet, hogy a védelem tevékenység, illetve tevékenységek sorozata, amely arra irányul, hogy megteremtse, fejlessze, vagy szinten tartsa azt az állapot, amit biztonságnak nevezünk. A biztonság a védett rendszer olyan állapota, amelyben annak védelme az összes számításba vehető fenyegetést figyelembe veszi, a rendszer valamennyi elemére kiterjed, az időben változó körülmények és viszonyok ellenére is megszakítás nélkül megvalósul és annak költségei hosszútávon arányosak a fenyegetések által okozható károkkal.
+
+A biztonság nagyon sok részletet jelent, ugyanakkor egy és oszthatatlan. Ezt az egy és oszthatatlan biztonságot a védelmi tevékenységek (folyamatok) részterületein keresztül lehet megvalósítani. Az információbiztonság alapvető feladatai a megelőzés és a korai figyelmeztetés, az észlelés, a reagálás és a biztonsági események kezelése. A korai figyelmeztetés előírásként történő meghatározása nem figyelmeztető rendszer kiépítésére, hanem a szervezet aktív cselekvési képességére vonatkozik, az észlelés folyamatának azon része, amely más szervezettől érkező figyelmeztetések azonosítására és feldolgozására utal.
+
+A biztonság tervezése, kialakítása során e feladatok mindegyikére kellő hangsúlyt kell fektetni ahhoz, hogy a védelem elérje célját.
+
+A 7-8. §-hoz
+
+A védelemnek költséghatékonynak kell lennie, azaz csak a lehetséges veszteségek és károk nagyságrendjével arányosan indokolt a védelemre költeni. Ennek érdekében meg kell állapítani, hogy az adott elektronikus információs rendszer, illetve az abban kezelt adatok a bizalmasságának, a sértetlenségének vagy a rendelkezésre állásának elvesztése külön-külön milyen nagyságrendű károkat okoz. A nagyságrend megállapítása elégséges, mert egyrészt a pontos értéket nehéz, hosszadalmas és költséges meghatározni, másrészt a nagyságrend ismerete már elég ahhoz, hogy a védelemre történő ráfordítások értéke meghatározható legyen. Mivel az osztályba sorolást külön el kell végezni a bizalmassági, sértetlenségi és rendelkezésre állási szempontok szerint is, így minden egyes elektronikus információs rendszerre számos kombinációban állíthatók be a műszaki védelmi intézkedések. Ez biztosítja a kockázatarányos és költséghatékony műszaki védelmet. A biztonsági osztályozás részletszabályainak meghatározására a törvény végrehajtási rendeletében kerül sor.
+
+Ilyen biztonsági osztályozás és a hozzátartozó követelmények már megtalálhatók az Informatikai Biztonsági Irányítási Követelmények című Közigazgatási Informatikai Bizottsági ajánlásban (KIB 25. sz. ajánlás 1-2. kötet), valamint hasonló követelménylistát tartalmaz a KIB 28. ajánlás is. A törvény ezen technológiai követelményeknek felülvizsgálatát és miniszteri rendeletben történő megjelenítését szorgalmazza.
+
+A szervezet vezetőjének a felelőssége, hogy az elektronikus információs rendszerek osztályba sorolását elvégezzék. Mivel a kockázatok folyamatosan változnak, ezért az osztályba sorolást rendszeresen frissíteni kell. Ez az elvárás biztosítja azt, hogy a biztonság ne egy statikus, egyszer kialakított állapot legyen, hanem a szervezetnek folyamatosan figyelemmel kelljen kísérnie a rá vonatkozó kockázatokat, azaz legyen egy kockázatkezelési folyamata. A mérvadó információbiztonsági szabványok és ajánlások kivétel nélkül ezt a lépést tekintik a legalapvetőbb elvárásnak a biztonság megteremtéséhez.
+
+Az elektronikus információs rendszerek biztonsági osztályának és a szervezetek biztonsági szintjének elérési követelményei a fokozatosság elvére épülnek. Az adott osztály és szint elérése a szervezet feladat- és hatáskörének függvénye, amelyek biztosítják, hogy a szervezet a feladatellátásával, a közigazgatási szervezetrendszerben elfoglalt helyével, piaci szerepével, valamint elektronikus információs rendszereinek jelentőségével, állapotával arányosan kerüljön kialakításra.
+
+A 9-10. §-hoz
+
+A megelőzés alapját képező, kockázatokkal arányos, költséghatékony védelem kialakításának egyik nemzetközileg elfogadott eszköze az információbiztonsági irányítási rendszer kialakítása a szervezetnél. Ez biztosítja, hogy az alapvető biztonsági követelmények meghatározása egy magas absztrakciós szinten is megtörténjen. A szervezeti biztonság megteremtése azért is fontos, mert bevezetésének költsége elenyésző (elsősorban szabályozási feladatokat határoz meg), mégis jelentősen növeli az információbiztonság szintjét. Eszerint minden érintett szervezetnek kötelessége rendszerszinten kezelnie az információbiztonságot.
+
+A törvény egyik fontos követelménye az, hogy a szervezetnek azt a biztonsági szintet kell elérnie az információbiztonsági irányítási rendszerében, amely megegyezik az általa kezelt elektronikus információs rendszerek közül a legmagasabb biztonsági osztállyal. Azaz, ha pl. nemzeti adatvagyon-elemet kezelő rendszere van a szervezetnek, a legmagasabb érettségi szintet kell elérnie, vagy ha pl. egy központi államigazgatási szerv olyan elektronikus információs rendszert kezel, melyben az információk bizalmassági besorolása 2., sértetlenségi besorolása 3., rendelkezésre állási besorolása pedig 1., akkor a szervezeti biztonsági szintjét 3. szintre kell hoznia. Ha ennél a szervezetnél minden érték 2., a szervezeti biztonsági szintje akkor is 3., hiszen a törvény 9. § (2) bekezdés b) pontja eszerint rendelkezik.
+
+A 7-9. és a 10-11. §-ok együttes alkalmazása költséghatékony megoldás, mert nem a szervezet egészénél egységesen, azonos biztonsági osztályba sorolva kell az elektronikus információs rendszerek védelmét megvalósítani, hanem ez rendszerenként eltérő lehet. A szervezet biztonsági szintjének elérése viszont garantálja, hogy az információbiztonsági irányítási rendszer a legmagasabb kockázatok által elvárt legyen.
+
+A szervezeti biztonsági szintet ugyan az általa kezelt elektronikus információs rendszer besorolása határozza meg, de ennek a biztonsági szintnek az elérése jól tervezhető módon, kellő időráfordítással valósítandó meg. A szervezet vezetője kezdetben besorolja a szervezetet az aktuális érettségi szintre, majd kétévente köteles egy szintet lépni a skálán mindaddig, amíg eléri az elvárt szintet. Pl. egy olyan központi államigazgatási szervnél, ahol nincsen jelen az információbiztonsági szabályozás, akár 4 év is rendelkezésre áll a követelmények teljesítéséhez.
+
+A 11-12. §-hoz
+
+A törvény ezen szakaszai az érintett szervezetek vezetőinek legfontosabb, a szervezet besorolási szintjétől és az elektronikus információs rendszer besorolási osztályától független feladatait és felelősségeit határozzák meg. Ezek a feladatok elsősorban adminisztratív feladatok, amelyek arra vonatkoznak, hogy a szükséges szinten és a szükséges mélységben legyen szabályozva az elektronikus információs rendszerek biztonsága, és annak nevesített felelőse legyen a szervezetnél. A szervezet köteles biztonsági stratégiát és informatikai biztonsági szabályzatot készíteni, utóbbiak része lehet a biztonságpolitika is. A szakmai irányítást ellátó miniszter által meghatározott ágazati informatikai biztonságpolitika és ágazati informatikai biztonsági stratégia keretében szabályzat minták és iránymutatások kiadására is sor kerülhet.
+
+A szervezet vezetőjének felelősségét nem csökkenti, ha az elektronikus információs rendszer kiszervezésre kerül, függetlenül attól, hogy a közreműködőkkel kötött szerződésben köteles a törvényi rendelkezések kötelező alkalmazását előírni.
+
+Az előírások között a folyamatos oktatás, képzés kötelezettségének rögzítése egy, a technikai fejlődés következtében gyorsan változó területnek való megfelelés miatt szükséges.
+
+A szervezet vezetője köteles együttműködni a hatósággal, így lehetőség nyílik arra, hogy a védelmi tevékenységben szükséges kapcsolattartás és információcsere megvalósulhasson. Ezen információcsere egyik legfontosabb esete a törvényben külön nevesítésre került: a szervezet vezetője köteles a bekövetkezett biztonsági eseményeket a hatóság, a Nemzeti Biztonsági Felügyelet és a biztonsági események kezelésére vonatkozó feladatokat ellátó kormányzati eseménykezelő központ tudomására hozni. Ez is hozzájárul az országos szintű kibervédelmi rendszer kialakításához; mely összhangban van az Európai Unió tervezett kibervédelmi intézkedéseivel.
+
+A 13. §-hoz
+
+A törvény előírja, hogy a szervezeteknek legyen olyan munkatársa az elektronikus információs rendszer biztonságáért felelős személyében, aki képes az elektronikus információs rendszerek védelmének feladatait összefogni, koordinálni. Hatásköre mindenre ki kell, hogy terjedjen az elektronikus információs rendszerek védelme kapcsán, ugyanakkor felelőssége oszthatatlan. Az információs rendszer biztonságáért felelős személy alapfeladatainak meghatározására a szervezet besorolási szintjétől és az elektronikus információs rendszer besorolási osztályától függetlenül, általánosságban került sor.
+
+A törvény nagy hangsúlyt helyez a felhasználói tudatosság növelésére, melynek révén elérhető, hogy maguk az érintettek is körültekintően védjék adataik biztonságát, megértve a kérdés jelentőségét. Ennek érdekében a törvény hatálya alá tartozó szervezetek munkatársainak, kiemelten az elektronikus információs rendszer biztonságáért felelős személyeknek a törvény kötelező képzésen való részvételt ír elő.
+
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés a) pontjában foglaltakra figyelemmel a Kormány rendeletben állapítja meg azokat a munkaköröket, amelyek - a 2. számú melléklet 18. pontja alapján - fontos és bizalmas munkakörnek minősülnek, illetve e munkakörök tekintetében meghatározza a biztonsági ellenőrzések szintjét. Azon kormányzati szándékhoz igazodva, amely szerint a jövőben kiemelt figyelmet kell fordítani arra, hogy az állami szereplők számára informatikai szolgáltatást nyújtó személyek vagy szervezetek esetén az informatikai felelősök nemzetbiztonsági ellenőrzése megtörténjen, a jövőben az elektronikus információs rendszer biztonságáért felelős személy esetében is felmerülhet ilyen irányú igény.
+
+A 14-16. §-hoz
+
+A törvény szerint létrejön az informatikáért felelős miniszter irányítása alatt, a minisztérium szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezeti egység (a továbbiakban: hatóság), amely az információbiztonsággal kapcsolatos nyilvántartásokat vezeti, illetve ellenőrzi a törvény betartását.
+
+Létrehozásának indoka, hogy kell egy olyan hatóság, amely képes ellenőrizni az e törvényben foglalt és az ahhoz kapcsolódó követelmény megvalósulását. Ennek keretében jogosult szankcionálni azokban az esetekben, amikor a szervezetnél az elektronikus információs rendszert veszélyeztető informatikai állapot alakul ki. Nem közigazgatási szervek esetében bírságolási joga van.
+
+A 17. §-hoz
+
+A hatóság közigazgatási szervek esetében információbiztonsági felügyelőt nevezhet ki. Az információbiztonsági felügyelő jogosult a szervezet által meghozott védelmi intézkedéseket véleményezni, adott esetben az intézkedéssel szemben kifogással élhet. A fenyegetés elhárítása érdekében intézkedéseket, eljárásokat javasolhat. Ezzel a jogkörrel a törvényben foglaltak megvalósítása jelentősen hatékonyabban történhet meg.
+
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés a) pontjában foglaltakra figyelemmel a Kormány rendeletben állapítja meg azokat a munkaköröket, amelyek - a 2. számú melléklet 18. pontja alapján - fontos és bizalmas munkakörnek minősülnek, illetve e munkakörök tekintetében meghatározza a biztonsági ellenőrzések szintjét. Az információbiztonsági felügyelő esetében ezért indokolt a munkakörnek az e felhatalmazás szerinti kormányrendeletben történő megjelenítése.
+
+A 18. §-hoz
+
+A Nemzeti Biztonsági Felügyelet (a továbbiakban: NBF) feladatai komplex rendszerbe foglalhatóak:
+
+- egyrészről a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti szakhatóságként közreműködik az osztályba sorolás és a biztonsági szint meghatározására, a hatósághoz érkező bejelentések kivizsgálására vonatkozó, a hatóság által lefolytatott eljárásban, valamint a hatóság éves ellenőrzési terv alapján végzett ellenőrző tevékenységében,
+
+- másrészről a szervezet felkérésére az ellenőrzési tervtől függetlenül is végezhet sérülékenységvizsgálatot, feltárva ez által a biztonsági esemény bekövetkezését megelőzően az esetleges sérülékenységeket, hiányosságokat, költséghatékonnyá téve ez által a megelőzést,
+
+- harmadrészről hazai információbiztonsági, létfontosságú információs infrastruktúra védelmi, kibervédelmi gyakorlatokat szervez, valamint a nemzetközi információbiztonsági, létfontosságú információs infrastruktúra védelmi, kibervédelmi gyakorlatokon felkérésre képviseli Magyarországot.
+
+A hatóság és az NBF közötti feladatmegosztás leképezi a kormányzaton belüli feladat meghatározást, melynek értelmében az informatikai terület ellenőrzése az informatikáért felelős miniszter feladat- és hatáskörébe, míg a szélesebb értelemben vett információbiztonság az e-közigazgatásért és a minősített adatok védelmének szakmai felügyeletéért felelős miniszter feladatkörébe tartozik.
+
+A 19-20. §-hoz
+
+A törvény a biztonsági események kezelése, a károk mérséklése érdekében megfogalmazza azokat a biztonsági eseményeket kezelő funkciókat, melyek értelmében hálózatbiztonsági helyzetértékeléseket, folyamatos 24 órás ügyeletet kell működtetni.
+
+A törvény szerinti kormányzati eseménykezelő központ és annak feladatai korábban is léteztek, az időközben hatályon kívül helyezett, az elektronikus közszolgáltatás biztonságáról szóló 223/2009. (X. 14.) Korm. rendeletben. Ágazati eseménykezelő központból (Számítógépes Vészhelyzeti Reagáló Egység - Computer Emergency Response Team, CERT) több is létrehozható - a zárt célú hálózatok esetében ez egyébként is indokolt -, figyelemmel kell lenni azonban arra, hogy a nemzetközi CERT közösség elsősorban bizalmi elven működik, ezért indokolt, hogy Magyarországot egy nemzetközileg elismert CERT, a kormányzati eseménykezelő központ képviselje. A kormányzati eseménykezelő központ az ágazati eseménykezelő központok operatív tevékenységét koordinálja, így részt vesz az információk megosztásában. A kormányzati eseménykezelő központ támogatja a CERT-eket a nemzetközileg elfogadott működési rend kialakításában.
+
+A 21. §-hoz
+
+A törvény értelmében Nemzeti Kiberbiztonsági Koordinációs Tanács jön létre és működik
+
+- a törvény hatálya alá tartozó szervezetek tevékenységeinek összehangolása,
+
+- a kiberbiztonsággal összefüggő feladatok ellátása és a nemzetközi politikai együttműködés koordinálása,
+
+- a kiberbiztonság szabályozásának elősegítése,
+
+- a források hatékony felhasználásának támogatása érdekében.
+
+A Tanács figyelemmel kíséri Magyarország Nemzeti Kiberbiztonsági Stratégiájának végrehajtását.
+
+A Tanács munkáját az általa felkért képviselőkből álló Nemzeti Kiberbiztonsági Fórum és ún. ágazati kiberbiztonsági munkacsoportok segítik. A Tanács jellegéből adódóan sok szempontból képes áttekinteni az elektronikus információs rendszerek biztonságával, a létfontosságú információs infrastruktúrák védelmével, és a kibervédelemmel kapcsolatos feladatokat, javaslataiban képes megjeleníteni az abban résztvevők szakmai álláspontját.
+
+Működése ez által hozzájárul az elektronikus információs rendszerek gyors fejlődéséhez, a fenyegetések változásához igazodó követelmények kialakításához.
+
+A 22. §-hoz
+
+Az elektronikus információs rendszerek összetettsége és működésének sajátossága miatt a gyakorlatban is biztosítani kell a törvényes adatkezelés elvének betartását. A törvény külön kiemeli a biztonságos és törvényes adatkezelés követelményeinek kölcsönös figyelembevételét.
+
+A 23. §-hoz
+
+A törvény alapvető célja az az elektronikus információs rendszer biztonságáért felelős személy kötelező információbiztonsági képzésének előírása. A hazai felsőoktatási környezetben az információbiztonság területén jelenleg ilyen kötelező jellegű, intézményesített vezetőképzés nincs. A mérnök, a programozó és a gazdasági informatikus alapszakokon és mesterszakokon különböző műszaki jellegű oktatások vannak, amelyek között a Budapesti Műszaki Egyetemen és az Óbudai Egyetemen informatikai biztonsági szakirányú képzést is tartanak. A Nemzeti Közszolgálati Egyetemen a nemzetbiztonsági képzés keretén belül oktatnak informatikai védelmet. Akkreditált felnőttképzés e téren a Nemzetközi Technológiai Közhasznú Kft. (Puskás Alapítvány) informatikai biztonsági felelős képzése, amely alapvetően az időközben hatályon kívül helyezett, az elektronikus közszolgáltatás biztonságáról szóló 223/2009. (X. 14.) Korm. rendelet követelményeihez igazodik. A törvényben előírt követelményeknek megfelelő képzés és a vezetőképzés erősítése érdekében mindezekre figyelemmel szükséges egy új átfogó képzési struktúra kialakítása.
+
+Az információbiztonsági tudatosság növelése érdekében a Nemzeti Közszolgálati Egyetem Közigazgatás-tudományi Kara javaslatot tesz a képzési követelményekre, és részt vesz a törvény hatálya alá tartozó személyek kötelező oktatásában. Ez biztosítja, hogy az érintettek magas színvonalú képzésben részesüljenek.
+
+A Nemzeti Közszolgálati Egyetem Közigazgatás-tudományi Kara az elektronikus információs rendszerek biztonsága, a létfontosságú információs infrastruktúrák védelme, a kibervédelem tekintetében a jövőben nemzeti és esetleges nemzetközi kutatóhelyként is részt vehet a szakterület kutatásában, fejlesztésében. E feladatokban való részvétellel az egyetemi oktatók-kutatók folyamatos gyakorlati ismereteket szereznek, illetve azokat karbantartják. Az oktatói-kutatói kapacitást a szükséges szakmai kidolgozó munkában költséghatékonyabban lehet felhasználni, mint külső cégeket igénybe venni erre a feladatra.
+
+A törvény az oktatás, fejlesztés és a gyakorlat kombinációjával egy magas szintű oktatási, kutatás-fejlesztési centrumot hoz létre az elektronikus információs rendszerek biztonságának területén.
+
+A nemzetközi oktatási környezetben már számos akkreditált képzés elfogadott. Ezek közül a legelismertebbek közé tartozik:
+
+- Az Information Systems Audit and Control Association (ISACA) nemzetközi szervezet Certified Information Security Manager (CISM) képzése, amelyet az USA Védelmi Minisztériuma is szakirányú képzésként ismer el és vezetői szintű ismereteket nyújt. A képzést Magyarországon felsőfokú oktatási intézményekben - külön megállapodás alapján -, az ISACA magyarországi szervezetének felügyeletével, hazai informatikai szakemberek külföldi tananyag és követelmények alapján tartják. A képzés eredményes elvégzését ANSI-ISO szabvány szerint akkreditált oklevél igazolja.
+
+- Az International Information Systems Security Certification Consortium, Inc. Certified Information Systems Security Professional (CISSP) képzése az informatikai rendszerek technikai kérdéseinek biztonsági vonatkozásairól szól. A képzést Magyarországon a Budapesti Műszaki Egyetemen hazai informatikai szakemberek külföldi tananyag és követelmények alapján tartják. A képzés eredményes elvégzését ANSI-ISO szabvány szerint akkreditált oklevél igazolja.
+
+Mindkét (CISM, CISSP) végzettség megszerzéséhez gyakorlati tapasztalatokat is igazolni kell, a képzések időtartama eltérő, a minősítések megtartásához éves szinten meghatározott kreditpontot kell elérni.
+
+Nemzetközileg ismert és elfogadott még az EC-Council Certified Ethical Hacker és Certified Penetration Tester képzés, amely Magyarországon a NetAcadémia Oktatóközpontnál végezhető el.
+
+A képzések üzleti alapon, a hazai viszonylatokhoz képest nagyon drágán működnek, ezért célszerű a költséghatékonyabb és a nemzetközi oktatási környezettel összhangban álló - adott esetben a későbbiekben mesterképzés útján elismertethető - hazai képzést előnyben részesíteni, ami egyúttal a kutatási kapacitás fejlesztését is lehetővé teszi.
+
+-----STARTING---POINT---VEGE---
+
+A 24. §-hoz
+
+A törvény végrehajtásához a törvényben megfogalmazott végrehajtási rendeletek kiadása szükséges.
+
+A közigazgatási informatikai feladatok kormányzati koordinációjáról szóló 1026/2007. (IV. 11.) Korm. határozat 3. pontja alapján létrehozott Közigazgatási Informatikai Bizottság által 2008 júniusában kiadott, az információbiztonsági követelményekhez kapcsolódóan a meglévő és a terület részletes szabályozását szolgáló 25. ajánlásnak a Magyar Informatikai Biztonsági Irányítási Keretrendszer és Magyar Informatikai Biztonsági Értékelési és Tanúsítási Séma részeit és a 28. ajánlás IT biztonsági követelményrendszer - biztonsági szintek követelményeit rendeli felülvizsgálni és azt követően felhasználni. Ezek az ajánlások a szakterület legfontosabb szabványaira, az ISO/IEC 27000-es sorozatra és a Common Criteriára épülnek, de nem teljesen azonosak azokkal. Ezeket a szabványokat már sok helyen használják hazánkban is, általánosan elfogadottak az Európai Unióban és a NATO-ban is. Miniszteri rendeletben történő kiadásukkal elérjük, hogy a hazai követelmények igazodjanak a nemzetközi szabványokhoz, de ennek ellenére Magyarország kormányzata saját hatáskörében képes azt szigorítani, vagy enyhíteni, igazítani a nemzeti igényekhez. A törvényben foglalt követelményekhez kapcsolódóan a meglévő és a terület részletes szabályozását szolgáló Közigazgatási Informatikai Bizottság 25. és 28. számú ajánlásait célszerű már a törvény elfogadásával egy időben egységes követelményrendszerként kiadni. Ez egyértelművé teszi a részletes szabályozás szakmai tartalmát, és biztos alapot teremt a későbbi szabályozáshoz. A Közigazgatási Informatikai Bizottság 28. ajánlásának elkészítése Európai Uniós forrásból finanszírozott, így megtérülési szempontból is indokolt a további felhasználása.
+
+A 25. §-hoz
+
+A törvény hatályba léptető rendelkezését tartalmazza.
+
+A 26. §-hoz
+
+A törvény alapján a törvény rendelkezései 2013. július 1-jén lépnek hatályba. Az átmeneti rendelkezések megfelelő türelmi időt határoznak meg annak érdekében, hogy a törvény hatálya alá tartozó alanyok felkészülhessenek a törvényben megfogalmazott követelmények betartására és betartatására.
+
+A törvényben megállapított határidők összhangban állnak a minősített adat védelméről szóló 2009. évi CLV. törvény 40. §-ában meghatározott 2014. december 31-ei határidővel, mivel a szervezetnek a nem minősített adatot kezelő elektronikus információs rendszereit érintően a törvényben előírt követelményeknek történő megfelelésre hosszabb időt biztosít.
+
+A 27-29. §-hoz
+
+A törvény elfogadásával három törvény módosítása válik szükségessé.
+
+- A minősített adat védelméről szóló 2009. évi CLV. törvény kiegészítésével egyértelművé válik, hogy a minősített adatokat elektronikusan kezelő rendszerek tekintetében az elektronikus biztonság kialakítása során nem csak a minősített adatokra vonatkozó, hanem az e törvényben meghatározott követelményekre is figyelemmel kell lenni. Ha az egyes elektronikus információs rendszerek összekapcsolásra kerülnek, akkor a minősítésnek ki kell terjednie a minősített adatot kezelő más, nem minősített rendszerekre is. Ha az egyes elektronikus információs rendszerek nem kerülnek összekapcsolásra, akkor a törvény rendelkezéseivel összhangban a minősített adat elektronikus biztonságának, valamint a rejtjeltevékenység engedélyezésének és hatósági felügyeletének részletes szabályairól szóló 161/2010. (V. 6.) Korm. rendelet rendelkezéseit is figyelembe kell venni a követelmények meghatározása során.
+
+- Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása megszünteti az adatfeldolgozás kiszervezésének tilalmát, amely korszerűtlen szabályozás módosításának szükségességére az Országgyűlés elé 2012 márciusában beterjesztett Nemzeti Adatvédelmi és Információszabadság Hivatal beszámolója is kitért.
+
+- A nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény rendelkezéseinek hatályon kívül helyezését a differenciált, ezáltal költséghatékony információbiztonsági védelmi intézkedések iránti igény indokolja.

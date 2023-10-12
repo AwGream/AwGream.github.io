@@ -1,0 +1,167 @@
+2020. évi CLXXIX. törvény végső előterjesztői indokolása
+
+a pilóta nélküli légijárművek üzemelésével összefüggő egyes törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelenésről szóló 5/2019. (III. 13.) IM rendelet 20. §-a alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+Az európai uniós polgári légiközlekedés korábbi alapkódexeként számon tartott, ún. „régi” EASA Basic Regulation állította fel azt a rezsimet, amely a 150 kg üzemi tömeg feletti pilóta nélküli légijárműveket uniós, míg az ezen tömeghatár alatti drónokat tagállami szabályozási hatáskörbe utalta. Az e rendelet helyébe 2018. szeptember 11-étől lépő ún. „új” EASA Basic Regulation azonban a korábbi paradigmával ellentétben immáron a pilóta nélküli légijárművek teljes spektrumát közös, összeurópai szabályozási körbe vonja. E felhatalmazás nyomán jött létre az az uniós jogszabálycsomag [a továbbiakban ezek: (EU) 2019/945 felhatalmazáson alapuló rendelet vagy (EU) 2019/947 végrehajtási rendelet; együttesen rendeletcsomag], amelyek közül az (EU) 2019/945 felhatalmazáson alapuló rendelet elsősorban piacszabályozó, míg az (EU) 2019/947 végrehajtási rendelet főként üzemben tartási, repülésvégrehajtási szabályokat fogalmaz meg. A rendeletek 2019. július 1-jétől hatályosak, azonban az (EU) 2019/947 végrehajtási rendelet - a 23. cikk (1) bekezdése szerint - csak másfél évvel később, 2020. december 31-től lesz alkalmazható.
+
+Az (EU) 2019/947 végrehajtási rendelet számos kapcsolódó kérdéskört utal a tagállami jogalkotó hatáskörbe. Így amellett, hogy a pilóta nélküli légijárművekre vonatkozó üzemben tartási szabályok pontos keretét adja, nemzeti döntési jogkört enged a pilóta nélküli légijárművek nyilvántartásba vételére vonatkozóan. A pilóta nélküli légijárművekről és a pilóta nélküli légjárművek üzembentartóiról vezetett nyilvántartást érintően törvényi szintű szabályt kell alkotni a feladat- és hatáskörök megnevezése, az adatkezelési felhatalmazások megteremtése, a pilóta nélküli légijármű tulajdonosát és üzembentartóját terhelő kötelezettségek deklarálása érdekében. Tekintettel arra, hogy a nyilvántartásba vétel közigazgatási hatósági aktusnak minősül, indokolt volt a pilóta nélküli légijárművekkel kapcsolatos közigazgatási hatósági eljárásokhoz igazgatási szolgáltatási díjat rendelni. A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) módosításával megalkotásra kerül a pilóta nélküli játék légijármű fogalma, melyekre nem terjed ki a nyilvántartásbavételi kötelezettség.
+
+A drónokat vezető ún. távoli pilóták oktatását, vizsgáztatását illetően tagállami hatáskörébe utalt szabályok megalkotása érdekében az Lt. felhatalmazó rendelkezéseinek kiegészítése szükséges.
+
+Tagállami hatáskörbe utalja az uniós szabályozás az olyan földrajzi területek kijelölését, amelyek fölött tiltani vagy korlátozni lehet a drónok megjelenését, illetve a tagállamok meghatározhatják azokat a területeket, ahol a drónok használatát különböző feltételekhez kötik. Az Lt. ad felhatalmazást a közlekedésért felelős miniszternek, hogy a honvédelemért felelős miniszterrel, illetve bizonyos esetekben a környezetvédelemért felelős miniszterrel egyetértésben, rendeletben jelölje ki a légtérnek azt a részét, amely légiközlekedésre igénybe vehető, amely légiközlekedésre korlátozottan vehető igénybe vagy ahol tilos a légiközlekedési célú igénybevétel. A pilóta nélküli légijárművek légtérhasználatának szabályozhatósága érdekében az Lt.-ben kell megfogalmazni a légterek használatát érintő alapvető szabályok megalkotására vonatkozó felhatalmazó rendelkezéseket.
+
+Törvényben kerül meghatározásra a HungaroControl Zrt. által üzemeltetett, a pilóta nélküli légijárművek használatát támogató, aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás használatra vonatkozó alapvető szabályok. Néhány kivételtől eltekintve az alkalmazás használata kötelező lesz a pilóta nélküli légijárművek légtérhasználata során. A mobilalkalmazásba történő bejelentkezés alkalmával megadott adatok kezeléséhez a HungaroControl Zrt. számára törvényi szintű adatkezelési felhatalmazás került megfogalmazásra. A mobilalkalmazás használatát kiskorú személy számára a jelenlegi jogszabályi környezet nem teszi lehetővé, kiskorú személy esetén a mobilalkalmazásba történő bejelentkezéshez a törvényes képviselő közreműködése szükséges.
+
+A légijármű lajstromban szereplő személyes adatok kezelésére vonatkozó felhatalmazás és a repülőeszközök nyilvántartási kötelezettségének törvényi szintű szabályozása érdekében szükséges az Lt. pontosítása, kiegészítése. Az Lt. módosítása nagyrészt az (EU) 2019/947 végrehajtási rendeletben meghatározott jogharmonizációs kötelezettség teljesítését szolgálja.
+
+Az Alaptörvény VI. cikk (1) bekezdése szerint mindenkinek joga van ahhoz, hogy magán- és családi életét, otthonát, kapcsolattartását és jó hírnevét tiszteletben tartsák, a (2) bekezdés pedig külön kiemeli, hogy az állam jogi védelemben részesíti az otthon nyugalmát.
+
+A személyiségi jogok elsődlegesen és általánosan polgári jogi védelem alatt állnak, de a súlyosabb jogsértések szabálysértési (pl. magánlaksértés, becsületsértés szabálysértési alakzata), míg a legsúlyosabb jogellenes magatartások (pl. személyes adattal visszaélés, tiltott adatszerzés) büntetőjogi jogkövetkezményt vonnak maguk után.
+
+A drónok nyújtotta technikai lehetőség ugyanakkor olyan mértékben változtatta meg a magánszféra megismerésének lehetőségét, amely vonatkozásában a magánterület, a magánlakás, a magánszféra védelme hétköznapi eszközökkel már nem biztosítható. Ennek megfelelően indokolt a drónhasználat szabályozása, valamint a jogellenes drónhasználat során megvalósuló további magatartások szankcionálása. A pilóta nélküli légi jármű lakott terület feletti jogosulatlan használata már önmagában is felvetheti a magánélet, az otthon nyugalmának megzavarását, ugyanis ebben az esetben az elkövető fizikai valójában jellemzően nem látható, így a jogellenes cselekmény észlelésekor nem lehet vele szemben fellépni, a cselekmény abbahagyására felszólítani. Amennyiben a jogellenes használathoz további magatartások is kapcsolódnak (pl. felvétel készítése, annak nyilvánosságra hozatala), az már olyan fokú jogsérelmet jelent, amellyel szemben szükségesnek tűnik a szigorúbb állami fellépés lehetőségének megteremtése. Erre tekintettel a Javaslat - új tényállások beiktatásával, egyúttal a fokozatosság elvének figyelembe vételével - módosítja a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvényt (a továbbiakban: Szabs. tv.) és a Büntető Törvénykönyvről szóló 2012. évi C. törvényt (a továbbiakban: Btk.). Lényeges eleme a szabályozásnak, a fokozatosság elvének és a büntetőjog ultima ratio jellegének, hogy a jogszerű drónhasználat esetén - tekintettel arra, hogy ez esetben a használat ténye és a használó személye ellenőrizhető - a magánszféra védelme továbbra is a jelenleg rendelkezésre álló magánjogi és büntetőjogi eszközökkel biztosított.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A légiközlekedési hatóság, vagy a katonai légügyi hatóság a pilóta nélküli légijárművel és a pilóta nélküli állami légijárművel kapcsolatos hatósági hatásköreinek gyakorlása során kezeli a kérelmező és az eljárás egyéb résztvevője, a pilóta nélküli légijármű tulajdonosa és üzembentartója, valamint a pilóta nélküli légijárművekkel végzett műveletekben közreműködő szakszemélyzet személyes adatait. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) a személyes adatok adatkezelési jogalapjának tekinti a személyes adat kezelésére vonatkozó törvényi felhatalmazást. A hatósági eljárások során történő adatkezelés a nyilvántartások közhitelességének biztosítása, a kiadott engedélyek és egyéb véglegessé vált döntésben foglaltak ellenőrzése, a pilóta nélküli légijármű jogszerű használatának ellenőrzése, a tevékenység ellátásához szükséges alkalmasság igazolása, a légiközlekedés biztonságához fűződő közösségi érdek érvényesítése céljából szükséges. A rendelkezés az Lt. 3/A. § (1) bekezdés f) pontjában megteremti a törvényi szintű adatkezelési felhatalmazást az eljáró hatóság számára.
+
+A 2. §-hoz
+
+Adatkezelési felhatalmazás a távoli pilóták vizsgáztatására kijelölt szervezet számára.
+
+Az Lt. 12. §-a kimondja, hogy a magyar polgári légijármű a légiközlekedésben akkor vehet részt, ha a légiközlekedési hatóság Magyarország Légijármű Lajstromába (a továbbiakban: lajstrom) felvette. A lajstrom nyilvános, közhiteles nyilvántartás. A bejegyzett adatokról a légiközlekedési hatóság - kérelemre - tájékoztatást (kivonatot) ad. A légijárművek lajstromozásának szabályairól szóló 32/2001. (IX. 28.) KöViM rendelet határozza meg a lajtrom adattartalmát. A lajstromban szereplő személyes adatok törvényi szintű adatkezelési felhatalmazását teremti meg az Lt. 3/A. §-át kiegészítő rendelkezés. A légiközlekedési hatóság lajstromvezetéshez kapcsolódó adatkezelési tevékenysége a tulajdon védelméhez, a légiközlekedés biztonságának elősegítéséhez és a hatósági okmányok közhitelességének biztonságához fűződő közérdek érvényesítése érdekében szükséges.
+
+A légiközlekedési hatóság a repülőeszközök, a pilóta nélküli légijármű és a pilóta nélküli légijármű-rendszer üzembentartók nyilvántartásának vezetésével összefüggésben személyes adatokat kezel. Az adatkezeléshez törvényi szintű felhatalmazás szükséges. A repülőeszközökről, pilóta nélküli légijárművekről és a pilóta nélküli légijármű-rendszer üzembentartóiról vezetett nyilvántartás a légiközlekedés biztonságának elősegítése, a hatósági okmányok közhitelességének biztonságához fűződő közérdek érvényesítése, a tevékenység ellátásához szükséges alkalmasság igazolása, a bűnüldözési tevékenységek és a hatósági felügyeleti eljárások elősegítése érdekében szükséges. A nyilvántartásban szereplő adatoknak alkalmasnak kell lennie az adott repülőeszköz, pilóta nélküli légijármű beazonosítására, vagy a pilóta nélküli légijármű üzembentartójának beazonosítására.
+
+A 3. §-hoz
+
+A pilóta nélküli légijármű üzemeltetésére vonatkozó szabályok megszegése esetén légiközlekedési bírság kiszabását rendeli a törvény. Ha a pilóta nélküli légijárművet az üzembentartó a szabályszegést megelőzően más természetes személy vagy nem természetes személy használatába adta, és ezt igazolja, akkor a légiközlekedési bírságot a pilóta nélküli légijárművet használatra átvevő személlyel szemben kell kiszabni. A pilóta nélküli légjármű használatba adását magánokirattal lehet igazolni. A rendelkezés értelmében az okiratban szereplő személyes adatokat az eljáró hatóság az eljárás lefolytatása, a tényállás megállapítása, a döntés meghozatala, a jogorvoslati eljárások lefolytatása érdekében a pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárás kezdetétől a döntés véglegessé válásától számított öt évig kezeli. A kiegészítő szabályozás a törvényi szintű adatkezelési felhatalmazást teremti meg a légiközlekedési bírság kiszabására irányuló eljárást lefolytató hatóság, azaz a légiközlekedési hatóság vagy az általános rendőrségi feladat ellátásra létrehozott szerv számára.
+
+A 4. §-hoz
+
+A közlekedésért felelős miniszter a honvédelemért felelős miniszterrel, illetve bizonyos esetekben a környezetvédelemért felelős miniszterrel egyetértésben, rendeletben jelöli ki a légtérnek azt a részét, amelyik légiközlekedésre igénybe vehető, amelyik légiközlekedésre korlátozottan vehető igénybe vagy ahol tilos a légiközlekedési célú igénybevétel. A különböző légtértípusok pontos meghatározása a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM-HM-KvVM együttes rendeletben történik. A pilóta nélküli légijárművek légtérhasználatának szabályozása érdekében az Lt. rögzíti, hogy a közlekedésért felelős miniszter a honvédelemért felelős miniszterrel, illetve meghatározott esetekben a környezetvédelemért felelős miniszterrel egyetértésben meghatározza a légtérnek azt a részét ahol pilóta nélküli légijárművek, valamint pilóta nélküli állami légijárművek használata, a légtérrel érintett területen található létesítmény jellege vagy az ott folytatott tevékenység jellege miatt tilos, továbbá azt a részét, amely a pilóta nélküli légijárművek használatára korlátozottan vehető igénybe. Az uniós szabályozás tagállami hatáskörbe engedi az olyan földrajzi területek kijelölését, amelyek fölött tiltani vagy korlátozni lehet a drónok megjelenését, illetve a tagállamok meghatározhatják azokat a területeket, ahol a drónok használatát különböző feltételekhez kötik. Az Lt. jelen kiegészítése a pilóta nélküli légijárművek - közbiztonsági, nemzetbiztonsági, honvédelmi, rendvédelmi, repülésbiztonsági, környezetvédelmi érdekekből vagy a magánélethez való jog védelme érdekében történő - légtérhasználatára vonatkozó tiltások és korlátozások rendeleti szintű meghatározását teszi lehetővé.
+
+Az 5. §-hoz
+
+A magánélethez való alapvető jog védelme érdekében szükséges a pilóta nélküli légijárművek használatának korlátozása. A rendelkezés értelmében lakott terület felett a pilóta nélküli játék légijármű kivételével eseti légtérben lehet pilóta nélküli légijárművet használni. A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet határozza meg az eseti légtér kijelölésének szabályait. Az eseti légtér kijelölésére irányuló eljárást a katonai légügyi hatóság folytatja le. A szabályozás értelmében alkalmanként maximum hét napra jelölhető ki eseti légtér. Az eseti légtér kijelölésére irányuló eljárás biztosítja, hogy ellenőrizhető keretek között történjen lakott területen a drónhasználat.
+
+A 6. §-hoz
+
+A rendelkezés kiterjeszti a légiforgalmi irányító engedély alóli felmentés lehetőségét a pilóta nélküli légijárművek mellett a pilóta nélküli állami légijárművekre. A pilóta nélküli légijárművek által használható frekvenciasávok a frekvencia nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendeletben kerülnek meghatározásra. A frekvenciahasználatra vonatkozó előírások szerint engedélyköteles tevékenység csak hatósági engedéllyel végezhető. A rendelkezés a pilóta nélküli légijárművel és pilóta nélküli állami légijárművel végrehajtott repülés esetére kötelezővé teszi a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás igénybevételét. A mobilalkalmazás használata során tájékozódhat a távoli pilóta az elrendelt műveleti korlátozásokról, a pilóta nélküli légijárművek számára korlátozott, vagy tiltott területekről. Repülésbiztonsági okokból szükséges a mobilapplikáció használata, ezért törvényi szinten került szabályozásra az erre vonatkozó kötelezettség. Amennyiben az alkalmazás bármilyen ok miatt nem használható, akkor a magyar légtérben nem végezhető olyan UAS művelet, amely esetében elő van írva a mobilalkalmazás használatának kötelezettsége.
+
+A 7. §-hoz
+
+A rendelkezés lehetővé teszi az arra feljogosított szervezetek számára, hogy nemzetbiztonság érdekből, valamint a közrend és a közbiztonság érdekében detektálják a pilóta nélküli légijárművet, leszállásra szólíthatják fel, vagy feltartóztathatják és meghatározott esetben elektronikai úton zavarhatják, valamint elektronikai vagy mechanikai úton földre kényszeríthetik. A feltartóztatott, valamint a leszállásra felszólított pilóta nélküli légijárműnek, azaz a távoli pilótának a leszállásra való felszólítást haladéktalanul követnie kell. A felszólításnak nem engedelmeskedő pilóta nélküli légijárművet a magyar légtér igénybevételéről szóló kormányrendeletben foglalt esetekben földre lehet kényszeríteni. Az intézkedésre jogosult szervek az elektronikai úton történő zavarás, valamint elektronikai vagy mechanikai úton földre kényszerítés során kötelesek a frekvenciahasználatra vonatkozó szabályok betartására.
+
+A 8. §-hoz
+
+Az Lt. jelenlegi szabályozása csak a magyar állami légijármű nyilvántartásba vételéről rendelkezik, ezért szükséges a pilóta nélküli állami légijárművekre vonatkozó előírás megjelenítése jelen bekezdésen belül. Figyelemmel a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott eljárásrendre, a katonai légügyi hatóság bizonyos kategóriájú pilóta nélküli állami légijárművek esetén nem magát a légijárművet, hanem az üzembentartót veszi nyilvántartásba.
+
+A 9. §-hoz
+
+Az (EU) 2019/947 végrehajtási rendelet nyilvántartásbavételi kötelezettséget határoz meg a pilóta nélküli légijárművek tekintetében.
+
+A rendelkezés a repülőeszközökre, a pilóta nélküli légijárművekre, valamint a pilóta nélküli légijármű-rendszer üzembentartóira vonatkozó nyilvántartás hatályos szabályozását egészíti ki. A légiközlekedési hatóság által vezetett közhiteles nyilvántartás tartalmazza a tulajdonosra, az üzembentartóra, a repülőeszközre, az üzembentartó és a tulajdonos változására és a repülőeszköz telephelyére vonatkozó adatokat. Az Infotv. rendelkezéseire figyelemmel szükséges a törvényi szintű adatkezelési felhatalmazás megteremtése. A nyilvántartás vezetésére és az ahhoz kapcsolódó adatok kezelésére a biztonságos légiközlekedés elősegítése, a tevékenység ellátásához szükséges alkalmasság igazolása, valamint a véglegessé vált döntésben foglaltak ellenőrzése céljából szükséges.
+
+A légiközlekedési hatóság közhiteles nyilvántartást vezet a pilóta nélküli légijárművekről. A nyilvántartási kötelezettség nem terjed ki a pilóta nélküli játék légijárművekre. A pilóta nélküli légijármű nyilvántartásba vételét a tulajdonos kezdeményezi.
+
+A légiközlekedési hatóság közhiteles nyilvántartást vezet a pilóta nélküli légijármű-rendszert üzembentartókról. A nyilvántartásba vételt az üzembentartó kezdeményezi. Az (EU) 2019/947 bizottsági végrehatási rendelet értelmében pilóta nélküli légijármű-rendszer üzemben tartónak (UAS-üzembentartó) minősül az olyan jogi vagy természetes személy, aki, vagy amely egy vagy több pilóta nélküli légijármű-rendszert üzemben tart vagy üzemben tartani szándékozik.
+
+A 10. §-hoz
+
+Az Lt. 54. § (3) bekezdése meghatározza, hogy a pilóta nélküli légijármű parancsnoka a pilóta nélküli légijármű vezetője. A pilóta nélküli állami légijárművek esetén ezt a feladatot a kezelő látja el, ezért indokolt a fogalom kiterjesztése.
+
+A 11. §-hoz
+
+Az Lt. 54-60. § határozza meg a légijármű parancsnoka feladatait. Szükségessé vált a szabályozás kiegészítése a biztonságos elkülönítésre vonatkozó kötelezettséggel.
+
+A 12. §-hoz
+
+Az Lt. a HungaroControl Zrt. feladatai között szerepelteti a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás üzemeltetését. A pilóta nélküli légjármű használata a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás használatához kötött. A távoli pilóta az alkalmazásban történő regisztrációt követően az alkalmazáson keresztül tájékozódhat a korlátozásokról, jelezheti igényét valamely légtér használatára vonatkozóan, illetve bejelölheti a légtér használatát, amennyiben az általa kezdeményezett légtérben és időpontban megengedett a pilóta nélküli légijármű használata.
+
+A pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás üzemeltetése során a HungaroControl Zrt. adatkezelési műveleteket végez. A regisztráció és a légtérhasználat során keletkező adatok kezelése a jogszerű légtérhasználat biztosítása érdekében szükséges.
+
+A rendvédelmi feladatot, nemzetbiztonsági feladatot, bűnmegelőzési feladatot ellátó, valamint nyomozó hatósági jogkört gyakorló, illetve a terrorizmust elhárító szervek feladataik ellátásának elősegítése érdekében kezelhetik a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás üzemeltetésével összefüggésben keletkezett adatokat. A rendelkezés lehetővé teszi, hogy tiltott adatszerzés gyanúja miatt indult eljárás esetén az eljáró szerv a pilóta nélküli légijármű tulajdonosáról, üzembentartójáról, használatba vevőjéről, a távoli pilótáról a nyilvántartásban szereplő adatokat megismerje.
+
+A 13. §-hoz
+
+Az Lt. 63/D. §-ában két, már hatályát vesztett uniós jogi aktusra történik hivatkozás, így indokolt a hivatkozások cseréje a hatályon kívül helyezett uniós rendeleteket felváltó szabályozásra történő hivatkozással.
+
+A 14. §-hoz
+
+A pilóta nélküli állami légijármű üzembentartónak és üzemeltetőnek repülésbiztonsági szervezetet kell fenntartania, amelynek engedélyezési feladatait a katonai légügyi hatósághoz indokolt delegálni.
+
+A 15. §-hoz
+
+A kiegészítő szabályozás légiközlekedési bírság kiszabását rendeli a pilóta nélküli légijármű üzemeltetésére vonatkozó szabályok megsértésének esetére. A repülésbiztonsági szempontok érvényesítéséhez fűződő társadalmi érdekek indokolttá teszik, hogy a pilóta nélküli légijárművek használatára vonatkozó légiközlekedési szabályok betartásra kerüljenek. A pilóta nélküli légijárművek használatára vonatkozó szabályok megsértőivel szembeni fellépés lehetőségét teremti meg a rendelkezés azzal, hogy lehetővé teszi a légiközlekedési bírság kiszabását. A légiközlekedési bírság szabályai alól a szabálysértést megvalósító tényállások kivételre kerültek. Amennyiben a tanúsított magatartás szabálysértési tényállást valósít meg, akkor nincs helye közigazgatási bírság kiszabására irányuló eljárás indításának.
+
+A pilóta nélküli légijármű használata során, a pilóta nélküli légijármű üzemeltetésére vonatkozó szabályok megsértéséért elsősorban az üzemben tartó vonható felelősségre.
+
+A pilóta nélküli légijármű üzemeltetésére, használatára vonatkozó szabályok betartásáért a pilóta nélküli légijármű használatba adása esetén a pilóta nélküli légijárművet használatba vevő személy felel. A pilóta nélküli légijárművet használatba vevő felelősségének megállapításához teljes bizonyító erejű magánokirattal kell igazolni, hogy a pilóta nélküli légijárművet nem az üzembentartó, hanem a használatba vevő használta a szabályszegés időpontjában.
+
+A pilóta nélküli légijármű üzemletetésére vonatkozó szabályok megsértése esetén a légiközlekedési bírság kiszabására irányuló eljárást a légiközlekedési hatóság vagy az általános rendőrségi feladatok ellátásra létrehozott szerv folytatja le.
+
+A használatba adott pilóta nélküli légi járművel elkövetett szabályszegés miatt indult, légiközlekedési bírság kiszabására irányuló eljárásban a tényállás tisztázása során a használatba adó és a használatba vevő között létrejött megállapodást az eljáró hatóság megvizsgálja.
+
+Az üzemben tartó és a használatba vevő mentesül a felelősség alól, ha az a pilóta nélküli légijármű, amivel a pilóta nélküli légijármű üzemeltetésére vonatkozó szabályokat megsértették, jogellenesen került ki a birtokából és ezzel összefüggésben a bírságot kiszabó határozat kézbesítését megelőzően eljárást kezdeményezett a megfelelő hatóságnál.
+
+Amennyiben a helyszíni intézkedés vagy a közigazgatási hatósági eljárás során kétséget kizáróan megállapítható az elkövető kiléte, akkor a légiközlekedési bírságot a konkrét szabályszegést elkövetővel szemben szabja ki az eljáró hatóság.
+
+A 16. §-hoz
+
+A képzőszervezetek felett ellátott felügyeleti feladatok ellátásért fizetendő felügyeleti díj bevezetéséről szóló rendelkezés.
+
+A 17. §-hoz
+
+Az állami légijármű, az állami célú légiközlekedés, és a pilóta nélküli állami légijármű fogalmának pontosítása a pilóta nélküli állami légijárműveket érintő hazai szabályozás és a pilóta nélküli légijárművek polgári célú alkalmazására kiterjedő uniós szabályok összehangolása miatt szükséges.
+
+Az állami légijármű fogalmát és az állami célú légiközlekedés fogalmát nem a cél szerinti megközelítés alkalmazása különíti el valójában a polgári légijármű és a polgári célú légiközlekedés fogalmától, hanem - a cél szerinti megközelítés mellett - a légijárművek nyilvántartásba/lajstromba vételének helye. A javasolt normaszöveg alapján az a polgári légijármű, amely állami célú légiközlekedést hajt végre, továbbra is polgári légijárműnek tekintendő, mivel azt a katonai légügyi hatóság nem vette nyilvántartásba. A fentiek mellett a pilóta nélküli állami légijármű esetén meg kell különböztetni azon pilóta nélküli állami légijárműveket is, amelyeknek csak az üzembentartója kerül nyilvántartásba vételre.
+
+A pilóta nélküli légijármű-rendszer fogalmának bevezetése az (EU) 2019/947 végrehajtási rendelet végrehajtását szolgálja.
+
+A pilóta nélküli légiármű fogalmának bevezetése az (EU) 2019/945 felhatalmazáson alapuló rendelet végrehajtását szolgálja.
+
+A pilóta nélküli légijármű-rendszer üzemben tartója fogalmának bevezetése az (EU) 2019/947 végrehajtási rendelet végrehajtását szolgálja.
+
+A távoli pilóta fogalmának bevezetése az (EU) 2019/945 felhatalmazáson alapuló rendelet végrehajtását szolgálja. A pilóta nélküli állami légijárművek vezetése, irányítása, üzemeltetése a kezelő fogalmában egyértelműsíthető.
+
+A 18. §-hoz
+
+Az Lt. 74. §-ának módosítása jogalkotási felhatalmazásokat érint. Az Lt. 74/A. § (1) bekezdés t) és u) pontja tartalmazza az újraszabályozásra kerülő 63/D. §-ban hivatkozott uniós jogi aktusokkal kapcsolatos jogharmonizációs záradékot. A hivatkozott rendeletek hatályon kívül helyezésére tekintettel - a 63/D. §-hoz hasonlóan - indokolt a záradékokban is javítani az érintett rendeletek címét. A polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott tagállami feladatok ellátása érdekében szükségessé vált egy megfelelő szakértelemmel rendelkező testület létrehozása. A 74. § (2) bekezdés i) ponttal történő kiegészítés szerinti felhatalmazó rendelkezés lehetővé teszi az uniós kötelezettség teljesítéséhez, a szakmai testület létrehozásához, valamint a tagállami feladat végrehajtásához szükséges jogi háttér megteremtését.
+
+Jogharmonizációs záradék kiegészítése.
+
+A 19. §-hoz
+
+A távoli pilóta a mobilalkalmazásban 2021. július 31. előtt akkor jelöli be az általa használt, a vonatkozó szabályok szerint aktivált légteret, ha azt a magyar légtér igénybevételéről szóló kormányrendelet előírja.
+
+A 20. §-hoz
+
+A felsorolásban szereplő technikai kiegészítések a pilóta nélküli állami légijárművek légiközlekedésbe történő integrálása, valamint a katonai légügyi hatósági feladatok egyértelműsítése érdekében szükségesek. Tekintettel arra, hogy a polgári légi közlekedéshez kapcsolódó műszaki követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő rögzítéséről szóló, 2012. október 5-i 1178/2011/EU bizottsági rendelet és a légi járművek üzemben tartásához kapcsolódó műszaki követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló, 2011. november 3-i 965/2012/EU bizottsági rendelet értelmében vannak olyan szervezetek (képző- és üzembentartó szervezetek), melyek tevékenységüket nem engedély, hanem ún. deklarációs nyilatkozat alapján végezhetik, így szükséges, hogy ez a különbségtétel a díjmellékletben is megjelenjen.
+
+A 21. §-hoz
+
+A magyar légtér pilóta nélküli légijárművel végrehajtott UAS művelethez lakott terület felett eseti légtér kijelölése esetén vehető igénybe, amelynek részletszabályait a magyar légtér igénybevételéről szóló kormányrendelet tartalmazza. A pilóta nélküli légi jármű (drón) használata lakott terület felett tehát csak erre vonatkozó engedély esetén lesz jogszerű. Ha a jogszerű drónhasználattal összefüggésben esetlegesen felmerül a személyhez fűződő jogok megsértése vagy más jogsértő magatartás megvalósulása, a hatályos szabályozás szerinti szankciók mellett a polgári jogi jogkövetkezmények alkalmazhatóak a vezetővel szemben, hiszen a drón mozgása könnyen lekövethető, a légi jármű vezetője a hatóság által beazonosítható. Engedély (eseti légtérkijelölés vagy más engedély) hiányában viszont a drónhasználat jogosulatlannak minősül, amely már önmagában veszélyeztetheti a magánélet háborítatlanságát, ezért szükséges megteremteni annak szankcionálását. Erre figyelemmel rendelkezik úgy a Javaslat, hogy közlekedési szabálysértést (pilóta nélküli légi járművel végzett jogosulatlan tevékenység) valósít meg az, aki lakott terület felett a szükséges engedély nélkül használ pilóta nélküli légi járművet. Amennyiben az elkövető a jogosulatlan használat során más lakásáról, egyéb helyiségéről, vagy az ezekhez tartozó bekerített helyről jogosulatlanul hang- vagy képfelvételt is készít, ez a többletmagatartás már személyiségi jogsérelmet jelent, amely megalapozza a magánlaksértés szabálysértés tényállásának ezirányú módosításának indokoltságát.
+
+A magánlaksértés magánindítványra üldözhető és elzárással fenyegetett szabálysértés, ez az új tényállásra is irányadó.
+
+Összegezve a jogosulatlan használat önmagában szankcionálandó (ha nem készül felvétel), továbbá akkor is, ha készül ugyan felvétel, de azon lakás, egyéb helyiség, stb. nem szerepel. Ha viszont a drón olyan felvételt készít, amelyen más lakása, egyéb helyisége, az azokhoz tartozó bekerített helye, vagy az ott tartózkodók láthatóak, a pilóta magánlaksértés szabálysértése miatt vonható felelősségre. Természetszerűleg nem minősül jogosulatlannak a felvétel készítése, ha az érintett ahhoz hozzájárult (vagy kifejezetten ő adott megbízást a felvétel készítésére).
+
+A 22. §-hoz
+
+A módosítás bűncselekményként rendeli büntetni azt, aki pilóta nélküli légi jármű jogosulatlan használatával más lakását, egyéb helyiségét, vagy az ezekhez tartozó bekerített helyet megfigyeli, illetve minősített esetet jelent a megfigyelés során készített hang- vagy képfelvétel nagy nyilvánosság számára történő hozzáférhetővé tétele. A pilóta nélküli légi jármű jogosulatlan használatával összefüggésben irányadóak a Szabs. tv.-t módosító rendelkezések indokolásában foglaltak. A szabálysértési tényállás az engedély nélküli felvétel készítését rendeli büntetni. A megfigyelés hétköznapi értelemben huzamosabb ideig tartó figyelemmel kísérést, vizsgálatot jelent. A titokban történő megfigyelés továbbra is a Btk. 422. §-a alapján büntetendő, az új tényállás a pilóta nélküli légi járművel történő nyílt (tehát az érintett személy által észlelhető módon való) megfigyelést rendeli büntetni akkor, ha a pilóta nélküli légi jármű használatára a vezetőnek nincs jogosultsága. Ha a személyes adat jogosulatlanul vagy céltól eltérő kezelése (így pl. drónnal felvétel készítése, akár repülési engedéllyel rendelkezik az elkövető, akár nem, akár lakott területen követik el, akár nem, akár egyszeri, egyedi képfelvétel készül, akár tartós megfigyelés történt) jelentős érdeksérelmet okoz, továbbra is személyes adattal visszaélésként büntetendő. A személyhez fűződő jogok szenzitivitására tekintettel indokolt meghagyni a sértett önrendelkezési jogát azzal összefüggésben, hogy kívánja-e az elkövető felelősségre vonását, ezért a Javaslat szerint a fenti bűncselekmények magánindítványhoz kötöttek.
+
+-----STARTING---POINT---VEGE---
+
+A 23. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 24. §-hoz
+
+Notifikációs záradék.

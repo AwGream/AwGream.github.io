@@ -1,0 +1,119 @@
+2016. évi XL. törvény indokolása
+
+a polgári perrendtartásról szóló 1952. évi III. törvény, valamint az elektronikus ügyintézés és bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A Kormány a közigazgatási és a polgári perrendtartással összefüggő egyes bírósági és ügyészségi feladatokról szóló 1295/2015. (V. 7.) Korm. határozatával, valamint a polgári perrendtartás során irányadó elektronikus kapcsolattartás ügyviteli és technológiai felelősségi kérdéseiről szóló 1793/2015. (XI. 10.) Korm. határozatával folytatta azt a 2009. évi LII. törvénnyel megkezdett utat, amely a bíróságokkal történő elektronikus kapcsolattartás teljes körű bevezetését célozza. Definiálásra került az ún. „e-Perkapu” szolgáltatás, amely a Magyar Ügyvédi Kamara, az Országos Bírósági Hivatal és az Igazságügyi Minisztérium által megfogalmazott elvárások alapján, a belügyi tárca által vezetett munkacsoportban meghozott döntések alapján a Hivatali Kapu továbbfejlesztése, egyben az ÁBT SZEÜSZ egy speciális válfaja.
+
+Az „e-Perkapu” kialakításának alapvető és legfontosabb indoka az volt, hogy a bíróságokkal történő kötelező elektronikus kapcsolattartás bevezetésekor a belföldi székhellyel rendelkező gazdálkodó szervezetek és a jogi képviselők számára is megteremtse a jogalkotó azt a kommunikációs csatornát, amely a gazdálkodó szervezet törvényes vagy szervezeti képviseletét ellátó személy, illetve az ügyvéd (különösen az ügyvédi iroda) személyes Ügyfélkapuján kívül is lehetővé teszi a bíróságokkal és más hatóságokkal (közigazgatási szervek, jegyzők) történő elektronikus kapcsolattartást. A gazdálkodó szervezetek és az ügyvédi irodák, mint a képviselőjüktől (vagy az irodavezető ügyvédtől) elkülönülő jogalanyok a hatályos szabályozás alapján sem Ügyfélkapu, sem pedig Hivatali Kapu nyitására nem jogosultak. A fenti jogalanyok Ügyfélkapun keresztüli ügyintézése adatbiztonsági, titoktartási és a helyettesítések miatt munkaszervezési problémák forrása.
+
+A polgári perrendtartásról szóló 1952. évi III. törvényt módosító 2015. évi CLXXX. törvény 2016. január 1-jétől kötelezővé tette a bíróságokkal történő elektronikus kapcsolattartást a belföldi székhelyű gazdálkodó szervezetek, a felek jogi képviselői és a közigazgatási szervek számára. A bírósági szervezet és az ügyvédi kar jogalkalmazási és számítástechnikai anomáliákat tartalmazó jelzéseire figyelemmel, azonban az egyes törvényeknek a gazdasági növekedéssel összefüggésben történő módosításáról szóló 2015. évi CCXII. törvény a kötelező elektronikus kapcsolattartás indulásának időpontját 2016. július 1. napjára módosította. Ettől az időponttól a belföldi székhellyel rendelkező gazdálkodó szervezetek és a jogi képviselővel eljáró felek beadványaikat polgári peres eljárásokban - képviselőik által - elektronikus úton nyújthatják be az illetékes bíróságok, hatóságok felé.
+
+A 2016. február 12. napján a Belügyminisztériumban megtartott egyeztetés értelmében az „e-Perkapu” szolgáltatás bevezetése 2016. július 1. napjával megtörténik. A Pp. jelen törvénnyel érintett módosításának célja a korábbi határidő-módosítás szükségességét indokoló legfőbb gyakorlati és technikai problémák megoldása. Az új szabályozás meg kívánja teremteni a bírósághoz fordulás jogának lehető legszélesebb körben és a technológia-semlegesség elvét szem előtt tartva, diszkriminációmentesen történő gyakorlásának lehetőségét.
+
+Az eljárásjogi szabályozás során a jogalkotó legfontosabb feladata az, hogy olyan szabályozást alakítson ki, amely nem nehezíti el a bírósághoz való fordulást. A bírósági eljárások gyorsítása, a költségkímélő eljárásrend és a mindkét fél érdekét szolgáló időszerű ítélkezés biztosítása elsődleges zsinórmérték. Az elektronikus kapcsolattartás szabályozásakor figyelemmel kell lenni arra, hogy kellően részletes rendelkezésekkel biztosítsa a jogalkotó azt, hogy az elektronikus kommunikáció során a felek tisztában legyenek eljárási jogaikkal és kötelezettségeikkel, azokat a jogbiztonság követelményeinek megfelelően gyakorolhassák.
+
+Annak érdekében, hogy a bírósági eljárások kezdeményezése során lehetőség legyen az informatikai eszközök igénybevételére, az eljárási szabályok részben lehetővé, részben kötelezővé teszik a bíróságokkal való elektronikus kapcsolattartást.
+
+A Pp. jelen módosítása meghatározza az elektronikus kapcsolattartásra kötelezettek alanyi körét, az általuk igénybe vehető kommunikációs csatornákat, amelynek értelmében a gazdálkodó szervezetek és a jogi képviselővel eljáró felek esetén a jogi képviselők - a Pp.-ben meghatározott kivételektől eltekintve - kizárólag elektronikus úton tarthatják a kapcsolatot a bírósággal.
+
+A törvény továbbá a rendelkezésre álló technikai feltételeket alapul véve, pontosítja a Pp. hatályos, elektronikus kapcsolattartásra irányadó rendelkezéseit is.
+
+Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény, valamint a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 910/2014/EU rendelet (a továbbiakban: eIDAS rendelet) 2016. július 1-jével új alapokra helyezi az elektronikus aláírásokkal kapcsolatos szolgáltatásokat. Az eIDAS rendelet hatálybalépésére tekintettel átmeneti rendelkezések megalkotása szükséges az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény vonatkozásában, figyelemmel arra, hogy ezeket a gyakorlati szempontból elengedhetetlen szabályokat az eIDAS rendelet nem tartalmazza.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A módosítás hangsúlyozza, hogy a fizetési meghagyásos eljárást követő polgári peres eljárásban történő elektronikus kapcsolattartás során is csupán a digitalizálható okirati bizonyítékokat kell csatolni az elektronikus úton benyújtott keresetlevélhez. Az egyéb elektronizálható bizonyítékokat (például a szóbeli kötelezettségvállalásról készült hangfelvételt) adathordozón, nem transzformálható bizonyítékokat pedig az általános szabályok szerint kell benyújtani.
+
+A 2-3. §-hoz
+
+A módosítás kezeli azt a jogalkotói szándékot, hogy mivel a bíróságokkal történő elektronikus kapcsolattartás az „e-Perkapu” bevezetésével már három kommunikációs csatornán keresztül fog működni, és a közigazgatási határozat bírósági felülvizsgálata iránti perekben az Ügyfélkapu és az „e-Perkapu” alternatív kommunikációs csatornaként szolgál a fél (vagy képviselője) számára, a könnyebb érthetőség kedvéért, az Ügyfélkaput a személy teljes körű azonosítását biztosító és az űrlapbenyújtás támogatási szolgáltatás, az „e-Perkaput” pedig az űrlapbenyújtás támogatási szolgáltatásként jelöli meg. Az Általános Nyomtatványkitöltő Keretprogramra történő utalás a terminológia egységessé tétele és átláthatósága miatt törlésre kerül a normaszövegből, az informatikai rendszer működése során a gyakorlatban azonban változatlanul alkalmazásra kerül. A közigazgatási szervek a törvény hatálybalépését követően az alkalmazottaik (képviselőik) Ügyfélkapuján keresztül már nem, csupán a Hivatali Kapun keresztül tarthat elektronikusan kapcsolatot a bíróságokkal. Fontos újítás továbbá, hogy azokban a közigazgatási perekben, amelyeket olyan közigazgatási hatósági eljárás előzött meg, amely az ágazati jogszabályok szerint kizárólag elektronikus, úgy a közigazgatási szerv minden digitálisan rendelkezésre álló, valamint digitalizálható dokumentumot és bizonyítékot elektronikusan köteles benyújtani a bíróság részére. Azokban az esetekben, amikor a per alapjául szolgáló államigazgatási eljárás nem kizárólag elektronikusan zajlott, a közigazgatási szerv csak a keresetlevelet és azokat a bizonyítékokat, dokumentumokat köteles elektronikus formában benyújtani, amelyek így rendelkezésére állnak. A több ügyirat tekintetében a papír alapú benyújtás változatlan formában alkalmazandó.
+
+A 4. §-hoz
+
+Az „e-Perkapu” bevezetésére figyelemmel indokolt egyértelműsíteni, hogy az elektronikus beadás csak a beadványra és azok okiratnak minősülő mellékleteire vonatkozik. A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben is előfordulhat, hogy tárgyi bizonyítási eszközt kell csatolni. Az ilyen - nem digitalizálható - eljárási cselekményekhez nem indokolt a hatálytalanság jogkövetkezményét fűzni.
+
+Az 5. §-hoz
+
+A módosítás azért szükséges, hogy a fél eljárási jogainak védelme érdekében az eljárási cselekmény megtételekor pontosan tudja azt, hogy az adathordozón történő benyújtással történő kommunikáció elektronikus útnak minősül, így arra vonatkozóan a Pp. elektronikus kapcsolattartást szabályozó XXVIII. fejezetének rendelkezéseit kell alkalmazni.
+
+A „védekezés” kifejezés módosítása pedig azért indokolt, mert ezzel megteremthető az alperesi nyilatkozatok egységes terminológiája a törvény szövegében.
+
+A 6. §-hoz
+
+Az okirati bizonyítékok külön kiemelése a normaszövegben azért indokolt, hogy egyértelművé váljék a jogalkalmazók számára, hogy - összhangban a Pp. 121. § (2) bekezdésében foglaltakkal - nem minden bizonyítékot, csupán a digitalizálásra maximálisan alkalmas okirati bizonyítékokat kell elektronikusan benyújtani a bírósághoz. Az elektronizáció a nem transzformálható bizonyítékokra (például tárgyi bizonyítási eszközök) nem vonatkozik. A Pp. 394/C. § (4) bekezdését a jogalkotó tudatosan módosítja és az „e-Perkapu” kialakítására tekintettel megszünteti a képviselő személyének teljes körű azonosítását biztosító és űrlapbenyújtás támogatási szolgáltatás keretében történő kommunikációt. A közigazgatási szerv alkalmazottai (jogtanácsosai) a közigazgatási szerv által nyitott „e-Perkapu” felhasználóiként lesznek jogosultak személyesen eljárni. E módosítás az egyes kommunikációs csatornák markáns elkülönítését és az Ügyfélkapu jogvédelmét szolgálja. Figyelemmel arra, hogy az elektronikus kapcsolattartás szabályai kötelező jelleggel kizárólag a belföldi székhelyű gazdálkodó szervezetre alkalmazandók, az értelmező rendelkezések között definiált fogalomtól eltérő interpretáció miatt, szükséges egy új fogalom, az e fejezetre optimalizált „belföldi gazdálkodó szervezet” terminus bevezetése és következetes alkalmazása az elektronikus kapcsolattartás szabályozása során.
+
+A 7. §-hoz
+
+A peres felek mellett a perben eljáró igazságügyi szakértő számára is meg kell teremteni annak a lehetőségét, hogy szükség esetén, a bíróság felhívására szakvéleményét adathordozón nyújthassa be a bíróság részére. A jogalkotó nem kívánja elnehezíteni és formálissá tenni az igazságügyi szakértői tevékenységről szóló törvényben a szakértők számára biztosított választási jogot a bíróságokkal történő elektronikus kapcsolattartás során, ezért azokban az esetekben, amikor a bíróság - költséghatékonysági és célszerűségi okból - hívja fel az elektronikus útra nem kötelezett és azt nem vállaló szakértőt arra, hogy a szakvéleményét adathordozón nyújtsa be, a szakértőnek a főszabály szerinti űrlapot nem kell benyújtani a bíróság részére, így az adathordozón kívül nem kell megteremtenie az elektronikus eljárás feltételeit. Az igazságügyi szakértői tevékenység végzésére jogosult és közigazgatási szervnek, vagy gazdálkodó szervezetnek minősülő szakértők azonban az általános szabályok szerint köteles az elektronikus kapcsolattartásra.
+
+A 8. §-hoz
+
+Az Európai Parlament és a Tanács 910/2014/EU rendelet preambuluma kiemeli, hogy az elektronikus aláírások joghatását a nemzeti jognak kell meghatároznia, kivéve az e rendeletben előírt azon követelményt, miszerint a minősített elektronikus aláírásnak a saját kezű aláírással egyenértékű joghatással kell bírnia.
+
+Fontos leszögezni, hogy az elektronikus ügyintézés elterjesztésének a célja mind az állami szervek, mind a gazdálkodó szervezetek terheinek csökkentése. Erre tekintettel csak olyan feltételt célszerű előírni, amely e terheket nem növeli. Mivel az elektronikus átállás eleve új helyzetet teremt a vállalkozások és a közszféra számára, fontos, hogy - az eredeti törvénymódosítási javaslattal ellentétben - a megkövetelt elektronikus aláírás szintje ne növekedjen akkor, amikor a gazdálkodó szervezeteknek az e-perekre kell átállniuk. Erre figyelemmel a módosítás biztosítja, hogy a jelenlegi helyzet fennmaradjon és továbbra is a minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírás legyen a teljes bizonyító erejű magánokirat, valamint a közokiratok elektronikus kelléke.
+
+A 9. §-hoz
+
+A kényelmesebb és biztonságosabb felhasználói alkalmazás érdekében szükséges, hogy az elektronikus küldemény ne csak a bíróság nevét, az ügy számát és az irat érkezésének időpontját, hanem a könnyebb azonosíthatóság érdekében a felek nevét és az ügy tárgyát is tartalmazza.
+
+A kézbesítési vélelem szabályának módosítása a Pp. általános szabályaival és az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel való összhang megteremtése miatt szükséges.
+
+Az új bekezdés beillesztése a Pp. 394/H. §-ába amiatt indokolt, hogy a jogbiztonság szem előtt tartásával mind a feladó, mind pedig a címzett minden egyes küldemény feladásáról, átvételéről és olvasásáról vagy annak hiányáról rendelkezzék igazolással. Ennek gyakorlati jelentősége abban rejlik, hogy a bíróság is megkapja és ellenőrizni tudja a kézbesítési vélelemhez tartozó eljárási határidő megindulását miután a küldemény a címzett tárhelyén elhelyezésre került.
+
+A 10. §-hoz
+
+A zökkenőmentes jogalkalmazás érdekében szükséges a Pp.-ben meghatározni azt az időpontot, amikor az elektronikus úton - akár online, akár gépi interfészes, akár adathordozón - érkezik a bírósághoz. A befogadás-visszaigazoláshoz (vagy az adathordozó beérkezéséhez) kötött értesítés az eljárási határidőkre vonatkozik. Benyújtottnak csak az a beadvány tekinthető, amely az informatikai követelményeknek megfelel, így a bíróság arról automatikus befogadás-visszaigazolást küldött.
+
+A 11. §-hoz
+
+Az internet alapú kommunikációs csatornák sérülékenysége miatt (a már hivatkozott lassú feltöltés, az informatikai rendszer korlátozott erőforrásai miatti technikai anomáliák, a kapcsolat pillanatnyi megszakadása miatt a feltöltés megszakadása és újrakezdődése, amely egyes esetekben mulasztással járhat) célszerűbbnek mutatkozik, hogy az Országos Bírósági Hivatal elnöke által meghatározott nagyobb méretű fájlok darabolással történő feltöltése helyett a rendszer áttérjen a fizikai adathordozón (CD, DVD, pendrive, merevlemez) történő benyújtásra, amely biztonságosabbá teszi e dokumentumok elektronikus beadását. A célszerűség érdekében az adathordozókat eggyel több példányban kell benyújtani, mint ahány fél a perben érdekelve van. Az adathordozókat pedig a maguk fizikai valójában a bíróság fogja postai úton kézbesíteni az érdekeltek részére.
+
+A 12. §-hoz
+
+Mivel a Perkapu szolgáltatás részletszabályait kormányrendelet fogja meghatározni, így annak megalkotására mindenféleképpen szükséges a felhatalmazó rendelkezés beillesztése a normaszövegbe.
+
+A 13. §-hoz
+
+Az átmeneti rendelkezések megalkotása amiatt indokolt, hogy ne keveredjenek az egyes törvénymódosításokkal bevezetett szabályok a kötelező elektronikus kapcsolattartás körébe tartozó perekben. Ahol a felek csupán választhatják az elektronikus utat, ott nincs szükség átmeneti szabályokra.
+
+A 14. §-hoz
+
+A módosítás a technológiasemlegesség miatt szükséges abból a célból, hogy a törvényszöveg egységes rendszerben tudja kezelni a Hivatali-, az Ügyfél-, és a Perkapu kommunikációs csatornát. A rendelkezés egyebekben szövegpontosító szabályokat tartalmaz.
+
+A 15. §-hoz
+
+A rendelkezés technikai jellegű módosításokat tartalmaz.
+
+A 16. §-hoz
+
+Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény, valamint a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 910/2014/EU rendelet (a továbbiakban: eIDAS rendelet) 2016. július 1-jével új alapokra helyezi az elektronikus aláírásokkal kapcsolatos szolgáltatásokat.
+
+A változtatások egyik lényegi eleme, hogy a korábbi elektronikus aláírással kapcsolatos szolgáltatások helyébe (a természetes személyek számára kibocsátott minősített aláírások kivételével) újak lépnek, amelyeket újra is kell minősíteni. Ennek értelmében minősített szervezeti tanúsítvány kibocsátása, minősített időbélyegzés szolgáltatás, archiválási szolgáltatás stb. tekintetében nincs meg a szükséges folytonosság, 2016. június 30-án elveszítik addig meglévő joghatásukat, a helyükbe lépő új tanúsítványokat pedig az új rendszerben kellene kiadni.
+
+A fokozott biztonságú szolgáltatások az új környezetben bejelentés alapján nyújthatóak.
+
+A minősített bizalmi szolgáltatások tekintetében a szolgáltatónak megfelelőség-értékelést kell végeztetnie a megfelelőségértékelési szervezetekkel. és az arról szóló jelentést be kell nyújtania a bizalmi felügyeletet ellátó Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: NMHH). A megfelelőségértékelési szervezetek akkreditációját azonban a Nemzeti Akkreditációs Hatóság (NAH) végezné, amely jogállásának bizonytalansága miatt erre legkorábban 2016 májusában lehet feljogosítva a nemzetközi szervezetek által.
+
+A szolgáltató a minősített bizalmi szolgáltatást azt követően indíthatja el, hogy az NMHH, mint felügyeleti szerv megállapította, hogy a szolgáltató és a szolgáltatás megfelel az eIDAS Rendelet szerinti követelményeknek, megadta az eIDAS Rendelet szerinti minősített státuszt és az a bizalmi listán feltüntetésre került. Az eIDAS Rendelet szerinti minősített státusz megszerzése időigényes, minimum kettő hónapot vehet igénybe. Ezen időszak alatt a korábbi elektronikus aláírásról szóló törvény szerinti minősített szolgáltatások nem lesznek az eIDAS Rendelet szerint minősítettek.
+
+Mindez azt jelenti, hogy ugyan a természetes személyhez kötött minősített aláíró tanúsítványok érvényesek lesznek, azonban például az azok működéséhez gyakran elengedhetetlenül szükséges időbélyeg szolgáltatás - jogalkotói beavatkozás hiányában - nem lesz július 1-jétől elérhető.
+
+Az átmenet rendezésére minden tagállam maga próbál megoldást keresni.
+
+A szolgáltatások nyilvántartásba vételéhez szükséges megfelelőség-értékelési eljárások akadálya miatt, valamint az átmenet zökkenőmentes lebonyolítása érdekében biztosítani kell azt, hogy az egyes szolgáltatások - átmeneti jelleggel - tovább működhessenek. A szolgáltatók 2017. július 1-ig javasolták az átmeneti időszakot, ezzel szemben a bizalmi felügyeletként kijelölt NMHH 2016. december 31. napját javasolta véghatáridőnek, arra tekintettel, hogy 2017. júliusa az uniós rendelkezések szerinti átmenet vége, a hazai átmenetet célszerű ennél rövidebb időben meghatározni.
+
+Az eIDAS rendelet megengedi, hogy a tagállamok eldöntsék, a bizalmi szolgáltatások e rendelet szerinti kimerítő listáján szereplő szolgáltatásokon kívül meghatároznak olyan, más típusú bizalmi minősített aláírásokat, bélyegzőket, időbélyegzőket, és szolgáltatásokat, amelyeket nemzeti szinten minősített bizalmi szolgáltatásként ismernek el. Erre tekintettel, azok az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) szerinti elektronikus aláírással kapcsolatos szolgáltatást nyújtó szolgáltatók, akik jelenleg minősített elektronikus aláírással kapcsolatos szolgáltatást nyújtanak, legkésőbb 2016. december 31-ig jogosultak e törvény szerinti minősített szolgáltatásaikat nyújtani, és az átmeneti időszak alatt az Eat. szerinti minősített szolgáltatások és az azok alapján kibocsátott tanúsítványok és időbélyegek Magyarország területén továbbra is rendelkeznek mindazon, hazai jogszabály által előírt joghatással, amellyel az Eat. hatálya alatt rendelkeztek.
+
+Az átmeneti időszak biztosítja azt is, hogy az új típusú személyazonosító igazolvánnyal elektronikus aláírás-szolgáltatást igénybevevők számára is zökkenőmentes legyen az átállás.
+
+Mindezek mellett rendezendő a szervezeti aláírások kérdésköre is: a szervezeti aláírás helyébe az eIDAS rendelet szerint az elektronikus bélyegző lép. Az elektronikus bélyegző szolgáltatások nyilvántartásba vételéig biztosítani kell, hogy nemzeti szinten ideiglenesen tovább használni lehessen a minősített szervezeti aláírást.
+
+-----STARTING---POINT---VEGE---
+
+A 17. §-hoz
+
+A rendelkezés a hatályba léptető szabályokat tartalmazza.

@@ -1,0 +1,69 @@
+2010. évi XVI. törvény indokolása
+
+az alapítványok elektronikus nyilvántartásáról, valamint a nyilvántartásból történő adatszolgáltatásról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A törvény az alapítványok adatainak országos, nyilvános, közhiteles és elektronikus nyilvántartásban történő rögzítésének, valamint ezen adatokhoz való hozzáférésre vonatkozó szabályok megteremtését szolgálja. Az elektronikus eljárás bevezetésének célja, hogy a bejegyzés, változásbejegyzés, törlés, adatkezelés időigénye jelentősen csökkenjen többlet humánkapacitás bevonása nélkül. Szükséges továbbá, hogy megtörténjen az alapítványokra vonatkozó hiteles adatbázisok kialakítása, tárolása és archiválása.
+
+Az alapítványok részéről fokozott igény mutatkozik arra, hogy azok létrehozása, illetve a nyilvántartásba vételükre irányuló bírósági eljárás során érvényesüljenek a költséghatékonyság, illetve az ügyfelek korszerű, elektronikus úton történő tájékoztatásának követelményei. Ennek keretében ki kell alakítani az elektronikus eljárás rendjét, valamint tisztázni kell az elektronikus eljárás és a továbbra is fennmaradó papír alapú eljárás közötti kapcsolatot.
+
+A szabályozás célja az egyszerű elektronikus eljárás megteremtésével az, hogy a 2009. évi CXX. törvénnyel (a továbbiakban: új Ptk.) hatályba lépő normákat elektronikus vonatkozású, eljárási szabályokkal egészítse ki. A törvény a nyilvántartásba történő bejegyzésnek, és annak vezetésének technikai konstrukcióját teremti meg annak érdekében, hogy egy gyors és átlátható elektronikus nyilvántartás jöjjön létre. Egyúttal a nyilvántartásba vétel folyamata is könnyebbé válik. A törvény a nyilvántartásra vonatkozóan azokat a szabályokat mondja ki, amelyek törvényi szintű rendezése szükséges, továbbá felhatalmazást ad az igazságügyért felelős miniszternek, hogy az alapítvány nyilvántartásba vételi eljárásának bírósági ügyviteli szabályait, a nyilvántartásba vétel iránti kérelem részét képező formanyomtatványok tartalmi kellékeit és a formanyomtatvány közzétételének módját, a nyilvántartásba szükség szerint bejegyzendő egyéb adatokat, valamint az alapítvány adatairól kért elektronikus kivonat tartalmát rendeletben szabályozza.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Ez a § a törvény célját és személyi hatályát határozza meg. E szerint a törvény célja, hogy az alapítványok meghatározott adatai országos, nyilvános, közhiteles és elektronikus nyilvántartásban kerüljenek rögzítésre.
+
+A nyilvántartásba kötelezően bejegyzendő adatokat külön törvény határozza meg. A nyilvántartásba bejegyzendő technikai és egyéb adatokat külön jogszabály határozza meg. Az új Ptk. és az igazságügyért felelős miniszter megalkotandó rendelete együttesen tartalmazzák a nyilvántartandó adatokat. Tekintettel az új Ptk. rendelkezéseire, célszerűtlen lett volna e törvényben felsorolni nyilvántartandó adatokat, ezzel elkerülendő a párhuzamos szabályozást.
+
+A 2. §-hoz
+
+Az alapítványok nyilvántartásának informatikai üzemeltetését a törvény szerint az Országos Igazságszolgáltatási Tanács Hivatala (a továbbiakban: Hivatal) végzi majd, ahol az ehhez szükséges infrastrukturális és szervezeti feltételek adottak, tekintettel arra, hogy a jelenlegi nyilvántartást is a Hivatal vezeti, amely egyébként megkezdte az adatbázis aktualizálását, konszolidálását. A Hivatal „Civil szervezetek bejegyzésének és nyilvántartásának modernizációja” címmel sikeres és kiemelt projektet nyújtott be az Elektronikus Közigazgatás Operatív Program keretében, amely projekt előkészítése megkezdődött és várhatóan 2010. augusztus 31-én teljes körűen le is zárul majd. Felmerült a nyilvántartás Országos Közjegyzői Kamara által történő vezetésének lehetősége is. Ott azonban egy teljesen új, még nem létező rendszert kellene kidolgozni, így indokolt és ésszerű, hogy a nyilvántartást továbbra is a Hivatal vezesse.
+
+A Nyilvántartás adatait a nyilvántartásba vételről döntést hozó bíróság szolgáltatja elektronikus úton a Hivatal számára. Az elektronikus adattovábbítás és a Nyilvántartás informatikai biztonságáról a Hivatal gondoskodik.
+
+A 3. §-hoz
+
+E § szerint az alapítvány nyilvántartásba vétel iránti kérelmét benyújtó személy dönthet arról, hogy a nyilvántartásba vétel iránti kérelmet, valamint a kérelem mellékleteiként benyújtott okiratok mindegyikét egységesen papír alapon vagy elektronikus úton nyújtja be. A nyilvántartásba vételi kérelmek tehát az előterjesztés szerint megvalósuló rendszerben mind papír alapon, mind elektronikus okiratként benyújtásra kerülhetnek. A két megoldás azonban nem keverhető egymással, a kérelem teljes egészében egyik vagy másik forma szerint nyújtható be. Elektronikusan benyújtott kérelem esetén a bíróság elektronikus úton közli a határozatait. A nyilvántartásba vételi kérelem elektronikus formában történő benyújtására irányadóak a hivatalos iratok kézbesítéséről és az elektronikus tértivevényről szóló 2009. évi LII. törvény rendelkezései - azaz az elektronikus kérelmet az ügyfélkapun keresztül lehet majd benyújtani.
+
+A nyilvántartásba vétel iránti kérelem elektronikus benyújtása esetén a kérelmezőnek elektronikus formanyomtatványt kell kitöltenie, melynek mellékletét az alapítványra egyéb okiratok digitalizált változata. A digitalizált okiratok papír alapú eredetijét a benyújtó személy megőrzi.
+
+Adatvédelmi okokból szükséges kimondani azt, hogy a természetes személyek természetes személyazonosító adatai közül csak a név és a születési név nyilvános, a további adatok (anyja neve, születési helye, ideje) nem. Kivételt képeznek azok a szervezetek, amelyeket a törvény nevesít, mivel e szervek - az adatvédelmi szabályoknak és a jogszabályi felhatalmazás alapján végzett közfeladataik ellátása során - valamennyi természetes személyazonosító adathoz hozzáférhetnek.
+
+A bíróságnak pedig megteremtődik a lehetősége arra, hogy a nyilvántartásba vétel iránti kérelmen feltüntetett adatok létezéséről, illetve valódiságáról gyorsan és egyszerűen meggyőződjön.
+
+A 4. §-hoz
+
+Az alapítvány nyilvántartásba vételéről szóló határozat jogerőre emelkedése megállapításának napján a határozatot hozó bíróság a jogerős végzés, valamint az alapítványnak a nyilvántartásba vételi eljárás során benyújtott valamennyi beadványának elektronikus másolatát az adószám és a statisztikai számjel beszerzését követően megküldi a Hivatal részére a Nyilvántartásban való tárolás céljából. Mindezeknek az elektronikus rögzítésével jön létre az országosan egységes nyilvántartás, amelyben egy helyen szerepel valamennyi, az alapítványokra vonatkozó releváns adat. Ezt elősegíti az a rendelkezés is, mely szerint a papír alapú kérelem esetén is valamennyi adatot rögzíteni kell elektronikusan.
+
+Ahhoz, hogy az online kereshetőség biztosított legyen, adatként - és nem egyszerű szkennelt képként - kell rögzíteni a nyilvántartásba kötelezően bejegyzendő és a nyilvántartásba bejegyzendő technikai és egyéb adatokat. A szöveges adatrögzítéshez segítséget nyújt az elektronikus formanyomtatvány kötelező használata, mely természetesen nem tartalmi megkötést jelent a benyújtó számára, hanem az elektronikus feldolgozás és az adattovábbítás megkönnyítéséhez, illetve automatizálásához járul hozzá.
+
+A bíróságnak az adószám, illetve statisztikai számjel megállapításához szükséges adatokat a nyilvántartásba vételről szóló határozat jogerőre emelkedésének napján továbbítania kell az állami adóhatósághoz, illetve a Központi Statisztikai Hivatalhoz.
+
+Az 5. §-hoz
+
+Ez a § a nyilvántartási adatokhoz való hozzáférés illetve az azok között való keresés szabályait rendezi. Nyilvánosak a nyilvántartásba kötelezően bejegyzendő és a nyilvántartásba bejegyzendő technikai és egyéb adatok. A Hivatal biztosítja, hogy a honlapján keresztül bárki ingyenesen elérje, és az alapítvány neve, nyilvántartási száma, célja, valamint célja szerinti besorolás alapján keresést végezzen. Ezek azok az adatok, amelyek a legfontosabbak a mindennapi életben, így a jogkereső közönség, vagy bárki, aki adott alapítvány elérhetőségéről, legfontosabb adatairól tájékozódni szeretne, keresést indíthat a fenti adatokkal. Keresést a központi elektronikus szolgáltató rendszeren, valamint a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter által működtetett Civil Információs Portálon is lehet majd kezdeményezni a törvény szerint. A központi elektronikus szolgáltató rendszeren kezdeményezett keresés esetén az alapítvány nyilvános adatairól - illetékfizetés és költségtérítés nélkül - elektronikus másolat kérhető a keresést végző személy tárhelyére. Az elektronikus másolaton a központi elektronikus szolgáltató rendszer elektronikus aláírást helyez el.
+
+Fontos azonban, hogy meghatározott szervezetek - közfeladataik teljesítése érdekében - a teljes adatbázishoz korlátozás nélkül, ingyenesen hozzáférjenek, ezért a Hivatal biztosítja, hogy a Nyilvántartás valamennyi adatához - az adatvédelmi és eljárási jogszabályoknak megfelelő módon, közfeladataik ellátása céljából - a bíróság, az ügyészség, a nyomozó hatóság, az Adó- és Pénzügyi Ellenőrzési Hivatal, a rendőrség, a Magyar Államkincstár, az Állami Számvevőszék, Kormányzati Ellenőrzési Hivatal, a Vám- és Pénzügyőrség, a Központi Statisztikai Hivatal, a Magyar Országos Közjegyzői Kamara, az önálló bírósági végrehajtók, gazdasági és szakmai kamrák, a felszámolók, a Nemzetbiztonsági Szakszolgálat, a központi elektronikus szolgáltató rendszer (annak adatkezelője), illetve valamennyi minisztérium költségtérítés nélkül hozzáférjen, és a szöveges adatként rögzített valamennyi adat között keresést végezzen.
+
+A 6. §-hoz
+
+E § a megszűnt alapítvány adatainak a nyilvántartásban való fenntartását rendezi. Kimondja, ha az alapítvány - külön jogszabály szerint - megszűnik, ezt a tényt a bíróság a Nyilvántartásban a megszűnés napjának dátumával együtt rögzíti. A megszűnt alapítvány adatai továbbra is a nyilvántartásban maradnak. Tekintettel arra, hogy a megszűnt alapítványnak, illetve az alapítvánnyal jogviszonyban állt személyeknek lehet „utóélete”, ezért elengedhetetlen, hogy az alapítvány megszűntét követően az adatai továbbra is megtekinthetők legyenek.
+
+-----STARTING---POINT---VEGE---
+
+A 7. §-hoz
+
+E § a törvény 2011. január 1. napján történő hatálybalépéséről rendelkezik.
+
+Ezzel együtt felhatalmazást kap az igazságügyért felelős miniszter, hogy az alapítvány nyilvántartásba vételi eljárásának bírósági ügyviteli szabályait, a nyilvántartásba vétel iránti kérelem részét képező formanyomtatványok tartalmi kellékeit és a formanyomtatvány közzétételének módját, a nyilvántartásba szükség szerint bejegyzendő egyéb adatokat, a valamint az alapítvány adatairól kért elektronikus kivonat tartalmát rendeletben szabályozza.
+
+A 8. §-hoz
+
+A törvény hatálybalépésétől számítottan két év áll rendelkezésre arra, hogy a törvényes képviselőnek természetes személyazonosító adatait bejelentsék. Ez a kötelezettség „szűrő” funkciót is megvalósít, hiszen ezáltal a Magyarországon működő alapítványok közül azok kerülnek bele az elektronikus nyilvántartásba, amelyek ténylegesen léteznek is, ez pedig lehetőséget biztosít az ügyészség számára, hogy a két év elteltét követően „ellenőrizze” az ezen idő alatt nem reagáló alapítványokat.
+
+A 9. §-hoz
+
+E § az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) módosítását tartalmazza, mely módosítás technikai jellegű, az Art. 16., 17. és 53. §-ának a kiegészítése.

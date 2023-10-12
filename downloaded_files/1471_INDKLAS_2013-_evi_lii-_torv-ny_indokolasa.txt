@@ -1,0 +1,401 @@
+2013. évi LII. törvény indokolása
+
+a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény és egyes kapcsolódó törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) hatálybalépése óta eltelt időszak gyakorlati tapasztalatai alapján szükségessé vált a törvény (és a kapcsolódó jogszabályok) felülvizsgálata és módosítása a hatékonyabb végrehajtás elősegítése és a gyakorlati problémák kiküszöbölése érdekében.
+
+Emellett az Európa Tanács Pénzmosás Elleni Bizottsága (a továbbiakban: Moneyval) 2010-ben elfogadott országjelentésében megfogalmazott ajánlások vonatkozásában az egyes elvégzendő feladatokról, felelősökről és határidőkről a Kormány akciótervet fogadott el a Moneyval országjelentésben megfogalmazott ajánlások végrehajtásáról készült akciótervről szóló 1303/2011. (IX. 2.) Korm. határozatában (a továbbiakban: Akcióterv), amelynek végrehajtása szintén esedékessé vált.
+
+Mindezek alapján jelen törvény célja a gyakorlati tapasztalatok alapján a Pmt. és kapcsolódó jogszabályok szükségessé vált módosításának, valamint az Akciótervben meghatározott és a Pmt. felülvizsgálatát igénylő feladatok végrehajtásának a biztosítása. A Pmt. teljes körű felülvizsgálatára (esetlegesen új törvény elfogadására) az EU új pénzmosás és terrorizmus finanszírozás elleni irányelvének (várhatóan 2013-ban történő) elfogadását követően kerülhet majd sor.
+
+Az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról, valamint ehhez kapcsolódóan egyes törvények módosításáról szóló 2007. évi CLXXX. törvény (a továbbiakban: Kit.) módosításának a célja (az Akciótervben megfogalmazott feladatok végrehajtásán túlmenően) az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedésekhez kapcsolódó megfelelő hazai végrehajtás biztosítása, különös tekintettel a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalmához kapcsolódó mentesítésre vonatkozó szabályok pontosítására.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+I. A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. Felülvizsgálatot igénylő feladatok” között a II/E/6. pontjában előírja a pénzügyi információs egységként működő hatóság (a továbbiakban: FIU) függetlenségének és autonómiájának megteremtése érdekében szükséges jogszabályi rendelkezések bevezetése lehetőségének áttekintését.
+
+A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII.9.) Korm. rendelet 2012. január 1-jétől hatályba lépő módosulása a függetlenség megvalósulása érdekében az alábbi szabályozást tartalmazza:
+
+„41. § (1) A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságként a Kormány a Központi Hivatal szervezetén belül működő Pénzmosás Elleni Információs Irodát jelöli ki.”
+
+E módosítás a pénzügyi információs egységet Pénzmosás Elleni Információs Iroda elnevezéssel, a NAV Központi Hivatalába emelte. Az új szervezeti elhelyezkedés következtében a pénzügyi Információs egység operatív és humánpolitikai függetlensége erősödött. Mindezek alapján a Pmt. keretei között is rögzíteni szükséges, hogy mely hatóság jár el a pénzügyi információs egység jogkörében, összhangban a 273/2010. (XII.9.) Korm. rendeletben meghatározottakkal.
+
+II. A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „I. Jogalkotással járó feladatok” között a I/B/2. pontjában előírja a tényleges tulajdonos törvényi meghatározásának (Pmt. 3. §) és a rá vonatkozó azonosítási követelményeknek (Pmt. 8. §) a felülvizsgálatát és módosítását a nemzetközi követelményekkel (az FATF ajánlásaival és az EU pénzmosás elleni irányelvével) való teljes összhang megteremtése érdekében. A Moneyval országjelentés ajánlásai a tényleges tulajdonos törvényi meghatározása felülvizsgálatát és pontosítását javasolták annak egyértelművé tétele érdekében, hogy a definíció a közvetlen és a közvetett tulajdonlásra, valamint a vezető tisztségviselőkre egyaránt kiterjed. A tényleges tulajdonosra vonatkozó azonosítási követelmények kapcsán pedig arra tettek javaslatot, hogy a tényleges tulajdonos azonosítása során rögzítendő adatkör kerüljön összhangba az ügyfél azonosítása során rögzítendő (minimum) adatkörrel.
+
+A nemzetközi követelményekkel való teljes összhang megteremtésén túlmenően a Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján is szükségessé vált a tényleges tulajdonos azonosítására és személyazonosságának igazoló ellenőrzésére irányuló eljárás felülvizsgálata és módosítása.
+
+A fentiek alapján a törvény kiegészíti a Pmt. 3. §-ában az értelmező rendelkezések között meghatározott tényleges tulajdonos fogalom első fordulatát a közvetlen és a közvetett tulajdonlásra utalással. Ezáltal egyértelművé válik a Pmt. hatálya alá tartozó szolgáltatók számára, hogy tényleges tulajdonos az a természetes személy is, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben közvetve rendelkezik a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával. A törvény kiterjeszti továbbá a tényleges tulajdonos fogalmát a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselőjére: amennyiben a tulajdoni hányad vagy a meghatározó befolyás alapján tényleges tulajdonos nem állapítható meg, a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője minősül tényleges tulajdonosnak.
+
+III. A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „I. Jogalkotással járó feladatok” között az I/B/8. pontban előírja, hogy az ingatlanügylettel kapcsolatos tevékenységet folytató szolgáltatók tekintetében jogszabályi rendelkezések bevezetése szükséges annak egyértelművé tétele érdekében, hogy az ügyfél-átvilágítási intézkedéseket az ingatlan eladójára és vevőjére egyaránt alkalmazni kell.
+
+A törvény (a nemzetközi követelményeknek való megfelelés érdekében, valamint a gyakorlati tapasztalatok alapján) az értelmező rendelkezések vonatkozó részeit módosítja.
+
+A törvény az ingatlanügylettel kapcsolatos tevékenységet folytató szolgáltatók vonatkozásában új ügyfél és üzleti kapcsolat fogalmat vezet be. E módosítások következtében végrehajtásra kerülnek az Akciótervben megfogalmazott ajánlások, illetve pontosításra kerül, hogy az ingatlanügylettel kapcsolatos tevékenység körében nyújtott szolgáltatás üzleti kapcsolatot feltételez.
+
+A Pmt. 1. § i) pontjának legutóbbi módosítása a törvény hatályát kiterjesztette a kártyatermekre is, a törvény technikai módosításként ezt átvezeti az üzleti kapcsolat szerencsejáték szolgáltatókra vonatkozó fogalmán.
+
+A törvény a gyakorlati tapasztalatok alapján általánosan egyszerűsíti az ügyfél fogalmát. Az ügyfél és az üzleti kapcsolat fogalmánál az írásbeli szerződés meghatározása nem indokolt, tekintettel arra, hogy a szerződés létrejöttéhez írásbeliség nem szükséges. A gyakorlati tapasztalatok (elsősorban a könyvviteli szolgáltatóknál, de előfordulhat egyéb nem pénzügyi szolgáltatást végző szolgáltatók esetében is) azt mutatják, hogy a szolgáltató nem minden esetben köt írásbeli szerződést az ügyfelével a szolgáltatás végzésére, kikerülve ezzel az ügyfél-átvilágítási kötelezettség teljesítését. A törvény kizárja az ügyfél-átvilágítási kötelezettség kikerülésének a fentiekben ismertetett formáját.
+
+IV. A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „I. Jogalkotással járó feladatok” között a I/B/3. pontjában egyértelmű jogszabályi előírások bevezetését írja elő arra vonatkozóan, hogy a bejelentési kötelezettség (Pmt. 23. §) a következő esetkörökre is vonatkozik: ha a szolgáltató valamely okból nem tudja végrehajtani az ügyfél-átvilágítási intézkedéseket; az alapbűncselekmények (ideértve az adózáshoz köthető bűncselekmények) bejelentésére; továbbá a megkísérelt (de nem teljesült) ügyletek bejelentésére. A Moneyval országjelentés ajánlásai annak egyértelmű előírását javasolták a szolgáltatók számára, hogy fontolják meg bejelentés megtételét azon esetben is, amikor valamely okból nem tudják végrehajtani az ügyfél-átvilágítási intézkedéseket. Az ajánlások jelzik továbbá, hogy nincs egyértelmű rendelkezés a Pmt.-ben arra vonatkozóan, hogy a bejelentési kötelezettség a pénzmosás alapbűncselekményeire is vonatkozik. A Moneyval vizsgálók ezen kérdéskör jogszabályban történő rendezése (egyértelművé tétele) érdekében az alapbűncselekményekre vonatkozó bejelentési kötelezettség kifejezett előírását vagy a pénzmosás és a terrorizmus finanszírozása büntetőjogi tényállására történő utalás elhelyezését javasolták a Pmt.-ben. Ezen túlmenően annak egyértelművé tételét javasolták, hogy a bejelentési kötelezettség a megkísérelt (de nem teljesült) ügyletek bejelentésére is kiterjed.
+
+A fentiek alapján a törvény kiegészíti a Pmt. 3. §-ában meghatározott értelmező rendelkezéseket a „pénzmosás” és a „terrorizmus finanszírozása” fogalmával, amely meghatározásokban megtörténik (a Moneyval ajánlásának megfelelően) a büntetőjogi tényállásokra történő utalás. Ezáltal egyértelművé válik, hogy a Pmt.-ben „pénzmosás” alatt a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 303-303/A., 399-400. §-aiban meghatározott elkövetési magatartások, „terrorizmus finanszírozása” alatt pedig a Btk. 261. § (1)-(2) bekezdés szerinti bűncselekmény elkövetéséhez szükséges anyagi eszköz szolgáltatása vagy gyűjtése valamint a 318. §-ában meghatározott elkövetési magatartások értendők.
+
+A törvény meghatározza továbbá a külföldi pénzügyi információs egységként működő hatóság fogalmát a Pmt. új 26/A. §-ára tekintettel (amely a pénzügyi információs egységként működő hatóság külföldi pénzügyi információs egység részére történő adattovábbításáról rendelkezik). A törvény alapján az a hatóság minősül külföldi pénzügyi információs egységnek, amely a pénzügyi információs egységként működő hatósággal azonos vagy hasonló feladatokat lát el. A törvény hivatkozik továbbá az FATF és az Egmont Csoport követelményeire, amely követelmények figyelembe veendőek annak megállapítása során, hogy a külföldi hatóság a pénzügyi információs egységként működő hatósággal azonos vagy hasonló feladatokat lát-e el. (Bár sem az FATF, sem az Egmont Csoport nem minősül nemzetközi szervnek vagy szervezetnek, jogi normában rájuk való hivatkozás nem példa nélküli. Így a Varsói egyezmény 13. cikk 1. bekezdése is hivatkozik az FATF-re.)
+
+A 2. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „I. Jogalkotással járó feladatok” között az I/B/6. pontban előírja, hogy szükséges a kiemelt közszereplő törvényi meghatározásának (Pmt. 4. §) felülvizsgálata és módosítása a nemzetközi követelményekkel (az FATF ajánlásaival és az EU pénzmosás elleni irányelvével) való teljes összhang megteremtése érdekében.
+
+Jelen szabályozás szerint a kiemelt közszereplő definíciója a külföldi lakóhellyel rendelkező fontos közfeladatot ellátó, illetve az ügyfél-átvilágítási intézkedések elvégzését megelőző egy évben fontos közfeladatot ellátott természetes személyeket fedi le. A Pmt.-ben meghatározott szabályozás összhangban van a 3. pénzmosás és terrorizmus finanszírozás elleni irányelv rendelkezéseivel, amely a más tagállamban vagy harmadik országban lakóhellyel rendelkező, fontos közfeladatot ellátó természetes személyeket tekinti politikai közszereplőnek. A nemzetközi standardok szerint azon természetes személyekre terjed ki a szabályozás, akik más tagállamban, vagy 3. országban látnak el fontos közfeladatot, függetlenül az állandó lakóhelytől, tehát a vizsgálók hiányosságként megállapítják, hogy a magyar szabályozás kizárja a magyarországi lakóhellyel rendelkező külföldön fontos közfeladatot ellátó személyek körét.
+
+A fentiek alapján elkészített „felülvizsgálati dokumentum” megállapításait alapul véve indokolt lenne a törvény hatályának kiterjesztése a hazai kiemelt közszereplőkre is.
+
+Mérlegelve azonban azt a tényt, hogy az ügyfél-azonosítás során rögzítendő adatkör bővítése - így a kiemelt közszereplőkre vonatkozó adatrögzítés is - a korábbi szabályok alapján azonosított, már meglévő ügyfélkör (azon ügyfelek, amelyekkel a szolgáltató e törvény hatálybalépését megelőzően létesített üzleti kapcsolatot) újraazonosítását eredményezné és ez indokolatlanul nagy terhet róna az érintett szolgáltatókra, a törvény hatályának a hazai közszereplőkre történő kiterjesztésére a Pmt. teljes körű felülvizsgálata során kerülhet majd sor (amely felülvizsgálat az EU új pénzmosás és terrorizmus finanszírozás elleni irányelvének elfogadását követően válik majd esedékessé).
+
+A törvény fenntartja a jelenleg hatályos szabályozást, ennek megfelelően a külföldi lakóhellyel rendelkező ügyfél vonatkozásában határoz meg követelményeket. Ennek következtében olyan kategóriák meghatározása indokolt, amely alapján könnyen beazonosítható, hogy az ügyfél saját országának joga szerint a törvény mely pontjának megfelelően minősül kiemelt közszereplőnek.
+
+A 3. §-hoz
+
+A pénzmosás és a terrorizmus finanszírozása megakadályozásához még a kis összegű készpénz-befizetések esetén is szükség van a tulajdonos személyazonosságának ellenőrzésére.
+
+Ennek érdekében a pénzintézeteknek és a biztosítóknak egyes jól meghatározott ügyletek esetében rögzíteniük kell a befizető személyek azonosításához szükséges minimum adatkört.
+
+A módosítás az ügyfelek (számlatulajdonosok) érdekeit is szolgálja azáltal, hogy pénzintézetük, biztosítójuk részükre tájékoztatást tud adni az ilyen befizetések eredetéről.
+
+A törvény az arányos szabályozás elvén állva pontosan körülhatárolja azt a termékkört és ügyleti megbízási eseteket, amely esetében a (2) bekezdés rendelkezései alkalmazandóak, így a Pmt. 1. § (1) bekezdés a) pontja szerinti szolgáltató a készpénzátutalás és fizetési számlára történő közvetlen - pénzforgalmi szolgáltató igénybevétele nélküli - készpénzbefizetés teljesítésekor, míg a Pmt. 1. § (1) bekezdés c) pontjában meghatározott tevékenységet végző szolgáltató a megtakarítási elemet nem tartalmazó, tisztán kockázati életbiztosítások kivételével a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén, ezek esetében is kizárólag a készpénzes befizetések esetén köteles a bekezdés szerinti tevékenységek elvégzésére.
+
+A Pmt. 6. § (2) bekezdésében foglalt rendelkezéseknek való megfelelést biztosító pontosítás szükségszerű, koherenciális következménye, hogy az magával vonja a Pmt. 6. § (1) bekezdés b) pontjának módosítását, ami a jogszabály szerinti cél érvényesüléséhez elengedhetetlen.
+
+Fontos kiemelni, hogy a 11/A. § új (2) bekezdésének rendelkezései nem vonatkoznak a „sárga csekken” történő készpénz-befizetésekre, így például a postán történő közüzemi-számlabefizetések esetén nem lesz szükség adatrögzítésre.
+
+A 4. §-hoz
+
+I. A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. Felülvizsgálatot igénylő feladatok” között a II/C/1. pontjában előírta a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezései és a Pmt. által előírt ügyfél-átvilágítási intézkedések összefüggéseinek, valamint a jogszabályi rendelkezések módosítása lehetőségének vizsgálatát. (Az 1992. évi LXIII. törvényt 2012. január 1-jétől felváltotta az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény.) A felülvizsgálat az ügyfél-azonosítás során rögzítendő adatok körét, az okmányok másolásának lehetővé tételét és a ténylegesen összefüggő, több ügyleti megbízás esetén az ügyfél-átvilágítás végrehajtását érintette.
+
+A fentiek alapján elkészített „felülvizsgálati dokumentum” megállapításait, valamint a Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatait alapul véve indokolt lenne az ügyfél-azonosítás során rögzítendő adatkör kibővítése a Pmt. 7. § (2)-(3) bekezdésében. A pénzügyi szolgáltatók a (felülvizsgálati dokumentumban javasolt) bővített adatkört elengedhetetlennek tartják az ügyfelek kétséget kizáró módon történő azonosításához (a jogszabályban meghatározott valamennyi esetben) és álláspontjuk szerint ezen adatkörrel a pénzmosási és a terrorizmus-finanszírozási kockázatok is megfelelő módon kezelhetőek lennének.
+
+Mérlegelve azonban azt a tényt, hogy az ügyfél-azonosítás során rögzítendő adatkör bővítése a korábbi szabályok alapján azonosított, már meglévő ügyfélkör (azon ügyfelek, amelyekkel a szolgáltató e törvény hatálybalépését megelőzően létesített üzleti kapcsolatot) újraazonosítását eredményezné és ez indokolatlanul nagy terhet róna az érintett szolgáltatókra, az adatkör kibővítését a Pmt. teljes körű felülvizsgálata során indokolt megvalósítani (amely felülvizsgálat az EU új pénzmosás és terrorizmus finanszírozás elleni irányelvének elfogadását követően válik majd esedékessé).
+
+A törvény pontosítja azonban a Pmt. 7. § (3) bekezdésében a kockázatérzékenységi alapon történő adatrögzítés feltételrendszerét annak egyértelművé tétele érdekében, hogy a kötelezően rögzítendő adatokon („minimum adatkör”) túlmenően további adatok („maximum adatkör”) rögzítésére nem a belső szabályzatban konkrétan meghatározott esetekben, hanem a belső szabályzatban rögzített eljárás eredménye alapján kerülhet sor. A törvény alapján ezen pontosítás a Pmt. 8-10. §-aiban is megtörténik.
+
+II. A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „I. Jogalkotással járó feladatok” között az I/B/4. pontjában egyértelmű jogszabályi előírás bevezetését írja elő arra vonatkozóan, hogy a szolgáltató a személyazonosság igazoló ellenőrzése során köteles legyen meggyőződni az ügyfél nevében eljáró személy képviseleti jogosultságáról.
+
+A fentiek alapján a törvény új bekezdéssel egészíti ki az ügyfél (valamint a meghatalmazott, a rendelkezésre jogosult, továbbá a képviselő) azonosítására és személyazonosságának igazoló ellenőrzésére vonatkozó rendelkezéseket a Pmt. 7. §-ában. Ezáltal egyértelműen megjelenik a Pmt. rendelkezései között, hogy a személyazonosság igazoló ellenőrzése során a Pmt. hatálya alá tartozó valamennyi szolgáltató köteles ellenőrizni a meghatalmazott esetében a meghatalmazás érvényességét, a rendelkezésre jogosult esetében annak jogcímét, továbbá a képviselő képviseleti jogosultságát [Pmt. 7. § (7) bekezdés].
+
+III. A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „I. Jogalkotással járó feladatok” között az I/B/5. pontjában előírja a kockázatalapú megközelítésre vonatkozó törvényi rendelkezések (Pmt. 7-9. §) módosítását annak érdekében, hogy a jelenleg előírt maximális ügyfél-azonosítási adatkörön felül további fokozott ügyfél-átvilágítási intézkedések megtétele is előírásra kerüljön a magasabb kockázatú ügyfelek, üzleti kapcsolatok vagy ügyleti megbízások esetére. A Moneyval országjelentésben megtett ajánlás a fokozott ügyfél-átvilágítási intézkedésre példaként az elektronikus nyilvántartásokban történő ellenőrzés vagy a fokozott és folyamatos figyelemmel kísérés lehetővé/kötelezővé tételét jelöli meg.
+
+A Pmt. 7-9. §-a alapján a szolgáltató az ügyfél-átvilágítási intézkedések terjedelmét kockázatérzékenységi alapon jogosult meghatározni: a Pmt. jelenleg minimum és maximum adatkört határoz meg és a szolgáltató az ügyfél-átvilágítás során a rögzítendő adatok számát az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján (a belső szabályzatban meghatározott esetek figyelembe vételével), a pénzmosás és a terrorizmus finanszírozásának kockázatát mérlegelve határozhatja meg.
+
+A Moneyval országjelentésben megfogalmazott ajánlás és az Akciótervben meghatározott feladat alapján a törvény a Pmt. jelenlegi rendszeréhez képest három további intézkedés típust határoz meg a magasabb kockázatú ügyfelek, üzleti kapcsolatok vagy ügyleti megbízások esetére (amelyek alkalmazását kockázatérzékenységi alapon a szolgáltató döntésére bízza): az ügyfél személyazonosságára vonatkozó adat nyilvántartásokban történő ellenőrzése (Pmt. 7. §); vezetői jóváhagyás az üzleti kapcsolat létesítéséhez, az ügyleti megbízás teljesítéséhez (Pmt. 9. §); az üzleti kapcsolat folyamatos figyelemmel kísérésének (monitoring) megerősített eljárásban történő végrehajtása (Pmt. 10. §).
+
+A fentiek alapján a törvény új (8) bekezdéssel egészíti ki a Pmt. 7. §-át, amely szerint az azonosítás és a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult kockázatérzékenységi alapon (azaz, ha erre az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján, a belső szabályzatban rögzített eljárás eredménye alapján, a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van) a személyazonosságra vonatkozó adat nyilvánosan hozzáférhető nyilvántartás vagy olyan nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
+
+Az Akcióterv II/C/1. pontjában meghatározott feladathoz kapcsolódóan elkészített „felülvizsgálati dokumentum” megállapításait, valamint a Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatait alapul véve indokolt volt a személyazonosság igazoló ellenőrzése érdekében bemutatott okiratokról a másolatkészítés lehetővé tételének vizsgálata (kockázatérzékenységi alapon). A pénzügyi szolgáltatók álláspontja szerint az azonosítási kötelezettség hatékonyabb teljesítése céljából, továbbá az adatok helyességének utólagos ellenőrizhetősége miatt lenne szükséges az okmány- illetve okiratmásolás jogi lehetőségének megteremtésére. A kérdéskör vizsgálatát és szakmai egyeztetését követően azonban megállapítható, hogy a személyazonosságot igazoló okiratok másolásának lehetővé (esetleg kötelezővé) tétele a Pmt.-ben adatvédelmi és adatbiztonsági okokból nem megvalósítható. A kérdéskör ismételt áttekintésére a Pmt. későbbi teljes körű felülvizsgálata során kerülhet majd sor.
+
+Az 5. §-hoz
+
+Az Akcióterv I/B/2. pontjában meghatározott feladathoz kapcsolódóan a Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján a törvény (kis mértékben) módosítja a tényleges tulajdonos azonosítására és személyazonossága igazoló ellenőrzésére vonatkozó eljárást a Pmt. 8. §-ában.
+
+A törvény fenntartja a tényleges tulajdonosra vonatkozóan az ügyfél írásbeli nyilatkozat megtételére vonatkozó kötelezettségét. A törvény (a nemzetközi követelményeknek való megfelelés érdekében, valamint a gyakorlati tapasztalatok alapján) eltérő szabályokat határoz meg azonban a természetes személy ügyfelek, valamint a jogi személy vagy jogi személyiséggel nem rendelkező szervezetek vonatkozásában. A természetes személy ügyfél köteles a szolgáltató részére írásbeli nyilatkozatot tenni arra vonatkozóan, hogy a saját, vagy a tényleges tulajdonos nevében vagy érdekében jár-e el és ha igen, akkor az írásbeli nyilatkozatának a tényleges tulajdonos következő adatait kell tartalmaznia: név, lakcím, állampolgárság („minimum” adatkör). A jogi személy vagy jogi személyiséggel nem rendelkező szervezet képviselője minden esetben köteles a jogi személy vagy jogi személyiséggel nem rendelkező szervezet tényleges tulajdonosának ezen adatait az írásbeli nyilatkozatban megadni. A szolgáltató ezen túlmenően kockázatérzékenységi alapon dönthet a további adatok rögzítéséről és az elkérhető adatkört („maximum” adatkör) a törvény itt is pontosan meghatározza: az azonosító okmány típusa és száma, külföldi természetes személy esetében a magyarországi tartózkodási hely, születési hely, idő, valamint anyja neve. A szolgáltató ezen túlmenően az ügyféltől az arra vonatkozó nyilatkozat megtételét is kérheti, hogy a tényleges tulajdonosa kiemelt közszereplőnek minősül-e. A törvény változatlanul hagyja a Pmt.-nek az adatok ellenőrzésére irányuló jelenlegi eljárását (ismételt írásbeli nyilatkoztatás és nyilvántartásokban történő ellenőrzés). Az írásbeli nyilatkozat formáját és a nyilatkoztatás módját (a felügyeletet ellátó szervek útmutatásait, ajánlásait figyelembe véve) a szolgáltató határozhatja meg.
+
+A törvény ezen túlmenően (kiegészítő megoldásként) lehetővé teszi az ügyfél írásbeli nyilatkoztatásának mellőzését, amennyiben a szolgáltató az ügyfél átvilágítása során részére bemutatott okiratok, valamint a nyilvánosan hozzáférhető nyilvántartások vagy olyan nyilvántartások alapján, amelyeknek kezelőjétől törvény alapján adatigénylésre jogosult rögzíteni tudja a törvényben meghatározott adatkört. (Ezen esetben tehát az írásbeli nyilatkozat ügyfél általi megtételének kötelezettsége helyett a szolgáltató kötelezettségévé válik a tényleges tulajdonos azonosítása, az adatok rögzítése és a megfelelő intézkedések megtétele a személyazonosság igazoló ellenőrzésének elvégzése érdekében.)
+
+A 6-7. §-hoz
+
+I. A nemzetközi követelményekkel való teljes összhang megteremtése érdekében (az Akcióterv II/C/1. pontjában meghatározott feladathoz kapcsolódóan) a törvény kibővíti a Pmt. 9. § (2) bekezdésében az üzleti kapcsolatra és az ügyleti megbízásra vonatkozóan kockázatérzékenységi alapon rögzíthető adatkört („maximum” adatkör). A Pmt. 9. §-ának új (2) bekezdése alapján a szolgáltató kockázatérzékenységi alapon (ha erre az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján, a belső szabályzatban rögzített eljárás eredménye alapján, a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van) kérheti a pénzeszközök forrására vonatkozó információk rendelkezésre bocsátását.
+
+II. Az Akcióterv I/B/5. pontjában meghatározott feladathoz kapcsolódóan a törvény új intézkedés típusokkal egészíti ki a Pmt. 9-10. §-ában a kockázatalapú megközelítésre vonatkozó törvényi rendelkezéseket.
+
+A Pmt. 9. §-ának új (3) bekezdése alapján a szolgáltató kockázatérzékenységi alapon (ha erre az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján, a belső szabályzatban rögzített eljárás eredménye alapján, a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van) az üzleti kapcsolat létesítését, az ügyleti megbízás teljesítését a szolgáltató szervezeti és működési szabályzatában meghatározott vezetője jóváhagyásához kötheti.
+
+A Pmt. 10. §-ának új (1a) bekezdése alapján pedig a szolgáltató kockázatérzékenységi alapon (ha erre az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján, a belső szabályzatban rögzített eljárás eredménye alapján, a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van) az üzleti kapcsolat folyamatos figyelemmel kísérését (a belső szabályzatban meghatározott) megerősített eljárásban hajthatja végre (fokozott monitoring).
+
+III. A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. A felülvizsgálatot igénylő feladatok” között a II/C/6. pontban előírja a meghatározott nem pénzügyi szolgáltatók („DNFBP”-k) vonatkozásában (és a pénzügyi szolgáltatók vonatkozásában egyaránt) annak vizsgálatát, hogy szükséges-e jogszabályi rendelkezések bevezetése annak érdekében, hogy a szolgáltatók különös figyelmet fordítsanak valamennyi összetett és szokatlan tranzakcióra, valamint a szolgáltatók megállapításaikat foglalják írásba és azokat legalább 5 évig őrizzék meg.
+
+A törvény új (1b) bekezdése alapján a szolgáltató kockázatérzékenységi alapon (ha erre az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján, a belső szabályzatban rögzített eljárás eredménye alapján, a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van) köteles különös figyelmet fordítani valamennyi összetett és szokatlan ügyleti megbízásra. A belső szabályzat alapján meghatározott ezen ügyleti megbízásokra vonatkozó adatrögzítési és megőrzési időtartam a Pmt. 28. §-ában került meghatározásra.
+
+A törvény (Pmt. 28. §) egy általános rendelkezést határoz meg a szolgáltatók által vezetett nyilvántartásra vonatkozóan, hogy a szolgáltatók különös figyelmet fordítsanak valamennyi összetett és szokatlan tranzakcióra, azokat rögzítsék és legalább 5 évig őrizzék meg.
+
+A 8. §-hoz
+
+Az Akcióterv II/C/1. pontjában meghatározott feladathoz kapcsolódóan a Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján a törvény új 11/A. §-sal egészíti ki a Pmt. ügyfél-átvilágításra vonatkozó rendelkezéseit a ténylegesen összefüggő, több ügyleti megbízással kapcsolatos ügyfél-átvilágítási kötelezettség (amely európai uniós irányelvi követelmény) hatékony és az adatvédelmi szempontoknak is megfelelő végrehajtása érdekében.
+
+A Pmt. 6. § (2) bekezdése alapján az ügyfél-átvilágítási kötelezettség kiterjed az egymással ténylegesen összefüggő, több ügyleti megbízásra, ha ezek együttes értéke eléri a hárommillió-hatszázezer forintot. Ebben az esetben az átvilágítást azon ügyleti megbízás elfogadásakor kell végrehajtani, amellyel az ügyleti megbízások együttes értéke eléri a hárommillió-hatszázezer forintot.
+
+Ezen kötelezettség végrehajtása (és így az ezen ügyletekre vonatkozó adatok, információk megfelelő rögzítése) érdekében a törvény új rendelkezése alapján a háromszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor a szolgáltató az ügyfélre és az ügyleti megbízásra vonatkozóan a Pmt. 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott „minimum” adatkört rögzíti. (A szolgáltató azonban az adatok rögzítésén túlmenően nem köteles és jogosult a Pmt.-ben meghatározott további ügyfél-átvilágítási intézkedések elvégzésére.)
+
+A 9-10. §-hoz
+
+A Pmt. hatályba lépése óta eltelt időszak gyakorlati tapasztalatai alapján (az Akcióterv II/C/1. pontjában meghatározott feladathoz is kapcsolódóan) a törvény módosítja a Pmt. 12-13. §-ában az egyszerűsített ügyfél-átvilágításra vonatkozó eljárást, annak hatékony és az adatvédelmi szempontoknak is megfelelő végrehajtása érdekében.
+
+A Pmt. 12-13. §-ai alapján az ott felsorolt ügyfelek és ügyletek (üzleti kapcsolatok) esetében a szolgáltató egyszerűsített ügyfél-átvilágítást alkalmaz, azaz a Pmt.-ben meghatározott ügyfél-átvilágítási intézkedéseket csak pénzmosásra vagy a terrorizmus finanszírozására utaló tény, adat vagy körülmény felmerülése esetén végzi el. A Pmt. kimondja azonban, hogy az egyszerűsített ügyfél-átvilágítás esetében is szükséges az üzleti kapcsolat folyamatos figyelemmel kísérésének elvégzése.
+
+Az egyszerűsített ügyfél-átvilágítás hatékony végrehajtása és így az ügyfélre vonatkozó megfelelő adatkör rögzítése érdekében a Pmt. 12. §-ának módosított (1) bekezdése kimondja, hogy a szolgáltató az ügyfélre vonatkozóan a Pmt. 7. § (2) bekezdésében meghatározott „minimum” adatkört is köteles rögzíteni és a 7. § (4) bekezdésében foglaltaknak megfelelően a személyazonosság igazoló ellenőrzését elvégezni, azaz az ott meghatározott okiratok bemutatását megkövetelni, valamint a 7. § (7) bekezdése alapján a szolgáltató köteles ellenőrizni a meghatalmazás érvényességét, a rendelkezésre jogosult esetében a rendelkezési jog jogcímét, továbbá a képviselő képviseleti jogosultságát (az üzleti kapcsolat folyamatos figyelemmel kísérése mellett).
+
+Az ügyleti/üzleti kapcsolatra vonatkozó megfelelő adatkör rögzítése érdekében pedig a Pmt. 13. §-ának módosított (1) bekezdése alapján a szolgáltató köteles az ügyfélre vonatkozóan a Pmt. 7. § (2) bekezdésében meghatározott „minimum” adatkört rögzíteni és a 7. § (4) bekezdésében foglaltaknak megfelelően a személyazonosság igazoló ellenőrzését elvégezni, azaz az ott meghatározott okiratok bemutatását megkövetelni. Ezen túlmenően az ügyleti/üzleti kapcsolat vonatkozásában a szolgáltató köteles rögzíteni a Pmt. 9. § (1) bekezdésében meghatározott „minimum” adatkört is (az üzleti kapcsolat folyamatos figyelemmel kísérése mellett).
+
+A törvényben meghatározott ezen ügyfél-átvilágítási intézkedések lehetővé teszik, hogy a szolgáltató megalapozott döntést hozhasson az egyszerűsített ügyfél-átvilágítás alkalmazásáról. Amennyiben azonban a Pmt. rendelkezései alapján szükségessé válik az egyszerűsített ügyfél-átvilágítás alkalmazása, a szolgáltató nem köteles és jogosult a Pmt.-ben meghatározott további ügyfél-átvilágítási intézkedések (például a tényleges tulajdonos azonosítása stb.) elvégzésére.
+
+A 11. §-hoz
+
+A rendelkezés szerint a szabályozás - megtartva és követve a Pmt. szerkezetét és koherenciáját - valamennyi, a Pmt. 18. §-ában hivatkozott szolgáltatónál vezetett igazolt fizetési számla tekintetében alkalmazandó.
+
+Így az ügyfélszámlát vezető szolgáltató számára lehetőség nyílik arra, hogy az igazolt fizetési számlát vezető szolgáltatótól információt kérjen az ügyfél azonosító adatairól annak érdekében, hogy az ügyfélnek a számára megadott azonosító adatait az igazolt fizetési számla azonosító adataival összevethessék és az egyezőséget ellenőrizhessék.
+
+Pontosan meghatározza az igazolt számlát vezető pénzintézettel (szolgáltatóval) való kapcsolatfelvétel tartalmát, a válaszadási határidőt és (adatvédelmi megfontolások alapján) előírja azt is, hogy a megkeresett pénzintézet (szolgáltató) a kapott adatokat köteles megsemmisíteni, ha azok nem az ő ügyfelére vonatkoznak.
+
+A 12. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. A felülvizsgálatot igénylő feladatok” között a II/C/6. pontban előírja a meghatározott nem pénzügyi szolgáltatók („DNFBP”-k) vonatkozásában (és a pénzügyi szolgáltatók vonatkozásában egyaránt) annak vizsgálatát, hogy szükséges-e jogszabályi rendelkezések bevezetése a kiemelt közszereplőként azonosított ügyfelek és tényleges tulajdonosok vagyona eredetének feltárása, továbbá ezen ügyfelek fokozott és folyamatos figyelemmel kísérése érdekében.
+
+A törvény a Pmt. 16. §-ában a kiemelt közszereplőként azonosított ügyfelek vonatkozásában bevezeti a pénzeszköz eredetének feltárására vonatkozó kötelezettséget, összhangban az FATF ajánlásaival és a 3. pénzmosás és terrorizmus finanszírozása elleni irányelv rendelkezéseivel. Fenntartja a Pmt. jelenlegi rendszerét, amely szerint az ügyfél nyilatkozatában szükséges feltüntetni ezt az információt.
+
+A 13. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. A felülvizsgálatot igénylő feladatok” között a II/C/6. pontban előírja a meghatározott nem pénzügyi szolgáltatók („DNFBP”-k) vonatkozásában (és a pénzügyi szolgáltatók vonatkozásában egyaránt) annak vizsgálatát, hogy szükséges-e törvényi szabályozás a más szolgáltató által elvégzett ügyfél-átvilágítási intézkedések vonatkozásában annak érdekében, hogy a szolgáltató a harmadik féltől haladéktalanul megkapja a szükséges információkat;
+
+A törvény (a nemzetközi követelményeknek való megfelelés érdekében, valamint a gyakorlati tapasztalatok alapján) rendelkezik arról (a Pmt. 19. §-ában), hogy a szolgáltató a feltételek megléte esetén haladéktalanul köteles az ügyfél-átvilágítás eredményét rendelkezésre bocsátani.
+
+A 14. §-hoz
+
+I. Az Akcióterv I/B/3. pontjában meghatározott feladathoz kapcsolódóan a jelenleg is megfogalmazott rendelkezések egyértelművé tétele érdekében a törvény (kis mértékben) kiegészíti, módosítja a bejelentési kötelezettségre vonatkozó rendelkezéseket a Pmt. 23. §-ában (alapjaiban fenntartva a Pmt. jelenlegi bejelentési rendszerét).
+
+A törvény által bevezetett új (2) bekezdés egyértelművé teszi (a Moneyval ajánlásainak megfelelően), hogy a bejelentésre kötelezett [a Pmt. 1. § (2) bekezdés b) pontjában meghatározott] személyek a pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény felmerülését a végrehajtott vagy végrehajtandó ügyleti megbízások esetén túlmenően az ügyfél által kezdeményezett (de nem teljesült) ügyleti megbízások esetében is, valamint akkor is kötelesek vizsgálni, ha nem tudták végrehajtani az ügyfél-átvilágítási intézkedéseket [Pmt. 11. § (6)].
+
+II. Az Akcióterv II/E/3. pontjában és II/E/4. pontjában meghatározott feladatokhoz kapcsolódóan a Pmt. 23. § (6)-(8) bekezdésében meghatározott rendelkezések (amelyek a Pmt. hatálya alá tartozó meghatározott szolgáltatók, valamint az adóhatóság és vámhatóság adat és információ szolgáltatás iránti megkeresésére vonatkoznak) a törvény új 25/A. §-ába kerülnek beillesztésre. A törvény új 25/A. §-a átfogóan rendelkezik a pénzügyi információs egységként működő hatóság pénzügyi, hatósági vagy nyomozóhatósági információkhoz való hozzáféréséről.
+
+A 15. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. A felülvizsgálatot igénylő feladatok” között a II/E/2. pontban előírja az ügyleti megbízások hatósági jogkörben történő felfüggesztése FIU számára történő lehetővé tételének a felülvizsgálatát és a szolgáltatók által végzett felfüggesztés jogszabály által meghatározott időtartamának felülvizsgálatát annak meghosszabbítása érdekében (Pmt. 24. §), továbbá a jogszabály módosítását a nemzetközi követelményekkel (az FATF ajánlásaival és az EU pénzmosás elleni irányelvével) való teljes összhang megteremtése érdekében.
+
+A Pmt. szabályozza az Európa Tanács pénzmosásról, a bűncselekményekből származó jövedelmek felkutatásáról, lefoglalásáról és elkobzásáról, valamint a terrorizmus finanszírozásáról szóló Varsóban, 2005. május 16-án kelt Egyezmény (a továbbiakban Varsói egyezmény) 14. cikke alapján a tranzakció hatóság általi felfüggesztésének lehetőségét. A nemzetközi követelmények következtében, illetve a gyakorlati tapasztalatok alapján szükséges fenntartani a felfüggesztés szabályozását.
+
+A szolgáltatók általi felfüggesztés célja, hogy ideiglenes jelleggel az ügyletek végrehajtását megelőzzék, megakadályozzák, így a felfüggesztés az esetleges elkobzást, vagyonelkobzást megelőző átmeneti intézkedésként jelenik meg. A felfüggesztés intézménye lehetőséget biztosít az FIU részére, hogy a pénzmosás és terrorizmus finanszírozásra utaló adat, tény, körülményt ellenőrizze. A Moneyval vizsgálók megállapítják, hogy tekintettel a törvényi rendelkezésekre, illetve a kialakult gyakorlatra a szolgáltatók által végzett felfüggesztés (pénzeszközök befagyasztása) időtartama viszonylag rövid, azt meg kellene hosszabbítani, elsősorban a nemzetközi tranzakciókra vonatkozóan.
+
+A törvény egységesen szabályozza a pénzügyi információs egységként működő hatóság, illetve a szolgáltató általi felfüggesztés gyakorlatát a meghatározott időtartam vonatkozásában: a felfüggesztés időtartama belföldi ügyleti megbízás esetén a bejelentés megtételét követő 2 munkanap; nem belföldi megbízása esetén a bejelentés megtételét követően 4 munkanap. A törvény lehetővé teszi, hogy az FIU a felfüggesztés időtartamát további 3 munkanappal meghosszabbíthatja, amennyiben ez szükséges az adattovábbításhoz. Az FIU írásban tájékoztatja a szolgáltatót a felfüggesztés időtartamának meghosszabbításáról, és arról, hogy az ügyleti megbízás teljesíthető a felfüggesztés határidejének lejárta előtt, annak érdekében, hogy amennyiben büntetőeljárásról szóló 1998. évi XIX. törvény rendelkezései alapján nem történik kényszerintézkedés alkalmazása a felfüggesztés a lehető legrövidebb időtartamra korlátozódjék
+
+A törvény változatlanul hagyja a jelenlegi gyakorlatot a szolgáltatók részéről történő bejelentés küldési kötelezettség vonatkozásában. A pénzügyi információs egységként működő hatóság, ha valamely ügyleti megbízással kapcsolatban írásbeli üzenet útján pénzmosásra vagy a terrorizmus finanszírozására utaló adatot, tényt vagy körülményt hoz a szolgáltató tudomására, a szolgáltató köteles az ügyleti megbízást felfüggeszteni. Az FIU által kezdeményezett felfüggesztés elválik a bejelentési kötelezettségtől.
+
+A szolgáltatók számára a felügyeletet ellátó szerveknek szükséges javaslatokat kidolgozni arra vonatkozóan, hogy a felfedés tilalma biztosítása érdekében, milyen tájékoztatást adhatnak az ügyfeleknek, többek között a felfüggesztés időtartama alatt.
+
+A 16. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. Felülvizsgálatot igénylő feladatok” között a II/E/3. pontjában jogszabályi rendelkezések bevezetésének vizsgálatát írja elő annak érdekében, hogy az FIU közvetlenül (vagy ésszerű időkeretben közvetetten) valamennyi nyomozóhatósági adathoz (ideértve a titkos információgyűjtés keretében rögzített adatokat is) hozzáférjen. Ezen túlmenően az Akcióterv a II/E/4. pontjában határidők bevezetésének vizsgálatát mondja ki annak érdekében, hogy az FIU közvetett módon megfelelő időn belül hozzáférjen a feladata ellátásához (így a bejelentések elemzéséhez is) szükséges pénzügyi, hatósági vagy nyomozóhatósági adatokhoz.
+
+A fentiek alapján elkészített „felülvizsgálati dokumentum” megállapításait alapul véve a törvény új 25/A. §-a átfogóan rendelkezik az FIU pénzügyi, hatósági vagy nyomozóhatósági adatokhoz való hozzáféréséről és annak részletszabályairól.
+
+A törvény alapján az FIU a Pmt. hatálya alá tartozó valamennyi szolgáltató vonatkozásában jogosult megismerni a szolgáltató által kezelt adatot, továbbá a bank-, fizetési-, értékpapír-, biztosítási, pénztár- vagy foglalkoztatói nyugdíjtitkot és az üzleti titkot.
+
+A törvény fenntartja a Pmt. azon rendelkezését, amely szerint az FIU adótitkot, illetve vámtitkot képező adatot jogosult megismerni, új rendelkezésként azonban az FIU számára felhatalmazást ad a központi államigazgatási szerv, a bíróság és a Pmt. szerinti felügyeletet ellátó szerv által kezelt adat megismerésére. A törvény alapján az FIU jogosulttá válik továbbá ezen szervek megkeresésére és a megkeresett hatáskörébe tartozó eljárás lefolytatásának kezdeményezésére (azaz az eljárás lefolytatására vonatkozó javaslat megtételére).
+
+A Moneyval országjelentés és az Akcióterv hivatkozott előírásán túlmenően a pénzügyi rendszereknek a pénzmosás, valamint terrorizmus finanszírozása céljára való felhasználásának megelőzéséről szóló 2005/60/EK irányelv 21. cikkének (3) bekezdése is a tagállamok feladatává teszi, hogy biztosítsák az FIU számára azon nyomozóhatósági információkhoz való közvetlen vagy közvetett hozzáférést, amelyek a feladatainak megfelelő ellátásához szükségesek.
+
+A törvény az Akcióterv alapján elkészített „felülvizsgálati dokumentum” megállapításait alapul véve és az irányelvben előírtaknak való megfelelés érdekében megteremti az FIU számára azt a jogszabályi hátteret, amely biztosítja a nyomozó hatóságok bűnüldözési célú adatkezelési rendszereihez - beleértve a titkos információgyűjtés során keletkezett adatokat tartalmazó adatbázist is - való (közvetlen vagy közvetett) hozzáférési jogosultságot.
+
+Az FIU a Pmt. 26. § (1) bekezdése (információ-továbbítás) alapján eljárásokat kezdeményez, valamint folyamatban lévő titkos információgyűjtésekhez és büntetőeljárásokhoz is továbbít információkat. Ezekben az esetekben a továbbítások célja a nyomozó hatóságok által folytatott büntetőeljárások és titkos információgyűjtések eredményes lefolytatásának elősegítse. Az információ-továbbítás hatékonyságát jelentősen növeli, ha az FIU-nak tudomása van arról, hogy mely nyomozó hatóságnál van folyamatban olyan eljárás, amelyhez a rendelkezésére álló információk kapcsolódnak.
+
+A törvény rendelkezései alapján az FIU közvetlen hozzáféréssel adatot vehet át (ideértve a titkos információgyűjtés során keletkezett adatokat is) a Nemzeti Adó- és Vámhivatal, mint nyomozó hatóság adatbázisából.
+
+Más nyomozó hatóságok nyílt büntetőeljárás vagy titkos információgyűjtés során keletkezett adatait az FIU megkeresés útján jogosult megismerni.
+
+Az Akcióterv alapján elkészített „felülvizsgálati dokumentum” megállapításait és a gyakorlati tapasztalatokat alapul véve a NAV (FIU) kezdeményezésére indokolt volt (a NAV, mint nyomozó hatóság adatbázisán túlmenően) a más nyomozó hatóságok adatbázisaihoz történő közvetlen hozzáférés lehetővé tételének vizsgálata. Az FIU szakmai álláspontja szerint az általa végzett elemző-értékelő munka hatékonyságát nagymértékben növelné, ha meghatározott adatokat (a nyomozást folytató nyomozó szerv megnevezésére, az ügyszámra, a bűncselekmény megnevezésére, minősítésére, a tényállás rövid összefoglalására, az eljárásban résztvevő személyek adataira, valamint a nyomozás befejezésének módjára vonatkozó adatokat) közvetlen hozzáféréssel is átvehetne a nyomozó hatóságok adatbázisából. (Ezen esetben az adatigénylés technikai szabályai együttműködési megállapodásban lennének rögzíthetőek.)
+
+A kérdéskör vizsgálatát és szakmai egyeztetését követően azonban megállapítható, hogy a nyomozó hatóságok adatbázisaihoz történő közvetlen hozzáférés lehetővé tétele a Pmt.-ben adatvédelmi és egyéb szakmai okokból nem megvalósítható.
+
+A kérdéskör ismételt vizsgálatára a Pmt. későbbi teljes körű felülvizsgálata során kerülhet majd sor.
+
+A törvény biztosítja valamennyi nyomozó hatóság vezetője számára a mérlegelés lehetőségét: a nyomozó hatóság vezetője kivételesen az adatszolgáltatást megtagadhatja, illetve a közvetlen hozzáférést kizárhatja, amennyiben az adatszolgáltatás vagy közvetlen hozzáférés biztosítása a folyamatban lévő nyomozás vagy titkos információgyűjtés érdekeit sérti, vagy az adatátadás nemzetközi egyezménybe ütközik. A törvény rendelkezik továbbá arról, hogy a nyomozó hatóság vezetője az átadott adatnak más [az e törvény 26. § (1) bekezdésében nevesített] szerv vagy [a 26/A. § (1) bekezdésében megjelölt] külföldi pénzügyi információs egységként működő hatóság részére történő továbbítását megtilthatja, korlátozhatja, vagy előzetes hozzájárulásához kötheti.
+
+A Moneyval országjelentés a hatékonyság hiányaként értékeli azt a tényt, hogy az FIU a szolgáltató, a nyomozó hatóság vagy más hatóság felé irányuló közvetett adatszolgáltatás iránti megkeresésének teljesítése nincs meghatározott határidőhöz kötve. A felülvizsgálati dokumentum megállapításai alapján a határidőt annak figyelembe vételével kell törvényben meghatározni, hogy a megkeresés teljesítése alapján kapott adat még a Pmt. 24. § (1)-(2) bekezdéseiben meghatározott felfüggesztés időtartama alatt is feldolgozható legyen. Mindezek alapján a törvény kimondja, hogy valamennyi esetben az adat szolgáltatásának teljesítésére az FIU legalább nyolc, legfeljebb harminc napos határidőt állapíthat meg. A felfüggesztés időtartama alatt azonban az FIU - indokolt esetben - ennél rövidebb határidőt is meghatározhat.
+
+Az FIU a fentiek alapján tudomására jutott adatot, titkot csak a Pmt. 26. § (1) bekezdésében és a 26/A. § (1) bekezdésében meghatározott célokból, valamint a 26/B. § (1) bekezdésében meghatározott elemző-értékelő feladatának ellátása érdekében használhatja fel.
+
+A 17. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. A felülvizsgálatot igénylő feladatok” között a II/E/5 pontban előírja, hogy a továbbított információ minőségének a javítása céljából az FIU-nak az elemző-értékelő munkát fokoznia kell annak érdekében, hogy a hagyományosan pénzmosás alapcselekményének minősülő bűncselekményekkel, illetve a szervezett bűnözéssel összefüggő bűncselekményekkel és az ezekhez kapcsolódó pénzmosással kapcsolatos adattovábbítások számát növelje (Pmt. 26. §).
+
+A Kit. és a Pmt., valamit a pénzügyi információs egységként működő hatóság és a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv feladatainak összekapcsolódása szükségessé teszi a két szerv közötti adatátadás egyértelmű törvényi szintű rögzítését.
+
+A törvény alapján a pénzügyi információs egységként működő hatóság az adattovábbítási nyilvántartást az információ továbbításától számított 20 évig köteles megőrizni [az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 15. § (3) bekezdésének megfelelően].
+
+A törvény rögzíti, hogy a pénzügyi információs egységként működő hatóság önálló információ továbbítása mellett az arra jogosult hatóságok megkeresései alapján is továbbíthat információt.
+
+A törvény (Pmt. 26/A. §) szabályozza a pénzügyi információs egységként működő hatóság által a külföldi pénzügyi információs egységekkel folytatott információcserét és együttműködést, valamint az ennek során történő információ-továbbítást, kitérve a továbbított adatok felhasználási körére is.
+
+A törvény (Pmt. 26/B. §) meghatározza az elemző-értékelő tevékenység részletszabályait, különös tekintettel a nyomozóhatósági tevékenységtől történő egyértelmű elhatárolásra. A törvény meghatározza továbbá a pénzügyi információs egységként működő hatóság kiemelt feladatait.
+
+Ezzel párhuzamosan a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: NAV tv.) módosításáról rendelkező önálló előterjesztés módosítja a NAV tv. 13. § (7) bekezdését, amelyben rögzítésre kerül, hogy a NAV a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat nem nyomozóhatósági jogkörében eljárva látja el, tehát a pénzügyi információs egységként működő hatóság (FIU) nyomozó hatósági jogkört nem gyakorol.
+
+A 18. §-hoz
+
+Az Akcióterv II/E/5. pontjához kapcsolódóan, a felülvizsgálati dokumentum megállapításai alapján szükségessé vált a felfedés tilalmára és az az alóli kivételekre vonatkozó rendelkezések módosítása a Pmt. 27. §-ában annak érdekében, hogy a pénzügyi információs egységként működő hatóság elemző-értékelő tevékenysége során [a Pmt. új 25/A. § (3)-(4) bekezdése alapján] küldött hatósági megkeresése ne minősüljön a felfedés tilalma megsértésének, továbbá annak érdekében, hogy a felfedés tilalma a megkeresett hatóságra is vonatkozzon.
+
+A fentiek alapján a törvény rendelkezései szerint a felfedés tilalma (a bejelentő és a pénzügyi információs egységként működő hatóság mellett) kiterjed a pénzügyi információs egységként működő hatóság által adat és információ szolgáltatása érdekében megkeresett szolgáltatókra és szervekre (központi államigazgatási szerv, a Pmt. szerinti felügyeletet ellátó szerv) is a megkeresés kapcsán tudomásukra jutott információk vonatkozásában (amelyekről a megkeresett hatóságok nem adhatnak tájékoztatást az ügyfélnek, illetve harmadik személynek, szervezetnek).
+
+A felfedés tilalma azonban nem vonatkozik a Pmt. szerinti felügyeletet ellátó szervek bejelentő általi tájékoztatására, a pénzügyi információs egységként működő hatóság által (a 25/A. § alapján) megkeresett szolgáltatók és szervek tájékoztatására, valamint a 26. § (1) bekezdésében megjelölt hatóság számára történő információ továbbítására.
+
+A 19. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. Felülvizsgálatot igénylő feladatok” között a II/C/2. pontjában a törvényben előírt adatmegőrzési időtartamok érintett hatóságok általi (saját jogkörben történő) meghosszabbítása lehetővé tételének a vizsgálatát írja elő.
+
+A fentiek alapján elkészített „felülvizsgálati dokumentum” megállapításait alapul véve a törvény új 28/A. §-a rendelkezik a Pmt.-ben meghatározott adatmegőrzési időtartam hatósági megkeresésre történő meghosszabbításának a lehetővé tételéről és annak részletszabályairól.
+
+A törvény az adatrögzítési időtartam meghosszabbítására vonatkozó felhatalmazást a Pmt. (jelenlegi) nyilvántartásra vonatkozó rendelkezéseit (Pmt. 28. §) követően adja meg, meghatározva egyúttal a szükséges részletszabályokat (garanciákat) az alkotmányossági és adatvédelmi követelményekre tekintettel.
+
+A szolgáltató az illetékes (érintett) hatóság (a Pmt. alapján felügyeletet ellátó szervek, a pénzügyi információs egységként működő hatóság, a nyomozó hatóságok, az ügyészség és a bíróság) megkeresésére köteles a nyilvántartásában szereplő és a megkeresésben megjelölt adatokat, okiratokat a megkeresésben meghatározott időtartamra megőrizni (meghosszabbítva ezáltal a kötelező 8 éves adatmegőrzési időtartamot). A megkeresésben meghatározott időtartam ezen esetben sem haladhatja meg a 10 évet.
+
+A törvény alapján rögzítésre kerül továbbá, hogy a törvényi adatmegőrzési határidőnek a hatóság megkeresésére történő meghosszabbítására kizárólag abban az esetben van lehetőség, ha az érintett adatra, okiratra egy folyamatban lévő vagy a jövőben megindításra kerülő hatósági eljárás miatt van szükség, továbbá az adatok tárolására kizárólag az adott eljárás jogerős lezárásáig (de maximum 10 évig) van mód. (A folyamatban lévő eljárás jogerős lezárásáról és a megindítani tervezett eljárás meghiúsulásáról a hatóság a szolgáltatót haladéktalanul köteles értesíteni.)
+
+A törvény rendelkezései kiterjednek az FIU adatmegőrzési kötelezettségének határidejére, ami a szolgáltatók számára megállapítható maximum 10 éves határidőhöz igazodik.
+
+A 20. §-hoz
+
+A törvény a Pmt. 29. § (1)-(2) bekezdésében rögzíti a nyilvántartáshoz (statisztikához) adatokkal rendelkező hatóságok együttműködési kötelezettségét, valamint az adatok pontos körét. A Pmt. 29. § (3) bekezdése alapján pedig a nyomozó hatóság, a Legfőbb Ügyészség és a bíróság negyedévente köteles (az egyes vonatkozó pontokban meghatározott) adatokat a pénzügyi információs egységként működő hatóságnak továbbítani (teljesítve ezáltal a hatóságok rendszeres visszajelzési kötelezettséget is a pénzügyi információs egységként működő hatóság felé a Pmt. 26. § (1) bekezdése alapján továbbított információ felhasználásáról).
+
+A 21. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „I. Jogalkotással járó feladatok” között az I/B/1. pontban előírja, hogy jogszabályi előírás bevezetése szükséges arra nézve, hogy a Pmt. szerinti felügyeletet ellátó szervek által kiadott mintaszabályzatok rendszeres időközönként történő felülvizsgálata és szükség szerinti módosítása megtörténjen
+
+A törvény (Pmt. 33. §) [(3a) bekezdése] általános rendelkezést tartalmaz a mintaszabályzatok felülvizsgálatára és esetleges módosítására. A törvény megállapítja, hogy a mintaszabályzatokat kétévente felül kell vizsgálni és szükség esetén módosítani. A törvény [(3b) bekezdése] alapján a törvény egyes releváns módosításait követően szükséges módosítani a mintaszabályzatokat a pénzügyi információs egységként működő hatóság, illetve a miniszter egyetértésével, annak érdekében, hogy annak rendelkezései megfeleljenek a törvény előírásainak.
+
+A törvény [(3c) bekezdése] a szolgáltatók részére kötelezettségként határozza meg a belső szabályzatok felülvizsgálatát és szükség szerinti módosítását.
+
+A további szükséges rendelkezések a Pmt. 45. §-ában változatlanok maradnak, a felügyeletet ellátó szervek a hatálybalépéstől számított 45 napon belül bocsátják rendelkezésre mintaszabályaikat.
+
+A 22. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások alapján az Akcióterv a „II. Felülvizsgálatot igénylő feladatok” között a II/A/4. pontjában a következő feladat ellátására kéri fel a Pénzügyi Szervezetek Állami Felügyeletének (továbbiakban: a PSZÁF) elnökét:
+
+„A pénzmosás és a terrorizmus finanszírozás megelőzését és megakadályozását célzó jogszabályok rendelkezéseinek megsértése esetén alkalmazandó intézkedések szélesebb körben történő alkalmazása a pénzügyi szolgáltatók vonatkozásában (ideértve a magasabb összegű bírságokat és az engedélyek visszavonását).”
+
+Az országvizsgálat megállapításai szerint a PSZÁF megfelelő szankciórendszerrel rendelkezik, azonban ajánlásai között meghatározza, hogy szükséges a felügyeleti tevékenység felülvizsgálata és hatékonyságának növelése a jogszabályokban meghatározott PSZÁF által alkalmazható intézkedések szélesebb körben történő alkalmazása által.
+
+Az akciótervben meghatározott feladat végrehajtása egy felülvizsgálati és beszámoló készítési (nem jogszabály alkotási) kötelezettséget határoz meg. Mindez a főfelelősként megjelölt intézmény vezetésével összeállított olyan dokumentum elkészítését jelenti, amely az ajánlásban megjelenő probléma jelenlegi helyzetét, a problémára válaszként megjelenő hazai intézkedések, megoldási javaslatok jellegét, irányát, és várható hatásait vázolja fel. E beszámoló részét képezte a PSZÁF azon jogszabály módosítási javaslata, amely a magasabb összegű bírságok, a tevékenységi engedély visszavonása és további intézkedések Pmt.-ben történő meghatározását célozta. A PSZÁF, mint a Pmt. hatálya alá tartozó pénzügyi szolgáltatók - kivéve a pénzfeldolgozást végző szolgáltatók - felügyeletét ellátó szerv felügyeleti rendszerének felülvizsgálata következtében javasolta a maximum bírság összeg 500 millió forint és kétmilliárd forint közötti meghatározását. A PSZÁF álláspontja szerint az országjelentésben meghatározott ajánlás a PSZÁF által alkalmazandó intézkedések szélesebb körben történő alkalmazása vonatkozásában, a gyakorlatban a fenti módosítások bevezetésével valósítható meg. Megítélésük szerint akkor teljesülhet az arányosság követelménye, ha a pénzügyi szektor nagyobb tőkeerejű és így nagyobb teherbíró-képességű jogalanyai bírságolásának plafonja is magasabb.
+
+A PSZÁF a közigazgatási egyeztetés során fenntartotta a beszámolóban leírt javaslatait, amelynek következtében szükségessé vált e szakasz felülvizsgálata és pontosítása (a felügyeleti bírság összegek módosítása, a pénzügyi szolgáltatókra vonatkozó felügyeleti intézkedési eszközrendszer bővítése, illetve a nem pénzügyi szolgáltatók vonatkozásában a felügyeleti szempontrendszer pontos felsorolása stb.)
+
+A törvény a Pmt. hatálya alá tartozó szolgáltatók felügyeletét ellátó szervek által a Pmt. rendelkezéseinek megsértése, vagy az abban meghatározott kötelezettségek nem megfelelő teljesítése esetén kiszabható intézkedéseket és bírságot határozza meg.
+
+A törvény valamennyi felügyeletet ellátó szerv számára egységesen határozza meg a felügyeleti intézkedésekre vonatkozó (kibővített) eszközrendszert a felügyelet hatékonyságának növelése érdekében. Mindez tehát a nem pénzügyi szolgáltatók esetében is, kivéve a Pmt. hatálya alá tartozó kamarákat, mint a Pmt. szerinti felügyeletet ellátó szerveket, a felügyeleti eszközrendszer bővítését jelenti.
+
+A törvény (figyelembe véve a PSZÁF javaslatát és egyeztetve az MNB-vel) egységes (emelt) maximum bírságot határoz meg a PSZÁF és az MNB által felügyelt pénzügyi szolgáltatók vonatkozásában és emelt bírságot a nem pénzügyi szolgáltatók esetében.
+
+A felügyeleti bírság maximum összegének hasonló, de a szolgáltatók különbözőségére tekintettel nem azonos mértékű megemelése indokolt a nem pénzügyi szolgáltatók esetében is, ezért emelni kell a maximum kiszabható bírság összegét. A felügyelet során szerzett tapasztalatok alapján, a felügyeletet ellátó szervek javaslatára a hatékony és arányos bírságolás érdekében szükségessé vált továbbá a minimum bírság összeg csökkentése.
+
+A jelenleg hatályos Pmt. szerinti felügyeletet ellátó szervek nem rendelkeznek törvényben meghatározott szempontrendszerrel az intézkedések arányosított alkalmazása érdekében. (A PSZÁF esetében a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény (a továbbiakban: Psztv.), az MNB esetében a Magyar Nemzeti Bankról szóló 2011. évi CCVIII. törvény (a továbbiakban: MNB tv.) tartalmazza az intézkedések alkalmazásánál figyelembe veendő szempontrendszert.) Mindezekre tekintettel a törvény szempontrendszert határoz meg az arányos és hatékony bírságolási és intézkedési rendszer támogatása céljából.
+
+A törvény a kamarák, mint a Pmt. hatálya alá tartozó felügyeletet ellátó szervek részére szempontrendszert határoz meg az arányos és hatékony intézkedési rendszer támogatása céljából, amelyet az ágazati jogszabályokban rendelkezéseivel összhangban szükséges alkalmazni.
+
+A törvény nem tartalmazza a PSZÁF azon javaslatát, hogy a Pmt. rendelkezéseinek megsértése vagy kellő mértékű hiányossága esetén az általa felügyelt szervezet tevékenységi engedélyének visszavonására vonatkozó intézkedés kerüljön bevezetésre. A kérdéskör vizsgálatát és szakmai egyeztetését követően azonban megállapítható, hogy ezen javaslat számos egyéb koncepcionális és eljárási kérdést, illetve további jogszabály módosítást eredményezne, amelynek lehetséges hatásaival is számolni kell, így jelen kérdéskör kezelésére e felülvizsgálat keretei között nincs mód.
+
+A felügyeleti intézkedések és szankciórendszer tekintetében további vizsgálat szükséges a Pmt. hatályba lépése eltelt időszak felügyeleti tapasztalatainak, illetve a nemzetközi követelmények változásai következtében. A kérdéskör ismételt áttekintésére, a Pmt. és a Psztv. közötti koherencia megteremtésére a Pmt. teljes körű felülvizsgálata során kerülhet majd sor (amely felülvizsgálat az EU új pénzmosás és terrorizmus finanszírozás elleni irányelvének elfogadását követően válik majd esedékessé).
+
+A Kit., valamint a Kit. szerinti uniós jogi aktusoknak való megfelelés hatósági ellenőrzése részét képezi a Pmt. szerinti felügyeleti tevékenység ellátásának. A törvény új 35/B. §-a rögzíti, hogy a törvényben meghatározott felügyeletet ellátó szerv a felügyeleti tevékenységének gyakorlása során biztosítja a Kit. előírásainak való megfelelést is.
+
+A 23. §-hoz
+
+A törvény 23. §-a tartalmazza az ügyvédek esetében az egységes szabályzat, a mintaszabályzat és a belső szabályzat, valamint a közjegyzők esetében az iránymutatás felülvizsgálatára és szükség szerinti módosítására vonatkozó kötelezettséget (a törvény 19. §-ához hasonlóan). A törvény [(3a) bekezdése] megállapítja, hogy a Magyar Ügyvédi Kamara az általa kiadott egységes szabályzatot és mintaszabályzatot, valamint a Magyar Országos Közjegyzői Kamara az általa készített iránymutatást kétévente köteles felülvizsgálni és szükség esetén módosítani. A törvény [(3b) bekezdése] alapján a törvény egyes releváns módosításait követően is szükséges módosítani az egységes szabályzatot és mintaszabályzatot, valamint az iránymutatást annak érdekében, hogy annak rendelkezései megfeleljenek a törvény előírásainak. A törvény [(3c) bekezdése] ezen túlmenően az ügyvédi irodák részére is kötelezettségként határozza meg a szabályzatok felülvizsgálatát és szükség szerinti módosítását.
+
+A 24. §-hoz
+
+A törvény előírja, hogy a Pmt. hatálya alá szolgáltatók egy kellően hosszú átmeneti idő meghatározásával, 2014. december 31-ét követően kötelesek az ügyleti megbízásokat megtagadni, abban az esetben, ha a törvényben felsorolt követelmények együttesen érvényesülnek: az ügyféllel 2013. július 1. (a törvény hatályba lépése) előtt létesítettek üzleti kapcsolatot, az előírt ügyfél-átvilágítási kötelezettségeknek az ügyfél személyesen, vagy képviselő útján 2014. december 31-ig nem tett eleget, és a törvényben meghatározott ügyfél-átvilágítás eredményei 2014. december 31-én nem állnak teljes körűen rendelkezésére. A törvény rendelkezései alapján tehát a szolgáltató a meglévő ügyfélkör esetében 2014. december 31-ig köteles teljes körűen beszerezni a 7-10. §-ban meghatározott ügyfél-átvilágítás eredményeit. A szolgáltató saját belátása szerint döntheti el, hogy az adott követelmények teljesítésének 2014. december 31-ét megelőzően milyen módon tesz eleget.
+
+A 25-32. §-hoz
+
+A törvény 16. §-a (a Pmt. új 25/A. §-a) átfogóan rendelkezik az FIU pénzügyi, hatósági vagy nyomozóhatósági információkhoz való hozzáféréséről és annak részletszabályairól. Az adatszolgáltatási kötelezettségek teljesítése érdekében szükségessé válik egyes ágazati törvények titokvédelmi rendelkezéseinek módosítása.
+
+Módosuló jogszabályok: az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény; a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény; a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény; az adózás rendjéről szóló 2003. évi XCII. törvény; a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény; a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény; a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény; a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény.
+
+A törvény tartalmazza továbbá a határon átmenő készpénz ellenőrzéséről szóló törvény szankciórendszerrel történő kiegészítése kapcsán az irányadó eljárási rend NGM rendeletben történő megalkotására vonatkozó felhatalmazás beillesztését. A határon átmenő készpénz ellenőrzéséről szóló törvény egy új, 5/A. §-sal egészült ki, amely a törvényben megfogalmazott készpénz-bejelentési kötelezettség elmulasztása vagy nem valós adatokkal történő teljesítése esetén az alkalmazandó szankciót - megfelelve ezzel a területet érintő Uniós elvárásoknak, és várhatóan megfelelő preventív erőt képviselve - az érintett készpénzösszeg bizonyos százalékában határozza meg. Ez az eljáró hatóság tekintetében esetenként nagy mennyiségű valuta kezelését eredményezi, amelyre vonatkozóan szükséges az irányadó szabályok részletes megalkotása. Az eljárási rendet lefektető NGM rendelet megalkotására való felhatalmazás tekintetében szükséges a törvény módosítása.
+
+A 33. §-hoz
+
+A Moneyval országjelentésben megfogalmazott ajánlások és ehhez kapcsolódóan az Akciótervben megfogalmazott feladatok végrehajtása, valamint a törvény hatálybalépése óta eltelt tapasztalatok alapján az előterjesztés módosítja a Kit. bizonyos rendelkezéseit. A módosítás fő eleme a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalmához kapcsolódó mentesítési eljárás lefolytatására bevezetett, külön, nem a bírósági eljáráshoz kapcsolódó hatósági eljárás.
+
+A törvény a koherens fogalomhasználat érdekében értelmező rendelkezésben határozza meg az uniós jogi aktus, a mentesítés, a pénzügyi és vagyoni korlátozó intézkedés, és az ebből fakadó részfogalmak, azaz a vagyoni, illetve a pénzügyi korlátozó intézkedés, az intézkedés alanya és a vagyoni nyilvántartás fogalmait. A törvény a korábbi fogalomrendszer változatlanul hagyása mellett pontosító kiegészítéseket tesz az értelmező rendelkezésekhez, amely a törvény egyéb módosuló szakaszai értelmezésében segítséget jelenthet a jogalkalmazók számára. A módosítás a pénzügyi és vagyoni korlátozó intézkedés fogalmának kettéválasztásával egyértelmű különbséget tesz a vagyon befagyasztásával és a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásával járó korlátozás között. A megkülönböztetés fontos az alapjogi korlátozás mértéke szempontjából, illetve ez alapján a különböző típusú kapcsolódó eljárásra tekintettel (hatósági, illetve bírósági).
+
+A módosítás szintén pontosítja a pénzeszközök átutalására vonatkozó korlátozó intézkedés fogalmát a pénzügyi és vagyoni korlátozó intézkedés fogalmától történő elhatárolás érdekében. A Kit. szerinti pénzeszközök átutalására vonatkozó korlátozó intézkedés a jelenlegi szankciós rendeletek közül egyedül az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló 2012. március 23-i 267/2012/EU tanácsi rendelet V. Fejezetében jelenik meg.
+
+A 34-37. §-hoz
+
+A pénzügyi és vagyoni korlátozó intézkedés végrehajtásában egyértelműsítésre kerül, hogy a 3-5. §-ban foglalt eljárás, valamint a 6. §-ban rögzített mentesítési eljárás a vagyon befagyasztásával kapcsolatos intézkedésekre és eljárásokra vonatkozik. A törvény külön eljárásban szabályozza a pénzeszközök és gazdasági erőforrások uniós jogi aktus által elrendelt befagyasztására vonatkozó, valamint a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalmával kapcsolatos eljárásokat. A megkülönböztetés egyértelművé tétele indokolja a korábbi szabályozás utaló rendelkezésekkel történő pontosítását és ennek következetes végigvezetését az eljárás egyes fázisaihoz kapcsolódó szabályozásban.
+
+A 38. §-hoz
+
+A törvény a - pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban rögzített feltételek alapján kötelező - mentesítési eljárások vonatkozásában egy új 6/A. § beiktatásával rögzíti, hogy a befagyasztott vagyonból történő kifizetésektől eltérően, a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalmához kapcsolódó mentesítési eljárás lefolytatására külön, nem a bírósági eljáráshoz kapcsolódó eljárásban kerül sor. A gyakorlati tapasztalat megmutatta, hogy a törvény korábbi rendelkezései nem voltak egyértelműen alkalmazhatóak azon esetekre, ahol a mentesítés iránti kérelem nem a bíróság 4. § (1) bekezdése szerinti határozatának felülvizsgálatára irányul, hanem a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalma alóli mentesítéshez kapcsolódik.
+
+A módosítás új eljárást vezet be a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalma alóli mentesítésre. A tilalom az uniós jogi aktusokból eredően általános és nem igényel külön engedélyezési eljárást. Hatósági döntést kizárólag az általános tilalom alóli mentesítés igényel a szolgáltató, adott esetben az egyének vagy szervezetek részéről.
+
+Az eljárásban a foganatosításért felelős szerv a mentesítés megadásáról vagy elutasításáról, a közvetlenül vagy megkereséssel közvetetten begyűjtött információk alapján, 30 napon belül mérlegelési jogkörében dönt. A foganatosításért felelős szerv a vizsgálat lefolytatásakor vizsgálja az uniós jogi aktusban rögzített feltételek teljesülését. A foganatosításáért felelős szerv mentesítési eljárására, a törvényben meghatározott eltérésekkel, a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+
+Tekintettel arra, hogy a korlátozó intézkedések végrehajtása szükségszerűen együtt jár adatkezelési tevékenységgel, a törvény a foganatosításért felelős szervet felhatalmazza arra, hogy meghatározott adatkörre vonatkozóan, a törvényben meghatározott célhoz kötötten az abban meghatározott feltételek szerint adatokat kezeljen, ami összhangban van a vonatkozó uniós jogi aktusok követelményeivel. A foganatosításért felelős szerv jogosult kezelni az intézkedés alanyának azon adatait, amely az általa lefolytatott vizsgálat során a tudomására jut, beleértve a szükségszerűen ellenőrzött személyes adatokat is. A foganatosításért felelős szerv az általa kezelt adatokat a bejelentés, értesítés, engedélyezés iránti kérelem beérkezését követő 5 év után köteles törölni.
+
+A foganatosításért felelős szerv a döntésének megalapozása érdekében szolgáltatót, vagyoni nyilvántartást vezető szervet, illetve engedélyezési eljárás esetén a pénzátutalást kezdeményező vagy kedvezményezettként átvilágított ügyfelet kereshet meg. Átvilágítás alatt a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt ügyfél átvilágítási eljárásokat kell érteni. A foganatosításért felelős szerv a törvény alapján végzett vizsgálatai során közigazgatási hatóságot, nyomozó hatóságot, nemzetbiztonsági szolgálatot, ügyészt kereshet meg, meg kell azonban jelölnie a megkeresés pontos célját.
+
+A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet 41. § (2) és (3) bekezdése a Pénzmosás Elleni Információs Irodát (NAV KH PEII) jelölte ki a pénzügyi és vagyoni korlátozó intézkedések és a pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szervként.
+
+A Kit. 2011-es módosításakor az a döntés született, hogy az pénzügyi információs egységhez kerül a pénzeszközök átutalására vonatkozó korlátozó intézkedés végrehajtása. Szintén új feladatként jelenik meg az NAV KH PEII-nél a mostani módosítás kapcsán a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásával kapcsolatos mentesítési eljárás lefolytatása, amely eddig nem különült el a bírósági végrehajtásról szóló 1994. évi LIII. törvény alapján történő befagyasztástól.
+
+A 39. §-hoz
+
+A törvény külön eljárásban szabályozza a pénzeszközök és gazdasági erőforrások uniós jogi aktus által elrendelt befagyasztására vonatkozó, valamint a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalmával kapcsolatos eljárásokat. A megkülönböztetés egyértelművé tétele indokolja az adatkezelésre és megkeresésre vonatkozó korábbi szabályozás pontosítását is.
+
+A 40. §-hoz
+
+A rendelkezés a különböző típusú eljárásokhoz kapcsolódóan egységesíti a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításért felelős szerv azon jogát, hogy illetékes külföldi hatóságot is megkereshet eljárásában.
+
+A 41. §-hoz
+
+A pénzügyi és vagyoni korlátozó intézkedés fogalmának kettéválása, valamint a törvény 3. §-nak módosítása miatt pontosításra kerül a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv adatigénylésére, valamint a személyiadat- és lakcímnyilvántartást kezelő szerv eljárására vonatkozó rendelkezés is.
+
+A Pmt. és a Kit. közötti összhang megteremtése, valamint a hatékony hatósági eljárás biztosítása érdekében a törvény megteremti a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szervnek a pénzügyi információs egységként működő hatóságtól történő adatigénylésének az egyértelmű jogalapját, valamint rögzíti, hogy a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv a pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény felmerülése esetén bejelentést tesz a pénzügyi a pénzügyi információs egységnek.
+
+A törvény a szervek elnevezésének pontosítása mellett adatvédelmi okokból rögzíti a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv törvény alapján tudomására jutott adat, okirat megőrizésének végső határidejét.
+
+A 42. §-hoz
+
+A gyakorlati tapasztalatok alapján és a nemzetközi követelmények fényében a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv számára rendelkezésre álló idő a 10. § szerinti bejelentés megvizsgálására a szükséges ellenőrzésekre tekintettel rövidnek bizonyult. A két törvény közötti összhang megteremtése érdekében a szakaszt ezen kívül szükséges összhangba hozni a Pmt. felfüggesztésre vonatkozó szabályaival.
+
+A 43. §-hoz
+
+A Kit. 11. § (1) bekezdésének módosítását a 6/A. § rendelkezéseihez történő igazítás teszi szükségessé.
+
+A 44. §-hoz
+
+A törvény pontosítja a külföldi hatóság megkeresésére vonatkozó rendelkezéseket.
+
+A 45. §-hoz
+
+Az utolsó módosítás óta eltel változások figyelembevételével a jogharmonizációs követelményeknek megfelelően módosításra és hatályosításra a Kit. jogharmonizációs záradéka.
+
+A 46. §-hoz
+
+Tekintettel arra, hogy a törvény egyértelműsíti a pénzeszközök és gazdasági erőforrások uniós jogi aktus által elrendelt befagyasztására vonatkozó, valamint a pénzeszköz vagy gazdasági forrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalmával kapcsolatos eljárások elválasztását, valamint ehhez kapcsolódóan a hatóságok, szolgáltatók és nyilvántartást vezető szervek kötelezettségeit, a 3. és 10. §-ban rögzített korábbi eljárások egyszerűsödnek. Erre tekintettel a törvény tartalmazza a Kit. 3. § (1) és (2) bekezdésének, valamint a Kit. 10. § (2) bekezdésének hatályon kívül helyezését.
+
+A korábban a Kit. 14. §-ában rögzített felügyeleti tevékenység egységesen kerül szabályozásra a Kit. szerinti valamennyi eljárás tekintetében. Az új szabályozást a Pmt. felügyeletre és intézkedésekre vonatkozó része tartalmazza a Kit.-re történő kereszthivatkozással. A Kit. 14. §-a. hatályát veszti.
+
+A 47-48. §-hoz
+
+Szükségessé vált a Psztv. 4. § (1) bekezdésének m) pontjának hatályon kívül helyezése és egy új 4. § (3) bekezdés meghatározása, mert a 4. § (1) bekezdésének m) pontjában meghatározott rendelkezés a Pmt. hatálya alá tartozó valamennyi szervezetre történő kiutalása folytán olyan szervezetekre is kiterjeszti a PSZÁF felügyeletét, amelyek esetében a Pmt. alapján más szerv látja el a felügyeletet. Szükséges tehát e rendelkezés pontosítása és új bekezdés bevezetése.
+
+A 49. §-hoz
+
+A Büntető Törvénykönyvről szóló 2012. évi C. törvénnyel és a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvénnyel való összhang megteremtése érdekében válik szükséges módosítás, mivel e törvény vonatkozó részei is 2013. július 1-jén lépnek hatályba.
+
+-----STARTING---POINT---VEGE---
+
+Az 50. §-hoz
+
+Hatályba léptető rendelkezést tartalmaz.
+
+Az 51. §-hoz
+
+Az Alaptörvény 23. és 42. cikkére tekintettel a Psztv. 4. §-a sarkalatos rendelkezésként kerül elfogadásra, ezért a törvény tartalmazza a 47-48. §-ok tekintetében a sarkalatossági követelményeknek való megfelelésről szóló tájékoztatást.
+
+Az 52. §-hoz
+
+A § a törvény jogharmonizációs záradékát tartalmazza.

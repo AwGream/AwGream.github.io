@@ -1,0 +1,155 @@
+2003. évi XLVIII. törvény indokolása
+
+a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az Európai Unióhoz történő csatlakozásunkhoz szükséges jogharmonizációs feladatok körébe tartozik a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény és a vonatkozó EU irányelv teljes összhangjának megteremtése. Ennek érdekében szükséges az Európai Parlament és a Tanács „az egyénnek a személyes adatok feldolgozásával kapcsolatos védelméről és ezeknek az adatoknak a szabad áramlásáról” szóló 95/46/EK Irányelvének teljes harmonizálása. A törvényi szabályozás módosítását a 2002. évi Országjelentés is megemlíti, mint elvárt és teljesítendő feladatot.
+
+Az adatvédelmi törvény jogharmonizációs módosításának szükségessége elsősorban abból adódik, hogy a magyar törvény évekkel korábban készült, mint az Irányelv, és időközben, a technikai fejlődés következtében, változott az adatvédelem nemzetközi gyakorlata. Lényeges szempont az is, hogy az Irányelv alapján az uniós tagállamokon belül egységes elvek alapján lehet csak adatot kezelni, illetve továbbítani a tagállamok között, aminek meg kell teremteni a belső jogi feltételeit.
+
+A jogharmonizációs módosítás előkészítésében az adatvédelmi biztos részt vett, és a törvénymódosítással egyetért. Adatvédelmi biztos úr is hangsúlyozta azt, hogy a magyar adatvédelmi szabályozás megfelelően garantálja az alkotmányos alapelvek érvényesülését, alapvetően megfelel az uniós irányelvben foglaltaknak, és csak néhány kérdéskört érintő módosítás szükséges a teljes összhang megteremtéséhez.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény hatálya
+
+Az adatvédelmi törvény jelenleg nem tartalmaz kifejezett rendelkezést a hatályát illetően, arra az általános joghatósági elvek érvényesülnek, illetve csak az egyes konkrét szabályokból lehet következtetni a hatályra. Ez az Unióba történő belépésünk után értelmezési problémákat vet fel, különös tekintettel a külföldi és a magyar adatkezelők és adatfeldolgozók egymáshoz való viszonyára, illetve a külföldre irányuló adatkezelésekre.
+
+Indokolt ezért - figyelembe véve az Irányelv megfelelő rendelkezéseit (4. cikk, 25. cikk) is - a törvény személyi, tárgyi és területi hatályát pontosan meghatározni. Ennek megfelelően a módosítás kimondja, hogy a törvény hatálya a Magyar Köztársaság területén folytatott minden adatkezelésre és adatfeldolgozásra kiterjed, tekintet nélkül az adatkezelő vagy adatfeldolgozó állampolgárságára, székhelyére vagy lakóhelyére.
+
+Indokolt nevesíteni a hatályos törvényből már eddig is következő szabályt, hogy a törvény rendelkezéseit mind a számítástechnikai eszközzel, mind a manuális módon végzett adatkezelésekre alkalmazni kell. Nem kell alkalmazniuk viszont - összhangban az Irányelvvel (3. cikk 2. pont) - a törvényt a természetes személyeknek a kizárólag saját személyes céljaikat szolgáló adatkezeléseikre.
+
+A 2. §-hoz
+
+Fogalommeghatározások
+
+A hatályos törvény fogalomrendszerét módosítani kell az Irányelv végrehajtásához szükséges mértékben, illetve ki kell egészíteni azokkal a fogalmakkal, amelyeknek a magyar jogba történő beépítése az Irányelv (2. cikk) megfelelő alkalmazása érdekében, illetve a technikai fejlődés következtében szükségessé vált.
+
+Így a „személyes adat” fogalmánál meg kell határozni, hogy különösen mikor tekinthető azonosíthatónak az adott személy (pl. azonosító számmal, fizikai, mentális, gazdasági, kulturális stb. tényezővel). (Irányelv 2. cikk a) pont)
+
+A „különleges adatok” közé fel kell venni a szakszervezeti tagságra vonatkozó adatot, amit az Irányelv (8. cikk 1. pont) ide sorol. Tekintettel a magyar jogi szóhasználatra a szakszervezeti tagság helyett az „érdek-képviseleti tagság” kifejezést tartalmazza a törvény.
+
+A nemzetközi adatvédelmi gyakorlatnak megfelelően a törvény külön meghatározza a „bűnügyi személyes adat” fogalmát, amely nemcsak a büntetett előéletre vonatkozó adatot, hanem a bűnmegelőzéssel és a bűnüldözéssel összefüggésben keletkező információkat is magában foglalja.
+
+Nevesítve és egyértelműen szükséges meghatározni az érintett „hozzájárulásának” fogalmát (Irányelv 2. cikk h) pont), amelynek mindig önkéntesnek, határozottnak és félreérthetetlennek kell lennie, illetve megfelelő tájékoztatáson kell alapulnia.
+
+Ugyancsak rendelkezik a törvény a már ismert és használt, csak törvényileg még nem meghatározott fogalmakról. Ilyenek a harmadik személy (Irányelv 2. cikk f) pont), a harmadik ország, a tiltakozás (Irányelv 14. cikk), az adatzárolás, az adatmegsemmisítés, a személyesadat-nyilvántartó rendszer (Irányelv 2. cikk c) pont) vagy az adatállomány. Ezek egy részének meghatározása az Irányelv valamely konkrét pontja miatt, más része pedig az Irányelv több rendelkezésének tartalmából következően szükséges.
+
+Pontosítani kell az adatkezelő és az adatkezelés fogalmát is. A részletesebb meghatározás egyrészt így tükrözi az adatvédelmet érintő technikai fejlődést (hang- és képfelvétel, DNS minta, íriszkép stb.), másrészt jobban segíti a törvény gyakorlati végrehajtását az adatkezelési formák felsorolásával.
+
+A közérdekű adatok nyilvánosságához kapcsolódva egy új fogalmat illeszt be a törvény az adatvédelem és az információszabadság rendszerébe, a „közérdekből nyilvános adat” fogalmát. Ez az adatkategória - amely az „üvegzseb” program keretében meghatározott célkitűzésekkel összhangban már beépült a Polgári Törvénykönyvbe is - azokat a magán adatokat foglalja magában, amelyeket (akár természetes személyre, akár jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre vonatkozóan) törvény közérdekből nyilvánosnak minősít, de amelyek nem esnek a „közérdekű adat” fogalma alá, mivel nem állami vagy helyi önkormányzati feladatot vagy egyéb közfeladatot ellátó szerv tevékenységére vonatkoznak.
+
+A közérdekből nyilvános adat fogalmának bevezetésével egyértelműen el lehet határolni a közszféra főszabályként és természeténél fogva nyilvános adatait és a magánszféra kivételesen, valamely az adatok bizalmas kezelésénél fontosabb közérdekből nyilvánossá tett adatainak kezelését, megszüntetve ezzel egy, a megfelelő jogérvényesítést akadályozó gyakorlati problémát. Közérdekből nyilvános adat például a magánszemélyek vagy szervezetek közpénzek felhasználásával kapcsolatos adata vagy a gazdasági tevékenységükkel kapcsolatos környezetvédelmi adatok, de e körbe tartozik a közszereplő személyek nyilvánosság számára megismerhető személyes adata is.
+
+A 3-5. §-hoz
+
+Az adatkezelés jogalapja
+
+Az Irányelv (7. és 8. cikk) az adatkezelés jogalapjának tekintetében külön kategóriaként említi a magánjogi szerződés teljesítéséhez szükséges adatkezeléseket (amelyek tartalmilag az érintett hozzájárulásának körébe tartoznak), illetve nevesítve meghatároz olyan esetköröket, amelyek különösen megalapozzák a személyes adatok kezelését. A hatályos magyar törvény az érintett hozzájárulását és a törvényi elrendelést mint jogalapot alapelvként mondja ki, de nem részletezi, hogy milyen érdekek érvényesülése teheti szükségessé az adatkezelést.
+
+Az Irányelvvel való összhang megteremtése érdekében szabályozza a törvény a magánjogi szerződésekkel kapcsolatos adatkezeléseket, valamint meghatározza azokat a főbb érdekeket, amelyek érvényesítése alkotmányosan megalapozza a személyes adatok kezelését. Ilyenek például a közérdekű feladatok, az adatkezelő törvényes kötelezettségének teljesítése, a hivatalos feladat gyakorlása, az adatkezelő vagy harmadik személy jogos érdekének érvényesítése, a magánjogi szerződések, az érintett létfontosságú érdekeinek védelme, a civil szervezetek működése (Irányelv 7. cikk b)-f) pont, 8. cikk 2. b), d) pont).
+
+A gyakorlati tapasztalatok bizonyítják, hogy számos olyan élethelyzet előfordul, amikor az érintett nem képes önrendelkezési jogának gyakorlására, mert fizikai állapotánál fogva ideiglenesen cselekvőképtelenné válik. Ebben az esetben saját vagy más személy létfontosságú érdekeinek védelme, katasztrófa- vagy szükséghelyzet elhárítása és megelőzése érdekében lehetőséget kell biztosítani a személyes adatok (beleértve a különleges adatokat is) szükséges mértékű kezelésére. (Irányelv 8. cikk 2. c) pont.)
+
+Az Irányelv (8. cikk 5. pont) alapján a törvény kimondja, hogy a bűnüldözési és bűnmegelőzési, a közigazgatási és az igazságszolgáltatási feladatok ellátásához szükséges bűnügyi személyes adatok kezelését, valamint a szabálysértési, a polgári peres és nemperes ügyekre vonatkozó adatokat tartalmazó adatállományokat csak állami vagy önkormányzati szerv kezelheti. Az adatállományok az egy nyilvántartó rendszerben kezelt adatok összességét jelentik, tehát a korlátozás nem vonatkozik minden egyedi (adott esetben az eljáráshoz szükséges) adatkezelésre.
+
+Pontosítja a törvény az adatfeldolgozásra vonatkozó hatályos szabályokat is kimondva, hogy az adatfeldolgozó érdemi döntést nem hozhat, saját célú adatfeldolgozást nem végezhet (Irányelv 16. és 17. cikk). A feldolgozandó adatokat felhasználó üzleti tevékenységben érdekelt vállalkozás nem bízható meg az adatfeldolgozással. Az adatfeldolgozásra vonatkozó megbízási szerződést - amelyek tartalmi kellékét az Európai Bizottság határozza meg - minden esetben írásba kell foglalni. A bizottság határozatát az adatvédelmi biztos a Magyar Közlönyben teszi közzé.
+
+Az adatfeldolgozások tekintetében kiterjed a törvény hatálya arra az Európai Unió területén kívül működő adatkezelőre is, aki az adatfeldolgozáshoz Magyarország területén lévő személyt vagy eszközt vesz igénybe. (Irányelv 4. cikk 1. c) pont.) Ebben az esetben az adatkezelőnek ki kell jelölnie egy képviselőt, aki Magyarország területén működik. E szabály alól kivételt képez, ha az igénybe vett eszköz kizárólag az Unióba irányuló átmenő adatforgalom céljait szolgálja.
+
+A 6. §-hoz
+
+Az érintett tájékoztatása
+
+Az Irányelv rendelkezik az érintett tájékoztatásáról, ami az érintett önrendelkezési jogának gyakorlásához elengedhetetlen feltétel. Ezzel összhangban kiegészíti a módosítás az adatvédelmi törvénynek az adatkezelő általános tájékoztatási kötelezettségére (Irányelv 10. és 11. cikk) vonatkozó részét, amely független az érintett kérelemre történő tájékoztatásától (Irányelv 12. cikk 1. pont). Az adatok felvételét vagy az adatkezelés megkezdését megelőző általános tájékoztatási kötelezettség kiterjed minden, az adatkezelést érintő lényeges tényre, beleértve az érintett jogait és jogorvoslati lehetőségeit.
+
+Vannak olyan helyzetek, amikor az egyénre szóló tájékoztatás lehetetlen vagy aránytalan költséggel járna, mint például a statisztikai vagy a tudományos célú (beleértve a történelmi kutatásokat is) adatkezelések esetén (Irányelv 11. cikk 2. pont). Ilyenkor a tájékoztatást mindenki számára hozzáférhető módon az információ nyilvánosságra hozásával kell teljesíteni.
+
+A 7. §-hoz
+
+Külföldre történő adattovábbítás
+
+Az Európai Unióhoz való csatlakozásunkkal az adattovábbítás szempontjából nem tehetünk különbséget a Magyarország területén belüli és az Unió tagállamaiba irányuló adatáramlások között. Az Unió adatvédelmi szempontból ugyanis egységes egészet képez, ahol az Irányelv alapelveit egyformán kell alkalmazni (Irányelv 1. cikk 2. pont).
+
+Ezért a külföldre történő adattovábbítás szempontjából - csatlakozásunk után - a nem uniós tagállamba, azaz úgynevezett harmadik országba irányuló adattovábbításokat lehet és kell megkülönböztetni, és szigorúbban szabályozni (Irányelv 25. cikk). Ilyen adattovábbításra csak akkor kerülhet sor, ha a harmadik ország joga megfelelő védelmet biztosít. A megfelelő védelem kritériumait az Unió erre jogosult szerve állapítja meg (Irányelv 25. cikk 4. pont).
+
+A 8. §-hoz
+
+Automatizált egyedi döntés
+
+Új elemként kerül bevezetésre a magyar jogba az automatizált egyedi döntés, amelynek szabályait az Irányelvben (15. cikk) foglaltakkal összhangban kell megállapítani. Az automatizált egyedi döntés az érintett személyes jellemzőinek olyan értékelését jelenti, amikor adatait kizárólag számítástechnikai eszközzel végrehajtott, automatizált módszerrel dolgozzák fel. Ezt a módszert egyre elterjedtebben alkalmazzák például a munkavállalók felvételénél vagy teljesítményének értékelésénél, hitelkérelmek elbírálásánál, biztosítási kockázat megállapításánál.
+
+Automatizált egyedi döntés alkalmazásakor is szükséges az érintett kifejezett hozzájárulása vagy törvényi felhatalmazás. Az érintett számára pedig biztosítani kell, hogy álláspontját kifejthesse. Kérelmére tájékoztatni kell az alkalmazott matematikai (logikai) módszerről is (Irányelv 12. cikk 1. pont).
+
+A 9. §-hoz
+
+Technikai védelem
+
+Az adatbiztonság követelményeit - az adatvédelem területét jelentősen befolyásoló technikai fejlődés következtében - ki kell terjeszteni a távközlési vagy informatikai eszköz (hálózat) működtetésére is. Az adatbiztonság követelményének biztosítása egyébként mindig az adott adatkezelés jellegétől függ. Az egyedi kritériumokat az ágazati adatvédelmi és adatkezelési jogszabályok, valamint az adatvédelmi és adatbiztonsági szabályzatok tartalmazzák. A törvényi rendelkezések gyakorlati érvényesülésének elősegítése érdekében az adatvédelmi biztos meghatározhatja azokat a paramétereket, amelyeket az adatkezelők követni tudnak az adatbiztonsági előírás teljesítésekor.
+
+A 10-11. §-hoz és a 13. §-hoz
+
+Az érintett jogai
+
+A törlési kötelezettség szabályait pontosítja és egészíti ki a törvény, külön meghatározva a hiányos vagy téves adatok törlését, ha ez az állapot jogszerűen nem korrigálható, illetve ha törvény nem zárja ki a törlést. A törlést a bíróság vagy az adatvédelmi biztos is elrendelheti.
+
+Az érintett - kérelemre érvényesíthető - jogait (tájékoztatás, helyesbítés, törlés) csatlakozásunk után az EU jelentős gazdasági vagy pénzügyi érdekéből is korlátozni lehet (Irányelv 12. cikk és 13. cikk 1. e) pont). A törvény ezzel kiegészíti a hatályos szabályozást.
+
+Lehetőséget kell teremteni arra is, hogy az érintett jogait az ellenőrzési feladatokkal, valamint a foglalkozások gyakorlásával összefüggő fegyelmi és etikai vétségek, illetve munkajogi kötelezettségszegésekkel kapcsolatos eljárás során korlátozhassák. (Irányelv 13. cikk 1. d) és f) pont.)
+
+Mindezekkel a korlátozásokkal szemben, természetesen, változatlanul fennáll az érintett jogorvoslati lehetősége (bírósági út), amelynek szabályait a módosítással kibővült lehetőségekkel kiegészíti a törvény. Egyben biztosítja a személyes adatok védelmével kapcsolatos perekben is a soron kívüli eljárást, amelyet a közérdekű adatok nyilvánosságával összefüggésben már tartalmaz a hatályos törvény.
+
+A 12. §-hoz
+
+Tiltakozási jog
+
+Viszonylag széles körben biztosítja az Irányelv (14. cikk) az érintett számára a tiltakozás (kifogásolás) jogát, amellyel különösen akkor élhet, ha az adatkezelés vagy az adattovábbítás kizárólag az adatkezelő vagy az adatátvevő harmadik személy érdekét szolgálja, ha az adatokat közvetlen üzletszerzésre, közvélemény-kutatásra vagy tudományos kutatásra kívánják felhasználni. A magyar jogban egyes ágazati adatvédelmi törvények már biztosítják a tiltakozás jogát (népesség-nyilvántartás, direkt marketing).
+
+A tiltakozási jog gyakorlásának szabályait rendezni kell az adatvédelmi törvényben is, meghatározva az eljárási határidőket és az adatkezelő kötelezettségeit. Az érintett, ha úgy látja, hogy tiltakozási jogával nem tudott megfelelően élni, bírósághoz fordulhat. A tiltakozási jog gyakorlásával összefüggésben jogorvoslati jog illeti meg azt a harmadik személyt is, aki ennek következtében nem jut hozzá valamely jogának vagy jogos érdekének az érvényesítéséhez szükséges adatokhoz.
+
+A 14. §-hoz
+
+Közérdekű adatok nyilvánossága
+
+A közérdekű adatok nyilvánossága körében csatlakozásunk után új korlátozási ok lesz az Unió jelentős pénzügyi vagy gazdaságpolitikai érdeke, amivel a törvény kiegészíti a hatályos szabályozást.
+
+A 15-18. §-hoz
+
+Az adatvédelmi biztos hatásköre
+
+Az Irányelv (28. cikk) meghatározza, hogy milyen hatáskörrel kell rendelkeznie az adatvédelem területén az úgynevezett felügyelő hatóságnak (vagy hatóságoknak). Ilyen felügyelő hatóság tipikusan az adatvédelmi biztos, akinek a jelenlegi hatásköre sokkal szűkebb, mint amit az Irányelv előír. Ezért módosítja a törvény az adatvédelmi törvény vonatkozó rendelkezéseit, és kiegészíti az adatvédelmi biztos hatáskörét bizonyos hatósági jellegű jogosítványokkal. Ennek megfelelően az adatvédelmi biztosnak lehetősége lesz arra, hogy elrendelje a jogellenes adatkezelések zárolását, törlését vagy megsemmisítését, hogy megtiltsa a jogosulatlan adatkezeléseket vagy feldolgozásokat, valamint, hogy felfüggessze az adatok külföldre továbbítását.
+
+Az adatkezelőnek meghatározott határidőn belül eleget kell tennie a biztos által elrendelteknek. Az adatkezelő számára pedig biztosítja a törvény a bírósághoz fordulás lehetőségét, ha nem ért egyet a biztos által előírt intézkedéssel.
+
+Az adatvédelmi biztos jogosítványai közé tartozik az előzetes ellenőrzés (Irányelv 20. cikk) lehetősége. Előzetes ellenőrzést végezhet a biztos az adatkezelés adatvédelmi nyilvántartásba vételét megelőzően, valamint meghatározott nagy adatkezelőknél, ha azok új adatállomány feldolgozását vagy új adatvédelmi technológia felhasználását tervezik. Ez utóbbi esetben az adatfeldolgozást csak az ellenőrzés lefolytatása után lehet megkezdeni.
+
+Az előzetes ellenőrzés lehetőségét az új adatállomány feldolgozását vagy új technológia alkalmazását megelőzően csak a kifejezetten nagy mennyiségű adatot kezelő szervezeteknél indokolt előírni, mint amilyenek az országos hatósági vagy munkaügyi adatállományokat kezelők, a pénzügyi szervezetek (bankok, biztosítók, nyugdíjpénztárak stb.) a közüzemi és a távközlési szolgáltatók. Ezek közös jellemzője, hogy adatkezelésük a lakosság széles körét érinti, így fokozottabb a személyes adatok sérelmének veszélye.
+
+Ugyanezeknél a nagy adatállományokat kezelő szervezeteknél indokolt előírni a belső adatvédelmi felelős kinevezését, valamint belső adatvédelmi szabályzat készítését. A belső adatvédelmi felelős az adatkezelő szervezetén belül gondoskodik az adatvédelmi rendelkezések betartásáról, az adatkezelések jogszerűségének biztosításáról, kivizsgálja az adatkezelésekkel kapcsolatos panaszokat, és elősegíti a visszás helyzetek kiküszöbölését.
+
+Az adatvédelmi biztos fontos feladata az adatvédelmi rendelkezések érvényesülésének ellenőrzése mellett az is, hogy elősegítse a törvényi rendelkezések gyakorlati alkalmazását, amelynek egyébként már kialakult a gyakorlata. Indokolt ezért ennek a feladatnak nevesítése a törvényben.
+
+Az adatvédelmi biztos jogkörének hatósági jellegű jogosítványokkal történő kibővítése felveti azt a kérdést, hogy ez idegen az országgyűlési biztosok jogintézményétől. A hatósági jellegű jogkör valóban nem jellemzője az ombudsmani intézménynek. Ezzel kapcsolatban azonban meg kell jegyezni, hogy egyrészt nincs olyan törvényi előírás, amely kizárná, hogy valamely biztos ilyen jogosítványokat kapjon. Másrészt az adatvédelmi biztosnak már most is van hatósági jellegű jogköre a titokminősítés területén. A jogosítványok kibővítése pedig uniós követelmény, és a többi tagállamban is az adatvédelmi ombudsman látja el ezeket a feladatokat.
+
+A 19. §-hoz
+
+Egyéb rendelkezések
+
+A törvényi szabályozás nem szól a legnagyobb adatkezelést folytató területről, a statisztikáról, amelynek szabályait külön törvény határozza meg, és amelyet az Unió is elkülönítetten, szigorúbb garanciarendszerek biztosításával kezel. Alapelvi garanciaként ki kell mondani, hogy a statisztikai célra felvett és kezelt egyedi adatok csak és kizárólag statisztikai célból kezelhetők, és semmilyen más jogcímen nem használhatók fel. Ez az alkotmányos garanciája a statisztikai célból felvett adatok védelmének, egyúttal biztosítja a statisztika megbízhatóságát, amely egyik alapja a társadalom információs igénye kielégítésének.
+
+-----STARTING---POINT---VEGE---
+
+A 20. §-hoz
+
+Hatálybalépés
+
+A módosítás szerint a törvény 2004. január 1-jén lép hatályba, így csatlakozásunk ténylegessé válásáig (2004. május) elég idő áll az adatkezelők rendelkezésére az új szabályokra való felkészüléshez.
+
+Az Európai Unióra vonatkozó rendelkezéseket csak a csatlakozásunk napjától kell alkalmazni, ezért ezek eltérő hatályba lépéséről rendelkezik a törvény.
+
+A 21. §-hoz
+
+A külföldre történő adattovábbítás szabályainak változásával összhangban (7. §) hatályon kívül kell helyezni a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 24/A. §-a (1) bekezdésének a) pontját, amely az igazságügyminiszter és az adatvédelmi biztos hatáskörébe utalta annak megállapítását, hogy mely ország tekinthető azonos védelmet biztosítónak a személyes adatok kezelése szempontjából. E rendelkezés uniós csatlakozásunk után nem alkalmazható.

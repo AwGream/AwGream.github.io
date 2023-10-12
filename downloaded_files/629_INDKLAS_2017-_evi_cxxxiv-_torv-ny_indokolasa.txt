@@ -1,0 +1,565 @@
+2017. évi CXXXIV. törvény indokolása
+
+a belügyi feladatokat érintő és más kapcsolódó törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Magyarországon a felszíni vizek, a felszín alatti vizek és azok képződményei a Magyar Állam tulajdonában vannak. A vízkészletekkel való gazdálkodás és a vizek minőségi védelme a Magyar Állam és az erre a célra létrehozott állami hatósági és igazgatási szervek, intézmények feladata és felelőssége.
+
+Az uniós támogatással megvalósuló Mezőgazdasági Vízhasználat Információs és Ellenőrzési Keretrendszer (a továbbiakban: VIZEK Keretrendszer) célja egyrészt az öntözéssel kapcsolatos vízjogi engedélyezési eljárás elektronizálása, a mezőgazdasági öntözéssel kapcsolatos vízgazdálkodási, fenntartói, hatósági, adózási és kutatási-statisztikai feladatok támogatása, másrészt valamennyi vízilétesítmény és vízhasználat vonatkozásában integrált hatósági ügyviteli rendszer (a továbbiakban: IHR) bevezetése, amelyhez közhiteles e-vízikönyvi rendszer, valamint a vízkészletjárulék elektronikus megállapítása, bevallása és megfizetése is kapcsolódik.
+
+A projekt rendeltetése ügyfélbarát, rugalmas, hatékony hatósági feladatellátás megteremtése, szem előtt tartva a kormányzati szándékot a bürokrácia- és költségcsökkentésre és az e-közigazgatás vízügyi hatósági munkába történő átvezetésére. A projekt keretében kialakításra kerülő elektronikus felülethez kapcsolódó jogalkotási munka részeként a vízügyi hatósági eljárások egyszerűsítése is elvárt követelmény.
+
+A VIZEK Keretrendszerben 2019. január 1-jétől a vízjogi engedélyek megkérése előtt, a megalapozott ügyféli döntésük meghozatala érdekében a gazdálkodók „döntéstámogató rendszert” tudnak igénybe venni, és a tervezett öntözéssel érintett ingatlan alapadatainak, az öntözendő növénykultúráknak és a művelési ágnak a megadásával a VIZEK Keretrendszer gazdaságossági számításokat végez. A számításokkal az ügyfél képet alkothat arról, hogy a tervezett területen megvalósítható-e a gazdaságos öntözés, mekkora vízigénybevételre van szükség és van-e elégséges szabad vízkészlet, a tervezett éves vízfogyasztásnak mekkora a várható költsége. Ha az ügyfél mindezek alapján vagy az eredménytől függetlenül úgy dönt, hogy szeretné elindítani a vízjogi engedélyezési eljárást, akkor a VIZEK keretrendszer segítséget nyújt a vízjogi kérelem összeállításában, lehetőséget biztosít a szükséges iratok csatolására, illetve egyes dokumentumok beszerzését elektronikusan is támogatja (például tulajdoni lap, vagyonkezelői hozzájárulás stb.).
+
+A gazdálkodók a mezőgazdasági öntözésre vonatkozó vízjogi engedély iránti kérelmüket már elektronikusan, az erre a célra kialakított felületen nyújtják be. A jelenlegi papír alapú, költséges, szigorú, hosszadalmas és bonyolult engedélyezési eljárás olyan terhet jelent a termelőknek, ami az egyik oka annak, hogy nem tudják öntözőrendszerek kiépítésével fejleszteni gazdaságukat, nem tudnak beruházni. Az öntözési célú vízjogi engedélyezési eljárás megindítását ezt követően valamennyi ügyfél e-űrlapon keresztül kezdeményezi, és az eljárás teljes egészében az elektronikus kapcsolattartás keretében valósul meg. Így a tervdokumentációk, vagyonkezelői hozzájárulások is elektronikusan kerülnek feltöltésre, a hatóság a szakhatóságokkal a VIZEK Keretrendszerben tart kapcsolatot és a végzések, határozatok közlésére is elektronikusan kerül sor. A megvalósuló VIZEK Keretrendszerrel csökken a vízjogi eljárások ügyintézési ideje és költsége.
+
+A VIZEK Keretrendszer eredményeként a vízkészletjárulék (a továbbiakban: VKJ) bevallása, a járulék mértékének kiszámítása és befizetése 2019. január 1-jétől kizárólag elektronikusan történik, valamennyi vízjogi engedéllyel rendelkező vízhasználó számára. Ettől függetlenül, az Eütv. rendelkezései alapján a gazdálkodó szervezeteknek már 2018-tól kötelező a VKJ bevallás e-papír szolgáltatás igénybevételével való elektronikus megküldése.
+
+Az e-vízikönyvi közhiteles hatósági nyilvántartás megvalósításával az abban rögzítésre kerülő vízjogi engedélyre vonatkozó alapvető információk lehetővé teszik statisztikai és egyéb lekérdezések végrehajtását, valamint gyorsabbá, egyszerűbbé válik az adatok megismerése a tervezők, beruházók, egyéb érintettek részére. Felmenő rendszerben az elektronikus nyilvántartásban elérhetőek lesznek az öntözésre vonatkozóan 2019-től, a többi vízhasználatra hosszabb távon a vízjogi engedélyekhez tartozó műszaki információk és tervdokumentációk. Az ügyfeleken kívül az e-vízikönyvi nyilvántartás jelentős mértékben támogatja a vízügyi hatóság és a vízügyi igazgatási szerv tevékenységét is, tekintettel arra, hogy késedelem nélkül hozzáférhetővé válnak a kiadott vízjogi engedélyek és a hozzájuk tartozó műszaki információk.
+
+A VIZEK Keretrendszerhez kapcsolódó Integrált Hatósági Rendszer (a továbbiakban: IHR) eredményeként a hatósági ellenőrzések egységes nyilvántartása valósul meg, a hatósági eljárások során kiszabott bírságok befizetése nyomon követhetővé válik, egyszerűsödik a befizetések nyilvántartása és a bírságot tartalmazó döntés összerendelése. Kialakításra kerül továbbá a hivatásos katasztrófavédelmi szervezet által hatósági vagy szakhatósági minőségben felügyelt létesítményeket nyilvántartó szakrendszer is. Megvalósul az ügykövetés a hatósági előírások teljesítése és az elrendelt végrehajtások vonatkozásában.
+
+A vízügyi közalkalmazotti jogviszony különös szabályai
+
+A törvény a vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak életpálya rendszerére vonatkozó szabályozást is tartalmaz. Az illetményemelés két ütemben történik.
+
+2015. szeptember 1-jétől átlagosan 15%-os, majd 2018. január 1-jei hatállyal ugyancsak átlagosan 15%-os mértékben.
+
+A vízügyi igazgatási szerveknél foglalkoztatottak tekintetében az alábbi életpálya-elemek beépítésére kerül sor, összhangban az állami tisztviselőkre és hivatásos állományúakra vonatkozó szabályozással:
+
+- Új előmeneteli rendszer kialakítása, ennek keretében munkaköri rendszer létrehozása és az egyes munkakörökhöz képesítési és alkalmassági követelmények meghatározása; az előmenetel biztosítja munkakörön belül és munkaköri kategóriák között horizontálisan és vertikálisan az előmenetelt.
+
+- A munkaköri rendszerhez illeszkedő sávos javadalmazási rendszer kialakítása.
+
+- A „hivatali érdekből történő átirányítás” intézményének bevezetése.
+
+- A teljesítményértékelés jogszabályi feltételeinek megteremtése, minősítéshez illesztése.
+
+- Képzési, továbbképzési rendszer kialakítása, mely egységes szempontokon alapul, a felsőfokúak esetében a Nemzeti Közszolgálati Egyetem Víztudományi Kar bázisán.
+
+- Hivatásetikai normák bevezetése, etikai eljárásra a Vízügyi Etikai Bizottság jogosult.
+
+- A rugalmas jogviszony-megszüntetés biztosítása érdekében az azonnali hatályú jogviszony megszüntetés jogintézményének beépítése.
+
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényben (a továbbiakban: Kjt.) foglalt alsókorlátos illetményrendszerhez képest a munkaköri rendszerhez illeszkedő javadalmazási rendszert biztosító szabályozás kialakítására kerül sor, az állami tisztviselői rendszerhez hasonlóan és ahhoz illeszkedve.
+
+A vízügyi igazgatásban foglalkoztatottak esetében az alapvető különös szabályok a vízgazdálkodásról szóló 1995. évi LVII. törvénybe (a továbbiakban: Vgtv.) kerülnek beépítésre, de a Kjt. és mögöttes háttérjogszabályként az Mt. továbbra is alkalmazandó. A részletszabályokat a Vgtv-ben elhelyezendő felhatalmazó rendelkezés alapján kiadásra kerülő kormányrendelet fogja tartalmazni.
+
+A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) módosítását elsősorban a 2018. évre vonatkozó illetmény megállapítására vonatkozó szabályozás teszi szükségessé. Ezen tárgykörön túl a Hszt. kisebb, a jogalkalmazói tapasztalatok alapján, a gyakorlatban felmerült igények alapján történő módosítása indokolt a rendvédelmi egészségkárosodási eljárás rendje, az elektronikus személyügyi ügyintézés, a kiemelt készenlét fogalma, az összeférhetetlenségi szabályozás módosítása a digitális exportstratégia végrehajtása érdekében.
+
+A hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, az Európai Parlament és a Tanács (EU) 2016/1148 irányelv (a továbbiakban: NIS irányelv) 25. cikk (1) bekezdése alapján a tagállamoknak 2018. május 9-ig szükséges elfogadniuk és kihirdetniük azokat a törvényi, rendeleti és közigazgatási rendelkezéseket, amelyek szükségesek ahhoz, hogy az irányelvnek megfeleljenek. Ezen rendelkezésnek teszünk eleget akkor, amikor az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ekertv.) módosításával, valamint a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) módosításával a NIS irányelv átültetése megtörténik hazai jogrendszerünkbe.
+
+Az elektronikus hírközlésről szóló 2003. évi C. törvény módosításának célja, hogy a hivatásos katasztrófavédelmi szerv egy adott területen az érintett lakosságot katasztrófaveszély vagy veszélyhelyzet esetén SMS-ben riasztani és tájékoztatni tudja.
+
+A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) módosítása pontosító jellegű.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+Az engedély és bejelentés nélkül létesíthető kutak esetében az azokra vonatkozó közigazgatási eljárási illeték megfizetésére vonatkozó rendelkezést hatályon kívül kell helyezni, illetve a talajvíz kutak esetében, ahol eddig tárgyi illetékmentesség volt és ez is szükségtelenné válik, az ezt tartalmazó rendelkezést szintén deregulálni szükséges.
+
+A 2. §-hoz
+
+A közalkalmazotti reprezentativitás mérés gyakoriságának három évről öt évre történő meghatározását indokolja, hogy az öt év megfelelően illeszkedik az érdekegyeztetés gyakorlatához, így az ágazati párbeszéd bizottságok megújítási gyakoriságához, az üzemi tanács/közalkalmazotti tanács, illetve a munkavédelmi képviselők megválasztásának időpontjához.
+
+A 3. §-hoz
+
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény kiegészítése szükséges annak érdekében, hogy a vízvédelmi hatóság az ügyfelek személyes adatait kezelhesse.
+
+A 4. §-hoz
+
+A vízgazdálkodásról szóló 1995. évi LVII. törvény új 13. §-a meghatározza, hogy a vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottakra a Kjt.-t megfelelően kell alkalmazni. Felsorolja azon §-okat, melyek a Kjt.-ből és az Mt.-ből nem kerülnek alkalmazásra, továbbá amelyeket eltéréssel kell alkalmazni.
+
+Ennek megfelelően, az új sávos illetményrendszer bevezetésével egyidejűleg - amely külön tartalmaz vezetői illetménytáblát is - kivezetésre kerül a vezetői pótlék, a címpótlék, az idegennyelv-tudási pótlék, az illetménykiegészítés és a keresetkiegészítés jogintézménye. Az új sávos illetményrendszer bevezetésével összefüggésben kizárásra kerül a további illetménypótlékok biztosításának lehetősége, melyet végrehajtási rendeletben az ágazati, szakmai sajátosságokra tekintettel lehetne meghatározni a Kjt. alapján.
+
+A 13/A. § beépíti a szabályozásba a hivatásetikai normákat, valamint rögzíti a hivatásetikai eljárás menetét. A hivatás etikai alapelveket - összhangban a kormánytisztviselőkre és a hivatásos állományúakra vonatkozó szabályozással - fogalmi kategóriánként rögzíti, kiegészítve a vezetőkre vonatkozó többletkövetelményekkel. Meghatározza az etikai vétség fogalmát, továbbá azt, hogy ennek megsértése esetén a Vízügyi Etikai Bizottság, mint újonnan létrehozandó testület jár el. A Vízügyi Etikai Bizottság az etikai eljárás eredményeként figyelmeztetést vagy megrovást szabhat ki.
+
+A 13/B. § rögzíti, hogy a Vízügyi Etikai Bizottság tagjait az országos vízügyi igazgatási szerv vezetője határozza meg, egyben a tagokról névjegyzéket vezet. A névjegyzék legalább tíz, legfeljebb harminc főt tartalmaz. A Vízügyi Etikai Bizottság tagjaira a vízügyi igazgatási szervek vezetői tesznek javaslatot. A tagok a vízügyi igazgatási szervek közalkalmazotti állományából kerülnek ki. A kiválasztás személyes meghallgatást követően történik, és csak olyan közalkalmazottakra tehető javaslat, akik példamutató magatartásuk és munkájuk alapján méltóak a Vízügyi Etikai Bizottság munkájában való közreműködésre. A jelöléshez a közalkalmazott beleegyezése szükséges. A hivatásetikai részletes szabályokat, a Vízügyi Etikai Bizottság működésének részletes szabályait, valamint az etikai eljárás rendszerét a Vízügyi Etikai Bizottság Ügyrendje állapítja meg.
+
+A 13/C. § tartalmazza az új besorolási és előmeneteli rendszert. A közalkalmazottnak a vízügyi pályán belátható, tervszerű előmeneteli lehetőséget kell biztosítani a munkaköri kategóriához tartozó munkakörön belüli fizetési fokozatban, a munkaköri kategórián belül más munkakörben, továbbá a magasabb munkaköri kategóriába tartozó munkakör eléréséhez. A munkaköri kategóriákat és az egyes munkaköri kategóriákhoz tartozó munkaköröket kormányrendelet tartalmazza.
+
+A 13/D. § határozza meg az előmenetel általános feltételeit, eszerint:
+
+- a közalkalmazottnak teljesítenie kell az előírt képzési és továbbképzési kötelezettséget,
+
+- ki kell töltenie az előírt fizetési várakozási időt,
+
+- munkakörbe kerüléshez szükséges gyakorlati tapasztalattal, készségekkel és kompetenciákkal kell rendelkeznie,
+
+- megfelelő teljesítményértékelés és minősítéssel kell rendelkeznie.
+
+A 13/E. § tartalmazza az illetményre vonatkozó garanciális szabályokat. A Kormány rendelete határozza meg az előmeneteli fokozatokat és az azokhoz tartozó illetmények alsó és felső határait.
+
+A törvényben meghatározott körülményekre figyelemmel a munkáltatói jogkör gyakorlója évente jogosult módosítani a besorolás szerinti illetményen a sáv alsó és felső között. Az illetmény módosítását megalapozó felülvizsgálatot január 31-éig kell végrehajtani.
+
+A 13/F. § lehetővé teszi célfeladat megállapítását a vízügyi közalkalmazottak részére. A szabályozás bevezetésére azzal párhuzamosan kerül sor, hogy a keresetkiegészítés rendszere kivezetésre kerül és szabályainak alkalmazására a vízügyi közalkalmazottaknál nem lesz lehetőség.
+
+Célfeladat meghatározására a munkáltatói jogkör gyakorlója és a közalkalmazott megállapodása alapján kerülhet sor. A célfeladatra vonatkozó rendelkezés a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szabályozási elveit követi. Eszerint a munkakör ellátásából adódó általános munkaterhet jelentősen meghaladó munkavégzésre állapítható meg célfeladat, kétoldalú megállapodás alapján. A célfeladathoz „tartós” munkateher növekedés kapcsolódik, ez különbözteti meg a céljuttatást a keresetkiegészítéstől [Kjt. 77. § (1) bek.], amely az „átmeneti többletfeladat” fogalmat használja. A helyettesítés esetét kivételként szerepeltetjük, hiszen ha a közalkalmazott a munkaköre ellátása mellett a munkáltató rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát, s ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos külön díjazás (helyettesítési díj) is megilleti [Kjt. 24. § (1) bekezdés].
+
+A célfeladat eredményes elvégzéséért céljuttatás jár, ennek azonban az is a feltétele, hogy azt a munkáltatói jogkör gyakorlója igazolja.
+
+A Kttv. a 154. § (3) bekezdésében biztosítja annak lehetőségét, hogy a hivatali szervezet vezetője célfeladatot állapíthat meg - az érintett hivatali szervezet vezetőjének egyetértésével - más államigazgatási szervnél foglalkoztatott kormánytisztviselő részére. A céljuttatást a célfeladatot tűző hivatali szervezet vezetője állapítja meg a kormánytisztviselő részére. Ennek a gyakorlatban leginkább az uniós projektek esetében van jelentősége, amikor több szerv vesz részt a projekt megvalósításában. Erre figyelemmel a 13/F. § (4) bekezdése tartalmazza annak lehetőségét, hogy a Kjt. hatálya alá tartozó szervek egymás közötti viszonyaikban is tudják biztosítani a célfeladat megállapításának lehetőségét.
+
+Rögzíti, hogy a céljuttatás összege a jubileumi jutalom számításakor nem vehető figyelembe.
+
+A 13/G. § meghatározza a közalkalmazottakat megillető alapszabadság mértékét, amelynek alapja (alapszabadság) megegyezik az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) 23. § (1) bekezdése szerinti munkanappal. A pótszabadság mértéke - figyelemmel arra, hogy a Kjt. besorolása alapjaiban különbözik az Áttv-től - az évek számával növekszik és a munka törvénykönyvéről szóló 2012. évi I. törvény 117. §-át veszi figyelembe. A vezetőkre vonatkozó pótszabadság az Áttv. 23. § (5) bekezdésének figyelembevételével került meghatározásra.
+
+A 13/H. § bevezeti a hivatali érdekből történő átirányítás jogintézményét. Ennek keretében a közalkalmazott a kinevezéstől eltérően is foglalkoztatható. A törvény tartalmazza ennek garanciális feltételeit: legalább három munkanappal megelőző írásos tájékoztatás az elrendelésről annak várható időtartamáról, maximális időtartamáról. A hivatali érdekből történő átirányítás munkáltatók közötti megnyitásával az igazgatóságok, illetve a OVF és az igazgatóságok közötti átirányításra is hosszabb távú lehetőség nyílik. Ezzel az ágazat támogatni tudja a fiatal pályakezdők, illetve a tapasztalt kollégák tudásmegosztásának és gyakorlati tapasztalatának átadását.
+
+A 13/I. § szabályozza a jogviszony megszüntetés új esetét, az azonnali hatályú megszüntetést. Erre akkor kerülhet sor, ha a közalkalmazott olyan magatartást tanúsít, amely alkalmas arra, hogy a munkakör tekintélyét vagy a munkáltató jó hírnevét, a jó közigazgatásba vetett bizalmat súlyosan rombolja, és amely miatt nem várható el a munkáltatótól a jogviszony fenntartása.
+
+A 13/J. § a végkielégítéshez kapcsolódóan tartalmazza, hogy ha a közalkalmazott a jogviszonya megszüntetésekor végkielégítésben részesült, a jogviszony megszűnésétől számított nyolc hónapon belül újabb közalkalmazotti jogviszonyt abban az esetben létesíthet, ha vállalja, hogy a végkielégítés összegének az új jogviszony létesítéséig a nyolc hónapból hátralévő idővel arányos mértékét visszafizeti.
+
+A 13/K. § bevezeti a közalkalmazott kötelező képzési, továbbképzési rendszerét. A továbbképzést a felsőfokú végzettségűek esetében az Nemzeti Közszolgálati Egyetem (NKE), az alap-és középfokú végzettségűek esetében a kijelölt vízügyi igazgatási szerv (a tervek szerint az Országos Vízügyi Főigazgatóság) biztosítja. A törvény tartalmazza a költségekre vonatkozó rendelkezéseket, a továbbképzési kötelezettség elmulasztásának következményeit. A részletszabályokat kormányrendelet tartalmazza.
+
+A 13/L. § a szintén újonnan kialakításra kerülő teljesítményértékelési rendszerre vonatkozó rendelkezéseket tartalmazza. A teljesítményt a közalkalmazott munkateljesítménye alapján a munkáltatói jogkör gyakorlója mérlegelési jogkörben értékeli évente egy alkalommal. Kötelező és ajánlott elemekből áll, eredménye alapján jutalom fizethető. A részletszabályokat - hasonlóan a kormánytisztviselőkre, az állami tisztviselőkre és a hivatásos állományúakra vonatkozó szabályozáshoz - kormányrendelet tartalmazza.
+
+A 13/M. § rendelkezik a vezetői munkakörökről. A vezetőket határozatlan időre nevezik ki, de helyettesítés céljából határozott időre is történhet a kinevezés. Emellett rendelkezik a vezetőkre vonatkozó közös szabályokról: csak felsőfokú végzettséggel rendelkező közalkalmazott nevezhető ki, gyakornoki idő alatt nem nevezhető ki a közalkalmazott.
+
+A 13/N. § rendelkezik a rendelkezésre állási pótlék mértékéről. A védekezési feladatok fokozódása (III. fokú készültség, több vízügyi igazgatási szerv egyidejű védekezése, országrészekre kiterjedő helyi vízkárelhárítás) esetén a védekezés országos irányítását a belügyminiszter az Országos Vízügyi Főigazgatóság védelmi szervezete, az Országos Műszaki Irányító Törzs (OMIT) útján látja el. A vízügyi igazgatási szerveknél a vizek kártételei elleni védekezés szabályairól szóló 232/1996. (XII. 26.) Korm. rendeletben meghatározott védekezéssel összefüggő feladatot ellátó védelmi szervezeti beosztást betöltő közalkalmazottat, a pihenőidő korlátozásával az annak tartama alatt a lehetséges munkavégzés céljából a munkáltató által elrendelt rendelkezésre állási kötelezettség teljesítésére is kötelezett, vagyis köteles megőrizni munkára képes állapotát és a munkáltató utasítása szerint munkát végezni, tekintettel arra, hogy ezen időtartam alatt a munkáltató bármikor rendkívüli munkavégzést rendelhet el. Figyelemmel arra, hogy a szervezett vízkárelhárítási tevékenység végrehajtásának szükségessége a mindenkori idő-, illetve vízjárási helyzet függvényében alakul, ezért előre nem ütemezhető, ezért a folyamatos rendelkezésre állást tesz szükségessé, mind az operatív végrehajtás (vízügyi igazgatóságok), mind az országos irányítás, az OMIT szintjén. A pótlék mértéke 20.000 forintban került megállapításra.
+
+Az 5. §-hoz
+
+A vízhasználók a vízkészletjárulék bevallást 2019. január 1. napjától kizárólag elektronikus úton készíthetik el, küldhetik meg és fizethetik meg a járulékot az erre rendszeresített elektronikus rendszeren keresztül. Az elektronikus út igénybevétele valamennyi vízhasználót, nemcsak a mezőgazdasági célú vízigénybevevőt érinti.
+
+Tekintettel arra, hogy a Vgtv. 15/C. §-ának mentességre vonatkozó szabályai vízhasználónként határozzák meg a mentességet, így előfordulhat, hogy egy vízhasználó több területi vízügyi hatóság illetékességi területén is rendelkezik vízhasználatra jogosító vízjogi engedéllyel, így szükséges, hogy az e-vízikönyvi közhiteles hatósági nyilvántartásban szereplő adatok országosan elérhetővé és megismerhetővé váljanak.
+
+A vízkészletjárulék bevallásban meghatározott műszaki adatokat a vízügyi igazgatási szerveknek is szükséges megismerniük és kezelniük annak érdekében, hogy a vízkészletnyilvántartási és -gazdálkodási feladataikat el tudják látni.
+
+A 6. §-hoz
+
+A Vgtv. kiegészítése szükséges annak érdekében, hogy a vízügyi hatóság az ügyfelek személyes adatait kezelhesse. A fenti rendelkezések megteremtik a hatósági eljárásokban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 27. § alapján a hatósági ügy intézése céljából egyébként kezelhető személyes adatok eredeti céltól eltérő célból történő kezelésénél az adatkezelés jogalapját. Az adatok továbbkezelése szintén a hatóságot érintő jogi kötelezettség teljesítése érdekében szükséges. Ez az adatkezelési jogalap a kormányzati törekvésekkel összhangban álló, hatósági ügyek elektronikus nyilvántartására, az egymással összefüggő hatósági ügyek vonatkozásában előzménykutatásra és bizonyos körben elektronikus ügyintézésre teremt lehetőséget. Az adatbázis segítségével a hatóság az államháztartás kintlevőségeinek behajtása érdekében nyomon tudja követni a bírságok és a vízkészletjárulék befizetését, annak elmaradása esetén hatékonyan és gyorsan megteszi a szükséges intézkedéseket.
+
+Külön is szükséges kiemelni, hogy az ingatlantulajdonosok közül csak a vízimunkával, vízilétesítménnyel és vízhasználattal érintett ingatlantulajdonosok személyes adatainak kezelésére kerül sor célhoz kötötten, anélkül, hogy az ingatlan-nyilvántartással párhuzamosan adatbázis jönne létre.
+
+A Vgtv.-ben szükséges rendelkezni arról, hogy a vízügyi igazgatási szervek a vízgazdálkodási adatok gyűjtése és a vízgazdálkodási objektumok azonosítása során kezelhessék az adatszolgáltatásra kötelezettek, engedélyesek, vízhasználók adatait. (A vízgazdálkodási adatok gyűjtése 2018. évtől a Központi Statisztikai Hivatallal történt megegyezés szerint az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm. rendelet hatálya alól a vízgazdálkodási feladatokkal összefüggő alapadatokról szóló 178/1998. (XI. 6.) Korm. rendelet hatálya alá fog tartozni.)
+
+A 2019-től működő adatgyűjtő felület biztosítja, hogy a kérelem elbírálásához szükséges iratokat az ügyfél már a kérelem benyújtása előtt beszerezhesse és azt a VIZEK rendszerben tárolhassa. Így a VIZEK rendszer üzemeltetője az adatgyűjtő felületen keresztül jogosult továbbítani a csatlakozott szervek felé a kérelmező által megjelölt adatokat, valamint a kérelmező részére jogosult tárolni - az adatgyűjtő felületen működő tárhelyébe - a csatlakozott szervek által visszaküldött információkat.
+
+A Vgtv. 33/J. § (1) bekezdése tartalmazza a VIZEK keretrendszer azon adatkörét, melynek kezelésére a Földművelésügyi Minisztérium (a továbbiakban: FM) és az Agrárgazdasági Kutató Intézet (a továbbiakban: AKI) lenne jogosult. A gazdasági elemzésekhez és a szakmapolitikai döntés-előkészítő feladatokhoz egyrészt a már vízjogi engedéllyel rendelkező, másrészt a folyamatban lévő vízjogi engedélyezési eljárásban részt vevő, mezőgazdasági vízhasználattal érintett ügyfelek egyedi azonosításra alkalmas, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 9/B. § b) pont szerinti ügyfél-azonosítóval (az Egységes Mezőgazdasági Ügyfél-nyilvántartási rendszer ügyfél-azonosítójával) ellátott adatainak kezelésére van szükség, így a törvény ezen adatkezelést biztosítja.
+
+A magyar mezőgazdaságra nem jellemző a homogén gazdaságszerkezet, inkább duális szerkezetű, ahol megtalálhatóak a nagyüzemi gazdaságok, és az őstermelői gazdaságok is. Ráadásul ezen inhomogén sokaság öntözési szokásai sem homogének, sőt statisztikai eszközökkel nem könnyen kezelhetőek, mivel az öntözés jelenleg csupán a termelők statisztikailag elhanyagolható nagyságára terjed ki. Ezért is van szükség a vízjogi engedélyezésnél megjelenő ügyfelek ügyfél-azonosítóval ellátott adatainak az FM és az AKI részére való megosztására, mivel a két szereplő által kezelt egyéb adatbázisokkal együtt hozhatók meg a „vizes” agrárgazdasági döntések és végezhetők el a gazdasági elemzések. Amennyiben az adatátadásra nem kerülne sor, az FM és az AKI részére szükséges lenne az összes vízjogi engedélyes gazdasági adatainak begyűjtése külön vízügyi adatgyűjtés keretében: üzemi mérleg, eredmény-kimutatás, ágazati költségszámítás. Ez a külön adatgyűjtés viszont ellentmondana a Magyary Programnak, és szükségtelen adatszolgáltatói tehernövekedést jelentene. Ezért született döntés a törvényben szereplő adatátadásról.
+
+Fentiek mellett a vízjogi engedéllyel rendelkező mezőgazdasági termelő személyes adatát is tartalmazó adatainak egyedi azonosításra alkalmas módon történő kezelésére és feldolgozására jogosult a Magyar Államkincstár is, a támogatás ellenőrzéséhez kötődő jogszabályban meghatározott kötelezettségek ellátása érdekében.
+
+A 7. §-hoz
+
+A § értelmében - az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénytől eltérően - valamennyi természetes személy ügyfél is köteles lesz az elektronikus ügyintézésre az öntözési célú vízhasználatok vízjogi engedélyezésénél.
+
+A rendelkezés értelmében az öntözési célú vízhasználat vízjogi engedélyezési eljárás során az egyes szervek a Kormány által kijelölt szerv által működtetett egységes felületen, az ún. VIZEK rendszerben tartják az ügyféllel és egymással a kapcsolatot. A VIZEK rendszer biztosítja, hogy az ügyfél által megadott adatok és valamennyi az eljárásban felhasznált adat közvetlenül eljusson a rendszerhez csatlakozott szervekhez.
+
+A rendszer a „döntéstámogató rendszer” részeként ún. előszűrő felületet is tartalmaz, amely a kérelmező által megadott, valamint az érintett szervek által rendelkezésre bocsátott adatok alapján - nem kötelező jelleggel - tájékoztatja az ügyfelet az érintett ingatlanok mezőgazdasági célú vízellátásának lehetőségéről, a rendelkezésre álló vízkészletről, az ingatlanok öntözhetőségének megvalósítási módjáról, egyben gazdaságossági elemzéssel segíti a hatósági engedélyezésre irányuló döntés meghozatalát. A VIZEK Keretrendszer adatgyűjtő felülete egyúttal segítséget nyújt a vízjogi engedélyezéshez szükséges kérelem összeállításában.
+
+A 8. §-hoz
+
+A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak besorolására, illetményrendszerére, a betölthető munkaköri kategóriákra és munkakörökre, a betölthető vezetői munkaköri kategóriákra és vezetői munkakörökre, a közalkalmazottak továbbképzésének tervezésére, finanszírozására, a képzések követelményrendszerére, a közalkalmazottak teljesítményértékelésének és minősítésének kötelező és ajánlott elemeire, fokozataira, eljárási szabályaira, az értékelőlap tartalmára, valamint a közalkalmazotti és a vezetői előmenetelre vonatkozó alapvető szabályokat a Vgtv. új IV. fejezete tartalmazza. Az ehhez kapcsolódó részletszabályok megalkotására a kormányrendeleti felhatalmazás ennek megfelelően a Vgtv. 45. § új (7b) bekezdésébe kerül.
+
+A VIZEK rendszer részletszabályait a Kormány rendelete fogja tartalmazni, jelen § erre biztosít törvényi felhatalmazást.
+
+A 9. §-hoz
+
+A már 2018-ban megvalósítandó adategyeztetésre az e-vízikönyvben és a korábbi VKJ programban szereplő adatok egyeztetése, valamint adatkapcsolat kialakítása végett van szükség. A VIZEK rendszer fejlesztésében létrejövő e-Vizikönyv ősfeltöltéséhez szükséges a papír alapú vízikönyvek digitalizálása, a rajtuk meglévő adatok rögzítése (metaadat feltöltés).
+
+A rögzítést követően adattisztítást kell végezni annak érdekében, hogy 2019.január 1. napján a közhiteles nyilvántartás pontos adatokkal álljon az ügyfelek és hatóság rendelkezésére. Az adatok pontossága elengedhetetlen, hiszen az e-vízikönyv közhites nyilvántartás, amely biztosítja az alapadatokat 2019-től a VKJ bevalláshoz is.
+
+A § a vízügyi közalkalmazotti jogviszonyhoz kapcsolódó átmeneti rendelkezéseket is tartalmaz: az új életpálya bevezetésével összhangban rendelkezik az elévülésről, a folyamatban lévő jogviszony létesítéséről, módosításáról és megszüntetéséről, továbbá előírja az új besorolási rendbe sorolást és a 2018. január 1-jei hatályú munkáltatói intézkedés tartalmi elemeit.
+
+Garanciális szabályként rögzíti, hogy a közalkalmazott és a vezető - az alsó és felső határ közötti - illetményét úgy kell megállapítani, hogy annak havi összege nem lehet kevesebb a közalkalmazott esetén a közalkalmazott, a vezető esetén a korábbi vezető vagy a magasabb vezető 2017. december 31-én megállapított illetményénél. Az illetmény megállapítása során figyelembe kell venni a 2017. december 31-én megillető pótlékok összegét.
+
+A közalkalmazott és a vezető 2018. január 1-jétől cafetéria-juttatásra nem jogosult.
+
+A közalkalmazott és a vezető 2018. évre irányadó szabadságát úgy kell megállapítani, hogy az nem lehet kevesebb a 2017. december 31-én járó szabadságánál.
+
+A közalkalmazott és a vezető a korábban elnyert címek viselésére 2018. január 1-jét követően is jogosult.
+
+A 10. §-hoz
+
+Szövegcserés módosítások.
+
+A 11. §-hoz
+
+A §-ban érintett hatályos szövegrész alapján azon vízhasználók, akik évi 500 m-nél kevesebb vizet használnak, de a kútjukat a vízügyi hatóság (és nem a jegyző) engedélyezte, kötelesen vízkészletjárulék-bevallást készíteni.
+
+Az adminisztrációs teher mellett minimális vízkészlet-gazdálkodási haszonnal és 0 Ft bevétellel jár az 500 m3év alatti vízhasználatok VKJ-ban történő nyilvántartása és évenkénti bevallás benyújtása, számonkérése, ellenőrzése. Így a vízhasználók adminisztrációs terheinek csökkentése és a vízügyi hatósági, valamint igazgatási szervek bürokráciájának csökkentése érdekében a bevallási kötelezettség hatályon kívül helyezésre kerül.
+
+Az 500 m3/év vízmennyiséget meg nem haladó vízhasználatok esetében a Vgtv. 15/C. § (1) bekezdés c) pontja értelmében eddig sem kellett vízkészletjárulékot fizetni, így jelen módosítással bevételkiesés sem keletkezik a központi költségvetésnél. Az intézkedés egyértelműen csak adminisztratív tehercsökkentést jelent.
+
+A 12. §-hoz
+
+Tételesen tartalmazza a módosítás, hogy tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése, ha azt a vízügyi igazgatási szerv az állami tulajdonban álló vízkészletek vagy vízilétesítmények vagyonkezelése tárgyában kéri, vagy ha a vízügyi és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében kéri.
+
+Az elektronikus dokumentumként történő ingyenes tulajdonilap-másolat lekérdezés szorosan kapcsolódik a VIZEK Keretrendszer megvalósításához és az ennek részeként vállalt indikátorok teljesítéséhez, amely szerint az adatgyűjtő felület úgy ad vagyonkezelői hozzájárulást az érintett kérelmezőnek, hogy a vízügyi igazgatási szerv előtt ismert az érintett ingatlanok tulajdonviszonya. Továbbá az elektronikus vízügyi és vízvédelmi eljárás során az ügyfél nem nyújt be tulajdoni lapot, hanem a hatóság elektronikusan ellenőrzi a tulajdonosi jogok fennállását és szükség esetén dönt a szolgalmi kérdésekről is. Az integrált hatósági ügyviteli rendszer (IHR) szintén úgy tudja mind az engedélyezési, mind az ellenőrzési és szankcionálási feladatkörét teljesíteni, hogy ismert számára, hogy a folyamatban lévő, vizsgálat alatt álló területnek kik a tulajdonosai. Ezért nemcsak a vízügyi és vízvédelmi hatóság, hanem a hivatásos katasztrófavédelmi szervezet egésze számára is szükséges a tulajdonilap-másolat lekérdezés ingyenességének biztosítása.
+
+A 13. §-hoz
+
+A Hszt. 225/A. § (3) bekezdése tartalmazza, hogy a Becsületbíróság a közrehatás kérdésének (mint az egészségkárosodási ellátásra jogosultság egyik feltételének) vizsgálatára irányuló eljárásban jogosult megismerni a hivatásos állomány tagjának egészségi állapotára vonatkozó adatokat és megtekinteni az azokat tartalmazó iratokat.
+
+A Hszt. ezen rendelkezése alapvetően megfelel az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben (a továbbiakban: Infotv.) foglalt követelményeknek, miszerint a kötelező adatkezelés esetét és célját törvényben rögzíti. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) ugyanakkor, ha nem is szigorúbb, de részletezőbb szabályozást tartalmaz, mint az Infotv. akkor, amikor az egészségügyi adatok tekintetében meghatározza azon célokat, amelyek alapján azok kezelése jogszerűen lehetséges. A módosítás célja a Hszt. szerinti adatkezelés és az Eüak. törvény közötti összhang megteremtése. A módosítás a rendvédelmi egészségkárosodási ellátással kapcsolatos eljárás teljes folyamata (így pl. a Becsületbíróság eljárása, a miniszternek a továbbfoglalkoztatás alóli mentesítéssel kapcsolatos eljárása stb.) tekintetében biztosítja, hogy az Eüak. törvényben rögzítve legyen az adatkezelés célja.
+
+A 14. §-hoz
+
+Az Inytv. 73/A. §-ának (5) bekezdéssel történő kiegészítését az indokolja, hogy a vízitársulatok vonatkozásában e jogszabályhely (4) bekezdése biztosítja a térítésmentességet.
+
+A vagyonátvétel folytán a vízitársulatoktól kezelésre átvett ingatlanok vagyonkezelése során továbbra is szükséges a TAKARNET szolgáltatás igénybevétele, azonos feltételekkel.
+
+Emellett a vízügyi igazgatási szervek állami alapfeladatként látják el a műszaki-szakmai feladataik mellett a vagyonkezelői feladatokat a vagyonkezelésükben lévő állami tulajdonú vagyontárgyakon; végzik a vagyonkezelésükben lévő állami tulajdonú vizek szabályozását, mederfenntartását, partvédelmét. Az állami alapfeladatok ellátásának, valamint a valós, természetbeni állapotnak az ingatlan-nyilvántartáshoz való folyamatos megfeleltetése érdekében szükséges a jelzett adatkörökhöz való hozzáférés, az adatok kezelése. A felelős vagyongazdálkodás, vízkárelhárítás, nagyvízi meder és parti sávkezelés, partvédelem, mederfenntartás, vízi utak fenntartása és vízilétesítmények üzemeltetése érdekében szükséges az ingatlan-nyilvántartási rendszer szolgáltatásainak elérését térítésmentesen biztosítani.
+
+A 15. §-hoz
+
+Az Ekertv. módosításával a NIS irányelv III. mellékletében meghatározott, a digitális szolgáltatások típusaival kapcsolatos rendelkezések átültetése valósul meg. E § átülteti a NIS irányelv 4. cikkében a digitális szolgáltatásokhoz kapcsolódóan meghatározott fogalmakat. Az Ekertv. 2. §-a, az Értelmező rendelkezések kiegészítésre kerül a digitális szolgáltatások meghatározásával, melyek a bejelentés-köteles szolgáltatások. Ezek az online piactér, az online keresőprogram és a felhőalapú számítástechnikai szolgáltatás.
+
+A 16. §-hoz
+
+E § rendelkezik a digitális szolgáltatók, vagyis bejelentés-köteles szolgáltatások nyújtói legfontosabb feladatairól. Így bejelentési kötelezettségük van a Kormány által rendeletben kijelölt hatóság részére az olyan biztonsági eseményekről, amelyek jelentős hatást gyakorolnak szolgáltatásuk nyújtására. Ez nem vonatkozik a mikro- és kisvállalkozásokra. A biztonsági eseményeket, valamint a bejelentést és a bejelentést fogadó hatóság eljárását, továbbá a bejelentés-köteles szolgáltatások hálózati és információs rendszereinek biztonságára vonatkozó alapvető követelményeket a Kormány rendeletében állapítja meg.
+
+A bírságra vonatkozó rendelkezéseket az irányelv előírja, a tagállamoknak meg kell állapítaniuk a szankciókra vonatkozó szabályokat.
+
+A 17. §-hoz
+
+Felhatalmazó rendelkezéseket tartalmaz.
+
+A 18. §-hoz
+
+A jogharmonizációs záradékot tartalmazza.
+
+A 19. §-hoz
+
+A vízügyi igazgatási szervek országosan kb. 58.000 db. hrsz-ú ingatlan vagyonkezelését látják el, ezen túlmenően üzemeltetési szerződés, illetve vízügyi hatósági kijelölés alapján további kb. 2000 db hrsz-on látnak el üzemeltetési feladatot. Emellett kiemelten fontos - különösen a VIZEK Keretrendszerhez kapcsolódó öntözési engedélyeknél - a felszín alatti vizek és víztartó képződményeik vagyonkezelésével, az ezt érintő engedélyezéseknél a vagyonkezelői hozzájárulások megadásával kapcsolatos feladatkör gyakorlása.
+
+A törvény értelmében a VIZEK rendszer üzemeltetője a VIZEK rendszer üzemeltetési feladataival összefüggő feladatai ellátása és a VIZEK rendszerben való vagyonkezelői hozzájárulások biztosítása érdekében, valamint a vízügyi igazgatóságok magának a vagyongazdálkodási feladataiknak az ellátásához térítésmentesen hozzáférhetnek egyes MePAR fedvényekhez, tematikus fedvényekhez és a legfrissebb évjárat szerinti ortofotókhoz. Ezek garanciát jelentenek arra, hogy a VIZEK rendszer előszűrő felülete tájékoztatást tudjon adni az öntözéses gazdálkodást tervezők részére, egyben a vízjogi engedélyezés elektronikus megindítását megelőzően a vagyonkezelői hozzájárulás is kiadásra kerülhessen.
+
+A vízügyi igazgatási szervek nagyvízi mederre és parti sávokra vonatkozó feladatainak ellátása során, a jogszabályokban előírt vízfolyás (folyók, kisvízfolyások, csatornák) medrek és parti sávok lehatárolásához és bejegyzéséhez szükséges információk egy részét a Mezőgazdasági Parcella Azonosító Rendszer digitális ortofotó adatbázisa és a fedvények, tematikus fedvények szolgáltatják. A fent nevezett adatokból és a vízügyi adatok összevetéséből meghatározhatók a jogilag rendezetlen szakaszok, továbbá az ingatlan-nyilvántartási térképtől eltérő szakaszok. Az eltérést mutató szakaszok jogi rendezésének hiányában nem lehetséges a lehatárolás és az ingatlan-nyilvántartási bejegyzések elvégzése.
+
+A vízügyi és vízvédelmi hatóság az engedélyezési eljárás során az aktuális ortofotót (segédinformációként a MePAR egyes fedvényeit) a tervezett öntézési terület azonosítására használja. Az öntözött területek ellenőrzésére, illetve az ezt követően induló kötelezésre irányuló eljárásban az öntözött terület azonosítására az aktuális ortofotót, az öntözés tényének ellenőrzésére, a helyszíni szemlén ellenőrizendő terület/parcella/kultúra azonosítására, lehatárolására a MePAR egyes fedvényeit használja fel. A BFKH FTFF által fejlesztett Távérzékeléses Öntözés Monitoring Rendszer adatainak, a MePAR fedvények és az öntözési engedélyek adataink összevetésével nyílik lehetőség azon területek felderítésére, melyeken - a növénykultúra fejlettségét alapul véve - valószínűsíthetően engedély nélküli öntözés történik. Ennek meghatározásához tehát a hivatásos katasztrófavédelmi szervezet egésze számára szükséges a §-ban szereplő MePAR hozzáférés.
+
+A 20. §-hoz
+
+A vízkivételt biztosító vízilétesítmények engedélyezési eljárása egyszerűsítésre kerül azáltal, hogy az ügyfelek mentesülnek a termőföld más célú hasznosításának engedélyezési kötelezettsége alól, így nem kell az ehhez kapcsolódó műszaki dokumentációt elkészíttetni és az erre vonatkozó igazgatási szolgáltatási díjat megfizetni.
+
+A 21. §-hoz
+
+A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény kiegészítése szükséges annak érdekében, hogy a hivatásos katasztrófavédelmi szerv az iparbiztonsági, a veszélyes áruk szállításának ellenőrzésével kapcsolatos, továbbá a külön jogszabály alapján hatáskörébe utalt hatósági eljárások során és az eljárások végleges lezárását követően kezelhesse az ügyfelek személyes adatait.
+
+A hivatásos katasztrófavédelmi szerv a szabálysértési, valamint panaszeljárási szabályok keretein belül a vonatkozó ágazati jogszabályokra tekintettel végzi a következő hatósági feladatait:
+
+- engedélyezési tevékenység,
+
+- felügyeleti tevékenység,
+
+- nyilvántartási tevékenység,
+
+- ellenőrzési tevékenység,
+
+- bírságolási tevékenység.
+
+A 22. §-hoz
+
+Az Mötv. módosítása szükséges továbbá arra tekintettel is, hogy összhangban a közigazgatási szankciókra vonatkozó törvényi szabályozással meghatározásra kerüljön, hogy a helyi önkormányzat képviselő-testülete rendeletében meghatározott kötelezettségek elmulasztása esetére közigazgatási szankciót állapíthat meg, amely egyébként a helyi önkormányzat saját bevételét képezi.
+
+A 23-27. §-hoz
+
+Kiegészíti a közszolgálati tisztviselőkről szóló törvény értelmező rendelkezéseit a nemzetközi közigazgatási szakértői tevékenység fogalmával. Ez a fogalom a nemzetközi színvonalú hazai állami digitális megoldások exportjával és programjának fejlesztésével összefüggő - külföldön történő feladatvégzéssel járó, ellentételezés fejében ellátott szakértői - tevékenységet takarja.
+
+Az e tevékenységben való részvétel az összeférhetetlenségi szabályok megfelelő módosításával más foglalkoztatási jogviszony keretében is lehetővé válik a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozók számára, de időbeli korlátozással: munkáltatói érdekek méltányos érvényesítése érdekében az összeférhetetlenségi szabály időkorláthoz kötött, a törvény a tevékenység időtartamát hat hónapban maximalizálja. A munkáltatói érdek méltányos érvényesítése érdekében az összeférhetetlenségi szabály előzetes engedélyhez is köti a tevékenység végzését. A szabályozás azonos tartalmú a Hszt.-be beillesztésre kerülő szabályozással.
+
+A nemzetközi közigazgatási szakértői tevékenység végrehajtására célfeladat keretében is lehetőséget teremt a törvény. Ez a szabályozás is keretjellegű, alapvetésként rögzíti, hogy a célfeladat alapja a digitális exportban közreműködő szervezet és a munkáltató közötti megállapodás. Az érintett közszolgálati tisztviselő jogviszonya folyamatosan fennáll szakértői tevékenység ideje alatt is, az a munkáltató döntése, hogy milyen módon engedi el az érintett foglalkoztatottat (pl. fizetés nélküli szabadság, szabadság, munkavégzés alóli mentesítés, stb.). A szakértői tevékenység befejezését követően az érintett a korábban betöltött munkakört látja el. A költségeket ebben az esetben a munkáltató előlegezi meg, melyet utólag a közreműködő szervezet a projekt terhére finanszíroz. A nemzetközi közigazgatási szakértői tevékenység nem minősül külföldi kiküldetésnek, így az erre vonatkozó szabályokat nem kell alkalmazni. A célfeladat ezen speciális esetköre kapcsán egy felhatalmazó rendelkezés is beépítésre kerül a törvénybe.
+
+Ahhoz, hogy az érintett részére lehetőség legyen fizetés nélküli szabadság engedélyezésére, ennek lehetőségét törvényi szinten rögzíteni kell. Hangsúlyozandó, hogy ez csak az egyik lehetőség a nemzetközi közigazgatási szakértői tevékenység kapcsán, emellett más formák is lehetségesek (pl. szabadság igénybevétele, munkavégzés alóli mentesítés).
+
+A 28. §-hoz
+
+A módosítás a rendelkezési nyilvántartásban rögzített meghatalmazás esetén annak elfogadását is megköveteli, továbbá az adminisztrációs terhek csökkentése érdekében a rendelkezési nyilvántartásba vett meghatalmazás hatályosságát külön bejelentéshez köti. Ennek érdekében rögzíti, hogy az eljárás alá vont személy rendelkezési nyilvántartásban rögzített, meghatalmazásra irányuló nyilatkozata kizárólag attól az időponttól lesz hatályos az eljáró szabálysértési hatósággal, illetve bírósággal szemben, amikor azt az érintett bejelenti.
+
+A 29. §-hoz
+
+Az eljárás alá vont személyhez hasonlóan a sértett esetében is kötelezővé teszi a módosítás a rendelkezési nyilvántartásban rögzített, meghatalmazásra irányuló nyilatkozat bejelentését, világossá téve, hogy az egyébként érvényes meghatalmazás a bejelentéstől kezdve hatályos az eljáró bírósággal, szabálysértési hatósággal szemben.
+
+A 30. §-hoz
+
+Bár a védő kirendelésére vonatkozó hatályos szabályozásból következtetéssel levezethető, de indokolt, hogy külön értelmezés nélkül is egyértelmű legyen az őrizetbe vett eljárás alá vont személy kötelező ügyvédi képviseltéről történő törvényi rendelkezés.
+
+A 31. §-hoz
+
+A módosítás célja annak egyértelmű rögzítése, hogy a kirendelés hatályát veszti, amikor az eljárás alá vont személy bejelenti a rendelkezési nyilvántartásban rögzített (és elfogadott) meghatalmazás tényét, vagy a meghatalmazást a Szabs. tv. szerint benyújtja.
+
+A 32. §-hoz
+
+A Szabs. tv. 128. § (1) bekezdés d) pontja alapján az ügyész az elkövető javára csak a bíróság elzárásra átváltoztató végzése ellen kezdeményezhet perújítást. Az ügyész részére indokolt minden, a 127. § (1) bekezdésben meghatározott jogcím alapján biztosítani - az elkövető javára irányuló - perújítás jogát. Az érintett nem feltétlenül értesül a perújítás lehetőségéről, a perújítást megalapozó okról, míg a szükséges információk a törvényességi ellenőrzési tevékenysége során az ügyész rendelkezésére állnak.
+
+A 33. §-hoz
+
+A Szabs. tv. bírságkezelő központ feladatkörét meghatározó rendelkezés technikai jellegű módosítása az indokolatlan párhuzamosság elkerülése, valamint a normavilágosság követelményének érvényre juttatása céljából szükséges, mivel a visszajelzések alapján a hatályos - bonyolultabb - megfogalmazás értelmezési nehézségeket vetett fel.
+
+A szabálysértési eljárás speciális esete a helyszíni bírság, amelynél az elkövető aláírásával a cselekményt a helyszínen elismeri. Főszabály szerint azzal kapcsolatban, hogy a szabálysértés megvalósult-e, a bírság tudomásul vételét követően már nincs helye jogorvoslatnak. Ezen túl a Szabs. tv. 99/A. §-a lehetőséget ad a helyszíni bírság utólagos felülvizsgálatára jogszabálysértés esetén.
+
+A meg nem fizetett helyszíni bírság átváltoztatása során a bírósági gyakorlat országszerte eltérően alakul, mivel több bíróság is mellőzi az átváltoztatást és akkor is a kiszabott helyszíni bírság hatályon kívül helyezéséről rendelkezik, amikor a helyszíni bírság kiszabásakor nem anyagi jogi jogszabálysértés történt, hanem apró eljárási - adminisztratív, elírási - hibában szenved, vagy a bíró megítélése szerint a tényállás nem volt részletesen kifejtve a bírságszelvényen. Ezen döntések által a bíróság a helyszíni bírság kiszabását gyakorlatilag jogszabálysértőnek minősíti.
+
+Az egységes joggyakorlat kialakítása érdekében rögzíteni szükséges, hogy a bíróságnak a helyszíni bírság átváltoztatásával összefüggő döntése során is csak a Szabs. tv. 99/A. § (3) bekezdésében foglalt, felülvizsgálatot megalapozó jogsértések esetén legyen lehetősége a helyszíni bírság hatályon kívül helyezésére.
+
+A 34. §-hoz
+
+A szabálysértési szabályozásért felelős miniszterhez, illetve a köztársasági elnökhöz felterjesztett méltányossági kérelmekkel kapcsolatos tapasztalatok alapján megállapítható, hogy a Szabs. tv. 147. § (1) bekezdés szerinti méltányossági kérelem benyújtására jogosult személyi kör meghatározása nem kellően egyértelmű az elkövetők számára. Az egységes joggyakorlat kialakítása érdekében szükséges a módosítás, mivel a hatályos szabályozás eltérő értelmezésre ad lehetőséget a kérelem benyújtásához való beleegyezés fogalma tekintetében. Az eljárás során adott meghatalmazás időbeli hatálya is megkérdőjelezhető, mivel alapesetben a képviseleti jogosultság a szabálysértési eljárásra vonatkozik, így az a jogerős döntéssel hatályát veszti [Szabs. tv. 53. § (1) bekezdés].
+
+A módosítással a méltányossági kérelem benyújtására vonatkozó meghatalmazás iránti nyilatkozat is csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével lesz érvényes, a rendelkezési nyilvántartásba vett meghatalmazás hatályosságának pedig előfeltétele lesz, hogy azt az eljáró bíróságnak, illetve szabálysértési hatóságnak bejelentsék.
+
+Az eljárási rend pontosítása kerül továbbá, mivel számos esetben kerülnek olyan ügyiratok felterjesztésre, amelyek esetében a hatályos jogszabályok alapján sincs helye méltányosság gyakorlásának.
+
+A 35. §-hoz
+
+Országosan eltér a gyakorlat abban, hogy a bíróságok kötelesek-e az elzárással is sújtható szabálysértések elkövetése miatt kiszabott pénzbírság, közérdekű munka büntetések átváltoztatása esetén az adatok szabálysértési nyilvántartási rendszerben történő rögzítésére vagy ezt a végrehajtást végző a szabálysértési hatóságnak kell megtennie. A szabálysértési törvény e tekintetben nem koherens, mert a bíróság, illetve a szabálysértési hatóság részére is előírja a hivatkozott adatok rögzítési kötelezettségét. A végrehajtási rendelet szerint a szabálysértési hatóság köteles rögzíteni a Szabs.tv. 153. § (2) bekezdés i) és n) pontjában meghatározott adatokat az irat visszaérkezésétől számított 3 napon belül, míg a bíróság adatrögzítési kötelezettségére vonatkozó rendelkezések ilyen utalást nem tesz.
+
+Az eljárás során a bíróság az előtte folyamatban volt ügyeket végrehajtás céljából - hivatkozva a fenti „duplikált” törvényi szabályozásra, valamint a végrehajtási szabályra - megküldi az illetékes szabálysértési hatóságnak. A gyakorlatban előfordul, hogy a megküldést megelőző, bírósági „saját” döntésre vonatkozó adatrögzítés akadályba ütközik - figyelemmel arra, hogy csak a beazonosított előzményi adatokhoz van lehetőség további adat hozzárendelésére -, mivel a szabálysértési hatóság korábban hiányosan közölte a releváns előzmény-adatokat, A módosítással egyértelművé válik, hogy a közérdekű munkára, illetve elzárásra történő átváltoztatást és az ahhoz kapcsolódó adatokat az a szabálysértési hatóság rögzítse, amely az ügyiratot - végrehajtás céljából - az átváltoztatást követően úgyis megkapja. Így biztosítottá válik az is, hogy az esetlegesen hibásan közölt adatok javításra, pótlásra kerüljenek a nyilvántartásban.
+
+A fentiek alapján okafogyott, hogy a bíróság törvényi adatrögzítési kötelezettségei között szerepeljenek ezen adatkörök.
+
+A büntető ügyekben eljáró bíróságok a büntetőeljárás során jogosultak a vádlott szabálysértési felelősségre vonásáról dönteni abban az esetben, ha azt állapítják meg, hogy az elkövető cselekménye nem bűncselekmény, hanem szabálysértés. Ezek olyan szabálysértési cselekmények, amelyekben a döntéshozatal a szabálysértési törvény szabályai szerint
+
+- előkészítő eljárás lefolytatását követően a szabálysértési ügyekben eljáró bíróságok vagy
+
+- a járási hivatalok hatáskörébe tartozik.
+
+Amennyiben a fentiek alapján a büntető bíróság szabálysértés tárgyában döntést hoz, úgy azt az SZNYR rendszer jelenlegi technikai felépítésére figyelemmel (a bíróság önállóan nem tud adatot rögzíteni, csak a szabálysértési hatóságok által felvezetett előzményekhez tud adatot felvezetni) nem tudja bevezetni az SZNYR-be, ekként nem tud eleget tenni az adatszolgáltatási kötelezettségének.
+
+Tekintettel arra, hogy a hatályos szabályozás alapján a bírósági adatrögzítés feltétele az adott üggyel kapcsolatos előzményadatok SZNYR-ben való megléte, indokolt a jelzett probléma törvénymódosítással való megoldása. Mivel adatkezelésről van szó, így mindenképpen szükséges törvényben rögzíteni, hogy az ügy alapadatainak rögzítése mely hatóságnak a feladata. Ezen alapadatok szolgálnak előzményül a bírósági döntés alapján keletkezett nyilvántartási adatoknak.
+
+A bíróság csak előzmény adatokhoz rendelhet hozzá új adatokat, ezért indokolt, hogy a kérdéses esetkörben a végrehajtásért felelős szabálysértési hatóságot terhelje az adatrögzítési kötelezettség tekintettel arra, hogy a bíróság az ügyiratot úgyis oda küldi meg a jogerő után.
+
+A 36. §-hoz
+
+Felhatalmazó rendelkezések.
+
+A 37. §-hoz
+
+A Szabs. tv. 128. §-a (1) bekezdés d) pontjának módosítása az ügyész részére minden, a Szabs. tv.-ben meghatározott jogcím alapján biztosítani kívánja az elkövető javára irányuló perújítás jogát. Az elkövető terhére a Szabs. tv. 128. § (2) bekezdése alapján senki nem jogosult perújítást kezdeményezni, ezért a koherencia érdekében szükséges a Szabs. tv. 127. § (1) bekezdése a) pont ab) alpont törlése, tekintettel arra, hogy e pontban foglaltak alapján az elkövető súlyosabb szankcióval sújtandó, fogalmilag csak az elkövető terhére irányulhat, így egy kiüresedett jogintézményről van szó.
+
+A jelen módosítással hatályon kívül helyezett rendelkezés a bírságkezelő központ létrejöttét megelőző átmeneti időszak kezelésére, a kormányhivatalok által kezelt számlaszámokra vonatkozó betekintés érdekében került be a törvénybe. A kormányhivatalok hivatkozott számlái 2016. december 31-ével megszűntek és 2017. január 1-jétől központosított számlán kerülnek kezelésre a befizetéseket, melyekre rálátása van a bírságkezelőnek, így a 141. § (2e) tartalma kiüresedett, valamint a hatályban tartása félreértéshez is vezethet.
+
+A 38. §-hoz
+
+A vízügyi igazgatási szervek által kezelt, illetve üzemeltetett 60.000 db. földrészletet meghaladó vízfolyás és csatornahálózat nyomvonala a földrészletek megosztása, egyesítése és nyomvonal módosítása következtében folyamatosan változik. A vagyonkezelési, üzemeltetési fenntartási és védekezési munkák hatékony ellátásához szükséges a vízügyi adattárnak a valóságnak megfelelő adattartalommal történő feltöltése. Az engedély és bejelentés nélkül megkezdhető, üzemeltethető kutak szakszerű területi lehatárolásáról a vízügyi igazgatási szervek adnak az állampolgárok részére tájékoztatást, amely csak úgy valósulhat meg, ha az állami ingatlan-nyilvántartási térképi adatbázison alapul. A tájékoztatási rendszer 2018-tól indul, ezért az adatbázisokhoz való hozzáférésre is 2018-tól szükség van.
+
+A vízügyi és vízvédelmi hatósági ellenőrzési tevékenység térinformatikai támogatással valósul meg a projekt keretében mind a VIZEK, mind az IHR tekintetében. Ezen túlmenően a helyszíni hatósági ellenőrzés során a helyszín és tulajdonosainak egyértelmű beazonosítása érdekében szükséges a térkép adatállományok megismerése és kezelése már 2018-tól.
+
+E célt szolgálja az állami ingatlan-nyilvántartási térképi adatbázishoz történő folyamatos, valamint a topográfiai térképi adatbázishoz (amely tartalmazza az 1:10000 szintvonalrajz fedvényt is), a távérzékelési adatbázishoz és a domborzatmodellhez való évente egyszeri ingyenes hozzáférés a vízügyi igazgatási szervek számára. A hatósági feladatellátáshoz domborzatmodellre nincs szükség, így ott szűkített az adatkérés.
+
+A jelenleg hatályos törvény az Országos Erdőállomány és Adattár nyilvántartásához szükséges adatokat, valamint a településrendezési feladatok ellátásához az önkormányzatok adatigényét díj -, költség-, és térítésmentesen biztosítja, az adatigénylés a fentiekhez hasonlóan valósulna meg a vízügyi igazgatási szervek számára is.
+
+A törvény egyúttal tartalmazza, hogy mindazon állami és önkormányzati szervek, akik az állami ingatlan-nyilvántartási és az állami alapadatok adatbázisaiból díj-, költség- és térítésmentesen hozzáférhetnek adatokhoz, azok az általuk kezelt adatbázisaikból díj-, költség- és térítésmentesen biztosítanak hozzáférést a földmérési és térinformatikai államigazgatási szerv számára az állami alapadatok adatbázisainak felújításával és aktualizálásával kapcsolatos feladatai ellátásához.
+
+A 39. §-hoz
+
+A módosítás indoka, hogy az állami halászati őrök a NEBIH alkalmazásában álló kormánytisztviselők, akiknek feladata és működési területe jelentősen eltér a halgazdálkodásra jogosultak által foglalkoztatott halászati őröktől. Az állami halászati őrök nem csak a vízparton jogosultak ellenőrizni, hanem a hal származását az egész ország területén ellenőrizhetik, kereskedőknél, szállítóknál, forgalmazóknál, feldolgozóknál.
+
+A 40. §-hoz
+
+Az a) pont módosítása szolgálja a hatályos ágazati törvény címének történő megfeleltetést.
+
+A b) pont szerinti módosítás oka, hogy a hatályos halgazdálkodással összefüggő jogszabályok a halgazdálkodási vízterület fogalmát ismerik, illetve definiálják.
+
+A 41. §-hoz
+
+Az irányelvben használatos fogalmak átültetése szükséges, mert a kijelölési folyamatban ezek mentén zajlik a kritériumok vizsgálata.
+
+A 42. §-hoz
+
+Az alapvető szolgáltatásokat nyújtó szereplők kijelölését a nemzeti létfontosságúvá történő eljáráson belül célszerű végezni, mert az eljárás a NIS irányelv szerinti kritériumok közül azt, hogy a szolgáltató kritikus társadalmi és/vagy gazdasági tevékenységek fenntartásához alapvető szolgáltatást nyújt-e, már vizsgálja, így csak a másik két kritériummal történő kiegészítés szükséges. A NIS irányelv 5. cikk (3) alapján a tagállamok jegyzéket vezetnek az alapvető szolgáltatásokat nyújtó szereplőkről, ezzel a feladattal egészül ki az Lrtv. 5. § (1) szerinti nyilvántartó hatóság feladatköre. A NIS irányelv 5. cikk (5) alapján a tagállamoknak 2018. május 9-ét követően legalább kétévente felül kell vizsgálniuk az alapvető szolgáltatásokat nyújtó szereplők jegyzékét, ez a követelmény jelenik meg a jegyzéket vezető nyilvántartó hatóság feladatai között.
+
+A 43. §-hoz
+
+A már kijelölt nemzeti létfontosságú rendszereleme tekintetében történő megfeleltetésről rendelkezik.
+
+A 44. §-hoz
+
+A jogharmonizációs záradékot tartalmazza.
+
+A 45. §-hoz
+
+A 4. melléklet az Lrtv. szerinti és a NIS irányelv II. mellékletében szereplő ágazatok, illetve alágazatok megfeleltetését tartalmazza. Az Lrtv. alapján több ágazat, alágazat szereplőiből történik a létfontosságú rendszerek, létesítmények azonosítása és kijelölése, a NIS irányelv ennél szűkebb kört kíván szabályozni. A mellékletben szereplő megfeleltetés annak eldöntéséhez szükséges, hogy a kijelölési eljárásban vizsgálni kell-e az alapvető szolgáltatásokat nyújtó szereplők azonosítására szolgáló kritériumokat.
+
+A 46. §-hoz
+
+Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény rendelkezései megfelelnek a NIS irányelvnek, azonban szükséges a jogharmonizációs záradék beépítése.
+
+A 47. §-hoz
+
+A közlekedési igazgatási jogszabályok szerint egy darab rendszámtábla elvesztése, eltulajdonítása esetén engedélyezhető a rendszámtábla utángyártása, ha ennek jogszabályi feltételei adottak. A járművezetőket érintő esetleges joghátrányok, problémák megelőzése érdekében a figyelmeztető jelzésnek a Schengeni Információs Rendszerben (SIS II rendszer) történő elhelyezésére vonatkozó törvényi szabályozáshoz [SIS II tv. 11. § (4) bek. a) pont] hasonló módon a Körtv.-ben is szükséges kimondani az utángyártott 1 darab rendszámtábla körözésének tilalmát.
+
+A 48. §-hoz
+
+Jelen módosítás célja, hogy koherens módon az a szerv váljon jogosulttá a körözési adat ellenőrzésére és a Rendőrség értesítésére, amely az adat átvételére is jogosult. A módosítás eredményeként rendszer-rendszer kapcsolat útján, ügymenetbe épített módon, az okmányügyintéző tudta nélkül értesülhet a Rendőrség és a körözési eljárást lefolytató rendőri szerv a körözött személy hollétéről, és az az okmány- és hatósági bizonyítvány iránti eljárásokban a személykörözési adatok ellenőrzésére és az azonosság megállapítását követő rendőrségi értesítésre ügymenetbe épített - az okmányügyintézőtől független - módon kerülhet sor.
+
+A 49. §-hoz
+
+A vízjogi engedélyezési eljárásokkal összefüggésben rendezni szükséges az öntözési célú szolgalom kérdéskörét, amelyet az Fétv. 26. § (1) és (2) bekezdése ugyan megállapít, de a Ptk.-tól eltérő törvényi szintű szabályozás hiányában az osztatlan közös tulajdonban álló ingatlanok vonatkozásában is egyhangú hozzájárulást követel meg a szolgalommal érintett haszonélvezőktől, tulajdonosoktól, vagyonkezelőtől, tulajdonosi joggyakorlótól.
+
+Mindez a gyakorlatban az öntözési célú vízjogi engedélyezési eljárásokat megelőző előkészítés elhúzódásához vezet, hiszen közös tulajdon esetén szükséges valamennyi tulajdonosi hozzájárulás beszerzése a jogilag rendezetlen tulajdoni viszonyok esetében is. A Földművelésügyi Minisztérium által megfogalmazott javaslat, a probléma kezelésére a tulajdonosi hozzájárulások, megállapodások és szolgalmi jogok keletkezése vonatkozásában - a haszonbérbeadás analógiájára - a Fétv. 71. § (3) bekezdés alapján speciális szabályt mond ki. Ezzel megszűnnek a polgári jogi rendezés előtt fennálló tulajdonjogi és szolgalmi akadályok, és az engedélyt kérő beruházó az ingatlanhoz fűződő polgári jogi kérdéseket rövid időn belül képes rendezni.
+
+Az 50. és 61. §-hoz
+
+Kiegészíti a Hszt. értelmező rendelkezéseit a nemzetközi közigazgatási szakértői tevékenység fogalmával. Ez a fogalom a nemzetközi színvonalú hazai állami digitális megoldások exportjával és programjának fejlesztésével összefüggő - külföldön történő feladatvégzéssel járó, ellentételezés fejében ellátott szakértői - tevékenységet takarja.
+
+Az e tevékenységben való részvétel az összeférhetetlenségi szabályok megfelelő módosításával más foglalkoztatási jogviszony keretében is lehetővé válik a hivatásos állomány tagjai számára, de időbeli korlátozással: munkáltatói érdekek méltányos érvényesítése érdekében az összeférhetetlenségi szabály időkorláthoz kötött, a törvény a tevékenység időtartamát hat hónapban maximalizálja. A munkáltatói érdek méltányos érvényesítése érdekében az összeférhetetlenségi szabály előzetes engedélyhez is köti a tevékenység végzését. A szabályozás azonos tartalmú a közszolgálati tisztviselőkről szóló törvénybe beillesztésre kerülő szabályozással.
+
+Az 51. §-hoz
+
+A törvény egyrészt módosítja a Hszt. 6. § (7) bekezdését. A hatályos szöveghez képest a nyilatkozat szó helyett jognyilatkozat szó fog szerepelni a rendelkezésben, továbbá kiegészül azon esetkörök meghatározásával, amikor a jelzett tárgykörökben a jognyilatkozatot elektronikus dokumentumban (és legalább fokozott biztonságú elektronikus aláírással) kell megtenni. A Hszt. szabályozásának előkészítése során a jogalkotói szándék egyrészt az volt, hogy a hivatásos állomány tagja részéről azon nyilatkozatok megtétele legyen elektronikus útra terelve, amelyek egy adott munkáltatói intézkedések hatályosulásához szükségesek (például beleegyezés, elfogadás, stb.), másrészt hogy a hivatásos állomány tagja részéről azon nyilatkozatok megtétele is elektronikus legyen, amelyekben a hivatásos állomány tagja kezdeményez (pl. lemondás, egyes kérelmek, mint a kártérítési vagy sérelemdíj iránti igény, panasz, méltányossági kérelem). Emellett a felsorolás tartalmazza még a szolgálati panasz benyújtásának esetkörét is, továbbá azon eseteket, amikor egy eljárás részeként az eljárási részcselekmények rögzítésére elektronikus jegyzőkönyvben kerül sor, és a hivatásos állomány tagjának nyilatkozatát abban szükséges rögzíteni, pl. amikor ahol a hivatásos állomány jegyzőkönyv aláírásával teszi meg jognyilatkozatát.
+
+Ez utóbbi esetben ki kell emelni, hogy a jognyilatkozatot tartalmazó jegyzőkönyv elektronikus aláírása technikailag megoldott, a szervek a munkáltatói intézkedések elektronikus kiadmányozása és kézbesítésének bevezetéséhez a szükséges előkészületeket megtették (e-aláírások, e-szig vagy AVDH szolgáltatás használata). A személyzeti elbeszélgetéseken is így kell eljárni.
+
+A szövegpontosítással egyértelművé válik, hogy pl. a kártérítési eljárás során a nem ritkán mellékletekkel együtt előterjesztett indítványok - amelyek mérete az ügyfélkapu, illetve a munkáltatói hivatali kapu kapacitását meghaladhatja - nem tartoznak e körbe. A szabályozás kimentési lehetőséget biztosít a hivatásos állomány tagjának, ha az elektronikus dokumentum kiállítása bármely okból nem lehetséges, ekkor a hivatásos állomány tagja jognyilatkozatát papír alapú dokumentumban teheti meg.
+
+Az 52. §-hoz
+
+A törvény tartalmazza a kifogástalan életvitel ellenőrzéshez való hozzájárulás visszavonása esetén a szolgálati viszony törvény erejénél fogva történő megszűnésének kimondását. A Hszt. 33. § (1) bekezdés d) pontja és 42. § (3) bekezdése alapján a szolgálati viszony létesítésének és fenntartásának a feltétele az ellenőrzéséhez való hozzájárulás. A hozzájárulás a szolgálati viszony fennállása alatti ellenőrzéshez való hozzájárulást is jelenti. A hozzájárulás nem határozott időre szól, hanem az egész szolgálati viszony idejére, a törvény szerinti rendelkezés ezt erősíti meg.
+
+Az 53. §-hoz
+
+A Hszt. 52. § (2) bekezdése tartalmazza a szolgálati viszony módosításának különös eseteinek felsorolását. Ezen felsorolás l) pontja szerint a szolgálati viszony módosításának minősül a rendelkezési állományba helyezés. Tekintettel arra, hogy a rendelkezési állomány megszűnését követő szolgálati beosztásba helyezés is a szolgálati viszony módosulásának az esete, indokolt a Hszt. 52. § (2) bekezdésének ezirányú kiegészítése.
+
+Az 54. és a 64. §-hoz
+
+A nemzetközi közigazgatási szakértői tevékenység végrehajtására célfeladat keretében is lehetőséget teremt a törvény, a célfeladatra vonatkozó szabályok ezúttal is alapvetően a közszolgálati tisztviselőkről szóló törvény rendelkezéseire történő visszahivatkozással kerül megalkotásra. A szabályozás keretjellegű, alapvetésként rögzíti, hogy a célfeladat alapja a digitális exportban közreműködő szervezet és a munkáltató közötti megállapodás. Az érintett szolgálati viszony folyamatosan fennáll a szakértői tevékenység ideje alatt is, az a rendvédelmi szerv döntése, hogy milyen módon engedi el az érintett foglalkoztatottat (pl. illetmény nélküli szabadság, szabadság, szolgálat alóli mentesítés stb.).
+
+A szakértői tevékenység befejezését követően az érintett a korábban betöltött szolgálati beosztást látja el. A költségeket ebben az esetben a munkáltató előlegezi meg, melyet utólag a közreműködő szervezet a projekt terhére finanszíroz. A nemzetközi közigazgatási szakértői tevékenység nem minősül sem külföldi kiküldetésnek, sem külföldre vezénylésnek, így az erre vonatkozó szabályokat nem kell alkalmazni.
+
+Ahhoz, hogy az érintett részére lehetőség legyen illetmény nélküli szabadság engedélyezésére, ennek lehetőségét törvényi szinten rögzíteni kell. Hangsúlyozandó, hogy ez csak az egyik lehetőség a nemzetközi közigazgatási szakértői tevékenység kapcsán, emellett más formák is lehetségesek (pl. szabadság igénybevétele, szolgálat alóli mentesítés).
+
+Az 55. §-hoz
+
+A Hszt. 33. §-ában foglalt módosítással való összhang megteremtését célozza. Tekintettel arra, hogy a Hszt. 33. § (1) bekezdés d) pontját akként módosítja a törvény, hogy a kifogástalan életvitel ellenőrzéshez való hozzájárulás visszavonása esetén a szolgálati viszony törvény erejénél fogva megszűnik, szükséges a Hszt. ezirányú kiegészítése a törvény erejénél fogva történő megszűnés eseteinek felsorolásánál is.
+
+Az 56-59. §-hoz
+
+A rendvédelmi egészségkárosodási ellátás megállapítására irányuló eljárás egyes lépéseinek sorrendjét változtatja meg a módosítás. A módosítás következtében a Becsületbíróságnak a közrehatás vizsgálatára irányuló eljárására időben hamarabb kerül sor, illetve a szabályozás jelenlegi, időben lineáris eljárásrendjét párhuzamos eljárási cselekmények váltják ki.
+
+A módosítást követően a 45 napos állásfelajánlási szakasszal egyidejűleg kerül sor a Becsületbíróság összehívására; mind az 50% feletti, mind az 50% vagy az alatti egészségi állapot esetében (tehát amikor miniszteri mentesítési eljárás is van). Ezen módosítással biztosítható egyrészt, hogy a továbbfoglalkozatás alóli mentesítésre irányuló kérelem elbírálásakor már rendelkezésre álljon az a becsületbírósági határozat, mely a közrehatás vizsgálata tárgyában született. Másrészt, ha mentesítési kérelem benyújtására nem kerül sor, akkor a becsületbírósági vizsgálatnak az állásfelajánlási szakasszal való egyidejűségével az eljárás ideje rövidül. A módosítás az egészségkárosodási ellátásra jogosultsági feltételek nem változnak.
+
+Kismértékben módosít továbbá néhány eljárási határidőt. Továbbá az egészségkárosodási ellátásra jogosultság megállapítására irányuló eljárás időtartama alatti szolgálatmentesség kérdését is rendezi.
+
+A törvény pontosít továbbá az egészségkárosodási ellátás mértékének megállapításához figyelembe veendő szolgálati idő fogalmán.
+
+A 60. §-hoz
+
+A Hszt. 82/B. §-ának új (7) bekezdésével összefüggésben a rendelkezés kiegészíti a szolgálatteljesítési kötelezettség alóli mentesség esetköreit meghatározó felsorolást.
+
+A 62. és a 76. §-hoz
+
+A fizetési fokozatban történő előresoroláshoz a Hszt. több feltétel egyidejű teljesítését határozza meg: egyrészt a fizetési várakozási idő elteltét, másrészt a továbbképzési kötelezettség teljesítését, harmadrészt a teljesítményértékelés megfelelő szintjét. Ezen szabályokra tekintettel mondja ki a Hszt. 117. § (6) bekezdés c) pontja általános jelleggel, hogy azok, akik a rendelkezési állomány ideje alatt munkát nem végeznek, a rendelkezési állomány ideje nem számít bele a fizetési várakozási időbe. A módosítás ugyanakkor a gyermekgondozás céljából igénybevett illetmény nélküli szabadságon tartózkodók esetében ezen a szabályozáson enyhít (a fizetési fokozatban előrelépés a gyermekgondozás céljából igénybe vett illetmény nélküli szabadságon lévő csak az általános szabályhoz képest megengedőbb rendelkezés beillesztésével - előnyben részesítés - biztosítható): esetükben megengedi, hogy legfeljebb 4 év időtartamban a rendelkezési állomány ideje a fizetési várakozási időbe beszámítson. Ez azt is jelenti, hogy ezen időszak vonatkozásában a másik két - a továbbképzési és a teljesítményértékelési - feltételnek nem kell teljesülnie. A módosítás rendezi azt is, amikor az érintett megszakításokkal tartózkodik gyermekgondozási célból igénybe vett illetmény nélküli szabadságon, ilyenkor azok idejét össze kell számítani és a 4 éves korlátot együttesen kell alkalmazni.
+
+A rendelkezéssel kapcsolatosan egy átmeneti rendelkezés is beillesztésre kerül a törvénybe, amelynek értelmében a 2015. július 1. és 2017. december 31. közötti időtartam is figyelembe veendő az új rendelkezés alkalmazása során (a korábban hatályos törvény a fizetési fokozatokat más rendszerben szabályozta, így azt megelőző időszakra az átmeneti rendelkezést nem kell kiterjeszteni).
+
+A 63. §-hoz
+
+A Hszt. szülési szabadságra vonatkozó rendelkezése nem tartalmaz olyan rendelkezést, amely annak hatályát az örökbefogadó szülőre is kiterjesztené. Ilyen rendelkezés szerepel a munka törvénykönyvéről szóló 2012. évi I. törvény 127. § (2) bekezdésében, a Kttv. 110. § (2) bekezdésében, valamint - az előzőeknél jóval szélesebb körben - a honvédek jogállásáról szóló 2012. évi CCV. törvény 115. § (2) bekezdésében is. A módosítás célja, hogy a Hszt. is kiegészüljön ezzel a lehetőséggel, ehhez a bővebb felsorolást megjelenítő, a honvédek jogállására irányadó szabályokat alapul véve.
+
+A 65. §-hoz
+
+A Hszt. jelenleg nem rendelkezik arról, hogy a szolgálati beosztásból felfüggesztettek szabadságra jogosultak-e. A módosítás ezt a hiányzó rendelkezést építi be a törvénybe. A hivatásos állomány szolgálati beosztásból felfüggesztett tagja annak időtartama alatt nem teljesíthet szolgálatot - a felfüggesztés célja éppen a szolgálattól való távoltartás -, így ezen időtartamra a pihenéshez való alapjog érvényesülését célzó szabadság biztosítása nem indokolt. A szabadság jogintézmények célja a foglalkoztatottak rekreációjának biztosítása, a szolgálatteljesítés hiányában így ennek biztosítása nem indokolt. A törvény ugyanakkor csak kifejezetten a felfüggesztés időtartamára vonatkozik, azaz a felfüggesztés időtartama előtti és utáni időszakra - időarányosan - továbbra is jogosult a hivatásos állomány tagja.
+
+A 66. §-hoz
+
+A méltatlansági eljárást szabályozó rendelkezések nem adnak útmutatást arra az esetre, ha a méltatlansági eljárás megindítása vagy befejezése előtt megváltozik az eljárás alá vont szolgálati helye, ennek pótlását tartalmazza a rendelkezés, a fegyelmi eljárásra irányadó szabályozás alapulvételével.
+
+A 67. §-hoz
+
+Előfordulhatnak olyan esetek, amikor a szolgálati viszony megszűnéséről rendelkező munkáltatói intézkedés végrehajtására még azt megelőzően sor kerül, hogy az érintett a Becsületbírósághoz fordulna. Amennyiben a Becsületbíróság eljárásának kezdeményezésére nyitva álló határidő még nem telt le, az eljárás megindítására természetesen jogosult az ekkor már a hivatásos állomány volt tagjának számító személy is, nem csak az, aki még ténylegesen az állomány tagja. A rendelkezés ezt a tényt rögzíti az egyértelműség érdekében.
+
+A 68. §-hoz
+
+A hivatásos állomány tagjának kártérítési felelősségéhez kapcsolódó módosítás célja a másodfokú határozat esetében is annak kimondása, hogy jogorvoslat hiányában a határozat végrehajtható, ennek megfelelően kiegészíti a szabályozást azzal, hogy ha a kártérítésre kötelezett nem él keresettel, a kártérítésre vonatkozó határozat végrehajtható.
+
+A 69. §-hoz
+
+A tisztjelöltek szabadságával kapcsolatos szabályt rögzít.
+
+Abban az esetben, amikor a tisztjelölt az általános rendelkezések szerint egyben a tanulmányait is folytatja - azaz párhuzamosan hallgatói jogviszonya is fennáll -, nem indokolt, hogy részére a szabadság Hszt.-ben szabályozott formái biztosításra kerüljenek, a távollétre ebben az esetben a hallgatói jogviszonnyal kapcsolatos szabályokat kell érvényesíteni.
+
+Előfordulhat ugyanakkor olyan eset, amikor a hallgatói jogviszony szünetel, a tisztjelölti jogviszony viszont nem. A Hszt. 286. § (7) bekezdése rögzíti, hogy a tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti jogviszonyának fennállását nem érinti (azzal, hogy a tisztjelölt a munkáltatói jogkört gyakorlótól kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a tisztjelölti jogviszony szünetelését engedélyezze). Ezen esetkörrel kapcsolatosan a végrehajtási rendelet úgy rendelkezik, hogy ha a tisztjelölt hallgatói jogviszonyának szünetelésével egyidejűleg a tisztjelölti jogviszonyának szüneteltetésére nem kerül sor, őt ezen időtartam alatt a rendvédelmi szerv hetente legfeljebb tizenkét óra időtartamban szolgálati feladatokkal láthatja el, amellyel a tisztjelöltnek a hallgatói jogviszony szünetelésének időtartama alatt is a tiszti besorolási osztályba tartozó szolgálati beosztásban történő szolgálatteljesítésre való felkészülését segíti elő. Indokolt, hogy ebben az esetben szabadságra legyen jogosult a szolgálati feladatokat ellátó tisztjelölt, természetesen időarányosan illeti meg őt a szabadság. Mivel a heti legfeljebb 12 óra szolgálatteljesítés nem feltétlenül öt napra kerül elosztásra, ezért a tisztjelöltek részére nem napokban kerül megállapításra a szabadság tartama, hanem hetekben.
+
+A 70. §-hoz
+
+A nemzetbiztonsági szolgálatok hivatásos állománya esetében a miniszter utasításban határozta meg azon szolgálati beosztásokat, amelyek tekintetében a szolgálatoknál nem alkalmazható a munkáltatói intézkedések elektronikus kézbesítése az Ügyfélkapus tárhelyre. E tekintetben indokolt, hogy a nemzetbiztonsági szolgálatoknál foglalkoztatott közalkalmazotti állomány is a kivételi körbe kerüljön, figyelemmel az e személyi kör által ellátott feladatokra. A módosítás ezt célozza.
+
+A 71. §-hoz
+
+A hivatásos katasztrófavédelmi szerv állománya vonatkozásában a tűzvédelmi szakértői jogosultsághoz kötött tevékenységgel kapcsolatosan a Hszt. hatályos 328. § (1) bekezdése jelenleg is tartalmazza, hogy ilyen tevékenységet a szolgálati hely illetékességi és működési területén csak az igazságszolgáltatási szervek felkérésére végezhet a hivatásos állomány tagja. A törvény ezen rendelkezést terjeszti ki általánosan, a jövőben a szolgálati helytől függetlenül irányadó rendelkezéssé. Ezen módosítással összefüggésben okafogyottá válik a Hszt. 328. § (2) bekezdésében szereplő rendelkezés, így annak hatályon kívül helyezésére is sor kerül.
+
+A 72. §-hoz
+
+A nemzetközi közigazgatási szakértői tevékenységgel kapcsolatos célfeladatok végrehajtási szabályainak megalkotására irányuló felhatalmazó rendelkezést rögzíti.
+
+A 73. §-hoz
+
+A címzetes rendfokozat használatára vonatkozó szabályozása módosítása szükséges annak érdekében, hogy ne csak az viselhesse a korábban megszerzett rendfokozatát címzetesként tovább, aki a Hszt. hatálybalépésekor került alacsonyabb beosztásba, hanem később, az előmenetel során történő alacsonyabb beosztás esetén is legyen erre mód.
+
+A 74-75. §-hoz
+
+Meghatározásra kerül a 2018. január 1-jétől 2018. december 31-éig tartó időszakra a hivatásos állomány tagjának járó illetmény.
+
+A 2018. január 1. és 2018. december 31. közötti időszakra az alábbi átmeneti szabályok szerint kell az illetményt folyósítani.
+
+A 77. §-hoz
+
+A szövegcserés módosításokat tartalmazza.
+
+A 78. §-hoz
+
+A hatályon kívül helyező rendelkezéseket tartalmazza.
+
+A 79-82. §-hoz
+
+A hatályos kéményseprőipari szabályozás az ingatlanhasználót - a tüzelőanyag fajtájától függően - évente, illetve kétévente rendszeres kéményseprő-ipari sormunka ellenőrzés lehetővé tételére kötelezi. E kötelezettség az ingatlanhasználónak adminisztrációs és időbeli terhet jelent. E lakossági teher megszüntetése érdekében indokolt az egylakásos lakóépületeknél a rendszeres sormunka helyett a megrendelésre történő munkavégzést bevezetni. Az egylakásos épületeknél a sormunka így megszűnik, az ellenőrzést és tisztítást az egylakásos épület tulajdonosa megrendelheti szükség szerint, saját döntése alapján a területileg illetékes lakossági szolgáltatótól. Ezáltal az ingatlanhasználó egyéni felelősségvállalása növekszik, mivel a megrendelés nem kötelező. A megrendelés alapján a területi szolgáltató (az állami kéményseprő-ipari szerv, illetve egyes településeken az önkormányzati közszolgáltató) a sormunkában meghatározott feladatokat végzi el, amelyek lakossági körben továbbra is ingyenesek maradnak. A lakossági körön kívüli ingatlanok esetében már jelenleg is általánosan megrendelésre (díjfizetés ellenében) történik a kéményvizsgálat.
+
+Az ingatlanhasználó a módosítás következtében szabadon egyeztetheti a területi szolgáltatóval a kéményellenőrzés időpontját és nem függ a szolgáltató munkavégzési menetrendjétől.
+
+A 83-84. §-hoz
+
+Jogtechnikai pontosításokat tartalmaz, illetve egyértelművé teszi, hogy elektronikus ügyintézésre köteles az önálló bírósági végrehajtó mellett az önálló bírósági végrehajtó iroda is.
+
+A 83. § (2) bekezdésében szereplő definíció módosításával az elektronikus ügyintézésre kötelezettek köre változik. A kötelezettség a jövőben nem terjed ki a lakásszövetkezetekre, az adószámmal nem rendelkező, gazdasági tevékenységre fel sem készült, azt nem folytató egyesületekre, alapítványokra, valamint a gazdasági tevékenységet folytató, de jogi személyiséggel nem rendelkező társasházakra, alkalmi pertársaságokra. A módosítás révén ezen szervek mentesülnek a cégkapu létesítési kötelezettség alól, ügyeiket továbbra is hagyományos módon intézhetik.
+
+A 85. §-hoz
+
+Figyelemmel arra, hogy az adóigazgatási eljárásokban az adóhatóság előtti képviseleti jogosultság megállapításához gazdálkodó szervezetek számára olyan különleges szakismeret szükséges, amit a rendelkezési nyilvántartás nem tud biztosítani, a rendelkezési nyilvántartásban az érintett szervezetek nem tehetnek meghatalmazást a jelzett ügykörben.
+
+A 86. és a 89. §-hoz
+
+A törvény egyértelművé teszi, hogy a természetes személy jogosult, a gazdálkodó szervezet pedig köteles a bírságokat elektronikusan megfizetni, illetve az elektronikus ügyintézést biztosító szervek a méretkorlát meghaladása esetén nemcsak az ügyfél, hanem egymás felé is jogosultak az információkat adathordozón is továbbítani.
+
+A 87. §-hoz
+
+A törvény lehetővé teszi továbbá, hogy az egyes, jogszabály alapján átadható vagy átadni kötelező információkat a szervek egymás között ne küldjék, hanem azt elektronikusan elérhetővé tegyék a másik szerv számára.
+
+A 88. §-hoz
+
+A rendelkezés átmeneti időszak kialakításával biztosítja, hogy a gazdálkodó szervezetek a 2017. december 31-én hatályos e-kapcsolattartási szabályok mellett is intézhessék a NAV előtti ügyeiket, így a cégkapu használata helyett a korábbi ügyfélkapus kapcsolattal is kommunikálhassanak. A gazdálkodó szervezet azonban dönthet úgy is, hogy a cégkapuját használja.
+
+A rendelkezés emellett a rendelkezési nyilvántartás és az Egységes Képviseleti Nyilvántartás közötti kapcsolat kialakításáig, átmeneti időszakra adóigazgatási ügyekben nem engedi meg természetes személyek számára sem a képviseleti meghatalmazást a rendelkezési nyilvántartásban.
+
+A 90. §-hoz
+
+A vízkivételt biztosító vízilétesítmények esetében a fennmaradási engedély bírság nélküli megszerzésére biztosított határidő 2018. december 31-ről 2028. december 31-re meghosszabbításra kerül. Ugyanakkor a Vgtv.-t módosító 2016. évi XLI. törvény a Vgtv. ezen rendelkezését megállapító 29. § (7) bekezdését 2019. január 1-jével hatályon kívül helyezné. Ennek kizárása érdekében az érintett rendelkezések nem lépnek hatályba.
+
+A 91. §-hoz
+
+A módosítás a KSH részére történő kötelező adatszolgáltatások és adatátadásokra végrehajtására szolgáló elektronikus rendszerek (ELEKTRA, KARAT rendszer) használatával kapcsolatos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény rendelkezéseitől való eltéréseket állapítja meg. Az elektronikus adatszolgáltatás és adatátadás kötelező valamennyi KSH felé adatszolgáltatásra kötelezett személy és szervezet részére.
+
+A 92. §-hoz
+
+A 2017. évi L. törvény - 2018. január 1-jei hatályba lépéssel - újraszabályozza a vízgazdálkodásról szóló 1995. évi LVII. törvény vízügyi hatósági eljárásokra vonatkozó teljes fejezetét, de értelemszerűen a hatályos szövegezésből kiindulva. Ennek megfelelően a módosítás gondoskodik arról, hogy a 2017. évi L. törvény a vízkivételi egyszerűsítéseket már tartalmazó tartalommal lépjen hatályba.
+
+Az illegálisan létesített, továbbra is engedélyköteles vízkivételt biztosító vízilétesítményeknél a bírságmentes engedélyezésre vonatkozó moratórium 2018. december 31. napjáról 2028. december 31. napjáig kerül meghosszabbításra. Egyúttal ez vonatkozik a 2016. június 3. után (ekkor került bele a Vgtv. a tárgyi rendelkezés) létesített engedélyköteles vízkivételi létesítményekre is.
+
+Az engedélyhez kötött vízkivételt biztosító vízilétesítményeket igazgatási szolgáltatási díj fizetése nélkül lehet létesíteni, üzemeltetni és megszüntetni, azaz ahol fennmarad az engedélyezési kötelezettség, ott is csökken az adminisztrációs teher.
+
+-----STARTING---POINT---VEGE---
+
+A 93. §-hoz
+
+Hatályba léptető rendelkezések.
+
+A 94. §-hoz
+
+Jogharmonizációs záradék.

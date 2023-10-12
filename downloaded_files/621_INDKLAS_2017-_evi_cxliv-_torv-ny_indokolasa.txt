@@ -1,0 +1,753 @@
+2017. évi CXLIV. törvény indokolása
+
+a büntetőeljárásról szóló 1998. évi XIX. törvény, egyes büntető tárgyú törvények, valamint az európai uniós és a nemzetközi bűnügyi együttműködést szabályozó törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) 2016. január 1-jén, az annak végrehajtására kiadott, az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 2017. január 1-jén lépett hatályba. Az E-ügyintézési törvény 108. § (1) bekezdése alapján az elektronikus ügyintézést biztosító szervek 2018. január 1-jétől kötelesek az ügyek elektronikus intézését biztosítani. A törvény erre tekintettel újraszabályozza az elektronikus kapcsolattartás szabályait a büntetőeljárásról szóló 1998. évi XIX. törvényben (a továbbiakban: Be.), mivel az E-ügyintézési törvény értelmében a bíróság, az ügyészség és a nyomozó hatóság is elektronikus ügyintézést biztosító szervnek minősül.
+
+A módosítás két okból is szükségszerű, egyrészt mert a Be.-nek az elektronikus kapcsolattartásra vonatkozó hatályos szabályai jellemzően a büntetőeljárásban eljáró szervekre vonatkoznak, a büntetőeljárásban részt vevő személyekre csak igen szűk körben (összbüntetésbe foglalás és az utólagos összbüntetésbe foglalás), másrészt az elektronikus kapcsolattartás mind a szervek, mind a személyek vonatkozásában csupán lehetőség, nem kötelező.
+
+Az elektronikus kapcsolattartás szempontjából az E-ügyintézési törvény és a 451/2016. (XII. 19.) Korm. rendelet az általános, a Be. a speciális jogszabály. Erre figyelemmel nem szükséges a Be.-ben valamennyi, az elektronikus kapcsolattartással összefüggő technikai jellegű szabályról rendelkezni, azokat háttérjogszabályként az E-ügyintézési törvény és a 451/2016. (XII. 19.) Korm. rendelet tartalmazza. A Be.-ben kizárólag azon speciális büntetőeljárási szabályokat kell megjeleníteni, amelyek az elektronikus kapcsolattartásnak az eljárás egészére történő kiterjesztéséből és kötelező alkalmazásából fakadnak.
+
+Tekintettel arra, hogy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: új Be.) 2018. július 1-jén lép hatályba, és már tartalmazza az elektronikus kapcsolattartás szabályait, így a Be.-ben csupán a 2018. január 1. és július 1. közötti időszakra szükséges a szabályokat megalkotni. E szabályok megalkotása az új Be. szabályainak átvételével történik olyan módon, hogy azok illeszkedjenek a Be. rendszerébe és összhangban legyenek annak fogalomhasználatával.
+
+Emellett a Be. jelenlegi szabályozása papíralapú iratkezelésre és kapcsolattartásra íródott, amit az elektronikus ügyintézés és kapcsolattartás új szabályaira tekintettel felül kell vizsgálni, és az olyan ügyviteli szabályokat, amelyek kifejezetten papíralapú dokumentumokra (jegyzőkönyvek, határozatok) vonatkoznak, technológia-semlegessé kell tenni. Ennek megfelelően a törvény az aláírással, példánnyal, kiadmánnyal, összefűzött, illetve eredeti irattal kapcsolatos rendelkezéseket úgy módosítja, hogy azok elektronikusan készített iratok esetén alkalmazhatók legyenek.
+
+A polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: új Pp.) elfogadására és 2018. január 1-i hatálybalépésére tekintettel vált szükségessé a Be. polgári jogi igényre és kártalanításra vonatkozó egyes szabályainak módosítása. Szükséges ugyanis, hogy a Be. szabályozása - ahol kell - összhangban legyen az új Pp. terminológiájával, rendelkezéseivel.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. és a 87. §-hoz
+
+A gazdálkodó szervezet vagyonának a felszámoló részére történő átadásának elmulasztása, illetve a vagyon fellelhetőségi helyére vonatkozó információk elhallgatása sérti a hitelezők érdekeit. Ugyanis ha az adós vagyonát az adós volt vezetője nem adja át tételesen és ténylegesen a felszámolónak, illetve nem hozza a felszámolót ténylegesen olyan helyzetbe, hogy a felszámolás alá vonható vagyon minden eleme felett a rendelkezési jogot megszerezze, akkor ezeket a vagyontárgyakat a felszámolási eljárásban nem lehet az adósságrendezésbe bevonni.
+
+A törvény megteremti annak a lehetőségét a felszámolási eljárásban, hogy abban az esetben, ha a gazdálkodó szervezet felszámolás alá vonható vagyonába tartozó vagyontárgy átadása a felszámoló részére nem történt meg, és a vagyontárgy ismeretlen helyen van, annak felkutatása érdekében a bíróság a körözését rendelje el. Erre a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33. §-ának új (1a) bekezdése termeti meg a jogalapot. A körözés elrendelését a felszámoló akkor kezdeményezheti a felszámolást lefolytató bíróságnál, ha a vagyontárgy a gazdálkodó szervezet székhelyén, telephelyén vagy fióktelepén nem található fel, és a gazdálkodó szervezet vezetője a vagyontárgy fellelhetőségi helyéről nyilatkozni nem tud vagy a felszámolóval való együttműködési kötelezettségét nem teljesíti.
+
+A körözés olyan dologra rendelhető el, amely egyedi azonosító jellel rendelkezik, azaz számokból, betűkből, írásjelekből, matematikai műveleti jelekből, ezek kombinációjából, valamint elektronikus azonosítóból álló jelsorozattal megjelölt vagy egyéb egyedi ismérvei alapján ezek hiányában is kétséget kizáróan azonosítható tárgyról, állatról, növényről van szó. Álljon itt néhány példa: ismert a jármű rendszáma, alvázszáma, gyártmánya, típusa, kategóriája, színe; a műszaki cikk, gyártósor vagy technikai eszköz kategóriája, nyilvántartási száma, gyártója, gyártási száma, teljesítménye; pénz esetében a valutanem, a címlet és a sorozatszám; értékpapír esetén típusa, valutaneme, névértéke, kibocsátója, értékpapírkódja, sorozatszáma, állat esetében a billog vagy chipes azonosító.
+
+A felszámolási eljárásban a bíróság által elrendelt tárgykörzés lefolytatása a körözési nyilvántartási rendszerről és a személyes dolgok felkutatatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény (a továbbiakban: 2013. évi LXXXVIII. tv.) rendelkezései szerint történne. Ennek érdekében szükséges rendelkezni arról, hogy a körözést lefolytató szerv milyen intézkedéseket alkalmazhat. Ezt a rendelkezést a törvény a 2013. évi LXXXVIII. tv. 29. §-ába illeszti be, a kulturális javakra vonatkozó rendelkezést követően és azzal analóg módon.
+
+A 2. §-hoz
+
+A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) és a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) összhangjának biztosítása érdekében indokolt a Vht. 73. §-ának, a fogva tartott adóstól történő levonás különleges szabályait meghatározó szakaszának módosítása. A Vht. ugyanis - ellentétben a Bv. tv. 134. § (4) bekezdésében foglaltakkal - a letiltások körében csak a fogva tartott adós keresményét jelöli meg, az egyéb letéti pénzt nem. Az elítélt és az egyéb jogcímen fogvatartott társadalombiztosításon alapuló (nyugdíj), illetve szociális jellegű rendszeres pénzellátása - kérelmére - a büntetés-végrehajtási intézethez kerül folyósításra, ami nem tekinthető keresményének, viszont a fogvatartott adós rendelkezésére álló olyan pénzeszköz, ami - a letiltás alól mentes követelések kivételével - levonás alá vonható. Indokolt ennek megjelenítése a Vht. e speciális rendelkezésében. A hatályos Vht. 73. § (1) bekezdésében olyan tétel is szerepel, ami a Bv. tv. 134. § (1) bekezdése alapján nem minősül közvetlen levonásnak és olyan tételnek, amit a végrehajtás alá vont követelés fejében levonható összeg meghatározásakor figyelmen kívül kellene hagyni. A törvény elvégzi ennek átvezetését a Vht. vonatkozó rendelkezésén. A kapcsolattartó például a telefonon történő kapcsolattartás érdekében vagy az egészségügyi szolgáltatás költségének ellentételezésére - a cél megjelölésével - befizetést eszközölhet a büntetés-végrehajtási intézet letéti számlájára, amit a fogvatartott meghatározott célra rendelt letéti pénzeként tartanak nyilván. A jövőben a fogvatartott letéti pénze levonás alá eshet, viszont a meghatározott célra rendelt letéti pénz felhasználása a befizető rendelkezése alapján történik, és elkülönül a szabadon felhasználható letéti pénztől, ezért szükséges annak a Vht. szerinti levonás alól mentes kivételek körében való meghatározása.
+
+A 3-9. §-hoz
+
+A büntetőeljárás átadása átvétele
+
+Az Nbjt. 6. § ezen új bekezdése nem tartalmaz tartalmi módosítást a hatályos szabályozáshoz képest, csupán az V. fejezet új szabályozási struktúrája miatt vált szükségessé a szabály jelen szakaszba történő áthelyezése. A rendelkezés tartalma az EUtv. szabályozásával azonos.
+
+Elsődlegesen fontos kiemelni, hogy a büntetőeljárás átadása egy olyan célszerűségi eljárás, melyet akkor kell és indokolt megtenni, ha a bűncselekmény felderítése, vagy a terhelt felelősségre vonása hazánkban, vagy egy külföldi államban a leghatékonyabb.
+
+A büntetőeljárással kapcsolatos átadási eljárás újraszabályozása legfőképpen a jogalkalmazói tapasztalat alapján volt indokolt figyelemmel arra, hogy a hatályos jog olyan kétséges helyzeteket teremtett, amely mind a büntetőeljárás, mind a lefoglalások, mind a terhelt tekintetében is hátrányos, vagy bizonytalan helyzeteket teremtett.
+
+A hatályos szabályozáshoz képest az új szabályozás egyértelmű és egyedi döntési helyzetet határoz meg. A hatályos szabályozás során az átadási eljáráshoz két (átadással kapcsolatos és átvétellel kapcsolatos) döntés meghozatala volt szükséges, amelyek között egy olyan függő jogi helyzet alakult ki, amely érdemben kezelhetetlen jogi helyzeteket eredményezett. Ezzel szemben az új szabályozás csupán egy döntés, az átvétellel kapcsolatos döntés tekinthető érdeminek. További változás, hogy a törvény egyértelműen megengedi, hogy célszerűségi okból, a függő jogi helyzetek - lefoglalt tárgyak, fogvatartásban lévő terhelt - elrendezéséig, az eljárás mindkét államban, akár párhuzamosan legyen folyamatban.
+
+Az új szabályozás megtartja a hatályos döntési szintet, így továbbra is a legfőbb ügyész, vagy a miniszter keresi meg a külföldi államot a büntetőeljárás átadása iránt. A Nbjt. új 38. § (2) bekezdése egy olyan jogsegélynek nem tekinthető kívülről érkező megkeresésről rendelkezik, amely a Magyarországról irányuló jogsegélyi megkeresés előterjesztésének megfontolására, kezdeményezésére irányul.
+
+Az Nbjt. új 39. §-a a büntetőeljárás átadása-átvétele esetén is a jogsegélyi együttműködés egyik főszabályát, a konzultáció szükségességét hangsúlyozza. E konzultációra célszerűségi okból - az indokolatlan formális előterjesztés elkerülése érdekében - akár a átadásra irányuló megkeresés előterjesztését megelőzően, annak előkészítéseként is sor kerület. Ez a lehetőség az EUtv.-be szabályozott konzultációs eljáráshoz hasonlatos. Az egyeztetés ezen túl kiterjedhet az átadás iránti megkeresés előterjesztését követő időszakra, amely során elsősorban az eljárás átadásának alaki kérdéseiről indokolt egyeztetést folytatni, így különösen a törvényben meghatározott kérdések tekintetében. Az egyeztetés előkészítheti a megkeresett állam átvétellel kapcsolatos döntését, de nem kizárt a megkeresett állam döntését követő egyeztetés is.
+
+Az Nbjt. 39. § (2) bekezdése egyértelműen rögzíti azt, hogy az átadás megtörténte után az átadó állam érdemben már nem rendelkezhet a büntetőeljárással kapcsolatban, vagyis minden újonnan bejövő kérelmet, megkeresést annak az államnak indokolt továbbítani, amely részére az átadás megtörtént. Ez a jogi helyzet lényegében azonos azzal, amikor Magyarország egy jogsegélyi megkeresést teljesített, ezért a törvény ennek megfelelő rendelkezést rögzít. Ez biztosítja továbbá annak lehetőségét, hogy például bizonyítási eszközök átadására halasztottan, ideiglenesen, vagy a visszaszolgáltatást feltételül szabva kerüljön sor, amely szintén eljárásjogi jogsegélyi általános rendelkezés.
+
+Az Nbjt. új 40. § (1) bekezdése egy kötelező előírást tartalmaz, a fogvalévő terhelt átadását érintő egyeztetéssel kapcsolatban. A (2) bekezdés a jogalkalmazás számára egyértelmű szabályként határozza meg, hogy a fogvalévő terhelt átadás céljából történő átszállítására csak azt követően kerülhet sor, ha a megkeresett állam a büntetőeljárás átvételéről döntött. Ebben az esetben tehát szükségszerű, hogy a két büntetőeljárás párhuzamosan folyik, hiszen a megkeresett állam már megindítja az átvett büntetőeljárást, míg Magyarországon még folyamatban van az a büntetőeljárás, amely a terhelt fogvatartásának jogalapját képezi. A fogvalévő terhelt átadása, átszállítása több módon, több jogintézmény felhasználásával is történhet. Elképzelhető az átvevő állam által kibocsátott európai elfogatóparancs vagy kiadatási kérelem előterjesztése, a fogvatartott személy eljárási jogsegély - új - intézményeivel történő átszállítása, majd a fogvatartás megszüntetése. Végezetül az átszállítás megvalósulhat a magyar eljárás „égisze” alatt, a magyar eljárás keretei között kifejezetten a büntetőeljárás átadásával összefüggésben is, hiszen a fogvatartásról a jogsegély e szakaszában még a magyar bíróság, ügyészség rendelkezik.
+
+Enyhébb kényszerintézkedés alkalmazása esetén is több megoldás képzelhető el a terhelt átadásával kapcsolatban. Ezen esetekben a már ismertetett módok mellett, előfordulhat a terhelt önkéntes utazásának engedélyezése, vagy az unió területén a felügyeleti intézkedés végrehajtásának átadása is. A (4) bekezdés pedig egy önálló, kifejezetten a büntetőeljárás átadásával összefüggő jogintézményt szabályoz, amely lehetővé teszi az átszállítás végett a terhelt őrizetbe vételét. Ki kell emelni, hogy a terhelt ebben az esetben személyi szabadságot korlátozó kényszerintézkedés hatálya alatt áll, ezért az őrizet elrendelése a korlátozás módját változtatja meg, mintsem annak önálló elvonását eredményezi. A hatályos szabályozás - lényegében határidő nélkül - tette lehetővé a terhelt átadási letartóztatásának elrendelését, amelyhez képeste az új szabályozás kifejezetten az átszállítással arányos mértékű korlátozást tesz csupán lehetővé. Mindezek ellenére, törekedni kell arra, hogy enyhébb kényszerintézkedés esetén az őrizetbe vételre csak abban az esetben kerüljön sor, ha a terhelt átszállítása más módon megfelelően nem biztosítható.
+
+A (6) bekezdés a fogvatartott személy átadása esetén a specialitás elvének, és más hasonló - a fogvalévő terhelt átadásához kapcsolódó - garanciális szabály maradéktalan érvényesülését biztosítja, annak érdekében, hogy a terhelt az átadást követően ne kerüljön hátrányosabb helyzetbe, mintha átadására európai elfogatóparancs vagy kiadatás alapján került volna sor.
+
+Az új 41. § a már ismertetettek szerint rendelkezik arról, hogy az átadási eljárás előterjesztését követően a magyar büntetőeljárás nem szűnik meg nyomban, az továbbra is folyamatban van. A törvény ugyanakkor kizárja azokat az eljárási cselekményeket, amelyek az átadásra irányuló jogsegély előterjesztését követően nem alkalmazhatók, mert a jogsegély előterjesztésével összeegyeztethetetlen helyzetet teremtenének. A törvény ugyanakkor tartalmazza, hogy az átadásra irányuló jogsegélykérelem a külföldi állam átvételéről szóló döntéséig visszavonható, ezért amennyiben a már említett kizárt eljárási cselekmények végrehajtásának szükségessége merülne fel, úgy az átadásra irányuló jogsegélyt vissza kell vonni.
+
+Az új 42. § rendelkezik a büntetőeljárás átadását követően ez eljárás lezárásának módjáról, melyre csak azt követően kerülhet sor, hogy a külföldi tagállam döntött a büntetőeljárás átvételéről. A törvény „követően” szóhasználata arra utal, hogy a megszüntetésre nem az átvétellel egy időben, hanem a függő jogi helyzetek rendezését követően - ésszerű határidőn belül - kerülhet sor. A törvény maga határozza meg azt a speciális eljárás megszüntetési okot, amelyet ilyen esetben alkalmazni kell. Az új (2) bekezdés kizárja az eljárás megszüntető határozat elleni jogorvoslati lehetőséget, hiszen ebben az esetben az állam a büntetőigényéről érdemben nem mondott le, azt egy másik állam javára adta át. Ugyancsak kizárja a jogorvoslat lehetőségét az a körülmény, hogy az eljárás megszüntetése egy olyan eljárási cselekménysorozat szükségszerű következménye, amely a legfőbb ügyész vagy a miniszter által előterjesztett megkereséssel kezdődik. Tekintettel arra, hogy e megkeresés előterjesztése ellen sincs helye jogorvoslatnak, így az azzal ok-okozati összefüggésben lévő eljárási cselekménnyel kapcsolatban lehet azt biztosítani.
+
+Az Nbjt. 42. § (3) bekezdés határozza meg azt a törvényi akadályt, amely Magyarországon kizárja a büntetőeljárás folytathatásának lehetőségét. Az új (4) bekezdés a (3) bekezdésre figyelemmel azokat az eseteket szabályozza, amelyek során a (3) bekezdés szerinti tilalom áttörhető.
+
+A Magyarországra irányuló, a büntetőeljárás átvételét kezdeményező megkeresés szabályait az új 43-45. §-ok a korábban kifejtetteknek megfelelően szabályozzák. A törvény hangsúlyozza az átvétel célszerűségi jellegét, és eltörli a hatályos szabályozás állampolgársággal kapcsolatos szűkítő rendelkezéseit.
+
+Az új 43. § (2) bekezdés az egységes jogalkalmazás biztosítása érdekében rögzíti, hogy a büntetőeljárás átvételével kapcsolatos döntésnek nem akadálya, ha Magyarországon a büntetőeljárás tárgyát képező bűncselekmény miatt már folyamatban volt egy eljárás. Annak ellenére, hogy érdemben a hatályos szabályok alapján is erre került sor, a hatályos szabályozáson alakuló gyakorlat az átvétellel kapcsolatos formális döntés meghozatalát nem tette lehetővé, amely a nemzetközi együttműködésben meglehetősen nehezen kezelhető helyzeteket eredményezett.
+
+A 44/A. § rendelkezik azokról a büntetőeljárási helyzetekről, amelyek egy büntetőeljárás átvétele estén sajátos jogi szabályozást igényelnek. Ez a nyomozás abszolút, a gyanúsítotti kihallgatással induló határideje, valamint az a helyzet, amikor egy olyan büntetőeljárás átvételére kerül sor, amelyben külföldön már vádemelésre került sor. Ez utóbbi esetben nyilvánvaló, hogy a külföldi vádemelés önmagában nem lehet alkalmas Magyarországon a bírósági eljárás kezdeményezésére. Ennek megfelelően főszabály szerint ilyen eljárásban az ügyészség az átvett ügyben „ismételten” vádat emel. Előfordulhat ugyanakkor, hogy az átvett eljárással érintett személy ellen már bírósági eljárás van folyamatban, amelyben a vád kiterjesztésének lehet helye, és ezzel az átvett eljárásban szereplő bűncselekmény vád tárgyává tehető. Felmerülhet végezetül az is, hogy a külföldön indult büntetőeljárás mind személyét, mind tárgyát tekintve azonos a Magyarországon bírósági szakban lévő eljárással. Jóllehet a büntetőeljárás átvételére ilyen esetben is sor kerülhet, sem a vádemelés, sem a vád kiterjesztése nem indokot, elegendő, ha az ügyészség az új bizonyítékokat a bíróság elé terjeszti. A törvény vád kiterjesztésével kapcsolatos „indokolt esetben” megfogalmazása erre a helyzetre utal.
+
+A törvény az átvett eljárásban is rendezi a külföldi eljárás „jogi státuszát”, amely a korábban kifejtettekre figyelemmel egy eljárási jogsegély iránti megkeresés külföldi állam általi teljesítéséhez hasonlatos.
+
+A törvény rendelkezik a külföldi fogvatartás teljes körű beszámításáról, valamint a hatályos szabályozással egyezően a magánindítványt érintő speciális kérdésekről.
+
+Feljelentés külföldi államnál
+
+Az új szabályozással a törvény egyértelműen elhatárolja a feljelentés külföldi államnál jogintézményt a büntetőeljárás átadásától. Amíg utóbbi esetben a magyar állam bizonyos értelemben lemond büntetőjogi igényéről, és hozzájárul, hogy azt célszerűségi okból egy másik állam folytassa le, addig feljelentés a külföldi államnál akkor tehető, ha Magyarországnak nincs joghatósága, vagy a Legfőbb Ügyészség nem intézkedik az eljárás megindítása végett. Végezetül abban az esetben is feljelentés tehető a külföldi államnál, ha a Magyarországon megindult büntetőeljárást a Be. rendelkezései alapján megszüntették, azonban az eljárás adatai alapján olyan körülmények merültek fel, amelyek valószínűvé teszik, hogy egy másik állam az ügyben esetleg eredményesen folytathat eljárást. Mindezek alapján látni kell, hogy a feljelentés külföldi államnál egy büntetőeljáráson kívüli jogintézmény, folyamatban lévő eljárás tárgyát érintően (az átadással ellentétben, amely kizárólag folyamatban lévő ügyben képzelhető el) nem alkalmazható. A feljelentés és a büntetőeljárás átadásának kapcsolatát a 45. § (2) bekezdés egyértelműen szabályozza.
+
+Az intézmény e körben hasonlóságot mutat a megkeresés nélküli információcserével, azonban amíg a feljelentés egy büntetőeljáráson kívüli formális aktus, addig a megkeresés nélküli információcsere folyamatban lévő eljárással kapcsolatban is alkalmazható és informális.
+
+Tekintettel arra, hogy az átadással ellentétben feljelentés esetén a magyar állam nem mond le a büntetőjogi igényéről, pusztán az aktuális adatok alapján úgy értékeli, hogy az eljárás lefolytatásának feltételei nem állnak fenn, az új (4) bekezdésben írt rendelkezés egyértelműsíti, hogy a feljelentés nem akadálya annak, hogy ügyben felmerült újabb adatok alapján az eljárás Magyarországon folytatható (elrendelhető) legyen.
+
+Fogvatartott személy ideiglenes átadása az eljárási jogsegély iránti megkeresést előterjesztő államba
+
+A jogintézmény egy sajátos eljárásjogi jogsegély, amelyet az Európa Unió tagállamai tekintetétben csupán az európai nyomozási határozat bevezetése tett lehetővé. Az intézmény lényege, hogy a megkeresett állam az általa fogvatartott személyt adja át a megkereső állam részére. A megkeresett tagállam tehát nem teljesít eljárási cselekményt, csupán a fogvatartott személy jelenlétét biztosítja a megkereső tagállam által folytatott eljáráshoz. Az érintett személy fogvatartása lehetséges a nyomozás során (előzetes letartóztatás), de a végrehajtás során is (szabadságvesztés büntetés vagy akár átváltoztatott pénzbüntetés). Az átszállított személy tanú, sértett vagy akár terhelti pozícióban is átszállításra kerülhet, attól függően, hogy a fogvatartott személy a megkereső államban folyamatban lévő eljárásban milyen eljárási pozícióban vesz részt. A jogintézmény ezért nem csupán a kiadatás egyik alternatívája, hanem annak kiegészítése is, hiszen olyan esetekben is alkalmazható, amikor kiadatási kérelem előterjesztésére nem kerülhetne sor.
+
+A második kiegészítő jegyzőkönyv a vádemelést követően bizonyos korlátozásokat tartalmaz (3. cikk - az egyezmény új 11. cikkének (1) bekezdésében) a fogvatartott személy terheltként a vádemelést követő bíróság előtti megjelenésével kapcsolatban. Az Nbjt. ezt a korlátozást ugyanakkor nem tartalmazza, hogy lehetőséget biztosítson az érintett államok e kört érintő megegyezésének, a viszonosságnak. Fel kell hívni ugyanakkor a figyelmet arra, hogy - kizárólag - a második kiegészítő jegyzőkönyv alapján vádlottként történő bíróság előtti megjelenés érdekében e jogintézmény alapján a terhelt átszállítására nem kerülhet sor.
+
+A 65. § (4) bekezdése előírja a Magyarországon fogvalévő terhelt hozzájárulásával kapcsolatos nyilatkozat beszerzését. A második kiegészítő jegyzőkönyv alapján a terhelt hozzájárulásának hiánya nem kötelező megtagadási ok, ugyanakkor a nyilatkozatra és annak tartalmára figyelemmel a jogsegélykérelem teljesítése megtagadható.
+
+A 65. § (6) bekezdése az EUtv. hasonló szabályához igazodóan arra az esetre utal, amikor a terhelt Magyarországon előzetes letartóztatásban van. A fogvatartott személy átszállítása önmagában nem eredményezheti a fogvatartás meghosszabbítását, azonban előfordulhat, hogy az előzetes letartóztatás meghosszabbítása a fogvatartott személy átszállításának tartama alatt válik esedékessé. Ilyen esetben a fogvatartott személy részvételét a hosszabbítással kapcsolatos eljárási cselekményen a megkereső állammal együttműködve kell biztosítani. Iratok alapján történő döntéshozatalnál ez nem jelenthet különösebb nehézséget. Ülés tartása esetén a terhelt jelenléte távmeghallgatás vagy éppen ideiglenes visszaszállítás útján is biztosítható.
+
+A fogvatartásról minden esetben a jogsegélykérelmet teljesítő állam rendelkezik. Ennek megfelelően, amennyiben a Magyarországon fogvatartott személy átszállítását követően a fogvatartás megszüntetésére kerül sor, úgy a megkereső államot haladéktalanul értesíteni, hogy az érintettet engedjék szabadon. Fordított esetben a fogvatartást a megkeresett állam ezzel kapcsolatos jelzésére kell megszüntetni. Ez utóbbi esetben nem kizárt az átadás alapjául szolgáló cselekmény miatt folyamatban lévő magyar eljárásban a terhelt őrizetbe vétele, ha annak feltételei egyébként fennállnak. Más - az átszállítás előtt elkövetett - bűncselekménnyel összefüggésben ugyanakkor az Nbjt. a specialitás elvének alkalmazásáról rendelkezik, tekintettel arra, hogy fogvatartott személy Magyarországra történő átszállítására került sor.
+
+Fogvatartott személy ideiglenes átadása az eljárási jogsegély iránti megkeresést teljesítő államba
+
+A jogintézmény az uniós államok között már a 2000 évi egyezmény óta ismert. Ez a jogsegélyi forma lényegében egy járulékos jogsegély, hiszen minden esetben társul hozzá egy eljárási jogsegély teljesítésére irányuló kérelem, amelynek teljesítése során egy, a megkereső tagállamban fogvatartott személy személyes jelenléte is szükséges. Az előző alcímhez hasonlóan a fogvatartott személy ebben az esetben is több eljárási pozícióban vehet részt (tanúként, terheltként, egyéb érdekeltként) az átszállítása során elvégzett eljárási cselekmény során. Az eredeti jogsegély teljesítéséről minden esetben az arra hatáskörrel és illetékességgel rendelkező igazságügyi hatóság dönt, az ehhez társuló jelenlétről - a fogvatartott személy átszállításáról - az igazságügyi miniszter köt megállapodást.
+
+Kihallgatás zárt célú távközlő hálózat útján
+
+A jogintézményt az Nbjt. lényegében az EUtv. azonos jogsegélyi formájával egyező módon szabályozza. Tekintettel arra, hogy a büntetőeljárási törvény kizárólag a zárt célú távközlő hálózat útján történő kihallgatás jogintézményét ismeri, így bármilyen jellegű, a magyar hatóságok közreműködésével lebonyolítandó audiovizuális eszköz útján történő meghallgatást ezen intézmény szabályai szerint kell végrehajtani. A végrehajtás során a Be. zárt célú távközlő hálózat útján történő kihallgatásának szabályait az Nbjt. eltérő rendelkezéseire figyelemmel kell alkalmazni.
+
+E jogintézmény sajátossága, hogy alkalmazása során egyszerre két jogrendszer szabályai érvényesülnek. A megkeresett államban (ahol az érintett jelenlétét biztosítják) az érintett tartózkodási helye szerinti elkülönített helyiségben az eljárási cselekményt biztosító szerv a saját joga alapján jár el, ugyanakkor magát az eljárási cselekményt - például egy kihallgatást - a megkereső állam joga szerint a megkereső állam szerve végzi. Ez a kettőség legszemléletesebben a nyelvhasználat tekintetében érhető tetten, hiszen egyszerre alkalmazzák a megkeresett állam hivatalos nyelvét, az érintett személy által használt nyelvet, valamint a megkereső állam hivatalos nyelvét.
+
+Kihallgatás távbeszélő készülék útján
+
+A jogintézmény az uniós jogsegély keretei között már ismert. A magyar büntetőeljárási jog nem ismeri a telefonos kihallgatást, ezért az Nbjt. a jogsegélyt egyoldalúan szabályozza, azt a magyar igazságügyi hatóságok kizárólag biztosíthatják, nem kezdeményezhetik.
+
+Ellenőrzött szállítás
+
+Az Nbjt. az ellenőrzött szállítást az EUtv. szabályaival egyezően állapítja meg. Tekintettel a jogintézmény jellegére a szabályozás rendezi a halaszthatatlan eseteket is. Ki kell emelni, hogy a halaszthatatlan esetekben az ellenőrzött szállítás nyomozó hatóság által történő engedélyezése, illetve elvégzése nem jelenti jogsegélykérelem nyomozó hatóság általi előterjesztését. A halaszthatatlan engedélyezés lehetősége csupán az eljárási cselekmény elvégzésére terjed ki, amelyet követően kerülhet sor a jogsegélykérelem igazságügyi hatóságok közötti megfelelő előterjesztésére.
+
+Az EUtv. rendelkezéseihez képest lényeges eltérés, hogy nem uniós államok esetén ellenőrzött szállítás - a második kiegészítő jegyzőkönyv 18. cikk (1) bekezdésnek megfelelően - csak az un. kiadatási bűncselekmények esetében kerülhet sor. Nemzetközi szerződés vagy viszonosság alapján e rendelkezéstől el lehet térni.
+
+Nemzetközi szerződés vagy viszonosság hiányában ellenőrzött szállítás nem folytatható.
+
+Fedett nyomozó alkalmazása
+
+Az Nbjt. a fedett nyomozó alkalmazása esetén is az EUtv. azonos intézményének szabályozását követi. Az ellenőrzött szállításhoz hasonlóan itt is ki kell emelni, hogy a halaszthatatlan engedélyezés lehetősége nem azonos a jogsegélykérelem előterjesztésével kapcsolatos jogosultsággal. Nemzetközi szerződés vagy viszonosság hiányában fedett nyomozó nem alkalmazható.
+
+Közös nyomozó csoport létrehozása
+
+Az Nbjt. szabályozása a közös nyomozócsoport uniós tagállamok között már több éve alkalmazott, és a gyakorlati tapasztalatokra figyelemmel a 2017. évi XXXIX. törvénnyel módosított szabályozásának felel meg. A közös nyomozócsoport alkalmazását a második kiegészítő jegyzőkönyv 20. cikke teszi lehetővé. Nemzetközi szerződés vagy viszonosság hiányában közös nyomozócsoport nem alakítható.
+
+Megkeresés nélküli információcsere
+
+A második kiegészítő jegyzőkönyv 11. cikke rendelkezik a spontán, megkeresés nélküli információcseréről. Az intézmény szintén egy atipikus jogsegélyi forma, hiszen egyoldalú és kezdeményezés nélküli eljárás. Az Nbjt. az igazságügyi hatóságok számára biztosítja, hogy az általuk más állam számára hasznosnak ítélt információt továbbítsák. A nyomozó hatóság számára a hasonló információk továbbítására a bűnüldöző szervek közötti együttműködés keretei között van lehetőség. Magyarországra irányuló tájékoztatás ugyanakkor a küldő állam joga szerint irányulhat nyomozó hatóság irányába is. Ezt egyébként célszerűségi okból az Nbjt. is lehetővé teszi. Ennek megfelelően az Nbjt. rendezi annak jogalapját, hogy Magyarországon eljáró nyomozó hatóság közvetlenül fogadja a másik állam által e jogintézmény keretei között továbbított információt.
+
+A jogintézmény további sajátossága, hogy az információ folyamatban lévő és már befejezett büntetőeljárás esetén is továbbítható.
+
+Tárgy visszaadása
+
+A nemzetközi bűnügyi együttműködés egyik kiemelt célja a bűncselekménnyel összefüggésben a sértett (illetve az arra jogosult személy) tulajdonát képező dolgok, vagyontárgyak visszaszolgáltatása. Ez az elvárás a 2000 évi uniós egyezményben és a második kiegészítő jegyzőkönyvben egyaránt megfogalmazásra került. Az egyezmények ugyanakkor nem határoznak meg konkrét eljárási formát, eljárási szabályokat, hanem az egyezményben részes államokra bízzák, hogy megfelelő és a lehető legegyszerűbb módon biztosítsák a sértettek ezzel kapcsolatos igényérvényesítését. Az elvárás érvényesülésének legtipikusabb formája, amikor a megkereső hatóság eljárási jogsegélyt terjeszt elő egy dolog vagy vagyontárgy felkutatására, biztosítására (lefoglalására), majd annak a sértett részére közvetlen vagy közvetett (megkereső állam útján) történő visszaszolgáltatására.
+
+A nemzetközi jog ugyanakkor ismer olyan kisegítő adminisztratív eszközöket, amelyek - egyik - célja az ilyen tárgyak hatékony felkutatása és gyors visszaszolgáltatása. Az unió területén ez a Schengeni Információs Rendszer, más államok tekintetében pedig az Interpol Find rendszer. E két körözési rendszer lényegében olyan „biankó” jogsegélykérelemnek tekinthető, amely a dolgok, vagyontárgyak megtalálása esetén „élesedik” és válik a konkrét megtalált dolog biztosítására, visszaszolgáltatására irányuló jogsegéllyé.
+
+Az Nbjt. és az EUtv. új szabályozása rendezi a tárgy visszaadására irányuló közvetlen és formális jogsegélyi együttműködést, valamint - az ágazati jogszabályokkal összhangban - a nemzetközi körözésen alapuló egyszerűsített eljárási formát is.
+
+A tárgy visszaadására irányuló jogsegély teljesítése az ügyészség feladata. A jogsegély a tárgy felkutatását, biztosítását, kiadását célozza, amely eljárási cselekmények a bíróságtól idegen eljárások. Az ügyészi teljesítést nem érinti, hogy a visszaszolgáltatni kért dolgot vagy vagyontárgyat magyar - estlegesen bíróság előtt folyamatban lévő - büntetőeljárásban foglalták le. Ebben az esetben, az eljárást folytató magyar bírósággal vagy ügyészséggel egyeztetve, az általános szabályok szerint meg kell vizsgálni, hogy a halasztott teljesítés feltételei fennállnak-e. Amennyiben a magyar eljárásban a lefoglalás már megszüntethető, megkezdhető a jogsegély teljesítése.
+
+A jogsegélykérelem célja a sértett részére történő visszaszolgáltatás, ennek megfelelően az Nbjt. 74. § (2) bekezdés b) pontjában megjelölt Btk. hivatkozásokat szűk értelemben kell alkalmazni. A tárgy visszaadásának jogalapjául a Btk. 72. § (1) bekezdés c) pontja alapján a bűncselekmény elkövetési tárgy (amelyre a bűncselekményt elkövették), a Btk. 74. § (1) bekezdés a) pontja alapján a sértett tulajdonát képező a bűncselekményből származó vagy azzal összefüggésben szerzett vagyon szolgálhat. Egyes államok a pénzeszközökkel kapcsolatos cselekmények, elsősorban a pénzügyi tranzakciók tekintetétben nem tudnak azonosságot megállapítani a sértettől eltulajdonított vagyon és - egy átutalást követően egy másik személy bankszámláján - biztosított vagyon között. E gyakorlati tapasztalatokra tekintettel az Nbjt. a tárgy visszaszolgáltatását lehetővé teszi a Btk. 74. § (1) bekezdés d) pontja esetén, a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyon helyébe lépett vagyonra nézve is. Ki kell ugyanakkor hangsúlyozni a jogintézmény (1) bekezdés szerinti célját (sértettnek történő visszaszolgáltatás), amelyre figyelemmel a Btk. 74. § (1) bekezdés d) pontja szerinti jogalap csak az ismertetett esethez hasonló, a sértetti vagyon és a felkutatott vagyon közötti közvetlen kapcsolat esetén alkalmazható. A tárgy visszaadása azonban nem szolgálhat a sértett polgári jogi igényének biztosítására.
+
+Az Nbjt. rendelkezése alapján a tárgy visszaadásával érintett dolgot vagy vagyontárgyat le kell foglalni. A büntetőeljárási törvény rendelkezései alapján ez az egyedül alkalmas jogintézmény, amely során a hatóság rendelkezése alapján a lefoglalás megszüntetésével a lefoglalt dolog a sértettnek visszaszolgáltatható. A (3) bekezdés alapján a lefoglalásra törvény rendelkezése alapján más hatóság is jogosult. Az unión kívüli államok esetében e jogszabály az 1999. évi LIV. törvény.
+
+A sértettnek történő visszaszolgáltatás a (4)-(7) bekezdések alapján a megkereső állam részére történő átadással, vagy a megkereső állam hozzájárulása esetén a sértettnek történő közvetlen kiadással is történhet. A lefoglalás megszüntetése tekintetében az Nbjt. figyelemmel van a lefoglalás jogintézményének sajátosságára. A lefoglalás a tárgy visszaadására irányuló jogsegélykérelem eszköze és nem célja, hiszen a lefoglalásnak nem lehet célja önmagában a lefoglalás megszüntetése.
+
+A jogsegélykérelem teljesítése érdekében elrendelt lefoglalást követően még az eljáró szervek feladata a lefoglalt tárgy azonosságának megállapítása, majd annak tisztázása, hogy a Be. 155. § (1) bekezdésében meghatározott feltételek fennállnak-e. A lefoglalás megszüntetésére akkor kerülhet sor, ha a rendelkezésre álló adatok, illetve a megkereső állammal folytatott egyeztetés alapján megállapítható, hogy a lefoglalásra a megkereső államban folyamatban lévő büntetőeljárásban a továbbiakban nincs szükség. A jogsegélykérelem jelleg okán ugyanakkor a lefoglalás megszüntetése előtt tisztázni kell, hogy a sértett tulajdonjoga megfelelően igazolásra került-e.
+
+A jogsegélykérelem céljával összefüggő rendelkezés az is, hogy amennyiben az eljáró ügyészség a lefoglalás elrendelését követően állapítja meg, hogy a jogsegélykérelem teljesítésének feltételei nem állnak fenn, így például a sértett tulajdonjoga nem megfelelően igazolható vagy a lefoglalt dolog azonossága kétséges, úgy a lefoglalás megszüntetésének és a tárgy lefoglalást szenvedő részére történő kiadásának van helye. A tárgy visszaszolgáltatása tehát nem léphet a más célból előterjeszthető jogsegélykérelem helyébe. Természetesen amennyiben a tárgy visszaszolgáltatása során a megkereső állam más irányú jogsegélyt terjeszt elő, annak teljesíthetősége esetén a lefoglalás fenntartható.
+
+Az egyszerűsített jogsegélyi formával áll összefüggésben, hogy a teljesítés nem sértheti jóhiszemű harmadik személy jogait. Ennek vizsgálata a teljesítésre jogosult ügyészség feladata, amely során indokolt lehet a megkereső állammal történő egyeztetés. E rendelkezésben is tetten érhető a tárgy visszaadása sajátossága. A tisztán bizonyítási célú eljárási jogsegélyek esetén a lefoglalás nem lehet tekintettel a tulajdoni viszonyokra. Ugyanakkor a jogsegély teljesítésének általános szabályai szerint ilyen estben a bizonyítási eszköz megkereső állam részére történő átadás megtagadható, eredeti állapotban történő visszaszolgáltatáshoz köthető. E szabályok a tárgy visszaszolgáltatása esetén nem alkalmazhatók, vitás kérdés felmerülése - jóhiszemű harmadik személy fellépése - esetén a jogsegély megtagadásának van helye.
+
+A második kiegészítő jegyzőkönyv 12. cikke a jogszerű tulajdonosok részére történő visszaszolgáltatást említi, amely az e körben ismert és kialakult nemzetközi tapasztalatokra figyelemmel elsősorban a bűncselekménnyel összefüggő sértetti kárigényeket megtérítő biztosító társaságok, pénzintézetek igényét jelenti. Ezekben az esetekben az Nbjt. a megkereső állam kifejezett rendelkezése alapján lehetővé teszi, hogy a tárgy visszaadása teljesítése során, ha a lefoglalás megszüntetésének feltételei fennállnak, a lefoglalt dolgot a dologra jogos igényt bejelentő részére adják ki.
+
+A magyar büntetőeljárási törvény alapján ugyanakkor erre közvetlenül nincs lehetőség, csupán a sértett kifejezett rendelkezése esetén. Ennek megfelelően a tárgy visszaadására irányuló jogsegély előterjesztése során a sértettől eltérő személy - biztosító, bank - részére csak akkor kérhető a lefoglalt dolog kiadása, ha erről a bűncselekmény elkövetésekor tulajdonos sértett rendelkezett.
+
+Hivatalos irat kézbesítése
+
+A második kiegészítő jegyzőkönyv lehetővé teszi a kihirdető államokba történő közvetlen kézbesítést. Ennek szabályait - pontosabban a közvetlen kézbesítéstől eltérő jogsegélyi szabályokat - az Nbjt. az EUtv. rendelkezéseivel hasonlatos módon szabályozza. Kézbesítés iránti jogsegélykérelem a felsorolt esetekben terjeszthető elő. Ennek során a jogsegélyt kötött, ugyanakkor egyszerűsített formában kell elkészíteni. Az egyszerűsített kivonat célja a költséghatékony eljárás biztosítása.
+
+A 10-12. §-hoz
+
+E rendelkezések részben technikai pontosításokat, értelemzavaró kifejezések kijavítását tartalmazzák. Az elektronikus kapcsolattartás 2018. január 1. napjától alkalmazandó szabályaira figyelemmel a büntetőeljárási törvényekben indokolttá vált az un. technológia semleges megfogalmazás alkalmazása. Ez biztosítja, hogy önmagukban az eljárási szabályok indokolatlanul ne tartalmazzanak olyan merev szabályokat, amelyek csak papír alapú, vagy csak elektronikus irat esetén alkalmazhatók.
+
+Az eljárási jogsegély új általános és részletszabályaira figyelemmel az Nbjt. alaki és költségviselési szabályainak hatályos rendelkezései feleslegessé váltak, mert azokat az új V. fejezet tartalmazza. Ennek megfelelő a törvény egyes alaki és költségviselési szabályok hatályon kívül helyezéséről rendelkezik.
+
+A 13-36. §-hoz
+
+A Be. 47. § (2)-(2a) bekezdéséhez, 48. § (4) bekezdéséhez és 57. § (2)-(2a) bekezdéséhez
+
+Az E-ügyintézési törvény lehetővé teszi, hogy az ügyfél az ügyintézési rendelkezésének nyilvántartásába (a továbbiakban: rendelkezési nyilvántartás) képviseletre vonatkozó jognyilatkozatot tegyen. A törvény a védői és a képviselői meghatalmazás esetére vonatkozóan tartalmazza a rendelkezési nyilvántartásba vétellel kapcsolatos speciális, a büntetőeljárások során alkalmazandó garanciális szabályokat. Eszerint a rendelkezési nyilvántartásban rögzített védői és a képviselői meghatalmazásnak két többlet feltételnek kell megfelelnie a büntetőeljárásban. Egyrészt a védői és képviselői meghatalmazás csak a meghatalmazás elfogadásával, és ennek a rendelkezési nyilvántartásban történő rögzítését követően jogosítja fel a meghatalmazottat a védői, illetve képviselői fellépésre. Másrészt a rendelkezési nyilvántartásba vett védői és képviselői meghatalmazás - a visszaélések elkerülése és az adminisztratív terhek csökkentése érdekében - csupán az eljáró bíróságnak, ügyésznek, illetve nyomozó hatóságnak történő bejelentéstől hatályos. A bíróságnak, ügyésznek, illetve nyomozó hatóságnak tehát nem kell előzetesen ellenőriznie, hogy a büntetőeljárásban résztvevő személy rendelkezési nyilvántartásban szerepel-e védői vagy képviselői meghatalmazás, de mégis érvényesül az elektronizáció, hiszen a meghatalmazást nem kell a bíróságnak, ügyésznek, illetve nyomozó hatóságnak ténylegesen átadni, elegendő a rendelkezési nyilvántartásra hivatkozni.
+
+A Be. 54. § (4) és (6)-(9) bekezdéséhez
+
+A Be. 54. § (4) bekezdésének módosításával a törvény kiemeli, hogy a polgári jogi igény tekintetében a hivatalbóliság követelménye az ügyész tekintetében nem érvényesül. Az ügyész ugyanis csak a polgári perrendtartásról szóló törvény szabályai szerint, kisegítő jelleggel és korlátozott jogosítványokkal érvényesíthet a sértett helyett polgári jogi igényt, vagy kapcsolódhat be annak érvényesítésébe a sértett oldalán.
+
+A törvény a magánfél tekintetében eltér a sértetti jogutódlásra vonatkozó általános rendelkezésektől, ennek megfelelően a hozzátartozó, a törvényes képviselő vagy a sértett által eltartott személy helyett - az igény magánjogi jellegére tekintettel - egységesen a jogutódnak biztosítja a magánfélként történő fellépés lehetőségét. Annak érdekében azonban, hogy a polgári jogi igény büntetőeljárásban történő érvényesítése a sértett személyétől - pl. élők közötti jogügylet útján - ne távolodjon el, a törvény csak akkor engedi meg a jogutód magánfélként történő igényérvényesítését, ha a jogutódlás természetes személy esetén halál, nem természetes személy esetén megszűnés miatt, vagy kifejezett jogszabályi rendelkezés alapján következett be.
+
+A Be. 54. § (7) bekezdésének módosított szövege az új Pp.-vel való terminológiai összhangot teremti meg a viszontkereset, illetve az ellenkövetelés tekintetében.
+
+Szükségessé vált annak egyértelmű rögzítése, hogy a polgári és büntetőeljárások közötti összhang és minél egyszerűbb átmenet érdekében a keresetlevél előterjesztésének és a perindításnak a polgári perrendtartásról szóló törvényben meghatározott joghatásai fennmaradnak, ha egyéb törvényes útra utasítás vagy visszavonása esetén az igényt a magánfél külön polgári eljárásban érvényesíti.
+
+A Be. 70. § (1) bekezdés f) pontjához
+
+A törvény a Be. 70. § (1) bekezdés f) pontját az E-ügyintézési törvénynek megfelelően pontosítja, a hivatalos elérhetőség és a biztonságos elektronikus kapcsolattartásra szolgáló elérhetőség fogalmát az E-ügyintézési törvény határozza meg.
+
+A Be. 70/B. § (9) és (11)-(13) bekezdéséhez
+
+Tekintettel arra, hogy az iratról nem csupán papíralapon adható ki másolat, a törvény pontosítja, hogy másolat kiadása esetén nem azt kell feljegyezni az ügy irataiban, hogy hány példányban, hanem, hogy milyen formában került sor a másolat kiadására. Annak előírása, hogy fel kelljen jegyezni, hogy papíralapú másolat kiadására hány példányban került sor, nem igényel törvényi szabályozást, elegendő rendeleti szinten előírni.
+
+A törvény a Be. 70/B. § (11) bekezdését az új Be. 159-160. §-ának megfelelően pontosítja, és ennek megfelelően egészíti ki a 70/B. §-t a (12)-(14) bekezdésekkel.
+
+A Be. 71/B. §-ához
+
+Tekintettel arra, hogy az iratok nem csupán papíralapon állhatnak rendelkezésre, a törvény pontosítja a megkeresés esetén történő iratokba való betekintés, másolatadás és felvilágosítás-adás szabályait.
+
+A Be. 74/C-74/O. §-ához
+
+A Be. 69/A-69/D. §-a tartalmazza az elektronikus kapcsolattartás hatályos szabályait, amelyek jellemzően a büntetőeljárásban eljáró szervekre vonatkoznak, a büntetőeljárásban részt vevő személyekre csak igen szűk körben (összbüntetésbe foglalás és az utólagos összbüntetésbe foglalás), és a hatályos szabályozás értelmében az elektronikus kapcsolattartás mind a szervek, mind a személyek vonatkozásában csupán lehetőség, nem kötelező. A törvény annak érdekében, hogy az új Be. XXVII. Fejezete szerinti elektronikus kapcsolattartás részletes, több alcímre tagolt szabályozását a hatályos Be. keretei közé lehessen illeszteni, a Be. 69/A-69/D. §-át hatályon kívül helyezi, és a Be. VI. Fejezetét egy új „Elektronikus kapcsolattartás” elnevezésű IV. Címmel és új 74/C-74/O. §-sal egészíti ki.
+
+Az elektronikus kapcsolattartás törvény szerinti szabályainak tehát az új Be. elektronikus kapcsolattartásra vonatkozó szabályai jelentik az alapjait, azokhoz képest jellemzően olyan változtatásokat tartalmaznak, amelyek a két törvény között rendszertani, terminológiai különbségekből fakadnak.
+
+Tartalmi eltérés a törvényben az új Be. szerinti szabályozáshoz képest, hogy a törvény a Be. 74/C. § (3) bekezdésében kimondja, hogy az elektronikus kapcsolttartást szabályozó Cím alkalmazásában jogi képviselőnek minősül az ügyvéd és az ügyvédi iroda, ha képviselőként meghatalmazás alapján, pótmagánvádló jogi képviselőjeként, tanú érdekében eljáró ügyvédként, pártfogó ügyvédként vagy eseti gyámként, illetve eseti gondnokként vesz részt az eljárásban. Erre azért van szükség, mert az új Be. a 10. § 7. pontjában, az értelmező rendelkezések között általános jelleggel rögzíti a jogi képviselő definícióját, mivel azt a fogalmat több helyen is használja (pl. rendbírság, kézbesítési kifogás). Annak érdekében, hogy a Be. elektronikus kapcsolattartásra vonatkozó szabályaiban ne kelljen a jogi képviselő fogalmába tartozó személyeket minden említésnél felsorolni, a törvény e Cím alkalmazásában vezeti be ezt az összefoglaló fogalmat.
+
+Szintén eltérés, pontosítás az új Be.-hez képest, hogy a törvény a Be. 74/M. § (3) bekezdésében explicit módon rögzíti és egyértelművé teszi, hogy ahol a törvény bíróság, ügyész vagy nyomozó hatóság aláírásáról rendelkezik, ezen elektronikus aláírást vagy elektronikus bélyegzőt is érteni kell, amivel a Be. jelenleg kifejezetten papíralapú ügykezelési szabályai technológia-semlegesek lesznek.
+
+A Be. 85. § (5) bekezdéséhez és a 158/A. § (4) bekezdéséhez
+
+A törvény az E-ügyintézési törvénynek és az az alapján kiadott rendeleteknek megfelelően pontosítja és egységesíti a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírás megnevezését.
+
+A Be. 166. § (7) bekezdéséhez, 169. § (5) bekezdéséhez, 250. § (5) bekezdéséhez és 261. § (2) bekezdéséhez
+
+Tekintettel arra, hogy a jegyzőkönyv és a határozat nem csupán papíralapon készülhet el, a törvény pontosítja a kijavítás és kiegészítés szabályait. Eszerint elektronikus irat kijavítását a kijavítandó rész megjelölésével külön elektronikus iratban kell elkészíteni.
+
+A Be. 211. § (5) és új (6)-(8) bekezdéséhez
+
+Jogalkalmazói visszajelzések alapján felmerült a hatályos Be. olyan módosításának az igénye, amelynek az a célja, hogy lehetővé tegyék a zártcélú távközlő hálózaton keresztül történő kihallgatás szélesebb körű alkalmazását. Cél ugyanis, hogy már a hatályos jogi környezetben is emelkedjen a távmeghallgatás útján történő kihallgatások száma bizonyos eljárási helyzetekben. A törvény ennek megfelelően az előzetes letartóztatás meghosszabbítása tárgyában tartott nyomozási bírói ülések esetében olyan módosításokat tartalmaz, amelyek egyes, ilyen helyzetekben nehezen értelmezhető szabályok esetében eltérést engednek a Be. 244/A-244/D. §-ában meghatározott általános szabályoktól. Így egyrészt nem kell ilyenkor tekintettel lenni a 244/A. § (2) bekezdés e) és f) pontjában meghatározott körülményekre a terheltek esetében. Másrészt az előzetes letartóztatás meghosszabbítása tárgyában tartott nyomozási bírói ülés esetén a távmeghallgatás elrendelését nem kell indokolni, illetve lehetőség van öt napnál kevesebb időtartamon belül is elrendelni az ilyen kihallgatást. Végül jelentős gyakorlati könnyítést hoz az az eltérő szabály, hogy ilyen esetekben nem kell bírónak jelen lennie a terhelttel egy helyiségben, hanem a fogva tartást végrehajtó intézet erre feljogosított dolgozója is megfelelően elláthatja a személyazonosítással kapcsolatos feladatokat, továbbá hogy a törvény alapján ilyenkor az elkülönített helyiségben történtekről nem kell külön jegyzőkönyvet készíteni.
+
+A Be. 219. § (1) bekezdéséhez
+
+Tekintettel arra, hogy 2018. január 1-jétől az ügyészség és a bíróság között kötelező lesz az elektronikus kapcsolattartás, a vádirat benyújtására is elektronikus úton fog sor kerülni. Emellett 2018. január 1-jétől a védők is elektronikus kapcsolattartásra kötelezettek lesznek, a terheltek esetében, pedig, ha az elektronikus ügyintézéshez való joguk nem szünetel, választhatják az elektronikus kapcsolattartást. Erre tekintettel pontosítja a törvény a papíralapon megküldött vádiratok példányszámát, eszerint az ügyész a vádirat elektronikus úton történő benyújtása mellett papíralapon annyi példányban küldi meg a vádiratot a bíróságnak, hogy valamennyi nem elektronikus úton kapcsolatot tartó vádlottnak jusson egy-egy példány.
+
+Mivel azonban az elektronikus kapcsolattartás csak a 2018. január 1-jét követően indult büntetőeljárásokban lesz alkalmazandó, továbbra is szükséges szabályozni azokat az eseteket, amikor a vádiratot még papíralapon nyújtja be az ügyész. Ennek érdekében tartja meg a törvény azt a szabályt, miszerint papíralapú kapcsolattartás esetén a bíróság részére az elektronikus formában rendelkezésre álló iratokat elektronikus úton is meg kell küldeni, vagy ha ez nem lehetséges, elektronikus adathordozón kell átadni.
+
+A Be. 260. § (4) bekezdéséhez
+
+Tekintettel arra, hogy a határozat nem csupán papíralapon készülhet el, a törvény pontosítja az írásba foglalás napjának rögzítésére vonatkozó szabályt.
+
+A Be. 321. § (2) bekezdéséhez
+
+Tekintettel arra, hogy a határozat nem csupán papíralapon készülhet el, a törvény pontosítja a tárgyaláson meghozott határozat rendelkező részének a tárgyalási jegyzőkönyvhöz való csatolásának szabályát.
+
+A Be. 379. § (3) és (5) bekezdéséhez
+
+A törvény a Be. 379. § (3) és (5) bekezdésének technikai jellegű korrekcióját hajtja végre.
+
+A Be. 583. § (2) bekezdéséhez
+
+A törvény rögzíti, hogy a kártalanítási igényt keresetlevélben kell előterjeszteni. Ennek szabályozása azért elengedhetetlen, mert a hatályos gyakorlat szerint a polgári bíróságok számos esetben nem kérik számon a beadványokon a polgári perrendtartásról szóló törvénynek a keresetlevélre vonatkozó követelményeit, ami mind az ügy teljes körű elbírálását megnehezíti, mind a törvényességgel szemben kételyeket ébreszt. A keresetlevél kötelező kellékeit a törvény szűkebb keretek között határozza meg a polgári perrendtartásról szóló törvényhez képest, ami a kártalanítási igény speciális jellemzőiből adódik.
+
+A Be. 584. § (2) bekezdéséhez
+
+A törvény a Be. 584. § (2) bekezdésének technikai jellegű korrekcióját hajtja végre.
+
+A Be. 606/C. §-ához
+
+Az E-ügyintézési törvény alapján az elektronikus ügyintézést biztosító szervek, így a büntetőeljárásban eljáró szervek is kötelesek 2018. január 1-jétől az ügyek elektronikus intézését biztosítani, továbbá az E-ügyintézési törvény szerint elektronikus kapcsolattartásra köteles személyek kötelesek 2018. január 1-jétől az ügyeiket elektronikus kapcsolattartás keretében intézni. A törvény kellő időt kíván biztosítani annak érdekében, hogy mind a büntetőeljárásban eljáró szervek, mind a büntetőeljárásban részvevő személyek számára megfelelő idő álljon rendelkezésre az elektronikus kapcsolattartás szabályainak készségszintű alkalmazására és az informatikai felkészülésre, továbbá meg kívánja előzni a folyamatban lévő ügyek meglévő iratanyagának digitalizációjával járó nehézségeket, amelyek akár a büntetőeljárások törvényes és időszerű lefolytatatását is akadályozhatják. Ennek érdekében a törvény úgy rendelkezik, hogy az elektronikus kapcsolattartás szabályait a 2018. január 1-jén vagy azt követően indult büntetőeljárásokra kell alkalmazni.
+
+Mivel azonban a hatályos szabályozás értelmében az összbüntetésbe foglalás és az utólagos összbüntetésbe foglalás iránti indítványt, valamint ezen indítvány visszavonását az elítélt védője jelenleg is benyújthatja elektronikus úton a bírósághoz, a törvény kifejezetten rendelkezik arról, hogy ezen ügyekben a 2018. január 1-je előtt indult büntetőeljárások esetében is lehetőség van a beadvány elektronikus úton történő benyújtására.
+
+A Be.-t érintő szövegcseréhez
+
+Tekintettel arra, hogy az iratok és határozatok nem csupán papíralapon készülhetnek el, a törvény mellőzi a Be.-ből az eredeti irattal, illetve a kiadmánnyal kapcsolatos rendelkezéseket, mivel ezek elektronikus iratok esetén nem értelmezhetőek. A törvény tartalmi módosítást nem végez, csupán technológia-semlegessé teszi a szabályozást.
+
+A törvény a Be. 56. § (5) bekezdésének, 57. § (3) bekezdésének, 155. § (6) bekezdésének, 157. § (2) bekezdésének, 159. § (3) bekezdésének, 160. § (3) bekezdésének, 207. § (2) bekezdés g) pontjának, 214. § (1a) bekezdésének, 284. § (3) bekezdésének, 416. § (5) bekezdésének, 583. § (3) bekezdésének és 584. § (1) bekezdésének technikai jellegű korrekcióját hajtja végre.
+
+A Be. 244/B. § (1) és (4) bekezdését érintő módosítások célja - kapcsolódva a Be. 211. § (5) és új (6)-(8) bekezdése módosításának a céljaihoz -, hogy általában lehetővé tegye, hogy zártcélú távközlő hálózat útján tartott tárgyalás esetén az elkülönített helyiségben ne csak bíró vagy bírósági titkár, hanem bírósági fogalmazó is elláthassa a személyazonosítással, illetve a jegyzőkönyvezéssel kapcsolatos feladatokat.
+
+A Be. hatályukat vesztő rendelkezéseihez
+
+A Be. 69/A-69/D. §-a és az azt megelőző alcím hatályon kívül helyezése kapcsán lásd a 21. §-hoz írtakat.
+
+A törvény hatályon kívül helyezi a Be. 70. § (1) bekezdés g) pontját, valamint (7a) és (7b) bekezdését, tekintettel arra, hogy 2018. január 1-jétől az elektronikus kapcsolattartás kötelező lesz az elektronikus ügyintézést biztosító szervek, így a bíróság, ügyészség, illetve nyomozó hatóság, továbbá az Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) számára is, ezért szükségtelen a Be.-ben e szervekre vonatkozó speciális szabályok szerepeltetése. A speciális kézbesítési szabályokra tekintettel azonban a törvény módosítja az elektronikus hírközlésről szóló 2003. évi C. törvényt (a továbbiakban: Eht.) és abban rendezi, hogy a bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
+
+A törvény hatályon kívül helyezi a Be. 71/A. §-át és 250. § (6) bekezdését, tekintettel arra, hogy az technikai jellegű, tisztán iratkezelési szabályokat tartalmaz, amelyek rendeleti szinten is kezelhetők, ahol a papíralapú és az elektronikus iratok kezelése is megfelelő részletességgel és eltéréssel szabályozható.
+
+Tekintettel arra, hogy az iratok és határozatok nem csupán papíralapon készülhetnek el, a törvény mellőzi a Be.-ből az eredeti példánnyal, illetve az összefűzött irattal kapcsolatos rendelkezéseket, mivel ezek elektronikus iratok esetén nem értelmezhetőek. A törvény tartalmi módosítást nem végez, csupán technológia-semlegessé teszi a szabályozást.
+
+A 37. §-hoz
+
+Az Nbjt. a tárgy visszaadásánál kifejtettek szerint, a törvény részben a területet érintő gyakorlati tapasztalatok alapján egységes szabályozási elvek mentén újraszabályozta a bűncselekményekkel kapcsolatos nemzetközi körözés és a sértettnek történő visszaszolgáltatás szabályait.
+
+A NEBEK tv.-ben kialakított új szabályozási rendszerben - a személyt érintő nemzetközi körözéshez hasonlóan, amely során a találat ideiglenes kiadatási kérelemnek tekinthető - találat esetén a nemzetközi tárgykörözést a tárgy lefoglalására irányuló ideiglenes jogsegélynek kell tekinteni. Ezzel a törvény egyértelművé teszi, hogy a büntetőeljárás során elrendelt körözés teljesítésére a nemzetközi bűnügyi jogsegély keretrendszerében kerülhet sor. A továbbiakban ezért megszűnik a bűnügyi együttműködés melletti sajátos önálló intézményrendszer.
+
+A törvény a NEBEK tv.-ben - a tárgy visszaadásával összhangban - a találatot elérő szervet jogosítja fel arra, hogy a megtalált járművet a büntetőeljárási törvény alapján lefoglalja. A lefoglalást és az azt követő információcserét a NEBEK koordinálja. Ezt követően két óra áll rendelkezésre, hogy a nemzetközi körözést elhelyező állam a körözés tényét, érvényességét megerősítse. Tekintettel arra, hogy az eljárás nemzetközi bűnügyi jogsegély keretei között zajlik, megerősített körözés esetén a találatról értesíteni kell az ügyészséget. Minthogy a lefoglalásra a büntetőeljárási törvény alapján került sor, és a jogintézmény a nemzetközi bűnügyi jogsegély keretei között működik, a lefoglalással kapcsolatos jogorvoslat elbírálására az ügyészség, illetve a nemzetközi bűnügyi együttműködés szabályai szerint a megkereső állam lesz jogosult.
+
+Az ügyészség illetékességét a lefoglalás helye határozza meg, tekintettel arra, hogy egy tárgy lefoglalására irányuló jogsegély teljesítésére a tárgy helye szerint illetékes ügyészség lenne jogosult. A megerősítést követően a nemzetközi körözést elhelyező államnak hatvan nap áll rendelkezésre a jogsegélykérelem előterjesztésére. Amennyiben erre sor kerül, úgy a lefoglalt tárgy kezelését, a jogsegély teljesítését az arra jogosult ügyészség, esetleg bíróság végzi.
+
+Amennyiben a talált jármű (figyelemmel arra, hogy az Interpol Find rendszerben bűncselekménnyel összefüggésben kizárólag lopott gépkocsi helyezhető el) a sértett részére visszaszolgáltatható, a NEBEK tv. a tárgy visszaadása jogintézmény keretei között, egyszerűsített szabályokat határoz meg annak érdekében, hogy a talált jármű a sértettnek, vagy az arra jogosultnak visszaszolgáltatásra kerülhessen. Az egyszerűsített eljárás lényege, hogy a lefoglalás, a körözést elrendelő állammal folytatott egyeztetést, a lefoglalt tárgy azonosítását, a lefoglalást megszüntetését és kiadását a találatot elérő szerv, illetve a NEBEK végzi, és az ügyészség csupán tájékoztatást kap a teljesítésről. Amennyiben a teljesítéssel kapcsoltban probléma merül fel, így például a lefoglalt tárgy iránt harmadik jóhiszemű személy jelentett be igényt, vagy ha a jármű azonossága kétséges, a teljesítést érdemben az ügyészség veszi át.
+
+A gyakorlatban több estben előfordult, hogy a körözést elhelyező állam a körözés megerősítését követően, a rendelkezésre álló határidő alatt a jogsegélyt nem terjesztette elő. Ezzel összefüggésben fel kell hívni a figyelmet a nemzetközi bűnügyi együttműködés fő szabályára, amely az érintettek közötti egyeztetésre vonatkozik. Amennyiben tehát a megkereső állam a jogsegélykérelem formális előterjesztésével késlekedik, azonban késlekedésének okát időben jelzi és a magyar ügyészséggel együttműködik, az (5) bekezdés szerinti határidő ésszerű keretek között meghosszabbítható. Ha a jogsegély előterjesztésére nem kerül sor, a lefoglalást a találatot elrendelő szerv megszünteti, és a járművet a lefoglalást szenvedő részére adja ki. A kiadásra - tekintettel arra, hogy a lefoglalásra a büntetőeljárási törvény alapján került sor - a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályairól, valamint az elkobzás végrehajtásáról szóló 11/2003. (V. 8.) IM-BM-PM együttes rendelet irányadó. Ennek megfelelően (35. §), ha az arra jogosult a lefoglalás megszüntetését követő 30 napon belül nem jelentkezik a kiadni rendelt járműért, a jármű értékesítését kell elrendelni.
+
+A 38. §-hoz
+
+A módosítás az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) hatálybalépésével kapcsolatban indokolt. Az Üttv. 66. § (4) bekezdés b) pontja alapján a kamarai jogtanácsos jogosult a munkáltató, a munkáltató kapcsolt vállalkozása, valamint a munkáltatóval irányítási vagy fenntartói viszonyban álló szerv számárára az ügyvédi tevékenység gyakorlása körében és annak Üttv.-ben meghatározott keretei között, büntetőeljárásban jogi személy képviseletének ellátására.
+
+A 39. §-hoz
+
+A terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelv 24. cikk (6) bekezdése alapján a tagállamoknak biztosítaniuk kell, hogy a terrorcselekmények áldozatai a nemzeti joggal összhangban, a bűncselekmény körülményeinek súlyosságát és körülményeit kellően hangsúlyozó feltételekkel jogi segítségnyújtáshoz juthassanak. Tekintettel arra, hogy a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény a bűncselekmények áldozatává vált személyek részére jelenleg is privilegizált, magasabb jövedelmi küszöbhöz kötött hozzáférést biztosít a jogi segítségnyújtáshoz, a terrorcselekmények áldozatai részére még kedvezményesebb hozzáférés azáltal biztosítható, ha az elszenvedett bűncselekmény súlyára tekintettel, a rászorultságuk vizsgálata nélkül jogosultakká válnak a jogi segítségnyújtás keretében nyújtott valamennyi peres és peren kívüli szolgáltatásra.
+
+A 40. §-hoz
+
+A törvény hatályon kívül helyezi a Be. 70. § (7b) bekezdését, tekintettel arra, hogy 2018. január 1-jétől az elektronikus kapcsolattartás kötelező lesz az elektronikus ügyintézést biztosító szervek, így a bíróság, ügyészség, illetve nyomozó hatóság, továbbá az NMHH számára is, ezért szükségtelen a Be.-ben e szervekre vonatkozó speciális szabályok szerepeltetése.
+
+Az egyszerű adatátvitelt és hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisához való kapcsolódásának és a Nemzeti Média- és Hírközlési Hatósággal való elektronikus kapcsolattartásának szabályairól szóló 19/2013. (X. 29.) NMHH rendelet (a továbbiakban: NMHH rendelet) 4. § (3) bekezdése azonban utalva a Be. hivatkozott szabályára rögzíti, hogy „az elektronikus értesítést - figyelemmel a büntetőeljárásról szóló 1998. évi XIX. törvény 70. § (7b) bekezdésére - az Ügyfélkapun keresztül való megküldés napját követő munkanapon kell kézbesítettnek tekinteni.” Annak érdekében, hogy az NMHH rendelet vonatkozó szabályának meglegyen a törvényi szintű alapja, szükséges egy ilyen kézbesítéssel kapcsolatos szabály megalkotása. Tekintettel arra, hogy az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételével kapcsolatos NMHH feladatokat az Eht. rendezi, így a vonatkozó kézbesítési szabályt is ebben a törvényben kell rögzíteni.
+
+A 41. §-hoz
+
+A terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelv 26. cikk (1) bekezdése alapján a tagállamok biztosítják, hogy a terrorizmus azon áldozatai, akiknek lakóhelye a terrorista bűncselekmény elkövetési helyétől eltérő tagállamban található, hozzáférjenek a jogaikra vonatkozó információkhoz, a rendelkezésre álló segítő szolgálatokhoz és kárenyhítési rendszerekhez abban a tagállamban, ahol a terrorista bűncselekményt elkövették. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 6. § (1) bekezdése szerint kárenyhítésre a rászoruló áldozat jogosult. Az a nem Magyarországon honos áldozat, aki Magyarországon válik terrorcselekmény áldozatává, a hazai jövedelmi viszonyainak megfelelő keresete miatt feltehetően nem minősülne rászorulónak és ezért nem lenne jogosult kárenyhítésre. Erre, valamint a terrorcselekmények súlyára tekintettel indokolt, hogy a terrorcselekmények áldozatai (a más tagállamban honos és a Magyarországon élők is) a rászorultság vizsgálata nélkül rászorulónak minősüljenek és így pusztán az elszenvedett bűncselekmény súlya okán jogosultakká váljanak a kárenyhítésre.
+
+A 42. §-hoz
+
+A törvény megteremti az elektronikus kapcsolattartás közvetítői eljárásban való igénybevételének jogalapját, egyúttal az elektronikus kapcsolattartás általános szabályait kiegészítő rendelkezéseket vezet be a közvetítői eljárásba. A közvetítőként eljáró ügyvéd az E-ügyintézési törvény alapján nem járhat el elektronikus ügyintézést biztosító szervként, ezért elektronikus kapcsolattartásra nem köteles. A közvetítői eljárásban az elektronikus kapcsolattartás választása nem korlátozott, de ennek hatálya kiterjed a büntetőeljárásra is, ezért a közvetítői eljárás befejezése után a büntetőeljárást folytató ügyészségnek, illetve bíróságnak a nyilatkozatot meg kell küldeni. A közvetítői eljárás a megegyezést célzó és mindkét fél önkéntes részvételén alapuló eljárás, amelyben a Be. szabályaitól eltérően az idézéssel és a mulasztással összefüggésben jelenleg sem szabható ki rendbírság. Ezt a szemléletet tükrözi az is, hogy a törvény alapján a szankció alkalmazására az elektronikus kapcsolattartás szabályainak megszegése miatt sem lesz lehetőség. Felmerülhet olyan helyzet, hogy a papíralapú kapcsolattartásra való áttérést a közvetítői eljárásban kezdeményezik, ilyen esetben azonban nem célszerű, hogy a közvetítő a büntetőeljárásban eljáró hatóságok jogkörébe tartozó, a további büntetőeljárásra is korlátozó jellegű döntést hozzon, és az indítványt elutasítsa. Erre tekintettel a közvetítő a papíralapú kapcsolattarásra való áttérésre irányuló indítványt nem utasíthatja el, de a papíralapú kapcsolattartásra való áttérés hatálya nem terjed túl a közvetítői eljáráson. Ez utóbbi rendelkezés biztosítja, hogy az áttérés szabadsága ne befolyásolhatja a büntetőeljárásban irányadó jogokat.
+
+A 43-48. §-hoz
+
+A kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, a Tanács 2005. február 24-i 2005/214/IB kerethatározatának (a továbbiakban: 2005/214/IB kerethatározat) hazai jogba történő átültetésének Magyarország a szabálysértéseket érintő együttműködés területén a szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvénnyel (a továbbiakban: Szjstv.) tett eleget.
+
+Az Szjstv. megalkotásának időpontjában a közúti közlekedési jogsértésekkel kapcsolatban nem merült fel, hogy a közlekedési jogsértések más jogág (közigazgatási jog) alá is tartozhatnának, ezért a Szjstv. 1. §-ának (3) bekezdése a törvény alkalmazásául azt a feltételt szabta, hogy a Szjstv. csak olyan cselekmény esetében alkalmazható, amely a magyar jog szerint szabálysértés, és a külföldi állam joga szerint is büntetendő.
+
+A 2005/214/IB kerethatározat 5. cikke ugyanakkor kimondja, hogy a kibocsátó államban büntetendő és a kibocsátó állam joga által meghatározott bűncselekmények esetében, a kerethatározat értelmében és a cselekmény kettős büntethetőségének mérlegelése nélkül a határozatokat el kell ismerni és végre kell hajtani többek között az olyan magatartás esetében, amely sérti a közúti közlekedés szabályait, beleértve a vezetési- és pihenőidőre, valamint a veszélyes anyagokra vonatkozó rendelkezések megszegését. E rendelkezés alapján tehát teljesen lényegtelen, hogy az átvevő tagállam nemzeti joga a meghatározott cselekményt miként minősíti.
+
+Önmagában az a tény, hogy a hazai szabályozásban egyes közlekedési jogsértések a közigazgatási jog hatálya alá tartoznak, a kettős büntethetőség mérlegelése nélküli alkalmazás miatt nem alapozhatják meg az átadott pénzbírságok végrehajtásának elutasítását. Erre azonban az Szjstv. 1. §-ának (3) bekezdése alapján, mivel az kizárólag a magyar jog szerint szabálysértésnek minősülő cselekményekre teszi lehetővé a végrehajtás átvételét, sor kerül.
+
+A törvény a 2005/214/IB kerethatározatnak történő megfelelés érdekében az alábbi pontokon módosítja az Szjstv.-t:
+
+1. a pénzbüntetés végrehajtását kiterjeszti a közigazgatási bírsággal sújtandó közlekedési jogsértésekre is, tekintettel arra, hogy ebben az esetben nem a szabályszegést kell vizsgálni és azt a magyar hatóságoknak elbírálni, hanem a külföldi hatóság által a 2005/214/IB kerethatározatban rögzített ügycsoportjának megfelelően átadott, jogerősen megállapított pénzbüntetés végrehajtását kell biztosítani,
+
+2. figyelemmel arra, hogy a hazai szabályozás a közigazgatási bírságok esetén kizárólag az adók módjára történő behajtást teszi lehetővé, a törvény kizárja a szabálysértések esetén biztosított közérdekmű munkával való megváltás és elzárás lehetőségét,
+
+3. a végrehajtás eredményessége érdekében a törvény rögzíti, hogy az elévülés a végrehajtás átvételének időpontjától számítódik azzal, hogy a közigazgatási bírságok esetén is a szabálysértésekre irányadó abszolút elévülési idővel, két évvel kell számolni,
+
+4. a 2005/214/IB kerethatározatban foglaltaknak megfelelően pontosítja a végrehajtással érintett legmagasabb összeget.
+
+A módosítások továbbra sem biztosíthatják azonban azt, hogy az egyes közlekedési jogsértések miatt eljáró közigazgatási hatóságok végrehajtásra átadják a jogerősen kiszabott és be nem fizetett közigazgatási bírságokat, figyelemmel arra, hogy ezen hatóságok nem felelnek meg a 2005/214/IB kerethatározatban felsorolt hatóságok kritériumainak (büntetőbíróság által elbírálható ügyek). Tehát a módosítás csak a közigazgatási bírsággal sújtott közlekedési szabályszegések miatt kiszabott pénzbírság végrehajtásának átvételét teszi lehetővé, ezek átadására - az alább jelzett kivétellel - továbbra sincs mód.
+
+Az Európai Unió e kérdést szabályozó irányelvének meghozataláig a Bolgár Köztársaság, a Horvát Köztársaság, Magyarország és az Osztrák Köztársaság között a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértések miatt alkalmazott jogkövetkezmények határon átnyúló végrehajtásának elősegítéséről szóló Megállapodás kihirdetéséről, valamint egyes törvényeknek a közlekedésbiztonságot elősegítő európai uniós és nemzetközi kötelezettségek végrehajtásához szükséges módosításáról szóló 2012. évi CLXX. törvény alapján a csatlakozott országok tekintetében van lehetőség a közigazgatási bírsággal sújtott közlekedési szabályszegések miatt kiszabott pénzbírság végrehajtásának átadására.
+
+Az Szjstv. rendelkezései értelmében a végrehajtásra átvett pénzbüntetések a végrehajtó, tehát a magyar állam bevételét képezik.
+
+A módosítással biztosítható a 2005/214/IB kerethatározatnak való teljes körű megfelelés.
+
+A 49-50. §-hoz
+
+A Bnytv. 68. § (1) bekezdés h) pontjához, 69. § (3) bekezdéséhez és 96. §-ához
+
+Annak érdekében, hogy megvalósuljon a teljes elektronizálás az adatigénylések tekintetében is, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) 69. § (3) bekezdés módosítása szükséges. A módosítás továbbá az E-ügyintézési törvénnyel való összhang biztosítását is szolgálja.
+
+A személyvédelmi feladatokat ma Magyarországon, a rendőrség keretein belül két szerv végzi: a Készenléti Rendőrség és a Terrorelhárítási Központ, melyek egyaránt ellátnak létesítményvédelmi feladatokat is. A rendőrségi szerveken kívül van még egy harmadik fegyveres szerv, mely ugyancsak ellát személy- és létesítményvédelmi tevékenységet, az Országgyűlési Őrség.
+
+Mindhárom szerv ugyanazon elvek mentén végzi a személy- és létesítményvédelmi tevékenységet, ugyanakkor míg a Terrorelhárítási Központ, illetve az Országgyűlési Őrség megalakulását követően e szervek számára sor került a személy- és létesítményvédelmi feladatok ellátása érdekében történő adatigénylésekhez, illetve -hozzáférésekhez szükséges rendelkezések megteremtésére, addig az általános rendőri feladatok ellátására létrehozott szerv számára a megfelelő jogosultságok biztosítása elmaradt. A személy- és létesítményvédelmi feladatok egységes elvek mentén történő ellátásának biztosítása érdekében indokolt tehát, hogy az általános rendőrségi feladatok ellátására létrehozott szerv is hozzáférhessen ilyen célból a bűnügyi nyilvántartáshoz.
+
+A Bnytv. 96. §-ához
+
+2018. január 1-jével hatályba lép az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), amely a hatósági eljárásjog megreformálásával tölti be az általános eljárásjogi kódex szerepét. Az Ákr. 8. § (3) bekezdése értelmében miniszteri rendelet már nem állapíthat meg kiegészítő eljárásjogi rendelkezést. Erre tekintettel, a jelenleg miniszteri rendeletben található, a hatósági erkölcsi bizonyítvány kiállítására vonatkozó rendelkezéseket kormányrendeletben szükséges elhelyezni. Ennek megfelelően módosul a Bnytv. érintett felhatalmazó rendelkezése.
+
+Az 51-60. §-hoz
+
+A Btk. 33. §-ának (6) bekezdéséhez és ezzel összefüggésben a Bv. tv. 31. §-ához
+
+A Bv. tv. 14. § (5) bekezdése alapján a szabadságvesztés és a kényszerintézkedés foganatosítása a pénzbüntetés helyébe lépő szabadságvesztés végrehajtását megszakítja. Ilyen esetben tehát előfordulhat, hogy az utóbb életfogytig tartó szabadságvesztésre ítéltnél a pénzbüntetés helyébe lépő szabadságvesztés egészen addig nem hajtható végre, amíg az elítéltet az életfogytig tartó szabadságvesztésből feltételes szabadságra nem bocsátják (azaz legkevesebb huszonöt év elteltével) vagy amíg őt a kötelező kegyelmi eljárás eredményeként nem szabadítják. Így - szemben az elzárással vagy a közérdekű munkával - a hatályos szabályok alapján a pénzbüntetés lényegében korlátlan ideig végrehajtható, amely az elítéltre nézve méltánytalan. Szükséges ezért egyrészt kizárni a pénzbüntetés életfogytig tartó szabadságvesztés melletti kiszabásának lehetőségét, másrészt rögzíteni, hogy életfogytig tartó szabadságvesztés esetén a pénzbüntetés végrehajtásának nincs helye.
+
+A Btk. 92/A. §-ához
+
+A Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 2016. január 1-je óta hatályos 92/A. §-a szabályozza azt az esetet, amikor a jogerősen befejezett szabálysértési ügyben utólag, perújítás eredményeként bűncselekmény miatti szankcionálásra kerül sor, melynek során a szabálysértés miatt kiszabott jogkövetkezményt a büntetőeljárásban kiszabott szankcióba be kell számítani. A hatályos szabályozásnak a fiatalkorúak speciális szabadságelvonással járó intézkedésére vonatkozó hiányossága, továbbá az, hogy a jelenlegi szöveg az egyes jogkövetkezmények beszámításánál irányadó mértékek tekintetében sem követi le megfelelően a szankciók tartamára vonatkozó hatályos rendelkezéseket, indokolttá teszik a rendelkezés pontosítását és kiegészítését.
+
+A Btk. 92/B. §-ához
+
+A rendkívüli jogorvoslat bizonyos formáiban folytatott eljárás eredményeként gyakorta előforduló eset az, amikor a rendkívüli jogorvoslat folytán eljáró bíróság, vagy a jogorvoslati eljárás eredményeként lefolytatott megismételt eljárásban eljáró bíróság a jogerő áttörése mellett az alapügyben hozott határozatban kiszabott büntetés illetőleg intézkedés mértékében vagy nemében más büntetést vagy intézkedést szab ki. Miután az alapügyben hozott jogerős ítélet alapján a jogkövetkezmények tekintetében a végrehajtás már leggyakrabban megkezdődött, rendezésre szorul a már végrehajtott és a rendkívüli jogorvoslat, vagy a megismételt eljárás eredményeként meghozott határozatban kiszabott szankció viszonya. Ennek alapjait teremti meg a módosítás annak kimondásával, hogy a már végrehajtott büntetés vagy intézkedés beszámításáról rendelkezni kell. Az azonos nemű büntetés vagy intézkedés beszámításának módja nem, kizárólag az igényel jogszabályi szintű szabályozást, ha az alapügyben hozott ítélettől a rendkívüli jogorvoslat vagy a megismételt eljárás során megváltoztatott ítéletben kiszabott büntetés vagy intézkedés neme tér el, melynek részletszabályait a törvény büntetés és intézkedés nemenként rögzíti. Fontos kiemelni továbbá, hogy a beszámítás nem csak akkor végezhető el, ha a büntetés vagy az intézkedés teljes tartama végrehajtásra került, hanem abban az esetben is, ha a büntetés vagy intézkedés egy részét hajtották végre. Ilyenkor értelemszerűen a büntetés vagy az intézkedés már végrehajtott részét kell beszámítani.
+
+A Btk. 186. § (4a) bekezdéséhez
+
+A Btk. egészségügyi termék fogalma értelemszerűen magába foglalja a gyógyszereket is. A tényállásban szereplő gyógyszer meghamisítása, illetve a hamisított gyógyszer fogalmak értelmezése az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 42. pontjában meghatározott fogalom - amely az Európai Parlament és a Tanács az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011/62/EU irányelv (2011. június 8.) fogalmat implementálja a magyar jogba - alapján történhet. E szerint: „Hamisított gyógyszer: bármilyen gyógyszer, amellyel kapcsolatban - a nem szándékos minőségi hiányosság esetét kivéve - az alábbiak valamelyike hamisan van feltüntetve:
+
+a) azonossága, így annak csomagolása és a címkézése, megnevezése, a hatóanyagokat, segédanyagokat és azok hatáserősségét jelölő összetétele,
+
+b) eredete, így a gyártója, a gyártó országa, a származási országa vagy a forgalombahozatali engedély jogosultja,
+
+c) előtörténete, így az alkalmazott forgalmazási lánc azonosítását lehetővé tevő nyilvántartások és dokumentumok;
+
+függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot;” Ennek megfelelően hamisított gyógyszernek minősül az olyan gyógyszer is, amelyet a legális ellátási lánc megszakításával, jogellenesen, kereskedelmi céllal értékesítenek.
+
+Ugyanakkor új jelenség, hogy Magyarországra nagy mennyiségben, illegálisan kizárólag gyógyszer előállítására alkalmas gyógyszer-hatóanyag érkezik. A hatályos szabályozás szerint ezen anyagok nem minősülnek egészségügyi terméknek.
+
+Annak érdekében, hogy azokkal a személyekkel szemben, akik a kizárólag gyógyszer előállítására alkalmas hatóanyagokkal arra feljogosító engedély nélkül kereskednek, valamint akik a gyógyszerésztől, gyógyszer-nagykereskedőtől az eredeti készítményeket nagymennyiségben, szervezetten megszerzik és továbbadják, hatékonyabb legyen a büntetőjogi fellépés, szükséges az előkészületi magatartás pönalizásálása is, hasonlóan a teljesítményfokozó szerrel visszaélés (Btk. 185. §) bűncselekményhez.
+
+A Btk. 279. § (1) és (2) bekezdéséhez
+
+A bírósági eljárás zavartalanságának védelme az igazságszolgáltatás megfelelő működése érdekében biztosítandó közérdek. Ennek megfelelően a fokozott védelem, azaz a hatósági eljárás megzavarása tényállásán belül a bírósági eljárásban való elkövetés minősített esetként kezelése alkotmányos indokokkal alátámasztható.
+
+A rendelkezésre álló statisztikai adatok azt mutatják, hogy indokolt az „eljárás meghiúsítása” fordulat minősített esetként kezelésének megszüntetése és beépítése az alaptényállás keretei közé, mivel e bűncselekmény előfordulása meglehetősen ritka, a legújabb eljárási kódexek komplex, garanciákkal övezett szabályai mellett pedig ezen esetkör megvalósulása még kevésbé valószínű.
+
+A Btk. 396. §-ához
+
+Mivel nyomatékos társadalmi érdek fűződik ahhoz, hogy a költségvetésbe visszakerüljenek az onnan jogellenesen kikerülő pénzeszközök, a Btk. 396. §-ának (8) bekezdése a büntetés korlátlan enyhítésére ad lehetőséget, feltéve, hogy az elkövető a cselekményével a költségvetésnek okozott vagyoni hátrányt a vádirat benyújtásáig megtéríti. A Btk. ezt a kedvezményt valamennyi értékhatár esetén biztosítja, azonban ha a költségvetési csalást bűnszövetségben vagy üzletszerűen követik el, korlátlan enyhítésre nem kerülhet sor.
+
+Jogalkalmazói tapasztalatok szerint a költségvetési csalást jellemzően üzletszerűen követik el, azonban mivel ez esetben a korlátlan enyhítés nem alkalmazható, ez adott esetben azt eredményezheti, hogy egy nagyobb (azaz ötszázezer-egy és ötmillió forint közötti) vagyoni hátrányt üzletszerűen okozó terheltet ki kell zárni a kedvezményből, míg egy különösen jelentős (azaz ötszázmillió forint feletti) vagyoni hátrányt nem üzletszerűen okozó terhelt büntetése korlátlanul enyhíthető lesz. A módosítással az üzletszerűen elkövetett költségvetési csalás terheltje motiválttá válik abban, hogy az általa okozott vagyoni hátrányt a lehető leghamarabb visszafizesse az államnak.
+
+Nem indokolt ugyanakkor a korlátlan enyhítés lehetőségét minden esetben biztosítani, ezért a törvény szerint a különös visszaesőkre a rendelkezés nem alkalmazható. A Btk. 459. §-a 31. pontjának a) alpontja határozza azt meg, hogy különös visszaesőnek az a visszaeső számít, aki mindkét alkalommal ugyanolyan vagy hasonló jellegű bűncselekményt követ el. A normavilágosság követelményére figyelemmel a törvény azt is meghatározza, hogy a költségvetési csalás szempontjából mit kell hasonló jellegű bűncselekménynek tekinteni. E körbe tarozik a Btk. XXXIX. Fejezetének valamennyi törvényi tényállása.
+
+A Btk. 408. §-ához
+
+A jogosulatlan pénzügyi tevékenységek elsősorban a nemzetgazdasági érdekeket sértik, mivel kiszorítják a legális piaci szereplőket a befektetőknek ígért, minden közgazdasági realitást nélkülöző magas kamat- és hozamígéretekkel, másrészt ezek betarthatatlansága végül jellemzően a befektetők károsodásához vezet. Megfigyelhető napjainkban, hogy az engedély nélkül végzett pénzügyi tevékenységhez (betétgyűjtés, portfoliókezelés stb.) közvetítői hálózat kiépítése társul. E közvetítői hálózatok a jogosulatlan tevékenység működtetésében jelentős szerepet játszanak, társadalomra veszélyességük főként abban áll, hogy megsokszorozzák a visszaélések hatókörét, multiplikáló hatással bírnak, és ez a bűncselekmény káros következményeinek súlyában, kiterjedtségében is megnyilvánul.
+
+A pénzügyi tevékenységekhez kapcsolódóan beszélhetünk függő és független közvetítői, illetve ügynöki tevékenységekről. A Btk. nem valamennyi pénzügyi tevékenységhez kapcsolódóan vonja büntetőjogi felelősség alá a jogosulatlanul végzett közvetítői tevékenységet önálló tettesként. Jelenleg a független biztosításközvetítő tevékenység büntetendő. A gyakorlatban nem egyértelmű, hogy a jogosulatlan pénzügyi tevékenységet folytató elkövetők tevékenységéhez kapcsolódó úgynevezett közvetítői, illetve ügynöki tevékenység bűnsegédi magatartásként értékelendő-e. Megjegyzendő, hogy ha a cselekmény kárt okoz, és csalás megállapítására kerül sor, a közvetítő, illetve az ügynök lesz az, aki jellemzően a megtévesztő magatartás kifejti, így e cselekménynek az elkövetője. A közelmúltban ismertté vált nagyobb visszhangot kiváltó bűnügyek felvetik a büntetőjogi felelősség megállapíthatóságának egyértelművé tételét a közvetítői, illetve ügynöki tevékenység vonatkozásában is, ha azt engedély vagy bejelentés hiányában végzik. Ezen elkövetési magatartás büntetendővé nyilvánítása előrehozott védelmet biztosít, hiszen a tevékenységi láncolatban előrébb állók magatartását rendeli önálló tettesként büntetni.
+
+A módosítás révén a jövőben a nyilvántartásba vétel, illetve a bejelentés hiányában közvetítői vagy ügynöki tevékenységet végzők is önálló tettesként felelnek. Az egyes ágazati szabályok a függő közvetítői tevékenység megkezdését vagy a felügyelet által vezetett nyilvántartásba vételhez, vagy a tevékenységnek a felügyelethez történő bejelentéséhez köti. Nyilvántartásba vételét vagy maga a közvetítő kezdeményezi, vagy arra a bejelentés megtételét követően kerül sor. A függő közvetítői, illetve ügynöki tevékenység bejelentésére az adott pénzügyi tevékenységet végző köteles, a bejelentésről e tevékenység folytatója legális tevékenység esetében értelemszerűen tudomással bír, illetve a bejelentés megtörténtéről maga is meggyőződhet, sőt a szakmai szabályok szerint meggyőződni köteles.
+
+Mindazonáltal a büntetőjogi felelősség megteremtése feltételezi az adott személy részéről az elvárhatóságot, vagyis, hogy az ágazati szabályok egyértelműen rögzítsék azt, hogy a bejelentési kötelezettség alá eső közvetítői, illetve ügynöki tevékenység megkezdése előtt - tekintve, hogy a bejelentési kötelezettség alanya és a büntetőjogi felelősség alanya eltér - milyen kötelezettsége terheli a közvetítőt, illetve az ügynököt atekintetben, hogy a tevékenység jogszabályszerű folytatásáról meggyőződjön.
+
+A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 369. § (2) bekezdése a biztosításközvetítői tevékenység végzésének feltételéül szabja - a 370-371. §-ban foglalt kivételekkel -, hogy a biztosításközvetítő (függő és független biztosításközvetítő egyaránt) aktív státuszban szerepeljen az MNB által vezetett felügyeleti biztosításközvetítői nyilvántartásban (Regiszter). A Bit.-nek a biztosításközvetítők nyilvántartását érintő előírásaira - így különösen a 411. § (1) bekezdésére, 412. § (6)-(7) bekezdéseire, a 267. § (1) bekezdés j) pontjára, illetve a 268. § (1) bekezdés f) pontjára - figyelemmel a biztosításközvetítő a Regiszterbe annak a biztosítónak vagy engedélyezett biztosításközvetítőnek (alkusznak vagy többes ügynöknek) a bejelentése alapján kerül, akinek a biztosításközvetítő biztosítást közvetít. Az alkuszt és a többes ügynököt - a tevékenységi engedély megadását követően - az MNB veszi nyilvántartásba.
+
+A Bit. 374. § (1) bekezdése alapján a felügyeleti nyilvántartásban szereplő természetes személy biztosításközvetítő a biztosításközvetítői tevékenységet a biztosító, a többes ügynök vagy a független biztosításközvetítő által kiállított arcképes igazolvány birtokában folytathatja. A nevezett jogszabályhely (2)-(4) bekezdései alapján az igazolványnak tartalmaznia kell a természetes személy nevét, címét, és a Felügyelet által megállapított nyilvántartási számát. Abban az esetben, ha a nyilvántartásban szereplő természetes személy a biztosításközvetítői tevékenységét gazdálkodó szervezettel fennálló munkaviszony, megbízási vagy munkavégzésre irányuló egyéb jogviszony keretében végzi, az igazolvány tartalmazza - az (1) bekezdésben meghatározottakon túl - a gazdálkodó szervezet nevét, székhelyét és cégjegyzékszámát (nyilvántartási számát). Ha a Felügyelet a biztosításközvetítői tevékenységet végző természetes személy felügyeleti nyilvántartásban szereplő státusza inaktív szerepeltetéséről döntött, a közvetítő köteles az arcképes igazolványt a kibocsátónak visszaadni.
+
+A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 111. § (1)-(2) bekezdései alapján a befektetési vállalkozás és az árutőzsdei szolgáltató a befektetési szolgáltatási tevékenysége végzéséhez, illetőleg árutőzsdei szolgáltatása nyújtásához közvetítőt vehet igénybe, mely közvetítő lehet függő ügynök, illetve befektetési vállalkozás.
+
+A befektetési vállalkozás a Bszt. 111. § (1) bekezdése szerinti megállapodást azzal a Magyarország területén székhellyel, lakhellyel (tartózkodási hellyel) rendelkező függő ügynökkel köthet, amely szerepel a Felügyelet 159. § (2) bekezdésében meghatározott nyilvántartásában, vagy más EGT-államban székhellyel, lakóhellyel (tartózkodási hellyel) rendelkező függő ügynökkel köthet, amelyet a székhelye, lakóhelye (tartózkodási helye) szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága vagy a 159. § (3) bekezdése szerinti esetben a Felügyelet nyilvántartásba vett.
+
+A Bszt. 114. § (1) bekezdése értelmében a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás közvetítésére irányuló tevékenységet függő ügynökként - a (2) bekezdésben foglalt kivétellel - az végezhet, aki szerepel a Felügyelet 159. § (2) bekezdése szerinti nyilvántartásában és megfelel a 111-116. §-ban foglalt rendelkezéseknek. A Felügyelet - kérelmére - azt a függő ügynököt veszi nyilvántartásba, aki megfelel az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak. A kérelméhez mellékelni kell többek között a megbízóval kötött szerződést. A Felügyelet a nyilvántartásba vételről vagy annak elutasításáról szóló döntését közli a kérelmezővel. A Bszt. 114. § (6) bekezdése alapján a Felügyelet törli a nyilvántartásból a függő ügynököt, ha a befektetési vállalkozás és árutőzsdei szolgáltató a 123. § (1) bekezdés e) pontja alapján a közvetítővel kötött szerződés megszűnését bejelenti.
+
+Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 55. § (1) bekezdése szerint, ha pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény pénzforgalmi közvetítőt kíván igénybe venni, azt a Felügyeletnek a szerződés megkötését követő öt munkanapon belül bejelenti. Az 55. § (2) bekezdése értelmében a pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek pénzforgalmi közvetítői tevékenységet kizárólag az végezhet, akit a Felügyelet az (1) bekezdésben foglalt bejelentést követően a 85. § (2) bekezdése szerinti nyilvántartásba felvesz és megfelel az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak.
+
+A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 202. § (1) bekezdése alapján a Felügyelet ellenőrzési tevékenységének ellátása és a fogyasztók érdekeinek védelme céljából nyilvántartást vezet a közvetítőkről és a közvetítői alvállalkozókról. A 21. § (1) bekezdése alapján a függő ügynök - ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt - a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet. Ugyanakkor a 21. § (2) bekezdése értelmében a pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal köteles bejelenti a Felügyeletnek.
+
+Az ellenőrizések hatékonyságának fokozása és a fogyasztók érdekeinek védelme, valamint a visszaélések megakadályozása érdekében ugyanakkor szükséges egyértelműsíteni, hogy a függő ügynöki tevékenység folytatásának feltétele, hogy szerepelnek a Felügyelet által vezetett nyilvántartásban. Ezt a módosítást az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény 110. §-a végzi el a következők szerint.
+
+„A Hpt. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A függő ügynök - ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt - a Felügyelet engedélye nélkül, a 202. § szerinti nyilvántartásba vételt követően végezhet ügynöki tevékenységet.””
+
+Áttekintve az ágazati szabályozásokat megállapítható, hogy a függő ügynök tevékenysége bejelentéséről, így annak jogszerű folytatásáról a Felügyelet által vezetett - a honlapján nyilvánosan elérhető - nyilvántartásokból egyértelműen meggyőződhet.
+
+Végezetül említést érdemel, hogy az önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási tevékenységhez kapcsolódóan az ágazati törvények terminológiájából adódóan e tevékenységek nem is értelmezhetők, így e tevékenység büntetendővé nyilvánítására ezen ágazatokhoz kapcsolódóan nem is kerül sor.
+
+A Btk. 422. §-ához
+
+A Btk. 422. §-a rendeli büntetni a tiltott adatszerzés bűntettét, amely az arra jogosított állami szervek által elvégezhető titkos adatszerzéshez, információgyűjtéshez hasonló, ám jogosulatlanul végzett magatartások szankcionálását biztosítja. E tényállással összefüggésben az elmúlt időszakban jogértelmezési vita alakult ki, mert az eredetei jogalkotói szándékkal szemben a joggyakorlat a „más lakása, egyéb helyisége, vagy az azokhoz tartozó bekerített hely” kifejezés alatt csak a magánlaksértés (Btk. 221. §) bűncselekményhez kapcsolódó értelmezés szerinti magánlakást érti. Erre figyelemmel tehát például a középületekben, intézményekben, hivatalokban, gyárakban, boltokban stb. lévő, nem lakás célját szolgáló helyiségekben végzett tiltott adatszerzés nem büntethető.
+
+A jogalkotó eredeti szándéka - mint az a Btk. 422. §-ához fűzött indokolásból is kiderül - az volt, hogy minden olyan magatartás szankcionálható legyen, amely során a magánszemély elkövető alapvetően zárt térben olyan titkosszolgálati/leplezett eszközt alkalmaz, amelyhez - ha azt hatóság végezné - a hatóságnak bírói engedélyre lenne szüksége. Az ilyen helyen tartózkodók ugyanis joggal számítanak bizonyos fokú védettségre személyes adataikat, magántitkaikat, gazdasági, illetve üzleti titkaikat illetően. Annak érdekében, hogy a jogalkotói szándék maradéktalanul érvényesüljön és a jogértelmezési probléma megoldódjon, a törvény a tiltott adatszerzés bűncselekmény elkövetési helyét tágabban határozza meg oly módon, hogy a bárki számára hozzáférhető helyen vagy a közösségi közlekedési eszközökön történt tiltott adatszerzés továbbra sem lesz szankcionálható.
+
+A Btk. 219. §-át érintő szövegcseréhez
+
+Az Európai Unió adatvédelmi csomagja átfogóan újraszabályozta a tagállami adatvédelem területét. A természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) közvetlenül alkalmazandó rendelkezéseket tartalmaz a hatálya alá tartozó adatkörre vonatkozóan. A Rendeletet kiegészítő, a tagállami jogba átültetendő rendelkezéseket határoz meg a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló (EU) 2016/680 európai parlamenti és tanácsi irányelv (a továbbiakban: Irányelv). Mivel a Rendelet közvetlenül alkalmazandó, a hatálya alá tartozó területen a magyar jogban horizontális adatvédelmi szabályozást rögzítő az információs önrendelkezési jogról és az információszabadságról szóló törvény 2011. évi CXII. törvény (a továbbiakban: Infotv.) részleges deregulálására kerül sor, és csak a Rendelet hatálya alá nem tartozó - az Irányelv által is érintett - területen lesz alkalmazandó. Ebből következően a Rendelet kötelező alkalmazásának időpontjától, azaz 2018. május 25-től a Btk. 219. §-ában meghatározott kerettényállást kitöltő adatvédelmi szabályozás két keretkitöltő normaanyagra fog támaszkodni: a Rendeletre és az Infotv.-re. Ennek megfelelően kerül kiegészítésre a személyes adattal visszaélés bűncselekményének kerettényállása.
+
+Az említett európai uniós jogi aktusok és a velük összhangban módosuló Infotv. az adatalany jogai körébe tartozó, az őt érintő adatkezelésekről történő utólagos tájékoztatási jogosultságába tartozó, az adatkezelési folyamat során érvényesülő tájékoztatási jogosultságát hozzáféréshez való jogként definiálja. A hatályos Infotv. 20. §-ában szereplő előzetes tájékoztatási kötelezettség nem tartozik ebbe a körbe, és e kötelezettség megsértését a gyakorlat jelenleg sem tekinti tényállásszerű elkövetési magatartásnak. Ennek megfelelően a 219. § (2) bekezdésében szereplő elkövetési magatartás pontosítására kerül sor akként, hogy a tájékoztatási kötelezettség elmulasztása csak az uniós aktusok által hozzáféréshez való joggal, azaz az utólagos tájékoztatással összefüggésben lehet tényállásszerű. A törvény ennek megfelelően pontosítja terminológiai szempontból az érintett rendelkezést.
+
+A Rendelet 9. cikke és annak nyomán az Infotv. módosítása kiveszi a személyes adat különleges kategóriái - a különleges adatok - köréből a bűnügyi személyes adatokat és azt önálló kategóriaként fogja kezelni. Az azonos szintű büntetőjogi védelem azonban megkívánja, hogy a bűnügyi személyes adatra elkövetett személyes adattal visszaélés továbbra is fokozottabb büntetőjogi védelmet élvezzen, ezért a 219. § (3) bekezdésében szereplő minősített eset módosítása is szükséges.
+
+A Btk. 286. és 349. §-át érintő szövegcseréhez
+
+Az Üttv. 4. § (1) bekezdése felsorolja, hogy az ügyvédi tevékenység gyakorlására az alábbiak jogosultak: ügyvéd, európai közösségi jogász, külföldi jogi tanácsadó, kamarai jogtanácsos, alkalmazott ügyvéd, alkalmazott európai közösségi jogász, ügyvédjelölt és ügyvédi kamarai nyilvántartásba vett jogi előadó.
+
+A hatályos szabályozás szerint a zugírászat (Btk. 286. §) bűncselekménye esetében elkövetőként ügyvédi, jogtanácsosi, vagy közjegyzői tevékenységet jogosulatlanul folytató személy jöhet szóba. Tekintettel arra, hogy a tényállás által védeni kívánt jogtanácsosi tevékenység az Üttv. fent említett rendelkezése szerint ügyvédi tevékenységnek minősül, így a zugírászatnál elegendő erre és a közjegyzői tevékenységre utalni. Ebben az esetben indokolt minden jogosulatlan ügyvédi tevékenységre a büntetőjogi védelmet kiterjeszteni.
+
+A mező- és erdőgazdasági hasznosítású föld jogellenes megszerzése (Btk. 349. §) bűncselekmény esetében a szerződés megkötésében közreműködő ügyvéd, jogtanácsos, vagy közjegyző is azonos módon felel, mint a szerződő felek. Ennek a körnek a kiterjesztése nem indokolt minden ügyvédi tevékenységet végző olyan személyre, akik érdemben és felelősséggel nem tudnak a szerződéskötésben közreműködni (pl. ügyvédjelölt, alkalmazott ügyvéd) ezért itt a „jogtanácsos” kifejezés pontosítása szükséges kamarai jogtanácsosára.
+
+A Btk. 286. §-a a jogban járatlan személyek érdekeinek védelme érdekében rendeli büntetni a zugírászat bűncselekményét. A hatályos rendelkezés alapján a jogosulatlanul és üzletszerűen végzett ügyvédi, jogtanácsosi vagy közjegyzői tevékenység tartozik e körbe. A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény (a továbbiakban: Szüt.) egy speciális tudást igénylő jogterületen, az iparjogvédelem területén szabályozza a jogi képviseletet. A Szüt. 1. § (1) bekezdése szerint a szabadalmi ügyvivő feladata, hogy ügyfelét iparjogvédelmi ügyben jogai érvényesítéséhez és kötelezettségei teljesítéséhez hozzásegítse; ennek során iparjogvédelmi ügyekben megbízás vagy kirendelés alapján képviseletet lát el az illetékes bíróságok és más hatóságok előtt, beadványokat, szerződéseket és egyéb okiratokat szerkeszt, valamint iparjogvédelmi ügyekben kutatásokat végez, szakvéleményt, tanácsot és tájékoztatást ad.
+
+A képesítés és szakértelem nélküli szabadalmi szolgáltatók számának növekedésével egyidejűleg - a szellemi alkotások valós jogi védelmére alkalmatlan bejelentésekre figyelemmel - a szellemi tulajdon védelme nem lesz megfelelő szintű. A bejelentések esetleges elutasítása vagy megsemmisülése évek múlva következik be, illetve adott esetben csak utólag derül ki, hogy a túlzottan korlátozott oltalom miatt a megszerzett jog valójában értéktelen. Mindezekre figyelemmel indokolt, hogy ezen a speciális jogterületen, az ügyvédi törvényhez hasonlóan szigorú törvényi követelményekkel szabályozott, jogi képviseletre jogosító szabadalmi ügyvivői tevékenység is hasonló védelmet élvezzen a zugírászat tényállásában, mint az ügyvédi, vagy a közjegyzői tevékenység.
+
+A Btk. 422. §-át érintő szövegcseréhez
+
+A Btk. 422. §-ának módosítására tekintettel a szövegcsere célja a tényállás pontosítása.
+
+A 61-84. §-hoz
+
+Az EUtv. 22. §-át érintő módosítások technikai jellegű, a bíróság eljárási formájára utaló pontosításokat tartalmaznak. Az körülmény, hogy a törvény lehetővé teszi a bíróság iratok alapján történő elzárását természetesen nem zárja ki, hogy a bíróság amennyiben azt indokoltnak tartja a kérdésben ülést tartson.
+
+A törvény az Európai Unió tagállamai közötti jogsegélyek esetén valamennyi jogintézmény tekintetében következetesen végigvezeti, hogy - eltérő szabályozás hiányában - a tagállami hatóságok közötti kapcsolattartásra közvetlenül kerül sor. A törvény ugyancsak az egyértelmű - és kialakult - jogalkalmazás biztosítása végett meghatározza, hogy ugyan a nemzetközi bűnügyi jogsegélyi együttműködés teljesítésére, előterjesztésére igazságügyi hatóság (bíróság, ügyészség) jogosult, azonban annak során a nyomozó hatóság is megfelelő módon közreműködhet.
+
+Az EUtv. 62/B. § (2) bekezdésének hatályos szabályozása a fogvatartott személy átadását a fogvatartott személy hozzájárulásához kötötte. Ezzel szemben az európai nyomozási határozatról szóló 2014/41/EU irányelv 22. cikk (2) bekezdés a) pontja a fogvatartott hozzájárulásának hiányát csupán mérlegelhető és nem kötelező megtagadási okként nevesíti. Az új szabályozás lehetővé teszi az irányelvnek megfelelő magyar jogalkalmazást, amely során a fogvatartott személy nyilatkozata a teljesítés során figyelembe vehető. A teljesítést a fogvatartott személy nyilatkozatára figyelemmel a magyar hatóság is megtagadhatja, de akár az európai nyomozási határozatot előterjesztő tagállam szabályozása is kizárhatja a hozzájárulás hiánya esetén a fogvatartott személy átvételét. A törvény az irányelv 23. cikkének (2) bekezdésére figyelemmel az előbbi kifejtettek szerint alakítja át az EUtv. 63/B. § (2) bekezdését is.
+
+A törvény az EUtv. tárgy visszaadására vonatkozó szabályait átalakítja, amellyel kapcsolatban az Nbjt. azonos jogintézményének szabályainál kifejtettek az irányadóak. Az EUtv. esetében a kiszolgáló adminisztratív - körözési - eljárás a Schengeni Információs rendszer, amelynek ágazati szabályait a 2012. évi CLXXI. törvény módosított szabályai tartalmazzák.
+
+A felügyeleti intézkedést elrendelő határozat végrehajtására irányuló jogsegélyhez
+
+A törvény a gyakorlati igényeknek, valamint a kölcsönös elismerés elvének az Európai Unió tagállamai közötti, az előzetes letartóztatás alternatívájaként felügyeleti intézkedéseket elrendelő határozatokra történő alkalmazásáról szóló 2009/829/IB  tanácsi kerethatározat rendelkezéseinek maradéktalan érvényesülése érdekében újra szabályozza az EUtv. V. fejezetében foglalt jogintézményt. Ennek során a törvény e fejezeten is átvezeti az EUtv. korábbi indokolatlan „elismeri és végrehajtja” fogalomhasználatával és ezzel kapcsolatos szabályozási rendszerével kapcsolatos változásokat, amelyek átvezetésére az EUtv. más jogintézményei esetében korábban már sor került.
+
+A kerethatározatban meghatározott felügyeleti intézkedések döntő többsége a magyar jogszabályok alapján értelmezhető és végrehajtása átvehető, azonban két esetben (jelentkezési kötelezettség és elérhetőség változásának bejelentési kötelezettsége) a büntetőeljárásban jelenleg ismeretlen előírások átvételének kötelezettsége áll fenn. E két intézményt az EUtv. önálló, rendbírsággal sújtható terhelti kötelezettségként vezeti be.
+
+A felügyeleti intézkedés végrehajtásának átvételéről a nyomozási bíró az iratok alapján dönt. Az eljárás azért az iratok alapján történik, mert az intézmény sajátossága okán a terhelt a megkeresés előterjesztésekor jellemzően a megkereső államban tartózkodik, magyarországi megjelenésre nem kötelezhető.
+
+A felügyeleti intézkedés végrehajtása során a magyar jogszabályok az irányadóak, azzal, hogy a magatartási szabályok megszegése miatt rendbírság kiszabásának helye lehet, azonban a terhelt személyi szabadsága nem korlátozható. Természetesen a terhelt őrizetbe vételének helye lehet abban az esetben, ha magatartása olyan cselekményt valósít meg, amely önmagában is az őrizet elrendelésére adhat alapot.
+
+Tagállamok közötti információcsere és a konzultációs eljáráshoz
+
+A törvény a gyakorlati tapasztalatok alapján újra szabályozza a konzultációs eljárás intézményét, amelynek célja a párhuzamos eljárásokból fakadó joghatósági összeütközések feloldása. A konzultációs eljárás a tagállami hatóságok közötti információcserével, a párhuzamos eljárás tényének beazonosításával kezdődi. A hatályos szabályozással ellentétben a törvény az egyeztetés ezen szakaszát az eljárást folytató szervhez telepíti, annak érdekében, hogy az eljárással kapcsolatos adatok közvetlenül és gyorsan beazonosítható legyenek. A konzultációs eljárást megelőző információcserét minden esetben az indukálja, hogy az eljárást folytató szerv - jogsegély, európai elfogatóparancs, érintett által történt tájékoztatás stb. alapján - információval rendelkezik arról, hogy egy másik tagállam azonos tárgyban büntetőeljárást folytat. Ennek megfelelően jellemzően rendelkezésre áll a vélt párhuzamos eljárást folytató szervre vonatkozó adat (elérhetőség). A felvetődött kérdés mielőbbi tisztázását a közvetlen kapcsolatfelvétel biztosítja. Amennyiben azonban a megkeresett szerv nem tudja beazonosítani az eljárást, vagy az eljárást ténylegesen folytató másik szervet, úgy a törvény a legfőbb ügyészt jelöli ki, hogy megkísérelje beazonosítani a megkereső hatóság által megjelölt eljárás. Ennek megfelelően azokban az estekben, amikor a megkeresésben megjelölt eljárás nem azonosítható (szemben azzal, amikor az eljárás azonosítható, vagy amikor egyértelműen azonosítható, hogy nincs párhuzamos eljárás) a választ a legfőbb ügyészség fogja megadni.
+
+A párhuzamos eljárások azonosítását követően a legfőbb ügyész hatáskörébe tartozik a magyar állam büntetőjogi igényét érintő egyeztetés lefolytatása. A törvény ugyanakkor jelzi, hogy a legfőbb ügyész bevonásával járó egyeztetésre akkor kerül sor, ha a joghatósági konfliktus más módon nem oldható fel. Amennyiben például az eljárással érintett másik tagállam az eljárást megszünteti, Magyarország részére átadja, a konzultációs eljárás lefolytatása indokolatlan.
+
+A törvény újraszabályozza a konzultációs eljárás végeredményét is, amely új szabályozás tekintettel van az eljárás lezáró jogsegélyi intézményekre, így különösen a büntetőeljárás átadás, átvétele jogintézményére. Ennek megfelelően a konzultációs eljárás befejezése nem önálló eljárás megszüntetési ok.
+
+Átmeneti rendelkezésekhez
+
+A 2017. évi XXXIX. törvény kialakított az EUtv. tagállami ítélet figyelembe vételére, megfeleltetésére vonatkozó szabályait. E szabályok egyes rendelkezései eltérnek a korábban hatályban volt külföldi ítélet elismerése szabályaitól, nevezetesen a külföldön részben felfüggesztett szabadságvesztés büntetés átalakításával kapcsolatban. A törvény átmeneti szabályokat tartalmaz az alábbi esetekre:
+
+- Ha egy elítélt olyan szabadságvesztést tölt, amely részben felfüggesztett büntetés átvételével kapcsolatos és feltételes szabadságra bocsátására még nem került sor, úgy a korábbi a tagállami ítéletet elismerő rendelkezés felülvizsgálható.
+
+- A törvény kizárja egyes rendkívüli jogorvoslatok alkalmazásának lehetőségét, ha egy magyar ítélet (jellemzően visszaesést megállapító) rendelkezése egy olyan korábban elismert tagállami ítéleten alapul, amely tagállami ítéletet egy újabb megfeleltetési eljárásban (a megfeleltetés eltérő szabályai okán) eltérő módon állapítanak meg.
+
+A törvény EUtv.-t érintő szövegcserére és hatályon kívül helyezésre vonatkozó rendelkezései jellemzően technikai jellegű, valamint az elektronikus okiratokkal összefüggő technológia semleges fogalmakat bevezető rendelkezéseket tartalmaznak. A törvény az egységes fogalomhasználat érdekében az elismerés új (kizárólag az Nbjt.-ben szabályozott) jogintézményének megfelelően kivezeti az EUtv. korábbi indokolatlan „elismeri és végrehajtja” fordulatait.
+
+Az EUtv. 34. §-nak hatályon kívül helyezését az indokolja, hogy az átmenő átszállítást az EUtv. X. fejezete teljes körűen az európai elfogatóparancsra kiterjedően is szabályozza, ezért a 34. §-ban felesleges szabályozás található.
+
+Az EUtv. 66. § (3) bekezdése tartalmazott utalást arra nézve, hogy eljárási jogsegély jogi személyt érintő eljárásokban is teljesíthető. E rendelkezés azonban felesleges és félreérhető volt. Az EUtv. csupán az európai nyomozási határozatot nem alkalmazó tagállamok esetén tartalmazott ilyen rendelkezést, amely ugyanakkor nem jelentette, hogy az európai nyomozási határozatot alkalmazó tagállamok esetében ne lett volna jogi személyt érintő eljárásokban helye jogsegély teljesítésének. Az EUtv. részletszabályai - például az illetékességre vonatkozó szabályok - alapján is egyértelmű, hogy nincs akadálya jogi személyt érintő eljárásokban a jogsegély teljesítésének. Tekintettel arra, hogy a magyar jogrendszer is ismeri a jogi személlyel szemben alkalmazható intézkedéseket, illetve az ezzel kapcsolatos eljárást így az ilyen tárgyban előterjesztett jogsegély a magyar jogrendszer alapelveivel nem ellentétes, a magyar jogrendszerben értelmezhető, azonosítható. Mindezek alapján az EUtv. 66. § (3) bekezdése kodifikációs szempontból félreérthető (hiszen más jogsegélyek e rendelkezést nem tartalmazták) és felesleges szabályozást tartalmazott. A rendelkezés hatályon kívül helyezése ugyanakkor az itt kifejtettek alapján nem azt jelenti, hogy a jövőben ne lenne helye jogsegély teljesítésének jogi személyt érintő eljárásokban.
+
+A 85. §-hoz
+
+A törvény a tárgy visszaadásánál, valamint a NEBEK tv. körözési eljárását érintő szabályozásának módosításánál kifejtettek szerint újra szabályozta a SIS II rendszer lefoglalással kapcsolatos rendelkezéseit.
+
+Az új szabályozás lényege, tekintettel arra, hogy a SIS II rendszerben több - és nem szükségszerűen bűncselekménnyel összefüggő - jogi okból is elhelyezhető figyelmeztető jelzés, hogy találat esetén a figyelmeztető jelzés céljával összhangban úgy kell eljárni, ahogy azt egy magyar eljárásban elrendelt körözés esetén indokolt lenne.
+
+Bűncselekménnyel összefüggésben elhelyezett találat esetén a körözést a lefoglalásra irányuló - ideiglenes - jogsegélynek kell tekinteni.
+
+Amennyiben a körözési rendszer adatai, vagy a tagállami hatósággal kapcsolatos egyeztetés alapján azonosítható, hogy a figyelmeztető jelzés célja a sértett részére történő visszaszolgáltatás volt, úgy alkalmazhatóvá válnak a tárgy visszaadásának egyszerűsített szabályai. Ennek hiányában a lefoglalásra irányuló jogsegély teljesítésére, igazságügyi hatóság közreműködésével az általános szabályok szerint kerül sor.
+
+A 86. §-hoz
+
+Tekintettel arra, hogy a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 2010. május 1-jén hatályba lépett módosításával változtak a közérdekű munka büntetés kiszabásának anyagi jogi szabályai, szükségessé vált a kiszabott tartam vonatkozásában az órák napnak való megfeleltetésének rögzítése.
+
+A 88-122. §-hoz
+
+A Bv. tv. 10/B. § (3), (4) és (5a) bekezdéséhez
+
+A gyakorlatban előfordult, hogy a végrehajtó követelésfoglalása a törvényben rögzített kifizetési határidő leteltéig nem érkezett be a kifizetés végrehajtásért felelős minisztériumhoz. Figyelemmel arra, hogy az Emberi Jogok Európai Bírósága részéről kifejezett elvárás a hatékony jogorvoslat ismérveként az, hogy a döntést késedelem nélkül végrehajtsák és a törvény ennek megfelelően a kártalanítás kifizetésére konkrét, hatvannapos határidőt állapít meg, indokolt, hogy ez a szabályozási célkitűzés érvényesülhessen.
+
+A módosítás révén egyértelmű lesz, hogy a kártalanítás kifizetésének nem lehet akadálya az, ha a végrehajtó követelésfoglalása megfelelő időben nem érkezik meg. Ennek időpontját a kifizetés határnapját megelőző nyolcadik munkanapban rögzíti a rendelkezés. Ezzel párhuzamosan rendeleti szinten garanciális szabályként kerülnek kidolgozásra a végrehajtó tájékoztatásának feltételi mind annak időbeliségére, mind tartalmára vonatkozóan.
+
+A Bv. tv. 14. § (8) bekezdéséhez
+
+A Bv. tv. 14. §-a rendezi a szabadságelvonással járó büntetések, intézkedések és ilyen végrehajtási móddal járó határozatok végrehajtásának sorrendjét. A módosítás a rendbírság helyébe lépő elzárás végrehajtásának helyét jelöli ki azzal, hogy a végrehajtási sorrendben a szabadságelvonással járó büntetés és intézkedés, a kényszerintézkedés, valamint a szabálysértési elzárás végrehajtását követi.
+
+A Bv. tv. 16. § (1) bekezdéséhez
+
+A Bv. tv. hatálya alá tartozó valamennyi végrehajtást érintően jogosult a bíróság, az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, valamint a gyermekek és az ifjúság védelméért felelős miniszter az eljárás felfüggesztéséről, elhalaszthatásáról vagy félbeszakításáról rendelkezni. Ide tartozik a rendbírság helyébe lépő elzárás végrehajtása is, amellyel a Bv. tv. hatálya alá tartozó végrehajtások felsorolását a törvény kiegészíti. Az intézkedések törvényi alapja egyrészt a Be., másrészt - figyelemmel a felsorolásban szereplő szabálysértési elzárásra - a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény, amely feltüntetésére a módosítással kerül sor.
+
+A Bv. tv. 26/A. §-ához
+
+2018. január 1. napjától kötelezővé válik az elektronikus ügyintézés, ezért szükséges rendezni, hogy a büntetés-végrehajtási ügyszakban ez milyen szabályok szerint történjen. Tekintettel arra, hogy a büntetés-végrehajtási ügyszak szorosan kapcsolódik a büntetőeljáráshoz, nyilvánvaló, hogy a Be. szabályai felelnek meg a leginkább az ügyszak sajátosságainak, szemben az E-ügyintézési törvény általános szabályaival.
+
+A Bv. tv. 43/B. §-ához
+
+A Bv. tv. a szabadságvesztés, az elzárás, a közérdekű munka, a javítóintézeti nevelés, a pénzbüntetés illetve a közérdekű munka helyébe lépő szabadságvesztés végrehajtásának megkezdésére halasztást biztosít vagy lehetőséget ad halasztás engedélyezésére. A rendbírság helyébe lépő elzárás is szabadságelvonással jár, mely esetre a törvény bevezeti a halasztás engedélyezését, összhangban a már rendezett szabályozással.
+
+A Bv. tv. 51. § (5) bekezdéséhez
+
+A Be. 431. §-a nevesíti tartalmi szempontból azokat a határozatokat, melyet a Kúria a törvényesség érdekében bejelentett jogorvoslat alapján meghozhat. Ez a rendelkezés nem vonatkozhat olyan eljárásra, ahol a Kúria bv bírói határozatot vizsgál meg, hiszen a büntetés-végrehajtási bírói végzése nem érinti a büntetőjogi felelősséget, és szankció kiszabásáról sem rendelkezik. Erre tekintettel szükséges külön szerepeltetni a Bv. tv.-ben azokat a határozatokat, amelyeket a Kúria meghozhat, ha a törvényesség érdekében bejelentett jogorvoslat tárgya büntetés-végrehajtási bíró végzése, melyek közé a módosítás iktatja be az eljárás megszüntetésének lehetőségét.
+
+A Bv. tv. 61/C. §-ához
+
+A Bv. tv. 2017. január 1-jei módosításának eredményeként közel duplájára emelkedett az egyidejűleg reintegrációs őrizetbe helyezett elítéltek létszáma, ezzel arányosan a magatartási szabályszegések száma is megemelkedett. Súlyos magatartási szabályszegés miatt a büntetés-végrehajtási bíró a büntetés-végrehajtási intézet előterjesztésére megszünteti a reintegrációs őrizetet, amelyről írásban értesíti az elítéltet. Komoly kockázatot hordoz magában az, hogy a büntetés-végrehajtási intézetbe történő bevonulásig - amely a büntetés-végrehajtási bírói határozat alapján néhány napot, esetenként hetet is jelent - az elítélt magatartása kiszámíthatatlanná válik és a közbiztonságra veszélyt jelenthet.
+
+A törvény lehetőséget teremt a szabadságvesztés ideiglenes foganatba vételének ügyész általi elrendelésére, ha ez a közbiztonság megőrzése érdekében alappal indokolható, így pl. a hosszabb tartalmú újabb szabadságvesztés kiszabásra tekintettel az elítélt szökésétől vagy elrejtőzésétől lehet tartani.
+
+A Bv. tv. 76. § (2) bekezdéséhez
+
+Az enyhébb végrehajtási szabályok alkalmazását megelőző eljárás során, valamint a társadalmi kötődés programba történő bevonás alkalmazását megelőzően a büntetés-végrehajtási pártfogó felügyelői környezettanulmány beszerzése elengedhetetlen a döntések megalapozása céljából. A környezettanulmány elkészítésével összefüggésben szükséges az adatkezelésre vonatkozó rendelkezések kiegészítése is.
+
+A Bv. tv. 82. § 7. pontjához
+
+Technikai jellegű módosítás. Az enyhébb végrehajtási szabályok alkalmazása és a társadalmi kötődés programba történő bevonásról való döntés megalapozása érdekében a büntetés-végrehajtási pártfogó felügyelő felhívásra környezettanulmányt készít. Ennek elkészítése során lényeges arra a környezetre vonatkozóan is a bűnismétlési kockázatok feltárása, illetve a reintegrációs célok érvényesülésének vizsgálata, ahol az elítélt az eltávozások alkalmával tartózkodik. Ez a környezet megfeleltethető a befogadó környezettel, ezért indokolt a fogalom-meghatározás kiegészítése e két esetkörökkel.
+
+A Bv. tv. 82. § 7. pontjához, 104. § (2) bekezdés g) pontjához, 166. § a) pontjához, 187. § (3) bekezdés b) pontjához, 275. § (2) bekezdéséhez
+
+A Bv. tv. több helyen is tartalmaz olyan rendelkezést, amely a terheltet kizárja bizonyos kedvezményekből abban az esetben, ha ellene újabb büntetőeljárás indult, illetve van folyamatban. Így az ilyen terhelttel szemben nem alkalmazhatók az enyhébb végrehajtási szabályok, számára nem adható jutalomként látogató büntetés-végrehajtási intézeten kívüli fogadása soron kívül, jutalom kimaradás, jutalom eltávozás, nem vehet részt társadalmi kötődés programban. Ehhez hasonlóan az elzárásra ítélt részére sem engedélyezhető kimaradás, ha ellene újabb büntetőeljárás indult vagy van folyamatban.
+
+Figyelemmel arra, hogy az új eljárás nem feltétlenül vezet az elkövető marasztalásához, alkotmányosan nem indokolható, hogy az új büntetőeljárásban eljáró ügyész vagy bíróság álláspontjának ismerete nélkül, minden esetben kizárásra kerüljön az elítélt a kedvezmények alól.
+
+Végül hangsúlyozni kell, hogy az új büntetőeljárás nem feltétlenül jelenti újabb bűncselekmény elkövetését, előfordulhat ugyanis, hogy egy, akár évekkel korábbi cselekmény miatt indul meg az eljárás, továbbá indulhat az új büntetőeljárás gondatlan bűncselekmény miatt is, amikor a prevenció érdekében történő korlátozás nem szükségszerű. A hatályos szabályozás e tekintetben nem differenciál, azaz ilyen esetekben is elrendeli a kedvezmények kizárását, holott azok engedélyezése nem feltétlenül veszélyeztetné a büntetőeljárás eredményességét, illetve a büntetés-végrehajtási intézet elhagyása a társadalom védelmét.
+
+A törvény egységesíti annak szabályait, hogy mikor kell a kedvezmények kizárásának szükségességét megvizsgálni. Emellett egyfajta kontrollmechanizmusként, a kedvezmények kizárásának indokoltságát - az eljárás szakaszától függően - az új eljárást lefolytató bíróság, illetve ügyész ilyen irányú rendelkezéséhez köti. A törvény pontosítja továbbá a büntetőeljárás, mint kizáró ok mibenlétét. Így a jövőben az új büntetőeljárás csak abban az esetben jelenthet kizárást, ha az szabadságvesztéssel fenyegetett, tehát nem enyhe megítélésű bűncselekmény miatt indult. A bv. intézet őrzés nélküli elhagyásával történik tipikusan a kimaradás, az eltávozás és a látogató bv. intézeten kívüli fogadása. A büntetőeljárás sikerét veszélyeztetheti az ilyen típusú, ellenőrzés nélküli kapcsolattartás. A kedvezményekből való kizárás - törvényből eredő - alkalmazásának további feltétele tehát az, hogy az új eljárást lefolytató bíróság, illetve ügyész, tekintettel arra, hogy a büntetőeljárás eredményességét veszélyeztetné, nem járul hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa.
+
+A Bv. tv. 96. § (1) bekezdéséhez
+
+A Befogadási és Fogvatartási Bizottság dönt az elítélt biztonsági besorolásáról és annak megváltoztatásáról. Ugyanakkor nemzetközi elvárás, hogy e besorolásokat időszakonként felülvizsgálják. Ezt a feladatot meg kell jeleníteni a BFB feladatkörét meghatározó rendelkezésben. A felülvizsgálat rendszerességére - mely besorolásnál milyenen időszakonként - vonatkozó előírásokat a szabadságvesztés, az elzárás, az előzetes letartóztatás és a rendbírság helyébe lépő elzárás végrehajtásának részletes szabályairól szóló 16/2014. (XII. 19.) IM rendelet fogja szabályozni.
+
+A Bv. tv. 99. § (4) bekezdéséhez
+
+A Bv. tv. 99. § (4) bekezdésének megfogalmazása értelmezési nehézséget vet fel a tekintetben, hogy az adott részlegen együtt elhelyezhető elítéltek végrehajtási fokozattól függetlenül helyezhetők-e el a zárkában vagy lakóhelyiségben, vagy e tekintetben már érvényesülnie kell a fokozatok szerinti elkülönítésnek. Egyes speciális részlegek jellegére (így pl. terápiás szempontok érvényesülése), a részlegen elhelyezettek számára, illetve az infrastrukturális lehetőségekre figyelemmel indokolt, hogy a szabályozás egyértelműen rögzítse, hogy e speciális részlegeken nemcsak az adott részlegre vonatkozik az együttes elhelyezés lehetősége, hanem a többes elhelyezésre szolgáló zárkában és lakóhelyiségben is közösen helyezhetők el a különböző végrehajtási fokozatú elítéltek.
+
+A hosszú időre ítéltek és a fiatalkorú elítéltek részlegén, valamint az anya-gyermek részlegen a jelenleg is hatályos szabályozás maradna, miszerint a részlegen belül különböző végrehajtási fokozatú zárkák, illetve lakóhelyiségek lehetnek, de egy zárkában vagy lakóhelyiségben csak azonos végrehajtási fokozatú elítélt helyezhető el.
+
+A Bv. tv. 104. §-ához
+
+Gyakorlati szakemberek részéről igényként fogalmazódott meg a döntések megalapozása céljából a büntetés-végrehajtási pártfogó felügyelői környezettanulmány beszerzése az enyhébb végrehajtási szabályok alkalmazását megelőző eljárásban. Jelenleg nincs olyan jogszabályi rendelkezés, amely bármely szerv vagy hatóság részére kötelezettségként írná elő e jogintézményhez kapcsolódóan környezettanulmány elkészítését. A törvény megteremti a környezettanulmány beszerzésének törvényi alapját, ennek révén a büntetés-végrehajtási intézetek részére kellő információ áll majd rendelkezésre és a megalapozottabb előterjesztések hatékonyabban segíthetik a büntetés-végrehajtási bírákat is a döntés meghozatalában.
+
+A Bv. tv. 113. § (1) bekezdés a) pontjához
+
+A törvény felsorolja az elítélt bíróság, közjegyző stb. elé állításának kötelező és lehetséges eseteit. Az elítélt előállítására azonban nemcsak büntetőügyben elítéltként kerülhet sor, hanem büntetés-végrehajtási ügyben is, pl. ha büntetés-végrehajtási bíró a bizonyítás érdekében a büntetés-végrehajtási ügyben az elítéltet a bíróságra való előállítással idézi, vagy ha feltételes szabadságra bocsátás azonnali esedékessége miatt a büntetés-végrehajtási intézet az elítéltet az egyébként a bíróságon meghallgatásokat foganatosító büntetés-végrehajtási bíró elé állítja. Erre tekintettel szükséges a már szabályozott felsorolást a büntetés-végrehajtási ügyre utalással kiegészíteni.
+
+A Bv. tv. 133. § (4) bekezdéséhez
+
+A gyakorlatban nehézséget okoz a Bv. tv. 133. § (4) bekezdésének értelmezése, jelesül, hogy a tartalékolást arányosan, az adott évben fogvatartásban töltött idő alapján vagy az év közben megkezdett fogvatartás esetén is egész évre vonatkozóan kell levonni. A módosítás egyértelművé teszi, hogy az adott évre vonatkozóan a fogvatartásban töltendő idővel arányosan kell, hogy történjen a tartalékolandó összeg levonása.
+
+A Bv. tv. 137. § b) pontjához
+
+A törvény felveszi az előállítás költségének viselése alóli mentesség eseteinek körébe a büntetés-végrehajtási ügyben foganatosított előállítást, tekintettel arra, hogy miután ez az elítélt akaratától független kötelező megjelenéssel jár, ennek költsége az elítéltre nem terhelhető. A szabálysértési ügyben való előállításra vonatkozó rendelkezés megjelenítése - figyelemmel arra, hogy a soron következő c) pontban szerepel - ezen a helyen szükségtelen, ezért az erre való utalást a törvény kiveszi.
+
+A Bv. tv. 156. § (4) bekezdéséhez
+
+Jelenleg a nem vényköteles gyógyszerek vagy gyógyászati segédeszközök - orvosi indokoltság és előzetes parancsnoki engedély alapján - csomagban küldhetők az elítélt részére. A gyógyszer kiadásáról és tárolásáról az egészségügyi szakterület gondoskodik. A törvény alapján a gyógyszereket, egyéb gyógyászati termékeket a csomagban való beküldés helyett, a fogvatartott vagy más személy kérelme alapján, külön megrendelőlapon, a fogvatartott letéti pénze terhére - külön megbízási díj nélkül - a büntetés-végrehajtási intézet szerzi be. A gyógyszerbeszerzés engedélyezése a törvény alapján is a büntetés-végrehajtási orvos javaslatát figyelembe véve a büntetés-végrehajtási intézet parancsnokának hatásköre marad. E módosítás a tiltott tárgyak bejutási kockázatának további csökkentése mellett biztosítaná, hogy a fogvatartottakat ne érje hátrány a szabadon beszerezhető készítményekhez való hozzáférést érintően.
+
+A törvény szerint a jövőben a kapcsolattartó csak olyan speciális gyógyszert, gyógyászati segédeszközt vagy gyógyhatású készítményt küldhet az elítéltnek csomagban, amelyet a büntetés-végrehajtási intézet nem tud biztosítani vagy beszerezni.
+
+A Bv. tv. 176. §-ához
+
+A törvény csomagküldésre vonatkozó szabályokat a tiltott tárgyak, elsősorban a kábító hatású anyagok, pszichoaktív szerek bejutásának megakadályozása céljából módosítja. A csomagok számának és gyakoriságának megtartása mellett a törvény a csomagban beküldhető tárgyak körét korlátozza, azonban ezzel egyidejűleg olyan megoldást tartalmaz, amely továbbra is lehetővé teszi az elítélt kapcsolattartó általi támogatását.
+
+A módosítás alapján a csomag összeállítása többféleképpen történhet. A csomagban nem küldhető be élelmiszer, tisztálkodási szer, dohánytermék, - bizonyos kivételekkel - gyógyszer, az ilyen tárgyakat tartalmazó csomagot a büntetés-végrehajtási intézet területén működő, a személyes szükségletekre fordítható összeg levásárlására kijelölt üzletben lehet - különböző értékben és ennek megfelelő választékkal - a látogatás alkalmával megvásárolni. A csomag súlya a végrehajtási rendeletben meghatározott 5 kg-t nem haladhatja meg.
+
+Amennyiben a látogatás és a csomagküldés ideje eltérő, esetleg az elítélt látogatása nehézségekbe ütközik, a kapcsolattartónak lehetősége nyílik arra, hogy interneten keresztül kínálati termék és árlista alapján megrendelje azokat a termékeket, amelyeket az elítélt részére biztosítani szeretne. Az így kiválasztott termékekből álló csomagot szintén a büntetés-végrehajtási intézet területén működő, a személyes szükségletekre fordítható összeg levásárlására kijelölt üzletben állítják össze.
+
+Továbbra is megmarad az a lehetőség, hogy a kapcsolattartó állítja össze és postai úton elküldi vagy a látogatás alkalmával személyesen átadja a csomagot. Ebbe a csomagba azonban nem kerülhet élelmiszer, tisztálkodási szer és dohánytermék, de ezen felül minden olyan tárgyat tartalmazhat a csomag, amit az elítélt engedéllyel magánál tarthat.
+
+Azon kapcsolattartók részére, akik nem tudják látogatni az elítéltet és nem tudják alkalmazni az internetes rendelést sem, továbbra is megmarad az a lehetőség, hogy célzott összegként az elítélt letéti számlájára pénzt küldjenek, amelyből az elítélt maga vásárolhat a hatályos szabályoknak megfelelően.
+
+A csomag küldésének, illetve fogadásának a törvényben meghatározott gyakorisága nem változik. Viszont tekintettel arra, hogy a csomagküldés módja annak tartalmától függően eltérő lesz, ezért indokolt annak rendezése, hogy a kívülről beküldött és a büntetés-végrehajtási intézet személyes szükségletekre fordítható összeg levásárlására kijelölt üzletében összeállított csomag miként számít be a csomag fogadásának gyakoriságába. Mivel a csomagfogadás lehetőségének havonkénti egyszeri alkalma nem változik, ha a kapcsolattartó más tárgyat kíván beküldeni, akkor választania kell, hogy ezt a csomagot küldi be, vagy élelmiszert, tisztálkodási szert vagy dohányterméket tartalmazó csomag összeállítását rendeli meg. Ugyanakkor az évszakváltásra figyelemmel negyedévente mód lesz arra, hogy az elítélt részére kizárólag ruhaneműt és lábbelit tartalmazó csomagot küldjenek be.
+
+A törvény kivételként határozza meg az olyan speciális gyógyszer, gyógyászati segédeszköz vagy gyógyhatású készítmény beküldését, amelyet a büntetés-végrehajtási intézet nem tud biztosítani vagy beszerezni, így az nem számít be a csomag fogadásának havonkénti alkalmába.
+
+A csomag ellenőrzésére vonatkozó szabályok változatlanok. Indokolt meghagyni a büntetés-végrehajtási intézetben összeállított csomagok ellenőrzésének lehetőségét, amelynek módjára, gyakoriságára vonatkozóan a büntetés-végrehajtási intézet parancsnoka rendelkezhet.
+
+A Bv. tv. 180. § (1) bekezdéséhez
+
+A társadalmi kötődés program végrehajtása során nehézséget okoz a Bv. tv. 180. § (1) bekezdésében és a 187. § (6) bekezdésének a) pontjában foglalt rendelkezés (a társadalmi kötődés megtartása érdekében az elítélt jogosult havonta legalább öt, de legfeljebb tíz nap eltávozásra azokon a napokon, amelyeken nem végez munkát) együttes alkalmazása, amely így a társadalmi kötődés program egyik lényeges elemének érvényesülését akadályozza, teszi lehetetlenné a meghatározott idő eltelte előtt.
+
+A törvény a társadalmi kötődés program céljainak érvényesülése érdekében egyértelművé teszi, hogy a Bv. tv. 180. § (1) bekezdésében meghatározott időbeliséghez kötött feltételek nem alkalmazandók e speciális jogintézmény kereteiben büntetésüket töltő elítéltek esetében.
+
+A Bv. tv. 180/A. §-ához
+
+A kimaradás, eltávozás engedélyezésének, valamint látogató büntetés-végrehajtási intézeten kívüli fogadásának közös szabályai jelenleg kizárólag rendeleti szinten jelennek meg, de a korlátozásra tekintettel - a jogalkalmazó szervektől érkező jelzésre figyelemmel - ezek törvényi szintre emelése indokolt.
+
+A Bv. tv. 187/C. §-ához
+
+A gyakorlatban többször is előfordult olyan visszás helyzet, hogy a kiutasítás hatálya alatt álló külföldi állampolgárságú elítélt reintegrációs őrizetét engedélyezték. A kiutasítás büntetés lényegével nem összeegyeztethető a reintegrációs őrizet intézménye, hiszen az ítélkező bíróság a kiutasítás elrendelésével arról foglalt állást, hogy az elítéltnek az országban tartózkodása nem kívánatos, a közbiztonságra veszélyt jelenthet. Ezért a törvény a reintegrációs őrizet elrendelést kizáró okok közzé illeszti azt az esetet, ha a külföldi állampolgárságú elítélt kiutasítás hatálya alatt áll.
+
+A Bv. tv. 280. § (5) és (5a) bekezdéséhez
+
+A Bv. tv. a közérdekű munka büntetés munkavégzéssel történő teljesítésének elvárható és ezáltal objektív határidejére, az első munkahely kijelöléséről szóló határozat jogerőre emelkedésének napjától számított 2 éves időtartamot ír elő. Léteznek azonban olyan események, helyzetek, amelyek idején a munkavégzésre az elítélt nem képes, vagy a teljesítés tőle nem várható el. A törvény az eddig nevesített eseteket kiegészíti a szabadságelvonással járó büntetési nem, az elzárás feltüntetésével, hiszen annak ideje alatt az elítélt szabad mozgásban, így a munkahelyen való megjelenésében korlátozva van. Ezen túlmenően a jobb áttekinthetőséget az esetek pontokba szedésével biztosítja a törvény.
+
+A Bv. tv. 293/A. §-ához
+
+Az Alkotmánybíróság a 13/2017. (VI. 19.) AB határozatában megállapította, hogy az Országgyűlés mulasztásban megnyilvánuló alaptörvény-ellenességet idézett elő azzal, hogy a Bv. tv. 292-293. §-aiban nem szabályozta a szabadságvesztésre átváltoztatott pénzbüntetés végrehajthatóságának a megszűnését. Az Alkotmánybíróság álláspontja szerint azzal, hogy a jogalkotó a pénzbüntetés végrehajthatóságának megszűnését nem szabályozta az elzárás, vagy a közérdekű munka végrehajthatósága megszűnéséhez [Btk. 278. § c) pont, 289. § d) pont] hasonlóan, hátrányosabb helyzetbe hozza a pénzbüntetésre ítélteket, mint a Btk. szerint egyébként súlyosabb büntetésnek tekinthető közérdekű munkára vagy elzárásra ítélt személyeket. A testület szerint a szankciórendszer felépítéséből ugyanis „arra vezethető le ésszerű indok, hogy a pénzbüntetéshez kapcsolódó releváns szabályozás az érintett másik két büntetési nem szabályaihoz mérten azonos súlyú vagy attól enyhébb legyen”. A mulasztásban megnyilvánuló alaptörvény-ellenesség megszüntetése érdekében ezért szükséges a pénzbüntetés tekintetében is megteremteni a végrehajthatóság megszűnésének lehetőségét az elzárás és a közérdekű munka esetében már létező szabályozáshoz hasonlóan. Ugyanakkor - tekintettel arra, hogy a Btk. általános részi rendelkezései alapján a szabadságvesztés mellett pénzbüntetés is kiszabható (szemben az elzárással és a közérdekű munkával, amelyek szabadságvesztés melletti kiszabását a Btk. 33. § (6) bekezdése kizárja) - kivételként szabályozni szükséges azt az esetkört, amikor a bíróság ugyanazon büntetőeljárás keretén belül egyidejűleg szab ki szabadságvesztés büntetést és mellette pénzbüntetést. Ez esetben nyilvánvalóan a büntetés céljával ellentétes lenne, és a végrehajtását lényegében ellehetetlenítené, ha a hosszabb tartamú szabadságvesztés töltése a mellette kiszabott pénzbüntetés végrehajtását kizárná.
+
+A Bv. tv. 296. §-ához
+
+A törvény részletesen meghatározza azokat az esetköröket, amelyeket a szabadságvesztés mellett kiszabott foglalkozástól eltiltás tartamába be kell számítani, vagy azt mellőzni kell. A módosítás az eltiltás jellegű jogkövetkezmények Bv. tv.-en belüli belső összhangjának megteremtése érdekében szükséges.
+
+A Bv. tv. 298. § (4) bekezdéséhez
+
+A törvény a járművezetéstől eltiltás büntetés alkalmazásával összefüggésben, a beszámításra vonatkozó szabályt pontosítja. A járművezetéstől eltiltásba való beszámítás anyagi jogi rendelkezése a beszámítás kapcsán abból a megfontolásból indul ki, hogy miután a járművezetéskor a közúti forgalomban való részvétel tárgyi feltétele az érvényes vezetői engedély birtokban tartása, járművezetéstől eltiltás alkalmazása esetén a kiszabott büntetésbe azt az időtartamot indokolt - erre tekintettel kell - beszámítani, amikor a vezetői engedély fizikálisan már nincs az elkövető birtokában.
+
+A jogalkalmazásban azonban többször felmerült problematikus esetek a beszámítást érintően megosztott joggyakorlatot eredményeznek, ezért ezen életviszonyok egyértelmű szabályozást igényelnek. Előfordulhat ugyanis, hogy az elkövető önhibáján kívül kerül olyan helyzetbe, hogy a beszámítást megalapozó törvényi előírás szerinti magtartást tanúsítani nem tudja, vagy arra - állapotánál fogva - nem képes. Ilyennek minősül az, ha az elkövető a vezetői engedélyt a balesettel érintett járműből, annak megroncsolódására tekintettel nem tudja magához venni, vagy ha maga az elkövető sérült meg olyan módon, hogy a hatóságnál a vezetői engedélyét leadni nem tudja. Ezek az esetkörök a Btk. 56. § (2) bekezdésében meghatározott, beszámításra okot adó helyzetekkel - lényegi elemüket, vagyis a fizikai birtokban tartást tekintve - azonos megítélés alá esnek, ezért a járművezetéstől eltiltás végrehajtása során a büntetés tartamába való beszámításuk sem maradhat el.
+
+A Bv. tv. 310. § (3) bekezdés a) pontjához
+
+A pártfogó felügyelet intézkedésének célja az elítélt életvitelének, a törvényi kötelezettségből fakadó és az előírt külön magatartási szabályok betartásának ellenőrzése, melynek elengedhetetlen eszköze az elítélt rendszeres figyelemmel kísérése, szükség szerint személyes kapcsolttartáson keresztül. A tartalmi elemekre tekintettel ennek a célnak a törvényi szintű megjelenítése indokolt, melynek a törvény eleget tesz.
+
+A Bv. tv. 313. § (1) bekezdés c) pontjához
+
+A pártfogó felügyelet végrehajtása során a pártfogolt magatartásának, viselkedésének és életvitelének hatékony figyelemmel kísérése az egyéniesítés szempontja alapján, kizárólag az egyéni esetkezelés eszközével valósulhat meg. Ennek nélkülözhetetlen eleme a pártfogó felügyelő és a pártfogolt közötti személyes kapcsolat, mely elsődlegességét törvényi szinten szükséges megjeleníteni, biztosítva emellett a kapcsolattartás más lehetséges módjait is.
+
+A Bv. tv. 339. § (3) bekezdéséhez
+
+A Bv. tv. 19. §-a szabályozza az ismeretlen helyen tartózkodó kényszergyógykezelt tartózkodási helyének felkutatása végett alkalmazható intézkedések körét, a módosítás az ehhez a rendelkezéshez való harmonizációt szolgálja.
+
+A Bv. tv. 353. § e) pontjához
+
+A Bv. tv. biztonsági okokból a büntetés-végrehajtási intézetben fogvatartott vonatkozásában kizárja az elektronikus ügyintézéshez való jog gyakorlását. A javítóintézeti nevelés, mint a végrehajtási módjában a szabadságvesztés büntetéshez hasonló szabadságelvonással járó intézkedés esetében ugyanezen jogkorlátozás megállapítása - azonos okból kifolyólag - indokolt.
+
+A Bv. tv. 423. § (1) bekezdéséhez
+
+A nemzetközi bűnügyi együttműködéssel összefüggésben kényszerintézkedés hatálya alatt álló személyek fogvatartásának helyéül a Bv. tv. kizárólagos illetékességgel jelöli ki a Fővárosi Büntetés-végrehajtási Intézetet. Az államok közötti, köztelezettség vállalást tartalmazó nemzetközi megállapodásokra figyelemmel azonban szükséges a főszabály mellett az országos parancsnok részére felhatalmazást adni más büntetés-végrehajtási intézet kijelölésére is a kötelezettség vállalás teljesítése érdekében.
+
+A Bv. tv. 3. §-át érintő szövegcseréhez
+
+Az Üttv. 4. § (1) bekezdése felsorolja, hogy az ügyvédi tevékenység gyakorlására az alábbiak jogosultak: ügyvéd, európai közösségi jogász, külföldi jogi tanácsadó, kamarai jogtanácsos, alkalmazott ügyvéd, alkalmazott európai közösségi jogász, ügyvédjelölt és ügyvédi kamarai nyilvántartásba vett jogi előadó.
+
+Tekintettel arra, hogy az értelmező rendelkezésben szereplő jogtanácsosi tevékenység az Üttv. fent említett rendelkezése szerint ügyvédi tevékenységnek minősül, így elegendő erre a tevékenységre utalni. Az ügyvédi tevékenység gyakorlására jogosult személyek közül értelemszerűen kizárólag az lehet hivatalos minőségben kapcsolattartó, aki az Üttv. rendelkezései értelmében jogi képviselőként eljárhat.
+
+A Bv. tv. 3. § 7. pontját érintő szövegcseréhez
+
+Az elektronikus kapcsolattartás kötelező jellegére figyelemmel jelentőségét veszti az értesítőlap különböző megjelenési formáinak feltüntetése.
+
+A Bv. tv. 10/A. és 10/B. §-át érintő szövegcseréhez
+
+A gyakorlatban nehézséget okoz, hogy a kártalanítás iránti kérelmekben gyakran nem jelölik meg a kérelmezők azt, hogy a kártalanítás kifizetése hova, milyen fizetési számlára történjen. Ezért a hiánypótlásra felhívások elkerülése - ami adminisztratív terhet jelent - érdekében célszerű jogszabályi szinten rögzíteni azt, hogy a kérelmet milyen adattartalommal kell benyújtani. A kérelem benyújtására szolgáló nyomtatványt - jelenleg nem kötelező jelleggel - a 16/2014. (XII. 19.) IM rendelet 8. sz. melléklete tartalmazza.
+
+A Bv. tv. 10/B. § (6) bekezdésében a személyes adatok kezelésére megállapított időtartam nincs összhangban a költségvetésből történő kifizetések bizonylatainak - az államháztartásról szóló jogszabályokban rögzített - megőrzési határidejével. A módosítás ennek megfelelően határozza meg az adatkezelés időtartamát.
+
+A Bv. tv. 20. § (4) bekezdését érintő szövegcseréhez
+
+Az enyhébb végrehajtási szabályok alkalmazása és a társadalmi kötődés programba történő bevonás feltételeinek megállapításával összefüggésben a környezettanulmány elkészítése olyan időtartamnak minősül, melyet indokolt a végrehajtásért felelős szerv eljárásra előírt határidő tartamába beszámítani, a módosítás ennek alapját teremti meg.
+
+A Bv. tv. 76. §-át érintő szövegcseréhez
+
+A pártfogó felügyelő és a büntetés-végrehajtási pártfogó felügyelő a pártfogó felügyelői vélemény, a környezettanulmány, a megelőző pártfogó felügyelői vélemény vagy jelentés készítése, valamint az egyéni pártfogási, illetve pártfogó felügyelői terv összeállításakor bűnismétlési kockázatelemzést is végez, illetve annak eredményét és az azt megalapozó adatokat, ideértve a terhelt bűnügyi személyes adatait is, felhasználja, ezért indokolt ezen adatkör megjelenítése is az adatkezelésre vonatkozó rendelkezésekben.
+
+A Bv. tv. 140. § (1) bekezdését érintő szövegcseréhez
+
+Nyelvtani pontosítást tartalmaz.
+
+A Bv. tv. 299. § (5) bekezdését érintő szövegcseréhez
+
+A terhelt által gyakorolható jogorvoslat formájának a Bv. tv. egyéb részein használt megnevezését vezeti át a szakaszon.
+
+A Bv. tv. 301. § (1) és (4) bekezdését, valamint 312. § (4) bekezdését érintő szövegcseréhez
+
+A szabadságelvonással járó szabadságvesztés büntetés és a szabadságelvonással járó végrehajtási módok felsorolását szükséges kiegészíteni az ugyancsak szabadságelvonással járó másik büntetéssel, az elzárással.
+
+A Bv. tv. 346. § (1) bekezdését érintő szövegcseréhez
+
+Törvényi szinten deklarálja a szabadságelvonással járó intézkedés végrehajtásának alapját, mely a bíróságnak az intézkedés kiszabásáról rendelkező határozata.
+
+A Bv. tv. 432. § (4) bekezdését érintő szövegcseréhez
+
+A rendbírság helyébe lépő elzárás végrehajtásának akadályát képező időmúlás számításkor a halasztás időtartamán túl indokolt a beszámítás alól kivenni azt az időtartamot is, amíg a végrehajtás félbeszakítására kerül sor.
+
+A Bv. tv. 436. § (10) bekezdését érintő szövegcseréhez
+
+Annak rögzítése, hogy a hat hónapos határidőt a kérelemnek az Emberi Jogok Európai Bíróságához történő benyújtásától, és nem annak beérkezésétől kell számítani.
+
+A Bv. tv. 36. § (4) bekezdését érintő hatályon kívül helyezés
+
+Az elektronikus ügyintézés 2018. január 1. napjától kötelező az elektronikus ügyintézést biztosító szervek részéről, melynek a büntetés-végrehajtási ügyszakban való rendezését a 92. § végzi el. Erre tekintettel az elektronikus kapcsolattartásra csak alternatív lehetőséget biztosító rendelkezés kiiktatása indokolt.
+
+A 123-137. §-hoz
+
+Az Nbjt. eltérő tartalommal hatályba lépő rendelkezéseihez
+
+A törvény az Nbjt. technikai, pontosító jellegű módosításait kezeli. Egyrészt egyértelművé kívánja tenni az Nbjt. 46. § (2) bekezdésében, hogy abban az esetben, ha a végrehajtási jogsegély kapcsán Magyarország a kibocsátó állam, az eljárás a Be. szabályai szerint az alapügyben első fokon ügydöntő határozatot hozó bírósághoz tartozik.
+
+Másrészt pontosítani kívánja az Nbjt. 51. § (3) bekezdését is oly módon, hogy a külföldi bíróság által kiszabott szabadságvesztés végrehajtásának átvétele esetén a büntetés végrehajtása az elítélt - ha a büntetés végrehajtása előtt Magyarországra visszatért - hozzájárulása nélkül is átvehető, ilyenkor azonban ülést kell tartani, amelyen az ügyész részvétele kötelező.
+
+Az EUtv. eltérő tartalommal hatályba lépő rendelkezéseihez
+
+Az EUtv. 114. § (1) bekezdés b) pontjához, 122. § (2) bekezdéséhez, a 122/A. §-ához, a 139. § (2) bekezdéséhez, 140/B. § (2) bekezdéséhez és a 140/D. §-ához
+
+A törvény a végrehajtás átvétele megtagadásának általános okai között, az EUtv. 114. § (1) bekezdésében pontosítja az elévülésre vonatkozó szabályt, tekintettel arra, hogy a vonatkozó kerethatározatok (2008/947/IB tanácsi kerethatározat, 2005/214/IB tanácsi kerethatározat, 2006/783/IB tanácsi kerethatározat) alapján akkor is meg lehet tagadni a végrehajtás átvételét, ha a kiszabott büntetés végrehajthatósága a magyar jog szerint elévült, feltéve, hogy a tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik. Ez a szabály ugyanakkor nem érvényesül a 2008/909/IB tanácsi kerethatározat esetében, ezért azt a szabályozás alól kivételként kell megfogalmazni, illetve külön, speciális szabály formájában indokolt róla rendelkezni az EUtv. 122/A. §-ában, ahol a megtagadás egyik oka a büntetés végrehajthatóságának elévülése, de azt nem kell vizsgálni, hogy az alapul szolgáló bűncselekmény magyar joghatóság alá tartozik-e vagy sem.
+
+A törvény az EUtv. 122. § (2) bekezdésében tisztázza, hogy ha a szabadságvesztés büntetés vagy a szabadságelvonással járó intézkedés végrehajtásának átvételére irányuló jogsegély teljesítése kapcsán a hatáskörrel és illetékességgel rendelkező Fővárosi Törvényszék a törvény alapján ülést tart, azon az ügyész részvétele kötelező.
+
+A törvény továbbá az EUtv. 139. § (2) bekezdésének felvezető szövegét az annak alapjául szolgáló 2005/214/IB tanácsi kerethatározat szövegéhez igazítja, és megállapítja a megfeleltetés speciális szabályait arra az esetre, ha a bűncselekményt a kibocsátó tagállam terültén követték el, vagy arra a magyar büntető joghatóság nem terjed ki.
+
+A törvény ezen túlmenően az EUtv. 140/B. § (2) bekezdésének és a 140/D. § (1) bekezdésének technikai pontosítását tartalmazza, illetve rendelkezik arról is a 140/D. § (2) bekezdésében, hogy ha a pénzbüntetés átváltoztatásához a kibocsátó tagállam nem járult hozzá, és azt a terhelt nem fizette meg, a tartozás adók módjára behajtandó köztartozásnak minősül, amelynek végrehajtása érdekében a bíróság a Nemzeti Adó- és Vámhivatalt keresi meg. A törvény megállapítja azt is, hogy egyéb esetekben, ha önkéntes fizetés nem történt, a végrehajtás nem vezetett eredményre vagy a tartozás más módon nem hajtható be, tájékoztatni kell a tagállamot arról, hogy a határozat végrehajtása Magyarországon nem lehetséges, és a bíróság a végrehajtást megszünteti. A törvény továbbá kimondja, hogy ha a cselekmény a magyar jog szerint nem minősül bűncselekménynek, a tagállami hatóság által kiszabott pénzbüntetés átváltoztatásának nincs helye. Erre az esetre pénzbüntetés meg nem fizetésekor ugyancsak köztartozásnak minősül, amely adók módjára hajtható be az EUtv. 140/D. § új (2b) bekezdése alapján.
+
+A törvény az EUtv. 108. § a) pontjában egyértelművé kívánja tenni, hogy abban az esetben, ha a végrehajtási jogsegély kapcsán Magyarország a kibocsátó tagállam, az eljárás a Be. szabályai szerint az alapügyben első fokon ügydöntő határozatot hozó bírósághoz tartozik. A törvény továbbá az EUtv. 113/B. § (2) bekezdésének, a 119/B. § (4) bekezdésének és a 140/A. § (5) bekezdésének egyéb technikai módosításait tartalmazza.
+
+A Bnytv. eltérő tartalommal hatályba lépő rendelkezéseihez
+
+A Bnytv.-nek a 2017. évi XXXIX. törvénnyel megállapított 76/A. §-a (2) bekezdésének módosítása a normavilágosság és az egységes joggyakorlat kialakítása céljából egyértelművé teszi, hogy az új típusú adatigénylésekre is (tehát a bűnügyi nyilvántartási rendszerből való adatigénylésre, és az azzal egyidejűleg előterjesztendő tagállami ítéletek nyilvántartásából való adatigénylésre is) ugyanazon szabályok vonatkoznak, mint a többi, a Bnytv.-ben már szabályozott adatigénylésre.
+
+A Bnytv. 76/D. §-át érintő módosítás továbbá megteremti a nemzetbiztonsági szolgálatok hozzáférését a tagállami ítéletek nyilvántartásához.
+
+-----STARTING---POINT---VEGE---
+
+A 138. §-hoz
+
+Hatályba léptető rendelkezés.
+
+A 139. §-hoz
+
+Jogharmonizációs záradék.

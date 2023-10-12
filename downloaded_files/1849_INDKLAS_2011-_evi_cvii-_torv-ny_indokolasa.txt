@@ -1,0 +1,523 @@
+2011. évi CVII. törvény indokolása
+
+egyes elektronikus hírközlési tárgyú törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+I. Bevezetés
+
+Az 1949. évi XX. törvény, a Magyar Köztársaság Alkotmánya 2/A. §-ának (1) bekezdése kimondja, hogy „A Magyar Köztársaság az Európai Unióban tagállamként való részvétele érdekében nemzetközi szerződés alapján - az Európai Uniót, illetőleg az Európai Közösségeket (a továbbiakban: Európai Unió) alapító szerződésekből fakadó jogok gyakorlásához és kötelezettségek teljesítéséhez szükséges mértékig - egyes, Alkotmányból eredő hatásköreit a többi tagállammal közösen gyakorolhatja; e hatáskörgyakorlás megvalósulhat önállóan, az Európai Unió intézményei útján is.”.
+
+A fentiekre figyelemmel Magyarország Európai Uniós tagságából fakadó hazai jogalkotási kötelezettségeknek való megfelelés alapvető fontosságú Magyarország számára.
+
+Az elektronikus hírközlési szektor uniós szabályozását meghatározó, 2002-ben elfogadott irányelvek felülvizsgálati záradékai - tekintettel a szektor gyors technológiai fejlődésére - 3 évenkénti felülvizsgálatot irányoznak elő. Erre hivatkozással a Bizottság 2005 végén két szakaszból álló konzultációt indított. Az első igényfelmérési szakaszt a Bizottság közleménye, valamint kapcsolódó munkadokumentuma és hatásvizsgálata követte a második szakaszban, amelyeket az érdekeltek nyilvános konzultációban véleményezhettek.
+
+A felülvizsgálati folyamat újabb állomása 2007. november 17-e volt, ekkor tette közzé a Bizottság a szabályozás módosítására vonatkozó konkrét javaslatait és a nyilvánosságra hozatalt követően 2008 januárjától kezdetét vette a javaslatcsomag tanácsi vitája, illetve az Európai Parlamenti első olvasat. Az Európai Parlament és Tanács együttdöntési eljárásban 3 olvasatban fogadta el a javaslatcsomagot 2009. év végén. Az új szabályozási csomag 2009. december 18-án lépett hatályba.
+
+Az elektronikus hírközlési ágazat uniós szintű keretszabályozását módosító csomag a következő jogszabályokból áll:
+
+1. Az Európai Parlament és a Tanács 2009/140/EK irányelve (2009. november 25.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról („Jobb Szabályozás Irányelv”).
+
+2. Az Európai Parlament és a Tanács 2009/136/EK irányelve (2009. november 25.) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról szóló 2002/22/EK irányelv, az elektronikus hírközlési ágazatban a személyes adatok kezeléséről, feldolgozásáról és a magánélet védelméről szóló 2002/58/EK irányelv és a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK rendelet módosításáról („Az Uniós Polgárok Jogai Irányelv”).
+
+3. Az Európai Parlament és a Tanács 1211/2009/EK rendelete (2009. november 25.) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC), és Hivatalának létrehozásáról.
+
+Az elektronikus hírközlési ágazat uniós szintű keretszabályozását jelentő irányelveket módosító jogalkotási aktusokat magába foglaló csomag hazai jogrendbe történő átültetésének határideje 2011. május 25-én lejárt. Figyelemmel erre, illetve a technológiai és piaci folyamatokból eredő modernizációs igényre, szükséges a csomag gyors átültetése valamint a hatályos szabályozás felülvizsgálata.
+
+Az elektronikus hírközlési ágazat uniós szintű keretszabályozását jelentő 2002-ben megjelent irányelveket a magyar jogba szintén keret jelleggel az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) emelte be, azonban egyes uniós jogi normákat a műsorterjesztés és digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.) és a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) implementált a magyar jogba.
+
+Emellett bizonyos módosítások kihatással vannak a más kapcsolódó törvényekre is. Ezért szükséges e törvények egyidejű implementációs célú módosítása.
+
+Jelen törvény elsődleges célja, hogy törvényi szinten tegyen eleget az uniós implementációs kötelezettségnek. Ezen túlmenően célja az előterjesztésnek a magyar elektronikus hírközlési piac sajátosságaira figyelemmel, az Eht. hatálybalépése óta eltelt időszakban felgyülemlett jogalkotói és jogalkalmazói tapasztalatokra támaszkodva, a megváltozott kormányzati struktúrára, valamint a konvergens hírközlési hatóság megváltozott alkotmányos és törvényi helyzetére tekintettel egy olyan jogszabályi környezet biztosítása, amely az elektronikus hírközlési ágazat szereplőinek is széleskörű támogatását élvezi.
+
+II. Az átültetés tárgyát képező irányelvek rövid összefoglalása
+
+Az irányelvek célja a belső elektronikus hírközlési piac létrehozása az Unión belül oly módon, hogy eközben az erősebb verseny révén biztosított legyen a befektetések, az innováció és a fogyasztóvédelem magas szintje.
+
+1. Jobb Szabályozás Irányelv
+
+Az irányelv célkitűzése a szabályozás hatékonyságának javítása és egyszerűsítése a Bizottság jobb szabályozás kialakítására irányuló programjával összhangban. A módosítások 4 fő irányvonala:
+
+1. hatékonyabb frekvenciagazdálkodás, ezáltal az innováció előmozdítása,
+
+2. dereguláció ahol szükséges, illetve ahol lehetséges a szabályozás egyszerűsítése,
+
+3. a hálózat biztonság és a hálózat integritás javítása,
+
+4. a nemzeti szabályozó hatóságok függetlenségének növelése, a piacelemzéssel kapcsolatos eljárás racionalizálása.
+
+2. Az Uniós Polgárok Jogai Irányelv
+
+Ezen irányelv célkitűzése a fogyasztóvédelem és a felhasználói jogok megerősítése és javítása, valamint a magánélet és a személyes adatok védelme a biztonsággal kapcsolatos rendelkezések szigorítása és a végrehajtási mechanizmusok javítása.
+
+A módosító irányelvek tagállami implementálási határideje 2011. május 25.
+
+III. A jogszabály módosítás jelentősége
+
+Jelen törvény jelentőségét az adja, hogy a keretszabályozás implementálásán túlmenően a korábbi szabályozás hatályba lépése óta eltelt időszakban összegyűjtött jogalkotói, jogalkalmazói és iparági tapasztalatok alapján kijelöli a szabályozás következő irányait és súlypontjait, alapvetően befolyásolja a szabályozási stratégiát, meghatározva az iparág valamennyi szereplőjének mozgásterét.
+
+A törvény novellaszerűen módosítja az Eht., annak érdekében továbbra is az elektronikus hírközlés általános, könnyen használható „kódexe” legyen.
+
+A szabályozás az uniós előírások szem előtt tartásával, a magyar elektronikus hírközlési piac sajátosságaihoz igazított olyan szabályozási környezetet kíván létrehozni, amely egy fejlődést támogató, elsősorban versenyre építő, fair és hatékony szabályozás.
+
+IV. A törvény módosítás iránya és jellemzői az alábbi fő területeken
+
+1. A szabályozó hatóság függetlenségének biztosítása a jogalkotási hatáskörökön keresztül
+
+Az Alkotmány 40/E. § (4) bekezdése biztosítja az NMHH elnöke (a továbbiakban: az Elnök) számára a rendeletalkotási jogot. Az Mttv.-ben - az Alkotmány felhatalmazása alapján - az Elnök a Hatóság európai uniós keretszabályozásnak megfelelő pénzügyi függetlenségét biztosító pénzügyi rendeletalkotási jogkört kapott.
+
+1.1. Az érintett jogalkotási témák
+
+A törvénymódosítás a következő témakörökben tartja célszerűnek a jogalkotási hatáskörök átadását az Elnök részére:
+
+a) a frekvencia és azonosító gazdálkodás körében:
+
+- a frekvenciafelosztás és a frekvenciasávok felhasználási szabályai;
+
+- a frekvenciapályáztatás szabályai;
+
+- a frekvenciahasználati jog átruházásának feltételei;
+
+- a frekvenciahasználati joggal kapcsolatos hatósági eljárás szabályai, zavarelhárítás szabályai;
+
+- a frekvenciát használó rádióberendezésekre vonatkozó szabályok;
+
+- nem polgári frekvenciagazdálkodás szabályai;
+
+- azonosítókkal való gazdálkodás rendjére vonatkozó szabályok;
+
+b) előfizetői jogviszony körében:
+
+- a szolgáltatás kiskereskedelmi minőségi paramétereinek szabályai;
+
+- számhordozhatóság szabályai;
+
+- közvetítőválasztás szabályai;
+
+- távirat-szolgáltatás szabályai;
+
+- segélyhívásokkal kapcsolatos szabályok;
+
+c) a szolgáltatók tevékenysége körében:
+
+- villamos berendezések megfelelőség igazolásának szabályai;
+
+- elektronikus hírközlési építményekre vonatkozó szabályok.
+
+A törvény által felvázolt rendszerben a hírközlés-politika, frekvenciapolitika és információs társadalommal összefüggő politikák megalkotása továbbra is hagyományos kormányzati feladat és hatáskör maradna, azonban a politikáknak megfelelő jogszabályok megalkotása közvetlenül az NMHH-hoz kerülne.
+
+1.2. Bizonyos jogalkotási hatáskörök NMHH Elnökhöz való átkerülésének indokai:
+
+a) Általános indokok:
+
+- Az Országos Rádió és Televízió Testület és a Nemzeti Hírközlési Hatóság egyesítéséből létrejött új szerv, a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH vagy Hatóság) - az alkotmányos jogvédelem miatt - a szükségszerűen autonóm státuszt kellett, hogy kapjon. A törvénymódosítás elsősorban az abból adódó problémákat orvosolná, hogy az NMHH autonóm státuszából következően a kormánynak és a miniszternek kizárt a felügyeleti és irányítási jogköre a Hatósággal szemben. A médiaigazgatás területén ez nem jelentkezik problémaként, hiszen független médiahatóság tekintetében - az Alkotmányban megfelelő alapjogok védelme érdekében - a kormány korábban sem rendelkezett irányítási és felügyeleti jogkörrel, azonban a hírközlési igazgatás területén a kormány és a miniszter felügyeleti és irányítási jogkört gyakorolt a Nemzeti Hírközlési Hatóság felett. A jelenlegi rendszerben azonban éppen az irányítási és felügyeleti jog hiánya miatt nem egyértelmű a hírközléssel összefüggő kormányzati politikák végrehajtásának metódusa, hiszen míg ezeknek a politikáknak a megfogalmazása és végrehajtása a hierarchikus viszonyrendszerben (kormányhatározat) történik a kormány és a minisztérium között, addig az NMHH autonóm státuszából következően jogi szempontból elvileg sem lenne köteles a kormány által meghatározott politikát követni. A rendszer szerint a kormány hírközléssel összefüggő politikáját jogszabályban (Kormányrendelet) fogalmazná meg, és a hírközlési politika végrehajtása közvetlenül a Hatóság által megalkotott rendeletekben öltene testet, úgy, hogy a részletszabályok kidolgozásának felelőssége már az NMHH-t terhelné. Tekintettel arra, hogy a jogszabályok az autonóm szervekre is közvetlenül kötelezőek a kormányzati érdekek, politikák becsatornázása közvetlenül megtörténhet ilyen módon, azonban a jelenlegi állapottal szemben nem sérülne az NMHH autonómiája. Így a jogalkotási hatáskörök átadása biztosítja csak teljes mértékben, hogy a kormány elektronikus hírközlési politikája és infokommunikációs politikája valóban megvalósuljon a tényleges jogalkalmazásban is.
+
+- A hírközlés gyorsan változó piacán rendkívül fontos szempont, hogy a jogalkotás a lehető leggyorsabban reagáljon a piaci változásokra, azaz ezen a területen kiemelten fontos az időtényező: a piaci viszonyok rendkívül gyors változásának lekövetése és a piaci problémák hatékony és gyors kezelése. Ezen a piacon ugyanis a nem kellő időben megtett szabályozói beavatkozás, a piaci problémák késve történő orvoslása komolyabb piaci zavarokhoz vezethet, a piac egészének struktúrájára, jövedelmezőségére kihathat, a nagy beruházási igény, és a lassú megtérülés miatt; és ezáltal végső soron a fogyasztóknál jelentkező (pénzügyi, szolgáltatás megfelelőségi stb.) hátrányokhoz is vezethetnek. A lassú, formálisan kötött minisztériumi/kormányzati hagyományos jogalkotási struktúra útjainak „végigjárása” ezen gyors változásokat ugyanakkor az esetek többségében egyszerűen nem képes lekövetni. Egyrészt azért, mert tényleges jogalkotási igény így is mindig közvetítő szerveken, főként a jogalkalmazó NMHH-n keresztül érkezik (az európai elsődleges és másodlagos jogi normáinak implementálását kivéve), azaz a kormányzati jogalkotás reakciója nyilvánvalóan lassabb, mintha a jogalkotási jogkör közvetlenül a hatóságnál összpontosulna. Másrészt a hagyományos kormányzati jogalkotásnak annyi „belső lépcsőn” kell keresztül mennie, hogy az eleve lassabbá, kiszámíthatatlanabbá teszi a jogalkotási folyamatot a Hatóság „egykapus „ jogalkotásával szemben. Az előfizetőket és szolgáltatókat közvetlenül érintő jogalkotási hatáskörök NMHH-hoz való telepítése ezért jóval hatékonyabbá és gördülékenyebbé tenné ezen a területen a jogszabályi környezet alakítását, tekintettel arra, hogy ugyanazon Hatóság tudná kezelni jogalkotási eszközökkel is a piaci problémát, amely feltárta azt. Így egyrészt a jogalkotási igény nem közvetítő szerveken keresztül jelentkezne, másrészt nem igényelné a minisztériumi igazgatás viszonylag lassabb ügymenetének betartását, amely jelentős időmegtakarítást tesz lehetővé. Ezáltal elkerülhető az a piaci szereplők által gyakran megfogalmazott azon kritika, hogy a jogalkotás a hírközlés területén csak késve tud reagálni a gyors piaci változásokra.
+
+Ezért a hagyományos jogalkotási struktúrának a nyilvánvaló időbeli kötöttsége miatt sokkal több gyakorlati, a piacra ténylegesen kiható hátránya van, mint amennyi esetleges hátrány abból származik, hogy a jogalkotás nem egy kézben (minisztérium, kormány) összpontosul, hanem megoszlik az autonóm szabályozó hatóság és a hagyományos kormányzati szervek között.
+
+- Kétségtelen, hogy az Európai Unióban elsősorban az angolszász országokban van hagyománya a szabályozó hatóságok általánosságban kötelező normatív aktusalkotási jogának, mindez azonban önmagában nem jelenti azt, hogy a szabályozó hatóság egy másik jogrendszerben való meghonosítása nem követeli meg bizonyos - az adott jogrendszerben szokatlan vagy ott egyáltalán nem fellelhető - eszközök alkalmazását.
+
+A piaci közszolgáltatások (különösen a hírközlés) területén ugyanis kétségtelenül igaz, hogy az azokat szabályozó, felügyelő közigazgatási ágazatokban a jogalkotó nem feltétlenül képes (sőt általában nem képes) a hatósági tevékenység valamennyi mozzanatát megfelelően és kellő mélységben szabályozni éppen a speciális tárgykör miatt. Ez önmagában olyan - bár jogszabály által körülhatárolt - döntési kompetenciát feltételez a szabályozó hatóság oldalán, amely felveti az általánosan kötelező normaalkotási jogkör szükségességét is. Az uniós színtéren a tagállami álláspont kialakítása és képviselete eddig is együttesen történt a minisztérium (kormány) és a hatóság képviselői által, ez a jövőben semmiben nem változna, és az Európai Unióval szemben fennálló kötelezettségeket szintén semmiben sem érinti az, hogy a konkrét jogalkotási hatásköröket mely szerv gyakorolja, mivel erre nézve európai uniós kötelezettség nem áll fenn.
+
+- A Hatóság az említett szabályozási területeken (frekvenciagazdálkodás, előfizetőket érintő jogviszonyok, szolgáltatók hivatali hatáskörbe tartozó tevékenysége) jogszabály által előírtan folyamatosan köteles a piacot monitorozni, ezért az itt szerzett tapasztalatok jogszabályokba történő átültetése, felmerülő piaci igények kezelése „helyben” történhet. Ezen szabályozási területek kapcsán elmondható, hogy a hatóság egyedülálló tapasztalattal és információval rendelkezik a hírközlési piacon, ezért biztosított, hogy a törvényi garanciák mellett - összhangban a Kormány által kialakított hírközlés-politikával, illetve rádióspektrum politikával - oly módon tudja az egyes szabályozási elemeket meghatározni, hogy az hatékonyan szolgálja a hírközlési és kapcsolódó piacok egészséges fejlődését.
+
+- A jogalkotási és jogalkalmazási hatáskör kettőssége révén továbbá a Hatóság mérlegelhetné, hogy a feltárt piaci problémát hatósági vagy jogalkotási eszközökkel szükséges-e kezelni. Az adekvát, szabályozási igényeknek megfelelő problémakezelés pedig nagyban javíthatja az előfizetői jogok érvényesülését és a káros piaci folyamatok gyors kiszűrésének mechanizmusát. Az iparág felől érkező igényeket éppen az aszimmetrikus versenyszabályozást megvalósító független hatóság tudja megfelelő objektivitással kezelni, figyelmet fordítva valamennyi piaci szereplő érdekére. A miniszteriális jogalkotásnál a hírközlés területén inkább érvényesülhetnek a lobbyérdekek, hiszen a kisebb szolgáltatók hatékony képviselet hiányában eleve nem tudják álláspontjukat artikulálni a jogalkotás felé, míg a hatóságnak rálátása van ezen szolgáltatókra is a piacfelügyeleti, piacelemzési tevékenysége révén. Ezáltal éppen a hírközlési piaci versenyt szabályozó hatóság képes adekvát módon annak felmérésére, hogy egy piaci probléma hatósági vagy jogalkotási eszközökkel kezelhető-e alkalmasabb módon, és így megszüntethetőek azok az anomáliák, hogy a gyors piaci környezetben a hatóság a „jogalkotásra vár”, mert a piaci probléma hatósági eszközökkel nem kezelhető.
+
+- Tekintettel arra, hogy a fenti jogszabályok megalkotásában, előkészítésében a Hatóság eddig is aktívan részt vett, és a minisztérium részére folyamatos szakmai előkészítő munkát végzett, lényegében nem jelentene új feladatot a jogalkotási hatáskör. A jogalkotással kapcsolatos egyeztetési folyamatok jelenleg is kidolgozottak, tekintettel arra, hogy az Mttv. megteremtette az elnöki jogalkotás feltételeit, és elnöki jogalkotásra már zökkenőmentesen sor is került. A jelenleg hatályos Alkotmány biztosítja az NMHH elnökének rendeletalkotási jogkörét, a későbbiekben ezt pedig sarkalatos törvények határozzák meg, tehát a rendeletalkotás NMHH hatáskörbe utalása semmivel sem illeszkedik kevésbé a hatályos szabályozás keretei közé, mint a jogalkotási hatáskörök minisztériumi illetve kormányzati szinten való tartása.
+
+- Nagyon fontos hangsúlyozni, hogy a jogalkotási feladatok ellátása a hatóságnak jelentős többletköltséget nem okoz, minimális humánerőforrás többletet igényel, és ezen feladat ellátását saját költségvetése terhére biztosítani tudja. Így a törvény elfogadása esetén központi költségvetés terhei mindenképpen csökkennének, ugyanakkor az NMHH részére a feladat ellátáshoz külső források biztosítása nem szükséges, tekintettel arra, hogy saját bevételeiből gazdálkodó autonóm szerv.
+
+b) A frekvenciagazdálkodással kapcsolatos speciális indokok:
+
+- Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: vagyontörvény) szabályozza a Magyar Állam tulajdonában álló vagyon feletti tulajdonosi joggyakorlás módját és szervezetét, valamint e vagyonnal való gazdálkodást. A vagyontörvény értelmében az állami vagyon felett a Magyar Államot megillető tulajdonosi jogok és kötelezettségek összességét - ha törvény eltérően nem rendelkezik - az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) gyakorolja, aki e feladatát a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.), a Magyar Fejlesztési Bank, illetve a törvény szerinti tulajdonosi joggyakorló szervezet útján látja el. Az állami vagyonnal való gazdálkodás a vagyontörvény értelmében tehát fő szabályként valóban egy olyan tulajdonosi joggyakorlási sémára épül, mely szerint miniszter a feladatát valamilyen tulajdonosi joggyakorló szervezet (fő szabályként az MNV Zrt.) útján látja el.
+
+Megállapítható ugyanakkor, hogy a frekvenciagazdálkodás egy speciális állami vagyonnal való olyan speciális gazdálkodást igényel, amelyre a vagyontörvénynél lényegesen speciálisabb szabályok vonatkoznak, és ennek megfelelően át kell dolgozni a tulajdonosi joggyakorlás módját is, melyre a vagyontörvény lehetőséget ad. Így a vagyontörvénytől eltérően a törvényjavaslat benyújtása idején hatályos rendszer is aszerint épül fel, hogy a frekvenciavagyon ugyan az NFM tulajdonosi jogkörébe tartozik, de ezeket a tulajdonosi jogokat ténylegesen a Hatóság gyakorolja, mivel a frekvenciákkal kapcsolatos versenyeztetési eljárások (pályázat és árverés) tekintetében csak az NMHH rendelkezik/rendelkezhet hatósági hatáskörrel, azaz azzal, hogy a pályázati/árverési eljárást lefolytassa és a nyertes személyéről hatósági döntésben határozzon.
+
+A frekvenciagazdálkodás területén a kormányzati politika végrehajtásának az a) pontban kifejtett problémája ezért sokkal élesebben jelentkezik, mint más területeken. Mivel a frekvenciákkal kapcsolatban a tulajdonosi joggyakorlást kifejezetten az NMHH végzi (és az említett hatósági hatáskör miatt nem is telepíthető más szervhez), ezért a frekvenciákkal kapcsolatos kormányzati politika érvényesítése az irányítási és felügyeleti jogkör hiányában jelenleg nem adott. A frekvenciadíjakkal kapcsolatos elnöki jogalkotás révén pedig - mivel az közvetlenül befolyásolja a frekvenciafelosztás és a frekvenciasávok felhasználási szabályainak alakítását - nem biztosított az sem, hogy az egyes frekvencia felhasználással kapcsolatos jogalkotás területeken egységes szempontok és érdekek kerüljenek figyelembe vételre. Mindehhez hozzá kell tenni, hogy a frekvenciadíjak tekintetében a jogalkotási hatáskör - a hatóság EU irányelvekben előírt pénzügyi függetlenségének biztosítása érdekében - jelenleg is az NMHH Elnökének hatáskörébe tartozik. A frekvenciadíjakkal kapcsolatos elnöki jogalkotás révén pedig - mivel az közvetlenül befolyásolja a frekvenciafelosztás és a frekvenciasávok felhasználási szabályainak alakítását - a törvényjavaslat benyújtásának időpontjában hatályos szabályozás szerint nem biztosított az sem, hogy az egyes frekvencia felhasználással kapcsolatos jogalkotás területeken egységes szempontok és érdekek kerüljenek figyelembe vételre. A jelenlegi rendszerben tehát nem történik meg a hatáskörök pontos és egzakt szétválasztása, és a frekvenciákkal kapcsolatos tulajdonosi jogokkal kapcsolatos felelősségi körök elhatárolása.
+
+A törvénymódosítás ezen problémát feloldja azáltal, hogy a jogszabályi szintű kormányzati politika figyelembe vételével az NMHH saját hatáskörben alkothatná meg a frekvenciagazdálkodással kapcsolatos jogszabályokat, részletszabályokat, mivel így nem jelentkezik a felügyeleti és irányítási jogkör alkotmányos dilemmája (azaz, hogy a Hatóság úgy hajtja végre a kormányzati politikát, hogy annak végrehajtására egyébként nem volna köteles).
+
+Hangsúlyozandó, hogy kizárólag a törvénymódosítással biztosítható a tulajdonosi joggyakorlás tényleges tartalma, mivel a tulajdonosi jogok gyakorlása szorosan összefügg az azt szabályozó feltételrendszer (azaz a jogszabályok) megalkotásával, tényleges tulajdonosi joggyakorlás enélkül nem képzelhető el. A jelenlegi rendszerben ugyanis jól látható, hogy a felelősségi körök a tulajdonosi joggyakorlás esetén tisztázatlanok, mivel a kormány bár elhatározhatja, hogy egy adott frekvenciasávot milyen formában és ütemezéssel szeretne értékesíteni, ennek végrehajtására az NMHH jogilag nem köteles, azaz tényleges tulajdonosi joggyakorlás nem tud megvalósulni, illetve ezzel kapcsolatban nincsenek elhatárolva a tényleges felelősségi körök. A frekvenciagazdálkodás módosított rendszerében azonban a felelősségi körök teljesen egyértelműen rögzítettek lesznek: a kormány felelős a frekvenciapolitika megalkotásáért, a Hatóság pedig ennek figyelembe vételével felelős az állami vagyonnal való teljes körű gazdálkodásért, beleértve az ezt szabályozó feltételrendszer (jogszabályok) megalkotását is. Tekintettel arra, hogy a jogszabályok az autonóm szervekre is közvetlenül kötelezőek a kormányzati érdekek, politikák becsatornázása közvetlenül megtörténhet ilyen módon, azonban a jelenlegi állapottal szemben nem sérülne az NMHH autonómiája.
+
+- A hatékony frekvenciagazdálkodás a jelenlegi állapottal szemben a törvény elfogadása esetén szintén sokkal jobban érvényesülne, hiszen elsősorban a szabályozó hatóság rendelkezik arra nézve átfogó piaci információval, hogy mely frekvenciasáv milyen konstrukcióban, milyen időpontban és milyen feltételek mellett hasznosítható a leginkább megfelelően a piaci és állami érdekeknek.
+
+(Megjegyezésre érdemes, hogy a fontosabb frekvenciasávok értékesítése esetén ma is fordított a folyamat, azaz a jogalkotás „leköveti” a szabályozó hatóság frekvenciasáv tekintetében megtett értékesítési koncepcióját a kormányzati érdekek figyelembevételével. Mivel a frekvenciagazdálkodás tekintetében az NMHH-t a törvény szerint is köti a kormányzati politika a kormányrendeletek útján, ezért a kormányzati szempontok figyelembe vétele semmivel sem lenne hatékonytalanabb a jövőben, az értékesítések piaci igényekhez való igazítása sokkal hatékonyabban és gyorsabban történhetne, hiszen a jogalkotó szabályozó hatóság közvetlenül foglalhatná jogszabályba az értékesítési koncepció alapján felmerülő jogalkotási igényeket).
+
+- Nem elhanyagolható szempont, hogy a frekvenciagazdálkodással kapcsolatos jogszabályi háttér megalkotásának Elnökhöz kerülésével az eljárások időzítése és lefolytatása az állami és a piaci igényeknek lehető legmegfelelőbben történhet.
+
+- A Hatóság történeti okoknál fogva folyamatosan részese és meghatározója a frekvenciagazdálkodásnak, a hatóság a frekvenciagazdálkodási intézet jogutódja, egyedülállóan felkészült szakembergárdával rendelkezik a frekvencia- és azonosító - gazdálkodással kapcsolatban, így az ezzel kapcsolatos rendeletek meghozatal a előkészítésének a hatóságnál minden szakmai feltétele adott.
+
+- Mivel ezen jogszabályok előkészítésében az NMHH eddig is aktívan részt vett, az új szabályozással lehetőség lenne arra, hogy a jogalkotó a lehető leggyorsabban és legadekvátabban reagáljon a piac elvárásaira Fontos megjegyezni, hogy szakmapolitikai (azaz a piaci szereplők által közvetített) vélemények, érdekek becsatornázása a jogszabálytervezetek hatóság általi társadalmi egyeztetésével a kormányzati és miniszteriális jogalkotáshoz hasonlóan teljes körűen megvalósul.
+
+A fentieken túl a szabályozó hatóság jogszabályok (rendeletek) kibocsátására vonatkozó felhatalmazása magában hordoz legalább négy olyan előnyt, amellyel a kormányzati/miniszteri jogalkotás nem versenyezhet:
+
+- A szabályozó hatóságok egyedi ügyektől elvonatkoztatott általános jellegű, normatív tartalmú aktusai megfelelő garanciák mentén kellően alkalmazkodnak a távközlési piac rohamosan fejlődő, folyamatosan változó működéséhez, a távközlési szolgáltatások összetett technológiai, gazdasági alapjaihoz, sajátos jogérvényesítési módszereihez.
+
+- A szabályozó hatóságok jelentős szakértelemmel, jogalkalmazói tapasztalattal rendelkeznek a távközlési piac egészének bonyolult szerkezetét tekintve, különösen a piacszabályozás, a piacvédelem, a piaci verseny közérdekű fejlődése és közszolgáltatási tartalom garantálása szempontjából, amelyet a kormányzati jogalkotás nem képes garantálni.
+
+- A hatóság szabályozási jogkörének biztosítása olyan társadalmi és gazdasági viszonyok tekintetében, amelyek kialakulására, működésére a távközlésre vonatkozó jogszabályok megalkotása idején nem lehetett számítani vagy olyan összetett, újszerű elemeket tartalmaznak, amelyekre a jogi szabályozás még alapos, körültekintő jogalkalmazás, jogszabály-értelmezés alapján sem adhat egyértelmű megoldást.
+
+- Hatékonyabban biztosíthatja a távközlés piac - utólag korrigálhatatlan - alapvető stratégiai irányainak kijelölését, közérdekű fejlődésének védelmét, illetve szerteágazó gazdasági és társadalmi hatásainak garanciáit.
+
+2. Felhasználói és fogyasztói jogok megerősítése, védelme
+
+Az Eht. hatályba lépése óta jelentősen megváltoztak a fogyasztói szokások, igények. Új és komplex szolgáltatáscsomagok jelentek meg a piacon. Mindezen változások a fogyasztók védelme és jogainak érvényesülése érdekében új hangsúlyokat, és megközelítést kívánnak meg a szabályozás terén.
+
+A jelen szabályozás kiemelt figyelmet fordít a felhasználók, előfizetők és fogyasztók, ezen belül a fogyatékos személyek jogainak megerősítésére.
+
+A szabályozás célja, hogy megfelelő garanciákat biztosítson, elősegítse az előfizetők, a felhasználók és a fogyasztók jogainak érvényesítését a fogyasztóvédelem és a közérdek szolgálatában egy technológiai szempontból konvergens környezetben. Mindez hozzájárul ahhoz, hogy az információs társadalmi szolgáltatások mindenki számára elérhetővé váljanak.
+
+Az elmúlt években az elektronikus hírközlési piacokon a verseny a szolgáltatások széles választékának biztosításán túl további jelentős előnyöket hozott a fogyasztók számára, számos esetben az árak abszolút értékben vett csökkenését is eredményezve. A verseny és az innováció a piaci folyamatok összetettséget is növelte. Ennek megfelelően az új piacok kialakulásával, a hírközlési szolgáltatások összekapcsolhatóságának és minőségének védelmében, valamint az elektronikus társadalmi integráció (e-befogadás) célkitűzéseinek érvényesítéséhez további lépések váltak szükségessé az átláthatóság biztosítása érdekében.
+
+A felhasználói jogok, ezen belül a fogyatékkal élő felhasználók jogainak és a fogyasztóvédelmi rendelkezéseknek a megszilárdítása figyelembe veszi a technológiai és piaci fejlődést, és ezáltal valamennyi felhasználó számára több választási lehetőséget és nagyobb jogbiztonságot kínál.
+
+Az új szabályok bevezetése révén a fogyasztók számára előnyös, hogy több és összehasonlításra alkalmas módon juthatnak információhoz a szolgáltatásokat és azok árait illetően. Az áttekinthetőség növelése és az összehasonlíthatóság érdekében kerültek kidolgozásra az általános szerződési feltételekre és az előfizetői szerződésekre vonatkozó új szabályok is, amelyek lehetővé teszik a szolgáltatók szerződési feltételeinek összevetését és kereshetőségét. Törvényi szintű szabályozás rögzíti a határozott időtartalmú „hűségszerződések” szabályait is, illetve elősegíti az ilyen szerződéses jogviszonyok jobb megismerését és nyomkövethetőségét a fogyasztók számára.
+
+3. Piacszabályozás
+
+A jogszabály módosítás az uniós elvárásokkal összhangban kezeli a piacszabályozási tevékenység során az elmúlt időszakban felmerült problémákat is.
+
+Az Eht. módosításban a piacszabályozás fő elvei és eszközei megmaradnak, de a keretszabályozás új hangsúlyokat fogalmaz meg és számos kisebb módosítást tartalmaz.
+
+A szabályozási politika célja továbbra is a verseny erősítése és fenntartása, elsősorban a versenyre bízva a választék, az árak és a minőség alakítását. Jelen törvény előnyben részesíti az infrastruktúra alapú versenyt ott, ahol lehet, ösztönzi az infrastruktúra - beruházásokat, szabályozza azokat a viszonyokat, ahol a verseny önmagában nem kínál elég garanciát.
+
+A harmonizált szabályozást hivatott szolgálni az Európai Elektronikus Hírközlési Szabályozók Testületével (BEREC) történő együttműködés szabályainak átültetése. A jogalkalmazói tapasztalatok alapján került sor a szabályozás hatékonyságának javítása céljából az új piacfelügyeleti jogkör megjelenésére és a hatósági eljárás rugalmasságát növelő hatósági szerződés intézménye speciális alkalmazásának bevezetésére. Az egyes eljárások pontosítása, egyszerűsítése és az új szankciórendszer szintén segíti a hatékony piacszabályozást.
+
+A verseny és az infrastruktúra befektetések ösztönzésének összehangolását célozza az új generációs hozzáférési hálózatokba való befektetés kockázatainak megfelelő elismerése a szabályozás során. A törvény hangsúlyozza, hogy a szabályozás során az általános elvek alkalmazásán túl megfelelő figyelmet kell fordítani a földrajzi piacok és fogyasztói csoportok jellemzőinek eltéréseire.
+
+A fenntartható, infrastruktúraalapú verseny elősegítését és védelmét, a törvény olyan eszközökkel kívánja biztosítani, mint a szűk keresztmetszetet jelentő infrastruktúra elemekhez való hozzáférés elősegítése, a funkcionális szétválasztás előírásának lehetősége, a vertikálisan integrált szolgáltató önkéntes szétválasztása esetére vonatkozó és kivételesen alkalmazható szabályozás, valamint az egyenlő elbánásra vonatkozó követelmények határozott érvényesítése a hozzáférési szabályozásban.
+
+A törvény szövege a jelenleg hatályos szabályokhoz képest több ponton egyszerűsödött és tisztult. Kikerült a törvényi szabályozás köréből néhány olyan szabályozási elem, ami nem igényelt törvényi szabályozást. Nem igényel törvényi szabályozást az árprés kezelése, ezt a Hatóság saját hatáskörében a szakmai sztenderdeknek megfelelően tudja kezelni. A piac fejlődésének megfelelően egyszerűsödött a közvetítőválasztásra vonatkozó szabályozás. Törlésre került több aktualitását vesztett, illetve funkció nélkülivé vált elem, definíció.
+
+A Keretirányelv jelentős hangsúlyt fektet a helymegosztás, valamint a hálózati elemek és kapcsolódó eszközök megosztásával kapcsolatos kérdések szabályozására. Az átültetést követően a megosztással, hozzáféréssel kapcsolatos kötelezettségek megfelelő konzultációs előkészítés után nem jelentő s piaci erővel rendelkező szolgáltatókra is kiróhatók (szimmetrikus kötelezettségek) a hatóság határozata alapján.
+
+4. Megújuló Intézmények, eljárási jogi módosulások
+
+A jelen szabályozás a konvergens hírközlési szabályozó hatóság szakmai, személyi, finanszírozási függetlenségét szem előtt tartva szabályozza a hatóság eljárásait, beleértve a Európai Elektronikus Hírközlési Szabályozók Testületével való együttműködést, valamint a hatósági eljárások hatékonyságának javítását is.
+
+A fentiekkel összhangban új piacfelügyeleti hatáskör kerül bevezetésre, a hatósági szerződés intézményének újszerű alkalmazása kerül rögzítésre, egyes eljárások pontosítása és egyszerűsítése valamint a szankciórendszer átalakítása is végbemegy.
+
+Az eljárások során kiszabott kötelezettségeknek, feltételeknek objektívnek, átláthatónak, arányosnak és megkülönböztetés-mentesnek kell lenniük. A jogsértés esetén alkalmazható jogkövetkezményeknél a fokozatosság elve érvényesül.
+
+Az uniós szemlélettel összhangban kiemelt szerepet kap a nyilvánosság és az információk megfelelő közzététele. Ezeknek a kérdéseknek a rendezésére megfelelő alternatívát nyújthat az új típusú piacfelügyeleti eljárás, illetve az adatszolgáltatásra vonatkozó módosított rendelkezések. A jelenlegi piacfelügyeleti eljárás „általános, hatósági felügyelet” néven továbbra is megmarad a szabályrendszerben.
+
+A Ket. szabályaitól az ágazatra vonatkozó speciális eltérésekkel kerül rögzítésre a hírközlési jogban a hatósági szerződés intézménye, amely szerint az ügyfél olyan kötelezettségeket is vállalhat, amelyekre a hatóság nem rendelkezik hatósági hatáskörrel, illetve amelyek teljesítésére hatósági határozattal egyébként nem lenne kötelezhető. Az ügyfél aláveti magát annak, hogy amennyiben a szerződésben foglaltakat megszegi, akkor a szerződés egésze jogerős és végrehajtható hatósági határozatnak minősül.
+
+A fenti új rendelkezéseknek megfelelően a jogorvoslati rendszer is pontosításra kerül.
+
+5. Spektrum szabályozás
+
+Hangsúlyos kérdés a felelős vagyongazdálkodás keretében a meglevő állami vagyonnal, különösen a korlátos erőforrásainkkal, mint a frekvenciavagyonnal történő átgondolt gazdálkodás. A rendelkezésre álló frekvenciakészlet hasznosítása és a felhasználás módja jelentős mértékben kihat a gazdaságra, valamint hozzájárul a fogyasztói jólét előmozdításához és mindezeken keresztül valamennyi magyar és hazánkba látogató állampolgár mindennapi életére.
+
+A frekvenciagazdálkodással kapcsolatos szabályozási elveink a következők:
+
+- rugalmas frekvenciagazdálkodás
+
+- technológia semlegesség (egy adott spektrum sávban bármely technológia használható)
+
+- szolgáltatássemlegesség (egy adott spektrumsávban bármely szolgáltatás nyújtható) elve, a frekvenciákhoz való könnyebb hozzáférés biztosítása, egységesebb használati feltételek kialakítása.
+
+A gyorsan változó gazdasági környezet, valamint a technológiai fejlődés egyre gyorsuló ütemére tekintettel elengedhetetlen, hogy a használati kötöttségeket jelentő szabályok rendszeresen felülvizsgálatra kerüljenek és a kötöttségek, csak a szükséges mértékben és ideig maradjanak fenn.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1-2. §-hoz
+
+Az Eht. 2004. évi hatálybalépése óta eltelt időszak tapasztalatai és az uniós jogharmonizációs kötelezettség alapján a törvény pontosítja a célokat és az alapelveket. Kiemelt hangsúlyt kap az infrastruktúra alapú versenyt segítő szabályozás megteremtése és a hatékony beruházás és innováció előmozdítása.
+
+A 3-4. §-hoz
+
+A törvény pontosítja és kiegészíti a kormány és miniszter feladatait.
+
+Az 5-10. §-hoz
+
+A törvény ugyancsak pontosítja és kiegészíti a Nemzeti Média és Hírközlési Hatóság elektronikus hírközléssel kapcsolatos feladatait, hatásköreit, megjelenítve új jogalkotási hatáskörének egyes elemeit, továbbá az Európai Elektronikus Hírközlési Szabályozók Testületével (a továbbiakban: BEREC) való kapcsolattartás, valamint a működésében és munkájában való részvétel is kimondásra kerül. Ezen felül az Európai Hírközlési Hivatal (a továbbiakban: ECO) Európai Bizottság által közös hozzáférési pontként kijelölt frekvenciainformációs rendszerével (a továbbiakban: EFIS) való a kapcsolattartás szabályai is rögzítésre kerültek.
+
+A 11. §-hoz
+
+A törvény a fogyasztói jogok hatékonyabb védelme érdekében új alapokra helyezi a Hatóság és a fogyasztóvédelmi hatóság együttműködését. Ennek során a hatóságok kölcsönös tájékoztatása, illetve saját hatáskörükben való teljeskörű eljárásai lehetővé teszik, hogy egyetlen fogyasztói panasz, bejelentés, kérelem sem maradjon elintézetlenül.
+
+A 12. §-hoz
+
+A törvény az elektronikus hírközlés adatvédelmi szabályainak hatékony érvényesítése érdekében együttműködési kötelezettséget ír elő az Adatvédelmi Biztos Hivatalával.
+
+A 13. §-hoz
+
+A Hatóság, mint az Országos Rádió és Televízió Testület és az NHH jogutódja átalakuláson ment át. Ezt tükrözték, hogy médiaigazgatás addig közigazgatási jogi szempontból kevésbé szabályozott eljárásai helyébe a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény (Mttv.) részletesen szabályozza az NMHH médiaigazgatási eljárásait, amelyhez az Eht. eljárási szabályait vette mintául. Az Mttv.-ben azonban már megjelentek az Eht. hatályba lépése óta kialakult, a joggyakorlat és jogszabályi változások által megalapozott eljárási módosítások. Mivel a Hatóság egységes hivatali szervezettel rendelkezik ezért médiaigazgatási és hírközlés-igazgatási szabályait szükséges harmonizálni.
+
+A törvény célja, hogy az Hatóság eljárásait harmonizálja, azonban a harmonizáció során a törvény figyelembe vette a fogyasztók és szolgáltatók különös, hírközlési ágazatra vonatkozó többlet jogosultságait.
+
+Új jogintézményként jelenik meg az eljárási bírság elkülönítése az anyagi jogi bírságtól továbbá jogkövetkezmények adatszolgáltatás és tényállás tisztázása rendjének egyértelmű újraszabályozása, amely növeli a jogbiztonságot.
+
+Ugyancsak kiemelten fontos újdonság a hatósági szerződés intézménye, amely révén a hatósági ügyek eredményessége és a jogérvényesítés hatékonysága jelentősen megnőhet. A piacfelügyeleti ügyekben eljárás hatósági szerződéssel történő lezárásának lényege, hogy a szolgáltató a jogsértés önként vállalt megszüntetése és új kötelezettségek vállalása mellett mentesülhet a szankciók alkalmazása alól. Természetesen, amennyiben a hatósági szerződés rendelkezéseit nem tartja be, az eljárás folytatódik s szankció alkalmazására kerül sor. A Hatóság részéről egyértelmű előnyként jelentkezik, hogy ebben az esetben a jogszabálynak megfelelő magatartás és a jogkövetkezmények alkalmazására végrehajtási eljárást nem kell indítani.
+
+A hírközlési piacon elengedhetetlen a jogutódlás kérdésének Ket.-től eltérő szabályozása.
+
+Számos esetben ez komoly problémákat okoz a határozatok és a jogi szabályozás érvényesítése körében, a tekintetben, hogy a Ket. nem tisztázza a jogutódlás körében a polgári és a közigazgatási hatósági hatáskör közötti határvonalat, illetve, hogy a Ket. nem tesz különbséget a törvényes és szerződésen alapuló jogutódlás között. Ezeket a problémákat a törvény feloldja.
+
+A törvény fontos újdonságot hoz a tekintetben is, hogy elkülöníti a Hatóság általános hatósági felügyeleti jogkörét a piacfelügyeleti jogkörtől. Míg az első elsősorban a Hatóság egyedi határozataiban foglaltak ellenőrzésére irányuló hatáskört jelent, addig a piacfelügyelet körében a Hatóságnak módja lesz nagyobb ügyféli kört érintő piaci problémák kezelésére egy egységes határozat keretében.
+
+A törvény a jogirodalmi álláspontokat megjelenítve elkülöníti a piacszabályozási eljárásokat a klasszikusnak mondható hírközlési igazgatási hatósági eljárásoktól. Ezen eljárásokban a törvény bevezeti az Eht. hatálybalépése óta kikristályosodott joggyakorlat és az uniós szabályozás megkövetelte implementáció által megkívánt módosításokat.
+
+A 14-17. §-hoz
+
+A törvény a kialakult jogalkalmazási tapasztalatok és az implementáció által megkívánt módosításokat tartalmazza.
+
+A 18. §-hoz
+
+A módosítás az Eht. 90. §-át az uniós jogszabályoknak megfelelően modernizálja. Ehelyütt lehetővé teszi az egyéni jogérvényesítést, ugyanakkor a 100. § és a kapcsolódó eljárási szabályok alapján lehetőség nyílik a Hatóság számára, hogy az ezzel megegyező kötelezettséget általános jelleggel is előírja, akár még a jelentős piaci erővel nem rendelkező szolgáltató számára is. Ezáltal hatékonyabbá tehető a szolgáltatók és ezen keresztül a hálózatok együttműködése.
+
+A 19.-hoz
+
+A törvény implementációs kötelezettséget hajt végre.
+
+A 20. §-hoz
+
+A törvény lehetővé teszi a Hatóság számára, hogy 90. §-sal megegyező kötelezettséget általános jelleggel is előírjon, akár a jelentős piaci erővel nem rendelkező szolgáltató számára is. Emellett a § rendelkezései pontosításra kerülnek.
+
+A 21-29. §-hoz
+
+A módosítások a fenti irányelvek implementációját szolgálják - úgy mint a hozzáférési kötelezettség feltételeinek részletesebb szabályozása, valamint a funkcionális szétválasztás bevezetése - és megszüntetik az európai uniós szabályozástól eltérő, az Eht. hatályba lépése óta bebizonyosodottan szükségtelen, illetve helyenként alkalmatlan kötelezettségeket.
+
+A 30. §-hoz
+
+A törvény a joggyakorlat és az implementáció megkívánta pontosításokat tartalmaz.
+
+A 31-48. §-hoz
+
+A törvény az implementáció és a joggyakorlat alapján az előfizetők és a fogyasztók érdekeinek védelmét szolgáló rendelkezéseket ülteti át az Eht.-ba. Pontosításra kerülnek az előfizetői szerződés megkötésére, teljesítésére, az általános szerződési feltételekre, a szolgáltatás szünetelésére, korlátozására, módosítására vonatkozó szabályok. Számos esetben a törvény a jelenlegi szabályozást áttekintette és az előfizetők és a szolgáltatók érdekeit egyaránt szolgáló módon ésszerűsítette. A szakaszokba beépítésre kerültek a törvény hatálybalépése óta kialakult piaci viszonyoknak megfelelő módosítások. Ilyen például a „hűségszerződések” ügye, amelyet a törvény az előfizetők érdekeit kiemelten szem előtt tartva rendez. Ide tartozik az előfizetők értesítése, amelyre vonatkozó szabályok pontosítása elengedhetetlen volt a jelenleg hatályos törvény anomáliáinak feloldása érdekében.
+
+Olyan piaci jelenségek, mint a forgalomhoz kötött díjcsomagok esetében történő értesítés, illetve a szokásos használattól eltérő használat esetén a bizonyos díjszintek átlépése, szintén kezelésre kerültek.
+
+Az előfizetői szerződések és az általános szerződési feltételek részletes szabályozását elnöki rendelet tartalmazza majd, amely számos, az teljes implementációhoz szükséges részletszabályt meg fog adni.
+
+A 49-54. §-hoz
+
+A törvény jelentősen kiegészíti az adatvédelmi szabályokat a jogharmonizációs kötelezettségnek megfelelően.
+
+Tekintettel arra, hogy a fogyasztóvédelmi hatóság és az NMHH közötti hatáskör megosztás és a párhuzamos hatáskörök kérdése a jelenleg hatályos törvényben nem biztosított teljes körűen, ezért ezen szakaszon belül megtörtént a hatáskörök pontos szétválasztása.
+
+Ezen szakaszok pontosítják az emberi beavatkozás nélküli, automatizált hívórendszerre vonatkozó szabályokat is.
+
+Az 55. §-hoz
+
+A törvény megfelelő felkészülési időt biztosít az előfizetőket és a szolgáltatókat érintő új szabályok bevezetésére.
+
+Az 56. §-hoz
+
+A törvény az előzőeknek megfelelően módosítja jogalkotásra felhatalmazó rendelkezéseket.
+
+Az 57. §-hoz
+
+A törvény az előzőeknek megfelelően módosítja jogharmonizációs rendelkezéseket.
+
+Az 58. §-hoz
+
+A törvény az előzőeknek megfelelően módosítja és pontosítja a fogalmakat.
+
+Az 59. §-hoz
+
+A törvény a változott kifejezés használatnak megfelelően rendelkezik az Eht. egyes kifejezéseinek módosításáról.
+
+A 60. §-hoz
+
+A törvény törli az Eht. egyes szükségtelen szabályait.
+
+A 61. §-hoz
+
+A törvény az előzőeknek megfelelően módosítja a Nemzeti Audiovizuális Archívumról szóló 2004. évi CXXXVII. törvényt.
+
+A 62. §-hoz
+
+A Ket. szabályaitól való eltérést biztosító Ket. módosítás a törvény 13. §-ában szereplő rendelkezések érdekében.
+
+A 63. §-hoz
+
+A törvény az Eht. módosításainak megfelelően módosítja és kiegészíti a Dtv. rendelkezéseit. Többek között pontosítja, kiegészíti a műsorterjesztési szolgáltatás nyilvántartásba vételére irányuló eljárást. A törvény alapján az Mttv. hatálya alá nem tartozó médiaszolgáltatás hazai műsorterjesztői rendszeren történő továbbítása esetén a műsorterjesztő a bejelentés során azokat az adatokat is köteles beadni, illetve azokat az okiratokat is köteles benyújtani, amelyek igazolják az adott műsor médiaszolgáltatójának médiaszolgáltatási jogosultságát. A törvény alapján tehát csak médiaszolgáltatási jogosultsággal rendelkező médiaszolgáltatás terjeszthető, az igazolási kötelezettség alá eső médiaszolgáltatások tekintetében a bejelentés nyilvántartásba vétele tárgyában hozott hatósági döntésben feltételként előírhatja a hatóság, hogy a műsorterjesztő kizárólag azon médiaszolgáltató műsorát terjesztheti, amelynek médiaszolgáltatási jogosultságát megfelelően igazolta.
+
+Dtv. 8. § (5) bekezdésének módosítása technikai jellegű, indoka a rendszertani konzisztencia megteremtése, ugyanis 2011. január 1-ét követően a digitális műsorszóró hálózat üzemeltetőjére vonatkozó továbbítási és a szerződéskötési kötelezettség szabályait már nem a Dtv., hanem az Mttv. tartalmazza. A törvény pontosítja továbbá a műsorszóró adó üzemeltetésére vonatkozó pályázatban meghatározható továbbítási kötelezettség tartalmát, egyértelműsíti, hogy a műsorterjesztőt szerződéskötési kötelezettség is terheli a pályázati eljárásban meghatározott műsorok tekintetében.
+
+A digitális átállás feltételeinek pontosítása a hatékony és kiszámítható hatósági jogalkalmazás érdekében egyértelműsíti a digitális átállás feltételrendszerét.
+
+A 64. §-hoz
+
+(1) A kiadványokra nézve is tartalmaz előírásokat a törvény, indokolt a hatálynál is szerepeltetni azokat, illetve kiadójukat.
+
+(2) A kötelezettséget célszerű kiterjeszteni a műsorterjesztőkre is.
+
+(3) Tekintettel arra, hogy a szolgáltatások többségében a hatékony műszaki megoldást valójában a műsorterjesztő képes nyújtani, mindenképpen indokolt a módosítás. Az ajánlástervezet elfogadásakor a Médiatanács az előzőek alapján támogatta a módosítást. A digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (Dtv.) 30. § (5) bekezdése alapján a műsorterjesztőknek kell gyermekzár megoldást nyújtaniuk, így a módosítás alapvetően nem ró rájuk további kötelezettséget.
+
+(4) A módosítás indoka a szöveg pontosítása, könnyebb értelmezhetősége.
+
+(5) A törvény szövege ennél a műsorkvótánál korábban nem tartalmazta azt az időtartamot, amelyre vonatkozóan a magyar zenei kvótát teljesíteni kell.
+
+(6) Az egyes médiaszolgáltatások vételkörzeteiben nagyon nagy különbségek lehetnek. Annak elkerülésére, hogy egy médiaszolgáltató több kisebb vételkörzetű médiaszolgáltatásában magasabb arány teljesítésével a nagyobb vételkörzetű médiaszolgáltatásában kirívóan alacsonyan tarthassa a magyar zenei műsorkvóta teljesítését, indokolt egy kisegítő szabály törvénybe foglalása, amely 20%-ban határozza meg a kötelezően teljesítendő magyar zenei kvótát.
+
+(7) A hatósági jogalkalmazás tapasztalatai alapján megállapítható, hogy az Mttv.-ben szereplő képújság fogalom megfeleltethető a korábbi Rttv.-ben szereplő képernyőszöveg fogalomnak, és ez utóbbi kategória szerepeltetésének vagy megkülönböztetésének nincs gyakorlati jelentősége.
+
+(8) A hallási fogyatékkal élők érdekeinek fokozottabb védelme miatt indokolt pontosítás.
+
+(9) A Médiatanács közszolgálati médiaszolgáltatásokat érintő döntési hatásköreivel összefüggő módosítás. A Médiatanács döntése alapján indokolt, hogy a Hivatal egységes nyilvántartást vezessen a közszolgálati médiaszolgáltatásokról is, hasonlóan a többi médiaszolgáltatóhoz.
+
+(10) Technikai módosító: a bejelentés útján végezhető lineáris médiaszolgáltatások esetében nem értelmezhető a vételkörzet-bővítés kategóriája, mivel a Hivatal a nyilvántartásában egyszerű adatváltozásként - a vételkörzet-adatokban történő változásként - kezeli, ami nem igényel médiatanácsi döntést.
+
+(11) Az Mttv. pontosítása azt a célt szolgálja, hogy az egyértelműen megfeleltethető legyen az Állami Számvevőszék törvényben előírt szervezeti hierarchiájával, és ezzel megkönnyítse a jogalkalmazást.
+
+Az Mttv. 43. §-a kiegészül egy további, (5) bekezdéssel. A módosítás indoka, hogy a jelenleg hatályos rendelkezések a helyi, körzeti lineáris médiaszolgáltatásokra széleskörű és szigorú összeférhetetlenségi szabályok némely tekintetben túl szigorú megkötéseket fogalmaznak meg, különösen az egyes helyi, területi közhatalmi tisztséget betöltők közeli hozzátartozók vonatkozásában. A módosítás eredményeképpen a polgármester, alpolgármester, valamint a megyei közgyűlés elnöke, alelnöke közeli hozzátartozói kizárólag az adott önkormányzati terület vonatkozásában lesznek kizárva a lineáris médiaszolgáltatási tevékenység végzésének lehetőségéből.
+
+(12) Az előírt ISSN igazolás beszerzése, mint a nyilvántartásba vétel feltétele túl nagy terhet róna a sajtótermékek kiadóira, a törvény könnyíti a bejelentés adminisztrációs terheit.
+
+(13) Az előírt adatok feltüntetése túl nagy terhet róna a kiadványok kiadóira, a törvény könnyíti a bejelentés adminisztrációs terheit. A módosítás révén tehát nem kell az impresszumban feltüntetni a sokszorosító szerv megnevezését, a sokszorosításért felelős személy nevét, a sokszorosítás helyét, idejét és a megrendelés sorszámát.
+
+(14) Az Mttv. jelenlegi szövege a módosításban b) pont alatt jelzett esetkörrel bővülne. Mivel a figyelembe vehető súlyos szerződésszegések túlnyomó része a korábbi Rttv. hatálya alatt kerülhetett megállapításra, indokolt a korábbi ORTT gyakorlat alapján a súlyos szankciónak minősülő Rttv. 112. § (1) b) pont szerinti írásbeli figyelmeztetés szankció figyelembevétele és kizáró szempontként történő érvényesítése.
+
+Az ORTT az Rttv. hasonló tartalmú 107. § (3) bekezdését a 1835/2004. (XII. 15.) számú határozatában akként értelmezte jogalkalmazási gyakorlatában, hogy nem újítja meg a jogosultságot, ha a műsorszolgáltatónak tartozása van vagy szerződésszegés miatt 112. § (1) bekezdés b) szerinti írásbeli figyelmeztetést kapott.
+
+Az Mttv. jelenleg nem rögzíti egyértelműen, hogy kisközösségi médiaszolgáltatási lehetőség kereskedelmi jelleggel nem működtethető. A korábbi médiahatósági gyakorlat alapján elmondható, hogy kisközösségi jogosultságok kizárólag nem nyereségérdekelt, illetve közműsor-szolgáltatói jelleggel kerültek pályáztatásra, azonban a gyakorlatból következő elvet indokolt rögzíteni a törvényben is.
+
+(15) A hatósági jogalkalmazás tapasztalatai alapján indokolt kiegészíteni az analóg médiaszolgáltatási jogosultságok elnyerésére irányuló pályázati eljárásban történő részvételt egy további követelménnyel, miszerint az adott vállalkozás ne rendelkezzen a Médiatanács felé tartozással.
+
+(16) A hatósági jogalkalmazás tapasztalatai alapján indokolt kiegészíteni az analóg médiaszolgáltatási jogosultságok elnyerésére irányuló pályázati eljárásban történő részvételt egy további követelménnyel, miszerint az adott vállalkozás ne rendelkezzen a Médiatanács felé tartozással.
+
+(17)-(19) A pályázati eljárás technikai jellegű pontosítása.
+
+(20) A hatályát vesztő rendelkezés átkerül a 62. § (3) bekezdésébe, mivel rendszertanilag nem a hatósági szerződés cím alá, hanem a pályázati eljárás eredményéhez tartozik.
+
+(21) A hatósági jogalkalmazás tapasztalatai alapján szükséges beiktatni a fenti rendelkezést.
+
+(22) A pályázati eljárás technikai jellegű pontosítása.
+
+(23) Az Mttv. jelenlegi szabályozása túlságosan leszűkíti a 30 napra adható ideiglenes analóg médiaszolgáltatási jogosultság igénylésének esetkörét. Jelenleg csak a Médiatanács látókörében szereplő - már megpályáztatott, vagy pályáztatásra előkészített - frekvenciák esetében van lehetőség ideiglenes jogosultság igénylésére. A c) pont beiktatásával a korábbi Rttv.-ben is megtalálható esetkörrel is bővül az ideiglenes jogosultság igénylésének lehetősége. A Médiatanács tehát akkor is engedélyezheti az ideiglenes médiaszolgáltatást, ha a kérelmező a Hatóság által kiadott igazolással tudja bizonyítani, hogy egy adott frekvencia használata nem okoz másnak zavart.
+
+(24) Az ideiglenes médiaszolgáltatás iránti kérelem kötelező tartalma bővült a c) pontban jelzett céllal, a médiatanácsi döntés szélesebb körű megalapozása érdekében.
+
+(25) A hatósági jogalkalmazás tapasztalatai azt mutatják, hogy a lejárt, újra nem pályáztatható analóg televíziós jogosultságok és újrapályáztatás alatt lévő analóg rádiós jogosultságok számára megadható ideiglenes jogosultság esetében szükség van bizonyos feltételek - vagy más szempontból nézve elutasítási indokok - törvénybe foglalására.
+
+(26) Az Mttv. alkalmazása során szerzett hatósági tapasztalatok alapján egyértelművé vált, hogy a képújság is a lineáris audiovizuális médiaszolgáltatás része, képújság másként, mint lineáris szolgáltatásként, nem képzelhető el. Ennek megfelelően szükséges módosítani a lineáris audiovizuális médiaszolgáltatás, a műsorszám és a képújság Mttv.-ben meghatározott fogalmait.
+
+(27) A hatósági jogalkalmazás tapasztalatai rámutattak arra, hogy a közösségivé nyilvánítás eljárása nem működőképes és a hatóság számára felesleges munkaterhet okozhat abban az esetben, ha a médiaszolgáltatók a kérelmük elutasításának másnapján ismételten kérhetik a médiaszolgáltatásuk közösségivé nyilvánítását.
+
+(28) A jogszabályhely tévesen hivatkozta a 70. § (7)-(12) bekezdéseit, mivel a Médiatanács hatósági ellenőrzési eljárásáról csak a (2)-(6) bekezdések rendelkeznek.
+
+(29) A 74. §-ban foglalt szabályozás ellentmondott a 184. § (1) bekezdés f) pontjában foglalt hatásköri szabályoknak, mivel míg a 74. § az ott foglaltak ellenőrzési hatáskörét megosztotta a Médiatanács és a Hivatal között, addig a 184. § (1) bekezdése ezt kizárólag a Hivatal hatáskörébe utalja.
+
+(30)-(31) Pontosítja a Médiatanács hatósági határozatával kijelölhető - továbbításra és szerződéskötésre jogosult - médiaszolgáltatások körét. A Médiatanács a módosítás alapján a 74. § (1) bekezdésében meghatározott továbbítási kötelezettség alá eső közszolgálati médiaszolgáltatásokon túl legfeljebb két olyan lineáris közszolgálati médiaszolgáltatást jelölhet ki, amely megfelel a törvényben meghatározott egyéb feltételeknek. Továbbá a Médiatanács legfeljebb egy olyan lineáris közösségi médiaszolgáltatást jelölhet ki, amely a 75. § (1)-(2) bekezdés alapján nem tartozik továbbítási kötelezettség alá és megfelel az Mttv.-ben meghatározott egyéb feltételeknek.
+
+Pontosítja a Médiatanács hatósági határozatával kijelölhető - továbbításra és szerződéskötésre jogosult - közösségi médiaszolgáltatások körét.
+
+(32) A kiegészítés azért szükséges, hogy egyértelművé tegye a médiaszolgáltatások továbbításának kötelezettségével összefüggő hatósági eljárások hatásköri alapját, a jogérvényesítés rendjét. A törvény szerint a Médiatanács hivatalból vagy bejelentés alapján általános hatósági felügyelet keretében ellenőrzi a továbbítási kötelezettség megfelelő érvényesülését. A törvény tehát a Médiatanács eljárását, illetve az eljárás alapjául szolgáló hatáskört egyértelműen elválasztja a kizárólag kérelemre indítható ún. jogvitás eljárásoktól és annak hatásköri alapjától.
+
+(33) Az Mttv. 74. § (1) bekezdése csak számszerűsíti, de külön nem nevesíti a továbbítási kötelezettség alá eső közszolgálati médiaszolgáltatásokat, ezért indokolt annak rögzítése, hogy az Mttv. 75. § (3) bekezdése alapján kijelölt lineáris közszolgálati médiaszolgáltatások továbbításával összefüggő jogok és kötelezettségek alapját, rendszerét, tartalmát nem érinti a kijelölés tárgyában hozott hatósági határozat jogerőre emelkedését követően a közszolgálati médiaszolgáltatások számában beálló esetleges változás, csökkenés. Mindez azt jelenti, hogy a kijelölt közszolgálati médiaszolgáltatás továbbítására vonatkozó jogszabályi rendelkezések, illetve a kijelölt közszolgálati médiaszolgáltatás továbbítására megkötött szerződések függetlenek a 74. § (1) bekezdésében meghatározott továbbítási kötelezettség rendszerétől, tartalmától.
+
+(34) A módosítás a „tartalomszolgáltatási terv” anakronisztikus és a gyakorlatban nem használt fogalmát törli.
+
+(35) Rendezni kell annak a kérdését, hogy a Közszolgálati Testület költségei kit terhelnek.
+
+(36) A Közszolgálati Testület elnökét és tagjait megillető költségtérítés pontosítása, valamint az összeférhetetlenségi szabályok megállapítása.
+
+(37) A jelenlegi Mttv. a korábbi Rttv.-vel szemben nem tartalmaz rendelkezést arra nézve, hogy a közszolgálati médiaszolgáltatók milyen típusú médiaszolgáltatások révén látják el a törvényben meghatározott feladatukat, és nem ad iránymutatást arra nézve sem, hogy mely szerv dönthet arról, hogy hány médiaszolgáltatást, milyen műsorterjesztési megoldások révén működtetnek a közszolgálati médiumok. A szabályozás a korábbi Rttv. megoldásait átvéve a Médiatanácshoz telepíti ezeket a döntési jogköröket, azzal a korlátozással, hogy a Médiatanácsnak az Alap vezérigazgatójával kell konzultálnia ezekben a kérdésekben, illetőleg a törvényben meghatározott további szempontok megfelelő figyelembevételével dönthet.
+
+(38)-(39) Technikai jellegű pontosító rendelkezések.
+
+(40) Olyan tagokat célszerű delegálnia az ÁSZ elnökének, akik aztán nem vesznek részt a közmédiarendszer gazdálkodásának ellenőrzésében. Rendelkezni kell a tiszteletdíjról és az összeférhetetlenségről is.
+
+(41) A 108. § (6) és (8) bekezdése közötti koherenciát megteremtő pontosítás.
+
+(42) Lehetőséget kell biztosítani, hogy bizonyos vállalkozási tevékenységet az Alap láthasson el, és ezért ellenértéket ne fizessen a közszolgálati Zrt.-knek, hiszen a bevételeket enélkül is mindenképpen a közmédiára kell fordítania.
+
+(43) A közszolgálati médiaszolgáltató fogalmával összhangban pontosítja a közszolgálati médiaszolgáltatás nyújtására jogosultak körét.
+
+(44) Az Mttv. az Elnök, illetve az elnökhelyettes, valamint a Médiatanács elnöke és tagjai esetében összeférhetetlenségi szabályként egy év foglalkoztatási tilalmat állapít meg jogviszonyuk megszűnése esetére, azonban az ezzel kapcsolatos kártalanításról az Mttv. nem rendelkezett.
+
+A 113. § (4) bekezdés d) pontja szerinti megszűntetése a megbízatásnak nem jelenti automatikusan az NMHH-val fennálló foglalkoztatási jogviszony megszüntetését. Az ilyenkor irányadó eljárási szabályokat állapítja meg ez a kiegészítés az irányadó jogszabályi analógia meghatározásával.
+
+(45) Az NHIT számára olyan feladatokat állapít meg a jogszabály, amely erősíti a kormányzati kontroll lehetőségét a kormányzati intézmények felett azzal, hogy speciális szakértői vizsgálatok elvégzésével szakértői anyagok készítésével objektív és független információkkal szolgál az adott szakterület működéséről. Másrészt a kormányzati szervek működését is segíti az új típusú NHIT, hiszen javaslataival, kezdeményezésével, vizsgálataival a hatékonyabb működés irányába mozdíthatja el azokat az intézményeket, akik esetlegesen nem rendelkeznek e speciális szakterületen ilyen mélységű ismerettel, vagy megfelelő szakapparátussal.
+
+(46) Technikai módosítás.
+
+(47) A kiegészítés azért szükséges, hogy egyértelművé tegye a vagyontörvény tekintetében a Nemzeti Média- és Hírközlési Hatóság jogállását, és ezzel garantálja, hogy az NMHH által kezelt, vagyontörvény hatálya alá tartozó állami vagyon tekintetében maradéktalanul érvényesüljenek a törvény céljai és előírásai.
+
+(48) Technikai módosítás.
+
+(49) Az Alap gazdálkodásának szabályait pontosítani szükséges.
+
+(50) Technikai módosítás.
+
+(51) A tartalmakkal összefüggő panaszok benyújtásának, illetve a hatósági eljárás indításának időbeli korlátozását célszerű előírni a megfelelő hatósági jogalkalmazás érdekében (évekkel korábbi műsorszámok miatt ne legyen lehetséges a marasztalás, hiszen ilyenkor a szankció már aligha éri el a kívánt hatást).
+
+(52) Az eljárási szabályok pontosítása.
+
+(53) A korábbi rendelkezésből hiányzott a médiaszolgáltatók kötelezettségeit a hatósági szerződéssé történő átalakítás időpontjáig meghatározó műsorszolgáltatási szerződés, ezáltal az általános hatósági felügyelet nem terjedt ki a hatósági szerződéssé történő átalakításig a médiaszolgáltatók kötelezettségeit alapvetően meghatározó műsorszolgáltatási szerződésben foglaltak teljesítésének ellenőrzésére.
+
+(54) A jogbiztonság és a médiapiac működésének sajátosságai megkövetelik, hogy a jogos érdekükben érintett jogalanyok meghatározott időn belül kezdeményezhessenek hatósági eljárásokat. A módosítás azt a garanciális elemet alapozza meg, hogy mind a jogsértő, mind a médiapiac, a médiaigazgatás szereplői előzetesen számíthassanak arra, hogy a sérelmes helyzetek tekintetében milyen időtartamban gyakorolható velük szemben közhatalmi, hatósági beavatkozás.
+
+(55)-(57) Technikai módosítások és egyéb kisebb kiegészítések.
+
+(58) A vonatkozó §-okban foglaltak garanciális hatósági eljárásjogi alapjának egyértelműsítése, kialakítása, illetve közigazgatási médiajogi tartalmának és információs társadalmi alapjának, rendszerének pontosítása képezi a módosítás indokát. A módosítás kiemelt szempontja a jogkövetkezményt tartalmazó határozat bírósági felülvizsgálatának, teljesítésének jelen §-ban foglalt rendelkezésekkel való összhangjának, közigazgatási jogi alapjának megteremtése, meghatározása.
+
+(59) A 2010. évi CIV. törvény (a továbbiakban: Smtv.) 13. §-a nem határoz meg kötelezettséget a lekérhető médiaszolgáltatások számára.
+
+(60) Az Mttv. alkalmazása során szerzett hatósági tapasztalatok alapján egyértelművé vált, hogy a képújság is a lineáris audiovizuális médiaszolgáltatás része, képújság másként, mint lineáris szolgáltatásként, nem képzelhető el. Ennek megfelelően szükséges módosítani a lineáris audiovizuális médiaszolgáltatás, a műsorszám és a képújság Mttv.-ben meghatározott fogalmait.
+
+(61)-(69) A fogalmi rendszer módosítása, pontosítása, és technikai módosítások.
+
+(70) Az analóg frekvenciát használó médiaszolgáltatók pályázaton vállalt kötelezettségeit a korábbi Rttv. rendelkezései alapján megfogalmazott műsorszolgáltatási szerződéseik tartalmazzák. A pályázati eljárás tisztasága érdekében indokolt, hogy a pályázati nyertesek továbbra is az akkori vállalásaiknak megfelelően működjenek.
+
+(71)-(72) Technikai módosítás.
+
+(73) Ne a Médiatanács, hanem az NMHH járhasson el olyan jogvitás esetben, amelyben a közszolgálati médiaszolgáltató is érintett lehet.
+
+(74) A Médiatanács és a Hatóság zökkenőmentes működését biztosító kiegészítő szabály.
+
+(75)-(76) A törvény szövegének több apró pontosítása, javítása történt.
+
+A 65. §-hoz
+
+(1) Technikai módosítás.
+
+(2)-(3) A fogalmak pontosítása, kiegészítése.
+
+(4) A szöveg egyértelművé teszi, hogy csak az analóg terjesztésről szól.
+
+(5) Az Mttv. értelmében a lineáris médiaszolgáltatások megkezdésének feltétele a nyilvántartásba vétel, de a lekérhetők esetében csak a végzés és nem a megkezdés feltétele.
+
+Az Smtv. módosítása koherenciát teremt a két törvény között.
+
+(6) Technikai jellegű pontosítás, egyértelművé teszi azt az értelmezést, hogy a bíróságon kívül csak nyomozó hatóság járhat el az információforrások felfedésére kötelezés tekintetében.
+
+(7) A rendelkezés az egyes társadalmi csoportok, közösségek védelmét célozza, félreértés lenne olyan értelmezése, amely alapján személyek is védelmet kaphatnának. A korábbi médiahatóság gyakorlata is ennek megfelelően alakult, de indokolt az egyértelműsítése tekintetben.
+
+(8) Az AVMS irányelvnek való tökéletes és egyértelmű megfelelés céljából módosított szöveg.
+
+A 66. §-hoz
+
+Egyértelművé kell tenni, hogy a korábbi helyzethez hasonlóan, jelenleg is a sajtótermékek szerkesztősége perelhető helyreigazítási eljárásban.
+
+A 67. §-hoz
+
+A postáról szóló 2003. évi CI. törvény (Pt.) 3. § 13. pontja határozza meg az integrált posta fogalmát. A hatályos szövegben szereplő, „a címzett eltérő rendelkezése hiányában” kifejezést a szolgáltatói gyakorlat az eredeti jogalkotói szándéktól eltérően, kiterjesztően értelmezte.
+
+A törvény - mely mindösszesen a „címzett ellenkező rendelkezése hiányában” rész törlésére irányul - lényege, hogy az integrált postai szolgáltatások esetében a fenti, a címzettek érdekeit is sértő értelmezés lehetőséget kizárja, vagyis megakadályozza azt, hogy a postai küldemények feladói a címzetteket általános jelleggel és előzetesen lemondassák a személyes átvétel lehetőségéről.
+
+A 68. §-hoz
+
+A Pt. 3. § 9.2. pontja határozza meg a gyorsposta-, 13. pontja pedig az integrált posta fogalmát. Mindkét jogszabályi definíció egyik alapvető eleme a „nyomon követhető kezelés” előírása. A Pt. azonban nem ad iránymutatást a nyomon követhető kezelés tartalmával kapcsolatban. Ennek pótlása a postai piac felügyeletének és a piaci verseny tisztaságának elengedhetetlen alapfeltétele.
+
+A módosítás célja e kérdéskör egyértelmű, a piac és a fogyasztók érdekeit szem előtt tartó rendezése.
+
+A 69. §-hoz
+
+A jogrendszer koherenciáját biztosító pontosítás.
+
+A 70. §-hoz
+
+A módosítás kiegészíti a Pt.-t a szükséges felhatalmazással.
+
+-----STARTING---POINT---VEGE---
+
+A 71-72. §-hoz
+
+A törvény az implementációs kötelezettség mielőbbi teljesítése érdekében rögzíti a hatálybalépés időpontját, ugyanakkor megfelelő felkészülési időt biztosít a szolgáltatók számára, hogy módosítsák általános szerződési feltételeiket.
+
+A törvény az előzőeknek megfelelően tartalmazza az uniós jognak való megfelelési záradékot.

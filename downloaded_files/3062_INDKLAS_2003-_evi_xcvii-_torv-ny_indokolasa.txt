@@ -1,0 +1,111 @@
+2003. évi XCVII. törvény indokolása
+
+az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Az elektronikus kereskedelmi szolgáltatások és az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ektv.) módosításának alapvető célja, hogy az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi kérdéseiről szóló 2000/31/EK irányelv (a továbbiakban: EKI) teljes harmonizációja mellett az elektronikus kereskedelmi szolgáltatásokba vetett fogyasztói és szolgáltatói bizalom növelésével elősegítse az elektronikus kereskedelem elterjedését.
+
+Az EKI teljes harmonizációját biztosító módosítások a következő szabályozott területeket érintik:
+
+- az EKI hatálya;
+
+- a közvetítő szolgáltatók mögöttes felelősségét korlátozó szabályok rendezése (EKI 12-15. Cikk);
+
+- a szabályozott szakmák esetében az elektronikus reklámközlések megengedhetősége (EKI 2. Cikk g) pont, 8. Cikk);
+
+- a szolgáltatói magatartási kódexek kialakításának állami ösztönzése (EKI 16. Cikk);
+
+- elektronikus úton történő, bíróságon kívüli vitarendezés elterjedésének lehetővé tétele [EKI 17. Cikk (2), (3) bekezdése];
+
+- tagállamok együttműködési kötelezettsége a végrehajtási intézmények kialakítása, tagállami összekötők működtetése, ill. az információs társadalommal összefüggő szolgáltatásokra vonatkozó gyakorlat, vitás kérdések, hatósági és bírósági döntések kommunikációja révén (EKI 19. Cikk);
+
+- a törvény hatékony szankciórendszere (EKI 20. Cikk).
+
+A törvény a fentieken túl a szolgáltatásnyújtás nagyobb biztonsága érdekében az információs társadalommal összefüggő szolgáltatások igénybevételekor releváns adatvédelmi rendelkezésekkel egészíti ki az Ektv.-t.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A törvény szolgáltatás-definíciójához kapcsolódik a törvény hatályáról rendelkező 1. § új (4) bekezdése, amely szerint nem terjed ki az Ektv. hatálya az információs társadalommal összefüggő szolgáltatás felhasználásával történő, magánjellegű kommunikációra. A magánjellegű kommunikáció fogalmának meghatározását a 2. § új m) pontja tartalmazza: ilyennek minősül az elektronikus levelezés vagy azzal egyenértékű szolgáltatás útján történő üzenetváltás - ideértve az ilyen üzenetváltás útján kötött szerződéseket is -, és az információs társadalommal összefüggő szolgáltatás felhasználásával közzétett információ, amennyiben azt nem üzleti, gazdasági, kereskedelmi vagy közhasznú tevékenységhez, illetve közfeladat ellátásához kapcsolódóan teszik közzé. Az „elektronikus magánlevelezés” fogalmánál az új meghatározás tágabb: kiterjed az elektronikus levelezés mellett többek között az azzal egyenértékű szolgáltatás útján megvalósuló üzenetváltásokra, a honlapra, és megfelel a technológiasemlegesség követelményének is, a törvény értelmezése szempontjából ugyanis a magánjellegű üzenetváltás technikai megvalósulásának nincs jelentőssége. Az üzenetváltás önkéntességének és kölcsönösségének megkövetelése megakadályozza azt, hogy kéretlen reklámot tartalmazó vagy annak elérését megkönnyítő üzenet esetén sikerrel hivatkozhasson az üzenetküldő a kommunikáció magánjellegére.
+
+A 2. §-hoz
+
+Az Ektv. korábban hatályos szövegében az információs társadalommal összefüggő szolgáltatás definíciója nehezen értelmezhető, és nem felel meg teljes egészében az EKI szerinti fogalomnak. Az EKI fogalomrendszerével (EKI 2. Cikk a) pont) harmonizáló szabályozás érdekében a törvény módosítja az Ektv. információs társadalommal összefüggő szolgáltatás fogalmát. E szerint az „Információs társadalommal összefüggő szolgáltatás: elektronikus úton, távollevők részére, rendeltetésszerűen ellenszolgáltatás fejében nyújtott szolgáltatás, amelyhez a szolgáltatás igénybe vevője egyedileg fér hozzá.” A korábbi „egyénileg kezdeményezi” fordulat szó szerinti fordítása ugyan a 98/34/EK irányelvet módosító 98/48/EK irányelv meghatározásának, nem fejezi ki azonban a fogalom valódi tartalmát, amely az irányelvek több rendelkezéséből is következik. Az EKI preambulumának (18) bekezdése a televíziós és a rádiós műsorsugárzásra, mint nem információs társadalommal összefüggő szolgáltatásra utal, szemben az egyedileg hozzáférhető, „pontról pontra” (point to point) történő adatátvitellel megvalósuló szolgáltatásokkal. A 98/34/EK irányelvet módosító 98/48/EK irányelv V. melléklete példálózó felsorolást ad azokról a szolgáltatásokról, amelyek azért nem tartoznak az irányelv hatálya alá, mert azokat egyidejűleg több igénybe vevő részére nyújtják (point to multipoint jellegű szolgáltatás). Az irányelv fogalommeghatározása tehát ezen a megkülönböztetésen alapul. Ezért a definíció az egyedi hozzáférhetőségre, a szolgáltatás elérhetőségének módjára utal, és nem arra, hogy a szolgáltatás nyújtását az igénybe vevő közvetlenül megrendelte, vagy kezdeményezte-e. A törvényi szolgáltatás-definícióban szereplő „rendszerint ellenszolgáltatás fejében nyújtott” kitétel a szolgáltatás jellemzően gazdasági jellegét hangsúlyozza.
+
+Az EKI 2. Cikke g) pontjának, valamint 8. Cikkének megfelelően a törvény tartalmazza az Ektv. hatályát érintő szabályozott szakmákra vonatkozó rendelkezéseket. A magyar szabályozás eddig nem határozta meg a szabályozott szakmák pontos körét, erre tekintettel az Ektv. módosítása a szabályozott szakmák definíciója esetében utal a külföldi diplomák és oklevelek elismeréséről szóló 2001. évi C. törvény hazánk európai uniós csatlakozásakor hatályba lépő 25. §-a (4) bekezdésében megjelölt fogalom-meghatározásra. A szabályozott szakmákra vonatkozó rendelkezések a 2001. évi C. törvény 25. §-a (4) bekezdéséhez hasonlóan az Európai Unióhoz történő csatlakozásról szóló nemzetközi egyezményt kihirdető törvény hatálybalépésével egyidejűleg lépnek hatályba.
+
+Az Ektv. 2. §-ának új i) pontja szerint „szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 25. § (4) bekezdésében megjelölt szakma.“ Mivel a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény megvalósítja az EKI 2. Cikk g) pontjában felsorolt közösségi jogszabályoknak megfelelő szabályozást, az Ektv.-nek a párhuzamos szabályozás elkerülése érdekében elegendő a már harmonizált magyar törvényre utalni.
+
+Az EKI szerint az ellenszolgáltatás fogalma nem csupán a szolgáltatás nyújtásáért járó pénzbeli ellenszolgáltatást jelenti, hanem a szolgáltatás igénybe vételéhez kapcsolódó, az igénybe vevőt más formában terhelő kötelezettséget is, például a szolgáltatás honlapján reklámok megjelenését. Erre figyelemmel a törvény módosítja az Ektv. 2. § j) pontját, e szerint „ellenszolgáltatás: az információs társadalommal összefüggő szolgáltatás igénybevételéhez kapcsolódó, az igénybe vevőt pénzben vagy más formában terhelő kötelezettség”.
+
+A jogalkalmazás megkönnyítése érdekében a törvény az Ektv. 7-12. §-ban speciálisan a közvetítő szolgáltatókra vonatkozó felelősségi szabályokhoz kapcsolódóan az Ektv. 2. §-át új l) ponttal egészíti ki. E szerint közvetítő szolgáltatók az egyszerű adatátvitelt és hozzáférést, tárhelyszolgáltatást, gyorsítótárat biztosító és a keresőszolgáltatást nyújtó szolgáltatók.
+
+A 3. §-hoz
+
+Az EKI lehetőséget ad a tagállamoknak arra, hogy az információs társadalommal összefüggő szolgáltatások szabad áramlását korlátozzák a közrend, közegészség, közbiztonság vagy a fogyasztók védelme érdekében. Ezen korlátozások konkrét eseteit külön jogszabályok tartalmazzák, ezért kimerítő felsorolást a törvény róluk nem ad. Tartalmazza viszont a törvény az abban az esetben követendő eljárási rendelkezéseket, ha valamely hatóság e külön jogszabályokban foglaltak alapján ilyen korlátozó intézkedést kíván végrehajtani. Ezek az eljárási szabályok egybevágnak az EKI 3. Cikk 4. pont (b) alpontjában és 5. pontjában foglalt követelményekkel.
+
+A 4. §-hoz
+
+A szolgáltatók felelősségére vonatkozó szabályok módosítását indokolja az EKI horizontális megközelítése és a jogalkalmazás megkönnyítése. A EKI 12-15. Cikkeiben foglalt horizontális szabályok célja, hogy a jellemzően közvetítő jellegű szolgáltatást nyújtó szolgáltatókat mentesítse a más által rendelkezésre bocsátott, a szolgáltatók által tárolt, továbbított vagy hozzáférhetővé tett információval okozott károk, jogsérelmek miatti felelősségre vonás alól.
+
+A törvény főszabályként kimondja, hogy a szolgáltatók felelnek az általuk rendelkezésre bocsátott jogellenes tartalmú információval okozott károkért és jogsérelmekért. Ez a felelősség fennáll a saját tartalomért és akkor is, ha a közvetítő szolgáltató nem tesz eleget a mentesüléshez szükséges feltételeknek.
+
+A közvetítő szolgáltatókra vonatkozó speciális mentesülési tényállásokat, követelményeket részletesen a 8-11. §-ok tartalmazzák. Attól függően, hogy a szolgáltató milyen közvetítői tevékenységet végez, ezek az előírások különböznek, azonban a mentesülés általános feltétele az adott helyzetben általában elvárható gondosság tanúsítása.
+
+Speciális eljárás lefolytatása szükséges a mentesüléshez a szellemi alkotásokhoz fűződő jogok megsértése esetén (a 13. §-ban szabályozott értesítés alapján történő eltávolítás, notice-and-takedown eljárás).
+
+A mentesülésre vonatkozó rendelkezések betartása esetén sem zárható ki az EKI alapján, hogy bíróság, vagy hatóság a jogsértés megelőzésére vagy megszüntetésére kötelezze a szolgáltatót. Erre tekintettel méltányosságból fogalmazza meg a törvény azt a perköltség-viselési szabályt, hogy a mentesülési szabályokat betartó szolgáltató perbevonása esetén a szolgáltató nem kötelezhető a pernyertes fél perrel kapcsolatos költségeinek viselésére.
+
+Néhány esetben a mentesülés feltételeként az Ektv. - pl. ha az általa közvetített információ jogsértő mivolta a tudomására jut, vagy az értesítési eljárásban - az információ eltávolítására vagy hozzáférhetetlenné tételére kötelezi a szolgáltatót. Ebben az esetben előfordulhat, hogy a jogsértésre hivatkozás nem volt megalapozott, és azt a felet, akinek a tartalmát a szolgáltató a mentesülés érdekében eltávolította vagy letiltotta, kár éri. Ebben az esetben indokolt biztosítani azt, hogy a szolgáltatót ne lehessen felelősségre vonni jogkövető magatartása miatt, ezért a törvény szerint a közvetítő szolgáltató nem perelhető az információ eltávolítása vagy hozzáférés nem biztosítása révén keletkezett kárért, amennyiben a mentesülést biztosító tényállásokban foglaltakat betartva járt el.
+
+Az 5-6. §-hoz
+
+Az Ektv. 2. §-ának új l) pontja határozza meg a közvetítő szolgáltató fogalmát, az ilyen szolgáltatók által nyújtott szolgáltatások megnevezésével. A törvényen belüli párhuzamos fogalomhasználat elkerülése érdekében a módosítást követően az Ektv. 8-11. §-ai utalnak a 2. § l) pontjában meghatározott fogalmakra. A törvény az Ektv. 8-11. §-aiban szereplő felelősségi szabályok tartalmát nem módosítja.
+
+A 7. §-hoz
+
+Az információs társadalommal összefüggő szolgáltatások nyújtása és igénybevétele kapcsán felmerülő adatvédelmi kérdéseket rendezi a törvény új 13/A. §-a.
+
+A törvény az adatfajták tekintetében a szerződés teljesítésével, számlázással kapcsolatos adatok és a forgalmi adatok megkülönböztetését alkalmazza, ezek kezelésére ad felhatalmazást a szolgáltatás nyújtásának céljából, az ahhoz szükséges mértékig.
+
+A személyes adatokkal kapcsolatban a törvény egyben kimondja az adattakarékosság és az adatelkerülés elvét is. Ezek az elvek az adatkezelőnek azt a kötelezettségét rögzítik, hogy már az adatkezelés megkezdése előtt köteles a személyes adatok kezelésének - ha ez lehetséges - elkerülésére, illetve az adatkezelés terjedelmének minimalizálására törekedni. A követelmény az üzemeltetésre is kiterjed, azaz pl. megsérti ezt az alapelvet azon adatkezelő is, amely valamely szoftver- vagy hardvereszközt úgy helyez üzembe, hogy annak működése a szolgáltatás nyújtásához vagy a törvényben meghatározott egyéb cél teljesüléséhez szükséges mértéken túl eredményezi személyes adatok kezelését.
+
+A forgalmi adatok körében a törvény megengedi a szolgáltatásnyújtástól eltérő célból történő kezelést is, ha a forgalmi adatok az igénybe vevő valódi személyazonosságához nem kapcsolhatók, ill. amennyiben az igénybe vevő az ilyen célú adatkezelést bármikor letilthatja (opt-out megoldás). A közvetlen azonosíthatóság kizárása és a hozzá kapcsolódó letiltási jog együttesen megteremtheti a szolgáltatók számára a szolgáltatások fejlesztésének lehetőségét (mivel garanciákhoz kötötten legalizálja az ún. cookie-k alkalmazását, fogyasztói profilok készítését), ám ezzel párhuzamosan lehetőséget ad az információs önrendelkezési jog gyakorlására is.
+
+A nem azonosítható forgalmi adatok harmadik fél részére történő átadását a törvény úgy szabályozza, hogy ehhez az igénybe vevő hozzájárulását kívánja meg (opt-in megoldás). Ilyen a jelenlegi technológiák közül az ún. third party cookie-k esete, amennyiben az adatátadás másik személynek történik (tehát a szervereket nem ugyanaz a személy üzemelteti). E rendelkezés ugyan hátráltathatja meghatározott szolgáltatások működtetését, ám ebben az esetben az igénybe vevő magánszférája fokozottan sérülhet, ezért indokolt a hozzájárulás alapján történő adatkezelés előírása.
+
+A törvény a monopolhelyzetű szolgáltatóra vonatkozóan kimondja, hogy a csak tőle igénybe vehető szolgáltatás nyújtása nem tehető függővé olyan célú adatkezeléshez történő hozzájárulástól, amelyet a törvény adatkezelések megengedése kapcsán nem tartalmaz. A rendelkezés a hozzájáruláson alapuló adatkezelésekkel kapcsolatos visszaéléseket zárja ki abban az esetben, ha a szolgáltatás más szolgáltatótól (az adott igénybe vevő által) nem vehető igénybe. Egyéb esetekben, tehát amennyiben az adott szolgáltatás mástól is igénybe vehető, a fenti tilalom nem érvényesül.
+
+A törvény az adatkezelő számára a korábban hatályos adatvédelmi szabályok alapján fennálló tájékoztatási kötelezettséget két elemmel bővíti: egyrészt az adatkezelések céljára és a kezelt adatfajtákra vonatkozó információt állandóan elérhetővé kell tenni, másrészt a tájékoztatási kötelezettség kiterjed a felhasználóval közvetlenül kapcsolatba nem hozható adatokra (pl. webszerver üzemeltetése esetén a cookie-technológia alkalmazására).
+
+A törvény egyes adatkezelési módoknál az adatgyűjtés céljának megszűnését követően a kezelt adatokra vonatkozó törlési kötelezettséget ír elő. Más törvény azonban bizonyos adatfajták tekintetében előírhatja a kezelt adatok őrzését az adatkezelés céljának megszűnése után is, ezért az Ektv. új 13/A. §-ának (7) bekezdése az adatok törlésére csak törvény eltérő rendelkezése hiányában kötelezi a szolgáltatót. A számvitelről szóló törvény bizonyos forgalmi adatokra vonatkozóan külön adatmegőrzési kötelezettséget ír elő, ezért e jogszabály külön nevesítése indokolt.
+
+A 8. §-hoz
+
+A szabályozott szakmák elektronikus úton közzétett reklámjai kapcsán az Ektv. új, 14/A. §-sal egészül ki. A módosítás tekintettel van arra, hogy a szabályozott szakmát gyakorló személy folytathat olyan szakmát, amely kötelező (pl. ügyvéd), vagy önkéntes érdekképviseleti szervezeti tagsággal jár (szakértő), illetve nem kapcsolódik érdekképviseleti tagsághoz (tanár). A törvény lehetővé teszi, hogy szakmai szabályok korlátozzák az Ektv. 14. §-ához képest az elektronikus reklámok közzétételét, ha információs társadalommal összefüggő szolgáltatást nyújtanak szabályozott szakmát gyakorló személyek [EKI 8. Cikk (1) bekezdés]. A korlátozások lehetnek tiltást, formai vagy tartalmi korlátozást megvalósító szakmai szabályok, jogszabályok, valamint az önkéntesség alapján alkotott és elfogadott etikai kódexek, vagy más magatartási szabályok, amelyeket érdekképviseleti szervek alkotnak [EKI 8. Cikk (1) és (2) bekezdés].
+
+A 9. §-hoz
+
+Az EKI 16. Cikke szerint a tagállamok és a Bizottság ösztönzi az érdekelt szakmai, fogyasztói egyesületeket az információs társadalommal összefüggő szolgáltatások területén önszabályozás és a szolgáltatói magatartási kódexek kialakítására, valamint fogyasztói érdekképviseletek bevonására. A törvény az EKI 16. Cikkének megfelelően új 15/A. §-sal egészíti ki az Ektv.-t. E szerint az állam elismeri a szolgáltatói és fogyasztói érdekek képviseletét ellátó társadalmi szervezetek információs társadalommal kapcsolatos önszabályozó tevékenységét, valamint - az önszabályozás autonómiáját tiszteletben tartva - külön jogszabályban meghatározott módon támogatja ezeket a szervezeteket a magatartási kódexek hozzáférhetővé tétele, valamint alkalmazási tapasztalataik terjesztése, cseréje érdekében. Ezek a szabályok két lényeges ponton különböznek a 14/A. §-a szerinti, a szabályozott szakmák gyakorlóinak érdekképviseleti szervei által megállapítható magatartási szabályoktól. Egyrészt tárgyuk eltérő, hiszen a törvény által szabályozott valamennyi szolgáltatói kötelezettségre, továbbá a törvényben nem szabályozott kérdésekre kiterjed(het)nek, másrészt ezeket a szabályokat a szolgáltatók és fogyasztók érdekképviseleti szervei alkotják.
+
+Az elektronikus úton történő, bíróságon kívüli vitarendezés elterjedésének lehetővé tétele [EKI 17. Cikk (2), (3) bekezdése] kapcsán a törvény szintén az állam által támogatandó önszabályozó tevékenységként határozza meg az alternatív vitarendezési eljárások elektronikus működtetését.
+
+A 10. §-hoz
+
+Az EKI 20. Cikke a tagállamok részére előírja a hatékony, arányos és visszatartó erővel bíró szankciórendszer kidolgozását. A korábban hatályos Ektv. 16. §-ának (5)-(6) bekezdése is tartalmaz a hatósági eljárásra, és szankcióra vonatkozó szabályozást, azonban a felügyeleti rendszer egységesebbé tétele, és az eljárás, valamint a szankcionálás hatékonyságának növelése céljából ezeket a rendelkezéseket a törvény módosítja. Az Ektv. szolgáltatói kötelezettségeket megállapító rendelkezései közül az adatszolgáltatásra, az elektronikus úton történő szerződéskötésre vonatkozó és a különös fogyasztóvédelmi szabályok (4-6. § és 15. §) megszegése esetén a törvény szerint a hatáskörrel rendelkező hatóság a Fogyasztóvédelmi Főfelügyelőség, amely a fogyasztóvédelemről szóló 1997. évi CLV. törvény rendelkezései alapján jár el, azonban a szabályozott életviszonyok speciális jellegéből fakadó eltérésekkel. Ezek egyike, hogy az eljáró fogyasztóvédelmi hatóság mellett érdekelt szakhatóságként a Nemzeti Hírközlési Hatóság is részt vesz az eljárásban. Másrészt a fogyasztóvédelmi törvény szankciórendszerét is kibővíti a törvény. A fogyasztóvédelmi bírság és a fogyasztók érdekében meghozható tiltó intézkedések mellett lehetőséget ad a jogsértően, illetve jogosultság nélkül használt eszköz lefoglalására, zár alá vételére, és az ilyen eszköz elhelyezésére szolgáló helyiség zár alá vételére is. A törvény a nem megengedett reklámközlések (ún. spam) esetében lefolytatott reklámfelügyeleti eljárásban a gazdasági reklámtevékenységről szóló 1997. évi LVIII. törvényt rendeli alkalmazni azzal az eltéréssel, hogy az eljárásra jogosult hatóság eljárásában a Nemzeti Hírközlési Hatóság is közreműködik. A reklámfelügyeleti eljárásban a Nemzeti Hírközlési Hatóság közreműködésének részletes szabályait a későbbiekben kiadandó külön Korm. rendelet rögzíti, a Kormány részére szóló, ezzel kapcsolatos felhatalmazást az Ektv. 17. §-ának új (1) bekezdése tartalmazza.
+
+Az adatvédelmi rendelkezések megsértése esetén az adatvédelmi biztos vagy a bíróság a vonatkozó külön törvény szerint jár el.
+
+Az Ektv. alapján indult valamennyi eljárásban a jogalkalmazás megkönnyítése érdekében a Nemzeti Hírközlési Hatóság - szakhatósági vagy szakértői - közreműködése valamennyi hatósági vagy bírósági eljárásban biztosított.
+
+A 11. §-hoz
+
+E § felhatalmazást ad a Kormány részére, hogy a hatósági eljárás részletes szabályait rendeletben állapítsa meg.
+
+A 12. §-hoz
+
+Az Ektv. új 18. §-a kimondja, hogy a törvény az EKI-vel összeegyeztethető szabályozást tartalmaz, azaz megvalósul a teljes jogharmonizáció.
+
+-----STARTING---POINT---VEGE---

@@ -1,0 +1,351 @@
+2021. évi C. törvény végső előterjesztői indokolása
+
+az ingatlan-nyilvántartásról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+Ezen indokolás a jogalkotásról szóló 2010. évi CXXX. törvény 18. § (3) bekezdése, valamint a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. § (2) bekezdés a) pontja alapján a Magyar Közlöny mellékleteként megjelenő Indokolások Tárában közzétételre kerül.
+
+Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) hatálybalépése óta eltelt több mint húsz évben jelentős társadalmi, gazdasági változások történtek, amelyek új igényeket támasztanak a jogi szabályozással és az elektronikus ügyintézéssel szemben. A Kormány ezért döntött a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program (KÖFOP) keretében az „E-ingatlan-nyilvántartás” című projekt (E-ING Projekt) megvalósításáról, amelynek célja, hogy az ingatlan-nyilvántartást elektronikus adatbázissá fejlessze, az ingatlan-nyilvántartási eljárásokat teljes mértékben elektronizálja, így csökkentse a földügyi eljárások átfutási idejét és költségszintjét, ezáltal pedig a közigazgatási adminisztratív terhek is csökkenjenek.
+
+A fenti célok mentén folyó műszaki fejlesztéssel párhuzamosan szükség van az ehhez igazodó jogi szabályozási alapok megteremtésére, ami a jogi szabályozási reform révén valósulhat meg új ingatlan-nyilvántartási törvény és új végrehajtási rendelet megalkotása útján. Az ingatlan-nyilvántartás digitalizációja és az ehhez kapcsolódó szabályozási reform lehetővé teszi, hogy
+
+1. a magyar ingatlan-nyilvántartás korszerű és a digitalizáció terén is versenyképes legyen nemzetközi összehasonlításban, ezáltal az ország versenyképességének növeléséhez is hozzájárulva;
+
+2. a papír alapú ügyintézést felváltsa a hatékonyabb és gyorsabb elektronikus ügyintézés;
+
+3. az ingatlan-nyilvántartás összekapcsolható legyen az állam más közhiteles elektronikus nyilvántartásaival, ahonnan az ingatlan-nyilvántartás adatai automatikusan frissülni tudnak és biztosított lesz az elektronikus információ-áramlás és kapcsolattartás, sok esetben az automatizált kapcsolattartás;
+
+4. az ingatlan-nyilvántartás áttekinthető, teljes körű és naprakész legyen;
+
+5. hatóságok, bíróságok, más jogosultak könnyebben hozzáférjenek elektronikusan a rendszerhez jogosultsági szint beállításával;
+
+6. a megyei, illetve fővárosi kormányhivatalok ingatlanügyi hatósági feladatait támogató rendszer, valamint a térképi adatbáziskezelő rendszer egységes legyen;
+
+7. az intelligens adatbázis alkalmas legyen adatfeldolgozásra, adatkeresésre.
+
+Az ingatlan-nyilvántartási szabályozás új elemei:
+
+Kódexjelleg: Az ingatlan-nyilvántartásba bejegyezhető jogok, tények és adatok körét ágazati jogszabály nem, hanem egységesen csak az ingatlan-nyilvántartási szabályozás határozhatja meg.
+
+Teljeskörűség elve - a bejegyzési elv kiterjesztése: Az új szabályozás szerint az ingatlannal kapcsolatos olyan jog, tény és adat esetén, amely tárgya az ingatlan-nyilvántartásnak, a jog, valamint a tényen és adaton alapuló jog, illetőleg kötelezettség akkor érvényesíthető, ha a jogot, tényt, adatot az ingatlan-nyilvántartásba bejegyezték.
+
+Az ingatlan-nyilvántartás primátusa: Kiemelt cél, hogy az ingatlan-nyilvántartásból a lehető legteljesebb körben megismerhető legyen az adott ingatlannal összefüggésben fennálló összes jog és kötelezettség. A szabályozás nem vonná el az egyes ágazatoktól az ingatlanra vonatkozó szakmai szempontú nyilvántartás vezetését, azonban kötelezővé tenné, hogy az ágazati adatok az egységes ingatlan-nyilvántartásban is megjelenjenek, valamint ehhez kapcsoltan az ingatlan-nyilvántartási adat elsőbbségét, közhitelességét mondja ki.
+
+Az automatikus döntéshozatal: Az automatikus döntéshozatal tekintetében az általános közigazgatási eljárási kódex (a továbbiakban: Ákr.) az eljárási kereteket teremti meg, de a döntéshozatal módját az elektronikus ügyintézésről szóló törvény határozza meg. Az automatikus döntéshozatal ingatlan-nyilvántartási eljárásokban történő alkalmazását az ingatlan-nyilvántartási törvény lehetővé teszi, illetve felhatalmazást ad a feltételeinek a végrehajtási jogszabályban való meghatározására. Az Ákr. külön garanciális szabályt tartalmaz az automatikus döntéshozatal tekintetében, ami az ingatlan-nyilvántartási eljárásban is alkalmazandó lesz: a döntés közlését követő öt napon belül az ügyfél kérheti, hogy a hatóság a kérelmét ismételten, teljes eljárásban bírálja el.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1-2. §-hoz
+
+A törvény 1. § és 2. §-a megállapítja a törvény hatályát, és értelmező rendelkezéseket tartalmaz a bejegyzésre, hivatalból indult eljárásra, hatósági határozatra és beadványra vonatkozóan.
+
+A törvény nem tesz különbséget a jogok, tények és adatok tekintetében az ingatlan-nyilvántartásban történő átvezetés szempontjából: akár jog, akár tény, akár adat esetében a változás vezetése bejegyzéssel történik, így a jogszabály szövegezése egyszerűbbé és közérthetőbbé válik, megkönnyítve a jogalkalmazást.
+
+A bíróság elrendeli a bejegyzést, a különböző hatóságok pedig felhívják az ingatlanügyi hatóságot a bejegyzés teljesítésére, kizárva annak lehetőségét, hogy a bíróságot és a különböző hatóságokat ügyfélnek, beadványaikat pedig kérelemnek lehessen tekinteni az eljárás során. Mivel az általános közigazgatási rendtartásról szóló törvény értelmében az eljárás kérelemre vagy hivatalból indul, a bírósági elrendelés és hatósági felhívás alapján folyó eljárás hivatalból induló eljárásnak minősül. Fontos, hogy a bírósági jogorvoslat során hozott ítélet ingatlanügyi hatóságnak megküldése nem minősül bírósági elrendelésnek, az jogorvoslat.
+
+A 3-6. §-hoz
+
+Az ingatlan-nyilvántartás tárgya maga a jogi értelemben vett ingatlan. Az ingatlanok fekvésük szerint lehetnek belterületi és külterületi ingatlanok. Tekintettel arra, hogy a gyakorlatban nagy számban fordulnak elő zártkerti ingatlanok, melyek a település különleges külterületi részét képezik, ez utóbbi kategória megjelenítése is indokolt a törvényben.
+
+Az ingatlan-nyilvántartásnak továbbra is az önálló ingatlanok képezik a tárgyát, azok, amelyek önállóan (saját helyrajzi számmal megjelölve) az ingatlanforgalomban részt vesznek, öröklés tárgyai lehetnek. A törvény az önálló ingatlanok körén nem változtatott. Önálló ingatlanok: a földrészlet és az ún. egyéb önálló ingatlanok. A földrészlet alkotórészeivel együtt vagy anélkül képezi az ingatlan-nyilvántartás tárgyát.
+
+Az ingatlan-nyilvántartási törvény a földrészlet fogalmának meghatározásakor a telekkönyvről szóló 54/1960. (XI. 27.) Korm. rendelet végrehajtásáról szóló 2/1960. (XII. 25.) IM rendeletnek az önálló ingatlan fogalmát rögzítő szabályát veszi alapul, amely az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény megfogalmazásánál lényegesen pontosabban írja le, hogy mit kell földrészletnek tekinteni.
+
+Az egyéb önálló ingatlan kifejezés gyűjtő fogalom. Egyéb önálló ingatlanként kell nyilvántartani valamennyi állami ingatlan-nyilvántartási térképen megjeleníthető építményt, amely a föld felszínéhez vagy egyéb önálló ingatlanhoz közvetlenül kapcsolódik, és az ingatlan-nyilvántartásban egyéb önálló ingatlanként történő feltüntetését kérik. Egyéb önálló ingatlanként kell nyilvántartani a társasházi lakást és a nem lakás céljára szolgáló önálló rendeltetési egységet vagy helyiséget, valamint a szövetkezeti lakást és nem lakás céljára szolgáló önálló rendeltetési egységet vagy helyiséget, azaz a társasház és szövetkezeti ház önálló rendeltetési egységeit. A törvény kimondja, hogy kizárólag egyéb önálló ingatlanként lehet nyilvántartásba venni azt a föld alatti vagy föld feletti építményt, amely közterülethez kapcsolódik.
+
+Az E-ingatlan-nyilvántartás létrehozása megfelelő alkalmat jelent a földrészletek és az egyéb önálló ingatlanok nyilvántartásának megújítására, a régóta fennálló társadalmi igények minél szélesebb körű kiszolgálása érdekében. A technikai fejlődés is eljutott egy olyan színvonalra, amelyben a megújítás feltételei technikai szempontból már adottnak tekinthetők. A jövőben nemcsak a földrészleten álló épület térképi ábrázolása lesz megoldott, hanem a föld alatt elhelyezkedő építményé is, valamint több, akár egymás alatt-fölött elhelyezkedő építményé is (pl. alagút, híd, felüljáró). A térbeli nyilvántartás kialakításával az eddiginél tágabb körben nyílik lehetőség a különféle, föld felett és föld alatt elhelyezkedő építmények térképi ábrázolására és az ingatlan-nyilvántartásban történő nyilvántartására.
+
+A nyomvonal jellegű építményeket az ingatlan-nyilvántartás nem tartja nyilván. Amit az ingatlan-nyilvántartás a nyomvonal jellegű építményekkel összefüggésben nyilvántart, az az a földrészlet vagy építmény, amelyen vagy amelyben, a nyomvonal jellegű építmény elhelyezkedik. tehát pl. metróalagút esetében magát az alagutat nyilvántartja az ingatlan-nyilvántartás, de az alagútban futó sínt nem. A nyomvonal jellegű építményekhez kapcsolódó nyilvántartás különös szabályozás alá fog esni, melynek a törvény csak a kereteit teremti meg, a részletszabályokat az ágazati jogszabályok állapítják meg.
+
+A 7-9. §-hoz
+
+Az ingatlan-nyilvántartás az önálló ingatlanok adatait, valamint az azokhoz kapcsolódó, az ingatlan-nyilvántartásba bejegyezhető jogokat és tényeket tartalmazza. Az ingatlan ingatlan-nyilvántartásban nyilvántartott adatait a jövőben az ingatlan-nyilvántartási törvény végrehajtási rendelete állapítja meg. A bejegyezhető jogok és tények köre tehát zárt, az ingatlan-nyilvántartásba csak azok a jogok és tények jegyezhetők be, amelyeket a törvény végrehajtási rendelete felsorol, más jogszabály nem állapíthat meg olyan jogot, tényt, melyet az ingatlan-nyilvántartásba be lehetne jegyezni.
+
+Az adatok, jogok és tények bejegyezésének részletes szabályait a törvény végrehajtási rendelete fogja meghatározni.
+
+Az ingatlan-nyilvántartásban a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy jogosultakat a családi és utónév, a születési név, a jogosult anyja neve, valamint a születési hely és idő (együtt: természetes személyazonosító adatok), továbbá a személyi azonosító alapján lehet egymástól megkülönböztetni. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személyek esetében a természetes személyazonosító adatok és a lakcím kerül be a nyilvántartásba. Az ingatlan-nyilvántartás mindkét személyi kör esetében nyilvántartja az állampolgárságot is. A szervezetek azonosítására a szervezet megnevezését, székhelyét, valamint a nyilvántartott szervezet esetében a nyilvántartását vezető szervet és a nyilvántartási számát kell alkalmazni.
+
+A 10-13. §-hoz
+
+A törvény szerint az ingatlan-nyilvántartás a tulajdoni lapból, az állami ingatlan-nyilvántartási térképi adatbázisból, az okirattárból, valamint az analóg és digitális archív térképi adatok adatbázisából áll. Az ingatlan-nyilvántartás központi része a tulajdoni lap, amely tartalmazza az ingatlan azonosítási és egyéb jelentős adatait, valamint az ingatlanhoz kapcsolódó tulajdonjogot és az ingatlan-nyilvántartásba bejegyezhető egyéb jogokat, továbbá az ingatlan-nyilvántartásba bejegyezhető tényeket. Az okirattár az ingatlan-nyilvántartás része. Mindazon magán- és közokiratok itt kerülnek elhelyezésre, amelyek a nyilvántartás tartalmában bekövetkezett változások alapjául szolgálnak. Bár az Inytv. külön nem nevesíti, az ingatlan-nyilvántartásnak továbbra is része a törölt bejegyzések állománya.
+
+A 14-19. §-hoz
+
+A törvény rögzíti az ingatlan-nyilvántartás azon alapelveit, melyeket nem a Polgári Törvénykönyvről szóló 2013. évi V. törvény X. címe nevesít.
+
+A törvény az ingatlan-nyilvántartás nyilvánosságának elve alapján áll továbbra is, azonban a jogosulti adatok körének megismerhetőségét szigorítja. A bejegyzett természetes személy jogosult személyes adatai megismerhetőségének szigorítását adatvédelmi igények indokolják. Fontos, hogy a jogosult természetes személy természetes személyazonosító adatait csak a lekérdező azonosítása mellet, célhoz kötötten, és csak a legszükségesebb mértékben lehessen megismerhetővé tenni, ezért rendelkezik úgy a törvény, hogy a tulajdoni lapból a természetes személy jogosultnak csak a neve és lakcíme ismerhető meg szélesebb körben, míg a neven kívüli természetes személyazonosító adatok csak a törvényben meghatározott célból és a törvényben meghatározott személyek számára ismerhetők meg.
+
+A törvény megtartja az okirati elvet, azaz az ingatlan-nyilvántartásba jog, tény és adat bejegyzésére csak a törvényben meghatározott okirat alapján kerülhet sor. Az okirati elv akkor is érvényesül, amikor a bejegyzés során az ingatlanügyi hatóság a bejegyzés alapjául szolgáló okirat tartalmát nem vizsgálva hoz döntést automatikus döntéshozatali eljárásban. A bejegyzés alapjául szolgáló okiratot, melynek tartalmi elemeit és alaki kellékeit a törvény meghatározza, csatolni kell a bejegyzés iránti kérelemhez, továbbá a bírósági elrendelés vagy hatósági felhívás alapján indult eljárásban is.
+
+Az ingatlan-nyilvántartás közhiteles hatósági nyilvántartás. A közhitelesség tartalma egy olyan vélelem, amelynek megdöntésére csak szigorú szabályok érvényesülése mentén, továbbá a jogok és tények tekintetében, bizonyos esetekben, időben is korlátozottan van lehetőség. A közhitelesség az ingatlan-nyilvántartásba bejegyzett adatokra is kiterjed, azzal a különbséggel, hogy a vélelem megdöntésére más szabályok vonatkoznak, mint a jogok, tények esetében. Az ingatlan-nyilvántartásba bejegyzett ingatlanadat esetében a bejegyzés helyességéhez fűződő vélelem megdöntése történhet hivatalból is, a hatóság észlelése alapján. Idetartozik a felmérési, térképezési vagy területszámítási hiba javítása is, amelyet az ügyfél bejelentése alapján észlel a hatóság, és ide tartozik az az eset is, amikor az előbbi körbe nem tartozó hibát javít hivatalból a hatóság a meglévő okiratok alapján.
+
+A törvény az elvek között foglalkozik a kérelemhez kötöttséggel is. A törvény továbbra is főszabálynak tekinti, hogy az ingatlan-nyilvántartási eljárás az érdekelt kérelmére indul. A törvény megszünteti a bírósági, hatósági megkeresés fogalmát, ugyanis az Ákr. a megkeresés fogalmát olyan értelemben használja, amely a bíróságok és hatóságok eljárást kezdeményező beadványaival kapcsolatban nem értelmezhető. Mivel az Ákr. szerint a közigazgatási hatósági eljárás kérelemre vagy hivatalból indul, a közérthetőség érdekében rendelkezni kellett arról is, hogy a bírósági elrendelés vagy hatósági felhívás alapján indult eljárás hivatalból és nem kérelemre folyik. A kérelemhez, bírósági elrendeléshez és hatósági felhíváshoz az eljáró ingatlanügyi hatóság kötve van. Az ingatlanügyi hatóság csak azt a jogot vagy tényt jegyezheti be az ingatlan-nyilvántartásba, amelyet a kérelem, a bírósági elrendelés és hatósági felhívás megjelölt.
+
+A törvény rögzíti a rangsor elvét, amely szerint a bejegyzések rangsorát és az egyes bejegyzések ebből következő rangsorban elfoglalt helyét, azaz a ranghelyet az határozza meg, hogy a bejegyzési kérelmek, bírósági elrendelés, hatósági felhívás milyen sorrendben érkeznek meg az ingatlanügyi hatósághoz. A technikai fejlődés, melynek eredményeként a beadványok elektronikus úton érkeznek meg az ingatlanügyi hatósághoz, lehetővé tette, hogy az egy napon belül beérkezett beadványok között is rangsort lehessen felállítani. A korábbi szabályozással ellentétben, amikor is az egy napon érkezett beadványok közötti rangsort a bejegyzés alapjául szolgáló okirat kiállításának vagy ellenjegyzésének dátuma határozta meg, a jövőben kizárólag az azonos időpontban érkezett beadványok esetében lesz szükség a kisegítőszabály alkalmazására. Azonos időpontban érkezettnek kell tekinteni az azonos másodpercben beérkezett beadványokat, ugyanis a számítógépes rendszer másodperc pontossággal tudja kezelni az érkeztetést.
+
+A 20. §-hoz
+
+Az ingatlan-nyilvántartás vezetése az ingatlanügyi hatóság feladata. A törvény végrehajtási rendelete ingatlanügyi hatóságként a fővárosi és megyei kormányhivatalokat jelöli ki. A technikai fejlődés, az ingatlan-nyilvántartás teljes körű elektronizáltsága lehetővé tette, hogy az ingatlan-nyilvántartási beadvány az ingatlan fekvésétől függetlenül az ország bármelyik (fővárosi, megyei) kormányhivatala által intézhető a kapacitás függvényében.
+
+Az ingatlanügyi hatóságok adatvédelmi szempontból adatkezelőnek minősülnek, ugyanakkor az adatfeldolgozási feladatok ellátásával más szervezet is megbízható. A törvény rendelkezése szerint az ingatlan-nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szerv vagy 100%-ban állami tulajdonú gazdálkodó szerv bízható meg.
+
+A 21-27. §-hoz
+
+A törvény meghatározza, hogy az ingatlan-nyilvántartásban kit, mely szervezeteket kell ügyfélnek tekinteni. Az ingatlan-nyilvántartás speciális jellege, a sok esetben egymásra épülő, egymással összefüggő, de mégis önálló beadványok rendszere és a rangsor elve indokolják az Ákr. általános ügyfélfogalmától való eltérést, a részletezőbb kifejtést.
+
+A törvény kimondja, hogy a beadványokat a beérkezésük sorrendjében kell intézni, majd megállapítja a kivételszabályokat. E körben külön rendelkezik arról az esetről, amikor a széljegyek intézésének sorrendje a széljegyzett beadványokkal érintettek közös kérelme alapján változik meg.
+
+A jogok és tények bejegyzése iránti kérelmeket a benyújtásuk időpontjában hatályos jogszabályok szerint kell intézni. A rendelkezés nem csak az ingatlan-nyilvántartási jogszabályokra vonatkozik, és nemcsak eljárási, hanem anyagi jogi szabályokat is magában foglal. A jogok és tények bejegyzése iránti kérelmektől eltérően a bírósági elrendelésen és hatósági felhíváson alapuló beadványok bejegyzésre alkalmasságát a bejegyzés alapjául szolgáló határozat meghozatala időpontjában hatályos jogszabályok szerint kell vizsgálni. Ennek oka, hogy a bíróság jogerős ítéleti rendelkezésén vagy a hatósági határozaton alapuló jogosultságot nem a bejegyzés keletkezteti.
+
+A törvény úgy rendelkezik, hogy az ingatlanügyi hatóság a végrehajtási rendeletben meghatározott kivételekkel írásban, elektronikus úton tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
+
+A 28-31. §-hoz
+
+A törvény jogok és tények bejegyzésére vonatkozó szabályoktól elkülönítetten tartalmazza az ingatlanok, valamint a bejegyzett jogosultak adatai változásának bejegyzésére vonatkozó szabályokat. Adatváltozás bejegyzése az érdekelt kérelmére vagy hivatalból történhet.
+
+A természetes személy jogosultak közül azon személyeknek szükséges kérelmezniük az adataikban bekövetkezett változás bejegyzését, akik nem tartoznak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá, mivel az ő adataikat az ingatlan-nyilvántartás nem tudja automatikusan átvenni a személyiadat- és lakcímnyilvántartás adatbázisából. A szervezetek esetében a cégnyilvántartásba bejegyzett jogi személyeken kívüli szervezeteknek kell kérelmezniük az adatváltozás bejegyzését, ugyanis esetükben szintén nem megoldott az automatikus adatátvétel.
+
+A 32-41. §-hoz
+
+A törvény meghatározza a jogok és tények bejegyzése alapjául szolgáló magyarországi és külföldön kelt bejegyzés alapjául szolgáló okiratokra vonatkozó főbb szabályokat, valamint a bejegyzéshez szükséges egyéb okiratokkal kapcsolatos szabályokat.
+
+Az okirati elvnek megfelelően továbbra is alapvető szabálya az ingatlan-nyilvántartásnak, hogy törvény eltérő rendelkezése hiányában jogok és tények bejegyzésének olyan közokirat vagy teljes bizonyító erejű magánokirat alapján van helye, amely a bejegyzés tárgyát képező jog vagy tény keletkezését, módosulását, illetve megszűnését igazolja. Ezen túlmenően - törvény eltérő rendelkezése hiányában - jog vagy tény bejegyzéséhez az ingatlan-nyilvántartási jogosult részéről kiállított bejegyzési engedély, jog vagy tény törléséhez a törölni kért jog vagy tény jogosultja részéről kiállított törlési engedély, azaz ún. bejegyzési engedély szükséges.
+
+A törvény rendelkezéseinek megfelelően jog és tény bejegyzése alapjául csak olyan magánokirat fogadható el a jövőben, amelyet ügyvéd vagy kamarai jogtanácsos ellenjegyzéssel látott el. A bejegyzés alapjául szolgálhat elektronikus okirat vagy olyan papíralapú okirat, amelyet a készítője (közjegyző, ügyvéd, kamarai jogtanácsos) elektronikus okirattá alakított.
+
+Tulajdonjog bejegyzésének törléséhez és az eredeti ingatlan-nyilvántartási állapot visszaállításához jogerős bírósági, hatósági határozat vagy végleges közigazgatási hatósági határozat szükséges, azaz a felek megállapodása (szerződés felbontása, érvénytelennek elismerése) nem törheti át az ingatlan-nyilvántartási bejegyzés konstitutív hatályát.
+
+Tekintettel arra, hogy a kérelmeket az E-ingatlan-nyilvántartásban elektronikus úton kell előterjeszteni, valamint az automatikus döntéshozatali eljárásban elbírált kérelmek esetében nem történik meg a bejegyzés alapjául szolgáló okirat vizsgálata, speciális rendelkezést tartalmaz a törvény arra az esetre, amikor a szerződő felet a szerződéskötés során meghatalmazott képviseli. A törvény kimondja, hogy ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, a képviseleti jogosultságot az ingatlanügyi hatóság által biztosított elektronikus űrlap kitöltésével kell igazolni, feltéve, hogy az ügyleti meghatalmazás korlátozást nem tartalmaz, vagy az ügyleti meghatalmazás a törvény végrehajtási rendeletében meghatározott valamely korlátozást tartalmazza. Ezekben az esetekben az E-ingatlan-nyilvántartási rendszer generálja a meghatalmazás szövegét, így a meghatalmazás tartalma a rendszer számára vizsgálhatóvá válik. Kisegítő szabály, hogy amennyiben az okiratot a nyilatkozattevő helyett meghatalmazott írta alá és az ügyleti meghatalmazás a végrehajtási rendeletben meghatározott korlátozáson kívül egyéb korlátozást is tartalmaz, a kérelemhez csatolni kell az elektronikus közokiratba foglalt vagy ügyvéd, kamarai jogtanácsos által ellenjegyzett elektronikus magánokirati formában kiállított meghatalmazást. Azonban ilyen esetben a kérelem kizárólag sommás vagy teljes eljárás keretében bírálható el, automatikus döntéshozatali eljárásban nem.
+
+A külföldön kelt magánokiratokkal kapcsolatban kiemelendő, hogy bár a törvény erről külön nem rendelkezik, az ingatlan-nyilvántartási eljárásban is kötelezően figyelembeveendő az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 44. §-ának (7) bekezdése.
+
+A 42-51. §-hoz
+
+A törvény 42-51. §-ai a jogok és tények bejegyzése iránti kérelmek alapján indult - sommás vagy teljes - eljárás szabályait állapítják meg.
+
+A jogok és tények bejegyzésére irányuló, kérelemre induló eljárásokban a jogi képviselet kötelező. Jogi képviselőként jár el az ügyvéd, kamarai jogtanácsos és a fél képviseletében a közjegyzőkről szóló törvény alapján eljáró közjegyző. A kérelmeket elektronikus úton, elektronikus űrlap alkalmazásával lehet előterjeszteni. Az okirati elvnek megfelelően a kérelemhez csatolni kell a bejegyzés alapjául szolgáló okiratot, közjegyzői okirat esetén a közjegyzői okirat hiteles kiadmányát, amelyeknek tartalmazniuk kell a jogszabályban meghatározott esetekben az okiratra vezetett záradékot. A kérelemhez csatolni kell továbbá a bejegyzéshez szükséges egyéb iratokat is.
+
+A törvény kimondja, hogy a jogok, tények bejegyzésére irányuló eljárás főszabály szerint a jog vagy tény bejegyzésével érintett valamennyi személy közös kérelme alapján folytatható le. Ennek a rendelkezésnek a fontosságát az adja, hogy a jogügyletben résztvevő személyek eljárásjogilag nem minősülhetnek ellenérdekű feleknek, így nincs akadálya annak, hogy - egyéb feltételek megléte esetén - az ingatlanügyi hatóság a bejegyzési kérelmet automatikus döntéshozatali eljárásban vagy sommás eljárásban bírálja el. Bejegyzett jog vagy tény törlésének ugyanakkor a jog vagy tény jogosultjának önállóan benyújtott kérelme alapján is helye van, ha ezt a lehetőséget a törvény végrehajtási rendelete nem zárja ki.
+
+A kérelem addig az időpontig, amíg az ingatlanügyi hatóság a döntés közlése iránt nem intézkedik, a szerződő felek közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt közös nyilatkozatával visszavonható vagy módosítható. Ha a bejegyzés folytán harmadik személy vált volna jogosulttá, a kérelem visszavonásához vagy módosításához az ő közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt hozzájárulása is szükséges.
+
+Attól az időponttól kezdődően, hogy az érintett ingatlanra, tulajdoni hányadot érintő kérelem esetén az érintett tulajdoni hányadra vonatkozó további kérelmet, bírósági elrendelést vagy hatósági felhívást széljegyzett az ingatlanügyi hatóság, a kérelem csak a következő széljegy (széljegyek) jogosultjainak a (2) bekezdésben szabályozottak szerint kiállított hozzájárulásával módosítható vagy vonható vissza.
+
+Nem alkalmas a kérelem hiánypótlásra, és határozattal el kell utasítani, ha a benyújtott okirat tartalmát kellene módosítani ahhoz, hogy a bejegyzés teljesíthető legyen. Tartalmi módosítást igényel az okiratban történt bármilyen elírás. Az okirat - a hiba benyújtó általi észlelése esetén - a határozat közlése iránti intézkedésig módosítható, kicserélhető, azonban, ha a hibát az ingatlanügyi hatóság észleli az elbírálás során, akkor hiánypótlási felhívás kiadása nélkül elutasító döntést hoz.
+
+A törvény megállapítja azokat a minimálisan szükséges adatokat, amelyeket az űrlapon rögzíteni szükséges ahhoz, hogy a beadvány széljegyezhető legyen. Ezen adatok hiánya, illetve ezen adatok közül a rendszer által ellenőrizhető adatok hibás megadása azzal a következménnyel jár, hogy a beadvány nem széljegyezhető. Szintén akadályát képezi a széljegyzésnek, ha az eljárás igazgatási szolgáltatási díját a kérelmet benyújtó személy nem fizeti meg. Ezekben az esetekben az ingatlanügyi hatóság elektronikus igazolást küld a benyújtó számára arról, hogy a beadvány széljegyzésének akadálya van, és a beadványt be nem nyújtottnak kell tekinteni.
+
+A törvény a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személy esetében előírja magyarországi értesítési cím megadását a kérelemben, ugyanakkor kimondja, hogy az elektronikus ügyintézésre kötelezett vagy azt önként vállaló kérelmező esetében az értesítési címmel egyenértékűnek minősül a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet szerinti ajánlott elektronikus kézbesítési szolgáltatás keretében a kérelmező részére biztosított tárhely. A rendelkezés biztosítja, hogy az uniós szabályoknak megfelelően ne legyen szükség magyarországi értesítési címre azon szereplők esetében, akik rendelkeznek a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet szerinti ajánlott elektronikus kézbesítési szolgáltatással.
+
+A törvény rögzíti, hogy az eljárás megindításáról az ingatlanügyi hatóság a kérelmezőket, valamint valamennyi, az ingatlanra bejegyzett joggal vagy ténnyel rendelkező személyt értesíti. Az értesítés, mely egyszersmind riasztásként is szolgál, növeli a rendszer biztonságát.
+
+A törvény megállapítja azokat az eseteket, amikor az ingatlan-nyilvántartási eljárást fel kell függeszteni. A törvény szakít a korábbi megoldással, amely szerint bizonyos esetekben a széljegyzett beadványok intézését függőben kellett tartani. A korábbi függőben tartási okok a törvény alapján felfüggesztési oknak minősülnek.
+
+Megszűnik a tulajdonjog-bejegyzési engedély benyújtásáig, de a kérelem benyújtásától számított legfeljebb hat hónapos határidőig történő függőben tartási lehetőség a tulajdonjog bejegyzési kérelem esetében. Amennyiben az eladó a vételár megfizetéséig a tulajdonjogát fenntartja, a felek kérhetik a tulajdonjog fenntartáshoz kapcsolódó vevői jog bejegyzését az ingatlan-nyilvántartásba. A jog bejegyzése esetén a tulajdonjog fenntartáshoz kapcsolódó vevői jog bejegyzése iránti kérelem benyújtásától számított hat hónapos határidő elteltéig a rangsorban következő beadványok intézését az ingatlanügyi hatóság felfüggeszti.
+
+Legfeljebb hat hónapra lehet felfüggeszteni az ingatlan-nyilvántartási eljárást akkor, ha a bejegyzés alapjául szolgáló okirat valódiságát, jogszerűségét az aláíró felek, illetve a hitelesítő vagy ellenjegyző személyek valamelyike vitatja vagy, ha a bejegyezni kért jog, tény jogosultjának személye tekintetében a felek között jogvita alakul ki, továbbá, ha a kérelem érdemi elbírálása a gyámhatóság hatáskörébe tartozó kérdés előzetes elbírálásától függ. Azokban az esetekben, amikor az eljárás felfüggesztésének alapja az, hogy valamely személy polgári pert kezdeményezett a bejegyzés alapjául szolgáló okirat érvénytelenségének megállapítására, az eljárás ingatlanügyi hatóság általi felfüggesztése a hat hónapos időtartamon belül addig az időpontig tart, amíg a bíróság a felfüggesztés meghosszabbításáról döntést nem hoz.
+
+A törvény megállapítja azon esetköröket, amikor a jog, tény bejegyzése iránti kérelmet hiánypótlási felhívás kiadása nélkül el kell utasítani, továbbá rögzíti, hogy mely esetekben van lehetősége a kérelmezőnek ranghelytartó módon megszüntetnie a kérelem azon hiányosságait új kérelem benyújtásával, amelyek miatt a kérelmet az ingatlanügyi hatóság elutasította.
+
+Az 52-53. §-hoz
+
+A törvény rögzíti, hogy az ingatlan-nyilvántartási eljárásban a végrehajtási rendeletben meghatározottak szerint van helye automatikus döntéshozatalnak, és szabályozza az automatikus döntéshozatali vagy a sommás eljárásban hozott döntések teljes eljárásban történő ismételt elbírálását.
+
+Az 54-55. §-hoz
+
+A törvény fenntartja az ingatlan-nyilvántartási kérelmek tárgyában hozott döntések elleni jogorvoslatok eddigi rendszerét. Újdonság, hogy a felügyeleti eljárással összefüggésben kimondja: amennyiben a felügyeleti eljárás megindításának időpontjáig az ingatlan tulajdoni lapján a felügyeleti eljárással érintett döntésen alapuló további bejegyzés történt, semmisségi ok hiányában a döntés megváltoztatásának vagy megsemmisítésének nincs helye, mert úgy kell tekinteni, hogy a döntés megváltoztatása vagy megsemmisítése jóhiszeműen szerzett és gyakorolt ügyféli jogokat sértene.
+
+Az 56. §-hoz
+
+A törvény a XI. Fejezetben elhelyezett eljárások speciális tárgyára tekintettel rögzíti, hogy az e Fejezetben meghatározott eljárások során a IX. Fejezet rendelkezéseit eltérésekkel kell alkalmazni.
+
+Az 57. §-hoz
+
+A bejegyzés kijavítása, kiegészítése (a továbbiakban: együtt: bejegyzés helyesbítése) egy speciális jogorvoslati eszköz. Nem azonos az Ákr.-ben szabályozott döntés kijavítási, döntés kiegészítési lehetőséggel, melytől - az Ákr.-ben meghatározott feltételek mellett - az érintettek továbbra sincsenek elzárva. A bejegyzés helyesbítésére jogok és tények esetében a döntés meghozatalától számított három éven belül van mód, azzal a megkötéssel, hogy azt a bejegyzéssel érintett felek csak közösen kérhetik, azaz, mindazoknak kérniük kell, akik az eredeti bejegyzést együtt kérték. További megkötés, hogy amennyiben az ingatlanra vonatkozóan harmadik személy időközben jogot szerzett, vagy a javára tényt jegyeztek be az ingatlanra vonatkozóan, a bejegyzés helyesbítése iránti kérelemhez szükséges az ő hozzájárulását is beszerezni. Amennyiben a bejegyzés helyesbítésére azért nincs mód, mert ahhoz a bejegyzéssel érintett személy nem járul hozzá, vagy azért mert a hároméves határidő eltelt, a bejegyzést sérelmesnek tartó személy a törvénytervezet 70. § (1) bekezdés b) és c) pontja szerinti törlési vagy kiigazítási pert indíthat.
+
+Az 58-60. §-hoz
+
+A bíróságok és a hatóságok az ingatlan-nyilvántartási eljárásban nem minősülnek ügyfélnek, az általuk benyújtott beadványok sem minősülnek kérelemnek. A bírósági elrendelés és hatósági felhívás alapján az ingatlanügyi hatóság hivatalból folytat eljárást a bejegyzés iránt. Ezen eljárások során kérelmet visszautasító vagy elutasító döntés nem hozható; amennyiben az ingatlanügyi hatóság megítélése szerint a beadvány bejegyzésre valamilyen okból nem alkalmas, speciális eljárásrendben folyik az eljárás. Bejegyzésre alkalmas beadvány benyújtása esetén főszabály szerint automatikus döntéshozatalnak van helye, ezért is rendelkezik úgy a törvény, hogy a bírósági elrendelés vagy hatósági felhívás nem tartalmazhat a bejegyzéshez további feltételt, a bejegyzés alapjául szolgáló bírósági, hatósági határozatnak önmagában bejegyzésre alkalmasnak kell lennie. Ennek megfelelően például a közös tulajdon megszüntetése esetén nem hozható olyan ítéleti rendelkezés, amelyben a megváltási összeg megfizetésének az ingatlanügyi hatóság felé történő igazolása a feltétele a tulajdonjog bejegyzésének. Amennyiben a felperes kéri a magához váltást, a kereseti kérelem szerinti ítélet meghozatala előtt a megváltási összeg előzetes megfizetésére (letétbe helyezésére) kötelezhető, míg a közös tulajdonnak másik fél általi megváltását kimondó bírósági ítélet esetén a megváltási összeg megfizetésére kötelezés mint pénzbeli marasztalás teljesítendő, illetőleg végrehajtandó, az nem lehet feltétele a tulajdonjog változás bejegyzésének.
+
+Az 58. §-ban szabályozott speciális perújítási eset több szempontból eltér a polgári perrendtartásról szóló 2016. évi CXXX. törvényben (a továbbiakban: Pp.) szabályozott perújítás általános formájától. Ez esetben a Pp.-ben szabályozott perújítási okok helyett a perújítás kezdeményezésének alapjául önmagában az ingatlanügyi hatóságnak a bírósági elrendelés végrehajthatatlanságát megállapító határozata szolgál. Erre tekintettel a kezdeményezés határideje számításának kezdő időpontja is szükségszerűen eltérő, de még jelentősebb különbség, hogy az Inytv.-ben meghatározott jogosultak által határidőben előterjesztett perújítási kérelem esetén a bíróság köteles érdemben lefolytatni a perújítási eljárást, a megengedhetőség vizsgálatának nincsen helye.
+
+Az 61. §-hoz
+
+A címadatok tekintetében a központi címregiszterből a forrása az ingatlan-nyilvántartásnak. A címadatok automatikus adatátvétel útján kerülnek be a nyilvántartásba.
+
+A 62. §-hoz
+
+Az E-ingatlan-nyilvántartási rendszer a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek adatai közül nem valamennyit tartja nyilván. Az ingatlan-nyilvántartás a természetes személyazonosító adatok megadása esetén a személyi azonosítót és a lakcímet, míg a név és a személyi azonosító megadása esetén a természetes személyazonosító adatokat és a lakcímadatot külön közigazgatási hatósági döntés meghozatala nélkül átveszi a személyiadat- és lakcímnyilvántartásból.
+
+A cégnyilvántartásban nyilvántartott jogi személyek adatai közül a székhelyadatot nem tartja nyilván az ingatlan-nyilvántartás. Az adatot a cégnyilvántartásból veszi át külön közigazgatási hatósági döntés meghozatala nélkül.
+
+A 63. §-hoz
+
+Az ingatlan-nyilvántartás átalakítása a gyakorlatban két esetben merül fel: vagy területszervezéshez, vagy pedig újfelméréshez kapcsolódóan.
+
+A 64. §-hoz
+
+A törvény a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény, valamint a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény rendelkezéseivel összhangban álló speciális követelményeket állapít meg a földnek minősülő ingatlanok tekintetében.
+
+A 65. §-hoz
+
+A törvény a korábbi szabályozással megegyező módon rendelkezik az európai öröklési bizonyítvány alapján történő bejegyzés iránti kérelemmel kapcsolatos eljárásról.
+
+A 66. §-hoz
+
+A törvény a korábbi szabályozással megegyező módon rendelkezik a tulajdoni lap pótlásáráról.
+
+A 67. §-hoz
+
+A törvény a rendelkezés tárgyára tekintettel ad felmentést a 35. § (1) bekezdésében meghatározott okirati követelmények egy része alól.
+
+A 68-69. §-hoz
+
+A törvényben meghatározott perek megindítása tényének bejegyzését a bíróság előzetesen végrehajtható végzéssel hivatalból rendeli el.
+
+A perbejegyzéshez kétféle joghatás fűződik. Egyrészt e tény bejegyzését követően az ingatlanra jogot szerző személyek már nem jóhiszeműek. Másrészt a perben hozott ítélet hatálya kiterjed mindenkire, aki a perbejegyzés után szerzett további jogot, akkor is, ha a további jogszerzőt nem vonták perbe. E rendelkezésekből következően a perindítás tényének bejegyzését követően is be lehet jegyezni az ingatlan-nyilvántartásba jogokat és tényeket, de csak a folyamatban lévő per eredményétől függő hatállyal.
+
+Újdonság a szabályozásban, hogy polgári perben a felperes kérelmére, a jogainak megóvása érdekében, ha a polgári perrendtartásról szóló törvény szerinti ideiglenes intézkedés elrendelésének valamely feltétele fennáll, a bíróság - a perbejegyzés elrendelésével egyidejűleg - előzetesen végrehajtható végzéssel elrendeli, hogy a perbejegyzés teljesítését követően érkezett beadványok intézésére irányuló eljárását az ingatlanügyi hatóság a perbejegyzés alapjául szolgáló per jogerős befejezéséig függessze fel. A bíróság a kérelemmel összefüggésben az ideiglenes intézkedésre vonatkozó szabályok szerint jár el. Büntetőeljárásban a perbejegyzést követően érkezett beadványok intézésére irányuló ingatlan-nyilvántartási eljárások felfüggesztését az eljárás jogerős befejeződéséig az ügyész, a magánvádló, a pótmagánvádló vagy a sértett jogosult kezdeményezni. Ha az ingatlanügyi hatóság az eljárását legfeljebb hat hónapra felfüggesztette, mert a bejegyzés alapjául szolgáló okirat valódiságát, jogszerűségét az aláíró felek, illetve a hitelesítő vagy ellenjegyző személyek valamelyike vitatta, vagy a bejegyezni kért jog, tény jogosultjának személye tekintetében a felek között jogvita alakult ki, a bíróság végzésében az ingatlan-nyilvántartási eljárás felfüggesztésének időtartamát a per jogerős befejezéséig meghosszabbíthatja.
+
+A 70. §-hoz
+
+Az (1) bekezdés b) és c) pontja szerinti per megindításának akkor van helye, ha egyéb jogorvoslati lehetőségek - ide értve az 57. § szerinti bejegyzés helyesbítést is - valamilyen okból nem állnak rendelkezésre. Az (1) bekezdés b) és c) pontja esetében a pert nem az ingatlanügyi hatósággal szemben, hanem a bejegyzett jogosulttal szemben kell megindítani.
+
+A 71. §-hoz
+
+A megismételt hagyatéki eljárás megindításakor az ingatlan-nyilvántartásba a korábban meghozott végzés alapján az örököst mint tulajdonost már bevezették; az ingatlan forgalomképes és harmadik személy jóhiszeműen szerezhet rajta tulajdon- vagy egyéb jogot. A korábbi eljárás lezárultát követő egy éven belül megindított [Hetv. 105. § (2) bekezdés], ugyanazon közjegyző által lefolytatott megismételt hagyatéki eljárás azonban megváltoztathatja az öröklés rendjét, így az ismételten függővé vált jogi helyzetet indokolt a közhiteles nyilvántartásban, tájékoztató céllal közzétenni. A törvény a korábbi szabályozással azonos módon fenntartja a megismételt hagyatéki eljárás megindítása tényének az ingatlan-nyilvántartásba való bejegyzésének lehetőségét a perbejegyzésre irányadó szabályok megfelelő alkalmazásával.
+
+A 72. §-hoz
+
+A törvény a korábbi szabályozással megegyező módon rendelkezik az ügyészi felhívással és ügyészi fellépéssel kapcsolatos szabályokról.
+
+A 73-74. §-hoz
+
+A folyamatos fejlesztés az adatszolgáltatást rendező szabályozási környezetet indokolatlanul széttagolta, így annak koherenciája megbomlott. A jelenlegi ingatlan-nyilvántartási rendszer átfogó felülvizsgálata nyomán a következő szabályozási hiányok kerültek megállapításra: egymást részben fedő adatszolgáltatási formák vannak szabályozva; normatív szabályozást nem igénylő adatszolgáltatások vannak törvényi szinten definiálva, melyeket az ingatlanügyi hatóságok saját feladatkörükön belül használnak; az egyes hozzáférési jogosultságok nem koherensek, nem illeszthető hozzájuk, hogy milyen adatszolgáltatási formákban jogosultak megismerni az adatot az alanyok; a jogi szabályozási környezet nyelvezete, az abban található definíciók elavultak; illetve nem alanyi vagy tárgyi oldalú, hanem az adatszolgáltatás módjára vonatkozóan tartalmaz elavult rendelkezéseket; a rendelkezések nem követték le az elmúlt évek adatvédelmi szabályozását, így nem a hatályos adatvédelmi irányelvek és szabályok alapján kerültek meghatározásra.
+
+Az ingatlan-nyilvántartásból történő adatszolgáltatás új alapokra helyezésénél a következő sarokpontok kerültek meghatározásra:
+
+Kiemelten kell törekedni arra, hogy az ingatlan-nyilvántartásban szereplő személyes adatok a hatályos adatvédelmi szabályozásnak és az ingatlan-nyilvántartási nyilvánossága mint alapelvnek is megfeleljen. Ez utóbbi vonatkozásában kiemelendő, hogy az ingatlan-nyilvántartás nyilvánosságára vonatkozó Ptk. szabályozás az ingatlan-nyilvántartás felülvizsgálata során nem indokolt. Mindazonáltal az adatvédelmi szabályozás által megkövetelt alanyi körök (adatkezelő, közös adatkezelő, adatfeldolgozó), tárgykörök, illetve az ingatlan-nyilvántartás vezetése, az abból történő adatszolgáltatások és a szükséges törvényi kivételek is egyértelműen definiálhatóak és jogszabályba ültethetőek.
+
+A jelenlegi ingatlan-nyilvántartás adatszolgáltatási formái alapvetően a piaci igényeket kielégítik és informatívak, így az ingatlan-nyilvántartás céljainak megfelelnek. Erre tekintettel az új koncepció célja nem ezen termékek újrastrukturálása vagy új adatszolgáltatási formák bevezetése, hanem a meglevő formáinak struktúrált szabályozási rendszerbe illesztése. Ezen túlmenően szükségesnek látszik az egyes adatszolgáltatási formák meghatározása, mely alapján biztosítható a minél szélesebb körben történő automatikus adatszolgáltatás lehetővé tétele, egyúttal a később, a gazdasági élet, illetve az informatikai fejlődés következében jelentkező igények kialakítandó adatszolgáltatási rendszerbe illesztése. Az ingatlan-nyilvántartásba vetett közbizalom miatt továbbra is fennálló prioritás kell legyen annak az elkerülése, hogy adatbázis-építésre, illetve az adatok továbbszolgáltatására kerülhessen sor.
+
+Személyes adatok kezelésének tekintetében különösen érzékeny terület az az adatszolgáltatás, amely során lekérdezési feltételként egyetlen természetes személy természetes azonosító adatai vagy személyi azonosítója alapján kerülnek meghatározásra, ennél fogva az adott személy valamennyi ingatlana vagy bejegyzett joga megismerésre kerülhet. Erre tekintettel - a korábbi szabályozáshoz hasonlóan - a törvény csak rendkívül szűk körben teszi lehetővé az ilyen típusú lekérdezést.
+
+Az új adatszolgáltatási szabályozás két fő kérdésre válaszolva határozza meg a keretrendszert: milyen adatszolgáltatási formák léteznek, és az ingatlan-nyilvántartási adatszolgáltatáshoz hozzáférő szereplők mely adatszolgáltatási formákhoz, milyen adattartalommal férnek hozzá.
+
+A 75-76. §-hoz
+
+A tulajdonilap-másolat az ingatlan-nyilvántartásban vezetett adatok általános megismerési formája, mely az ingatlanforgalom biztonságát segíti, széles körben elfogadott adattartalommal és hitelességgel bír, így a jelenlegi szabályozáshoz hasonlóan rögzít a törvény. Kivezetésre kerül ugyanakkor a nem hiteles tulajdonilap-másolat arra tekintettel, hogy sem a formája, sem a hitelessége nem felel meg a hatályos elektronikus okiratokra vonatkozó szabályozásnak. Új elem az ügyleti tulajdonilap-másolat, mely kibővített adattartalommal bír, és az ingatlan-nyilvántartási kérelem benyújtójának szolgáltat adatokat.
+
+A 77. §-hoz
+
+A korábbi szabályozáshoz hasonlóan a törvény rögzíti, hogy tulajdonilap-másolatot csak ingatlanügyi hatóság szolgáltathat, tekintettel arra, hogy az ingatlan-nyilvántartási adatbázis változása folyamatos a folytatott eljárások miatti módosítások miatt, így közhiteles és aktuális adatokat is a változásokat vezető ingatlanügyi hatóság tud szolgáltatni. A tulajdonilap-másolat szolgáltatás ugyanakkor kiegészülhet két dokumentummal: az egyik a földhasználati lap, amennyiben az érintett ingatlanra van bejelentett földhasználó, a másik pedig az OÉNY-ben megtalálható adatokból összeállított műszaki adatlap, mely a földrészleten található építményekről ad tájékoztatást. Fontos kiemelni, hogy ezek nem a tulajdoni lap részei, pusztán a tulajdonilap-másolattal együtt szolgáltatott dokumentumok.
+
+A 78. §-hoz
+
+A tulajdonilap-másolatba történő betekintés az új törvényi szabályozással megmarad, ugyanakkor a korábbi szabályozáshoz képest szűkebb körben lesz rá lehetőség. A jogalkotói szándék ez esetben ugyanis arra terjed ki, hogy az állampolgárok díjmentesen felügyelhessék a tulajdonukban vagy érdekszférájukban álló ingatlanok viszonyainak alakulását, abban az esetben is, ha ez az elektronikus csatornákon a részükre nem elérhető. Nem támogatott ugyanakkor, hogy ez az adatszolgáltatási forma azok számára is elérhető legyen, akik üzletszerűen foglalkoznak ingatlanhoz kapcsolódó tevékenységgel.
+
+A 79-80. §-hoz
+
+A földkönyvi adatszolgáltatás lényege, hogy a tulajdonilap-másolaton szereplő adatokat nem formalizált változatban és általában nem egy ingatlanra vonatkozóan szolgáltat az ingatlanügyi hatóság, hanem a földkönyvet igénylő által meghatározott feltételek alapján, az ingatlan-nyilvántartásból leválogatva, és az igénylő által meghatározott módon történik az adatszolgáltatás. A korábbi szabályozás nem volt koherens ezen adatszolgáltatási formákban, így részben az egyes szolgáltatási formák szabályozását tekintve átfedve kaphatott az ügyfél ingatlan-nyilvántartási adatokat földkönyvi kivonat, tulajdonosi adatokkal kiegészített földkönyvi kivonat, részadat-szolgáltatás, valamint egyes külön, jogszabályban meghatározott alanyoknak és módon történő egyéb adatszolgáltatás formájában, mely jogbizonytalanságot eredményezett.
+
+Ezt váltja fel az egységes földkönyvi adatszolgáltatási szabályozás, mely egységes definíció alapján, valamennyi korábbi adatszolgáltatási formának megfelel. A szabályozás szándékosan szakít a jelenlegi rendszerrel, mely kiemeltként kezeli az adatszolgáltatás célját és módját. Az egyes célok konkrét meghatározása egyfelől azért válik okafogyottá, mert az földkönyvi adatszolgáltatás adatvédelmi szabályozása egyértelmű rendelkezéseket tartalmaz arra, hogy az igénylő az egyes földkönyvi típusokból mit igényelhet, így adatvédelmi okokból a jelenlegi, jogszabályban meghatározott célhoz kötöttség nem indokolt. Másfelől, az ingatlanforgalomhoz köthető piaci igényeknek a jelenlegi szabályozás túlzottan szűk keresztmetszetet szab.
+
+A földkönyvi adatszolgáltatás módja törvényi szinten szándékosan nincs szabályozva. A XXI. század technikai fejlődése, a digitalizáció iránti igény már most is mutatja, hogy bármilyen formát, módot, digitális vagy hagyományos csatornát megjelölni hamar elavulttá válna a szabályozás, és túlzottan szűk keresztmetszetűvé az adatszolgáltatási forma. Ugyanakkor az adatszolgáltatás során nyújtott adatok elektronikus feldolgozhatóságának jogos igénye kockázatossá tenné azt, ha a tulajdonilap-másolat szolgáltatáshoz hasonló hitelességgel és tanúsító erővel ruházná fel a földkönyvet, ezért a törvény ezt kizárja.
+
+A 81. §-hoz
+
+A földkönyvi adatszolgáltatás egyik alapvető típusa a tulajdonilap-másolat I. részén található adatokból előállított földkönyv. Erre tekintettel adatvédelmi aggály ennél a szolgáltatási formánál nem merül fel, ennél fogva a legtágabb, ezáltal az ügyféligényeket legjobban kiszolgáló szabályozás szükséges.
+
+A 82. §-hoz
+
+A jogosulti földkönyv nemcsak ingatlanadatokat, hanem akár természetes személyhez köthető egyéb adatokat is tartalmazhat, így fontos, hogy csak megfelelő mandátummal rendelkező fél igényelhesse meg. Ez lehet törvényi vagy kormányrendeleti felhatalmazás, de akár a jogosult hozzájárulása is. Még emellett is biztosítani szükséges, hogy a tulajdonilap-másolat szolgáltatás adattartalmával koherens legyen a szabályozás. Alapelvként került lefektetésre, hogy az ingatlan-nyilvántartás nyilvánossága az adott ingatlan tulajdoni és egyéb jogviszonyairól adjon tájékoztatást, az ingatlannal kapcsolatos jogok és kötelezettségek címzettjei, a jogosultak elérhetőek legyenek mindenki számára. Ez az elérhetőség ugyanakkor nem kívánja mag azt, hogy a bejegyzett jogosultak valamennyi természetes személyazonosító adata közlésre kerüljön, elegendő a neve és a lakcíme, székhelye. Ez alól csak az (5) bekezdés jelent kivételt, mely törvényben kiemelt alanyi körnek biztosítja a többi természetes személyazonosító adattal történő jogosulti földkönyv-szolgáltatást.
+
+A 83. §-hoz
+
+Tulajdonosi földkönyv a legtöbb és legkiterjedtebb információt adja a tulajdonosok vagyoni viszonyairól, ami több okból szigorú szabályozást igényel. Erre tekintettel, a törvény a természetes személyazonosító adatokkal történő lekérdezés rendelkezéseivel koherensen rögzíti, hogy ilyen feltételekkel összeállított földkönyvhöz ki és milyen módon férhet hozzá. Itt kerül rögzítésre az a korábbi szabályozásban is jelen levő lehetőség, hogy hatósági bizonyítványhoz jusson hozzá az az ügyfél, akinek nincs tulajdona Magyarországon.
+
+A 84. §-hoz
+
+A statisztikai célú földkönyv nem ingatlan-nyilvántartási adatokat, hanem az adatokból előállított statisztikai gyűjteményt tartalmazhat darabszámos vagy helyrajzi számos formában. Erre tekintettel adatvédelmi aggály ennél a szolgáltatási formánál nem merül fel, ennél fogva a legtágabb, ezáltal az ügyféligényeket legjobban kiszolgáló szabályozás szükséges.
+
+A 85. §-hoz
+
+A törvény az egyes természetes személyek valamennyi ingatlanának, jogának feltérképezésére vonatkozóan szigorú szabályozást tartalmaz annak érdekében, hogy a személyes adatok védelme más jogszabályokban lefektetett alapelvének megfelelhessen az ingatlan-nyilvántartási adatok megismerése. Ezen szabályozási alapelveket következetesen alkalmazni kell valamennyi adatszolgáltatási formában, így a földkönyv esetében is szükséges rögzíteni, hogy egy földkönyv típus sem irányulhat arra, hogy az a természetes személy tulajdon- és vagyoni viszonyainak jogosulatlan feltárására vezessen.
+
+A 86. §-hoz
+
+A szabályozással rögzítésre kerülnek azon csatornák és adminisztratív kritériumok, melyeken keresztül az elektronikus adatszolgáltatás megvalósulhat.
+
+A 87. §-hoz
+
+Az ingatlan-nyilvántartás megtekintése céljából a térképmásolatot az azt kezelő számítástechnikai eszköz képernyőjén olvasható formában kell megjeleníteni. A törvény lehetővé teszi, hogy az ügyfelek az ingatlan-nyilvántartás tartalmát a földhivatalnál erre a célra rendszeresített számítástechnikai eszközzel maguk is megismerhessék.
+
+A 88-90. §-hoz
+
+Az ingatlan-nyilvántartási eljárás és az adatszolgáltatás igazgatási szolgáltatási díja alóli mentességekkel összefüggő rendelkezéseknek az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvényből történő áthelyezését az indokolta, hogy a jövőben az igazgatási szolgáltatási díj mértékéről és megfizetésének módjáról a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 29. § (2) bekezdése alapján miniszteri rendelet fog rendelkezni, azonban az igazgatási szolgáltatási díj alóli mentességek körét törvényben kell megállapítani. A mentességek körén a törvény érdemben nem változtat, a már meglévő mentességek a törvény hatálybalépését követően is megmaradnak.
+
+A 91. §-hoz
+
+A törvény felhatalmazó rendelkezéseit tartalmazza.
+
+-----STARTING---POINT---VEGE---
+
+A 92. §-hoz
+
+Megállapítja a törvény hatálybalépését.
+
+A 93. §-hoz
+
+A törvény úgy rendelkezik, hogy az átmeneti szabályokat külön törvény rendezi.
+
+A 94. §-hoz
+
+Megállapítja a törvény más jogszabályokban használandó rövid megjelölését.
+
+A 95. §-hoz
+
+Jogharmonizációs záradék.
+
+A 96. §-hoz
+
+Az új ingatlan-nyilvántartásról szóló törvénnyel összefüggésben szükséges módosítás, mely alapján meghatározásra kerülnek az ingatlan-nyilvántartás részére átadásra kerülő adatok. Az ingatlan-nyilvántartás a jövőben nem tartja nyilván a személyiadat- és lakcímnyilvántartásban szereplő polgárok lakcímét, hanem azt minden esetben a tulajdoni lapon történő feltüntetés céljából átveszi a nyilvántartásból, melynek szükséges megteremteni a jogi alapját. Annak érdekében, hogy az ingatlan-nyilvántartás és a földhasználati nyilvántartás részére a polgárok adatváltozásai folyamatosan átadásra kerüljenek, szükséges, hogy először megtörténjen a teljes adatállomány átadása.
+
+A 97. §-hoz
+
+Az ingatlan-nyilvántartás és földhasználati nyilvántartás szervének személyi azonosító kezelésére vonatkozó szabályainak pontosítása szükséges az új ingatlan-nyilvántartási szabályozásra tekintettel. Az ingatlanügyi hatóság jogosulttá válik az ingatlan-nyilvántartásban szereplő polgárok adatváltozásainak megismerésére.
+
+A 98-99. §-hoz
+
+A védett kulturális javak körébe tartozó tartozékokat és alkotórészeket, azok csekély számára és természetére tekintettel indokolt beilleszteni az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvénybe, a tárgyuknál fogva díjmentes kulturális örökségvédelmi jogi jellegek közé. A kulturális javak hatóságának felhatalmazása szükséges, hogy a védett kulturális javak körébe tartozó tartozékok és alkotórészek esetében a védettség tényének feljegyzése iránt az illetékes ingatlanügyi hatóságot megkeresse.
+
+A 100. §-hoz
+
+A módosítás hatálybalépését megelőzően a térképmásolatok kiadása a TAKARNET rendszeren keresztül, illetve a kormányhivatalok szakrendszeréből történik. Az előző rendszereket is kiváltja az E-ING, mely az Fttv.-ben meghatározott szervezeteknek a nemzeti gerinchálózaton keresztül, természetes személyek esetén a Központi Azonosítási Ügynök Szolgáltatáson keresztül igénybe vehető elektronikus azonosítási szolgáltatás útján azonosított ügyfelek részére szolgáltatja az elektronikus térképmásolatot.
+
+A 101. §-hoz
+
+Az Fttv. 2017. június 23. óta rendelkezik az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatára és záradékolására irányuló eljárás soron kívüli lefolytatásának lehetőségéről. A gyakorlati alkalmazás során felmerült kérdésként, hogy a soron kívüli ügyintézés esetén mennyi a rendelkezésre álló ügyintézési határidő, amit az Ákr. nem határoz meg. Az egységes jogalkalmazás érdekében szükséges meghatározni a soron kívüli ügyintézés határidejét, mely reálisan a rendelkezésre álló ügyintézési idő fele. Az ügyintézési határidők rögzítve lesznek az E-ING rendszerben, ezért a rendszer működésének megbízhatóságát, az ügyintézés kiszámíthatóságát is támogatja, ha a soron kívüli ügyintézés határidejét pontosan meg lehet adni.
+
+A 102. §-hoz
+
+Az Fttv. jelenleg 26 feladatellátáshoz határoz meg díjmentességet. Ez a szám folyamatosan növekszik, mert a technológiai fejlődés következtében egyre több esetben van szükség térképi adatok használatára, térinformatikai rendszerek kialakítására.
+
+A 103. §-hoz
+
+A „polgári” és a katonai térképészet szabályozása élesen elkülönül egymástól. Az Fttv. 38. § (2) és (4) bekezdései külön-külön adnak felhatalmazást a térképészetért és a honvédelemért felelős miniszter számára a felelősségi körébe tartotó térképészettel kapcsolatos rendeletek megalkotására. Az adatszolgáltatási díjakról történő rendelkezés ez alól kivétel, pedig egyértelműen elkülöníthetők a két szakterülethez tartozó térképek, és az adatszolgáltatások is elkülönülnek térben, eljárási módozatban. A jelenlegi díjrendeletet, három miniszter egyetértésével kell kiadni, illetve a meglévő rendeletet módosítani. Ez körülményessé, hosszadalmassá teszi az általában egy szakterületet érintő módosítást. Amennyiben külön rendelet rendelkezik a honvédelmi és a „polgári” térképészeti adatszolgáltatásról, abban az esetben a két térképészet adatszolgáltatás oldaláról is egyértelműen szétválasztható, és az esetleges jogszabály módosítások egyszerűbben véghezvihetők lesznek.
+
+A 104. §-hoz
+
+Az E-ING bevezetéséhez az adatbázisok átalakítása létfontosságú. A létrehozott adatbázis-szerkezet alkalmas lesz felmenő rendszerben az alaprajzok, az ingatlanokhoz fűződő jogok és a földhasználati jog térképi adatbázisban történő tárolására is.
+
+A 105. §-hoz
+
+Az E-ING bevezetése az egységes ingatlan-nyilvántartási szabályozás érdekében szükségessé tette, hogy a Ptk. csak az ingatlan-nyilvántartásra vonatkozó legalapvetőbb polgári jogi tartalmú szabályokat foglalja magában. Csak és kizárólag azokat a szabályokat, amelyek az ingatlan-nyilvántartási bejegyzésnek (ide értve a bejegyzés törlését és kiigazítását is) polgári jogi joghatását kifejtő szerepével állnak szoros kapcsolatban. Ennek megfelelően a Ptk. Ötödik Könyvének negyedik részében csak a polgári jogi jogalkalmazás számára legszükségesebb ingatlan-nyilvántartási szabályok kerültek elhelyezésre, a Ptk. rendelkezéseinek nagyobbik (főként eljárási jellegű) része így az ingatlan-nyilvántartásról szóló törvényben jelenik meg a kialakítandó új szabályozással összhangban, annak hatósági értelmezését és alkalmazását segítve. A módosítás eredményeként a Ptk.-ban maradó rendelkezések tekintetében lényeges változások nem történtek, e szabályoknak csupán pontosabb, értelmezést segítő módon való megfogalmazására került sor, a közhitelesség és ennek joghatásai hatékonyabb érvényesülése érdekében. Ilyennek minősül mindenekelőtt az, hogy a szabályozás három csoportba sorolja az ingatlan-nyilvántartásba bejegyezhető jogokat és tényeket. Az első csoportba tartozóan mindenekelőtt azokat a dologi jogokat említi (ezek felsorolása nélkül), amelyeknek a joghatása (így alapítása, módosítása, megszűnése) - eltérő törvényi rendelkezés hiányában - konstitutív hatályú, vagyis az ingatlan-nyilvántartásba történő bejegyzéssel jönnek létre. Ezekről maga a Ptk. rendelkezik az Ötödik (Dologi jog) könyvben. A második csoportba azok a nem dologi jogi természetű jogok és tények tartoznak, amelyek joghatása bejegyzés nélkül is bekövetkezik, de harmadik személlyel szemben csak akkor válnak hatályossá, ha az ingatlan-nyilvántartásba is bejegyzésre kerülnek. Végül a harmadik csoportba azok a jogok és tények tartoznak, amelyek a jogszabály erejénél fogva létrejönnek, és a joghatásuk a jogszabály rendelkezése alapján (ex lege) bekövetkezik, anélkül, hogy az az ingatlan-nyilvántartásba történő bejegyzést igényelne. E csoport alkotó elemeinek határait a módosítás a lehető legszűkebb terjedelemben kívánta meghúzni, csak és kizárólag abban a körben, amelyben a közbizalom érvényesülése érdekében e jogok és tények fennállása vagy fenn nem állása még a körültekintő jogalkalmazó számára is megállapítható. E jogok és tények ezért csak abban az esetben tekinthetők harmadik személyekkel szemben bejegyzés nélkül is hatályosnak, ha az ingatlannak a jogot vagy tényt keletkeztető (megszüntető) jogszabály hatálya alá tartozása az ingatlan-nyilvántartásban szereplő más jog, tény vagy - meghatározott kivétellel - adat alapján az érintett ingatlan tekintetében kétségtelenül megállapítható.
+
+A 106. §-hoz
+
+Az E-ING bevezetésével kapcsolatos módosítások. Hitelesítés nélküli adat a későbbiekben nem lesz kiadható.
+
+Az adatok fizikailag nem lesznek átadva, hanem az E-ING rendszerből tölthetők le vagy tekinthetők meg, ezért az adatok visszaadása nem értelmezhető.

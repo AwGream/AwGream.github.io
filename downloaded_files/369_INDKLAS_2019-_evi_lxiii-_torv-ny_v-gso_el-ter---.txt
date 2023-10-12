@@ -1,0 +1,401 @@
+2019. évi LXIII. törvény végső előterjesztői indokolása
+
+a médiaszolgáltatással kapcsolatos egyes törvények módosításáról
+
+-----STARTING---POINT---ALTALANOS--- 
+
+A médiaszolgáltatással kapcsolatos törvényi szabályok módosítására jogharmonizációs kötelezettség és a módosítások koncepcionális jelentőségű változást nem eredményeznek, a jelenlegi szabályozási keretek megtartása mellett a jogalkalmazói gyakorlat során felmerült kisebb változtatásokat hajtják végre.
+
+Az Európai Parlament és a Tanács 2018. november 14-i (EU) 2018/1808 irányelve módosította a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010. március 10-i 2010/13/EU irányelvet (a továbbiakban: AVMS irányelv). Az audiovizuális európai ágazat versenyképességének javítása érdekében az Európai Bizottság által kidolgozott irányelv-módosítás naprakésszé tette a televíziózásra vonatkozó uniós szabályokat, annak érdekében, hogy az audiovizuális szolgáltatások ágazata sikerrel kezelje azt a mélyreható átalakulást, amely a műszaki fejlődés, a piacon zajló folyamatok, és a konvergencia miatti nézői szokásváltozások következtében kialakult. Az új uniós szabályozás további célja, hogy javítsa a jogbiztonságot és megerősítse a származási, letelepedési ország elvét, így Európa audiovizuális szakpolitikái jobban alkalmazkodjanak a gyorsan változó és dinamikus iparhoz, és eközben magas szintű fogyasztóvédelmi szabályokat tartsanak fenn. Csökkennek a bürokratikus terhek, a finanszírozás új csatornái nyílnak meg a televíziós műsorgyártók és műsorszolgáltatók előtt a hirdetések új típusain, így például a kitakaró reklámozáson vagy termékelhelyezésen keresztül, amelyekre meghatározott műsorok kivételével minden programban módot nyújt az új szabályozás. Az irányelv-módosítás által nagyobb hangsúlyt kap a kulturális sokszínűség és a kiskorúak védelme is.
+
+Az irányelv-módosítás érinti az uniós szabályozás tárgyi hatályát. A videómegosztó-platformok uniós audiovizuális médiaszabályozás alá történő bevonásával olyan szolgáltatás került a szabályozás hatálya alá, amely ugyan hasonló a lekérhető médiaszolgáltatásokhoz, de a szolgáltatás legfontosabb eleme, hogy hozzáférést biztosít a felhasználók által készített videókhoz azzal, hogy a platformszolgáltató semmilyen szerkesztői felelősséggel nem rendelkezik a feltöltött videók tekintetében. E szolgáltatás a média piacának óriási és egyre erősödő ütemű változása, fejlődése alapján jutott odáig, hogy a szabályozás fontos tartalmi elemévé vált.
+
+Az AVMS irányelv módosítása a médiaszabályozás és -felügyelet igazgatási rendszerében is jelentős változást hoz. A nemzeti szabályozó hatóságokkal szembeni normatív követelmények beiktatása mellett a módosítás bevonja a tagállami szabályozó hatóságokat az uniós szintű igazgatási munkába az Audiovizuális Médiaszolgáltatásokat Szabályozó Hatóságok Európai Csoportján (ERGA) keresztül.
+
+A törvénymódosítás jelentős részének célja a módosított AVMS irányelvnek megfelelő jogszabályi előírások magyar médiaigazgatási szabályozásba illesztése. E célkitűzés keretében módosításra kerülnek a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) joghatóságra vonatkozó rendelkezései, ezzel összefüggésben módosulnak és kiegészülnek a nyilvántartásra vonatkozó szabályok és megállapításra kerülnek a tagállami határokon átívelő médiaszolgáltatásokkal összefüggő egyeztetési eljárás lépései is.
+
+A kereskedelmi közleményekre vonatkozó szabályok tekintetében fő szabályként lehetségessé válik a termékmegjelenítés azzal, hogy a szabályozás pontosan meghatározza azt, hogy mely termékek és műsorszámok képezik e főszabály alóli kivételeket.
+
+A módosított irányelv vonatkozó rendelkezései alapján az audiovizuális médiaszolgáltatások integritásának védelme érdekében, a műsorterjesztő - többek között - azt is köteles biztosítani, hogy az átviteli rendszerén terjesztett audiovizuális médiaszolgáltatásokat a médiaszolgáltató kifejezett hozzájárulása nélkül ne lehessen kereskedelmi céllal kitakaró reklámmal módosítani.
+
+A videómegosztóplatform-szolgáltatással összefüggő irányelvi rendelkezések az EU-s és a hazai jogági rendszertan szerint alapvetően nem az Mttv.-ben, hanem - az információs társadalmi szolgáltatás jellegére tekintettel - az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben kerülnek majd szabályozásra. Az Mttv.-ben e szabályozási tárgykörrel összefüggésben kizárólag a videómegosztóplatform-szolgáltatás és a videómegosztóplatform-szolgáltató fogalmak meghatározása szerepel, továbbá a videómegosztókkal kapcsolatos eljárások tekintetében e hatáskörnek a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) Hivatalához telepítése (tekintettel a hatáskörök sarkalatos jellegére).
+
+A módosított AVMS irányelv a videómegosztóplatform-szolgáltatásokat önálló szolgáltatási kategóriaként definiálja, egyértelműen és világosan elhatárolva a médiaszolgáltatásoktól és az egyéb tartalomszolgáltatásoktól az alábbi ismérvek mentén:
+
+- a szolgáltatás jelentős mennyiségű olyan műsorszám vagy a felhasználó által előállított videó tárolását jelenti, amelyért a videómegosztóplatform szolgáltatója nem tartozik szerkesztői felelősséggel,
+
+- a tárolt tartalom rendszerezését a szolgáltatás nyújtója végzi, például automatikus úton vagy algoritmussal, különösen megjelenítés, megjelölés és sorba rendezés révén, továbbá
+
+- a szolgáltatásnak, illetve a szolgáltatás valamely elkülöníthető részének elsődleges célja az, hogy a videóplatform szolgáltató tárhelyén tárolt műsorszámokat, illetve a felhasználók által előállított videókat eljuttassa a nyilvánossághoz tájékoztatás, szórakoztatás vagy oktatás céljából elektronikus hírközlő hálózaton keresztül.
+
+Az AVMS irányelv értelmében, továbbá a fenti ismérvek alapján megállapítható, hogy a videómegosztóplatformszolgáltató médiatartalmat megosztó, azt továbbító közvetítő szolgáltatónak, azon belül is tárhelyszolgáltatónak minősül, mivel kizárólag a szerverére feltöltött műsorszámok, videók tárolását és továbbítását végzi.
+
+Az uniós szabályozás alapján a videómegosztóplatform-szolgáltatók a hagyományos médiaszolgáltatóktól eltérően tehát nem tartoznak szerkesztői felelősséggel az elérhetővé tett tartalom vonatkozásában. Míg a médiaszolgáltató a műsorszámok kiválasztása és összeállítása felett tényleges ellenőrzést gyakorol, addig a videómegosztóplatformszolgáltatónak a tartalom szervezésén, rendszerezésén túl a tényleges tartalomra nincs befolyása. Az uniós szabályozás a videómegosztóplatform-szolgáltatók tekintetében műsortartalmi, műsorszerkezeti követelményeket nem állapít meg, a videómegosztóplatform-szolgáltatók által teljesítendő kötelezettségek kizárólag a tartalom rendszerezésére, nem pedig magára a tartalomra irányulnak.
+
+Mindezekre tekintettel a videómegosztóplatform-szolgáltatókra vonatkozó szabályokat el kell különíteni a médiaszolgáltatókra, felhasználókra és a szolgáltatásban megjelenő médiatartalmakra vonatkozó szabályozástól.
+
+A videómegosztóplatform-szolgáltatókra, mint információs társadalommal összefüggő szolgáltatást nyújtó közvetítő szolgáltatókra az irányelvben megállapított rendelkezéseket a közvetítő szolgáltatókra vonatkozó szabályozással megegyezően, az elektronikus kereskedelmi szolgáltatásokról, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben szükséges elhelyezni. Ezáltal az azonos típusú szolgáltatókra és szolgáltatásokra vonatkozó rendelkezések egy jogszabályban kerülnek elhelyezésre, amely által elkerülhető a párhuzamos szabályozás kialakítása, és fennmarad a jogrendszer koherenciája.
+
+Az irányelvi szabályozás médiaigazgatási kérdései tekintetében az Mttv. már tartalmazza a médiatartalomra (műsorszámra) és a médiaszolgáltatókra vonatkozó általános szabályokat, ezért a videómegosztóplatformszolgáltatásokkal összefüggésben mindössze a jelenlegi fogalmak pontosítása szükséges annak érdekében, hogy az általános szabályok kiterjedjenek a videómegosztóplatform-szolgáltatás keretében elérhetővé tett műsorszámokra és a felhasználó által létrehozott videókra is. Ennek érdekében az AVMS irányelv videómegosztókra vonatkozó rendelkezései közül az új fogalommeghatározások, vagyis a videómegosztóplatform-szolgáltató, videómegosztóplatform-szolgáltatás és felhasználó által létrehozott videó elhelyezése indokolt az Mttv.-ben, valamint a videómegosztókkal kapcsolatos eljárások lefolytatása érdekében a hatáskörnek az NMHH Hivatalához telepítése szükséges.
+
+A törvényjavaslat kiterjed a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv) jogharmonizációs javaslatainak átvezetésére, valamint az Mttv. hatósági eljárási rendelkezései jogrendszerbeli koherenciájának megteremtésére is.
+
+Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 2018. január 1-jén lépett hatályba, és megújította a közigazgatási hatósági eljárások szabályainak fogalomrendszerét és logikáját. Az ágazati eljárásjogi szabályok az Mttv.-ben sarkalatos rendelkezéseket érintenek, így az Ákr. hatálybalépését követő alkalmazására az Ákr. 143. § (3) bekezdésének alkalmazásával nyílt lehetőség, azonban a tételes módosítás továbbra is szükséges, és erre sor kerül a törvényjavaslattal.
+
+A fentiekkel összhangban a javaslat tartalmazza a közigazgatási perrendtartásról szóló 2017. évi I. törvény hatályba lépése kapcsán szükséges módosításokat is.
+
+Az indokolás a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 20. § (1) bekezdése alapján az Indokolások Tárában közzétételre kerül.
+
+-----STARTING---POINT---RESZLETES---
+
+Az 1. §-hoz
+
+A hatályos szabályozás olyan módosítása indokolt, amely szerint az előadóművészek jogkezelő szervezete a sugárzás vagy a nyilvánossághoz történő átvitel céljára rögzített előadásért befolyó jogdíjak terhére csak egyszeri alkalommal számolhat fel kezelési költséget, minden ismétlés utáni jogdíjat teljes egészében az előadóművészeknek és jogtulajdonosoknak kell folyósítani. Így a költségek csökkenthetők és az előadóművészek érdeke is érvényesül.
+
+A 2. §-hoz
+
+Az Európai Parlament és a Tanács 2018. november 14-i (EU) 2018/1808 irányelve módosította a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010. március 10-i 2010/13/EU irányelvet (a továbbiakban: AVMS irányelv). A módosított irányelvi fogalom-meghatározásokhoz szükséges igazítani a vonatkozó hazai szabályozásbeli fogalmak sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv.) szerinti tartalmát.
+
+A 3. §-hoz
+
+Az AVMS irányelvi módosítás átültetése érdekében a hatályos szabályozás pontosítása szükséges a tekintetben, hogy mikor minősül letelepedettnek Magyarországon a médiatartalom-szolgáltató.
+
+A 4. §-hoz
+
+Figyelembe véve az elektronikus hírközlő eszközök fejlődését, a törvénymódosítás az AVMS irányelv célkitűzéseihez igazodóan előírja a terrorcselekmény elkövetésére való felhívás médiajogi tilalmát, valamint a hatályos szabályozást kiegészíti az adott rendelkezésben megjelölt közösségek bármely tagja elleni gyűlöletkeltés és erőszakra uszítás tilalmával, amennyiben kifejezetten az adott közösséghez való tartozása miatt történik a gyűlöletkeltés vagy erőszakra uszítás.
+
+Az 5. §-hoz
+
+Az AVMS irányelvvel összhangban a módosítás előírja, hogy a kiskorúak védelme érdekében alkalmazott, a médiaszolgáltatásokhoz való hozzáférést korlátozó intézkedéseknek arányban kell állniuk a tartalom ártalmasságával.
+
+A 6. §-hoz
+
+Az AVMS irányelvi módosítás átültetése miatt szükséges a jogharmonizációs megfelelésre történő utalás rögzítése.
+
+A 7. §-hoz
+
+Szövegcserés rendelkezések szükségesek az AVMS irányelv jogharmonizációja miatt, illetve a hatályon kívül helyezett rendelkezésekre történő hivatkozás megszüntetése érdekében.
+
+A 8. §-hoz
+
+Hatályon kívül helyező rendelkezés, amely kapcsolódik az Smtv. 19. § (2) bekezdésének módosításhoz.
+
+A 9. §-hoz
+
+Az AVMS irányelv rendelkezéseinek történő megfelelés érdekében az Mttv. rendelkezését pontosítja a tekintetben, hogy mikor minősül letelepedettnek Magyarországon a médiatartalom-szolgáltató.
+
+A digitális átállásra tekintettel további ideiglenes jogosultságra vonatkozó hatósági szerződés nem köthető, így e lehetőség megszüntetésre kerül.
+
+A joghatósági viták hatékony rendezése érdekében a törvény előírja, hogy a tagállamok közötti véleménykülönbségről az Európai Bizottságot értesíteni kell.
+
+A 10. §-hoz
+
+A mozgóképről szóló 2004. évi II. törvény és az Mttv. valójában ugyanazon szempontok mentén írja elő a filmek korhatári besorolását, tehát ésszerű összekötni a két szabályozást, amely módosítás a kiszámíthatóságot és a jogbiztonságot szolgálja.
+
+A 11. §-hoz
+
+A kiskorúak fejlődésére veszélyes műsorok tekintetében a törvényjavaslat célja az AVMS irányelv átültetése oly módon, hogy az eddigieknél hatékonyabb és szigorúbb eszközök védjék a kiskorúakat a káros tartalmaktól.
+
+Az érintett műsorok esetében az Mttv. 10. § (6) bekezdésében foglaltak szerint a hatályos szabályozás alapján lehetséges volt a kódolt sugárzás, de a megfelelő titkosítás hatósági kikényszerítésének eszközei hiányoztak.
+
+A törvényjavaslat 11. és 71. §-a megteremti a kiskorúak védelmét szolgáló hatékony hatósági fellépés eddigieknél szigorúbb eszközeit.
+
+A 12. §-hoz
+
+A kiskorúak védelme érdekében - az AVMS irányelvi szabályozással összhangban - külön is tiltott a kiskorúak személyes adatainak kereskedelmi célú kezelése.
+
+A 13. §-hoz
+
+A lekérhető audiovizuális médiaszolgáltatások tekintetében az európai művekre vonatkozó műsorkvóta 30%-ra emelkedik, továbbá biztosítani kell e műveknek a hangsúlyos megjelenítését a műsorkínálatban, amely kötelezettségek teljesítéséről a Médiatanács jelentést készít a Bizottság részére.
+
+A 14. §-hoz
+
+Az európai alkotásokkal összefüggő műsorkvóta alóli kedvezmények és mentességek szabályai kiegészülnek az alacsony árbevétellel rendelkező, illetve kisszámú közönséget elérő médiaszolgáltatókra vonatkozó mentességgel. A fogalmak meghatározására a Bizottság iránymutatása alapján kerül sor.
+
+A 15. §-hoz
+
+Egyértelműen meghatározásra kerül azon vállalkozások köre, amelyek nem támogathatnak médiaszolgáltatást vagy műsorszámot.
+
+A 16. §-hoz
+
+A hatályos szabályozásban szereplő általános tilalomtól eltérően az AVMS irányelv rendelkezései alapján a termékmegjelenítés - bizonyos kivételekkel, főszabály szerint - megengedetté válik. Továbbra sem engedélyezett azonban a termékmegjelenítés bizonyos műsorszámokban, továbbá meghatározott termékek és szolgáltatások vonatkozásában.
+
+A javasolt módosítás az irányelvi szabályozás változására tekintettel pontosítja a hatályos Mttv. műsorszámok termékmegjelenítésére vonatkozó rendelkezését.
+
+A 17. §-hoz
+
+A módosítás az AVMS irányelv céljához igazodóan egységessé teszi a lineáris és a lekérhető audiovizuális médiaszolgáltatásokra vonatkozóan a termékmegjelenítés szabályait, valamint pontosítja a figyelemfelhívásra vonatkozó rendelkezést.
+
+A 18. §-hoz
+
+A kiskorúak védelme érdekében, az AVMS irányelv rendelkezéseinek megfelelően a kiskorúakra vonatkozó reklámszabályok pontosítására, kiegészítésére kerül sor.
+
+A 19. §-hoz
+
+Az AVMS irányelv rendelkezéseinek megfelelően, annak érdekében, hogy a műsorszolgáltatók nagyobb rugalmassággal rendelkezzenek a reklámok időbeli elosztása tekintetében, a módosítás az óránkénti reklámkeret helyett tágabb időkeretet biztosít a reklámok megjelenítésére vonatkozóan.
+
+Az irányelvvel összhangban a semleges képkockákra nem vonatkozik a reklámokra megállapított, az egyes időszakok tekintetében kidolgozott, 20-20%-ban maximalizált reklámkeret. Ez a rendelkezés azt a célt szolgálja, hogy a semleges képkockák bejátszására fordított idő ne befolyásolja a reklámcélra szánt időkeretet.
+
+A 20. §-hoz
+
+A médiaszolgáltatók szerkesztői felelőssége és az audiovizuális értéklánc védelme érdekében az AVMS irányelvvel összhangban rögzíti a törvény az audiovizuális médiaszolgáltatások különféle technikákkal történő módosításának tilalmát, meghatározva a tilalom alóli kivételeket.
+
+A 21. §-hoz
+
+A joghatóság hatósági nyilvántartásokban történő feltüntetésére való kötelezettséggel összhangban előírásra kerül, hogy a médiaszolgáltatónak hozzáférhetővé kell tennie a honlapjának elérhetőségét, valamint a felette joghatósággal rendelkező tagállam megjelölését.
+
+A 22. §-hoz
+
+Egyértelműsíti a módosítás, hogy hírműsorszámot, illetve általános tájékoztató műsorszámot milyen időközönként szükséges kötelezően szolgáltatnia a jelentős befolyásoló erővel rendelkező rádió,- illetve audiovizuális médiaszolgáltatónak, ugyanakkor meghagyja a tervezet - egy meghatározott idősávban - azt a szabadságot, hogy az adott hírműsorszám milyen hosszúságú lehet.
+
+A 23. §-hoz
+
+Az AVMS irányelv rendelkezéseivel összhangban előírásra kerül a műsorszámoknak a fogyatékossággal élő személyek részére történő hozzáférhetővé tételére vonatkozó kötelezettség.
+
+Új szabályozási elem a látássérülteket segítő hangalámondás, illetve hangos feliratozás, amelyekre vonatkozóan a médiaszolgáltatók új kötelezettségei a megfelelő felkészülési idő biztosítása érdekében az AVMS irányelv átültetési határidejéhez igazodóan 2020. szeptember 19-én lépnek hatályba.
+
+A 24. §-hoz
+
+Az NMHH jelenlegi hatósági nyilvántartásai alapján nem lehet megállapítani a hálózatba kapcsolódásokat, csak az önálló médiaszolgáltatást és a vételkörzet-bővítést. A módosítással egy közhiteles, mindenki számára egyértelmű nyilvántartást vezethet a Hatóság a hálózatba kapcsolódásokra vonatkozó adatokról.
+
+Ugyanazon lineáris médiaszolgáltatás hatósági szerződés és bejelentés alapján történő párhuzamos nyilvántartásának elkerülése érdekében az (5a) bekezdéshez hasonló, de további szempontokat is figyelembe vevő módosító rendelkezések kerülnek az Mttv.-be. Ilyen további szempont például, hogy a hatósági szerződés megszűnése esetén a médiaszolgáltatás hogyan (milyen feljogosítás, dokumentum alapján) működhet tovább más műsorterjesztési platformon (kábelen, online stb.).
+
+A 25-26. §-hoz
+
+Az AVMS irányelvvel összhangban a törvény előírja az NMHH számára, hogy ha nyilvántartásba vétel, vagy adatváltozás bejelentése esetén észleli, hogy a lineáris médiaszolgáltató szolgáltatásával teljes egészében vagy túlnyomórészt egy másik tagállam közönségét célozza, erről tájékoztassa az érintett tagállamot.
+
+A 27. §-hoz
+
+A médiaszolgáltatási jogosultság időtartamának meghosszabbítása kiszámíthatóbbá és tervezhetőbbé teszi a szolgáltatók tevékenységét. A módosítás emellett a bírói gyakorlattal összhangban, érdemi változtatás nélkül egyértelműsíti a médiaszolgáltatási jogosultság megújításának hatályos szabályozását. A pályázat keretében kiválasztott szolgáltató médiaszolgáltatási jogosultságának megújítása a fennálló szolgáltatási jogosultság időtartamának lejártához kapcsolódó olyan időtartam-meghosszabbítás, amelyre a Médiatanács az állami tulajdonú korlátos erőforrások feletti tulajdonosi joggyakorlása körében - tehát nem hatósági döntésként vagy közigazgatási tevékenységként - mérlegelés alapján kerül sor. A megújítás természetesen csak akkor lehetséges, ha a (7) bekezdés szerinti valamely kizáró ok nem áll fenn. Ha a Médiatanács nem újítja meg a médiaszolgáltatást, akkor az állami tulajdonú korlátos erőforrás pályázati rendszerben történő hasznosításáról dönt, kivéve, ha jogszabályi rendelkezéseknek megfelelően azt más célra kívánja hasznosítani.
+
+Emellett jogalkalmazási tapasztalatok alapján indokolt az Mttv. 48. § (7) bekezdésének módosítása is annak érdekében, hogy a törvény kiegészüljön az Smtv.-ben foglalt rendelkezések megszegésével - mint a médiaszolgáltatás megújítását kizáró körülménnyel -, ugyanis a médiaszolgáltatási tevékenység végzésével kapcsolatos előírások egy része az Smtv.-ben található.
+
+A 28. §-hoz
+
+Az Ákr. szabályozási rendszerével összefüggésben szükséges reális ügyintézési határidő megállapítása.
+
+A 29. §-hoz
+
+A pályázati eljárás részvételi feltételeinek egyértelműsítése érdekében, valamint az Ákr. rendelkezései miatt a jogszabályi rendelkezés megfogalmazásának pontosítása szükséges.
+
+A 30. §-hoz
+
+Pontosítani szükséges a banki igazolásra vonatkozó rendelkezéseket annak érdekében, hogy egyértelmű legyen a pályázók számára a pályázati ajánlatban benyújtandó banki igazolás tartalma.
+
+A 31. §-hoz
+
+Az Ákr. és a közigazgatási perrendtartásról szóló 2017. évi I. törvény (a továbbiakban Kp.) rendelkezései miatt szükséges módosítás.
+
+A 32. §-hoz
+
+A módosítási javaslat pontosítja a pályázati eljárás iratainak megismerésére vonatkozó eljárásrendet. Az ügyféli garanciális jogok érdekében rögzíti, hogy a pályázati eljárás iratainak megismerésére vonatkozó igényt közigazgatási eljárásban kell elbírálni.
+
+A 33. §-hoz
+
+Kodifikációs szempontból indokolt kettéválasztani a cégadatokban történő változás, valamint a hatósági szerződésben szereplő egyéb adatban történő változás bejelentésének kötelezettségét. Ezen túlmenően a § az Ákr. és a Kp. rendelkezéseivel összefüggő módosításokat tartalmaz.
+
+A 34. §-hoz
+
+Az Ákr. és a Kp. rendelkezései miatt szükséges módosítás, továbbá pontosító szövegmódosítás, amely az Mttv. következetes fogalomhasználatát követi.
+
+A 35. §-hoz
+
+A közszolgálati médiaszolgáltató mellett a közösségi és a tematikus médiaszolgáltatók esetén is indokolt kivételt tenni a közönségaránytól függő korlátozások tekintetében.
+
+A 36. §-hoz
+
+Az Ákr. rendelkezései miatt szükséges módosítás.
+
+A 37. §-hoz
+
+A 71. § (4) és (5) bekezdés kiegészítése a tulajdonosi szerkezet vizsgálatát kiterjeszti a médiaszolgáltatóban befolyásoló részesedéssel rendelkező közvetlen és közvetett tulajdonosokra is, így megelőzhetők a médiaszolgáltatók feletti szinteken kialakuló nem kívánatos tulajdonosi összefonódások.
+
+A közösségi médiaszolgáltatók jellemzően nem nyereségérdekelt szolgáltatók, illetve nem gyakorolnak alapvető hatást a médiapiac egészét tekintve, ezért e médiaszolgáltatások esetében nem merül fel a médiapiaci koncentráció vizsgálatának szükségessége.
+
+Fontos egyértelművé tenni, hogy a tematikus médiaszolgáltatások milyen körben jelentenek kivételt a médiapiaci koncentráció alól, mivel az eddigi szabályozás e körben nem volt teljesen egyértelmű.
+
+A 38. §-hoz
+
+A törvényben meghatározott audiovizuális médiaszolgáltatásokat alapbeállításként a Médiatanács által a Közszolgálati jegyzékben meghatározottak szerint lesz kötelező a csatornasorrend első helyeire tenni.
+
+A 39. §-hoz
+
+A Kp. rendelkezéseivel összefüggésben az adott ügy sajátosságai miatt szükséges módosítás.
+
+A 40-43. §-hoz
+
+Időszerűvé vált a Médiatanács elnöke és tagjai, valamint az NMHH vezetői illetményének rendezése.
+
+A 44. §-hoz
+
+A §-ban foglalt módosítások az államháztartási és állami vagyon kezelésére vonatkozó jogszabályok és az Mttv. összhangjának és egyértelmű alkalmazásának megteremtését szolgálják.
+
+Az (5a) bekezdésre vonatkozó módosítási javaslat azt a célt szolgálja, hogy a működési tartalékból is lehessen forrást átadni az Médiaszolgáltatás-támogató és Vagyonkezelő Alapnak (a továbbiakban: MTVA).
+
+A (2) bekezdés korábbi szövege pontatlanul tartalmazta az előző évi maradványok és a kötelezettségvállalással lekötött maradvány felhasználásáról szóló döntési folyamatokat, ezért a rendelkezés a (10) bekezdés módosításával összhangban pontosításra kerül.
+
+Az NMHH kiadási előirányzatai közötti átcsoportosítási jogosultság kiegészítése a jelenlegi jogértelmezést és gyakorlatot tenné egyértelműbbé.
+
+A költségvetési szervek által beszedett bírságok az állam bevételét képezik. Az államháztartásról szóló törvény ez alól az NMHH-nak felmentést ad, így a bírságok a Hatóság saját bevételét képezik, ezt hivatott szabályozni a (4) bekezdés kiegészítése.
+
+A jogszabályt a jelenlegi szabályok szerinti jogalkalmazásnak és jogértelmezésnek megfelelően egyértelműsíti a javasolt módosítás, és egységesíti a bevételek kezelését, egyúttal eleget tesz az uniós szabályozás szerinti finanszírozással összefüggő előírásoknak.
+
+Az eddigi gyakorlat szerint az NMHH bevételeiből az (1) bekezdés előírásainak megfelelően a maximális 25%-nak megfelelő mértékű tartalékot képez. A tartalék felhasználása csak az NMHH működésére, feladatai ellátására történhet, más célra nem vonható el. Az így képzett tartalék, illetve a kötelezettségvállalással lekötött maradvány rugalmasabb felhasználásának érdekében az NMHH elnöke a tartalékot vagy a maradványt felszabadíthatja a közérdekre való hivatkozással és más célra is felhasználhatja.
+
+A felügyeleti díj mértéke a hírközlési szolgáltatásból származó előző üzleti évi nettó árbevételen alapul, ugyanakkor az első negyedév végére a szolgáltatók jellemzően még nem rendelkeznek auditált árbevételi adatokkal. Ezért a felügyeleti díjfizetés egyszerűsítése érdekében indokolt a díjfizetés ütemezésének módosítása.
+
+A felügyeleti díjbevétel feladatok ellátásához kapcsolódó kiadások összegét meghaladó részét a korábbi évekhez hasonlóan az NMHH a szolgáltatók részére visszajuttatja. Jelen módosítással a felügyeleti díj jóváírása helyett a felügyeleti díj visszautalása kerül szabályozásra, tekintettel arra, hogy a felügyeleti díj visszajuttatása csak így bonyolítható le a maradvány részeként a tárgyévet követő év június 30-ig.
+
+A módosítási javaslat tartalma, szükségessége nem jogi kérdés, hanem koncepcionális, gazdálkodási, szervezeti, stratégiai jellegű. Egyrészt a jelenlegi jogértelmezésnek megfelelő szabályokat egyértelműsíti, másrészt a mozgóképes területet is lefedi.
+
+Az NMHH önálló szabályozó szervi jogállására tekintettel a vagyontörvény egyes előírásai nem teljes körűen összeegyeztethetők az Mttv.-ben foglalt intézményi, gazdálkodási garanciákkal, ezért a (14) és (15) bekezdésben szabályozásra kerül egyrészt az NMHH költségvetése terhére beszerzett állami vagyon vagyonkezelői joga, másrészt a támogatási célból beszerzett eszközök vissza nem térítendő támogatásként történő átadásának lehetősége.
+
+A közfeladat ellátásához szükséges állami vagyonelemek használatára az NMHH a nemzeti vagyonról szóló törvény alapján jelenleg is ingyenesen jogosult, ennek az Mttv.-ben történő rögzítése az autonóm feladatellátás hosszú távú garanciája.
+
+A módosítás biztosítja továbbá a 134. § (9) bekezdés szerinti támogatási cél hatékonyabb, megvalósítását, amely a támogatandók igényeinek szélesebb körű figyelembe vételét is lehetővé teszi. (Pl. oktatási intézmények számára informatikai eszközök átadása.)
+
+A 45. §-hoz
+
+Az MTVA több országban is rendelkezik tudósítói hálózattal, amelyet a munkavállalóinak tartós külföldi kiküldetésével biztosít. Miután az MTVA munkavállalói nem köztisztviselők, komoly problémát jelent az adó- és társadalombiztosítási kötelezettségek teljesítése, mivel a tudósítók a jelenlegi törvényi szabályozás alapján nem tudják Magyarországon teljesíteni adó- és tb-fizetési kötelezettségüket. Az MTVA-nak minden országban meg kellene jelenni munkáltatóként, és az adott ország szabályozása alapján fizetni mind a munkavállalói, mind a munkáltatói terheket.
+
+Jelentős adminisztratív egyszerűsítést jelent, ha a külföldi tudósítók munkája közszolgálat keretében végzett munkának minősül.
+
+A 46. §-hoz
+
+Az Általános Pályázati Feltételekkel kapcsolatos jogszabályi garanciákkal egészül ki a bekezdés, továbbá a módosítás egyértelműsíti az egyes pályázatok kiírásával kapcsolatos feladatokat, felelősségi köröket. Jogtechnikai pontosítás is szükséges, a hivatkozás egyértelművé tétele.
+
+A 47. §-hoz
+
+Az Ákr. és a Kp. rendelkezéseivel összefüggésben az adott eljárás sajátosságai miatt szükséges módosítás.
+
+A 48-52. §-hoz
+
+Az Ákr. rendelkezéseivel összefüggésben az adott eljárás sajátosságai miatt szükséges módosítás.
+
+Az 53-54. §-hoz
+
+Az Ákr. és a Kp. rendelkezéseivel összefüggésben az adott eljárás sajátosságai miatt szükséges módosítás.
+
+Az 55. §-hoz
+
+Az Ákr. rendelkezéseivel összefüggésben az adott eljárás sajátosságai miatt szükséges módosítás.
+
+Az 56. §-hoz
+
+A Kp. rendelkezései miatt szükséges módosítás.
+
+Az 57-58. §-hoz
+
+Az Ákr. és a Kp. rendelkezéseivel összefüggésben az adott eljárás sajátosságai miatt szükséges módosítás.
+
+Az 59. §-hoz
+
+A módosítási javaslat az önkéntes jogkövetés elősegítése érdekében egyértelműsíti, hogy az általános hatósági felügyeleti eljárást megelőzheti hatósági ellenőrzés is. A módosítás rögzíti, hogy a hatósági ellenőrzés eredményeként a hatóság felhívhatja az ügyfelelet az önkéntes jogkövetésre, a jogsértés megszüntetésére.
+
+A hatósági ellenőrzés eredményeként kiadott felhívás ellen önálló jogorvoslatnak nincs helye, az a felhívás nem teljesítése esetében indított hatósági eljárás eredményeként hozott döntés elleni jogorvoslatban támadható.
+
+A 60. §-hoz
+
+A módosítási javaslat az önkéntes jogkövetés elősegítése érdekében egyértelműsíti, hogy a piacfelügyeleti eljárást megelőzheti piacfelügyeleti ellenőrzés is. A módosítási javaslat rögzíti, hogy a piacfelügyeleti ellenőrzés az Ákr. szerinti hatósági ellenőrzésnek minősül. A módosítás rögzíti, hogy a piacfelügyeleti ellenőrzés eredményeként a hatóság felhívhatja az ügyfelelet az önkéntes jogkövetésre, a jogsértés megszüntetésére.
+
+A hatósági ellenőrzés eredményeként kiadott felhívás ellen önálló jogorvoslatnak nincs helye, az a felhívás nem teljesítése esetében indított hatósági eljárás eredményeként hozott döntés elleni jogorvoslatban támadható.
+
+A 61. §-hoz
+
+A gyakorlat azt mutatja, hogy piacfelügyeleti feladatokat, témákat, tekintettel az ilyen típusú vizsgálatok összetettségére, éves szinten előre meghatározni nehézkes és az egy évre előre szóló terv a piaci folyamatokat nem teljes mértékben képes követni. A piacfelügyeleti terv készítési kötelezettség helyett a felügyeleti terv készítési kötelezettség szabályozása indokolt.
+
+A 62. §-hoz
+
+Az Ákr. rendelkezései miatt szükséges módosítás.
+
+A 63. §-hoz
+
+Az Mttv.-ben szereplő jogszabályi hivatkozások pontosítása szükséges, ugyanis időközben a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény rendszere, számozása módosult, így a koherencia megteremtése érdekében szükséges a módosítás. Mindezek mellett az Ákr. szakhatósági eljárásra, valamint az ügyintézési határidőre vonatkozó szabályai miatt szükséges egyértelműsíteni, hogy az előzetes szakhatósági állásfoglalás kiadására vonatkozó eljárás ügyintézési határidejére az általános szakhatósági eljárásra meghatározott határidő alkalmazandó. A szakhatóságok egyeztetésére vonatkozó szabályok ágazati, speciális szabályozása nem indokolt, ilyen esetben a hatóságok az Ákr. általános szabályai szerint járnak el.
+
+A 64-65. §-hoz
+
+Az Ákr. és a Kp. rendelkezései miatt szükséges módosítás.
+
+A 66. §-hoz
+
+A törvény az AVMS irányelv céljához igazodóan egységessé teszi a más tagállamból származó lineáris és lekérhető audiovizuális médiaszolgáltatások, továbbá a harmadik országbeli audiovizuális médiaszolgáltatások esetén a magyar tagállami fellépés feltételeit és eljárásrendjét. Ennek keretében a szolgáltatásnyújtás szabadsága közérdekű indokokon alapuló intézkedések útján korlátozható, feltéve, hogy a korlátozás indokolt, arányos és szükséges.
+
+A 67. §-hoz
+
+A tagállami szabályozó hatóságok közötti együttműködés kereteit határozzák meg az új szakaszok a vonatkozó irányelvi előírásoknak megfelelően.
+
+A 68. §-hoz
+
+A törvény olyan, más tagállamban letelepedett médiaszolgáltatóra vonatkozóan, amely az audiovizuális médiaszolgáltatását teljes egészében vagy túlnyomórészt Magyarország területére irányítja, részletesen szabályozza a magyar és más tagállam általi fellépés, illetve egyeztetés feltételeit és eljárásrendjét. A törvény átülteti azon AVMS irányelvi rendelkezéseket is, melyek szerint hiteles és kellően alátámasztott bizonyítékokat kell a tagállamoknak előterjeszteni az Európai Bizottság részére annak megállapítása érdekében, hogy a tagállamok által alkalmazandó intézkedések a védendő érdekhez képest arányosak és szükségesek-e, továbbá összeegyeztethetők-e az uniós joggal.
+
+A 69. §-hoz
+
+A módosítás egyértelműsíti a Médiatanács nem hatósági döntéseit a támogatási források elosztásának körében.
+
+A 70. §-hoz
+
+A NMHH Hivatalának hatáskörére vonatkozó szabályozás kiegészítése szükséges a videómegosztóplatformszolgáltatókkal kapcsolatos eljárásokkal összefüggő hatáskört telepítő rendelkezéssel.
+
+A 184. § (1) bekezdés b) pontjának hatályon kívül helyezését az időmúlás indokolja, tekintettel arra, hogy nincs olyan médiaszolgáltató, amelyik a rádiózásról és televíziózásról szóló 1996. évi I. törvény 112. § (1) bekezdés b) pontja szerinti szankcióban részesült volna.
+
+A 71. §-hoz
+
+A kiskorúak védelme érdekében a módosítás a 11. §-ban foglalt hatósági eszközrendszer további szigorítását szolgálja azzal, hogy a kiskorúakat védő szabályok megsértése esetén nincs helye szankció nélküli figyelmeztetésnek, a jogkövetkezményeket az első jogsértés alkalmával alkalmazni kell.
+
+A 72. §-hoz
+
+A Kp. rendelkezései miatt szükséges módosítás.
+
+A 73. §-hoz
+
+Az AVMS irányelv céljaival összhangban a szabályozás ösztönzi az alkoholtartalmú italok ön- és társszabályozás keretében történő felügyeletét.
+
+A 74. §-hoz
+
+A törvény az AVMS irányelvvel való összhang érdekében kiegészíti az önszabályozó szervezet magatartási kódexének kötelező tartalmi elemeit.
+
+A 75. §-hoz
+
+A módosított irányelvi fogalom-meghatározáshoz szükséges igazítani a vonatkozó hazai szabályozásbeli fogalmak tartalmát.
+
+A 76. §-hoz
+
+Átmeneti rendelkezés a rádiós analóg lineáris médiaszolgáltatási jogosultság időtartamával kapcsolatban.
+
+A 77. §-hoz
+
+Átmeneti rendelkezés a Közszolgálati Testület új tagjával kapcsolatban.
+
+A 78. §-hoz
+
+Átmeneti rendelkezés; az Mttv.-ben meghatározott jelentéstételi kötelezettségek első határidejének meghatározása irányelvi kötelezettséggel összhangban.
+
+A 79. §-hoz
+
+Jogharmonizációs záradék.
+
+A 80. §-hoz
+
+Az Mttv. 1. számú melléklete kiegészül a Közszolgálati Testület új tagjelölő szervezetével, a Magyar Művészeti Akadémiával.
+
+A 81. §-hoz
+
+Szövegcserés módosítások, amelyek jellemzően a jogszabályi és irányelvi háttér változásait, valamint a gazdasági szereplők, jogalkalmazók igényeinek megfelelő korrekciós javaslatokat tartalmazzák.
+
+A 82. §-hoz
+
+Az Mttv. sarkalatossági záradékának kiegészítése szükséges a 218/C. § beiktatására tekintettel.
+
+A 83. §-hoz
+
+A § a hatályon kívül helyező rendelkezéseket tartalmazza a joggyakorlat megkönnyítése és a jogszabályi változások követése érdekében. A legjelentősebb változást az Mttv. 78-81. §-a - a felajánlási kötelezettségre vonatkozó alcím - hatályon kívül helyezése eredményezi. A felajánlási kötelezettséget az európai uniós joganyag nem szabályozza.
+
+Az Mttv. felajánlási kötelezettségre vonatkozó szabályozása nem váltotta be a kívánt joghatást, mert a Médiatanács a legfontosabb kérdésben, a két fél közötti díjvitában nem tud érdemben dönteni, mert nem társul ehhez konkrét árszabályozási hatáskör. Mindemellett, miután a felek közötti jogviszony alapját a médiaszolgáltató által kötelezően elkészített ÁSZF képezi, e magánjogi intézményben sem tud közjogi alapon a hatósági ügyekre létrehozott
+
+Médiatanács érdemi, az ügyet megfelelően eldöntő határozatot hozni. A gyakorlatban az elmúlt közel 10 évben alig volt ilyen ügy és ezek többségében is felismerve e szabályozási anomáliát, az ügyfelek a Médiatanács mellett a polgári bírósághoz is fordultak. Összességében megállapítható, hogy a felajánlási kötelezettség körében nincs szükség speciális médiajogi eljárásra és jogvédelemre, mert ez az ügytípus alapvetően versenyjogi és polgári jogi megoldást kíván, melyre a polgári jog kellő garanciákat biztosít. Vagyis ezen ügytípust nem indokolt hatósági ügytípussá emelni, nincs benne olyan közjogi, közigazgatási garanciális tartalom, mely indokolná e jogviszony, vagy e jogviszonyban lévők garanciális, hatósági eljárási jellegű jogvédelmét.
+
+-----STARTING---POINT---VEGE---
+
+A 84-86. §-hoz
+
+A Záró rendelkezések tartalmazzák a hatályba lépésre, sarkalatosságra, valamint az Európai Unió jogának való megfelelésre vonatkozó rendelkezéseket.
