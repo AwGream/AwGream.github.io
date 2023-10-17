@@ -2,6 +2,8 @@
 
 az Európai Uniónak a Tanács keretében ülésező tagállamai között az Európai Unió érdekében kicserélt minősített adatok védelméről szóló Megállapodás kihirdetéséről
 
+-----STARTING---POINT---ALTALANOS---
+
 Általános indokolás
 
 Az EU minősített adatok védelmével kapcsolatos uniós szabályozók felülvizsgálatát az Állandó Képviselők Tanácsa (COREPER) 2007. december 5-ei ülésén szabta az Európai Unió Tanácsa Biztonsági Bizottságának (CSC) feladatául. Egyúttal felkérte a Biztonsági Bizottságot, tegyen javaslatot egy egységes elvek alapján működő rendszer jogi kereteinek kidolgozására. A meglévő rendszer komoly hiányossága volt annak az esetkörnek a szabályozatlansága, amikor a tagállamok közötti minősített információk cseréje az „EU érdekében” történik, s a két érintett ország nem kötött egymással kétoldalú titokvédelmi megállapodást. A probléma rendezésének leginkább pragmatikus módja egy kormányközi megállapodás életre hívása, amely ily módon kiegészíti az Európai Unió Tanácsa biztonsági szabályzatában foglalt rendelkezéseket. A megállapodás hatálya azon minősített adatokra terjed ki,
@@ -31,6 +33,8 @@ A SECRET UE/EU SECRET és magasabb szintű minősített adatok bizalmasságát a
 Főszabályként a CONFIDENTIEL UE/EU CONFIDENTIAL vagy RESTREINT UE/EU RESTRICTED minősítésű adatok bizalmasságát a Tanács főtitkára (továbbiakban: a főtitkár) - mint kriptográfiai jóváhagyó hatóság - által a Biztonsági Bizottság ajánlása alapján jóváhagyott kriptográfiai termékekkel kell védeni. A főszabály rendelkezéseitől eltérően a tagállami nemzeti rendszerekben a CONFIDENTIEL UE/EU CONFIDENTIAL vagy RESTREINT UE/EU RESTRICTED minősítésű EU-minősített adatok bizalmassága a tagállam kriptográfiai jóváhagyó hatósága által jóváhagyott kriptográfiai termékekkel védhető.
 
 A megállapodásra a nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény rendelkezései az irányadóak azzal, hogy a nemzetközi szerződés szövegének végleges megállapítására (aláírására) a tanácsi döntéshozatali eljárásban került sor.
+
+-----STARTING---POINT---RESZLETES---
 
 Részletes indokolás
 
